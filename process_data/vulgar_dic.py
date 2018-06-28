@@ -5,15 +5,21 @@ Created on Thu Jun 28 15:20:48 2018
     
 @author: genevieve
 """
+def bad_words():
+    bad_words_file = open('./data/bad_words.txt', 'r')
+    bad_words = set(line.strip('\n') for line in bad_words_file)
+    return bad_words
+
+
 def vulgar_collection():    
     vulgar_words =['fuck!','WTF','wtf','fucking','cunt', 'fuckery','cunt','shit',"motherfuckin'",'bastard','fucker.'
                    'bastard!','cunt','fucked', 'shit','fucking?','fucking',"motherfucker's",'motherfucker','Fuck',
                    'fuck?!','idiot',"fuckin'","Fuckin'",'cunt!','fucker','hell',"wife-fuckin'",'fucked!','Motherfucker',
-                   'fuckhead','cunting','motherfucker','fuck.','fuck,','fuck','FUCKED','fuckers.','wft?','fuck?"'
+                   'fuckhead','cunting','motherfucker!','fuck.','fuck,','fuck','FUCKED','fuckers.','wft?','fuck?"'
                    'Christ','fuckerable.','fuckerable','nigger','ass','fuckface?''fuckface!','fuckface','Fuck!','blowjob,',
                    'FUCK','Jesus!','Jesus','fucks','son-of-a-bitch','bitch','bitch!','cunt.','cunt!',"cunt's",'cunt-hair',
                    'cunt,','CUNT.','CUNT?!!','cunt.','Cunt!','Cunt.','cunt-rag','cunt?','bitch...','bitches.','bitch?'
-                   'bitch!','sonofabitch.','bitch-box.','sonofabitch','sonofabitch!','Sonofabitch','Bitch!','Bitch.',
+                   'bitch.','sonofabitch.','bitch-box.','sonofabitch','sonofabitch!','Sonofabitch','Bitch!','Bitch.',
                    'bastards','assholes,','asshole.','Assholes!','dick','dickhead.','dick!','Dickhead!','dickweed',
                    'dicks','cocksucker...','cocksucker',"cocksucker's",'cocksuckers!','cocksucking','cocksucker.',
                    'Jackass!','jackass!','jackass','Jackass.','Jackasses.','pussy',"pussy's",'pussy!''Tit-Fucking',
@@ -23,7 +29,9 @@ def vulgar_collection():
                    'damnit','damn!','damn.','Damn,','jesus','dickless.','dickbrain','dickbrain,''dickbrain.','dickforbrains',
                    'dickforbrains,','dickforbrains.','dickforbrains!','dickhead,', 'dickhead!','dickhead.','dickweed?','dickweed.',
                    'dickweed!','Dickweed','dickwad','dickwad.','Dickwad.','dumb','Dumbass','dumb,','god','God','"god"!'
-                   'what...the...fuck..are'
+                   'what...the...fuck..are',"absomotherfuckin'lutely",'fucked.','motherfucker,','fuck-me-lievable...','the-fuck',
+                   'motherfucker?',"fuck's ",'fuckin,','fuck!!','jesus.','bitch,',"fuckin'...",'sonsofbitches,','sonsofbitches.'
+                   'sonsofbitch.','sonsofbitch,','jesus,'
                    ]
     
     arrBad = [
@@ -372,8 +380,11 @@ def vulgar_collection():
     'zoophilia']
     
     vulgar_words=arrBad+vulgar_words
+    bad_words_1 =bad_words()
+    vulgar_words.extend(bad_words_1)
     
     return vulgar_words
 
 if __name__ == '__main__':
     vulgar_words=vulgar_collection()
+    
