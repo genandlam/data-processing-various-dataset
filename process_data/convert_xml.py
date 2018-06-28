@@ -11,76 +11,60 @@ import os
 from vulgar_dic import vulgar_collection
 
 
-vulgar_words=vulgar_collection()
-
-tree = ET.parse("./MovieDiC_V2.xml")
-root = tree.getroot()
-
-# open a file for writing
-
-
-
-
-#movie_data = open('/tmp/MovieDiC_V2.txt', 'w')
-
-
-
 #printing child attrib movie
-#for child in root:
-#    print(child.tag, child.attrib)
 
-# "./movie[@id='1']"
+def print_child(root):
+    for child in root:
+        print(child.tag, child.attrib)
 
 
 
-if not os.path.exists('./data/tmp/'):
-        os.makedirs('./data/tmp/')
-count =1
-while(count<616):
-    file_name='movie'+str(count)+'.txt'
-    location=os.path.join('./data/tmp/',file_name)
-    
-    f = open(location, 'wr')
-    
-    for dialogue in root.findall('./movie[@id="'+str(count)+'"]/dialogue'):
-#    for dialogue in root.findall('./movie[@id="'+'615'+'"]/dialogue'):    
-        speaker=dialogue.findall('speaker')
+def create_movie_txt(root,vulgar_words):
+    count =1
+    while(count<616):
+        file_name='movie'+str(count)+'.txt'
+        location=os.path.join('./data/tmp/',file_name)
+        # open a file for writing
+        f = open(location, 'wr')
         
-        utterance=dialogue.findall('utterance')
-        speaker_list=[]
-        
-        for row_num in range(0,len(speaker)):
-           check='' 
-           utter=[]
-           
-           utter=[w for w in (utterance[row_num].text.lower().split()) if not w in vulgar_words]    
-           utter = ' '.join((utter)).encode('utf-8').strip()
-           if  row_num==0:
-               speaker_list.append(speaker[row_num].text)  
-               speaker1=speaker_list[0]
-             
-               f.write("speaker1: %s \n" % (utter))
-#               print("speaker1: %s %s " % (speaker_list[0],utter))
+        for dialogue in root.findall('./movie[@id="'+str(count)+'"]/dialogue'):
+    #    for dialogue in root.findall('./movie[@id="'+'615'+'"]/dialogue'):    
+            speaker=dialogue.findall('speaker')
+            
+            utterance=dialogue.findall('utterance')
+            speaker_list=[]
+            
+            for row_num in range(0,len(speaker)):
+               check='' 
+               utter=[]
                
-           if row_num!=0:    
-               for row in range(0,len(speaker_list)):
-                   speaker1=speaker[row_num].text 
+               utter=[word for word in (utterance[row_num].text.lower().split()) if not word in vulgar_words]    
+               utter = ' '.join((utter)).encode('utf-8').strip()
+               if  row_num==0:
+                   speaker_list.append(speaker[row_num].text)  
+                  
+                 
+                   f.write("speaker1: %s \n" % (utter))
+    #               print("speaker1: %s %s " % (speaker_list[0],utter))
                    
-                   if speaker[row_num].text ==speaker_list[row]:
-                       check='yes'
-                       f.write("speaker%d: %s\n"%(row+1,utter))
-#                       print("speaker%d: %s %s"%(row+1,speaker_list[row],utter))
+               if row_num!=0:    
+                   for row in range(0,len(speaker_list)):
+                                              
+                       if speaker[row_num].text ==speaker_list[row]:
+                           check='yes'
+                           f.write("speaker%d: %s\n"%(row+1,utter))
+    #                       print("speaker%d: %s %s"%(row+1,speaker_list[row],utter))
+                           
+                   if  row==(len(speaker_list)-1) and speaker_list[row]!=speaker[row_num].text and check=='':
                        
-               if  row==(len(speaker_list)-1) and speaker_list[row]!=speaker[row_num].text and check=='':
-                   
-                   speaker_list.append(speaker[row_num].text)
-                   f.write("speaker%d: %s\n"%(row+2,utter))  
- #                  print("speaker%d: %s %s"%(row+2,speaker[row_num].text,utter)) 
-        
-        f.write('\n')
-  #      print('\n')
-    f.close()    
-    count+=1
+                       speaker_list.append(speaker[row_num].text)
+                       f.write("speaker%d: %s\n"%(row+2,utter))  
+     #                  print("speaker%d: %s %s"%(row+2,speaker[row_num].text,utter)) 
+            
+            f.write('\n')
+      #      print('\n')
+        f.close()    
+        count+=1
      
     
 #    for speaker in speaker1:
@@ -93,9 +77,22 @@ while(count<616):
 #    utterance=dialogue.find('utterance').text
 #    speaker.append(utterance)
 
-#            
-#           
-#            
+if __name__ == '__main__':
+    
+    vulgar_words=vulgar_collection()
+    
+    tree = ET.parse("./MovieDiC_V2.xml")
+    root = tree.getroot()
+    #print child attrib movie
+    print_child(root)
+    
+    if not os.path.exists('./data/tmp/'):
+        os.makedirs('./data/tmp/')
+        
+    create_movie_txt(root,vulgar_words)    
+    
+
+           
             
     
 
