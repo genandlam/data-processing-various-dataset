@@ -22,8 +22,8 @@ def vulgar_collection():
                    'boobs','boobs','cockblocking','damned','DAMN','goddamit!','Goddamnit!','Damn','damn','Goddamn','goddamn',
                    'damnit','damn!','damn.','Damn,','jesus','dickless.','dickbrain','dickbrain,''dickbrain.','dickforbrains',
                    'dickforbrains,','dickforbrains.','dickforbrains!','dickhead,', 'dickhead!','dickhead.','dickweed?','dickweed.',
-                   'dickweed!','Dickweed','dickwad','dickwad.','Dickwad.','dumb','Dumbass','dumb,','god','God'
-                   
+                   'dickweed!','Dickweed','dickwad','dickwad.','Dickwad.','dumb','Dumbass','dumb,','god','God','"god"!'
+                   'what...the...fuck..are'
                    ]
     
     arrBad = [
