@@ -1,0 +1,995 @@
+speaker1: ...yes i'm still on hold... 
+speaker2: and what was this?
+speaker1: i'm looking at your advertisement for the airline promotion and giveaway?
+speaker2: this is "fly with us?"
+speaker1: it's hard to understand because it says in addition to but i can't exactly understand in addition to what because there's actually nothing to add it too...
+speaker2: i think that's a type-o then, that would be a mistake.
+speaker1: so, just to clarify, i'm sorry: ten purchases of any of your healthy choice products equals five hundred miles and then with the coupon the same purchases would value one thousand miles --
+speaker2: that's it.
+speaker1: do you realize that the monetary value of this promotion and the prize is potentially worth more than the purchases?
+speaker2: i don't know...i mean: i don't know.
+
+speaker1: can i call you back if i have any further questions...? can i get your extension? 
+speaker2: it's extension 215 if you want to try me back.
+speaker1: ok. thank you.
+
+speaker1: ....i'm not exactly sure what that means... 
+speaker2: if they break or something. what is it, plastic?
+speaker1: it's a plastic, yeah.
+speaker2: right. alright, lemme call you first thing tomorrow, i'm gonna run the numbers, see what's what and i'll give you a call back --
+speaker1: did you have my home phone number?
+speaker2: for what?
+speaker1: if you wanted to call me back i could...
+speaker2: i'm fine, i have your work number.
+speaker1: ok...because of the time difference if you needed to call me early?
+speaker2: it's fine. i can just get you at your office.
+speaker1: ok.
+speaker2: ok, bye, bye.
+speaker1: bye.
+speaker3: hi. do you work at the mechanic?
+speaker1: no.
+speaker3: they're not open yet?
+speaker1: they don't get opened until eight.
+speaker3: is it ok if i leave my car you think?
+speaker1: i don't know.
+speaker3: i thought they opened at seven. if i left my car would it be ok?
+speaker1: i don't know.
+speaker3: do you know them.
+speaker1: not very well.
+speaker3: can i ask you, can i trust to leave my keys with you and give them to you so that when they get here you could give them to them?
+speaker1: ok.
+speaker3: you think it's ok where i left it, right there?
+speaker1: i think that'll be fine.
+speaker3: there's a piano in the street.
+speaker1: yeah.
+
+speaker1: ok. maybe i'll see you later. thank you for your help. 
+speaker2: thank you.
+speaker1: maybe i'll see you later, when i pick up my car?
+speaker2: ok.
+
+speaker1: hey, good morning, barry. 
+speaker2: hey...lance....can i.....
+speaker1: you ok?
+speaker2: yes i'm fine.
+speaker1: why you wearin' a suit?
+speaker2: um....i bought one. i thought maybe it would be nice to get dressed for work, can i show you something?
+speaker1: yeah.....you got here early huh?
+speaker2: ....yes.....
+speaker1: what is this?
+speaker2: i don't know. i think it's a piano....a small piano.
+speaker1: that's not a piano.....i have a piano at home.....where'd you get it?
+speaker2: well.....it was dropped on the street.....
+speaker1: why is it here? barry....barry?
+speaker2: ...it just....i don't know....i don't know.
+
+speaker1: you do guaranteed sale? etc. 
+speaker2: we back our plungers 100% and we do ask for a 30 to 60 day display on the floor..... in the b.g., rico over the laud speaker says:
+speaker3: barry, your sister's on line one.
+speaker2: yes.....we do ask for....30 to 60 days....
+speaker1: i think you have a call?
+speaker3: barry, your sister is on line one.
+speaker2: i'm just gonna grab this call real quick?
+speaker2: .....this is barry.
+speaker4: hey it's me, it's rhonda. are you coming to the party tonight?
+speaker2: hi, rhonda, yes i am.
+speaker4: bye.
+speaker2: ok. yes i'll see you tonight.
+speaker2: sorry about that: one thing i wanted to point out, dave, is that we've just received a large order from the rio hotel and casino in las vegas where we're going to be supplying their hotel rooms with the dice and money plunger, so these babies are really moving well right now...
+speaker3: barry, your sister's on line two. barry, your sister's on line two.
+speaker2: with the aqua blast whales and speed boats we're gonna ask for a display at eye level for the little kids.....
+speaker3: barry --
+speaker2: -- excuse me.
+speaker2: this is barry.
+speaker5: hey it's me, what are you doing?
+speaker2: hello, karen. i'm just working.
+speaker5: yeah but what are you doing?
+speaker2: i'm just working....i have some customers here.....
+speaker5: so you can't talk to me?
+speaker2: i have a few people here, i can't really chat right now.
+speaker5: "chat?" did you just say "chat?"
+speaker2: well, i can't talk though --
+speaker5: you just said "chat," that is so -- what are you now? "chat." i'm just calling to make sure you show up at this party tonight.
+speaker2: yes, i'll be there.
+speaker5: fine. you get back to chatting with your precious customers.
+speaker2: ok, bye-bye.
+speaker2: sorry about that.
+speaker1: i didn't know you had a sister?
+speaker2: .....well yes i do.... but one more thing i wanted to tell you guys about the new plungers is that we're making the handles now in a non-breakable material called.....
+speaker2: ok...this is one of the old ones, i think. lance do we have any new plungers around?
+speaker2: that was a little embarrassing and that was one of the old handles so let me get a new one to show you --
+speaker3: barry, your sister is on line one.
+speaker1: how many sisters do you have?
+speaker2: ....i have seven.
+speaker6: holy you have seven sisters?
+speaker2: they're calling because we're having a party tonight for my sister and the they're just calling....can you hang on for just two more minutes....?
+
+speaker1: this is barry. 
+speaker2: what are you doing?
+speaker1: hi, kathleen, i'm just working.
+speaker2: are you going to the party tonight?
+speaker1: yes i am.
+speaker2: what are you doing?
+speaker1: nothing.
+speaker2: right now, you're doing nothing?
+speaker1: i'm just talking on the phone to you and standing.
+speaker2: what time are you gonna be there?
+speaker1: seven o'clock.
+speaker2: you can't be late.
+speaker1: i won't.
+speaker2: i'm serious.
+speaker1: i know.
+speaker2: seriously.
+speaker1: ok.
+speaker2: you can't be late though.
+speaker1: i know.
+speaker2: you can't just not show up like you do, you have to go.
+speaker1: i know.
+speaker2: seriously.
+speaker1: i know.
+speaker2: you can't just stay in your house.
+speaker1: i know.
+speaker2: yeah but i'm serious.
+speaker1: ok.
+speaker2: i'll see you there.
+speaker1: i'll see you there.
+speaker2: don't puss out.
+speaker1: i won't.
+
+speaker1: telephone barry on line one. 
+speaker2: what's wrong with her car?
+speaker3: wha?
+speaker2: is that car gonna be ok?
+speaker3: it's fine.
+
+speaker1: barry, your sister's here. 
+speaker2: hey, how are you?
+speaker3: i'm fine, hi, how are you?
+speaker2: i'm just stopping by to say hello.
+speaker3: hello.
+speaker2: so you're coming tonight, right?
+speaker3: yes, indeed, yes i am.
+speaker2: there's this girl, this friend of mine from work that i think is really cute and really cool and i want you to meet her so i was thinking about bringing her to the party tonight.
+speaker3: oh yeah no i don't want to do that.
+speaker2: why?
+speaker3: well i don't want to do something like that.
+speaker2: she's my friend and you should meet her. you'd like her.
+speaker3: yeah, but please don't do that.
+speaker2: i'm not really asking you, i'm telling you.
+speaker3: yeah but please don't do that: everyone would be looking at me.
+speaker2: it's a free country, we can look at you if we want to.
+speaker3: yes but i get tense and i feel like i can't be myself if that happens.
+speaker2: that's your fault not mine.
+speaker3: i don't think i'm going to the party.
+speaker2: so it's ok if i bring her.
+speaker3: please don't.
+speaker2: she's really cute and she's really nice.
+speaker3: ...please, i just don't want it....
+speaker2: ....wait a minute: why is this about you now? why is it always about you?
+speaker3: yeah, no, it's not, it's just --
+speaker2: i'm trying to be your friend.
+speaker3: i know.
+speaker2: i'm trying to get you a girlfriend.
+speaker3: well, yeah, thank you, but --
+speaker2: -- but since you're not going i guess none of this matters and i'll bring her anyway.
+speaker2: all i'm trying to do is be your friend.
+
+speaker1: hello. 
+speaker2: hello, sir. my name is barry egan and i'd like to ask if you have any more healthy choice pudding in the back?
+
+speaker1: there he is! do you remember when we used to call you gay and you'd get all mad? 
+speaker2: -- we were calling you gay and you got so mad that you threw a hammer through the sliding glass door -- do you remember?
+speaker3: i don't really remember that.
+speaker2: yes you do. we were calling you gay boy and you got so mad....
+speaker3: yes, yes, right.
+speaker1: we're trying to remember why you had the hammer in the first place?
+speaker3: ...um.....
+speaker2: the hammer that you threw....why did you have it?
+speaker1: you don't remember -- you had the hammer and you threw it -- ?
+speaker3: i remember, yes.....
+speaker1: why did you have it?
+speaker4: he was building a ramp for the dog.
+speaker2: he was making a ramp for the dog!
+speaker1: that's right....ramp for the dog..... and you just threw the hammer.
+speaker3: happy birthday, rhonda.
+speaker4: thank you. thank you so much, barry.
+
+speaker1: hey....i was just telling everyone about how i was gonna bring this girl for you but you wouldn't let me do it. 
+speaker2: hello everyone.
+speaker3: did you think that we'd all be looking at you?
+speaker2: no, no, no.
+speaker3: well it's just not true. we wouldn't be looking at you -- why are you wearing this suit? did you say hello to your brother in law's?
+speaker4: hi, barry. how ya doin? good, good.
+speaker3: say hello to them, that's right, good, good. ok. come on, we're gonna eat now.....let's go.....
+speaker5: how you doin' barry?
+speaker2: hi walter.
+speaker5: how's business?
+speaker2: business is very food, thanks.
+speaker1: what's very food?
+speaker2: what?
+speaker1: you just said very food.
+speaker2: did i say that?
+speaker5: yeah.
+speaker2: that was weird. i meant good.
+speaker5: maybe you said that because you're hungry.....
+speaker1: you're lucky. she couldn't come anyway --
+speaker2: well i'm glad you didn't, thank you.
+speaker1: she couldn't come i said. are you nervous?
+speaker2: no.
+speaker1: you look nervous.
+speaker2: i'm not, i'm very happy.
+speaker6: come on homo-boy, we're eating now.
+
+speaker1: what's up? 
+speaker2: well i'm sorry. before...
+speaker1: mhm.
+speaker2: and i'm sorry that i did that.
+speaker1: it's alright.
+speaker2: i wanted to ask you because you're a doctor, right?
+speaker1: yeah.
+speaker2: i don't like the way i am sometimes. can you help me?
+speaker1: barry, i'm a dentist, what kind of help do you think i can give you?
+speaker2: i know that. maybe you know other doctors?
+speaker1: like a psychiatrist?
+speaker2: i don't have anyone to talk to things about and i understand it's confidential with a doctor - i'm embarrassed about that and i don't want my sisters to know?
+speaker1: you want a number for a psychiatrist, i can get you one, that's not a problem. but what exactly is wrong?
+speaker2: i don't know if there's anything wrong with me because i don't know how other people are.....sometimes i cry a lot.....for no reason.
+speaker2: please don't tell my sisters.
+
+speaker1: he listens; 
+speaker2: hi, this is janice the operator, who's this?
+speaker3: hello, how are you?
+speaker2: hi, is this your first time calling?
+speaker3: yes it is.
+speaker2: can i have your credit card number, followed by the expiration date?
+speaker3: can i ask how much is this?
+speaker2: -- it's $2.99 per minute for the first half hour and $1.99 per minute after that.
+speaker3: ......and this is confidential?
+speaker2: what do you mean?
+speaker3: it's....confidential, the call, my information is private.
+speaker2: of course. would you like to talk to a girl? i can connect you with a beautiful girl if i can just get your credit card number followed by the expiration date?
+speaker3: ...3407 2627 3444 8095 expiration
+
+speaker1: and your billing address and the name as it appears on the card? 
+speaker2: .....1274 moorpark. sherman oaks, california. 4. 91403.
+speaker1: and your name?
+speaker2: barry egan.
+speaker1: and your social security number.
+speaker2: what's that for?
+speaker1: it's just for verification through the credit card company.
+speaker2: -- and this is confidential?
+speaker1: of course, it's just for us to verify your credit card information. it's completely confidential and it appears on your credit card billing statement as dandd mattress man.
+speaker2: 337.....i'm sorry....
+speaker1: it's ok, take your time.
+speaker2: 337-09-9876. but i don't want anyone to know my name.
+speaker1: no one will know your name.
+speaker2: can you say that my name is jack?
+speaker1: you want her to call you jack?
+speaker2: i just don't want anyone to know it's me.
+speaker1: that's fine. can i have a telephone number, area code first on where we can call you back?
+speaker2: no i just....i don't want to, i just want to be connected to talk to a girl.
+speaker1: it's a call back service -- a girl will call you back.
+speaker2: i thought i was just gonna be connected to talk to a girl - that's fine, ok, i'm sorry, it's, um.....818....
+
+speaker1: hello, this is back. 
+speaker2: hi, is this jack?
+speaker1: yes.
+speaker2: this is georgia.
+speaker1: hi. this is jack.
+speaker2: so what are you doing tonight, jack?
+speaker1: nothing.
+speaker2: nothing, huh, do you know what i'm doing?
+speaker1: no.
+speaker2: i'm just laying on my bed.
+speaker1: where are you?
+speaker2: i'm in my bedroom.
+speaker1: no, i mean, what city, what state are you in?
+speaker2: are you watching a movie?
+speaker1: no.
+speaker2: do you like movies?
+speaker1: sure.
+speaker2: yeah....? so...jack...are you stroking that big fat of yours?
+speaker1: ....no....
+speaker2: yeah? so what are you doing, then?
+speaker1: ...just talking to you....
+speaker2: are your pants off?
+speaker1: no.
+speaker2: i'm wearing a t-shirt and panties.
+speaker1: really?
+speaker2: yeah. and looking at myself in the mirror. do you wanna know what i look like?
+speaker1: it doesn't matter.
+speaker2: what do you mean it doesn't matter?
+speaker1: well. i have no way of knowing. so it doesn't matter.
+speaker2: i don't lie, jack. i'm about 5'8, blonde 34,28,34. pretty thin, i work out. my shaved. my friends say i'm pretty cute, so....
+speaker1: really?
+speaker2: what do you mean, "really?" yeah.
+speaker1: it doesn't matter.
+speaker2: yeah....you're married aren't you, jack?
+speaker1: no.
+speaker2: you have a girlfriend?
+speaker1: ...yes...
+speaker2: where is she?
+speaker1: she's...not here...she went out. she went out of town, she travels a lot.
+
+speaker1: i'm horny, jack, what about you? 
+speaker2: ...yeah.....
+speaker1: does jack like to jack off?
+speaker2: sometimes when i'm lonely.
+speaker1: ...yeah....well you have me now.
+speaker2: you sound very cute, very nice.
+speaker1: thank you. what do you do, barry?
+speaker2: i have my own business....i work. i work hard at doing my business.
+speaker1: yeah....do you do well, do you make alotta money?
+speaker2: i do pretty good, i think. i wish i was making more, doing a little bit better. i can,t get over a certain hump. i will...i will crack something soon i think and really do better...i'd like to diversify...but i'm doing great, i think, as a start.
+speaker1: so.....are you stroking it, yet, honey?
+speaker2: no.
+speaker1: well why don't you take your pants off and stroke it for me?
+speaker2: ok.
+speaker1: yeah...that's it...god i am so horny...i wish i was there to help you.....i wish i was there for you, barry.
+
+speaker1: hello? 
+speaker2: hey. what are you doing? how are you?
+speaker1: i'm fine. who is this?
+speaker2: georgia.
+
+speaker1: hi....what....what's up....? 
+speaker2: it's ok that i'm calling, right, i mean? it's ok.
+speaker1: yeah. no. it's ok. what's goin' on?
+speaker2: i just wanted to call and talk to you, thank you for last night, try and get you before you went to work and say, "hey."
+
+speaker1: i'm going to work. 
+speaker2: uhhh...i am sooo tired...i stayed up too late last night, what about you, when did you go to sleep?
+speaker1: not very late.
+speaker2: you're going to work now?
+speaker1: yes.
+speaker2: can i ask you a question?
+speaker1: uh-huh.
+speaker2: remember last night i was talking to you and i was telling you about my apartment, my rent -- ? do you remember?
+speaker1: yes.
+speaker2: this is really weird and really embarrassing for me but....uh.... i was wondering if you could help me out with a little bit of money.
+speaker1: me?
+speaker2: yeah.
+speaker1: i can't really. yeah, no. i mean. i can't afford it.
+speaker2: you don't even know how much it is.
+speaker1: i know but i....how much is it?
+speaker2: like seven-fifty. seven hundred fifty?
+speaker1: yes, no, yes. i can't. i can't afford that. i'm sorry. sorry.
+speaker2: really? please?
+speaker1: you have trouble, financial trouble?
+speaker2: yeah. it's so hard these days and i really need it.
+speaker1: yes i can't....i don't make enough money to be able to do that.
+speaker2: i thought you had your own business. you said you were gonna diversify and all that stuff....
+speaker2: so you think you can?
+speaker1: no. i'm sorry.
+speaker2: should i call back and talk to your girlfriend?
+speaker1: ....what....?
+speaker2: i was wondering if it's better to ask your girlfriend for the money? it could be really easy. i mean, i have all your information, credit card information and billing stuff --
+
+speaker1: good morning, barry.... 
+speaker2: hi, lance.
+speaker1: what's with all this pudding, what is this?
+speaker2: that's part of a very interesting airline promotion giveaway that's really tremendous. i'm going to start a collection of pudding and coupons that can be redeemed for frequent flyer miles through healthy choice and american airlines --
+speaker1: you're goin' on a trip?
+speaker2: no.........but airline miles are just like a currency these days.
+speaker1: you should go on a trip.
+speaker2: no thanks.
+speaker1: so what should i do with the pudding?
+speaker2: let's just leave it there for now.
+
+speaker1: this is not supposed to be here. seriously. carlos, carlos, this is really not supposed to be here. i don't mean to be a dick; but that's gonna hurt someone. it already did hurt someone: it hurt me, so please let's move that. 
+speaker2: he's wearing a suit again, i don't know why he's wearing a suit, he doesn't usually dress like that --
+speaker3: it's fine.
+speaker2: hey, what are you doing? why are you wearing a suit again?
+speaker1: i don't know.
+speaker3: hi.
+speaker1: hi.
+speaker3: do you remember me, i left my car, yesterday.
+speaker1: yes i do.
+speaker2: this is lena, she's a good friend of mine from work. we were in the neighborhood and she had to pick up her car and we're getting breakfast before we go in, so did you want to go? we're gonna go and eat, let's go.
+speaker1: yeah i can't.
+speaker2: why?
+speaker1: i have work, i can't leave.
+speaker2: seriously, though: we're going to eat, i said.
+speaker1: i'm sorry.
+speaker3: it's ok. that's alright.
+speaker2: are you learning how to play the piano? what is that?
+speaker1: it's not a piano. lance! lance!
+
+speaker1: ...i'll tell you later. 
+speaker2: you don't wanna come to eat with us?
+
+speaker1: what's all this pudding? 
+speaker2: i don't know. can you hang on a second?
+speaker2: hello?
+speaker3: we got disconnected before....
+speaker2: no. no. we got disconnect -- why?.....you're calling me at work....how did you get this number -- ?
+speaker3: see the thing is i could make it really easy on you -- i already have your credit card number, your information, address and stuff. this is so awkward asking like this, i'm sorry --
+speaker2: this makes me very uncomfortable.
+speaker3: i need help.
+
+speaker1: should i just ask your girlfriend? maybe i should call back and talk to your girlfriend? 
+speaker2: i don't have a girlfriend --
+speaker1: -- you said you did.
+speaker2: i know i did. but i don't.
+speaker1: you lied to me?
+speaker2: i didn't lie.
+speaker1: why did you tell me you did, then?
+speaker2: this is....illegal....i'll call the police.
+speaker1: no you won't.
+
+speaker1: i'll go pay for my car. 
+speaker2: are you sure?
+speaker1: yeah.
+speaker2: he's being weird, i'm sorry. i have no idea why he's being weird and dressed in a suit --
+speaker1: it's not bad, it's ok.
+speaker2: -- he's so strange i don't know if you really even would want to go out with him, someone like him, i said i'd try, but it's just --
+speaker1: it's ok, it's alright. i'll come right back, i'll just go pay for my car.
+speaker2: sorry.
+speaker3: come on, i thought we had fun, rich boy --
+speaker4: this is not cool.
+speaker3: it was cool last night.
+speaker4: i have to go.
+speaker3: are you telling me no?
+speaker4: no i'm sorry, now i have to get off the phone....
+speaker3: ....this is your mistake....
+speaker2: hey, hey, you should ask her out -- what do you think, she's cute, right?
+speaker4: i'm gonna call you back.
+
+speaker1: she is. i think, why did you come here like this? 
+speaker2: it's not cool?
+speaker1: it's fine, but --
+speaker2: -- do you think you'll ask her out?
+speaker1: i feel really on the spot now.
+speaker2: are you gonna do it?
+speaker1: i don't do that. i don't - things like that.
+speaker2: you don't do anything, why are you being scared?
+speaker1: i'm not being scared, you're just going to rag me if i do this --
+speaker2: i'm not gonna rag you. why would i do this just to rag you?
+speaker1: i don't know.
+speaker2: i'll leave then, i'll go to get something from my car, go away so you don't feel pressure. can i ask you a serious question:
+speaker1: what?
+speaker2: did you ask walter to get you a shrink? barry, did you ask walter to get you a shrink? what's wrong with you?
+speaker1: i didn't ask him that. he's lying.
+speaker2: you're being weird again, see. come on. please don't be weird.
+
+speaker1: i gotta grab something from my car.... 
+speaker2: we should be going --
+speaker1: yeah, no, i have to get something from my car, i said.
+speaker3: which guy in toledo are you talking about?
+speaker4: i'll tell you...the guy...with...just talk to me later about it, ok?
+speaker3: you talkin' to me about ramada inn?
+speaker4: i have to talk to you in a second about that, lance, ok?
+speaker2: i'm sorry i couldn't come to your sister's birthday party last night, elizabeth had invited me and i couldn't make it --
+speaker4: it's fine. it was fun, though.
+speaker2: it must be weird for you to have so many sisters?
+speaker4: no. not at all. it's nice.
+speaker5: telephone, barry line one!
+speaker4: one second, sorry.
+speaker4: hello?
+speaker6: hang up again and see the trouble it's gonna make.
+speaker2: business is good, you're busy?
+speaker4: yeah, not really.
+speaker2: i saw a picture of you.
+speaker4: yes.
+speaker2: elizabeth has a picture of you guys -- your sisters and you, it's a lot of family, it must be nice.
+speaker4: do you have brothers or sisters?
+speaker2: no. i'm the exact opposite --
+speaker4: that must be nice. that must be really, really, really great.
+speaker2: it's terrible, no.
+speaker2: what do you do with all this pudding?
+speaker4: that's not mine it's one of the guys that works here. that pudding's not mine.
+speaker2: oh my
+speaker4: it's ok. that's ok. how long have you worked with elizabeth?
+speaker2: six months, maybe five, five or six months...do you wanna check that?
+speaker4: are you guys hurt?
+speaker7: no, no, we're ok....barry, sorry --
+speaker4: so you do what she does, the same work, the same job?
+speaker2: i do, but i do field consultations mainly too which is cool because i get to travel. i travel. a lot of the time. i'm going to hawaii on friday.
+speaker4: that's great -- hawaii. i was thinking about going there.
+speaker2: really?
+speaker4: i was, yeah, i was thinking about going there for business --
+speaker2: -- well, if you're gonna go --
+speaker4: -- i'm probably not gonna go though.
+speaker2: -- oh that's too bad, it's so great over there and if you were there we could say hello to each other or something --
+speaker4: -- yeah that would be great, if i was gonna go but i'm not exactly sure, i have so much goin on here -- a lot depends on this thing i might do here and if that happens i can't go and if it doesn't happen then i probably will, but i doubt it.
+speaker1: i can't find that thing in my car, i can't find it so i'll just get it and give it to you later. so?
+speaker2: you ready?
+speaker1: are you coming to eat with us?
+speaker4: yeah i can't.
+speaker1: oh my look at that.
+speaker2: it was great to meet you again. to see you again, thanks for helping me yesterday --
+speaker4: ok.
+speaker1: what's all this pudding?
+speaker4: it's not mine.
+speaker1: why's it here?
+speaker4: i have no idea.
+speaker2: are you ready?
+speaker1: will you call me later to talk about asking walter for the shrink? and we can talk about - he said you have this crying problem or something?
+speaker2: bye, barry.
+speaker4: goodbye.
+speaker1: call me later.
+speaker1: so i'll meet you at the restaraunt?
+speaker2: ok.
+
+speaker1: i'm going to go and eat tomorrow night do you want to go with me? 
+speaker2: sure.
+speaker1: do you want to pick me up?
+speaker2: sure.
+speaker1: can i write down my address and phone number for you?
+speaker2: sure.
+speaker2: this is funny.
+speaker1: yeah.
+speaker2: i didn't ask anyone for a shrink, that was someone else. also: this pudding is not mine. also: i'm wearing a suit because i had a very important business meeting this morning and i don't have a crying problem.
+speaker1: ok.
+speaker2: alright?
+speaker1: ....hi.....
+speaker2: ....hi.....
+speaker3: barry, line one, telephone!
+speaker2: hello?
+speaker4: you've just made a war that you cannot afford.
+speaker5: title card: provo, utah
+
+speaker1: i'll do it. 
+speaker2: i'll do it too.
+speaker1: but it's gotta wait until my knee is better. i can't risk it.
+speaker3: you have to do it now.
+speaker2: if we drive there it's a problem.
+speaker3: dean will loan you one of his cars.
+speaker2: which one?
+speaker3: you have to talk to him --
+speaker1: how do you know he's rich?
+speaker3: because i know, i just know. i mean, i talked to him, i know.
+speaker4: where are you guys going?
+speaker1: california. los angeles.
+speaker4: when are you leaving?
+speaker1: right now.
+speaker3: let's go talk to dean.
+
+speaker1: hey guys. 
+speaker2: hey, dean.
+speaker3: so they'll go.
+speaker1: i'm only paying two of you guys.
+speaker4: that's cool.
+speaker1: when can you leave?
+speaker4: as soon as you want.
+speaker1: i want you to go right away, i think that's best. i also need you to check out a car for me down there that this guy is selling.
+speaker1: you wanna around, asshole? you wanna get tough, wanna see me kick some around here?
+speaker5: take it easy, man, relax. don't --
+speaker1: i'll relax your head -- this is my personal space, man, this is my personal space, you don't violate that, you don't do that.
+speaker5: i've got a glass in my hand why don't you chill out?
+speaker1: you've got a glass?
+
+speaker1: dean gets in the middle of it; 
+speaker2: take it easy, take it easy you guys in here, i need to talk to you later, tommy -- i wanna know if you wanna book the boys --
+speaker3: i'll talk to you later.
+
+speaker1: your expenses are your own. 
+speaker2: i thought latisha said you would --
+speaker1: -- she didn't know what she was talking about --
+speaker2: it's....whatever....that's not cool.
+speaker1: david, don't. just. seriously. it doesn't make sense if you think about it in a fair deal like sense. ok? it's business. seriously. one hundred dollars for two days work is a lot more than your family is making sitting around your house. i'm serious now. ok. please. now. just stop.
+speaker1: ...keys for the track. you have to gas it up and save the receipts on that. his address. we have a business address too if you need that -- but hit him at his house first, see what this little bad boy is all about and shake him up -- give him a little doe-see-doe --
+speaker3: uch. shut up, dean.
+speaker1: what's the problem?
+speaker3: you don't need to talk all macho, "shake him out, little bad boy." whatever -- you're not an action hero, tough guy, you're not a gangster --
+
+speaker1: flinchy. that's what i thought. shut up. call me when you see this guy -- check him out see what's what. she asked him for seven fifty when she was on the phone with him, so -- just call me when you get there. 
+speaker1: this is this place called ace vintage, you gotta find it, i don't know exactly where this is and i don't understand these maps so just go there and check it out. it's a '61 ac cobra that this old guy says is fine, but i need to figure out why he's only asking 23 for it. so take a look, the whole thing, call me about that, if it seems alright then i'll head down there and check it out.
+speaker2: ok.
+speaker1: that's it.
+speaker2: can we maybe ask for more money on this?
+speaker3: why?
+speaker2: ...because it's california? i mean it's like a nine or ten hour drive. it's not like going to salt lake and getting the mormon's, it's different...
+
+speaker1: who is it? 
+speaker2: it's barry.
+speaker1: hi.
+
+speaker1: so i want to tell you something, i gotta tell you: i saw a picture of you guys, your sisters and you and i saw your picture and i really wanted to meet you. i came to drop my car off there on purpose, to try and meet you. 
+speaker2: ...really? that's nice...are you lying?
+speaker1: ...i thought i should tell you. i didn't want to get too far along on going out and be hiding something -- beat. he leans slightly back in frame.
+speaker2: that's very nice. thank you. thank you for saying that. you're friends with my sister?
+speaker1: yeah.
+speaker2: how long have you known her?
+speaker1: about six months.
+speaker2: you like her?
+speaker1: yeah. yeah we get along well. you didn't get along with her very well?
+speaker2: did you really come to meet me on purpose or are you lying about that?
+speaker1: no, no. i did.
+speaker2: that's nice. it's nice. i've been looking around a lot lately at promotional giveaways, cross promotional work by some companies. do you remember all that pudding?
+speaker1: yeah.
+speaker2: so that pudding was bought, i bought that pudding because of a pretty interesting promotion that's sponsored by healthy choice and american airlines. it's designed to encourage airline travel and obviously designed to encourage buying healthy choice products. they make frozen meals, deli meats, pasta sauce, breads, soups and ice creams, this sort of thing.....
+speaker1: yeah?
+speaker2: ....i'm sorry....i lost my thoughts, what i was saying....
+speaker1: you were talking about the promotion --
+speaker2: -- the promotion says: buy any 10 healthy choice products and get 500 miles of airline travel or 1,000 for purchases made with a special coupon. so in the supermarket, you notice their products, first you notice they have a teriyaki chicken dinner at $1.79 - that's a pretty good deal....but then i noticed they had soup at 89 cents a can.....and you start to do the math and you start to notice that it's a really amazing deal because i stumbled across the pudding at 25 cents a cup. now the crucial thing is the bar codes on the label. that's those little bar codes, you know? the universal product codes?
+speaker1: yeah.
+speaker2: that's what's used to redeem the mileage, so in noticing the pudding, each cup had an individual bar code -- in other words: two dollars and fifty cents for ten cups of pudding is 500 miles. add in the coupon: it's one thousand.
+speaker1: yeah.
+speaker2: you see?
+speaker1: yeah, no, i see --
+speaker2: you see if you spent $3,000 dollars on pudding you could earn over one million frequent flyer miles.
+speaker1: that's insane. that is really, really crazy. that's just crazy if you spend three thousand dollars on pudding.
+speaker2: ....yeah....
+speaker1: so that was your pudding?
+speaker2: ....no....
+speaker1: i'm sorry. i thought you said --
+speaker2: no i didn't say that.
+speaker1: i thought you said you bought all that pudding --
+speaker2: my friend carlos is doing it who works with me. it's his. it's his pudding, he's doing it. it's not mine. he's crazy. i told him not to do it. he's the one who's insane. he only spent about one hundred dollars so far though --
+speaker1: your sister was telling me a pretty funny story about you, when you guys were kids and you were building a ramp for your dog and you threw a hammer through a window? is that right? you threw a hammer through a sliding glass door? barry starts to well with tears, which he hides very
+speaker2: i don't remember that, she might be lying. i have to go the bathroom.
+
+speaker1: hello. 
+speaker2: hi.
+speaker1: sir, can i talk to you?
+speaker3: why?
+speaker1: just have you for one second, please.
+
+speaker1: sir, the bathroom was just torn apart. 
+speaker2: yeah.
+speaker1: did you do it?
+speaker2: no.
+speaker1: you didn't just smash up the bathroom?
+speaker2: no.
+speaker1: well who did?
+speaker2: i don't know.
+speaker1: you're hand is bleeding.
+speaker2: i cut myself.
+speaker1: how?
+speaker2: on my knife.
+speaker1: sir, a young man saw you coming out of the bathroom.
+speaker2: i didn't do that.
+
+speaker1: why? ...what? 
+speaker2: your hand is bleeding.
+speaker1: i know.
+speaker2: i'm gonna have to ask you to leave.
+speaker1: why?
+speaker2: sir, i have no way of proving that you demolished the bathroom --
+speaker1: i didn't do it.
+speaker2: alright, well you're gonna have to leave. you're gonna have to go.
+speaker1: yeah, but i didn't do anything.
+speaker2: i'm gonna call the police then, sir.
+speaker1: please don't do this to me.
+speaker2: the police are on their way.
+speaker1: sorry.
+speaker1: can i pay you here? can i pay you for our drinks and salad?
+speaker2: that's fine. barry takes out some money and hands it over.
+speaker1: keep the change, please.
+
+speaker1: we should go i think, i don't like it here. 
+speaker2: ok.
+speaker2: is everything ok?
+speaker1: yes.
+speaker2: what happened?
+speaker1: nothing.
+speaker2: what did he want?
+speaker1: nothing.
+speaker1: i have a better idea of where we can go.
+speaker2: ok.
+speaker1: there's a better place for us to eat.
+speaker2: did something happen; are you alright?
+speaker1: yes i'm fine. everything is ok. it's fine. everything is fine.
+
+speaker1: so....how is your harmonium doing? 
+speaker1: your portable reed organ....the piano.
+speaker2: well, it's fine. thank you.
+speaker1: did you pick it up from the street?
+speaker2: what?
+speaker1: did you take it from the street in front of your work?
+speaker2: ...yes i did...?
+speaker1: are you learning how to play it?
+speaker2: yes? i'm trying.
+speaker1: oh that's great.
+
+speaker1: so you must travel a lot with all that pudding you bought? 
+speaker2: yes no not really.
+speaker2: ok....well...i'm gonna go.
+speaker1: ...yeah...
+speaker2: it was nice to see you again, to see your face again, to go out with you --
+speaker1: i'll be around and back in town in a few days --
+speaker2: yeah.
+speaker1: if you come to hawaii --
+speaker2: yeah, i don't know, we'll see about that.
+speaker1: you don't think you'll go --
+speaker2: i don't know.
+speaker1: ok. well call me when you get back, i mean, i'll call you when i get back. i'll be back for three weeks and then i go away for a month after that. so maybe in that time....
+speaker2: ok. have a good trip.
+
+speaker1: are you barry? 
+speaker2: yes.
+speaker1: it's for you.
+speaker2: this is barry.
+speaker3: this is lena.
+speaker2: hi.
+speaker3: i just wanted you to know, wherever you're going or whatever you're doing right now i want you to know that i wanted to kiss you just then.
+speaker2: really?
+speaker3: yeah.
+speaker2: so what do i do then?
+
+speaker1: that was good. 
+speaker2: yeah.
+speaker1: i'll see you later.
+speaker2: ok.
+speaker1: i don't freak out very often.
+speaker2: what do you mean?
+speaker1: i don't, no matter what my sisters say, ok?
+speaker2: ...i don't know what you mean....
+speaker1: i don't freak out.
+speaker2: ok.
+speaker1: have a good trip.
+speaker2: thank you.
+
+speaker1: hey. 
+speaker2: hi.
+speaker1: i need to talk to you for a second.
+speaker2: what?
+speaker1: you gotta give me some money.
+speaker1: you made a phone call and you said you'd help a girl out and then you didn't....i'm here to get the money.
+speaker2: wait a minute --
+speaker1: no, no, no, no c'mon man, don't make it a thing --
+speaker2: please don't do this.
+speaker1: it's just you need to give me the money...do you have it right now?
+speaker2: whoa...whoa...wait, wait -- don't please....
+speaker1: how much money do you have in your pockets?
+speaker2: just take it, take the money in my pockets, take it, it's fine --
+speaker2: it's three hundred and twenty dollars, just take it.
+speaker1: what do you have in the house?
+speaker2: nothing....i mean, really...change, nothing....that's the cash i have....
+speaker1: you have an atm?
+speaker2: yes.
+speaker1: is this where you live?
+speaker2: yes.
+speaker1: you have another house somewhere or something?
+speaker2: no.
+speaker3: this is three hundred and twenty. let's just go to your atm and that'll be it --
+speaker2: i didn't promise her money. she said that it was confidential, this isn't fair -- mike d pushes barry's face.
+speaker3: shut up, be quiet. be quiet.
+speaker2: -- don't --
+speaker1: hey. you made a call and now you're gonna pay. it's not a big thing -- just give us some money and then it's over -- we'll just walk down to the atm and get your money out --
+speaker2: alright, alright.
+speaker2: how do you want to do this?
+speaker3: let's just go to the corner, we saw a place on the corner, you'll just get your max out and that's it -- you get out what you can and that's it --
+
+speaker1: ok. this is what you get when you're a pervert -- you said you'd help someone out and you didn't so we're just getting some money for her and that's that. 
+speaker2: you know, please, i just wanna say that i didn't say i would help her out; i was very clear about it....i don't think that this is fair.....wait, wait, wait, ouch, ouch.....
+speaker3: you don't challenge what my brother's saying, you don't say that -- ....barry makes a mad run for it.....
+
+speaker1: what's up? 
+speaker2: i think i got in trouble. a little bit of trouble....
+speaker1: what happened?
+speaker2: ....i made a call..... ....and, uh....
+speaker2: ...ok.....ok......i gotta get some pudding to go somewhere....
+speaker3: telephone on line one, barry.
+speaker2: hello?
+speaker4: i need to talk to you about your behavior the other night -- barry hands up the phone real fast.
+speaker2: ok. well. i'm gonna go out of town. i'm going to go out of town just for two days...
+speaker1: where you goin?
+speaker2: i'm going to go to hawaii but you can't tell my sisters that.
+speaker1: wow, you're goin' to hawaii, that's great -- you're goin -- ?
+speaker2: yeah but you can't tell my sisters that.
+speaker1: ok.
+speaker2: alright: and i have to go and buy some more pudding for this trip to hawaii and as i just said that out loud i'm realizing it sounds a little strange but it's not. so can you come and help me out?
+speaker1: ok.
+
+speaker1: they need to be scanned individually. they each have a bar code, so i need it scanned individually so that each and every cup appears on the receipt... 
+speaker2: what is this, man?
+speaker1: i'm sorry.
+speaker2: are you serious with this?
+speaker1: yes. sorry.
+speaker2: well....what do you want, then?
+speaker1: each pudding cup has to be scanned individually so that...it's for a giveaway...a product giveaway by this company...
+speaker2: this is a bunch of
+speaker1: i'm sorry, i know. i know that it's....
+speaker1: i'm sorry, i'm really sorry.
+speaker1: sorry. i'm sorry, ma'am.
+
+speaker1: you know you can get places in the world with pudding. that's funny. 
+speaker2: yeah.
+speaker1: that's funny.
+
+speaker1: i guess they're not open today. 
+speaker1: that's fine. i think i have enough.
+speaker1: i get really sick of myself sometimes.
+
+speaker1: no, no, no, no, no. what do you mean? it doesn't state anywhere about six to eight weeks. 
+speaker2: it takes that much time to process the order and make sure it's valid --
+speaker1: i had this whole thing in my head, i was gonna be able to get this to you today -- i have to leave today --
+speaker2: i'm sorry.
+speaker1: how am i supposed to know what to do if you don't say it -- if it's not in your rules and regulations in your fine print how am i supposed to know how to be with this --
+speaker2: it takes time to process --
+speaker1: no, no, no, no, no, no, no!
+speaker1: don't do that. don't do that. that's not right. calm down now, please. please. ok. ok. calm down now please.
+
+speaker1: ok: the pudding is gonna take six to eight weeks to process so that isn't gonna work for today, i'll just take a bath on that today. ok. but here's the thing i gotta tell you: beat. he looks around at the pudding. 
+speaker1: ....now: this pudding?
+speaker2: yeah.
+speaker1: let's just figure that out later -- ok. i gotta go. i'm just gonna go now and i'll call you from there, you're in charge 'till i get back. and don't tell my sisters anything?
+
+speaker1: i've never been on a plane before. 
+speaker1: what's that sound?
+
+speaker1: hey. what are you doing? 
+speaker2: nothing. i'm just at work and i'm wondering, you know your friend lena?
+
+speaker1: what about her? you didn't ask her out, you're such a -- 
+speaker2: ....she didn't, i didn't ask her out?
+speaker1: you're so scared.
+speaker2: do you know where she's staying in hawaii?
+speaker1: oh my yeah, i know exactly where she is, why?
+speaker2: ......she forgot her purse at my work and i wanted to get it back to her.
+speaker1: no she didn't; that's a lie.
+speaker2: i....please don't do this.
+speaker1: what? tell me why you wanna know --
+speaker2: i just want to know where she's staying.
+speaker1: tell me why.
+
+speaker1: there is no reason for you to treat me like you do -- you're killing me, you are killing me with the way that you are towards me -- 
+speaker2: -- what are you talking about, come on --
+speaker1: -- all i want is the number of where she's staying and that should be good enough, now stop treating me this way, please -- just give me the number elizabeth please now i think i will kill you if you don't.
+
+speaker1: sheraton wakiki, how may i direct your call? 
+speaker2: lena leonard's room please.
+speaker1: i'll connect you.
+speaker3: hello?
+speaker2: hello. is lena there?
+speaker3: you have the wrong room.
+speaker1: sheraton wakiki, how may i direct your call?
+speaker2: i just called, i got connected to the wrong room. i'm looking for lena leonard and there shouldn't be a man in the room i'm calling.
+speaker4: hello?
+speaker2: lena?
+speaker4: yeah?
+speaker2: it's barry.
+
+speaker1: came, you came. what are you doing? 
+speaker2: i'm calling you, i'm standing in my hotel room, i came because i have my business trip --
+speaker3: well let's do something do you want to do something, can you meet me?
+speaker2: you don't have a boyfriend or anything do you?
+speaker3: no. what do you mean?
+speaker2: i just wanted to know. when was the last time you had a boyfriend?
+speaker3: about six months ago. why?
+speaker2: i just wanted to make sure.
+speaker3: when was the last time you had a girlfriend?
+speaker2: where you married?
+speaker3: yeah.
+speaker2: ok. so you were married for how long?
+speaker3: do you want to meet me and talk about this stuff?
+speaker2: ok. where are you from originally?
+
+speaker1: you got me out of my hotel room. 
+speaker2: yeah......yeah.....
+speaker1: it's so nice.
+speaker2: this really looks like hawaii here.
+
+speaker1: do you wanna have sex? 
+speaker2: yeah.
+speaker2: press together. it feels good.
+speaker2: oh my you are so adorable. i just....god dammit.
+speaker1: what's that? what is that that you're doing?
+speaker2: i just...your face is so adorable and your cheek and your skin, i wanna bite it....i wanna bite your cheek and chew on it....god cute....fuck....
+speaker1: i know what you mean, i know what you mean, i get this feeling --
+speaker2: ...what...?
+speaker1: iiiiiiiiiii don't want to hurt anything ever, but what i'm talking about is -- have you ever held a little puppy or a little kitten and it's just the cutest, softest, most precious thing in the world and out of the blue you get this feeling in your gut and all you wanna do is squeeze it. just squeeze the out of it. to take a little puppy and smash its skull...just so precious, so beautiful. just so wonderful and cute you wanna smack it and kick it and love it. i don't know. i don't know. and you, you.....i'm looking at you and i just....your face is so beautiful i just wanna smash it, just smash it with a sledgehammer and squeeze it...you're so pretty.
+speaker2: i know. i know. i know. i just wanna chew your face and scoop out your beautiful, beautiful eyes with an ice cream scooper and eat 'em and chew 'em and on 'em.
+speaker1: this is funny.
+speaker2: yeah.
+speaker1: this is nice.
+
+speaker1: that guy had more money to give up. 
+speaker1: long way to drive just for seven hundred something bucks. dean doesn't have to know.
+speaker2: we're not that far....i mean, if we're going to, we're not that far....
+
+speaker1: you know you're not supposed to do that. because i told you. seriously. 
+speaker2: barry?
+speaker1: i was talkin' to you last thursday about that.
+
+speaker1: they need to see the new 484's to make sure it works with their oc.... 
+speaker2: ok. what should i do about eric?
+speaker1: just tell him to call me.
+speaker2: ok.
+speaker1: so...did my brother call you?
+speaker2: no.
+speaker1: i have no idea what he's doing then.
+speaker2: it's fine.
+speaker1: you wouldn't want to go out with him anyway, honestly, he's such a freak sometimes.
+speaker2: he did seem a little strange.
+speaker1: well...he's not that strange, don't say that.
+speaker2: i'm sorry. you're right.
+speaker1: i think he's weird, but that's me.
+speaker2: should i call you later?
+speaker1: i'll just see you when you get back here.
+speaker2: ok.
+speaker2: where do you have to go?
+speaker3: for what?
+speaker2: for work.....
+speaker3: i don't have any business here. i came here for you, i didn't have any business.
+
+speaker1: how many times have you been on an airplane? 
+speaker2: i think maybe over a hundred.
+speaker1: that's right you travel so much.
+speaker2: yeah.
+speaker1: how much do you travel? you travel all the time?
+speaker1: i forgot about that.
+speaker2: can i come home with you when we get there?
+speaker1: yeah.
+speaker2: it's ok to ask that.
+speaker1: i thought that you were anyway.
+speaker3: it's black for a few moments.
+
+speaker1: .....he gets out quick, heads right for them.... 
+speaker2: get on the ground, man -- get on the --
+speaker3: are you ok?
+speaker4: i'm fine are you ok?
+speaker3: yes i'm sorry.
+speaker4: what is this?
+speaker3: let's go to the hospital.
+
+speaker1: ...people are just crazy in this world, i think.... 
+speaker2: ...and he came up on the driver side...
+speaker1: the first man came on the driver side....
+speaker2: ...right...the blonde one?
+speaker1: they were all blonde.
+
+speaker1: -- some of the girls around -- stay on the line and an operator will be right with you....remember, have your credit card ready and know that mastercard is my favorite credit card. 
+speaker2: this is janice the operator, who's this?
+speaker3: my name is barry egan and i spoke to you....you called me, you remember?
+
+speaker1: ...no....i don't....i don't remember you. who's this? 
+speaker2: that's not true. that's not true at all. you said that your name was georgia and you said our conversation was confidential and i trusted you and you kept calling and asking me for money, c'mon now i want to talk to your owner, your supervisor, whoever runs this, you understand. please connect me now.
+speaker1: can you hang on a second?
+
+speaker1: dean, line one.... dean walks back to the phone and picks it up; 
+speaker2: hello?
+speaker3: hey, it's me. this guy from l.a., barry egan is calling on the other line and saying all this stuff, he wants to talk to a supervisor or whatever --
+speaker2: what did you say?
+speaker3: nothing.
+speaker2: put him through.
+speaker3: no, no. this is bad, something might have happened, we should just --
+speaker2: shut up, just put him on the phone, it doesn't matter, just shut up --
+speaker3: ok, sir....i'm gonna put you through to my supervisor.
+speaker4: fine, thank you.
+speaker3: ok. you're connected.
+speaker2: who is this?
+speaker4: hello, my name is barry egan and i called your service --
+speaker2: why don't you shut the up?
+speaker4: what?
+speaker2: i said calm down and shut the up. what's your problem?
+speaker4: i haven't even told you what's happened. your girl that you have that works there for you threatened me and two men just chased me -- extorted money --
+speaker2: go yourself that doesn't have anything to do with me - this is a legitimate bossiness.
+
+speaker1: now are you threatening me, dick? 
+speaker2: you are bad. you are a bad person. you are a bad person and you have no right to take people's confidence in your service --
+speaker1: you better watch your mouth, you're gonna get hurt.
+
+speaker1: what city? 
+speaker2: somewhere in utah.
+speaker1: what's the listing?
+speaker2: dandd mattress man.
+
+speaker1: may i help you? 
+speaker2: i'm looking for the mattress man.
+speaker1: who?
+speaker2: whoever owns this.
+speaker1: in the back.....
+speaker2: i'm a nice and reasonable man. i didn't do anything wrong. please don't make me hurt you. and i'm telling you: that if you ever hurt me or if you hurt someone that i love.....i will hurt you many, many, many times over.....because it's not right to take people's trust.
+speaker3: you came all the way from los angeles to tell me that?
+speaker2: yes i did.
+speaker2: can we agree that that is that?
+speaker3: that's that.
+speaker2: thank you. barry hands him the phone.
+
+speaker1: ....are you ok? what's goin' on? 
+speaker2: i'm fine....i'm fine...yes i'm fine....
+speaker3: where you been?
+speaker2: well i had to go to utah...but now i'm here and i'll be right back.
+
+speaker1: lena i'm so sorry. i'm so sorry that i left you at the hospital..... i called a phone line. i called a phone line before i met you and then these four blond brothers came after me and you got hurt and i'm sorry -- and i had to leave because i don't want you to get hurt again and now i'm here and i'm back and i have a lot of pudding that i can redeem in six to eight weeks and if you give me that much time i can get enough miles to fly with you wherever you have to go if you have to travel for your job because i don't want to be anywhere without you.....can you please let me redeem the mileage? 
+speaker2: you left me at the hospital.
+speaker1: i'm sorry.
+speaker2: you can't do that.
+speaker1: ok.
+
+speaker1: if you give me six to eight weeks i can redeem the mileage and then i can with you wherever you have to travel...... 
+speaker2: so here we go.
+

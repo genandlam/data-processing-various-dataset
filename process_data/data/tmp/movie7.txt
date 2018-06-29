@@ -1,0 +1,1218 @@
+speaker1: can i help you? 
+speaker2: i have an appointment.
+speaker1: name?
+speaker2: adam schwartz.
+
+speaker1: um, am i supposed to go somewhere? 
+speaker1: oh, should i go sit?
+speaker2: adam schwartz.
+speaker2: adam schwartz.
+speaker1: yeah, that's me.
+speaker2: follow me.
+speaker2: put this on.
+speaker1: do i need to take off all my clothes?
+speaker1: i'll figure it out.
+
+speaker1: hi adam, my name is joanne, so nice to meet you. 
+speaker2: you don't happen to have anything in a cotton blend?
+speaker1: cotton. you're funny.
+speaker1: now i'm going to need you to fill this cup with urine. you think you can do that?
+speaker2: you want me to fill this entire cup.
+speaker3: yup.
+speaker2: it's gonna take me at least a week to fill this. can i take it home?
+speaker3: take it home. you're so funny.
+
+speaker1: make it stop. 
+speaker2: it won't turn off.
+speaker2: sorry.
+speaker1: mmmmm.
+speaker1: oh my
+speaker2: what?
+speaker1: i think you have a gray hair.
+speaker2: really?
+speaker1: i'm gonna pull it out.
+
+speaker1: hey adam. 
+speaker2: hey andrew.
+speaker1: sorry about the noise last night.
+speaker3: yo.
+speaker2: yo.
+speaker3: ...what's that smell?
+speaker3: are you wearing perfume?
+speaker2: no.
+speaker3: well, you smell like the cast of steel magnolias.
+speaker2: i ran out of shampoo. i had to use rachel's.
+speaker3: for a second there i thought maybe you'd olympia dukakis.
+speaker2: can you unlock my window? there's a lot of pollen in the air.
+
+speaker1: seriously, my allergies are flaring up. it feels like my nasal cavities are on fire. 
+speaker2: sorry music's too loud, it's making it hard for me to hear your whining.
+
+speaker1: i don't get it, that guy is clearly a total douchebag...he's wearing capris! 
+speaker2: rachel and i used to be like that; like two wild animals in heat...
+speaker2: i guess it is only natural though, as we get older, more mature, things begin to slow down.
+speaker2: every three weeks is normal?
+speaker1: you haven't had in three weeks?
+speaker2: you think maybe she's mad cause i haven't asked her to move in?
+speaker1: what the are you talking about? i don't think she's waiting for you to ask anything. you're using her shampoo. next thing you'll be using her tampons.
+speaker3: seth laughs at his own joke.
+speaker1: but seriously, let me get this straight - she has her own place, yet she spends every night with you, in your bed, but she won't sleep with you?
+speaker2: it's not that big a deal.
+speaker1: so when does it become a big deal? five weeks? six weeks? a year? my cut off...4 days. that's when i begin to worry.
+speaker2: do you realize how lucky i am to be with rachel?
+speaker1: look around, there are like a million rachel's in this city alone...well, she's kind of hot, so maybe half a million.
+speaker2: but they're not rachel. i don't know how to explain it, but being with her just feels right. and i'm not going to overlook that just cause we're in a lull.
+speaker1: my parents are in a lull, which is what happens after 35 years of marriage. you've only been dating her four months. at our age is all we have. every time she refuses to sleep with you a small piece of every man's soul dies. she's killing us adam...you're a semi- smart, semi-successful, semi- average looking dude. just based on that you could get with at least one third of the female population.
+speaker4: morning gentlemen.
+
+speaker1: would you sleep with my friend. 
+speaker2: like, right now?
+speaker1: no just in general.
+speaker2: yeah, i'd him.
+speaker2: hey demetri,
+speaker2: fuckable?
+speaker3: i'd let you blow me.
+speaker1: see this is what i'm saying.
+
+speaker1: good morning jenny. 
+speaker2: i love you.
+speaker3: salutations gentlemen.
+
+speaker1: are you wearing perfume? 
+speaker2: it's rachel's shampoo.
+speaker1: fructis by l'oreal.
+speaker1: what is that?
+speaker3: ah, mothballs?
+speaker3: looks like my group is here.
+speaker3: see you guys later.
+speaker1: how's the origins exhibit coming along?
+speaker2: we're almost done with upper paleolithic.
+speaker1: i'm counting on you not to screw up. you're the only one i can trust.
+
+speaker1: the board is talking about bringing in sponsors...we're a dying art adam. 
+speaker2: phil?
+speaker1: yeah?
+speaker2: i should probably get to work.
+speaker1: that's probably a good idea.
+speaker1: i think i'm gonna go to lunch.
+
+speaker1: greg. what are you doing? 
+speaker2: it's a velociraptor.
+speaker1: where did it come from?
+speaker2: the dinosaur exhibit. why can't we just say it was the first domesticated pet?...people love dinosaurs.
+speaker3: adam cringes in frustration.
+speaker1: greg you can't just...that's a 75 million year old fossil...just please, put it away before someone sees it.
+speaker4: coming up here on our left is the "origins of man" exhibit on loan from the smithsonian institute. it won't be open to the public for a few more months, so you're one of the first groups to see it.
+
+speaker1: everyone this is adam, he's the curator of ancient civilizations here at the museum. 
+speaker2: hey kids.
+speaker1: why don't you tell us what we're looking at.
+speaker2: this here is a family of sapiens who lived in europe about 25,000 year's ago...
+
+speaker1: ...these cro magnon's as they're often called, are the closest in the evolutionary chain to modern day humans... 
+speaker1: ...what made cro magnon so advanced was their sense of community...they were the first to settle on a single plot of land, devote to one partner, raise a family, and take care of the sick.
+speaker2: this is lame! i thought you said we were gonna see dinosaurs.
+speaker3: see, i told you.
+speaker4: who wants to hear about the caveman?
+speaker4: caveman. rrrrrr! the kids cheer.
+speaker1: this is neanderthalensis - the neanderthal man. for over 150,000 years his ancestors dominated all of europe. but then about 30,000 years ago, neanderthals began to disappear, until one day, their entire civilization was gone.
+
+speaker1: what happened? 
+speaker2: greg you know what happened.
+speaker1: i do?
+speaker3: come on! tell us what happened to the caveman.
+speaker2: well no one knows for sure. but it's suspected that because neanderthal was a nomadic huntsman, he roamed the land, only fending for himself - never learning to cohabitate with others. so as cro magnon families settled into europe, they took over the land. one by one, neanderthal was pushed out...and never seen, or heard from again.
+speaker3: that's quite a story. thank you adam.
+speaker3: you really know how to win a crowd.
+speaker2: but you never know, just cause they vanished doesn't mean they're gone. for all we know, there could be a neanderthal walking among us right now. and by the looks of this guy
+speaker4: this ass.
+
+speaker1: i see dinosaurs. 
+speaker2: patient has been complaining of excessive urination, back pain, and night sweats. blood tests and urine analysis are normal. mri indicates a massive intraduaral extradural
+speaker3: neurofibrosarcomas extending into psoas muscle with nerve root compression syndrome and bone erosion.
+speaker2: growth extends from the l2 to l5. cytotoxic antibiotics are recommended.
+speaker2: yes. questions?
+speaker4: i have no idea what you just said.
+
+speaker1: if you look here on your mri, you see this cephalopod like object spreading down along your spinal column? 
+speaker1: that is a massive schwannoma neurofibrosarcomas.
+speaker2: i still have no idea what you're talking about.
+speaker1: it's a malignant tumor.
+speaker2: what?!...a tumor? no.
+speaker1: i'm afraid so.
+speaker2: how is that possible?...i don't smoke. i don't drink. i eat healthy...i even recycle.
+speaker1: well adam it's actually quite fascinating. your cancer is the result of an incredibly rare gene mutation in chromosome 17p in the p53 gene that causes the growth of malignant cells in tissue around the nerves. in your case it's grown along the nerves in your lower spine.
+speaker2: but, look at me. i don't look sick.
+speaker1: cancer often has no specific symptoms. people can go years with out knowing they're sick. we're lucky we caught it before it metastasizes.
+
+speaker1: i'm going to put you on a 4 month regimen of chemotherapy. it's an aggressive dosage so you might want to think about taking some time off from work. 
+speaker2: can't you just cut it out of me?
+speaker1: yes, that is an option. but because the tumor has spread to a such significant size. cutting it out now would be risky.
+speaker2: well what are my chances of beating this?
+speaker1: maybe you should talk to someone.
+speaker1: we have a whole department of psychologists here in the hospital. they specialize in cases...in these...sort of matters. they'll be able to help you.
+
+speaker1: hang in there champ. 
+speaker2: hey bro, time's up.
+speaker3: can i have just a few more minutes?
+speaker2: sorry bro. twenty minute limit.
+speaker2: rules.
+
+speaker1: adam? is that you? 
+speaker1: welcome home mr. adam. i made vegetarian goulash.
+speaker1: what is wrong?
+speaker2: nothing.
+speaker1: liar.
+speaker2: we need to talk.
+speaker1: why? what's going on?
+speaker2: i had a doctor's appointment today.
+speaker1: what kind of doctor's appointment?
+speaker2: have you ever seen the movie "beaches"?
+speaker1: you mean with bette midler?
+
+speaker1: yeah that one. 
+speaker2: not as good as "the rose", but good.
+speaker1: remember the end of "beaches"?
+speaker2: yeah. sad....what does that have to do with you?
+speaker2: oh. oh my
+speaker2: what kind?
+speaker1: i don't know.
+speaker2: you don't know?
+speaker1: well i do know, but i can't pronounce it. neuroscharnoma or something.
+speaker2: well how bad is it?
+speaker1: it's not good.
+speaker2: you have cancer.
+
+speaker1: not now. 
+speaker2: i just think it's an interesting time to take up smoking again.
+speaker1: adam i'm 24 years old!
+speaker1: you're 25.
+speaker1: what are we going to do? i don't know what to do.
+speaker2: sshhhh. everything's going to be alright yammy. i'm going to start chemo in a few days.
+speaker2: we're going to get through this.
+speaker2: ugh...and my parents are coming over for dinner.
+speaker1: do they know?
+speaker2: no.
+speaker3: pre lap: the sound of a doorbell...
+
+speaker1: rachel opens the door. 
+speaker2: hey.
+speaker3: there they are!
+speaker3: i can't wait to hear the big news.
+speaker2: where's dad?
+speaker4: i found your cat playing in the neighbors yard.
+speaker2: dad, i don't have a cat.
+speaker3: so what's for dinner?
+
+speaker1: if i had known you were coming i would have made something else. 
+speaker2: i'm just glad to finally be sharing a shabbat dinner with my son... so this isn't meat?
+speaker1: no it's called sei-tan.
+speaker3: it's made of wheat gluten.
+speaker2: but it's not meat.
+speaker1: no, but it has a texture just like meat.
+speaker2: mmmmm. it's good.
+speaker2: art, take your pills.
+speaker2: swallow.
+speaker2: so? did you set a date?
+
+speaker1: a date? 
+speaker2: do not do summer like your cousin, remember how awful that was? schlepping around in the heat like that. plus the bugs and the gnats.
+speaker3: what is she talking about?
+speaker2: and now rachel. i know we haven't discussed this, but are you going to convert?
+speaker1: she thinks we're getting married.
+speaker3: mom. we're not getting married.
+speaker2: oh thank
+speaker2: no offense.
+speaker2: so then what's the big news that you made us rush all the way over here.
+speaker3: have you ever seen "terms of endearment"?
+speaker1: oh adam, just tell her.
+speaker2: tell me what?
+speaker3: alright fine. but, before i tell you, you have to promise me you're going to stay calm.
+
+speaker1: oh adam, don't be so overdramatic. 
+speaker2: mom, just promise me. okay?
+speaker1: i promise...you make me out to be some kind of irrational loon.
+speaker2: i have cancer.
+speaker1: what?
+speaker2: i have cancer.
+speaker1: what is he saying?
+speaker2: i have cancer.
+speaker1: cancer? what do you mean you have cancer?
+
+speaker1: i don't understand. 
+speaker2: mom, i have a giant tumor in my spine.
+speaker2: mom?
+
+speaker1: mom, what are you doing? 
+speaker2: i'm making you green tea.
+speaker1: please, will you come sit down.
+speaker2: i saw on the today show that it reduces your risk of getting cancer by fifteen percent.
+speaker1: mom, i already have cancer.
+speaker2: here take these.
+speaker2: aspirin, zoloft, lexapro, lipitor, flagel, ditropan, alka seltzer.
+speaker1: mom, please, stop. i don't need these.
+speaker2: just take the god-damn pills.
+speaker1: mom.
+speaker2: how could this happen?
+
+speaker1: it's genetic. 
+speaker2: genetic? it must be from your father's side of the family, they're always getting sick. your uncle bobby just got crohns.
+speaker3: that's a disorder of the bowels, son. how are your bowels?
+speaker1: the problem is not with my bowels.
+speaker3: you're a lucky man.
+speaker1: thanks dad.
+speaker2: i'm moving in.
+speaker1: what? no. absolutely not.
+speaker2: adam, i'm your mother, and i need to be close to you in your time of need.
+speaker1: that's a terrible idea.
+speaker2: well who's going to take care of you?
+speaker1: mom, i'm fine.
+speaker2: i think i have a right to take care of my son with cancer.
+speaker1: it's nothing. really.
+
+speaker1: nothing! you tell me you have cancer of the spine and now you tell me it's nothing. 
+speaker2: edith, i can't even imagine how hard this must be for you. but i promise, there's nothing for you to worry about. i'm going to be here every step of the way, to help take good care of your son.
+speaker1: you're a very lucky boy to be with such a good girl. you know that? you don't deserve her.
+speaker3: i know.
+
+speaker1: what's taking him so long? how hard is it to buy a cup of coffee? 
+speaker2: look at how tight that shirt is. she's totally aware of how large her look too. this morning when she got dressed, she said to herself - "i have these things and i want the world to see them." greg looks up at the menu of endless options.
+
+speaker1: what about that frozen drink, what's that like? 
+speaker2: the bavarian blender. it's absolute heaven.
+speaker1: i don't know. does it have a lot of sugar?
+speaker3: we've been here 20 minutes. what's he shopping for a car?
+speaker4: why are you in such a rush?
+speaker3: is this really how you want to spend the rest of your life? wasting away in this place?
+speaker3: i don't believe it. why can't he just get a latte like he does every morning.
+speaker4: relax. we have plenty of time.
+speaker3: no we don't have plenty of time!
+speaker4: what the is wrong with you?
+speaker3: i have cancer.
+speaker4: yeah right.
+
+speaker1: i'm serious. 
+speaker2: get the out of here. you have cancer?
+speaker1: maybe a little louder, you can make a special announcement.
+speaker2: when did this happen?
+speaker1: yesterday. they found a tumor in my spine.
+speaker2: who?
+speaker1: what do you mean who?
+speaker2: who found the tumor?
+speaker1: lewis and clark...the doctors found it.
+speaker2: when were you going to tell me?
+speaker1: i'm telling you now.
+speaker2: if i had cancer i'd tell you right away.
+speaker1: what do you want the better friend award? it's not an easy topic to bring up.
+speaker2: holy
+
+speaker1: okay, let's relax here. 
+speaker1: i think the best thing to do is to look on the bright side.
+speaker2: the bright side of what?
+speaker1: this is your chance to do all the things you've always wanted. this is it. this is your time to live it up.
+
+speaker1: can i help you? 
+speaker2: i have an appointment with dr.
+
+speaker1: please call me katie. 
+speaker2: you're dr. mcrae?
+speaker1: you were expecting someone else?
+speaker2: aren't you supposed to be like sixty-five and wear earth toned sweaters?
+speaker1: why? did someone say that's what i look like?
+speaker2: no, no, no. i was just expecting someone older.
+speaker1: sorry to disappoint you.
+speaker2: no believe me, you're fine. better than fine, you're dr. mcrae...you're a doctor? how old are you?
+speaker1: twenty-six.
+speaker2: twenty-six? what are you like doogie howser?
+speaker1: who?
+speaker2: doogie howser...
+
+speaker1: ...the teenage doctor. 
+speaker2: does he work here?
+speaker1: no. nevermind...but aren't you young to be a doctor?
+speaker2: i'm actually in my final semester of medical school. this is a training hospital.
+speaker1: so have you had many patients?
+speaker2: you're actually my first.
+speaker1: oh.
+speaker2: please sit.
+speaker2: dr. ross filled me in on your situation. tell me, how have you been feeling?
+speaker1: honestly. i feel fine.
+speaker2: i think that's great considering what you're going through.
+speaker1: yeah, but i tend to internalize everything so, who knows.
+
+speaker1: you mean you repress as a coping mechanism. 
+speaker2: is that what i do?
+speaker1: that's what you just said.
+speaker2: the way i say it sounds cute in a neurotic way. when you say it, it's like an indictment. the word "repress" - sounds so harsh.
+speaker1: it's actually quite common.
+speaker2: oh good, i'd hate to think i'm anything but an emotional sheep.
+speaker1: don't think of it in those terms. it's not like it's been a conscious decision on your part. what's important now is for you to be aware of the way you treat your emotions and for me to help you make adjustments.
+speaker2: so how do we do that?
+speaker1: the first thing i want you to do is to stop looking at cancer as a burden. cancer has come into your life to show you that your emotional and physical bodies are out of balance. this is your chance to correct that.
+speaker2: you're not in a cult are you?
+speaker1: now, why do you say that?
+speaker2: i don't know, it was a bad joke.
+
+speaker1: but there's a reason. you chose to use humor rather than express how you really feel. 
+speaker1: in order to heal the body, you must heal the mind. it's imperative that you free yourself from stress and anger. get rid of all those negative emotions stored deep inside.
+speaker1: so today what i want to do is start you on some very simple relaxation therapy.
+speaker2: huh?
+speaker1: i want you to lay back and close your eyes.
+speaker2: lay here?
+speaker1: yes, i want you to just lay back, and let go.
+speaker2: shouldn't we be analyzing my childhood? or my days as a call girl?
+speaker1: another joke?
+
+speaker1: oh come on. nothing? that was funny. 
+speaker2: ssshhhhh...
+speaker2: close your eyes and relax. find a place inside yourself where you can escape the cancer.
+
+speaker1: i can't believe you got me a present. 
+speaker1: is it that prada handbag i've been eyeing?
+speaker2: even better.
+speaker1: what is it?
+speaker2: keep your eyes closed.
+speaker1: you know how i feel about surprises. last surprise i got my parents told me i was adopted.
+
+speaker1: you're not adopted. 
+speaker2: yeah, but sometimes i wish i was.
+speaker1: okay. open your eyes.
+speaker1: surprise!
+speaker2: what is it?
+speaker1: it's noodle.
+speaker2: it's so small. what do you do with it?
+speaker1: adam, it's a he, and he's adorable...having a dog is supposed to help with the healing process.
+speaker2: why, did it go to medical school?
+speaker1: i thought you'd be happy...
+speaker2: it looks like a gremlin. what happens if you get it wet after midnight?
+speaker2: they're a lot of work.
+
+speaker1: i can barely take care of myself, i don't think i can handle another living, breathing, needy, thing in my life. 
+speaker2: i didn't realize it would be such a big deal.
+speaker2: i can bring him back to the shelter in the morning.
+speaker1: i know what you're doing.
+speaker2: no, you're right, it's not a good idea. tomorrow i'll take him back where he'll be kept in a tiny cage with 10 other dogs who will bully him, and him, and then he'll eventually be euthanized.
+speaker1: alright. fine, we can keep the dog.
+speaker2: really?
+speaker1: really.
+speaker2: this is going to be so good for you.
+
+speaker1: there he is, the man of the hour. 
+speaker2: here i am.
+speaker1: martini?
+speaker2: no thanks.
+speaker1: so cancer?
+speaker2: yup. the big c.
+speaker1: man!
+speaker1: are you wearing a wig?
+speaker2: nope, this is my real hair.
+speaker1: i'm gonna miss you so much buddy.
+speaker2: i'm going to miss you too.
+
+speaker1: excuse me for a moment, i think i see someone over there from a previous life. 
+speaker2: have you started chemo yet?
+speaker1: no, not yet.
+speaker2: don't do it man. it'll you up.
+speaker3: you want to know the secret?
+speaker1: ah, okay.
+speaker3: eat nothing but green foods.
+speaker1: like a specific kind of green food?
+speaker3: no, any green food. it works, my sister's friend survived lung cancer.
+speaker4: so what kind of cancer do you have?
+speaker1: schwannoma neurofibrosarcomas.
+speaker4: never heard of it.
+
+speaker1: it's pretty rare. 
+speaker2: yeah well, you don't look sick.
+speaker1: cancer often has no specific symptoms. people can go years with out knowing they're sick.
+speaker2: huh.
+speaker3: there's spinach, zucchini, broccoli, kale, cucumbers, green beans, snow peas, seaweed, kiwi, zucchini,
+speaker1: i think you already said zucchini.
+speaker3: zucchini...
+speaker3: are you paying attention?
+speaker1: uh huh.
+speaker3: cause i'm only trying to help save your life.
+
+speaker1: there's this guy on the beach who injects oxygen into your blood. 
+speaker2: is that legal?
+speaker1: no, but it's totally safe.
+speaker3: ...brussel sprouts, turnip greens, asparagus, celery, cabbage, okra, honeydew melon, limes, green bell peppers, green chiles...
+speaker4: i can't believe that he has cancer.
+speaker5: i know, it's crazy.
+speaker4: i've seen him every day for the past two years and i've never once made an effort to talk to him.
+speaker5: well i'm his best friend, so talking to me in a way is kind of like talking to him.
+speaker4: oh what does it matter? it's too late.
+speaker5: wait. it's not too late.
+
+speaker1: hey adam. 
+speaker2: hey greg.
+speaker1: my uncle had what you have.
+speaker2: really?
+speaker1: man that was the worst.
+speaker2: your uncle had schwannoma neurofibrosarcomas.
+speaker1: yeah, i think so. it's the thing with the toe and the screaming, and everything tastes like olives? right?
+
+speaker1: well that was a nightmare. 
+speaker2: adam, those people just threw you a party...they love you.
+speaker1: half those people don't even know me.
+speaker1: what?
+speaker2: nothing.
+
+speaker1: what? 
+speaker2: i love you.
+speaker1: i love you.
+speaker2: everything's going to be okay.
+
+speaker1: you are so unbelievably sexy. 
+speaker2: i'm totally yours,
+speaker2: noodle.
+speaker1: what?
+speaker2: the dog.
+speaker1: ignore him.
+
+speaker1: i think he needs to go out. 
+speaker2: i'll do it after.
+speaker1: i can't do this with him barking.
+
+speaker1: come on. today...if i don't get laid tonight because of you, i'm going to take your little bow and make a noose... 
+speaker1: please! i need this.
+speaker1: evening.
+speaker2: nice dog.
+speaker1: will you please just finish.
+
+speaker1: hold me. 
+speaker2: mother
+speaker2: do you...want to move in?
+speaker1: do you want me to?
+speaker2: i was thinking it might be nice, now that i'm not going to work anymore. and with my chemo starting...
+speaker2: you're here all the time anyway.
+speaker1: okay.
+speaker2: you wanna have sex?
+speaker1: in the morning.
+
+speaker1: art come on. 
+speaker2: i'm coming.
+speaker1: we're late.
+
+speaker1: please take your seats. 
+speaker2: what about those seats up there in the front?
+speaker1: the service has begun.
+speaker2: please. my son has cancer.
+
+speaker1: please, follow me. 
+speaker2: sorry, my son has cancer.
+speaker3: hi. nice to see you.
+
+speaker1: edith. how are you? 
+speaker2: oh rose. things are not well.
+speaker1: i heard about the
+speaker1: cancer.
+speaker2: i can't tell you how hard it's been on me. my only child. only knows what terrible thing i did to deserve this. i've got a catatonic husband and a son with cancer. not to mention my arthritis. i don't know how i'll ever get through it.
+
+speaker1: ladies and gentleman, adam schwartz! 
+speaker2: rabbi jacobs.
+speaker1: how are you son?
+speaker2: oh you know, just trying to live by the covenant.
+speaker1: don't me. you were the worst student i ever had. i bet you haven't even spoken a word of hebrew since your bar mitzvah.
+speaker2: i don't like to brag, but i couldn't speak it then.
+speaker1: your mother told me about your situation.
+speaker2: i'm sure she did.
+speaker1: it's not easy for a mother to see her son go through something like this,
+speaker2: nothing is easy for my mother.
+speaker1: have you thought about trying to reconnect with the torah?
+speaker2: honestly, i'm just here to make my mother happy. it was either this or i had to go see my cousin perform in his high school theatre's adaptation of "you've got mail".
+
+speaker1: hi there, i'm alan alda... 
+speaker1: so you've been told you have cancer. well, you're not alone. 1 in every 3 people living today will experience some form of the disease...
+speaker1: you may be wondering what is cancer? well, cancer is a group of more than 100 different diseases characterized by the abnormal growth of cells. these cells form a lump or mass called a "tumor".
+speaker1: cancer is treated through the use of a revolutionizing medicine called che-mo-therapy.
+speaker1: chemotherapy is a very serious treatment.
+speaker1: it works by destroying cancer cells; unfortunately, it cannot tell the difference between cancer cells and healthy cells.
+
+speaker1: as a result, it's going to make you feel tired... 
+speaker1: and sick.
+speaker1: ...you are about to embark on the journey of a lifetime. so aim high...
+speaker1: ...and always remember, the road to recovery is a team effort...
+speaker1: it's important that you talk openly with your health care providers. ask questions so you can know all the facts. being prepared is half the battle...
+speaker1: toward helping yourself begin to feel in control again...on behalf of all the great folks at mount sinai hospital, i'd like to thank you for your time...make it a great day.
+
+speaker1: adam schwartz. 
+speaker1: come with me my baby.
+speaker1: this way my baby.
+
+speaker1: is he okay? 
+speaker2: he's always like that.
+speaker1: is that going to happen to me?
+speaker2: best not worry about these things.
+speaker3: want a hit?
+speaker2: it makes it all a little easier to handle.
+speaker1: what if someone sees us?
+speaker3: don't be such an old man. look at this place, it's like death row in here, they don't give a what we do.
+speaker2: how old are you?
+speaker1: twenty-five.
+speaker3: you're lucky. life only gets worse anyway.
+speaker2: alan, stop it.
+speaker2: don't listen to him, he's just messing with you.
+
+speaker1: no i'm not. 
+speaker1: it's all downhill from here. trust me. first your hair's going to fall out, then your will shrink. you'll marry a woman, or man, who'll every penny out of your savings and then leave you for a fitness instructor in a teal miata. then, to top it all off, your kids will one day stop talking to you because their therapist, who you pay for, tells them you're the reason they're so up.
+speaker2: you'll have to excuse alan here, he's going through a rough time.
+speaker1: i'm just being realistic. you want some advice?
+speaker3: not really.
+speaker1: don't end up a victim like the rest of `em. life the earlier you accept it, the better off you'll be.
+speaker3: i got to tell you, i was really nervous about this whole cancer thing, and then i met you guys, and boy do i feel better.
+speaker1: i like this kid.
+speaker2: mitch horowitz, metastatic prostate cancer.
+
+speaker1: adam schwartz, schwannoma neurofibrosarcomas. 
+speaker2: what the is that?...sounds like the greek dish i had for lunch.
+speaker1: ... man this pot is really strong.
+speaker3: medicinal.
+speaker2: good eh.
+
+speaker1: hey you! what do you think you're doing? 
+speaker2: i want to ride.
+speaker1: read the sign.
+speaker2: i don't have cancer.
+speaker1: then what's that?
+
+speaker1: so how do you feel after your first treatment? 
+speaker2: i feel like i was just gang raped by the buena vista social club.
+speaker1: is everything with you going to be a joke?
+speaker2: i'm serious. have you heard their horn section?
+speaker1: adam, you have a responsibility to your mind and body.
+speaker2: i was just injected with three pints of kryptonite. can we please hold off on the new agey stuff.
+speaker1: you can't just sit there and ignore what's happening to you...you need to stop bottling everything up.
+
+speaker1: what i need is for people to stop telling me what i need. 
+speaker2: have you considered that this cancer is nature's way of telling you to change the way you live your life? ...there's an old saying - you can't change the wind, but you can adjust the sails.
+speaker1: they teach you that in medical school?
+speaker2: i know you don't like to talk about your feelings, but you have to learn to find an outlet.
+speaker1: an outlet for what? i have cancer.
+speaker2: and how is your body ever going to fight the stress of that cancer if you can't even handle your own emotions?
+speaker1: well excuse me. you'll have to forgive me for not having a firm handle on my emotions at this particular juncture of my life.
+speaker2: you don't have to be here.
+speaker1: i'm sorry, i know you're only trying to help.
+
+speaker1: this is all too much for me. i don't know what to do. just tell me what to do and i'll do it. 
+speaker2: i want you to do some homework. here's a list of books on mind-body therapy. they should help you get started.
+
+speaker1: "franz schlegel is an american `medical intuitive' and `mystic psychiatrist'. schlegel's teachings are widely recognized as a global spiritual awakening that is transcending individual and collective human consciousness"... you're actually going to read this this guy is a tool. 
+speaker1: let's go to mardi gras!
+speaker2: why would we go to mardi gras?
+speaker1: because it's mardi gras man. it's like a giant of the sexiest women you can imagine all throwing themselves at you, screaming to be it's a fest.
+
+speaker1: i'm getting chlamydia just listening to you talk about it. 
+speaker2: we need to go see the world.
+speaker1: this isn't my bachelor party we're planning here.
+speaker2: adam you can not let your cancer go to waste.
+speaker1: i'm not going anywhere.
+speaker2: well if you're not going to take advantage of your cancer, then i will.
+speaker2: excuse me.
+speaker3: yes, how can i help you?
+speaker2: i'm looking to buy a few books -
+speaker3: oh.
+speaker3: are these for...i'm sorry it's none of my business.
+speaker2: no that's okay. they're for my best friend, adam.
+
+speaker1: he's pretty sick. 
+speaker2: how awful.
+speaker1: yeah. cancer, not cool.
+speaker2: poor guy.
+speaker1: i know it's been really hard.
+speaker2: it's bad isn't it?
+speaker1: honestly?
+speaker1: sometimes i just wish it was me instead of him...to relieve some of the burden, you know? i just...i just want to help.
+
+speaker1: what just happened? 
+speaker2: i'll tell you what happened. cancer happened, and you need to get on the train.
+
+speaker1: adam do you know where the dog leash is? 
+speaker2: are you going to the park again?
+speaker2: this is the third time today.
+speaker1: he likes running around with the other dogs.
+speaker2: he can barely make it to the door without himself.
+speaker1: are you smoking weed?
+speaker2: yeah.
+speaker1: since when do you smoke?
+speaker2: it's medicinal.
+speaker1: you got a prescription for medicinal marijuana?
+speaker3: no, i did.
+speaker1: what's wrong with you?
+speaker3: night blindness. rods and cones are off.
+
+speaker1: where did that tv come from? 
+speaker2: the store.
+speaker3: it's medicinal?
+speaker1: i thought we already agreed that my painting was going there.
+speaker2: why can't we put up both?
+speaker1: you want me to put my painting next to a television?
+speaker2: yes?
+speaker1: art needs to breathe adam!...do whatever you want. i'm taking your dog to the park!...and open a window. this isn't a dorm room.
+speaker2: love you.
+speaker2: i don't get it, they spend all day at the dog park.
+speaker4: great. maybe she'll move there.
+speaker2: can you not talk about her like that?
+
+speaker1: are you joking? do you see the way she treats you? 
+speaker2: she's got some kind of creative block...it's her process.
+speaker1: you have cancer for fuck's sake! if i was your girlfriend, i'd be baking you cookies and blowing you every thirty minutes. instead, she's yelling at you over some painting. her art you don't want to put that on your wall. it looks like someone threw up a shrimp cocktail and then used it to spackle the berlin wall.
+speaker2: we're going through a rough patch. that's what happens in relationships.
+speaker1: she's you in the adam. this is the one time in your life you can do whatever you want. if you want to smoke weed, then smoke. you want a 50 inch flat screen tv, then get the tv! and if you want to go to mardi gras, then let's go to mardi gras!
+speaker2: we're not going to mardi gras.
+speaker1: you're totally missing my point.
+speaker2: i've been reading your books, and you know it actually makes sense...some of it.
+
+speaker1: i'm not gonna lie, i don't really get the "dark night of the soul" stuff. but i get it, years of anxiety have taken over my body. 
+speaker2: adam! this is fantastic.
+speaker2: you know if you're interested, there are some more advanced forms of therapy that i think could be really useful.
+speaker1: sure, if you think it'll help.
+
+speaker1: good morning class. before we begin i'd like to introduce adam and seth, our two newest giggle gurus. 
+speaker2: what are they laughing at?
+speaker3: just go with it.
+speaker1: now what you'll soon discover is the true miracle and gift of laughter.
+
+speaker1: learning to laugh at ourselves and others through non- judgemental means is far more effective than any prescription drug, or, rehabilitation center. you see, when we laugh, our bodies release endorphins that not only support the immune system, but also release deeply stored emotional pain, and give us a fresh new outlook on life. 
+speaker1: we don't tell jokes here, we tell the truth - and we laugh at that truth.
+speaker1: so let us share. adam, why don't you tell us what brings you here?
+speaker1: we're all friends here in the laughter pagoda.
+speaker2: i, ah, have cancer.
+speaker1: ah cancer yes. yes. laugh.
+speaker3: yesterday, i confiscated my son's collection and then used it to 6 times.
+speaker1: paul, share,
+speaker4: my wife told me she's a lesbian.
+speaker5: the class laughs.
+
+speaker1: my best friend is a giant pussy. 
+speaker2: my best friend's favorite band is abba.
+speaker1: when i was 12.
+speaker3: abba! wonderful. i love it. seth laugh.
+
+speaker1: fake. 
+speaker2: fake.
+speaker3: you're both wrong. i think i know real when i see it.
+speaker3: it.
+speaker1: how come we've never met rachel?
+speaker3: yeah. what the
+speaker2: she's been really stressed lately, adam looks around at all the sick people.
+speaker2: if i brought her here, she'd probably freak out.
+speaker3: smart man. save yourself the headache.
+speaker1: don't listen to him adam. it's important to be with your loved ones in times like these.
+speaker3: women are nothing but trouble.
+
+speaker1: they're selfish animals who only add to the misery in your life. you want to talk about a cancer. 
+speaker2: listen to me adam, i've been married 40 years and it's my margaret who keeps me going.
+speaker2: she's my reason to live.
+speaker1: that's precious mitch, i almost want to wrap it up and tie a little bow around it.
+speaker1: honestly, i don't give a you can do whatever you want. it's your life. all i know is that i'm not going to spend my last days on this miserable planet pining over a woman. the day my wife left me was the best day of my life.
+
+speaker1: hey, it's rachel. i must be doing something really important. i'll give you a call when i'm done...yay! 
+speaker2: hey it's me, just checking to see if you're on your way.
+
+speaker1: hey, it's rachel. i must be doing something really important. i'll give you a call when i'm done...yay! 
+speaker2: it's me again. just checking to see where you are. in case you're looking for me i'm now on the other side of the parking lot. call me.
+speaker3: adam?
+speaker2: oh hey.
+speaker3: what are you doing?
+speaker2: just waiting for rachel to pick me up.
+speaker3: what time is she coming?
+speaker2: uh, four.
+speaker3: it's six thirty.
+speaker2: she must be stuck in traffic.
+speaker3: you want a ride?
+
+speaker1: sorry about the mess. 
+speaker2: i think you should ask for a refund.
+speaker1: i know, i know. what can i say? i'm not good at getting rid of things.
+speaker2: yeah, i can see.
+speaker1: so you don't drive?
+speaker2: nope.
+speaker1: but you have a license?
+speaker2: nope.
+speaker2: i actually failed my test.
+speaker1: no!
+speaker2: it's true.
+speaker1: but, i thought you can re-take the test.
+speaker2: eh. let's just say, that the state of california felt it was best i didn't.
+speaker1: what did you do?
+
+speaker1: i kind of backed my mom's car down an embankment...into the balboa cactus garden. 
+speaker2: the garden with all the endangered plants?
+speaker1: they didn't want to tow it out in fear of destroying more of the vegetation, so they had to use a giant crane.
+speaker2: i'm sorry. that's terrible.
+speaker1: stop the car.
+speaker2: why what's wrong?
+speaker1: just stop the car.
+speaker2: what are you doing?
+speaker1: i can't handle all this mess.
+speaker2: wait, no, not that, that's my dinner.
+
+speaker1: you can drive. 
+speaker1: thanks for the ride...
+speaker1: do you want to come in. for a beverage? or something?
+speaker2: it probably wouldn't be very professional of me.
+speaker1: come on, i'll let you analyze my id.
+speaker2: uh, okay. but i can't stay long.
+
+speaker1: you know you are terrible at this? 
+speaker2: i've never played before.
+speaker1: this is your playstation.
+speaker2: doesn't mean i play it. games these days today are so complicated.
+
+speaker1: there's too many buttons. i can't keep track of what does what. 
+speaker2: perhaps you'd prefer something a little more simple. maybe a nice game of connect four or bingo.
+speaker1: she has a sense of humor.
+speaker1: duck hunt, now that was a game. you know why? one button.
+speaker1: you think i'm kidding. my dad and i used to have duck hunt tournaments.
+speaker1: until he had his stroke.
+speaker2: that must have been hard, seeing him lose his cognitive skills like that.
+speaker1: well the funny thing is that the stroke actually made him a better player, he just lost interest.
+speaker2: you've never talked about your dad.
+speaker1: well whose fault is that? doctor?
+speaker2: hey!
+speaker3: game over.
+speaker2: rematch?
+
+speaker1: you ever had this stuff. 
+speaker2: no, but it's supposed to be really good for you.
+speaker1: well it smells like my grandmother.
+speaker2: you complain a lot.
+speaker1: you haven't met my mother. it's a miracle i do anything but complain.
+speaker2: i try not to look at the world like that.
+speaker1: the world would be a boring place if we didn't complain. come on. there's got to be something. one thing, just one thing, that drives you nuts.
+speaker2: hmmm.
+speaker2: i really don't like it when people at work finish all the coffee and don't refill the pot.
+speaker1: it's infuriating right?
+
+speaker1: i wouldn't say infuriating. it's just not good work place etiquette. 
+speaker2: to complaining.
+speaker1: oh that's disgusting. i'm so sorry.
+speaker1: hold on. i'm so sorry.
+speaker2: is it all gone?
+speaker3: adam?
+speaker1: i should probably be going.
+speaker3: adam?
+speaker2: finally. where have you been?
+speaker3: i hope i'm not interrupting.
+
+speaker1: oh, this is dr. mcrae, my therapist. 
+speaker2: this is your therapist?
+speaker3: please, call me katie.
+speaker2: ok. katie. what are you doing here?
+speaker1: she drove me home. ring a bell?
+speaker2: ugh.
+speaker2: thank you so much for doing that. life's been a little crazy lately, which i'm sure adam has told you all about. i love those shoes.
+speaker3: thanks...
+speaker3: i'm going to go. i'll see you at our next session adam.
+speaker1: where have you been?
+speaker2: i was at the gallery.
+speaker1: you were supposed to pick me up. 8 hours ago.
+speaker2: i know. i'm sorry. i totally spaced. with the opening only three months away my head's just all over the place.
+
+speaker1: don't look at me like that. you know this is a hard time for me. 
+speaker2: you're right. let me go back and talk to the doctor - see if maybe they can diagnose me with something that better suits your needs.
+speaker1: i'm not just some car service here to shuttle you around!
+speaker2: and my house isn't a summer camp. you can't just come and go as you please and not take some responsibility.
+speaker1: and what is it that i'm not taking responsibility for?
+speaker2: this. us.
+speaker1: i can't handle this! you make it sound like i'm your wife.
+speaker2: you know what i thought the other day? that i might actually die without ever having again.
+speaker1: i'm sorry if your cancer isn't turning me on.
+speaker1: you think this is easy for me seeing you sick like this? the past few months have been hard on me too. it's not always about you.
+speaker2: i know.
+speaker3: a beat.
+speaker1: why are you so good?
+speaker2: you're my yam.
+
+speaker1: what's wrong? 
+speaker2: i can't.
+speaker1: why?
+speaker2: i don't know what's wrong.
+speaker2: it won't work.
+
+speaker1: excuse me. 
+speaker2: how can i help you?
+speaker1: where am i?
+speaker2: the after life.
+speaker1: this is heaven?
+speaker2: pretty great huh? they've even got a frozen yogurt machine.
+speaker1: there are lines in heaven?
+speaker2: it's worth it.
+
+speaker1: so you want to know what's going to happen when you die? 
+speaker2: i think it's a fair question.
+speaker1: fair yes, but impossible for me to answer. our deaths, like our lives, have meaning and are all part of plan. how should i know what has planned for you. maybe if you came to service once in a while...
+speaker2: well am i going to go to heaven?
+speaker1: probably.
+speaker2: what if i want to just die? that's it. no heaven.
+speaker1: that's like buying a ticket for a cruise and then not going. the afterlife is where the fun begins.
+speaker2: how can being stuck in some nonexistent void with my grandparents be fun. i spent my entire life trying to get away from my family, now i'm going to have to spend an eternity with them.
+speaker1: adam, you can not look at death as a curse. even in death we are all still part of life on earth is just the beginning.
+
+speaker1: but that's not what i want. 
+speaker2: oy. then find another religion. i don't make the rules.
+
+speaker1: you're being awfully quiet today. 
+speaker2: i'm going to die aren't i?
+speaker1: what are you talking about?
+speaker2: it's true.
+speaker1: we don't know that.
+speaker2: i'm not getting any better.
+speaker1: don't say that, you're doing so well.
+speaker2: did you know that they found a quasar 7 billion light years away? 7 billion light years! it's more than 3 billion years older than our planet, and we're just seeing it now; and you think i'm going to live?
+speaker1: what are you talking about?
+
+speaker1: cancer is an epidemic! it killed alan, it's going to kill me, and it's going to kill millions more after me. there's nothing anybody can do. 
+speaker2: this is really good adam. let it out.
+speaker1: will you stop!
+speaker1: i can't do this anymore. it doesn't matter. none of it. i'm going to die and with nothing to show for my life. 100 years from now my legacy be will be that of just another person dead of cancer. that's it.
+speaker2: this helplessness you're feeling is normal. these emotions you're holding onto are what make you human. but it doesn't mean you can just stop living your life.
+speaker2: look at how you've grown over the past few months, you can't just throw it all away...talk to me.
+speaker1: i know you're only trying to help, but this isn't working for me anymore.
+speaker1: i'm sorry.
+
+speaker1: i need a new lint brush. 
+speaker2: okay, i'll pick one up.
+speaker1: and i have a doctor's appointment next thursday...the big one.
+speaker2: am i getting fat?
+speaker2: what?
+speaker1: are you listening to me?
+speaker2: yes.
+speaker1: so you'll take me?
+speaker2: of course.
+
+speaker1: you look great. 
+speaker2: really?
+speaker1: yeah, look at you.
+speaker2: i want to come back to work.
+speaker1: you want to come back? here?
+speaker2: what's so crazy about that?
+
+speaker1: you could be anywhere right now, and this is that place? 
+speaker2: yeah.
+speaker1: are you sure that's a good idea?
+speaker1: ...given...your current health?
+speaker2: you said i look great.
+speaker1: yeah for a guy with cancer.
+speaker1: alright, what the hell? i'd love to have you back. let's be honest this place is falling apart without you.
+speaker2: thank you phil.
+speaker1: so you're really okay? i mean, the cancer, is-
+speaker2: oh it's really good. we've come to an understanding. it takes whatever it wants and depletes me of my every will to live, and i let it.
+speaker1: welcome back.
+
+speaker1: and if you look over on your left you'll see our newest exhibit "the last days pompeii." buried in 79 ad by the catastrophic eruption of mt. vesuvius, pompeii remained hidden and forgotten until 1748 when archeologists began to excavate the site. here we see exquisitely preserved objects that offer a glimpse into the day-to-day life of this ancient city. 
+speaker1: this here is adam, one of our curators. adam do you want to tell us what you're working on?
+speaker2: gladly. this here is a depiction of what pompeii's final 19 hours probably looked like.
+speaker2: according to pliny the younger - "you could hear women lamenting, children crying, men shouting. there were some so afraid of death that they prayed for death. many raised their hands to the gods, and even more believed that there were no gods any longer, and that this was one unending night for the world."
+speaker1: ok. moving along we see the beautiful watercolor paintings of john james audobon.
+speaker3: seth looks back at adam like he's lost his mind.
+
+speaker1: i'll be in pompeii if anyone needs me. 
+speaker2: you feeling okay? you don't look so good.
+speaker1: could be worse. right?
+speaker2: 
+speaker2: listen adam...i don't know how to say this...
+speaker1: don't worry...i get it. you're a good guy.
+speaker2: come back when you're better. you know you'll always have a home here.
+
+speaker1: hey, it's rachel. i must be doing something really important. i'll give you a call when i'm done...yay! 
+speaker2: hey, it's adam. where are you? maybe you forgot, but my appointment is today. so call me back.
+speaker2: 
+speaker3: yoooooo.
+speaker2: hey man, i need you to do me -
+speaker3: not around. leave a message.
+
+speaker1: the doctor wanted me to apologize for running late, he's just in with another patient, but should be out in a few minutes. you guys holding up alright? 
+speaker2: it's very cold in here. is there anyway you can turn down the air conditioning?
+speaker1: unfortunately the temperature is controlled by a central thermostat.
+speaker2: my son has cancer.
+speaker1: i'm sorry, really, if i could i would, but there's nothing i can do.
+speaker3: don't worry about it. i'm fine.
+speaker1: are you sure? i could get you a blanket.
+
+speaker1: no, really, i'm okay. but thank you. 
+speaker2: i'd love a blanket.
+speaker1: we're fine.
+speaker3: okay, but you let me know if you need anything.
+speaker2: i don't like her.
+speaker2: you feel warm.
+speaker1: i'm fine.
+speaker2: take these.
+speaker1: you're like some kind of deranged pusher.
+speaker2: do you know what it's like to fear losing your son? no. you don't. when you have children of your own we can discuss it. now take the pills.
+
+speaker1: huh. 
+speaker2: what?
+speaker1: oh nothing.
+speaker2: what?
+speaker1: it's nothing, he went to a state college.
+speaker2: you're unbelievable.
+speaker1: i just worry that you're not getting the best care possible.
+speaker2: well who needs a doctor when they've got you and your pack?
+speaker1: you can be a little sometimes, you know that? you think i don't know what's best for you? i birthed you. you came out of me. i am your mother, for better or for worse, so accept it. you don't like this, well i'm sorry. it's my own way of caring.
+speaker2: well stop! you're driving me crazy. with the comments and the pills every five minutes. just stop. i'm not dad. i can take care of myself.
+speaker3: edith turns away, adam's words hurt.
+speaker2: i'm sorry, i didn't mean it.
+speaker1: yes you did. i drive you crazy.
+speaker2: mom.
+speaker1: you're all i've got. look at your father.
+speaker1: i've lost him. my true love, gone. i'm never going see him again, at least not in this life.
+speaker1: he spent his whole life priding himself on his independence, always too stubborn to ask for help and now look at the son of a
+speaker1: you happy? you like yourself?
+speaker2: mom!
+speaker1: he was the greatest thing to ever happen to me. and then i had you, and that was even greater. so if i hover and threaten your independence, so what? you have a mother who loves you more than anything. is that so awful?
+speaker2: no. it's not.
+
+speaker1: sorry to keep you folks waiting. it's been one of those days...car got towed. wife double parked it. 
+speaker1: anyway i'll cut to the chase. the cancer's not responding to the chemo.
+speaker1: as you can see...the tumor is continuing to grow here, along the nerve.
+speaker2: so what do we do?
+speaker1: we need to operate. if we don't remove it soon we risk metastasis.
+speaker2: but you said surgery was too risky.
+speaker1: we're out of options.
+speaker3: but he's going to be okay, right? you're going to fix it.
+speaker1: this surgery is no guarantee. the risks are tremendous. and, even if we're able to remove the tumor there's still the chance that adam, you'll never be able to walk again.
+
+speaker1: hey you. 
+speaker2: smells good.
+speaker1: the girls and i are having a movie night. i somehow got suckered into cooking. don't worry i left you some.
+speaker2: who's that?
+speaker1: susan. she wants to know what time i'm coming over.
+speaker2: that's what she just texted?
+
+speaker1: she wants to know what time you're going over to her house? 
+speaker2: uh huh.
+speaker1: alright, well i'm gonna go lie down.
+speaker2: i might be out late so don't wait up.
+speaker1: what the
+speaker2: what are you doing?
+speaker1: who's james?
+speaker2: my art partner.
+speaker1: he wants to know if you're still coming over tonight. should i tell him you're having a girls night?
+speaker1: oh wait, you already told him to bring the wine.
+speaker1: that's funny. it seems as though you've double booked yourself.
+speaker2: i can't believe you just invaded my privacy like that.
+
+speaker1: oh, you just got another text from him. he says "your skin is the canvas upon which my dreams are painted... 
+speaker2: give me back my phone.
+speaker1: "hope you're not too sore from this afternoon."
+speaker2: adam, it's not what you think.
+speaker1: well now how do you know what i'm thinking?
+speaker2: don't be like that. i didn't do anything wrong.
+speaker1: you've been cheating on me.
+speaker2: adam you're being ridiculous.
+speaker1: am i?
+speaker1: what's this?
+speaker1: and this? and this? and this? there are over a dozen naked photos of you in here.
+
+speaker1: hey guys. 
+speaker1: bad time?
+speaker1: whoa! nice! now that i would put on the wall. i can see you're in the middle of something. i'll just be in the other room.
+speaker2: it's a portrait series, commenting on post-colonial patriarchy in the congo. ...that's it. nothing more.
+speaker3: have you lost your mind? i had the most important appointment of my life today and you missed it because you were off with your "art partner"...and what the do you know about africa?
+speaker2: oh i forgot. please, adam, i'm so sorry.
+speaker2: what did the doctor say?
+speaker3: did you cheat on me?
+
+speaker1: are you going to break up with me? 
+speaker2: no.
+speaker2: i'm going to pretend you never existed.
+speaker1: please. i don't want to break up.
+speaker2: you know, you have a pretty up way of showing your commitment.
+speaker1: i told you i couldn't handle this!
+speaker1: i'm sorry...i love you.
+speaker2: i want you out my house. adam walks out the back door.
+speaker3: shame on you.
+
+speaker1: your skin is the canvas upon which my dreams are painted? 
+speaker2: i know.
+speaker1: is "dreams" a metaphor, for-
+speaker2: you remember the last time we came out here?
+speaker1: prom night. how could i forget? jen zabrowski went down on me right where you're sitting.
+speaker2: that memory is so far from me,
+speaker1: jen giving me a blow job?
+speaker2: no, prom night. it feels like a lifetime ago... i know it happened, but that's it. it's like someone else's memory.
+speaker1: you okay?
+speaker2: i can't believe this is all actually happening.
+speaker1: the girl or the cancer?
+
+speaker1: both. 
+speaker2: it's some pretty up
+speaker1: you know, i used to think that i was actually going to spend the rest of my life with rachel...granted that might not be so far off. what a waste.
+speaker2: we need to get you laid.
+speaker1: don't you ever give up?
+speaker2: no.
+speaker1: seriously, who's going to have with me?
+speaker2: some girls are into it?
+speaker1: i look like powder.
+speaker1: plus i have erectile dysfunction...temporary. i hope.
+speaker2: then let's go get me laid.
+speaker1: i think i should drive.
+speaker2: you don't have a license.
+speaker1: you're drunk.
+
+speaker1: do you even know how to drive? 
+speaker2: how hard can it be?
+speaker1: hard enough that you don't have a license.
+speaker2: this might be my last chance.
+speaker1: driving! you care about driving! we could be on everest getting high on ayahuasca with sherpas, and you want to drive!...forget it, i give up. drive.
+speaker1: hey miss daisy, will you please watch where your going?
+speaker2: what? i didn't see it.
+speaker1: that's what the mirrors are for.
+speaker1: turn right.
+speaker2: i know what i'm doing.
+speaker1: apparently not. you're going the
+
+speaker1: adam! turn the car around. 
+speaker2: no. i'm driving and i want to go this way.
+speaker1: what the is wrong with you?
+speaker2: for once can you just shut up and let me do this? so i'm driving the wrong way? big deal.
+speaker1: you're an
+speaker2: get out.
+speaker1: this is my car.
+
+speaker1: you're being a real douche. 
+speaker1: adam, open the door.
+
+speaker1: don't you dare call her. not after everything she's done to you. 
+speaker1: you're a pussy.
+speaker2: well you're a selfish piece of who cares more about getting his wet than actually being a friend.
+
+speaker1: hello. 
+speaker2: i don't want to die.
+speaker1: adam?
+speaker2: i'm 25 years old and i've never even been to canada. i haven't lived my life!
+speaker2: i'm really, really scared.
+speaker1: i know.
+speaker2: i'm sorry for the way i acted. i should have never stormed out like that.
+speaker1: it was wrong of me to push you the way i did. i wasn't listening.
+
+speaker1: i could never have handled all of this the way you have. 
+speaker2: you mean like a complete asshole?
+speaker1: i think you're really brave.
+speaker2: if i don't die, i think we should go on a date.
+speaker1: adam, i'm not sure if that's a good idea.
+speaker2: why not?
+speaker1: not only am i your therapist, but you're also my first patient, ever. what kind of precedent would i be setting?
+speaker2: it makes for a nice incentive.
+speaker1: i can't date you.
+speaker2: yes you can.
+speaker1: no i can't.
+speaker2: yes, you can.
+speaker1: no i can't.
+speaker2: a wise person once told me - you can't change the wind, but you can adjust the sails.
+
+speaker1: adam i can't date you. 
+speaker2: that's what you think.
+speaker1: adam? adam? adam?
+
+speaker1: good night. 
+speaker2: night.
+speaker1: what are you doing?
+speaker2: watching you sleep.
+
+speaker1: it's a little creepy. 
+speaker2: i know. i can't help it.
+
+speaker1: you have 2 new messages. first message. 
+speaker2: hi adam, this is richard mathesson, your family's estate lawyer. your mother asked me to call. we need to talk about potential, ah, well just call me, there are some potential arrangements we need to work out.
+
+speaker1: sir can i help you with anything today? 
+speaker2: you think this is a good suit to wear to your own funeral?
+speaker1: no, what you want is on level 3.
+
+speaker1: next message. 
+speaker2: adam, this is dr. ross. good news, i was able to expedite the wait for your surgery. your scheduled for tomorrow morning at 7:00 am with dr. lamb. please call my office if you have any questions.
+
+speaker1: here at linden we're more than just a stopping ground for the deceased. we understand that life is different for everyone, and helping families to see their loved ones off to the hereafter means approaching every funeral and burial with it's own dignity and care...a funeral is a representation of the individuals time spent on earth, so i ask you to reflect on your inevitable interment and think carefully in choosing the service and tomb that best befits you. 
+speaker2: what about a viking funeral?
+speaker1: i'm not familiar.
+speaker2: you know, we put him on a boat... cover it with...dirt and...branches...whatever you can find. we push it out...into the sea...or the ocean...and then shoot flaming arrows, boom! it catches on fire...and that's it. it's awesome.
+
+speaker1: good morning adam, how are you feeling? good. good. good. good. 
+speaker1: so we're going to be removing your kidney? right? or is it the left? just kidding. that's doctor humor.
+speaker1: nurse wong here needs you to sign a few papers, so i'm going to leave her to do her job, and i'll see you after the surgery.
+speaker2: what is all this?
+speaker3: hospital liability and disclaimer forms...in case they need to fuse your spine or remove any organs.
+speaker2: oh, great.
+
+speaker1: glad to hear there's nothing unusual about removing organs. 
+speaker2: you have some visitors.
+speaker3: there he is.
+speaker3: here take these. they're special. i got them from canada.
+speaker1: mom, this is nuprin.
+speaker3: i know isn't it great?
+speaker1: what the hell.
+speaker4: i gotta new coat.
+speaker1: that's great dad.
+speaker4: brooks brothers. silk pockets. feel.
+speaker4: feel.
+speaker1: i am feeling.
+
+speaker1: i love you son. 
+speaker2: i love you too dad.
+speaker3: hello?
+speaker2: egh em. mom. mom.
+speaker4: alright. come on art, let's go to the waiting room.
+speaker4: hmmm.
+speaker3: i brought you flowers. not sure why, i didn't know what else-
+speaker2: they're great, thank you.
+speaker3: so how you doing?
+speaker2: i'm a little freaked out.
+
+speaker1: hello adam, i am the anesthesiologist. i will give you shot to make you sleep. 
+speaker2: will you be here when i wake up?
+speaker3: i'm not going anywhere.
+speaker1: now relax, this will take a few minutes to feel the effect.
+speaker2: about how long?
+speaker1: relax, you will soon begin the sleeping.
+speaker2: well what if it doesn't work. how do you know i won't wake in the middle of the surgery? what if i- just like that, adam's out cold.
+
+speaker1: i'm telling you sir francis drake was a buccaneer. 
+speaker2: no he was a privateer.
+speaker3: i thought he was a pirate.
+
+speaker1: a pirate works for no one but himself. a privateer has a mandate from a government. 
+speaker2: i thought that was a buccaneer.
+speaker1: no, a buccaneer is a butcher turned pirate.
+speaker2: then what's a mercenary?
+speaker1: nurse wong. will you google it?
+
+speaker1: that is the most beautiful dresses. where did you get it? 
+speaker2: adam, i see you're awake.
+speaker1: i'm here.
+speaker2: how are you feeling?
+speaker1: i feel wonderful.
+speaker2: that would be the morphine.
+speaker2: i want you to push this little button any time you feel pain. it'll trigger the morphine. you think you can do that?
+speaker1: magic!
+speaker1: mommy! daddy!
+speaker3: my little boy.
+
+speaker1: remember the time you walked in on me masturbating?...that was so awkward...what hotel is this? we need to go on more vacations. 
+speaker1: you're here too! you're soooooo awesome...
+speaker1: katie mcrae, katie mcrae, katie mcrae. mic-rae, dr. awesome mic- rae...i'd love to make you pancakes sometime.
+
+speaker1: you must be margaret. 
+speaker2: yes, i'm looking for adam schwartz.
+speaker1: that's me.
+speaker2: you're adam? the way mitch described you, i always assumed you to be much older. about 50 years older. but, you're just a baby...
+speaker1: i'm so glad you could make it.
+speaker1: i'm really sorry about mitch.
+speaker2: me too.
+speaker1: please come inside. you're just in time.
+speaker1: sorry about the mess. i just moved in...the ocean air is supposed to be good for my recovery.
+
+speaker1: me? oh i don't know how to play video games. 
+speaker2: it's really easy. one button does everything.
+speaker3: this food's not going to eat itself.
+speaker4: i got it.
+speaker2: you mind?
+speaker2: please. i think there's a red tide or something. my eyes are all itchy. it feels like someone is rubbing sandpaper on my corneas.
+speaker4: nope. you don't have cancer anymore. no more special treatment.
+speaker2: i am still in remission.
+
+speaker1: you gonna spend the rest of your life complaining? 
+speaker2: i like complaining.
+

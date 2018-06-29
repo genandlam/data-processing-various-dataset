@@ -1,0 +1,835 @@
+speaker1: pan down to reveal: 
+speaker2: a flat horizon, stretching to infinity.
+
+speaker1: how now brown cow ... the rain in spain falls mainly on the plain ... the quick brown fox jumped over the lazy -- 
+speaker2: password affirmative. thank you, doctor.
+
+speaker1: ready, darling? 
+speaker2: ready as i'll ever be ...
+
+speaker1: atmospheric pressure checked, antenna ready... thermal chamber ready ... compression module set ... temperature control on course between one and one forty ... water turbulence steady ... 
+speaker2: anything else?
+speaker1: good luck ... peter ... emma.
+speaker3: thanks, valentine ... emma gives him a quick peck on the cheek.
+speaker2: just a minute, darling. my brother's a worry wart. i better have a word ... valentine --
+speaker2: something to remember me by.
+speaker2: see you in an hour ...
+speaker3: one sunny day ...
+
+speaker1: losing control -- malfunction in thermal chamber -- for christ's -- emm --! 
+speaker2: five -- four -- three -- two -- one ... three -- two -- one ... three -- two -- one ...
+
+speaker1: emma, peter, get out! it's going to explode! 
+speaker1: emma ...
+
+speaker1: peter! 
+speaker2: don't wait for him -- he's not --
+
+speaker1: brenda -- ? 
+speaker2: steed -- ?!
+
+speaker1: mother. i thought you were burglars. 
+speaker2: brenda and i thought we'd drop in.
+speaker3: see how you're getting on ...
+speaker1: something in the wind?
+speaker2: weather's turning nasty.
+speaker1: you didn't come to talk about the weather, surely.
+speaker2: oh yes i did. i want you to meet somebody. i expect you'll like her.
+speaker1: 'her'?
+
+speaker1: dr. peel? 
+speaker2: thank you ...
+speaker2: 'please answer the telephone.' emma looks: the phone sits there.
+speaker3: boodles club, the mall, 2:30 p.m. mr. john steed ... boodles club, the mall, 2:30 p.m. mr. john steed ...
+speaker2: kippers ...?
+
+speaker1: may i help you, madam ... 
+speaker2: mr. john steed, please.
+speaker1: i'm afraid that's impossible.
+speaker2: impossible?
+speaker1: you are female?
+speaker2: as you see.
+speaker1: then you can't come in.
+speaker2: i have an appointment.
+speaker1: no women. not in boodles. not since 1922.
+speaker2: really -- what happened in 1922?
+speaker2: thank you so much. i can find mr. steed myself ...
+speaker3: doctor peel, i presume?
+speaker2: and you must be steed. please don't get up.
+speaker3: i was about to throw in the towel.
+speaker2: i had a spot of bother at the door.
+speaker3: i shouldn't wonder. not a woman inside boodles since --
+speaker2: 1922. why the kippers?
+speaker3: red herring would have been too obvious, don't you think?
+speaker2: so what was all this -- some sort of test?
+speaker3: congratulations, you've penetrated a bastion of male privilege. i guessed you weren't a stickler for tradition, doctor.
+speaker2: whereas you are.
+speaker3: dyed in the wool. but i can admire someone who doesn't play by the rules.
+speaker2: rules are made to be broken.
+speaker3: not by me. play by the rules, doctor, or the game is nothing.
+speaker2: and just what is the game?
+speaker3: i say, this is all terribly formal. must i go an calling you dr. peel?
+speaker2: under the circumstances, you may call me mrs. peel.
+speaker3: much better.
+speaker2: and now that we've settled the matter of honorifics, will you kindly explain why you wished me to meet you?
+speaker3: i didn't. mother did.
+speaker2: mother?
+speaker3: i expect you'll like him.
+
+speaker1: tea time -- four o'clock. mustn't be late. a word of warning. don't take the macaroon. mother's favorite. 
+speaker2: no admittance
+
+speaker1: that's better. i much prefer a womb with view, don't you, mrs. peel? a delicate clock on the mantel chimes four. 
+speaker1: shall i be mother?
+speaker1: i expect you're wondering where you are.
+speaker2: don't tell me: you're the shadow secret service. you're so hushhush, even the legit secret service knows nothing about it. am i right?
+speaker1: close. we're so hush-hush, even we know nothing about it. now let's see, there's coconut cake, date and walnut; i recommend the rum baba ...
+speaker2: hmmm ...
+speaker1: looks like rain, steed...
+speaker3: ... showers followed by sunny periods.
+speaker2: we're not here to talk about the weather, surely.
+speaker1: oh, yes we are.
+speaker4: macaroon?
+
+speaker1: we've had a series of bizarre weather reports. we kept them hush-hush and sent agents into the field for data. case number one: april 14, 3:35 p.m., special agent simkins investigating mysterious fires in corn circles. a field outside the village of little snoring, one of the hottest days of the year. trapped by a sudden blizzard. found frozen to death in a giant ice cube -- like a mammoth in perma-frost. case two: pilot raymond shaw, may 6, 11:28 a.m. 
+speaker1: a tall, striking older woman; dark glasses.
+speaker1: my number two. special assignments. she's --
+speaker2: let me guess -- 'father'?
+speaker3: all happy families here, mrs. peel.
+speaker2: you're -- blind ... father smiles.
+speaker3: you're quick.
+speaker1: have a look at these, mrs. peel --
+speaker4: ah ... from trubshaw's. my shoemaker.
+speaker2: a kipper. or a red herring? what were they investigating?
+speaker3: a series of bizarre shifts in local weather patterns ...
+speaker4: global warming?
+speaker3: jungle plants in the arctic? a lush english village transformed overnight into african scrubland? blizzards in summer?
+speaker2: how curious ...
+speaker1: something strange is happening. and whoever knows about it doesn't want us to find out.
+speaker3: your mission is simple. find out how and why these agents died.
+speaker2: i'm no spy -- where do i fit in?
+speaker1: your research into climate engineering was state-of-the-art. your experiments could have revolutionized our knowledge of global warming -- had they succeeded. we need your expertise.
+speaker4: perhaps i'd better start calling you doctor again, mrs. peel -- emma hesitates, unsure for the first time ...
+speaker2: i'm not sure i'm ready to return to work. i've been out of action for some time. i'll consider your proposal. she gets up, ready to go.
+speaker3: one moment, mrs. peel. there's another special reason we wanted you to join our happy family; rather curious, actually ...
+speaker1: eye witness reports. strangers in the area. one description tallied in all three places. recognize her?
+speaker2: me, isn't it?
+speaker3: think of it as special assignment, mrs. peel. with a twist. you're our chief suspect.
+speaker2: you're saying i have no choice.
+speaker1: father will be your controller. steed here will show you the ropes.
+speaker2: ropes?
+
+speaker1: think she really killed those agents? 
+speaker2: she may not know. theory goes she may be very ill.
+speaker1: amnesia?
+speaker2: possibly. split personality ...
+speaker1: insane ... ?
+speaker2: who knows? if dr. darling is right, you should watch out.
+speaker1: why?
+speaker2: she may try to kill you.
+speaker1: perhaps i ought to talk with dr. darling.
+
+speaker1: one key point: mrs. peel is a widow: she's obsessively devoted to the memory of her husband the scientist peter peel. you may find her a little ... remote. 
+speaker1: they were a team. met at cambridge. working on a top secret research mission into weather conditions, code name the prospero project, when peel died.
+speaker2: something went wrong. system malfunction. explosion. mrs. peel had a narrow escape. suspected sabotage. nothing proven. file still open.
+speaker3: how come you took so much interest in her, dr. darling?
+speaker1: her husband was one of ours.
+speaker3: peel? did she know?
+speaker2: still doesn't. better safe than sorry. she was in a dangerous game, steed. high stakes. she may prove to be a risk. if she is, there's only one solution. termination.
+speaker3: anyone particular in mind?
+speaker2: you.
+
+speaker1: you're a lady of hidden talents, mrs. peel ... 
+speaker2: i've no intention of hiding them ...
+speaker1: scientist ... ... marksman ... ... swordsman ... ... to what do you attribute your overachievements?
+speaker2: my father always wanted a boy.
+speaker1: really? i fail to see the connection.
+speaker2: i had a feeling you would. touche!
+speaker1: i take your point.
+speaker2: do you?
+speaker1: yes indeed. i need protection.
+
+speaker1: i thought we were on our way. 
+speaker2: oh, absolutely, but trubshaw's a man worth meeting. no point setting out half shod.
+speaker1: or half cocked.
+
+speaker1: i couldn't agree more. thank you, trubshaw. 
+speaker2: very good, mr. steed.
+
+speaker1: steed, we really must be -- 
+speaker2: ahh. perfect fit. the luxury of a hand-made shoe. as unique as a face or a fingerprint. or should i say dna?
+speaker1: you can but i wish you wouldn't ...
+speaker2: thank you, trubshaw ...
+
+speaker1: that place is so absurd, so out of date ... 
+speaker2: do you really think so?
+
+speaker1: sorry. didn't mean to interrupt your flow of oratory ... 
+speaker2: you know what i mean. this car -- and you. nobody walks around like that. milk?
+speaker1: not all tradition is bad, mrs. peel. no thank you.
+speaker2: but why? what's the point?
+speaker1: a gentleman has to have a code. this is part of mine. a uniform. think of it as my suit of shining armor.
+speaker2: and i suppose you're the knight.
+speaker1: the most unpredictable piece on the board. and always ready to protect his queen.
+speaker2: that's predictable. when i find a queen in need of protection i'll let you know.
+speaker1: i'm hoping you will.
+
+speaker1: sir august merryweather ... why are we seeing him first? 
+speaker2: as per mother's instructions.
+speaker1: do we always follow mother's instructions?
+speaker2: for a man in my position --
+speaker1: just what is your position, if you don't mind my asking. how did a stuffed shirt like you get into this line of work?
+speaker2: they call me in when they've reached a dead end. freelance. like yourself.
+speaker1: i have no choice. why should you risk your life?
+speaker2: after our fencing match, i was rather hoping you would do the risking. more tea?
+speaker1: no thanks.
+speaker2: i meant me.
+
+speaker1: according to mother, sir august owns half of the highlands. a millionaire. former head of special projects at the ministry. now ... 
+speaker2: an eccentric recluse?
+
+speaker1: not so much eccentric. more barking mad. he has a wife called june. and a daughter somewhere -- julie. 
+speaker2: june, july ... august?
+speaker1: the family does seem to be somewhat meteorologically inclined.
+speaker2: any other vices?
+speaker1: all of a piece, really. a fanatical weatherman. chairman of brolly. british royal organisation for lasting liquid years. thinks british weather has been tampered with by ... aliens.
+speaker2: so ... i distract him while you snoop around? how?
+speaker1: small talk. try the weather.
+
+speaker1: original ... 
+speaker2: this way, miss ...
+speaker1: missus ...
+
+speaker1: sir august ... ? sir august ... ? 
+speaker2: eh? in here!
+
+speaker1: i've come to apply for membership in brolly -- 
+speaker2: you don't get rain like you used to in england. a good shower that's the ticket. stiffens resolve, puckers the spirit, quells the namby-pamby in a man.
+speaker1: i so agree. how did you acquire a taste for it?
+speaker2: out in india. so character-forming for the british. not the heat. good lord, no. the rain, dash it. a good monsoon. fifteen inches overnight. a whole week of lovely rain. i remember one summer in jaipur ... sir august removes his goggles, recognizes her.
+speaker2: you
+speaker1: have we met?
+speaker2: you mean you don't recall??
+speaker2: ah, lady june ...
+speaker3: dear august. loves his showers. like a baby. scones, mrs. peel?
+speaker1: thank you, lady -- june ...
+speaker2: ah, beautiful. just as he promised.
+speaker1: promised? who promised?
+speaker2: there, look!
+speaker2: imagine being caught out in a blow like that!
+
+speaker1: 'the merry widow'...? 
+speaker2: ... hello ... hello? ... who the hell...? who is this? ... you must leave the test area. i repeat, leave the area ... help is on the way ...
+
+speaker1: mrs. peel. good of you to drop by. and i see you're wearing your - riding outfit? 
+speaker2: manners, mrs. peel.
+
+speaker1: ah, brenda ... mrs. peel? 
+speaker2: you should be dead. how do you feel?
+speaker1: strange.
+speaker2: you were very lucky. four shots to the heart. i found you after i slipped away from sir august. mother brought you here. not me you should thank.
+speaker1: i wasn't about to.
+speaker2: i mean your man trubshaw. your bullet-proof waistcoat. i thought you were just overdressed.
+speaker1: i might say the same.
+
+speaker1: mother and dr. darling have me under observation. they think i tried to kill you. 
+speaker2: why should they think that?
+speaker1: you told them. you said i arrived on a camel, shot you four times. left you for dead.
+speaker2: frankly that's how i remember it.
+speaker1: but that's absurd. i may not be over-fond of you, steed, but it's not my style.
+speaker2: perhaps your memory plays tricks, mrs. peel.
+speaker1: that's possible. sir august was convinced he'd met me before. but i'd never met him. another odd thing. when it rained, he said it was just as someone had promised.
+speaker2: did he say who?
+speaker1: no. but he must know. incidentally, my double left you with this.
+speaker2: an invitation. to a 'formal picnic'...?
+speaker1: did you say formal? i must dress.
+
+speaker1: i must say, you look more your old self -- 
+speaker2: you mean my other self ...
+speaker1: either way ... may i ask: why you dress in that fashion?
+speaker2: i should have thought that was obvious ... i'm in mourning.
+speaker1: i can't wait to see afternoon.
+speaker2: where's the picnic?
+
+speaker1: ladies, gentlemen and bears ... 
+speaker1: i am sorry the party is over. but we shall meet again. to each of you a gift. a token of my appreciation.
+
+speaker1: for you, mrs. peel. 
+speaker2: another invitation. 38 marlborough terrace ...
+
+speaker1: colonel crabtree. international satellite systems. formerly of the ministry. 
+speaker2: how on earth can you tell?
+speaker1: elementary, mrs. peel. trubshaw isn't the only shoemaker still practicing his trade ...
+speaker2: very good, steed ...
+
+speaker1: what's that? 
+speaker2: what on earth?
+speaker1: any ideas?
+speaker2: well, he was a fellow of the royal zoological society ...
+speaker1: is that written in his shoe?
+speaker2: common knowledge, mrs. peel ...
+speaker1: she had this in her mouth. there, there...
+speaker2: not again. there's got to be another. way to go about this.
+
+speaker1: naughty teddy ... 
+speaker2: no! you can't ...
+speaker1: ask not for whom the telephone rings, it rings for thee ...
+speaker2: but i've got rid of her. she's ...
+
+speaker1: for you, mrs. peel. 
+speaker2: thanks ... i see what you mean about letting me do the risking ... hello?
+speaker3: mrs. peel ... come quickly. brolly's been betrayed! i'll tell you everything ... the weather's getting worse and worse ... they're after me ... coming for me ... come quickly!
+
+speaker1: sir august...? what now? 
+speaker2: ask mother.
+
+speaker1: mrs. peel -- ? 
+speaker2: ask not for whom the telephone rings ...
+speaker1: no, please! i beg you ...
+speaker2: walk over to the window ...
+speaker1: let it be rain, please let it be --
+speaker2: stay by the window. by the window.
+
+speaker1: where's mother? 
+speaker2: mobile hq. in a blue funk. can't take chances. i'm looking after things while he's hiding out ...
+speaker2: you're probably wondering how i can drive 'blind.' simple. a new prototype from the boys in x division. micro-sensors in the system read signals and road information. converts the info into miles per hour. ultra-sensitive. ultra-smart.
+speaker3: we know one thing. that suspect was not mrs. peel.
+speaker2: so you say ...
+speaker1: you don't believe him?
+speaker2: it's mother you have to convince. he's very agitated. wait here.
+speaker1: but
+speaker3: don't bother. here's a bus ...
+speaker4: fares, please,
+
+speaker1: welcome to mobile h.q. weather's turning quite nasty. sir august was blown to smithereens. along with half of banffshire. the ministry's worried. 
+speaker2: he tried to warn us ...
+speaker3: we had a lead to wonderland weather but we got there too late.
+speaker1: too late anyway. today's escapade was only for starters. this is no ordinary weather. it's manmade. a kind of weather bomb.
+speaker3: impossible.
+speaker2: not quite. this is my field.
+speaker3: is there anything that isn't?
+speaker2: the prospero project was started by my husband. it was an early attempt to solve the problems of global warming. in theory, climate engineering is entirely feasible. we thought of injecting a chemical cocktail into the atmosphere by laser and satellite. a 'quick fix'...
+speaker3: filling in mother nature's blind spots ... ?
+speaker2: exactly. there'd been earlier attempts to pump carbon dioxide into deep sea. propane gas mostly. in small quantities it captures chlorine. protects the ozone layer. but it proved impractical. too bulky ...
+speaker3: but if someone miniaturized the process...
+speaker2: that's what we were working on.
+speaker3: sounds as if someone's hijacked your research.
+speaker1: would it be possible to use it for military purposes?
+speaker2: directed by laser. bounced by satellite. quite possible.
+speaker3: where would they aim for?
+speaker1: london. the world council of ministers meets soon on global defence. if you can control the weather, you control the world.
+speaker2: after the cold war ...
+speaker3: the hot and cold war ...
+
+speaker1: we're not yet open for business, i'm afraid. 
+speaker2: shame. i was recommended. by a friend.
+speaker1: really?
+speaker2: sir august merryweather? i was looking for something relaxing.
+speaker1: normally, we'd be eager to oblige --
+speaker2: seriously?
+speaker1: of course. natural weather delivered to your door on demand. down your phoneline. for limited periods.
+speaker2: you don't say. how real does it feel?
+speaker1: as real as you wish. hot or cold. humid or dry. anything you like.
+speaker2: there are limits?
+speaker1: the technology is brand new. soon it will be more powerful. we anticipate a huge demand. leave us your number. we'll be in touch.
+speaker2: no need. i'll call again.
+
+speaker1: my car. i'll drive. 
+speaker2: a day in the country ...
+
+speaker1: three agents killed by bad weather... 
+speaker2: ... and by you, mrs. peel ...
+speaker1: then a mad millionaire. head of a secret defense establishment. a group of eccentrics obsessed by weather ...
+speaker2: ... and by you, mrs. peel. everything points to you. no sisters? no undiscovered twin?
+speaker1: not that i know of. explanation?
+speaker2: according to dr. darling, you're a psychopathic personality with schizophrenic delusions, suffering from recurring amnesia based on traumatic repression, leading to outbursts of anti-social and violent behavior. q.e.d.
+speaker1: is that what you think?
+speaker2: oh, well ... just my type, mrs. peel.
+
+speaker1: do you always drive this fast? 
+speaker2: have i trespassed on a male prerogative? we're being followed. i saw him at trubshaw's ...
+speaker2: hold on ...
+
+speaker1: are you alright, young man? 
+speaker2: i think so, thank you so much ... a squeal of tires as -
+speaker3: reach for the sky, pardner.
+speaker1: oh, dear --
+speaker1: cocky little bastard. i hope he was a baddy.
+speaker2: i feel sure of it.
+speaker1: i'm alice. mother said you'd be on your way. mrs. peel with you?
+speaker2: she was ...
+speaker1: you with mother or father?
+speaker2: both, actually.
+speaker1: good. glad to see they're together at last. they don't get along. promotion. top job. most unfair. quite a fuss at the ministry.
+speaker2: you don't say. like looking for a needle in a ...
+
+speaker1: what, lady disdain? are you yet breathing? 
+speaker2: barely.
+speaker1: you will let me know if you find that queen who's in need of protection, won't you?
+
+speaker1: this must be the last straw. 
+speaker2: here's the one that broke the camel's back.
+speaker1: someone didn't want us to get to the party.
+speaker2: i expect we'll have to gatecrash.
+speaker3: i may be able to help you.
+
+speaker1: wonderland weather ltd. 
+speaker2: this way ...
+
+speaker1: aha ... yes ... it's clear now. a trapezoid shape, dictated by twin diagonal paths and a single curving path. a late seventeenth century design, originally for king william of orange, copied... ah ... 
+speaker2: ... mrs. peel? i think i'm seeing double again.
+
+speaker1: steed ... ! 
+speaker2: mrs. peel ... ?
+
+speaker1: mrs. peel ... ? steed hears a noise, turns to see -- 
+speaker1: mrs. peel ... ! mrs. peel ...
+speaker1: your lipstick ...
+
+speaker1: not again. he rises, looks down, reacts -- 
+speaker2: it's a trap. tell mother, beware. tell father. she dies in his arms. wind picks up, too.
+
+speaker1: i wouldn't shake that too hard. the weather might turn nasty. 
+speaker2: quite a collection.
+speaker1: if nature gives a man a collector's mind, it doesn't matter what he collects. butterflies. old china. penny farthings. a true collector grows more obsessive as the years pass.
+speaker2: your voice -- it's so familiar ...
+speaker1: we have met ... from the shadows, a man moves out, revealing: peter peel, emma's husband! thunder.
+speaker2: peter ... ?
+speaker2: i must be dreaming ...
+
+speaker1: listen... very much alive. 
+speaker1: darling, it's me...
+speaker2: peter ...
+
+speaker1: impossible ... how? 
+speaker2: for you ... all for you ...
+speaker2: don't be afraid, darling.
+speaker2: don't run away. i forgive you, emma. i know you left me. but i still love you. do you still have my ring? i need it.
+
+speaker1: steed! 
+speaker2: oh, no. first time, shame on you. third time, shame on me.
+speaker3: diagnosis confirmed. mrs. peel is suffering from delusions and hallucinations. an extreme personality disorder. she imagines her husband peter peel has come back to her ...
+speaker3: a classic syndrome, to overcome her subconscious guilt at her other crimes. we've attached her to the dreamscape machine. we'll soon see what her unconscious looks like... emma's eyes flicker...
+speaker1: where am i?
+speaker2: the winslow home for retired lepidoptorists. i'm so sorry i struck you, mrs. peel. please forgive me. i thought you were someone else ...
+speaker1: was i?
+speaker2: i expect that's for you to know and me to find out ...
+speaker1: it was peter -- i saw him ...
+
+speaker1: this man -- did you see him? 
+speaker2: no. her husband, she says. alice tried to warn us. a trap. tell mother beware. tell father that's all.
+
+speaker1: i want you to say the first thing that comes into your head when i say these words. do you understand ... ? blue ... 
+speaker2: ... bottle ...
+speaker1: red ...
+speaker2: ... head ...
+
+speaker1: white ... 
+speaker2: knight ...
+speaker3: black...
+speaker2: ... death ...
+speaker3: love...
+speaker2: ... death ...
+speaker3: flower ...
+speaker2: ... power ...
+speaker3: nature ...
+speaker2: ... preserve...
+speaker3: secret ...
+speaker2: ... love...
+speaker3: hope...
+speaker2: ... love ...
+speaker3: fear ...
+speaker2: ... love ...
+speaker3: peter ...
+speaker2: ... piper picked a peck of pickled peppers how many pecks of pickled peppers did peter peel -- ?
+
+speaker1: how long have i been here? 
+speaker2: three days.
+speaker1: do you get paid by the hour?
+speaker3: you are here under observation, mrs. peel. you must answer dr. darling's questions pushes dr. darling aside.
+speaker1: i resign.
+speaker3: you need treatment, mrs. peel. you can't resign.
+speaker1: watch me.
+
+speaker1: what are you trying to do to me? 
+speaker2: we want to help...!
+speaker1: i thought i was a widow. my husband ... the only man i ever loved ... is dead. for the rest of my life i have to live with that.
+speaker2: the death of peter peel was a great loss. to us all ...
+speaker1: to you ... ?
+speaker3: i think you owe mrs. peel an explanation ...
+speaker2: peter peel was a first class agent. a senior operative. 'x' department special operations. he was engaged in top secret research. top priority. government approved.
+speaker1: the institute ... the funding ...
+speaker2: a cover ... for us. i'm sorry...
+speaker1: so all that time. our work, our research was for you ... for this? and the accident --
+speaker4: it was no accident.
+speaker1: the official investigation ...
+speaker2: ... was written by me. it was sabotage, mrs. peel.
+speaker1: who?
+speaker2: quite frankly ... it could have been you.
+speaker3: you're accusing mrs. peel of killing her own husband?
+speaker2: her husband suspected someone very close to the operation. on the day he died, he was setting a test. to prove to himself -- to us that his wife was beyond suspicion. he had to be certain. he said he was going to give mrs. peel something ...
+speaker2: ... i want you to remember. did peter give you anything on-that day?
+speaker1: no.
+speaker5: he said if it vanished, he'd know it was ... you who betrayed him. he took a huge risk. the ultimate test.
+speaker1: so i'm still ...
+speaker2: under suspicion. everyone died in the explosion, mrs. peel. you were the only survivor ...
+speaker2: this is an official matter, mrs. peel. no need to take it personally. where are you going?
+speaker1: to find out who killed my husband.
+speaker2: the doors and walls are monitored, mrs. peel. this is a very secure establishment.
+speaker1: so am i.
+speaker5: she must remain here. she's highly dangerous.
+
+speaker1: pity. i was growing fond of mrs. 
+speaker2: guilty until proven innocent?
+speaker1: mother and father know best.
+speaker1: something quick. nothing too ... messy.
+
+speaker1: you followed me. 
+speaker2: orders.
+speaker1: to kill me?
+speaker2: nothing personal. emma smiles. then turns, and -- runs! steed follows emma through a door to --
+
+speaker1: a long way down. 
+speaker2: careful. you might fall.
+speaker1: i could save you the trouble.
+speaker2: no trouble.
+speaker1: because you always obey orders ...
+speaker2: always. except ...
+speaker1: yes ... ?
+speaker2: ... when i don't. it comes down to one thing, mrs. peel. trust.
+speaker1: and do you trust me?
+speaker2: i could be convinced, if ... i knew who poisoned me in the maze. that kiss ...
+speaker1: it wasn't me; you have my word.
+speaker2: i need proof.
+speaker2: it was longer. on the lips.
+speaker2: much longer. approximately ... fifteen seconds.
+speaker1: ... ready?
+speaker1: ... four ... seven ... ni-...
+speaker1: mmm ... what are you doing?
+speaker2: keeping a stiff upper lip?
+speaker1: is that all?
+speaker1: so i'm in the clear?
+speaker1: but you did suspect me.
+speaker2: not for a moment.
+speaker1: you're playing games.
+speaker2: aren't we all, mrs. peel?
+speaker1: i thought you played by the rules.
+speaker2: i thought you didn't.
+speaker1: i'm playing to win.
+speaker2: winning isn't everything.
+speaker1: please don't tell me it's how you play the game.
+speaker2: after you -- mrs. peel ...
+speaker1: no, after you.
+speaker2: you don't trust me?
+speaker1: as far as you trust me.
+speaker1: when it happens, steed, you'll be the first to know ...
+
+speaker1: who could that be? 
+speaker2: no -- don't answer it ...
+speaker2: that's it. the phones trigger the explosions --
+speaker2: don't -- don't answer it -- !
+
+speaker1: it's your mother. 
+speaker2: mother? how did you find me?
+speaker2: i told mother i took care of you.
+speaker3: you lied.
+speaker2: i equivocated. but you're not their big worry at present. it's dr. darling: he's disappeared ...
+
+speaker1: drat. someone wants to implicate you in this affair, mrs. peel. 
+speaker2: no idea who. no idea why ...
+speaker1: teddy bears, cuckoo clocks, toys all children's things ...
+speaker2: ... or grown-ups, who still like to be children.
+speaker1: quite. any childhood friends?
+speaker2: not to speak of. peter and i were both loners. there was nobody.
+speaker1: very well. i have a friend who might be of assistance. he's at the ministry. we'd better be careful.
+speaker2: i'm a wanted woman, i know ...
+
+speaker1: his name's jones. 'invisible' jones. 
+speaker2: why's he called 'invisible'?
+speaker1: you'll find out.
+speaker2: aren't you coming?
+speaker1: i'll catch you up. don't worry; he's expecting you.
+
+speaker1: tell miss proudfoot, no calls. colonel jones at your service, mrs. peel. just a moment -- emma looks ahead of her. to the chair. as -- 
+speaker1: talk to the pipe, mrs. peel. that usually helps. don't worry about me being invisible. other than that i'm perfectly normal.
+speaker2: i see.
+speaker1: or rather, you don't. learnt the tricks in camouflage. till this accident made a prang of things.
+speaker3: i say, trubshaw, steed here ... barometer's falling fast. mrs. peel and i find ourselves in need of foul weather gear. yes, i'd say gentlemen's snuff for starters. and then --
+
+speaker1: ah, here we are. steed asked me to play a hunch: valentine peel. 
+speaker2: peter's brother? but --
+speaker1: half-brother to be precise.
+speaker1: now let's see ... eton, cambridge ... research into robotics and plastics. overtaken by peter's work on the physics of climate change ...
+speaker2: i know all this.
+speaker1: do you also know that during your final experiment, your halfbrother- in-law was under surveillance?
+speaker2: surveillance? by whom?
+speaker1: father. she gave him an 'all clear' after a security test by dr. darling.
+speaker2: who's now vanished.
+speaker1: makes two of us.
+speaker2: are you suggesting that dr. darling and valentine were somehow in this together? but that's absurd.
+speaker3: we must hurry, mrs. peel ...
+speaker2: hurry? what for? i'm just now --
+speaker3: you didn't tell her?
+speaker1: i was getting to it.
+speaker2: getting to what?
+speaker1: the world council of ministers meets tomorrow to convene the new global defense initiative --
+speaker2: i fail to see --
+speaker3: there's a reception this evening. colonel jones thinks it advisable we attend.
+speaker2: have we been invited?
+speaker1: under the circumstances mother didn't see fit, but i think i can get you in ...
+speaker2: well, i can't possibly go like this.
+speaker3: i had a feeling. that's why we're in a hurry ...
+speaker3: may i have the honor, mrs. peel?
+speaker2: you may, mr. steed.
+
+speaker1: inside that hall are some of the most powerful figures in the world. tight security. our only option. 
+speaker2: i'll see to it personally.
+
+speaker1: what's that you're wearing? 
+speaker2: it's called black leather.
+speaker1: intoxicating. here, have one of these.
+speaker2: what is it?
+speaker1: limpet bomb. small, very compact. from trubshaw's.
+speaker2: when all this is over, we simply must get you out of that suit.
+speaker1: you first.
+speaker2: shall we?
+speaker3: ... in the uncertain climate that threatens this global initiative, no magic umbrella can shield us. steed checks out his own.
+speaker3: only our own vigilance. security and stability are our watchwords.
+
+speaker1: trubshaw again? what now? 
+speaker2: snuff. i must insist you try some.
+
+speaker1: they're playing your song, mrs. 
+speaker2: 'the merry widow?' i might have known. where's the reception?
+
+speaker1: oh, hello ... 
+speaker2: we want mrs. peel.
+speaker1: dead, i'm afraid.
+speaker2: you disobeyed an order, steed. mrs. peel is dangerous; she cannot be trusted.
+speaker1: i think she can. can you? emma is deeply affected by steed's choice.
+speaker2: i shall summon security.
+speaker1: bad news. father's looking for you. where are those ministers?
+speaker3: have a look at this.
+speaker1: it's almost may, for heaven sake.
+
+speaker1: after him, mrs. peel! 
+speaker1: go -- !
+
+speaker1: anyone ever tell you you look like a housefly? 
+speaker1: anyone else need a lift?
+speaker2: can't you throw her off?
+speaker3: where'd she go?
+
+speaker1: this time the shoe's on the other foot. you said a hand-made shoe was as good as a photo-fit or d.n.a.? well, all we have to do is find the shoe that fits ... 
+speaker2: it should be easy. a trubshaw client has his shoes delivered personally. the ministry should be able to confirm our delivery.
+speaker3: i'll be back ...
+speaker1: where are you going?
+speaker3: laying in supplies, mrs. peel weather may get very nasty and i've no umbrella ...
+speaker1: you needn't bother. i can't drag you further into this. after all, i am still the chief suspect.
+speaker3: no bother. mother and father think i've joined you. i might as well.
+speaker1: but --
+speaker3: oh, and by the way, i think it's about time you got rid of that chip on your shoulder.
+speaker1: if you'd been through what i have, you wouldn't --
+speaker3: a microtag. one of mother's little toys. there you are. free at last.
+
+speaker1: prince charming, i presume. 
+speaker1: oh my ...
+speaker2: where's mrs. peel?
+speaker3: she just left, sir. in a hurry.
+speaker2: what?
+speaker3: she said you'd understand.
+speaker4: ah, here we are ...
+
+speaker1: 'x' marks the spot. the shoes were delivered to ... an island in hyde park. surrounded by the serpentine. on the site of a former ministry installation... 
+speaker2: ... and now?
+speaker1: privately owned by ...
+speaker2: let me guess: wonderland weather.
+speaker1: very good, mrs. peel ...
+speaker2: i shall need a small plane.
+speaker1: you're not venturing alone, surely.
+speaker2: i'm going to find out who killed my husband. will you take these documents to steed?
+speaker1: of course.
+
+speaker1: tell him i said ... goodbye. 
+speaker2: steed for you.
+speaker3: where's mrs. peel?
+speaker4: i was hoping you could tell me.
+speaker3: you're getting yourself into terrible trouble, my son. weather's turning very nasty -- and so am i.
+speaker4: i'm going to follow up on a hunch of my own. if i'm right, mrs. peel is innocent and you have a mole.
+speaker3: where?
+speaker4: in your operation.
+speaker3: i'm warning you for the last time, steed: whoever's behind all this, looks like mrs. peel, walks like mrs. peel and kills like mrs. peel.
+speaker3: steed?? find mrs. peel.
+
+speaker1: congratulations, mrs. peel. you have been a worthy opponent. you have tracked us down. you are within an ace of winning. 
+speaker2: this isn't a game.
+speaker1: quite right, but we still make the rules.
+speaker2: rules are made to be broken.
+speaker1: people, too.
+speaker2: then who wins?
+speaker1: you and i. together. but first you must confront your greatest enemy. who could that be, mrs. peel? the answer is obvious ... suddenly lights!
+speaker1: yourself.
+
+speaker1: emma in wonderland. welcome, mrs. peel. we've been expecting you. we hope you'll enjoy your stay with us. decontamination is almost complete. 
+speaker2: decontamination -- ?
+speaker1: and you've a new wardrobe. he does want you to look attractive. he tells me you're very beautiful.
+speaker1: relax, mrs. peel. we're hundreds of feet below ground. the ministry made it impregnable. no one can save you.
+
+speaker1: emma, my dear. how lovely you look. 
+speaker2: would that i could say the same.
+speaker1: ah, but you haven't see the real me. watch closely ...
+speaker2: peter ...
+speaker3: darling emma --
+speaker2: it was you ... all the time?
+speaker3: not really. not quite. i'm afraid you still don't see ...
+speaker4: valentine peel ...
+
+speaker1: yes, i remember him quite well ... 
+speaker1: this is where he used to spend his days. we have an old photograph somewhere ...
+
+speaker1: absolute wizard with makeup. his favorite roll from shakespeare. 
+speaker2: 'the prospero project...'
+speaker1: ... from the tempest. a banished duke, ousted by his brother, marooned on a magic island. who controlled the weather.
+speaker2: 'o brave new world that hath such people in it.'
+speaker3: you.
+speaker4: darling emma -- yes, we: the true genius behind the prospero project ...
+speaker3: but you died -- in the explosion ...
+
+speaker1: a slight miscalculation -- my face was burned beyond recognition. fortunately my research into plastics came in handy ... 
+speaker2: dr. darling, peter ... all you ...
+speaker1: an unholy trinity ...
+speaker2: you killed my husband.
+speaker1: for starters. of course i had to kill the teddy bears, as well ...
+speaker2: too many cooks --
+speaker1: spoil the majority shareholders. in wonderland weather. i planned everything, even the ministry recruiting you ...
+speaker2: but i found you. all the clues led me here ...
+speaker1: of course. i planned that, too.
+speaker2: but -- why?
+speaker1: you disappoint me, emma. can't you guess? for you. it was all for you ...
+speaker2: 'our revels now are ended.'
+speaker1: oh, no, emma. they've only just begun ...
+
+speaker1: think of this as your second wedding feast ... 
+speaker2: i'm already married ...
+speaker1: come, come, you're a widow -- a most attractive widow. now i think of it, we'll need a bridesmaid. here.
+speaker1: my latest model. a compound of plastics and sensor chips. a big improvement on the old x404s. the poor thing is quite fond of me. emma, say hello to emma.
+speaker1: you know, i believe she's actually jealous.
+speaker2: valentine, listen to me ...
+speaker1: right, bridesmaid. now what have i left out? oh, yes, i know: the ring.
+speaker2: ring?
+speaker1: how silly of me -- let me make you comfortable first ...
+
+speaker1: as valentine descends spiral steps to join it. 
+speaker2: that's better. i say, isn't this where you came in? it's impenetrable, by the way ...
+speaker3: you're mad.
+speaker2: entirely. on the other hand mad people get things done. let me show you --
+speaker4: steed
+speaker5: how did you guess?
+speaker4: you reek of mrs. peel's black leather ...
+speaker5: it was you who gave valentine peel his security clearance ... you're the mole who betrayed the ministry.
+speaker4: mother betrayed me. she was going to replace me with a younger father. errand boy that's all i was. 'find steed...'
+speaker5: well, you found me. have a sniff of this, why don't you? careful, the scent can be overpowering ...
+
+speaker1: people expect weather to be free. they're used to it. i call that a denial of freedom. no freedom of choice. an abuse of human rights. they buy water, electricity, gas. why shouldn't they be able to buy their own weather if they want to? if they have a little incentive ... 
+speaker2: such as?
+speaker1: destruction of their local weather systems. i can zap a thousand chernobyls into the air.
+speaker2: the result would be ...
+speaker1: chaos. transport paralysis. crop failure. economic disaster. frostbite or sunburn ... on a massive scale. you've seen a few samples...
+speaker2: then what's stopping you?
+speaker1: one very small thing. a diamond 'cyclone' chip. a thousand times more information on a fraction of the size. if i possess that, my powers would be unlimited. my dear half-brother was developing it. but he suspected sabotage. he gave the chip to ... you, 'mrs.' peel. i want you. but also your ring.
+
+speaker1: the missing piece of the jigsaw. i tried to get you to give it to me as peter; i tried to steal it from you as dr. darling. as myself i'll be a bit less subtle. with this ring my plan will be complete. 
+speaker2: how wagnerian ... do you mean to say you've waited all these years because you couldn't create a chip on your own? that would have amused peter.
+speaker1: speaking of peter, there's more good news: you won't even have to change your last name. you'll always be mrs. peel.
+speaker2: what are my choices?
+speaker1: choices?
+speaker2: i'll never marry you.
+speaker1: one out of two isn't bad. i'll keep you alive, darling emma. in a year or five, you may change your mind. if you're still in it.
+speaker1: this little toy gave me back my face. it can replace yours. what do you think? medusa? madame defarge? maggie thatcher? he marks an imaginary line round emma's face.
+speaker3: dr. darling, this is father. we have an intruder. i repeat -- valentine switches off the pa.
+speaker1: ah. that will be steed. he followed you. please excuse me. i have work to do. my most spectacular performance. a ballet of clouds. it was made for you. i want to give you a heart, emma. i want all of london to see it. and now with this ... they will. and for an encore: the biggest cyclone in history will wipe the city from the face of the earth. shape of things to come, my darling.
+speaker4: blast. what to do? mrs. peel!
+
+speaker1: the things i do for england ... pitch dark, then -- 
+speaker2: you must let me go ...
+speaker2: don't you understand? if he has me, he'll have no use for you ... he'll destroy you ...
+speaker2: no...
+
+speaker1: start the countdown. action stations. five minutes ... 
+speaker2: congratulations. the clouds are on course ...
+speaker1: to explode. london will be ashes.
+speaker2: not yet! they haven't heard our terms ... !
+speaker1: are you insane? stop the program and you activate the auto-destruct!
+speaker2: but all those people -- !
+speaker1: my cloud ballet! my cyclone!
+
+speaker1: my dear. i wouldn't want you to miss the grand finale ... 
+speaker1: find her. kill her ...
+
+speaker1: john steed. 
+speaker2: valentine peel. i see you've gone back to using your original face.
+speaker1: the last one you'll ever see.
+speaker2: perish the thought. valentine fulls forth a rapier from the wall.
+speaker1: did they tell you at eton that i was fencing champion, too?
+speaker2: they said you were a very naughty boy.
+
+speaker1: you're better than i expected. 
+speaker2: i was at harrow ...
+speaker1: but did they teach you this?
+speaker2: bang-bang ... you're dead.
+speaker1: you wish.
+
+speaker1: one shot -- for emergencies. 
+speaker2: that's not playing by the rules.
+speaker1: rules are made to be broken.
+speaker2: if you say so.
+speaker1: i do.
+speaker2: you said ... one shot.
+speaker1: did i? my mistake.
+speaker2: i wouldn't do that, if i were you.
+speaker1: mrs. peel -- !
+speaker2: bullet-proof waistcoats -- just the thing. i get mine from trubshaw's. we'll be off now, won't we, darling? we wouldn't want to miss the fireworks. figure it out if you can, steed ...
+
+speaker1: start flashing ... 
+speaker2: you must be joking ...
+
+speaker1: fool ... 
+speaker2: that will do.
+speaker1: aren't you forgetting about something?
+speaker2: you are, and it's behind you.
+speaker1: come, come. you don't really expect me to fall for --
+speaker1: let go, you ... ...
+speaker2: i think she really likes you ...
+speaker1: ugh ...
+speaker3: dead.
+speaker2: emma!
+speaker2: emma ...
+
+speaker1: steed? steed looks back at her -- surprise, delight. 
+speaker2: mrs. peel?
+speaker1: what kept you?
+speaker2: the plot. hello, we must be going ...
+
+speaker1: 'the owl and the pussycat went to sea -' 
+speaker2: '... in a beautiful pea green boat...'
+speaker1: a fine night, mrs. peel ...
+speaker2: still a bit chilly ...
+speaker1: english weather. you know, after all we've been through, i should say we deserve a long holiday ...
+speaker2: have you any place in mind?
+speaker1: as a matter of fact i have ...
+
+speaker1: i don't recall siberia being this warm, steed. 
+speaker2: it's the latest thing, mrs. peel.
+speaker1: our little paradise -- just made for two?
+speaker2: not quite.
+speaker2: our chaperon.
+speaker1: pity your mother came, too ...
+speaker2: still a little warm, trubshaw. is this the '28? a little more ice, i think ...
+speaker3: about your next assignment, mrs.
+speaker1: next assignment?
+speaker1: ah ... sun tan lotion. any shops nearby?
+speaker2: must be. trubshaw's busy. i'll send mother ... pull back to reveal no shop for miles around.
+speaker3: ahem. as i was saying, perhaps another macaroon ...
+speaker1: thank you, steed.
+speaker2: thank you, mrs. peel.
+

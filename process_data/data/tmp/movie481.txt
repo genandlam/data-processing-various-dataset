@@ -1,0 +1,1114 @@
+speaker1: is john not yet arrived? 
+speaker2: we expect him at any moment, dearest.
+speaker1: the girls--i have left so little.
+speaker2: shh, hush, henry.
+speaker1: elinor will try to look after you all, but make sure she finds a good husband. the men are such noodles hereabouts, little wonder none has pleased her.
+speaker2: but marianne is sure to find her storybook hero.
+speaker1: a romantic poet with flashing eyes and empty pockets?
+speaker2: as long as she loves him, whoever he is.
+speaker1: margaret will go to sea and become a pirate so we need not concern ourselves with her.
+speaker3: your son is arrived from london, sir.
+speaker1: let me speak to john alone.
+speaker1: ah, my dear. how happy you have made me.
+speaker4: father...
+speaker1: john you will find out soon enough from my will that the estate of norland was left to me in such a way as prevents me from dividing it between my families.
+speaker4: calm yourself, father. this is not good for you.
+speaker1: norland in its entirety is therefore yours by law and i am happy for you and fanny.
+speaker1: but your stepmother my wife and daughters are left with only five hundred pounds a year, barely enough to live on and nothing for the girls' dowries. you must help them.
+speaker4: of course
+speaker1: you must promise to do this.
+speaker4: i promise, father, i promise.
+speaker4: come! come quickly!
+speaker1: help them.
+
+speaker1: what do you mean, 'help them'? 
+speaker2: dearest, i mean to give them three thousand pounds.
+speaker2: the interest will provide them with a little extra income. such a gift will certainly discharge my promise to my father.
+speaker1: oh, without question! more than amply...
+speaker2: one had rather, on such occasions, do too much than too little.
+speaker2: of course, he did not stipulate a particular sum.
+
+speaker1: to be reduced to the condition of visitor in my own home! it is not to be borne, elinor! 
+speaker2: consider, mamma! we have nowhere to go.
+speaker1: john and will descend from london at any moment, followed no doubt by cartloads of relatives ready to turn us out of our rooms one by one do you expect me to be here to welcome them? vultures!
+speaker2: i shall start making inquiries for a new house at once. until then we must try to bear their coming.
+speaker3: fifteen hundred then. what say you to fifteen hundred?
+speaker4: what brother on earth would do half so much for his real sisters--let alone half-blood?
+speaker3: they can hardly expect more.
+speaker4: there is no knowing what they expect. the question is, what can you afford?
+
+speaker1: marianne, cannot you play something else? mamma has been weeping since breakfast. 
+speaker1: i meant something less mournful, dearest.
+
+speaker1: a hundred pounds a year to their mother while she lives. would that be more advisable? it is better than parting with the fifteen hundred all at once. 
+speaker2: but if she should live longer than fifteen years we would be completely taken in. people always live forever when there is an annuity to be paid them.
+
+speaker1: margaret, are you there? please come down. john and will be here soon. 
+speaker2: why are they coming to live at norland? they already have a house in london.
+speaker1: because houses go from father to son, dearest not from father to daughter. it is the law.
+speaker1: if you come inside, we could play with your atlas.
+speaker2: it's not my atlas any more. it's their atlas.
+speaker3: twenty pounds now and then will amply discharge my promise, you are quite right.
+speaker4: indeed. although to say the truth, i am convinced within myself that your father had no idea of your giving them money.
+speaker3: they will have five hundred a year amongst them as it is--
+speaker4: --and what on earth can four women want for more than that? their housekeeping will be nothing at all they will have no carriage, no horses, hardly any servants and will keep no company. only conceive how comfortable they will be!
+
+speaker1: as you know, we are looking for a new home. when we leave we shall be able to retain only thomas and betsy. 
+speaker1: we are very sorry to have to leave you all. but we are certain you will find the new mrs dashwood a fair and generous mistress.
+speaker2: they will be much more able to give you something.
+speaker3: so we are agreed. no money but the occasional gift of game and fish in season will be very welcome.
+speaker2: your father would be proud of you.
+
+speaker1: how is mrs ferrars? 
+speaker2: my mother is always in excellent health, thank you. my brother robert is in town with her this season and quite the most popular bachelor in london! he has his own barouche.
+speaker1: you have two brothers, have you not?
+speaker2: indeed, yes. edward is the eldest mamma quite depends upon him. he is traveling up from plymouth shortly and will break his journey here.
+speaker3: if that is agreeable to you, of course.
+speaker4: my dear john this is your home now.
+
+speaker1: wishes to know where the key for the silver cabinet is kept. 
+speaker2: betsy has it, i think. what does want with the silver?
+speaker1: i can only presume she wants to count it. what are you doing?
+speaker2: presents for the servants. have you seen margaret? i am worried about her. she has taken to hiding in the oddest places.
+speaker1: fortunate girl. at least she can escape fanny, which is more than any of us is able.
+speaker2: you do your best. you have not said a word to her for a week.
+speaker1: i have! i have said 'yes' and 'no'.
+
+speaker1: good morning, fanny. 
+speaker2: good morning, marianne.
+speaker1: how did you find the silver? is it all genuine?
+speaker3: pray, when may we expect the pleasure of your brother's company?
+speaker2: edward is due tomorrow. and my dear mrs dashwood, in view of the fact that he will not be with us for long, i wondered if miss margaret would mind giving up her room to him the view is quite incomparable from her windows and i should so much like edward to see norland at its best.
+
+speaker1: intolerable woman! 
+speaker2: there is but one consolation if edward is anything like fanny, we shall be only too happy to leave.
+
+speaker1: but where is miss margaret? i declare, mrs dashwood, i am beginning to doubt of her existence! she must run positively wild! 
+speaker2: forgive us, mr ferrars. my youngest is not to be found this morning. she is a little shy of strangers at present.
+speaker3: naturally. i am also shy of strangers and i have nothing like her excuse.
+speaker3: very much. your stables are very handsome and beautifully kept, mrs dashwood.
+speaker1: stables! edward--your windows overlook the lake.
+speaker3: an oversight, fanny, led me to the wrong room. i have rectified the situation and am happily settled in the guest quarters.
+
+speaker1: they are all exceedingly spoilt, i find. miss margaret spends all her time up trees and under furniture and i have barely had a civil word from marianne. 
+speaker2: my dear fanny, they have just lost their father their lives will never be the same again.
+speaker1: that is no excuse.
+speaker1: i have never liked the smell of books.
+speaker2: oh? no. the dust, perhaps.
+speaker2: i hear you have great plans for the walnut grove.
+speaker1: oh yes! i shall have it pulled down to make room for a grecian temple.
+speaker2: how picturesque. will you show me the site?
+
+speaker1: too expensive. we do not need four bedrooms, we can share. 
+speaker2: this one, then?
+speaker1: marianne, we have only five hundred pounds a year. i will send out more inquiries today.
+speaker3: pardon my intrusion, but i believe i have found what you are looking for.
+
+speaker1: won't you come out, dearest? we haven't seen you all day. mamma is very concerned. 
+speaker2: oh, miss dashwood! excuse me i was wondering do you by any chance have such a thing as a reliable atlas?
+speaker1: i believe so.
+speaker2: excellent. i wish to check the position of the nile.
+speaker2: my sister says it is in south america.
+speaker1: oh! no, no indeed. she is quite wrong. for i believe it is in--in belgium.
+speaker2: belgium? surely not. you must be thinking of the volga.
+speaker3: the volga?
+speaker1: of course. the volga, which, as you know, starts in...
+speaker2: vladivostok, and ends in...
+speaker1: st albans.
+speaker2: indeed. where the coffee beans come from.
+
+speaker1: the source of the nile is in abyssinia. 
+speaker2: is it? good heavens. how do you do. edward ferrars.
+speaker1: margaret dashwood.
+
+speaker1: that was my father's favourite. 
+speaker1: thank you so much for your help with margaret, mr ferrars. she is a changed girl since your arrival.
+speaker2: not at all. i enjoy her company.
+speaker1: has she shown you her tree-house?
+speaker2: not yet. would you do me the honour, miss dashwood? it is very fine out.
+speaker1: with pleasure.
+speaker1: margaret has always wanted to travel.
+speaker2: i know. she is heading an expedition to china shortly. i am to go as her servant but only on the understanding that i will be very badly treated.
+speaker1: what will your duties be?
+speaker2: sword-fighting, administering rum and swabbing.
+speaker1: ah.
+
+speaker1: all i want--all i have ever wanted is the quiet of a private life but my mother is determined to see me distinguished. 
+speaker2: as?
+speaker1: she hardly knows. any fine figure will suit a great orator, a leading politician, even a barrister would serve, but only on the condition that i drive my own barouche and dine in the first circles.
+speaker2: and what do you wish for?
+speaker1: i always preferred the church, but that is not smart enough for my mother she prefers the army, but that is a great deal too smart for me.
+speaker2: would you stay in london?
+speaker1: i hate london. no peace. a country living is my ideal a small parish where i might do some good, keep chickens and give very short sermons.
+
+speaker1: you talk of feeling idle and useless imagine how that is compounded when one has no choice and no hope whatsoever of any occupation. 
+speaker2: our circumstances are therefore precisely the same.
+speaker1: except that you will inherit your fortune.
+speaker1: we cannot even earn ours.
+speaker2: perhaps margaret is right.
+speaker1: right?
+speaker2: piracy is our only option.
+speaker2: what is swabbing exactly?
+
+speaker1: no voice divine the storm allayed no light propitious shone, when snatched from all effectual aid, we perished each alone: but i beneath a rougher sea, and whelmed in deeper gulfs than he. 
+speaker2: no, edward! listen.
+speaker2: can you not feel his despair? try again.
+
+speaker1: mamma, look. this has just arrived. 
+speaker2: 'i should be pleased to offer you a home at barton cottage as soon as ever you have need of it' why, it is from my cousin, sir john middleton!
+speaker1: even elinor must approve the rent.
+speaker2: has elinor not yet seen this?
+speaker1: no i will fetch her.
+speaker2: wait. no. let us delay.
+speaker1: why?
+speaker2: i think--i believe that edward and elinor have formed an attachment.
+speaker2: it would be cruel to take her away so soon and devonshire is so far.
+speaker2: why so grave? do you disapprove her choice?
+speaker1: by no means. edward is very amiable.
+speaker2: amiable but?
+speaker1: but there is something wanting. he is too sedate his reading last night.
+speaker2: elinor has not your feelings, his reserve suits her.
+speaker1: can he love her? can the ardour of the soul really be satisfied with such polite, concealed affections? to love is to burn to be on fire, all made of passion, of adoration, of sacrifice! like juliet, or guinevere or heloise.
+speaker2: they made rather pathetic ends, dear.
+speaker1: pathetic! to die for love? how can you say so? what could be more glorious?
+speaker2: i think that may be taking your romantic sensibilities a little far.
+speaker1: the more i know of the world, the more i am convinced that i shall never see a man whom i can truly love.
+speaker2: you require so much!
+speaker1: i do not! i require only what any young woman of taste should a man who sings well, dances admirably, rides bravely, reads with passion and whose tastes agree in every point with my own.
+
+speaker1: is love a fancy, or a feeling? no it is immortal as immaculate truth 'tis not a blossom shed as soon as youth drops from the stem of life for it will grow in barren regions, where no waters flow nor ray of promise cheats the pensive gloom-- 
+speaker1: what a pity it is that edward has no passion for reading.
+speaker2: it was you who asked him to read and then you made him nervous.
+speaker1: me?
+speaker2: but your behaviour to him in all other respects is perfectly cordial so i must assume that you like him in spite of his deficiencies.
+speaker1: i think him everything that is amiable and worthy.
+speaker2: praise indeed!
+speaker1: but he shall have my unanswering devotion when you tell me he is to be my brother.
+speaker1: how shall i do without you?
+speaker2: do without me?
+speaker1: i am sure you will be very happy. but you must promise not to live too far away.
+speaker2: marianne, there is no question of that is, there is no under standing between...
+speaker1: do you love him?
+speaker2: i do not attempt to deny that i think very highly of him that i greatly esteem that i like him.
+speaker1: esteem him! like him! use those insipid words again and i shall leave the room this instant!
+speaker2: very well. forgive me. believe my feelings to be stronger than i have declared but further than that you must not believe.
+speaker1: 'is love a fancy or a feeling?' or a ferrars?
+speaker2: go to bed!
+speaker1: 'i do not attempt to deny that i think highly of him greatly esteem him! like him!'
+
+speaker1: we are all so happy that you chose to invite edward to norland. he is a dear boy and we are all very fond of him. 
+speaker2: we have great hopes for him. much is expected of him by our mother with regard to his profession
+speaker1: naturally.
+speaker2: and in marriage. she is determined that both he and robert will marry well.
+speaker1: of course. but i hope she desires them to marry for love, first and foremost? i have always felt that, contrary to common wisdom, true affection is by far the most valuable dowry.
+speaker2: love is all very well, but unfortunately we cannot always rely on the heart to lead us in the most suitable directions.
+speaker2: you see, my dear mrs dashwood, edward is entirely the kind of compassionate person upon whom penniless women can prey--and having entered into any kind of understanding, he would never go back on his word. he is quite simply incapable of doing so. but it would lead to his ruin. i worry for him so, mrs dashwood. my mother has always made it perfectly plain that she will withdraw all financial support from edward, should he choose to plant his affections in less... exalted ground than he deserves.
+speaker1: i understand you perfectly.
+
+speaker1: devonshire! 
+speaker2: my cousin sir john middleton has offered us a small house on his estate.
+speaker3: sir john middleton? what is his situation? he must be a man of property.
+speaker2: he is a widower. he lives with his mother-in-law at barton park and it is barton cottage that he offers us.
+speaker4: oh, a cottage! how charming. a little cottage is always very snug.
+speaker1: but you will not leave before the summer?
+speaker2: oh, my dear edward, we can no longer trespass upon your sister's good will. we must leave as soon as possible.
+speaker5: you will come and stay with us, edward!
+speaker1: i should like that very much.
+speaker4: edward has long been expected in town by our mother.
+speaker2: come as soon as you can, edward. remember that you are always welcome.
+
+speaker1: cannot you take him with you? 
+speaker2: we cannot possibly afford him.
+speaker1: perhaps he could make himself useful in the kitchen?
+speaker1: miss dashwood--elinor. i must talk to you.
+speaker1: there is something of great importance i need... to tell you--
+speaker1: --about--about my education.
+speaker2: your education?
+speaker1: yes. it was less... successful than it might have been.
+speaker1: it was conducted in plymouth--oddly enough.
+speaker2: indeed?
+speaker1: yes. do you know it?
+speaker2: plymouth?
+speaker1: yes.
+speaker2: no.
+speaker1: oh--well--i spent four years there-- at a school run by a--a mr pratt--
+speaker2: pratt?
+speaker1: precisely--mr pratt--and there, i-- that is to say, he has a--
+speaker3: edward! edward!
+speaker3: i have been all over for you! you are needed in london this instant!
+speaker1: fanny, i am leaving this afternoon as it is--
+speaker3: no, no, that will not do. family affairs are in chaos owing to your absence. mother is quite adamant that you should leave at once.
+speaker1: excuse me, miss dashwood.
+
+speaker1: edward promised he would bring the atlas to barton for me. 
+speaker2: did he? well, i will wager he will do so in less than a fortnight!
+speaker1: are we there yet?
+
+speaker1: sir john! 
+speaker2: dear ladies, dear ladies, upon my word, here you are, here you are, here you are!
+speaker1: sir john, your extraordinary kindness--
+speaker2: oh, none of that, hush, please, none of that, but here is my dear mamma- in-law mrs jennings.
+speaker3: was the journey tolerable, you poor souls?
+speaker2: why did you not come up to the park first and take your ease? we saw you pass--like many people who live rather lonely lives together.
+speaker3: --but i would not wait for you to come to us, i made john call for the carriage--
+speaker2: she would not wait, you know.
+speaker3: --as we get so little company.
+speaker3: but i feel as if i know you already-- delightful creatures!
+speaker2: delightful! and you know you are to dine at barton park every day.
+speaker1: oh, but dear sir john, we cannot--
+speaker2: oh, no no no no no no no, i shall not brook refusals. i am quite deaf to 'em, you know--
+speaker3: --deaf--
+speaker2: but i insist!
+speaker4: let us only settle in for a few days, sir john, and thank you--
+speaker2: oh, no thankings, no, please, can't bear 'em, embarrassing, you know--
+speaker2: we will send game and fruit as a matter of course--
+speaker3: --fruit and game--
+speaker2: --and the carriage is at your beck and call--
+speaker3: --call--and here is miss marianne!
+speaker2: where did you disappear to?
+speaker3: i declare you are the loveliest girl i ever set eyes on! cannot you get them married, mrs dashwood? you must not leave it too long!
+speaker2: but, alas, there are no smart young men hereabouts to woo them--
+speaker3: --not a beau for miles!
+speaker2: come, mother, let us leave them in peace.
+speaker3: but there is colonel brandon!
+speaker2: excellent fellow! we served in the east india regiment together.
+speaker3: just wait till he sees you! if we can persuade him out to meet you!
+speaker2: reclusive individual. but you are fatigued. i can see that you are fatigued.
+speaker3: of course she is fatigued!
+speaker2: come along, mother, we really must leave them to themselves.
+speaker3: you must get your maidservant to make you up some camphor--it is the best tonic for the staggers!
+speaker2: send thomas to us for the carriage when you are ready!
+speaker5: i like them.
+speaker1: what generosity.
+speaker4: indeed. i am surprised they did not offer us their clothing.
+
+speaker1: sugar is five shilling a pound these parts, miss dashwood. 
+speaker2: no more sugar then.
+
+speaker1: colonel brandon is the most eligible bachelor in the county--he is bound to do for one of you. mind, he is a better age for miss dashwood--but i dare say she left her heart behind in sussex, eh? 
+speaker1: aha! i see you, miss marianne! i think i have unearthed a secret!
+speaker2: oho! have you sniffed one out already, mother? you are worse than my best pointer, flossie!
+speaker1: what sort of man is he, miss dashwood? is he butcher, baker, candlestick- maker? i shall winkle it out of you somehow, you know!
+speaker2: she's horribly good at winkling.
+speaker1: you are in lonely country now, miss dashwood, none of us has any secrets here--
+speaker2: --or if we do, we do not keep them for long!
+speaker1: he is curate of the parish, i dare say!
+speaker2: or a handsome lieutenant!
+speaker1: give us a clue, miss dashwood--is he in uniform?
+speaker3: he has no profession!
+speaker2: no profession! a gentleman, then!
+speaker4: margaret, you know perfectly well there is no such person.
+speaker3: there is! there is! and his name begins with an f!
+speaker5: margaret!
+speaker2: indeed! a very promising letter. let me--f, f, fo, fa... upon my word, but i cannot think of a single name beginning with f--
+speaker1: forrest? foster? frost? foggarty?
+speaker4: sir john, might i play your pianoforte?
+speaker2: of course, yes--my goodness. we do not stand on ceremony here, my dear.
+
+speaker1: brandon! where have you been? come, come and meet our beautiful new neighbours! 
+speaker2: what a pity you are late, colonel! you have missed the most delightful singing!
+speaker3: a great pity, indeed.
+speaker1: mrs dashwood, may i present my dear friend colonel brandon? we served together in the east indies and i assure you there is no better fellow on earth--
+speaker4: have you really been to the east indies, colonel?
+speaker3: i have.
+speaker4: what is it like?
+speaker1: like? hot.
+speaker3: the air is full of spices.
+speaker1: come, miss dashwood--it is your turn to entertain us!
+speaker5: oh no, sir john, i do not--
+speaker1: --and i think we can all guess what key you will sing in!
+speaker6: major!
+
+speaker1: as for you, you have no right, no right at all, to parade your ignorant assumptions-- 
+speaker2: they are not assumptions. you told me.
+speaker1: i told you nothing--
+speaker2: they'll meet him when he comes, anyway.
+speaker1: that is not the point. you do not speak of such things before strangers--
+speaker2: but everyone else was--
+speaker1: mrs jennings is not everyone.
+speaker2: i like her! she talks about things. we never talk about things.
+speaker3: hush, please, now that is enough, margaret. if you cannot think of anything appropriate to say, you will please restrict your remarks to the weather.
+speaker2: i like colonel brandon too. he's been to places.
+
+speaker1: you know what they're saying, of course... 
+speaker1: the word is that you have developed a taste for--certain company.
+speaker1: and why not, say i. a man like you-- in his prime--she'd be a most fortunate young lady-- brandon cuts across him.
+speaker2: marianne dashwood would no more think of me than she would of you, john.
+speaker1: brandon, my boy, do not think of yourself so meanly--
+speaker2: and all the better for her.
+
+speaker1: besotted! excellent match, for he is rich and she is handsome. 
+speaker2: how long have you known the colonel?
+speaker1: oh, lord bless you, as long as ever i have been here, and i came fifteen years back. his estate at delaford is but four miles hence and he and john are very thick. he has no wife or children of his own, for--
+speaker1: --he has a tragic history. he loved a girl once--twenty years ago now--a ward to his family, but they were not permitted to marry...
+speaker2: on what grounds?
+speaker1: money. eliza was poor. when the father discovered their amour, she was flung out of the house and he packed off into the army. i believe he would have done himself a harm if not for john...
+speaker2: what became of the lady?
+speaker1: oh, she was passed from man to man-- disappeared from all good society. when brandon got back from india he searched for heaven knows how long, only to find her dying in a poor house. you have seen how it has affected him. once i thought my daughter charlotte might have cheered him up, but she is much better off where she is.
+speaker1: look at him now, though. so attentive. i shall try an experiment on him.
+speaker2: oh no, please, dear mrs jennings, leave the poor colonel alone.
+speaker1: no, no, it is just the thing--all suitors need a little help, my dear
+speaker1: colonel brandon!
+speaker1: we have not heard you play for us of late!
+speaker3: for the simple reason that you have a far superior musician here.
+speaker1: perhaps you did not know, miss marianne, that our dear brandon shares your passion for music and plays the piano forte very well.
+speaker1: play us a duet!
+speaker1: i'll trow you know quite as many melancholy tunes as miss marianne!
+speaker1: come! let us see you both side by side!
+speaker4: i do not know any duets. forgive me, colonel.
+
+speaker1: oh! are we never to have a moment's peace? the rent here may be low but i think we have it on very hard terms. 
+speaker2: mrs jennings is a wealthy woman with a married daughter--she has nothing to do but marry off everyone else's.
+speaker3: there's a parcel arrived for you, miss dashwood!
+speaker4: a parcel!
+speaker1: it is too ridiculous! when is a man to be safe from such wit if age and infirmity do not protect him?
+speaker2: infirmity!
+speaker5: if colonel brandon is infirm, then i am at death's door.
+speaker2: it is a miracle your life has extended this far...
+speaker1: did you not hear him complain of a rheumatism in his shoulder?
+speaker2: a slight ache' i believe was his phrase...
+speaker4: but edward said he would bring it himself.
+speaker5: 'dear mrs dashwood, miss dashwood, miss marianne and captain margaret-- it gives me great pleasure to restore this atlas to its rightful owner. alas, business in london does not permit me to accompany it, although this is likely to hurt me far more than it hurts you. for the present my memories of your kindness must be enough to sustain me, and i remain your devoted servant always. e. c. ferrars.'
+speaker4: but why hasn't he come?
+speaker5: he says he is busy, dear.
+speaker4: he said he'd come.
+speaker4: why hasn't he come?
+speaker1: i am taking you for a walk.
+speaker4: no! i've been a walk.
+speaker1: you need another.
+speaker4: it is going to rain.
+speaker1: it is not going to rain.
+speaker4: you always say that and then it always does.
+speaker5: i fear mrs jennings is a bad influence.
+speaker5: you must miss him, elinor.
+speaker2: we are not engaged, mamma.
+speaker5: but he loves you, dearest, of that i am certain.
+speaker2: i am by no means assured of his regard for me.
+speaker5: oh, elinor!
+speaker2: but even were he to feel such a... preference, i think we should be foolish to assume that there would not be many obstacles to his choosing a woman of no rank who cannot afford to buy sugar...
+speaker5: but elinor--your heart must tell you--
+speaker2: in such a situation, mamma, it is perhaps better to use one's head.
+
+speaker1: is there any felicity in the world superior to this? 
+speaker2: i told you it would rain.
+speaker1: look! there is some blue sky! let us chase it!
+speaker2: i'm not supposed to run.
+speaker2: marianne!
+speaker1: help me!
+speaker1: margaret, run home and fetch help.
+speaker2: i think it is this way. i will run as fast as i can, marianne.
+speaker3: are you hurt?
+speaker1: only my ankle.
+speaker3: may i have your permission to--
+speaker3: --ascertain if there are any breaks?
+speaker3: it is not broken. now, can you put your arm about my neck?
+speaker3: allow me to you home.
+
+speaker1: marianne was sure it would not rain. 
+speaker2: which invariably means it will.
+speaker1: at last!
+speaker3: she fell over! she fell down--and he's carrying her!
+
+speaker1: marianne! 
+speaker2: in here, sir--this way. margaret, open the door wider. please, sir, lay her here. marianne, are you in pain?
+
+speaker1: it is a twisted ankle. 
+speaker2: do not be alarmed, mamma.
+speaker1: i can assure you it is not serious. i took the liberty of feeling the bone and it is perfectly sound.
+speaker3: sir, i cannot even begin to thank you.
+speaker1: please do not think of it. i'm honoured of be of service.
+speaker3: will you not be seated?
+speaker1: pray excuse me--i have no desire to leave a water mark! but permit me to call tomorrow afternoon and inquire after the patient?
+speaker3: we shall look forward to it!
+speaker2: his name! his name!
+speaker3: please tell us to whom we are so much obliged?
+speaker1: john willoughby of allenham--your servant, ma'am!
+
+speaker1: mr john willoughby of allenham! 
+speaker2: what an impressive gentleman!
+speaker1: he lifted me as if i weighed no more than a dried leaf!
+speaker3: is he human?
+speaker2: tell me if i hurt you.
+speaker3: she feels no pain, mamma. margaret, ask betsy to make up a cold compress, please.
+speaker4: did you see him? he expressed himself well, did he not?
+speaker2: with great decorum and honour.
+speaker1: and spirit and wit and feeling.
+speaker3: and economy--ten words at most.
+speaker1: and he is to come tomorrow!
+speaker3: you must change, marianne--you will catch a cold.
+speaker1: what care i for colds when there is such a man?
+speaker3: you will care very much when your nose swells up.
+speaker1: you are right. help me, elinor.
+speaker4: what has happened?
+speaker3: we have decided to give you to the gypsies.
+
+speaker1: will they be married before edward and elinor, do you think, mamma? 
+speaker2: margaret, you are worse than mrs jennings.
+
+speaker1: but what do you know of mr willoughby, sir john? 
+speaker2: decent shot--and there is not a bolder rider in all england.
+speaker1: but what is he like?
+speaker2: like?
+speaker1: what are his tastes? his passions? his pursuits?
+speaker2: well, he has the nicest little of a pointer--was she out with him yesterday?
+speaker3: where is allenham, sir john?
+speaker2: nice little estate three miles east. he is to inherit it from an elderly relative--lady allen is her name.
+speaker4: it is colonel brandon. i shall go outside and keep watch.
+speaker2: you are all on the lookout for willoughby, eh? dear me, poor brandon. you will none of you think of him now.
+speaker5: how is the invalid?
+speaker1: thank you so much, colonel.
+speaker2: miss marianne, i cannot see why you should set your cap at mr willoughby when you have already made such a splendid conquest!
+speaker1: i have no intention of 'setting my cap' at anyone, sir john!
+speaker5: mr willoughby--lady allen's nephew?
+
+speaker1: aye, he visits every year for he is to inherit allenham--and he has a very pretty estate of his own, miss dashwood, combe magna in somerset. if i were you, i would not give him up to my younger sister in spite of all this tumbling down hills. 
+speaker1: here is the man himself. come, brandon-- we know when we are not wanted. let us leave him to the ladies!
+speaker2: marianne! sir john and the colonel are leaving.
+speaker3: goodbye, colonel. thank you for the flowers.
+
+speaker1: how do you do, colonel? 
+speaker2: how does he do? how do you do, more like. go on in, they're waiting for you!
+
+speaker1: mr willoughby! what a pleasure to see you again! 
+speaker2: the pleasure is all mine, i can asstire you. i trust miss marianne has not caught cold?
+speaker3: you have found out my name!
+speaker2: of course. the neighbourhood is crawling with my spies.
+speaker2: and since you cannot venture out to nature, nature must be brought to you!
+speaker3: how beautiful. these are not from the hothouse.
+speaker2: ah! i see mine is not the first offering, nor the most elegant. i am afraid i obtained these from an obliging field.
+speaker3: but i have always preferred wild flowers!
+speaker2: i suspected as much.
+speaker4: i will put these in water.
+speaker1: our gratitude, mr willoughby, is beyond expression--
+speaker2: but it is i who am grateful. i have often passed this cottage and grieved for its lonely state--and then the first news i had from lady allen when i arrived was that it was taken. i felt a peculiar interest in the event which nothing can account for but my present delight in meeting you.
+speaker1: pray sit down, mr willoughby.
+speaker2: who is reading shakespeare's sonnets?
+speaker5: i am. / we all are. / marianne.
+speaker1: marianne has been reading them out to us.
+speaker2: which are your favourites?
+speaker3: without a doubt, mine is 116.
+speaker2: let me not to the marriage of true minds admit impediments. love is not love which alters when it alteration finds, or bends with the remover to remove--then how does it go?
+speaker3: '0, no! it is an ever-fixed mark.'
+speaker2: 'that looks on storms'--or is it tempests? let me find it. willoughby gets out a tiny leatherbound book.
+speaker2: it is strange you should be reading them--for, look, i carry this with me always.
+
+speaker1: till tomorrow! and my pocket sonnets are yours, miss marianne! a talisman against further injury! 
+speaker2: goodbye! thank you!
+speaker3: good work, marianne! you have covered all forms of poetry; another meeting will ascertain his views on nature and romantic attachments and then you will have nothing left to talk about and the acquaintanceship will be over.
+speaker2: i suppose i have erred against decorum. i should have been dull and spiritless and talked only of the weather, or the state of the roads.
+speaker3: no, but mr willoughby can be in no doubt of your enthusiasm for him.
+speaker2: why should he doubt it? why should i hide my regard?
+speaker3: no particular reason, marianne, only that we know so little of him--
+speaker2: but time alone does not determine intimacy. seven years would be insufficient to make some people acquainted with each other and seven days are more than enough for others.
+speaker3: or seven hours in this case.
+speaker2: i feel i know mr willoughby well already. if i had weaker, more shallow feelings perhaps i could conceal them, as you do-- then she realises what she's said.
+speaker4: marianne, that is not fair--
+speaker2: i am sorry, elinor, i did not mean
+speaker3: i know. do not trouble yourself, marianne.
+speaker2: i do not understand her, mamma. why does she never mention edward? i have never even seen her cry about him, or about norland.
+speaker4: nor i. but elinor is not like you or i, dear. she does not like to be swayed by her emotions.
+
+speaker1: surely you are not going to deny us beef as well as sugar? 
+speaker2: there is nothing under tenpence a pound. we have to economise.
+speaker1: do you want us to starve?
+speaker2: no. just not to eat beef.
+
+speaker1: if there was any true impropriety in my behaviour, i should be sensible of it, elinor-- 
+speaker2: but as it has already exposed you to some very impertinent remarks, do you not begin to doubt your own discretion?
+speaker1: if the impertinent remarks of such as mrs jennings are proof of impropriety, then we are all offending every moment of our lives--
+speaker3: miss dashwood! miss marianne!
+speaker2: good morning, colonel!
+speaker3: i come to issue an invitation. a picnic on my estate at delaford--if you would care to join us on thursday next. mrs jennings's daughter and her husband are traveling up especially.
+speaker2: thank you, colonel, we shall be delighted.
+speaker1: i should be delighted to join you, colonel!
+speaker4: good morning, miss dashwood; good morning, colonel.
+speaker1: the colonel has invited us to delaford, willoughby!
+speaker4: excellent. i understand you have a particularly fine pianoforte, colonel.
+speaker3: a broadwood grand.
+speaker1: a broadwood grand! then i shall really be able to play for you!
+speaker4: we shall look forward to it!
+speaker3: your sister seems very happy.
+speaker2: yes. marianne does not approve of hiding her emotions. in fact, her romantic prejudices have the unfortunate tendency to set propriety at naught.
+speaker3: she is wholly unspoilt.
+speaker2: rather too unspoilt, in my view. the sooner she becomes acquainted with the ways of the world, the better.
+speaker3: i knew a lady like your sister--the same impulsive sweetness of temper-- who was forced into, as you put it, a better acquaintance with the world. the result was only ruination and despair.
+speaker3: do not desire it, miss dashwood.
+
+speaker1: imagine my surprise, mrs dashwood, when charlotte and her lord and master appeared with our cousin lucy! the last person i expected to see! 'where did you pop out from, miss?' says i. i was never so surprised to see anyone in all my life! 
+speaker1: she probably came on purpose to share the fun, for there are no funds for such luxuries at home, poor thing.
+speaker2: i had not seen you for so long, dear mrs jennings, i could not resist the opportunity.
+speaker3: oh, you sly thing! it was the misses dashwood she wanted to see, not delaford, mamma! i have heard nothing but 'miss dashwood this, miss dashwood that' for i don't know how long! and what do you think of them now you do see them, lucy? my mother has talked of nothing else in her letters since you came to barton, mrs dashwood. mr palmer--are they not the very creatures she describes?
+speaker4: nothing like.
+speaker3: why, mr palmer! do you know you are quite rude today? he is to be an mp, you know, mrs dashwood, and it is very fatiguing for him for he is forced to make everybody like him-- he says it is quite shocking--
+speaker5: i never said anything so irrational. don't palm all your abuses of the language upon me.
+speaker1: here he is! now you shall see, charlotte.
+speaker1: how now, mr willoughby! you must greet my daughter charlotte, and mr palmer--
+speaker6: how do you do?
+speaker1: and my little cousin, miss lucy steele.
+speaker6: welcome to our party, miss steele!
+speaker3: i know mr willoughby extremely well-- not that i ever spoke to him but i have seen him forever in town. your sister is monstrous lucky to get him. mamma says colonel brandon is in love with her as well, which is a very great compliment for he hardly ever falls in love with anyone.
+speaker2: may i beg a seat beside you, miss dashwood? i have so longed to make your better acquaintance! i have heard nothing but the highest praise for you.
+speaker7: i would be delighted. but sir john and mrs jennings are too excessive in their compliments. i am sure to disappoint.
+speaker2: no, for it was from quite another source that i heard you praised and one not at all inclined to exaggeration.
+speaker8: what can this be?
+speaker9: my horse! quickly!
+speaker8: what is the matter, brandon?
+speaker9: i must away to london.
+speaker8: no! impossible!
+speaker9: imperative.
+speaker8: but brandon, we are all assembled. we cannot picnic at delaford without our host! go up to town tomorrow.
+speaker6: or wait till we return and start then--you would not be six hours later.
+speaker9: i cannot afford to lose one minute.
+speaker2: oh, miss dashwood, i cannot bear it! just when i was to have the opportunity of speaking with you.
+
+speaker1: frailty, thy name is brandon! 
+speaker2: there are some people who cannot bear a party of pleasure. i think he wrote the letter himself as a trick for getting out of it.
+speaker3: you are a very wicked pair, colonel brandon will be sadly missed.
+speaker1: why? when he is the kind of man that everyone speaks well of and no one wants to talk to.
+speaker2: exactly!
+speaker4: nonsense.
+speaker3: colonel brandon is very highly esteemed at the park.
+speaker1: which is enough censure in itself.
+speaker4: really, willoughby!
+speaker1: come, come, mr impudence--i know you and your wicked ways--oh!
+speaker1: come, miss dashwood, reveal your beau, reveal him, i say! let's have no secrets between friends! let me winkle them out of you!
+speaker1: i declare, miss marianne, if i do not have you married to the colonel by teatime, i shall swallow my own bonnet.
+speaker1: as if you could marry such a character.
+speaker4: why should you dislike him?
+speaker1: because he has threatened me with rain when i wanted it fine, he has found fault with the balance of my curricle and i cannot persuade him to buy my brown mare. if it will be of any satisfaction to you, however, to be told i believe his character to be in all other respects irreproachable, i am ready to confess it. and in return for an acknowledgement that must give me some pain. you cannot deny me the privilege... of disliking him... as much as i adore...
+speaker1: --this cottage!
+speaker3: i have great plans for improvements to it, you know, mr willoughby.
+speaker1: now that i will never consent to. not a stone must be added to its walls. were i rich enough, i would instantly pull down combe magna and build it up again in the exact image of that cottage!
+speaker4: with dark, narrow stairs, a poky hall and a fire that smokes?
+speaker1: especially the fire that smokes! then i might be as happy at combe magna as i have been at barton.
+speaker1: but this place has one claim on my affection which no other can possibly share.
+speaker1: promise me you will never change it.
+speaker3: i do not have the heart.
+speaker4: or the money.
+speaker1: miss marianne, will you--will you do me the honour of granting me an interview tomorrow--alone?
+speaker2: willoughby, we are always alone!
+speaker1: but there is something very particular i should like to ask you.
+speaker2: of course. i shall ask mamma if i may stay behind from church.
+speaker1: thank you. until tomorrow then--miss marianne.
+
+speaker1: do you think he will kneel down when he asks her? 
+speaker2: shhh!
+speaker1: they always kneel down.
+
+speaker1: willoughby! what is the matter? 
+speaker2: i--forgive me, mrs dashwood. i am sent--that is to say, lady allen has exercised the privilege of riches upon a dependent cousin and is sending me to london.
+speaker1: when--this morning?
+speaker2: almost this moment.
+speaker1: how very disappointing! but your business will not detain you from us for long, i hope?
+speaker2: you are very kind--but i have no idea of returning immediately to devonshire. i am seldom invited to allenham more than once a year.
+speaker1: for shame, willoughby! can you wait for an invitation from barton cottage?
+speaker2: my engagements at present are of such a nature--that is--i dare not flatter myself--
+speaker2: it is folly to linger in this manner. i will not torment myself further.
+speaker3: willoughby, come back!
+speaker4: meg, dearest, please ask betsy to make a cup of hot tea for marianne.
+speaker1: what is wrong, my love?
+speaker5: nothing! please do not ask me questions!
+speaker5: please let me be!
+speaker4: they must have quarreled.
+speaker1: that is unlikely. perhaps this--lady allen--disapproves of his regard for marianne and has invented an excuse to send him away?
+speaker4: then why did he not say as much? it is not like willoughby to be secretive. did he think marianne was richer than she is?
+speaker1: how could he?
+speaker1: what is it you suspect him of?
+speaker4: i can hardly tell you. but why was his manner so guilty?
+speaker1: what are you saying, elinor? that he has been acting a part to your sister for all this time?
+speaker4: no, he loves her, i am sure.
+speaker1: of course he loves her!
+speaker4: but has he left her with any assurance of his return? cannot you ask her if he has proposed?
+speaker1: certainly not. i cannot force a confidence from marianne and nor must you. we must trust her to confide in us in her own time.
+speaker4: there was something so underhand in the manner of his leaving.
+speaker1: you are resolved, then, to think the worst of him.
+speaker4: not resolved--
+speaker4: mamma, i am very fond of willoughby--
+speaker3: she would not let me in.
+
+speaker1: oh! if only this rain would stop! 
+speaker2: if only you would stop.
+speaker3: 'twas you took her off my hands, mr palmer, and a very good bargain you made of it too, but now i have the whip hand over you for you cannot give her back!
+speaker3: miss marianne, come and play a round with us! looking out at the weather will not bring him back.
+speaker1: she ate nothing at dinner.
+speaker3: mind, we are all a little forlorn these days. london has swallowed all our company.
+speaker4: dear miss dashwood, perhaps now we might have our--discussion.
+speaker5: our discussion?
+speaker4: there is a particular question i have long wanted to ask you, but perhaps you will think me impertinent?
+speaker5: i cannot imagine so.
+speaker4: but it is an odd question. forgive me, i have no wish to trouble you--
+speaker5: my dear miss steele--
+speaker1: miss dashwood, if only mr willoughby had gone home to combe magna, we could have taken miss marianne to see him! for we live but half a mile away.
+speaker2: five and a half.
+speaker1: no, i cannot believe it is that far, for you can see the place from the top of our hill. is it really five and a half miles? no! i cannot believe it.
+speaker2: try.
+speaker5: you have my permission to ask any manner of question, if that is of any help.
+speaker4: thank you. i wonder, are you at all acquainted with your sister-in-law's mother? mrs ferrars?
+speaker5: with fanny's mother? no, i have never met her.
+speaker4: i am sure you think me strange for inquiring--if i dared tell--
+speaker4: will you take a turn with me, miss dashwood?
+speaker5: i had no idea at all that you were connected with that family.
+speaker4: oh! i am certainly nothing to mrs ferrars at present--but the time may come when we may be very intimately connected.
+speaker5: what do you mean? do you have an understanding with fanny's brother robert?
+speaker4: the youngest? no, i never saw him in my life. no, with edward.
+speaker5: edward?
+speaker5: edward ferrars?
+speaker4: edward and i have been secretly engaged these five years.
+speaker4: you may well be surprised. i should never have mentioned it, had i not known i could entirely trust you to keep our secret. edward cannot mind me telling you for he looks on you quite as his own sister.
+speaker5: i am sorry, but we surely--we cannot mean the same mr ferrars?
+speaker4: the very same--he was four years under the tutelage of my uncle mr pratt, down in plymouth. has he never spoken of it?
+speaker5: mr pratt! yes, i believe he has.
+speaker4: i was very unwilling to enter into it without his mother's approval but we loved each other with too great a passion for prudence. though you do nor know him so well as i, miss dashwood, you must have seen how capable he is of making a woman sincerely attached to him. i cannot pretend it has not been very hard on us both. we can hardly meet above twice a year.
+speaker4: you seem out of sorts, miss dashwood-- are you quite well?
+speaker5: perfectly well, thank you.
+speaker4: i have not offended you?
+speaker5: on the contrary.
+speaker3: i can stand it no longer, i must know what you are saying, lucy! miss dashwood is quite engrossed!
+speaker4: oh, miss dashwood, if anyone finds out, it will ruin him--you must not tell a soul! edward says you would not break your word to save your life! promise me!
+speaker5: i give you my word.
+speaker3: well, what can have fascinated you to such an extent, miss dashwood?
+speaker1: tell us all!
+speaker4: we were talking of london, ma'am, and all its--diversions.
+speaker3: do you hear, charlotte?
+speaker3: while you were so busy whispering, charlotte and i have concocted a plan!
+speaker1: it is the best plan in the world.
+speaker3: i make for london shortly and i invite you, lucy, and both the misses dashwood to join me!
+speaker6: london!
+speaker7: oh, can i go! can i go?
+speaker8: you know perfectly well you are too young, dearest.
+speaker3: i shall convey you all to my house in berkeley street and we shall taste all the delights of the season--what say you?
+speaker7: oh, please can i go? i'm twelve soon.
+speaker1: mr palmer, do you not long to have the misses dashwood come to london?
+speaker2: i came into devonshire with no other view.
+speaker5: mrs jennings, you are very kind, but we cannot possibly leave our mother...
+speaker4: indeed, the loss would be too great.
+speaker3: your mother can spare you very well.
+speaker8: of course i can!
+speaker1: of course she can!
+speaker9: and look at miss marianne--it would break her heart to deny her!
+speaker3: i will brook no refusal, miss dashwood!
+speaker3: let you and me strike hands upon the bargain--and if i do not have the three of you married by christmas, it will not be my fault!
+
+speaker1: i was never so grateful in all my life as i am to mrs jennings. what a kind woman she is! i like her more than i can say. oh, elinor! i shall see willoughby. think how surprised he will be! and you will see edward! 
+speaker1: are you asleep?
+speaker2: with you in the room?
+speaker1: i do not believe you feel as calm as you look, not even you, elinor. i will never sleep tonight! oh, what were you and miss steele whispering about so long?
+speaker2: nothing of significance.
+
+speaker1: i have written to edward, miss dashwood, and yet i do not know how much i may see of him. secrecy is vital--he will never be able to call. 
+speaker2: i should imagine not.
+speaker1: it is so hard. i believe my only comfort has been the constancy of his affection.
+speaker2: you are fortunate, over such a lengthy engagement, never to have had any doubts on that score.
+speaker1: oh! i am of rather a jealous nature and if he had talked more of one young lady than any other... but he has never given a moment's alarm on that count.
+speaker1: imagine how glad he will be to learn that we are friends!
+
+speaker1: to be sure, my dear, you must just hand it to pigeon there. he will take care of it. 
+speaker1: lord above, you do not waste any time, miss marianne!
+speaker2: a letter! so they are definitely engaged! mrs jennings says your sister will buy her wedding clothes here in town.
+speaker3: indeed miss steele, i know of no such plan.
+
+speaker1: john and are in town. i think we shall be forced to see them. 
+speaker1: i think it was for next door.
+speaker2: yes, you are right.
+speaker2: oh, elinor! it is willoughby, indeed it is!
+
+speaker1: oh! excuse me, colonel-- 
+speaker2: colonel brandon, what a pleasure to see you! have you been in london all this while?
+speaker3: i have. how is your dear mother?
+speaker2: very well, thank you.
+speaker2: colonel, is there anything-- but brandon interrupts her.
+speaker3: forgive me, miss dashwood, but i have heard reports through town... is it impossible to--but i could have no chance of succeeding--indeed i hardly know what to do. tell me once and for all, is everything finally resolved between your sister and mr willoughby?
+speaker2: colonel, though neither one has informed me of their under standing, i have no doubt of their mutual affection.
+speaker3: thank you, miss dashwood. to your sister i wish all imaginable happiness. to mr willoughby, that he... may endeavour to deserve her.
+speaker2: what do you mean?
+speaker3: forgive me, i--forgive me.
+
+speaker1: where is dear edward, john? we expect to see him daily. 
+speaker2: and who is 'dear edward'?
+speaker3: who indeed?
+speaker4: my brother, mrs jennings--edward ferrars.
+speaker2: indeed! is that ferrars with an f?
+
+speaker1: are there any messages, pigeon? 
+speaker2: no, ma'am.
+speaker1: no message at all? no cards?
+speaker2: none, ma am.
+speaker3: i note you do not inquire for your messages, miss dashwood!
+speaker4: no, for i do not expect any, mrs jennings. i have very little acquaintance in town.
+speaker3: she is as sly as you, lucy!
+
+speaker1: marianne, is anything wrong? 
+speaker2: nothing at all. go back to sleep.
+
+speaker1: no messages, ma am. 
+speaker2: do not fret, my dear. i am told that this good weather is keeping many sportsmen in the country at present, but the frost will drive them back to town very soon, depend upon it.
+speaker3: of course! i had not thought of-- thank you, mrs jennings!
+speaker2: and miss dashwood may set her heart at rest, for i overheard your sister- in-law say that she was to bring the elusive mr to the ball tonight!
+
+speaker1: this is very merry! 
+speaker2: there you are! goodness, how hot it is, mrs dashwood. you are not alone, i trust?
+speaker3: indeed not. john is just gone to fetch my brother--he has been eating ices.
+speaker2: your brother! i declare, that is good news indeed. at long last!
+speaker4: mrs jennings, may i present my brother- in-law?
+speaker4: mr robert ferrars!
+speaker5: my dear ladies--we meet at last!
+speaker2: so you must be the younger brother? is mr edward not here? miss dashwood here was counting on him!
+speaker5: oh! he is far too busy for such gatherings--and has no special acquaintance here to make his attendance worthwhile.
+speaker2: well, i declare, i do not know what the young men are about these days-- are they all in hiding?
+speaker2: come, mr robert, in the absence of your brother, you must dance with our lovely miss dashwood!
+speaker5: it would be my honour.
+speaker5: and perhaps miss steele might consider reserving the allemande?
+speaker5: you reside in devonshire, i b'lieve, miss dashwood?
+speaker6: we do.
+speaker5: in a cottage?
+speaker6: yes.
+speaker5: i am excessively fond of a cottage. if i had any money to spare, i should build one myself.
+speaker7: how do you do, miss dashwood?
+speaker6: i am well, thank you, mr willoughby.
+speaker7: how is your--family?
+speaker8: willoughby!
+speaker8: good willoughby! will you nor shake hands with me?
+speaker7: how do you do, miss marianne?
+speaker8: willoughby, what is the matter? why have you not come to see me? were you not in london? have you nor received my letters?
+speaker7: yes, i had the pleasure of receiving the information which you were so good as to send me.
+speaker8: for heaven's sake, willoughby, tell me what is wrong!
+speaker7: thank you--i am most obliged. if you will excuse me, i must return to my party.
+
+speaker1: willoughby! 
+speaker2: marianne! come away!
+speaker1: go to him, elinor--force him to come to me.
+speaker2: dearest, do not betray what you feel to everyone present! this is not the place for explanations--
+speaker3: come along, dear.
+speaker3: will you come, lucy?
+speaker4: oh, are we leaving so soon?
+speaker5: if i might be so bold, mrs jennings, it would be our pleasure to your young charge home.
+speaker4: how very kind!
+speaker3: that is very handsome--
+speaker5: she actually sent him messages during the night?
+speaker2: marianne, please tell me--
+speaker1: do not ask me questions!
+speaker2: you have no confidence in me.
+speaker1: this reproach from you! you, who confide in no one.
+speaker2: i have nothing to tell.
+speaker1: nor i. we have neither of us anything to tell. i because i conceal nothing and you because you communicate nothing.
+
+speaker1: there now! lovers' quarrels are swift to heal! that letter will do the trick, mark my word. 
+speaker1: i must be off. i hope he won't keep her waiting much longer, miss dashwood. it hurts to see her looking so forlorn.
+speaker2: what a welcome i had from edward's family, miss dashwood--i am surprised you never told me what an agreeable woman your sister-in-law is! and mr robert--all so affable!
+speaker3: it is perhaps fortunate that none of them knows of your engagement. excuse me.
+
+speaker1: 'my dear madam--i am quite at a loss to discover in what point i could be so unfortunate as to offend you. my esteem for your family is very sincere but if i have given rise to a belief of more than i felt or meant to express, i shall reproach myself for not having been more guarded. my affections have long been engaged elsewhere and it is with great regret that i return your letters and the lock of hair which you so obligingly bestowed upon me. i am etc. john willoughby.' 
+speaker2: oh, marianne.
+speaker2: marianne, oh, marianne--it is better to know at once what his intentions are. dearest, think of what you would have felt if your engagement had carried on for months and months before he chose to put an end to it.
+speaker1: we are not engaged.
+speaker2: but you wrote to him! i thought then that he must have left you with some kind of understanding?
+speaker1: no--he is not so unworthy as you think him.
+speaker2: not so unworthy! did he tell you that he loved you?
+speaker1: yes. no--never absolutely. it was every day implied, but never declared. sometimes i thought it had been, but it never was. he has broken no vow.
+speaker2: he has broken faith with all of us, he made us all believe he loved you.
+speaker1: he did! he did--he loved me as i loved him.
+speaker3: i had to come straight up--how are you, miss marianne?
+speaker3: poor thing! she looks very bad. no wonder, miss dashwood, for it is but too true. i was told here in the street by miss morton, who is a great friend: he is to be married at the end of the month--to a miss grey with fifty thousand pounds. well, said i, if 'tis true, then he is a good-for-nothing who has used my young friend abominably ill, and i wish with all my soul that his wife may plague his heart out!
+speaker3: but he is not the only young man worth having, my dear, and with your pretty face you will never want for admirers.
+speaker3: ah, me! she had better have her cry out and have done with it. i will go and look out something to tempt her-- does she care for olives?
+speaker2: i cannot tell you.
+speaker1: i cannot believe his nature capable of such cruelty!
+speaker2: marianne, there is no excuse for him-- this is his hand--
+speaker1: but it cannot be his heart! oh, mamma! i want mamma! elinor, please take me home! cannot we go tomorrow?
+speaker2: there is no one to take us.
+speaker1: cannot we hire a carriage?
+speaker2: we have no money--and indeed we owe mrs jennings more courtesy.
+speaker1: all she wants is gossip and she only likes me because i supply it! oh, i cannot endure to stay.
+speaker2: i will find a way. i promise.
+
+speaker1: apparently they never were engaged. 
+speaker2: miss grey has fifty thousand pounds. marianne is virtually penniless.
+speaker3: she cannot have expected him to go through with it. but i feel for marianne--she will lose her bloom and end a spinster like elinor. i think, my dear, we might consider having them to stay with us for a few days--we are, after all, family, and my father.
+speaker2: my love, i would ask them with all my heart, but i have already asked miss steele for a visit and we cannot deprive mrs jennings of all her company at once. we can invite your sisters some other year, you know, and miss steele will profit far more from your generosity--poor girl!
+speaker3: that is very thoughtful, fanny. we shall ask elinor and marianne next year, then... certainly!
+
+speaker1: thank you for coming, colonel. 
+speaker2: how does your sister?
+speaker1: i must get her home as quickly as possible. the palmers can take us as far as cleveland, which is but a day from barton--
+speaker2: then permit me to accompany you and take you straight on from cleveland to barton myself.
+speaker1: i confess that is precisely what i had hoped for. marianne suffers cruelly, and what pains me most is how hard she tries to justify mr willoughby. but you know her disposition.
+speaker2: perhaps i--my regard for you all-- miss dashwood, will you allow me to prove it by relating some circumstances which nothing but an earnest desire of being useful--
+speaker1: you have something to tell me of mr willoughby.
+speaker2: when i quitted barton last--but i must go further back. a short account of myself will be necessary. no doubt... no doubt mrs jennings has apprised you of certain events in my past--the sad outcome of my connection with a young woman named eliza.
+speaker2: what is not commonly known is that twenty years ago, eliza bore an illegitimate child. the father, whoever he was, abandoned them.
+speaker2: as she lay dying, she begged me to look after the child. eliza died in my arms, broken, wasted away--ah! miss dashwood, such a subject-- untouched for so many years--it is dangerous...
+speaker2: i had failed eliza in every other way--i could not refuse her now. i took the child--beth is her name-- and placed her with a family where i could be sure she would be well looked after. i saw her whenever i could. i saw that she was headstrong like her mother--and, forgive me, i indulged her, i allowed her too much freedom. almost a year ago, she disappeared.
+speaker1: disappeared!
+speaker2: i instigated a search but for eight months i was left to imagine the worst. at last, on the day of the delaford picnic, i received the first news her. she was with child... and the blackguard who had-- brandon stops and looks straight at elinor.
+speaker1: good do you mean--willoughby?
+speaker2: before i could return to confront him, lady allen learned of his behaviour and turned him from the house. he beat a hasty retreat to london--
+speaker1: yes! he left us that morning, without any explanation!
+speaker2: lady allen had annulled his legacy. he was left with next to nothing, and in danger of losing all that remained to his debtors--
+speaker1: --and so abandoned marianne for miss grey and her fifty thousand pounds.
+speaker1: have you seen mr willoughby since you learned...?
+speaker3: we met by appointment, he to defend, i to punish his conduct.
+speaker3: we returned unwounded, so the meeting never got abroad.
+speaker1: is beth still in town?
+speaker2: she has chosen to go into the country for her confinement. such has been the unhappy resemblance between the fate of mother and daughter, and so imperfectly have i discharged my trust.
+speaker2: i would not have burdened you, miss dashwood, had i not from my heart believed it might, in time, lessen your sister's regrets.
+speaker2: i have described mr willoughby as the worst of libertines--but i have since learned from lady allen that he did mean to propose that day. therefore i cannot deny that his intentions towards marianne were honourable, and i feel certain he would have married her, had it not been for--for the money.
+
+speaker1: dearest, was i right to tell you? 
+speaker2: of course.
+speaker1: whatever his past actions, whatever his present course, at least you may be certain that he loved you.
+speaker2: but not enough. not enough.
+
+speaker1: here is someone to cheer you up, miss dashwood! 
+speaker2: how is your dear sister, miss dashwood? poor thing! i must say, i do not know what i should do if a man treated me with so little respect.
+speaker3: i hope you are enjoying your stay with john and fanny, miss steele?
+speaker2: i was never so happy in my entire life, miss dashwood! i do believe your sister-in-law has taken quite a fancy to me. i had to come and tell you--for you cannot imagine what has happened!
+speaker3: no, i cannot.
+speaker2: yesterday i was introduced to edward's mother!
+speaker3: indeed?
+speaker2: and she was a vast deal more than civil. i have not yet seen edward but now i feel sure to very soon-- the maid comes back.
+speaker4: there's a mr edward ferrars to see you, miss dashwood.
+speaker3: do ask him to come up.
+speaker5: miss dashwood, how can i-- but elinor cuts him off.
+speaker3: mr ferrars, what a pleasure to see you. you... know miss steele, of course.
+speaker5: how do you do, miss steele.
+speaker2: i am well, thank you, mr ferrars.
+speaker3: do sit down, mr ferrars.
+speaker2: you must be surprised to find me here, mr ferrars! i expect you thought i was at your sister's house.
+speaker3: let me call marianne, mr ferrars. she would be most disappointed to miss you.
+speaker6: edward! i heard your voice! at last you have found us!
+speaker5: forgive me, marianne, my visit is shamefully overdue. you are pale. i hope you have not been unwell?
+speaker6: oh, don't think of me--elinor is well, you see, that must be enough for both of us!
+speaker5: how do you like london, marianne?
+speaker6: not at all. the sight of you is all the pleasure it has afforded, is that not so, elinor?
+speaker6: why have you taken so long to come and see us?
+speaker5: i have been much engaged elsewhere.
+speaker6: engaged elsewhere! but what was that when there were such friends to be met?
+speaker2: perhaps, miss marianne, you think young men never honour their engagements, little or great.
+speaker6: no, indeed--for edward is the most fearful of giving pain and the most incapable of being selfish of anyone i ever saw.
+speaker6: edward, will you not sit? elinor, help me to persuade him.
+speaker5: forgive me but i must take my leave--
+speaker6: but you are only just arrived!
+speaker5: you must excuse me, i have a commission to attend to for fanny-- lucy jumps in like a shot.
+speaker2: in that case perhaps you might me back to your sister's house, mr ferrars?
+speaker5: i would be honoured. goodbye, miss dashwood, miss marianne.
+speaker6: why did you not urge him to stay?
+speaker3: he must have had his reasons for going.
+speaker6: his reason was no doubt your coldness. if i were edward i would assume you did not care for me at all.
+
+speaker1: poor miss marianne looked very badly t'other day. when i think of her, deserted and abandoned, it frightens me to think i shall never marry. 
+speaker2: nonsense. you will marry far better than either of the dashwood girls.
+speaker1: how can that possibly be?
+speaker2: you have ten times their sense and looks.
+speaker1: but i have no dowry.
+speaker2: there are qualities which will always make up for that, and you have them in abundance. it would not surprise me if you were to marry far and away beyond your expectations.
+speaker1: i wish it might be so. there is a young man--
+speaker2: ah ha! i am glad to hear of it. is he of good breeding and fortune?
+speaker1: oh both--but his family would certainly oppose the match.
+speaker2: tush! they will allow it as soon as they see you, my dear.
+speaker1: it is a very great secret. i have told no one in the world for fear of discovery.
+speaker2: my dear, i am the soul of discretion.
+speaker1: if i dared tell...
+speaker2: i can assure you i am as silent as the grave. lucy leans forward to whisper in fanny's ear.
+
+speaker1: oh, my dears! what a commotion! mr edward ferrars--the very one i used to joke you about, miss dashwood-- has been engaged these five years to lucy steele! 
+speaker1: poor mr ferrars! his mother, who by all accounts is very proud, demanded that he break the engagement on pain of disinheritance. but he has refused to break his promise to lucy. he has stood by her, good man, and is cut off without a penny! she has settled it all irrevocably upon mr robert. but i cannot stop, i must go to lucy. your sister-in-law scolded her like any fury--drove her to hysterics.
+speaker2: how long have you known?
+speaker3: since the evening mrs jennings offered to take us to london.
+speaker2: why did you not tell me?
+speaker3: lucy told me in the strictest confidence.
+speaker3: i could not break my word.
+speaker2: but edward loves you.
+speaker3: he made me no promises. he tried to tell me about lucy.
+speaker2: he cannot marry her.
+speaker3: would you have him treat her even worse than willoughby has treated you?
+speaker2: no--but nor would i have him marry where he does not love.
+speaker3: edward made his promise a long time ago, long before he met me. though he may... harbour some regret, i believe he will be happy--in the knowledge that he did his duty and kept his word. after all--after all that is bewitching in the idea of one's happiness depending entirely on one person, it is not always possible. we must accept. edward will marry lucy--and you and i will go home.
+speaker2: always resignation and acceptance! always prudence and honour and duty! elinor, where is your heart?
+speaker3: what do you know of my heart? what do you know of anything but your own suffering? for weeks, marianne, i have had this pressing on me without being at liberty to speak of it to a single creature. it was forced upon me by the very person whose prior claims ruined all my hopes. i have had to endure her exultation again and again while knowing myself to be divided from edward forever. believe me, marianne, had i not been bound to silence i could have produced proof enough of a broken heart even for you.
+speaker2: oh, elinor!
+
+speaker1: i have heard that your friend mr ferrars has been entirely cast off by his family for persevering in his engagement to miss steele. 
+speaker1: have i been rightly informed? is it so?
+speaker2: it is indeed so. are you acquainted with mr ferrars?
+speaker1: no, we have never met. but i know only too well the cruelty--the impolitic cruelty of dividing two young people long attached to one another. mrs ferrars does not know what she may drive her son to--
+speaker1: i have a proposal to make that should enable him to marry miss steele immediately. since the gentleman is so close a friend to your family, perhaps you will be good enough to mention it to him?
+speaker2: colonel, i am sure he would be only too delighted to hear it from your own lips.
+speaker1: i think not. his behaviour has proved him proud--in the best sense. i feel certain this is the right course.
+
+speaker1: mr ferrars. 
+speaker2: miss dashwood.
+speaker1: thank you for responding so promptly to my message.
+speaker2: i was most grateful to receive it. i-- miss dashwood, knows what you must think of me...
+speaker1: mr ferrars-- he interrupts her, desperate to explain.
+speaker2: i have no right to speak, i know-- elinor has to stop him.
+speaker1: mr ferrars, i have good news. i think you know of our friend colonel brandon?
+speaker2: yes, i have heard his name.
+speaker1: colonel brandon desires me to say that, understanding you wish to join the clergy, he has great pleasure in offering you the parish on his estate at delaford, now just vacant, in the hope that it may enable you--and miss steele--to marry.
+speaker2: colonel brandon?
+speaker1: yes. he means it as testimony of his concern for--for the cruel situation in which you find yourselves.
+speaker2: colonel brandon give me a parish? can it be possible?
+speaker1: the unkindness of your family has made you astonished to find friendship elsewhere.
+speaker2: no. not to find it in you. i cannot be ignorant that to you--to your goodness--i owe it all. i feel it. i would express it if i could, but, as you know, i am no orator.
+speaker1: you are very much mistaken. i assure you that you owe it almost entirely to your own merit--i have had no hand in it.
+speaker2: colonel brandon must be a man of great worth and respect ability.
+speaker1: he is the kindest and best of men.
+speaker2: may i enquire why the colonel did not tell me himself?
+speaker1: i think he felt it would be better coming from... a friend.
+speaker2: your friendship has been the most important of my life.
+speaker1: you will always have it.
+speaker2: forgive me.
+speaker1: mr ferrars, you honour your promises-- that is more important than anything else. i wish you--both--very happy.
+speaker2: goodbye, miss dashwood.
+
+speaker1: what a stroke of luck for lucy and edward to find a parish so close to barton! you will all be able to meet very often. that will cheer you up, miss marianne. i do declare i have never disliked a person so much as i do mr willoughby, for your sake. insufferable man! to think we can see his insufferable house from the top of our hill! 
+speaker1: i shall ask jackson to plant some very tall trees.
+speaker2: you will do nothing of the sort.
+
+speaker1: i am resolved never to mention mr willoughby's name again, and furthermore i shall tell everyone i meet what a good-for nothing he is. 
+speaker2: be quiet.
+speaker3: i do not think she drew breath from the moment we left london. it is my fault--i should have found some other way of getting home.
+speaker4: there was no other way you said so yourself.
+speaker3: we shall be home soon enough. mamma will comfort you, dearest.
+speaker4: i am stiff from sitting so long. will you tell charlotte that i am going for a stroll? elinor glances at the sky in concern.
+speaker3: i think it is going to rain.
+speaker4: no, no, it will not rain.
+
+speaker1: you always say that and then it always does. 
+speaker2: i will keep to the garden, near the house.
+
+speaker1: there you are, miss dashwood! mr palmer and the colonel have locked themselves up in the billiard room. come and meet little thomas. where is miss marianne? 
+speaker2: she is taking a little air in the garden.
+speaker1: oh, very good. that is the great advantage of the countryside--all the fresh air and... and all the fresh air...
+
+speaker1: one thing is certain--she will be wet through when she returns. 
+speaker2: thank you for pointing that out, my dear. do not worry, miss dashwood-- brandon will find her. i think we can all guess where she went.
+
+speaker1: you'll wear yourself out, colonel! do not worry! a day or two in bed will soon set her to rights! 
+speaker2: you can rely upon harris, colonel. i have never found a better physician.
+speaker3: what is your diagnosis?
+speaker4: it is an infectious fever that has taken far more serious hold than i would have expected in one so young. i would recommend the hasty removal of your child, mr palmer-- charlotte runs out of the room screaming.
+speaker1: mrs bunting! mrs bunting!
+
+speaker1: my dear miss dashwood, i am more sorry than i can say. if you would prefer me to stay i am at your service. 
+speaker2: mr palmer, that is very kind. but colonel brandon and dr harris will look after us. thank you for everything you have done.
+
+speaker1: what can i do? 
+speaker2: colonel, you have done so much already.
+speaker1: give me an occupation, miss dashwood, or i shall run mad. he is dangerously quiet.
+speaker2: she would be easier if her mother were here.
+speaker1: of course. barton is but eight hours away. if i make no stop, you may see us early tomorrow morning.
+speaker1: in your hands i know she will be safe.
+
+speaker1: who is that? 
+speaker1: look, look, elinor.
+speaker2: there is no one there, dearest.
+speaker1: it is papa. papa has come.
+speaker1: dearest papa!
+
+speaker1: marianne, marianne, please try-- 
+speaker1: marianne, please try--i cannot--i cannot do without you. oh, please, i have tried to bear everything else-- i will try--but please, dearest, beloved marianne, do not leave me alone.
+
+speaker1: elinor? 
+speaker2: my mother!
+
+speaker1: there, there, my love, my marianne. 
+speaker2: where is elinor?
+speaker3: i am here, dearest, i am here.
+speaker2: colonel brandon.
+speaker2: thank you.
+
+speaker1: nor is the earth the lesse, or loseth aught. for whatsoever from one place doth fall, is with the tide unto another brought... 
+speaker2: he certainly is nor so dashing as willoughby but he has a far more pleasing countenance. there was always a something, if you remember, in willoughby's eyes at times which i did not like.
+speaker1: 'for there is nothing lost, but may be found, if sought...
+speaker3: shall we continue tomorrow?
+speaker1: no--for i must away.
+speaker3: away? where?
+speaker1: that i cannot tell you. it is a secret.
+speaker3: but you will not stay away long?
+
+speaker1: there. 
+speaker1: there i fell, and there i first saw willoughby.
+speaker2: poor willoughby. he will always regret you.
+speaker1: but does it follow that, had he chosen me, he would have been content?
+speaker1: he would have had a wife he loved but no money--and might soon have learned to rank the demands of his pocket-book far above the demands of his heart.
+speaker1: if his present regrets are half as painful as mine, he will suffer enough.
+speaker2: do you compare your conduct with his?
+speaker1: no. i compare it with what it ought to have been. i compare it with yours.
+speaker2: our situations were very different.
+speaker1: my illness has made me consider the past. i saw in my own behaviour nothing but imprudence--and worse. i was insolent and unjust to everyone--
+speaker1: --but you--you i wronged above all. only i knew your heart and its sorrows but even then i was never a grain more compassionate. i brought my illness upon myself--i wanted to destroy myself. and had i succeeded, what misery should i have caused you?
+speaker1: i shall mend my ways! i shall no longer worry others nor torture myself. i am determined to enter on a course of serious study---colonel brandon has promised me the run of his library and i shall read at least six hours a day. by the end of the year i expect to have improved my learning a very great deal.
+
+speaker1: you'll go blind if you're not careful. 
+speaker2: is thomas back from exeter, betsy?
+speaker3: yes, ma'am--he brung back two lovely fillets for you.
+speaker2: beef is far less expensive in exeter, and anyway they are for marianne.
+speaker3: sixpence a piece, miss dashwood. oh, and he says mr ferrars is married, but i suppose you know that, ma'am.
+speaker2: fetch thomas to us, betsy.
+speaker4: beg pardon, miss dashwood, but they was the cheapest in the market--
+speaker2: it was a very good price, thomas, well done. would you be so kind as to build up the fire a little?
+speaker4: yes, ma'am.
+speaker2: who told you that mr ferrars was married, thomas?
+speaker4: i seen him myself, ma'am, and his lady too, miss lucy steele as was-- they were stopping in a chaise at the new london inn. i happened to look up as i passed the chaise and i see it was miss steele. so i took off my hat and she inquired after you, ma'am, and all the young ladies, especially miss dashwood, and bid me i should give you her and mr ferrars's best compliments and service and how they'd be sure to send you a piece of the cake.
+speaker2: was mr ferrars in the carriage with her?
+speaker4: yes, ma'am--i just seen him leaning back in it, but he did not look up.
+speaker5: did--
+speaker6: did mrs ferrars seem well?
+speaker4: yes, miss marianne--she said how she was vastly contented and, since she was always a very affable young lady, i made free to wish her joy.
+speaker2: thank you, thomas.
+
+speaker1: your father once told me not to allow you to neglect yourself. now i find that it is i who have neglected you most. 
+speaker2: no, mamma.
+speaker1: yes, i have. we all have. marianne is right.
+speaker2: i am very good at hiding.
+speaker1: then we must observe you more closely.
+speaker2: mamma?
+speaker1: yes, my darling?
+speaker2: there is a painful difference between the expectation of an unpleasant event and its final certainty.
+
+speaker1: 'at last i have found a small enough instrument to fir the parlour. i expect to follow it in a day or two, by which time i expect you to have learned the enclosed. your devoted friend, christopher brandon.' 
+speaker2: he must like you very much, marianne.
+speaker3: it is not just for me! it is for all of us.
+
+speaker1: i do not think it is the colonel. 
+speaker2: it must be. he said he would arrive today. you must play him the new song, marianne.
+speaker3: edward!
+speaker3: it is edward!
+speaker2: calm. we must be calm.
+
+speaker1: mr ferrars for you, ma'am. 
+speaker2: edward! what a pleasure to see you.
+speaker3: mrs dashwood. miss marianne. margaret. miss dashwood. i hope i find you all well.
+speaker4: thank you, edward, we are all very well.
+speaker5: we have been enjoying very fine weather.
+speaker5: well, we have.
+speaker3: i am glad of it. the... the roads were very dry.
+speaker2: may i wish you great joy, edward.
+speaker4: i hope you have left mrs ferrars well?
+speaker3: tolerably, thank you.
+speaker3: i--but edward cannot seem to find any words.
+speaker2: is mrs ferrars at the new parish?
+speaker3: no--my mother is in town.
+speaker2: i meant to enquire after mrs edward ferrars.
+speaker3: then you have not heard--the news--i think you mean my brother--you mean mrs robert ferrars.
+speaker2: mrs robert ferrars?
+speaker3: yes. i received a letter from miss steele--or mrs ferrars, i should say-- communicating the... the transfer of her affections to my brother robert. they were much thrown together in london, i believe, and... and in view of the change in my circumstances, i felt it only fair that miss steele be released from our engagement. at any rate, they were married last week and are now in plymouth.
+speaker6: then you--are not married.
+speaker3: no.
+
+speaker1: he's sitting next to her! 
+speaker2: margaret, come down!/is he?
+speaker3: margaret! will you stop--
+speaker4: what's happening now?
+speaker3: marianne!
+speaker1: he's kneeling down!
+speaker3: oh! is he? oh! she and marianne look at each other joyfully.
+
+speaker1: your mother, i suppose, will hardly be less angry with robert for marrying lucy. 
+speaker2: the more so since she settled the money upon him so irrevocably--
+speaker1: --no doubt because she had run out of sons to disinherit.
+speaker2: her family fluctuates at an alarming rate. then, in london, when you told me of the colonel's offer, i became convinced that you wanted me to marry lucy and that--well, that you and colonel brandon...
+speaker1: me and colonel brandon!
+speaker2: i shall not forget attempting to thank him for making it possible for me to marry the woman i did not love while convinced he had designs upon the woman i did--do--love.
+speaker2: would you--can you--excuse me--
+

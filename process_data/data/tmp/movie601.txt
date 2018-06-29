@@ -1,0 +1,819 @@
+speaker1: is it a girl? 
+speaker2: it is a girl.
+speaker1: show me its arm.
+speaker1: it's true then. i must tell queen bavmorda.
+speaker3: ethna, please. help me. they're going to kill my baby.
+speaker2: they'll kill you.
+speaker3: please save my baby.
+speaker2: pretend this is the child.
+speaker3: thank you, ethna. thank you.
+speaker4: we will start the ritual at dusk.
+speaker1: it bears the markings.
+speaker4: i must see for myself! just as the omen foretold!
+speaker4: so. you were the one.
+speaker3: yes. but nothing you can do will stop the prophecy.
+speaker4: this child will have no power over me....
+speaker4: where's the baby!
+speaker5: the midwife!
+speaker4: find that baby! use the dogs! sorsha!
+speaker4: kill her.
+
+speaker1: bordak! 
+speaker2: i don't have her! no! no!
+
+speaker1: dada! we found something in the river! 
+speaker2: i can't run off and play with you now. i've got work to do.
+speaker3: but dada, you gotta see it! hurry!
+
+speaker1: back! don't go near it. we don't know where it's been. it could be diseased. 
+speaker2: it's a baby!
+speaker3: it's not a nelwyn baby.
+speaker1: no, it's too big to be a nelwyn baby. it looks like a daikini...
+speaker2: ooh, it's so cute...
+speaker1: mims! get back here! it might bite you.
+speaker3: can't we keep it, dada?
+speaker1: absolutely not.
+speaker4: ufgood! willow ufgood!
+speaker1: shhh, shhh! it's the prefect -- that's all i need. mims, ranon, keep this thing hidden...
+
+speaker1: mr. burglekutt! he hasn't done anything wrong! 
+speaker2: ufgood! what do you think you're doing! i tell the planting seeds in this village.
+speaker1: i told him we didn't steal it, wil- low.
+speaker2: you haven't paid your debts. where did you get these seeds?
+speaker3: in the forest. my family's been gathering them since last fall. there's no law against that, bur- glekutt.
+speaker1: willow! you left the children alone by the river??
+speaker2: too late, ufgood. you'll never get your planting done before the rains start. you're gonna lose this land.
+
+speaker1: absolutely, under no condition, is anyone in this family going to fall in love with that baby. 
+speaker1: kiaya! we can't keep that baby. mims, ranon. hey! i will not be ignored!
+
+speaker1: this is bad. if we're caught with that little daikini it'll be the end of us. careful, ranon, i need that for the festival. kiaya, what are we going to do? 
+speaker2: we're gonna give this baby a bath.
+speaker1: burglekutt's right. there's not enough time to finish plowing. we'll lose everything and i'll end up working in the mines.
+speaker2: willow, do you think we should take her to the village council?
+speaker1: no, no! they'll think it's a bad omen. there'll be a flood or a drought or a plague and everybody'll blame me for it!
+speaker3: look. what's that?
+speaker1: i don't know. this is trouble. i'll talk to the high aldwin about it tomorrow at the festival.
+
+speaker1: and now! for our final amazing bit of magic, i will make an entire pig completely disappear! 
+speaker2: aaww! booo! sssss!
+speaker1: meegosh, i'm in trouble.
+speaker3: hey, it wasn't that bad. you need a better pig, that's all.
+speaker3: now burglekutt's got you in the squeeze. soon you'll be down in the mines like me.
+speaker1: mining. i hate closed-in spaces. that's the last thing i'd ever do. i gotta get my crop planted.
+speaker3: you know i'll help you as much as i can, willow.
+speaker4: dada, can we get treacle candy?
+speaker1: meegosh, can you watch the chil- dren? i gotta talk to the high aldwin.
+speaker3: the high aldwin?? why?
+speaker1: sir! i have to talk to you.
+speaker5: not today, willow.
+speaker1: it's a matter of great importance to me!
+speaker5: intuition, willow -- remember? i know you're eager to be my appren- tice, willow. but today is the spring festival.
+speaker6: apprentice? to the high aldwin!! willow ufgood???
+speaker7: bordak! bordak!
+speaker3: what was it looking for?
+speaker8: it said "bordak"! what does it mean?
+speaker9: baby! it means baby! it was look- ing for somebody's baby! mothers grab their children, people look around the wrecked village in terror. there's a haunting silence.
+speaker4: mommy?
+speaker1: kiaya! kiaya!
+
+speaker1: an evil beast from the outer world has invaded our peaceful village, looking for a baby! 
+speaker2: it's a sign! an omen!
+speaker3: our crops will die!
+speaker1: silence! one beast we can kill. but there may be more! and they won't give up their search till they've found what they're looking for!
+speaker4: whose baby is it!
+speaker5: who's to blame for this!
+speaker6: willow ufgood! come before me!
+speaker6: earlier today you tried to tell me something, willow.
+speaker6: a daikini child... ...of some importance, i feel...
+speaker1: that's what the beasts want! give it back!
+speaker7: they'll kill her! we can't let this baby die!
+speaker1: what do we care!
+speaker6: ...importance...yes...this child is special...
+speaker8: what should we do?
+speaker6: this child must be taken beyond the boundaries of our village. all the way to the daikini crossroads.
+speaker2: who will do that?
+speaker9: vohnkar! vohnkar!
+speaker6: the outer world is dangerous and corrupt, vohnkar. and this baby is hunted by blood-hungry beasts. are you willing to sacrifice your life?
+speaker10: if i go, who'll defend you if other beasts attack?
+speaker1: he's right! it seems only fair that the man to take this baby to the crossroads... ...be the very man who plucked it... ...out of the river!
+speaker7: i can't do it! i haven't put my crop in!
+speaker11: you caused this trouble. you found the baby...you get rid of it!
+speaker1: i nominate willow ufgood!
+speaker6: i will consult the bones!
+speaker6: the bones tell me nothing. but i must make a decision. is there love in your heart for this child?
+speaker7: yes.
+speaker6: the bones have spoken! willow? the security of this village depends on you!
+
+speaker1: dada? 
+speaker1: watch out for brownies, dada.
+speaker2: i will, mims. goodnight.
+speaker3: dada, what's a daikini?
+speaker2: daikinis are giant people who live far far away.
+speaker3: are you scared?
+speaker3: i could be you rguard! i could carry your spear!
+speaker2: what a great son you are, ranon. i wish i could take you with me. now go to sleep... ranon slides down under his blankets. willow kisses him, looks at him a moment, then quietly withdraws to- ward the fire.
+
+speaker1: now, you know where you're going? down there, through those trees, follow the river. you'll know the crossroads by a big daikini struc- ture. willow, this is serious business. don't waste any time, the outer world is no place for a nelwyn. give the baby to the first daikini you see, then hurry home as fast as you can. 
+speaker2: if i'm not strong enough to be your apprentice, how can i do this?
+speaker1: you're strong enough. but you're going to need courage, willow.
+speaker2: i don't want courage. i don't want to be a warrior. all i've ever wanted was to do magic, real magic, like you!
+speaker1: real magic, willow, is simply the art of controlling the reality of others. you lack faith in your- self. you must learn to trust your intuition.
+speaker1: go in the direction the bird is flying.
+speaker2: oh, if i could do that i'd--i'd turn burglekutt into a toad!
+speaker1: waste magic on revenge? you have much to learn, willow...
+speaker3: willow, we've never been apart. i miss you already. take this. it will bring you luck.
+speaker2: you cut your hair, kiaya?
+speaker3: willow!!
+
+speaker1: we've patrolled the hills. this is where they killed the nursemaid. 
+speaker2: she must have done something with the child. widen the search!
+speaker1: get away from there!
+
+speaker1: i really hate this. 
+speaker2: hey, peck...get me some water...or you'll diiiiie...!
+speaker1: i will--i'll getcha water--getcha lotsa water--anything you say--!
+speaker2: peck!
+speaker2: you're a weasely little peck! gimme some water!
+speaker1: i'm not coming near you!
+speaker2: please? i'm dyin' of thirst in here.
+speaker1: good. how long will it take?
+speaker2: don't make me angry, peck.
+speaker1: you be careful. i'm a powerful sorcerer. i could turn you into a toad just like that.
+speaker2: miserable pecks.
+speaker2: that's more like it.
+speaker1: do any other daikinis ever come by here?
+speaker2: why.
+speaker1: i have to give this baby to some- body.
+speaker2: i'm somebody. lemme out and i'll take care of your baby.
+speaker1: no. somebdoy put you in there for a reason. i'll wait for somebody else.
+
+speaker1: hey! somebody's coming! 
+speaker2: peck! quick! douse the fire!
+speaker2: no, you fool! put it out i say! out!
+speaker2: no!!
+speaker3: whose fire!
+speaker2: no! help! stop!
+speaker3: where are they? where did they go?
+speaker2: thanks for your help, peck.
+speaker1: are you okay?
+speaker2: as if you care. i saved your life, peck. those guys woulda killed us! you wanna give your baby to them??
+speaker1: i don't know.
+speaker2: the world's gone insane. good men locked in cages, criminals running free. it doesn't pay to be honest, peck.
+speaker1: don't call me a peck. my name is willow.
+speaker2: hello, willow. i'm madmartigan.
+speaker2: you a woodcutter?
+speaker1: farmer.
+speaker2: farmer! i knew it! you're a vic- tim, willow. yep, you and me: victims of a rotten, corrupt, cor- rupt, rotten world.
+speaker2: listen, willow my friend. i'm really a good man. give me my freedom, and i'll look after that baby for you. trust me.
+speaker2: that's it--good--good--like that, yes, good, good, the chain--that's it, come on--come on--!
+speaker1: nooo, i don't think i should.
+speaker2: peck!! stupid peck! i'll kill ya! let me out!
+
+speaker1: morning, willow. 
+speaker1: sorry i yelled at you. i've been in this cage toooo long. can't think straight anymore. owww...!
+speaker2: you all right?
+speaker1: these burns. my arms. ouch...
+speaker2: see if this helps.
+speaker1: aaaaaahhhh. better. here, i made something for the baby.
+speaker2: what's inside?
+speaker1: a tooth.
+speaker2: stop! wait!
+speaker1: smells like a battle.
+speaker2: are you a warrior?
+speaker1: the greatest swordsman that ever lived.
+
+speaker1: what's that? i hear something! 
+speaker2: you hear trouble.
+speaker1: what is it?
+speaker2: a hundred horses...five or six wagons... and about six thousand fools.
+speaker1: sir? sir!
+speaker3: out of the way!
+speaker4: push 'em harder! no rest at mid- day! we need to make ten more leagues by dark!
+speaker1: sir! sir! i have this baby. we found her in our village. will you take her...?
+speaker4: we're going into battle, little one. find a woman to take care of it.
+speaker2: he thought you were a woman, airk!
+speaker4: madmartigan! what did you do this time?
+speaker2: nothing you wouldn't have done it my place!
+speaker4: i always knew you'd end up in a crow's cage.
+speaker2: least i'm not down there herding sheep!
+speaker4: you're lucky somebody got to you first, madmartigan! i'd've killed you myself after that stunt at land's end!
+speaker2: airk! come on, airk. lemme outa here.
+speaker4: hey, remember? you don't need my help, madmartigan. little rabbit trap like this? come on! i could open it for you, but i wouldn't wanna insult you!
+speaker2: gimme a sword, airk. i'll win your war for you.
+speaker4: you're nothing but trouble, madmar- tigan. and i got plenty of that. stay in your coffin and rot!
+speaker2: i'll be around long after you're dead, airk! you slime! when i get outa here i'll cut your head off and stick it on a pig-pole!
+speaker1: friend of yours?
+speaker2: hello, little baby...
+
+speaker1: whatcha thinkin' about, willow? 
+speaker2: i hate this.
+speaker1: nobody's gonna take your baby. know why? nobody cares... except me. you wanna go back to your farm. you wanna go back to your family. i could take care of that baby. i'll look after her like she was me own.
+speaker2: you don't know anything about ba- bies.
+speaker1: ahhh! but i know a lot of women who do. why, if i had somebody in my life--a little daughter for instance--i'd have a reason to live...
+speaker1: willow. you can't let me die here. not when i wanna help you.
+speaker2: you gotta promise to feed her.
+speaker1: i will.
+speaker2: fresh goat's milk.
+speaker1: absolutely!
+speaker2: and give her a bath everyday, and don't let her get cold. and keep her diaper changed.
+speaker1: of course! i promise!
+speaker1: come to daddy, little darlin'. i think she likes me!
+speaker2: here are her diaper rags. and this is her milk bladder. and when she cries--she's either hungry or she's tired--rock her on your left shoulder. she likes that.
+speaker1: don't worry, willow. she's in good hands. you haven't made a mistake.
+speaker2: bye.
+speaker2: please take good care of her. madmartigan stands up. he towers above willow. he pats willow on the head.
+speaker1: you've done a great job. now you go back to your family and get your crop in.
+
+speaker1: look, it's willow ufgood! he's come home! welcome back, willow! he deserves a medal: he's quite mystical. for honor, for bravery, for his intuitive powers... ...let's make him apprentice aldwin. better still: high aldwin! make way! it's willow uf- good, high aldwin of--- 
+speaker1: come back here, you! that's my baby!!
+
+speaker1: oh no, it's a trap! 
+speaker1: oh noooooo!!
+
+speaker1: where am i? where's the baby? franjean, the elfin king, struts forward arrogantly. 
+speaker2: i am franjean, king of the world.
+speaker1: that baby's my responsibility!
+speaker2: i don't care. we paid for her. go back to sleep, monsieur...
+speaker1: yeow! madmartigan...i never should've trusted you...
+
+speaker1: tongue. 
+speaker2: who are you?
+speaker3: quiet, you fool!
+speaker1: we are emissaries of her majesty, queen cherlindrea, of the land of coshairm.
+speaker2: queen cherlindrea?
+speaker1: she requests the presence of your- self and the young princess.
+speaker2: who??
+speaker1: you're the guardian, aren't you?
+speaker3: quit yakking, teemo. we gotta get outa here!
+
+speaker1: elves! they're always tormenting babies. they make them cry and take their tears. 
+speaker2: somebody has to do it.
+speaker3: why??
+speaker2: how else they gonna make dew drops?
+speaker3: i'm getting her out of there!
+speaker1: no! you let us handle this. come along, rool!
+
+speaker1: watch this. right between the eyes. 
+speaker2: he never misses.
+speaker1: ooops. was that right? that wasn't right.
+
+speaker1: i can't go out there with the baby! 
+speaker2: elves!!
+speaker1: ohhh, i hate this.
+speaker3: take your time. don't worry about the elves. they won't come out here.
+speaker1: why not?
+speaker4: because of the trolls.
+speaker1: trolls?
+speaker3: relax. they only come out at night.
+speaker1: this is not going well.
+speaker3: hurry! queen cherlindrea will know what to do.
+
+speaker1: come on. this is a privilege. no- body ever gets called before her majesty. 
+speaker2: stand up! it's the queen!
+speaker3: willow ufgood.
+speaker4: yes...?
+speaker3: i hope you are comfortable here, inside my kingdom...
+speaker1: talk! say something!
+speaker4: i can't see anything--she's too bright!
+speaker3: i'm sorry...
+speaker3: broke-heart of nightingale for our honored guest.
+speaker3: it is elora danan! the prophecy has come true.
+speaker4: you mean, you know who this baby belongs to?
+speaker3: she belongs to all of us. she is the future queen and ruler of all kingdoms on earth.
+speaker4: what a relief. now i can go home.
+speaker3: no, willow. your journey has just begun. it has been foretold that this child shall bring about the downfall of queen bavmorda, whose evil powers have darkened our world. upon you depends this princess's life.
+speaker4: me?
+speaker3: you are the guardian, willow. you must take her to tir asleen.
+speaker4: what is tir asleen?
+speaker3: it is a distant castle, where a great king and queen will look after elora danan and keep her safe until she is old enough to rule.
+speaker4: where is tir asleen? how far is it?
+speaker3: the way has been lost in time. but there is one person, a druid sor- ceress, who might guide you there. she was exiled by queen bavmorda many years ago. her name is fin raziel.
+speaker4: you need a warrior for this job.
+speaker3: you are very important, willow.
+speaker4: no i'm not. have you really looked at me? i'm short! even for a nelwyn!
+speaker4: why can't you do it? you have mag- ical powers.
+speaker3: my prsence cannot extend beyond this forest. but i can give you these...
+speaker3: they will protect you. use them wisely.
+speaker4: they look like acorns.
+speaker3: anything you hurl them at will turn to stone.
+speaker4: they're magic? are you serious?
+speaker3: i am very serious, willow. there is no time to lose. now she intensifies her light so that willow backs away, completely covering his face.
+speaker4: but i've got a family to think about! they need me!
+speaker4: hello...?
+speaker3: bavmord'a powers are growing like an evil plague. soon she will con- trol the lives of you children, your wife, your village...everyone.
+speaker3: the choice is yours.
+speaker4: i'll do it. yes, i will, i'll do it!
+speaker4: but i only have one shoe.
+
+speaker1: wait till i tell my children. stuff like this never happens in my village. 
+speaker2: hey, careful there!
+speaker1: how do these work i wonder? i got- ta save one to show the high aldwin.
+speaker3: look! death below!
+speaker1: daikinis...
+speaker4: hyaaaaahh!!
+speaker1: let's get out of here. shhh, don't cry, elora. things can't get any worse than this...
+
+speaker1: i'm not going in there. 
+speaker2: me neither!
+speaker3: don't worry--i'm a sorcerer. what could possibly happen?
+
+speaker1: could you spare some milk for this poor hungry baby? 
+speaker2: get outa here, peck!
+speaker3: a peck! get him out! beat it, peck!
+speaker1: i could use your help, boys.
+speaker4: willow?
+speaker1: this is not fun.
+speaker1: woah!
+
+speaker1: hurry! hurry! 
+speaker2: how do i look?
+speaker3: you!!
+speaker4: where the did you come from?
+speaker3: i trusted you...
+speaker5: who's he?
+speaker4: you're crawling with rodents.
+speaker6: where is he!!
+speaker1: there's nobody here except me and my, um, cousin.
+speaker4: how do you do.
+speaker3: hey! give me that baby!
+speaker4: these pecks make terrible nurse- maids.
+speaker3: nursemaid?!
+speaker4: they get too excited.
+speaker6: wanna breeeeeeed?
+speaker3: time to change her diaper.
+speaker4: time to leave.
+
+speaker1: you! are you the mother of that child? 
+speaker2: no. i mean yes.
+speaker1: let me see it.
+speaker2: i can't.
+speaker1: let me see it.
+speaker3: no! you can't!
+speaker2: i can't.
+speaker1: why not?
+speaker2: why not?
+speaker3: because she's sick.
+speaker2: because she's sick.
+speaker1: give it to me!
+speaker2: gawd...you're...beautiful...
+speaker1: you're not a woman.
+speaker4: not a woman??!!
+speaker1: after them!!
+
+speaker1: we could've been killed, madmarti- gan! 
+speaker1: heeyah! heeyah!
+speaker1: oh no!
+speaker2: bordak!!
+speaker2: bordak!!
+speaker1: woah...woah...!
+speaker3: that girl is a vision.
+speaker1: where's the baby??
+speaker3: i thought you had her!
+speaker4: willow!!
+speaker3: now willow, i know you're gonna blame me for this but it wasn't my fault...!
+speaker1: elora danan!
+speaker3: when i left the crossroads, i got ambushed by an elf!
+speaker1: madmartigan! you saved her life!
+speaker3: i did?
+speaker3: i mean, of course i saved her life. she's almost my daughter, isn't she?
+speaker1: let's get out of here before they come back.
+speaker5: northeast is that way. we've come west and south. i think.
+speaker6: watch it! you're gonna set us on fire.
+speaker3: not a bad idea.
+speaker3: so you're on your way to tir asleen, huh? i hate to tell you this, willow, but tir asleen dosn't exist.
+speaker1: yes it does. the fairy queen told me.
+speaker3: the fairy queen? and the baby here's a princess? and these two rodents are your guides?
+speaker3: yeah well...in the morning i think i'll be on my way.
+speaker1: madmartigan, i need your help.
+speaker3: my help? a great magician like you? you don't need any help.
+speaker1: but you're a great swordsman!
+speaker1: you're not a warrior, madmartigan! a warrior wouldn't lie there and do nothing! he kicks madmartigan's boot and knocks his feet off the log.
+speaker1: we're in trouble! you've seen the big army that's after us! you're a fake! you're a bum! you're a-- you're a coward!!
+speaker3: what's with you, peck?
+speaker1: i miss my wife! i miss my chil- dren! my boy ranon! he's growing up so fast, he even helps me on the farm now! and little mims! if you ever saw her sweet little face you'd melt madmartigan, you'd melt ! or maybe you wouldn't. you don't know anything about love. you don't know anything about any- thing...
+speaker3: i was in love once, willow. she had a hold on my heart. i could barely function. i was a great swordsman! i was knighted! i could have been king!
+speaker1: you?
+speaker3: yeah me. king! but she betrayed me. she robbed me of my dream.
+speaker3: i'll never fall in love again...
+
+speaker1: madmartigan! madmartigan! 
+speaker2: relax, willow. we're having fun.
+speaker3: that's it! the sorceress lives there!
+speaker4: are you sure?
+speaker3: yes! raziel! she lives out on that island! madmartigan lets out a sarcastic, sceptical laugh.
+speaker4: that tree dosn't look like gold to me.
+speaker2: gold!!
+speaker4: its branches are supposed to be made of gold, solid gold.
+speaker1: how are we going to get out there?
+speaker2: we'll find a way, willow. look over there--that looks like a village--maybe they've got a boat. come on, what are you waiting for?
+
+speaker1: give me a hand here, peck! 
+speaker2: what are you doing?
+speaker1: it's nothing to do with you.
+speaker3: we need to get out to that island.
+speaker2: the island is cursed.
+speaker3: we've traveled a long way. we're looking for fin raziel.
+speaker4: the sorceress.
+speaker2: she's there. but you can't go there. the island is cursed.
+speaker1: yeah? who cursed it?
+speaker2: queen bavmorda. her powers govern the elements.
+speaker1: ahh, he's trying to protect the gold. come on, willow. jump in.
+speaker3: what would the fairy queen say?
+speaker5: she's not here.
+speaker4: obviously.
+speaker3: without raziel we'll never find tir asleen. we'd better go.
+
+speaker1: raziel? hello? fin raziel? 
+speaker2: get away! get away!
+speaker2: you'll die! you'll die!
+speaker2: who are you! who are you!
+speaker1: i'm willow ufgood. i'm here to find fin raziel.
+speaker2: that's me! raziel! raziel!
+speaker1: this can't be right. this isn't a sorceress. this is some kind of animal.
+speaker3: queen bavmorda transformed her.
+speaker2: what do you want!
+speaker1: we need your help. to take this baby to tir asleen. she's a prin- cess.
+speaker2: elora danan!
+speaker4: rool! teemo! you were right! this whole tree is made of gold!!
+speaker2: fools! you should never have come to this place! we're all going to die!
+speaker2: we've got to get off this island right now. hurry! the boat! it's our only chance!
+speaker1: madmartigan!
+speaker4: wait! gold! gold!
+
+speaker1: help, madmartigan! the oar! 
+speaker2: my gold!
+speaker3: kill him!
+speaker1: no!
+speaker3: kill him!
+speaker2: no!! help!! willow!!!
+
+speaker1: willow...you...you got...magic...! wait...we could team up...! 
+speaker2: flee! flee!
+speaker3: raziel. did you think my mother would allow you to escape?
+speaker3: this is what we're looking for. it bears the markings.
+speaker1: don't worry, willow. if there's one thing i'm good at, it's charm- ing a woman...
+speaker1: so. couldn't live without me, huh?
+speaker3: lose your skirt? how embarassing.
+speaker1: still got what counts.
+speaker3: not for long.
+speaker3: we'll join the column. bring them with us.
+speaker4: we gotta follow them.
+speaker5: us?? we'll never catch them. any- way, we're all done, teemo. let's go home.
+speaker4: get back here, rool!
+speaker5: ouch! let go of me!
+
+speaker1: i can't go on... 
+speaker2: willow, why don't you use your mag- ic to get us out of here?
+speaker3: he's no magician.
+speaker2: he turned that monster into stone!
+speaker3: did you give that acorn its power?
+speaker1: no.
+speaker3: a magician makes magic. any fool can use it.
+speaker2: then you get us out of here.
+speaker3: i will! but i need help!
+speaker1: i'll help you...!
+speaker2: i won't.
+speaker3: you must learn magic.
+speaker1: that's all i ever wanted!
+speaker3: then i will teach you.
+speaker2: nice horse...nice hair...real nice hair...i'd say you've got the most beautiful hair i've ever-- she flashes her eyes at him.
+speaker4: wolff wants to boil you in oil.
+speaker4: don't tempt me.
+speaker1: if you rest the baby on your shoulder, she'll stop crying.
+speaker4: shut up.
+speaker2: mmmm, i love the smell of a woman.
+speaker4: my step-father's going to tear you apart.
+speaker2: i'm torn apart already. i mean it! under all that armor is a beautiful--
+speaker2: who is that girl, anyway?
+speaker3: sorsha, queen bavmorda's daughter.
+speaker2: forget that one, madmartigan.
+speaker3: willow. to learn magic, first you must make your own philosopher's stone!
+speaker1: what do i need for that?
+speaker3: we must start with feathers, dung, and a lock of your hair.
+speaker2: now that's a woman...!
+
+speaker1: keep working at it. forget all you know, or think you know. a magician's power depends on disord- er of the mind. 
+speaker2: you got that one covered.
+speaker3: i hope she's all right. how much more do i have to do of this?
+speaker1: till it's in a powder. the energy exits within you...
+speaker3: i know, and the magician's goal is to find his true self. but what's this got to do with it?
+speaker1: as below, so above. you hold the univers, willow, in your hand.
+speaker2: i'm beginning to think you two deserve to be locked up.
+speaker3: the universe is a living creature, like you and me, madmartigan.
+speaker2: we're a tiny version of all that?
+speaker1: as above, so below.
+speaker3: i'm all finished. now what?
+speaker1: burn it to a fine ash.
+speaker3: how am i gonna do that?
+speaker1: patience. concentrate. you will find a way.
+speaker3: what's going on?
+speaker2: hurt him and you'll answer to me!
+
+speaker1: this baby won't do what i say. you seem to know what to do. here! make it shut up. 
+speaker2: she needs to be changed.
+speaker1: i changed her already!
+speaker2: she needs to be changed again.
+speaker1: who is that horrible friend of yours?
+speaker2: madmartigan.
+speaker1: who is he?
+speaker2: i don't know much about him.
+speaker1: he's very bold. do you really think my hair is beautiful?
+speaker2: uh, yes. it's very nice hair.
+speaker2: she's hungry.
+speaker1: i know she's hungry. i tried to feed her but she wouldn't eat a thing. i'm not a wet nurse.
+speaker2: here. hold her.
+speaker1: i tried everything. a spoon. i poured milk into her mouth, she just spat it out. i don't know what to do, i'm not a mother.
+speaker2: sometimes she likes it heated.
+speaker2: she's a good baby.
+
+speaker1: i did it! i got the ashes! 
+speaker2: good! the first step is complete.
+speaker3: did she ask about me?
+speaker1: who?
+speaker3: come on, peck, don't give me a hard time. you were in her ten all night. did she say anything?
+speaker1: she said lots of thing.s
+speaker3: willow!
+speaker1: she asked about you, madmartigan.
+speaker3: well what did she say?
+speaker4: here. you're going to need these where we're going.
+speaker3: she's in love.
+speaker1: you're crazy. i think you're in love.
+
+speaker1: we don't have much time left! go on! go on! 
+speaker2: i must concetrate my imagination...to creat a new...reality!
+speaker1: what's the magician's weapon?
+speaker2: the limitless power of...
+speaker1: your will! your will! what else could it be?
+speaker2: i can't remember all these things.
+speaker1: the art of transformation!
+speaker2: but what am i gonna transform??
+speaker1: me!
+speaker2: you?
+speaker3: what are you gonna become, raziel? queen of the rodents?
+speaker4: the baby's cold. take her.
+speaker1: you remind me of your father, sor- sha.
+speaker4: my father was a weakling.
+speaker1: he was a great king. not like your step-father, not like your mother. he ruled tir asleen with kindness, and a generous heart.
+speaker4: my mother calls that weakness.
+speaker3: what do you call it?
+speaker4: i do what i'm told.
+speaker3: too bad you're not more like your father.
+
+speaker1: be careful. 
+speaker2: don't tell me what to do.
+speaker3: we gotta get the baby out of here.
+speaker4: tonight! complete the philosopher's stone! i must be turned back!
+speaker5: i'll do it, raziel...
+
+speaker1: let it settle. carefully, slowly. concentration and will. now pour the water off. 
+speaker2: oooh, this smells terrible.
+speaker1: that's the life spark. exxence of magic and sorcery!
+speaker2: ouch!!
+speaker1: shhhhh!
+speaker2: what'd you bit me for!!
+speaker1: we need blood. to nourish the stone. charge the stone with ener- gy.
+speaker1: the components of the stone are fusing...
+
+speaker1: again: what is the magician's weapon? 
+speaker2: his will.
+speaker1: now use it.
+speaker2: i just wanted to test it first.
+speaker1: no! change me back into a sor- ceress, willow.
+speaker2: avaggdu, supriom, luwatha...
+speaker2: what did i do?
+speaker3: not bad, peck. i'm impressed. you busted the lock.
+speaker2: madmartigan. let's go. let's get eloran danan.
+speaker3: let's get elora danan.
+speaker1: wait! what about me!
+
+speaker1: you're a magician, willow. but i'm a thief. wait here. i'll get the baby. 
+speaker2: i'm supposed to be a beautiful wo= man.
+
+speaker1: come on, madmartigan...! 
+speaker1: what are you doing? get out of there...!
+speaker2: i love you.
+speaker3: one move, and you really will be a woman.
+speaker3: you're a fool. now put her back.
+speaker2: i'm not going to let this baby die.
+speaker3: don't make me kill you.
+speaker2: i believe you would...
+speaker3: why did you say that?
+speaker2: say what?
+speaker3: i love you.
+speaker2: because it's true.
+speaker3: i don't believe you.
+speaker2: i wish it weren't true. i swore i'd never let this happen. i hate you. i hate your beauty, i hate your innocence, i hate the feelings you've awakened in me.
+speaker2: i'm in love with you, sorsha. i don't want to be, but a power has enchanted me and i stand helpless against it. it's torture. battle- field or prison cell was never half as cruel.
+speaker2: i want you and i can't have you so i want you all the more. if this were another time and another place i'd--
+speaker3: you'd what?
+speaker4: what's going on here!!
+speaker3: deceiver!!
+
+speaker1: whoops! 
+speaker1: willow! jump on the shiled!
+speaker2: bowmen! horses! after them!
+speaker1: sorsha! i didn't betray you. i love you!
+speaker2: kill them!!
+speaker3: nooo!!!
+
+speaker1: willow! willow! are you all right? 
+speaker2: king kael!
+speaker3: nockmaar troops!
+speaker1: help us.
+
+speaker1: madmartigan. settled down with a family huh? 
+speaker2: you left me to die, friend.
+speaker1: you managed alright.
+speaker2: is this what's left of your army?
+speaker3: keep that baby quiet.
+
+speaker1: kill her. 
+speaker2: you'll draw the others.
+
+speaker1: it's you they're after, madmarti- gan. what did you do this time? 
+speaker2: they're not after me. they want the baby.
+speaker1: who is this baby?
+speaker3: the princess, elora danan.
+speaker4: the prophecy has come true.
+speaker1: give her to us. we'll protect her.
+speaker5: not safe! not safe!
+speaker3: we're taking her to tir asleen. she'll be safe there from bavmorda's powers.
+speaker1: tir asleen is a myth. it doesn't exist.
+speaker5: it does! it does! i will show you!
+speaker1: you gonna be a hero, madmartigan? i've lost half my men fighting kael, and bavmorda, and the nock- maar army. now you and this peck, and that magpie up in the rafters, are gonna take 'em on alone?
+speaker2: then come with us.
+speaker1: the war is here! in towns and vil- lages like this!
+speaker1: you're chasing a dream.
+speaker2: just get me some horses.
+
+speaker1: once again, airk, we say goodbye. 
+speaker2: one day one of us willl stand on the other's grave.
+
+speaker1: madmartigan! i can't stand being in closed-in places. 
+speaker2: want me to carry elora?
+speaker1: i'm used to her. how's she doing?
+speaker2: she's doing a lot better than we are, peck.
+
+speaker1: willow...this may be a bad time to ask this question but...what if raziel's wrong? 
+speaker2: she can't be wrong. she's a very very very powerful sorceress.
+speaker1: she's a bird, willow.
+speaker2: that's my fault, not hers. i've got to keep practicing. i'm still in the learning stage but magic, madmartigan, requires concentration and--
+speaker1: watch it!
+speaker2: ahhh!
+speaker2: i hate this.
+speaker1: go, willow! run! run!
+speaker1: willow! willow!
+speaker3: go after them!
+speaker1: hurry, willow! throw it!
+speaker4: look out!
+speaker3: after them!!
+
+speaker1: tir asleen. 
+speaker2: there's nobody here.
+speaker1: the knights of the pacalcade. the king's bravest warriors.
+
+speaker1: turn them back, willow! 
+speaker2: how??
+speaker1: use the philosopher's stone! hur- ry! invocation! release them!
+speaker2: beings within, beings without! danu danu walkail funfawtha!
+speaker2: i did it! madmartigan! come here! look! you gotta see this! i did it!
+speaker1: more! more!
+
+speaker1: assault! scale the walls! 
+speaker2: tuatha tuatha danu!
+speaker2: raziel! i transformed them all!
+speaker3: you didn't transform them, willow, you released them. that was noth- ing. now change me.
+speaker2: i feel like i could do anything!
+
+speaker1: capture the enery...limitless power of the will...avvdachh doth indicht rredd baerkinhaekin! 
+speaker1: raziel? is that you? oh-oh. what happened?
+speaker2: i hate this.
+
+speaker1: sorsha. 
+speaker2: madmartigan. he props himself up on his elbows and smiles.
+speaker1: whose side are you on?
+speaker2: yours.
+speaker3: arrrggghhh!
+speaker2: i love you.
+speaker4: sorsha!!
+speaker4: bordak!
+speaker4: kill them both!
+
+speaker1: out for a little ride in the coun- try, airk? 
+speaker2: thought you might get lonely, mad- martigan!
+speaker1: thank you, friend.
+speaker2: let's go.
+
+speaker1: sorsha! any way in there? 
+speaker2: no. the fortress is protected on all sides.
+speaker3: make camp! we'll assault at dawn.
+
+speaker1: kael! 
+speaker2: queen bavmorda. i have the child.
+speaker1: we must start the ritual!
+speaker1: who is that?
+speaker2: an army of rebels and traitors.
+speaker1: where is sorsha?
+speaker2: she has turned against you.
+speaker1: purify the altar! arrange the im- plements! i'll deal with sorsha!
+
+speaker1: this is not an army! 
+speaker2: willow! get out of here! quick! hide!
+
+speaker1: get down! the ritual chant! 
+speaker2: why?
+speaker1: just do it!
+speaker3: we've come for elora danan! turn her over to us!
+speaker4: you dare to challenge me? you are not warriors. you're pigs!
+speaker4: you're all pigs!
+speaker5: mother! no!!
+speaker4: you made your decision!
+speaker4: begin the ritual. now! light the first candle.
+speaker4: come, thunder. come lightning. touch this altar with your pwer. come into my tower...
+speaker4: dark runes, dark powers! blend and bind, bind and blend, universal night! and the might of nockmaar!
+
+speaker1: i've come all this way and now elora dana's going to die! 
+speaker2: no! i can still defeat bavmorda!
+speaker1: she's too powerful, raziel
+speaker2: a true magician, willow, never surrenders. she is a sorceress--i am a sorceress! transform me now and i will destroy her! hexagram!
+speaker1: banish all disturbing forces from this place. fire, water, above and below. balance. balance. bal- ance.
+speaker2: don't give up! willow!
+speaker1: raziel!
+speaker2: we've got a lot of work to do, wil- low. bring in our brave men.
+
+speaker1: uphill with our rough weapons, we'll never make it! 
+speaker2: elora danan will die!
+speaker3: by dawn, upon thirteen tolls of the runic drum!
+speaker4: bavmorda is too powerful. we need more forces. i say we retreat!
+speaker3: bavmorda cannot transform you. i've protected this camp with a spell.
+speaker5: can you use your magic to get our men into the fortress, raziel?
+speaker3: bavmorda has shielded it with a spell of her own.
+speaker6: wait!!
+speaker6: i have an idea. back in my village we catch a lot of hedgehogs.
+speaker5: willow, this is war, not agricul- ture!
+speaker6: i know, i know! but this is a way to get into that castle...
+
+speaker1: it's too much work. 
+speaker2: it can't be done.
+speaker3: kael will never fall for it.
+speaker4: i don't know, willow.
+speaker5: madmartigan, you promised me you'd take care of elora danan like your own daughter. she is all that matters. are you going to abandon her?
+speaker1: come on, madmartigan. you gonna listen to a peck? you and i are warriors. you know this plan will never work.
+speaker4: we'll probably die here, sorsha.
+speaker3: i have no family.
+speaker6: if we do not fight, and the baby dies, all hope for the future is lost. i shall face the danger alone if i have to.
+speaker5: me, too.
+speaker4: time is running out. we must now decide who's going to leave and who is going to stay...
+
+speaker1: time is running out. 
+speaker2: surrender!!
+speaker2: we are all-powerful magicians! give us the baby or we will destroy you!!
+speaker3: kill them!
+speaker1: patience, willow.
+speaker2: courage, willow.
+
+speaker1: i will face my mother alone. 
+speaker2: sorsha!!
+speaker1: i won't let you kill her!
+speaker2: you are a weakling. like you fa- ther! can you not see that i am about to become all-powerful!
+speaker1: no!!
+speaker2: raziel...!!
+
+speaker1: the baby will be queen. it has been foretold, bavmorda. 
+speaker2: my ritual will kill the prophecy! now the child dies with it, its en- ergy exiled into oblivion! you see? i hold the power of the universe!
+speaker1: not until your ritual is complete!
+speaker2: and who will stop me? the elements are slaves to my command!
+speaker1: there is no one who can match your sorcery. except me!
+
+speaker1: airk!! 
+speaker1: airk! airk!
+speaker1: madmartigan...you're a brave warrior...a true friend...a good man...
+speaker1: we're gonna win this war, airk.
+speaker2: as above, so below! universe of evil, raziel! it conquers even you!
+speaker2: stop! bring back that child!!!
+speaker2: who are you?
+speaker3: i'm willow ufgood. i'm a magician.
+speaker3: i'm a great magician.
+speaker2: is that the extent of your power?
+
+speaker1: place it on the altar. 
+speaker2: no. you can't have her.
+speaker1: by ritual, by sorcery, i well draw the lightning and send this child into the destructive realm.
+speaker2: and with my magic i'll send her into the...into the... he gropes for a word. bavmorda laughs at him.
+speaker1: you're no magician.
+speaker2: into the good.
+speaker1: even i don't have the power to do that. you're a fraud.
+speaker1: impossible! bordak! bordak!
+speaker1: aaaaahhhh!!!
+speaker3: willow...willow...how...how did you do that?
+speaker2: it was just the old disappearing pig trick.
+
+speaker1: willow ufgood. take this book of sorcery. you are on your way to becoming a great magician. 
+speaker2: your dream has come true, madmarti- gan.
+speaker3: goodbye, peck.
+speaker2: farewell, elora danan.
+
+speaker1: willow!! 
+speaker2: kiaya!!
+

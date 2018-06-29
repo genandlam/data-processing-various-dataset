@@ -1,0 +1,503 @@
+speaker1: no. 
+speaker1: we don't need them.
+speaker2: i do not carry supplies.
+speaker1: we'll leave them. once we've got it, we'll be able to reach the plane by dusk.
+
+speaker1: the hovitos are near. the poison is still fresh... three days. they're following us, i tell you. 
+speaker2: if they knew we were here, they would have killed us already.
+speaker2: so this is where forrestal cashed in.
+speaker1: a friend of yours?
+speaker2: competitor. he was good, very good.
+speaker2: no one ever had what we have... partners.
+speaker1: i knew nothing! he was crazy! please!
+speaker2: let's go.
+
+speaker1: what's wrong? are you lost? 
+speaker2: forrestal.
+speaker1: we can go no further.
+speaker2: now, satipo, we don't want to be discouraged by every little thing.
+
+speaker1: let me see that. 
+speaker1: try not to touch the vines.
+
+speaker1: seã±or, i think we are very close. 
+speaker1: let us hurry. there is nothing to fear here.
+speaker2: that's what scares me.
+
+speaker1: there's plenty of light, amigo. 
+speaker1: from that hole!
+speaker2: you wait here.
+speaker1: if you insist, seã±or.
+
+speaker1: no time to argue. throw me the idol, i throw you the whip. 
+speaker1: you have no choice! hurry!
+speaker1: adios, amigo!
+
+speaker1: dr. jones, you choose the wrong friends. this time it will cost you. 
+speaker1: and you thought i'd given up.
+speaker2: too bad they don't know you like i do, belloq.
+speaker1: kill him!
+
+speaker1: don't mind him. that's reggie. wouldn't hurt a soul. 
+speaker2: i can't stand snakes.
+speaker1: the world's full of them, you know.
+speaker2: i hate them.
+speaker1: come on now, sport, show a little of the old backbone.
+
+speaker1: do you think the idol will ever show up? 
+speaker2: i don't know. just because belloq had it doesn't mean he kept it.
+speaker2: getting it away from those indians would be a neat trick i hope they got him.
+speaker3: i couldn't get the mcnabe, professor. someone's got it checked out 'til next month when classes start.
+speaker2: that's all right, phil. thanks a lot.
+speaker3: will there be anything else?
+speaker2: no. i'll see you thursday.
+speaker2: hey, if you don't like them, i can always return them.
+speaker1: no, they're beautiful. the museum will buy them as usual. no questions asked.
+speaker2: then what's wrong?
+speaker1: i brought along some people today.
+speaker2: what kind of people?
+speaker1: government.
+speaker2: government?
+speaker1: don't worry, it's not about your business. they're from the army.
+speaker2: i've already served.
+speaker1: army intelligence. they're looking for abner.
+
+speaker1: but you did study under professor ravenwood at the university of chicago? 
+speaker2: we haven't spoken in ten years. i'm afraid we had a bit of a falling out.
+speaker3: you know nothing of his whereabouts?
+speaker2: just rumors. somewhere in asia, last i heard.
+speaker1: well... you must understand, dr. jones, this is all strictly confidential.
+speaker2: i understand.
+speaker1: yesterday, one of our european sections intercepted a communiquã© from cairo to berlin. we don't quite know what to make of it.
+speaker1: here it is - "tanis development proceeding. acquire headpiece, staff of ra, general tengtu hok, shanghai. locate abner ravenwood, u.s." brody is excited. he looks at indy.
+speaker4: tanis. they must have discovered the lost ruins.
+speaker2: tanis. ain't that somethin'!
+speaker3: frankly, we're a little suspicious... an american being mentioned so prominently in a secret cable.
+speaker2: ah, ravenwood's no nazi.
+speaker3: then what do they want him for?
+speaker2: they're looking for the headpiece to the staff of ra.
+speaker1: but it says here that's in china.
+speaker2: only half of it. ravenwood had the other half.
+speaker3: what would the nazis want with this - this staff of ra?
+speaker4: i can tell you that. over the last two years the nazis have had teams of archeologists running around the world looking for all kinds of religious artifacts.
+speaker1: that's right. hitler's a nut on the subject. crazy. he's obsessed with the occult.
+speaker3: what is this staff of ra, anyway?
+speaker2: it all has to do with the ark of the covenant. the chest the hebrews used to carry around the ten commandments.
+speaker2: an egyptian pharaoh stole the ark from jerusalem and took it back to the city of tanis. a short time later, tanis was consumed by the desert in a sandstorm that lasted a year. but before that, the pharaoh had had the ark hidden away in a secret chamber called the well of the souls. which is where the staff of ra comes in.
+speaker2: now this was rather clever. the staff was really just a big stick - oh, i don't know, say like this - no one really knows for sure. any way, it was capped by an elaborate headpiece with a carving of the sun at the top. what you had to do was take the staff to a special map room in tanis - it had the whole city laid out in miniature on the floor. when you placed the staff in a certain spot in this room, at a certain time of day, the sun would shine through a hole here in the headpiece and then send a beam of light down here - to the map - giving you the location of the well of the souls...
+speaker1: ...where the ark of the covenant was kept.
+speaker2: which is probably what the nazis are after.
+speaker3: what's this ark look like?
+speaker2: look like? why, it's right here...
+speaker5: fills the screen.
+speaker3: good
+speaker2: yes. that's what the hebrews thought.
+speaker1: what's that supposed to be coming out of there?
+speaker2: who knows... lightning... fire... the power of
+speaker3: i'm beginning to understand hitler's interest in this thing.
+speaker2: oh yes. the bible tells of it leveling mountains and wasting entire regions. moses promised that when the ark was with you, "your enemies will be scattered and your foes fell before you". an army which carries the ark before it is invincible.
+speaker2: oh, there's one other thing that hitler undoubtably believes about the ark... it's said that the lost ark will be recovered at the time of the coming of the true messiah.
+speaker1: dr. jones, you've been very helpful. i hope we can call on you again if we have questions.
+speaker2: most certainly.
+
+speaker1: i've got to talk to you. 
+speaker2: this isn't really a good time.
+speaker1: indy, it's important.
+speaker2: all right. come on in.
+
+speaker1: they want you to go for it. and they'll pay. 
+speaker2: good work, marcus. i had a feeling this would happen. and, of course, the museum gets the ark when we're done.
+speaker1: of course.
+speaker2: okay, here's the way it's gonna be. first, i'll high-tail it to shanghai and get the piece from general hok. then i think i know where i can find ravenwood. if only i can get -
+speaker1: general hok's a tough customer. they don't call him the wild boar for nothing. and he's tied in with the japanese.
+speaker2: i'll worry about that when the time comes. my only hope is to find the well of the souls before the nazis do.
+
+speaker1: buzz kehoe, army intelligence. you've met bang chow. 
+speaker2: what's the hurry?
+speaker1: some german agents got here two hours ago. luckily, bang was able to have them detained at customs. we'll have to hurry.
+
+speaker1: are you all right! 
+speaker2: great. got it.
+speaker1: what now?
+speaker2: i've got to get to nepal.
+
+speaker1: gmoiska! shurga rintoik! 
+speaker2: aye! that'll be your last word.
+speaker3: that does it! i've been patient with you no-goods long enough. i'm not open at 2 o'clock for myself, you know. it's all for you. and how do you repay me: trouble and noise and blood on my floor! i won't have it. everybody out! out! out! we're closed. closed! do your killing outside! and don't leave any bodies on the porch!
+speaker3: hey you, deaf one! i said out of my place. i don't mean next easter, i mean now -
+speaker4: hello, marion.
+speaker4: nice to see you, too.
+speaker3: get up and get out.
+speaker4: take it easy. i'm looking for your father.
+speaker3: go home, mahdlo. i'll see you tomorrow.
+speaker4: what happened?
+speaker3: avalanche. up there. he was digging. what else? he spent his whole life digging. dragging me all over this rotten earth. for what?
+speaker4: do you find him?
+speaker3: no. he's buried where he was working. probably preserved real good, too. in the snow.
+speaker4: not a bad way to go. doing what he loved.
+speaker3: don't give me that stuff! what do you know? i'm the one that was left in a bad way. he didn't have a penny. guess how i lived, mister jones. i worked here. and i wasn't the bartender. finally the guy that owned the joint went crazy. snow crazy. they took his away screaming. as they dragged him out, he said the place was all mine for life.
+speaker3: can you imagine a more evil curse? so far, it's working.
+speaker4: why not leave? go back to the states.
+speaker3: i'll go back. i'll get there. not that there's a soul there who knows my name or cares. but i'll go. and when i do, they'll know me. 'cause i'm going to go back in style. with money. a lady!
+speaker4: where you gonna get it?
+speaker3: if i knew that, you think i'd still be running this dive?
+speaker3: i'll tell you something indy. i've learned to hate you in the last ten years. but somehow, no matter how much i hated you, i always knew that someday you'd come through that door. i never doubted that. something made is inevitable. why are you here... now... tonight?
+speaker4: i need one of the pieces your father collected.
+speaker3: you you know what you did to me, to my life? this is your handiwork.
+speaker4: i never meant to hurt you.
+speaker3: i was a child!
+speaker4: you knew what you were doing.
+speaker3: i was in love.
+speaker4: i guess that depends on your definition.
+speaker3: it was wrong. you knew it.
+speaker4: look, i did what i did. i don't expect you to be happy about it. but maybe we can do each other some good.
+speaker3: why start now?
+speaker4: shut up and listen for a second. i want that piece your father had. i've got money.
+speaker3: how much?
+speaker4: enough to get you back to the states. where are his things?
+speaker3: gone. i sold it all. it was all junk. the junk he wasted his life on.
+speaker4: everything?
+speaker4: that's too bad.
+speaker3: you look disappointed. i like that. how's it feel?
+speaker3: what are you drinking?
+speaker4: seltzer.
+speaker3: real man's drink. me, i like scotch. and i like bourbon. and vodka and gin. i'm not much for brandy. i'm off that.
+speaker4: you're a tough broad now, aren't you?
+speaker3: it's no act, pal. this ain't schenectady.
+speaker4: i can only say i'm sorry so many times.
+speaker3: you really have money? you don't look rich. i may be able to locate some of his things. i know who's got them. what do you want?
+speaker4: a bronze piece, about this size. in the shape of the sun. probably broken off at the bottom. has a little hole in it, off-center. does that sound familiar?
+speaker4: do you know where it is?
+speaker3: maybe. how much?
+speaker4: three thousand. american.
+speaker3: that'll get me back, but not in style. this doodad must be pretty important.
+speaker4: maybe.
+speaker3: i knew it would happen eventually. i knew it. something had to go my way. i've got to think this out. i'm used to bargaining with yaks.
+speaker4: okay, five thousand. that's all i can give you now. i can get you more when you land in the states.
+speaker3: you word, huh? just like you said you'd be back last time? that was your word too.
+speaker4: i'm back, aren't i?
+speaker4: you can trust me.
+speaker3: come back tomorrow.
+speaker4: why?
+speaker3: because i said so, that's why. it's about time i called the shots in this relationship.
+speaker3: wait a minute. leave the five thousand here. you want trust, give some. i want to smell your money.
+speaker4: i trust you.
+speaker3: you're an
+speaker4: i've heard that.
+speaker3: hold it. come here.
+speaker4: bossy, aren't you?
+speaker3: that's right. give me a kiss.
+speaker3: get out of my place.
+speaker4: tomorrow.
+
+speaker1: good evening, fraulein. 
+speaker2: the bar's closed.
+speaker1: we are not thirsty.
+speaker2: what do you want?
+speaker1: the same thing your friend dr. jones wanted. surely he told you there would be other interested parties.
+speaker1: ah, the man is nefarious. i hope for your sake he has not yet acquired it.
+speaker2: why, are you willing to offer more?
+speaker1: almost certainly. do you still have it?
+speaker2: no. but i know where it is.
+speaker2: how 'bout a drink for you and your men?
+speaker1: we will stick to the business at hand, fraulein.
+speaker1: i'm afraid an auction is not possible. your fire is dying here, fraulein. why don't you tell us where the piece is right now?
+speaker2: listen, herr mac, i don't know who you're used to dealing with, but no one tells me what to do in my place.
+speaker1: americans! you're all alike. fraulein ravenwood. i'll show you want i'm used to.
+speaker2: wait! i can be reasonable -
+speaker1: that time is passed.
+speaker2: you don't need that. i'll tell you everything!
+speaker1: yes, i know you will.
+speaker3: hello.
+speaker1: shoot them both!
+speaker4: he's our man!
+speaker1: do as i say!
+
+speaker1: unbelievable! 
+speaker2: let's get out of here!
+speaker1: not without that piece you want!
+speaker2: it's here?
+speaker2: forget it! i want you out of here. now!
+speaker1: there!
+speaker2: let's go!
+speaker1: you burned down my place!
+speaker2: i owe you plenty!
+speaker1: you owe me plenty!
+speaker2: you're something!
+speaker1: i am something. and i'll tell you exactly what - she holds up the medallion possessively.
+speaker1: i'm your partner!
+
+speaker1: silence! why do you forget yourselves? 
+speaker1: what is this? who brought this animal in?
+speaker2: why, thank you. i like you too.
+speaker1: then it shall be welcome in our house.
+speaker2: oh, no! you don't have to have it around if you don't want it -
+speaker3: all of allah's creatures are welcome here. you please us by letting us please you.
+
+speaker1: i knew the germans would hire you, sallah. they couldn't have an excavation in the desert without the best digger in egypt. 
+speaker2: all arabs look alike to them, indy.
+speaker1: tell me about the map room at tanis.
+speaker2: we found it three days ago. i broke through myself.
+speaker1: those nazis are moving awfully fast.
+speaker2: the frenchman is helping them.
+speaker1: belloq. so he got away from the indians. this is going to be more interesting that i thought.
+speaker2: i'm afraid this has put the germans close to finding the well of the souls.
+speaker1: even belloq won't be able to find it without that. can you make anything of those markings? they're nothing i'm familiar with.
+speaker2: but i know someone who might. you can go to see him tomorrow. indy... something bothers me.
+speaker1: what is it, my friend?
+speaker2: it is the ark. if it is there, at tanis... it is not something man was meant to disturb... death has always surrounded it. it is not of this earth.
+
+speaker1: do you really need that monkey? 
+speaker2: i'm surprised at you, indy. talking that way about our baby. he's got your looks, too.
+speaker1: and your brains.
+speaker2: hey! hey!... where're you going?
+speaker1: he'll be ok. come on. come on.
+
+speaker1: run! get out of here! 
+speaker1: go, go!
+
+speaker1: the gentleman in the corner sent it. he would like you to join him. 
+speaker2: belloq.
+speaker3: good evening, dr. jones.
+speaker2: i ought to kill you right now.
+speaker3: it was not i who brought the girl into this dirty business.
+speaker3: sit down, please, before you fall down. we can behave as civilized people. i'm afraid it will be your last opportunity.
+speaker2: not a very private place for a murder.
+speaker3: these arabs will not interfere in the white man's business. they do not care if we kill each other off. terribly difficult finding a decent vintage here. you were quite vigorous in shanghai. unfortunately, our friend the wild boar had taken the precaution of making several copies of the piece. indy registers this as he takes a drink. belloq watches him with disdainful amusement.
+speaker3: how odd that is should end this way for us, after so many... stimulating encounters. i almost regret it. where shall i find a new adversary so close to my own level?
+speaker2: try the local sewer.
+speaker3: i know you despise me. we always hate in others that which we most fear in ourselves. and you and i are very much alike.
+speaker2: now you're getting nasty.
+speaker3: we have always done the same kind of work. our methods have not differed as much as you pretend. i am a shadowy reflection of you. but it would have taken only a nudge to make you the same as me, to push you out of the light.
+speaker3: you know it to be true! how nice. and how ironic the timing.
+speaker3: do you realize what the ark is? it's a transmitter. a radio for talking to and now it is within my grasp.
+speaker2: what about your boss, der fuhrer? i thought he was waiting to take possession.
+speaker3: when the time is right. when i am finished with it.
+speaker2: i hope your friends are patient. dangerous work, belloq.
+speaker3: yes. very. you may consider yourself fortunate that your involvement concludes here.
+speaker2: tell me, did you get away with the idol?
+speaker3: i was lucky to get away with my life. the hovitos proved quite narrow-minded about the whole matter.
+speaker2: you know, if it's you want to talk to, maybe i can arrange it.
+speaker4: uncle indy, we have been looking for you.
+speaker5: come home now, uncle. hurry!
+speaker2: yes. yes, i'll come now.
+speaker3: next time, indiana jones, it will take more than children to save you.
+
+speaker1: i thought we would find you there. better than the united states marines, eh? 
+speaker2: thanks you. marion's dead.
+speaker1: yes, i know. i am sorry. more reason than ever to beat the bastards. life goes on, indy. there is the proof.
+speaker1: i have much to tell you, indy.
+
+speaker1: and they made the calculation in the map room? 
+speaker2: this morning. belloq and the boss german, shliemann. when they came out of the map room, we were given a new spot in which to dig... out away from the camp.
+speaker3: come. look.
+speaker3: this is a warning... not to disturb the ark of the covenant.
+speaker1: just want i need.
+speaker1: how 'bout the height of the staff? did belloq get it off of there?
+speaker3: yes... it is here.
+speaker3: it says it is... ten jamirs high...
+speaker2: about seventy-five inches.
+speaker3: wait! i am not finished...
+speaker1: you said their top section was blank. are you absolutely sure?
+speaker1: belloq's staff is seven and a half inches short. they're digging in the wrong spot!
+speaker2: bad dates.
+
+speaker1: there! that is the map room! 
+speaker2: what time does the sun hit the map?
+speaker1: just after eight.
+speaker2: we haven't got much time. where are the germans digging for the well of the souls?
+speaker2: okay. let's go.
+
+speaker1: hey! you, the skinny one! 
+speaker1: yes, you. what are you doing there?
+speaker1: well bring that rope over here, you cur.
+
+speaker1: bring us some of that! 
+speaker1: now,
+
+speaker1: sallah. sallah! 
+speaker1: sallah!
+
+speaker1: hey, you! more water over here! 
+speaker1: why aren't you at the digs? come here!
+speaker1: no, dummkopf, i said come!
+
+speaker1: i though you were dead. 
+speaker2: they were throwing me around like a rag doll.
+speaker1: they must have switched baskets. thank for that! bless those bastards. have they hurt you?
+speaker2: no. not since i got here. they just asked about you - what you knew. the frenchman's got the hot's for me. i've been playing that along. oh, indy, get me out of here.
+speaker2: what's wrong?
+speaker1: i have to leave you here for a little while. i know where the ark is. if i take you out of here they'll start combing the place for us.
+speaker2: cut me loose!
+speaker1: keep your voice down.
+speaker2: i said get me out of -
+speaker1: look, you don't know how glad i am to see you. and i don't like doing this. but the whole thing will be shot if you don't just sit here quietly. they haven't hurt you in the last twenty-four hours, they aren't going to start now. i'll be back to get you in no time.
+
+speaker1: i cautioned you about being premature with that communiquã© to berlin. archeology is not an exact science. if does not adhere to time schedules. 
+speaker2: the fuhrer is not a patient man. he demands constant reports and he expects progress. you led me to believe -
+speaker1: nothing. i have made no promises. i said only that it looked very favorable. perhaps the ark will still be found in an adjoining chamber. based on the information in our possession, my calculations were correct. perhaps some bit of evidence still eludes us. perhaps
+speaker3: perhaps the girl can help us.
+speaker2: my feeling exactly. she was in possession of the original piece for years. she may know much. if properly motivated...
+speaker1: i tell you, she knows nothing useful.
+speaker2: i'm surprised to find you squeamish. that is not your reputation. but it needn't concern you. i have the perfect man for this kind of work.
+
+speaker1: why snakes? why did it have to be snakes? anything else. 
+speaker2: asps. very dangerous.
+speaker1: lots of torches. and oil. i want a landing strip down there.
+
+speaker1: believe me, you made a mistake. if you would just give me something to placate them. some bit of information. 
+speaker2: i swear to you, i know nothing more. i have no loyalty to jones. he's brought me only trouble.
+speaker1: i cannot control them.
+speaker3: we meet again, fraulein.
+
+speaker1: don't touch it! never touch it! 
+speaker1: hurry up! why did it have to be snakes?
+speaker1: what the -
+speaker2: why, dr. jones, whatever are you doing in such a nasty place?
+speaker1: why don't you fellows come down here? i'll show you.
+speaker2: no thank you, my friend. i think we are all very comfortable up here.
+
+speaker1: i'm afraid we must be going now, dr. jones. our prize is awaited in berlin. but i do not wish to leave you down in that awful place... ...all alone. 
+speaker2: don't put me down! up at the hole, there's plenty of dissension.
+speaker3: the girl was mine!
+speaker1: she is of no use to us. only our mission for the fuhrer matters.
+speaker1: i wonder sometimes, monsieur, if you have that clearly in mind.
+speaker3: goodbye, mademoiselle. indiana jones... adieu!
+speaker4: don't panic. there's plenty of time for that later. wave that at anything that slithers.
+speaker2: what are you doing?
+speaker4: just watch the floor.
+speaker2: whatever you're doing, do it faster.
+speaker4: there!
+speaker4: come on!
+speaker4: stay here!
+speaker2: where are you going?
+speaker4: i'll be back in a minute. we're going through this wall.
+speaker4: just keep your eyes open and get ready to run. no matter what happens to me.
+speaker2: where are you?!
+speaker2: indy! where are you?! please lord!
+speaker4: come on!
+
+speaker1: the snakes... are they here? 
+speaker2: i guess not. i think i'd be dead.
+speaker1: do you know where you're going?
+speaker2: absolutely.
+speaker1: thank where?
+speaker2: out.
+speaker2: don't do that. it scares me.
+speaker2: look!
+
+speaker1: get is gassed immediately! it has an important cargo to take out! 
+speaker2: when the ark gets loaded, we're
+speaker2: get out! get out!
+
+speaker1: sabotage! 
+speaker2: we must get the ark away from this place immediately!
+speaker1: have it put on the truck. we'll fly out of cairo.
+speaker1: and gobler -
+speaker3: holy smoke, my friends! i am so pleased you are not dead.
+speaker4: us too.
+speaker3: the ark! they're taking it on a truck to cairo.
+speaker5: where is it?
+
+speaker1: you two get back to cairo quick and get us transportation to england - a plane, a ship, anything. 
+speaker2: what about you?
+speaker1: i'm going to get that truck. i'll meet you at omar's. be ready for me.
+speaker2: how are you going to get that truck?
+speaker1: i don't know. i'm making this up as i go.
+
+speaker1: i have a feeling i'm not the first woman to travel with these pirates. there's a whole wardrobe in there. 
+speaker2: it's lovely.
+speaker1: i feel like a virgin bride in this.
+speaker2: that's what you look like.
+speaker1: there are some things you can recapture in this life, but that isn't one of them.
+speaker2: what would you like to recapture?
+speaker1: nothing. that is the way it is.
+speaker2: did i ever say i was sorry i burned down your tavern?
+speaker1: no. then again, i burned up that plane.
+speaker2: you saved my life.
+speaker1: and you saved mine.
+speaker2: seems things have worked out kind of even.
+speaker1: that's the way i like them.
+speaker2: maybe we should consider all past accounts closed.
+speaker1: no. not yet.
+speaker2: what else?
+
+speaker1: what is it? 
+speaker2: the engines have shut down.
+speaker1: why?
+speaker2: i'm going to find out.
+
+speaker1: what's wrong? 
+speaker2: you have most important friends.
+speaker1: holy
+speaker2: i sent my man for you. you and the girl must disappear. we have a place in the hold. go, my friend!
+
+speaker1: take it aboard the wurrfler! 
+speaker2: and be very careful!
+speaker1: what about jones?
+speaker3: not a trace yet, sir!
+speaker4: jones is dead. belloq and shliemann regard him suspiciously.
+speaker4: we killed him. he was of no use to us. the girl, however, has certain value where we are headed. she will bring a very good price. if that cargo you have taken was your goal, then go in peace with it. but leave us the girl. it will reduce our loss on this trip.
+speaker1: savage. you are not in a position to ask for anything. we will take what we wish and then decide whether or not to blow your ship from the water.
+speaker2: that girl goes with me. it will be part of my compensation. i'm sure the fuhrer would approve.
+speaker2: if she fails to please me, you can do with her as you wish.
+
+speaker1: colonel shliemann, all torpedoes are loaded. 
+speaker2: what do you think, captain?
+speaker1: i think not, colonel. nothing is to be gained. we are not at war.
+speaker2: ...yet. let the vermin live. we must be on our way.
+
+speaker1: the tents have been arranged in accordance with your radioed instructions, sir. 
+speaker2: good. we must take the ark there now.
+
+speaker1: i am uncomfortable with the thought of this - jewish ritual. are you sure it's necessary? 
+speaker2: let me ask you this - would you be more comfortable opening the ark in berlin - for the fuhrer - and finding out only then if the sacred pieces of the covenant are inside? knowing, only then, whether you have accomplished your mission and obtained the one, true ark? shliemann doesn't like any of his alternatives. he looks at belloq with some suspicion as the train comes into bright light.
+
+speaker1: hold it. one move from anybody and i blow that box back to moses. 
+speaker2: jones, your persistence surprises even me. you are going to give mercenaries a bad name.
+speaker1: what about you? talked to yet? where's the girl?
+speaker3: doctor jones, surely you don't think you can escape from this base.
+speaker1: that depends on how reasonable we're all willing to be. all i want is the girl. we'll keep possession of the ark only till we've got safe transport to england. then it's all yours.
+speaker3: if we refuse?
+speaker1: then the ark and some of us are going up in a big bang. i don't think hitler would like that a bit. now i don't want to talk about this anymore. show me that girl in five seconds or -
+speaker3: jones, this is the second time i have seen you looking very foolish.
+speaker1: it's a bad habit. i'm trying to break it.
+speaker3: i'll help you. this time i'll kill you myself.
+speaker2: no! not in the presence of the ark! take him outside.
+speaker2: indiana jones, i salute you. i am even a little sorry you will miss this moment.
+speaker1: thanks. if you talk to him, tell him i'm on my way up.
+
+speaker1: marion! marion, can you hear me? suddenly, indy looks as - 
+speaker1: hi.
+speaker2: oh, indy! thank you're here.
+speaker1: glad i could make it.
+speaker1: let's get out of here.
+speaker2: what about the ark?
+speaker1: are you game?
+speaker2: yes! we've made it this far.
+speaker1: okay. let's do it.
+speaker1: whatever you do, don't touch it. let's put it on the floor.
+speaker1: we'll go down that side. shoot anyone who looks at us crosseyed.
+
+speaker1: stop them! kill them! 
+speaker2: get down!
+speaker3: we must cover the drums! protect them from the bullets!
+
+speaker1: you've done your country a great service. 
+speaker2: and we trust you found the settlement satisfactory?
+speaker3: quite.
+speaker2: good, good. then i guess that about does it.
+speaker4: when can we have the ark?
+speaker2: i thought we answered that. it's someplace very safe -
+speaker5: that's a powerful force. research should be done -
+speaker2: oh, it will be, dr. jones, i assure you. we have top men working on it right now.
+speaker5: who?
+speaker2: top men.
+speaker5: we may be able to help.
+speaker2: we appreciate that. and we won't hesitate to call on you.
+speaker1: thank you all. thank you again.
+
+speaker1: well they aren't going to tell you, so why don't you just forget it. i'd think you'd had enough of that ark. just put your mind on something else. 
+speaker2: yeah, like what?
+speaker2: it's not the ark... but it'll have to do.
+

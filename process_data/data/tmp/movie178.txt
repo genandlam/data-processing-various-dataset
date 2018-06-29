@@ -1,0 +1,566 @@
+speaker1: omnia in duos: duo in unum: unus in nihil: haec nec quattuor nec omnia nec duo nec unus nec nihil sunt. 
+speaker1: come on, candles, out!
+speaker1: in volunta divina et verbum magi: lux! exstinguat!
+
+speaker1: vide, magister. there's something wrong. 
+speaker1: what's the matter? what's happened?
+speaker2: i've just seen something. something of consequence to you.
+speaker1: to me?
+speaker2: yes. my own death.
+speaker2: perhaps we had better hasten your training.
+
+speaker1: this wood, these leaves, the birds, the very dome of heaven, once they all rang with one great chord: and philosophers like me kept it all in tune. now, new voices are singing new songs. have you mastered the threefold transmutation? 
+speaker2: of course.
+speaker1: you have?
+speaker2: well, almost.
+speaker1: it's very difficult. have you committed to memory undying the codex de profundis?
+speaker2: the first two chapters.
+speaker1: it's long. and what about the ritual of banishment as prescribed by my late master balisarius?
+speaker2: to tell the truth, i haven't dared try it. what's the point, anyway?
+speaker1: the point? the point is you don't know it, and you're no magician without it. it was my hope to school you, to mold your faculties and wits... i still believe you have some talent. somewhere.
+speaker2: i hate books. i hate drill. i want a real task.
+speaker1: there's no time now. when i'm gone, half the powers in the universe will vanish with me. and what's the use of a few lingering skills if they're left in the hands of a child? listen!
+speaker2: i don't hear anything.
+speaker1: here, wear this.
+speaker2: voices, singing on the road.
+speaker2: i don't see anything.
+
+speaker1: looks forbidding enough, don't you think? 
+speaker2: here are your sticks.
+speaker1: no -- they'll think me infirm. you know, balisarius wore this whenever he changed lead into gold. he could really do that, you know. i never could. too bad -- you'd stand to inherit some real wealth.
+speaker2: you're in a morbid frame of mind. what's all this about dying? you don't even look sick.
+speaker1: you still wearing that amulet? good. don't lose it. it still belongs to me.
+speaker1: now, adeptus minor, get yourself a handful of that sulphurous ash over there...
+
+speaker1: nunc habeus lux! 
+speaker1: et calor!
+speaker1: welcome to cragganmore. i am ulrich. which one of you calls himself valerian?
+speaker2: that would be me. we are here on behalf...
+speaker1: i know why you're here. you're a delegation from urland, from beyond dalvatia. let's see the artifacts.
+speaker2: a bone. scorched. a rock, fire- blackened. scales.
+speaker1: all right. how did you come by these?
+speaker2: i found them. at the mouth of the lair.
+speaker1: what else?
+speaker2: a claw.
+speaker1: that's no claw. it's a tooth. by the gods!
+speaker1: and you want me to do battle with that?
+speaker2: who else can we turn to? we all know what we're dealing with here. this is a basilicok. a cockatrice. a dragon. this is no stag, no bear, no natural creature. this is one of your kind. and only a necromancer such as yourself can rid us of it.
+speaker1: did you try the meredydd sisters? what about rinbod? i've heard it said he killed a dragon once.
+speaker2: they're all dead. you're the only one left.
+speaker1: it's a long way to urland.
+speaker2: every quarter, upon the solstices and the equinoxes there's a new victim.
+speaker3: my daughter, for one.
+speaker4: my sister... cousins...
+speaker1: all women?
+speaker2: girls. virgins, to be exact, chosen by lot.
+speaker5: master, don't you think --
+speaker1: silence!
+speaker2: are you afraid of dragons?
+speaker1: no. sorcerers and dragons go back a long long time together. if it weren't for sorcerers, there wouldn't be any dragons. all right. i'll go.
+
+speaker1: i know of this dragon. vermithrax pejorative: she's four hundred years old. as far as i can tell she's the last of her kind. very appropriate that i'm the one to finish her off, don't you think? there. flatten the highest mountain. what say you, galen? speak up. you, hodge. 
+speaker1: while i'm gone see you keep your nose in your books and your hands out of my reagents. leave my instruments alone too. galen crouches against the castle wall; he regards his master sullenly.
+speaker2: look at yourself. how far will you get like that? a league, two leagues?
+speaker1: i'm not worried about the road.
+speaker2: why don't you wave your hands around and summon up a coach-and-four?
+speaker1: don't mock me. galen gets up and calls out to the urlanders.
+speaker2: you pilgrims: you're used to lotteries. why not draw straws to see who'll be first to carry ironshanks here.
+speaker3: hold your tongue. if the master's got a mind to go, he'll go.
+speaker2: send me. you're always saying i need seasoning. i need a test. let me go.
+speaker1: you're not ready.
+speaker2: i'm ready for anything.
+
+speaker1: tyrian!? 
+speaker2: good morning, all.
+speaker1: we're not afraid of you. give us the road.
+speaker2: why, the road is yours. all the way to urland. it's a long journey, isn't it? but when you're in search of a sorcerer, i suppose no distance is too great.
+speaker3: say nothing.
+speaker4: what do you want with us?
+speaker2: well, like my good friends here, i've come for a bit of black magic. no doubt you've heard of our troubles at home. this is cragganmore, is it not?
+speaker4: aye, this be the place of ulrich.
+speaker2: and here we have the mystical presence himself, no?
+speaker4: you'd best keep your distance -- and your manners.
+speaker2: if he's ready to lay a dragon in its grave, he's got nothing to fear from me. i've no more love for that creature than you lot. nor has the king. but, before you stir things up, don't you think it a good idea to see you've got the right man for the job?
+speaker4: aha -- it's a test you're looking for. we don't do tests.
+speaker2: i'm sure you don't. they never do tests -- and not many real deeds either. oh, conversation with your grandmother's shade in a darkened room, the odd love potion or two... but comes a doubter, well then, it's the wrong day, the planets are not aligned, the entrails aren't favorable, we don't do tests.
+speaker1: we've got no doubts. we require no test.
+speaker4: and you're not going to get one.
+speaker3: go to the conjuring room. the iron box. fetch me the dagger within.
+speaker3: the dagger. be quick.
+speaker3: you shall have your test.
+
+speaker1: not this one, was it? 
+speaker2: the very one. let it fall.
+
+speaker1: vita regula, vita hieratica! 
+speaker1: go on. don't worry, you can't hurt me.
+
+speaker1: hodge -- what are you doing? 
+speaker2: just making my farewell, thank you very much.
+
+speaker1: be careful with that! you don't know what you're doing. 
+speaker2: stand back!
+speaker2: cragganmore! domus non i am! silva celet!
+
+speaker1: oh, it's a vale of tears in which we dwell. it doesn't matter who you are, a king in his robes, a peasant in his rags, when your time comes, no magic can save you... 
+speaker2: i guess...
+speaker1: ...the kindest lord a man could ask for... now he's gone. ye gods he was fussy about his bath. and you'd think he could boil his own eggs with the snap of a finger, but no, he had old hodge do it, of course. up before five i was, mucking out the cages, slopping the pigs, and never once got so much as a thankyou or a pat on the back... i'm going to miss him.
+speaker2: me too...
+speaker1: no you don't. all you care about is the tricks and knavery. well, you don't pull any wool over these old eyes. it'll be a mighty long walk before you fill his shoes, you mark my word.
+speaker2: what's the matter, hodge, pack too heavy? here.
+speaker1: careful with that!
+speaker2: too cold, is it?
+speaker1: stop it!
+speaker2: too warm?
+speaker2: i've got as much respect for the master as anyone, old man. but -- then again, i'm master now.
+
+speaker1: i left my farm with seeds unplanted, calves unborn, nothing but a wife to chase down the strays, and for what? a funeral, that's what. 
+speaker1: because some people said, find a magician. not just a local fellow, an import, a good forty leagues from home. an all-powerful necromancer. ha -- some necromancer!
+speaker2: hold your tongue, greil. sit. eat.
+speaker1: i'll not sit. i'll not eat. see you the great bear. his tail points east. it's the equinox. have you forgotten? or rather not think about it?
+speaker3: good morrow, good morrow. peace be with you.
+speaker4: easy now. we mean no harm. we've been looking for you.
+speaker1: well, you've found us.
+speaker4: more the other way around, i'd say.
+speaker5: what do you want?
+speaker4: a few words, that's all. you were looking for a conjurer.
+speaker5: he's dead.
+speaker4: right. requiscat in pace. ecce: magister novus!
+speaker1: how say you?
+speaker4: my lord ulrich is no longer. all that you asked of him, you may now expect of me. the dangers he would face, i will now conquer. the task he would undertake i will now fulfill. i am galen bradwardyn, inheritor of ulrich's craft and knowledge, and i am the sorcerer you seek.
+speaker1: well, that's a handsome thought, o wizard of wizards. but if there's one thing our friend tyrian has shown us, it's to beware the pig in the poke. who's got a dagger?
+speaker3: no tests!!
+speaker1: call it proof, then.
+speaker5: we've seen enough tests.
+speaker1: well i haven't. all i've seen is death. death in our families, death on the road, and tonight, death at home.
+speaker5: what's come over you, anyway? have you lost your wits?
+speaker1: i don't like it. young snot-nose comes in here for sport at our expense. we're on a fool's errand, but we don't have to listen to this. i don't want to hear any more about sorcery. i don't want to hear any more about spells.
+speaker5: you must be hungry.
+speaker4: what's the matter with him?
+speaker5: it's not just him. it's all of us. it's the equinox.
+
+speaker1: close enough! bring her out! 
+speaker1: now be it known throughout the kingdom, that this maiden, having lawfully been chosen by a deed of fortune and destiny, shall hereby give up her life for the greater good of urland.
+speaker1: by this act shall be satisfied the powers that dwell underground and the spirits that attend thereto. in gratitude for this sacrifice his majesty has declared the family -- what's the name? --
+speaker2: plowman! the family plowman!
+speaker1: -- ordained and signed this day, etc., casiodorus, in his glory the reigning king of this our realm... his seal, his mark, duly read by chancellor horsrik in his holy name.
+
+speaker1: there. i see them. 
+speaker2: who's that old man?
+speaker1: where? which one?
+speaker2: that one. that's the man from cragganmore. now what's he doing here?
+speaker1: filling in for the chief, i reckon.
+speaker2: what a pity.
+
+speaker1: what have you got there? 
+speaker2: none of your business.
+speaker1: a little gold, eh? what do you say i change it into lead?
+speaker2: save your jokes for someone else. me, i don't care for braggarts.
+speaker2: and i don't care for frauds.
+speaker1: i'm no fraud.
+speaker2: call it fool then. upstart. whatever pleases you.
+speaker1: hodge, nobody forced you to come along.
+speaker2: oh, i'm here of my own free will, all right. we each do the master's bidding in our own way.
+speaker1: well, if he told you i needed wetnursing, why don't you just turn yourself around and go back home.
+speaker2: home, is it? you've seen to that, haven't you? gone to seed, i'd say...
+
+speaker1: you're too far behind us. come on out. 
+speaker2: you go ahead, i'll catch up.
+speaker1: not a good idea to get separated. let's go.
+speaker2: right. i'll be along.
+speaker2: that's all right. don't come in.
+speaker2: you better get back to the group, they're probably worried.
+speaker2: i prefer to swim alone, if you don't mind.
+
+speaker1: by the gods! 
+speaker2: stay away.
+
+speaker1: i suppose you'll tell everyone. go ahead, i don't care. it's a relief. 
+speaker2: i'm not going to say anything.
+speaker1: i don't blame you. i was stupid. careless. a silly woman!
+speaker2: take it easy. i knew the moment i saw you. i've known the whole time.
+speaker1: you never knew a thing. no one knew. not since i was born. go on, run off and tell them. it'll make a great story.
+speaker2: don't worry. no one's going to find out. just tell me: why?
+speaker1: ask my father.
+speaker2: the lottery! daughters are chosen, but sons are not!
+speaker1: that's right. unless you have plenty of gold or property.
+speaker2: what do you mean?
+speaker1: if you're rich enough, your name never goes in. my father is poor. so are a lot of fathers.
+
+speaker1: no! 
+speaker1: hodge!
+
+speaker1: galen? can you hear me? 
+speaker2: i hear you.
+speaker1: you know, somebody shot me, but i can still talk. there's something that has to be done.
+speaker2: i know.
+speaker1: not that cockatrice. ulrich's ashes. here.
+speaker1: take it. sorry, you'll have to peel it loose.
+speaker1: ...burning water... find the lake, throw it in...
+speaker2: what are you doing with this, hodge?
+speaker1: ...burning water...
+speaker2: hodge, don't die. listen to me. you're not going to die.
+speaker2: excede, mortem! revoca, vitam! excede, mortem! revoca, vitam!
+
+speaker1: come on. don't dawdle here. 
+speaker2: the whole kingdom like this?
+speaker1: no. we're near the lair. keep moving.
+speaker2: where?
+speaker1: over there. doesn't matter. we're in no danger if we just pass through quickly.
+speaker2: i see it. let's have a look.
+speaker1: no!
+speaker1: greil! malkin! help!
+
+speaker1: look, you don't have to do this. we know you're a fine young magician. none better. there's no need to prove it to us. 
+speaker2: are there other entrances?
+speaker3: no. one's enough.
+speaker1: come on. the road's this way. we'll tell everybody how close you got.
+speaker2: no smoke. how do you know it's in there?
+speaker1: don't be a fool. come away now and live to tell about it.
+speaker3: go ahead! you're going to die! what a fine trick that will be!
+
+speaker1: now are you cleansed of your sins! now are you born again, purified in spirit, into the fellowship of christ! 
+speaker2: welcome back, my son.
+speaker3: father, what are you doing? have you all lost your minds?
+speaker2: some have.
+speaker2: it's this monk. he can read and write, and talk too, i'm afraid.
+speaker3: and they listen?
+speaker2: shh! they think this a holy place, a tabernacle.
+speaker3: this is the granary. what kind of welcome is this? i've got news of the sorcerer and news of the dragon.
+speaker2: you were brave to go, you and your friends. but nobody cares. listen -- he knows what they want to hear.
+
+speaker1: the man who walks with christ is not a man to fear a dragon: yea, though i walk through the valley of the shadow of death i will fear no evil! you say you are preyed upon by a foul beast. yes, but what is the nature of this beast? it comes to you on bat's wings and clawed feet, does it not? it breathes fire, does it not? and it lives under ground. this is no dragon. this is lucifer! 
+speaker2: whoever it is, he's dead.
+speaker1: nay, brother! it is not as easy as that. allegiance to christ, to be sure, but also prayer and confession. these are the arms by which satan may be put down.
+speaker3: you're talking about superstition, friend. none of that has anything to do with what i, galen, have already achieved.
+speaker4: you brought this stranger?
+speaker5: ulrich's apprentice. he's a braggart, but it doesn't matter.
+speaker3: people of urland! send a messenger to the king. vermithrax is dead. crushed by the power of the moon and the stars! laid low by ancient wisdom. dropped into the abyss by mystical practice.
+speaker1: spoken like a pagan. every word as reprobate as it is false! solum in hoc signo vinces!
+speaker3: nihil plus mysterium!
+
+speaker1: praise blessed is he that is humble before the lord! 
+speaker2: your had nothing to do with it.
+speaker3: we saw it with our own eyes. he flew to the mountain top. he was a bird. he brought forth lightning. i saw it.
+
+speaker1: put that away. what if you were seen? 
+speaker2: i'm going to be seen. i want to be seen. tonight the world finds out that you never had a son.
+speaker1: no, you mustn't do that. it's too soon. we've got to think about this, we've got to make a plan.
+speaker2: father: the danger is over.
+speaker1: i know. what am i going to say to my friends who still mourn for their lost girls.
+speaker2: you'll say you did what you had to. this is a time for celebration -- and forgiveness.
+
+speaker1: looks like you've been up to a little sorcery yourself. 
+speaker1: or is it witchcraft?
+speaker1: what's the matter? a real woman never stops talking.
+speaker2: i think it was much easier being a boy.
+
+speaker1: the damnedest thing is, she was twice the man of anyone else in the village. now she's twice the woman. 
+speaker2: would that i had been as clever as her father.
+speaker1: come now, greil. don't begrudge a life spared.
+speaker2: i begrudge nothing. but i wonder at what we have seen and how it was done.
+speaker1: you were there.
+speaker2: i saw what i saw. but this jack-anapes was barely ready to carry his master's chamberpot. isn't it strange that at the very moment the beast is put down we should have a holy man here in the village?
+speaker1: you don't believe that superstitious christian rot, do you?
+speaker2: it is said works his wonders in mysterious ways.
+
+speaker1: a celebration! don't stop on my account. you -- musicians, more music! 
+speaker1: a toast! to the deed of the day! you see, good news travels fast. the king himself has already heard it. and like yourselves, tonight he's overcome with joy.
+speaker2: what would you have of us then?
+speaker1: not a thing. it's this one. the king would meet our new benefactor and offer his gratitude to the man who succeeded where so many have failed.
+speaker1: my young friend, i'd as soon dispatch you as i did the others, and for the same reason. but his majesty would like a cozy chat, and commands otherwise.
+speaker3: don't go, galen. cast a spell and turn them into toads. it should be easy; that's what they are.
+speaker1: well, well: still plenty of cheek under those skirts, it seems.
+speaker4: don't worry. i'll be back.
+
+speaker1: one of the best things about the water here in urland is that there's so much of it -- look at that! 
+speaker1: mmm. good. but not cold enough. perhaps i could borrow a scarf from his majesty.
+speaker1: i cover the goblet, so... remove, so... and behold: winter in a mug!
+speaker1: all right. how many of you have ever seen a table fly?
+speaker2: enough! that's fine.
+speaker1: wait, it'll rise now.
+speaker2: don't bother. not necessary.
+speaker2: tell me: the landslide -- it was accomplished this same way?
+speaker1: yes.
+speaker2: i see. and having rendered such unique service to our kingdom, what would you claim as a reward?
+speaker1: please -- no payment. i have always found magical practice to be its own reward. i seek only some yet greater challenge.
+speaker2: did you ever hear of king gaiseric? of course not, you weren't even born. he was my brother, a great king and a valiant man-at-arms. when he ascended to the throne, the dragon was unbridled. no one knew where it might strike next. so he brought forth his broadsword and his spear, assembled a company of his best fighters and went out to do battle. he was never seen again. but his attack provoked the most terrible reprisals: whole villages incinerated, entire crops burned. death, famine, horrible.
+speaker2: how did you arrogate to yourself the role of savior?
+speaker1: i was invited.
+speaker2: not by me. did you ever consider the consequences of failure?
+speaker1: what failure? what's the matter with you people? you want the dragon back?
+speaker2: then the beast is dead?
+speaker1: yes, of course. dead.
+speaker2: we shall see.
+
+speaker1: cubiculum gravis aperat! 
+speaker1: open up, fenestra gravis aperat! asser gravis aperat! divinitus!
+speaker2: salve, magistrum iuvenilum.
+speaker3: i've studied latin. greek, too. me appelo elspeth, filia regis.
+speaker1: how do you do.
+speaker3: please don't think ill of us. my father is a wonderful man, a wise man. the lottery was his idea.
+speaker1: i see.
+speaker3: you don't understand. from the moment it began, the dragon was tame. the kingdom prospered.
+speaker1: and only a few had to be sacrificed.
+speaker3: yes, that's true. isn't it better that a few should die that many might live?
+speaker1: depends on who does the dying.
+speaker3: oh, but we all take our chances. my father is a just man. my name is entered on the lists, along with every other young --
+speaker1: virgin?
+speaker3: maiden.
+speaker1: if you say so.
+speaker3: what do you mean?
+speaker1: nothing.
+speaker3: i've participated in every drawing since i came of age.
+speaker1: maybe.
+speaker3: it's true. you don't believe me. you think i'm lying. well i'm not.
+speaker1: i'm sorry. i heard a rumor. families with money, that sort of thing.
+speaker3: don't listen to rumors. they're lies. i have to go now.
+speaker1: wait -- how long do i have to stay in here?
+speaker3: until we know. not long. goodbye. vale. dormi bene.
+
+speaker1: that's enough. let's not be greedy here. 
+speaker1: now then: i, casiodorus rex do hereby command thou base metal to change thy essence and become gold.
+speaker2: father?
+speaker1: not now. tyrian, remove all but one bar. we'll try it one at a time.
+speaker2: father: did you know that some families have paid bribes to stay out of the lottery?
+speaker1: nonsense. by the power of this amulet, justly wielded by my hand in accordance with the laws of urland, now lead be thou gold.
+speaker1: i'm burned! what devilish thing is this?
+speaker2: have you ever kept my name off the lottery list?
+speaker1: that'll be all, tyrian. you may withdraw.
+speaker1: now, my dear, what's troubling you?
+speaker2: answer my question: am i not exposed to the same risk as every other man's daughter?
+speaker2: well?
+speaker1: your father loves you very much.
+speaker2: it's true! what have you done to me!?
+speaker1: who fills your head with such ideas?
+
+speaker1: close the main gate! quick! 
+speaker1: there! stop him!
+
+speaker1: tyrian! tyrian! 
+speaker1: so much for your magic! so much for your sorcery!
+
+speaker1: listen to me, my brethren. the moment of our fear is the moment of our triumph. this is a sign from follow me, and our faith will send this creature straight to hell. 
+speaker2: you call yourselves christians?
+
+speaker1: ...for thine is the kingdom and the power and the glory forever -- amen. at the base of the slope the villagers scatter. greil wavers. 
+speaker1: unclean beast, get thee down! be thou consumed by the fires that made you!
+
+speaker1: get away, you little bastard. we've had enough help from you. 
+speaker2: this is your doing!
+speaker3: get him! he's back!
+speaker4: greil -- help!
+speaker5: may the lord forgive you for what you have done.
+
+speaker1: it's me. are you hurt? 
+speaker2: where have you been? doesn't matter -- listen: quick! make it rain. that'll put the fire out.
+speaker1: i can't.
+speaker2: then get the animals back. they're all running loose. there's people been hurt. stop their pain. you can cure them. and we'll need food...
+speaker1: i can't do it.
+speaker2: what? why not?
+speaker1: i just can't.
+speaker2: but you're a sorcerer.
+speaker1: i'm no sorcerer. whatever power i might have had, it's gone.
+speaker2: it can't be!
+speaker1: i know: i'm an imposter. a fraud. a fake. i'm sorry...
+speaker2: you're sorry?! listen to that! the thing is loose, we're all on fire and you're sorry!
+speaker2: you didn't have the faintest idea what you were doing, did you? you're a fool -- and i'm a bigger one for bringing you here.
+speaker2: i don't want you in this house. get out.
+
+speaker1: where is he? 
+speaker2: not here. i can't help you.
+
+speaker1: you too? 
+speaker2: right.
+speaker3: as the proud new father of an eligible daughter who was some-how overlooked all these years, it may interest you to know that the king has called for a new lottery.
+speaker4: but it's months til the solstice.
+speaker3: in view of what's happened, we all know what's required.
+speaker4: i've never taken part in your cursed lottery, and i'll have nothing to do with it now.
+speaker3: you were very clever. but she'll take part, like all the rest. no exceptions.
+speaker5: nothing. if he was here, he's gone now.
+speaker4: all right. i know what you want. how much?
+speaker3: are you offering me a bribe?
+speaker4: yes.
+speaker3: don't waste your time. you could never afford it.
+speaker6: smith -- have you ever forged a weapon?
+
+speaker1: these are your sharpest? 
+speaker2: even tyrian carries one of these.
+speaker1: it's sharp -- but it's not sharp enough.
+speaker3: not sharp enough for what?
+speaker1: for what i'm going to do with it.
+speaker3: nothing's that sharp.
+speaker2: the best i ever made.
+speaker3: it's beautiful.
+speaker2: don't do that! girl-child, when you were born i knew i had to do something, so i set about the task of fashioning an extraordinary weapon: i had the skill to make it -- -- but not the nerve to use it.
+speaker3: i'm thankful for that. no man should choose a senseless death.
+
+speaker1: if it's me you're worried about, don't. so my name has been entered, what of it? there are hundreds of girls. my name just won't be drawn. i know it won't. 
+speaker2: valerian, this isn't just for your sake.
+
+speaker1: i don't care. it doesn't matter. what you want to kill isn't flesh and blood. 
+speaker2: oh, it'll bleed, all right.
+speaker1: how do you know? no one's so much as even scratched it.
+speaker3: i'll need the amulet.
+
+speaker1: look at her. the princess. 
+speaker2: i know. we've met.
+speaker3: stir the tiles! stir the tiles!
+speaker3: bare the arm! bare the arm!
+speaker3: draw the name! draw the name!
+speaker4: now, my countrymen, hear me: behold, for i am chosen. i shall die that many may live. i shall lay down my life for family and fellows. i shall go to my grave for the love of our king and his wise policy. and my name is --
+speaker3: the name! the name!
+speaker5: read the name.
+speaker5: that's not the name. it's been misread.
+speaker1: there's no mistake! the name's been chosen -- let it stand!
+speaker5: no, the good horsrik has misspoke himself. in fairness to this individual, whose name i can't make out, we'll destroy this tile.
+speaker1: no! what better name than your own kin? at last we see justice done!
+speaker5: silence! we will have a new choosing. i will draw the name myself.
+speaker3: let it stand! let it stand!
+speaker6: the name is as you heard it and as horsrik read it: elspeth.
+speaker5: the lottery is invalid. another and another. what treachery is this?
+speaker6: hear me, good people! it is true, that my name appears on many of the lots. this does not falsify the drawing, it certifies it! i have learned that my name has been kept from jeopardy in all the drawings in the past. so i have put my name among the rest many times -- once for each risk that, over the years, you took and i did not. the crowd is dumbfounded. gradually voices erupt in a
+
+speaker1: don't go to all that trouble. 
+speaker2: i'm unarmed. if you want a fight, at least give me a weapon.
+speaker3: i think not!
+speaker1: stop! don't harm him.
+speaker1: i've always had the greatest admiration for the black arts. you chaps with your mysterious spells... i didn't think it would be necessary, you see. vermithrax is an old dragon. and that, i thought, was the beauty of my plan -- buying time. we'd wait her out. i'd live to see the end of her. that's still going to happen. the king finds the book and takes the amulet out. with trembling hands, he passes it to galen.
+speaker3: sire!
+speaker1: he shall have it. it's my daughter. save her, i beg you.
+
+speaker1: holy of holies -- he did not die in vain. can you hear me, brothers? 
+speaker2: we hear you, greil.
+speaker1: well and good, but i'm greil no longer. call me gregorius, after the bishop of rome.
+speaker1: i saw him die. like our lord on the cross he was, scourged by evil. but he showed no fear. such is the power of the holy ghost.
+
+speaker1: of what avail is magic? the old gods died with our daughters. from whence comest my help? my help comest from the lord! 
+speaker2: good and hot.
+speaker3: don't bother. that's not the kind of fire we need.
+speaker3: nunc, per potestatem hermeticum -- ex flammis, ferrum sangrinarium!
+
+speaker1: an edge like no other on this earth. 
+speaker2: well done, simon. thank you.
+speaker1: i'll say goodbye to valerian for you. i'm sorry she's not here, but you know how she is.
+speaker2: i understand.
+speaker1: fare thee well.
+speaker3: galen.
+speaker3: here.
+speaker3: it's a shield. i made it. might keep the fire off you. might not. you know, you're an you're going to die tonight. you'll be ripped limb from limb. this is the last time i'll ever speak to you.
+speaker2: thank you.
+speaker2: hatchlings. they'll have to be killed too. anything else?
+speaker3: you're in love, aren't you?
+speaker2: yes.
+speaker3: that's all right. i understand. she's very beautiful, very brave.
+speaker2: who is? what do you mean?
+speaker3: your princess. but i don't care. it doesn't change the way i feel. listen to me, galen bradwardyn, sorcerer's apprentice; you're going to be dead, the dragon will be worse than ever, there will be more lotteries, and i'm not a boy any more.
+speaker2: and you'll be eligible because --
+speaker3: because i'm still a virgin, and i want you to do something about it.
+speaker2: i am in love. but not with the princess.
+
+speaker1: now be it known throughout the kingdom, that the princess, having been chosen by a deed of fortune and destiny -- 
+speaker1: no fire, i beg you. galen raises his hands in a menacing gesture.
+speaker2: be gone!
+speaker1: i declare these proceedings duly ordained...
+speaker3: i knew i'd find you here. well, i'm not as sentimental as some. the kingdom, every one of us, need this sacrifice. if you intend to interfere, you'll have to kill me.
+speaker2: i've got plenty of reasons to kill you that have nothing to do with this sacrifice.
+speaker3: most impressive. can you use it?
+speaker4: let it be! please! tyrian is right -- it's our only hope!
+speaker4: tyrian -- both of you -- run! flee! it's coming!
+speaker3: in a trice! this is no swords-man.
+speaker2: run! get out of here!
+speaker2: no! stop! what are you doing?
+speaker3: you've failed, my friend, and i thank the gods for it. come out from behind that post.
+
+speaker1: you know what we have to do. we have to leave urland. 
+speaker1: not because of what happened. i brought you here -- it didn't work -- now i'm taking you away. do you understand? you said you loved me. is it true? if it is, it's the only good we've done. let's not lose that too. galen?
+speaker2: she's right. what kind of a life could you have here? it's too late for me, but you're young enough. you know what i think? magic is dying out, fading from the world. but that makes me happy. that means the dragon will be dying too.
+
+speaker1: what's that? 
+speaker2: nothing. i was just thinking -- poor hodge.
+
+speaker1: valerian and galen trudge along side by side. 
+speaker2: how's your leg?
+speaker3: hurts. that thing was small, but its teeth were sharp.
+speaker2: at least you killed it. you got all the young.
+speaker3: but the big one's alive. somewhere down in that burning lake.
+speaker2: don't think about it. you had your fight, and you're still here. that's more than anyone else can say. let's think about what lies ahead.
+
+speaker1: what are you doing? 
+speaker2: you old trickster! the burning water! the lake of fire!
+speaker1: galen, what are you saying?
+speaker2: he had it planned. he knew this was going to happen.
+speaker1: who did? what happened?
+speaker2: we've got to go back, i want to talk to him!
+speaker1: where are you going?
+
+speaker1: galen, stop! please, i beg you! 
+speaker1: stop! i won't let you kill yourself.
+speaker2: he couldn't walk -- he knew he couldn't make the journey. so he had us make the journey for him! don't you see?
+speaker1: no!
+speaker1: all right, all right. you're going in there, i'm going too.
+speaker2: what? why? no you're not, this is my job. absolutely not.
+speaker1: i'm not afraid. and you're not going to stop me. after all -- i've been a man longer than you have.
+
+speaker1: stay close. 
+speaker2: what's that?
+speaker1: never mind. come on.
+speaker1: all right. wait here.
+speaker2: galen? galen? where are you?
+
+speaker1: ulrich! magister! over here! i can see you! over here! 
+speaker2: sic redit magus ex terra mortis.
+speaker1: wonder of wonders -- you're back! i thank the powers that made me!
+speaker2: glad to see you, too. you didn't bring along anything to eat, by any chance?
+speaker1: food?
+speaker2: no? oh well, no time anyway.
+
+speaker1: ulrich raises galen to his feet. 
+speaker2: come along. there's much to be done.
+speaker3: wait, i have something to tell you.
+speaker2: it can wait.
+speaker3: no it can't. listen: i thought i was a sorcerer -- but i wasn't. i thought i had power -- but i didn't. i thought i was you -- but i'm not.
+speaker2: well said. now hurry.
+
+speaker1: draco draconis... 
+speaker2: galen!
+speaker1: where's my amulet? give it to me, please.
+speaker1: be quick!
+speaker1: come close to me.
+
+speaker1: don't be afraid. you have served me with great courage. now you must show me you have even more. 
+speaker2: anything!
+speaker1: you must destroy the amulet, and me along with it.
+speaker2: no!
+speaker1: you brought me from the flames, you must send me back.
+speaker2: i can't.
+speaker1: when the time comes, you'll understand. here.
+
+speaker1: make haste, brother. 
+speaker1: now be thou baptized in the name of the father, son and holy ghost. may the lord our light our way.
+
+speaker1: here. do as he said. smash it. 
+speaker2: not if it means killing him.
+
+speaker1: you heard what he said. 
+speaker2: no! you can't!
+
+speaker1: let us pray. 
+speaker1: we thank thee, lord, for this divine deliverance. verily is thy presence amongst us, fully manifest in this, thy great work.
+speaker1: arise, children of the lord and forsake evermore the pagan mysteries. rejoice in the true power of the christian
+
+speaker1: you want to rest? 
+speaker2: no. i'm fine.
+speaker1: you miss ulricn.
+speaker2: yes.
+speaker1: and the amulet.
+speaker2: that too.
+speaker1: not me. i'm glad it's gone. i'm glad you did what you did. you may not be a sorcerer, galen, but i love you anyway. i don't regret anything that happened. i just wish --
+speaker2: yes?
+speaker1: what is this?
+speaker2: a horse.
+speaker1: did you...!?
+speaker2: no. it must have been wandering loose. or wild.
+speaker1: wait a minute. i just wished for a horse and here it is.
+speaker2: you don't want to wish it gone, do you?
+

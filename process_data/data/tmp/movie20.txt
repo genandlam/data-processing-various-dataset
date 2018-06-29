@@ -1,0 +1,1071 @@
+speaker1: burden! jack burden! the boss wants to see you. 
+speaker2: hey, jack, ever hear of a fellow called willie stark?
+speaker3: no. who'd he shoot?
+speaker2: oh, county... uh... treasurer, or something like that.
+speaker3: what's so special about him?
+speaker2: they say he's an honest man. what i want you to do is to hop into your car...
+speaker3: why, you promised me a vacation.
+speaker2: well, that can wait.
+speaker3: yeah... but there's a... a girl i know.
+speaker2: oh... well, she can wait too.
+speaker3: the question is... can i?
+speaker2: the answer is... get up there.
+speaker3: right. oh... uh... what did you say his name was?
+speaker2: who?
+speaker3: the fellow's name.
+speaker2: oh, the... uh... stark... willie stark.
+speaker3: willie stark...
+speaker4: ...to lie to them in order to line their own dirty pockets with the taxpayers' money. when have the citizens of kanoma county ever witnessed a campaign like this? why is the opposition so anxious to defeat me? why have they used every dirty method known to make sure i'm not elected county treasurer? well, i'll tell you why...
+speaker4: ...because they're afraid of the truth... and the truth is this. they're trying to steal your money. yeah, i said steal. the county commissioners rejected the bid on the schoolhouse. why? well, they'll tell you their reason is the job will be done better. the county commissioners would have you believe that they're interested in public welfare. they're interested in welfare, sure. but it's their own. let's look at the reason in the light of the facts and the figures. that brick factory is owned by one of the commissioners. that same brick factory uses convict labor.
+speaker5: sorry, willie, you'll have to move on.
+speaker4: why?
+speaker5: city ordinance number one-oh-five: more than five people congregating is disturbing the peace.
+speaker4: if you folks'll be so kind as to read these handbills, my boy will pass them out among you.
+speaker5: there's an ordinance against that too.
+speaker4: pass 'em out, tom.
+speaker4: let him alone!
+speaker3: where can i find tiny duffy?
+speaker6: right over there, mister.
+speaker3: uh, they told me i could get my camera back here.
+speaker7: who told you that?
+speaker3: people. can i?
+speaker7: you the reporter that's been snoopin' around town?
+speaker3: are you tiny duffy?
+speaker7: what paper?
+speaker3: chronicle.
+speaker7: you sure come a long way to stick your nose into other people's business.
+speaker3: that's true... only my boss on the paper can't see it that way.
+speaker7: it ain't any of his business either.
+speaker3: whose business is it?
+speaker6: them as is tendin' to it. county commissioners that the voters of kanoma county elected to tend to their business and not take no buttin' in from nobody.
+speaker3: you a commissioner?
+speaker6: yeah. name's pillsbury. dolph pillsbury.
+speaker8: me too. i'm a commissioner too.
+speaker3: who isn't a commissioner?
+speaker7: he's the head man.
+speaker3: then you're in a position to know where --
+speaker7: he's in a position to know nothin'. and to say nothin'.
+speaker3: i thought you said he was head man?
+speaker7: he uses my head.
+speaker6: oh, tiny, you're a card... ain't he a card? yeah, he's a card... now, who thought up those city ordinances about arresting someone for making a speech?
+speaker7: who's arrested? nobody's been arrested. hi, willie.
+speaker6: hi, willie.
+speaker7: did you apologize to willie?
+speaker5: yeah, i apologized to willie.
+speaker7: did you give him his handbills back?
+speaker5: yeah, i gave 'em back.
+speaker7: give him back his flag and his bag and... give this man his camera.
+speaker4: i'm going to be on that same street corner tomorrow, mr. duffy.
+speaker7: you go right ahead, willie. we all believe in free speech. we got to... it's in the constitution.
+speaker4: my boy is out distributing those handbills now.
+speaker7: it's a free country, willie. if you can convince the people to vote for you... you go right ahead.
+speaker4: what did you want to see me about, mr. duffy?
+speaker7: i wanted you to meet a fella came all the way up from the state capital to meet you. a reporter. wants to write you up... maybe put your picture in the paper.
+speaker4: i'm happy to know you, sir.
+speaker3: burden's my name... jack burden. can we go somewhere where we can talk?
+speaker7: now that ain't polite. don't you want to hear both sides of the story?
+speaker3: i know your side. what happened to the plate your men took from my camera?
+speaker7: must have dropped out. oh, come on, fellas, let's relax. it's a hot day... hey, sugar boy...
+speaker9: yeah?
+speaker7: bring some cold beer for the boys.
+speaker4: none for me, thank you kindly.
+speaker6: now you know willie don't drink, tiny. his wife don't favor drinking. and willie's the teacher's pet, ain't you, willie?
+speaker4: i'll have some orange pop if you don't mind.
+speaker7: orange pop! all right, sugar boy. bring him some orange pop.
+speaker9: th-th-the p-p-pop's s-s-sold out.
+speaker7: did you hear that, boys? the p-p- pop's s-s-sold out.
+speaker6: now ain't he a card?
+speaker4: he stutters, mr. duffy, but you... you don't say anything. let's go, mister.
+speaker4: this is my wife, lucy, mr. burden.
+speaker10: how do you do?
+speaker4: that's my pa.
+speaker4: now we'll talk.
+speaker3: you've been talking for a long time, mr. stark.
+speaker11: willie's got a lot to say.
+speaker12: you sleepy, pappy? you want to have a nap?
+speaker11: no, i want to hear it.
+speaker12: i'm worried about tom. it's getting dark. he should have been home.
+speaker4: he's a strong boy. don't worry about him. he can take care of himself.
+speaker3: how old is the boy?
+speaker4: fifteen.
+speaker3: how long have you been married?
+speaker4: nine years.
+speaker12: he was a neighbor's boy. they were poor folks. both died. i couldn't have any children, so... he's a good boy.
+speaker4: oh, he's the best. i couldn't love him any more if he was my own flesh and blood.
+speaker3: and now you, mrs. stark?
+speaker12: oh, there isn't very much to tell about me.
+speaker3: how did you meet?
+speaker12: i was teaching school and one day a pupil walked in. it was willie. i couldn't have a grown man in the class and willie wanted to learn so badly... so i married him.
+speaker3: is that the only reason?
+speaker12: except that i loved him.
+speaker4: get the coffee, lucy.
+speaker3: when did they fire you, mrs. stark?
+speaker12: a couple of weeks ago. i'd been teaching for a long time and nobody ever said i wasn't all right. but i don't care. i don't want to teach in a schoolhouse that they built just so somebody can steal some money. and willie doesn't want to be treasurer, either, if he has to associate with those dishonest people.
+speaker4: i'm going to run. they can't keep me from running.
+speaker3: if you don't mind the truth, mr. stark, you haven't much of a chance.
+speaker4: i'm going to run. they're not going to kick me around like i was dirt.
+speaker12: i don't care if willie loses... just so he gets the truth to the people. isn't that true, willie?
+speaker12: isn't it, willie?
+speaker4: hmmm?... yeah, yeah, sure, that's right.
+speaker12: well, if you lose you can give a little more time to studying your law books.
+speaker3: oh, you studying law too?
+speaker4: by myself, at night.
+speaker11: willie's a smart boy.
+speaker4: if i ever find the time i'm going to take a course at the university.
+speaker12: what happened, tommy boy? what's the matter?
+speaker13: i gave out the handbills, pa.
+speaker4: speak up. speak up.
+speaker12: let him tell it his own way. go on, tommy.
+speaker13: this time they were waiting for me. they took them away from me. threw them in the dirt and beat me up. i brought some of them back.
+speaker4: good boy. have you eaten yet, tom?
+speaker12: let him wash up first.
+speaker4: i'm going to run... and you're not going to stop me. i'm gonna run even if i don't get a single vote.
+
+speaker1: here you are... the last of the willie stark articles. now can i go? 
+speaker2: yes. you've earned your vacation. you've been writing these like you really mean them.
+speaker1: i do.
+speaker1: i hadn't been home in a long time. only a hundred and thirty miles from kanoma city. it was separated from the mainland by a body of water. for the first time i wondered if it wasn't separated by more than that.
+speaker1: hello, mother.
+speaker3: floyd, jack's home. oh, he looks fine... doesn't he look fine? how do i look, jackie boy?
+speaker1: you look beautiful, mother.
+speaker3: i've got so many things planned for you... parties and... it'll be just like old times. but first, let's have a drink.
+speaker4: can't that wait until this evening?
+speaker3: floyd... honey... my son's home.
+speaker4: how long do you plan on staying?
+speaker1: two or three weeks. if that's all right with you.
+speaker3: i'm sure your father would be --
+speaker1: stepfather, mother.
+speaker3: now, jackie... here we all are. floyd, jackie, myself. to the best time we've ever had together.
+speaker1: yes, mother.
+speaker1: excuse me... i...
+speaker1: dr. stanton, i presume.
+speaker5: is my shingle showing?
+speaker6: good to see you, boy. very good.
+speaker1: good to see you, judge. how have you been? what have you been doing?
+speaker6: oh, just sitting here... waiting for all of you to come home. you know, when a man starts to get old his eyes stray and play funny tricks on him. as i watched you in that boat i thought sure i saw a boy of twelve with a fishing rod in his hands. and i was sure the first thing he'd say would be...
+speaker1: do you mind if i kiss your niece, sir?
+
+speaker1: to all the good times we've had together at burden's landing. and especially to this one. because my son's home. 
+speaker2: thank you, mother. thank you very much.
+speaker1: monty, anne and i have been discussing jack's career. what do you think he ought to go in for? shall he be a lawyer, doctor...
+speaker3: we were just discussing whether you should...
+speaker2: i like what i'm doing, mother.
+speaker4: you do very well at it. i read your articles about this fellow... willie stark. very convincing... too convincing for my tastes.
+speaker2: a lot of people like them.
+speaker4: a lot of people are fools. articles like that shouldn't be permitted. they only tend to incite people.
+speaker2: what are you afraid of?
+speaker5: i thought they were very good. i was proud of you, jack. i was particularly interested in stark's ideas on health and medicine. you know the conditions at the hospital i work in. they're intolerable. i'd like to meet this willie stark. he sounds like an honest man.
+speaker4: honest man? this state is full of these log-cabin abe lincolns with price tags on them. the louder he yells the higher his price.
+speaker2: you think you can buy anything, don't you?
+speaker4: yes, don't you?
+speaker4: what do you think, judge?
+speaker6: i think this state could stand a few changes.
+speaker4: well, i'll tell you what i think --
+speaker3: oh, please... let's not talk politics.
+speaker1: anne is right. i absolutely forbid any more of it. i know what we need, we need another toast. you propose it, monty... you're so good at it.
+speaker6: to the young people... to anne, to jack, to adam... to what lies before them. to the world they'll make... in spite of the mistakes we've made.
+speaker4: the mistakes you've made, not me. you're all still pretty high and mighty, aren't you? you all think this state needs a change. you don't like the way it's run. well, who's going to run it? willie stark? the judge? you? you can be bought too. as a matter of fact you have been. and with my money. jack's answer is to throw his liquor in his stepfather's face. there is a pause. mcevoy wipes the liquor off with his handkerchief.
+speaker4: that's a waste of good liquor. your mother wouldn't approve.
+speaker1: jack... she hurries after him. exterior: veranda, night
+speaker1: jack... you go back in and apologize.
+speaker2: apologize? i'd rather die.
+speaker1: i've got to live with him.
+speaker2: well, i don't. neither do you. you don't love him, mother. you never did.
+speaker1: son, don't spoil anything now... he can help you.
+speaker2: i can get along without him. you need this house. and the parties. and the cars and the clothes and the lies. i don't. it's the truth, mother, face it. for once in your life, face it.
+speaker1: anne, please... please make him understand.
+speaker2: anne, burden's landing is a place on the moon. it isn't real. it doesn't exist. it's me pretending i live on what i earn. it's my mother trying to keep herself young, and drinking herself old doing it. it's you and adam living in this house as though your father were still alive. it's an old man like the judge dreaming of the past... anne, come away with me.
+speaker3: and do what?
+speaker2: and live in a shack and eat red beans. anne, what do you want me to do?
+speaker3: oh, jack, jack, you haven't been sure. you've gone from one thing to the other... a year at law school, and now this job as a reporter...
+speaker2: are you afraid i can't make a living?
+speaker3: oh, no, jack, it isn't that. i don't care about the money. it... it's just that i... i want you to be something.
+speaker2: what is it you want me to be?
+speaker3: i don't know. it's just that i want you to be... to do... something important.
+speaker2: like your father. all right. i'll run for governor. anne, i'm sorry. i'm sorry i said that.
+speaker3: all right, jack. i'll go away with you. i'll do anything you want me to do.
+speaker2: anne, i've wanted you to say that more than anything in the world, and now that you've said it... anne, i guess you were right. i'm not sure of anything, including myself. i'm not sure i could live up to the... anne, wait for me. please wait for me.
+speaker3: i'll wait for you.
+speaker7: hello, jack. cut your vacation short, didn't you?
+speaker2: yeah.
+speaker7: by the way, jack, the fellow you wrote the articles about... uh... stark.
+speaker2: yeah?
+speaker7: he lost.
+speaker2: well, i guess that's the end of willie stark.
+
+speaker1: ...measure of the damages is caused by... 
+speaker2: a breach...
+speaker1: a breach...
+speaker2: of an agreement...
+speaker1: of an agreement...
+speaker2: to sell personal property...
+speaker1: to sell... oh, two years of this.
+speaker2: oh, go on, willie, go on.
+speaker1: willie stark... bachelor of law...
+speaker1: if you'll just let me take your case...
+speaker1: really, i'll wait for my fee. just as long as you want me to.
+speaker3: go on, willie, go on.
+speaker4: they're not going to kick me around like i was dirt.
+speaker3: if you lose you can give a little more time studying your law books.
+speaker4: i'm going to be on that same street corner tomorrow, mr. duffy!
+speaker5: by all means. free speech, free country, willie.
+speaker4: that brick factory is owned by a brother-in-law of one of the commissioners. the county commissioners rejected the low bid on the schoolhouse.
+speaker6: all right, children, this is a fire drill.
+speaker6: remember now, walk quietly. exterior: schoolhouse, day
+speaker7: oh, lord, i'm punished for voting against an honest man.
+speaker8: bless you, willie. if we had only listened to you, willie. you were right, willie. let me shake your hand, willie. we should have listened, willie. you were right all the time.
+speaker4: a voice in the wilderness. a man named willie stark...
+speaker1: how about that, lucy, that's me.
+
+speaker1: get up there. get up there fast. your friend, willie, is hotter than a firecracker. 
+speaker1: stay there with him.
+
+speaker1: look, before this kanoma city business we had this whole area tied up. now we're losing to hickville. 
+speaker1: we must find a way to split that vote.
+speaker2: well, all i know is, the way it is now it looks like i'm not going to win.
+speaker1: i know a way... find a dummy.
+speaker3: find a dummy. that's what we've got.
+speaker1: a guy from the sticks... strong enough to grab some votes and enough not to ask questions.
+speaker4: if you want to listen to a boy from the sticks, i know just the guy.
+speaker5: no more politics, eh, willie?
+speaker6: no, i worked too hard in my time to get there. i think i'll just go on practicing law and make a little more money.
+speaker5: the question i'd like to know is, why all the speeches you're making around the countryside?
+speaker6: wonder who that is?
+speaker4: brought some people all the way up from the state capital just to meet you. folks, i want you to meet willie stark, the next governor of our state.
+
+speaker1: folks, if you'll just bear patiently with me for a couple of minutes, i'd like to tell you what this state needs. it needs a balanced tax program. now i'd like to give you the facts and the figures. 
+speaker1: how did it sound, jack?
+speaker2: fine, willie, fine.
+speaker1: say... i forgot to send a telegram to lucy... conductor!
+speaker1: now right here... right here i'd like to add something about last year's taxes... eh?
+speaker3: i wouldn't add a thing. just give them the facts.
+speaker4: yeah... and the figures.
+speaker3: great speech.
+speaker1: what this state needs is a balanced tax program. last year, last year the state claimed to have spent on roads...
+speaker2: do you mind if i sit with you, sadie?
+speaker5: stand... sit...
+speaker2: thanks... tell me, what are you on this merry-go-round for?
+speaker5: i take notes.
+speaker2: for whom?
+speaker5: for those who pay me.
+speaker2: which is.
+speaker5: people.
+speaker2: smart people.
+speaker5: oh, yeah. anybody that pays me is smart.
+speaker2: you don't have to be smart to frame a guy like willie stark.
+speaker5: no. no, brother, you don't.
+speaker2: it is a frame, isn't it?
+speaker5: why don't you give me a cigarette?
+speaker2: to split the vote and win the election for harrison, huh?
+speaker5: if you know, why do you ask?
+speaker2: i just want to make sure.
+speaker5: yeah.
+speaker2: look, why don't you tell the boys back home to save their money. willie couldn't steal a vote from... from abe lincoln in the cradle of the confederacy.
+speaker5: i wish the poor... had enough sense to have somebody give him a good greasing for the beating he's going to get. 'cause this way all he gets out of it is the ride. hey, those speeches! ain't they awful? ain't they just plain awful? question to you: if somebody told him he was a sucker, do you think he'd quit?
+speaker2: i don't know, sadie. i really don't know.
+speaker1: did it sound all right, mr. burden?
+speaker2: fine, willie, fine.
+speaker1: thanks.
+speaker6: now, friends, if you will bear patiently with me for a few minutes, i'll give you the figures. what we need is a balanced tax program...
+speaker7: no, willie, no.
+speaker5: what i need is some sleep. shut up!
+speaker2: shut up yourself! listen, willie, try it on your feet this time.
+speaker1: oh, no. wait a minute. my feet are killing me. let me stay here, huh?
+speaker2: all right... look, willie, you tell 'em too much. just tell 'em you're going to soak the fat boys and forget the rest of the tax stuff.
+speaker1: that's what i say.
+speaker2: but it's the way you say it. willie, make 'em cry. make 'em laugh, make 'em mad, even mad at you. stir 'em up and they'll love it and come back for more. but for heaven's sake don't try and improve their minds.
+speaker1: a man don't have to be governor.
+speaker2: what?
+speaker1: a man don't have to be governor.
+speaker2: well, they haven't counted up the votes yet.
+speaker1: oh, i'm going to lose, mr. burden. i know that. don't try and fool me. i'm not going to lie to you. i wanted it. i wanted it so badly i stayed up nights thinking about it. a man wants something so badly he gets mixed up in knowing what he wants. it's something inside of you. i would have made a good governor. better than those other fellows.
+speaker2: come in.
+speaker1: a great governor.
+speaker5: since you won't let me sleep you might at least give me a drink.
+speaker1: build them highways... greatest system of highways in the country.
+speaker2: help yourself.
+speaker1: i'll build schools.
+speaker5: what's up?
+speaker2: nothing... except willie here has been saying as how he's not going to be governor.
+speaker5: so you told him.
+speaker2: i don't tell anyone anything... i just listen.
+speaker5: who told you?
+speaker1: told me what? told me what?
+speaker5: that you're not going to be governor.
+speaker5: all right! that you've been framed, you poor sap.
+speaker1: framed?
+speaker5: and how! oh, you decoy, you woodenhead decoy! and you let 'em. you let 'em because you thought you were the little lamb of but you know what you are? well, you're the goat! you are the sacrificial goat! you are a sap... because you let 'em.
+speaker2: sadie! that's enough.
+speaker5: enough? he didn't even get anything out of it. oh, they'd have paid you to take a rap like that, but they didn't have to pay a sap like you. oh, no, you were so full of yourself and hot air, all you wanted was a chance to stand up on your hind legs and make a speech: my friends, what this state needs is a good five-cent cigar. what this state needs is a --
+speaker1: is it true?
+speaker5: he wants to know if it's true.
+speaker1: is it true?
+speaker2: that's what they tell me.
+speaker5: here.
+speaker2: hey, lay off that. you're not used to it.
+speaker5: he's not used to a lot of things. are you, willie?
+speaker2: why don't you lay off of him, sadie?
+speaker5: hi.
+speaker2: well, things seem to have quieted down.
+speaker5: yeah, i quieted him down.
+speaker2: yeah. how was he? noisy?
+speaker5: oh, he reared some. he's been telling me all the things he's going to do. he's going to do big things, this fella. he's going to be president. he's going to kill people with his bare hands. i quieted him down... hey! who's lucy?
+speaker2: his wife.
+speaker5: he talks like she's his mammy... she's going to blow his nose for him.
+speaker2: well, i'll take him from here on in. they're waiting for him at the barbecue.
+speaker5: yeah, well give me a receipt for the body and i'll be on my way.
+speaker2: hey, willie, willie... come on, wake up, willie. come on, willie.
+speaker8: exterior: fairgrounds, day
+speaker3: where is he?
+speaker5: there he is.
+speaker5: whoops!
+speaker3: is he drunk?
+speaker2: never touches the stuff. lucy doesn't favor drinkin'.
+speaker5: how'd you get him here? he was out stiff.
+speaker2: hair of the dog that bit him.
+speaker5: hair? he must have swallowed the dog.
+speaker9: ladies and gentlemen, it gives me a great deal of pleasure to introduce to you that true man of the people, the next governor of the state... willie stark.
+speaker1: my friends...
+speaker1: my friends... i...
+speaker1: i have a speech here. it's a speech about what this state needs. there's no need in my telling you what this state needs. you are the state and you know what you need... you over there... look at your pants. have they got holes in the knees? listen to your stomach. did you ever hear it rumble from hunger?... and you, what about your crops? did they ever rot in the field because the road was so bad you couldn't get them to market?... and you. what about your kids? are they growing up ignorant as dirt, ignorant as you, 'cause there's no school for them?... no, i'm not going to read you any speech.
+speaker1: but i am going to tell you a story. it's a funny story...
+speaker5: hey!
+speaker6: ...so get ready to laugh.
+speaker5: what's he up to?
+speaker2: shut up!
+speaker1: get ready to bust your sides laughing, 'cause it's sure a funny story. it's about a hick... a hick like you, if you please. yeah, like you. he grew up on the dirt roads and gully washes of a farm. he knew what it was to get up before dawn and get feed and slop and milk before breakfast... and then set out before sunup and walk six miles to a one-room, slab- sided schoolhouse. oh, this hick knew what it was to be a hick, all right. he figured if he was going to get anything done, he had to do it himself. so he sat up nights and studied books. he studied law because he thought he might be able to change things some... for himself, and for folks like him.
+speaker1: no, i'm not going to lie to you. he didn't start off thinking about the hicks and all the wonderful things he was going to do for them. no. no, he started off thinking of number one. but something came to him on the way. how he could do nothing for himself without the help of the people. that's what came to him. and it also came to him, with the powerful force of own lightning, back in his home country, when a schoolhouse collapsed because it was built of politics... rotten brick. it killed and mangled a dozen kids. but you know that story. the people were his friends because he fought that rotten brick. and some of the politicians down in the city, they knew that... so they rode up to his house in a big, fine, shiny car and said as how they wanted him to run for governor...
+speaker2: sadie, he's wonderful... wonderful...
+speaker1: ...so they told the hick... and he swallowed it. he looked in his heart and he thought in all humility how he'd like to try and change things. he was just a country boy who thought that even the plainest, poorest man can be governor if his fellow citizens find he's got the stuff for the job. well, those fellows in the striped pants... they saw the hick and they took him in.
+speaker3: willie, what are you trying to do?
+speaker1: there he is! there's your judas iscariot. look at him... lickspittle... nose- wiper.
+speaker3: play! play!
+speaker1: look at him!
+speaker3: play anything.
+speaker1: look at him! joe harrison's dummy! look at him!
+speaker3: that's a lie!
+speaker1: look at him!
+speaker3: go get him, boys... go get him.
+speaker1: now, shut up! shut up, all of you. now, listen to me, you hicks. yeah, you're hicks too, and they fooled you a thousand times, just like they fooled me. but this time i'm going to fool somebody. i'm going to stay in this race. i'm on my own and i'm out for blood.
+speaker1: listen to me, you hicks...
+speaker1: listen to me and lift up your eyes and look at blessed and unflyblown truth... and this is the truth. you're a hick. and nobody ever helped a hick but a hick himself.
+speaker1: all right, listen to me... listen to me. i was the hick they were going to use to split the hick vote. but i'm standing right here now on my hind legs... even a dog can learn to do that. are you standing on your hind legs? have you learned to do that much yet? here it is, here it is, you hicks. nail up anybody who stands in your way! nail up joe harrison! nail up mcmurphy! and if they don't deliver, give me a hammer and i'll do it myself.
+
+speaker1: no use going any further, jack. we aren't printing them any more. 
+speaker2: i thought the chronicle line was --
+speaker1: divide and conquer? stark is getting too big for his britches and the hicks are getting too smart. we're now supporting harrison.
+speaker2: how do you square that?
+speaker1: i work here.
+speaker2: well, i don't... not any more.
+speaker1: jack, you fool.
+speaker2: if you had any guts you'd print this...
+speaker1: i work here. i take orders.
+speaker2: i know. you've got a wife and three kids and your boy goes to princeton.
+speaker1: you won't find it easy to get another job.
+speaker2: i'm too rich to work.
+
+speaker1: we didn't do so good. 
+speaker2: double bourbon.
+speaker3: same for me.
+speaker2: and a beer. i hear you got fired from the paper.
+speaker1: you heard wrong, willie. i quit.
+speaker2: you're smart. 'cause before i'm through with that mob they're not going to have enough money left to pay the boy that cleans the spittoons.
+speaker1: how do you feel, willie?
+speaker2: i feel fine, fine. you see, jack, i learned something.
+speaker1: yeah... what?
+speaker2: how to win.
+
+speaker1: i didn't see willie again until his second campaign... four years later. interior: office, night jack turns in some copy to a man at a desk. 
+speaker1: i drifted from job to job... exterior: street, day
+speaker1: but always further and further away from anne, and the life at burden's landing. exterior: street, day camera pans with jack as he trudges along the street.
+
+speaker1: do you want to know what my platform is? here it is: i'm going to soak the fat boys and i'm going to spread it thin. 
+speaker2: there were rumors throughout the state that willie was making deals with all kinds of people... strange deals... for willie stark. crowd milling about circus grounds, with willie's poster superimposed. fireworks exploding. crowd cheers.
+speaker2: the second time out, it wasn't a campaign... it was a slaughter. it was saturday night in a mining town. huge poster is affixed to the side of a building. it bears willie's face, and his slogans.
+speaker1: this is jack burden, a friend of mine. from now on he's going to live here. give him anything he wants.
+speaker3: let these boys through, officer.
+speaker1: duffy works for me now.
+speaker2: it looks like everybody works for you.
+speaker1: no. no, not yet. but i want to keep him around. he reminds me of something i never want to forget.
+speaker1: come on, come on, come on, come on. are these the boys?
+speaker3: these are the boys that can get the boys.
+speaker1: how many do you think we can get?
+speaker3: fifty.
+speaker1: how much?
+speaker3: five dollars a head.
+speaker1: what do you think, sugar? do they look like good boys?
+speaker4: t-t-they b-b-better be.
+speaker1: get a hundred... all right, go on, all of you. blow. blow, blow. you too, duffy. go on.
+speaker1: handbill distributors.
+speaker2: if they all look like them i'd hate not to take one.
+speaker1: that's the object. not like when they beat up my boy tom.
+speaker2: how is tom?
+speaker1: oh, he's fine. he starts college in the fall.
+speaker2: oh. and lucy?
+speaker1: fine... fine.
+speaker5: hey, i need a boy... where's a boy? take that downstairs; they're waiting for it. right away, on the double. listen, baby, you've got to double- space all of this... he can't read, see.
+speaker2: sadie!
+speaker5: and they need four copies. hi, jack. how are you?
+speaker1: sadie is my secretary now. oh, pardon me.
+speaker5: fix your tie, willie. interior: bedroom hotel suite, day willie and jack enter from the office.
+speaker1: hey, sugar.
+speaker1: keep everybody out of here. i want to talk to jack and sadie alone.
+speaker1: from now on you're working for me.
+speaker2: doing what?
+speaker1: i don't know. something will turn up, won't it, sadie?
+speaker5: yeah. we need a college man around... for research.
+speaker1: how much did they pay you on that newspaper?
+speaker2: three hundred dollars a month.
+speaker1: i could buy you cheap, couldn't i?
+speaker2: for a bag of salt.
+speaker1: no. no, i don't play that way. i like you, boy. i always have. i'll tell you what i'll do. i'll give you four hundred dollars a month and traveling expenses.
+speaker2: you throw money around like it was money.
+speaker1: money?... i don't need money. people give me things.
+speaker2: why?
+speaker1: because they believe in me.
+speaker2: i was going home again. but this time it was different. now i had a feeling that maybe the waiting was over... for me, and for anne.
+
+speaker1: it's a far cry from where i come from... to this house. 
+speaker1: and standing here under the portrait of one of the greatest governors of this state, talking to you people... well, it's an honor i never thought i'd have.
+speaker2: are there any questions? mr. mcevoy.
+speaker3: no, i have no questions.
+speaker2: judge?
+speaker4: a few... but it will hold.
+speaker5: i have a question.
+speaker1: shoot.
+speaker5: a lot of people in this state have been saying that you've been making deals... some of them with the very groups that you claim you're against. is that true?
+speaker2: adam, you know how rumors start...
+speaker1: yes. yes, that's true. i have nothing to hide. i'll make a deal with the devil if it'll help me carry out my program. but believe me, there are no strings attached to those deals.
+speaker5: you're sure about that?
+speaker1: doc, jack here has been telling me how you feel about things... how you'd like to see a new hospital built, a hospital that's the biggest and best that money can buy. you want those things, doc, because, well, because you're a man who wants to do good. now, i'd like to ask you a question.
+speaker5: shoot.
+speaker1: do you know what good comes out of?
+speaker5: you tell me, mr. stark.
+speaker1: out of bad... that's what good comes out of. because you can't make it out of anything else. you didn't know that, did you?
+speaker5: no, i didn't... there's another question i'd like to ask you. you say there's only bad to start with and the good must come with the bad. who's to determine what's good and what's bad?... you?
+speaker1: why not?
+speaker5: how?
+speaker1: why, that's easy. just... just make it up as you go along.
+speaker1: folks, there's a time to talk and there's a time to act. i think the time to act is right now. and with your support, i not only will win but i will do all of the things i promised. i need your help. oh, i need it badly. but i'm not going to beg for it. in the name of this state which we love... in the name of the governor in whose house we meet... i demand it.
+speaker1: well, what do you say, sir?
+speaker2: you've got to say yes. with you in the race...
+speaker4: i'm an old bird... i...
+speaker1: but a game one.
+speaker1: look, i'll give you complete power as attorney general. you can do anything you see fit. i'll swing the ax to clear the way for you. is that a deal?
+speaker4: it's a deal.
+speaker1: jack, we have to get back to town... a lot to do. dr. stanton.
+speaker6: i'm very glad to have met you.
+
+speaker1: we want willie! we want willie! 
+speaker2: this is not a time for speechmaking. i should get on my knees and ask to give me strength to carry out your will.
+speaker2: this much i swear to you. these things you shall have. i'm going to build a hospital. the biggest that money can buy... and it will belong to you. that any man, woman, or child who is sick or in pain can go through those doors and know that everything will be done for them that man can do. to heal sickness. to ease pain. free. not as a charity, but as a right. and it is your right that every child shall have a complete education. that any man who produces anything can take it to market without paying toll. and no poor man's land or farm can be taxed or taken away from him. and it is the right of the people that they will not be deprived of hope...
+speaker3: does he mean it, jack? does he?
+speaker4: that's his bribe.
+
+speaker1: what if it was his bribe! he swept the old gang out of office. what if they hollered like stuck pigs? he jammed through bill after bill and the people got what they wanted. 
+speaker2: i demand that this bill be passed. nobody's going to tell me how to run this state. road excavation -- a bulldozer clears away dirt.
+speaker1: clown, show-off, playboy, they yelled at him. building football stadiums. fiercely proud of his son who played in them. shot of tom in football uniform running across the field with the ball. willie, in the stands, hugs lucy.
+speaker2: oh, look at him go. he's going to be all-american.
+speaker1: they said he was building up a private army. but he was building, always building... sign at building excavation reads here on this site will be
+
+speaker1: you low-down, no-good redneck... 
+speaker2: what goes on here?
+speaker3: that's what sadie wants to know. the boss poses for too many pictures.
+speaker1: i'll kill him.
+speaker2: why, sadie, i'm surprised at you.
+speaker1: i'll kill him.
+speaker1: i hate all women.
+speaker1: was she pretty? jack shoves the paper at her. she ignores it.
+speaker1: was she pretty?
+speaker2: if i met her on the street i'd never recognize her.
+speaker1: was she pretty?
+speaker2: how should i know? i wasn't looking at her face... look, if it's going to cause all this grief, why don't you let him go?
+speaker1: let him go? i'll kill him. i'll drive him out of this state.
+speaker2: just because a guy's sitting with a couple of girls on his knees in public...
+speaker1: public or private... i know him. how about what happened in chicago? that girl on skates... and the time you both went to st. louis... there's a new invention, you know, photography and newsreels. willie stark in a nightclub... willie stark with a blonde.
+speaker2: you could always bleach your hair.
+speaker1: i could also break every bone in his neck. after all i've done for him... now he goes two-timing me.
+speaker2: he's been two-timing lucy. so there's another kind of arithmetic for what he's doing to you.
+speaker1: lucy? if she had her way he'd be back in kanoma city slopping the hogs right now. and he knows it. he knows what she'd do for him. she had her chance.
+speaker2: you seem to think lucy's on her way out, don't you?
+speaker1: he'll ditch her... give him time.
+speaker2: you ought to know.
+speaker2: hey, you got the wrong guy. i'm not the hero of this piece.
+speaker4: all right, come on, both of you. let's go, hurry it up.
+speaker4: come on. pillsbury put his hand in the pork barrel and got caught. you know, i never did trust that guy.
+speaker5: have you heard about pillsbury? what do you intend to do about pillsbury? how about it, governor?
+speaker4: later, boys, later.
+speaker6: i waited for you. hello. you promised we could... uh... discuss my charity project... children's home?
+speaker4: well, i'm very sorry. something very important came up. you'll call me later, won't you?
+speaker6: yes, certainly.
+speaker1: we're late.
+speaker4: look at you, pillsbury. fifty years old, gut-sprung, teeth gone, never had a dime. if the almighty had intended for you to be rich he'd have taken care of that a long time ago. the idea of you being rich... that's plain blasphemy. ain't that a fact?
+speaker4: answer me!
+speaker7: yes.
+speaker4: louder, man. don't mumble. speak up. say it's a fact, a blasphemous fact.
+speaker7: it's a fact, a blasphemous fact.
+speaker1: yeah?... oh, i see. dumond can't come. he says his wife is sick.
+speaker4: i don't care if she's dying. sugar, get the car. get him and bring him over here.
+speaker4: now, you know what you're supposed to do, don't you, pillsbury? you're supposed to stay poor and take orders. oh, there'll be some sweetening for you from time to time... but duffy'll take care of that. don't you go setting yourself up on your own again, do you understand that?
+speaker7: yes.
+speaker4: louder, man. and say, i understand that.
+speaker7: i understand that.
+speaker4: give him a pen and some paper, sadie.
+speaker4: see who that is, duffy.
+speaker4: oh, hello, judge. sit down. i'll be with you in just a couple of seconds. now write what i tell you to write... dear governor stark. i wish to resign as auditor due to ill health, to take effect as soon as you can relieve me. respectfully yours. did you sign it?
+speaker7: no.
+speaker4: well, sign it! don't put any date on it. i can fill that in when i need it.
+speaker4: now bring it to me.
+speaker4: now get out.
+speaker8: the papers have the story.
+speaker4: yeah, i know.
+speaker8: they're talking about impeachment proceedings.
+speaker4: against who?
+speaker8: this time, pillsbury.
+speaker4: i got that "this time," judge.
+speaker8: how true is it?
+speaker4: it's too true.
+speaker1: yes? this is it, willie. jeff hopkins on the wire. willie takes the phone, but puts his hand over the mouthpiece so that he can speak to jack.
+speaker4: what have we got on hopkins, jack? hello, jeff. about that pillsbury business... here's what i want you to do when it comes up in the legislature. now, wait a minute, wait a minute. you listen to me. you got a mortgage coming due on that place of yours in about five weeks, haven't you? you'd like to get it renewed, wouldn't you? all right, tiny'll talk to you in the morning.
+speaker4: get going, tiny.
+speaker8: you haven't answered my question. why are you saving pillsbury's hide?
+speaker4: i'm not a bit interested in pillsbury's hide. it's something much more important than that. if the mcmurphy boys get the notion they can get away with this, there's no telling where they'll stop.
+speaker8: or where you will... pillsbury is guilty. as attorney general of this state, it's my job to prosecute.
+speaker4: judge, you talk like pillsbury was... was human. he isn't. he's a thing. you don't prosecute an adding machine if the spring goes busted and makes a mistake. you fix it. well, i fixed him. i'm not a bit interested in pillsbury. it's something much bigger than that.
+speaker8: yes, it is.
+speaker2: he's right, judge. can't you see that he's right?
+speaker8: he's right because you want him to be right. because you're afraid to admit you've made a mistake. do it now before it's too late. i'm offering my resignation as attorney general. you'll have it in writing by messenger in the morning... dated.
+speaker4: it took you a long time to make up your mind, judge. a long time. what made you take such a long time?
+speaker8: i wasn't sure.
+speaker4: and now you are?
+speaker4: i'll tell you what you are. you're scared. you sat in that big easy chair of yours for thirty years and played at being a judge. then all of a sudden i came along and put a bat in your hand, and i said, go ahead, judge, start swinging. and you did. and you had a wonderful time. but now you're scared. you don't want to get your hands dirty. you want to pick up the marbles... but you don't want to get your hands dirty. look at my whole program, judge. how do you think i put that across?
+speaker8: i knew how, but i never knew why.
+speaker4: you're not by any chance thinking of going over to mcmurphy's boys, are you?
+speaker8: i'm through with politics.
+speaker4: i'm happy to hear that. no hard feelings.
+speaker8: goodbye, governor. are you coming with me, jack?
+speaker8: you're making a mistake.
+speaker4: do you think he means it when he says he's through with politics, sadie?
+speaker1: no. no, i don't.
+speaker4: what about you, jack?
+speaker2: i've known the judge all my life. he's always meant everything he's said.
+speaker4: all right. all right. take it easy. i'll take your word for it.
+speaker4: sugar, take miss stanton home. when am i going to see you again?
+speaker4: what's the matter, anne?
+speaker6: please take me home now, sugar boy.
+speaker4: you've got to understand me.
+speaker6: i understand you. it's myself i don't understand.
+speaker4: do you think i like sneaking around corners any more than you do? but right now, with the pillsbury business and with your uncle quitting... if i got a divorce...
+speaker6: maybe we'd better stop seeing each other.
+speaker4: no. no, we won't stop seeing each other, will we?
+speaker6: no.
+speaker4: because you believe in what i tell you.
+speaker6: because i believe what you tell me.
+speaker1: good evening, governor stark. i thought you might like to know that judge stanton kept his promise. he gave the story to every paper in town.
+speaker4: sugar, meet me at the hotel as soon as you can.
+
+speaker1: interior: state legislature assembly room, day 
+speaker2: these are serious charges that judge stanton has given to the press. this legislature is entitled to a complete and full report on the pillsbury affair. let the truth be known.
+speaker3: let it come out.
+speaker4: i move that we adjourn.
+speaker5: i second the motion.
+speaker6: all those in favor, say aye... motion carried. the house is adjourned.
+
+speaker1: if you let willie stark get away with the pillsbury graft, there's no telling... 
+speaker2: but we beat the pillsbury rap... it's over.
+speaker3: these things are never over. i'll tell you what i want you to do, jack. i want you to start a new page in that black book of yours... under then name of judge stanton.
+speaker2: you're crazy. there's nothing on the judge.
+speaker4: why? because his name is stanton?
+speaker3: ssshhh, easy.
+speaker2: what if i won't do it?
+speaker3: you know, some of this has rubbed off on you.
+speaker2: what are you going to do? have me shot?
+speaker3: no... no... but i'll have to get myself a new boy.
+speaker2: i tell you there's nothing on the judge.
+speaker3: jack, there's something on everybody. man is conceived in sin and born in corruption.
+speaker2: it's a waste of time.
+speaker3: what's the matter, jack? are you afraid you might find something out?
+speaker2: i kept saying to myself that willie was wrong about the judge. if there was anything left at burden's landing, it was honor. i had to believe that.
+speaker2: anne, i want to ask you a question. was the judge ever broke? really broke?
+speaker5: why do you want to know?
+speaker2: i don't want to know, but i've got to.
+speaker5: did he tell you --
+speaker2: did who tell me?
+speaker5: i don't know. i... how should i know if the judge was ever broke?
+speaker6: hello... come on, anne, take this food and start cooking. i'm hungry.
+speaker2: me, i'm on the thirsty side. bring some glasses, anne, quick.
+speaker6: it's been a long time since i played this thing. what do you say we wake up the ghosts, huh?
+speaker2: another glass, anne, for a ghost.
+speaker2: shall we dance?
+speaker5: let's... let's have a drink first.
+speaker2: no, no... keep playing. anne and i want to hear this, don't we, anne? adam... ghost... and me.
+speaker6: what shall we drink to?
+speaker2: to the ghost?... to adam, to the director of the new medical center.
+speaker6: don't you ever stop working for him?
+speaker5: adam!
+speaker6: i came up here to get away...
+speaker2: i'm sorry, adam.
+speaker5: well, i'm not. what's wrong with being the director of the new medical center?
+speaker6: nothing, except that i'm not going to take it.
+speaker2: why? because your uncle resigned?
+speaker6: that's partly it. there are other things.
+speaker5: what other things?
+speaker6: you too?
+speaker5: yes, me too.
+speaker2: anne, if adam doesn't want to discuss it, let's not.
+speaker6: all right, let's discuss it.
+speaker5: but calmly.
+speaker6: calmly. go ahead, jack. why do you think he wants me?
+speaker2: because you're the best man for the job.
+speaker6: it could have nothing to do with my name being stanton?
+speaker2: it could have. let's grant that.
+speaker6: that's your answer.
+speaker2: no, it's not. if that were the only answer i wouldn't be with him any more. there's another side of it. i've learned something from him. you can't make an omelet without cracking eggs.
+speaker6: or heads.
+speaker5: but at least a hospital will be built, and the sick will be cared for.
+speaker6: at what price?
+speaker2: at any price.
+speaker6: do you really believe that, jack?
+speaker2: i really believe that stark wants to do good. you do too. it's a matter of method. many times out of evil comes good. well, pain is an evil. as a doctor you should know that.
+speaker6: pain is an evil; it is not evil. it is not evil in itself. stark is evil.
+speaker2: the people of the state don't think so.
+speaker6: how would they know? the first thing he did was to take over the newspapers and the radio stations. why be so afraid of criticism? if stark is interested in doing good, he should also be interested in the truth. i don't see how you can separate the two. no, stark is not for me.
+speaker5: no, stark is not for you. well, what is for you? pride. pride, that's all it is... foolish, stupid pride. all you've ever talked about is what you could do if... if somebody would tear down and build. all right, all right, somebody has, and he's given it to you. but he's not for you. no, he's not for you. she throws down her glass and runs crying from the room. adam goes after her.
+speaker6: anne... anne...
+
+speaker1: will i find anything, judge? will i? i didn't find it all at once. it takes a long time to go through old courthouse records and musty deeds... a very long time. but it wasn't too hard for me. i was well trained in research, especially this kind. 
+speaker1: i found what i didn't want to find.
+speaker1: have some photostat copies made of these. i'll be back tomorrow for them.
+speaker1: who is it?
+speaker2: it's me, sadie burke.
+speaker1: wait a minute.
+speaker1: all right, come in.
+speaker3: phew! awful lot of smoke. awful lot of whisky. you sober?
+speaker1: stone.
+speaker3: i'll have one with you. what are you hiding out for?
+speaker1: i'm not. i've been sleeping.
+speaker3: for four days? you've been back in town for four days.
+speaker1: willie knows everything.
+speaker3: willie's worried about his boy.
+speaker1: willie's boy is worried about willie's boy.
+speaker3: well, why don't you put something on the phonograph -- a low-down, mean blues. play it over and over again until you're sick of it. then crack it and go back to work. i do it all the time.
+speaker1: that's not my problem.
+speaker3: no, it isn't your problem. i'll wait for you if you want to powder your nose.
+speaker1: i'll be with you in a minute.
+speaker3: hmmm. yeah, i can see it. i've got to look in the mirror to be able to see it. soft, white skin... not like mine. i had smallpox when i was a kid. where i lived it seemed nearly all the kids had smallpox...
+speaker3: it leaves your face hard. then she's got poise. look at the way she holds her head... at just the right angle. that takes training. that takes years of training...
+speaker3: i see what willie sees. willie's got big ideas, jack.
+speaker1: what do you mean?
+speaker3: a girl like that could be a governor's wife. or even a president's.
+speaker1: what are you talking about?
+speaker3: he ditched lucy, he ditched me, and he'll ditch you.
+speaker1: answer me!
+speaker3: he'll ditch everybody in the whole world because that's what willie wants. nobody in the world but him.
+speaker1: what are you talking about?
+speaker3: you and your high-tone friends. what do they know? what do they know about anything? why did you have to mix her in?
+speaker1: you're crazy, sadie. you're out of your mind.
+speaker3: am i? well, why don't you go down and ask her. or ask him. ask willie.
+speaker1: shut up!
+speaker3: go ahead, ask him.
+speaker1: shut up!
+speaker3: ask him!
+speaker3: ow-oo... oh... oh.
+speaker1: he's off today.
+speaker4: it's only practice. he'll be all right tomorrow... you been gone a long time, jack.
+speaker1: yeah. i figured if you needed me you'd yell.
+speaker4: why'd you lay around the hotel?
+speaker1: thinking.
+speaker4: about what?
+speaker1: things.
+speaker4: what did you find on the judge?
+speaker1: nothing.
+speaker4: you sure you didn't find anything on the judge?
+speaker1: yeah, i'm sure.
+speaker4: you're going to keep trying, aren't you?
+speaker1: if you want me to.
+speaker4: i want you to. there's something else i want you to do too.
+speaker1: what? bucket boy? towel slinger? what?
+speaker4: what's eating you, jack?
+speaker1: what else do you want me to do?
+speaker4: if you've got something on your mind, boy, spit it out. we've been together too long to play games.
+speaker1: what do you want me to do?
+speaker4: i hear your pal adam stanton turned down the job as director of the hospital. that's bad. especially at a time like this.
+speaker1: oh? how did you hear it?
+speaker4: why? what difference does it make?
+speaker1: i just wanted to know.
+speaker4: i heard it around.
+speaker4: i'll be right back, jack. i want to see what's happening here.
+speaker5: you going to practice the way i tell you.
+speaker6: i'm going to do it the way i want to do it.
+speaker4: tom, come here. what's going on here?
+speaker5: i don't care if he is your son, governor... no special rules for him.
+speaker6: it doesn't make any difference to me either way... whether i play or not.
+speaker4: well, it does to me. what do you want him to do?
+speaker5: to behave himself. like the rest of the boys. four times this season he's broken training. he comes on the practice field half potted.
+speaker4: tom, you're going to have to obey the rules. do you hear me? you're going to obey the rules.
+speaker6: i put 'em across, don't i? every saturday i put 'em across and i can still do it, drunk or sober. that's all you want, isn't it... for me to put 'em across so you can big-shot it around? isn't that all you want?
+speaker4: tom! he's a little high-strung. tom, come here. tom!
+speaker7: it's the governor's son.
+
+speaker1: willie, mr. hale's here to see you. 
+speaker2: go on upstairs, lucy. i have some business i want to talk over with mr. hale.
+speaker3: what i've got to say anybody can listen to... where's your boy?
+speaker2: now... now, don't get excited. get me another drink, sugar.
+speaker3: my daughter may die.
+speaker2: she's not going to die. she'll get the best medical attention there is. no expense will be spared.
+speaker3: where's your boy?
+speaker1: i'll get him.
+speaker2: wait a minute, lucy. he's asleep. and the doctor said after a good night's sleep he'll be all right.
+speaker1: no, he won't be all right unless you make him all right. i'll get him.
+speaker2: lucy! you care for a drink?
+speaker3: no thanks.
+speaker2: accidents will happen, you know.
+speaker3: accidents? your boy was drunk.
+speaker2: i saw the police report. there... there was nothing about drunkenness on the police report.
+speaker3: whose police and whose report? i say the boy was drunk. and i know it.
+speaker3: right here before your father... i want you --
+speaker4: mr. hale --
+speaker2: tom, the doctor says you need rest, boy.
+speaker4: i don't want you to try to cover up for me. i was wrong... that's all there is to it.
+speaker2: you don't know what you're talking about. i saw the police report --
+speaker4: i don't care what the police report says. i was driving and i was drunk. it's all my fault. anything you want to do to me, you can do. whatever you want me to do, i'll do.
+speaker2: nobody has to do anything. stop worrying. i'll take care of everything.
+speaker4: i don't want you to take care of anything.
+speaker2: tom, go on upstairs and get some rest, boy. go on... go on... go on.
+speaker2: sugar, help him... mr. hale, come on over and sit down. you sure you wouldn't care for a drink, mr. hale?
+speaker2: hey, tiny, go home. go on, out of here... out of here. go on.
+speaker2: what business did you say you were in?
+speaker3: i didn't say.
+speaker2: what business are you in?
+speaker3: trucking business.
+speaker2: trucking business. trucks run on state roads. if a man in the trucking business had a contract with the state, a big one, that would be pretty good, wouldn't it? go on, jack. tell him what would happen.
+speaker2: go on, tell him.
+speaker3: you're trying to bribe me, aren't you?
+speaker2: no, no. no, i'm not trying to bribe you. i'm... i'm only talking things over with you, that's all.
+speaker3: you're pretty good at talking. i remember when you first started talking. a place called upton. you did a lot of talking then and the things you said made sense, to me and a lot of other people. i believed in you... i followed you... and i fought for you. well, the words are still good. but you're not. and i don't believe you ever were.
+speaker2: lucy!... lucy!
+speaker5: i'd like anne to see you now. i'd like anne to see you now, you drunken sot! come on.
+
+speaker1: what about the girl's father, governor? have you a statement to make? 
+speaker2: all right, all right, gentlemen. i'll give you a statement. this whole thing is a mess of lies. it's a frame. the man that made that statement... have him repeat it to my face. he can't. he vanished. let me ask you some questions. where has he gone? where is he?
+speaker3: maybe you could answer those questions too, governor.
+speaker2: i won't dignify that question with an answer.
+speaker4: one more question, governor... where's your son?
+speaker2: at the football stadium, where he's supposed to be. he's going to play for state university, which this administration is responsible for. he's not hiding from anybody, gentlemen. he'll be out there in full view of seventy thousand cheering fans. one of which will be me. see you, men.
+speaker5: where's stark? how about tommy stark? hey, willie, send your boy in. exterior: willie's box
+speaker2: why don't they put him in!
+speaker6: come on, willie... send your boy in.
+speaker7: what's the matter, willie... is your little boy ashamed to show his face?
+speaker8: shut up!
+speaker2: get that man out of here! come on, get him out of here.
+speaker2: they're booing you.
+speaker9: ever since the accident, my head...
+speaker2: the doctor said it was nothing.
+speaker9: get dizzy... can't see... dizzy...
+speaker2: you're scared... plain scared.
+speaker9: get out of here!
+speaker2: atta boy... get mad. show some spirit. jack, tell him what his playing means. go on, tell him.
+speaker10: you can never tell about a head injury. maybe the boy's hurt.
+speaker2: he's hurt? i'm hurt. it wasn't me that wrapped that car around the tree. it wasn't me that got drunk. but me, i'm takin' the rap. go on, kid. get out there and play. show 'em the kind of stuff a stark is made of.
+speaker9: i wouldn't know.
+speaker10: tom... cut it out!
+speaker11: stark's going in!
+speaker12: tommy... tommy... tommy!
+speaker13: b-b-boss, you gotta eat. you g-g- gotta.
+speaker2: i'm the one that made him play. i sent him in.
+speaker12: sit down, willie. please sit down.
+speaker2: i sent him in.
+speaker12: what difference does that make now?
+speaker2: what goes on?
+speaker10: there isn't a plane flying.
+speaker2: they gotta fly. this is my son. he's got to live.
+speaker14: i just got a call from dr. birnham. the earliest he can possibly get here will be tomorrow morning.
+speaker2: isn't there anybody else we can get?
+speaker10: i still think dr. stanton should operate.
+speaker14: that's up to governor stark. he wanted another doctor... a specialist. i sent for one.
+speaker2: how bad is it really, doctor?
+speaker14: he's unconscious... and paralyzed.
+speaker2: has he got a chance?
+speaker14: to live? yes.
+speaker2: what do you mean?
+speaker14: even if the operation's successful -- that is, if he lives -- i think he'll be paralyzed for life.
+speaker2: you'll do everything you can, won't you? anything between you and me.. that won't count, will it? it doesn't have to. look, doc, anything you want in the world you just ask for it and you got it. go on, doc... ask for it.
+speaker14: there are some things, governor stark, that even you can't buy. do you want me to operate, or don't you?
+speaker12: yes... i want you to operate. please, may i see tom now?
+speaker14: yes.
+speaker2: how much does the doc know?
+speaker10: about what?
+speaker2: oh, you know what i'm talking about.
+speaker10: about what?
+speaker2: about anne and me.
+speaker10: he doesn't know a thing... not a thing.
+speaker15: jack, how is he?
+speaker10: the boy?
+speaker15: yes.
+speaker10: he'll live.
+speaker15: oh, thank how is --
+speaker10: willie?
+speaker15: he blames himself, doesn't he?
+speaker10: he'll find someone else to blame in a few days.
+speaker15: oh, i tried to call here at the hospital, but i just...
+speaker10: anne... anne, why did you do it?
+speaker15: he wasn't like anybody i ever knew before.
+speaker10: you mean he wasn't like me.
+speaker15: he wasn't like anybody i ever knew before. i love him, i guess. i guess that's the reason.
+speaker10: everybody loves him.
+speaker15: he wants to marry me.
+speaker10: are you going to?
+speaker15: not now. it would hurt him. a divorce would hurt his career.
+speaker10: his career!
+speaker15: jack... jack, what are you going to do? you can't leave him now. he needs you now more than he ever did before.
+speaker10: what willie needs, willie's got.
+speaker15: you don't know him. you've known him all these years and you don't really know him at all.
+speaker10: what about adam?
+speaker15: adam?
+speaker10: well, you don't have to worry about him. if adam finds out it'll be easy to prove a stanton is no different than anybody else. just show him these. willie was right... a man is conceived in sin and born in corruption. even judge stanton. show them to him, anne. change the picture of the world that adam has in his head, just like our picture of it has been changed.
+speaker10: wipe out everything he's ever believed in. it'll be good for him. there's no but willie stark. i'm his prophet and you're his... oh, anne... anne, i'm sorry. i didn't mean... anne!
+speaker16: what's going on here?
+speaker10: it's all right, officer... we both work for willie stark.
+
+speaker1: right over there, that's going to be the main building... fifteen stories high, like on the model. over there, that's the laboratory. finest technical equipment in the world. 
+speaker2: what are you trying to convince me of? i've taken the job.
+speaker1: why?
+speaker2: my reasons are my own. why are you building a hospital?
+speaker1: to do some good for the people of the state.
+speaker2: and get some votes.
+speaker1: oh, there are lots of ways to get votes.
+speaker2: yes, i know... i won't stand for any interference.
+speaker1: i won't interfere. i may fire you, but i won't interfere.
+speaker2: if that's a threat, you're wasting your time. you know what i think of your administration.
+speaker1: yes, i know. i'll tell you what... you stay on your side of the fence; i'll stay on mine. is that a deal?
+speaker3: now he had us all... me, anne, and adam. now we all worked for him.
+
+speaker1: this is the way the roads used to be. but there are those who claim that they were adequate for the people's needs, that you don't need a four- or six-lane highway for a horse and buggy. shot of horse pulling a plow. 
+speaker1: when stark boasts of his great school system, his critics say: you can't go to school and work in the fields at the same time. and they question the benefit of these projects, charging that the need and the poverty of the people is as great as before.
+speaker1: willie stark has never forgotten the source of his power: the people who supported him.
+speaker1: he still keeps in touch with these people of the backwoods, making periodic trips to such places as kanoma city, now famous as his birthplace...
+speaker1: for those who say that willie stark is a man of destiny, there are others who claim that he is a man of evil, a man who cares neither for the people nor the state, but only for his own personal power and ambition.
+speaker1: obviously, these ambitions go far beyond the boundaries of the state. just how far, only time will tell. meanwhile, he is here...
+speaker1: ...and from the looks of things, he is here to stay. willie stark: messiah or dictator?
+speaker2: how do you like it, governor?
+speaker3: how many theaters will this play in?
+speaker2: all over the country.
+speaker3: hear that, jack. all over the country.
+speaker3: oh, there's one thing in there i didn't like too well. that messiah or dictator.
+speaker2: that's our point of view, governor. and that's the way it stands.
+speaker3: all right, all right, that's the way it stands... as of now.
+
+speaker1: hello, lucy... how are you making it, pa?... how are you, tom? 
+speaker2: i made some refreshments for your friends. i'll get them.
+speaker3: i'll help.
+speaker2: no, thank you. thank you kindly.
+speaker4: if you don't mind, mrs. stark... the boys have to get back to make the morning editions. set 'em up on the porch, fellows. we'll take some pictures out here, first.
+speaker4: mrs. stark, please... all right, fellows, take one down there, will you please... shoot it up this way.
+speaker1: you're still a great cook, lucy. great cook. well, i guess i better be getting back to town. nice to have spent the day with the family. goodbye, lucy. tom.
+speaker5: goodbye.
+speaker1: take care of yourself, pappy. oh, uh... how do you like the new radio i got you? you know how it works? you can get police calls on it. come here, come here... i'll show you.
+speaker1: this one for police calls up here.
+speaker6: car sixty-two, proceed to five- eighteen oak street. tom jones beating his wife again.
+speaker1: all right, go ahead, go ahead.
+speaker7: we interrupt this program to bring you a special announcement. this afternoon, the body of richard hale, father of the girl who died in the automobile accident involving the governor's son, was found. a medical examination revealed he was beaten to death.
+speaker7: the ugly charge of "official murder" has been hurled at the administration by a coalition of stark's opponents, led by judge stanton, lately an outspoken critic of the administration.
+speaker1: your friend, the judge.
+speaker7: thus an almost forgotten incident provided the spark that might set off the explosion needed to rock willie stark out of power. the latest report is that impeachment proceedings may be instituted...
+speaker1: how long will it take you to pack? i want you to go back to capital city with me tonight.
+speaker2: why?
+speaker1: because i need you.
+speaker5: what for?
+speaker1: i'll explain all of that later. now, lucy, do like i say.
+speaker4: i'll wait outside.
+speaker1: you stay right here, jack. i want you bear witness to what i've got to say.
+speaker2: she can be a witness too.
+speaker3: i'm going back to the capital and get hold of duffy.
+speaker1: you stay right here, sadie.
+speaker3: somebody's got to go back to the capital. i'll go in the other car.
+speaker1: all right, then tell duffy not to do anything or say anything until i get there.
+speaker3: yes, governor.
+speaker5: now he needs us. now that he's in trouble he needs us, so he can lead us around like monkeys with rings in our noses. so he can say to people, look at me, feel sorry for me... just a family man with a wife and a crippled son...
+speaker1: shut up!
+speaker2: willie!
+speaker5: why don't you leave us alone?
+speaker1: leave him alone. how many scrapes have i gotten him out of? how many girls?
+speaker2: willie, stop.
+speaker1: it's not him they're after. it's me. how many halfwitted apes do you think i'm going to have to pay to square this one? what do you think this is going to cost me?
+speaker2: what do you think it cost him?
+speaker1: a man builds for his son. that's all he builds for.
+speaker2: willie! tom... tom.
+speaker1: give me a drink, jack.
+speaker1: she'll go.
+speaker8: no good, willie. no good.
+speaker9: mr. speaker, i offer a house resolution. whereas willie stark, governor of this state, has been guilty of incompetence, corruption, and favoritism in office -- yes, and other high crimes -- that he is hereby impeached, and ordered to be tried by the senate.
+speaker1: what's the score?
+speaker10: they're lined up against you solid. they had a meeting.
+speaker1: how do you know? were you there?
+speaker10: me? what would i be doing there?
+speaker1: selling me out.
+speaker1: how many votes have we got?
+speaker3: eleven.
+speaker1: we need twenty.
+speaker10: we might be able to dig up a few more.
+speaker1: yeah. do you know how?
+speaker10: no.
+speaker1: oh, jack. come here. what have you got in your black book about that old friend of yours?
+speaker4: who do you mean?
+speaker1: you know who i'm talking about... your old friend, the judge.
+speaker4: if and when you need it.
+speaker1: if and when? i need it right now. he's got four senators wrapped up in his hip pocket. come on, come on, boy... what have you got?
+speaker4: i'm going to give him a break. if he can prove it isn't true, i won't spill it.
+speaker1: i ought to bust you, jack.
+speaker4: i promised two people i'd do it this way.
+speaker1: who are they?
+speaker4: myself... and someone else. it doesn't matter who. i'm going to give him a break.
+speaker1: all right, give him a break. but if you got the facts, you got the facts. the truth is sufficient... just like it says in the bible.
+speaker4: that's the way it's going to be.
+speaker1: all right, boy... i'll trust you. where are you going?
+speaker4: i'll be around.
+speaker3: who else do you think he promised, willie?
+speaker3: you'd be smart... play square with him. you're going to need people like us around.
+speaker1: are you sure?
+
+speaker1: willie's car speeding down a road. 
+speaker2: the chips were down, and willie knew it. he was fighting for his life. he roared across the state making one speech after another. and all of them added up to the same thing... "it's not me they're after, it's you!" close-ups of willie, speaking to the people.
+speaker2: willie hollered foul. willie knew if you hollered long enough, hard enough, and loud enough, people begin to believe you. just in case they didn't, he organized spontaneous demonstrations. sign on back of a car: fight with willie crowds carrying signs: win with willie willie talking on the telephone. sadie listens.
+speaker3: tell the boys to get the hicks out. bring 'em in from the sticks, empty the pool halls. turn 'em out. turn the yokels out.
+speaker2: hey, sugar! you'll never live to be impeached!
+speaker3: boy, i'll live to be president...
+speaker3: i've got fourteen senators to vote against impeachment. if i win, you're out of politics.
+speaker4: i'll do whatever the judge says.
+speaker2: and always the trail led to one place... burden's landing... and the judge. exterior: ferry to burden's landing, night willie's car coming across on the ferry.
+speaker3: you sure you don't want me to go in with you?
+speaker2: i'm sure.
+speaker3: well, hurry it up, boy. we've got places to go.
+speaker2: judge, i beg you, as a favor to yourself, to me... call up, release your votes.
+speaker5: i made a mistake once, jack... when i resigned. it was too easy then, just resigning, pulling out. no, jack, i've made my choice. i have nothing more to lose.
+speaker2: judge, you know what stark is capable of. think it over. i'll leave now. i'll come back tomorrow and we'll talk about it again. you can give me your answer then.
+speaker3: i can't wait until tomorrow. i'm a very impatient man.
+speaker2: i told you not to come in here.
+speaker3: is it true, judge, that you're behind the impeachment proceedings?
+speaker5: yes, it's true.
+speaker3: i wanted to hear you say it with your own silver tongue.
+speaker5: well, you've heard it. if that's all you came to hear you could have saved yourself a trip.
+speaker3: mind if i pour myself a drink? how about you, judge, will you have one? you better... you're going to need it.
+speaker3: what'd he say, jack?
+speaker2: you'll get your answer tomorrow.
+speaker3: are you kidding? did you show it to him, or didn't you?
+speaker5: show me what?
+speaker3: that's what i figured. let's get down to cases, judge. do you remember a man with the name of littlepaugh?
+speaker3: remember the fortune electric company?
+speaker5: of course. i was their counsel for over ten years.
+speaker3: remember how you got the job?
+speaker2: how did you find out?
+speaker3: do you remember how you got the job?
+speaker3: you know, judge, dirt's a funny thing. some of it rubs off on everybody. how did you get the job, judge? blackmail?
+speaker5: i swear i never even remembered his name. isn't that remarkable, jack? i never even remembered his name. it's all so long ago it's hard for me to realize it ever happened.
+speaker3: yeah. but it did.
+speaker5: yes, it did. but it's difficult for me to realize it.
+speaker2: for me too, judge.
+speaker5: thanks for that much.
+speaker3: well, i guess you know what the next move is, don't you?
+speaker5: yes, i do. jack burden. willie stark's hatchet man.
+speaker2: i asked you... how did you find out?
+speaker5: this would never stand at law, not for a minute. it happened over twenty- five years ago, and you could never get any testimony. everybody is dead.
+speaker3: everybody except you, judge. you're alive. and people think you're a certain kind of man. and you just couldn't bear for people to think otherwise.
+speaker5: ever since then i... i've done my duty. i... i'm responsible for many good things. but i also did this.
+speaker3: yes, yes, you did.
+speaker2: judge, i beg of you, call and release your votes, for your sake.
+speaker5: you have tender sensibilities for a hatchet man. good night, gentlemen.
+speaker3: how about my answer?
+speaker5: you'll have it in the morning.
+speaker3: i want it tonight.
+speaker5: in the morning. good night, gentlemen.
+speaker2: how did you find out?
+speaker3: we've got a lot to do. it's getting late, jack. let's get back to town.
+speaker2: you know we're through, don't you?
+speaker3: aw, you don't mean that, boy.
+speaker6: what are you doing here?
+speaker3: it's all right, doc. just here to discuss some politics with the judge.
+speaker6: oh, i see. well, good night.
+speaker3: good night.
+speaker2: did you give him --
+speaker3: wait a minute, jack --
+speaker2: answer me. did you give --
+speaker6: aren't you going back with him?
+speaker2: no.
+speaker6: why not? you belong with him. jack, how could you have done it? when anne brought me those papers she told me you promised not to tell stark until...
+speaker2: yeah. i know. well, i kept my promise.
+speaker6: anne? anne?
+
+speaker1: from all over the state they're streaming in. from the hill country and farms, the lumber camps... by boat, by train, by horse, and on foot. willie stark's army. 
+speaker1: the state capital is filled with rumors, one of which is that stark is planning to seize power by force. as commander of the state militia, he has --
+speaker2: come in. the door's open.
+speaker3: jack...
+speaker2: what do you want?
+speaker2: no, i want to see you cry.
+speaker2: stop it!
+speaker3: i called you. all afternoon i've been calling you.
+speaker2: i know. i was here.
+speaker3: you've got to tell adam. you've got to see him.
+speaker2: tell him what?
+speaker3: he knows about me and...
+speaker2: about you and willie?
+speaker3: i tried to explain to him. i... i tried to explain to him that it wasn't the way he thought it was.
+speaker2: how was it, anne? you tell me.
+speaker3: he hit me, jack. my own brother... he hit me.
+speaker2: your brother is an old-fashioned man. he believes in his sister's honor. me, i'm a modern man. the twentieth-century type. i run.
+speaker3: i'm frightened, jack.
+speaker2: for who? your brother, or willie?
+speaker3: we're through.
+speaker2: who's through with who?
+speaker3: he called me this afternoon. he's going back to lucy. he said it was better that way.
+speaker2: better for who? him.
+speaker3: both of us.
+speaker2: did he tell you that too when he asked you to betray the judge? at least i walked out on him.
+speaker3: oh jack... help me, please, please. adam's all i've got left now. oh, jack, if you ever loved me...
+speaker2: if i ever loved you. i'll go find adam.
+
+speaker1: where do you think you're going? oh, i'm sorry. i didn't recognize you. 
+speaker2: do you know who dr. stanton is?
+speaker1: yes sir.
+speaker2: did he try to come through here today?
+speaker1: haven't seen him, sir.
+speaker2: well, can you check the other entrances?
+speaker3: there's no other entrances today. the other entrances are blocked off. orders are to take no chances.
+speaker1: if you care to come inside and wait, mr. burden, we can find you a seat.
+speaker2: no, thanks. i'll wait out here. if dr. stanton shows up, let me know. pass the word along to the boys, will you?
+speaker1: yes sir.
+speaker4: all right now. everybody... that means everybody... let's let willie know we're here! all together: we
+
+speaker1: we will first proceed to take the judgment of the senate on the question of the impeachment of the governor. 
+speaker2: mr. speaker, this is a farce to ask us to vote in the face of the kind of intimidation and pressure that has been exerted here in the past few weeks. even that crowd outside, yelling on cue, is part of that pressure.
+speaker3: we want willie. we want willie.
+speaker4: attention, please. attention, please. this is a special announcement from willie stark to you people out there. he doesn't want any one of you to leave...
+speaker4: he wants you to stay in front of this state capitol until the fight is over. if you want willie stark to win, stay where you are. they cheer. camera picks up jack watching the crowd's
+
+speaker1: do you hear me... stay where you are. don't go away. stay where you are. don't go away. 
+speaker1: attention, please. attention, please. the balloting on the impeachment proceedings against governor stark has just ended. this is the result: willie stark has won.
+speaker2: they tried to ruin me. but they are ruined. they tried to ruin me because they did not like what i have done. do you like what i have done?
+speaker2: remember, it's not i who have won, but you. your will is my strength, and your need is my justice, and i shall live in your right and your will. and if any man tries to stop me from fulfilling that right and that will, i'll break him. i'll break him with my bare hands. for i have the strength of many.
+speaker2: hello, jack boy, i'm glad you're here. i knew you'd come back.
+speaker2: oh, doctor, i'm very glad to see you.
+speaker3: stand back, everybody. stand back.
+speaker4: anne, anne... where are you going?
+speaker5: i don't know. leave me alone.
+speaker4: to do what?
+speaker5: i don't care.
+speaker4: no, that's too easy.
+speaker5: i don't know, i don't know, i don't know.
+speaker4: i do.
+speaker5: leave me alone, please.
+speaker4: no, no more.
+speaker5: he's dead.
+speaker4: we're alive.
+speaker5: my brother's dead.
+speaker4: we've got to go on living.
+speaker5: how?
+speaker4: so that adam's death has meaning, so that it wasn't wasted. anne, our life has to give his death meaning. don't you see that? look at those people...
+speaker4: look at them! they still believe in him. and we've got to make them see willie the way adam saw him, or there's no meaning in anything... anything.
+speaker6: mr. burden... the governor's asking for you. you better hurry. he's going fast.
+speaker4: will you wait here?
+speaker4: will you wait here?
+speaker2: it could have been the whole world, willie stark. the whole world... willie stark. why did he do it to me... willie stark? why?
+

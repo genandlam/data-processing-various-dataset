@@ -1,0 +1,1409 @@
+speaker1: what kind is it? 
+speaker2: i don't know. white.
+speaker1: and the frame?
+speaker2: dark.
+speaker1: postmark?
+speaker2: same as last time.
+speaker1: no note.
+speaker2: no.
+
+speaker1: i can't take it anymore. 
+speaker2: i know. i'm sorry, henrik.
+
+speaker1: what is this, the media event of the year? 
+speaker2: don't try to play it down, mikael, it won't work.
+speaker1: don't try to play it up, that won't either.
+
+speaker1: will you appeal? 
+speaker2: i'll appeal to you, viggo: find a real story to cover.
+speaker3: financial journalist mikael blomkvist was found guilty today on 16 counts of aggravated libel against financier hans-erik wennerstrom.
+
+speaker1: in an article published earlier this year, blomkvist claimed wennerstrom - founder and president of the wennerstrom group - used state funds intended for industrial development in poland for an arms deal with the right-wing ustashe in croatia. 
+speaker2: i have nothing against mr. blomkvist. he's a good journalist who i don't believe is guided by malice. but what he wrote was inaccurate, and inaccuracies can't go unanswered. he - all journalists - have to accept like the rest of us, actions have consequences.
+speaker3: marlboro red ... and a lighter.
+
+speaker1: where you been? 
+speaker2: walking. thinking.
+speaker1: smoking?
+speaker2: just one.
+speaker1: tv4 called. i told them no statement until we've read the judgment in its entirety.
+speaker2: i have. who else?
+speaker1: everyone who's ever wanted to see you humiliated.
+speaker2: you've been on the phone all day then.
+speaker1: i'm as much to blame for this as you.
+speaker2: you are? you wrote it?
+speaker1: i read it. i ran it.
+speaker2: not the same.
+speaker1: our credibility isn't dead, mikael.
+speaker2: mine is.
+
+speaker1: i'm tired. i feel like climbing under a duvet and sleeping for a week. 
+speaker2: alone? he thinks about it ... shakes his head `no.'
+speaker2: i already called greger and told him i wouldn't be home tonight.
+
+speaker1: it's possible we could wait forever. 
+speaker2: you called her, i thought. you spoke to her.
+speaker1: i'm afraid that doesn't mean much.
+speaker2: i don't understand.
+speaker1: no one here likes her. so it's better if she works at home.
+speaker2: but you told her i wanted to meet her.
+speaker1: but i've told her many more times i prefer her not to meet clients.
+
+speaker1: but you like her. 
+speaker2: very much. she's one of the best investigators i have. as you saw from her report -
+
+speaker1: but. 
+speaker2: i'm concerned you won't like her.
+speaker1: in what way.
+speaker2: in every way.
+
+speaker1: ms. salander's here. 
+speaker2: lisbeth, mr. dirch frode.
+speaker3: how do you do?
+
+speaker1: something wrong with the report? 
+speaker2: no. it seems quite thorough. there's a wealth of data here. but i'm also interested to know what's not in it.
+speaker1: there's nothing not in it.
+speaker2: your opinion of him isn't.
+speaker1: i'm not paid to give my opinion.
+speaker2: so you don't have one?
+speaker1: he's clean. in my opinion.
+speaker2: he's - excuse me?
+speaker1: he's honest. he's who he presents himself to be. in his business, that's an asset.
+speaker2: there's less in his asset column after his conviction today.
+speaker1: that's true. he made a fool of himself with that. if it happened that way.
+speaker1: if he made up the story, that's out of character. so is giving up without a fight. people don't do things that are out of character.
+speaker2: are you saying he was set up?
+
+speaker1: that wasn't part of my assignment. 
+speaker2: you're quite right he made a fool of himself professionally. how big of a fool did he make of himself financially?
+speaker1: the judgement will just about empty his savings.
+speaker1: may i go?
+speaker2: your report is light in another area. his personal life. anything you chose not to include?
+speaker1: nothing that warranted inclusion.
+speaker2: i'm not sure if that means yes or no.
+speaker3: i think what ms. salander means, and i agree, is that everyone has a right to a certain amount of privacy, even when they're being investigated.
+speaker2: not in this case. i have to know if there's anything about him i might find unsavory - even if she doesn't.
+speaker1: he's had a long sexual relationship with his co-editor. it wrecked his marriage, but not hers. her husband accepts it. sometimes she sleeps at blomkvist's, sometimes at home.
+
+speaker1: you were right not to include that. 
+speaker2: i know.
+speaker1: anything else?
+speaker2: no.
+speaker1: please think before you say no.
+speaker2: i did.
+speaker1: i don't want to be surprised by something later.
+speaker1: so. nothing else. in the personal department. you're sure.
+speaker2: he likes sandwiches.
+
+speaker1: usually when i wake up in a cold bed, it's at home. 
+speaker2: sorry.
+speaker1: what are you doing?
+
+speaker1: writing the press release. 
+speaker2: saying -
+speaker1: you're taking over as publisher. you're sorry for any nuisance wennerstrom was caused. i can't be reached for comment.
+speaker2: you're giving up.
+speaker1: just taking a few steps aside.
+speaker2: this makes me sick.
+
+speaker1: you needed a better attorney. you needed your sister. 
+speaker2: she offered.
+speaker3: he declined.
+speaker2: as she hoped.
+speaker3: never a good idea mixing family and business.
+speaker2: and i still would have lost.
+speaker4: did you have ... anything on him.
+speaker2: i had a lot. it just wasn't any good.
+speaker5: it wasn't even about mikael. it was wennerstrom sending a message to the press as a whole - and the fsa: don't ask questions. blomkvist's daughter seems concerned for him.
+speaker2: i'm fine, nilla. you don't have to worry about me.
+speaker6: mom's worried.
+speaker2: about me?
+speaker6: about all that money.
+
+speaker1: you're mr. palmgren's daughter? 
+speaker2: his ward. he doesn't have a daughter.
+speaker2: please.
+
+speaker1: nilla? what are you doing? 
+speaker2: nothing.
+speaker1: you're not serious.
+
+speaker1: dragon tattoo final 9/1/11 sz 
+speaker2: i don't want to talk about it since i know you won't approve.
+speaker3: of - nilla.
+speaker2: light of life.
+speaker3: light of - what? what is that?
+speaker2: you think it's all senseless but it isn't. it's more natural to believe in something than not to.
+speaker3: excuse me.
+speaker3: hello.
+speaker4: mr. blomkvist?
+speaker3: yes.
+speaker4: forgive me for intruding on your christmas. my name is dirch frode. i'm an attorney. i represent henrik vanger. perhaps you've heard of -
+speaker3: of course.
+speaker4: he'd like to speak to you about a private matter.
+
+speaker1: you know, you're calling at an awkward time. 
+speaker2: i'm sorry. i'm about to sit down to christmas dinner myself.
+speaker1: that's not what i mean.
+speaker2: you're referring to your recent legal trouble. that has provided mr.
+speaker1: excuse me?
+speaker2: he doesn't care for wennerstrom either.
+speaker1: have him call me.
+speaker2: he'd like to meet in person if that's okay. up north. hedestad.
+speaker1: no. sorry.
+speaker2: he's much too old to make a trip to stockholm, mr. blomkvist. please. if you'd be so kind as to consider.
+speaker2: hedestad is lovely in winter. like a christmas card.
+
+speaker1: first time in hedestad? 
+speaker2: and last, i'm sure.
+speaker1: it's lovely in the spring.
+speaker2: you said it was lovely in winter.
+speaker1: this is unseasonable.
+speaker2: i'll be on the 4:30 train back to stockholm.
+speaker1: unless we get snowed in ... i'm joking. you'll be home tonight, if that's what you wish.
+
+speaker1: thank you for coming way out here. anna, take mr. blomkvist's insufficient coat. would you like to freshen up? we'll be having dinner later. for now, hot tea is waiting. unless you'd like a drink instead. 
+speaker2: mr. blomkvist would like to be on the 4:30 train back to stockholm.
+speaker1: what?
+speaker3: i can't stay for dinner.
+speaker1: oh. i guess i'd better be quick then. thank you, dirch. mikael, this way.
+
+speaker1: what do you know about me? 
+speaker2: that you used to run one of the biggest industrial firms in the country.
+speaker1: used to. that's correct.
+
+speaker1: my grandfather forged the tracks the 4:30 train will take you home on - and most of the other pre-state-owned rail lines. we stitched this country together. we made the steel and milled the lumber that built modern sweden. you know what our most profitable product now is? fertilizer. 
+speaker1: i'm not obsessed with the declining health of the company, but i am with the settling of accounts - and the clock is ticking. i need your help.
+speaker2: doing.
+speaker1: officially, assisting me with my memoirs. but what you'd really be doing is solving a mystery. and you'd do that by doing what you do so well - this recent legal mishap of yours notwithstanding. you'd be investigating thieves, misers, bullies, and malcontents - the most detestable collection of people you'll ever meet ... my family.
+
+speaker1: isn't it interesting how fascists always steal the word freedom. the 4:30. yes. okay. anyway, richard died a martyr to the cause in 1940 - missed all the real excitement - but not the opportunity to regularly beat his wife margareta and their son, gottfried. 
+speaker1: now, gottfried - harriet's father - was what people used to call a good- time-charlie.
+speaker2: they're still called that.
+speaker1: are they? okay.
+speaker1: he was a charmer, a ladies man, a drunk. in other words, a born salesman - which is what he did for the company - traveling around, taking clients out to dinner and so on.
+speaker2: someone has to do it.
+speaker1: that's right. anyway, he died in 1965. drowned. drunk. here on the island.
+speaker1: his wife isabella - who was pretty much useless before as a parent - became even more so after his death - which is when i began looking after their children - martin - who runs vanger industries now that i'm retired - and harriet.
+
+speaker1: she was bright and curious, a winning combination in any person. 
+speaker2: and beautiful.
+speaker2: something happened to her?
+speaker1: someone in the family murdered harriet and for the last forty years has been trying to drive me insane.
+
+speaker1: it was september 21st, 1966. a saturday. harriet was 16. 
+speaker2: my brothers - along with their wives, children and grandchildren - had gathered here for our loathsome annual board meeting and dinner. it was also the day the yacht club held its autumn parade.
+
+speaker1: she came to the parlor. she asked if she could talk to me. i honestly don't remember what i was doing that i thought was more important, but i told her to give me a few minutes. 
+speaker1: but in a few minutes, before i could go upstairs to talk to her, something else occurred.
+
+speaker1: the driver of the car - a mr. aronsson - was pinned and severely injured. all we could do was try to pry him out with our hands - since metal tools could spark. 
+speaker1: about twenty minutes after the crash, harriet was in the kitchen. anna herself saw her.
+
+speaker1: we finally got poor aronsson out of his car and off to the hospital, and those of us on our side drifted back to the house. 
+speaker1: the sun was down, the excitement over, we sat down to dinner. that's when i noticed harriet wasn't there.
+speaker1: and she wasn't there the next morning. or the next. or the next forty years.
+
+speaker1: what was she going to tell me? why didn't i make time for her? why didn't i listen? 
+speaker2: she couldn't have run away?
+speaker1: not without being seen.
+speaker1: firemen stayed on the bridge all night pumping out the gasoline. and no one swam across, or took a row boat. all of them were still tied up on this side sunday. believe me, we checked.
+
+speaker1: she couldn't have fallen and drowned? 
+speaker2: the currents aren't strong here. anything that falls into the water turns up nearby. like her father. his body didn't drift more than ten meters when he drowned the year before.
+speaker2: no. someone killed her, mr. blomkvist. someone on the island that day. someone close enough to know what she used to give me each year on my birthday.
+
+speaker1: these were from her. 
+speaker1: these, from her killer.
+speaker2: who knows about these?
+speaker1: me, the police, the murderer ...
+
+speaker1: - studying their reports and interviews, all the information there was, and it's a lot. i've spent half my life examining the events of a single day. 
+speaker2: i understand your frustration. but what you're asking me to do is a waste of money.
+speaker1: we haven't discussed your fee.
+speaker2: we don't need to. i can't find something you haven't been able to in forty years.
+speaker1: you don't know that. you have a very keen investigative mind.
+speaker1: here's what i propose: you come stay on the island. i have a nice little cottage by the water you can use. you study the material i give you. you find something i've missed - or you don't.
+speaker2: you want me to set aside my life and career for something that's a complete waste of time.
+speaker1: think of it as a well deserved vacation. a way of avoiding all the people you want to avoid right now. as for compensation, i'll pay you twice your salary for as many months as it takes. i'll quadruple it if you solve the mystery.
+
+speaker1: mr. - 
+speaker2: i'm not done. i'll throw in one more thing - even though you're a terrible negotiator. it's what you want more than anything else and it can't be bought at any price. i'll give it to you ... hans-erik wennerstrom.
+speaker2: he began his career working for me. and i've followed it with interest, shall we say, ever since. you were right about him. you just couldn't prove it.
+
+speaker1: would you like to sit? i could possibly clear a place if necessary. 
+speaker2: did you make it?
+speaker1: have you something for me?
+speaker1: i'm on welfare; i don't administer it. this isn't enough.
+
+speaker1: i had to pay three months back rent and eat a little bit. it's all i have right now. 
+speaker2: i find that so poignant.
+speaker2: no `thank you?'
+
+speaker1: we're in our worst crisis ever and you're writing a memoir? 
+speaker2: you fired me; i need something to do.
+speaker1: you fired you; i need you here, not the north pole. you know what this is going to look like.
+speaker2: like i've been gutted. like i'm running away. i am.
+
+speaker1: wennerstrom wants to see me waving a white flag, not a red one. and the more it looks like there's a problem between you and me, the more it'll satisfy him. 
+speaker2: there is a problem between us. he won't be satisfied until he shuts us down, and you're leaving me to fight him alone.
+speaker1: it's four hours by train. it's not the north pole.
+
+speaker1: think this snow's going to let up anytime soon? 
+speaker2: this is the north pole.
+
+speaker1: you're an author. 
+speaker2: i'm writing a biography of mr. vanger, yes.
+speaker1: i saw you on television.
+speaker2: that's unfortunate.
+speaker1: bit of trouble, i guess.
+speaker1: no jail time, though. that's good.
+
+speaker1: the island is owned by my family. your closest neighbor is my brother harald, another if you can believe. two in the family. he's detestable to put it nicely, but you'll probably never see him. he's a recluse. 
+speaker2: he was there that day?
+speaker1: indeed he was.
+speaker1: that's his daughter cecilia's house.
+speaker2: does anyone speak to anyone on this island?
+speaker1: actually, isabella - harriet's mother - who lives there - - she speaks to harald - which is one of reasons i don't speak to her. cecilia's brother birger lives there.
+speaker2: who doesn't he speak to?
+speaker1: you, probably. not that you'd want him to. he can be as unpleasant as harald.
+
+speaker1: i'm quickly losing track who's who. 
+speaker2: oh, how you'll wish were it always so. soon you'll know us all only too well - with my apologies. out there is my nephew martin's house; harriet's brother.
+speaker1: who speaks to him?
+speaker2: i speak to him. he runs the company now, as i think i told you.
+speaker2: someone shooting their dinner.
+speaker1: i just met him.
+speaker2: he was 19 when harriet disappeared.
+speaker2: he lives over there.
+speaker1: and you live here.
+speaker2: sorry?
+speaker1: your house.
+
+speaker1: i'd like to see the girl's room. 
+speaker2: it's down the hall.
+
+speaker1: i thought this was your house. 
+speaker2: it is. she lives with me.
+speaker1: are her parents alive?
+speaker2: her mother is.
+speaker2: this way.
+
+speaker1: i want to speak to everyone here. that'll take all night so you might want someone to put some coffee on. 
+speaker2: what about the search?
+speaker3: first thing in the morning.
+speaker2: no. we should do it now. she could be hurt out there.
+speaker4: please. i beg you.
+
+speaker1: but i also couldn't find a motive. was it spontaneous? was it planned? did she know something someone wished she didn't? was it about business? 
+speaker2: business? she was sixteen.
+speaker1: and very bright. henrik told me he could easily imagine her running the business someday, which would mean someone else wouldn't.
+speaker2: she was with some friends that day. at a parade. you must have talked to them.
+speaker1: she told them she wasn't feeling well. she left early. but they also said she kept secrets from them, too. the main thing i learned talking to them for hours is that teenage girls are complicated.
+speaker2: i have one.
+speaker1: so you know. did you bring the last gift henrik received?
+speaker2: it's at the national forensic lab.
+speaker1: i can tell you what their report will say now: it's a flower common to europe. all of them are. no prints. no dna.
+speaker2: i wanted to ask you about this.
+
+speaker1: dragon tattoo final 9/1/11 sz 
+speaker2: she received this from henrik the christmas before. i studied it more times than i can say. i know every page of it.
+speaker3: it's the last page i'm curious about.
+speaker2: as was i.
+speaker3: the only names not alphabetized.
+speaker2: they're local hedestad phone numbers. the first belonged to a woman named margot, whose mother was magda, who claimed she didn't know harriet. the fourth, r.l., belonged to rosemarie larsson, an elderly woman who died a few years before. the other three were unconnected in any way that i could find.
+speaker3: i've reminded you of things you'd rather forget. i'm sorry.
+speaker2: i can't forget it. it's my rebecka case.
+speaker2: every policeman has at least one unsolved case. back then it was old torstensson. year after year he kept returning to one - taking out the files - uselessly studying them. as young men, we had to laugh.
+speaker3: was this also a missing girl case?
+
+speaker1: how's mr. palmgren doing? i was told he had a stroke of some kind. terrible. 
+speaker1: what exactly do you do at this security company?
+speaker2: make coffee and sort mail.
+speaker1: but not full-time. not even part- time consistently. they somehow got along without coffee or mail in july and august?
+speaker1: how much do you earn there?
+speaker2: enough.
+speaker1: how much is your rent?
+
+speaker1: dragon tattoo final 9/1/11 sz 
+speaker2: i pay my rent.
+speaker3: when's the last time you were late?
+speaker2: never.
+speaker3: do you think that ring in your eyelid makes you attractive?
+speaker3: here's the problem. there a discrepancy between the obligation of mr. palmgren's guardianship and the management of your finances.
+speaker2: it isn't a discrepancy or a problem. it was clear to him i could manage my own finances.
+speaker3: but that's not clear to me.
+speaker2: i'm not a child.
+speaker3: no. you're not. but you were. and between then and now - - two years in the locked ward at st. stephens, for violent aggression - failure to adapt to four foster homes and seven schools - arrested twice for intoxication, twice for narcotics use, and most recently for assault: a bottle smashed into a man's face. you may have conned mr. palmgren into thinking you've improved, but looking at this - - not to mention how you're looking at me now - i can see you haven't. so the good-old-mr-palmgren-days are over. starting now, you'll be given a monthly allowance. you'll provide me with receipts for your expenses.
+
+speaker1: if the numbers don't balance, i'll have to assume the difference is going to drugs. 
+speaker2: i've been on my own since i was twelve.
+speaker1: no. you've been a persistent burden to the state since you were twelve.
+speaker1: ms. salander? please look at me. because this is important.
+speaker1: this behavior you're displaying right now is elaborately documented here - - so it would come as a shock to no one if i chose an alternative to the lenient arrangement i just outlined. is that what you're saying with your silence? you'd prefer institutionalization?
+
+speaker1: i found him at death's door halfway up the hill. 
+speaker2: i'm afraid i'm a bit out of shape.
+speaker3: no, it's a climb for anyone. i should've warned you. come on in.
+
+speaker1: i used to work in the company's petrochemical division in goteborg. 
+speaker2: a dark day.
+speaker1: i live in hong kong now, but come back to stockholm for family events, and when i do, i drive up to spend a couple days with martin.
+speaker2: she comes for the moose steak.
+speaker3: is that what this is?
+speaker2: something's open. you like this one, or would you like to try something else?
+speaker3: that one's good.
+speaker1: i saw you on sky news a while ago.
+
+speaker1: that was a dark day. 
+speaker2: sorry to remind you of it.
+speaker1: it's okay. there are worse things than libel - though i can't immediately think of one in my business.
+speaker2: you're writing a book now, martin said.
+speaker1: henrik's biography.
+speaker2: i love henrik. he's fascinating. martin, too. together they're the old sweden and the new.
+speaker1: they are.
+speaker2: you know about harriet, right?
+speaker2: you don't?
+speaker1: i do.
+speaker3: the family doesn't like to talk about it, but it can't just be swept under the rug.
+speaker4: what can't.
+speaker2: harriet.
+
+speaker1: dragon tattoo final 9/1/11 sz 
+speaker2: maybe we could talk about that later.
+speaker3: we can talk about it now. liv knows everything about my crazy family. which is why she'll never marry me.
+speaker4: that's one reason.
+speaker3: don't put that in your book. anything else is fine. harriet certainly. everything changed after that. not just the family, but the company.
+speaker2: how so.
+speaker3: we're not nordea or ericsson, but we're still the largest family-owned company in the country. at the height, we had 40,000 employees. we have about half that now, and that downward slide - anyone can tell you - began after my sister's death. it broke henrik's entrepreneurial spirit, and his heart.
+speaker2: you were here that day?
+speaker3: everyone was here, though i didn't get in until after the accident on the bridge. the 4:30 train.
+speaker2: i know it well.
+
+speaker1: it was a terrible day. and the days after - searching and not finding her - were even worse. 
+speaker1: this event, mikael, has to be a big part of your book.
+
+speaker1: it's not about the family. it's about henrik and the company. 
+speaker2: like i said.
+speaker1: it's not my intention to present a malicious portrait of anyone.
+speaker2: unlike the one that landed you in court.
+speaker1: unlike that one. correct.
+speaker2: so, what you're saying is, you're not really here to look into what happened to harriet.
+speaker1: i can't ignore such a dramatic event, but no, that's not by any means my focus.
+speaker2: so all those boxes gunner carted down here - which are where? - in the closet now? - weren't henrik's private investigation. i wonder sometimes who's crazier - my father or my obsessed uncle.
+speaker1: since we're talking about it, since you brought it up, what was harriet like?
+speaker2: i'm sure henrik has told you.
+speaker1: he was my age then, and so couldn't know what was really going on with a teenager any more than i can with my own daughter. you were her age.
+
+speaker1: actually, my sister anita was closer to her in age. 
+speaker1: she knew harriet better than anyone - certainly better than i did. you should talk to her.
+speaker2: i'd love to, where is she.
+speaker1: if i had to guess - london.
+speaker2: you don't know where your own sister lives?
+speaker1: i haven't seen her in years. we never really got along.
+speaker2: i'm getting used to that comment.
+speaker1: that's the way it is when you're always after the same boys.
+speaker2: people generally get over that sort of thing at a certain point.
+speaker1: oh, i'm long over it, and won't ever have to worry about it again. she hates this place even more than i do. she left, moved to london and that was it. you couldn't pay her to send a christmas card, much less visit.
+speaker2: i'll try to track her down for you.
+speaker1: don't bother.
+speaker2: for myself then.
+
+speaker1: you backed up? 
+speaker2: hard drives at home, yeah.
+speaker1: that's good. this one's dead.
+
+speaker1: i'm sorry, he's booked all day. 
+speaker2: it'll take five minutes. it's important.
+speaker1: hold, please.
+speaker1: seven o'clock.
+
+speaker1: dragon tattoo final 9/1/11 sz 
+speaker2: how many partners have you had in the last month? how many were men?
+speaker2: i'm required to ask you these things.
+speaker3: write down anything you want.
+speaker2: why do you need such an expensive computer?
+speaker3: for work.
+speaker2: making coffee and sorting mail.
+speaker3: i shouldn't even have to ask. i should have control of my money like before.
+speaker2: and you will. once you show me you can be sociable and get along with people. can you do that? shall we start with me? shall we start now?
+speaker2: if you're nice to me, i'll be nice to you. that's how normal people are.
+speaker2: you've done this before. you know what to do.
+
+speaker1: do you want this computer or not? 
+speaker1: you feel that? that's gaberdine. unzip them. and ... and ... i like the reticence. i prefer a who pretends she isn't. it's almost convincing.
+
+speaker1: here you go. as promised. 
+speaker1: i know you're not thinking about telling anyone about our date. enjoy your computer games.
+
+speaker1: excuse me. i'm sure i should have made an appointment. 
+speaker2: it's fine. please. have a seat.
+speaker1: i'm mikael.
+speaker2: mikael. how do you do.
+speaker2: you're looking for investment counseling, mikael?
+speaker1: i would if had any money to invest.
+speaker2: excuse me?
+speaker1: i'm writing a biography of your uncle henrik. that's why i'm here.
+
+speaker1: how is henrik? 
+speaker2: good. engaging. i like him.
+
+speaker1: dragon tattoo final 9/1/11 sz 
+speaker2: i haven't seen him in over 30 years. or my sister. or anyone else in my family.
+speaker3: most of what i'm writing about predates that, so your recollections are valid.
+speaker2: i wouldn't know where to start, if that was a question.
+speaker3: i can narrow it. i've gotten up to the 1960s. to the event that altered everything in henrik's life.
+speaker2: harriet. everything i knew about that i told to - whatever his name was - that policeman - when it happened.
+speaker3: morell.
+speaker2: my recollections then were a lot better than they are now.
+speaker3: i'm not speaking of the crime itself. i'm trying to get a clearer sense of what harriet was like. particularly, toward the end.
+speaker2: she was messed up. like all us vanger kids. crazy mother. drunken father. at least hers wasn't a like mine.
+speaker3: was he abusive?
+speaker2: mine?
+speaker3: hers.
+
+speaker1: i never saw it myself, but you could tell something was going on. one day she'd be withdrawn. the next she'd be putting on makeup and wearing the tightest sweater she had to school. the next she'd be studying a bible like a nun - no vanger was ever religious - can you imagine? 
+speaker2: she never confided in you what about, specifically?
+speaker1: there was no specifically. it was everything. it was being part of that family. henrik's the only decent person in it.
+speaker2: what do you think happened to her?
+speaker1: everyone knows what.
+speaker2: but you have no ... thoughts about why, or who.
+speaker1: all i know is i always felt sorry for her. even more than for myself. i got out of there when i was 18 and never went back. she would have done the same but didn't make it to 18.
+
+speaker1: yes? 
+speaker2: it's me.
+
+speaker1: like it? 
+speaker2: it's nice.
+speaker1: it's home. so, what do you need money for this time? grand theft auto 5?
+speaker2: food. he smiles. steps toward her. lifts her chin.
+speaker1: how are you? been thinking about last time? decided you wanted to see me again?
+
+speaker1: i just want my money. 
+speaker2: well, let's see if i can help you out with that.
+speaker1: wait.
+speaker2: is there a problem?
+speaker1: i just want to know, am i going to have to do this every time i need money to eat?
+speaker2: it's so cute when you do that surly thing. take my hand
+
+speaker1: please. i have neighbors. 
+speaker1: what we're going to do now is teach you the value of money.
+
+speaker1: faith is the assurance of things hoped for, the evidence of things not seen. through faith we understand that the world was created by the word of - and that what is seen was not made of things that are visible ... he sets it down. rubs his eyes. everything - his 
+speaker2: i'll drive you home.
+speaker3: i can get home on my own.
+speaker2: are you sure?
+speaker2: so, next saturday, here?
+
+speaker1: is it any warmer inside? 
+speaker2: no.
+
+speaker1: what have i missed besides you? 
+speaker2: the steady exodus of two-thirds of our advertisers.
+speaker1: seriously?
+speaker2: is that hard to believe? sitting up here in lappland with your cat?
+
+speaker1: i'm not. i'm working. 
+speaker2: i can see.
+speaker1: would you like to meet him?
+speaker2: maybe in about an hour. if you're interested.
+
+speaker1: i apologize if you're having financial problems at the magazine in mikael's absence. 
+speaker2: we'll work through them.
+speaker1: are you sure?
+speaker3: how long do you think you can hang on? six months or so?
+speaker2: that sounds about right.
+speaker1: you know, i used to be in the newspaper business. we owned six dailies back in the 50's.
+speaker3: we still own one. the courier, here in town.
+
+speaker1: i let my nephew birger run it since he can't run anything else. 
+speaker2: so what do you say to taking on a partner?
+speaker3: we've never considered it before.
+speaker2: your independence is dependant on advertisers - if we're being honest. however much you think that is, you'd retain. we don't care about content.
+speaker4: excuse me. did i miss something?
+speaker1: we're talking about an investment in the magazine.
+speaker4: i gather. why would you want to do that?
+speaker2: not for the return, that's for sure.
+speaker1: i feel bad that i've take mikael away from you at the worst possible time. this is the right thing to do.
+speaker3: and.
+speaker1: the enemies of my friends are my enemies. i hate wennerstrom as much as you hate what he's done to you.
+speaker1: so what do you say?
+
+speaker1: erika half-shrugs to say she'll consider it. 
+speaker2: is that a maybe?
+speaker2: wonderful! more wine, anna.
+speaker2: i think mikael is adapting well to rustic life, by the way.
+speaker3: have you seen him try to make a fire?
+speaker2: put the logs on end, like this.
+speaker4: how long have you been discussing this with them?
+speaker3: i haven't been. they asked me to come up yesterday.
+speaker4: why didn't you tell me?
+speaker3: why would i. you live in the woods.
+speaker4: so i deserve to be treated like an idiot?
+speaker3: i wanted to hear what they had to say. you would've said no before they could.
+speaker4: i'm saying it now. it's not a good idea.
+
+speaker1: you heard me tell them we could hang on for six months. i was lying. without their money we'll be out of business in three. 
+speaker2: you don't know this family. they're crazy.
+speaker1: we're not marrying into it.
+speaker2: we are if we do this. it's exactly what we're doing.
+speaker1: you want to say no? let's say no. instead of 50 percent of something, let's own 100 percent of nothing.
+speaker3: mikael?
+speaker2: what.
+speaker3: i'm leaving this god-forsaken island in the morning.
+speaker2: so?
+speaker1: so are you coming to bed or not.
+
+speaker1: you thinking one arm or both? 
+speaker2: wrists and ankles. but none of these. just a plain band, like handcuffs.
+
+speaker1: it's sensitive there. particularly the ankles. it's gonna hurt. 
+speaker2: how much do one of those cost?
+
+speaker1: we made a serious mistake last year, and we regret it. but we're moving forward, and this is the first step. 
+speaker2: you wouldn't say the first step was your sacking of mr. blomkvist?
+speaker1: that's inaccurate. read the original press release, viggo. i didn't fire him. he's on sabbatical.
+speaker2: where.
+speaker1: i'm not sure, to be honest with you.
+
+speaker1: millennium is an excellent magazine. we also think it's undervalued right now, which is good business for us. 
+speaker2: is any magazine really undervalued today. how many will be around tomorrow?
+speaker3: there's another reason. i don't like bullies.
+speaker2: are you referring to mr. wennerstrom?
+speaker3: i'm referring to anyone who tries to sue their enemies into submission. if mr. wennerstrom would like to try it again, he'll find himself fighting a company that can afford to fight back.
+speaker2: you're enjoying this.
+speaker3: already it's the most fun i've had in years.
+
+speaker1: i want to look at what the paper has in its archive on the parade. 
+speaker2: you already have what it has. in the album.
+speaker1: i don't think so.
+speaker2: why.
+speaker1: because no photographer at any newspaper in the world takes just two photos of anything - especially after having to climb a flight of stairs.
+speaker2: the bridge accident happened during the parade. he rushed over.
+speaker1: maybe.
+speaker2: mikael, what have you found?
+
+speaker1: the current archive is on cd's, naturally. the older stuff, still negatives. what general period are you interested in? 
+speaker2: september, 1966.
+
+speaker1: thank you. 
+speaker2: is this about harriet vanger?
+speaker1: you're too young to know about that.
+speaker2: everyone here grows up knowing about her. it's how we're taught about strangers.
+
+speaker1: i need more money. i need to pay my rent. 
+speaker2: come on in.
+speaker2: since we're still figuring out what you like, i went shopping for some new toys.
+speaker1: me, too.
+speaker2: you, too? what did you buy?
+
+speaker1: good. you're alive. 
+speaker1: recognize this?
+
+speaker1: i had it with me last time. i set it here. remember? see this snap? it's not a snap. it's a wide-angle micro-lens. 
+speaker1: this shows you sodomizing a mentally impaired girl. if it's ever seen outside this room, who'll be institutionalized then?
+speaker1: here's what's going to happen. pay attention.
+speaker1: look at me.
+speaker1: do i have your attention now?
+speaker1: when you can walk again, which i admit could be a while, we're going to my bank. you'll tell them i alone have access to my account. after that, you'll never contact me again. each month you'll write a report of a meeting we won't have. you'll describe how well i'm doing, how sociable i'm becoming. then you'll negotiate with the court to have my declaration of incompetence lifted. if you fail, this video will spread across the internet like a virus.
+
+speaker1: if something happens to me - if i get hit by a car - if you hit me with a car - same thing, it uploads automatically. 
+speaker1: i'm taking these with me. i'll be checking on you. if i ever find anyone in here with you, whether she came of her own free will or not -
+speaker1: no. not the video.
+speaker1: i will kill you.
+speaker1: do you doubt anything i've said? do you doubt what's in the reports about me? what do they say when you sum them up? they say i'm insane. no, it okay. you can nod because it's true. i am insane.
+speaker1: i know it'll be hard for you to abide by my rules. especially no more sex. i'm going to make it easier for you.
+speaker1: lie still. i've never done this before.
+
+speaker1: hi. 
+speaker2: hi. what are you doing here?
+speaker1: on my way to skelleftea. i can only stay a couple hours.
+
+speaker1: what's in skelleftea? 
+speaker2: light of life bible camp.
+
+speaker1: they're not dangerous. 
+speaker2: it's fine, nilla. whatever you want to do is fine. everybody needs something.
+speaker1: just so long as it's not
+speaker2: i didn't say that.
+speaker2: i'm not around enough to know everything that's going on with you, and i apologize for that. but i'd never want you to not tell me something, even if you think i might not want to hear it.
+speaker1: that's what i'm doing.
+
+speaker1: it should have been me visiting you. 
+speaker2: it's okay. everything's good.
+
+speaker1: bye. 
+speaker2: bye.
+speaker1: don't go too hard on the catholics.
+speaker2: what?
+speaker1: the article you're writing.
+speaker2: what are you talking -
+speaker1: the bible quotes on your desk.
+speaker2: what?
+
+speaker1: detective morell, it's mikael blomkvist. 
+speaker2: how are you? not still in hedestad i hope for your sake.
+speaker1: the rebecka case you mentioned.
+speaker2: of course i do, but what would it have to do with anything?
+speaker1: nothing probably.
+speaker2: jacobsson. rebecka jacobsson.
+speaker1: how was she killed?
+speaker2: decapitated. arms cut off. burned.
+speaker2: but this happened in the 1940's -
+speaker1: hang on a second.
+
+speaker1: i'm going to call you back. 
+speaker2: what have you -
+
+speaker1: what's happened? 
+speaker2: we were talking. he started rubbing at his arm. then collapsed.
+speaker1: is he -
+speaker2: i can't talk, mikael, i have to -
+speaker1: go.
+
+speaker1: the daughter of any priest who profanes herself by playing the harlot, profanes her father, and shall be burned with fire - 
+speaker1: a woman who is a medium or sorcerer shall be put to death by stoning -
+speaker2: the good news is he survived. how he does now, we have to see. he's in icu. can i have one of those?
+
+speaker1: he points to the table. 
+speaker2: a sandwich?
+speaker3: a scotch.
+speaker2: i don't want to be indelicate. but henrik promised me something when i agreed to do this.
+speaker3: wennerstrom.
+speaker2: i need to know what he has on him.
+speaker3: in case he dies? that is indelicate.
+speaker2: and i apologize.
+speaker3: i don't know what he has on him, if you're asking me. and he can't tell you in the condition he's in. so ... is that it then?
+speaker2: we also never discussed who i'd report to if something happened to him.
+speaker3: you'd report to me, but does it matter? we both know nothing's going to come of this.
+speaker2: i'm not so sure.
+speaker3: what do you mean?
+
+speaker1: i may have found something. 
+speaker2: you're joking. what did you find?
+speaker1: the last time i reported something before i was sure of it, it cost me my savings.
+speaker1: i need a research assistant. can you authorize that?
+speaker2: yes. do you have one?
+speaker1: i can find one.
+speaker2: i know a good one. she did the background check on you.
+speaker1: the.
+speaker2: do you think we'd hire anyone for something like this without doing one?
+speaker2: yes, it was quite thorough.
+speaker1: i want to read it.
+speaker2: that i couldn't authorize.
+
+speaker1: mr. frode was kind enough to share your report with me. the investigator's name is on it, but i can find no record of her, and i'm pretty good at that sort of thing. 
+speaker2: would it really matter what her name is?
+speaker1: it would if i wanted to speak to her, which i do.
+speaker2: against policy.
+speaker1: you sure?
+speaker2: just like your sources. you understand.
+speaker1: let me give you a name then.
+speaker1: my sister. she's a lawyer. there's information in here that could only have come from one place. i think you know what i mean.
+
+speaker1: the reason you can find no record of her is because her records have been sealed. she's a ward of the state. 
+speaker2: what does that have to do with anything.
+speaker1: she's had a rough life. can we not make it rougher on her?
+
+speaker1: who is it? 
+speaker2: mikael blomkvist.
+speaker3: may i come in?
+speaker1: actually i'm not really up -
+speaker3: that's okay.
+
+speaker1: i assumed you wouldn't have had breakfast yet so i brought some bagel sandwiches. and tomato juice. good for hangovers. where do you keep the coffee? 
+speaker2: hey. hey - who do you think you are?
+speaker1: i'm the guy you know better than my closest friends do.
+speaker1: we have a lot to talk about, so why don't you take a shower, put on some clothes and get rid of your girlfriend.
+
+speaker1: you're awake. good. breakfast is ready. 
+speaker1: i guess i alarmed you showing up like this.
+speaker2: if you touch me, i'll more than alarm you.
+speaker1: that won't be necessary.
+
+speaker1: your report on me was quite detailed but for me not very entertaining. 
+speaker2: it wasn't meant to be.
+speaker1: when i write about people, i try to entertain the reader.
+speaker2: wennerstrom wasn't entertained.
+speaker1: your boss armansky tells me you only work on things that interest you. i guess i should be flattered. he also says you're the one he goes to for jobs that are, `sensitive' is the word he used. i'll use `illegal,' since that what it was when you hacked into my computer. i'm not going to do anything about that. i could but i won't. what i'm going to do is tell you a story. if it entertains you, maybe you'll decide to help me research it further. if it doesn't, i'll wash the dishes and leave ... are you going to even touch your food?
+speaker2: what kind of research?
+speaker1: lisbeth - may i call you lisbeth? i want you to help me catch a killer of women.
+
+speaker1: i have no idea who the others are - or how they're connected to the death of a 16 year old girl - but they have to be. 
+speaker1: we need to somehow figure out who they are, what happened to them, what the leviticus verses have to do with -
+speaker1: what are you doing?
+speaker2: getting started. you can keep talking if you want.
+speaker1: would you like this?
+speaker2: got it.
+
+speaker1: no one's asked me about magda in over 40 years. no one here even remembers her. 
+speaker1: why would a young lady like you want to know about such a brutal killing.
+speaker2: it interests me.
+speaker1: does it.
+speaker1: what's that. a wasp?
+speaker2: a friend of mine calls me that.
+speaker1: so you tattoo it on your neck?
+speaker1: who's this friend?
+speaker2: my trainer.
+speaker1: aerobics?
+
+speaker1: boxing. 
+speaker2: i have a feeling you're pretty good at that, even though you weigh - what - ninety pounds? float like a butterfly ...
+speaker1: what?
+speaker2: come with me, muhammad.
+
+speaker1: her husband was our first suspect - the husband is always the first suspect, and usually the last - but not this time. we moved on to a neighbor. then a vagrant - 
+speaker1: once you get to strangers, it's only a matter of time before you get to gypsies, and you know you're never going to solve it.
+speaker2: how exactly was she killed?
+speaker1: miss - i'm sorry -
+speaker2: salander.
+speaker1: miss salander, if you don't mind my asking, when's the last time you ate?
+
+speaker1: i have a high metabolism. i can't put on weight. 
+speaker2: that's not why i ask. i ask because it's better to look at what i'm about to show you on an empty stomach.
+
+speaker1: how is he? 
+speaker2: he needs surgery and there's no dnr. so it's up to the family to decide to resuscitate or not, and they're not good at decisions.
+speaker2: how'd it go with ms. salander?
+speaker1: she said yes.
+speaker3: can i see henrik?
+speaker2: he was asleep when i last looked in.
+
+speaker1: no, you can't check. you can instruct him to pack his things and leave. 
+speaker2: mother -
+speaker1: don't use that tone with me. this family's had enough tragedy without you dredging it all up again.
+speaker3: actually, isabella, mr. blomkvist works for henrik.
+speaker1: and who do you work for, dirch?
+speaker4: we should put this to a vote.
+speaker2: don't be an birger.
+speaker4: it's a family decision like any other. cecilia?
+speaker5: what.
+speaker4: am i right?
+speaker5: you are so seldom right about anything, it's hard for me to say yes. but -
+speaker2: no. we should do what henrik wants, and we know what he wants.
+speaker1: henrik - is in there fighting for his life. this - - is the last thing he needs.
+
+speaker1: excuse me, mrs. vanger, you can't smoke in here. 
+speaker2: go back to stockholm. when we want a false chronicle of the family written by a libelist, we know who to call.
+
+speaker1: if a man's offering is a lamb, it shall be a female without blemish. he shall lay his hand upon it's head ...slaughter it... empty it's blood on the base of the altar ... and he shall be forgiven. 
+speaker2: forget what she looks like, i vouch for her -
+
+speaker1: all right. thanks. 
+speaker2: this way, miss.
+
+speaker1: can i make copies? 
+speaker2: i can make them for you if our machine's been repaired.
+speaker1: that's okay.
+
+speaker1: please accept my apology for my mother's behavior. 
+speaker2: it's all right.
+speaker1: it's not all right, she's unbearable. but it has nothing to do with you. it's between her and henrik ... she lost it when my father died. the drinking - her state of mind - it all got so bad henrik took me and my sister away from her, leaving her alone in our old house on the other side of the island like she was excommunicated. she's never forgiven him.
+speaker1: you have to stay and keep working. you're henrik's last chance at some kind of resolution. put this to rest for him one way of the other, and i'll try to keep my mother away. but, please, do it as quickly as you can.
+speaker2: i'll -
+speaker2: lisbeth, this is martin vanger.
+speaker1: how do you do.
+speaker3: fine.
+speaker1: girlfriend?
+
+speaker1: any trouble finding the place? 
+speaker2: everyone in town knows who and where you are.
+speaker1: that's comforting. are you hungry?
+speaker2: no.
+speaker1: i used to have a motorcycle. when i was 19.
+speaker2: i know.
+speaker2: the five cases from harriet's list. and five more she missed - three i'm sure about.
+speaker2: rebecka was the first, like you thought ... m.h., is mari holmberg - a prostitute in kalmar - murdered in 1954. leviticus verse 20, line
+
+speaker1: dragon tattoo final 9/1/11 sz 
+speaker2: "if a man lies with a woman having her sickness, he has made naked her fountain and she has uncovered the fountain of her blood." blomkvist doesn't see a connection.
+speaker3: she was raped and stabbed, but the cause of death was suffocation with a sanitary napkin. r.l. rakel lunde,
+speaker3: cleaning woman and part-time palm reader, tied up with a clothesline, gagged, raped, head crushed with a rock. leviticus 20:27.
+speaker2: "a woman who is a medium or sorcerer shall be put to death by stoning."
+speaker2: i only smoke outside.
+speaker3: sara witt, 1964. daughter of a pastor. tied to her bed, raped, charred in the fire that burned down her house. leviticus -
+speaker2: 21:9. "the daughter of any priest who profanes herself by playing the harlot, profanes her father and shall be burned with -
+speaker3: magda lovisa sjoberg, 1960 - several photos of a dead woman and dead cow -
+speaker3: found in a barn, stabbed and raped with farm tools. a cow in the next stall with its throat slit, its blood splashed on her, hers on it.
+
+speaker1: leviticus 20:16 - "if a woman lies with any beast, you shall kill the woman and the beast, their blood is upon - 
+speaker2: lea persson, 1962 -
+speaker2: found by her sister in their pet shop - raped, beaten. the killer uncaged the animals, smashed the aquariums. there was a parakeet inside her. leviticus 26:21/22.
+speaker2: eva gustavsson, 1960. a runaway. raped, strangled, a burnt pigeon tied around her neck. lena andersson, 1967, a student. raped, stabbed, decapitated -
+speaker1: okay -
+speaker2: i'm not done -
+speaker1: it's all right, we're looking for a serial murderer ... but what does it have to do with a 16-year-old girl on an island?
+speaker2: she was looking for him, too.
+
+speaker1: rape. torture. fire. animals. 
+speaker2: the names. they're all biblical. the first woman, the whore, the virgin mary - sara, rakel - all from the old testament.
+speaker1: which means they're jewish names.
+speaker1: if there's one thing the vangers have more than their share of, it's nazis. there's one of them.
+
+speaker1: i can see why armansky values you so highly. your work is very good. 
+speaker2: it interests me.
+speaker1: i'll take the couch. you can have the bed.
+speaker2: i can sleep on a couch.
+speaker1: so can i.
+
+speaker1: okay. good night. 
+speaker2: night.
+speaker2: harriet's name isn't.
+speaker1: isn't what.
+speaker2: jewish.
+
+speaker1: what are you doing? 
+speaker2: going over your notes.
+speaker3: they're encrypted.
+speaker2: have some coffee.
+speaker3: i will. and then we'll have a talk about what's yours and what's mine.
+
+speaker1: dragon tattoo final 9/1/11 sz 
+speaker2: it's amazing what you figured out from the parade photos.
+speaker3: thank you.
+speaker2: too bad you don't have hers.
+speaker3: whose.
+speaker2: her.
+speaker3: excuse me.
+speaker3: can you read that?
+speaker2: a, c, three - the rest is blocked.
+
+speaker1: n, something, r, s, j - 
+speaker2: norsjo.
+speaker1: then something, k, something, r, i, f, something, i -
+speaker2: carpentry. is that a phone number?
+speaker1: too small to read.
+speaker2: i'm going to have to go to norsjo.
+
+speaker1: i can't say i know how he thinks. he might. 
+speaker2: has anyone spoken to him about me since i've been here?
+speaker1: maybe isabella. no one else.
+speaker2: could she do something like this?
+speaker3: who's this creature now?
+speaker1: i'm calling this off.
+speaker2: no. you're authorizing me to rent a car.
+
+speaker1: i'm sorry if that was uncomfortable. 
+speaker2: they don't bother me.
+speaker1: i'm sure they're not used to people who look like you.
+speaker2: they don't like you either.
+
+speaker1: i can't give you any of this stuff without authorization from mr. armansky. 
+speaker2: so call him.
+speaker1: next time, i'd prefer you fill out the proper paperwork.
+
+speaker1: the carpentry shop is gone. i don't know if he worked there or not. if he did, maybe he used to buy hardware here. 
+speaker2: i don't recognize him. sorry.
+speaker1: i had to start somewhere. thanks.
+speaker2: i'm no detective, but i think i would've started at the retirement home.
+
+speaker1: this is brannlund's kid. he was a contractor, the father. 
+speaker2: brannlund.
+speaker1: assar.
+
+speaker1: blomkvist writes the name down. 
+speaker2: you wouldn't happen to know where i could find him, the son?
+speaker3: next to his father at the cemetery. he was killed in an accident on a job site years ago. but she might be alive - his widow.
+
+speaker1: in 1966, you were in hedestad with your husband. 
+speaker2: oh, my goodness, there we are. who took this?
+speaker1: photographer at the local paper.
+speaker1: you were taking pictures, too. which i'd very much like to see if by some miracle you still have them.
+speaker2: it wouldn't be a miracle. we were on our honeymoon. but why?
+speaker1: this girl was killed that day, soon after seeing something across the street that frightened her.
+speaker2: how awful.
+
+speaker1: she does look terrified. 
+speaker2: would you mind if i made a copy of this?
+
+speaker1: ground, please. 
+speaker2: how's your life?
+speaker2: i didn't care much for your last report. it felt perfunctory, like your heart wasn't in it. let's see a little more enthusiasm for my recovery in next month's.
+speaker1: i under -
+speaker2: don't speak. i don't want to hear your voice. just nod.
+
+speaker1: start looking for a shrink you can bribe to swear under oath he can find absolutely nothing wrong with me. 
+speaker1: and stop visiting tattoo removal websites or i'll do it again - right here.
+
+speaker1: it's me. 
+speaker2: it's that bad?
+speaker2: is it still bleeding? it's still bleeding ... why is it still bleeding ...
+speaker2: is that dental floss?
+speaker3: yes.
+speaker2: what is that - is that necessary?
+
+speaker1: yes. 
+speaker2: we can't just tape it?
+speaker1: no.
+speaker2: did you sterilize that?
+speaker1: no.
+speaker2: you didn't?
+speaker1: drink some more.
+speaker2: careful, it's my eye.
+speaker1: don't move.
+
+speaker1: what am i doing here ... why did i ever come up here ... 
+speaker1: it's too dark to see ... did it stop bleeding ... i think maybe it has ...
+
+speaker1: it wasn't an accident ... somebody was shooting at me ... it's insane ... these people are insane ... 
+speaker2: no one's shooting at you now.
+speaker1: i'm pretty sure this isn't a good idea.
+speaker2: why.
+speaker1: apart from the fact that i'm old, we work together.
+speaker2: you work with what's-her-name. that's worked out for you.
+
+speaker1: i have some standards of behavior, believe it or not. 
+speaker2: you need to stop talking.
+
+speaker1: i like working with you. 
+speaker2: i like working with you, too.
+
+speaker1: people hunt on the island, mikael. gunner's out there shooting something almost every day for his dinner. it could have been a stray shot. 
+speaker2: not from gunner. if he wanted to shoot him, he'd have shot him.
+
+speaker1: we get poachers. they're not always such great shots. 
+speaker2: or he's right, dirch. what if he is? this has to stop.
+speaker1: do you want to stop?
+speaker3: i have police reports, photos, henrik's notes, my own notes, and lisbeth's research. what i don't have are vanger industries records.
+speaker1: why?
+speaker3: will you authorize it?
+speaker1: i could but why on earth would i?
+speaker3: because i'm asking.
+speaker1: the private corporate records. how far back?
+speaker3: all the way.
+speaker3: henrik said i have access to everything i need. this is what i need.
+speaker1: that's not what he meant.
+speaker3: let's ask him.
+
+speaker1: he's not well enough to ask. 
+speaker2: i'd be happy to sign a nondisclosure statement, if that helps you.
+speaker1: excuse us a moment.
+speaker3: i think henrik would say yes.
+speaker1: that's why he has me. to protect him from himself. this is insane.
+speaker3: what do we have to hide?
+speaker1: over the course of 120 years of doing business? plenty.
+speaker3: if he needs this to do his job, he should have permission.
+
+speaker1: what am i looking for? 
+speaker2: any connections between the company's holdings and the towns where the women were killed ... and everything about frode.
+
+speaker1: i'd like to if i could. 
+speaker2: so ask him.
+speaker1: i was wondering if you could do that.
+speaker2: i don't speak to him, as you know.
+speaker1: you couldn't make an exception in my case.
+
+speaker1: are you afraid to be in the same room with him? i'm not saying you shouldn't be. 
+speaker2: you won't help me?
+speaker1: sorry.
+
+speaker1: are you finished? 
+speaker2: no. i need to know where all the factories, offices and projects were from 1949 to 1966.
+speaker1: you already have everything.
+speaker2: i don't. nothing on subsidiary corporations, partnerships, or suppliers.
+speaker1: then you'll have to do without.
+speaker2: mr. frode said i have access to whatever i need, and i need this.
+speaker1: he said you have access to this floor.
+speaker2: call him.
+
+speaker1: sven olof lindholm. 
+speaker1: me.
+speaker2: handsome.
+speaker1: birger furugard. me. per engdahl. me.
+speaker1: but your interest is in my more candid photographic work.
+
+speaker1: blom ... kvist ... with an `o' - or a `u.' 
+speaker2: `o.'
+speaker1: an `o.' blom - kvist.
+speaker1: i'm not a recluse. i don't close my door to anyone. they just don't visit.
+speaker2: perhaps if you redecorated.
+speaker1: hide the past like they do. under a thin, shiny veneer. like an ikea table. i'm the most honest of all of them.
+speaker2: the family.
+speaker1: sweden.
+
+speaker1: two point eight. 
+speaker2: pardon me?
+speaker1: the zeiss tessar on my hasselblad. excellent lens.
+speaker1: landscape? some nice landscapes there.
+speaker2: no, it's - i can't tell who it is from this angle.
+speaker1: that's gottfried's boy.
+speaker2: martin?
+speaker1: handsome but useless young man, martin. like his father.
+
+speaker1: nowhere near finished. 
+speaker2: i'm not staying late.
+speaker1: i am. and i need access to all the rooms, including any that are locked. call frode.
+
+speaker1: she wants to look at everything. i don't like her and i don't trust her. 
+speaker2: hang on a second - i'm going to let you decide. it's ms. lindgren again.
+speaker3: yes, ingrid, what's the problem?
+speaker1: this girl wants a set of keys now.
+speaker3: it's fine. just tell her to make sure to leave the keys with security when she's done.
+
+speaker1: hello? mikael? 
+speaker2: your evening stroll?
+speaker3: hi. how are you?
+speaker2: i stopped at the hospital on my way home. henrik asked me to ask you something.
+speaker3: what.
+speaker2: come on in, i'll make you a drink.
+
+speaker1: what happened to you? 
+speaker2: when.
+speaker1: now.
+speaker2: i fell in the dark.
+speaker1: you don't have a flashlight? i'll give you one.
+speaker2: i just wasn't being careful.
+speaker1: how's the investigation?
+speaker2: nothing new to report.
+speaker1: dirch says ms. salander is clever.
+speaker2: maybe.
+
+speaker1: martin hands blomkvist the mini-maglite. 
+speaker2: thanks.
+
+speaker1: hello, martin. 
+speaker2: what did he say?
+speaker3: what?
+speaker2: you said henrik asked you to ask me something.
+speaker3: i just did.
+speaker2: what?
+speaker3: how the investigation's going. that was his question.
+speaker2: oh.
+speaker3: you hunt? we should go hunting together sometime.
+speaker2: sure.
+
+speaker1: nothing at all? new. to report. 
+speaker2: no.
+speaker1: i can see you're anxious.
+speaker2: no.
+speaker1: to get home. after your walk.
+speaker2: i suppose i am.
+speaker1: to have dinner. with your girlfriend.
+speaker2: my assistant. yes.
+speaker1: we'll have better luck with a gun.
+speaker2: sorry?
+speaker1: when we go hunting.
+speaker1: a gun. rather than a knife.
+speaker1: you just couldn't stay away, could you.
+
+speaker1: you know what's harder than shooting someone? just missing them. that was a very good shot up at the cabin. 
+speaker2: it didn't work. i'm here.
+speaker1: mikael, it did work. you're here.
+speaker1: open it.
+speaker1: push it open.
+
+speaker1: why didn't you just go home. 
+speaker2: i assume you mean the opportunity for that has passed.
+speaker1: how'd you do it? what did you find?
+
+speaker1: dragon tattoo final 9/1/11 sz 
+speaker2: we can talk or we can just get on with it. it's really up to you.
+speaker3: i found a picture no one had seen before.
+speaker2: of.
+speaker3: you. in your uppsala prep school blazer.
+speaker2: what does that say?
+speaker3: that you lied about where you were that day. or rather when.
+speaker2: did i? if i did, so what. people lie all the time.
+speaker3: it also said that lena andersson was a schoolmate.
+speaker2: lena ... lena was a long time ago. where's this picture now? with all the other junk on your desk?
+speaker3: a print is. digital copies are on a secure photo site.
+
+speaker1: that's a lie ... how much does the girl know? 
+speaker1: let's hope it's as much as you. that'll make it more fun. where is she?
+speaker2: stockholm. she went there this morning.
+speaker1: and that's a lie. she's sitting in our offices looking at more old crap. our archives manager called me - very perturbed with this girl. lisbeth. i like that name. lisbeth. when lisbeth leaves i'll get a call from security, so i can be at your cottage to greet her when she arrives -
+speaker1: i can't thank you enough for bringing her to me.
+
+speaker1: dragon tattoo final 9/1/11 sz 
+speaker2: so what would you like to know?
+speaker2: you're the journalist, ask me something.
+speaker2: what do i do with my guests? is that the question? well, before - i do what we're doing. relax, have a drink, converse. i like that part a lot - having a chat when you both know one of you is going to die. after - i simply get rid of them. out to sea - - unlike my father leaving them scattered all over the place like trophies. that's not smart if you ask me. that's just garish and loud. but he was a garish and loud man. frankly, he got what he deserved. nothing from blomkvist, but he is wondering now what
+speaker2: you can't be a sloppy technician like that. you can't drink to excess like he did. this takes discipline. it's a science of a thousand details. the planning. the execution. the cleanup. i'm sure i don't have to tell you you're going to make quite a mess. nothing from blomkvist, but martin nods.
+speaker2: that's the interesting thing. because most of the time i am just like everyone else. i just have a bigger secret. it's wonderful really - standing there waiting for a train - or on a street corner as people brush past me. you know what i mean;
+
+speaker1: dragon tattoo final 9/1/11 sz 
+speaker2: you have secrets. you had one when you came up here. it made you feel - special. didn't it?
+speaker2: no. i'm not a rapist. of course i do that too - and at one time it was enough - but - a rapist, mikael, gets off on domination. i need ... - destruction. martin gets up and sets about the business of
+speaker2: can i ask you something? why don't people trust their instincts? they sense something's wrong - someone's walking too close behind them - yet they don't cross the street. you knew something was wrong - you even knew what it was - but you came back into the house. did i force you? did i grab you and drag you in? i just offered you a drink. you'd never think the fear of offending could be stronger than the fear of pain - but you know what? it is. they always come willingly.
+speaker2: and then they're here. they know it's over like you do - and still somehow think they have a chance. "maybe if i say the right thing - if i'm polite - or i cry and beg - maybe i'll survive." and then the moment comes when they realize ... no, all hope is gone.
+
+speaker1: and when that happens - when i see the hope draining from their face like it is from yours right now - - well, i feel myself getting hard just watching it. 
+speaker1: say something.
+speaker2: you are a sick
+speaker1: ... is this an interview or an editorial?
+speaker1: you're right, this behavior is unacceptable. i know that. but we're not completely different. we both have desires. satisfying mine just requires more towels.
+speaker1: anything else you want to know? you sure? all right. whatever you say.
+
+speaker1: it might amuse you to know that while you were over here having dinner with me and liv - who, by the way, finds me very conventional - irina was down here in the cage. who's irina, you ask? a girl i met in belarus. just another girl. another immigrant whore. who misses them? 
+speaker2: your sister wasn't just another girl.
+speaker1: what happened to her.
+speaker2: you're choking me -
+speaker1: you found her?
+speaker2: you killed her.
+speaker1: you useless detective.
+
+speaker1: too tight to talk? 
+speaker1: good. i'm tired of talking to you.
+speaker1: would you like me to do something about that?
+speaker1: see? i'm not a monster.
+speaker1: you know, i've never had a man in here. i've never touched a man as a matter of fact. except my father, of course. but that was my duty. harriet's, too.
+speaker1: it's time. i don't want to be late for my date with our girlfriend.
+
+speaker1: dragon tattoo final 9/1/11 sz 
+speaker2: goodbye, mikael.
+speaker3: may i kill him?
+
+speaker1: he has more guns in the den - 
+speaker2: i know.
+
+speaker1: where is he? 
+speaker2: dead.
+
+speaker1: it's open. 
+speaker2: where's mikael?
+speaker3: asleep. coffee? there's no milk.
+speaker2: i have some very upsetting news. martin was killed in a car accident last night.
+speaker3: sad.
+speaker2: what?
+
+speaker1: i said it's sad. 
+speaker2: what do you know about this? she doesn't say any more. frode gets up and starts toward the bedroom -
+speaker2: i have to talk to -
+speaker1: let him sleep.
+
+speaker1: what are we going to do? 
+speaker2: we're going home, mikael and me.
+speaker1: i'm going to the police.
+speaker2: show them the videos while you're at it.
+speaker1: the - salander points to a stack of video tapes.
+
+speaker1: would you like to see them? 
+speaker2: no.
+
+speaker1: how is it someone who's 23 is a ward of the state? 
+speaker2: i'm mentally incompetent and can't manage daily life.
+speaker1: since when have they said that.
+speaker2: since i was twelve.
+speaker1: something happened when you were twelve?
+speaker1: it's all right, you don't have to tell me anything -
+speaker2: i tried to kill my father. i burned him alive. got about 80 percent of him.
+speaker1: oh.
+speaker2: we need milk.
+
+speaker1: harriet? 
+speaker2: i think so.
+speaker1: martin didn't deny killing anyone. but when i mentioned harriet, he was confused. he was angry - at me - for not being able to tell him what happened to her. he didn't kill her. and his father was dead the year before. what if she did somehow get away? could she have done that? could she have done it alone?
+speaker1: is she's alive, there's only one person in this family who would know where she is.
+
+speaker1: i have to go away for a couple days. when i come back, i hope to have an answer for you. 
+speaker2: would the young lady mind giving us a moment of privacy.
+speaker1: she's my partner, henrik. she should stay.
+speaker2: what have you found?
+speaker1: i'm not sure.
+speaker2: don't treat me like a child. tell me.
+speaker1: i can't. i don't know. i need a week.
+speaker2: i've waited forty years. i can wait another week.
+
+speaker1: i don't like classical music. 
+speaker2: plague?
+speaker3: trinity.
+speaker1: wasp.
+speaker4: ... mikael.
+speaker1: the money.
+
+speaker1: me. 
+speaker2: it's your turn.
+
+speaker1: it's me. sorry to bother you. 
+speaker2: what do you want?
+speaker1: no one's called you?
+speaker2: about.
+speaker1: your cousin.
+speaker1: martin.
+speaker2: what about him?
+speaker1: he died last thursday. a car accident. i'm sorry. there's going to be a memorial in hedestad. i know you haven't been back there in a long time, but -
+speaker2: i'm not interested in any memorial.
+speaker1: i understand.
+speaker2: what do you understand?
+speaker1: that you don't really care for any of your relatives. still, i thought you should know.
+speaker2: now i know.
+
+speaker1: how'd it go? 
+speaker2: okay. i think.
+speaker3: she's on.
+
+speaker1: she's playing solitaire? and she still hasn't called anyone. 
+speaker2: no.
+speaker1: do we have her cell, too?
+
+speaker1: i was so she'd lead us to her. 
+speaker2: put your hand back on my shoulder.
+speaker2: there's only one reason she wouldn't call harriet. she can't because harriet is indeed dead.
+
+speaker1: i was just thinking. what if - 
+speaker2: ten more seconds.
+speaker2: okay, what.
+speaker1: i was just thinking, there could be one other possibility.
+
+speaker1: may i? 
+speaker2: what is it now.
+speaker1: i want to show you something.
+
+speaker1: before he died, your brother hung me from a hook ... harriet. 
+speaker1: anita married in stockholm in 1967. it's recorded in the swedish general register. but the family never knew, did they. i'm guessing she then came here on a passport in her married name, and you followed on her maiden name passport.
+speaker2: actually, it was the other way around. she thought it safer for me to travel with spencer myself.
+speaker1: what did he think about that?
+speaker2: nothing. only that he loved her. she said, if you love me, you'll do this and not ask why. he never did.
+speaker1: they both died twenty years ago.
+speaker2: a car accident. you found that, too.
+speaker1: is this you?
+speaker2: i was 14 the first time he raped me.
+speaker1: martin.
+
+speaker1: no, my father. he took this picture. martin didn't start until he died. 
+speaker2: why didn't you tell someone?
+speaker1: i did. my mother.
+speaker2: henrik would have done something.
+speaker1: would he? i don't know. i almost told him. but i was afraid because of what i did. you still don't understand?
+speaker1: a year after the first time - after many times during that year - my father got drunker than usual one night and started bragging about women he'd killed. he quoted from the bible as he tore off my clothes. he wrapped a belt around my neck. he wanted to kill me.
+
+speaker1: i made it out of the house and down to the dock. he came staggering after me - 
+speaker1: i could never fight him off in a small room, but i was strong enough out in the open to deal with an old drunk.
+
+speaker1: when it was finally over i looked up, and martin was standing there - 
+speaker1: with a little smile.
+
+speaker1: a couple months later, henrik sent him off to school in uppsala. and i thought maybe - maybe - the nightmare was over. until that day. 
+speaker1: there he was - across the street - looking at me with that same little smile on his face.
+speaker1: it wasn't over.
+
+speaker1: don't take anything. 
+speaker1: leave that, too.
+
+speaker1: stay absolutely still. 
+speaker2: she saved me.
+speaker3: how did you get away?
+speaker4: someone saved me, too.
+
+speaker1: how are you feeling? 
+speaker2: i'm fine. thank you, anna.
+speaker2: i made you a promise. whether you found out anything or not.
+speaker2: now. what do you have to tell me.
+
+speaker1: ... i don't even remember wennerstrom working here, much less being fired ... 
+speaker2: why would you. it was a long time ago. which is more to the point than the money he embezzled.
+speaker1: i don't think i'm seeing the point.
+speaker2: yes, you are.
+speaker1: it happened in the 1970's ...
+speaker1: i swear i didn't know this was what henrik had on him. if i had, i never would have let him bring you up here.
+speaker2: come on, he knows you can't try somebody for this 35 years later. i like henrik, but he knows that.
+speaker1: a man's reputation used to mean something - he still believes that. i'm sure he thought you could destroy wennerstrom with this in the court of public opinion.
+speaker2: the "court of public opinion," dirch, makes celebrities out of girls who shop. henrik promised me wennerstrom's carcass on a plate. this isn't even the plate. i can't do anything with this.
+
+speaker1: these people ... 
+speaker2: yeah ...
+speaker1: harriet most of all.
+speaker2: excuse me?
+speaker1: if she'd done anything but run, martin wouldn't have been able to kill all those women.
+speaker2: she had no idea he was doing it.
+speaker1: she should have killed her father and him.
+speaker2: that's what you would've done. not everyone's you.
+speaker2: that was meant to be a compliment. put your arm back on my shoulder. she doesn't. so he drapes his on hers. then -
+speaker1: what happened with wennerstrom.
+
+speaker1: i was stupid. i got something from an anonymous source, who i'm sure now worked for him. it was fake. which he easily proved in court. 
+speaker2: you were emphatic that the way i looked into your life was illegal and immoral. would you feel the same about wennerstrom?
+speaker2: i started investigating him on my own. then you showed up and hired me. i haven't had a chance to look at it all - you and harriet-fucking- vanger have kept me busy ... but i may have something.
+speaker1: on wennerstrom.
+
+speaker1: wennerstrom's swedish assets are genuine, but they're the only things that are. the rest is funneled through companies in gibraltar, colombia, and macao. these companies produce no products and provide no services. they're shells. they launder money from arms and drug sales, and crime syndicates in russia. and that money - which accounts for all but 5-percent of his holdings - ends up in accounts in the cayman islands. it's a completely illegal, criminal empire. 
+speaker2: how do you know this?
+
+speaker1: this time you don't want to know. 
+speaker2: this time i do want to know.
+speaker1: i have access to his computer, and his accountants' and lawyers'.
+speaker2: and how do you have that?
+speaker1: i could have gotten it from a source inside the company.
+speaker2: but you didn't.
+speaker1: but that's what you'll say.
+speaker2: but what will you say to me?
+speaker1: that depends on if you really want to know.
+speaker2: i do. who gave you access?
+
+speaker1: dragon tattoo final 9/1/11 sz 
+speaker2: in the current issue of millennium magazine, he now charges the same company that successfully sued him - the wennerstrom group - of criminal activities on a global scale - backing it up with internal financial reports, bank records and emails - annotations almost as long as the article itself. the cover of the magazine features a head shot of
+speaker3: he'll call it a personal vendetta but it won't work. fi can't ignore banking and securities fraud like this. the police can't ignore the organized crime stuff. they'll both have to investigate.
+speaker4: then.
+speaker3: we'll be back in court, but this time it'll cost him. that's probably it, though. these guys never to prison.
+speaker3: what's wrong.
+speaker4: it's embarrassing.
+speaker3: what.
+speaker4: i need to borrow some money.
+
+speaker1: i have a chance to make an investment. it's a smart, safe investment. 
+speaker2: i don't know that i have that much.
+speaker1: you do. i'm sorry that i know that. you have 65 thousand in your two accounts.
+speaker1: you'll get the money back. i promise.
+
+speaker1: what about his documentation? 
+speaker2: fabricated. all of it.
+
+speaker1: mr. blomkvist names no sources. 
+speaker2: and we can't force him to. but we can look for them.
+speaker1: beginning where?
+speaker2: beginning with those closest to mr. wennerstrom. only someone in the inner circle of a corporation like this could have access to this kind of information.
+
+speaker1: mr. wennerstrom isn't available for comment today, but as his legal counsel, i'd be happy to answer your questions. 
+speaker2: where is he?
+speaker1: at home, i imagine.
+speaker2: he isn't. has he left the country?
+speaker1: i don't think so.
+
+speaker1: i have a number of accounts at bank of kroenfeld, cayman islands. i want to transfer those funds and convert them to bonds. 
+speaker2: naturally, you have the clearing codes.
+speaker1: naturally.
+speaker2: how many accounts will you be transferring?
+speaker1: thirty.
+speaker2: this will take some time.
+speaker1: for which you'll receive a 4-percent commission.
+
+speaker1: i will. 
+speaker2: then it won't be a waste of it.
+speaker1: thank you, i have one.
+
+speaker1: a swedish tourist vacationing here in barbados says he knows where fugitive financier hans-erik wennerstrom is: here in this caribbean island's capital, bridgetown. police released this photograph, taken yesterday by the tourist, jens assur - 
+speaker1: - and say they believe it is the disgraced billionaire.
+
+speaker1: how many of these would you like to convert for deposit? 
+speaker2: all fifty. into five accounts.
+speaker2: that looks correct.
+
+speaker1: that money, approximately two billion euros, was then spread over a number of accounts with the help of this confederate, seen here in zurich - 
+speaker1: - who converted the funds into private bonds, which, i'm told, are even harder to trace than wennerstrom himself. europol has launched a search for the woman who had used a stolen norwegian passport. her whereabouts, like her boss's, are unknown.
+
+speaker1: the money i borrowed. 
+speaker2: already.
+speaker2: thank you.
+speaker1: thank you.
+speaker2: good investment?
+speaker1: it was okay.
+speaker1: what are you doing later?
+speaker2: seeing my daughter.
+speaker1: okay.
+speaker2: you look nice.
+speaker1: thanks.
+
+speaker1: - shot three times in the head at close range in what is being called a classic gangland execution. 
+speaker2: what would you like?
+speaker1: the investigation into wennerstrom's ties to crime organizations worldwide will now turn to speculation: which of them caught up with him before swedish authorities could?
+speaker2: sir?
+speaker1: wennerstrom spent the last days of his flamboyant life in solitude and anonymity, locked behind the door of room 3a -
+speaker3: ... coffee and a sandwich ... that one.
+speaker1: indeed, after checking in, he was never seen again - until this morning when the building manager came calling to collect the unpaid bill -
+
+speaker1: it's perfect. 
+speaker2: your father?
+speaker1: a friend.
+speaker2: must be a very good friend. he's lucky.
+

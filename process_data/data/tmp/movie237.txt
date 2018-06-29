@@ -1,0 +1,728 @@
+speaker1: do you think he's really dying? 
+speaker2: he's been dying for ten years.
+speaker1: i think he's really dying this time. a beat. their breath turns instantly to mist.
+speaker1: he has to be bled every night now.
+speaker2: how do you know that?
+speaker1: i've been so informed.
+speaker1: if he weren't really dying he wouldn't have sent for us.
+speaker2: maybe he just misses us.
+speaker1: and the senators. he wouldn't have summoned them if --
+speaker2: peace, commodus. after two weeks on the road your incessant scheming is hurting my head.
+speaker1: the first thing i shall do is honor him with games worthy of his majesty.
+speaker2: the first thing i shall do is have a hot bath.
+
+speaker1: why have we stopped? 
+speaker2: we're here, sir.
+speaker1: where is my father?
+speaker3: he's at the front, sir.
+speaker1: is the battle won?
+speaker3: don't know, sir. they've been gone for eight days.
+speaker4: civilization at last. gods preserve us.
+
+speaker1: you would do as well to read the mind of a rhinoceros. 
+speaker2: these barbarians would rather drown in blood than yield an inch. if i didn't hate them so much i would admire them.
+speaker1: they simply will not surrender.
+speaker3: a people should know when they are conquered.
+speaker3: at the first signal release the catapults. we'll use the cavalry to cut off the retreat.
+speaker2: general, i don't recommend that. our cavalry might be caught in the flames.
+speaker3: i hope not, because i'm going to be leading them.
+speaker3: why don't they know they're already dead?
+
+speaker1: hold steady... steady... 
+speaker1: steady...
+speaker1: brothers -- i salute you! for rome!
+
+speaker1: caesar. 
+speaker2: maximus, you prove your valor again.
+speaker1: i don't think there's anyone left to fight.
+speaker2: there are always people left to fight...
+speaker2: but this night, at least, germania is at last defeated... what will you do now, my friend?
+speaker1: should caesar permit, i'll go home. i've been away too long. i've forgotten my wife's face and i barely know my son.
+
+speaker1: stop... ... you speak our language? 
+speaker2: you have been in my homeland for twelve years. of course i speak your language. so did my son, who you murdered. so did my daughter, who you raped.
+speaker3: come, caesar...
+speaker1: no. let him speak... ... i am rome, what would you say to me?
+speaker2: you are that sun, rome, and your time is over... you can slit a thousand throats here, and you can put a thousand babies to the sword, but it will always be our home.
+speaker1: now it is rome.
+speaker2: it will never be rome. not as long as one german breathes.
+speaker1: no... release him. give him safe passage. let him go to his family. the soldier leads the german prisoner away.
+speaker1: tell me again, maximus, why are we here?
+speaker3: for the glory of the empire, sire.
+speaker1: yes. i remember.
+
+speaker1: they honor you, caesar. 
+speaker2: i don't think they're standing for me, maximus. they honor you.
+speaker3: have i missed it?
+speaker3: have i missed the battle?
+speaker2: you've missed the war. we're done here.
+speaker3: father. congratulations. i shall sacrifice a thousand doves to honor your triumph.
+speaker2: spare the doves and honor maximus, he won the battle. commodus embraces maximus, even more awkward.
+speaker3: general, rome salutes you and i embrace you as a brother.
+speaker1: highness.
+speaker3: your spaniards seem invincible. may the gods favor the felix regiment now and always... here, father, take my arm.
+speaker2: where's your sister?
+speaker3: she's at the camp. she had no desire to see the gore of the battlefield.
+speaker2: lucilla would eat every corpse here if it brought her one step closer to the throne.
+speaker1: caesar, you do the lady injustice.
+speaker2: it's a foolish old cobra who doesn't recognize his own off-spring... i think... i should ride now.
+speaker2: so much for the glory of rome.
+speaker3: he's dying.
+speaker3: poor old man.
+speaker1: if you'll excuse me, highness.
+
+speaker1: what, gallus, losing your other hand? 
+speaker2: aye, general, they're going to make a bronze one for it. long fingers this time.
+speaker1: and the women of your village will crave your touch even more.
+speaker2: ah, then you know the women of my village. maximus smiles and moves on.
+speaker1: what's your name, son?
+speaker3: valerius, general.
+speaker1: the name suits you.
+speaker3: why am i dying?
+speaker1: you're dying because you love rome, as i do.
+speaker3: i've never been to rome.
+speaker1: neither have i. rome for us lives here... ... it's a thing inside us that came from our ancestors and that we give to our children.
+speaker3: it must be glorious, rome. i've only seen pictures. is it a glorious place?
+speaker1: yes, it's a glorious place.
+speaker3: it must be.
+
+speaker1: hail, marcus aurelius. 
+speaker2: stand up, senators. that unfamiliar posture doesn't suit you.
+speaker3: we live in supplication to your glory.
+speaker2: all the while conspiring with that fat man in rome. how is the old monster?
+speaker3: senator gracchus is hale, sire.
+speaker2: still damning me to the four winds?
+speaker3: still eager for your triumphant return to rome, caesar.
+speaker2: i would have silenced him decades ago -- but i just like him too much.
+speaker4: if you want to stay on, i support you. so do the men. i'll ask the emperor to appoint you in my place.
+speaker5: it won't be the felix regiment without you.
+speaker4: i'll return after a season at home.
+speaker6: that means after three or four more babies.
+speaker5: and you'll be too fat from vibia's cooking to get on your horse by then.
+speaker4: should the gods so bless me. i would be thankful.
+speaker7: hail, warriors. my congratulations.
+speaker8: highness.
+speaker7: my old friend, my father tells me you're returning to spain?
+speaker4: yes.
+speaker7: a pity. i'll need men like you in my army...
+speaker7: there are larger division that might appeal to you. even the praetorian guard. you've never been to rome. imagine arriving as head of the praetorians! they have really splendid uniforms.
+speaker4: i'm going home.
+speaker3: ... and why not apply for entry to the senate?
+speaker1: a war hero with a handsome face and a strong heart could go far.
+speaker7: general maximus, may i present senators gaius and falco. beware of this gaius, he'll pour a honeyed potion in your ear and you'll wake up one day and all you'll say is "republic, republic, republic..." laughter.
+speaker1: have you never considered rome?
+speaker4: no.
+speaker7: you've had my ear since we were children. you could be a valuable ally in the senate.
+speaker3: are you a believer in republicanism?
+speaker7: there -- i warned you.
+speaker4: i'm a soldier, not a politician.
+speaker3: if your heart lies with the people, i would back you for the senate.
+speaker7: not a word about that sodomite bastard.
+speaker3: the august senator gracchus has been rather a gadfly on the flesh of the imperial family.
+speaker1: he's a provocateur.
+speaker3: he lives under the antiquated assumption that the senate should represent the people with vigor.
+speaker7: i won't tolerate it. his incessant criticism exhausts me. the man can speak for five hours without taking a breath.
+speaker3: he serves rome best when he serves it with honesty.
+speaker7: enough... maximus, i would like to inspect the felix regiment at dawn.
+speaker4: i can't do that.
+speaker7: excuse me?
+speaker4: my men have been fighting for five solid days. they're too busy dying to go on dress parade.
+speaker7: of course, how foolish of me. some other time... he notes his father being helped out of the tent by several body slaves.
+speaker7: caesar retires early tonight.
+
+speaker1: if only you had been born a man... 
+speaker2: father.
+speaker1: what a caesar you would have made.
+speaker2: you're right.
+speaker1: i think you would have been strong. i wonder if you would have been just?
+speaker2: i would have been what you taught me to be.
+speaker1: well, pretend to be my loving daughter tonight and walk with me to my chamber.
+speaker1: this is a pleasant fiction, isn't it?
+
+speaker1: caesar. 
+speaker2: read this.
+speaker1: i never acquired the art, sir.
+speaker2: of course. no matter. in this letter i denote my intention to nominate you to stand for the emperorship after my death.
+speaker2: my son is not a moral man. you have known this since you were young. he cannot rule.
+speaker1: caesar, i am honored but --
+speaker2: for twenty years i have been spilling blood. for twenty years i have written philosophy and ruminated and conquered. since i became caesar i have only had four years without war. four years of peace in twenty. so perhaps i can be... forgiven.
+speaker2: while i have been fighting, rome has grown mad and corpulent and diseased. i did this. and now i shall make it right.
+speaker1: sire, you brought the light of the gods to barbarian darkness. you brought civilization and justice to the farthest --
+speaker2: i have brought the sword -- nothing more! rome is far away and we shouldn't be here. what matter is it to the gods if we subdue one more tribe of parthians or gauls? what matter is it to rome if a thousand more barbarians bend to our lash? a beat. marcus sits. he doesn't look at maximus.
+speaker2: winter, maximus. it's winter now...
+speaker2: there was a dream that was rome. i can only whisper of it now. anything more than a whisper and the dream vanishes. it's so... fragile. the true glory of rome is in a very fragile idea. imagine a place devoted to the rights of the citizen. where every free man has a voice. that was the dream... and i fear it will not survive the winter.
+speaker2: let's just whisper here, you and i.
+speaker1: yes, caesar.
+speaker2: if the dream is ever to live again the people must have a true voice. the voice i took from them. that all the caesars took from them, bit by bit, conquest by conquest. and now that i am dying i am going to give them that voice again.
+speaker1: you're not dying.
+speaker2: i am, maximus. it's strange... i find as i near the end i think little of the waning moments around me... instead i think much of the past... and of the future. how will the world speak my name in years to come? will i be known as the philosopher? the warrior? the tyrant? or will there be a more golden sounding to my name? will i be the emperor who gave rome back her freedom?
+speaker2: before i die i will give the people this final gift. i will give them the senate reborn. the voice of the people empowered again, as it was always meant to be. it is my design that they will elect the next emperor. and i would put forward your name with my backing.
+speaker1: caesar, you do me honor -- but your son has pride of place for succession.
+speaker2: you are the son i should have had... although i fear in my deepest heart that if you had truly been my son my blood would have polluted you as it did commodus. we're a cursed bloodline. we have lived so long in power and depravity that we no longer remember a life without it. we can no longer even imagine a life without it.
+speaker2: look at me, son.
+speaker2: son... i know that one grove of your vineyard is worth more to you than all the treasures of rome. i know one loving word from your wife is worth more than the accolades of an empire. but... a fond old man, who loves you more than he can say, begs you to at least think about what he has said tonight.
+speaker1: i shall, caesar.
+speaker2: i'll keep this letter to myself. i hope that with the sunrise you will agree. and embrace me as a father.
+speaker1: you have always been my father.
+
+speaker1: he always favored you... 
+speaker2: even over his son.
+speaker3: that's not true.
+speaker2: maximus, stop... let me see your face.
+speaker2: you've been crying.
+speaker3: i lost too many men.
+speaker2: what does my father intend?
+speaker3: i don't know.
+speaker2: you're lying. i could tell when you were lying even when we were children. you hate it.
+speaker3: i never acquired your comfort with it.
+speaker2: true. but then you never had to. maximus, stop... ... is it really so terrible seeing me again?
+speaker3: no. i'm sorry. i'm tired from the battle.
+speaker2: and you are hurt to see my father dying.
+speaker2: he will announce commodus' succession. that's why he summoned us. will you serve my brother as you served his father?
+speaker3: i will always serve the ideals of rome.
+speaker2: do you know i still remember you in my prayers...? oh yes, i pray... ever since that day you saved me from drowning off capri. do you remember?
+speaker3: yes.
+speaker2: commodus was so angry that a mere peasant -- a spaniard no less -- touched the royal person, do you remember his anger?
+speaker3: yes.
+speaker2: mark this, maximus: that is the man who will be emperor.
+speaker3: may i be permitted to go, highness?
+speaker2: there was a time when you didn't call me "highness."
+speaker3: and there was a time when you were just a little girl drowning in the sea. all that was a different life.
+speaker2: very different... i wonder if it was better?
+speaker3: it was more honest.
+speaker3: i thank you for your prayers.
+
+speaker1: i search the faces of the gods for ways to please you... to make you proud... and i can never do it. one kind word -- one full hug where you pressed me to your chest and held me tight -- would have been like the sun on my heart for a thousand years... what is it in me you hate so much? my eyes are your eyes. my hands are your hands. all i have ever wanted was to live up to you. caesar. father. he stands. we see that he is holding the scroll denoting marcus' intention to nominate maximus as emperor to the senate. commodus cannot control his tears. 
+speaker1: why does maximus deserve what i could never have? -- why do you love his eyes over mine? -- i would butcher the whole world -- if you would only love me...
+speaker2: general -- maximus --
+speaker3: quintus -- ?
+speaker2: the emperor needs you. it's urgent.
+
+speaker1: what is it? is he ill? 
+speaker2: i don't know...
+
+speaker1: lament with me, brother, our great father is dead. i want -- 
+speaker1: general, the gods' have taken the great man and left me alone. my first desire as emperor is that you take my hand in friendship. i need you at my side, maximus, at this moment above all others. stand with me.
+speaker2: how did he die?
+speaker2: how did he die?
+speaker1: the surgeons say it was his breath that gave out.
+speaker1: take my hand, maximus. i only offer it once. a beat.
+speaker2: how will the world speak your name now, old man?
+speaker3: hail, caesar.
+
+speaker1: what -- ?! 
+speaker2: please don't fight, maximus --
+speaker1: quintus --
+speaker2: i'm sorry, general, caesar has spoken.
+speaker1: quintus, what -- ?
+speaker2: i have no choice --
+speaker1: my family?!
+speaker1: what about my family, quintus?
+speaker2: they will greet you in the afterlife. maximus lunges at him -- the praetorians subdue him -- slamming him with a sword hilt -- knocking him unconscious.
+speaker2: take him as far as the sunrise and then kill him.
+
+speaker1: all right, this is far enough. 
+speaker1: you two take him down there where no one will find him.
+speaker2: come on, general...
+
+speaker1: have you ever done this before? 
+speaker2: what?
+speaker1: killed a man with a sword?
+speaker2: not like this, exactly... this is good, you can stop.
+speaker1: it can be very messy -- you could get blood all over your armor. you don't want to hack me up now. you want one clean stroke.
+speaker2: would you kneel, general?
+speaker1: one good stroke -- you do know where, don't you?
+speaker3: be quiet.
+speaker1: if you miss the spot there'll be blood everywhere. quite a spray.
+speaker4: all right, where?
+speaker1: here -- you don't want to hit the vein on the neck --
+speaker1: put the point of your sword here... you want one, good blow right at this spot --
+
+speaker1: even as the gods curse this dark day with clouds, so too does the sun begin to shine forth on a promised tomorrow. even as we mourn the passing of our father, so too do we celebrate the coming of a bright, new age for rome. at my side, brothers, you shall pull fresh glories from the heavens. at my side, brothers, you shall know the adoration of the gods. doubly-dark is this day because my friend, your noble commander maximus meridas, has been called to rome to deal with urgent matters of state... 
+speaker1: until his promised return i appointed quintus domitian to serve in his stead. i salute you, legionnaires!
+speaker2: hail, caesar!
+speaker3: hail, caesar!
+speaker4: quintus, what is -- ?
+speaker2: don't speak of it. never speak of it. he stalks off. titus and gallus, concerned, watch him follow after commodus.
+
+speaker1: am i in hades? 
+speaker2: yes.
+speaker2: for your wound...
+speaker2: for your wound.
+speaker2: if you die in the wagons they feed you to the lions... the lions are worth more than we are. i think we are worth more than the zebras though. so they don't feed us to them.
+speaker2: i'm not sure about the giraffe.
+
+speaker1: proximo, my old friend, see what i have for you today -- ! 
+speaker2: those giraffes you sold me won't mate! all they do is run around not mating! you sold me
+
+speaker1: i will make it up to you, master. it's bargain day for you! look, look, look -- i have two lions and a panther -- hear how they roar for you! "bring me home, proximo!" proximo examines the animals. 
+speaker2: how much for the lot?
+speaker1: for you -- 8,000 sesterces.
+speaker2: for me -- 6,000 sesterces and i want to see their first. and you throw in those two slaves.
+speaker1: what about this one? look at the arms!
+speaker2: good teeth --
+speaker2: where did you get those scars?
+speaker2: are you a soldier?
+speaker2: do you speak? --
+speaker1: 1,000 sesterces.
+speaker2: my ass... you throw in this one and we'll make it 7,000 sesterces for the whole lot.
+speaker1: i have to eat, master! he's my finest, i couldn't let him go as part of the lot for less than 9,000 total... i tell you this one is prime. he's a spaniard and killed fourteen of my men before he could be subdued!
+speaker2: that's enough.
+
+speaker1: i'll give you 500 sesterces. 
+speaker2: no -- no -- 1,000!
+speaker1: come, don't quibble with your old friend. i'll take the lions, the panther, the numidian and this one for 7,000. and i'll buy you the best in the town for two nights. she's an enormous mountain of flesh who craves a stern hand.
+speaker2: how could i say no to my old friend proximo?
+
+speaker1: slaves. i am proximo, trainer of gladiators. you live and die at my pleasure. fight well and you will live. fight poorly and you will die. it is better to live. 
+speaker1: here you will be trained in the art of combat. here you will be given the tools to survive. please my patrons in the arena and all the gifts of the world will be showered upon you. imagine riches beyond your paltry dreams of riches! imagine fame beyond your rude understanding of the word! all this can belong to the select few who prove their worth in the arena.
+speaker1: if... on the other hand... you disappoint me... you will be dismembered and fed to my jackals limb by limb.
+speaker1: and my jackals are always hungry.
+
+speaker1: have you killed a man before? 
+speaker1: you should eat. you'll need your strength tomorrow.
+speaker1: i've never killed a man. but i think you have.
+speaker1: i almost killed once. the romans destroyed my village. i was with a hunting party and when we returned... i would have killed every roman in the world.
+speaker1: if you don't eat you will die. maximus does not respond.
+speaker1: in the village i come from there was a man once. he went fishing one day and his boat was attacked by crocodiles. one of them ate his leg. he pulled himself to the shore and a lion attacked him. it ate one of his arms. he dragged himself through the desert on the way home and a scorpion stung his eye. so he only had one eye. when he reached the village i sat with him. i said, "you have lost a leg, an arm and one eye. you must have a mighty will to live." he said, "no, lord, it's just better than the alternative." maximus finally looks at him.
+speaker1: life is a gift from our fathers to us. who are you to give it up for lack of lifting a spoon?
+
+speaker1: i know nothing of armaments and warfare! i'm a scribe -- i write down words! i can write down seven languages -- 
+speaker2: be still.
+speaker1: i don't -- how do you hold the sword?! i've never held a sword!
+speaker2: you point the sharp end at your opponent and you shove it in his guts.
+speaker1: i can't -- i -- he suddenly vomits.
+speaker2: proximo! you insult me with this carrion! chain him to someone else!
+speaker3: dead guts! dead guts! dead guts!
+
+speaker1: some of you say you can't fight, you won't fight... they all say that... but one day you will pick up a sword and thrust it into another man. and the crowd will cheer you and love you. and you will love them for it. on that day... you will be a gladiator. 
+speaker1: in this life, we all die. all we can choose is how we die. and how we are remembered. be remembered proudly.
+speaker1: no...
+speaker2: are we going to fight each other?
+
+speaker1: make it 600 sesterces for each decapitation. 
+speaker2: how many strokes?
+speaker1: two.
+speaker2: for the great vibius, one stroke.
+speaker1: done. 400 sesterces for two strokes. in the arena:
+speaker2: who's he with?
+speaker1: a greek scribe.
+speaker2: i'll raise the wager.
+
+speaker1: we have plague in the hebrew quarter and it is spreading... we have looting at the granaries... we have so much filth in the tiber that the water is undrinkable... we have praetorian guard units that are demanding protection payments from the merchants at the exchange -- 
+speaker2: my city guard units have tried to curtail these excesses but no constabulary can police the entire city. and the praetorians outnumber us two to one.
+speaker1: rome dies as the emperor plays at beneficence. at least nero gave us music!
+speaker3: do you think he'll listen to us?
+speaker1: it is his duty to hear the will of the senate.
+speaker1: not to mention the traffic!
+
+speaker1: we honor caesar with the laurel to show our love and appreciation for his benevolence. 
+speaker2: caesar is honored to accept your tribute, citizen scholar.
+speaker2: it is the most sacred duty of the emperor to oversee the education of the young. if i could leave no other legacy than the scholarship of all children my life would be blessed. tutors, you hold the future of rome in your hands. teach them well so that they will bring honor to the empire. i salute you. commodus actually bows before them, an unimaginable honor.
+speaker2: look at them, senators... my truest gift to rome.
+speaker3: darling children, to be sure, now if i may proceed?
+speaker2: very well...
+speaker3: caesar, your presence in rome is an invaluable opportunity to begin correcting some of the ills that have beset the city since your father went to the wars. we would like to --
+speaker2: peace, good gracchus, peace...
+speaker2: my beloved father was a careless shepherd to his flock. i shall be a good father to my children. i shall remain in rome and show them how they are loved.
+speaker3: with respect, sire, the people don't need love -- they need law. the senate has prepared a series of protocols to begin addressing the corruption in the city -- -- starting with basic sanitation in the hebrew quarter. if caesar could study this and --
+speaker2: you see that's the very problem, isn't it, my old, old friend? my father spent all his time at study. at books and learning and philosophy...
+speaker2: he spent his twilight hours reading scrolls from the senate. all the while, the people were forgotten.
+speaker3: the senate is the people.
+speaker2: i doubt many of the people eat so well as you do, senator gracchus...
+speaker2: i doubt many of the people have such splendid armor, captain marcellus. or such fine mistresses, senator gaius. no... only their true father knows what the people need. i shall show them they are loved. i shall hold them to my bosom and embrace them tightly --
+speaker3: have you ever embraced someone dying of plague, sire?
+speaker2: no. but if you interrupt me one more time i assure you that you shall. i will emulate the immortal caesars of the past. i will give the people what they truly want. starting this day i will draw all of rome to the colosseum. i will give them bread. and they will want nothing more.
+speaker3: you want to hold games?
+speaker2: not just any games, senator! a series of games that will make the gods envious and leave my children happy! i will subsidize the arena from this day forth -- and i will culminate this celebration in a great spectacle the likes of which the world has never seen! a great spectacle to honor my father! magnificent, unending weeks of festivity all in the name of marcus aurelius!
+speaker3: if i may, caesar... how are you going to pay for this?
+speaker2: that is not your concern.
+speaker3: respectfully, sire, taxation and import duties are the exclusive province of the senate --
+
+speaker1: gentlemen, in the future do not concern my brother with these matters. come to me. she sweeps out. 
+speaker2: games? he wants to hold games?
+speaker3: it's madness.
+speaker4: no... it's not...
+speaker4: he knows who rome is. rome is the mob. he will conjure magic for them and they will be distracted. and he will takes their lives. and he will take their freedom. and still they will roar. the beating heart of rome isn't the marble of the senate. it's the sand of the colosseum. he will give them death. and they will love him for it.
+
+speaker1: i've wagered on you against the celts -- ignore the others and go for them -- there are two axe-and- net and two long spear. now the celts aren't used to the sun so you have the advantage there... the roar of the crowd is growing, they are nearing the arena... 
+speaker1: and keep them moving, their lungs aren't strong, ground the spears as soon as you can and then go for the ax-men. if you get all four there's an extra bonus so don't be distracted by the spartans...
+
+speaker1: butterfly? 
+speaker1: perhaps you'd like a woman?
+speaker1: boy? maximus shakes his head.
+speaker1: gold?
+speaker1: well, i have nothing left to offer you! a man who turns down a butterfly, a woman, a boy and gold confuses me. personally, i'd grab them all and then grab some more because the gods are fanciful and take us at their whim. does the spaniard have any needs? maximus shakes his head.
+speaker1: you fight like a soldier. you have wounds like a soldier who has been on long campaigns. you eye the world around you like an enemy.
+speaker2: gladiator.
+speaker1: and nothing more?
+speaker2: nothing more. a beat.
+speaker1: in two days we leave for rome.
+speaker1: ah... so it's rome you want. well you shall have her, gladiator. the new emperor has ordered a series of matches to culminate in a grand spectacle. if you do well i shall become very, very rich. if you do well enough i shall set you free. is it freedom you want? a beat.
+speaker1: not even that.
+speaker2: the emperor -- will he be there?
+speaker1: oh yes. he's apparently quite mad about the games. spending a fortune, which is, needless to say, good for me again. but what is good for you, gladiator?
+speaker2: have you -- how does one meet the emperor?
+speaker1: as a gladiator?
+speaker2: yes.
+speaker1: one doesn't.
+speaker1: except... if one has proven oneself in battle. if at the end of the games you are the final man standing -- the emperor will present you with a small wooden sword. the sword is your freedom.
+speaker2: he give it personally?
+speaker1: he did to me... our great father marcus aurelius looked into my eyes and touched me on the shoulder.
+speaker2: you knew marcus?
+speaker1: i didn't know him. he touched me on the shoulder. just once. but that was enough.
+speaker1: all right, gladiator. we shall go to rome together and have adventures. the great will suckle us until we are fat and happy and can't another drop. that is rome.
+
+speaker1: all my desires are splitting my head to pieces -- there's so much i want to do -- but all my efforts to show my children they are loved go unappreciated by those dragons in the senate -- 
+speaker2: quiet, brother...
+speaker2: leave the senate to me. don't trouble yourself.
+speaker1: all i want is to be a good father to my people. why don't they understand that?
+speaker2: shhh. the tonic will help...
+speaker2: yes, just drink this down.
+speaker1: i must take a firmer hand with them. they must know their father can be firm. as our father was firm with us.
+speaker2: our father lost his way. his mistake was believing the old songs of the "republic." we know better. so let the senate talk. they have no real power.
+speaker1: yes... yes... you always know the way. you were always so wise in these matters... you know if i didn't have my duty to rome i think i should be an artist. i should go away and paint pictures of the sea and leave all the politics to you...
+speaker1: will you stay with me?
+speaker2: still afraid of the dark, brother?
+speaker1: still. always.
+speaker1: my dreams would terrify the world.
+speaker2: i'll stay with you until you are asleep.
+speaker1: and after... just sit with me. keep me safe... he is asleep. she watches him for a moment and then rises.
+
+speaker1: he's asleep. be quick. 
+speaker2: we've taking a sounding, the senate is with us.
+speaker1: good.
+speaker2: but we are only words. we are air.
+speaker3: the city guard is faithful to the republic. but we don't stand a chance against the praetorians.
+speaker1: can they be bought?
+speaker3: they are zealots -- totally committed to your brother.
+speaker2: well, can they at least be rented for a day?
+speaker3: i doubt it. he pays them exorbitant salaries and lets them loot and extort as they see fit. the city belongs to them.
+speaker1: and they've started arresting scholars now. anyone who dares speak out -- even satirists and chroniclers.
+speaker3: and mathematicians and christians.
+speaker4: and what pays for it? these games are costing a fortune and yet we have no new taxes.
+speaker1: the future. the future pays for it...
+speaker1: he's started selling the grain reserves.
+speaker4: no.
+speaker3: that can't be true...
+speaker1: he's selling rome's reserves of grain. the people will be starving in two years. i hope they are enjoying the spectacles because soon enough they will be dead because of them.
+speaker3: rome must know this.
+speaker1: and who will tell them?! you, marcellus? you, senator gaius? will you make a speech on the senate floor denouncing my brother? and then see your family in the colosseum? what town-crier would dare?
+speaker1: he must die.
+speaker4: the praetorians would only seize control themselves.
+speaker1: no -- cut off the head and the snake cannot strike.
+speaker2: lucilla, gaius is right. until the city guard can neutralize the praetorians we can accomplish nothing.
+speaker3: and i haven't enough men.
+speaker1: what about the army?
+speaker4: no roman army has entered the capital in a hundred years.
+speaker1: so we do nothing?!
+speaker5: mother...
+speaker6: i heard voices...
+speaker1: it's all right, darling, you -- lucius suddenly notices senator gracchus:
+speaker6: senator! what did you bring me?! he leaps onto gracchus -- gracchus laughs and pulls something from his robe.
+speaker2: for you prince lucius... a sea monster!
+speaker2: off the coast of achaea they grow twenty times this size, with snapping teeth to devour any nasty praetorians they come across... now, where is achaea?
+speaker6: below macedonia!
+speaker2: show me on the map.
+speaker1: lucius, you go in now, i'll be in shortly.
+speaker6: thank you, senator mountain!
+speaker2: you're welcome, prince anthill!
+speaker1: what are you going to do?
+speaker2: peace child... one dark night the gods will light our path. they will give us the voice we need. have faith in that. have faith.
+
+speaker1: not what you expected? 
+speaker2: no.
+speaker1: rome is nothing but a slaughter house. and we are the meat.
+
+speaker1: tradition. he watches over us. 
+speaker1: oh go on, it won't kill you.
+speaker2: stop that! you'll get some monstrous disease and then you'll be worth nothing to me!
+
+speaker1: do you think it will be much different? here in rome? 
+speaker2: bigger arena. same killing.
+speaker1: are you scared for tomorrow?
+speaker2: no.
+speaker1: me too.
+speaker1: i never though it would be so easy to kill.
+speaker1: so you're finally home.
+speaker2: this isn't my home.
+speaker1: for all romans... this is home.
+speaker1: among my people we honor the soil of our home. our ancestors are in that soil. all their dreams live there. i will never see my home again. the soil is dead and no one honors them, so the dreams die.
+speaker2: perhaps one day you'll return.
+speaker1: how can i go back? i am not what i was. when a man kills for no reason, he has lost himself. a long beat.
+
+speaker1: ... and the emperor will have no more animal battles today -- upset roars from some of the trainers. 
+speaker2: you promised me a bear match, cassius!
+speaker3: i have ten gorillas! you said gorillas yesterday!
+speaker1: talk to the man in the imperial box. who has the next slot...? -- lentulus, gideon, trebonius and proximo -- -- nice to have you back, you piratical -- now listen, the emperor wants the carthage spectacle.
+speaker4: no -- have pity, cassius -- !
+speaker5: my men are too good for -- !
+speaker1: you give us the carthage match or lose your spot on the rotation -- but don't worry -- gold is flowing from the emperor's fingers.
+speaker5: it'll cost you --
+speaker4: i won't do it for less than 100,000 sesterces -- !
+speaker6: 120,000! all i have is my best thracians!
+speaker1: and i want to see this famous spaniard of yours -- his reputation soars from the provinces. the people are eager for him --
+speaker4: i won't throw my spaniard into a spectacle! you and the rotation!
+speaker1: you will and the price will be 90,000 sesterces each -- -- which you all know is exorbitant
+
+speaker1: my thracians are worth -- ! 
+speaker2: give me your best, brothers. they die before caesar.
+speaker3: i give you 30,000 my spaniard will kill at least one of your thracians.
+speaker1: 30,000?! on a spaniard?! that provincial sun has curdled your brain!
+speaker3: then make the wager, you smug bastard!
+
+speaker1: all right -- there are three other teams, four men each -- you know what a thracian looks like? 
+speaker2: yes, but --
+speaker1: ignore the others -- go for the thracians. the sun is to the east -- over the gate -- keep your back to the gate and you won't have the sun.
+speaker2: what -- ?
+speaker1: hurry -- !
+speaker1: die well and we'll sing songs about you for a generation.
+speaker3: this day we reach back to hallowed antiquity to bring you... the fall
+speaker3: but on that illustrious day the gods sent against them rome's greatest warriors...! the very life-image of nobility and glorious valor... who would on this day, and on these same arid numidian deserts, decide the fate of the empire... your emperor is pleased to give you... the
+
+speaker1: why is he still alive? 
+speaker2: i don't know.
+speaker1: he shouldn't be alive. that vexes me. i am terribly vexed...
+speaker1: there, that's better. do you like the platform here?
+speaker2: mmm.
+speaker1: i do too. simple, elegant...
+speaker1: father would have wanted something more ornate but he's dead now.
+speaker1: maximus meridas haunts me. i see father turning away from me and gazing at him. how many times did i suffer that indignity, i wonder?
+speaker2: what are you going to do?
+speaker1: i'm going to kill him.
+speaker2: good.
+speaker1: oh, you're too clever, sister. don't tell me part of you won't weep for him.
+speaker2: when he defies my brother the emperor, he defies me. but you shouldn't send assassins.
+speaker1: no?
+speaker2: the people embraced him today. they will be expecting his next match... ... let him die in the arena like the slave he is. let the people see what comes of defying caesar.
+speaker1: he wounded you deeply, didn't he? long ago.
+speaker1: nonetheless, your political acumen is, as always, unerring.
+
+speaker1: i will fight with you. 
+speaker2: this isn't your battle.
+speaker1: better to die for a friend than to die for gold.
+speaker3: enjoy yourself, madame... general, perform well and there will be riches for you.
+speaker4: rich matrons pay well to be pleasured by the bravest champions.
+speaker2: i knew your brother would send assassins. i didn't think he would send his best.
+speaker4: maximus, listen to me --
+speaker2: my family were crucified and burnt while they were still alive.
+speaker4: i knew nothing of that.
+speaker2: don't lie to me.
+speaker4: i wept for them.
+speaker2: don't. a long, tense moment.
+speaker4: do you know what it is to be the daughter of the emperor? i learned on the night my father had my husband killed. i loved my husband very much. very... simply. he was a man who believed in the republic. he was a man who thought marcus should be tending to rome and not conquering the world. one night my father had him strangled for conspiring with the senate. my father never spoke of it. i never spoke of it. that is what it is to be the daughter of rome.
+speaker4: my son will live. he will survive this cursed bloodline. rome will die and the jackals will pick her clean -- but my son will survive. empires come and go. cities crumble to dust. only family matters.
+speaker2: my son was innocent.
+speaker4: so is mine.
+speaker2: i want your brother dead.
+speaker4: so do i.
+speaker4: my son will never be safe while he lives.
+speaker2: how do you plan it?
+speaker4: the senate is with us, and the city guard. we have growing power in the streets. but we need a leader.
+speaker2: so the crown passes to your son.
+speaker4: no. so that my son will be safe. so that we may leave this charnel house forever and never look back. look into my eyes, maximus, and believe what i say to you...
+speaker4: by all the gods, and in the name of my father who loved you, and in the name of the husband i loved... i swear to stand by your side in this now and always.
+speaker2: what is your son's name?
+speaker4: lucius verus. like his father.
+speaker2: i weep for him.
+speaker4: commodus plans to kill you in your next match in the arena. he's planning something. i will pray for you. as i have always done.
+
+speaker1: gods! that old homicide! the emperor must truly hate you. 
+speaker2: what can you tell me?
+speaker1: he cheats.
+
+speaker1: is it true you're a general...? 
+speaker2: i was a general.
+speaker3: i saw you fight. the carthage battle too. i've never seen so much courage.
+speaker2: it doesn't take courage to kill.
+speaker3: my father was killed.
+speaker2: i'm sorry.
+speaker3: he still comes to me in my dreams.
+speaker2: i had a father. he wasn't really my father but i cared for him very much.
+speaker3: i hope he comes to you in your dreams. my father and i ride horses in mine.
+speaker4: lucius, run along now. i need to talk to the general.
+speaker2: where is my army?
+
+speaker1: ... maximus will summon his army from ostia and he will strike from the inside as his army strikes from the outside. but he insists that the senate be present. 
+speaker2: we've been ordered to attend.
+speaker1: how many are with us?
+speaker3: about half. but once the tyrant is dead. all.
+speaker3: i want to meet him.
+speaker1: i'll arrange it.
+speaker2: and what of the emperor?
+speaker1: he has withdrawn. he's not eating. he doesn't go out. he won't even see me... i don't know what tempests rage within him but...
+speaker3: we should fear for the blackest storm.
+speaker1: yes.
+speaker2: one question... who is to be the actual regicide? a beat. she glances at him.
+
+speaker1: you didn't kill him. 
+speaker2: i will not kill another warrior. there is no honor to it.
+
+speaker1: tell him we will enter rome on the first day of commodus' festival. 
+speaker2: and they will march on rome for you?
+speaker1: yes. but this letter must go to the lieutenant named titus, no one else.
+speaker2: captain marcellus will take it. and his city guard will by with you when you get to rome. is that enough to face the praetorian guard?
+speaker1: the felix regiment will never be defeated.
+speaker3: i only have one question for you, general... why?
+speaker3: you will lead an army of your brothers on rome. many will die.
+speaker1: i want commodus dead.
+speaker3: that's not the reason. tell me the truth.
+speaker1: because one night an old man whispered to me about a dream. i will die for that dream.
+speaker3: i knew the old man well. and i loved him very much. in our youth we would spend hours building that dream together. after he went to the wars and lost his way... i was very cruel. i tormented him to remember that dream we spoke of.
+speaker1: he did.
+speaker3: you can have no idea how much that means to me.
+speaker3: any man who will die for a whispered dream deserves my respect. i honor you, general.
+
+speaker1: caesar... he turns. she stops. 
+speaker2: i am sorry to have kept you away...
+speaker1: of course...
+speaker2: i limited my world to these four walls so as to let my mind free... again and again my mind settles on but one question... what kind of world are we making when the people of rome prefer a slave in the arena to their father?
+speaker2: it is my responsibility to make the world as it should be. how is it i have made this world?
+speaker1: brother, do not be influenced by the mob. they are a great, faceless beast --
+speaker2: they are not "the mob," lucilla, they are the people. they are my children and all i want to do is love them.
+speaker2: our father loved maximus... and i love him still... yet he defies me, he tasks me in front of my children. and they love him for it. just as marcus loved him for it. tell me why, lucilla.
+speaker1: they see themselves in him. they throw in their own sad dreams alongside his. they think he fights for them.
+speaker2: and what do i do but fight for them?! i give them games to please them. i strangle dissent to give them peace. i empower the praetorians to give them order. what more can i do?!
+speaker2: say i should fight him, in the arena. let my children see who the gods truly favor.
+speaker1: and what if he should win? a beat.
+speaker2: a is more powerful than a man...
+speaker1: caesar, you let this unduly worry you. at best he is a passing fancy -- he is a name, an image on a banner, ephemeral -- he will be forgotten as the next fancy appears --
+speaker2: but i need to know -- why do they love him?
+speaker1: mercy.
+speaker1: he will not kill in the arena. he is merciful. as they all wish they were in their own hearts.
+speaker2: and for that moment in the arena they are merciful too. for a moment... they are gods. offering life.
+speaker2: but who can be more merciful than the emperor of rome?
+
+speaker1: brother... we've taken a sad path since we were children at capri, have we not? 
+speaker1: for my own part... i am sorry it came to this. and to you alone of all men, i acknowledge my errors. and my regret. i shall live with my sin for all my days.
+speaker2: as will i, commodus. as will i.
+speaker1: as the first act of my contrition i offer you the wooden sword of freedom.
+speaker1: take it, brother. stand at my side as a free man worthy of your ancestors.
+speaker2: i only have ancestors because of you, brother. you killed everything that ever lived alongside me.
+speaker1: take it, maximus. let us heal that fatal wound together.
+speaker2: this is the new home you cursed me to. and i am safer here from your treachery than i could ever be outside.
+speaker1: will you always mistrust me?
+speaker2: why don't you ask your father that?
+speaker2: i have more power as a slave in the arena than i could ever have as a free man. as the colosseum goes, the people go. as the people go, the empire goes.
+speaker1: you think this is power? i could show you power, slave --
+speaker2: no, caesar... i will show you.
+
+speaker1: the felix regiment will come from here. we'll face the body of the praetorians outside -- here. once inside, my archers will take up position to counter opposition inside the colosseum. i'll enter and join you -- we'll attack here -- maximus draws a line to the imperial box. 
+speaker1: -- a covert assault from within.
+speaker2: we'll be killed.
+speaker1: probably.
+speaker1: but if we aren't... think of the glory. do you remember glory, gladiator?
+speaker3: and if we die that day -- we die free men worthy of our ancestors.
+speaker2: you didn't know my ancestors. a rotten bunch.
+speaker1: then be worthy of him. the old titan who would rather die bravely in a just battle than slink off to grow old and fat.
+speaker3: and impotent.
+speaker2: if i die, i want a hundred whores at my funeral.
+
+speaker1: where is my sister? 
+speaker2: she's out, sir...
+speaker1: where?
+speaker2: i... don't know, caesar. commodus looks at her for a moment.
+speaker1: where is my sister?
+speaker3: was it centurion...? general...?
+speaker4: captain.
+speaker4: how did you know?
+speaker3: a soldier knows a soldier.
+speaker4: all that was a long time ago. too much wine and too many women. and too much money.
+speaker3: no --
+speaker4: this is who i am... you see? there was a time i would stand against ten men and never give an inch, spitting into the jaws of hades all the while. there was a time my heart swelled to strap on the armor of rome. but now...
+speaker4: now i am just an entertainer.
+speaker3: you said something to me once. you said in this life, we all die. all we can choose is how we die. and how we are remembered. do you recall those words?
+speaker4: yes.
+speaker3: then be remembered proudly. this is your time, proximo. stand at my side and be what you were. what you truly are. one last time. a beat.
+speaker4: you might have spared yourself the speech, general. the lady lucilla bought all my gladiators two hours ago!
+speaker3: you pox-ridden -- !
+speaker4: i am the richest trainer in the empire! and i will let my gladiators do anything you like! conspire away, general!
+speaker4: but i tell you -- if you survive this madness i want you to go into business with me. i'll give you a quarter of my holdings.
+speaker3: a quarter?!
+speaker4: a third. and not a hair more. and you'll have to start in the provinces! cleaning up the lion
+speaker3: you know, if you were half so awful as you pretend, you'd be a terrifying man. maximus shakes his head, smiling, and goes. proximo sits for a moment.
+
+speaker1: lucilla -- 
+speaker2: don't even say it. i know it's dangerous -- but i had to see you. captain marcellus has gone to the army with your message as you instructed.
+speaker1: good.
+speaker2: he says the city guard will be ready at the south road at noon. they can only wait for an hour so --
+speaker1: you've told me this already.
+speaker2: did i? all right then. so everything is prepared. the senate will be in attendance and you have your gladiators -- the usual cohort of praetorians will be inside the arena --
+speaker1: lucilla... why are you here?
+speaker2: tell me honestly... please... do you think it will work?
+speaker1: no.
+speaker2: do you think we'll all die?
+speaker1: yes. she leans against a wall.
+speaker2: will you swear something to me?
+speaker1: yes.
+speaker2: will you swear it on the memory of your son?
+speaker1: yes.
+speaker2: by all that you have ever loved... swear that if you survive you will take my son out of rome. swear that you will go far away and never return.
+speaker1: i will.
+speaker1: and if i should not survive... swear to me that you will honor my family in your prayers always.
+speaker2: i will.
+speaker2: had i not been the daughter of rome...
+speaker1: shhh... my heart breaks enough.
+
+speaker1: sister... join us. i've been reading to dear lucius. 
+speaker2: i've been reading too.
+speaker1: yes, he's a very smart little boy. he'll make a grand emperor one day.
+speaker1: join us, sister.
+speaker1: we've been reading about the great julius and his adventures in egypt.
+speaker2: she killed herself with a snake!
+speaker1: and just wait until you hear what happened to some of our other ancestors! if you're very good, tomorrow night i'll tell you the story of emperor claudius. he was betrayed! by those closest to him... ... by his own blood... they whispered in dark corners and went out late at night and conspired and conspired... lucilla looks as if she is going to be ill. lucius is busy scanning the scroll. commodus gently strokes his hair, his cold eyes never leaving lucilla's.
+speaker1: but the emperor claudius knew that they were up to something dire. he knew they were busy little bees. and one night he sat down with one of them and he looked at her and he said: "tell me what you have been doing, busy little bee, or i shall strike down those dearest to you. you shall watch as i bathe in their blood." and the bee knew he spoke the truth, for the emperor always speaks the truth. and what do you think happened then, lucius?
+speaker2: i don't know, uncle.
+speaker1: the bee told him everything.
+
+speaker1: come -- 
+speaker2: but --
+speaker1: if you want to live -- follow me --
+speaker3: go, spaniard! we'll show these roman dogs how gladiators fight!
+
+speaker1: all the old gladiator schools have tunnels to the colosseum -- most have long since collapsed -- 
+speaker2: how did they know?
+speaker3: we were betrayed.
+speaker2: i'll stay here. in case they follow.
+speaker2: go! bring us the army!
+speaker1: quickly --
+
+speaker1: down that corridor is the butchery -- the blood sloughs lead to the tiber. gods watch over you. 
+speaker2: you're not coming?
+speaker1: they are killing my men! he races back into the tunnel.
+
+speaker1: what is that fire? 
+speaker2: why that's a bonfire, lucius. i arranged it just for you. he puts his hand on the boy's shoulder.
+speaker3: caesar...
+speaker2: oh... that's for my sister.
+
+speaker1: by all the gods... 
+speaker2: old friend...
+speaker1: you're returned from hades! by all the gods!
+speaker2: where is he?
+speaker2: i forgive you.
+
+speaker1: rome... this is the day that was foretold. this is the day when your father takes away all fear... with these hands i shall destroy your enemies so that you may sleep always and forever in peace. from this day forth let it be known that i, lucius aelius aurelius commodus, have surmounted mortality. that i, lucius aelius aurelius commodus, assume my destined place... at the side of the gods. the crowd is stunned. a few scattered laughs. 
+speaker1: and as a righteous i shall ever protect you. i shall cradle the world on my benevolent hands and clasp it to my heart. so i have spoken! and let the heavens tremble at my might!
+
+speaker1: this day i reclaim rome for her people. i shall give you the rebirth of your empire! reborn and cleansed of her enemies! 
+speaker1: i will make a new rome! founded as it was at the beginning! archers --
+
+speaker1: so it was for romulus and remus, 
+speaker2: remember your mother.
+speaker3: caesar -- we must go -- !
+
+speaker1: captain? 
+speaker1: where are they going?!
+speaker2: this way!
+
+speaker1: for my wife! 
+speaker1: for my son!
+speaker1: for my father!
+speaker1: we who are about to die salute you.
+
+speaker1: general, the purple is yours if you so desire. the senate will support you. 
+speaker2: rome... you are better than this. look inside yourselves. i challenge you to find your true voice. help the senate speak for you. make them your champion... and dare to think what could be.
+speaker2: i give you back the dream.
+speaker2: when everything has calmed down, lead an orderly withdrawal. take them home. titus salutes.
+

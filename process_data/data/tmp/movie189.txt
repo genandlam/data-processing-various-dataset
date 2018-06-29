@@ -1,0 +1,973 @@
+speaker1: poppa! 
+speaker2: poppa... may we go in there?
+speaker3: alright... your turn.
+speaker2: oh,look m-ummy! elephants!
+speaker3: oh, elephants! we'll go see them.
+speaker3: you won't be long?
+speaker4: i'll join you shortly.
+speaker5: a wicked birth...
+speaker6: ladies and gentlemen, his lungs are larger than this mammoth blacksmith's bellows. so great is his power of exhalation, rivaling even that of the great north wind, that he will now challenge two grown men to attempt to hold the bellows shut as he applies the mighty blast of his herculean breath! are there any volunteers?
+speaker6: ah! i see two likely lads! come forward! come forward! pit your strength against the mighty wind- man!
+speaker6: gentlemen... are you ready?
+speaker7: yes we are... right... etc.
+speaker6: ladies and gentlemen!... let the demonstration begin!!
+speaker6: ladies and gentlemen!... "the
+
+speaker1: make way! make way! 
+speaker2: oh yes they are, they're yours alright. we hear the laughter of a crowd.
+speaker3: i refuse to believe it! i will not accept it! those babies are simply too ugly, they cannot be mine!
+speaker3: i don't want them! get rid of them! i don't want to see them!
+speaker4: darling, don't be difficult! let's take our sweet lovely children on an outing.
+speaker3: we'll take these miserable whelps on an outing, alright! we'll take them to the zoo... where they will stay!
+speaker4: children save yourselves! prevail upon your pappa!
+speaker5: poppa! poppa! poppa, please!
+speaker2: beast, beast...
+speaker6: no! that's right out! drop the curtain!
+speaker7: you can't do that! i've got my rights!
+speaker8: i have the authority to close you down, and i'm doing just that!
+speaker8: this exhibit degrades all who see it, as well as the poor creature himself.
+speaker7: he's a freak! how else can he live?
+speaker8: freaks are one thing. no one objects to freaks, but this is entirely different. this is monstrous, and ought not to be allowed. these officers will see to it that you are on your way as soon as possible. good day.
+speaker7: ...movin' again! he shakes his head in disgust.
+speaker7: have a care, guv'nor.
+speaker9: forgive me...
+
+speaker1: how long has this man been here? 
+speaker2: three quarters of an hour.
+speaker1: mmmm. hodges, pierce come closer. mr. hill, take hold of the rope please. it's a machine accident. i expect you'll be seeing a good deal of this.
+speaker1: abominable things these machines. one can't reason with them.
+speaker2: what a mess.
+speaker1: what got you into medicine, hodges?
+speaker3: my father, sir. he's built quite a successful practice. i hope to take it over one day.
+speaker1: is that your case as well, pierce?
+speaker4: yes sir. though of course i do have a great desire to help my fellowman.
+speaker1: of course you do realize that medicine has changed quite a bit since your father's time. in those days we didn't even wash our coats. in fact, the sign of a truly accomplished surgeon-- was his black operating coat, so stiff with dried blood and pus that it could stand up by itself in the corner. i've still got mine upstairs... you don't mind blood, do you?
+speaker5: oh no, sir.
+speaker1: good, that's one thing we've always plenty of.
+
+speaker1: excuse me, mr. treves, sir. 
+speaker2: yes?
+speaker1: i found it.
+speaker2: did you see it?
+speaker2: i'll be with you in a moment ...
+speaker3: i say freddie, what are you about?
+speaker2: oh nothing... nothing of any great importance.
+speaker2: do you know where the proprietor is?
+
+speaker1: he's not a peeler... 
+speaker2: no, i don't think so.
+speaker1: no... i don't think so.
+speaker3: are you the proprietor?
+speaker1: and who might you be, sir?
+speaker3: just one of the curious. i'd like to see it.
+speaker1: i don't think so. no sir, we're closed.
+speaker3: i'd pay handsomely for a private showing. are you the proprietor?
+speaker1: handsomely?... who sent you?
+speaker3: pardon me?
+speaker1: never mind. i'm the owner.
+
+speaker1: stand up! 
+speaker2: stand up!
+speaker1: turn around!
+speaker2: turn around! turn around!
+speaker3: the owner is locking up.
+speaker4: so you'll bring him to me, tomorrow, 10:00 a.m.? mr...?
+speaker1: bytes. mr. bytes. he'll be there.
+speaker4: i'll send a cab. here is my card.
+speaker1: now we got a deal... we understand each other... guv. we understand each other completely.
+
+speaker1: not at all, sir. my... pleasure. he exits. 
+speaker2: i'll be in my rooms, mothershead. i'm not to be disturbed.
+speaker2: come with me, please.
+speaker3: you heard the doctor... go on.
+
+speaker1: my name is frederick treves... i am a surgeon here at the london hospital, and i lecture in anatomy at the medical college... i would very much like to examine you. would that be all right? 
+speaker1: ah... yes. um, first i would like to ask you a few questions, would that be all right?
+speaker1: good. now, let's see. your owner... um, the man who... who looks after you tells me that you are english and your name is john merrick. is that correct?
+speaker1: do you know where you were born? where you come from?
+speaker1: i tell you what, i'll ask you a question, and you shake your head like this for "no" and nod like this for "yes", alright? do you understand?
+speaker1: are you in any pain?
+speaker1: um, no. just nod your head like this for "yes" and shake it like this for "no". now, are you in any pain?
+speaker1: are your parents still alive?
+speaker1: do you understand? are they dead? your father... your mother?
+speaker2: freddie, what you doing for... i say do open a window in here or...
+speaker2: oh, i'm dreadfully sorry, i had no idea that... i say!
+
+speaker1: good lord, freddie! what have you got in there? 
+speaker2: you'll know presently. at the meeting of the society. but until then, i beg of you fox, keep it to yourself.
+speaker1: certainly, if you insist. you must have quite a find there.
+speaker2: i don't know what i've got.
+speaker1: nothing of any importance, eh?
+speaker2: i'll tell you this much, fox, it's beyond anything you or i have ever dealt with. keep it to yourself, please.
+
+speaker1: come sit down. 
+speaker1: sit... down.
+speaker1: i think i'll examine you now. i'll save the questions for later... will you take off your hat now, please? the figure does nothing. treves moves to him.
+speaker1: don't be frightened, i simply want to look at you. do you understand?
+speaker1: that's right, don't be frightened. don't be frightened.
+
+speaker1: are you ready? 
+speaker1: go ahead.
+
+speaker1: he is english, he is twenty-one years of age and his name is john merrick. gentlemen, in the course of my profession i have come upon lamentable deformities of the face due to injury or disease, as well as mutilations and contortions of the body, depending upon like causes; but, at no time have i met with such a dreaded or perverted version of a human being as this man. i wish to draw your attention to the insidious conditions affecting this patient. note, if you will, the extreme enlargement of the skull... and upper limb, which is totally useless. the alarming curvature of the spine... turn him, please... the looseness of the skin, and the varying fibrous tumors that cover 90% of the body. 
+speaker1: ...and there is every indication that these afflictions have been in existence, and have progressed rapidly, since birth. the patient also suffers from chronic bronchitis. as an interesting side-note, in spite of the afore-mentioned anomalies, the patient's remain entirely intact and unaffected.
+speaker1: so then, gentlemen, owing to this series of deformities: the congenital exostoses of the skull; extensive papillomatous growths and large pendulous masses in connection with the skin; the great enlargement of the right upper limb, involving all the bones; the massive distortion of the head and the extensive areas covered by papillomatous growth, the patient has been called, "the elephant man."
+
+speaker1: hmm? 
+speaker1: hmm?
+speaker1: it's been a long day for everyone.
+speaker1: oh, yes, you'll need a cab... stay.
+speaker1: come with me.
+
+speaker1: you never mentioned his mental state. 
+speaker2: he's imbecile, no doubt from birth. he speaks, but... it's all gibberish. no, the man's a homeless idiot... i pray he's an
+speaker3: quite a coup, freddie. you'll look splendid in the journal.
+speaker4: where ever did you find that creature?
+speaker5: it's a pity.
+speaker1: i pity the poor cab driver, myself.
+
+speaker1: did it go well, darling? 
+speaker2: yes, very well, i think. are the girls in bed?
+speaker1: yes, and they send their kisses. would you like your sherry now?
+speaker2: no, i think a whiskey.
+
+speaker1: belt up, you misbegotten garbage. how can i eat with that? 
+speaker1: out of my sight!
+
+speaker1: bytes! don't... 
+speaker2: this won't do, my lad. this just won't do!
+
+speaker1: our man is sick. come right away. 
+speaker2: what is it?
+speaker1: like this.
+speaker2: i'll get my bag.
+
+speaker1: what did you do to him? he's been like this all night! 
+speaker2: what do you mean?
+speaker1: he was fine when he left here, and now look at him.
+speaker2: i intend to.
+speaker2: what happened?
+speaker1: he fell. he falls.
+speaker2: he must have taken quite a fall.
+speaker1: he's a clumsy git. never watches where he is going.
+speaker2: why is he sitting up like this? he needs rest.
+speaker1: that's the way he sleeps. if he lays down, he'll die. head's too heavy.
+speaker2: this man belongs in hospital.
+speaker1: can't you fix him up here? ...he's my livelihood. listen.
+speaker2: you listen, you're not going to have much of a livelihood if this man dies. he's got the rale, he's very weak, and i don't know how much damage has been done by his "fall". now stop wasting time and fetch a cab.
+speaker1: i really appreciate this, guv. you know, there's lot of things that i can do for you. i move in the proper circles, for this type of thing...
+speaker3: in fact, anything at all, if you take my meaning.
+speaker1: i like doing business with you. you and i understand each other, completely. i know i can trust you. can't i?
+speaker2: everything will be seen to.
+
+speaker1: nora! mind your duties... if you don't concentrate dear, you'll only make more work for the rest of us. now, get about your business. ...and do get your collar straight, dear. 
+speaker2: i'm so sorry, mrs. mothershead.
+speaker1: do get on with it, nora.
+
+speaker1: breakfasting with the patients this morning, mr. treves? 
+speaker2: it's for a patient.
+
+speaker1: mr. treves, come over here a moment, won't you? 
+speaker1: good morning, treves.
+speaker2: good morning, sir.
+speaker1: you've acquired a taste for this?
+speaker2: it's quite nutritious, sir.
+speaker1: don't be mad. this muck can kill you.
+speaker1: take this up, to to the man in the isolation ward when you have a moment, won't you?
+speaker3: yes, sir.
+speaker2: don't be frightened. he won't hurt you.
+speaker1: indeed!
+
+speaker1: a hospital is no place for secrecy, mr. treves. doctors spiriting hooded figures about are liable to cause comment. why wasn't this patient properly admitted, and why is he in isolation? is he contagious? 
+speaker2: no sir, he's got bronchitis and he's been badly beaten.
+speaker1: why isn't he in the general ward, then?
+speaker2: well sir, he's quite seriously deformed, and i fear the other patients would find him... rather shocking.
+speaker1: deformed? is that it. then am i to assume that he is ultimately incurable?
+speaker2: yes sir.
+speaker1: what are your plans then, treves... you are aware that the london does not accept incurables. the rules are quite clear on that point.
+speaker2: yes, i'm well aware of that. but this case is quite exceptional.
+speaker1: oh, is he a friend of yours?
+speaker2: no, more of an acquaintance.
+
+speaker1: i certainly sympathize with your problem, treves... why don't you try the british home, or the royal hospital for perhaps they would have a place for him. 
+speaker2: yes sir, i'll look into that. would you like to meet him sir?
+speaker2: excuse me, sir.
+speaker1: the elephant man?
+
+speaker1: i'm sorry, my dear, i should have warned you. i'm so terribly sorry, please forgive me. there, you're alright now. go downstairs and please ask mrs. mothershead to come up. tell her to knock on the door and wait for me. alright? 
+speaker2: yes sir. i'm sorry, sir.
+
+speaker1: i'm very sorry about that. are you resting well? the e.m. makes a garbled sound. 
+speaker1: ah good. well then... oh yes, we'll have to get you some more food. i'm sure you must be simply famished. hmm?
+speaker1: of course you are. now then, i think you'll be quite comfortable up here for awhile. i'll see to it you have everything you need, and, uh... yes.
+
+speaker1: did you see him? 
+speaker2: yes.
+speaker1: what's wrong with him?
+
+speaker1: ah, mothershead. how are you feeling today? 
+speaker2: fine.
+speaker1: good. excellent. now then, mrs. mothershead, i want you to come into this room with me. inside there is a man with a rather... unfortunate appearance.
+speaker2: i've heard.
+speaker1: yes... well, i want you to clear up a little mess, a breakfast tray was spilt. and bring up another breakfast. when you've done that, you and i shall give the man a bath. but, mothershead, i'm counting on your many years of experience to get you through this, above all, do not scream, do not cry out, or in any way show this man that you are frightened of him...
+speaker2: sir, you don't have to worry about me. i'm not the sort to cry out. shall we go in?
+speaker1: yes... yes, let's go in.
+speaker3: mothershead goes right to the mess.
+speaker1: i would like you to meet mrs. mothershead - mrs. mothershead, mr. john merrick.
+speaker2: how do you do?
+
+speaker1: the disease is shocking. 
+speaker1: i wonder how far it can go before it...
+speaker2: sit still. don't wiggle about like a pup. i won't stand for any foolishness.
+speaker1: it's pretty certain that if he had the disease as a child, he was abandoned. but in that case, he'd have to have had care. the very fact that he's alive bears that out... but, where?
+speaker2: the workhouse.
+speaker1: yes! the workhouse!
+speaker1: the workhouse.
+
+speaker1: what's all this, then? 
+speaker2: mr. treves is scrubbing his elephant man.
+speaker1: elephant man?
+speaker2: yeah... i hear it's a real horror. even made mothershead scream.
+speaker1: friend of the night, eh? the elephant man. i think i'll have me a look at that.
+speaker1: now, you need the scrubbing, ducks!
+
+speaker1: lights are being turned off. 
+speaker2: lights go off.
+speaker3: large iron door is closed.
+speaker4: half the lights go off.
+
+speaker1: here he is, the old fiend of the night, the terror of the london. let's have a look at you. let's see what makes 'em scream... 
+speaker1: cor blimey!
+speaker1: so this is the elephant man. i ain't never seen nothing like you before. what the bleedin' happened to you?
+speaker1: oh... eh? he takes a big swallow of the gin and smiles.
+speaker1: good. i likes people what can keep quiet.
+speaker1: like a drink? go on... go on have some. no? you should try being more sociable, mate.
+speaker1: you and i are going to be good friends, we are. and, i've got lots of friends who i know would like to meet you. and they will, mate... they will. he moves to the door and turns.
+speaker1: welcome to the london.
+
+speaker1: here early again, eh mr. treves? if you don't mind my saying so, sir, with your early habits, you'd 'a made a fine milkman. 
+speaker2: good morning, charley. i'll keep that in mind!
+
+speaker1: mr. merrick? 
+speaker1: ....good morning... john. i've brought your breakfast.
+speaker1: what are you doing down there? come up john, come up on the bed. the cold floor is bad for you. i won't hurt you, come on now...
+speaker1: you must eat. we must keep your strength...
+speaker1: ...what on earth is the matter with you?
+speaker1: now please, john, you must do as i say. come up from there.
+speaker2: good morning, mr. treves. it'll be his bath-time soon. has he eaten?
+speaker1: not quite yet, mrs. mothershead. there seems to be some difficulty this morning.
+speaker2: won't come out, eh?
+speaker1: no, he's very upset about something.
+speaker2: just being obstinate, sir. i'll handle it.
+speaker2: alright, my son, none of this fuss. come up from there, this instant.
+speaker1: no! don't pull at him like that. we don't want to frighten him more than he already is.
+speaker2: honestly, sir, you must be very firm with this sort. otherwise they'd lay about on the floor gibbering all day long. all he understands is a good smack.
+speaker1: he's had his share of "smacks", mothershead. i expect that's what drives him under the bed. we must use patience and understanding with this man.
+speaker2: perhaps you've got the time for that, mr. treves, i certainly don't. i've got an entire hospital to look after, and you have your real patients. don't waste your time with him sir, it's like talking to a wall. i don't mean to be harsh, but truthfully what can you do for him? i'll be back later for his bath. and mr. carr gomm would like to see you when you have a moment. good day sir.
+speaker1: what good am i to you...?
+speaker1: ...what is my purpose? ...it's so important that i understand you. i want to help you, i want to be your doctor... but i can't help you unless you help me, unless i know what you are feeling. i believe there's something back there, there's something you want to say, but i've got to understand you. do you understand me?
+speaker1: no! you are going to talk to me! we are going to show them! we're going to show them that you're not a wall. we are going to talk! do you understand? nod your head if you understand me!
+speaker1: you do understand me! you understand. now you're going to say it. i've got to hear how you say things. now, very slowly, say "yes." treves carefully mouths the word.
+speaker1: "yes."
+speaker3: yyyy... yyye... yyyess.
+speaker1: yes john!
+speaker3: ...yyes
+speaker1: yyyess.
+speaker3: yyess.
+speaker1: that's much better. i could understand that "yes".
+speaker3: yes!
+speaker1: very good! oh yes! now listen. i'm going to say some things to you and i want you to repeat them... um... i want you to say them back to me. do you understand? i'm going to say some things to you and i want you to say them back to me. do you understand?
+speaker3: yes.
+speaker1: excellent! now, say... "hello"
+speaker3: hello...
+speaker1: my name is...
+speaker3: my... name is...
+speaker1: john merrick.
+speaker3: john... merrick
+speaker1: say "merrick".
+speaker3: merrick...
+speaker1: say "mmmerrick."
+speaker3: mmmerrick.
+speaker1: say "mmmerrick."
+speaker3: mmmerrick.
+speaker1: well, that's alright. i understand you. now, say the whole thing again, hello ...
+speaker3: hello... my name is... john merrick.
+
+speaker1: oh, mrs. mothershead, please forgive my behavior yesterday. i'm sorry if you're having to do extra work on my account. it was just seeing it... 
+speaker2: patients here are not "its". they are either "he's" or "she's", but that's alright, ireland. this one's going to be more work for all of us. good girl! mind your broth.
+
+speaker1: come in. 
+speaker1: why, my dear mrs. mothershead, how good of you to join us. mr. merrick, will you please introduce yourself?
+speaker2: hello, my name is john merrick.
+speaker3: good lord, mr. treves!
+speaker1: we've made tremendous strides today, mothershead. he listens and repeats with great attention, and this certainly isn't easy for him.
+speaker3: parrots can do as much, mr. treves. it's all very nice, but i don't see the point. you know they won't let him stay here.
+speaker1: i'm sure that if mr. merrick made a good impression on the hospital committee they'd see that he's the exception to their rule. now i'm not expecting miracles. i'm not saying he'll be able to read or write, but i do think that i can get him to speak for himself. i'm going to arrange things with carr gomm right now. that was very good, john, very good. that's all for today. we shall do some more tomorrow. mothershead?
+speaker1: i'll see you soon.
+
+speaker1: the door opens and treves enters. 
+speaker2: ah, treves...
+speaker2: have you contacted the british home and the royal hospital?
+speaker3: ah, no sir. i had planned to see them in the morning.
+speaker2: good! how is the patient?
+speaker3: he's doing very well. in fact that's why i came to see you. i think that if i were to present mr. merrick to the hospital committee, then they would have a chance to see for themselves not only the extraordinary nature of the disease, but of the man as well. if the committee had a chance to speak with him, hear him say a few words for himself, i'm sure they would see him as a patient, rather than as a violation of the rules.
+speaker2: a few words? i thought he was imbecile?
+speaker3: well sir, perhaps i should explain...
+speaker2: i really don't think that's necessary treves. i'm quite sure the committee will be able to make an equitable decision on the merits of the case, such as they are.
+speaker3: i don't agree. no one can make a reasonable decision about this man's future without at least meeting him. no doctor would presume to diagnose a patient he had never met.
+speaker2: no, treves, it's out of the question. now if it was up to me, i'd say "certainly, let's meet the fellow, by all means," i'm sorry, i simply can't speak for the other members of the committee.
+speaker3: then will you meet him, as a representative of the committee.
+speaker2: mr. treves, it's out of the question. i want to hear as soon as possible what the other hospitals can do. i'm sorry.
+
+speaker1: i want my man back. 
+speaker2: just a moment, how did you get in here?
+speaker1: never mind that, i want my man!
+speaker2: he's still very sick. please come downstairs with me. i'll explain the situation.
+speaker1: don't... don't muck me about. you've had plenty of time to fix him up, and he's leaving with me, now. do you understand me? now, mr. treves. we had a bargain!
+speaker2: you misunderstood. this man suffered a severe fall, if you take my meaning. he's my patient now and i must do what...
+speaker1: pull the other one, why don't you! we made a deal!
+speaker2: i know what you've done to him and he's never going back to that.
+speaker1: he's a freak! that's how they live. we're partners, him and i, business partners. you're willfully deprivin' me of my livlihood!
+speaker2: all you do is profit from another man's misery!
+speaker1: you think you're better 'n me? you wanted the freak to show all your doctor chums and make a name for yourself, you guv. so i gave him to you. on trust, in the name of science! and now i want him back.
+speaker2: you don't own this man!
+speaker1: i want him back!
+speaker2: so you can beat him? so you can starve him? a dog in the street would fare better with you!
+speaker1: i've got my rights, you, and i'm going to the authorities!
+speaker3: well, go to the authorities...
+speaker3: by all means do so. in fact, i'll fetch them myself. i'm quite sure they'd be very interested in your story, as well as ours.
+speaker2: now i think we really do understand one another.
+speaker1: right... right.
+speaker3: singularly unpleasant chap... uh... i don't suppose there would be any harm in my meeting your... patient, mr. treves.
+speaker2: thank you very much sir. shall we say in a few days then?
+speaker3: shall we say two o'clock tomorrow afternoon?
+speaker2: wh... whatever is most convenient for you, sir.
+speaker3: two o'clock then... you know treves... it seems this acquaintance of yours has become rather more than just an acquaintance.
+speaker2: ...yes, sir.
+speaker2: two o'clock?
+speaker3: elephant man? i don't want to meet an elephant man.
+
+speaker1: freddie? 
+speaker1: freddie?... freddie, don't look so discouraged.
+speaker2: i shouldn't be. we made great progress today. i taught him to repeat a few basic phrases. he did rather well, too, but i had to lead him every step of the way. though frankly, at times i was unsure of who was leading whom.
+speaker1: what do you mean?
+speaker2: well, i wasn't sure whether he was parroting me because that's all he was capable of, or whether he sensed that that's all i wanted to hear, and he was trying to please me.
+speaker1: but i thought you said that he was rather... simple?
+speaker2: he is. i mean, i've always thought he was. i think he must be. is he simple? or is that just something i've wished upon him to make things simpler for myself?
+speaker1: frederick, why are you so interested in this particular case?
+speaker2: i don't know. i can't explain it. if this is an intelligent man, trapped in the body of a monster, then i'm under a moral obligation to help free that mind, free that spirit as best i can, to help him live as full and content a life as possible. but! if he's an imbecile, who's body i can't treat and who's mind i can't touch, well, then my obligation is discharged. they can put him where they will; he won't be bothered, i won't be bothered, and everyone's conscience can remain free and untroubled. and that is my dilemma... what is in his mind?
+speaker1: perhaps you're just polishing a stone, endowing this elephant man with qualities he doesn't possess?
+speaker2: and what qualities are those? intelligence or stupidity?
+speaker2: i'm sorry... i don't know either. i just don't know.
+speaker1: well, these things take time.
+speaker2: i've only got until two o'clock tomorrow afternoon, when carr gomm meets him. somehow, between now and then i've got to make john merrick at least seem like an intelligent man... why am i fooling myself? nothing short of john delivering the sermon on the mount is going to sway carr gomm...
+
+speaker1: merrick's disguise hangs on the wall. 
+speaker2: the lord is my shepherd, i shall not want, he maketh me to lie down in green pastures; he leadeth me beside still waters. he restoreth my soul: he guideth me in the paths of righteousness...
+speaker3: righteousness...
+speaker2: righteousness for his namesake.
+
+speaker1: very good, very good. now, when your visitor comes today i want you to say it exactly the way you said it just now. i will introduce him to you and you will say the words you've learned. if you have any trouble with any of the words, i'll help you. i'm sure you'll be just fine. if you do as well for him as you've done for me these last two days, then i'm sure our visitor will be very pleased. now, let's go through the whole thing again, shall we? i will say "may i introduce you to mr. carr gomm." and you will say... 
+speaker2: hello, my name is john merrick. i am very pleased to meet you!
+
+speaker1: it's only a physical problem. he has trouble with certain sounds because of the constrictive deformity of the mouth. but he can talk, and has a great eagerness to make contact with people who will let him. so if you have any difficulty understanding what he is saying, just tell me and i'll make it clear. 
+speaker2: speaking is one thing, treves, but can the man comprehend?
+speaker1: ...as i said, it's only a physical problem... but i do feel that mr. merrick is very flattered that you're taking the time and trouble to meet him, and he's most anxious to make a good impression, so he might seem rather nervous.
+speaker2: he needn't. i have no desire to cause him any discomfort. did you make those inquiries we spoke about?
+speaker1: yes, i spoke to both the british home and royal hospital for incurables. i'm afraid that they weren't very encouraging, but they said they'd bring it up at their next committee meeting, so we should have their answers shortly.
+speaker2: fine, fine. you know, your dedication to this patient is an inspiring thing, treves. but you must remember that this is a hospital, and there are many patients here. patients who can be made well, and you owe them your first consideration. just don't become so obsessed, old man, that you begin to neglect them.
+
+speaker1: come in. 
+speaker2: john, may i introduce you to sir carr gomm.
+speaker1: hello... my name is john merrick. i am very pleased to meet you.
+speaker3: i'm very... pleased to meet you.
+speaker3: how are you feeling today?
+speaker1: i feel much better. thank you for asking. and you?
+speaker3: i'm feeling very fit, thank you. how is your bronchitis?
+speaker1: i feel much better. thank you.
+speaker3: are you comfortable here?
+speaker1: everyone has been very kind. i am extremely grateful.
+speaker2: mr. merrick likes the food here. don't you john?
+speaker1: oh yes! it is much better than what i am used to.
+speaker3: oh yes?
+speaker2: and what was that, john?
+speaker1: potatoes...
+speaker2: ...yes potatoes... but...
+speaker1: but the variety of food here is very pleasing... i commend you.
+speaker4: oh no, everyone has been very kind.
+speaker3: no, i meant in your former situation.
+speaker1: i'm feeling much better now...
+speaker3: tell me, how do you like mr. treves? as a teacher?
+speaker1: ...i... everyone has been very kind to me.
+speaker3: of course. how long did you and mr. treves prepare for this interview?
+speaker1: ...everyone has been very kind.
+speaker3: yes, of course... well, it's been a pleasure meeting you, mr. merrick. good day.
+speaker1: the lord is my shepherd, i shall not want. he maketh me to lie down in green pastures...
+speaker3: it was a nice try, treves, but the man is so obviously mouthing your words.
+speaker2: yes, i'm very sorry to have wasted your time, sir. i just felt that i had to do anything i could to protect him.
+speaker3: i'm sorry too. he simply doesn't belong here. he's be much happier somewhere else, where he could be constantly looked after. believe me, frederick, it's better that it worked out this way. good day.
+speaker3: what is it, treves?
+speaker1: thou preparest a table before me in the presence of mine enemies, thou anointest my head with oil...
+speaker2: i didn't teach him that part!
+speaker1: my cup runneth over. surely goodness and loving kindness shall follow me all the days of my life, and i shall dwell in the house of the lord forever.
+speaker2: how did you, know the rest? i never taught you the rest of it.
+speaker3: i don't understand.
+speaker2: tell me, john, how did you know the rest of the 23rd psalm?
+speaker1: i... i used to read the bible every day. i know it very well. the bible, and the book of common prayer. the 23rd psalm is very beautiful.
+
+speaker1: it was a great pleasure to meet you, mr. merrick. 
+speaker2: i am very pleased to meet you.
+speaker1: i hope we can talk together again sometime. good day.
+speaker3: i'll be right back.
+speaker1: i want to see you in my office as soon as you're through up here. we've a good deal to discuss.
+speaker3: of course, sir. thank you, thank you very much.
+speaker1: treves. well done.
+speaker3: not me, sir. mr. merrick. he succeeded in spite of my shortsightedness.
+
+speaker1: why did you let me go on like that, teaching you what you already knew? why didn't you tell me you could read? 
+speaker2: you did not ask me.
+speaker1: i never thought to ask. how can you ever forgive me?
+speaker2: oh, no do not say that. you have been so kind to me. i was afraid to say too much. people always want me to be quiet. you wanted me to speak, but i was afraid. forgive me.
+speaker1: we do have a lot to talk about, don't we?
+
+speaker1: can you imagine what his life has been like? 
+speaker2: yes, i think i can.
+speaker1: no you can't. you can't begin to know, no one can.
+speaker1: you are quite right, treves, this is an exceptional case. and i quite agree that the committee should see mr. merrick.
+speaker2: i could easily arrange...
+speaker1: no, not that way. broadneck and the others don't like to deal with patients directly. it makes them queasy... do you have any photographs of mr. merrick?
+speaker2: well, yes.
+speaker1: excellent. we shall present them, along with the other particulars of the case to the committee. i want them to see, exactly, how horribly his body has been affected. you and i shall vouch for his inner qualities.
+speaker2: do you think they'll go along with us?
+speaker1: of course they will. they're reasonable men.
+
+speaker1: read it. 
+speaker2: thou heardest my voice; hide not thine ear at my breathing, at my cry.
+speaker1: credit where credit is due. you'll have the paper every morning at breakfast.
+
+speaker1: i hear you have some trouble sleepin'... 
+speaker1: head's too heavy, eh?
+speaker1: and i heard a nasty rumor about you; i heard you can talk but you can't, can you... can you... can you?...
+speaker2: noooo!
+speaker1: no... no you can't! one word about me out of that stinking cakehole... just one word, and you'll have no trouble at sleepin'... no trouble at all. you understand me? do you!!
+speaker2: yyyesss.
+speaker1: there now, that's better, i'n' it?
+
+speaker1: as far as i can see, the only obstacle might be broadneck. he has enormous influence over the others, very old school, not an easy man to impress. in any case, if worse does come to worse, we still have the british and royal homes to fall back on, don't we. 
+speaker1: don't we?
+speaker2: no, we don't. their committees have informed me that they're unwilling to take mr. merrick, even if they were supplied with funds. they don't want him.
+speaker1: well, it's up to us then, isn't it?
+speaker1: don't worry treves, we'll make them see it our way.
+speaker1: they've eyes, haven't they?
+
+speaker1: ...due to the progressive nature of the disease, i feel sure that the patient does not have much longer to live. 
+speaker1: forgive the redundancy, gentlemen, but there is no other place for him. both the royal hospital and the british home have turned him down even if sufficient funds for his care were provided. the workhouse is certainly out of the question. the patient has an overwhelming fear of returning to the horrors of his past. his appearance is so disturbing that all shrink from him. he cannot, in justice to others, be put in the general ward of the workhouse. the police rightly prevent his being exhibited, and he is mobbed in the streets wherever he goes. what is to be done with him?
+speaker2: i, for one, am sick and tired of this competitive freak-hunting by these overly ambitious young doctors, trying to make names for themselves. to parade then about in front of the pathological society is one thing, but to waste this committee's valuable time with requests for shelter for these abominations of nature is quite another.
+speaker1: gentlemen, john merrick is not an animal, he is a man, fully aware of his condition. an intelligent, sensitive, literate man, with an intimate knowledge of the bible. his horrible infirmities do not reduce him to anything less than what he is, a man; and it would be criminal if we of the london hospital, his final refuge, the last place on earth where this man can find peace, were to cast him out.
+speaker3: gentlemen, may i make a suggestion. there are two small rooms off bedstead square that are no longer in use and would be admirably suited to mr. merrick's needs. i also propose to write a letter to the times, appealing to their readers for assistance. knowing the generosity of the british public, i feel we would have little trouble in raising the funds for his maintenance. indeed, this hospital's rules do preclude the admission of incurables, but if ever there was an exception to the rule, it is this patient. so therefore, i propose, if mr. treves is finished, that we put it to a vote. all those in favor of keeping mr. merrick here?
+speaker2: one moment, as far as i'm concerned this creature has no business being in our hospital. i think mr. carr gomm's letter would be an excellent idea, and when you appeal for funds, i think you should appeal for a more appropriate place for him as well. i agree the british public is generous, and i'm sure that somewhere the creature will find a happy and permanent home, but not here. one of the committee members says "i quite agree". carr gomm scowls a bit.
+speaker3: i see. all, then, that move we keep mr. merrick here?
+speaker3: all those opposed?
+speaker3: i see.
+speaker2: well then. in the meantime, of course, he needn't be turned out. he may stay in the rooms off bedstead square until such time as more suitable arrangements can be made, thus freeing the isolation ward for more deserving patients. well then, mr. chairman, if there is nothing further to discuss, i move that we adjourn this meeting and all go bout our normal business.
+speaker3: i second the motion gentlemen. this meeting is adjourned.
+speaker3: somehow i don't think they quite understand.
+
+speaker1: ...terrible though his appearance is, so terrible indeed that women and nervous persons fly in terror from the sight of him, and that he is debarred from seeking to earn his livelihood in any ordinary way, yet he is superior in intelligence, can read and write, is quiet, gentle, not to say even refined in his mind. 
+speaker1: i'd very much like to meet that gentleman. he sounds almost shakespearean.
+
+speaker1: "...in life until he came under the kind care of the nursing staff of the london hospital and the surgeon who has befriended him..." 
+speaker2: good publicity for the hospital, at any rate.
+speaker3: treves comes off well too, eh freddie?
+speaker4: it was pleasant of you to join us this evening, frederick.
+speaker2: your elephant man dining out this evening?
+speaker4: i understand the kitchen ran out of hay this morning.
+speaker5: do continue reading, mr. stanley, please.
+speaker1: "...it is a case of singular affliction brought about through no fault of himself; he can but hope for quiet and privacy during a life which mr. treves assures me is not likely to be long," there is a short pause.
+speaker4: the elephant man. makes you sound rather more like a zoo-keeper than a surgeon, frederick.
+speaker6: excuse me gentlemen. i seem to have lost my appetite. good evening.
+speaker4: i say, what's he on about?
+speaker3: he's getting a bit of a swelled head, if you ask me.
+speaker5: well, no one did ask you atkins. frederick treves is not only the most skillful surgical operator here, he's also a humanitarian of the highest order. you sound like a pack of whining school boys with your petty jealousies.
+speaker3: look here, fox, i simply said.
+speaker5: oh belt up!
+
+speaker1: there are cleaner rooms in the gasworks. 
+speaker1: who's all the fuss for, then?
+speaker2: don't you know? it's for that strange one.
+speaker1: mr. treves' elephant man? i hear he's got a trunk.
+speaker2: right, right.
+speaker2: blimey, now we're cleanin' up for circus animals!
+
+speaker1: good evening. how are you feeling? 
+speaker2: good evening. very well, thank you. and you?
+speaker1: very well, thank you. i have something for you, john. i'm sure you'll enjoy it, it's very popular.
+speaker1: i came to tell you that i'll be here early tomorrow morning. we're moving you to your permanent home. i'm sure you'll be very happy there, john. so get a good night's rest, there'll be new people to meet tomorrow. good night.
+speaker2: good night.
+
+speaker1: here... listen to this. this is a letter to the london times from the guvnor of the hospital. there is now in a little room off one of our attic wards a man named john merrick, so dreadful a sight that he is unable even to come out by daylight to the garden. he has been called the elephant man on account of his terrible deformity... 
+speaker1: ...his appearance is so terrible that woman and nervous persons fly in terror at the sight of him. ...and guess who can get you tickets to see him? your own sunny jim!
+speaker2: let's go see him, then!
+speaker1: keep your shirts on. ...when the time is right. right now he's in the attic but tomorrow they're movin' him into bedstead square, right into my lap... then... for the right price you'll see something you'll never see again in your life.
+speaker3: workhouse!
+
+speaker1: this is your new home, john. 
+speaker2: this... is my new home?
+speaker1: yes.
+speaker2: the hospital?
+speaker1: of course! what did you think?
+speaker2: how long will i stay here?
+speaker1: i promise you. you will never see the inside of that horrible place again. you will never, ever go back to the workhouse... or that man. it's a splendid room, don't you think?
+speaker2: when i'm next moved may i go to a lighthouse?... or to a blind-asylum?
+
+speaker1: has the response picked up? 
+speaker2: frankly, treves, it's not what i'd expected. a few small cheques. well- wishers. don't worry, these things undoubtedly take time.
+speaker1: but he's so afraid he's going to be carted off. i've promised him that won't happen.
+speaker2: well... i'll let you know if there's something in the afternoon post.
+speaker1: please do.
+
+speaker1: well, i think i can safely hand the duties over to you girls now. mr. merrick will require a bath every day... that way he won't pong quite so much. nora, you can instruct kathleen on the finer points of mr. merrick's bath. you'll be on your own tomorrow. 
+speaker1: don't look so glum girls. such enthusiastic volunteers should be more cheerful.
+speaker1: oh, and girls, under no circumstances are there to be any mirrors brought into this room.
+speaker2: he's... so ugly!
+speaker3: ugly or not, you're going to help me.
+speaker3: feeling better now, mr. merrick?
+speaker4: yes.
+speaker3: you look very nice in your new clothes.
+speaker4: thank you very much.
+speaker3: well, if there is nothing more, i suppose we'll be leaving you now.
+speaker4: no, nothing.
+speaker5: you look splendid, john.
+speaker4: thank you very much.
+speaker5: when one is invited to tea, one must look one's best.
+
+speaker1: make yourself comfortable, john. 
+speaker1: come and meet our quest, my love.
+speaker1: john merrick, i'd like you to meet my wife, anne treves.
+speaker2: i'm very...
+speaker1: john... what's the matter? john... why are you upset?
+speaker2: i'm not used to such kindness. from a beautiful woman.
+speaker3: would you like a nice cup of tea, mr. merrick?
+speaker2: yes... thank you.
+speaker1: yes, a cup of tea would go nicely.
+speaker1: john... would you like to see the rest of the house?
+speaker1: come with me, john. i'll show it to you.
+
+speaker1: mr. merrick, sugar? 
+speaker2: yes please, two.
+speaker1: one or two?
+speaker2: two, please.
+speaker3: john loves the house.
+speaker1: do you?
+speaker2: oh yes. you have so many nice things, and so much room.
+speaker1: oh?
+speaker3: yes, we do have a lot of room. but you should see the place on weekends, when i see patients here. sometimes there are so many, we have to set them down wherever we can. in fact, mrs. treves sometimes says that the only room she can call her own is the bedroom.
+speaker2: well, it's a lovely bedroom. what do you call that thing above the bed?
+speaker3: that's a canopy, john.
+speaker2: ohhh...
+speaker3: how is your tea, john?
+speaker2: it's very good. i'm enjoying my visit with you very much. it's so very kind of you to have me as a guest in your home. i'm sorry i made a spectacle of myself.
+speaker3: not at all, john.
+speaker2: i love the way you've arranged your pictures on the mantlepiece. is that the way it's done in most houses?
+speaker3: oh yes.
+speaker2: who are they of?
+speaker3: oh, our relatives... the children.
+speaker2: the children! may i see?
+speaker3: of course.
+speaker2: the children. where are your children
+speaker3: oh, they're gone for the day... with friends.
+speaker2: friends. ah yes, friends! how nice.
+speaker1: and here is one of frederick's mother.
+speaker2: how lovely.
+speaker3: yes.
+speaker1: and here are my mother and father.
+speaker2: they have noble faces.
+speaker1: i've always thought that myself.
+speaker2: oh, yes.
+speaker2: would you... would you like to see my mother?
+speaker3: your mother?
+speaker2: here.
+speaker1: oh... why mr. merrick she's beautiful.
+speaker2: she has the face of an angel... she was an angel. she was so kind... so kind to me. it's not her fault, for in the fourth month of her maternal condition she was knocked down by an elephant. i'm sure i must have been a great disappointment to her.
+speaker1: oh no, mr. merrick. no. no son as loving as you are could ever be a disappointment.
+speaker2: if only i could find her. if only she could see me now, here, with such lovely kind friends. you, mrs. treves, and you, mr. treves. then maybe she would love me as i am. i've tried to hard to be good.
+speaker2: please... please...
+
+speaker1: good morning, mr. merrick. 
+speaker2: good morning.
+speaker1: what is this that you're doing?
+speaker1: what is it?
+speaker1: what? oh! i see! it's st. phillips. oh, of course. why... why that's very good, i mean you've gotten the windows and arches just right.
+speaker2: yes.
+speaker1: but it's so good, i mean... it's so very good.
+speaker2: thank you... very much.
+speaker1: where did you get this box?
+speaker1: the hallway? oh, the wastecan!
+speaker2: i meant no harm, it was the only place where i could find cardboard. i thought it has been thrown away.
+speaker1: it's alright, it was thrown away. no one wants it. it's just that it's a little dirty, that's all.
+speaker1: what's this?
+speaker2: the main spire.
+speaker1: the... oh, the spire! how silly of me, it's as plain as day... mr. merrick, where did you learn to do this?
+speaker2: ...i learned a long time ago.
+speaker1: oh, but how will you finish it? you haven't any more cardboard.
+speaker2: i'll have to find some more.
+
+speaker1: come in. 
+speaker2: good morning, john.
+speaker1: good morning.
+speaker2: john, there's someone here who would like to meet you. would that be alright?
+speaker2: john, i'd like you to meet one of the brightest lights of the british stage, mrs. kendal. mrs. kendal, john merrick.
+speaker3: good day, mr. merrick.
+speaker1: good day...!
+speaker3: i've brought you some things. i hope you'll like, mr. merrick. i hope you don't think it too forward.
+speaker1: oh, no.
+speaker3: i knew you'd understand. here.
+speaker3: i want you to know that i don't go about giving my pictures to just anyone.
+speaker1: oh, no. i would never think it! it's so beautiful. you are so... i'll give it a place of honor, here, next to my mother.
+speaker3: she's very pretty, your mother.
+speaker1: yes. treves smiles at them.
+speaker1: mr. treves says that you are in the theatre. do you live there?
+speaker3: oh no, mr. merrick. i just work there.
+speaker1: well, even to work there would be wonderful. is it beautiful?
+speaker3: you've never been?
+speaker1: alas, no.
+speaker3: well you must go. it is one of the most beautiful places on earth. of course, i'm rather partial.
+speaker1: tell me about it, please!
+speaker3: it's very difficult to put into a nutshell, but i should say the theater is the shrine of the imagination, where one may suspend disbelief and travel anywhere in the world, to any time you desire. you may look over the shoulders of kings, unobserved, battle with ruthless tyrants, and marry the beautiful princess, all in the space of a few hours. onstage you may be whoever you wish to be, do anything you please, and always, always live happily ever after. the theatre is all the brightest and best things of the world, mr. merrick. it is lights and music, gaiety and joy. it's... well, it's romance.
+speaker1: romance!
+speaker3: that's one thing the theatre has in great store. which reminds me. i have something else for you...
+speaker3: have you read it?
+speaker1: no, but i certainly shall.
+speaker1: romeo and juliet. i know of this... "if i profane with my unworthiest hand, this holy shrine, the gentle fine is this: my lips, two blushing pilgrims, ready stand, to smooth that rough touch with a tender kiss."
+speaker3: good pilgrim, you do wrong your hand too much, which mannerly devotion shows in this; for saints have hands that pilgrims hands do touch, and palm to palm is holy palmer's kiss.
+speaker1: have not saints lips, and holy palmers too?
+speaker3: ay, pilgrim, lips that they must use in prayer.
+speaker1: o, then, dear saint, let lips do what hands do. they pray, grant thou, lest faith turn to despair.
+speaker3: why, mr. merrick, you're not an elephant man at all...
+speaker1: oh no?
+speaker3: oh no... no... you're a romeo.
+
+speaker1: mummy, listen to this! 
+speaker2: hush, jennifer, can't you see mummy's talking?
+speaker1: but it's about mrs. kendal, mummy! the actress you go on so much about!
+speaker1: "mrs. kendal, always at the forefront of fashion and form, was seen leaving the london the other afternoon. no, dear readers, the most facile actress of our day has not been taken ill, but rather said she was 'visiting a friend'. and who was the lucky recipient of this attention? quick enquiries proved it to be none other than mr. john merrick, the elephant man, with whom our readers are undoubtedly familiar. after a chat of three-quarters of an hour, mrs. kendal was kind enough to leave mr. merrick with an autographed portrait of herself. owing to a disfigurement of the most extreme nature, mr. merrick has never been properly presented to london society. but knowing that wherever mrs. kendal goes, others inevitably follow, the questions arises: will london society present itself to him?"
+
+speaker1: parkins, whose carriage is that? 
+speaker2: well mum, that looks like alexander, lord waddington's driver.
+speaker1: lord and lady waddington! well. drive back to the house. i can't be seen in this. they drive off.
+speaker3: thank you for your kind gifts. i can't say enough about this ring. and this walking stick is ever so dashing. so much more elegant than my old one. more tea?
+speaker3: if you have a chill i can close the window.
+speaker4: oh no, no, no, i'm fine. please... i mean, thank you.
+speaker3: i don't get out as often as i'd like to, for some people do find my appearance disturbing. of course, i can't fault them.
+speaker3: people are often frightened by what they don't understand.
+speaker3: and it is hard to understand, even for myself, for you see, mother was so very beautiful.
+speaker3: how's your tea?
+
+speaker1: watery headed bunch. 
+speaker2: i regret that i must leave you here, m' lord, m' lady. thank you so much for coming. it was an act of the greatest charity.
+speaker3: oh no, mr. treves, the pleasure was all ours. good day.
+speaker2: incredible, isn't it? well, i think john has had enough visitors for one day, mothershead. i've got a lecture at the college, i'll be back this evening.
+speaker1: excuse me, sir. i'd like to have a word with you.
+speaker2: oh?... well, quickly please, mothershead, i'm overdue.
+speaker1: i can't understand why you let those people go in there, sir.
+speaker2: now mothershead, you have to understand that this is very good for john. he relishes contact with people outside the hospital...
+speaker1: but you saw them, sir. they couldn't hide their disgust. they don't care anything for john, they're just trying to impress their friends.
+speaker2: aren't you being just a little harsh, mothershead? you yourself hardly treated john with much loving kindness when he first arrived.
+speaker1: i bathed him, didn't i? i fed him and cleaned up after him! if loving kindness can be called care and practical concern, then yes, i did treat him with loving kindness, and i'm not ashamed to say it.
+speaker2: you're right, mothershead, please forgive me... of course, i appreciate everything you've done for john, and i'm glad that you are concerned about his welfare. but, i'm the physician in charge and i must do what i think best. i'm also very late, so please forgive me.
+speaker1: if you ask me, sir, he's just being stared at all over again.
+
+speaker1: when will the stream be aweary of flowing under my eye? when will the wind be aweary of blowing over the sky? when will the clouds be aweary of fleeting? when will the heart be aweary of beating, and nature die? 
+speaker2: never, oh! never, nothing will die. the stream flows the wind blows the heart beats nothing will die.
+speaker1: mr. treves, there is something i've been meaning to ask you for some time...
+speaker2: yes, john?
+speaker1: ...can you cure me?
+speaker2: no john, i can't. i can care for you, but i can't cure you.
+speaker1: i thought as much.
+speaker2: john...?
+speaker1: come in.
+speaker2: are you looking for me, sister?
+speaker3: no sir, mr. merrick. i have something for you.
+speaker3: i thought these things would be helpful with your cathedral.
+speaker2: the cathedral is coming along nicely.
+speaker2: how blind of me. is there anything else, john, anything at all that i could get for you?
+speaker1: oh no! there is nothing! i have everything, you have given me everything i could possibly want. i am happy every hour of the day. i only wish there was something i could give to you.
+speaker2: please john, it would give me so much pleasure to give you something. something just for yourself. isn't there something you would like to have?
+speaker2: you want a dressing bag, john?
+speaker1: you don't think it's too gaudy, do you?
+
+speaker1: mr. treves, some more books arrived for mr. merrick. 
+speaker2: thank you, mothershead. have a porter put them in my office.
+speaker1: yes sir. what's that?
+speaker2: a dressing bag.
+speaker1: very smart indeed.
+speaker2: yes. john wants it.
+speaker1: a dressing bag?
+speaker2: you don't think it's too gaudy, do you.
+speaker1: well...
+speaker2: john thinks it's very dashing. something no gentleman should be without. i'm inclined to agree.
+speaker1: a dressing bag?
+
+speaker1: you stay with me. 
+speaker2: dinner will be served, shortly, dear.
+speaker2: more romances for john?
+speaker1: hmmm?
+speaker2: ...freddie! what's the matter? you've been like this all evening.
+speaker1: oh... i've just been thinking about something that man bytes said.
+speaker2: oh, freddie. what could that wretched vampire say to upset you?
+speaker1: that i am very little different from him.
+speaker2: oh that's absurd, frederick. no, no frederick, that's all wrong! john is happier and more fulfilled now than he has ever been in his entire life. and, that is completely due to you.
+speaker1: but why did i do it? what was this all for? so john merrick could live out his last days in peace and comfort? or so i could become famous?
+speaker2: frederick, just what is it that you are saying?
+speaker1: ...am i a good man or am i a bad man?
+speaker2: oh frederick.
+speaker2: you're a good man. a very good man.
+
+speaker1: ahh! broadneck! you'll no doubt be pleased to know that we've received a smashing response to my letter. it's all very heartwarming, though several letters do mention how beastly it would be to part the poor fellow from mr. treves and the staff, but since the committee insists... 
+speaker2: good day, carr gomm.
+
+speaker1: is this all there is for john? 
+speaker2: i'm afraid so, mrs. mothershead. perhaps tomorrow.
+
+speaker1: don't you think this is a bit premature? we don't have the backing yet to... 
+speaker2: steady on, treves. have a seat.
+speaker2: gentlemen, i know we begin every meeting by reading the minutes, but in the interest of speed i think we should conclude a matter discussed previously, to wit, that of mr. john merrick, the elephant man...
+speaker2: mr. broadneck?
+speaker3: mr. chairman! i was under the distinct impression that we had concluded discussion of this disagreeable matter. had we not ascertained that an elephant man is not acceptable as a patient? have we not, very generously, allowed the creature to use two of our rooms until such time as he could be properly disposed of? have we not...
+
+speaker1: broadneck is still talking. 
+speaker2: ...in light of these facts, our course is clear. the question is not whether to accept this creature as a patient, the question is when will those rooms be vacated for use by better qualified, more deserving cases? i move that this elephant man be removed from the premises immediately. we have a sacred duty to cure the sick, not care for circus animals. that is my last word on the subject. mr. chairman, shall we vote?
+speaker3: i take it, mr. broadneck, that your mind is fixed on this matter?
+speaker2: mr. chairman! don't you have ears? i am unalterably opposed to any...
+
+speaker1: ...no, my mind is made up on this, and i am resolved to stand firm. you shall not sway me. may we now vote, mr. chairman, at long last? 
+speaker2: yes, i believe that time has come.
+speaker3: gentlemen, her royal highness alexandra, princess of wales.
+speaker4: good morning, gentlemen. i hope i am not interrupting?
+speaker2: indeed not, your highness. your presence is always greatly appreciated. we were just about to put the matter of mr. merrick to a vote. the princess is very interested in mr. merrick's fate.
+speaker4: indeed i am sir, as is the queen. i have a brief communication from her highness which she has requested i read to you: to the governing committee, london hospital. i would very much like to commend you for the charitable face you have shown mr. john merrick, the elephant man. it is laudable that you have provided one of england's most unfortunate sons with a safe and tranquil harbour, a home. for this immeasurable kindness, as well as the many other acts of mercy on behalf of the poor, of which mr. carr gomm has kept me informed, i gratefully thank you. signed victoria, empress of india, queen of the united kingdom of great britain and ireland. i am sure you gentlemen may be counted on to do the christian thing.
+speaker2: thank you very much, your highness, you may be sure we shall.
+speaker2: well then, i move that mr. john merrick be admitted to the london hospital on a permanent basis, on condition that the hospital shall receive a yearly payment equal to the cost of occupying one bed, and that the funds for his care shall be clearly separate from hospital funds. all those in favor.
+speaker2: the motion is carried. broadneck, humiliated, cannot look at anyone.
+speaker2: well, now we may go about our normal business.
+
+speaker1: please, come in. 
+speaker2: good afternoon, john, mr. carr gomm has something he would like to say to you.
+speaker3: mr. merrick, it is my great pleasure to welcome you, officially to the london hospital. the governing committee this morning voted unanimously to provide you these rooms on a permanent basis. this is your home now. i'm so very, very pleased for you.
+speaker2: so you see, john, there's no need for a lighthouse. all your friends are here.
+speaker4: welcome home, john.
+speaker1: ...my... home?
+speaker2: yes, john.
+speaker1: you did this for me?
+speaker2: yes.
+speaker1: please... please thank the governing committee for me. i will do my utmost to merit their kindness.
+speaker1: my home.
+speaker2: there is one more thing, john. here.
+speaker2: is it the one you wanted?
+speaker1: oh, mr. treves. mr. treves.
+speaker2: are you sure? because i can take it back.
+speaker1: mr. treves. thank you my... friends.
+speaker5: clouds billowing, moving swiftly.
+
+speaker1: here now, these lovely ladies ain't never seen it! 
+speaker2: you're on mate. alright, alright, that's enough for this performance.
+speaker2: hang on, hang on, there's always tomorrow night. not to worry.
+speaker3: room for one more?
+speaker2: at the right price...
+speaker2: there's room.
+speaker3: well, let's be off then.
+speaker2: quietly now! quietly! we don't want to scare him.
+
+speaker1: hello, my name is john merrick. i am very, very pleased to meet you! 
+speaker2: curtain time!!!
+speaker2: no, no! you look lovely. don't change a thing, darling. you look like the bleedin' prince of wales.
+speaker2: my friends... the elephant man!
+speaker3: horrible... i told you it was horrible... just horrible.
+speaker4: come on jack... no... no, don't. etc.
+speaker3: 'cor, he's a real ladies' man, come on... give the ladies' man a kiss.
+speaker3: come on, you'll give him a kiss.
+speaker5: come on, jack.
+speaker3: here that's enough romance. now into bed.
+speaker2: a prince needs a harem!
+speaker2: mind his head... you'll kill him.
+speaker2: quiet down. quiet down. you'll have the whole place down on us.
+speaker2: everyone outside!!!
+speaker6: give 'im a drink.
+speaker2: here now... here now... he's had enough... show's over!
+speaker2: meet you at the peacock.
+speaker7: bring your friend.
+speaker2: i did real well tonight.
+speaker2: here... buy yourself a sweet. the night porter turns and leaves.
+speaker8: my treasure...
+speaker8: aren't you glad to see me?
+speaker1: bytes!
+speaker8: get into your cloak... ...now, your hood... do it!
+speaker1: ...alright.
+speaker8: let's go.
+
+speaker1: john? 
+speaker2: mr. treves?
+speaker3: good john?
+
+speaker1: i... i don't know what you mean, sir. 
+speaker2: don't lie to me. i know all about it. you were seen. where did you take him?
+speaker1: take him? now wait... i didn't take him anywhere. we were just having some fun. we didn't hurt him... just having a laugh, that's all.
+
+speaker1: when i left him, he was in his bed, safe and sound. 
+speaker2: you bastard! you tortured him. you tortured him, you bastard. where is
+
+speaker1: have a care, mr. treves. i ain't afraid of you! you and your bleedin' elephant man! i'm glad what i did! and you can't do nothing! only mothershead can sack me. 
+speaker2: done.
+
+speaker1: still haven't eaten, eh? 
+speaker2: bytes... please!
+speaker1: eat, my treasure, i want you healthy.
+speaker1: i'm beginning to feel your weight.
+
+speaker1: turn around! 
+speaker1: dance!
+speaker1: dance!
+
+speaker1: eat, my treasure. 
+speaker1: eat. i said eat!
+speaker1: eat, you. eat! eat!
+speaker1: i said eat!!
+
+speaker1: turn around! 
+speaker1: dance!
+speaker1: up! up!
+speaker1: give the call of the elephant!
+speaker1: louder!
+speaker1: get up you miserable bastard!
+
+speaker1: another bleedin' heart! 
+speaker1: you sly bastard. you're doing this to spite me, aren't you!
+speaker2: aw, bytes, he's sick.
+speaker1: he's doing it to spite me, i tell you, and it's got to stop!
+speaker2: he's sick, bytes. he's going to die.
+speaker2: what are you going to do?
+speaker1: i'll show you! i'll show you!
+speaker2: don't!
+speaker1: shut up!
+speaker2: bytes, please...
+speaker1: out!
+speaker3: bytes! bytes, please!!
+
+speaker1: you alright? 
+speaker2: y-y-yes--
+speaker1: want to come out?
+speaker2: you're english.
+speaker1: of course! you want out?
+speaker2: yes.
+speaker1: won't be a moment.
+speaker1: we've decided... you've got to get away from here...
+speaker3: here... you'll need these.
+speaker1: good of you, mate.
+speaker3: good luck.
+speaker2: but... but...
+speaker3: i'll be alright.
+
+speaker1: thank you, my friends. 
+speaker2: i'll go in with you, you'll need a ticket.
+
+speaker1: i'm just going to help my friend on board. 
+speaker1: this'll do.
+speaker1: i'm sorry i could only get you a third class ticket, but it's all we had.
+speaker2: oh no, my friend...
+speaker1: say hello to london for me. i miss her.
+speaker2: oh, yes.
+speaker1: you know, i saw you once there, in london. you're a great attraction.
+speaker1: luck, my friend, luck. who needs it more than we?
+
+speaker1: i'm sorry, you'll have to leave now. 
+speaker1: this is the end of the line, you'll have to leave now.
+
+speaker1: may i see your ticket? 
+speaker1: i'm sorry, there's no room for you on this ship, you'll have to wait for the next one, in the morning.
+speaker1: you heard me. there's no room. now be off with you.
+
+speaker1: wait! one more! 
+speaker1: you'll have to hurr...
+
+speaker1: look! it's dover! 
+speaker2: finally! dover!
+
+speaker1: little beast! i thought mummy told you not to bring that horrid thing. can't you behave? 
+speaker2: mummy! mummy! look at that man! his head, it's huge! mummy, why is his head so big? mummy? mummy?
+speaker3: do be quiet little jim. can't you see mummy is speaking?
+speaker4: hey mister, why is your head so big?
+speaker4: mister!
+speaker5: mister! mister!
+speaker4: why don't you answer me?
+speaker4: now i'll see you...
+speaker3: my son! my son! help!
+speaker3: stop that man! stop that man!
+speaker6: i am not an animal... i'm not... i'm not... i am a man.
+
+speaker1: there's a policeman to see you, sir. 
+speaker2: are you frederick treves, sir?
+speaker3: yes...
+
+speaker1: you know this man, sir? 
+speaker2: yes, he's... my friend.
+speaker3: mr. treves! treves.
+speaker2: john.... how can you ever forgive me?
+
+speaker1: it's all arranged. i'll send over some evening gowns for the sisters that you select to accompany mr. merrick. you'll be using the royal entrance and princess alexandra herself will be there to welcome him to her private box. 
+speaker2: i'm very grateful to you, mrs. kendal. this is just the thing to help him forget his ordeal. john will be very excited.
+speaker1: well it is a miracle he ever got back. and, i'm sure, mr. treves, under your expert care, he'll have many happy years ahead.
+speaker2: i fear not, mrs. kendal. even in the short time he was gone the size of his head has increased rapidly... as is his pain.
+speaker1: how awful for john.
+speaker2: and yet, not once have any of us heard him complain.
+speaker1: is he... dying then?
+speaker2: yes. there is nothing more frustrating, nothing that makes a physician feel more useless, than standing by watching his patient deteriorate. and when that patient is a friend, no... no, there's absolutely nothing i can do.
+speaker1: well, it's all quite... i've never heard... it's quite...
+speaker2: yes.
+
+speaker1: you women are such strange and wonderful creatures... alas, it seems to be my fate to fall in love with each and everyone of you. i especially wish you could all be with me tonight... i'm finally going to the theatre. 
+speaker1: ...the theatre...
+
+speaker1: fair katharine, and most fair, will you vouchsafe to teach a soldier terms such as will enter at a lady's ear and plead his love-suit to her gentle heart? 
+speaker2: your majesty shall mock at me; i cannot speak your england.
+speaker1: o fair katharine, if you will love me soundly with your french heart, i will be glad to hear you confess it brokenly with your english tongue. do you like me, kate?
+speaker2: pardonnez-moi, i cannot tell vat is "like me".
+speaker1: an angel is like you, kate, and you are like an angel.
+speaker2: o bon dieu! les langues des hommes sont pleines de tramperies.
+speaker1: what say you, fair one? that the tongues of men are full of deceits?
+speaker2: oui, dat de tongues of de mans is be full of deceits.
+speaker1: i know no way to mince it in love, but directly to say "i love you". what! a speaker is but a prater; a rhyme is but a ballad. a good leg will fall; a straight back will stoop; a black beard will turn white; a curl'd pate will grow bald; a fair face will wither; a full eye will wax hollow; but a good heart, kate, is the sun and the moon, or rather the sun and not the moon; for it shines bright and never changes, but keeps his course truly.
+
+speaker1: the chorus steps out to give the epilogue. 
+speaker2: thus far, with rough and allunable pen, our bending author hath pursued the story, in little room confining mighty men, mangling by starts the full course of their glory. small time, but in that small most greatly liv'd this star of england: fortune made his sword; by which the world's best garden he achiev'd. during the above, the camera moves in on john.
+speaker3: thank you for your warm greeting. ladies and gentlemen, tonight's performance was very special to me, because it was very special to someone else, a man who knows the theatre and loves the theatre, and yet tonight is the first time he's ever actually been here. i would like to dedicate... the whole company wishes to dedicate, from their hearts, tonight's performance to mr. john merrick, my dear friend.
+speaker4: stand up, john. let them see you.
+speaker5: oh no, i couldn't.
+speaker4: it's for you, john. it's all for you. go ahead, let them see you.
+speaker5: i feel as if i've traveled my whole life just to stand here.
+
+speaker1: wasn't mrs. kendal wonderful? i can't blame the king for wanting to marry her. 
+speaker2: will the cathedral be finished soon, john?
+speaker1: yes, very soon.
+speaker2: splendid. it's truly a masterpiece. well, i suppose i'll be on my way now. i hoped your enjoyed yourself this evening.
+speaker1: oh yes! it was wonderful!
+speaker2: i'm glad, john. goodnight.
+speaker1: mr. treves?
+speaker2: yes john?
+speaker1: mr. treves, tell me... tell me truly. is it alright, did i make any mistakes that you can see?
+speaker2: no, john, not one that i can see.
+speaker1: then i shouldn't change anything?
+speaker2: no, no, i wouldn't change a thing.
+speaker1: ...i'll walk you to the door.
+speaker2: goodnight john. sleep well.
+speaker1: you too, my friend. goodnight.
+speaker1: it is finished.
+speaker1: john... merrick!
+
+speaker1: when will the stream be aweary of flowing under my eye? 
+speaker1: when will the wind be aweary of blowing over the sky?
+speaker1: when will the clouds be aweary of fleeting?
+speaker1: when will the heart be aweary of beating....
+speaker1: ...and nature die?
+speaker2: never, oh! never, nothing will die; the stream flows, the wind blows, the cloud fleets, the heart beats...
+speaker2: nothing will die.
+

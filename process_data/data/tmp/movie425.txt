@@ -1,0 +1,900 @@
+speaker1: damnation! 
+speaker1: sorry.
+
+speaker1: father, i saw a post rider at the house. 
+speaker2: thank you. did you finish the upper field?
+speaker3: we got it all cut and we bundled half of it.
+speaker2: those swimming breaks cut into the day, don't they?
+speaker4: father, a post rider came from charleston. you have a letter inside.
+speaker2: thank you. how's the spotted one's milk?
+speaker5: better. she's near ready to calve.
+
+speaker1: ... and they bundled half... almost no trace of the boys you knew... 
+speaker1: ... no, she still hasn't spoken... margaret was her age when you... i remember the time at the river when we couldn't find catherine... you couldn't stop crying... and she was asleep in the wagon the entire time... marion pauses, remembering. the crash of a plate
+speaker1: your children.
+
+speaker1: i smell turnips... 
+speaker2: father, samuel broke the blue plate...
+speaker3: i did not...
+speaker4: dinner...
+speaker5: news of boston, father?
+speaker6: i hate turnips...
+speaker3: william knocked it right out of my hands...
+speaker5: father...?
+speaker1: samuel, william, both of you clean it up...
+speaker1: the assembly has been reconvened, i've been called to...
+speaker4: charleston!
+speaker6: we're going to charleston!
+speaker3: when, father, when?
+speaker1: we'll leave tomorrow...
+speaker7: charleston! we're going to charleston!
+speaker1: i love turnips...
+
+speaker1: ... now count five finger lengths up from the front two stars of the big dipper, and that's the north star, that's her. 
+speaker1: it helps her to know mother's there.
+
+speaker1: the new york and rhode island assemblies have been dissolved... 
+speaker2: the middle colonies?
+speaker1: rioting both sides of the bay, in chestertown they burned the customs house and tar-and-feathered the customs agent. he died of burns. in wilmington they killed a royal magistrate and two redcoats.
+speaker2: anything about the convention in philadelphia?
+speaker1: poor richard says they'll make a declaration of independence by july.
+speaker1: scott higgins joined the militia.
+speaker1: he's seventeen. a year younger than
+
+speaker1: aunt charlotte! aunt charlotte! 
+speaker2: welcome! welcome! margaret, william, look at you...! they're huge. what have you been feeding them?
+speaker3: they're from good stock on their mother's side.
+speaker2: thank you.
+speaker2: come, come, inside, wait until you see what i have...
+speaker1: presents! for me? what do you have?
+speaker2: inside, inside...
+
+speaker1: you look well, charlotte. 
+speaker2: as do you.
+
+speaker1: inside, all of you... 
+speaker1: very well.
+speaker2: look! there's gabriel!
+speaker3: children, inside! all of you! right now.
+speaker1: what news?
+speaker4: the british army is barricaded in boston. harry lee, is here from virginia, recruiting for a continental army.
+speaker1: is that why the assembly was convened?
+speaker4: yes. he seeks a levy of troops and money.
+speaker1: and the governor?
+speaker4: he vowed that if the assembly votes a single shilling to lee, he'll dissolve the body.
+speaker1: which would force our delegates in philadelphia to vote for independence.
+speaker3: and send us to war alongside massachusetts.
+speaker1: our governor is a bigger fool than i thought.
+speaker4: lee is counting on your vote and expects you to be the first to enlist.
+
+speaker1: our first order of business... 
+speaker2: and out last if we vote a levy...
+speaker1: order! order! mr. simms, you do not have the floor.
+speaker1: our first order of business is an address by colonel harry lee of the continental army.
+speaker3: you all know why i am here. i am not an orator and i will not try to convince you of the worthiness of our cause. i am a soldier and we are at war and with the declaration of independence we all expect from philadelphia, it will soon be a formal state of war. in preparation for that, eight of the thirteen colonies have levied money in support of a continental army. i ask south carolina to be the ninth.
+speaker2: colonel lee, massachusetts may be at war, along with new hampshire and rhode island and virginia, but south carolina is not at war.
+speaker3: massachusetts and new hampshire are not as far from south carolina as you might think and the war they're fighting is not for independence of one or two colonies. it's for the independence of a nation.
+speaker4: and what nation is that?
+speaker5: an american nation. colonel lee, with your permission?
+speaker3: please.
+speaker5: those of us who call ourselves patriots are not seeking to give birth to an american nation, but to protect one that already exists. it was born a hundred-and-seventy years ago at jamestown, virginia and has grown stronger and more mature with every generation reared and with every crop sown and harvested. we are a nation and our rights as citizens of that nation are threatened by a tyrant three thousand miles away.
+speaker3: thank you. were i an orator, those are the exact words i would have spoken.
+speaker6: mister robinson, tell me, why should i trade one tyrant, three thousand miles away, for three thousand tyrants, one mile away?
+speaker5: sir?
+speaker6: an elected legislature can trample a man's rights just as easily as a king can.
+speaker3: captain marion, i understood you to be a patriot.
+speaker6: it's mister marion.
+speaker3: i understood him to be a patriot as well.
+speaker6: if you mean by a patriot, am i angry at the townsend acts and the stamp act? then i'm a patriot. and what of the navigation act? should i be permitted to sell my tobacco to the french traders on martinique? yes, and it's an intrusion into my affairs that i can't... legally.
+speaker6: and what of the greedy, self-serving who sit as magistrates on the admiralty court and have fined nearly every man in this room. should they be boxed about the ears and thrown onto the first ship back to england? i'll do it myself. and do i believe that the american colonies should stand as a separate, independent nation, free from the reins of king and parliament? i do, and if that makes a patriot, then i'm a patriot.
+speaker6: but if you're asking whether i'm willing to go to war with england, the answer is, no. i've been to war and i have no desire to do so again.
+speaker5: this from the same captain francis marion whose anger was so famous during the wilderness campaign.
+speaker6: i was intemperate in my youth. my departed wife, bless her soul, dampened that intemperance with the mantle of responsibility.
+speaker5: temperance can be a convenient disguise for fear.
+speaker3: mister robinson, i fought with captain marion in the french and indian war, including the wilderness campaign. we served as scouts under washington and i have no doubts about captain marion's courage or competence on a battlefield. there's not a man in this room, or anywhere, for that matter, to whom i would more willingly trust my life.
+speaker5: i stand corrected.
+speaker3: nonetheless, i would like to know, mister marion, how... how... how...
+speaker3: it, francis! how in name do you expect to gain independence without going to war?
+speaker6: harry, harry, harry...
+speaker3: my hairy arse! you live in a cave if you think we'll get independence without war...
+speaker1: gentlemen! please! this is not a tavern!
+speaker6: wasn't it a union jack we fought under?
+speaker3: a long time ago...
+speaker6: thirteen years...
+speaker3: that's a long time...
+speaker1: gentlemen! please!
+speaker6: you were an englishman then...
+speaker3: i was an american, i just didn't know it yet...
+speaker6: we don't have to go to war to gain independence...
+speaker3: balderdash!
+speaker6: there are a thousand avenues, other than war, at our disposal...
+speaker3: name five hundred.
+speaker6: royal petition, delegates to court, judicial redress, economic boycott, bribery...
+speaker3: that's five, keep going...
+speaker6: ... time, royal succession, regicide, bribery...
+speaker3: you said bribery twice...
+speaker6: we do not have to go to war to gain independence.
+speaker3: francis, i was at bunker hill. it was as bad as anything you and i saw on the frontier. worse than the slaughter at the ashuelot river. the british advanced three times and we killed over seven hundred of them at point blank range. and still, they advanced and they took the ground. that is the measure of their resolve. if your principles dictate independence, then war is the only way. it has come to that. marion is silent for a long moment. he softens, finds
+speaker6: i have seven children. my wife is dead. who's to care for them if i go to war?
+speaker3: wars are not fought only by childless men. a man must weigh his personal responsibilities against his principles.
+speaker6: that's what i'm doing. i will not fight and because i won't, i will not cast a vote that will send others to fight in my stead.
+speaker3: and your principles?
+speaker6: i'm a parent, i don't have the luxury of principles.
+speaker5: mister speaker, i call for a vote on a levy to the continental army.
+speaker7: second.
+speaker1: so moved.
+speaker1: mr. robinson.
+speaker5: yea.
+speaker1: mr. hamill.
+speaker7: yea.
+speaker1: mr. johnson.
+speaker8: yea.
+speaker1: mr. simms.
+speaker2: nay.
+speaker1: mr. marion.
+speaker1: mr. marion.
+speaker6: nay.
+
+speaker1: twenty-eight to twelve, the levy passed! 
+speaker2: father, i've lost respect for you. i thought you were a man of principle.
+speaker3: when you have children, i hope you'll understand.
+speaker2: when i have children, i hope i don't hide behind them.
+speaker3: do you intend to enlist without my permission?
+speaker2: yes.
+speaker4: one of yours?
+speaker3: gabriel.
+speaker4: i recognize him now. is he as imprudent as his father was at his age?
+speaker3: no, thank the lord. he's more like his mother.
+speaker4: i'll see to it that he serves under me.
+speaker3: thank you.
+
+speaker1: not yet, thomas. 
+speaker2: when?
+speaker1: seventeen.
+speaker2: but it's already been two years and that's two more years. the war could be over by then.
+speaker1: willing.
+speaker2: alright. seventeen.
+
+speaker1: is it going to rain? 
+speaker2: that's not thunder.
+speaker3: father?
+speaker4: six-pounders. lots of them.
+speaker5: how far away?
+speaker4: four, five miles.
+speaker6: waxhaus?
+speaker4: just east of it.
+speaker5: are we safe here?
+speaker4: don't worry.
+speaker5: we could go stay at aunt charlotte's farm. she's to the west.
+speaker4: no, there'll be skirmishers on the roads. we're safer here.
+speaker4: put those away.
+speaker2: but father, they might come this way.
+speaker4: put them away.
+speaker4: enough. i'll be in the workshop. samuel, the cows. thomas, attend to your studies here on the porch. nathan, on the back porch. if you see anyone, come get me. margaret, please keep william close to you. no one is to go past the yard wall.
+speaker4: children.
+
+speaker1: samuel... 
+speaker1: samuel, get up to the house. you heard father...
+speaker2: up to the house, now. all of you, come on. now.
+
+speaker1: they're going to come. 
+speaker2: quiet.
+speaker1: we're going to have to fight them off.
+speaker3: father will do that.
+speaker1: they'll probably kill us men and do lord knows what to you women.
+speaker2: samuel!
+
+speaker1: gabriel! 
+speaker2: you're hurt.
+speaker3: the battle, were you there?
+speaker1: margaret, get bandages and water. thomas, the porch, eyes open.
+speaker4: have you seen any redcoats?
+speaker1: not yet. what happened?
+speaker4: it wasn't like saratoga. there, we stayed in the trees, but this time gates marched us straight at the redcoats. they fired two volleys into us and we broke like straw. i was given these dispatches... i saw virginia regulars surrender... as they laid down their weapons the british green dragoons rode into them and hacked them to bits... killed them all, over two hundred men.
+speaker1: they had surrendered?
+speaker4: i have to get these dispatches to hillsboro.
+speaker1: you're in no condition to ride.
+speaker4: i have no choice, i...
+
+speaker1: he's dead... 
+speaker1: thomas, help me turn him over...
+speaker1: thomas!
+
+speaker1: thank you. 
+speaker2: sergeant, there are seventeen wounded men here. seven redcoats and ten patriots, counting my son inside. that puts me in a difficult position.
+speaker2: you three are the least severely wounded. i have to ask you to leave and find care elsewhere.
+speaker3: i understand.
+speaker3: come on, boys.
+speaker4: father?
+speaker5: but they're wounded.
+speaker2: there are rules, even in war.
+speaker2: after the battle of ashuelot river, against the french, i got this and the one on my leg. i couldn't walk. washington had to march north. he left me with other wounded men and a like number of french prisoners. nine for nine. when the french found us, their surgeon gave me the best of care. we'll be safe this way.
+speaker2: your best chance is in bennington, seven miles east, along the river road.
+speaker2: thank you.
+
+speaker1: you're surrendering. 
+speaker2: yes, sir.
+speaker1: what unit?
+speaker2: first virginia regulars under colonel hamilton.
+speaker1: who cared for your wounds?
+speaker2: we did.
+speaker1: with a lace table cloth?
+speaker1: kill them.
+
+speaker1: these men are of my regiment. thank you. 
+speaker2: rebel dispatches, sir.
+speaker3: i carried those. i was wounded, these people gave me care, they have nothing to do with the dispatches.
+speaker1: i understand. the sound of horses hooves. all turn and see:
+
+speaker1: lieutenant, have a detachment take our wounded to our surgeons at camden crossing. use whatever horses and wagons you can find here. 
+speaker2: yes, sir.
+speaker2: we found this, sir.
+speaker1: who carried this?
+speaker3: i did.
+speaker1: take this one to camden, he's a spy. he will be hung.
+speaker4: colonel, he's a dispatch rider and that's a marked dispatch case.
+speaker1: fire the house and barns.
+speaker2: yes, sir.
+speaker4: colonel...
+speaker2: and the rebel wounded?
+speaker1: kill them.
+speaker4: a dispatch rider with a marked case cannot be held for spying.
+speaker1: we're not going to hold him, we're going to hang him.
+speaker4: but...
+speaker3: father...
+speaker1: oh, he's your son. you should have taught him about loyalty.
+speaker4: colonel, i beg you, please reconsider. by the rules of war, a dispatch rider with a marked case...
+speaker1: would you like a lesson in the rules of war?
+speaker1: perhaps your children would.
+speaker4: no lesson is necessary.
+speaker5: father, do something.
+speaker5: gabriel! run!
+
+speaker1: major. 
+speaker2: thomas, please, thomas...
+speaker3: lieutenant, please...
+speaker4: i have my orders. sergeant!
+speaker2: papa, look what they did to thomas...
+speaker5: father, they're going to take gabriel...
+
+speaker1: father, you can't let them take him... 
+speaker2: quiet.
+
+speaker1: nathan, samuel... 
+speaker1: margaret, take william and susan to the river shed. hide there. if we're not back by dawn, go up the river to the richardson's house. they'll take you to your aunt charlotte's farm. nathan, samuel, and i are going to get gabriel.
+speaker2: but what about thomas?
+speaker1: leave him. take care of william and susan.
+
+speaker1: nathan, there. samuel, there. 
+speaker1: i'll fire first. then, nathan, kill whoever is standing closest to gabriel. samuel, kill the last man in the line.
+speaker1: after that, samuel, load for nathan. if something happens to me, put down your weapons and run as fast as you can, that way, downhill. hide in the brush by the river, then make your way home, get the others and go to aunt charlotte's farm.
+speaker1: boys... steady.
+speaker2: yes, father.
+
+speaker1: there, there... he's alright... he's with your mother now... 
+speaker1: lord, we pray that you accept this child, thomas marion and give him a place at your side with his mother. we ask that you embrace him and help us to understand the manner in which your mercy works. this we ask, in your name. amen.
+speaker2: amen.
+
+speaker1: sleep, now. 
+speaker2: father... i killed those men...
+speaker1: don't blame yourself, you did what i told you to do.
+speaker2: i'm glad i killed them... i'm glad...
+speaker1: try to get some sleep.
+speaker3: i'll stay with them.
+
+speaker1: how are they? 
+speaker1: gates is at hillsboro with the continental army. i'll leave in the morning to join him.
+speaker1: i'll tend my horse.
+
+speaker1: they're asleep. 
+speaker2: how did this... how did i let this happen?
+speaker1: you couldn't have known.
+speaker2: i should have known... once i would have... i used to be wary... and today i watched my son killed before my eyes... your sister civilized me and i myself for having let her...
+speaker1: thomas is dead but you've done nothing for which you should be ashamed.
+speaker2: i've done nothing and for that i am ashamed.
+speaker1: if you go, i'll care for them as if they were my own.
+speaker2: i'll leave in the morning with gabriel.
+
+speaker1: when will you be back? 
+speaker2: i don't know, william.
+speaker1: tomorrow?
+speaker3: no, not tomorrow.
+speaker2: goodbye?
+speaker2: just one word? goodbye? that's all i want.
+speaker4: goodbye.
+
+speaker1: no, it's too late. 
+speaker1: command posts... patriot... british...
+speaker1: break for the trees... break for the trees...
+speaker1: send them to cover! you!
+speaker2: father, we have to do something...
+speaker2: father...
+speaker1: it's already over.
+
+speaker1: you, sergeant, don't move the wounded twice, put them straight on the wagons from the surgeons. 
+speaker2: yes, sir.
+speaker1: lieutenant, detail men for outriders. we move out as soon as the wounded are ready.
+speaker3: yes, sir.
+
+speaker1: green dragoons came to my home, killed my son, thomas. it was tarleton himself. 
+speaker2: i'm sorry.
+speaker1: i'm sorry i wasn't here for this.
+speaker2: there's nothing you could have done, gates is a fool.
+speaker1: we saw.
+speaker2: i begged him to stay in the cover of the trees but he insisted the only way to break cornwallis was muzzle- to-muzzle. he spent too many years in the british army.
+speaker1: where is he now?
+speaker2: last anyone saw, riding hard, northeast, his staff a hundred yards behind, trying to catch up.
+speaker1: who's in command?
+speaker2: i am, i think.
+speaker1: what are my orders?
+speaker2: if you want orders, i've got some for you.
+speaker2: we're a breath away from losing this war. in the north, washington is reeling from valley forge, running and hiding from clinton and twelve thousand redcoats. here in the south, cornwallis has broken our back. he captured over five thousand of our troops when he took charleston and today he destroyed the only army that stood between him and new york.
+speaker1: so now cornwallis will head north, link up with clinton and finish off washington.
+speaker2: and patriots will start dying on the gallows instead of the battlefield. unless we can keep cornwallis in the south until the french arrive. a treaty was signed at versailles after our victory at saratoga. the french are sending a fleet and ten thousand troops.
+speaker1: when?
+speaker2: fall, six months at the earliest.
+speaker1: long time.
+speaker2: the bigger problem is where, not when. the french fleet won't sail north of the chesapeake for fear of early storms.
+speaker1: so you're going to try to keep cornwallis in the south until then.
+speaker2: not me, you. i'm going north with every continental regular i can find to reinforce washington or he won't last six weeks.
+speaker1: you expect cornwallis to be held here by militia?
+speaker2: not held, just slowed down.
+speaker1: they're nothing but farmers and you're asking them to try to keep a tiger in their backyard. they'd be better off letting it move on.
+speaker2: they'd be better off, but the cause wouldn't be.
+speaker1: how many men does cornwallis have under his command?
+speaker2: four thousand infantry and around six hundred cavalry... ... including the green dragoons under tarleton.
+speaker1: i'll do what i can.
+speaker2: i'm giving you a field commission as a colonel. he hands it to marion. gabriel steps forward.
+speaker3: colonel lee, i request a transfer to colonel marion's command.
+speaker2: granted.
+speaker2: good luck.
+
+speaker1: what now, sir? 
+speaker2: we put out the word. we'll start along the south side of the santee...
+speaker1: we'd cover more ground if we split up.
+speaker2: it's safer if we stay together.
+speaker1: colonel, i didn't request this transfer because you're my father. i requested it because i believe in this cause and this is where i can do the most good.
+speaker2: oh?
+speaker1: i've been doing this for two years. i'm the best scout in the continental army, the best horseman, the best shot, the best scavenger and i know every deer path and swamp trail between here and charleston.
+speaker2: is that so?
+speaker1: yes, sir. my father taught me.
+speaker2: did your father teach you humility?
+speaker1: he tried. it didn't take.
+speaker2: alright, corporal, you take bennington, harrisville, acworth and the farms along black swamp. i'll take the north side of the river.
+speaker1: yes, sir.
+speaker2: and, corporal... ... be careful.
+speaker1: yes... ... father.
+
+speaker1: i'm looking for john billings. 
+speaker2: he's dead.
+speaker1: if he comes back from the dead, tell him francis marion is looking for him.
+speaker2: i'll be sure to do that.
+speaker1: i'll wait. miracles happen.
+speaker3: you expect to hold cornwallis with militia?
+speaker1: i expect to try.
+speaker3: trust you and harry lee. remember that overland you two thought up in '62 to hit fort louis?
+speaker1: it worked. how many men can you raise?
+speaker3: not many. dalton, scott, they've got their reasons; rev. oliver, he believes in the cause; some of the young bucks; a few like me with nothing to lose... what about you? you've got a lot to lose.
+speaker1: you coming, or not?
+
+speaker1: father, this war is about more than thomas. 
+speaker2: is it?
+speaker1: if you're here only for revenge, you're doing a disservice to him as well as yourself.
+speaker2: how old are you?
+speaker1: you know how old i am.
+speaker2: help us all when you're forty.
+
+speaker1: reverend. 
+speaker2: i heard about your son. i'm sorry.
+speaker1: dalton.
+speaker1: you all have your own reasons for being here. i lost a son and i intend to kill the man who killed him...
+speaker1: ... but i don't consider that man's life adequate payment for the life of my son, and killing him won't keep the sons of other men from dying...
+speaker1: cornwallis has to move north. we have to keep him right here. if he's south of the chesapeake when the french arrive, if the french arrive, we have a chance of winning this war.
+speaker1: eat, get some rest, we move out in two hours.
+
+speaker1: gentlemen. 
+speaker1: major, this is not an adequate map.
+speaker2: we have better coming on the trailing supply convoy from charleston.
+speaker1: a useful place for our maps.
+speaker2: i'm sorry, sir, it won't happen again.
+speaker1: my harrier. join us, colonel.
+speaker3: sir.
+speaker1: gentlemen, celebration is premature. we have a difficult campaign ahead of us. we are in predominately hostile country and we cannot rely on forage. as we move north, the bulk of our supplies will reach us by sea, through charleston, which will give us a long and vulnerable supply line, one that can only be secured if the locals are loyal to the crown.
+speaker4: yes, sir.
+speaker1: nonetheless, we must remember that this is a civil war...
+speaker1: these colonials are our brethren and when this conflict is over, we will be reestablishing commerce with them. surrendering troops will be given quarter and unwarranted assaults on civilians will cease.
+speaker1: i expect this war to be fought in a vigorous but civilized manner.
+speaker1: have i made myself clear, gentlemen?
+speaker5: yes, sir.
+speaker3: yes, sir.
+speaker6: i believe he was speaking to us, colonel.
+speaker3: did you know that lord cornwallis' father was a tenant on the estate of my grandfather?
+
+speaker1: less than a mile. forty-one wagons, a company of redcoat infantry, horses at the rear. 
+speaker2: flanking riders?
+speaker1: i didn't see any.
+
+speaker1: across the river! covering fire! double rank! 
+speaker2: epaulets first... kill the officers.
+
+speaker1: ... two-hundred-sixty-six brown bess muskets, forty-one casks of powder, balls, tamping... 
+speaker2: we have enough arms for an army. now all we need is an army.
+speaker3: reamer, boring tool...
+speaker4: swage, broach, etching tool...
+speaker5: a rolling gunsmith's shop...
+speaker3: we can rifle those musket barrels...
+speaker5: get another hundred yards out of 'em...
+speaker4: we'll need a forge...
+speaker3: easy enough...
+speaker4: we've got clay to make a chamber...
+speaker5: oak to make charcoal...
+speaker3: oil cloth and barrel staves to make a bellows...
+speaker4: and we can yank a wagon wheel, weight it, rig a piston and drive shaft and we'll have a flywheel to power the bellows...
+speaker2: shoot them! shoot the things!
+speaker4: put that pistol down!
+speaker3: they followed us from the bridge. they won't let anyone near the wagon.
+speaker4: stay... stay... stay...
+speaker4: don't you growl at me!
+speaker4: now let's see what's in this wagon.
+speaker6: rum, french champagne, madeira, port...
+speaker2: no wonder they were guarding it.
+speaker1: my heavens, personal correspondence of... lord cornwallis.
+speaker4: these four wagons must be his.
+speaker7: and the dogs, too, i'll wager.
+speaker2: i say we drink the wine, shoot the dogs, and use the papers for musket wadding.
+speaker4: his journals, letters, maps, books...
+speaker6: colonel, we got a wagon full of officer's uniforms and more powder and muskets here.
+
+speaker1: today was hard earned but a good start. 
+speaker1: in the future wounded british soldiers will be given quarters.
+speaker2: like they gave quarter to my family? my wife and three children were hiding in our root cellar when they came. the redcoats locked the door and torched the house.
+speaker1: you have my sympathy... but the order stands.
+speaker2: and who are you to give an order like that? we all know what you did after fort wilderness.
+speaker1: i'm your commanding officer. this is militia, not regular army. i can't hold you here, but as long as you stay, you'll follow my orders.
+speaker3: thank you.
+speaker1: for what?
+speaker3: for trying to impose some decency on that sort.
+speaker1: don't depend on my decency. i'm one of that sort.
+speaker4: am i one of that sort?
+speaker1: you're the worst of that sort. you're the sort that gives that sort a bad name.
+speaker1: i'm going to check the watch.
+speaker5: he shouldn't make light. that redcoat should not have been killed.
+speaker4: he's not making light.
+speaker4: you don't know him very well, do you?
+speaker5: he's my father.
+speaker5: i know him well enough?
+speaker4: don't fault him for having grown up on the frontier. it was a harder time and a harder place than you know.
+
+speaker1: well? 
+speaker2: i've just been inside the mind of a genius. lord cornwallis knows more about war than i could in a dozen lifetimes.
+speaker1: cheerful news to greet the morn.
+speaker2: his victories at charleston and camden were perfect, strategically, tactically, logistically. but he has a weakness.
+speaker2: lord cornwallis is brilliant. his weakness is that he knows it.
+speaker3: father?
+speaker2: pride is his weakness.
+speaker1: personally, i'd prefer stupidity.
+speaker2: pride will do.
+
+speaker1: why am i here, colonel halbert? 
+speaker2: for the ball, sir?
+speaker1: why, after six weeks, are we still here to attend a ball. by now, we should be attending in north carolina, not south carolina.
+speaker2: our supply line, sir?
+speaker1: excellent guess, major.
+speaker1: and what, praytell, is this?
+speaker3: uh... i borrowed it from colonel north. i took it in at the back, added wider epaulets, a court sash and looped gold braiding on the cuffs...
+speaker1: it's a horse blanket. first my personal baggage, then half the bridges and ferries between here and charleston burned, a dozen convoys attacked. colonel, if you can't secure our supply line against militia, how do you expect to do so against colonial regulars or the french when they come?
+speaker4: sir, they're not like regulars, we can't find them and we don't know when or where they're going to strike.
+speaker1: how impolite. and who leads these clever, secretive fellows?
+speaker4: we don't know, sir. he's called, the commander by some, the swamp fox by others.
+speaker1: colonel, i'm a civilized man but i'm finding to difficult to remain civil. secure my supply line.
+speaker4: yes, sir.
+
+speaker1: hey, what you got there? 
+speaker2: we got our own little party...
+speaker3: to with the officers and their fancy dress ball...
+speaker4: give us a nip, here.
+
+speaker1: no! the beasts took your dogs, as well? 
+speaker2: fine animals, a gift from his majesty. dead now, for all i know.
+speaker1: is there no decency?
+speaker3: among the rebels? we know the answer to that.
+speaker2: yes, we have learned.
+
+speaker1: you seem far away. 
+speaker2: it's the weight of command and the lot of a widower -- memories, loneliness... ... and long gazes at the moon.
+speaker1: oh, you poor man...
+speaker3: good
+speaker4: these rebels seem to lack fear as well as decency, eh, general?
+speaker2: colonel tarleton, you deal with these rebels.
+speaker5: yes, sir.
+
+speaker1: ... four baskets of apples, salt pork, sweet potatoes, jerky, hard tack, salt and powder. it's not much, but i'll get you more. 
+speaker2: we can't pay for this...
+speaker1: i'll give you what i can, when i can. you pay me what you can.
+speaker1: francis, you remember my daughter, anne.
+speaker2: nice to see you again, anne.
+speaker3: i know who you are, gabriel marion. the last time i saw you, i was nine and you put ink in my tea.
+speaker4: i... uh... that wasn't me, it was samuel... i mean nathan...
+speaker3: it was you and it turned my teeth black for a month.
+speaker4: uh... uh... i...
+speaker1: he's sorry. come.
+speaker2: ... and your terms of enlistment will be month-to-month. every thirty days you can re-enlist or return to your families.
+speaker5: i'm in.
+speaker2: talk to abner and scott about provisions, powder and mounts.
+speaker6: twenty men here, seventeen in new brighton, a dozen along the black river. we'll pass three hundred by week's end if this keeps up.
+
+speaker1: if i'd known you were going to look like this, i never would have put ink in your tea. 
+speaker2: you call that a compliment?
+speaker1: it's a start.
+speaker1: they look nice. as white as can be.
+speaker3: he reminds me of you before you got old and ugly.
+speaker4: ... the younger ones barely remember her but gabriel spent more time with elizabeth... she taught him well, guided him, she was his north star and mine... her father was a minister, in boston, did you know that?
+speaker4: ... gabriel's already a better man than i could ever hope to be...
+speaker4: what do you mean, old and ugly?
+speaker3: you got me beat on both accounts.
+speaker4: the i do.
+
+speaker1: gabriel? are you asleep? 
+speaker2: we're low on salt. i should go to pembroke and get some.
+speaker3: you got salt last week.
+speaker2: oh, right. baking powder, we need baking powder.
+speaker3: we've got plenty of baking powder. you went to pembroke and got five pounds two weeks ago.
+speaker4: halt. look alive, boys.
+
+speaker1: sergeant, this road is closed. those wagons now belong to the continental army. 
+speaker2: ready arms! by twos!
+speaker1: sergeant, there's no reason for you and your men to die. just leave the wagons and go.
+speaker2: steady, boys...
+speaker2: this is the king's highway and i advise you and your men to make way. prepare to fire.
+
+speaker1: which way? 
+speaker2: this way... no this... i think...
+
+speaker1: father, no... 
+speaker2: that's him. tarleton.
+speaker2: you! let go!
+speaker1: father, please...
+
+speaker1: fourteen dead, eleven wounded, eighteen captured. 
+speaker2: i should have killed him when i had the chance?
+speaker1: when was that? in the swamp at the expense of your men? or when he killed thomas at the expense of your family?
+speaker2: no...
+speaker1: or perhaps tomorrow at the expense of our cause.
+speaker1: there will be a time and a place for revenge but killing tarleton at the expense of your duty serves no one but yourself. stay the course.
+speaker2: stay the course... your mother used to say that to me when i'd get drunk or lose my temper.
+speaker1: she'd say it to me when i picked on thomas or nathan.
+speaker2: you learned her lessons better than
+
+speaker1: next time we'll bring more blankets. 
+speaker2: that would be nice.
+speaker1: maybe we'll be lucky this winter and have just rain, no snow.
+speaker2: that would be nice, too.
+speaker1: just because the french didn't come this fall, doesn't mean they're never going to come.
+speaker3: they're to be hung!
+speaker2: but they're prisoners-of-war!
+
+speaker1: sir. 
+speaker2: general, a message from the commander of the rebel militia.
+speaker3: it seems our swamp fox wants to have a formal parley.
+speaker2: are you going to meet with him?
+speaker3: most certainly. arrange it.
+
+speaker1: lord cornwallis will be with you presently. 
+speaker2: thank you.
+speaker1: you may, of course, keep your weapons, but i must warn you that...
+speaker2: i'm familiar with appropriate behavior at a military parley.
+speaker1: yes, quite, but you should know that...
+speaker2: that will be all, major. i'll wait for lord cornwallis.
+speaker1: yes... you will wait. major halbert turns and starts to stride out.
+speaker2: one other thing.
+speaker2: the proper form of address to a superior officer, even one of an opposing army, is "yes, sir."
+
+speaker1: jupiter! mars! 
+speaker2: go.
+speaker1: my boys... my boys... you seem to have been well fed. thank you for that, colonel.
+speaker2: my pleasure, sir.
+speaker1: please forgive me for keeping you waiting.
+speaker2: apology accepted.
+speaker1: thank you, colonel... i'm afraid i don't know your name.
+speaker2: colonel will do.
+speaker1: as you wish.
+speaker1: colonel... colonel banastre tarleton.
+speaker3: colonel.
+speaker2: shall we proceed?
+speaker1: let us. unless you object, i would like to deem this meeting a formal negotiation and, as such, there are certain customary practices. perhaps i could explain them to you...
+speaker2: i'm familiar with how a formal negotiation is handled.
+speaker1: oh?
+speaker2: i served in his majesty's army in the french and indian war.
+speaker1: oh. very well, then. would you, as the initiating party, like to begin?
+speaker2: unless you would like to claim aggrieved status.
+speaker1: you are familiar with how these things are done. in fact, i would like to claim aggrieved status.
+speaker2: very well, proceed, sir.
+speaker1: first, you have in your possession certain belongings of mine, including clothing, private papers, furniture and personal effects of a non-military nature which i would like to have returned to me.
+speaker2: i will do so as soon as possible.
+speaker1: thank you.
+speaker2: please accept my apology for not having done so sooner.
+speaker1: apology accepted. now, on the matter of the specific targeting of officers during engagements, this is absolutely unacceptable.
+speaker2: that one is a bit more difficult.
+speaker1: certainly you must know that in civilized warfare, officers in the field must not be accorded inappropriate levels of hostile attention.
+speaker2: and what are inappropriate levels of hostile attention?
+speaker1: colonel, imagine the utter chaos that would result from un-led armies having at each other. there must be gentlemen in command to lead and, when appropriate, restrain their men.
+speaker2: restrain them from the targeting of civilians, including women and children?
+speaker1: that is a separate issue.
+speaker2: i consider them linked.
+speaker1: i beg to differ. one is a command decision on your part. the other represents nothing more than the occasional over-exuberance of field officers attempting to carry out their duty in difficult circumstances.
+speaker2: as long as your soldiers attack civilians, i will order the shooting of your officers at the outset of every engagement. and my men are excellent marksmen.
+speaker1: very well, let us move on to...
+speaker2: prisoner exchange.
+speaker1: sir?
+speaker2: you have eighteen of my men. i want them back.
+speaker1: i do have eighteen criminals under sentence of death, but i hold no prisoners-of-war.
+speaker2: if that's your position, then eighteen of your officers will die. nineteen, if you hang me with my men.
+speaker1: what officers?
+speaker2: in the clearing, just down from the crest, to the left of the dark pines...
+
+speaker1: their names, ranks and posts? 
+speaker2: they refused to give me their names. their ranks are nine lieutenants, five captains, three majors and one fat colonel who called me a cheeky fellow. their posts? we picked them up here-and-there last night.
+speaker1: you are not a gentleman.
+speaker2: if your conduct is the measure of a gentleman, i take that as a compliment. get my men.
+speaker1: arrange the exchange.
+speaker2: thank you, general. i'm sure your officers will thank you, as well.
+speaker2: you don't remember me, do you?
+speaker3: ah, yes, that boy.
+speaker3: ugly business, doing one's duty.
+speaker2: yes, ugly business.
+speaker2: if you are alive when this war is over, i'm going to kill you.
+speaker1: jupiter! mars!
+
+speaker1: nothing. 
+speaker2: no one's been here for months.
+speaker3: but now we have a name for our colonel... francis marion. and with a name will come a family.
+
+speaker1: it's all set. 
+speaker2: this will do fine.
+speaker2: thank you.
+
+speaker1: so he's the one they talk about, the swamp fox. 
+speaker2: yes.
+speaker1: i thought it might be him, the bits and pieces we heard, a veteran, fought in the french and indian war, knows the swamps.
+speaker2: they won't stop looking for you and the children.
+speaker1: we'll be alright, here, for now. how is he?
+speaker2: i don't know... i'm his son.
+speaker2: these are for you and the children.
+speaker3: why didn't father come?
+speaker1: speaking for months now.
+speaker3: why didn't he come?
+speaker2: he wanted to, susan, but he couldn't leave his men.
+speaker3: he left us.
+speaker2: i know he did and he's sorry. he'll come back as soon as he can.
+speaker2: there are some letters here from him. some are just to you.
+speaker3: i don't care. i hate him.
+speaker2: you don't hate him.
+speaker3: yes, i do. i hate him and i hope he never comes back.
+speaker4: she spoke? susan spoke?
+speaker2: full sentences. as if she had been speaking all along.
+speaker4: i don't believe it... and i wasn't there for it...
+speaker4: tell me everything she said, word for word.
+speaker2: she said... she loves you and misses you but she understands why you can't be there with her.
+speaker4: she said that? oh, my lord, she said that?
+speaker4: isn't that something.
+speaker2: father, there's something else i need to talk to you about.
+speaker4: what?
+speaker2: come with me. i'll tell you when we get there.
+
+speaker1: father, i'm looking for a best man. 
+speaker2: i'd be honored.
+speaker3: dearly beloved, we are gathered here in the sight of to join this man and this woman in holy matrimony...
+
+speaker1: sir, i'd like to request a furlough. 
+speaker2: granted. where are you going?
+speaker1: cheraw falls.
+speaker2: it's beautiful there. your mother and i were there once, before you were born.
+speaker1: i know.
+speaker2: she would have been pleased.
+speaker3: i'm sorry we didn't give you more warning.
+speaker2: it's alright. i'm very happy for you.
+
+speaker1: it's a good measure of a woman that she'll have her honeymoon under the stars. 
+speaker2: for richer, for poorer, in sickness and in health, 'til death do they part.
+
+speaker1: from general clinton in new york... "... your request to move north is denied until you have properly dealt with your militia problem." he underlined, 'militia'. "you have spent over six months dealing with a six-week problem. it is essential that you quell the militia..." underlined again. "... insurgency, particularly because of the likely move south of washington and the inevitable arrival of the french. militia, as you have so often pointed out, is not worth the attention of a significant army, hence it is mystifying why militia has bedeviled you for so long..." tarleton smiles slightly, enjoying the show. 
+speaker1: "... it is my fervent hope that the vigor of your campaign comes to match the vigor of your correspondence with your parliamentary and court patrons. only then might you share in the victory, on the verge of which i now stand." "your guardedly respectful commander, general sir george clinton." cornwallis grows eerily calm and turns to tarleton.
+speaker1: if i fail, you fail.
+speaker2: perhaps.
+speaker1: and if i triumph, you triumph.
+speaker2: probably.
+speaker1: how can we end this madness?
+speaker2: difficult, sir. this is, as you pointed out, a civil war.
+speaker1: civility is a secondary virtue. it is superseded by duty.
+speaker2: i understand, sir.
+
+speaker1: i'm sorry, sir. he died. 
+speaker2: very well, get one of the others.
+speaker3: your eyes. do your worst.
+speaker2: i intend to.
+
+speaker1: you still want me to give wounded redcoats quarter? 
+speaker2: tarleton has a list of our men, most are on it. a regiment of dragoons is going to the homes on the list, burning them, killing whomever resists, women and children, as well.
+speaker3: where?
+speaker2: seven homes along the black river so far...
+
+speaker1: it's him! i told you it was him! 
+speaker2: father!
+speaker3: papa...
+speaker4: thank you.
+speaker4: susan...
+
+speaker1: good apple. 
+speaker1: very good. sweet.
+
+speaker1: may i ask you a question? 
+speaker2: yes, of course.
+speaker1: do you think frances with an "e" is too manly a name for a girl?
+speaker2: no.
+speaker1: do you think francis with an "i" is too womanly a name for a boy?
+speaker2: no.
+speaker1: good.
+speaker2: when?
+speaker1: late summer.
+speaker2: congratulations.
+speaker1: thank you.
+
+speaker1: i'm not my sister. 
+speaker2: excuse me?
+speaker1: i said, i'm not my sister.
+speaker2: i know that.
+speaker1: do you?
+speaker2: of course, i do.
+speaker1: very well, then.
+
+speaker1: just a little goodbye? one word? that's all i want to hear. 
+speaker1: goodbye, charlotte.
+speaker2: goodbye.
+
+speaker1: papa! 
+speaker1: papa, don't go, i'll say anything.
+speaker1: please, papa, i'll say anything you want!
+speaker1: just tell me what to say! tell me what to say!
+speaker1: please, papa, please don't go.
+speaker2: charlotte, anne and marion's children watch as:
+
+speaker1: ... i'll talk to you, i'll say anything you want, just tell me what you want me to say, i'll say anything, i promise, please, papa, just stay... 
+speaker2: i'll come back... i promise...
+
+speaker1: how many came back? 
+speaker2: about a hundred and twenty. less than a third.
+
+speaker1: excuse me, ma'am, everyone has been requested to gather at the church. 
+speaker2: everyone?
+speaker1: colonel tarleton wants to address, the whole village.
+
+speaker1: into the church, please. 
+speaker2: colonel tarleton wishes to address all of you.
+speaker3: open this door!
+speaker4: by what right are we made prisoners?
+speaker5: sir?
+speaker6: yes, major.
+speaker5: sir, there is no honor in this.
+speaker6: the honor is found in the end, not the means. this will be forgotten. proceed.
+
+speaker1: anne...? 
+speaker2: don't go in there.
+speaker1: is it her? is anne in there?
+speaker2: she is. don't go in there.
+
+speaker1: father, tell me what happened at fort wilderness? 
+speaker2: you know what happened.
+speaker1: no, i don't.
+speaker2: everyone knows. it's what made me a hero. me, harry lee, all of us. i got a medal. men bought me drinks. they still do sometimes. everyone knows what happened.
+speaker1: tell me what everyone doesn't know.
+speaker2: and what do they know?
+speaker1: that the french and cherokees captured the fort and when you retook it, you took revenge on them for what they did during the occupation.
+speaker2: that's right.
+speaker1: that's not enough. tell me.
+speaker2: your mother asked me the same question around the time you were born. i was drunk and i was foolish enough to answer her.
+speaker2: that's why it was four years between you and thomas. it took me that long to regain her respect.
+speaker1: i'm not my mother. i can't have the respect without the knowing.
+speaker2: it was in '63. it was a bad time. the french and the cherokee had raided along the blue ridge. all the english settlers took refuge at fort wilderness but the french captured it. we were sent in relief. harry lee, billings, sixty of us. we already had something of a reputation for being... harsh. when we got there the fort was abandoned. not a french soldier or cherokee anywhere. they had left a week earlier. what we found was... bad.
+speaker2: they had left the settlers there. the men had been burned alive, the women were in pieces and the children were on stakes.
+speaker2: we buried them, then we went to track. it was a cold trail and they were moving fast. we went faster. we caught up to them at kentucky ford.
+speaker1: go on.
+speaker2: we took our time with them and gave every one of them worse than they had given at the fort. it was two weeks before they were all dead, all except two. we put the heads on a pallet and had the two we let live take it to the french at fort ambercon. the eyes, fingers and tongues we put in a basket and sent that down the asheulot to the cherokee. the french stayed east of the blue ridge after that and the cherokee broke their treaty with the french and stayed out of the fight. that seemed to make a difference. the war went another year, things went better... and men bought us drinks.
+speaker2: it was a different time, son. and you're a better man than that.
+speaker1: i see, do as i say, not as i do.
+speaker2: yes.
+
+speaker1: if this war is about more than thomas, it's about more than anne, as well. stay the course. 
+speaker2: as you did at fort wilderness?
+speaker3: look at you! i knew you could do it!
+speaker3: we have a chance! better than a chance! cornwallis is running to the chesapeake, probably to meet his fleet at yorktown. i wish i could see his face when he sees a dozen french ships floating there. and washington should be a day or two behind him. and on top of everything, i have a son! born last month in alexandria.
+speaker1: his wife was killed yesterday. she was with child.
+speaker3: i'm sorry, i didn't know.
+
+speaker1: gabriel and at least a dozen others. they must have left right after the watch change. 
+speaker2: that means they have two hours on us.
+
+speaker1: i'm alright, i... 
+speaker2: let me help you...
+
+speaker1: may i help you try to find solace with the word of god? 
+speaker1: colonel, let us help his soul find it's place with the almighty and...
+speaker2: he looks as if he's sleeping, doesn't he?
+speaker1: yes, he does.
+
+speaker1: you have to bury him. 
+speaker1: i'll help you bury him.
+speaker2: don't touch him.
+speaker1: how many men have we seen die?
+speaker2: two. gabriel and thomas.
+speaker1: they're gone. and there is nothing you or i can do to bring them back. but there is something you can do to help end all this.
+speaker2: it is ended.
+speaker1: no. it's not over yet. two days ride, yorktown, virginia. washington, the french, cornwallis and tarleton. it will end, one way or another. francis, nothing will replace your sons but helping us will justify their sacrifice.
+
+speaker1: you called for me, sir? 
+speaker2: take this to general washington.
+
+speaker1: did you bring me this? 
+speaker2: yes, sir.
+speaker1: take this to colonel marion.
+speaker2: yes, sir.
+
+speaker1: gray. 
+speaker2: earned.
+speaker2: come. i have something i want to show you.
+speaker2: gentlemen.
+
+speaker1: i was sorry to hear about your son. 
+speaker2: i lost another a year ago, thomas.
+speaker1: i've had no sons to lose, nor daughters. i lose the sons of other men.
+speaker1: life was easier when we only had ourselves to get killed.
+speaker1: gentlemen, what do we see?
+speaker3: mortars, center, with two lines of enfilading trenches.
+speaker4: more along the right flank and behind the forward redoubts.
+speaker5: a formidable defensive position.
+speaker3: they could hold out for weeks.
+speaker1: francis, tell me about general cornwallis.
+speaker2: remember braddock?
+speaker1: that bad?
+speaker2: worse.
+speaker1: proud, priggish and competent. a very bad combination in an adversary.
+speaker1: for those of you who don't know, we intercepted a british dispatch this morning. general clinton has sailed from new york to relieve cornwallis.
+speaker3: how long before they arrive?
+speaker1: less than a week. sixteen ships and over nine thousand redcoats.
+speaker5: sooner or later that message will get through to cornwallis.
+speaker4: and when it does, he'll just wait us out.
+speaker1: and when the british ships arrive, the french ships will flee. and when the french ships flee, general rochambeau and the french troops will flee as well.
+speaker2: then you must let the message go through.
+speaker1: if cornwallis receives news that clinton is coming, he'll simply hold tight and wait. he'll fight a purely defensive battle and he'll win that.
+speaker2: no, he won't. there are two things you need to know about cornwallis. first, he is a very proud man, he would rather risk defeat than share a victory. if you give him what he thinks is an out, he'll take it.
+speaker1: and what is the second thing?
+speaker2: i'll let him tell you himself... "... but it is this colonial militia that is the most irksome. not worthy of my attention, but demanding it; not worthy of british blood, but taking it; and not worthy of a soldier's honor, but sullying it. those nights of mine that are not sleepless, are filled with dreams of a cavalry charge on the heels of fleeing farmers..." marion closes the journal.
+speaker2: he has no respect for citizen soldiers. that's your bait... militia.
+
+speaker1: sir, a dispatch from general clinton made it through the rebel lines. 
+speaker2: sir?
+speaker3: call a general staff meeting.
+speaker4: yes, sir.
+
+speaker1: the british army believes in officers. i believe in soldiers. after we engage, there will be no more orders. every man here must know what i'm about to tell you. 
+speaker1: we are the bait in a trap. we're militia. cornwallis thinks we're rabble, nothing more than a bunch of undisciplined farmers. and if he thinks that's what we are, that's what we're going to give him. listen up.
+
+speaker1: do you see that, colonel? 
+speaker2: unless i'm dreaming, i think i see irregulars at their center.
+speaker3: the men around marion wait.
+
+speaker1: some redcoats laugh... 
+speaker2: fix bayonets... dispatch the green dragoons.
+
+speaker1: goodbye, francis. 
+speaker2: goodbye, harry.
+speaker2: and congratulations on the birth of your son.
+speaker1: thank you. maybe all of this will buy him some peace.
+speaker2: i hope so.
+speaker2: your son, what did you name him?
+speaker1: robert. robert e. lee.
+speaker2: a good name for a farmer.
+
+speaker1: two pounds, fourteen ounces. 
+speaker2: lovely.
+speaker3: wait for me...
+

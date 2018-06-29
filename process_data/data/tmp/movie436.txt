@@ -1,0 +1,906 @@
+speaker1: ...drink up me hearties, yo, ho... 
+speaker2: quiet, missy! cursed pirates sail these waters. you want to call 'em down on us?
+speaker3: mr. gibbs.
+speaker3: that will do.
+
+speaker1: she was singing about pirates. bad luck to sing about pirates, with us mired in this unnatural fog-- mark my words. 
+speaker2: consider them marked. on your way.
+speaker1: 'aye, captain. bad luck to have a woman on board, too. even a mini'ture one.
+speaker3: i think it would be rather exciting to meet a pirate.
+speaker2: think again, miss swan. vile and dissolute creatures, the lot of them. i intend to see to it that any man who sails under a pirate flag, or wears a pirates brand, gets what he deserves: a short drop and a sudden stop.
+speaker4: captain norrington... i appreciate your fervor, but i am concerned about the effect this subject will have on my daughter.
+speaker2: my apologies, governor.
+speaker3: actually, i find it all fascinating.
+
+speaker1: yes, father. 
+speaker1: look! a boy! in the water!
+speaker2: man overboard!
+speaker1: boy overboard!
+speaker2: fetch a hook! haul him out of there!
+speaker2: he's still breathing.
+
+speaker1: mary mother of ... 
+speaker2: what happened here?
+speaker3: an explosion in the powder magazine.
+speaker1: lot of good it did them... everyone's thinking it! i'm just saying it! pirates!
+speaker2: there is no proof of that. it could have been an accident. captain, these men were protection. if there is even the slightest chance one of those poor devils is still alive, we cannot abandon them!
+speaker3: of course not, governor. come about and strike the sails! unlash the boats! gunnery crew... jackets off the cannons! hope for the best...prepare for the worst. move the boy aft. we'll need the deck clear.
+
+speaker1: elizabeth, i want you to accompany the boy. he's in your charge now. you'll watch over him? 
+speaker2: my name is elizabeth swann.
+speaker3: will turner.
+speaker2: i'm watching over you, will.
+speaker2: you're a pirate.
+speaker2: norrington arrives.
+speaker4: did he speak?
+speaker2: his name is will turner -- that's all i found out.
+speaker4: very good.
+
+speaker1: elizabeth? is everything all right? are you decent? 
+speaker2: yes -- yes.
+speaker1: still abed at this hour? it's a beautiful day!
+speaker1: i have a gift for you.
+
+speaker1: is an occasion necessary for a father to dote upon his daughter with gifts? 
+speaker1: although...i did think you could wear it to the ceremony today.
+speaker2: ceremony?
+speaker1: captain norrington's promotion ceremony.
+speaker2: i knew it.
+speaker1: or, rather, commodore norrington...a fine gentleman, don't you think? he fancies you, you know.
+speaker1: elizabeth? how's it coming?
+speaker2: difficult ... to say.
+speaker1: i'm told that dress is the very latest fashion in london.
+
+speaker1: ah, mr. turner! it's good to see you again! 
+speaker2: good day, sir. i have your order.
+speaker2: the blade is folded steel. that's gold filigree laid into the handle. if i may -
+
+speaker1: impressive. .. very impressive. commodore norrington will be pleased, i'm sure. do pass my compliments on to your master. 
+speaker1: elizabeth! you look stunning!
+speaker2: will! it's so good to see you!
+speaker2: i dreamt about you last night. will reacts with surprise: "really?
+speaker1: elizabeth, this is hardly appropriate -
+speaker2: about the day we met. do you remember?
+
+speaker1: i could never forget it, miss swann. 
+speaker2: will, how many times must i ask you to call me 'elizabeth'?
+speaker1: at least once more, miss swann. as always.
+speaker3: well said! there's a boy who
+speaker2: good day, mr. turner.
+speaker1: good day.
+speaker1: elizabeth.
+speaker3: dear, i do hope you demonstrate a bit more decorum in front of commodore norrington. after all, it is only
+speaker3: through his efforts that port royal has become at all civilized.
+
+speaker1: it's remarkable how often those two traits coincide. 
+speaker2: it's a shilling for the dock space, and you're going to have to give me your name.
+speaker1: what do you say to three shillings, and we forget the name?
+speaker2: welcome to port royal, mr. smith.
+
+speaker1: this dock is off-limits to civilians. 
+speaker2: sorry, i didn't know.
+speaker2: some sort of to-do up at the fort, eh?
+speaker1: no ... someone has to make sure this dock stays off-limits to civilians.
+speaker2: this must be some important boat.
+speaker3: ship.
+speaker2: ship.
+speaker1: captain norrington's made it his flagship. he'll use it to hunt down the last dregs of piracy on the spanish lake.
+speaker3: commodore.
+
+speaker1: right. commodore norrington. 
+speaker2: that's a fine goal, i'm sure ... but it seems to me a ship like that -- -- makes this one here just a wee superfluous.
+speaker1: oh, the dauntless is the power in these waters, true enough -- but there's no ship that can match the interceptor for speed.
+speaker2: that so? i've heard of one, supposed to be fast, nigh uncatchable ... the black pearl?
+speaker3: there's no real ship as can match the interceptor.
+speaker1: the black pearl is a real ship.
+speaker4: no, it's not.
+speaker1: yes it is. i've seen it.
+speaker3: you've seen it?
+speaker1: yes.
+speaker4: you've seen the black pearl?
+speaker1: yes.
+
+speaker1: yes, i have. 
+speaker2: you've seen a ship with black sails that's crewed by the and captained by a man so evil that itself spat him back out?
+speaker1: ... no .
+speaker3: no.
+speaker1: but i've seen a ship with black sails.
+speaker2: oh, and no ship that's not crewed by the and captained by a man so evil itself spat him back out could possibly have black sails and therefore couldn't possibly be any ship other than the black pearl. is that what you're saying?
+speaker1: ... no.
+speaker2: like i said, there's no real ship as can match -- hey!
+
+speaker1: you! 
+speaker1: get away from there! you don't have permission to be aboard there!
+speaker2: i'm sorry. it's just such a pretty boat. ship.
+speaker3: what's your name?
+speaker2: smith.
+speaker4: what's your business in port royal, 'mr. smith' ?
+speaker3: and no lies!
+speaker2: none? very well. you've rumbled me. i confess: i intend to commandeer one of these ships, pick up a crew in tortuga, and go out on the account, do a little honest pirating.
+speaker3: i said, no lies.
+speaker4: i think he's telling the truth.
+speaker3: he's not telling the truth.
+speaker1: he may be.
+speaker3: if he were telling the truth he wouldn't have told us.
+
+speaker1: may i have a moment? 
+speaker1: you look lovely. elizabeth.
+speaker1: i apologize if i seem forward -- but i must speak my mind.
+speaker1: this promotion confirms that i have accomplished the goals i set for myself in my career. but it also casts into sharp relief that which i have not achieved. the thing all men most require: a marriage to a fine woman. you have become a fine woman, elizabeth.
+speaker2: i can't breathe.
+speaker1: i'm a bit nervous, myself --
+speaker1: elizabeth! .
+
+speaker1: aren't you going to save her? 
+speaker2: i can't swim.
+
+speaker1: sailors. 
+speaker1: fine.
+speaker1: don't lose these.
+
+speaker1: i never would have thought of that. 
+speaker2: clearly, you've never been to singapore.
+speaker2: where did you get this?
+speaker3: on your feet.
+speaker4: elizabeth! are you all right?
+speaker5: yes -- yes, i'm fine -- commodore norrington, do you intend to kill my rescuer?
+
+speaker1: i believe thanks are in order. 
+speaker1: had a brush-up with the east india trading company, did you ... pirate?
+speaker1: keep your guns on him, men. gillette, fetch some irons.
+speaker1: well, well... jack sparrow, isn't it?
+speaker2: captain jack sparrow. if you please.
+speaker1: i don't see your ship -- captain.
+speaker3: he said he'd come to commandeer one.
+speaker4: i told you he was telling the truth. these are his, sir.
+
+speaker1: it doesn't bear true. 
+speaker1: i half-expected it to be made of wood.
+speaker1: taking stock: you've got a pistol with only one shot, a compass that doesn't point north ... and no ship. you are without a doubt the worst pirate i have ever heard of.
+speaker2: ah, but you have heard of me.
+speaker1: carefully, lieutenant.
+speaker3: commodore, i must protest. pirate or not, this man saved my life.
+speaker1: one good deed is not enough to redeem a man of a lifetime of wickedness.
+
+speaker1: but it seems to be enough to condemn him. 
+speaker2: indeed.
+speaker1: finally.
+speaker1: commodore norrington ... my pistol and belt, please.
+speaker1: commodore!
+speaker1: elizabeth -- it is elizabeth? elizabeth is more angry than frightened.
+speaker1: miss swann, if you'll be so kind?
+
+speaker1: now, if you'll be very kind? 
+speaker2: you are despicable.
+speaker1: i saved your life; now you've saved mine. we're square.
+speaker1: gentleman. .. m' lady. .. you will always remember this as the day you almost caught captain jack sparrow.
+speaker3: on his heels! gillette, bring a squad down from the fort!
+speaker3: elizabeth, are you -
+speaker2: yes, i'm all right, i'm fine! go capture him.
+speaker4: here, dear ... you should wear this.
+speaker2: thank you, father ... and let that be the last of your fashion advice, please.
+
+speaker1: right where i left you. 
+speaker1: not where i left you.
+speaker1: you're the one they're hunting.
+
+speaker1: you look familiar ... have i ever threatened you before? 
+speaker2: i've made a point of avoiding familiarity with pirates.
+speaker1: ah. then it would be a shame to put a black mark on your record. so if you'll excuse me ...
+speaker1: do you think this is wise, boy?
+speaker2: you threatened miss swann.
+speaker1: only a little.
+speaker1: you know what you're doing, i'll give you that ... excellent form ... but how's your footwork? if i step here -
+speaker1: very good! and if i step again, you step again. . .
+speaker1: and so we circle, circle, like dogs we circle. . .
+speaker1: ta!
+speaker1: that's a good trick. except, once again, you are between me and the way out. and now you have no weapon.
+speaker1: who makes all these?
+
+speaker1: i do. and i practice with them. at least three hours a day. 
+speaker2: you need to find yourself a girl. or maybe the reason you practice three hours a day is you've found one -- but can't get her?
+speaker1: no. i practice three hours a day so that when i meet a pirate ... i can kill him.
+speaker1: you cheated.
+
+speaker1: move away. 
+speaker2: no.
+speaker1: move!
+speaker2: no. i can not just step aside and let you escape.
+speaker1: you're lucky, boy -- this shot's not meant for you.
+
+speaker1: excellent work, mister brown. you've aided in the capture of a dangerous fugitive. 
+speaker2: just doing my civic duty.
+speaker1: i believe you will always remember this as the day captain jack sparrow almost escaped.
+
+speaker1: come here, boy... want a nice, juicy bone? 
+speaker2: you can keep doing that forever, that dog's never going to move.
+speaker1: excuse us if we ain't resigned ourselves to the gallows just yet.
+
+speaker1: has my daughter given you an answer yet? 
+speaker2: no. she hasn't.
+speaker1: well, she had a taxing day...
+speaker2: bleak. very bleak.
+speaker1: what was that?
+speaker1: -- and then the whistle of an incoming ball --
+speaker2: cannon fire!
+speaker3: i know those guns!
+speaker3: it's the black pearl.
+speaker4: the black pearl? i've heard stories ... she's been preying on ships and settlements for near ten years ... and never leaves any survivors.
+speaker3: there are a lot of stories about the black pearl.
+
+speaker1: governor! barricade yourself in my office! that's an order! 
+speaker1: they've flanked us! men! swords and pistols! the battle is joined --
+
+speaker1: miss elizabeth? 
+speaker1: are they come to kidnap you, miss? the daughter of the governor would be very valuable.
+speaker2: listen, estrella -- they haven't seen you. hide, and first chance, run for the fort .
+
+speaker1: we know you're here, poppet. come out and we promise we won't hurt you. 
+speaker1: we will find you, poppet ... you've got something of ours, and it calls to us!
+
+speaker1: please, no ... 
+speaker1: par. .. parlay!
+speaker1: pintel can't believe his ears.
+speaker2: what?
+speaker1: parlay! i invoke the right of parlay! according to" the code of the brethren, set down by the pirates morgan and bartholomew, you must take me to your captain!
+speaker2: i know the code.
+speaker1: if an adversary demands parley, you can do them no harm until the parlay is complete.
+speaker2: it would appear, so do you.
+speaker3: to blazes with the code!
+speaker2: she wants to be taken to the captain, and she'll go without a fuss.
+speaker2: we must honor the code.
+
+speaker1: praise be! 
+speaker2: it's all right, doggie ... come here, boy. come here, spot. rover. fido?
+
+speaker1: what's the matter, boy? 
+speaker2: this isn't the armory. he turns to go, but koehler has spotted jack.
+speaker3: well, well... look what we have here, twigg. it's. captain sparrow.
+speaker2: huh. last time i saw you, you were all alone on a god-forsaken island, shrinking into the distance. i'd heard you'd gotten off, but i didn't believe it.
+speaker3: did you sprout little wings and flyaway?
+speaker2: his fortunes aren't improved much.
+speaker1: worry about your own fortunes. the lowest circle of is reserved for betrayers ... and mutineers.
+
+speaker1: you are cursed. 
+speaker1: the stories are true.
+speaker2: you know nothing of hell.
+
+speaker1: i didn't know we was taking captives. 
+speaker2: she's invoked the right of
+speaker3: i am here to -- the bosun slaps her.
+speaker1: you'll speak when spoken to!
+speaker4: and you'll not lay a hand on those under the protection of parlay!
+speaker1: aye, sir.
+
+speaker1: captain barbossa ... i have come to negotiate the cessation of hostilities against port royal. 
+speaker2: there was a lot of long words in there, miss, and we're not but humble pirates. what is it you want?
+speaker1: i want you to leave. and never come back.
+speaker2: i am disinclined to acquiesce to your request. means' no. '
+speaker1: very well.
+speaker1: i'll drop it!
+speaker2: my holds are bursting with swag. that bit of shine matters to me ... why?
+speaker1: because it's what you're searching for. you've been searching for it for years. i recognize this ship.
+speaker1: i saw it eight years ago, when we made the crossing from england.
+speaker2: did you, now?
+speaker1: fine. i suppose if this is worthless, there's no reason to keep it.
+
+speaker1: you have a name, missy? 
+speaker2: elizabeth - turner. i'm a maid in the governor's household. barbossa reacts to the name turner: it confirms what he has suspected. the other pirates surreptitiously exchange glances and nods.
+speaker1: you've got sand, for a maid.
+speaker2: thank you, sir.
+
+speaker1: of course. i didn't steal it, if that's what you mean. 
+speaker2: no, no, nothing like that. very well. you hand that over, we'll put your town to our rudder and ne'er return.
+speaker1: can i trust you?
+speaker2: it's you who invoked the parlay! believe me, miss, you'd best hand it over, now... or these be the last friendly words you'll hear!
+speaker1: our bargain. . ?
+speaker3: still the guns, and stow 'em! signal the men, set the flags, and make good to clear port!
+speaker1: wait! you must return me to shore! according to the rules of the order of the brethren -
+speaker1: barbossa wheels on her.
+speaker2: first. your return to shore was not part of our negotiations nor our agreement, and so i 'must' do nothing. secondly: you must be a pirate for the pirate's code to apply. and you're not. and thirdly...
+
+speaker1: they've taken her! they've taken elizabeth! 
+speaker2: we're aware of the situation.
+speaker1: we have to hunt them down -- and save her!
+speaker3: where do you propose we start? if you have any information that concerns my daughter, then share it! if anyone does, tell me! leave, mr. turner.
+speaker4: that jack sparrow... he talked about the black pearl.
+speaker5: mentioned it, is more what he did.
+speaker4: still --
+speaker1: we can ask him where it is -- maybe he can lead us to it!
+
+speaker1: we could strike a bargain - 
+speaker2: no. the pirates who invaded this fort left sparrow locked in his cell. ergo, he is not their ally, and therefore of no value. we will determine their most likely course, and launch a search mission that sails with the tide.
+speaker1: that's not good enough. this is elizabeth's life!
+speaker2: mr. turner, this is not the time for rash actions. do not make the mistake of thinking you are the only man here who loves elizabeth. now, go home.
+
+speaker1: are you familiar with that ship? 
+speaker2: somewhat.
+speaker1: where does it make berth?
+speaker2: surely you've heard the stories? the black pearl sails from the dreaded isla de mureta... an island that cannot be found -- except by those who already know where it is.
+speaker1: the ship's real enough. so its anchorage must be a real place. where is it?
+speaker2: why ask me?
+speaker1: because you're a pirate.
+speaker2: and you want to turn pirate yourself?
+speaker1: never. they took miss swann.
+speaker2: so it is that you found a girl. well, if you're intending to brave all and hasten to her rescue and so win fair lady's heart, you'll have to do it alone. i see no profit in it for me.
+
+speaker1: i can get you out of here. 
+speaker2: how? the key's run off.
+speaker1: i helped build these cells. those are hook-and-ring hinges. the proper application of strength, the door'll lift free. just calls for the right lever and fulcrum. . . jack watches will as he speaks, and it dawns on him -- will is the spitting image of someone he's known in the past.
+speaker2: your name is turner.
+speaker1: yes. will turner.
+speaker2: will turner... i'll tell you what, mr. turner. i've changed my mind. you spring me from this cell, and on pain of death, i'll you to the black pearl. do we have an accord? will gives him a suspicious look. the deal seems too good.
+speaker1: agreed.
+speaker2: agreed!
+
+speaker1: someone will have heard that. hurry. 
+speaker2: not without my effects.
+speaker1: we need to go!
+speaker1: why are you bothering with that?
+speaker2: my business, will. as for your business -one question, or there's no use going. this girl -- what does she mean to you? how far are you willing to go to save her?
+speaker1: i'd die for her.
+speaker2: good.
+
+speaker1: i knew the harbormaster wouldn't report her. honest men are slaves to their conscience, and there's no predicting 'em. but you can always trust a dishonest man to stay that way... 
+speaker1: come aboard.
+speaker2: i haven't set foot off dry land i was twelve, when the ship i was on exploded. it's been a sound policy.
+speaker1: no worries there. she's far more likely to rot out from under us.
+speaker1: besides, we are about to better our prospects considerably.
+speaker2: we're going to steal a ship? that ship?
+speaker1: commandeer. we're going to commandeer a ship. nautical term.
+speaker2: it's still against the law.
+
+speaker1: this is either crazy, or brilliant. 
+speaker2: remarkable how often those two traits coincide.
+
+speaker1: everybody stay calm. we're taking over the ship! 
+speaker2: aye! avast!
+
+speaker1: dead serious. 
+speaker2: you understand this ship cannot be crewed by only two men. you'll never make it out of the bay.
+speaker1: we'll see about that.
+speaker2: sir, i'll not see any of my men killed or wounded in this foolish enterprise.
+speaker1: fine by me. we brought you a nice little boat, so you can all get back to shore, safe and sound.
+speaker2: agreed. you have the momentary advantage, sir. but i will see you smile from the yard arm sir.
+speaker1: as likely as not. will, short up the anchor, we've got ourselves a ship!
+
+speaker1: i can't believe he's doing this. 
+speaker2: you didn't believe he was telling the truth, either.
+speaker3: do you have any idea, boy, what you're doing?
+speaker4: no.
+
+speaker1: commodore -- 
+speaker2: a moment.
+
+speaker1: but -- 
+speaker2: please.
+speaker1: dammit, man, it appears someone is stealing your ship!
+speaker2: rash, turner, too rash.
+speaker2: that is, without doubt, the worst pirate i have ever seen.
+
+speaker1: can you swim? can. you. swim? 
+speaker2: of course, sir. like a fish. i grew up summers living in dover, with my uncle -
+speaker1: good.
+
+speaker1: sailors! back to the interceptor! 
+speaker2: thank you, commodore, for getting our ship ready to make way! we'd've had a hard time of it by ourselves!
+speaker1: raise the sails.
+
+speaker1: the wind is quarter from astern ... by the time we're underway, we'll never catch them. 
+speaker2: we need only to come about, to put them in range of the long nines.
+speaker1: hands! come about! jackets off the cannons! we are to fire on our own ship?
+speaker2: better to see it at the bottom of the sea than in the hands of a pirate.
+speaker3: captain, there's a problem.
+speaker3: he's disabled the rudder chain, sir.
+speaker2: so it would seem.
+speaker1: he's got to be the best pirate i've ever seen.
+speaker2: so it would seem.
+
+speaker1: you'll be dining with the captain, and he requests you wear this. 
+speaker2: tell the captain that i am disinclined to acquiesce to his request.
+speaker1: he said you say that! he also said if that be the case, you'll be dining with the crew, and you'll be naked.
+speaker1: fine.
+
+speaker1: now, none of that. please dig in. 
+speaker1: no need to stand on ceremony, and no call to impress anyone. you must be hungry.
+speaker1: try the wine.
+speaker1: and the apples -- one of those next.
+speaker2: it's poisoned!
+speaker1: oh, there would be no sense in killing you, miss turner.
+speaker2: then why aren't you eating?
+speaker1: would that i could.
+
+speaker1: it's a pirate medallion. 
+speaker2: it's a piece of the treasure of isla de muerta .
+speaker2: ah, so you don't know as much as you pretend. back when cortes was cutting a great swath through the new world, a high priest gave. him all the gold they had, with one condition: that he spare the people's lives. of course, cortes being cortes, he didn't. he'd've made a great pirate, that one.
+speaker2: so the priest, with his dying breath, called on the power of the blood of his people, and put on the gold a curse. if anyone took so much as a single piece, as he was compelled by greed, by greed he would be consumed.
+speaker2: within a day of leaving port for spain, the treasure ship carrying the gold ... something went wrong. the ship run aground, every man aboard dead, save one. he survived long enough to hide the gold ashore.
+speaker1: that's all very interesting, but i hardly believe in ghost stories any more.
+speaker2: you girl! it's no make- believe! my crew and i, we found the gold, and we did more than take one piece, we took it all. rich men we were and we spent it and traded it and gave it away in exchange
+speaker2: there is but one way to remove the curse. all of the scattered pieces of the treasure must be restored in full, and the blood repaid.
+speaker2: we've recovered every piece -- save for this. and as for the blood ... that's what we have you for. and that's why there's no sense in killing you. yet.
+speaker2: apple?
+speaker2: i'm curious -- after killing me, what is it you were planning to do next?
+
+speaker1: look! look! the moonlight shows us for what we really are! we are not among the living and so we cannot die - he spins her back around to face him -- he leans forward, putting his face in the moonlight, turning it into a gleaming skull with gold and silver teeth - 
+speaker1: -- but neither are we dead! we have all the desires of the living, but cannot satisfy them! ten years i have been parched of thirst, and unable to quench it! ten years, i have been starving to death -- and haven't died!
+speaker1: and i have not felt anything for ten years ... not the wind on my face, nor the spray of the sea ... ... nor the flesh of a woman ...
+
+speaker1: for a man whose made an industry of avoiding boats, you're a quick study. 
+speaker2: i worked passage from england as a cabin boy. after my mother passed, i came out here ... looking for my father.
+speaker1: is that so?
+speaker2: my father. william turner?
+speaker2: i'm not a simpleton. at the jail - - it was only after you learned my name that you agreed to help. since that's what i wanted, i didn't press the matter. but now - {an accusation} you knew my father.
+speaker2: jack considers his reply -- settles on 'truth.'
+speaker1: i knew him. probably one of the few who knew him as william turner. most everyone just called him bill, or 'bootstrap' bill.
+speaker2: 'bootstrap?'
+speaker1: good man. good pirate. and clever -"- i never met anyone with as clever a mind and hands as him. when you were puzzling out that cell door, it was like seeing his twin.
+speaker2: that's not true.
+speaker1: i swear, you look just like him.
+speaker2: it's not true that my father was a pirate.
+speaker1: figured you wouldn't want to hear it.
+speaker2: he was a merchant marine! he was a respectable man who obeyed the law, and followed the rules--
+speaker1: you think your father is the only man who ever lived the glasgow life, telling folk one thing, and then going off to do another? there's quite a few who come here, hoping to amass enough swag to ease the burdens of respectable
+speaker1: life. and they're all 'merchant marines.'
+speaker2: my father did not think of my mother -his family -- as a burden.
+speaker1: sure -- because he could always go pirating.
+speaker2: my father -- was not -- a pirate!
+speaker1: put it away, will. it's not worth getting beat again.
+speaker2: you didn't beat me. you ignored the rules of engagement. in a fair fight, i'd kill you.
+speaker1: then that's not much incentive for me to fight fair, is it?
+speaker1: as long as you're just hanging there, pay attention. must, should, do, don't, shall, shall not -- those are just suggestions. there are only two absolute rules.
+speaker1: what a man can do. and what a man can i t do.
+speaker1: for instance: you can accept that your father was a pirate and still a good man... or you can't. now me, i can sail this ship to tortuga, by myself. . . but i can't just let you drown.
+
+speaker1: tortuga? 
+speaker2: oh -- did i forget to mention that?
+
+speaker1: you stole my boat. 
+speaker2: anamaria! have you seen gibbs? i need to put together -
+speaker2: borrowed. borrowed your boat. without permission.
+
+speaker1: my dory. the jolly mon. where is it? 
+speaker2: safe! at port royal. with the royal navy.
+speaker1: that boat is my livelihood!
+speaker2: you'll get it back. or one better.
+speaker1: i will.
+
+speaker1: jack! over here! 
+speaker1: he knows gibbs.
+
+speaker1: curse you for breathing, you slack-jawed mother's love, jack, you know better than to wake a man when he's sleeping. it's bad luck! 
+speaker2: well, fortunately, i know how to counter it. the man who did the waking buys the man who was sleeping a drink, and the man who was sleeping it drinks it while listening to a proposition.
+speaker1: aye, that'll about do it.
+speaker1: blast it, i'm already awake!
+speaker3: i know. that was for the smell.
+
+speaker1: just the one. 
+speaker2: make it_ast, then. now, what's the nature of this venture of yours?
+
+speaker1: oh, there's a hard tale, jack. most of the decent pirates in town won't sail with you -- seem to think you're a jinx. 
+speaker2: now where, i wonder, would they have gotten that idea?
+speaker2: i'm going after the black pearl.
+speaker1: say again?
+speaker2: ilm going after the black pearl. i know where its going to be, and i'm going to take it.
+speaker1: jack, it's a fool's errand: you've heard the tales they tell about the pearl.
+speaker2: aye, and that's why i know where it's going to be, and that's why i know what barbossa is up to. all i need is a crew.
+speaker1: a fool's errand.
+
+speaker1: and you've got that, have you? 
+speaker2: back there, guarding the door is the son of old bootstrap bill turner.
+speaker1: well, lookee there. i'll allow you may be onto something, jack. there's bound to be sailors on this rock crazy as you. i'll find some men.
+speaker1: kid's a bit of a stick, isn't he?
+speaker2: that he is.
+
+speaker1: feast your eyes, cap'n. all of 'em good sea-faring men, faithful hands before the mast, every one worth his salt -- 
+speaker1: -- and crazy, to boot.
+speaker2: you owe me a boat.
+speaker1: cotton here is mute, sir. poor devil had his tongue cut out --
+speaker1: -- so he went and trained the parrot to do the talking for him, nobody knows how. nobody knows the parrot's name, neither, so we just call it 'cotton's parrot.' jack decides to test this.
+speaker3: mr. cotton. do you have the courage and fortitude to follow orders and stay true, in the face danger, and almost certain death?
+speaker4: wind in your sails! wind in your sails!
+speaker1: mostly, that seem to mean 'yes.'
+
+speaker1: shut up, before you lose them all! 
+speaker2: these are the only ones worth having. and we're going to need them-
+
+speaker1: that fool will have us lose the canvas, and the masts besides! 
+speaker1: werd best drop canvas, sirl
+speaker2: she can hold a bit longer.
+speaker2: the wind picks up, howling. jack smiles.
+speaker1: what's in your head to put you in such a fine mood?
+speaker2: we're catching up!
+
+speaker1: isla de muerta! isla de muerta, off the port bow! 
+speaker2: orders, captain?
+speaker3: bring her in, not too close. i won't brave the reef, not until high tide. we lay anchor before dark.
+speaker3: ... that is, if it first doesn't sink back down to from where it came.
+
+speaker1: bear three points starboard. 
+speaker1: six points port!
+speaker2: left handed-ropes are coiled against the sun, or it's bad luck! anty-clockwise.
+
+speaker1: now, lad, just because it don't point north don't mean it don't work. that compass gives bearings to the isla de muerta, wherever it may lie. 
+speaker2: really? so ... what's the story on the pistol?
+speaker1: i'll tell lee. now, jack sparrow has an honest streak in him, and that's where the whole problem starts. this was when he was captain of the black pearl -
+speaker2: what? he never told me that.
+speaker1: ah -- he's learned, then. plays things more close to the vest. see, jack was a cartographer, back in old england. somehow i he came by the money to commission the pearl. hired himself a crew, promised each man an equal share. so, they're forty days out, and the first mate says, everything's an equal share, that should mean the location of the island, too. so jack gave up the bearings. that night, there was mutiny.
+
+speaker1: how did he get off the island? 
+speaker2: i didn't!
+speaker2: my body's still there, rotting away, and i am but a ghost!
+speaker3: how did you get off the island?
+speaker2: ah, that's a dark and unpleasant tale, best left untold.
+speaker1: wait -- what about the pistol?
+speaker2: the pistol. when a pirate is marooned, will, he's given a pistol with a single shot. no good for hunting, or surviving, really. but after three weeks of starvation and thirst -- the option of that pistol begins to look good.
+speaker2: but i survived. and i still have that single shot. it's meant for one man. my mutinous first mate -
+
+speaker1: moonrise, captain! first night of full. 
+speaker2: hah! be mindful of pits and crevasses. stay together.
+
+speaker1: land ho! land ho! land ho! land ho! 
+speaker2: how does he do that?
+speaker3: they'll be anchored on the lee side. haul your wind, and keep to the weather of the island -
+
+speaker1: what's that? 
+speaker2: depends.
+speaker1: on what?
+speaker2: on whether the stories are all true. if they are, that's a waterfall that spills over at high tide, with a short drop to an underground lagoon. if not -
+speaker2: -- well, too late.
+
+speaker1: you know the first thing i'm going to do after the curse is lifted? eat a whole bushel of apples. 
+speaker1: what was begun by blood, let blood now end!
+speaker2: did it work?
+speaker3: i don't feel no different.
+speaker4: how do we tell?
+speaker2: you're not dead.
+speaker4: no. he shot me!
+
+speaker1: you. maid. your father. what was his name?! was your father william turner?! 
+speaker2: no.
+speaker1: where's his child? the child that sailed from england eight years ago, the child who is the real owner of that medallion, the child in whose veins flows the blood of william turner?! where?
+speaker3: you brought us the wrong person!
+speaker4: she had the medallion! she's the right age. she said her name was turner!
+speaker5: you brought us here for nothing?
+
+speaker1: you?! 
+speaker2: me!
+speaker1: you're in league with barbossa!
+
+speaker1: no, i'm -- rescuing you. 
+speaker2: you?!
+speaker3: miss swann! we're here to rescue you! it's going badly!
+speaker1: this way!
+
+speaker1: i'm glad we got here in time. 
+speaker2: truthfully -- you were a bit late.
+speaker3: the trick isn't getting here, it's getting away.
+
+speaker1: no. 
+speaker2: i'll lead them away.
+speaker2: go to the opposite end of the island, and signal the ship. i'll keep 'em busy.
+speaker1: are you sure? jack -- this is not something you have to do.
+speaker2: i'm sure. when you've led the kind of life i have, there are debts that must be paid. maybe i can balance the scales a little.
+speaker2: i invoke the right of parlay, according to the code of the brethren, set down by the pirates morgan and bartholomew...
+
+speaker1: i'm inclined to kill you now, jack sparrow, without so much as a word, if you don't lose that grin from your face. 
+speaker2: the woman's blood didn't work, did it?
+speaker2: i know who's blood you need, to end the curse.
+speaker1: say the name, or i slit your throat.
+speaker2: no you won't.
+speaker3: now?
+speaker1: now. no, don't kill him.
+speaker1: allow me the humor of listening to your terms.
+
+speaker1: simple. i have something you want more than anything. the way to free you from the curse of the treasure. you have something i want -- more than anything. 
+speaker2: the pearl? oh, that's fine. and just how do you expect this to work?
+speaker1: you give me the pearl. then i tell you who you need.
+speaker2: that's your offer? you, sailing away nice and pretty with the black pearl, and all i have is a name?
+speaker1: that's right.
+speaker2: i'm supposed to ... trust you?
+speaker1: i'm a man of my word.
+speaker1: you see, i've got this honest streak in me -- in its own way, a sort of curse. oh, and there's the fact that you have no choice.
+speaker2: i'll torture it out of you.
+speaker1: you left me on a desert island -- what worse can you do?
+
+speaker1: blast you! i'll throw you in prison. 
+speaker2: wait as long as you like.
+speaker1: you're setting me up for a double cross, you with the ship, and me with nothing more than your word!
+speaker2: let's say i tell you the wrong person. what would you do?
+speaker1: track you down and - he sees where jack is headed.
+speaker2: and if i tell you the truth, you become mortal, and you won't come near me because you know i'd kill you.
+speaker1: jack, i don't trust you, and that's a fact. never trust a smiling man, you can lay to that.
+speaker2: see, that's where we're different. i trust you ... to do what it takes to get what you want.
+speaker1: you're playing this as close to the edge as any man, i'll give you that.
+speaker1: we might just have to sign articles, you and i. jack, you're a pirate at heart, that's certain.
+speaker1: pintel ... set sail. if this fool plan is to work, we'll need the medallion, and that means catching the ship which brought 'em here.
+speaker2: what -- you don't have the medallion?
+speaker1: that fool woman took it. you be careful around her, jack -- she's pretty enough, she'll steal your heart -- but pure evil inside.
+speaker2: i'll watch my back.
+speaker1: bosun! set up mr. sparrow's quarters, nice and fine ... in the brig. meaning no disrespect, of course.
+
+speaker1: ... you were in danger ... so i took the medallion. and i've kept it ever since. they thought i was you, that they needed my blood. and it didn't work. 
+speaker2: why would my father send this to me?
+speaker1: to keep it away from them? no pirate would sail to london, for fear of execution dock.
+speaker2: if i had known-
+speaker2: i can't believe he would make such a sacrifice for us.
+speaker1: i guess you can never truly know someone else's heart. will glances at her, and nods.
+speaker3: shift your heading, steer clear of that island. fifteen degrees starboard.
+
+speaker1: dead men tell no tales! dead men tell no tales! dead men tell no tales! 
+speaker2: can we outrun them?
+speaker3: not a chance. make for the reef.
+
+speaker1: looks like they mean to send us under. 
+speaker2: there -- she's raised the jolly roger, upside down.
+speaker2: it's a signal. if we resist, it won't just be death. there'll be torture as well.
+speaker3: we're not going to just surrender! gibbs that we are.
+speaker3: we can at least fight -- we might be able to kill a few-
+speaker2: will -- it'll go worse for us -- for elizabeth, especially -- if we fight.
+
+speaker1: welcome back, miss. last time on board, you played me right clever, make pretending and all. i hope your stay this time is more pleasant. boys, show her some hospitality! 
+speaker2: she goes free!
+speaker1: what's in your head, boy?
+speaker2: she. goes. free.
+speaker1: you've got one shot -- and we can't die.
+speaker2: you can't. i can.
+speaker3: no!
+
+speaker1: my name is will turner, the son of bootstrap bill turner. his blood runs in my veins. you need my blood. and on my word i will pull this trigger, and sink all the way down to davy jones' locker! 
+speaker2: it's true - he's the spittin' image of old bootstrap. even talks the same!
+speaker3: looks like you're back to having nothing to offer.
+speaker4: and hers got old bill's courage. a curse on him, and you!
+speaker3: enough of that! name your terms.
+speaker1: elizabeth goes free!
+speaker3: we got that part. anything else?
+speaker1: and jack. and the crew. free and unharmed. i you agree... then... i will remain with you. barbossa considers; his crew waits. finally -
+
+speaker1: will -- you can't trust him. 
+speaker2: you must swear by the holy bible.
+speaker3: eh? you have my word, then -- on the good book, i do swear, and the lord spare my worthless soul. barbossa crosses himself, as do many of his men.
+speaker3: boatswain! take your captives belowdecks. chain them in the galley, and teach 'em how to row.
+speaker3: hah. look there. that's the very same island we made jack governor of on our last trip. when you sail the open sea as long as i, you learn to trust the signs fate sends your way.
+speaker4: amen to that...
+speaker3: jack, elizabeth ... i'm a man of my word and you're to be set free, right quick. men, break out the plank!
+
+speaker1: no! you gave your word! 
+speaker2: quiet, boy, or you'll lose your tongue. those as know me know i wouldn't cross my word, and bring down bad luck on the ship. i agreed to set them free. i didn't say when. .. nor where.
+
+speaker1: it's pure evil to make a captain walk the plank of his own ship, twice in one lifetime. no good can come of it. 
+speaker2: now, jack. that reef is less than a league distant. it's a square deal all around, and you can't hope for better.
+speaker1: someone needs to cut these bonds, then.
+speaker2: you'd best take a swim, jack.
+speaker1: the last time you did this, you left me a pistol, with one shot.
+
+speaker1: that's proper, sir, according to the code. 
+speaker2: by the powers, you're right! where's jack's pistol? who's got it? bring it forward!
+speaker3: a gentleman might give us two pistols, seeing as there are two of us, this time.
+speaker2: tell you what. i'll give you one pistol, and let you be the gentleman, an' shoot the lady, and starve to death yourself! that is, presuming you're not both drownded.
+speaker2: so how did you get off that island, anyway?
+speaker3: you can go to your grave not knowing.
+speaker2: that's fair.
+
+speaker1: here -- it will go well with your black heart ! 
+speaker1: i will not walk into the ocean. you'll have to throw me in!
+speaker2: have at her, lads!
+
+speaker1: not all that big, is it? 
+speaker2: has it changed since the last time you were here?
+speaker1: the trees are taller.
+speaker2: i hope you have no intention of using that.
+speaker1: not yet. ask me again in a few weeks.
+speaker2: captain sparrow! we have to get off this island -- immediately!
+
+speaker1: what is that? is there a boat under there? 
+speaker1: what? what's wrong? how will this help us get off the island?
+speaker2: it won't. it won't, and so we won't.
+speaker1: but ... you did it before! last time -
+speaker2: last time, i was here a grand total of three days. last time, the rumrunners who used this island as a cache came by, and i bartered passage off.
+speaker2: but from the looks of this, they've long been'out of business, and so that won't be happening again. we probably have your friend norrington to thank for that.
+speaker1: so that's it? that's the secret grand adventure of the infamous
+speaker1: jack sparrow? you spent three days on the beach drinking rum?
+speaker2: welcome to the caribbean, love.
+speaker2: you should look at our contretemps this way: we've got shade trees, thank the lord. we've got some food on the trees, thank the lord again. and we've got rum, praise the lord. we can stay alive a month, maybe more. keep a weather eye open for passing ships, and our chances are fair.
+speaker1: a month? will doesn't have a month! we've got to do something to help him!
+speaker2: you're right. here's luck to you, will turner.
+speaker2: don't be thinking i'm happy about this, elizabeth. but i see no use in wailing and gnashing my teeth over that which i can do nothing about.
+speaker1: not when you can drink instead, at least.
+
+speaker1: drink up me hearties, yo ho... 
+speaker2: what? what was that? something funny, miss swann? share.
+speaker1: nothing ... it's nothing. just ... i'm reminded of a song i learned as a child. a song about pirates.
+speaker2: i know a lot of songs about pirates, but none i'd teach a child. let's hear it.
+speaker1: oh, no ... it's silly. back in england we didn't know a thing about pirates, really. they seemed so romantic and daring - jack likes the way that sounds.
+speaker1: that was before i met one, of course.
+
+speaker1: well, perhaps ... with a bit more to drink, i might ... 
+speaker2: more to drink!
+speaker2: well?
+speaker1: we pillage, we plunder, we rifle, we loot, drink up me hearties, yo ho.
+speaker1: we kidnap and ravage and we don't give a hoot, drink up me hearties, yo ho -
+
+speaker1: yo ho, yo ho, a pirate's life for me! 
+speaker2: i love this song! yo ho, yo ho, a pirate's life for me! we're beggars and blighters,
+speaker2: ne'er do well cads, drink up me hearties, yo ho! aye but we're loved by our mums and our dads. drink up me hearties, yo ho!
+speaker2: when i get the black pearl back, i'm going to teach it to the whole crew, and we'll sing it all the time!
+speaker3: you'll be positively the most fearsome pirates to sail the spanish main.
+speaker2: not just the spanish main. the whole ocean. .. the whole world. wherever we want to go, we go. that's what a ship is, you know. not just a keel and a hull and a deck and sails. that's what a ship need_ ... but what a ship is -- what the black pearl really-is ... is freedom.
+speaker3: jack, it must be so terrible for you, to be trapped here on this island, all over again.
+speaker2: ah, well... the company is better than last time. and the scenery has definitely improved.
+speaker3: mr. sparrow! i'm not sure i've had enough rum to allow that kind of talk.
+speaker2: we've got a few bottles left ... and we've yet to tap the kegs.
+speaker3: to freedom.
+speaker2: to the black pearl.
+
+speaker1: what are you doing? you've burned our food, the shade -- the rum! 
+speaker2: yes, the rum is gone.
+
+speaker1: one, because it is a vile drink that turns even the most respectable men into scoundrels. two - she points to the sky. 
+speaker1: that signal is over a thousand feet high, which means it can be seen for two hundred leagues in every direction. the entire royal navy is out to sea looking for me -- do you think there is even a chance they could mass it?
+speaker2: you -- you burned up the island, for a one-time chance at being spotted?
+speaker1: exactly.
+speaker1: just you wait, captain. in an hour, maybe two, keep a 'weather eye open' and you'll be seeing white sails on that horizon!
+
+speaker1: elizabeth, i'm" relieved you're safe. clap him in irons. and behind his back this time. 
+speaker2: commodore, you can't do that!
+speaker1: you're speaking up for him again?
+speaker3: he can locate isla de muerta -- but i doubt he'll be willing to help us from the brig.
+speaker4: we had time to get to know each other.
+speaker1: we are bound for port royal, not isla de muerta.
+speaker3: no. the pirates have taken will -
+speaker1: your father is frantic with worry. our mission was to rescue you and return home. that is what we shall do. mr. turner's fate is regrettable. but so was his decision to engage in piracy.
+speaker3: commodore, please!
+
+speaker1: by remembering that i serve others, not only myself. 
+speaker2: commodore, i beg you -- please do this ... for me. as a wedding gift.
+speaker1: i am to understand that you will accept my marriage proposal on the condition i rescue mr. turner?
+speaker2: not as a condition -- a request.
+speaker1: free mister sparrow, and prepare to come about. he'll give you our heading.
+speaker3: congratulations, sir.
+speaker1: elizabeth, i hereby withdraw my proposal.
+speaker2: what?
+speaker1: i know now where your heart truly lies.
+
+speaker1: and now i know... where yours does, as well. 
+speaker2: you may seclude yourself in my cabin. i'm afraid we do not have any ladies' clothing aboard.
+speaker1: then i can wear men's clothing.
+speaker2: that would hardly be proper.
+speaker1: well, i am not going to stay hidden in a some cabin, 80 i suppose it's going to be heaving bosoms and bare ankles for the remainder of the voyage!
+speaker2: murtogg, take our guest below, and find her some trousers, and a shirt.
+
+speaker1: what happened to william turner? 
+speaker2: ah, william turner. stupid blighter. he threw in with us after we relieved jack sparrow of his captaincy, but turned out, it never sat well with him- particularly after we found cortes' treasure, and its peculiar condition. he thought we deserved to be cursed, for leaving ol' jack to the fate we did. that's why he sent off a piece of the treasure -- to you, as it were: so it would never be recovered, and so cursed we_ remain.
+speaker1: and then he ran. and he's hiding out someplace where you haven't been able to find him.
+speaker2: that's a nice thought, to be sure, and i wager your da wishes he'd thought it hisself. but, no. see, what he'd done, _ didn't sit too well with captain barbossa ... so he chained a cannon to his legs and dumped him over.
+speaker2: yep, last i saw of bootstrap bill, was his face looking up, as he sank down to the crushing black oblivion of davy jones' locker. it was only after, we found out we needed his blood to solve the curse. that's what you call ironic.
+speaker3: bring him.
+
+speaker1: you didn't tell commodore norrington everything. 
+speaker2: nor did you, i noticed.
+speaker1: he might delay the rescue ... and that would be too late.
+speaker2: exactly.
+speaker1: these men will be facing an enemy that seemingly cannot be killed.
+speaker2: i have a plan. if it succeeds, then any battle will be decidedly brief ... and one-sided.
+speaker1: what's your plan?
+
+speaker1: elizabeth -- below decks. i will not compromise your safety.. 
+speaker1: lieutenant, elizabeth to my quarters, and make sure she stays there.
+
+speaker1: i don't like the situation, mister sparrow. the island is riddled with caves. i will not put my men at a disadvantage. 
+speaker2: funny, i was thinking along those lines. how about you let me go in alone, and while you're setting up an ambush, i'll trick the pirates out to you.
+speaker1: you would do that?
+speaker2: they left me stranded. twice. what have you got to lose?
+speaker1: nothing i wouldn't be please to be rid of.
+speaker2: i knew you'd listen to reason!
+
+speaker1: that chart i drew up'11 get you past the reefs. if you're steersman's good enough, that is. 
+speaker2: i'll be at the wheel myself.
+
+speaker1: no reason to fret. it's just a of the finger and a few drops of blood. 
+speaker2: turner blood doesn't flow pure in his veins. best play it safe, and spill it all.
+speaker1: i guess there is a reason to fret.
+
+speaker1: careful, now. you could fall in and still be wonder'n when you'll hit dirt. 
+speaker2: you deserve to be cursed -- and remain cursed!
+
+speaker1: do you have any idea where you're going? 
+speaker2: jack!
+speaker1: don't talk. these caves magnify sound. just follow me.
+
+speaker1: are you certain this is the right way? 
+speaker2: it's the right way.
+speaker3: thank you, jack sparrow.
+speaker3: you couldn't have led him back more directly if you knew exactly where you were going.
+speaker1: you did know where you were going! you did lead us directly to them! why?
+speaker1: he picks up the stone knife.
+speaker3: what was begun by blood, let blood now end!
+speaker2: you don't want to be doing that.
+speaker3: no, i really think i do.
+speaker2: all right then.
+speaker3: why don't i want to do this?
+speaker2: because, right about now, the h.m.s. dauntless is lying in wait in the harbor.
+speaker1: jack!
+speaker2: - - and its guns and crew will cut you and your men to pieces the moment you step outside these caves.
+speaker4: do you believe him?
+speaker3: no. but him i believe. he is genuinely angry.
+
+speaker1: you've no hope of surviving norrington's attack ... that is, if you're mortal. 
+speaker2: what're you suggesting?
+speaker1: simple. don't kill the boy yet. wait for a more opportune moment.
+speaker1: like after you've killed... every...
+speaker2: i can't help wondering, jack, why you're being so helpful and all? last time you did that, it didn't end 80 well for you.
+speaker1: the situation has changed.
+speaker2: that so?
+speaker1: aye. see, after you're done with the royal navy, you'll have a bit of a problem: the h.m.s. dauntless. there you'll be, with two lovely ships on your hands, and what to do? of course you'll decide you deserve the bigger one, and who's to argue? the dauntless a first-rate ship-of-line, and with it, you can rule the seas.
+speaker1: but if you're captain of the dauntless, who's left for the black pearl?
+speaker1: i sail for you as part of your fleet, i give you fifteen percent of my plunder, and you get to introduce yourself at tea parties and brothels as 'commodore barbossa.' do we have an accord?
+speaker1: now, you can take care of the dauntless, right?
+speaker2: men! are you up for it?
+speaker2: mr. pintel, select five men to stay here. take the rest of the men out ... not through the caves.
+speaker1: there's ... another exit?
+speaker2: aye, for us there is.
+
+speaker1: ship rats. big ones. 
+speaker2: hate those things.
+speaker2: taste all right, though.
+speaker1: that they do.
+
+speaker1: skeleton. 
+speaker2: which would you prefer first, good sir -rum, or wine?
+speaker3: i believe i'll have a spot o' rum, if you don't mind, and thank'ee kind sir!
+
+speaker1: all the men in place, sir. ready to fire. 
+speaker2: wait for my order -- what the blazes is that?
+speaker2: men! take cover!
+
+speaker1: you've been planning this from the beginning. since you learned my name. 
+speaker2: oh, please -- do i really seem that clever?
+speaker2: use it well.
+speaker3: confound it, jack -- i was actually beginning to like you!
+
+speaker1: steady, men! remember -- we're the navy! 
+speaker1: the navy men are driven back, surrounded - suddenly there is a massive boom of cannon fire.
+speaker1: what is happening out there?
+
+speaker1: just so you know, jack -- i don't think you're that clever. i think you're a fool. a mortal fool. 
+speaker2: remarkable how often those two traits coincide.
+speaker1: you can't beat me, jack.
+
+speaker1: jack! 
+speaker2: well, isn't that interesting.
+speaker2: they're so pretty, i just couldn't resist stealing one. it's a curse, i guess.
+speaker3: so what now, jack sparrow? are we to be two immortals, locked in epic battle until the trumpets of judgment day?
+speaker2: or you could surrender.
+speaker3: or i could chain you to a cannonball and drop you in the deepest part of the ocean, where you can contemplate your folly forever.
+speaker3: barbossa charges -
+
+speaker1: hah. ten years you carried that pistol, and you end up wasting your shot. 
+speaker2: he didn't waste it.
+
+speaker1: well, you're the worst pirate i've ever heard of. you're a man who can be trusted, who can be counted on, and who can it betray his friends. what kind of pirate is that? 
+speaker2: the worst.
+speaker1: let's get out of here.
+
+speaker1: miss swann -- are you wearing trousers? and how did you get off the island? 
+speaker2: yes, i am wearing trousers. and as for how we got off the island -- ah, that's a grand adventure, but now is not the time to talk about it.
+speaker2: there. and don't you dare tell me that wasn't a proper kiss!
+speaker1: elizabeth, i think it doesn't matter- that we are of a different class -
+speaker2: it doesn't!
+speaker1: -- but that was not a proper kiss.
+speaker1: this is a proper kiss.
+speaker3: tough luck. i was rooting for you.
+
+speaker1: ...and though i do say so with regret, the law is clear. the penalty for piracy is death by hanging. 
+speaker2: by your leave, i wish to speak on behalf of the boy. it is clear that these deeds were performed out of a sincere desire to do good, at great personal risk. it seems to me, that in the rare occasion where the right course is committing an act of piracy, then an act of piracy is the right course! so in my capacity as governor, i intend to grant a pardon to --
+speaker3: sir!
+speaker3: jack and his crew have escaped! there was no damage to the cell ... they must have been set free.
+
+speaker1: sir! shall i break out the cannons? 
+speaker2: i don't think that will be necessary.
+speaker2: a day's head start. that's all he gets.
+
+speaker1: captain sparrow -- the black pearl is yours! 
+speaker2: anamaria, trim the mainsail!
+speaker1: aye, aye, sir!
+speaker2: mr. gibbs, organize a cleaning detail - you and cotton. i want every inch of the pearl spic-and-span and ship-shape!
+

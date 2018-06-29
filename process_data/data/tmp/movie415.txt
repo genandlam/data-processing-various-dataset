@@ -1,0 +1,720 @@
+speaker1: do you hear that? 
+speaker2: hear what?
+speaker1: that noise.
+speaker2: i don't hear anything.
+speaker1: excuse me.
+speaker3: yes?
+speaker1: what is that sound?
+speaker3: that's just the engines, sir.
+speaker1: no, it's different. it's not the engines. it's getting louder.
+speaker3: we're just gaining altitude to get above some rough weather. that's the sound of the engines speeding up a bit. everything's fine.
+speaker1: um...okay.
+
+speaker1: yeah.. 
+speaker2: you okay, honey?
+speaker1: yeah, mom. i'm fine.
+speaker2: alright. better get cooking or you'll be late for school.
+speaker1: on my way.
+
+speaker1: get the out of here! it's coming! 
+speaker2: what's coming?
+speaker1: don't you see it?
+speaker2: see what?
+
+speaker1: payback time... 
+speaker2: no!
+speaker1: don't worry, i have a strong stomach.
+speaker2: i dreamed you away before i was born! mom said you couldn't come back!
+speaker1: is that true? then she told you all about me, huh? let's see what else she has to say.
+speaker3: run, jacob!
+speaker2: leave her alone!
+speaker1: you're such a momma's boy!
+
+speaker1: you fucker! 
+speaker2: springwood is only the beginning. all i need from you is a ride!
+
+speaker1: it reads: drug addicts not welcome to rosedale! 
+speaker2: clean up your act somewhere else!
+
+speaker1: what's going on? 
+speaker2: free speech. the right of assembly.
+speaker1: what is this place?
+speaker2: it's a home. a foster home. for teenagers. it's where you go when things get bad. it's the place to figure out what to do next. it's a home for kids that no one else wants. it's my home.
+speaker1: oh...
+
+speaker1: why can't you find somewhere else to shack up? 
+speaker2: what have we ever done to you?
+speaker1: nothing...yet.
+speaker3: lighten up, mister.
+speaker1: and what gutter did you crawl out from, kid? we don't want your kind here.
+speaker3: my kind? what kind is that?
+speaker1: drug addicts. dope pushers. we have stand up and take charge.
+speaker3: swell. i've just got a couple of questions for you...do you love your parents?
+speaker1: of course i do...
+speaker3: are they alive?
+speaker1: my mother is.
+speaker3: what's it like?
+speaker2: assholes.
+speaker3: i can think of a stronger word. are you okay?
+speaker2: yeah. thanks. i'm karen.
+speaker3: jacob.
+speaker2: are you okay?
+speaker3: yeah. i just haven't had much to eat lately.
+speaker2: then come help me unpack.
+
+speaker1: i guess the sandwich is alright, huh? 
+speaker2: it's incredible. best i've ever had.
+speaker1: you're not from around here, are you?
+speaker2: no. i've been on the road for a couple of days.
+speaker1: do you need a place to stay?
+speaker3: so, we have to get it fixed.
+speaker4: we don't have the money to get it fixed.
+speaker1: what's wrong?
+speaker4: our plumbing has a bad case of hardening of the arteries. who's your friend?
+speaker1: this is jacob.
+speaker2: jacob johnson.
+speaker4: david ross. my wife, mary.
+speaker1: they run this house. they're helping me and three other ids get a footing in reality before they kick us out of the nest to make room for the next batch.
+speaker4: if there is a next batch. i see the welcome wagon is back. was there any trouble?
+speaker1: a little. jacob came to my rescue.
+speaker3: where you from, jacob?
+speaker2: springwood.
+speaker3: springwood? where's that?
+speaker2: upstate about a hundred miles.
+speaker1: jacob's a little down on his luck. i told him he could stay here a few days.
+speaker3: are your parents in springwood?
+speaker2: my father died before i was born. my mother, she's dead, too.
+speaker4: you have a legal guardian?
+speaker2: no.
+speaker4: been in any state or federal program?
+speaker2: no.
+speaker1: just for a little while. so he can get his bearings.
+speaker4: got any id?
+speaker4: okay. you got three, maybe four days to rest up while we try and find a more permanent arrangement for you. but his isn't going to be a free ride. we're part of a community summer work project and eighty percent of the money you make goes to the house. everybody works - and that includes you. are you on drugs?
+speaker2: no.
+speaker4: good. if i catch anything stronger then an aspirin on you, you're outta here. no arguments. you got that straight?
+speaker2: yes, sir.
+speaker4: okay. dinner in two hours. why don't you go meet the rest of the gang.
+speaker1: thanks, david.
+speaker3: i'll go fix up the spare bed in wesley's room.
+speaker4: and take a shower, for chrissakes.
+
+speaker1: hey, guys, i got someone for you to meet. this is jacob. jacob, this is wesley and gina. 
+speaker2: hi.
+speaker3: welcome to fun central.
+speaker1: he's going to be staying with us for a while.
+speaker4: oh yeah? how'd you get through the blockade?
+speaker5: hey, beautiful. how's it going?
+speaker1: hi, scott.
+speaker5: who's barney rubble?
+speaker1: this is jacob johnson. he's a new resident. at least temporarily.
+speaker5: he better not be rooming with me. i value my privacy.
+speaker1: no, i believe that honor goes to wesley.
+speaker3: good. i could use the company.
+speaker5: so what's your story? divorce? custody battle? your parents just plain assholes?
+speaker2: they're dead.
+speaker1: mellow out, scott. give him a chance to settle in.
+speaker5: just curious.
+speaker2: is he alright?
+speaker5: he'll be fine. he just has a problem with cigarettes.
+speaker4: his parents used to use them as a sick kind of discipline. that's why he's here.
+speaker2: if you know that, then why do you smoke in front of him?
+speaker5: it's not my problem.
+speaker2: just what is your problem, then?
+speaker5: i took care of my problem. that's why i'm here.
+speaker1: his dad used to beat him. one day he couldn't take it any more.
+speaker2: what happened?
+speaker1: he killed him with his father's gun. self-defense.
+speaker4: everyone here has a fun tale to tell. isn't that right, karen?
+speaker1: yeah. right.
+
+speaker1: why don't you go to bed? 
+speaker2: i can't sleep.
+speaker1: you need to talk?
+speaker2: no. i'm fine. thanks.
+
+speaker1: come on. let's hop to it. gotta make way for those new indoor tennis courts. the fate of the world lies in the balance. okay, this load's full. 
+speaker2: yeah, no problem.
+speaker1: i don't know. maybe you should think about switching to de-caf or something.
+
+speaker1: you okay? 
+speaker2: no! yes! let go of me!
+speaker3: she doesn't like to be touched.
+speaker1: no
+speaker3: don't take it personally. it's not her fault.
+speaker1: what happened to her?
+speaker3: her mother was a hooker. she forced gina to carry on the tradition. when she was thirteen...
+speaker1: 
+speaker3: you look terrible.
+speaker1: thanks.
+speaker3: i'm sorry...i just wish you'd tell me what happened to you, that's all.
+speaker1: i can't talk about it right now. i'll tell you later. i promise.
+speaker3: okay. why don't you sit and rest for a bit. the supervisor's not around. you look like you could use it.
+speaker1: i think i will.
+
+speaker1: no slacking off. back to work. 
+speaker2: what! fucking...oh,
+speaker1: whoa! get a grip, boy.
+speaker2: huh? what's going on?
+speaker1: nothing. that's the problem. now that you've gotten your beauty rest, let's see if you can change it, okay?
+
+speaker1: aren't you going to bed? 
+speaker2: i'm not tired.
+speaker1: if you looked any more tired, you'd be dead. jacob cracks a weary smile in the darkness.
+speaker2: that's right.
+speaker1: you gotta sleep, man.
+speaker2: why? who says? you know, people don't even really know why we sleep. they haven't found any physical reason for it.
+speaker1: but they do know that you go nuts if you don't.
+speaker2: sharks don't sleep. they can't pump water through their gills on their own. they have to always keep moving. if they stop, they can't breath. if they go to sleep, they die.
+speaker1: you're not a shark.
+speaker2: i know. i'm just a kid. don't worry about me, wes. go to sleep.
+
+speaker1: i told you you'd go nuts! 
+speaker2: get everybody else. i have to tell them something.
+speaker1: in the middle of the night?
+speaker2: i mean it!
+
+speaker1: i don't get it. is this guy alive or dead? 
+speaker2: he's neither. he haunts your dreams and if he kills you, you die for real.
+speaker3: i haven't dreamed of him. i have nightmares like you wouldn't believe, but never of this guy.
+speaker1: that's because this all rates an eleven on the meter! i don't know why we have to listen to this crap. you're scaring the out of wes here.
+speaker4: keep your voice down.
+speaker1: it doesn't matter. the ross's sleep like rocks, which is what we all should be doing.
+speaker2: i know this sounds crazy, but i swear it's true. i went to bed one night and woke up in the middle of the road. freddy krueger killed my mother, blasted my whole town into his nightmare, and, worst of all, i think he wants to use me to kill more kids and bring more towns into his world.
+speaker5: how?
+speaker2: i'm not sure. i think i'm some kind of carrier. he's somehow inside me and as soon as i fall deep enough into sleep he'll be let loose. you guys were great to take me in. i just don't want to thank you by getting you all killed.
+speaker1: okay. show me springwood. jacob looks at the map and points. scott there's nothing there.
+speaker2: that's what i've been trying to tell you.
+speaker1: there's never been a town there.
+speaker2: that's how you see it. i was part of the nightmare, so i'm the only one who notices the difference.
+speaker1: look, jacob. you don't have to convince us that nightmares are real. everybody in this room has been through one. and some of us are still living it. but the thing is, we know it's just in our heads now. it can be just as bad as the real thing was, but it's still only a memory. it can't hurt us physically, unless we do the hurting ourselves.
+speaker4: and we don't want to see you get hurt.
+speaker3: we know it gets crazy. and we'll help out the best we can.
+speaker1: but this is just too hard to believe.
+speaker2: you don't believe me, either, do you?
+speaker5: i don't know.
+speaker2: why are you still here?
+speaker5: i'm not sure. i guess, i guess i see a lot of me in you.
+speaker2: feels good to see someone more up than yourself, huh? karen smiles and sits down next to him.
+speaker5: yeah. that must be it.
+speaker2: but you haven't told me why you're here at this place.
+speaker5: i can't talk about it right now. maybe later. do you want me to stay with you?
+speaker2: yeah, that'd be great. don't let me sleep, okay?
+speaker5: i'll do my best.
+speaker2: yeah. thank
+
+speaker1: where are you going? 
+speaker2: i'm leaving.
+speaker1: why?
+speaker2: he can't hurt you if i'm gone. maybe i'll go to the desert or something. i'll lie down in the middle of nowhere and finally get some sleep. krueger can feed of the dreams of snakes and vultures.
+speaker1: fine. you're just going to take off then...
+speaker2: don't do this to me. i'm just trying to protect you and the others.
+speaker1: right. you blow into town and then blow right out. terrific.
+speaker2: i don't understand why you're so mad at me.
+speaker1: you just don't get it, do you?
+speaker2: get what?
+speaker1: running away doesn't help.
+speaker2: and you're going to convince me, huh?
+speaker1: maybe.
+speaker2: yeah. sure.
+
+speaker1: jacob! help me! 
+speaker2: say it, don't spray it, huh, jacob? come and join the fun!
+
+speaker1: jacob! 
+speaker2: nooooo!
+
+speaker1: no! don't let them take me! 
+speaker2: jacob, it'll be alright.
+speaker3: calm down, kid. we'll take care of you.
+speaker1: you don't understand! let me go!
+speaker4: this is just what we need.
+
+speaker1: don't put me under! you'll set him free! 
+speaker2: every town as an elm street!
+
+speaker1: thanks for the lift, kid! 
+speaker2: what do you want from me?
+speaker1: i already got it! the rest i'm going to get from your new little friends.
+speaker2: leave them alone!
+speaker1: it's my duty to clean up the neighborhood!
+speaker2: what have you done with my town?
+speaker1: aw, poor baby's homesick, isn't he? don't worry. we'll all be one happy family soon. wanna be the first recruit?
+
+speaker1: over my dead body! 
+speaker2: as you wish.
+speaker3: we have to.
+speaker4: it's our job.
+speaker2: get a new one.
+speaker5: goddamnit!
+speaker1: alright...just who the are you guys?
+speaker3: we're the dream police.
+speaker1: the what?
+speaker5: the dream police. didn't you hear her, man?
+speaker4: i think you're the wrong guy to talk about attitudes.
+speaker3: guys, guys. this is getting us nowhere.
+speaker1: hello? may i in here and ask some more stupid questions?
+speaker3: we don't know much more than you do. what we do know is that we've been recruited...
+speaker1: by who?
+speaker4: we don't know.
+speaker1: why?
+speaker3: i think that's obvious.
+speaker5: the shit's about to hit the fan.
+speaker4: krueger's discovered new powers.
+speaker3: he's ripped a hole between dreams and reality.
+speaker5: our own powers have been amplified.
+speaker4: we only hope it will be enough.
+speaker3: but we're going to need your help.
+speaker1: me? what can i do? just who are you guys...really?
+speaker3: we were like you. we fought freddy krueger many years ago. our souls were released from his grip. no we're back to try again.
+speaker1: i still don't understand what...
+speaker4: freddy krueger can't hurt us anymore.
+speaker5: because we're already dead.
+
+speaker1: what's going on? 
+speaker2: just relax, everything's fine.
+speaker1: that's what you say...
+speaker2: you're lucky you're here instead of juvenile hall. you put up quite a fight. but you're clean. no traces of drugs or alcohol in your blood.
+speaker1: i could've told you that.
+speaker2: hold on there.
+speaker1: you said i was fine. i have to get back. my friends are in trouble.
+speaker2: i said you weren't on drugs, but i never said you were fine. you're suffering from extreme fatigue and stress that manifested itself into one of an anxiety attack. at least that's what we hope it is. you had a major seizure, jacob.
+speaker1: you don't understand. this whole town is in danger.
+speaker2: we're keeping you here for observation. you're not going anywhere tonight.
+speaker1: you can't do that. you don't have the right!
+speaker2: yes we do. your temporary guardian, mr. ross, signed all the papers. if you're okay in the morning we might let you go home. until then, you're bed bound.
+speaker1: but...
+speaker2: we took off the restraints. do you want us to put them back on?
+speaker3: sleep.
+speaker1: 
+
+speaker1: you heard the man, wesley. just relax. have a smoke with us. 
+speaker2: yeah, wesley. have a smoke.
+speaker3: this.
+speaker4: relax, wesley.
+speaker3: dad?
+speaker5: yeah, wesley. everything's gonna be great! just have a smoke on us!
+
+speaker1: go to hell! 
+speaker2: right...
+speaker1: noooooooo!
+
+speaker1: i don't get it. the couch is barely scorched. and how can he burn from just the neck down? 
+speaker2: it happens.
+speaker1: it happens? that's your explanation?
+speaker2: i've seen worse.
+speaker1: what? what worse?
+speaker2: never mind.
+speaker1: no. i wanna know. really. what could be worse than...
+speaker3: you know what the gossip rags are going to say? spontaneous human combustion.
+speaker4: what's that?
+speaker3: that's where bodies are supposed to go up in smoke for no reason. it's all psychic what really happened is called the candle effect. a tiny fire gets started, usually from a cigarette. it slowly smolders through the blanket and clothes until the skin starts to actually bake. the body fat begins to melt and liquefy, fueling the fire like a slow burning candle. it takes hours, but it's real.
+speaker4: he fell asleep while smoking. what a waste.
+speaker5: that's impossible.
+
+speaker1: who? 
+speaker2: wes...
+speaker1: oh my it's started.
+speaker3: he burned alive.
+speaker2: they said he fell asleep smoking.
+speaker3: and we all know that can't be.
+speaker1: i already told you how it would happen.
+speaker3: don't start with that
+speaker1: it's not
+speaker4: c'mon, kids. everyone inside. now.
+
+speaker1: we have to be strong. 
+speaker2: he would never touch a cigarette. you know that.
+speaker1: we don't know anything until the authorities are finished with their investigation. in the mean time, no work for tomorrow - three day weekend. but monday, it's back on the job. jacob wasn't covered in our health plan and his little stint at the hospital cost us a bundle. we have to work together or we might lose this place. okay?
+
+speaker1: when i was put under, freddy was released. i know this because i dreamed it. 
+speaker2: and that dream was real?
+speaker1: yes. wesley was his first victim.
+speaker2: aw, man...
+speaker1: you said it yourself. how could it have been a cigarette?
+speaker3: and how could he...dire that way and not wake up?
+speaker4: maybe the "authorities" will figure it out.
+speaker2: i'm sorry. i just can't buy into this.
+speaker1: call me crazy...but i think he's after rosedale. the whole place. in my dream he said something about needing a few souls to get the job done. i think he has to kill in order to get the power to in a new town.
+speaker2: you are crazy.
+speaker1: thank you. there's more. there are... other people in there. in the nightmares.
+speaker3: like him?
+speaker1: no. different. there are three of them. they're dressed in black. they have powers like freddy, but they seem to be on our side.
+speaker3: who are they?
+speaker1: well, you gotta hang in there with me on this one. they call themselves... the dream police. scott actually laughs.
+speaker2: this is too much.
+speaker4: you mean...like cops?
+speaker1: i guess.
+speaker3: where are they from?
+speaker1: they're kids that freddy killed years ago. they don't even know how they got there. but they're somehow patrolling dreamworld to put a stop to krueger.
+speaker2: then why haven't these guys done the job already?
+speaker1: they say they need help. i don't know what or why...yet.
+speaker2: i can tell you who needs help.
+speaker1: hey, i'm trying to save all of us.
+speaker2: i won't believe it until i see it.
+speaker1: by then it'll be too late. it was too late for wesley.
+
+speaker1: they're going to use all this to shut us down. 
+speaker2: i know. it's my fault.
+speaker1: you going to try to run away again?
+speaker2: it's too late for that. i have to stay and try and put a stop to it.
+speaker1: i'm sorry. it's all so hard to accept.
+speaker2: i wish i could convince you of the danger you and the others are in.
+speaker1: i've been in danger before. that i can handle.
+speaker2: this is worse than anything you can imagine.
+speaker1: i wouldn't be so sure about that. come on. let's go inside.
+
+speaker1: i'm sorry. 
+speaker2: i know nightmares are real, jacob. i know.
+speaker1: so did my mom. she taught me a lot about dreams.
+speaker2: like what?
+speaker1: she told me that a lot of people have special dream powers. i inherited some from her - and some i have all to myself. she showed me how i could link up with other people's dreams - to actually be inside with them.
+speaker2: that sounds wonderful. but...i don't know...
+speaker1: a little hard to imagine, huh?
+speaker2: yeah. i'm sorry.
+speaker1: i can convince you.
+speaker2: how?
+speaker1: easy. we're doing it now.
+speaker2: what do you mean?
+speaker1: i mean we're dreaming. you and me. together.
+
+speaker1: i don't believe it. 
+speaker2: it's true. we're really doing it.
+speaker1: but what if i'm just dreaming of you telling me that?
+speaker2: we'll compare notes when we wake up. then you'll know.
+
+speaker1: did you bring us here on purpose? can you go anywhere you want? 
+speaker2: sometimes. it's not as easy as linking up, though.
+speaker1: wow, i never knew...
+speaker2: show off.
+
+speaker1: when things get bad it helps to be someone else. i use it to protect myself. 
+speaker2: i think i like you the way you always are.
+
+speaker1: look! 
+speaker2: karen, no!
+
+speaker1: welcome to romper room! 
+speaker2: why are you doing this?
+speaker1: don't you remember?
+
+speaker1: come on! 
+speaker2: what?
+speaker1: you heard me. i said wake up!
+speaker2: how? this is my old house. how did i get here?
+speaker1: this is a dream! you have to get out of here. i'm not hurting you, only he can really do that! wake up now!
+speaker3: gettin' kinky, huh?
+speaker2: i think i get it now.
+
+speaker1: you hit me. 
+speaker2: are you hurt?
+speaker1: um...no.
+speaker2: if he had done it, you'd be dead.
+speaker1: you better get back to your room. we don't want anybody to get the wrong idea.
+speaker2: or the right one?
+speaker1: get out of here.
+speaker2: that's something else my mom taught me.
+speaker1: no. not tonight.
+
+speaker1: i'm telling you, this freddy guy is for real. 
+speaker2: and i'm telling you a dream is a dream.
+speaker1: jacob was in there with me.
+speaker2: and where else was he with you last night?
+speaker3: what the is that supposed to mean?
+speaker1: i have the picture in my room if you want to see it. he brought it out from the nightmare.
+speaker2: or from your hope chest. i bet your bed isn't the only thing he's been into.
+speaker1: that picture was destroyed years ago.
+speaker3: you better watch your mouth, pal.
+speaker2: i'm the last person you want to start with.
+speaker3: go ahead and be a tough guy, scott. krueger will cut you to pieces before you can even flex a muscle.
+speaker4: will you two stop it! you're scaring the out of me.
+speaker1: you should be scared.
+speaker5: alright. what's going on here?
+speaker2: join the fun. jacob and karen were just telling us about their new excuse to sleep together.
+speaker3: nothing happened between us last night.
+speaker2: you mean in plain old reality, right?
+speaker5: okay, everybody. out. jacob and i are going to have a little talk. now.
+speaker3: i'm sorry, but...
+speaker5: hey, i don't know what kind of you're shoveling to these kids, but it's going to stop. my good samaritan instincts have their limits. we've had enough tragedy around this place. we don't need you making things worse with fantasies.
+speaker3: you don't understand
+speaker5: and i want you to stay away from karen.
+speaker3: it's a free country.
+speaker5: this isn't america, it's my house. i've been checking up on you. you have no record with the police or the state or any of the runaway groups. you're the invisible kid. and if i sense even a little bit more trouble-making from you, you're going to vanish from here. got it?
+speaker3: yes, sir.
+
+speaker1: you're supposed to be off-limits to me. 
+speaker2: it's okay. the ross's have gone to a council meeting and scott's in his room. we should be safe for awhile.
+speaker1: wonderful.
+speaker2: jacob, what are we going to do?
+speaker1: i'm going to go to bed soon.
+speaker2: now you want to sleep?
+speaker1: i have to find the dream police. i think i'm somehow their link to all this. they only seem to appear when i'm around. you woke me up before i had a chance to talk to them last night.
+speaker2: i'm sorry. i was scared.
+speaker1: your fault. i have to ask them what we're supposed to do to help them. and maybe i can protect gina while i'm in there.
+speaker2: what about scott?
+speaker1: he's on his own.
+speaker2: oh...
+speaker1: i don't mean to be cold,but we've done everything to convince him. gina's too scared to understand. i think freddy will go after her next.
+speaker2: what should i do?
+speaker1: you have to stay awake.
+speaker2: that's not going to be easy. i'm half asleep already.
+speaker1: you have to try.
+speaker2: i'd better get out of here.
+speaker1: okay. be careful.
+speaker2: you be careful. i'm not going anywhere.
+
+speaker1: going up? 
+speaker2: you're not real!
+speaker1: ah, but who is?
+
+speaker1: hi there, princess. your mom's told me all about you. 
+speaker2: ...is a maniac trying to get out!
+speaker3: room service?
+speaker2: huh? i didn't order anything...
+speaker4: come on!
+
+speaker1: let go of me! 
+speaker2: i'm here to help!
+speaker1: let's get out of here.
+
+speaker1: where'd he go? 
+speaker2: i thought you had him.
+speaker3: 
+
+speaker1: no no no no! 
+speaker2: stand back.
+
+speaker1: you let him get away! 
+speaker2: it's difficult.
+speaker3: he's been at this longer than we have.
+speaker4: he can do anything.
+speaker2: but we have to catch him in the act to get him.
+speaker1: what...there are rules to all this?
+speaker2: they're not rules.
+speaker3: it's just the way it is.
+speaker4: jacob, we need you to bring the rest together.
+speaker1: the rest? you mean the kids at the home?
+speaker4: yes. we need as many of you as we can get. and you must bring them to springwood.
+speaker1: how?
+speaker4: you have the power to link your dreams with other's. dream of springwood, then bring the rest with you.
+speaker2: living souls are what he thrives on. living souls are what we need to help stop him.
+speaker3: before it's too late.
+speaker4: before he takes everyone.
+speaker2: and every thing.
+
+speaker1: is it an earthquake? 
+speaker2: no. it's freddy.
+
+speaker1: pack your bags, kids. 
+speaker2: you're kicking us out?
+speaker1: no. they're taking you away. they say it's for your own good.
+speaker3: they can't do that.
+speaker1: yes, they can. they consider mary and i possibly unfit to act as foster parents. they're going to find temporary homes for you until this mess is straightened out. i'm so very sorry.
+speaker3: no, please.
+speaker1: they're not calling it an accident this time. they don't really know what to call it. karen lets go. scott stands up.
+speaker4: what's going to happen to us?
+speaker1: you'll be alright.
+speaker3: what's going to happen to you?
+speaker1: i don't know. they're thinking of pressing charges.
+speaker2: aw, jesus...
+speaker1: come on. a car from juvenile hall will be here in an hour.
+
+speaker1: i'm sure most of you know how this works already. you'll be assigned new foster homes tomorrow afternoon. tomorrow morning the police will be talking to you regarding the matter at the old house. 
+speaker2: what about it?
+speaker1: anything you know.
+speaker3: are we considered suspects?
+speaker1: you'll talk to the police about that. don't worry. we'll all try and work this out.
+speaker2: will we be able to go back to the ross's?
+speaker1: i don't know. you'll have a place to stay in the mean time.
+speaker2: will we be together?
+speaker1: no. we don't have anybody willing to take more than one person. i'm afraid you'll be split up.
+speaker3: great...
+speaker1: hey, you can visit each other. you'll be in the same town.
+speaker4: if it's still here.
+
+speaker1: jacob, what are we going to do? 
+speaker2: nothing.
+speaker1: what do you mean, nothing?
+speaker2: it's over. we're finished. he's won.
+speaker3: looks like your hero just gave up.
+
+speaker1: how can you do this? 
+speaker2: do what? i'm not doing anything.
+speaker1: exactly. after all we've been through you just throw in the towel. why?
+speaker2: because we're the last thing the dream police told me was that they needed all our help. together. even if we weren't about to be split up there aren't enough of us left to make a difference.
+speaker1: how do you know that?
+speaker2: i don't. but, it's all just too much. i've tried so hard and nothing's worked. i'm spent. i'm wasted. i'm...i'm so tired. jacob puts his face in his hands. jacob i've had enough.
+speaker1: so you're just going to give up? i'll bet that's something your mother never taught you.
+speaker2: and we're not going to waste it.
+
+speaker1: scott, we need you. 
+speaker2: look, i don't know what's going on anymore. two of my friends die and now you tell me i have to drop into dreamland with you guys to do battle with the dude that did it.
+speaker3: we'll have help.
+speaker2: ah, yes. i almost forgot. the sleepy squad. alright. i'll make you a deal. i told you i wouldn't believe this stuff unless i saw it. if i understand this correctly, all i have to do is fall asleep and you just whisk me into the action.
+speaker3: right.
+speaker2: okay. if that happens, if both of you show up in my dream, i'll help you out. if nothing happens, then i'll get a good night's sleep and laugh at you in the morning.
+speaker3: fine. you got a deal. and you won't be disappointed.
+speaker1: i'm going to be sleeping in the girl's dorm. will you be able to bring me in?
+speaker3: i hope so. then i got to make sure we all end up in springwood.
+speaker2: the old stomping ground?
+speaker3: yeah. only right now it's not a very pretty place.
+speaker1: what do we do when we get there?
+speaker3: play it by ear. and try and stay alive.
+speaker4: half hour til lights out, everyone.
+speaker3: off we go.
+speaker2: into the wild black yonder.
+
+speaker1: this does not comfort scott. 
+speaker2: oh, this is lovely.
+speaker3: hey, buddy?
+speaker2: yeah, what?
+speaker3: can you spare some change?
+speaker2: um, well, let me see...
+
+speaker1: scott! you're here. 
+speaker2: yeah. fun town. talk to any of the neighbors, yet? they're a swell bunch of folks.
+speaker1: uh-huh. real friendly, too.
+speaker2: so this is a dream?
+speaker1: and i'm in it with you. convinced?
+speaker2: maybe i'm just dreaming bout being here with you. wouldn't be the first time.
+speaker1: nope. i tired that one already. doesn't work. come on, we have to find jacob.
+
+speaker1: jacob! thank 
+speaker2: so this is the place, huh?
+speaker3: i'm home.
+speaker1: what now?
+speaker3: scott, are you with us?
+speaker2: a deal's a deal.
+speaker3: then we wait.
+speaker2: whoa!
+speaker4: is this all?
+speaker3: all that's left.
+speaker5: it'll have to do.
+speaker2: we can always come back later. like when it's daytime.
+speaker4: it's always night here.
+speaker3: what's the plan?
+speaker6: we need you to draw him out.
+speaker2: terrific. we're supposed to be bait.
+speaker5: essentially.
+speaker3: then let's do it.
+
+speaker1: two drink minimum. 
+speaker2: ah, that's okay. i think i'm underage, anyway.
+speaker1: two drink minimum.
+speaker2: no, really. i'm driving.
+speaker1: two drink minimum.
+speaker3: can i get you anything?
+speaker2: that's okay. i'll just sit at the bar.
+speaker3: alright, honey. you call if you need anything.
+speaker2: you bet. you'll be the first to know.
+speaker4: what'll it be?
+speaker2: um, a beer, i guess.
+speaker4: go on. puts hair on your back.
+speaker2: and that's all?
+speaker4: no charge. compliments of the man at the end of the bar.
+
+speaker1: welcome to my favorite haunt. 
+speaker2: so you're the man.
+speaker1: at your service.
+speaker2: what's on your mind?
+speaker1: a deal.
+speaker2: a deal's what got me into this.
+speaker1: bring jacob to me.
+speaker2: what's in it for me?
+speaker1: power. you don't need to hang out with those losers. you're a take-charge kind of guy, scott. like when you took charge of your father.
+speaker2: leave my father out of this.
+speaker1: i'll make you mayor of rosedale.
+speaker2: after you make it look like this?
+speaker1: you can have karen.
+speaker2: alive?
+speaker1: any way you want her.
+speaker2: okay.
+speaker1: shake?
+speaker2: no thanks. i trust you.
+speaker3: mother?
+
+speaker1: mayor of rosedale. scott sneers. scott what a crock of 
+speaker2: he puts his hands on his hips and sighs. scott never a cop around when you need one.
+speaker3: i hate a snitch!
+speaker1: eat
+
+speaker1: lighten up, bone brain. 
+speaker2: take it outside!
+
+speaker1: no more playing around. 
+speaker2: kincaid!
+speaker1: put a lid on it!
+
+speaker1: i'm sorry, scott. 
+speaker2: you shouldn't be.
+speaker3: he still exists.
+speaker1: what! how?
+speaker4: we're already dead, that's why he couldn't destroy us.
+speaker2: but he's not dead. he's not alive either. he's something in between.
+speaker3: he's not entirely part of reality or part of dreams. he's unique.
+speaker2: we can't kill him.
+speaker4: we can wail away on each other until doomsday and not do any good.
+speaker1: then who's going to kill this fucker?
+speaker3: you have to.
+speaker1: how the am i supposed to do that?
+speaker2: krueger's power comes from his rage and the souls of children.
+speaker4: you have to find the original source of that rage and use it against him.
+speaker2: this town in its present condition encompasses all evils from all times in its history. the answer is here somewhere...
+speaker1: i think i know where...
+speaker2: jacob, wait. we have to find him first.
+speaker1: no time. you guys find karen!
+
+speaker1: jacob! you scared the out of me! 
+speaker2: the feeling is mutual.
+speaker1: where are the dream police?
+speaker2: i told them to look for you. what are you doing here? don't you know what this place is?
+speaker1: i do now. look what i found.
+speaker2: you've got to get out of here.
+speaker1: wait. you have to see this.
+speaker2: you don't understand. the police can't kill freddy. they literally chopped each other to pieces and he's still alive! now i'm supposed to figure out how to get rid of him.
+speaker1: but i think i found the answer. shut up for a second and look at these. she starts showing him the scrawlings.
+speaker2: okay, so he's a bad artist.
+speaker1: no! you told me krueger's mother committed suicide and no one knows who his father was, right?
+speaker2: yeah...
+speaker1: freddy's been pushing all our buttons with our pasts. these are his past. don't you get it? he was a foster child, too!
+speaker2: but in reality freddy hasn't lived here for decades.
+speaker1: like you tried to tell me once before, this is a dream. who knows why this is all here.
+speaker2: all evils from all times in history...
+speaker1: and isn't this where it all started in springwood? on elm street?
+speaker2: but what does this do for us?
+speaker1: there's got to be a way to use it against him.
+speaker2: okay, but we're not going to stand around here to figure out how. it's too dangerous.
+
+speaker1: time to join your mommy. 
+speaker2: no no no no no no no...jacob...
+speaker1: young love...ha!
+speaker3: karen...dream...powers....
+speaker1: it's past your bedtime, young lady.
+
+speaker1: that's my baby. that's daddy's little girl. 
+speaker2: oh no...
+speaker1: now do you remember?
+speaker2: you're not my father.
+speaker1: but we're going to have the same fun!
+speaker3: that's enough!
+speaker2: mommy, no!
+speaker3: you're never going to touch her again!
+speaker1: i'll touch what i want!
+
+speaker1: be honored, you're the last soul i need. 
+speaker2: i'll be back...
+speaker1: i'll be waiting.
+
+speaker1: daddy? 
+speaker2: don't you "daddy" me!
+speaker1: no, daddy. please...
+
+speaker1: you took some things that don't belong to you! 
+speaker2: we gotta get outta here!
+
+speaker1: you okay, honey? 
+speaker2: yes. i'm alright.
+speaker1: i've never seen you around. are you new in town?
+speaker2: sort of.
+speaker1: well then... welcome to springwood.
+

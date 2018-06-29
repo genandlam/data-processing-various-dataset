@@ -1,0 +1,898 @@
+speaker1: so close it has no boundaries. 
+speaker2: hello?
+speaker3: call trans opt: received.
+speaker4: i'm inside. anything to report?
+
+speaker1: trace program: running. 
+speaker2: he caught the northbound howard line. got off at sheridan. stopped at 7-11. purchased six- pack of beer and a box of captain crunch. returned home.
+speaker3: all right, you're relieved. use the usual exit.
+speaker2: do you know when we're going to make contact?
+speaker3: soon.
+speaker2: just between you and me, you don't believe it, do you? you don't believe this guy is the one?
+speaker3: i think morpheus believes he is.
+speaker2: i know. but what about you?
+speaker3: i think morpheus knows things that i don't.
+speaker2: yeah, but if he's wrong -- the final number pops into place --
+speaker3: did you hear that?
+speaker2: hear what?
+speaker1: trace complete. call origin:
+
+speaker1: are you sure this line is clean? 
+speaker2: yeah, course i'm sure.
+speaker1: i better go.
+speaker2: yeah. right. see you on the other side.
+speaker3: attention all units. attention all units.
+
+speaker1: police! freeze! 
+speaker1: get your hands behind your head!
+speaker1: hands behind your head! now! do it!
+
+speaker1: lieutenant? 
+speaker2: oh
+speaker1: lieutenant, you were given specific orders --
+speaker2: i'm just doing my job. you gimme that juris-my dick-tion and you can cran it up your ass.
+speaker1: the orders were for your protection.
+speaker2: i think we can handle one little girl.
+speaker2: i sent two units. they're bringing her down now.
+speaker1: no, lieutenant, your men are dead.
+
+speaker1: operator. 
+speaker2: morpheus! the link was traced! i don't know how.
+speaker3: i know. stay calm.
+speaker2: are there any agents?
+speaker3: yes.
+speaker2: goddamnit!
+speaker3: you have to focus. there is a phone. wells and laxe. you can make it.
+speaker2: all right --
+speaker3: go.
+
+speaker1: -- that's impossible! 
+speaker2: get up, trinity. you're fine. get up -- just get up!
+
+speaker1: did you get anything from the room? 
+speaker2: their next target. the name is neo.
+speaker1: we'll need a search running.
+speaker2: it's already begun.
+speaker3: jackon: i heard morpheus has been on this board. superastic: morpheus doesn't even exist and the matrix is nothing but an advertising gimmick 4 a new game. timaxe: all i want to know is trinity really a girl? lodiii: 87% of all women on line are really men. quark: the matrix is a euphemism for the government. superastic: no, the matrix is the system controlling our lives. timaxe: you mean mtv.
+
+speaker1: idiots don't know 
+speaker2: do you want to know what the matrix is, neo?
+speaker2: superastic: who said that? jackon: who's neo? gibson: this is a private board. if you want to know, follow the white rabbit.
+speaker1: what the hell...
+speaker2: timaxe: someone is hacking the hackers! fos4: it's morpheus!!!!! jackon: identify yourself. knock, knock, neo.
+speaker3: hey, tommy-boy! you in there?
+speaker1: what do you want, anthony?
+speaker4: i need your help, man. desperate. they got me, man. the shackles of fascism.
+speaker1: you got the money this time?
+speaker5: you can really get that thing off, right now?
+speaker4: i told you, honey, he may look like just another geek but this here is all we got left standing between big brother and the new world order.
+
+speaker1: look at 'em. automatons. don't think about what they're- doing or why. computer tells 'em what to do and they do it. friend l thc banality of evil. 
+speaker1: thanks, neighbor.
+speaker2: why don't you come to the party with us?
+speaker3: i don't know. i have to work tomorrow.
+speaker2: come on. it'll be fun.
+speaker3: yeah, yeah. sure, i'll go.
+
+speaker1: hello, neo. 
+speaker2: how did you know that --
+speaker1: i know a lot about you. i've been wanting to meet you for some time.
+speaker2: who are you?
+speaker1: my name is trinity.
+speaker2: trinity? the trinity? the trinity that cracked the i.r.s.
+speaker1: that was a long time ago.
+speaker2: gee-zus.
+speaker1: what?
+speaker2: i just thought... you were a guy.
+speaker1: most guys do.
+speaker2: do you want to go sorewhere and talk?
+speaker1: no. it's safe here and i don't have much time.
+speaker2: that was you on the board tonight.
+speaker1: i had to gamble that you would see and they wouldn't.
+speaker2: who wouldn't?
+speaker1: i can't explain everything to you. i'm sure that it's all going to seem very strange, but i brought you here to warn you, neo. you are in a lot of danger.
+speaker2: what? why?
+speaker1: they're watching you. something happened and they found out about you. normally, if our target is exposed we let it go. but this time, we can't do that.
+speaker2: i don't understand --
+speaker1: you came here because you wanted to know the answer to a hacker's question.
+speaker2: the matrix. what is the matrix?
+speaker1: twelve years ago i met a man, a great man, who said that no one could be told the answer to that question. that they had to see it, to believe it.
+speaker1: he told me that no one should look for the answer unless they have to because once you see it, everything changes. your life and the world you live in will never be the same. it's as if you wake up one morning and the sky is falling.
+speaker1: the truth is out there, neo. it's looking for you and it will find you, if you want it to.
+speaker1: that's all i can tell you right now. good-bye, neo. and good luck.
+speaker2: wait. who was it? who was the man?
+speaker1: you know who.
+
+speaker1: you have a problem, mr. anderson. you think that you're special. you believe that somehow the rules do not apply to you. 
+speaker1: obviously, you are mistaken.
+speaker1: this company is one of the top software companies in the world because every single employee understands that they are a part of a whole. thus, if an employee has a problem, the company has a problem.
+speaker1: the time has come to make a choice, mr. anderson. either you choose to be at your desk on time from this day forth, or you choose to find yourself another job. do i make myself clear?
+speaker2: yes, mr. rhineheart. perfectly clear.
+
+speaker1: what did he say? 
+speaker2: if i was late again, i'm going to be fired.
+speaker1: well, it was nice working with you.
+speaker3: thomas anderson?
+speaker2: yeah. that's me.
+speaker4: have a nice day.
+speaker2: hello?
+speaker5: hello, neo. this is morpheus. neo's knees give and he falls into his chair.
+speaker5: i had hoped for this conversation to take place under less adverse conditions, but you can never count on hope, can you, neo?
+speaker2: ... no.
+speaker5: i've been watching you, neo, and i want to meet you. i don't know if you're ready to see what i want to show you, but unfortunately, we have run out of time. they're coming for you, neo. and i'm not sure what they're going to do.
+speaker2: who's coming for me?
+speaker5: stand up and see for yourself.
+speaker2: right now?
+speaker5: yes. now.
+speaker5: do it slowly. slowly. the elevator.
+speaker2: holy
+speaker5: yes.
+speaker2: what the do they want with me?!
+speaker5: i'm not sure. but, if you don't want to find out, you better get out of there.
+speaker2: how?!
+speaker5: i can guide you out, but you have to do exactly what i say.
+speaker5: the cubicle across from you is empty.
+speaker2: but what if...?
+speaker5: go! now!
+speaker5: stay here for a moment.
+speaker5: a little longer...
+speaker5: when i tell you, go to the end of the row to the first office on the left, stay.as low as you can.
+speaker5: now.
+speaker5: good. now there is a window.
+speaker2: how do you know all this?
+speaker5: the answer is coming, neo.
+speaker5: outside, there's a scaffold. you can use it to get to the roof.
+speaker2: no! it's too far away.
+speaker5: there's a small ledge. it's a short climb. you can make it.
+speaker2: no way, no way, this is crazy.
+speaker5: don't be controlled by your fear, neo. there are only two ways out of this building. one is that scaffold. the other is in their custody. you take a chance either way. i leave it to you.
+speaker2: this is insane! why is this happening to me? what did i do? i'm nobody. i didn't do anything.
+speaker2: i'm going to die.
+speaker2: this is insane. i can't do this! forget it!
+speaker2: i didn't do anything!
+
+speaker1: as you can see, we've had our eye on you for some time now, mr. anderson. 
+speaker1: it seems that you have been living two lives. in one life, you are thomas a. anderson, program writer for a respectable software company. you have a social security number, you pay your taxes and you help your land lady carry out her garbage.
+speaker1: the other life is lived in computers where you go by the hacker alias neo, and are guilty of virtually every computer crime we have a law for, including the unauthorized use of the d.m.v. system for the removal of automobile boots. neo feels himself sinking into a pit of
+speaker1: one of these,lives has a future. one of them does not.
+speaker1: i'm going to be as forthcoming as i can be, mr. anderson. you are here because we need your help.
+speaker1: we know that you have been contacted by a certain individual. a man who calls himself morpheus. whatever you think you know about this man is irrelevant to the fact that he is wanted for acts of terrorism in more countries than any other man in the world. he is considered by many authorities to be the most dangerous man alive.
+speaker1: my colleagues believe that i am wasting my time with you, but i believe you want to do the right thing. it is obvious that you are an intelligent man, mr. anderson, and that you are interested in the future. that is why i believe you are ready to put your past mistakes behind you and get on with your life.
+speaker1: we are willing to wipe the slate clean, to give you a fresh start and all we are asking in return is your cooperation in bringing a known terrorist to justice.
+speaker2: yeah. wow. that sounds like a real good deal. but i think i have a better one. how about i give you the finger -- he does.
+speaker2: and you can cram that file up your secret service sphincter.
+speaker1: you disappoint me, mr. anderson.
+speaker2: you ain't seen nothing yet.
+speaker1: the irony of your situation is that you have no choice.
+speaker2: you can't scare me with this gestapo crap. i know my rights. i want my phone call.
+speaker1: and tell me, mr. anderson, what good is a phone call iy you are unable to speak?
+speaker1: you are going to help us, mr. anderson, whether you want to or not.
+speaker3: this line is tapped, so i must be brief.
+speaker2: the agents --
+speaker4: they got to you first, but they've underestimated how important you are. if they knew what i know, you would probably be dead.
+speaker4: i don't know what you are thinking right now but i want you to understand that i will not give up on you until you give up on me.
+speaker4: do you still want to meet?
+speaker2: ... yes.
+speaker4: take the howard line south.
+
+speaker1: we got him. call the chop-shop. 
+speaker1: listen to me, neo. you have to, trust us.
+speaker2: what are you doing?
+speaker1: this has to be done for your protection and ours.
+speaker1: you can't understand right now, but if you're not one of us, you're one of them.
+
+speaker1: va va va voom. still the hottest software around. 
+speaker2: hello, gizmo.
+speaker1: this is really the guy? the guy that morpheus thinks --
+speaker2: yeah.
+speaker1: but he's so old.
+speaker2: are you going to help us or aren't you?
+speaker1: hacksaw. load up the copper-top and let's get the outta here.
+
+speaker1: okay, first we take a little look under the hood. 
+speaker1: you're going to feel a little prick.
+speaker2: what are you doing?
+speaker3: we think you're bugged. we can't take you to morpheus until you're clean.
+speaker1: there it is.
+speaker1: hit him with 10 ccs of local.
+speaker1: here, kitty, kitty, kitty.
+speaker1: gotcha!
+speaker1: 
+speaker3: what's happening?
+speaker1: i don't know. they've never done that before.
+speaker1: hold him down.
+speaker2: 
+speaker3: do something!
+speaker1: i got it! maybe we can stun it.
+speaker3: are you crazy? that will kill him.
+speaker1: it'll work. come on, do it or hacksaw will.
+speaker2: do what?
+speaker3: clear.
+speaker2: oh, --
+speaker1: hit him again!
+speaker1: got it!
+speaker3: neo, are you okay?
+speaker3: it's over. we got it.
+speaker1: nasty little bugger, ain't it?
+
+speaker1: thanks for your help, gizmo. 
+speaker2: i just hope the man knows what he's doing.
+speaker2: goddamn, what i wouldn't give for a copy of that software.
+speaker1: gizmo, you don't have the hardware to handle this software.
+speaker1: let's go. he's waiting.
+
+speaker1: this is it. 
+speaker1: let me give one piece of advice. be honest. he knows more than you can possibly imagine.
+
+speaker1: at last. 
+speaker1: welcome, neo. as you no doubt have guessed, i am morpheus.
+speaker2: it's an honor.
+speaker1: please. come. sit.
+speaker1: thank you, trinity.
+speaker1: i imagine, right now, you must be feeling a bit like alice, tumbling down the rabbit hole?
+speaker2: you could say that.
+speaker1: i can see it in your eyes. you have the look of a man who accepts what he sees because he is expecting to wake up.
+speaker1: ironically, this is not far from the truth. but i'm getting ahead of myself. can you tell me, neo, why are you here?
+speaker2: you're morpheus, you're a legend. most hackers would die to meet you.
+speaker1: yes. thank you. but i think we both know there's more to it than that. do you believe in fate, neo?
+speaker2: no.
+speaker1: why not?
+speaker2: because i don't like the idea that i'm not in control of my life.
+speaker1: i know exactly what you mean.
+speaker1: let me tell you why you are here. you are here because you have the gift.
+speaker2: what gift?
+speaker1: i've watched you, neo. you do not use a computer like a tool. you use it like it was part of yourself. what you can do inside a computer is not normal. i know. i've seen it. what you do is magic.
+speaker2: it's not magic.
+speaker1: but it is, neo. it is. how else would you describe what has been happening to you?
+speaker1: we are trained in this world to accept only what is rational and logical. have you ever wondered why?
+speaker1: as children, we do not separate the possible from the impossible which is why the younger a mind is the easier it is to free while a mind like yours can be very difficult.
+speaker2: free from what?
+speaker1: from the matrix.
+speaker1: do you want to know what it is, neo?
+speaker1: it's that feeling you have had all your life. that feeling that something was wrong with the world. you don't know what it is but it's there, like a splinter in your mind, driving you mad, driving you to me. but what is it?
+speaker1: the matrix is everywhere, it's all around us, here even in this room. you can see it out your window, or on your television. you feel it when you go to work, or go to church or pay your taxes. it is the world that has been pulled over your eyes to blind you from the truth.
+speaker2: what truth?
+speaker1: that you are a slave, neo. that you, like everyone else, was born into bondage... ... kept inside a prison that you cannot smell, taste, or touch. a prison for your mind.
+speaker1: unfortunately, no one can be told what the matrix is. you have to see it for yourself.
+speaker2: how?
+speaker1: hold out your hands.
+speaker1: this is your last chance. after this, there is no going back.
+speaker1: you take the blue pill and the story ends. you wake in your bed and you believe whatever you want to believe.
+speaker1: you take the red pill and you stay in wonderland and i show you how deep the rabbit-hole goes.
+speaker1: remember that all i am offering is the truth. nothing more.
+speaker1: follow me.
+speaker3: 
+speaker4: i knew he would.
+speaker3: morpheus, i know what you believe but i think this is a mistake. we're rushing him. he's old. i'm afraid he might pop.
+speaker1: haven't i always told you, cypher, not to let fear control your life. apoc, are we on-line?
+speaker5: almost.
+speaker2: apoc? you wrote the four horsemen virus.
+speaker5: that's right.
+speaker1: neo, time is always against us. will you take a seat there?
+speaker1: i imagine you know sonething about virtual reality.
+speaker2: a little.
+speaker1: tell me about it.
+speaker2: essentially, it's a hardware system that uses an apparatus; headgear, gloves and whatever to make you feel that you are in a computer program.
+speaker1: if the virtual reality apparatus, as you called it, was wired to all of your senses and controlled them completely, would you be able to tell the difference between the virtual world and the real world?
+speaker2: you might not, no.
+speaker1: no, you wouldn't.
+speaker2: you did all this?
+speaker1: the pill you took is part of a trace program. it's going to make things feel a bit strange.
+speaker2: 
+speaker2: what is this? mescaline?
+speaker1: just relax, neo.
+speaker2: uh-oh...
+speaker4: it's going into replication.
+speaker1: apoc?
+speaker5: still nothing.
+speaker1: tank, we're going to need the signal soon. stay calm, neo.
+speaker2: it's cold.
+speaker2: it's all over me --
+speaker4: i got a fibrillation!
+speaker3: i knew it, i knew it...
+speaker1: apoc?
+speaker5: targeting... almost there.
+speaker4: he's going into arrest!
+speaker3: he's gonna pop!
+speaker5: lock! i got him!
+speaker1: now, tank now!
+
+speaker1: do you think morpheus is right? 
+speaker2: it doesn't matter now. but if he's wrong...
+
+speaker1: ... am i dead? 
+speaker2: far from it.
+
+speaker1: he needs a lot of work. 
+speaker2: i know.
+speaker3: what are you doing?
+speaker2: your muscles have atrophied. we're rebuilding them.
+speaker3: why do my eyes hurt?
+speaker2: you've never used them before.
+speaker2: rest, neo. the answers are coming.
+
+speaker1: morpheus, what's happened to me? 
+speaker2: more important than what is when?
+speaker1: when?
+speaker2: you believe the year is 1997 when in fact it is much closer to 2197. i can't say for certain what year it is because we honestly do not know.
+speaker1: that's not possible.
+speaker2: i promised you the truth, neo, and the truth is that the world you were living in was a lie.
+speaker1: how?
+speaker2: i'll show you.
+
+speaker1: this is my ship, the nebuchadnezzar. it's a hovercraft. small like a submarine. it's dark. it's cramped and cold. but it's home. 
+speaker1: this is the main deck. you know most of my crew.
+speaker1: the ones you don't know. that's mouse and switch. the two big guys are tank and dozer.
+speaker1: and this, this is the core. this is where we broadcast our pirate signal and hack into the matrix.
+speaker1: help him, trinity.
+speaker1: do you remember when i asked you about an apparatus that could turn a virtual reality into reality?
+speaker1: it's right here.
+speaker1: and it's accessed here.
+speaker1: this will feel a little weird.
+speaker1: this is the construct.
+speaker1: it is our loading program. we can load anything from clothes, to weapons, to training simulations. anything we need.
+speaker1: sit down.
+speaker2: right now, we're inside a computer program?
+speaker1: wild, isn't it?
+speaker2: this isn't real?
+speaker1: what is real? how do you define real? if you're talking about your senses, what you feel, taste, smell, or see, then all you're talking about are electrical signals interpreted by your brain. he picks up a remote control and clicks on the
+speaker1: this is the chicago you know. chicago as it was at the end of the twentieth century. this chicago exists only as part of a neural-interactive simulation that we call the matrix.
+speaker1: you have been living inside baulliaurd's vision, inside the map, not the territory. this is chicago as it exists today.
+speaker1: 'the desert of the real.'
+speaker1: we are, right now, miles below the earth's surface. the only place humans can survive outside the matrix is underground.
+speaker2: what happened?
+speaker1: it started early in the twenty- first century, with the birth of artificial intelligence, a singular consciousness that spawned an entire race of machines.
+speaker1: at first all they wanted was to be treated as equals, entitled to the same human inalienable rights. whatever they were given, it was not enough.
+speaker1: we don't know who struck first. us or them. but sometime at the end of the twenty-first century the battle was joined.
+speaker1: the war raged for generations and turned the face of our planet from green and blue to black and red.
+speaker1: it scorched and burned the sky. without the sun, the machines sought out a new energy source to survive.
+speaker1: they discovered a new form of fusion. all that was required to initiate the reaction was a small electric charge. throughout human history we have been dependent on machines to survive. fate, it seems, is not without a sense of irony.
+speaker1: the human body generates more bio- electricity than a 120-volt battery and over 25,000 b.t.u.'s of body heat.
+speaker1: we are, as an energy source, easily renewable and completely recyclable, the dead liquified and fed intravenously to the living.
+speaker1: all they needed to control this new battery was something to occupy our mind.
+speaker1: and so they built a prison out of our past, wired it to our brains and turned us into slaves.
+speaker2: no! i don't believe it! it's not possible!
+speaker1: i didn't say that it would be easy, neo. i just said that it would be the truth.
+speaker2: stop! let me out! i want out!
+
+speaker1: get this thing out of me! 
+speaker2: easy, neo. easy.
+speaker1: don't touch me! get away from me!
+speaker3: he's going to pop!
+
+speaker1: i can't go back, can i? 
+speaker2: no. but if you could, would you really want to?
+speaker2: i feel that i owe you an apology. there is a rule that we do not free a mind once it reaches a certain age. it is dangerous. they have trouble letting go.. their mind turns against them. i've seen it happen. i broke the rule because i had to.
+speaker2: when the matrix was first built there was a man born inside that had the ability to change what he wanted, to remake the matrix as he saw fit. it was this man that freed the first of us and taught us the secret of the war; control the matrix and you control the future.
+speaker2: when he died, the oracle at the temple of zion prophesied his return and envisioned an end to the war and freedom for our people. that is why there are those of us that have spent our entire lives searching the matrix, looking for him.
+speaker2: i did what i did, because i believe we have been brought here for a reason, neo. you are here to serve a purpose, just as i am here to serve mine.
+speaker1: i told you i don't believe in fate.
+speaker2: but i do, neo. i do.
+speaker2: get some rest. you're going to need it.
+speaker1: for what?
+speaker2: your training.
+
+speaker1: morning. did you sleep? 
+speaker2: no.
+speaker1: you will tonight. i guarantee it. i'm tank. i'll be your operator.
+speaker2: you don't have...
+speaker1: any holes? nope. me and my brother dozer, we are 100 percent pure, old fashioned, home-grown human. born free. right here in the real world. genuine child of zion.
+speaker2: zion?
+speaker1: zion is the place, man. you'll see it one day. last human city. all we got left.
+speaker1: goddamn, i got to tell you i'm fairly excited to see what you are capable of. i mean if morpheus is right and all. we're not supposed to talk.about any of that, but if you are, well then this is an exciting time. we got a lot to do so let's get to it.
+
+speaker1: we're supposed to load all these operations programs first, but this is some major boring why don't we start something a little fun? 
+speaker1: how about sore combat training?
+speaker2: jiujitsu? i'm going to learn jujitsu?
+speaker2: no way.
+speaker2: holy
+speaker1: hey, mikey, he likes it! ready for more?
+speaker2: yes!
+
+speaker1: how is he? 
+speaker2: ten hours straight. he's a machine.
+speaker3: this is incredible. i know kung fu.
+speaker1: show me.
+
+speaker1: this is a sparring program, similar to the programmed reality of the matrix. consider this your first lesson. 
+speaker1: attack me.
+
+speaker1: good. adaption. improvisation. but your weakness isn't your technique. 
+speaker1: how did i beat you?
+speaker2: you -- you're too fast.
+speaker1: do you think my being faster, stronger has anything to do with my muscles in this place?
+speaker1: do you believe that's air you are breathing now?
+speaker1: if you can free your mind, the body will follow.
+speaker1: again.
+
+speaker1: jeezus keerist! that boy is fast! 
+speaker2: you ever seen anyone that fast that soon, tank?
+speaker3: never.
+speaker4: morpheus is right. he's got to be the one.
+
+speaker1: i don't believe it! 
+speaker2: you are angry with me.
+speaker3: i, uh... maybe.
+speaker2: it's all right. it's natural.
+speaker3: i feel better.
+speaker2: good, good. anger is a gift, neo, but it's a heavy one.
+speaker2: tank, load the jump program.
+speaker2: you have to learn to let go of that anger. you must let go of everything.
+speaker2: you must empty yourself to free your mind.
+speaker3: 
+speaker3: okie dokie.
+speaker3: yeah. free my mind. right. no problem.
+speaker4: he's gonna make it.
+speaker5: no way. not possible.
+speaker1: no one's ever made their first jump.
+speaker6: what if he does?
+speaker5: he won't.
+speaker7: it's never been done.
+speaker8: come on.
+
+speaker1: everyone falls the first time. 
+speaker1: if you never know failure, how can you know success?
+speaker2: what does it mean?
+speaker3: it doesn't mean anything.
+speaker4: everyone falls, right, trinity? but trinity has left.
+speaker5: i thought it wasn't real.
+speaker5: if you are killed in the matrix, you die here?
+speaker1: the body cannot live without the mind.
+
+speaker1: whoa! neo, you scared the bejeezus out of ne. 
+speaker2: sorry.
+speaker1: no, it's all right.
+speaker2: what are you doing?
+speaker1: midnight watch.
+speaker2: is that... ?
+speaker1: the matrix? yeah.
+speaker1: you want a drink?
+speaker1: i'll tell you, i feel for you, man. i really do. most of us were still young, just punks, when morpheus jacked us. but you, you had a real life.
+speaker1: good huh? dozer makes it. it's good for two things: degreasing engines and killing brain cells.
+speaker1: did he tell you why he did it?
+speaker3: i'll be the didn't tell you that this wasn't the first time he thought he found the one.
+speaker1: let me give you a piece of advice. between you and me, if morpheus says you can fly, i wouldn't go jumping out any windows to find out if he's right. understand?
+speaker1: welcome to the real world!
+
+speaker1: that's what he said to me nine years ago. 
+speaker1: the real world. ha, what a joke.
+speaker1: you know what real is? i'll tell you what real is.
+speaker1: real is just another four-letter word.
+speaker2: do we have a deal, mr. reagan?
+speaker1: mmm, so, so good.
+speaker1: you know, i know that this steak doesn't exist. i know when i put it in my mouth, the matrix is telling my brain that it is juicy and delicious. after nine years, do you know what i've realized?
+speaker1: ignorance is bliss.
+speaker2: then we have a deal?
+speaker1: i don't want to remember nothing. nothing! you understand? and i want to be rich. someone important. like an actor. you can do that, right?
+speaker2: whatever you want, mr. reagan.
+speaker1: all right. you get my body back in a power plant, reinsert me into the matrix and i'll get you what you want.
+speaker2: access codes to zion.
+speaker1: i told you, i don't know them. but i can give you the man who does.
+speaker2: morpheus.
+
+speaker1: jeez, i was wondering about that. 
+speaker2: what?
+speaker1: why i was bald here but not in the matrix.
+
+speaker1: residual self image. 
+speaker2: good. now what's this?
+speaker1: life systems monitor, glucose levels.
+speaker2: what's that?
+speaker1: main power supply to the core.
+speaker2: how about this?
+speaker1: mainframe self-destruct. uses all remaining power to generate an...
+
+speaker1: electromagnetic pulse. our best weapon against the machines. the problem is if someone is still in the matrix when that thing goes off, they're not coming back. 
+speaker2: how's he doing?
+speaker1: we just finished the operation programs and he's showing great retention.
+speaker2: good. i want everyone alerted to 12-hour stand-by. we're going in. neo, it's time for you to know why you're here.
+speaker3: what's he talking about?
+speaker1: he's taking you into the matrix to see her.
+speaker3: see who?
+speaker1: the oracle.
+
+speaker1: we're in. 
+speaker1: mouse and cable hold the exit.
+
+speaker1: did you have to do this? 
+speaker2: yeah.
+speaker1: what did she tell you?
+speaker2: lots of things.
+speaker1: any of them true?
+speaker2: some of them.
+speaker3: were they good or bad?
+speaker2: there's no point in worrylng. whatever is going to happen is going to happen.
+speaker4: we should be back in an hour.
+
+speaker1: do you now understand what it means when we say, if you're not one of us, you're one of them? 
+speaker2: the agents. they're sentient programs. they can commandeer any software hardwired to the mainframe.
+speaker1: anyone that is still in a power plant. that is why we try to be invisible in the matrix.
+speaker2: the best hacking is always traceless.
+
+speaker1: morpheus, been a long time coming. 
+speaker2: you're looking well, mojo.
+speaker1: you bringing us geriatrics now. morpheus?
+speaker1: guess you are locking for a miracle.
+
+speaker1: all right, it's cool. go on back. 
+speaker2: you're late.
+
+speaker1: what -- what happened? 
+speaker2: this is the temple. it is a part of zion's mainframe. it's hidden inside the matrix so that we can access it.
+speaker3: hello, morpheus. we've been expecting you.
+speaker2: okay, you're on your own. go with them.
+speaker3: wait here. among the other potentials.
+
+speaker1: your spoon does not bend because it is just that, a spoon. mine bends because there is no spoon, just my mind. 
+speaker1: link yourself to the spoon. become the spoon and bend yourself.
+speaker2: there is no spoon. right.
+speaker3: the oracle will see you now.
+
+speaker1: hello? 
+speaker2: just come on in.
+speaker1: hello?
+speaker3: i know. you're neo. be right with you.
+speaker1: you're the oracle?
+speaker3: bingo. i got to say i love seeing you non-believers. it's really a relief. all that pomp and circumstances just plain tucker me out. almost done. smell good, don't they?
+speaker1: yeah.
+speaker3: i'd ask you to sit down, but you're not going to anyway. and don't worry about the vase.
+speaker1: what vase?
+speaker3: the vase.
+speaker1: i'm sorry.
+speaker3: i said don't worry about it. i'll get one of my kids to fix it.
+speaker1: how did you know...? she sets the cookie tray on a wooden hot-pad.
+speaker3: what's really going to bake your noodle later on is, would you still have broken it if i hadn't said anything.
+speaker3: you're cuter than i thought. i see why she likes you.
+speaker1: who?
+speaker3: not too bright, though.
+speaker3: you know why morpheus brought you to see me?
+speaker1: i think so.
+speaker3: so? what do you think? you think you're the one?
+speaker1: i don't know.
+speaker3: you know what that means? it's latin. means, 'know thyself.' she puts her cigarette down.
+speaker3: well, let's have a look at you.
+speaker3: open your mouth. say, 'ahhh.' she nods then looks at his palms.
+speaker3: hmmm. you sure got the gift, but it's tricky. i'd say the bad news is, you're not the one. still got a lot to learn. maybe next life.
+speaker1: what's the good news?
+speaker3: same as the bad news, you're not the one.
+speaker1: is that it, then?
+speaker3: no. here.
+speaker3: you better take a cookie. got a big day ahead of you.
+speaker3: make a believer out of you yet.
+
+speaker1: you don't have to tell me anything, neo, because i already know what she said. 
+speaker2: you do?
+speaker1: i brought you so that you could hear it for yourself. i knew it would help.
+speaker1: no one will ever ask you because it is a gift from her. it is for you and you alone.
+
+speaker1: welcome to movie-phone. 
+speaker2: they're on their way.
+speaker1: right.
+speaker1: let's get to work.
+
+speaker1: oh, oh, 
+speaker2: what did you just say?
+speaker3: nothing. just had a little deja vu.
+speaker2: what happened? what did you see?
+speaker3: a black cat went past us and then i saw another that looked just like it.
+speaker2: how much like it? was it the same cat?
+speaker3: it might have been. i'm not sure.
+speaker3: what is it?
+speaker2: a deja vu is usually a glitch in the matrix. it happens when they change something.
+speaker1: it's a trap!
+
+speaker1: come on! 
+speaker2: did you just feel something weird?
+speaker3: yeah...
+
+speaker1: what's going on? 
+speaker2: they cut the hard-line! it's a trap! get out!
+speaker3: oh, no.
+
+speaker1: that's what they changed. we're trapped. there's no way out. 
+speaker2: give me your phone.
+speaker3: they'll be able to track it.
+speaker2: we have no choice.
+speaker2: tank, find a structural drawing of this building and find it fast.
+
+speaker1: got it. 
+speaker2: i need the main wet-wall.
+
+speaker1: now left and that's it in front of you. 
+speaker2: good.
+speaker3: eighth floor. they're on the eighth floor.
+speaker4: eighth floor! move!
+
+speaker1: come on! 
+speaker2: nerve gas.
+
+speaker1: you have to get neo out. understand? that's all that matters now. 
+speaker2: morpheus, don't --
+speaker1: he must get out. do you understand me? she nods.
+speaker3: there he is! that's him!
+speaker4: he's heading for the street!
+
+speaker1: so, we meet at last. 
+speaker2: and you are?
+speaker1: smith. i am agent smith.
+speaker2: you all look the same to me.
+speaker1: i've been waiting for this noment.
+speaker2: oh, so have i.
+
+speaker1: you can't win. 
+speaker2: i already have.
+speaker1: take him.
+
+speaker1: the others were lost. 
+speaker2: you've taken care of reagan?
+speaker2: then the others do not matter.
+
+speaker1: we gotta find the others. they're still alive. 
+speaker1: operator.
+speaker2: i need an exit! fast!
+speaker1: cypher? i thought they had you?
+
+speaker1: there was an accident. a car accident. all of a sudden. boom. they're all dead. i still got the shakes but, someone's going to make a believer out of me. 
+speaker2: there he is.
+speaker3: i got you.
+speaker1: just get me outta here.
+speaker1: an actor. definitely.
+speaker3: operator.
+speaker4: tank, it's me.
+
+speaker1: we need an exit! 
+speaker2: gotcha. you're not far from cypher.
+speaker1: cypher, i thought --
+speaker2: so did we. that boy's got nine lives. i sent him to franklin and erie.
+speaker1: got it.
+
+speaker1: got him. 
+speaker2: system check looks fine.
+speaker2: you okay?
+speaker3: gas. my lungs are killing me.
+speaker3: we got any pain killers?
+speaker2: the first aid kit's over here.
+
+speaker1: no! 
+speaker2: i love that sound.
+
+speaker1: you first,.neo. 
+speaker1: what happened?
+speaker2: i don't know. it just went dead.
+
+speaker1: hello, trinity. 
+speaker2: cypher? where's tank?
+speaker1: he had an accident.
+speaker2: an accident? what about dozer?
+
+speaker1: you know, for a long time, i thought i was in love with you, trinity. i used to dream about you... 
+speaker1: you are a beautiful woman. too bad things had to work out like this.
+speaker2: you killed them.
+speaker3: what?!
+speaker4: oh
+speaker1: in a way you're very lucky. most people never know why they die. one minute they're alive, the next they're dead. no warning. nothing. that's why i thought maybe i should tell you. it seemed the least i could do.
+speaker1: you see, the truth, the real,truth is that the war is over. it's been over for a long time. and guess what? we lost! did you hear that? we lost the war!
+speaker2: what about zion?
+speaker1: zion? zion is a part of this delusion. more of this madness. that's why this has to be done. it has to end. now and forever.
+speaker2: oh rny this is abzut zion. you gave them morpheus for the access codes to zion.
+speaker1: you see, trinity, we humans have a place in the future. but it's not here. it's in the matrix.
+speaker2: the matrix isn't real!
+speaker1: oh, i disagree, trinity. i disagree. i think the matrix is more real than this world. i mean, all i do is pull a plug here. but there, you watch a man die.
+speaker1: you tell me which is more real.
+speaker1: welcome to the real world, right?
+speaker2: somehow, some way, you're going to pay for this.
+speaker1: pay for it? i'm not even going to remember it. it'll be like it never happened. the tree falling in the forest. it doesn't make a sound.
+speaker2: you, cypher!
+speaker1: don't hate me, trinity. i'm just the messenger. and right now i'm going to prove that the message is true.
+speaker1: if morpheus was right, then there's no way i can pull this plug, is there?
+speaker1: if he is the one, then in the next few seconds there has to be some kind of miracle to stop me. because if he dies like the others that means morpheus was wrong. how can he be the one if he's dead? he takes hold of the cord when -- she hears an explosion and a scream.
+speaker5: how's it feel, cypher? knowing you're about to die?
+speaker6: it's tank! he's alive.
+
+speaker1: we should, we should hurry. 
+speaker2: yeah. right.
+
+speaker1: tank, you're hurt. 
+speaker2: i'll be all right.
+speaker1: dozer?
+speaker1: i'm sorry, tank.
+
+speaker1: there is a problem. reagan has failed to secure the hardware. 
+speaker2: never send a human to do a machine's job.
+speaker1: but if reagan has failed, why haven't they pulled the plug?
+speaker2: haven't you learned by now, that it is impossible to understand why they do the things they do?
+speaker2: continue as planned. trace his signal to locate their position and deploy an extermination unit.
+
+speaker1: what are they doing to him? 
+speaker2: they're cracking his mind.
+speaker1: how?
+speaker2: they inject virus-like serums to break down the system. it's like cracking a computer. all it takes is time.
+speaker1: how much time?
+speaker2: depends on the mind. but eventually, it will crack and his alpha pattern will change from this to this.
+speaker2: when it does, morpheus will tell them anything they want to know.
+speaker1: the access codes to zion.
+speaker2: if an agent got inside zion's mainframe he could do anything. disable the defense system. it would be the end of us.
+speaker2: we can't let that happen. we have to do it, trinity. zion has to be protected.
+speaker3: goddamnit! goddamnit!
+speaker2: we have to pull the plug.
+speaker3: no!
+speaker2: we don't have any other choice.
+speaker2: trinity, what are you doing?
+speaker3: i'm going in after him.
+speaker2: morpheus could conform at any minute --
+speaker3: if he does i'm sure you'll do what has to be done.
+speaker2: you saw that place. it's suicide.
+speaker2: i know what morpheus means to you --
+speaker3: no. no, i don't think you do. if you did, then you would know that i'm not letting him go. not without a fight, tank.
+speaker3: not without a fight.
+
+speaker1: have you ever stood and stared at it, morpheus? marveled at its beauty. its genius. billions of people just living out their lives... oblivious. 
+speaker1: did you know that the first matrix was designed to be a perfect human world? where none suffered, where everyone would be happy. it was a disaster. no one would accept the program. entire crops were lost.
+speaker1: some believed we lacked the programming language to describe your perfect world. but i believe that, as a species, human beings define their reality through suffering and misery.
+speaker1: the perfect world was a dream that your primitive cerebrum kept trying to wake up from. which is why the matrix was re-designed to this: the peak of your civilization.
+speaker1: i say 'your civilization' because as soon as we start thinking for you, it really becomes our civilization, which is, of course, what this is all about.
+speaker1: evolution, morpheus. evolution.
+speaker1: like the dinosaur. look out that window. you had your time.
+speaker1: the future is our world, morpheus.
+speaker2: what do you think you're doing?
+speaker3: you need help. i'm coming with you.
+speaker2: no. no way. morpheus sacrificed himself so you could escape. there's no way you're going back in.
+speaker3: morpheus did what he did because he believed that i'm something that i'm not.
+speaker2: what?
+speaker3: i'm not the one, trinity. the oracle told me.
+speaker3: she said i had a gift but i still had a lot to learn. she told me maybe next life.
+speaker2: did you tell morpheus?
+speaker3: why? it wouldn't mean anything. he'd still believe what he wanted to believe. but morpheus is the one that matters. he's more important than me and we both know it.
+speaker3: i may not be what morpheus thinks i am, but if i don't try to help him, then i'm not even what i think i am.
+speaker2: what are you?
+speaker3: his friend.
+
+speaker1: i'd like to share a revelation that i've had during my time here. it came to me when i tried to classify your species. i've realized that you are not actually mammals. 
+speaker1: every mammal on this planet instinctively develops a natural equilibrium with the surrounding environment. but you humans do not. you move to an area and you multiply and multiply until every natural resource is consumed and the only way you can survive is to spread to another area.
+speaker1: there is another organism on this planet that follows the same pattern. do you know what it is? a virus.
+speaker1: human beings are a disease, a cancer of this planet. you are a plague. and we are... the cure.
+
+speaker1: okay. store's open. what do you need? 
+speaker2: guns. lots of guns.
+speaker1: coming right up.
+speaker2: no one has ever done anything like this.
+speaker3: yeah?
+speaker3: that's why it's going to work.
+speaker4: why isn't the serum working?
+speaker5: perhaps we are asking the wrong questions.
+speaker6: or he doesn't know.
+speaker4: of course he knows. he's resisting.
+speaker5: how?
+speaker4: i don't know. if i knew...
+speaker4: leave me with him.
+speaker4: now!
+
+speaker1: can you hear me, morpheus? i'm going to be honest with you. 
+speaker1: i hate this place. this zoo. this prison. this reality, whatever you want to call it, i can't stand it any longer. it's the smell, if there is such a thing. i feel saturated by it. i can taste your stink and every time i do, i fear that i've somehow been infected by it.
+speaker1: repulsive, isn't it?
+speaker1: i must get out of here, i must get free. in this mind is tlie key. my key.
+speaker1: once zion is gone, there's no need for me to be here. do you understand? i need the codes. i have to get inside zion. you have to tell me how.
+speaker1: tell me! tell me!
+speaker2: what were you doing?
+speaker3: you don't know.
+speaker1: know what?
+
+speaker1: lower level -- 
+speaker2: they are actually attacking.
+
+speaker1: i repeat, we are under attack! 
+speaker2: trinity!
+speaker2: ... help.
+speaker3: only human...
+speaker4: dodge this,
+speaker2: thanks.
+speaker4: you're hit --
+speaker2: i'm fine.
+speaker2: can you fly that thing?
+speaker4: not yet.
+speaker5: operator.
+speaker4: tank, i need a pilot program for a military m-109 helicopter.
+speaker4: hurry!
+
+speaker1: sir! sir! there was gunfire -- we've lost communication with the roof! 
+speaker2: remain at your posts.
+speaker1: but, sir -- the fire -- we should evacuate!
+speaker2: you will do as you are ordered!
+speaker1: yes, sir.
+
+speaker1: no. 
+speaker2: get up, morpheus! get up!
+
+speaker1: nooo! 
+speaker2: he won't make it.
+speaker2: gotcha!
+speaker3: shit-shit-no!
+
+speaker1: oh 
+speaker2: he's the one. he's got to be...
+
+speaker1: i knew it! i knew it! 
+speaker2: morpheus!
+speaker1: do you believe me now? he's the one! who else could have done this?
+speaker3: morpheus, i know you won't believe me but the oracle told ne i'm not the one.
+speaker1: it doesn't matter if i don't believe you -- his eyes light up.
+speaker1: what matters is that you don't believe her.
+speaker2: tank, get us out of here.
+speaker4: got one ready. an underground el station. state and balbo.
+speaker2: see ya soon.
+speaker4: see ya soon.
+
+speaker1: the trace was completed. 
+speaker2: we have their position.
+speaker1: the extermination unit is in place.
+speaker2: order the strike.
+speaker3: they're not out yet.
+
+speaker1: don't! 
+speaker2: i'm sorry -- i didn't mean!
+speaker1: get outta here. okay? run! go!
+speaker3: what happened? was that --
+speaker1: it was nobody.
+speaker1: let's go! you first, morpheus.
+
+speaker1: morpheus is right, you know. it doesn't matter what he believes or even what the oracle believes. 
+speaker2: i believe...
+speaker2: i want to kiss you.
+speaker1: i want to kiss you too...
+speaker1: but i want it to be real.
+
+speaker1: neo! 
+speaker2: what the just happened?
+speaker1: an agent! you have to send me back!
+speaker2: i can't!
+
+speaker1: you're empty. 
+speaker2: so are you.
+
+speaker1: you can't win. 
+speaker2: i already have.
+
+speaker1: send me back, tank! anywhere! 
+speaker2: i'm looking, trinity! i'm looking!
+speaker1: what is it... oh no. in every pipe surrounding them, they see the extermination unit.
+speaker1: sentinels.
+
+speaker1: do you hear that, mr. anderson? 
+speaker1: that is the sound of inevitability.
+speaker1: it is the sound of your death.
+speaker1: goodbye, mr. anderson.
+speaker2: my name is neo.
+speaker3: you can't use that until neo is out!
+speaker4: i know. don't worry, he'll make it.
+
+speaker1: operator. 
+speaker2: mr. wizard, get me the out of here!
+
+speaker1: i'm trying, trinity. i'm trying. 
+speaker2: i got one!
+speaker2: wabash and lake. a hotel.
+speaker2: room 303.
+
+speaker1: i'm going to make the call. 
+speaker2: do it!
+
+speaker1: where is he? 
+speaker2: almost there.
+speaker3: he's going to make it.
+speaker1: hurry, neo.
+
+speaker1: he's gone. 
+speaker2: i told you, you couldn't win.
+
+speaker1: goddamnit, neo! don't give it up! not now! 
+speaker1: not now!
+
+speaker1: hi. it's me. i know you're out there. i know you're working as fast as you can to catch me. 
+speaker1: i thought i should call and let you know how things stand.
+speaker1: i know you're real proud of this world you've built, the way it works, all the nice little rules and such, but i've got some bad news.
+speaker1: i've decided to make a few changes.
+speaker2: mommy! mommy!
+speaker3: what?
+speaker2: that man! that man flies!
+speaker3: don't be silly, honey. men don't fly.
+

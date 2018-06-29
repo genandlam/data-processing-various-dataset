@@ -1,0 +1,875 @@
+speaker1: where to? 
+speaker2: follow that limousine. don't get too close, don't let it get too far away. just keep with it.
+speaker1: you kidding?
+speaker2: nope.
+speaker1: uh, listen... you're not supposed to be smoking in here. i'm sorry, that's company policy...
+speaker2: how about this... every cigarette i smoke, i give you five dollars?
+speaker1: okay... okay, yeah, that'd be good...
+
+speaker1: welcome home. 
+speaker2: do you know how much i missed you?
+speaker1: what's this... have you been smoking... ?
+speaker2: smoking? i'm not smoking.
+speaker1: your clothing reeks of it.
+speaker2: you know, amy, i've been sitting around in bars and everywhere following this guy... i mean, is this what i get first thing? before you even "hello," you accuse me... ?
+speaker1: i'm not accusing you...
+speaker2: well, i'm not smoking, okay?
+speaker1: okay, i believe you.
+speaker2: we've been all through that. i've been on my best behavior.
+speaker2: hello, pumpkin-head, did you miss me? i sure missed you...
+speaker2: let's get my bags and get the out of here.
+speaker1: how's the detective business?
+speaker2: business was fine. i'll tell you what, you couldn't pay me enough to live down there.
+speaker1: you better not be smoking, that's all i can say.
+speaker2: honey, i'm not, please...
+
+speaker1: i love you. 
+speaker2: i love you.
+
+speaker1: your son-in-law dealt with the dry cleaning franchise during the day, saw that woman every night. the specifics are in the report, and information about the woman. it's unpleasant, i know. i apologize... 
+speaker2: none too discreet, is he?
+speaker1: no, sir, he is not.
+speaker2: he's an imbecile. i tried to warn my daughter, but what can you do?
+speaker1: the um... you'll find my invoice in the envelope. if that's all...
+speaker2: yes, mister welles, thank you.
+speaker1: certainly, senator. if i can ever be of further assistance.
+
+speaker1: you think you'll have time for the water heater this weekend? 
+speaker2: sure. i'll call the guy.
+speaker1: you're not using the same guy who tried to fix it?
+speaker2: i'm not using him again for anything. he was worthless. you have bridge here saturday?
+speaker1: betty's out of town so we're playing next week.
+
+speaker1: mister welles. you're very prompt. 
+speaker2: i try to be.
+speaker1: i appreciate your coming on such short notice.
+speaker1: this is mister longdale, my late husband's attorney.
+speaker2: uh huh, pleasure.
+speaker1: apparently mr. longdale has something he feels he simply must say before you and i speak.
+speaker3: yes, i do have something to say. i insisted on being here as soon as i heard mrs. christian contacted you.
+speaker2: i'm listening.
+speaker3: as mr. christian's attorney and one of the executors of his estate, it concerns me that a meeting of this sort should take place without my being asked to attend.
+speaker2: of what sort?
+speaker3: you are a private investigator?
+speaker2: that's right.
+speaker3: well, whatever reasons mrs. christian has for engaging the services of a private investigator, i should certainly be a party to. but, since she feels differently, i can only go on the record as having expressed my adamant disapproval.
+speaker1: yes, how theatrical. so you've gone on the record, and now perhaps you should just be gone.
+speaker1: have a pleasant evening. will you have tea, mister welles?
+speaker2: thank you.
+speaker2: he's odd.
+speaker1: he's a lawyer. please, sit, here...
+speaker1: i've spoken to friends of mine and my husband's, in harrisburg, in lancaster and hershey. asking about you. i must say you have friends in influential places.
+speaker2: i've been privileged to provide services for people i admire.
+speaker1: you are highly recommended. praised for your discretion... your strict adherence to confidentiality.
+speaker1: as you know, my husband passed away recently. two weeks ago now.
+speaker2: my condolences.
+speaker1: his passing has left me with... something of a dilemma. a terrible, terrible dilemma.
+speaker2: i'll do whatever i can to help.
+
+speaker1: " 
+speaker2: his inner sanctum.
+speaker2: not many people have been inside this room.
+speaker3: pittsburgh?
+speaker2: mostly. that's where he started his empire building. he was a good man. notorious as an eccentric, but that was something he cultivated. he
+speaker2: we were married forty-five years. hard even for me to imagine. we had our troubles. there were plenty of places for him to be other than here, but he was always loyal to me, and i to him. i loved him deeply.
+speaker2: do you carry a gun, mr. welles?
+speaker3: i wear a gun when i can tell a client expects me to. other than that, there's never any reason.
+speaker2: just curious.
+speaker2: my husband was the only one with the combination to this safe. i knew about it, but as far as i was concerned it was none of my business. not till now, that is.
+speaker3: you hired someone to open it. i'll bet the lawyer loved that.
+speaker2: there was nothing he could do. my husband left everything to me. i prevented anyone from seeing the contents. i felt these were my husband's private things. i didn't... i didn't realize...
+speaker3: do you want to tell me what you found?
+speaker2: cash, stock certificates, and this...
+speaker2: it's a film... of a girl being murdered.
+speaker3: i'm afraid i don't...
+speaker2: this is a movie showing a girl being murdered. she's sitting on a bed, and a man rapes her... and he begins to cut her with a knife... i only watched what i could.
+speaker2: i didn't know what to think. i can't tell you how horrible it's been, to know this belonged to my husband. to know that he watched this... this atrocity. but, i can't go to the police...
+speaker3: mrs. christian... please, will you sit down a moment? i want you to listen carefully. what you're talking about is a "snuff film." but, from what i know, snuff films are a kind of... urban myth. like, red light district folklore. there's no such thing, i can assure you.
+speaker3: please, believe me. this is probably a stag film. simulated rape. hard to stomach, and it might seem real, but there are ways of making it look realistic... fake blood and special effects...
+speaker2: no.
+speaker3: if you were to study it you'd see the camera cutting away... you'd see the tricks they can play...
+speaker2: i'm telling you it's not that.
+speaker3: i'm sure it is. it's probably something your husband was given as a bad joke. more than likely he never even watched it.
+speaker2: will you watch it and see for yourself?
+speaker3: of course. but, i'm certain it's nothing to worry about.
+
+speaker1: you... you need to go to the police. 
+speaker2: i told you i can't, not yet.
+speaker1: you don't have any other choice.
+speaker2: no. for me to live with the ruin of my husband's name, i need know that whoever did this will be punished. if you can find them, i will take their names to the police. i'll say my husband confessed on his death bed. i'll say i didn't have courage to come forward at first...
+speaker1: it won't work like that.
+speaker2: any evidence you collect can be given to the police later, anonymously. i've thought about it and there's no other way. if you can't find them... if the only thing that comes from this film is that this is all my husband will be remembered for, well i can't let that happen. i'm telling you i won't. if there's no chance that poor girl's memory can be served, then i'll just have to spend my last days trying to forget her.
+speaker1: i deal in divorce cases. corporate investigations...
+speaker2: you've found missing persons before.
+speaker1: nothing remotely like this.
+speaker2: i know what i'm asking. your compensation will be appropriate to the risk. you'll need cash to buy information, and i'll provide it. i feel responsible, mr. welles. you saw what he did to her.
+
+speaker1: this is the mortgage. this is cindy's college money. 
+speaker2: i understand.
+speaker1: sometimes you can't know what i'm doing. it's better that way.
+speaker2: i know.
+speaker1: it's a missing persons case... a long shot. i'll give it two months, two months at most, then i'll be back. we'll take a vacation.
+speaker2: why the gun?
+speaker1: i'm not gonna need it. i won't even wear it. it's a precaution. don't worry about me.
+
+speaker1: ", with welles' photo... 
+speaker2: what can i do for you, mr. welles?
+speaker3: call me tom.
+speaker2: alright, tom.
+speaker3: what i'd like, very simply, is access to your archive. and, now i understand this isn't something you normally do for private citizens...
+speaker2: there are reasons for the way we do things here.
+speaker3: absolutely. of course i'll abide by whatever decision you make, but i'd appreciate if you'll hear me out...
+speaker3: few days ago, i was contacted by a couple living in philadelphia, a doctor and his wife. what happened was they picked up a young girl hitchhiking off 81, which heads into philadelphia, started up a conversation with this girl, she looked homeless, seemed about eighteen maybe. they convinced her to let them buy her a meal in the city. nice kid, mature, didn't have much to say, but they got a sense she's a runaway, so all through dinner the doctor's working on her, trying to convince her that at the very least she should pick up a telephone. not surprisingly, she ate her food, excused herself... that's the last they saw her. the reason they came to me for help, the reason i'm coming to you, is we had a friend of mine in the department work up a sketch... they want to see if i can i.d. this girl, somehow pass along a message to let the parents know the kid's alive, doing alright.
+speaker2: why not go to the n.c.i.c. or
+
+speaker1: i figured you share information. 
+speaker2: we do.
+speaker1: for whatever reasons i thought you might be more receptive.
+speaker2: why don't they come to me?
+speaker1: this doctor and wife, they're nice people, but they don't want to get too involved. they're not trying to have the parents come looking for the girl either. you and i both know sometimes, not often, but sometimes there's real reasons why a kid'll run. molestation, whatever. besides that, the girl's probably eighteen, so she's legal.
+speaker2: i'm not so sure about this.
+speaker1: they're putting themselves in place of this kid's parents and thinking they'd want to hear their girl's okay, even if that's all they hear.
+speaker2: i can give you my card, if your clients want to call me...
+speaker1: they were pretty clear they didn't want this coming back on them.
+speaker2: well, that's all i can do. sorry.
+speaker1: who knows... maybe she's already given her parents a call, right?
+speaker1: 
+speaker2: excuse me... tom, hold on...
+speaker2: listen, maybe i can help after all. why don't you come on back in...
+
+speaker1: this is it. it's not much. we've got less than five percent on computer and we lose that funding in december. i'll have someone show it to you anyway. other than that, i'm afraid it's the wet thumb method. 
+speaker1: files are mostly by state and year of disappearance. we try to keep the children and adults separate. no eating or smoking in here, but there's a coffee machine in the hall.
+speaker2: any good?
+speaker1: it's horrible, but it'll be your best friend after a few days. i hope you realize what kind of long shot you're chasing after.
+speaker2: you're gonna be seeing a lot of me.
+speaker1: it's good what you're doing.
+
+speaker1: " " 
+speaker2: "
+speaker3: "
+
+speaker1: " same picture. 
+speaker2: "
+speaker3: top of the page: "
+speaker4: " close on: "
+speaker5: "
+
+speaker1: yes... ? 
+speaker2: hello, mrs. mathews, my name's thomas jones, i'm a state licensed investigator... welles holds up his identification only long enough for mrs.
+speaker2: i've been hired as an independent contractor by the u.s. resource center for missing persons as part of an internal audit. if you have any time over the next few days, i'd like to make an appointment to ask some questions about the disappearance of your daughter.
+speaker1: i don't understand, who are... ?
+speaker2: i'm sorry, let me explain, the r.c.m.p. is a support organization and archive, not unlike the center for missing and exploited children in washington. i'm sure you've dealt with them before?
+speaker1: yes, but...
+speaker2: these volunteer organizations are sort of interconnected, functioning hand in hand with law enforcement. the r.c.m.p. brought me in to review their investigations... ... fact-check their records, see if there's anything they missed, anything they should be doing different. i'm here for a few days, before i head back up to virginia. these reports go to the justice department eventually. i spoke to your f.b.i. contact a few days ago, uh...
+speaker2: what was the name... ? i've got it here somewhere...
+speaker1: neil... neil cole.
+speaker2: right, agent cole told me he'd call and let you know to expect me. he didn't call?
+speaker1: no.
+speaker2: well, i'm following up on your daughter, mary, height; five four, weight; hundred ten pounds, brown eyes, blonde hair. born april 24, 1976. missing june 11th, 1992. a runaway, that's how she's listed. is this information correct... ?
+speaker2: i'm sorry, i know this isn't easy. is there a more convenient time... ? can i buy you lunch, would that be alright?
+
+speaker1: it's very important you don't let this raise your expectations. it's not going to effect any ongoing efforts. all i'm saying is, please know, i'm not here to create any false hope. 
+speaker2: they hired you. you're like, a private detective?
+speaker1: that's exactly what i am.
+speaker2: i didn't think there were private detectives anymore, except on tv.
+speaker1: you probably expect me to be wearing a trench coat and a hat. drinking whiskey, chasing women and getting beaten up by guys with broken noses. want to know what it's really like? it's sitting in a car and staring at a hotel window for three days straight, in a plastic bottle, pardon me, because some guy thinks his wife's cheating on him. glamorous, huh? and the guy who hired you, he has a hair-lip, dandruff and crooked teeth, and you could have told him the minute you laid eyes on him his wife's cheating, and you don't blame her.
+speaker1: it's refreshing to actually sit down and meet someone face to face, someone nice like you.
+speaker1: so, she didn't leave a note? she never gave any indication where she might go, before she left?
+speaker2: no.
+speaker1: she just seemed... depressed... ?
+speaker2: she didn't seem herself. for months there never was any way to get her to talk about it. one night we went to bed... the next morning she was gone. she took some clothes.
+speaker1: what was she running from?
+speaker2: i don't know.
+speaker1: if there's anything you feel uncomfortable talking about, tell me, but i have to ask. your husband... he committed suicide?
+speaker2: yes.
+speaker1: september 4th, 1993. about a year after mary disappeared.
+speaker2: we were divorced by then. things fell apart... he was living with a friend...
+speaker1: why do you think he did it?
+speaker2: it got to be too much for him.
+speaker1: you have to forgive me, but in these circumstances... with your daughter... were there any indications of... any sort of abuse?
+speaker2: there wasn't anything like that. the police and the fbi people asked, but there wasn't anything happened like that, never. my husband... his heart broke when mary left...
+speaker1: i didn't mean to...
+speaker2: you try going through what we did. bob couldn't take it, that's all. christ, there's times when it still seems like i can't either.
+speaker1: i had to ask. i apologize.
+speaker2: no one knows what it's like. you can't even imagine how much it hurts.
+speaker2: people remember me from the news. can you drive me back now?
+speaker1: of course.
+speaker2: this is her room.
+speaker2: the police made a wreck of it, but i put it back exactly how it was. just how she likes it.
+speaker2: those are for her birthday. one for every year she's missed. they'll be waiting for her when she comes back.
+speaker1: i... i shouldn't take anymore of your time. maybe we can finish tomorrow. i'll call tomorrow...
+speaker2: okay.
+
+speaker1: we weren't religious. we never forced religion down her throat, like i've seen some parents do to their kids. we never made her go to church. but, after mary was gone, that's when i got religious. mrs. mathews brings two cups of coffee, sits. 
+speaker1: doesn't make much sense, does it? when everything's happy, when life's fine and you have every reason to believe there's a you don't bother. then, something horrible happens... that's when you start praying all the time. that's when you start going to church.
+speaker2: we're all like that.
+speaker1: are you religious?
+speaker2: no.
+speaker1: you should be.
+speaker2: i've got what i need for my report. there is... there is one thing that bothers me though.
+speaker1: what?
+speaker2: it's not really my place, but it's not easy for me to set aside the private detective part of me either. see, i know a little about missing persons. when kids run, they almost always leave a note. it's guilt.
+speaker1: there wasn't one. the police looked.
+speaker2: do you think the police did a good job?
+speaker1: i don't know. i think so.
+speaker2: it is possible... and i know this isn't something you want to hear. your daughter may have tried to hide a note where she thought you would eventually find it, but where she knew your husband would never find it. she might have wanted to tell you something...
+speaker1: no. you don't have any reason to think that...
+speaker2: if the police focused their search in
+speaker2: will you let me look?
+speaker1: my husband never laid a hand on her. she would have told me... she would have told me...
+speaker2: you're probably right, and i probably won't find anything. i don't have a right to ask this, and you can kick me out of your house if you want, but this is my profession and there's a part of me that can't let it go. police are just as human as you or i. they could have missed something. they probably didn't. wouldn't you rather know?
+speaker1: go ahead and look if you want. i don't care what you do.
+
+speaker1: " 
+speaker2: "dear mom. if you're reading this, it means i called you from hollywood, california and told you where to find my diary. i don't think i'll be able to tell you this when i talk to you, so i'm writing it down here. you know i haven't been happy for a long, long time. for a long time now dad's been doing things i couldn't tell you. he's been touching me and it's getting worse. i can't stay anymore. i know you and i haven't always gotten along sometimes, but please don't blame yourself. there isn't anything you can do. i'm going to make a whole new life in california. maybe someday you'll see me on tv or in magazines. don't worry about me.
+
+speaker1: you were right. i didn't find anything. i'm going to run and get something to eat. 
+speaker2: yes.
+
+speaker1: do you ever consider... do you realize that mary may never come back? 
+speaker2: i think about it everyday. but, every time the phone rings... every single time, i still think it's her.
+speaker1: it's been six years.
+speaker2: what am i supposed to do? forget her? time heals all wounds, right? she's all i think about, and i've learned to live with that. but, you want the truth... the real truth? if i had a choice... if i had to choose, between her being out there, living a good life and being happy, and me not knowing; never finding out what happened to her... ... or her being dead and me knowing... i'd choose to know. mrs. mathews stares into the tv, wipes tears.
+speaker1: excuse me, i have to use your bathroom.
+
+speaker1: "... we're reading the great gatsby in english class. it's the story of this guy who has lots of fancy parties and all his friends come around and party with him, but later when he dies nobody comes to his funeral. someone said there's a movie about it, but i looked in the video store and it wasn't there." welles flips pages, further back in the diary... 
+speaker1: "dear diary. i started my first job last week working part time at price mart department store..."
+
+speaker1: "... he opened the car door for me and paid for the movie. when he took me home he said we should go out again soon. i hope he calls..." 
+speaker1: "dear diary. janet says she slept with her boyfriend. i can't believe it. she says they did it last weekend while her parents were out of town..."
+
+speaker1: "dear diary. something terrible happened today when dad and i were alone. i can't tell anyone. i feel sick. what did i ever do to make this happen to me?" the volunteer and priest can't help. welles is weary, futility beginning to wear on him, walks to his car... 
+speaker1: "dear diary. my stomach hurts all the time. i just want to go to sleep and never wake up. i want to get out of my head and stop hearing myself think."
+
+speaker1: "dear diary. grandma fell and broke her leg last week. we drove down to visit her in the hospital. hospitals smell like dead people." ext. freeway -- 
+speaker1: "dear diary. if i can get to california, i'll be okay. i've got money saved. i can work as a waitress till i get something better. billy says he and his family went to california once on vacation. he says it never rains. they stayed near the beach and he went swimming in the ocean..." continue to pull back -- till welles' car is very, very far below -- revealing the staggering size of the city of los angeles, where the lights go on forever and forever.
+
+speaker1: is this pretty much it? 
+speaker1: just... just videos?
+speaker2: what are you looking for?
+speaker1: nothing.
+speaker2: fuck-head.
+
+speaker1: big date tonight? 
+speaker2: yeah... guess so.
+speaker1: can i interest you in a battery operated-vagina?
+speaker2: pardon me?
+speaker1: my boss tells me i have to do more suggestive selling.
+speaker2: well, it's tempting, but no thanks.
+speaker1: it's your call, but you're gonna be sorry when you're in one of those everyday situations that call for a battery-operated and you don't have one.
+speaker2: i'll risk it.
+speaker1: thank you for shopping at adult bookstore. have a nice day.
+speaker2: what are you reading?
+speaker1: once you pick it up you can't put it down.
+speaker2: catchy title. what are you really reading? hard to believe that book's got any parts worth highlighting.
+speaker3: "
+speaker2: truman capote.
+speaker1: i tear off the cover and paste this one on... you know how it is.
+speaker2: wouldn't want to embarrass yourself in front of your fellow perverts.
+speaker1: might get drummed out of the pornographer's union, and then where would i be?
+
+speaker1: " " 
+speaker2: " "
+speaker3: " "
+speaker4: " "
+speaker5: " hundreds of
+speaker6: ads with naked women urging callers to pick up the phone.
+speaker7: ; hundreds of
+speaker8: " "
+speaker9: " "
+speaker10: " it is endless. more
+speaker11: : "
+speaker12: " "
+speaker13: " "
+speaker14: " "
+speaker15: " "
+speaker16: "
+speaker17: hi, honey, how are you? how's cindy? the way it's going i'm about ready to pack my bags...
+
+speaker1: come back now. just drop it and come back... 
+speaker2: i would if i could. i'll be home soon, believe me. it won't be long.
+speaker1: i miss you.
+speaker3: i miss you too. i love you very much. give cinderella a kiss for me and tell her i love her, alright? goodnight.
+
+speaker1: remember me? 
+speaker2: came back for that battery-operated vagina, right? told you you would.
+speaker1: i need some information. thought you might be able to help.
+speaker2: thomas welles. nice picture.
+speaker1: i'll be outside having a cigarette.
+speaker2: cover me, beth. i'm taking a break.
+
+speaker1: i don't know what you're looking for, mister, but so we're clear from the start, i'm straight. 
+speaker2: good for you.
+speaker2: how long you been working there?
+speaker1: three, four years.
+speaker2: what's your name, if you don't mind me asking?
+speaker1: max.
+speaker2: well, here's the deal, max. this thing i'm on right now has something to do with underground pornography. stuff that's sold under the counter, illegally...
+speaker1: there's not much illegal.
+speaker2: well, whatever there is, whoever's dealing, however it's done, i want to know. i want a good look, so if you've got that kind of connection, great. if not, speak now.
+speaker1: you're not a cop, are you? if i ask and you are, you have to tell me.
+speaker2: i'm not a cop.
+speaker1: you're a private eye. like shaft.
+speaker2: not quite.
+speaker1: from pennsylvania. p.i. from pa.
+speaker2: well, there's the thing; you're not gonna know anything about what i'm doing, but you can make some money.
+speaker1: how much?
+speaker2: how much do you make now?
+speaker1: four hundred a week, off the books.
+speaker2: okay, let's pretend i live in the same fantasy world where you make four hundred a week in that dump. i'll give you six hundred for a few days.
+speaker1: sounds good, pops.
+speaker2: here's my number if you need it... when can you start?
+speaker1: tomorrow night, i get off at eight.
+speaker2: see you then. oh, and, don't call me "pops." welles walks away.
+
+speaker1: am, reaches to answer the phone... 
+speaker2: ... hello... ?
+speaker3: wake up, pops. your education begins tonight.
+
+speaker1: are you a law enforcement agent or in any way affiliated with law enforcement? 
+speaker2: you, larry.
+speaker1: are you a law enforcement... ?
+speaker3: no.
+
+speaker1: we're shutting down in fifteen minutes. fifteen minutes. 
+speaker2: " "
+speaker3: " "
+speaker4: " and many bootleg videos with
+speaker5: what are these?
+speaker6: mixed hard bondage. films. sick buy five, get one free.
+speaker5: anything harder?
+speaker6: there's nothing harder.
+speaker5: snuff?
+speaker6: what you see is what i got, mister.
+speaker5: you know where i can get it? i have a lot of money to spend.
+speaker6: there ain't no such thing as snuff. why don't you off? the dealer sits and keeps counting cash.
+
+speaker1: you've got penthouse, playboy, hustler, etc. nobody even considers them anymore. then, there's mainstream hardcore. triple x. the difference is penetration. that's hardcore. that whole industry's up in the valley. writers, directors, stars. they're celebrities, or they think they are. they pump out 150 videos a week. a 
+speaker1: what you saw tonight, we're not talking about a video some dentist takes home over the weekend. we're talking about stuff where people get hurt. specialty product.
+speaker2: child pornography.
+speaker1: there's two kinds of specialty product; legal and illegal. foot fetish, films, watersports, bondage, spanking, fisting, she- males, hemaphrodites... it's beyond hardcore, but legal. this is the kind of where one guy's going to look at it and throw up, another guy looks at it and falls in love. now, with some of the s+m and films, they straddle the line. how are you supposed to tell if the person tied up with the ball gag in their mouth is a consenting or not? step over that line, you're into kiddie porn. films, but there aren't many. i've never seen one.
+speaker2: snuff films.
+speaker1: i heard you asking. that guy wasn't yanking you around. there's no such thing.
+speaker2: what other ways are there to get illegal films? who do you see?
+speaker1: first of all, basement sales like tonight aren't gonna last much longer. it's too risky, one, and two, everything's going on the internet. anyone with a computer and enough patience can find anything he wants. it's heaven for those degenerate chicken-hawks. they're swapping pictures back and forth as fast as their modems can zap 'em. but, there's still some weird under the counter where i work sometimes. no one knows where it comes from. that's local underground, where information spreads by word of mouth. those are zombies, junkies. their hands are permanently pruned. they go out in the sun they don't burn, they blister. other than that, all i know about is the mail. classified ads in the paper with hidden codes. secret couriers. credit card orders to dummy corporations. interstate wire transfers. revolving p.o. boxes. but, if you're asking me who do you go to to get illegal who knows? that's the whole point -- the seller stays as far away from the buyer as possible, and vice versa, and cops can't trace the deal. there's ways to do it so nobody knows who anybody is.
+speaker2: how old are you?
+speaker1: twenty-five.
+speaker2: where are your parents?
+speaker1: i don't know, where are yours?
+speaker2: i don't mean any offense... but what are you doing mixed up in all this?
+speaker1: i'm not mixed up in anything, hayseed. what are you talking about?
+speaker2: you just strike me as smart enough to be doing something else.
+speaker1: yeah, i'm a real genius. what choices have i got? just because i know about stuff like tonight doesn't mean i deal it. i work a job. it beats pumping gas, beats making hamburgers.
+speaker2: you're telling me it doesn't get to you?
+speaker1: you can't sit there all day watching the parade of losers that comes into that place without going numb. so what? am i gonna go off and be a race car driver? go to harvard? run for president? what about you, pops?
+speaker2: what about me?
+speaker1: i see a ring on your finger. you have any kids?
+speaker2: a daughter.
+speaker1: so, you have a wife and kid waiting for you in pennsylvania... what are
+
+speaker1: my husband had five cash accounts he used to temporarily hold stock profits. between november of 1991 and march of 1992, he wrote one check out to cash from each account. 
+speaker2: okay...
+speaker1: my husband never dealt with money personally, certainly not cash.
+speaker2: i'm not positive this means anything.
+speaker1: the checks were for odd amounts...
+
+speaker1: one was for two hundred thousand, one dollar and thirteen cents. another was for three hundred thousand, six hundred fifty four dollars and seventy six cents... 
+speaker2: okay, i follow you so far...
+speaker1: totalled together, these five checks from five different accounts, they equal one million dollars.
+
+speaker1: you're joking. 
+speaker2: to the penny. exactly one million dollars in cash.
+speaker2: hello... ?
+speaker1: i'm here.
+speaker2: do you think the film could have cost that much?
+speaker1: for a human life... murder on film, no statute of limitations. who knows? it sure could have. i'd like you to overnight me a copy of those checks, then put them in a safe deposit box.
+speaker2: okay.
+speaker1: send it to me through the post office like we arranged. no return address. you dug this up all by yourself?
+speaker2: you told me to look, so i looked.
+speaker1: you're one of a detective, mrs.
+
+speaker1: her name was mary anne mathews. 
+speaker2: yes... i remember mary
+speaker1: you... you do? you're sure? please, sister, will you take another look, make sure...
+speaker2: yes. i remember her.
+
+speaker1: she lived here for only about a month, if i recall correctly. she didn't return one night. she never came back. i didn't know what to think... 
+speaker1: do you know what happened to her?
+speaker2: i'm trying to find out. she was a runaway. i'm looking into it for her parents.
+speaker1: can you get that down for me?
+speaker1: no, the next shelf... there...
+speaker2: what is this?
+speaker1: those are her belongings.
+speaker2: her belongings?
+speaker1: that's her suitcase. i had forgotten it, till you showed me her picture.
+speaker3: " no address. welles looks to the nun.
+speaker2: whatever possessed you to keep this all this time?
+speaker1: she was the kindest, sweetest girl you'd ever want to meet. oh, i adored her. i supposed i always hoped she'd be back. after a time, all i could do was pray she had moved on to better things. can you get this suitcase to her parents, if you think it's appropriate?
+speaker2: i'll do what i can.
+
+speaker1: okay, i'll take it all. 
+speaker2: excellent. we accept mastercard and american express.
+speaker1: cash.
+speaker2: alright. may i have your phone number, area code first?
+speaker1: no, you may not.
+speaker2: okay. fine.
+speaker2: i'm required by state law to inform you that, while it's perfectly legal for you to purchase these items, it is illegal for you to use them for any sort of...
+speaker1: yeah, i know the spiel. if you could bag it, i'll be on my way, thank you.
+speaker2: certainly, sir.
+
+speaker1: ... half a dozen. this is good stuff, jimbo... 
+speaker1: you know how my tapes sell. people eat this stuff up.
+speaker2: i had three jerkoffs trying to return your tapes last month. do you know how bad a skin flick has to be for some to come back into my place with a receipt, and try to return it?
+speaker1: maybe there's something wrong with the scumbag customers coming into your place, ever think of that?
+speaker2: the only thing wrong is the cheap, softcore you're peddling, eddie. where do you get this stuff?
+speaker1: look, you
+speaker2: get together some upscale product where the girls still have teeth in their head. till then, you.
+speaker1: you!
+speaker1: celebrity films.
+speaker3: eddie.
+speaker1: yeah, who's this?
+speaker3: i know what you did.
+speaker1: what?
+speaker3: i know what you did.
+speaker1: who is this.
+speaker3: you murdered that girl, eddie. six years ago...
+speaker1: what the are you.. ?
+speaker3: you killed that girl and you put it on film. you and your pals, you're you up real good.
+speaker3: come on, eddie...
+speaker3: ... come on...
+speaker4: ... hello?
+speaker1: dino, it's eddie... eddie poole...
+speaker5: what do you want?
+speaker1: i just got a call... two seconds ago, some called...
+speaker5: what are you talking about?
+speaker1: the loop! the girl we did, what the do you think i'm talking about?! this guy calls and says he knows about the loop...
+speaker5: 
+speaker1: i'm telling you...
+speaker5: blow me, you paranoid that's impossible. why are you bothering me with this... ?
+speaker1: because somebody just called me and laid it out!
+speaker5: there's nothing there, you brain- dead think about it. there's absolutely no way in this world to connect us to anything. i want you to hang the phone up, and if you call me about this again i'm going to send a friend of mine out there and have him crack you open with a rib spreader.
+speaker1: dino...
+speaker5: nobody knows anything.
+speaker3: that is you, isn't it, eddie?
+
+speaker1: " 
+speaker2: " he opens the reference book, searching pages...
+
+speaker1: dino velvet... yeah, he's like the john luc godard of s+m flicks, supposed to be a real weirdo. 
+speaker2: a weirdo making s+m films? who'd have thought it?
+speaker1: his stuff comes out of new york. and fetish videos, gothic hardcore. definitely not for the squeamish.
+speaker2: specialty product.
+speaker1: you're learning.
+speaker2: where does he sell it?
+speaker1: out of the back of magazines mostly, but you can find it on the street if you look. he'll also do commissions, for enough money...
+
+speaker1: nothing illegal, it's always borderline. like if some freak wants to see a transvestite in a full rubber immersion suit getting an enema from a... 
+speaker2: alright, i get the picture.
+speaker1: he cuts all kinds of other stuff into his movies; photographs, newsreel footage, subliminal images.
+speaker2: well, i'm in new york now. what do you say to flying out and giving me a hand?
+speaker1: i'm a working stiff, pops.
+speaker2: take a vacation. i'll pay you four hundred a day, plus expenses.
+speaker1: you want me to come out there and play private eye?
+speaker2: consider it. meanwhile, dig up whatever dino velvet films you can.
+speaker1: see ya.
+
+speaker1: hello? 
+speaker2: mrs. christian, tom welles here.
+speaker1: how are you? having any luck?
+speaker2: i don't know if luck's the word.
+speaker1: i've been ordered into bed. the doctor says i've gotten the flu, or some other wretched ailment.
+speaker2: i hope it's nothing serious.
+speaker1: nothing more than a bother. have you any news for me?
+
+speaker1: i've made progress. i'm in manhattan. once a few more pieces fall into place, i'll drive to you and give you an update. 
+speaker2: fine...
+speaker1: i've got about five thousand left in cash, but i'll need another thirty, if you approve.
+speaker2: how will i get it to you?
+speaker1: if you have a pencil and paper, i'll tell you how to send it.
+
+speaker1: you didn't say it was gonna be this luxurious. 
+speaker2: it's their presidential suite.
+speaker1: great.
+speaker1: oh, come on, man, what are we doing in this flea bag?
+speaker2: it's cheap, and people know to mind their own business. what have you got for me?
+speaker1: dino velvet.
+
+speaker1: max... wake up... 
+speaker2: wha... ?
+speaker1: who is this, in the mask? who is he?
+speaker2: he's one of the lunatics dino uses. he's in a bunch of these.
+speaker2: why? he have something to do with whatever you're into?
+speaker1: no... it's nothing... that's not him.
+speaker1: who is he?
+speaker2: i told you, he's one of dino velvet's stock players...
+speaker1: who is he, his
+speaker2: they say he's half brain-dead from all the steroids he's using.
+speaker2: he's a brutal man. he loves what he does for a living.
+
+speaker1: you don't need to be here. 
+speaker2: what kind of junior p.i. would i be if i didn't go with you?
+
+speaker1: you're in the wrong place. 
+speaker2: we're looking for mr. velvet.
+speaker1: he's not here.
+speaker2: why don't you tell him we're here to give him a large sum of money. if he's not interested, we'll go.
+speaker1: you should leave now, before i have to remove you.
+speaker3: show them in, milo.
+speaker2: you heard the boss, milo.
+speaker4: come in. make yourself comfortable.
+speaker2: it's an honor to meet you. thank you for seeing us.
+speaker4: what can i do for you today?
+speaker2: i'd like to commission a work. i'm a great admirer of yours.
+speaker4: flattering. and, who's your colorful little chum?
+speaker2: a fellow investor.
+speaker4: hmm.
+speaker5: you're the only one still shooting film and transferring it to video. nobody appreciates that kind of integrity anymore... the grain, the gritty look you get.
+speaker4: well, i'm glad you appreciate it. what would you say is your favorite piece?
+speaker5: i know if i had to pick, it'd be "choke," or "devil."
+speaker2: "devil" frightened me as much as it excited me, but i'd be hard pressed to choose a favorite.
+speaker4: you said something about money.
+speaker2: yes. what we're looking for is rather specific.
+speaker2: that's five thousand dollars.
+speaker4: is it?
+speaker2: five thousand now, five thousand on delivery. two women, one white and one black, as long as they have large breasts. hard bondage, or course. other than that, trusting your artistic interpretation, i have only two stipulations.
+speaker4: and they are?
+speaker2: i want to watch you work.
+speaker4: i'll consider it.
+speaker2: and the other performer... it has to be that monster you use... the man in the mask.
+speaker4: machine.
+speaker2: if it's not him, there's no deal.
+speaker4: he might be interested... but it would mean another five thousand.
+speaker2: we can do that.
+speaker4: well, well, i'll have to put my thinking-cap on about all this. you'll leave the money as a deposit? very good.
+speaker4: you have a beautiful face... the way the light hits it. i'd like to take your picture. you don't mind?
+speaker2: i'd rather you didn't.
+speaker4: what's the problem?
+speaker2: i'm camera shy.
+speaker4: you trust me to keep your money, but not to take your picture?
+speaker2: those are two different kinds of trust. thank you for your time. i hope we can do business.
+
+speaker1: i'll do this for you. fifteen thousand dollars. 
+speaker2: machine's in?
+speaker1: he's in. it will be his pleasure.
+
+speaker1: be at 366 hoyt avenue, three o'clock, tomorrow. 
+speaker2: where's that?
+speaker1: brooklyn. don't be late.
+
+speaker1: what's next? 
+speaker2: i'm trying to figure that out myself. i have to see machine without his mask.
+speaker1: still don't want to tell me what you're doing?
+speaker2: nope.
+speaker2: this is for you.
+speaker1: what's this?
+speaker2: it's money. people use it to purchase goods and services.
+speaker1: look... that's awful generous and everything...
+speaker2: it's not my money. the woman i got it from is never going to give it a second thought. let's not make a big deal out of this, okay? go be a race car driver. go run for president. whatever.
+speaker2: i'll see you around.
+
+speaker1: there you are. come join us. 
+speaker2: hello.
+speaker1: you brought the money?
+speaker2: right here.
+speaker1: excellent.
+speaker2: where are the women?
+speaker1: they should be here any minute.
+speaker2: what are these for?
+speaker1: hmm? oh, the knifes? they're just props. nice, aren't they?
+speaker2: sure.
+speaker1: machine and i were just talking about knifes. the beauty of knifes...
+speaker1: he was saying how fascinated he is by their simple ability to be sharp. the ability of a piece of metal to be so thin that it is almost nothing...
+speaker1: so close to nothingness that it cuts with minimum effort, because it's so non-intrusive. flesh is fooled. it blooms open as the blade widens, but by then it's too late, because the knife's already doing its pure, simple damage. dino shoots another arrow to the target.
+speaker1: ah, ours guests have arrived. machine stands. he is a giant.
+speaker1: mister welles... would you be so kind as to remove any firearms from your person?
+speaker2: what are you... ?
+speaker1: take out your gun! welles brings his hand towards his holster...
+speaker1: slowly. let me see it.
+speaker1: empty the gun onto the table, very carefully.
+speaker2: look, i don't know what this...
+speaker1: shut up, do exactly as i say, or i'll put this arrow through your throat.
+speaker3: is that him?
+speaker1: put the gun down, take the handcuffs. handcuff yourself to the bed. welles obeys, walks to the bed.
+speaker1: didn't know what to make of you at first, and you certainly had eddie on pins and needles. but, lo and behold, from out of the blue came an old business acquaintance to explain everything... welles looks across to the car... the sinister lawyer, longdale, gets out from behind the wheel and hands the keys to machine, walks this way...
+speaker3: this is the fucker? doesn't look like anything...
+speaker3: doesn't look like
+speaker1: you remember mr. longdale, don't you?
+speaker2: i remember him.
+speaker4: let's get this over with.
+speaker1: fine idea.
+speaker1: you're going to go get the film you received from mrs. christian, bring it here and put it in my hand. and to save time, so we make this as efficient as possible, there's an incentive...
+speaker2: no...
+speaker1: friend of yours?
+speaker2: look, he's got nothing to do with this... let him go...
+speaker1: can you guess what i'm going to say next?
+speaker2: he doesn't know anything... he's got nothing to do with this...
+speaker1: bring the film, or we kill him.
+speaker2: i'll get it. it's in a safe deposit box, in the city...
+speaker1: how cooperative. longdale will keep you company.
+speaker1: don't let longdale's questionable choice of weapon give you any ideas. if his fey little gun puts enough little holes in you, you'll be just as dead... and so will max.
+speaker3: move it, dirtbag... !
+speaker1: do hurry.
+
+speaker1: you were the middleman, am i right? old man christian wasn't about to go shopping for a snuff film himself. 
+speaker2: wouldn't exactly have been possible for a man of his stature.
+speaker1: so, he sent you, gave you the money, his errand-boy. and if you refused, it wasn't like you could tell anyone your pervert boss just asked you to get him a snuff film. that's the beauty of lawyer/client privilege.
+speaker2: that's trust. mr. christian trusted me implicitly.
+speaker1: must have paid you a lot, for you to risk everything. would've had to have cut yourself a real nice piece of money.
+speaker2: i was well compensated.
+speaker1: that's why you got scared when mrs. christian hired me. you knew about the film, figured it had to be in that safe. how'd you find me?
+speaker2: never mind how i found you.
+speaker1: followed me... must have freaked out when you saw me closing in on your buddies...
+speaker2: they're no friends of mine.
+speaker1: except, you're willing commit murder with them.
+speaker2: none of this would be happening if you would have left it alone. if you weren't digging up a girl who died six years ago. a girl no one even remembers.
+speaker1: mary anne mathews, that was her name. her mom remembers her.
+speaker1: you found these dealers and asked to buy a snuff film, right? wanted them to find you one. well, they didn't
+speaker1: mary anne mathews was alive till you paid money to have her murdered.
+speaker2: shut your mouth and drive!
+speaker1: did it get him off, huh, watching them cut her up? tell me, because i really want to understand. did he jerk off to it? you watch it with him, sit there giving him a while you both watched... ?
+speaker2: you're making me very angry.
+speaker1: just tell me. tell me some more of the secrets you and christian shared. what kind of degenerate pervert was he really? what the did he want with a snuff film?
+speaker2: you're asking me why?
+speaker1: i'm asking.
+speaker2: a man like mr. christian, a great man... all his money, all his power... a man who attained everything there was to attain...
+speaker1: why did he buy a film of some poor, lost girl getting butchered?
+speaker2: isn't it incredibly obvious?
+speaker1: enlighten me.
+speaker2: because he could. he did it because he could. what other reason were you looking for?
+speaker2: you've got four minutes till i call mr. velvet and let him know there's a problem.
+
+speaker1: may i show you to a booth... 
+speaker2: no, i've got it.
+
+speaker1: you almost went over your limit. 
+speaker2: you.
+speaker1: give me the film.
+speaker2: you'll get it when we get there.
+speaker1: give me the film.
+speaker2: go ahead, shoot me. then try driving to brooklyn with my brains all over the windshield.
+
+speaker1: you 
+speaker2: you're a dead man.
+speaker3: leave him alone.
+speaker2: off.
+speaker2: what the !
+speaker4: i promised him to machine.
+speaker2: ... sorry...
+speaker3: first things first. you might want to watch this, mr. welles... welles looks up through tears...
+speaker1: don't... please...
+speaker3: and so it ends. it's as if she never existed.
+speaker3: don't blame yourself. you were in way over your head.
+speaker1: motherfuckers. small time, motherfuckers... ! tell me something...
+speaker1: i know why you did it, dino, eddie... but, why'd the lawyer do it? must have been a helluva lot of money, right? one fuckload of money...
+speaker1: so, what are you all still doing small time, huh? what are you still doing in the sewer, eddie?! christian gave longdale a million dollars to find him a snuff film. how much did you ever see... ?
+speaker2: what's he talking about?
+speaker1: one million dollars, dino. how much did he tell you he had...
+speaker5: he's lying.
+speaker1: look at him. you think he played it square? how much did he give you, how much did he keep for himself?
+speaker2: what the fuck's he talking about?
+speaker5: stay away from me.
+speaker3: what's going on, longdale? did this happen?
+speaker2: you sell us short, you
+speaker5: stay back! you have a gun, eddie, show it to me. now!
+speaker5: put it on the ground, kick it here... eddie puts the gun down, kicks it...
+speaker2: you lawyer...
+speaker5: move back! all of you... move!
+speaker3: what were you thinking?
+speaker5: back off! everything's been taken care of, and i'm leaving now...
+speaker3: you're not going anywhere if you us, lawyer.
+speaker5: i'm leaving.
+speaker2: you got the guts, tough guy? gonna kill us all, is that it?
+speaker3: you betrayed us.
+speaker5: stay where you are!
+speaker5: keep back!
+speaker3: you're not gonna live through this.
+speaker5: our business is done, i'm leaving, no one's going to stop me...
+speaker3: you!
+speaker2: 
+
+speaker1: he's mine! 
+speaker2: no, no, no... please, don't kill me... please... !
+speaker3: do him good.
+speaker2: back off, eddie...
+speaker2: stop eddie!
+speaker2: come back, or i put a hole in him.
+speaker2: you might make it to your gun, but not before i shoot machine. and if i have to shoot him because of you, and i don't kill him, right after he kills me, he's gonna kill you.
+speaker2: take off the mask.
+speaker2: take it off!
+speaker1: you got one bullet.
+speaker1: the only choice you have now, is which one of us kills you.
+speaker1: get the gun!
+
+speaker1: hello? 
+speaker2: amy, it's me. listen very carefully..
+speaker1: tom? where have you been... ?
+
+speaker1: amy, just listen. take cindy and get out of the house. do it now. 
+speaker2: what's wrong? are you alright?
+speaker1: i'm okay. please, honey, i can't explain. don't use the phone, just pack a bag and get out. i'm on my way. i'll be back at the house in three hours. call me from the hotel when you get there
+speaker2: ... what's going on?
+speaker1: just do it, amy, please, go.
+
+speaker1: honey... ? 
+speaker2: not quite.
+speaker2: nothing like getting home after a rough day. home sweet home.
+speaker2: walk away. pack your bags, put the wife and kid in the car and find a place to hide. if you're lucky, you'll never see me again.
+speaker1: i don't know if i can do that.
+speaker2: i know who you are. i know where you live. i know everything i need to know to find you. who am i?
+
+speaker1: what happened to you? 
+speaker2: i'm okay, honey, i'm okay. are you alright?
+speaker1: what's going on, tom? what happened?
+speaker2: i can't tell you, amy. you know i can't. you have to trust me...
+speaker1: tom...
+speaker2: it has to be this way for now. it won't be long.
+speaker1: why haven't you called? why don't you answer your phone?
+speaker2: i don't know. i'm sorry...
+speaker1: you're sorry? what was i supposed to think?
+speaker1: you owe me an explanation. you can't treat me like this.
+speaker2: i wanted to call. i couldn't.
+speaker1: you couldn't?
+speaker2: you don't understand...
+speaker1: no, i don't, because you're not telling me anything!
+speaker2: i was in hell. if i called you... if i heard your voice... it would have been so easy for me to quit. i couldn't do that.
+speaker1: you should have.
+speaker2: amy, i'm not going to let anything happen to us.
+speaker1: look where we are. look at yourself. you son of a you don't have any idea what you're putting me through...
+speaker2: i don't know what to say
+speaker1: you're killing me...
+speaker2: don't...
+speaker1: what was i supposed to think happened to you?!
+speaker2: amy...
+speaker2: forgive me.
+speaker2: we have to stay here a few days. i'll get more clothing from the house if i can. i'm sorry. we're going to be okay.
+speaker1: who are you calling?
+speaker2: mrs. christian.
+speaker1: what?
+speaker2: she's all i've got. she's the only witness.
+speaker1: tom... she's dead.
+speaker1: she died in her sleep three days ago. it was in the paper...
+speaker2: i just talked to her.
+speaker1: how could you not know?
+
+speaker1: promise you'll stay. 
+speaker2: promise you won't go back there, wherever you were. whatever it was, forget it.
+speaker1: promise me. welles looks out into the night sky of stars.
+speaker2: i promise.
+
+speaker1: hello, eddie. 
+speaker1: put your hands on your head.
+speaker1: put your hands behind your head, lock your finger together, get down on your knees.
+speaker1: i owe you a few.
+
+speaker1: i'm gonna kill you. 
+speaker2: don't bore me with that
+speaker1: how'd you find me here?
+speaker2: don't ask questions.
+speaker1: you!
+speaker2: starting to recognize a pattern?
+speaker1: what do you want?
+speaker2: who is machine?
+speaker1: i don't know...
+speaker2: i want his name.
+speaker1: i told you, i don't know.
+speaker2: i will never get tired of hurting you, eddie, so you might want to change your attitude.
+speaker1: what the am i gonna protect that freak for? he was dino's boy, not mine. he shows up with his mask on, leaves with his mask on. nobody knows.
+speaker2: okay, we'll come back to that. so, six years ago a guy contacts you, through the classifieds, over the phone, however he does it. it's longdale, looking for a snuff film. and you, entrepreneur that you are, tell him you can hook him up.
+speaker1: yeah, the lawyer.
+speaker2: told him you could get him a snuff film.
+speaker1: yeah.
+speaker2: how much did he pay you?
+speaker1: thirty thousand each, that
+speaker2: that's all? thirty each. that's all it took for you to murder her?
+speaker1: it was a lot of money.
+speaker2: so... you brought dino in, and he brought machine. and, one day, a girl walked into your office because you had an ad in the paper for models. and she never walked out.
+speaker1: something like that.
+speaker2: what did you do, knock her out, shoot her up... ?
+speaker1: what the do you want from me?
+speaker2: i want to know. i want to know exactly what you did to her!
+speaker1: you then, you want to know? i talked her up, told her how beautiful she was, told her she was gonna be a star. i told her i was gonna get her a screen test, and while i'm doing that, i got her a soda and dropped a mickey. when it was dark enough, i rang dino and told him it was go time, i put her in the trunk of my car and we went and we did it. that's what happened. she's dead. she's been dead a long time. nobody cares!
+speaker1: you wanted to know, now you know.
+
+speaker1: that's right, cut me loose. be a man. 
+speaker2: show me!
+speaker2: show me where you did it, on the map, exactly where you did it.
+speaker1: why?
+speaker2: because we're going there.
+
+speaker1: what are we doing here? 
+speaker2: that night... you didn't have to be in the room, but you were. why? why did you watch?
+speaker1: i don't know. i felt like it. i never saw anyone get done before.
+speaker2: you enjoy it?
+speaker1: made me sick, but what did i care? what did i care if some hump wants to beat off to that. it was just something i was doing for money.
+speaker2: tell me what happened.
+speaker1: what do you want to know? you saw it, you saw the loop...
+speaker2: nobody saw you bring her in?
+speaker1: there wasn't nobody around. this place was a shit-hole. i backed up the car to the door and we carried her in, like groceries. dino made her eat a bunch of pills, we laid out the plastic, put film in the camera and machine went to work.
+speaker2: what did you do with her body?
+speaker1: took it out the bathroom window.
+speaker2: show me.
+
+speaker1: what are you thinking you're gonna do... ? 
+speaker2: keep moving.
+speaker1: where do you think you're taking this, huh? gonna be a big hero, avenge that little girl's death? gonna make everything right with the world? how you gonna do that... ?
+
+speaker1: you can't go to the cops. all you can do is cut me loose and walk away, because you got nothing... 
+speaker2: stop talking.
+speaker1: you got absolute zero.
+speaker2: show me where you buried her.
+speaker1: i don't know... ... out there somewhere.
+speaker2: where? show me where.
+speaker1: i don't know. what do you think... we weren't burying treasure. we didn't pace it out so we could come back and get it. we dug a hole and we put her in it. your guess is as good as mine.
+speaker1: you'll never find her. nobody ever will, and even if they did, it doesn't mean nothing. bring in the cops, bring in the f.b.i., 'em all. without the film, it never happened. don't you get it? it's over. you can't do anything. welles turns, aims his gun at eddie, furious.
+speaker2: i can kill you. i can leave you out here, just like you left her.
+speaker1: do it.
+speaker2: don't think i won't.
+speaker1: do it! put me out of my misery so i don't have to listen to you whining anymore. you think it's so easy?
+speaker2: easy enough for you.
+speaker1: i never killed anyone.
+speaker2: that's right, you just stood there and watched, because you "felt like it." almost makes you worse.
+speaker1: what do you want? you want me to fall to my knees and start crying like a baby... ?
+speaker1: where you going? you're the one with the gun. aren't i defenseless enough? come on...
+speaker1: go ahead and kill me. kill me with that gun, your gun, right, registered in your name? dig the hole yourself, with your bare hands, bury the body with your bullets in it. do it!
+
+speaker1: you pussy. 
+speaker1: pussy!
+
+speaker1: hello... ? 
+speaker2: mrs. mathews? it's thomas. do you remember, i was there a few weeks ago... asking about your daughter...
+speaker1: i remember. you just left...
+speaker2: i have to tell you something. it won't be easy for you to hear. it's about your daughter... mary anne... when i... when i was there with you, her diary, in your attic, in silverware. if you read it, you'll know what i'm telling you is true...
+speaker1: what are you talking about... ?
+speaker2: she went to california, to los angeles... she wanted to start over.
+speaker1: what... ?
+speaker2: mrs. mathews, your daughter is dead.
+speaker1: who is this... ?
+speaker2: someone... some men, they took your daughter and they drugged her, and they took her to a motel room...
+speaker1: who are you?
+speaker2: they brought her into the room... one man, he put a knife to her throat and he raped her...
+speaker1: no...
+speaker2: he raped her and...and...and he murdered her...he cut her up with knifes...
+speaker1: no... no... no...
+speaker2: they killed her, and they took her out in the forest somewhere and they buried her...
+speaker1: why... why are you doing this to me... ?
+speaker2: they murdered her, mrs. mathews, i'm sorry. it happened a month after she ran away. she's been dead all this time...
+speaker2: i'm sorry, i'm so sorry... there wasn't anything anyone could do...
+
+speaker1: there you are, mr. welles, confirmed through to kennedy. gate 32b. 
+speaker1: mr. welles?
+speaker1: gate 32b.
+
+speaker1: " 
+speaker2: hello, can you connect me with the duty nurse? hello, this is lieutenant anderson down here in the thirteenth precinct. i've got a helluva problem i was hoping you could give me a hand with. we had a stabbing incident a couple of days ago, and it looks like the supposed victim gave us a false name and address. can you tell me if you had an adult male with an abdominal wound in you er in the last forty-eight hours? you'd remember this guy; a body- builder, real big guy, five foot eleven, with acne all over his chest and back... alright, thanks for your help. welles hangs up, uses a pen to cross out a number in the phone book, starts dialing the next number.
+
+speaker1: ... abdominal wound. you'd know him if you saw him... 
+speaker1: he's a body-builder, stands just under six feet...
+speaker1: that's right... covered in acne. that's him, that's the guy. listen, we, uh... we think he filed a bogus report on this stabbing, gave us a false name and address... yes, i'll hold. welles goes to the desk, takes out his notepad. he starts feeling his pockets for his pen, can't find it, telephone book, searching, looks under the desk...
+speaker1: yes... yes. christopher higgins. thirty- fifteen, thirty fifth street. where? astoria, queens.
+
+speaker1: how much forgiveness do you think i have in me? 
+speaker2: i can't talk about it yet... not yet.
+
+speaker1: tom... ? 
+speaker2: i have to tell you... i have to tell you what happened. i have to tell you everything, but we can't tell anyone else. no one else can ever know.
+

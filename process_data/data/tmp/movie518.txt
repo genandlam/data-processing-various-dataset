@@ -1,0 +1,893 @@
+speaker1: ... but if we hesitate we'll lose this important source of dilithium. a trade agreement is in the best interests of the empire. 
+speaker2: praetor, i recommend we dispatch a diplomatic mission to celes ii to open negotiations.
+speaker3: senator tal'aura, you disagree with the motion.
+speaker4: no, sir. i would say "negotiation" is to be advised. i support all "diplomatic" overtures. but if you will excuse me, praetor, i have an appointment with the tholian ambassador.
+speaker3: then i will call for a vote on the motion to open trade negotiations with celes ii...
+speaker3: would someone please tell me what that was? alert security --
+speaker3: -- and have them run a --
+
+speaker1: duty... he lets the word resonate and then continues. 
+speaker1: a starship captain's life is filled with solemn duty. i have commanded men in battle. i have negotiated peace treaties between implacable enemies. i have represented the federation in first contact with twenty-seven alien species. but none of this compares to my solemn duty as... best man.
+speaker1: now, i know that on an occasion such as this: it is expected that i be gracious and fulsome with praise on the wonders of this blessed union... but have you two considered what you're doing to? this is all a inconvenience... while you're happily settling in on the titan, i'll have to train a new first officer; no doubt a stern martinet who'll quote the rule book at me and never... ever... allow me to go on away missions. ... then there's the matter of my new counselor. undoubtedly some soft-spoken, willowy thing who'll be probing into my darkest psyche as she nods her head and coos sympathetically. isn't that right, deanna?
+speaker1: i notice dr. crusher laughing along with the rest of you. as most of you know, the doctor will also soon be leaving the enterprise, to assume command of starfleet medical. again, i'm forced to ask, beverly, have you considered what you're doing to little ole' me?! i'll probably get some old battle- axe of a doctor who'll tell me to eat my vegetables and put me on report if i don't show up for my physical on time!
+speaker2: it'll serve you right.
+speaker1: really, it's not too late to reconsider. no? very well then...
+speaker1: will riker, you have been my trusted right arm for fourteen years; you have helped keep my course true and steady. deanna troi, you have been my conscience and best guide, the touchstone to the better parts of myself. you are my family. and in proper maritime tradition i wish you full sails and a clear horizon... my friends, make it so.
+
+speaker1: sort of like losing a son and gaining an empath, isn't it? 
+speaker2: please, beverly, this is hard enough.
+speaker1: if you start tearing up i promise to beam you out. level one medical emergency. there's no crying in starfleet. they head off toward riker and deanna.
+speaker3: i've never seen your captain so nostalgic. maybe he's getting soft in his old age.
+speaker4: not likely. after we installed the new series four replicators, he tried to order his usual tea and there was a glitch. had us remove the whole bunch of them and put the old ones back in.
+speaker3: there! nostalgic about old replicators.
+speaker4: he just likes things the way he likes them... of course, so do i.
+speaker5: romulan ale should be illegal.
+speaker4: it is, old chum.
+speaker5: then it should be more illegal.
+speaker6: really, captain, it was a lovely toast.
+speaker2: the least i could do for you, deanna. besides, you know me...
+speaker6: and you needn't worry. i'll brief your new counselor on everything she needs to know.
+speaker2: the you will. you know too much about me as it is... now you promised there are no speeches during the ceremony on betazed.
+speaker7: no, no speeches. no clothes either. picard looks at him. deanna laughs. then the band stops playing. all turn.
+speaker8: ladies and gentlemen and invited tran gendered species... in my study of terran and betazoid conjugal rites i have discovered it is traditional to present the "happy couple" with a gift. given commander riker's affection for archaic musical forms i have elected to present the following as my gift in honor of their conjugation.
+speaker8: if you please, mister band leader, a-one and a-two and...
+speaker8: "blue skies, smiling at me, nothing but blue skies do i see. blue birds, singing a song, nothing but blue birds all day long. never saw the sun shining so bright, never saw things going so right..." the crowd is appreciative. loves the song. except worf, he momentarily raises his head from the table.
+speaker5: ugghhh... irving berlin.
+speaker6: all right, go ahead.
+speaker2: may i have this dance?
+speaker6: with pleasure, captain.
+speaker1: commander worf... do klingons swing?
+speaker5: i am not a swinger. i am unwell.
+speaker1: don't worry, i'm a doctor.
+speaker1: i'm so glad you made it back to the enterprise before i left.
+speaker5: i was not suited for the life of a... diplomat.
+speaker2: i've been saving this. chateau picard 2267. batten down the hatches... he carefully uncorks the treasured bottle as:
+speaker2: they say a vintner's history is in every glass. the soil he came from. his past as well as his hopes for the future.
+speaker2: so... to happy endings.
+speaker8: to happy endings.
+speaker8: sir. i noticed an interesting confluence of emotion at the wedding. i am familiar with the human concept of tears through laughter and its inverse, laughter through tears, but i could not help wondering about the human capacity for expressing both pleasure and sadness simultaneously.
+speaker2: i understand why it would seem confusing. certain human rituals -- like weddings, birthdays or funerals evoke strong and very complex emotions. these rites carry great weight with us because they denote the passage of time.
+speaker8: and you were particularly aware of this feeling because commander riker will be leaving to assume command of the titan?
+speaker2: will and deanna joining the titan. dr. crusher going to starfleet medical...
+speaker8: and this makes you "sad"?
+speaker2: well. i suppose it does a bit. i'm very happy for them, of course, but i'm going to miss them. the ship will seem... incomplete without them.
+speaker8: that is because you have a familiarity with them. you can predict specific reactions and behavior and are comfortable in that knowledge.
+speaker2: yes. and, frankly, i envy them as well. they've made important choices; they're going to have great challenges ahead of them. new worlds to conquer...
+speaker2: seeing will and deanna today made me think about some of the choices i've made in my own life. devoting myself to starfleet... not marrying or having children... all the choices that led me here.
+speaker8: the choices i made have led me here as well. this is the only home i have ever known. i cannot foresee a reason for leaving.
+speaker2: you never know what's over the horizon, data. before too long you'll be offered a command of your own. data looks at him; he has never really considered this.
+speaker8: if i were... i believe my memory engrams would sense the absence of your specific reactions and behavior. i would "miss you."
+speaker2: now, you make a toast.
+speaker8: to new worlds...
+speaker2: new worlds. yes data, brave new worlds...
+
+speaker1: the fleet commanders are nervous. they've agreed to remain at their given coordinates and await his orders. but they're anxious to know what's going on here. 
+speaker2: i don't blame them. we can't keep them in the dark forever.
+speaker3: but in darkness, there is strength. donatra and suran stop. and the viceroy steps from the shadows...
+speaker3: don't you agree?
+
+speaker1: consider it the great symbol of the empire... but the bird-of-prey holds planets. romulus, remus. their destinies conjoined... and then we see him... shinzon! 
+speaker1: yet for generations one of those planets has been without a voice. we will be silent no longer.
+speaker1: join us, commanders. now what's the disposition of the fleet?
+speaker2: they're holding position.
+speaker1: and?
+speaker2: they will obey, praetor.
+speaker1: it's imperative we retain their allegiance or our great mission will be strangled before it can truly draw breath.
+speaker3: they support your intentions, sir. but they require evidence of your... sincerity.
+speaker1: and they'll have it. tell the fleet that the days of negotiation and diplomacy are over. the almighty federation will fall before us. as i promised you.
+speaker1: the time we have dreamed of is at hand. the time... of conquest.
+speaker1: cut off the dragon's head and it cannot strike back.
+speaker2: how many warbirds will you need?
+speaker1: none.
+speaker2: praetor. you have the whole fleet at your disposal. they supported the coup, they'll follow you.
+speaker1: the scimitar will serve my needs.
+speaker2: but surely --
+speaker1: i came this far alone... we came this far alone. we require no assistance from the fleet. now leave me to my thoughts.
+speaker1: are we prepared?
+speaker4: yes, praetor.
+speaker1: so many years for this moment. bring him to me.
+
+speaker1: i won't do it. 
+speaker2: it's tradition,worf. you of all people should appreciate that! besides, i've already seen it.
+speaker1: a warrior does not appear without his clothing. it leaves him...
+speaker3: i don't think we're going to see much combat on betazed.
+speaker2: don't be too sure. mother will be there.
+speaker1: i won't do it.
+speaker4: won't do what, mister worf?
+speaker1: captain. i think it is inappropriate for a starfleet officer to appear... ... naked.
+speaker4: come now, a big, strapping fellow like you? what are you afraid of?
+speaker1: i'm picking up an unusual electromagnetic signature from the kolarin system.
+speaker4: what sort of signature?
+speaker1: positronic.
+
+speaker1: it's very faint but i've isolated it to the third planet in the kolarin system. 
+speaker2: what do we know about the planet?
+speaker1: uncharted. we'll have to get closer for a more detailed scan.
+speaker2: theories?
+speaker3: since positronic signatures have only been known to emanate from androids such as myself, it is logical to theorize that there is an android such as myself on kolarus iii.
+speaker1: how many of you did dr. soong make?
+speaker3: i thought only me, myself and lore.
+speaker4: diverting to the kolarin system takes us awfully close to the romulan neutral zone.
+speaker2: still well on our side...
+speaker2: i think it's worth a look. don't worry, number one, we'll get you to betazed with time to spare.
+speaker4: thank you, sir...
+speaker2: where we will all honor the betazoid traditions. no cold feet, or any other parts of our anatomy. now, if you'll excuse me. i'll be in the gym.
+speaker4: mister branson, set course for the kolarin system. warp five -- -- warp seven.
+speaker5: plotted and laid in, sir.
+speaker4: engage.
+speaker6: you better believe you're engaged!
+speaker1: what do you think, data, a long- lost relative?
+
+speaker1: i read six distinct positronic signatures, spread out over a few kilometers on the surface. 
+speaker2: what do we know about the population?
+speaker3: isolated pockets of humanoids. it appears to be a pre-warp civilization at an early stage of industrial development.
+speaker1: captain, i don't recommend transporting, that ion storm doesn't look very neighborly. it could head this way without much warning.
+speaker2: understood. data, worf, you're with me.
+speaker4: captain, i hope i don't have to remind you --
+speaker2: i appreciate your concern, number one, but i've been itching to try out the argo.
+speaker4: sir --
+speaker2: captain's prerogative, will. there's no foreseeable danger... and your wife would never forgive me if anything happened to you.
+speaker2: you have the bridge, mister troi! the turbolift doors slide shut.
+
+speaker1: the closest signature is two kilometers to the west... that direction, sir. 
+speaker2: thank you, data. let's see what she can do. he roars off in a cloud of dust!
+speaker1: i will always be baffled by the human predilection for piloting vehicles at unsafe velocities.
+speaker1: over that rise, sir... half a kilometer.
+speaker1: it appears to be... ... an arm.
+speaker3: why is it moving?
+speaker1: like me, it has been designed with modular power sources.
+speaker2: mister worf, if you please.
+speaker1: the next signature is one kilometer to the south. picard starts the jeep in motion.
+
+speaker1: the final signature is approximately 300 meters up that incline. 
+speaker2: mister worf, accompany data please.
+speaker3: to find the head, sir?
+speaker2: if you don't mind.
+
+speaker1: ten meters... 
+speaker1: i think it unlikely you will need your phaser to recover the cranial unit. of course, it could bite you. then they see it.
+speaker2: it's you.
+speaker1: the resemblance is... striking.
+speaker3: why am i looking at me?
+speaker1: you are not looking at yourself.
+speaker3: you do not look like me.
+speaker2: no.
+speaker1: i would like to pick you up now.
+speaker3: you have a pretty shirt.
+speaker2: thank you.
+speaker1: fascinating...
+speaker3: i have two arms and ten fingers. do you know where my arms are? i cannot see where we are going. where are we going?
+speaker1: commander!
+
+speaker1: if you wouldn't mind. 
+speaker2: thank you.
+speaker3: you have a shiny head.
+speaker2: he is very observant.
+speaker4: i can see that.
+speaker1: captain!
+speaker3: you have a red shirt.
+speaker2: this is not an appropriate time for a conversation.
+speaker3: why?
+speaker2: because the captain has to concentrate on piloting the vehicle.
+speaker3: why?
+speaker4: data!
+speaker2: sorry, sir.
+speaker4: mister data. let's make like the wind.
+
+speaker1: i think you have nicer eyes. 
+speaker2: our eyes are identical, doctor.
+speaker3: geordi?
+speaker4: well, he seems to have the same internal mechanics as data but not as much positronic development. the neural pathways aren't nearly as sophisticated. i'd say he's a prototype. something dr. soong created before data.
+speaker2: do you have a name, sir?
+speaker5: i am the b-9.
+speaker6: be-nign. dr. soong's penchant for whimsical names seems to have no end.
+speaker5: you have a fuzzy face.
+speaker6: keep me informed, number one, and, please, put him back together.
+speaker2: can you tell me how you came to be on the planet where we found you?
+speaker7: i was taken from my homeworld by people called the "pakjeds." they are fat. they traded me to a ship belonging to the "bolians." the "bolians" are blue. they put me in a seat and asked me questions. then they were attacked by another ship... time passes... and still the b-9 is yammering blandly away. he is more fully assembled by this time beverly is thoroughly bored.
+speaker7: then people called the delviciansans picked me up. they have long teeth. they asked if i do anything to help them. i told them i could do whatever they wanted. they asked me to clean out the matrix manifolds. i told them i did not know what an matrix manifold looks like.
+speaker1: excuse me. i have some diagnostics to run on some medical scanner things.
+speaker7: and after they showed me the "engine manifolds." then they showed me something called a "plasma mop" time passes...
+speaker7: ... then the "cardassians" put me into something called a "garbage chute" and i went out into space again --
+speaker8: worf to commander riker. i have the tactical manifests ready, sir.
+speaker3: worf! wonderful! i'll be right there!... duty calls, gentlemen. carry on.
+speaker7: fuzzy face is gone.
+speaker2: yes, please continue.
+speaker7: i was in space for a long time. then a ship belonging to the "talosians" picked me up. they asked me where i came from. i told them people called the "pakleds" took me from my homeworld. they are fat... geordi groans. time passes...
+speaker7: then i opened my eyes and saw you.
+speaker2: do you know who i am?
+speaker7: you are me.
+speaker2: no. my name is data... i am your brother.
+speaker9: ... and after the ceremony on betazed, three entire weeks for our honeymoon.
+speaker3: we're going sailing on the opal sea. we've booked an old-fashioned solar catamaran. just us and the sun and the waves.
+speaker8: it seems a very... soft honeymoon.
+speaker9: it's meant to be relaxing.
+speaker8: a klingon honeymoon begins with the kholamar desert march where the couple bonds in endurance trials. if they survive the challenge they move on to the fire caves of fek'lhr to face the demons of gre'thor.
+speaker3: well, that sounds relaxing too.
+speaker8: it is... invigorating.
+speaker3: so they've got him up and running.
+speaker8: he's a very unusual android
+speaker6: earl grey, hot.
+speaker6: come. counselor.
+speaker9: do you have a moment, sir?
+speaker6: of course, sit down. he sits at his desk she sits across from him.
+speaker9: it's about data i've watched him with the b-9 and i'm troubled. data's desire for a "family" is very strong. i'm afraid he may be investing too much in the b-9.
+speaker6: you're speaking of emotional investment?
+speaker9: the b-9 is like a slow child, sir. and data, in his own way, has assumed the position of a parent or guardian. i'm afraid he has expectations based on his own experiences. he'll be disappointed when the b-9 cannot meet those expectations.
+speaker6: as much as we care for him, deanna... we have to remember that data isn't capable of disappointment.
+speaker9: i don't believe that, sir. we've shared many disappointing journeys.
+speaker6: i'm going to miss you.
+speaker9: and i you.
+speaker3: captain, you have an alpha priority communication from starfleet command.
+speaker6: acknowledged... ... i'll talk to data
+speaker9: thank you, sir.
+speaker6: admiral janeway. good to see you.
+speaker10: jean luc... how'd you like a trip to romulus? all expenses paid?
+speaker6: with or without the rest of the fleet?
+speaker10: a diplomatic mission. we've been invited, believe it or not. seems there's been some kind of internal political shakeup. the new praetor, someone called shinzon, has requested a federation envoy.
+speaker6: new praetor?
+speaker10: there's more... as always. he's reman. believe me, we don't understand it either. you're the closest ship so i want you to high tail it over there and hear what he has to say. get the lay of the land, if the empire becomes unstable, it could mean trouble for the entire quadrant.
+speaker6: understood.
+speaker10: we're sending you all the intelligence we have, but it's not much. i don't need to tell you to watch your back, jean luc.
+speaker6: not with the romulans.
+speaker10: the son'a, the borg, the romulans, the evil soran and that pesky nexus. you seem to get all the easy assignments!
+speaker6: just lucky, admiral.
+speaker10: let's hope that luck holds. janeway out. the transmission ends.
+speaker6: lay in a new course... take us to romulus. warp eight.
+speaker11: aye aye, sir. course plotted and laid in...
+speaker3: romulus?
+speaker6: i'm afraid the opal sea will have to wait, number one... engage.
+
+speaker1: as you can see the habitable half of remus is always in darkness because, like mercury, one side always faces the sun. due to the extreme temperatures on that half of their world, the remans live on the dark side of the planet. 
+speaker1: almost nothing is known about the reman homeworld, although intelligence scans have proven the existence of dilithium mining and heavy weapons construction.
+speaker1: the remans themselves are considered an undesirable caste in the hierarchy of the empire.
+speaker2: but they also have the reputation of being formidable warriors. in the dominion war, reman forces were used as assault troops in the most violent encounters.
+speaker3: cannon fodder.
+speaker4: then how did a reman get to be praetor? i don't get it.
+speaker2: we have to assume he had romulan collaborators.
+speaker3: a coup d'etat?
+speaker2: the praetor's power has always been the romulan fleet. they must be behind him.
+speaker3: what have you learned about shinzon?
+speaker1: starfleet intelligence was only able to provide a partial account of his military record. we can infer he is relatively young and a capable commander. he fought seventeen major engagements in the war. all successful. beyond that, we know nothing.
+speaker3: well... it seems we're truly sailing into the unknown. keep at it. anything you can give me would be appreciated. dismissed.
+speaker1: at present he serves no useful function. dr. soong created us to become active and useful members of society. i do not believe he would have wanted the b-9 to live out his life in his present state.
+speaker4: i can't believe the captain went along with a memory download.
+speaker1: captain picard agrees that the b-9 was probably designed with the same self-actualization parameters as myself. if my memory engrams are successfully integrated into his positronic matrix, he should have all my abilities.
+speaker4: he'd have all your memories too.
+speaker1: i feel nothing, geordi. it is my belief that with my memory engrams he will be able to function as a more complete individual.
+speaker4: an individual more like you, you mean.
+speaker1: yes.
+speaker4: maybe he's not supposed to be like you. maybe he's supposed to be just like he is.
+speaker4: okay... we're done.
+speaker1: do you know where you are?
+speaker5: i am in a room with lights.
+speaker1: can you remember our father?
+speaker5: no.
+speaker1: do you know the name of the captain of this vessel?
+speaker5: no.
+speaker1: is that your final answer?
+speaker4: do you know my name?
+speaker5: you have a soft voice.
+speaker4: data, he's assimilating a lot of programming. remember, he's a prototype, a lot less sophisticated than you are. we just don't know if his matrix will be able to adapt. or if he'll be able to retain anything. we should give him some time.
+speaker1: what purpose does this serve?
+speaker4: it seems to be a redundant memory port. maybe it's for provisional memory storage in case his neural pathways overload?
+speaker1: dr. soong must have found it unnecessary in later versions.
+speaker4: it's possible the extra memory port is interfering with the engram processing. mind if i keep him here and run some diagnostics?
+speaker1: no, i do not mind. data looks at the b-9 with a sort of sadness.
+speaker1: but i believe he will prove incapable of performing higher functions.
+speaker4: don't give up hope, data. i know, i know, you're not capable of hope.
+speaker1: i am not.
+speaker1: no, remain with commander la forge. he is going to try to make you well.
+
+speaker1: captain's log. stardate 47844.9. the enterprise has arrived at romulus and is waiting at the designated coordinates. all our hails have gone unanswered. we've been waiting for seventeen hours. 
+speaker2: why don't they answer our hails?
+speaker1: it's an old psychological strategy, number one. to put him in a position of dominance and make us uneasy.
+speaker2: it's working.
+speaker1: counselor?
+speaker3: they're out there, sir.
+speaker4: sir, i recommend we raise shields.
+speaker1: not yet, mister worf.
+speaker2: captain, with all due respect to diplomatic protocols -- the federation council's not sitting out here, we are.
+speaker1: patience. diplomacy is a very exacting occupation. we can wait.
+speaker5: captain... and on the viewscreen.
+
+speaker1: my 
+speaker2: should i raise shields?
+speaker3: no!
+speaker2: captain -- !
+speaker3: tactical analysis, mister worf.
+speaker2: fifty-two disruptor banks, twenty- seven photon torpedo bays, primary and secondary phased shields.
+speaker1: she's not out for a pleasure cruise.
+speaker3: she's a predator.
+speaker2: we're being hailed.
+speaker3: on screen.
+speaker4: enterprise. we are the reman warbird scimitar.
+speaker3: praetor shinzon, i'm pleased to --
+speaker4: i am not shinzon. i am his viceroy. we are sending transport coordinates.
+speaker1: not very chatty.
+speaker3: away team. transporter room four.
+
+speaker1: i hope you'll forgive the darkness... we're not comfortable in the light. 
+speaker2: praetor shinzon?
+speaker1: captain picard... jean luc picard... i don't mean to stare, it's just -- well, you can't imagine how long i've been waiting for this moment. i always imagined you taller, isn't that odd? you may scan me without subterfuge, commander data.
+speaker2: and you're not as we imagined you.
+speaker1: no?
+speaker3: you are human.
+speaker1: commander worf. i greet you as a valiant warrior...
+speaker3: i'll save my greetings for a better brother.
+speaker2: why have you asked for our presence here?
+speaker2: praetor?
+speaker1: i've never met a human woman.
+speaker4: i'm only half human.
+speaker1: deanna troi of betazed. empathic and telepathic abilities, ship's counselor. all of this i knew... but i didn't know you were so beautiful.
+speaker5: you seem very familiar with our personnel.
+speaker1: i am, commander riker... ... may i touch your hair?
+speaker2: praetor, we've come to romulus on a matter we were -- assured was of great importance. if you have anything to say to us as representatives of the federation, i suggest you do so now. shinzon continues to stare at deanna. it is strangely seductive. almost disquieting in its intensity. deanna handles it with grace, her level gaze never leaving his.
+speaker1: on the world i come from there's no light. no sun. beauty isn't important. i see now there's a world elsewhere.
+speaker2: praetor shinzon. we're not here to discuss your lack of a social life.
+speaker1: yes, i'm sorry, captain. there's so much we have to talk about.
+speaker2: i would be interested to know what we are talking about.
+speaker1: unity, captain! tearing down the walls between us to recognize we are one people. federation and romulan. human and vulcan and klingon and reman. i'm speaking of the thing that makes us the same. we want peace.
+speaker1: i want to end the centuries of mistrust. i want to be your ally, not your enemy. as a first step i propose we eliminate the neutral zone and begin a free and open exchange of goods and ideas.
+speaker2: and the senate supports you?
+speaker1: i have dissolved the senate.
+speaker1: right now, you're thinking this all sounds too good to be true?
+speaker2: yes.
+speaker1: and you're wondering why the scimitar is so well armed. is this the ship of a peacemaker? or a predator? ... but you're also thinking the chance for peace is too promising to ignore. above all, you're trying to decide if you can trust me.
+speaker2: yes.
+speaker1: then perhaps the time has come to add some illumination to our discussion. computer, raise lighting four levels. lights shoot up around the room.
+speaker1: allow me to tell you a story that i hope will clarify my position. when i was very young i was stricken with an odd disease. i developed a hyper-sensitivity to sound. the slightest whisper caused me agony...
+speaker1: no one knew what to do. finally i was taken to a doctor who had some experience with terran illnesses and i was finally diagnosed with shalaft's syndrome. do you know of it, captain?
+speaker2: you know i do.
+speaker1: then you know it's a very rare syndrome. genetic. all the male members of my family had it. eventually i was treated. now i can hear as well as you can, captain.
+speaker1: i can see as well as you can. i can feel everything you feel. in fact, i feel exactly what you feel. don't i, jean luc?
+speaker1: do you trust me now?
+speaker2: we need to talk, just you and i.
+speaker1: come to dinner on romulus tomorrow. just the two of us. or just the one of us.
+speaker2: you know i need to verify this.
+speaker1: i know.
+speaker1: tomorrow then, captain. we have so much to discuss.
+speaker2: picard to enterprise. five to beam out.
+
+speaker1: there's no doubt, captain. right down to your regressive strain of shalaft's syndrome. he's a clone. 
+speaker2: when was he... created?
+speaker1: about twenty-five years ago. they probably used a hair follicle or skin cell.
+speaker2: i think a skin cell's the more likely of the two.
+speaker3: why?
+speaker2: believe me, number one; i'm going to find out. contact starfleet command and inform them of the situation. i need to know where the he came from. deanna.
+
+speaker1: i would say he's been trained to resist telepathy. what i could sense of his emotions were erratic, very hard to follow. 
+speaker2: is he sincere about wanting peace?
+speaker1: i don't know. sir, the strongest sense i had was that he's more than curious about you. he very much wants to know you. the same way you want to know him.
+speaker2: how could i not?
+speaker1: captain, don't assume he's anything like you are. you should resist the urge to think you know him.
+speaker2: i not only know him, deanna, i am him... and he is me!
+
+speaker1: will, you need to rest. as ship's counselor, i'm recommending you get me sleep. 
+speaker2: some honeymoon.
+speaker1: we have time. come to bed.
+speaker2: imzadi, what am i going to do with you?
+speaker3: imzadi. this is so good.
+speaker1: no!
+speaker3: he can never know you as i know you... he can never touch you as i touch you.
+speaker1: this isn't real.
+speaker3: can you feel my hands... are they real? can you feel my lips, my loins?
+speaker3: i'm with you, imzadi...
+speaker3: i'll always be with you now. now and forever...
+speaker1: you sick bastard!
+speaker2: deanna?! what's with the name calling?
+
+speaker1: ... then i don't understand the reason for the delay! 
+speaker2: you don't have to understand.
+speaker1: and bringing the enterprise here?! what possible purpose could that serve?!
+speaker2: i have a purpose.
+speaker1: then perhaps you will enlighten us?
+speaker2: silence, romulan!
+speaker2: you must learn patience, commander. do you know where i learned it? in the dilithium mines of remus. spend eighteen hours every day under the lash of a romulan guard's whip and you'll soon understand patience.
+speaker1: praetor.
+speaker2: now go. i have some personal business. suran and the others go.
+
+speaker1: and when i was ready they were going to replace you with me, an exact biological duplicate. put a romulan agent at the heart of starfleet to influence your command structure. it was a bold plan. 
+speaker2: what happened?
+speaker1: as happens so frequently here on romulus, a new government came to power. they decided to abandon the plan -- frankly, i think they were afraid i'd be discovered and it would lead to war. they weren't ready for that.
+speaker1: romulan ale -- i'm surprised. i can't stand it.
+speaker2: you'll acquire a taste for it.
+speaker1: it's not quite the face you remember.
+speaker2: not quite. i envy the hairline.
+speaker1: a lifetime of violence will do that. my nose was broken four times. and my jaw... but so much is the same. the eyes, you recognize the eyes.
+speaker2: yes. the eyes have it.
+speaker1: our eyes reflect our lives, don't they? yours are so confident.
+speaker2: how did you end up on remus?
+speaker1: they sent me there to die. how could a mere human survive the dilithium mines? it was... ... i was a slave. and a monster. the only thing the romulan guards hated more than the remans was me. but one man took pity on me: the man who became my viceroy. he taught me how to survive. and in that dark place, where there was nothing of myself, i found my reman brothers. they showed me the only kindness i ever knew.
+speaker1: for thousands of years the romulan senate has met in this chamber and dictated the fate of its sister- planet... but the time has come for us to live as equals.
+speaker2: you're doing this to liberate the remans?
+speaker1: no race should be a slave to another.
+speaker1: you don't trust me.
+speaker2: i have no reason to.
+speaker1: of course you do. if you had lived my life and experienced the suffering of my people... you'd be sitting where i am now. at least i hope you would.
+speaker2: and if you had lived my life you would understand that there is a great responsibility in representing the federation. i can't let my personal feelings unduly influence my decisions.
+speaker1: all i have is my personal feelings. i wasn't raised with the ideals of the federation. but i'm trying to understand them now. to live up to them to live up to you.
+speaker1: i want to know where i come from. the remans gave me a future. you can tell me about my past.
+speaker2: there's so much, and so much of it is dull...
+speaker1: were we always explorers? plcard no. i was the first picard to leave earth. it caused quite a stir, in fact. but i had spent my whole life...
+speaker1: looking up at the stars.
+speaker2: yes.
+speaker1: and you dreamed about what was up there. about...
+speaker2: new worlds. a beat.
+speaker2: after you, praetor.
+speaker1: age before rank, jean luc.
+speaker2: so i'm not as tall as you expected?
+speaker1: i always hoped i would hit two meters.
+speaker2: with a full head of hair.
+speaker1: there is that.
+speaker2: shinzon... i'm trying to believe you.
+speaker1: i know.
+speaker2: if there's one ideal the federation holds most dear it's that all men, all races, can be united. from the first time the vulcans came to earth we've sought a future of peace. nothing would make me more proud than to take your hand in friendship. in time. when trust has been earned.
+speaker1: i'm honored to think i might someday speak with such eloquence.
+speaker1: in time, jean luc.
+speaker2: in time.
+
+speaker1: this is a mistake. 
+speaker2: he's gentler than i thought. and he has a sense of humor.
+speaker1: don't forget our mission, shinzon. we should act. now. time is running out.
+speaker2: my time. i'll spend it how i choose.
+speaker2: we'll return to the scimitar.
+
+speaker1: sir, we've had an unauthorized access into the main computer. 
+speaker2: who was it?
+speaker3: it's going to take some time to find out -- the data stream was rerouted through substations all over the ship.
+speaker2: what programs were accessed?
+speaker3: that's what i don't get -- it's mostly basic stellar cartography: star charts; communications protocols; some uplinks from colony tracking stations. it's not even restricted material.
+speaker2: set up a security program to detect any unusual data stream rerouting. if it happens again, we want to be ready.
+speaker3: there's something else. i was reviewing the sensor logs... when the scimitar decloaked there was a momentary spike in the tertiary em band -- there -- you're not going to believe this but it's thalaron.
+
+speaker1: ... i thought thalaron radiation was theoretical. 
+speaker2: which is why our initial scans didn't pick it up. but he's got it, captain.
+speaker1: as i remember, thalaron research was banned in the federation because of its bioqenic properties.
+speaker3: it has the ability to consume organic material at the subatomic level. i can't overestimate the danger of thalaron radiation, jean luc. a microscopic amount could kill every living thing on this ship in a matter of seconds.
+speaker1: understood. keep on it. i need to know what he has and how to neutralize any threat. give me options.
+speaker4: doctor, will you excuse us for a moment? geordi, please come with me.
+
+speaker1: come... ... beverly, come in. 
+speaker2: you're working late.
+speaker1: remember him?
+speaker2: he was a bit proud as i recall.
+speaker1: he was a fool. selfish and ambitious. very much in need of seasoning.
+speaker2: he turned out all right.
+speaker1: i so wanted to believe shinzon. but the thalaron radiation can't be explained away. whatever he's after, it's not peace.
+speaker2: is he very much like you were?
+speaker1: yes.
+speaker3: data to captain picard. geordi and i have identified the source of the unauthorized computer access. and, i believe, we have also discovered an opportunity to gain a tactical advantage.
+speaker1: on my way...
+speaker2: jean luc -- whatever you were -- right now you're the man you've made yourself. he's someone else.
+speaker1: i wish i could believe that, doctor.
+
+speaker1: imzadi... 
+speaker2: you're not here.
+speaker1: very logical, deanna... but your heart doesn't constrain itself to mere logic. ... your heart longs to discover me. to know me... ... to leave all of this behind and be with me. he pushes her against the wall, with passion and almost violence.
+speaker2: no...
+speaker1: i can feel your desire, deanna...
+speaker1: i can feel your hunger to know the reman ways... the old ways. then the world changes again...
+speaker1: don't fear what you desire... she forces him away from her and --
+
+speaker1: the bond is broken. 
+speaker2: find her again.
+speaker1: no -- this is wasting time.
+speaker2: do as i tell you!
+speaker3: praetor, we've received the transponder signal.
+speaker2: on my way.
+speaker1: it's accelerating. you have no more time for games.
+speaker2: have the doctors prepare. i'll be on the bridge.
+speaker2: transport.
+speaker2: welcome home. begin the download.
+speaker2: tea, hot.
+
+speaker1: aside from slightly elevated adrenalin and serotonin levels, you're completely normal. 
+speaker2: can you describe it, deanna?
+speaker3: it was... a violation.
+speaker3: shinzon's viceroy seems to have the ability to reach into my thoughts. i've become a liability... i request to be relieved of my duties.
+speaker2: permission denied. if you can possibly endure any more of these assaults. i need you at my side. now more than ever i...
+speaker4: worf! raise shields !
+
+speaker1: hello, jean luc. 
+speaker2: why am i here?
+speaker1: i was lonely... perhaps i'm not aging as well as you did.
+speaker2: what are you doing?
+speaker1: i need a sample of your blood. what do your borg friends say? resistance is futile.
+speaker1: yes. the bait you couldn't refuse. i learned there might be an existing prototype from a cardassian historian, then went to a great deal of trouble to find it and scatter it about on kolarus iii. i knew it would pique your curiosity and conveniently make the enterprise the closest ship to romulus when i contacted starfleet.
+speaker2: all of this so you could capture me?
+speaker1: don't be so vain. after we found it, we made a few modifications. an extra memory port, a hidden transponder. perhaps your eyes will be a bit less confident when you learn i've gained access to starfleet's communications protocols. i now know the location of your entire fleet... ... you may go.
+speaker3: where?
+speaker1: out of my sight.
+speaker1: maybe i'll train it to do little tricks for me like your robot does. or maybe i'll snap its ugly head off.
+speaker2: what's this all about?
+speaker1: it's about destiny, picard. about a reman outcast who --
+speaker2: you're not reman.
+speaker1: and i'm not quite human. so what am i? what do you see? do you see a life you might have led? lost youth never to be recaptured?
+speaker2: i see a young man trying desperately to deny who he is.
+speaker1: i see an old man, set in his ways, afraid to live without a uniform to prop him up and a starfleet regulation to tell him what to do.
+speaker2: i won't defend my life to you.
+speaker1: my life is meaningless as long as you're alive. what am i while you exist? a shadow? an enigma?
+speaker2: if your issues are with me... this has nothing to do with my ship and nothing to do with the federation.
+speaker1: oh, but it does. we will no longer bow like slaves before anyone. not the romulans and not your mighty federation. we're a race bred for war. for conquest.
+speaker2: think about what you're doing, shinzon. are you ready to plunge the entire quadrant into war to satisfy your own personal demons?
+speaker1: it amazes me how little you know yourself.
+speaker2: i'm incapable of such an act, and so are you.
+speaker1: i think the facts speak for themselves. the same noble picard blood runs in our veins. had you lived my life, you'd be doing exactly as i am. look in the mirror, and see yourself.
+speaker1: consider that, captain. i can think of no greater torment for you.
+speaker2: it's a mirror for you as well... shinzon turns back to him. a beat. picard gazes at him evenly.
+speaker1: not for long, captain. i'm afraid you won't survive to witness the victory of the echo over the voice.
+
+speaker1: no response to our hails. 
+speaker2: his cloak is perfect... no tachyon emissions, no residual antiprotons.
+speaker3: keep at it, geordi. find a way in.
+speaker4: will, i need to talk to you.
+
+speaker1: i am to take the prisoner to the praetor. 
+speaker1: if you resist, i will incapacitate you.
+
+speaker1: where are you taking him? 
+speaker2: praetor shinzon wants him on the bridge.
+speaker1: so, human... you've met your better self!
+speaker3: what are you doing to counsellor troi?
+speaker1: i'm preparing her for shinzon... to sooth him as she soothes you. to stand at his side as she does at yours.
+speaker3: that will never happen.
+speaker1: listen to him, android. such a small and weak creature. yet he roars so valiantly... it would take me but an instant to tear that valiant heart from your chest.
+speaker3: there'll be another after me. and another after that. you'll find we're a resilient species.
+speaker1: i look forward to the sport. take him.
+speaker2: move.
+speaker4: sorry, sir. i thought it added a touch of reality to the performance.
+speaker4: my mission was a success, sir. i have discovered the source of the thalaron radiation.
+speaker3: good work. the download?
+speaker4: he believes he has our communications protocols. but they will give him inaccurate locations for all starfleet vessels.
+speaker4: move, puny human animal.
+speaker3: a bit less florid, data.
+speaker4: aye, sir... this way.
+
+speaker1: this entire ship is, essentially, a flying thalaron generator. all its power relays lead to that device. 
+speaker2: a weapon.
+speaker1: it would appear so.
+speaker1: geordi equipped me with the prototype for the emergency transport unit. i recommend you use it to return to the enterprise.
+speaker2: it'll only work for one of us.
+speaker1: yes, sir.
+speaker2: we'll find a way off together.
+speaker1: there is a shuttlebay 948 meters from our current location.
+speaker3: where's picard?
+
+speaker1: this way, sir! 
+speaker1: it seems to have an encrypted security system. reman warriors are closing in on them.
+speaker2: alacrity would be appreciated, commander.
+speaker1: they are trying to override the access codes. reman is really a most complex language with pictographs representing certain verb roots and --
+speaker2: while i find that fascinating, data, we really need that door open! the shuttlebay door slides open.
+
+speaker1: what do you imagine this is? 
+speaker2: port thrusters, sir. would you like me to drive?
+speaker1: can you open the shuttlebay doors?
+speaker2: affirmative, sir. negative, sir. they have instigated security overrides and erected a force field around the external portals.
+speaker1: well then... only one way to go.
+speaker2: do you think this is a wise course of action?
+speaker1: we're about to find out... power up disruptors and fire on my mark.
+speaker2: ready, captain.
+speaker1: fire!
+
+speaker1: worf! lock on transporters! 
+speaker2: tractor beam! now!
+
+speaker1: the enterprise is immaterial! they won't make it back to federation space. 
+speaker2: this has gone far enough!
+speaker1: i thought we discussed patience, commander.
+speaker2: and mine is wearing thin, young man! we supported you because you promised action. and yet you delay and you waste your time playing games with picard while --
+speaker1: commander suran, the games are over. in two days the federation will be crippled beyond repair.
+speaker2: for the moment.
+speaker1: and when i return... you and i shall have a little talk about showing proper respect!
+
+speaker1: does anyone in this room harbor any illusions about what he means by "showing proper respect"? 
+speaker2: what's happening to his face?
+speaker3: i want opinions. he is clearly out of his mind.
+speaker3: but can he complete his mission?
+speaker1: should he?
+speaker1: are you prepared to have your hands drenched in blood? he'll show them no mercy. and his sins will mark us all for generations. is that what you truly want, romulans?
+speaker1: i think you should consider that question now -- or else you may have a lifetime to think about it in the dilithium mines.
+speaker4: the more i studied his dna the more confusing it got. finally i could only come to one conclusion... shinzon was created with temporal rna sequencing. he was designed so that at a certain point his aging process could be accelerated to reach your age more quickly, so he could replace you.
+speaker5: but the romulans abandoned the plan...
+speaker4: as a result the temporal sequencing was never activated. remember, he was supposed to replace you at nearly your current age. he was engineered to skip thirty years of life. but since the rna sequencing was never activated, his cellular structure has started to break down. he's dying.
+speaker5: dying?
+speaker6: he wasn't designed to live a complete, human life span. plcard can anything be done for him?
+speaker4: not without a complete myelodysplastic infusion from the only donor with compatible dna. but that would mean draining all your blood.
+speaker6: that's why he went to all that trouble to capture you. plcard how long does he have?
+speaker4: i can't be sure but the rate of decay seems to be accelerating.
+speaker5: then he'll come for me as a donor.
+speaker7: brother. i cannot move.
+speaker8: no, i have only activated your cognitive and communication subroutines.
+speaker7: why?
+speaker8: because you are dangerous.
+speaker7: why?
+speaker8: you have been programmed to gather information that can be used against this ship.
+speaker7: i do not understand.
+speaker8: i know.
+speaker8: do you know anything about shinzon's plans against the federation?
+speaker7: no.
+speaker8: do you have any knowledge of the tactical abilities of his ship?
+speaker7: no. can i move now?
+speaker8: no. i must deactivate you.
+speaker7: for how long?
+speaker8: indefinitely.
+speaker7: how long is that?
+speaker8: a long time, brother.
+speaker9: it's called a cascading biogenic pulse. the unique properties of thalaron radiation allow the energy beam to expand almost without limits. depending on the radiant intensity it could encompass a ship... or a planet.
+speaker5: and that's exactly what he's going to do.
+speaker6: sir?
+speaker5: his hatred of the federation is apparent. he would have built a weapon of that scope for one reason. he is going after earth.
+speaker6: oh boy. destroy humanity and the federation is crippled...
+speaker5: and the romulans invade.
+speaker10: how can you be certain?
+speaker5: i know how he thinks.
+speaker6: and there's no way to penetrate his cloak?
+speaker9: no, sir.
+speaker6: he could pass within 10 meters of every ship in starfleet and they'd never know.
+speaker4: but we do have one advantage. he needs your blood to live. he might come after you first.
+speaker5: i'm counting on it... we've been ordered to head to sector 3274. starfleet is diverting the fleet to meet us there.
+speaker6: strength in numbers?
+speaker5: we can only hope so.
+speaker5: he can't be allowed to use that weapon. all other concerns are secondary. do you understand me?
+speaker6: yes, sir.
+speaker5: all hands. battle stations.
+
+speaker1: captain's personal log. supplemental. we're heading toward federation space at maximum warp. the crew has responded with the dedication i've come to expect of them. and like a thousand other commanders on a thousand other battlefields throughout history, i wait for the dawn. 
+speaker1: to seek out new life and new civilizations. zephyr cochran's own words. when charles darwin set out on the h.m.s. beagle, on his journey into the unknown... he sailed without a single musket.
+speaker2: that was another time.
+speaker1: how far we've come. let me know if you need anything.
+speaker2: jean luc... ... he is not you.
+speaker1: what makes us who we are, doctor? can you tell me that?
+
+speaker1: how long? 
+speaker2: a matter of hours now -- shinzon shoves him away. stands.
+speaker2: if you don't begin the procedure soon you'll never make it back to romulus. you shouldn't have delayed. you should have killed picard the moment --
+speaker1: how long until we reach the rift?
+speaker2: seven minutes.
+
+speaker1: show me our current position. 
+speaker1: how long until we reach the fleet?
+speaker2: at our current velocity we will arrive at sector 3274 in approximately 40 minutes.
+speaker1: "for now we see but through a glass darkly..." he said he's a mirror.
+speaker2: of you?
+speaker1: yes.
+speaker2: i do not agree. although you share the same genetic structure, the events of your life have created unique individual.
+speaker1: but so much is the same. on a biological level he is... and i will not accept the idea that there is nothing i can do. i have a responsibility to try to make a human connection with him.
+speaker2: he would deny a "human" connection is possible. he considers himself entirely reman.
+speaker1: he may have already rejected my humanity, but you also have a twin.
+speaker2: no, sir, it is not possible. the b-9 is physically identical to me, although his neural pathways are not as advanced. but even if they were, he would not be me.
+speaker1: how can you be sure?
+speaker2: i aspire, sir. to be better than i am. the b-9 does not. nor does shinzon.
+speaker1: we'll never know what shinzon might have been. had he stood where i did as a child? and looked up at the stars. picard's words linger in the air for a moment.
+speaker2: we are passing through the bassen rift. the projections will return when we have cleared it.
+speaker1: it's interfering with our uplink from starfleet cartography?
+speaker2: yes, sir. the rift effects all long-range communications --
+
+speaker1: target weapons systems and shields. i don't want the enterprise destroyed. 
+speaker1: can you learn to see in the dark, captain?
+
+speaker1: report. 
+speaker2: he's firing through his cloak. we can't get a lock.
+speaker3: he disabled our warp drive with his first shot. we've only got impulse.
+speaker4: long range communication is impossible as long as we're in the rift -- the ship shudders again --
+speaker1: worf, prepare a full phaser spread, zero elevation. all banks on my mark. scan for shield impacts and stand by photon torpedoes.
+speaker4: aye, sir the ship rocks again.
+speaker1: fire!
+
+speaker1: we are losing dorsal shields -- 
+speaker2: full axis rotation to port! fire all ventral phasers!
+
+speaker1: minimal damage to the scimitar. 
+speaker2: defensive pattern kirk epsilon.
+speaker3: counselor troi, report to the bridge.
+speaker2: unless we can disable his cloak we're just going to be firing in the dark. plcard agreed.
+speaker1: sir, we're being hailed.
+speaker3: on screen.
+speaker4: captain picard, will you join me in your ready room?
+
+speaker1: you can't trace my holographic emitters, captain. so don't bother. and you can't contact starfleet. we're quite alone. 
+speaker2: we are.
+speaker1: it's just the two of us now, jean luc, as it should be... your ship and mine... you and me.
+speaker2: why are you here?
+speaker1: to accept your surrender. i can clearly destroy you at any time. lower your shields and allow me to transport you to my ship.
+speaker2: and what of the enterprise?
+speaker1: i have little interest in your quaint vessel, captain. if the enterprise will withdraw to a distance of one hundred light years, it will not be harmed.
+speaker2: you know that's not possible.
+speaker1: i know... you'll all gladly die to save your home world.
+speaker2: look at me, shinzon! do you feel the blood pumping inside you? your hands, your eyes, your nature, are the same as mine. buried deep inside you beneath the years of pain and anger is a capacity you've forgotten. it's the one way our mirror can reflect the two of us exactly because it's the very thing that truly defines us. to be human is to try to make yourself better than you are.
+speaker2: i know you as well as i know myself, shinzon. there was a time you looked at the stars and dreamed of what might be.
+speaker1: long ago.
+speaker2: not so long.
+speaker1: childish dreams, captain. lost in the dilithium mines of remus. i'm what you see now.
+speaker2: i see more than what you are.
+speaker2: i see what you could be.
+speaker2: the man who is jean luc picard and shinzon of remus won't exterminate the population of an entire planet!
+speaker2: and what will he do with that life?
+speaker2: if i were to beam to your ship... let you complete your medical procedure, give you a full life... what would you do with the time?
+speaker2: you once asked me about your past. your history. when i was your age, i burned with ambition. i was very proud and my pride often hurt people. i made every wrong choice a young man can... but one thing saved me... i had a father who believed in me. who took the time to teach me a better way. you have the same father.
+speaker1: yes.
+speaker2: so if i gave you my life, what would you do with it? would you spend the years in a blaze of hatred as you are now? or could you change? could you try to remember a mother's touch you never felt? a father's words you never heard? could you do that?
+speaker1: i don't know.
+speaker2: but you want to.
+speaker2: let me tell you about our father.
+speaker1: that's your life... not mine.
+speaker2: please.
+speaker1: it's too late.
+speaker2: you can still make a choice! make the right one now!
+speaker1: i have no choices! i can't fight what i am!
+speaker1: i'll show you my true nature. your nature. and as earth dies -- remember that i'm forever shinzon of remus! and my voice will echo through time long after yours has faded to a dim memory.
+
+speaker1: disable their weapons! 
+speaker1: report!
+speaker2: two ships decloaking, sir!
+
+speaker1: believe it or not, i think the cavalry has arrived. 
+speaker2: we're being hailed.
+speaker3: on screen.
+speaker4: captain picard, commander donatra of the warbird valdore. might we be of assistance?
+speaker3: your timing is impeccable, commander.
+speaker4: the empire considers this a matter of internal security. we regret you've become involved.
+speaker3: when this is over, i owe you a drink.
+speaker4: romulan ale, captain. let's get to work. valdore out.
+
+speaker1: coordinate our attack with the valdore's tactical officer. triangulate fire on any shield impacts. 
+speaker2: aye, sir.
+speaker3: aft shields are down to forty percent.
+speaker4: keep our bow to the scimitar.
+speaker5: target the flanking warbird. all forward disruptor banks on my mark.
+
+speaker1: forward shields are down to ten percent. 
+speaker2: bring us about!
+
+speaker1: let her pursue -- drop cloak on the aft port quadrant and prepare for full emergency stop. 
+speaker2: what?!
+speaker1: you heard me.
+
+speaker1: she's almost on us. 
+speaker2: not yet.
+speaker1: praetor...
+
+speaker1: i'm afraid that drink will have to wait, captain. 
+speaker2: do you have life support?
+speaker1: for the moment. but we're dead in the water.
+speaker2: understood -- then the ship rocks --
+
+speaker1: we have lost structural integrity on decks twelve through seventeen, sections four through ten. 
+speaker2: emergency force fields are holding.
+speaker3: evacuate those decks and reroute field power to forward shields.
+speaker4: captain -- i might have a way to find them.
+speaker5: counselor?
+speaker4: the one thing he may have forgotten in the course of battle: me.
+speaker5: make it so.
+
+speaker1: prepare a lateral run -- all starboard disruptors. 
+speaker2: no!
+
+speaker1: what is it?! focus on your job!!! 
+speaker2: she is here.
+
+speaker1: captain, we have lost ventral shielding on deck twenty nine. 
+speaker2: divert power and compensate --
+speaker3: intruder alert!
+speaker4: let's go.
+speaker3: security detail to deck twenty nine.
+
+speaker1: he's getting his cloak back. we have exhausted our compliment of photon torpedoes. phaser banks are down to four percent. 
+speaker2: what if we target all phasers in a concentrated attack?
+speaker3: the scimitar's shields are still at seventy percent. it would make no difference, sir.
+speaker4: they're stopping...
+speaker1: what's he doing?
+speaker2: he wants to look me in the eye.
+
+speaker1: he thinks he knows exactly what i'm going to do... 
+speaker2: sir?
+speaker1: we've got him!
+
+speaker1: we are being hailed. 
+speaker2: deanna, stand by. open a channel.
+speaker3: i hope you're still alive, jean luc.
+speaker2: i am.
+speaker3: don't you think it's time to surrender? i'll have my cloak back in a matter of minutes and your poor ship is shot to pieces. why should the rest of your crew have to die?
+speaker2: i never told you about my first academy evaluation, did i? i received very high marks for my studies. but i was found lacking in certain other areas. personality traits, you might say. in particular i was thought to be extremely... ... over-confident.
+speaker2: geordi, put 211 power to the engines. take it from life support if you have to -- everything you can give me.
+speaker4: aye, sir.
+speaker2: deanna, on my mark.
+speaker4: ready, sir!
+speaker2: all hands, brace for impact!
+
+speaker1: data, i need you. 
+speaker1: computer. auto-destruct sequence omega. zero time delay. recognize voice pattern jean luc picard. authorization alpha alpha three zero five --
+speaker2: auto-destruct is off-line.
+speaker3: target disruptors. destroy them.
+speaker4: disruptors are off-line, sir.
+speaker3: deploy the weapon. kill everything on that ship. then set a course for earth.
+speaker4: what about picard?
+speaker3: our greater goal is more important, brother.
+speaker4: but, praetor, you won't survive without him...
+speaker3: some ideals are worth dying for, aren't they, jean luc?
+
+speaker1: how long until he can fire? 
+speaker2: the targeting sequence should take about four minutes.
+speaker3: but how can he? he'll kill you.
+speaker1: this isn't about me anymore.
+speaker1: prepare for a site-to-site transport.
+speaker2: sir, we won't be able to bring you back. it's a one way trip. captain, i don't know if the transporter --
+speaker1: that's an order, commander.
+speaker4: sir, allow me to go. you are needed here.
+speaker1: negative.
+speaker4: sir...
+speaker3: let him go.
+speaker1: you have the bridge, commander. use all available power to move away from the scimitar. now, mister la forge.
+speaker2: aye, sir.
+speaker2: that's it. transporters are down.
+speaker4: counsellor troi, please assume command. geordi, if you will come with me.
+
+speaker1: what is our approximate distance? 
+speaker2: 400 meters.
+speaker1: thank you.
+speaker1: thank you, geordi. deactivate the field.
+
+speaker1: forty-seven. forty six... 
+speaker1: twenty nine... twenty eight...
+speaker1: eighteen... seventeen...
+speaker2: i'm glad we're together now -- our destiny is complete.
+speaker1: ten...nine...
+speaker1: seven.. six...
+speaker3: goodbye.
+speaker4: sir?
+speaker5: data.
+speaker6: sir, we're being hailed.
+speaker7: on screen... ... open a channel.
+speaker8: this is commander donatra of the valdore. we're dispatching shuttles with medical personnel and supplies.
+speaker7: thank you, commander.
+speaker7: geordi... prepare the shuttlebay for arrivals. they don't know our procedures so just... open the doors.
+speaker6: i'll take care of it, sir.
+speaker7: number one. you have the bridge.
+
+speaker1: i don't know if all this has made sense to you, but i wanted you to know what kind of man he was. in his quest to be more like us, he helped show us what it means to be human. 
+speaker2: my brother was not a human.
+speaker1: no, he wasn't... but his wonder and his curiosity about every facet of human life helped all of us see the best parts of ourselves. he embraced change... because he always wanted to be more than he was.
+speaker2: i do not understand.
+speaker1: well, i hope someday you will.
+speaker3: captain, the hemingway has arrived to tow us to spacedock.
+speaker1: on my way. please notify commander riker... ... we'll talk later?
+speaker2: "blue skies, smiling at me, nothing but blue skies do i see." then the b-9 is silent.
+
+speaker1: i'm sorry you won't be here for the re-fit, but i know the titan needs you immediately. riker does not respond. 
+speaker1: the titan's a fine ship, will. and she's getting a captain worthy of her.
+speaker2: she's the most beautiful ship i've ever seen. ... but she's not the enterprise.
+speaker1: i promise you in time, she'll become your home... if i could offer you one piece of advice?
+speaker2: anything.
+speaker1: when your first officer insists that you can't go on away missions... ignore him --
+speaker2: i intend to.
+speaker2: serving with you has been an honor.
+speaker1: the honor was mine. captain riker.
+
+speaker1: so... what's the old man like? 
+speaker2: why don't you go in and find out?
+
+speaker1: you can't imagine them, jean luc. they're kids! all with advance degrees in xenobiology and out to conquer every disease in the quadrant. 
+speaker2: reminds me of a young doctor i used to know...
+speaker1: they're running me ragged. nothing but questions day and night... i love it! come to dinner and i'll tell you all about it. there's a bajoran band at the officer's mess.
+speaker2: not tonight, i have work here.
+speaker1: soon then. i'll save the last dance for you.
+speaker3: commander martin madden reporting for duty, sir.
+speaker2: welcome aboard, commander. i hope, your transfer didn't come as too much of a surprise.
+speaker3: i was... honored, sir.
+speaker2: i needed you immediately to help oversee the re-fit... ... your service record on the talos is exemplary, but there are a few things i would like to discuss with you regarding my requirements for a first officer. shall we say dinner in my quarters at 1900 hours?
+speaker3: very good, sir.
+speaker2: commander, i don't know how they did it on the talos, but we have door chimes on the enterprise. we use them.
+speaker3: yes, sir. sorry, sir.
+
+speaker1: you don't understand the captain -- there should be no changes until we have discussed the modifications with him. 
+speaker2: what's this?
+speaker1: your new chair, sir.
+speaker3: it's the mark seven, captain. state-of-the-art ergonomics...
+speaker1: i told him you're comfortable with your old chair.
+speaker2: let's give it a try.
+speaker2: feels good.
+speaker2: it's about time.
+speaker2: commander, please sit down...
+speaker2: ... we've received our first assignment. we're going to be exploring the denab system. it should be exciting. it's a place... where no one has gone before.
+

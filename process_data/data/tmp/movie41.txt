@@ -1,0 +1,976 @@
+speaker1: wow. that's hard. i'd have to say it's the day we launched outpost 
+speaker2: we hear a seattle alternative band.
+
+speaker1: gary always makes sure we've got the coolest stuff to drink. 
+speaker2: knowing your work means something.
+
+speaker1: knowing everywhere in the world, this is the software people use. 
+speaker1: 20 years ago, gary had an idea, that's all he had. and now the company's bigger than ibm.
+speaker2: it's the people. which is weird.
+
+speaker1: big companies are s'posed to be impersonal. 
+speaker1: there's this myth that doing a start- up is cooler. but there's no community with a start-up. no permanence.
+
+speaker1: it bums me out when the media say we're cultish, or whatever. why? 'cause we care about each other? 
+speaker2: 'love you too, bro.
+speaker3: i'll tell you what's not cool.
+speaker4: how gary gets this superbad rap.
+speaker4: there's this prejudice against super- smart people. people like gary.
+speaker5: a kid working in his garage can create the next outpost, the new ibm. all it takes is a great idea.
+speaker5: that's why nobody can have a monopoly in a business built on ideas.
+
+speaker1: the coolest? gary. he's like you or me. if we happened t'be insanely rich. 
+speaker2: can we go?
+speaker3: for me? it's seattle!
+speaker2: 'starting to get nauseated.
+speaker4: do you mind? larry gets up.
+speaker5: did anybody mention the beverages?
+
+speaker1: is it over? 
+speaker2: they still have to give 'em refreshments laced with mind-altering drugs.
+speaker1: you are a fanatic.
+speaker2: 'gonna wait outside.
+
+speaker1: alice? you gotta make him do the start-up with teddy and me. 
+speaker2: "make" him?
+speaker1: you know what i mean.
+
+speaker1: i'm not exactly worldly, but i'm the secretary of state next to him. 
+speaker1: and they're all throwing this -- stuff at him. stock options. pay packages.
+
+speaker1: i'm just screwed. 
+speaker2: you know what he's like. he just wants to work on stuff that's cool.
+speaker1: you don't wanna move, do you?
+speaker2: i can paint anywhere.
+speaker2: i'd like to stay here, yeah. and i kind of think he should be with teddy.
+
+speaker1: i mean, nobody else can follow what they're talking about half the time. 
+speaker2: 'could be a condition-variable in the locking code -- if it didn't seg fault, first!
+
+speaker1: maybe you shouldn't push it so hard. about outpost. no offense, you sound insane. 
+speaker2: i can't help it. i feel like they'd do anything to keep their --
+speaker1: anything? that's not even credible. if he wants to go up there? to check it out? i think you should encourage him. it's his life. but everybody's treating him like this -- valuable object. you're hurting your own case.
+
+speaker1: he's my i hear he actually calls recruits sometimes. or is that an urban legend? 
+speaker2: gary's running the biggest software company in the world, brian. he's being harassed by the justice department, and he's got a new baby.
+speaker3: milo? i'm danny.
+speaker4: oh hi.
+speaker3: gary would like to speak to you?
+speaker4: ...hello?
+speaker5: milo? gary boyd. i'm hoping you and your friend can come up here. we've made some amazing strides in digital convergence. i'd love to show them to you.
+speaker4: you would? wow. when would we come? 'think he hung up.
+
+speaker1: but how does he know that's what you guys're working on? 
+speaker2: all the companies know. the faculties tell 'em. at the target schools.
+speaker3: in exchange for endowments. they should just drop the pretense and name the schools after 'em.
+speaker4: i can't believe you refused a ticket!
+speaker5: my parents're already freaked-out i'm staying here. 50 miles from chinatown.
+speaker4: well maybe if you told 'em how much money you'd be making -- you're going up there. right?
+speaker3: i think you should go.
+speaker2: you do?
+speaker3: i mean, it's your life.
+
+speaker1: i think i kind of lost it. i was just so thrilled to be talking to the richest, most powerful... 'didn't know i even cared about that stuff. 
+speaker2: c'mon, how often do you talk to somebody who's been on the cover of time. three of four times.
+speaker1: a lot of what larry says is true. they just clone stuff, or reverse engineer it, and everybody gets stuck with their inferior version cause they --
+speaker2: then you've gotta ask him about that.
+speaker2: it's important.
+speaker1: if he's really a bully, he won't cop to it, anyway.
+speaker2: bully? are we talking about gary boyd? or your dad.
+speaker1: when i was a kid? and he was moving us all over the place? i spent all my time writing stuff on outpost 1.0. i thought gary boyd was the greatest.
+speaker2: but he's not quite the same guy anymore. don't get your hopes too high?
+
+speaker1: 'couldn't convince teddy to come? 
+speaker2: he's pretty tight with his family.
+speaker1: we could move 'em up here.
+speaker2: he just likes to write code. he's bummed there's so much secrecy and competition, everybody trying to own everything.
+speaker3: who do you mean by "everybody."
+speaker2: so -- how far are we from the campus?
+speaker3: oh we're not going to the campus.
+
+speaker1: who's that? 
+speaker2: i think they call him the "houseman." 'cause "guard" sounds too weird.
+speaker2: don't be nervous. the house is the weirdest thing about him.
+speaker3: it's like he knows everybody expects him to be this worldly, colorful zillionaire. but he's just a guy who likes software.
+
+speaker1: we tried the big vaporware number, gary, it's no-sale. 
+speaker2: can we buy into their ipo? or is that a justice dept. problem?
+speaker1: there is no public offering. the guy who wrote it joined some freakazoid cult in san luis obispo. 'wrote this just to run their web site.
+
+speaker1: milo? excuse the tie. i was on tv. 
+speaker2: ...that's okay.
+
+speaker1: cool! 
+speaker2: would you like a coke or something?
+speaker1: oh. no thanks.
+speaker2: when we started, i just hired my smart friends. that was great. we got a little bigger, i had to hire smart strangers. much harder.
+speaker2: now i don't get to hire anybody. but i know you're the guy to write skywire.
+
+speaker1: you know a lot about art, i guess. 
+speaker2: there's a rumor going around, maybe you've heard it.
+speaker2: there's more to life than computers? i'm looking into it.
+speaker2: 'once i start looking into something.
+speaker2: i've only shown this to three other people. i bought 200, we've launched 12 so far. i keep the coordinates in this room. it's left over from sdi. reagan's star wars technology? they orbit 426 miles up.
+speaker1: low enough to relay internet traffic.
+speaker2: among other things... we know convergence is the real super-highway: all the pc's, tv's, phones, etc. linked together. why cram it into a cable if you can use the whole sky?
+speaker1: skywire.
+
+speaker1: the content filer has t'be written into the media files so bits coming off the satellite can be read by multiplatforms. really, omniplatforms. including whatever new hardware emerges. 
+speaker2: it needs a more object-oriented language. this doesn't scale, does it?
+speaker1: you'd have to start practically from scratch. but this is all you'd be working on. no marketing meetings, no product seminars. we can't waste the time. half the valley's working on convergence. so're media conglomerates, cable companies, phone companies. 'can't finish second, milo. there is no second... now what would you like to ask me?
+speaker2: ...ask you?
+
+speaker1: i know what people say, and not just the justice department. we clone ideas, inflict our second-rate versions on the world, we haven't done anything original since 1.0. 
+speaker1: do i think that's fair? no. i'd put some of our apps up against anybody's. but is there some truth to it?
+speaker1: when you get to a certain age, you start wondering. about your legacy. i doubt you even remember outpost
+
+speaker1: i do! 
+speaker2: yeah? i wanna feel like i did when i wrote that. but i'm 42, that's 100 in cyber-years. i look at you and see the things that got me here. but somehow got away.
+
+speaker1: if my dad'd leveled with me like that even once... the weird thing is, my fantasy he could somehow be like the old gary? it's his fantasy, too. 
+speaker2: i think that's great, milo. i do.
+speaker1: ...but?
+speaker2: didn't you visit the campus?
+speaker1: i forgot. that's why you have to help me decide.
+speaker2: no way. you have this -- destiny.
+speaker1: c'mon, i wouldn't have a destiny without you. my destiny would be dying at 20. from eating --
+speaker2: don't bring that up. like a different girlfriend would'd've let you die?
+speaker1: you saved my life in alot of ways.
+speaker2: it's not just gary that makes you wanna go there? 'cause it's a big place. you might not even see him again.
+speaker1: i know.
+
+speaker1: when's brian coming for the tv? 
+speaker2: prob'ly waiting by the phone for outpost to call. we'll leave it for him?
+speaker2: 'give you guys some time alone.
+speaker1: ...you got my e-mail?
+speaker3: and your phone messages. you wanna do what you do, it's not a crime.
+speaker1: is that how larry feels?
+speaker3: uh. not exactly.
+speaker1: wanted to say goodbye to him...
+speaker3: hey, we got seed money for the startup! a million-five!
+speaker3: we rented a loft in sunnyvale. you know what's the bad part? we can't talk about work anymore. we're competitors! the venture capitalists made us sign like 100 confidentiality forms.
+speaker1: outpost made me sign 1,000. 'guess we'll find out what else we have to talk about. life stuff.
+speaker1: guess what? they got their --
+speaker2: milo, this is mr. barton from the justice department. sorry about the glass.
+speaker4: don't worry, milo. i'm here as a friend. or maybe a supplicant.
+speaker1: right... what's that mean again?
+speaker4: beggar. we're at a disadvantage with outpost. our experts aren't as smart as theirs. sometimes we can't tell which technologies pose the threat of a monopoly. we need a really smart guy to help us pick our fights. i'm taking a shot in the dark, here. i can offer you 32,000 a year, a buick. i'm hoping you've got a feeling it's the right thing to do.
+speaker1: it's just -- i kind of feel the need to do something with my ability. create something...
+speaker4: like i said: shot in the dark.
+speaker4: if you see something there that rubs you the wrong way? do the right thing.
+speaker1: that took some fun out of --
+speaker2: we're not gonna let it.
+speaker5: -- ingested the fatal mixture of sedatives crushed in apple sauce. according to the cult's eerily professional website, it was "time to move on..."
+
+speaker1: there're 20 buildings, i mean not counting the gyms, the day care, etc. 
+speaker1: gary's put millions in there. and the people with kids? they're not hotshot geeks, they're just payroll clerks or whatever.
+speaker1: you'll see alot of that: department of justice goons snooping around.
+
+speaker1: so how'd you like the house? 
+speaker2: his snapples were in alphabetical order.
+speaker1: well, he micro-managed the company till it got too big... 'guess he needs to micro-manage something.
+
+speaker1: everybody has the same office, there's no dumbass corporate hierarchy. 
+speaker2: get out while you can, dude!
+speaker1: desi, milo.
+speaker2: the guy who was at gary's house?
+speaker1: best bomb shelters in america, accessible from every building. you gotta figure we're a major target, right?
+
+speaker1: whoa. lisa actually looked at you. 
+speaker1: every geek here's got a thing for lisa. but that's about the biggest reaction she's had to anybody.
+speaker2: she's a programmer?
+speaker1: heavy graphical background, doing design-interface for skywire apps. you'll be working with her.
+speaker2: i've got a girlfriend, remember?
+speaker1: right. that's rare around here. you know how nuns' re-married to jesus? 'posties are married to outpost.
+
+speaker1: here's your world. copy of gary's book, also the audio version, narrated by gary. 
+speaker2: the card's encoded. tells us who came through the door and when.
+
+speaker1: unauthorized entries sound like this. 
+speaker1: if you see a tailgater, report him.
+speaker2: tailgater?
+speaker1: somebody coming in on your swipe.
+speaker3: you see somebody wandering around without id, it's your duty to challenge him. i don't give a if you're a stock-option billionaire. if you don't challenge, i'll have your
+
+speaker1: he seems a little -- tense. 
+speaker2: geeks pull his chain cause he's non- tech. ex-cop or something. they moon cameras, or use atm's as swipe cards. the cameras're our real security so he's a little demoralized.
+
+speaker1: what're they building? 
+speaker2: 21. way behind schedule. it's top- secret, but everybody knows it's a digital broadcast space. they see the dishes on top, the fiber optics going in.
+speaker1: gary's not into fiber optics. he's betting everything on the satellites.
+speaker2: you wanna survive in the software business, you cover your bets... i gotta say, this is the weirdest car anybody ever requested.
+speaker2: oh, right. your girlfriend's an artist.
+
+speaker1: i phoned her at your hotel, told her about our corporate housing options. she sounds neat. 
+speaker2: ...she is. she is!
+speaker1: 'might be some friction on the domestic front. you're expected you to put in ridiculous hours. people've accused us of breaking up relationships to get their undivided attention.
+
+speaker1: busy? 
+speaker2: no! just waiting for my counselor to come by and introduce himself.
+speaker3: okay. i'm gary.
+speaker3: 'think i should buy some originals?
+speaker2: ...do i?
+speaker3: somebody said i'm just another philistine. with reproductions.
+speaker2: that's insane. you're ahead of your time.
+speaker3: that's what i told her. my wife.
+speaker3: 'thinks i'll be less of a control freak if i have a hobby. 'just gives me something else to obsess about...
+speaker3: anything we can salvage from the old code before you start fresh?
+speaker2: uh, might be one or two things.
+
+speaker1: he's been in there like an hour. 
+speaker2: 
+
+speaker1: could work with a new switch. there may be a few more things hidden. 
+speaker2: don't spend too much time searching. you ever vetted somebody's old code before? it's a different skill. stay close to the surface. the best-hidden secrets are in plain sight. you know the best place to hide a leaf, right? in a tree.
+
+speaker1: you know he's never been anybody's counselor before? 
+speaker2: milo! what about --?
+speaker1: oh, it's great. it's great! 'think i should tell him i learned everything using 1.0? maybe i could show him one of my early programs.
+
+speaker1: "infotek's urgent need to license outpost office is such that we can use it as a tool in the current negotiation." when you wrote the word "tool," what'd you mean by it? 
+speaker2: i don't remember.
+speaker1: what d'you think you meant by it?
+speaker2: i'm confused. am i supposed to speculate under oath?
+speaker3: since you didn't have an answer to that question, mr. boyd --
+speaker1: did you wanna take a break, mr. boyd?
+
+speaker1: your protege's moving so fast we can barely keep up with him. 
+speaker2: this is good. who did it?
+speaker1: 'start-up not 50 miles from here. kid's on prozac.
+speaker2: maybe we should all get on it.
+
+speaker1: how's it going? 
+speaker2: maybe i'm going too fast.
+speaker1: too fast? at least four companies're on the verge of workable convergence systems, milo, they --
+speaker1: even when i had a hand in every aspect of the company i knew the one thing you can never control is somebody's creative process.
+speaker2: it's okay. really.
+speaker1: take a look at this. slightly different approach.
+speaker2: you did this -- overnight?
+speaker1: you're making me young again.
+
+speaker1: ...a graduate of mit, he was on the antidepressant prozac, and had been warned not to drink and drive. lisa watches the news report, knowingly. 
+speaker2: milo?
+speaker3: lisa.
+speaker2: you know my name.
+speaker3: you know mine.
+speaker2: you're famous around here.
+speaker3: i'm getting a teacher's pet rep.
+speaker2: i wouldn't worry about it. you've gotta figure most people around here were their teachers' pets.
+speaker3: ...were you?
+speaker2: we moved around so much i barely knew my teachers.
+speaker3: me too! were you an army brat or something?
+speaker2: ...something like that. yeah.
+speaker3: didn't mean to pry. i just have this theory. some of us who got to good at this? we were -- escaping something.
+speaker3: did i say something?
+speaker2: no, i know what you mean. i used to spend my life wishing people could be like computers. least they make sense. sometimes you think they've betrayed you. like a person would. but then you see, no, you just missed a step. you can go back and make it all work.
+speaker3: i used to wish that. all the time.
+speaker3: what've you got there?
+speaker2: graphical interfaces. for skywire? i'm s'posed to coordinate with you.
+speaker3: show me.
+speaker3: cool!
+speaker2: yeah? i ran it for lots of platforms, ranging from the narrowest bandwidth to --
+speaker3: ...sh-show me the next one.
+
+speaker1: because we bundled it, the judge is threatening to enjoin the whole -- 
+speaker2: i'm confused, ted.
+speaker2: didn't you tell me they'd be chapter 12 by the time they could hope to enjoin? i'm very confused, because you said they'd be ready to settle.
+
+speaker1: milo. what's up? 
+speaker2: well -- you sent for me.
+speaker1: right... right.
+speaker2: you really wrote this just today?
+speaker1: what're you implying.
+speaker2: nothing!
+speaker1: everything i do is under scrutiny. the questions they ask, trying to make anything strategic look sordid. i'm confused. doesn't everybody in business try to get ahead?
+speaker2: i'm sure.
+speaker1: the purpose of this company isn't to destroy our competitors any more than the purpose of living is to breath. but the software business is binary: you're a zero or a one. being obsessive isn't a crime. it's a character trait.
+speaker1: it scales, don't you think?
+speaker2: definitely.
+
+speaker1: this feels fairly grown up, i'd say. 
+speaker2: to our new life. ...what's wrong?
+speaker1: that's what i need to ask you. you know you can't keep anything from me.
+speaker2: he gave me some new code-fixes this morning. i said, "did you really do this just today?" cause i was impressed. he said "what're you implying?"
+speaker2: it's the way he said it. just the way my dad did, when he was caught in a lie. that's how you knew you were onto something ugly.
+speaker1: what would it mean, anyway? if he didn't write it?
+speaker2: that's what i'm asking myself. does he have some genius stowed away? why not let him write skywire. 'not saying it makes sense.
+speaker1: milo!
+speaker2: i'm so stupid.
+speaker1: he's your boss. he's not your --
+speaker2: i know, i know.
+speaker1: if you can't deal with him on that basis, you better get a new counselor.
+speaker2: isn't that -- extreme?
+speaker1: what's extreme is what that er doctor said when he pumped your stomach. eat another sesame seed and that's it.
+speaker1: i mean, if one little comment from gary is gonna upset you this much --
+speaker2: you're right. it's -- a working relationship. don't know what i was expecting.
+speaker1: c'mon. let's do the toast?
+
+speaker1: did you wanna be alone? 
+speaker2: no. please.
+speaker1: they just pushed up the schedule on skywire apps. how fast are you going?
+speaker2: "there is no second place." plus every time i get jammed-up, gary has an inspiration. is it like that with your counselor?
+speaker1: mine's not the ceo. he barely remembers to take a shower.
+speaker2: right, right. but does he ever just, like, hand you code?
+speaker1: maybe once. i re-wrote it, anyway.
+speaker2: you're compulsive.
+speaker1: mmm-more like -- i have a little trouble. trusting people.
+speaker2: why's that?
+speaker1: long story. not that interesting.
+
+speaker1: so, when you were talking about wishing people were more like computers. was that then? or now? 
+speaker2: then and now. but not right now.
+speaker3: milo!
+speaker4: just dropped off a resume. almost got in the front door.
+speaker1: you're living here?
+speaker4: 'thought if i relocated it could help my case. i'm writing programs for the local public access station. where any whack-job with 100 bucks gets his own show? does it suck. can you help me?
+speaker1: sure, i'll see what i can do.
+speaker4: well i parked illegally. see y'later?
+speaker1: 'forgot to introduce you. i have a girlfriend.
+speaker2: that's great. i -- didn't know.
+speaker1: she saved my life.
+
+speaker1: how's it going down there? 
+speaker2: i've been hacking for five night's straight, i'm really making headway.
+
+speaker1: but these, like, white supremacists trashed my office, last week. 
+speaker2: what?!
+speaker1: they're in the neighborhood. they usually hassle vietnamese grocers.
+speaker2: teddy.
+speaker1: i'm cool. they didn't touch the machine. or my disks. probably didn't know what they were. so, you a moonie yet? milo?
+speaker2: i met this girl.
+speaker1: what? come on. is it serious?
+speaker2: i don't know.
+speaker1: did you tell alice?
+speaker2: no! i keep thinking it'll go away. but there's this -- connection. she's been hacking since she was little, she had to move around a lot. plus i see her every day, we're working on the same program. she's -- beautiful.
+speaker1: a beautiful geek? i don't wanna sound paranoid, or like a pig, but what're the chances?
+speaker2: what d'you mean?
+speaker1: i dunno. i guess larry's got me totally suspicious of that place.
+speaker2: what does that mean?
+speaker1: milo, geeks don't have two girlfriends. most don't have one.
+speaker2: i didn't plan this.
+
+speaker1: what'd the girl say? 
+speaker2: there may be a little less trust after your outburst.
+
+speaker1: hasn't affected his work, though. 
+speaker2: nothing does. still. i want him to like me.
+
+speaker1: ...what's wrong? 
+speaker1: what!
+speaker2: teddy was killed last night.
+speaker1: what're you -- what?
+speaker2: it was a hate crime.
+speaker2: i'm sorry. i'm so sorry.
+
+speaker1: they trashed his hard disk, all his back-ups. nothing's left. 
+speaker2: they caught the guys?
+speaker1: it's an airtight case. they found the weapon with teddy's blood on it and their fingerprints. they'd been arrested twice for beating-up asians. how come they weren't in jail?
+speaker2: he told me about the break-in. he didn't seem to take it that seriously.
+speaker1: you guys don't take anything seriously do you? that's not on a hard drive?
+speaker3: nelson? your mom wants you. it's time to go to scatter the ashes.
+speaker2: i didn't know he was working with fiber optics.
+speaker3: we gotta go too, honey.
+
+speaker1: i know you lost all his work. maybe i could come down here and -- 
+speaker2: you are naive. look at your employment contract: you can't work anywhere else in this field for at least few years. not that i don't miss you.
+speaker1: just thought his work should go on.
+speaker2: he was on the verge of something, too. he was gonna show us the next day. he said "the answer's not in the box, it's in the band." know what it means?
+speaker1: it's only meaningful when you've got 40,000 lines of code to back it up.
+speaker2: man, could he write code. totally elegant. he had his own style.
+speaker1: those really weird, short lines.
+speaker2: take good care of this guy.
+
+speaker1: i heard what happened. 
+speaker2: were the flags for teddy?
+speaker1: had you talked to him much lately?
+speaker2: just once. 'guess i was worried we didn't have anything to talk about, since work was off-limits. non- disclosure.
+speaker1: did you?
+speaker2: talk about work? never!
+speaker1: i meant did you find other stuff to --
+speaker2: oh. yeah.
+speaker1: you've been coming in early.
+speaker2: it helps. alice said it would help. to focus on something. 'don't know what i'd do without her.
+
+speaker1: milo? 
+speaker2: wow. you must have 20,000 lines of code there...
+speaker1: 34,000. but they're real short lines. 'just came out that way.
+speaker1: been thinking about the push mechanism in the handler. and it came over me: it's in the wrong place.
+speaker2: the wrong place?
+speaker1: the answer's not in the box. it's in the band.
+speaker3: milo? you okay?
+speaker2: gotta go home. 'think i ate something.
+
+speaker1: are you saying you think they had something to do with his death? nelson said it was an airtight case. 
+speaker2: i don't know what i'm saying. maybe -- maybe they hired those guys.
+speaker1: i can't see outpost putting its reputation in the hands of people like that.
+speaker2: i don't know! i just know it was teddy's code. all these ideas flying in from everywhere. you know how he says "any kid working in his garage can put us out of business?" it's like they know what every kid's doing.
+speaker1: they hack into people's programs?
+speaker2: nobody does work like this on-line. it's in your pc, or in a mainframe. self-contained. they'd have to be, like, watching people. physically. oh
+
+speaker1: it isn't a broadcast studio. it's -- a surveillance post or something. that's why they have the dishes on top. 
+speaker2: you're scaring me. i think we should just go.
+speaker1: go where? you can't get away from people like this.
+speaker2: "like this?" it's gary you're talking about.
+speaker1: you think i don't know that?
+speaker2: milo. why would he --
+speaker1: how should i know? "solving a problem," i guess. or needing to control everything. i don't know. i've gotta get in there.
+speaker2: even if all this were true. there're 20 other buildings. all of them filled with computers and --
+speaker1: it's the only one with dishes on the roof. the studio's a front. that's why they keep postponing its opening. ...gotta get in there.
+speaker2: milo, you told me those doj agents are all over the place. how could they hope to hide a surveillance post? and how can you get in there, anyway? with the cameras and the swipe cards --
+speaker1: i can't just walk away!
+speaker2: you can't just walk in, either.
+speaker1: they stop the construction work at six or seven. the parking lot's mostly clear by two or three in the morning. even the early geeks don't get there before five.
+speaker2: is it two? or is it three? have you ever really noticed?
+speaker1: no! i can't just keep my head in the sand. that's how i got into this mess.
+speaker1: i know how to get in there. but you've gotta help me.
+speaker2: ...whaddo i do?
+speaker1: so you believe me?
+speaker2: just tell me what to do.
+
+speaker1: come on. 
+speaker2: sir, you gotta use your own -- where's your id?
+speaker1: do you know who i am?
+speaker2: it's my job, i gotta --
+speaker1: the kind of stock options i'm sitting on?
+
+speaker1: every geek has to try this once to show me how smart he is -- another guard rushes in. 
+speaker2: there was an explosion in a y-sector closet, we're evacuating the whole sector.
+speaker1: un-nh, can't wander around without id now. just park your in that chair.
+speaker3: whole place reeks of ammonia.
+
+speaker1: what is it? 
+speaker2: not much. glorified cherry bomb. right by the civil defense sign? some geek's idea of irony. i been saying we need a camera in this hall.
+speaker1: there's nothing in this hall. someone's pulling your chain, as usual.
+speaker2: unless it's a diversion. milo's in my office. he was tailgating, so i -- gary explodes, with incredulity.
+speaker3: milo? try to have a clue. try to think.
+speaker1: that kid's the great white hope.
+speaker2: i could get it out of him.
+speaker1: you're not listening.
+
+speaker1: how's it goin'? 
+speaker2: big night. switched from tea to coffee. brought new meaning to my work.
+speaker1: yeah? maybe i'll start my rounds with 21 tonight.
+speaker2: you are a wild man.
+
+speaker1: maybe he'll get back to work. 
+speaker2: speaking of which...
+speaker1: yeah, yeah.
+
+speaker1: did you download corey? in san jose? 
+speaker2: 'have to go back over there. be so much easier if we could walk in the front door.
+speaker1: you don't look anything like a three- year-old.
+
+speaker1: -- run this methamphetamine lab known to federal authorities, per nd 47, from which we removed the implement, fingerprints intact. 
+speaker1: fbi footage, procured by nd 47, shows the aftermath of an aryan nations' killing in denver. note the evidence of torture, which is typical.
+
+speaker1: -- complete immersion in code-writing renders him both unobservant and suggestible [click]. on two occasions he went truant from classes to attend comix conventions. 
+speaker1: -- rebecca p, a connecticut art stu- dent facing federal drug charges, whose records were supplied to us by
+
+speaker1: armed with his personal files, she was easily able to ingratiate herself with the socially maladroit milo -- 
+speaker1: ...she planted the sesame seed both to test the extent of his proclivity and to provide a bonding experience, since she would quote "save his life."
+speaker1: -- should it be needed milo's allergy is the ideal --
+
+speaker1: note that the cult members are found reclining after swallowing the [click] syringe marks best hidden at base of [click] mimics high blood alcohol [click] indistinguishable from kidney failure. 
+speaker2: please don't be one of them.
+
+speaker1: ...needs to be watched, due to her heightened level of suspicion -- 
+speaker1: -- and to her possible contagion of key employees.
+speaker1: in august '86 lisa informed her mother of the sexual molestation by her stepfather, and of his threat to kill her should she tell anyone.
+
+speaker1: he gave me this. 'said i should come see him if -- 
+speaker2: he's not in yet.
+speaker1: can i wait in his office?
+speaker2: it's locked, dear.
+speaker1: please.
+speaker2: wait in his outer office.
+
+speaker1: do i make the call, or do you? 
+speaker2: mr. barton, do you remember me?
+speaker3: ...it's -- milo, isn't it?
+speaker2: yes sir. i need to talk to you.
+speaker3: give me two seconds with lacy here? go on in, i won't be a moment.
+speaker3: i'll make the call, but i think you need to send a fax first .
+
+speaker1: milo? 
+speaker2: yeah. hi. thank you for seeing me.
+speaker1: have a seat.
+speaker1: what seems to be the problem? you look a little upset.
+speaker2: i am. i am, sir.
+speaker1: milo?
+speaker2: my friend, my best friend, teddy, was killed in silicon valley.
+speaker1: my goodness.
+speaker2: it was racially motivated. he's chinese. he was. and... i know sometimes the fbi gets involved with that. don't they?
+speaker1: if there's a civil rights violation. but generally we let the local police and da do their work first.
+speaker2: i -- just wanna help bring these guys to justice. they're neo-nazis.
+speaker1: let me look into it, see what's being done. frankly, it's not my area.
+speaker2: 'just didn't know who else to talk to.
+speaker1: and outpost? you're happy there?
+speaker2: yes sir.
+
+speaker1: 'didn't mention he was going to the justice department? 
+speaker2: no.
+
+speaker1: not like him, is it? to do a thing like that without telling you. you're not losing your hold on him, are you? 
+speaker2: he'll tell me when he gets home.
+speaker1: that'll be a test, won't it?
+speaker2: instead of busting my chops you should do something about that girl. fire her. or something.
+speaker1: lisa's an extremely valuable member of the skywire team. we've got our eyes on her. you keep yours on milo.
+speaker2: prick.
+
+speaker1: it's almost nine, i've been so worried! what did you see in there? 
+speaker2: nothing.
+speaker1: nothing?
+speaker2: it's what they said it is. an unfinished broadcast studio. you were right... i just drove to seattle and back.
+speaker1: ...why?
+speaker2: remember lyle barton?
+speaker2: the justice department guy who came to the apartment when --
+speaker1: i remember.
+speaker2: after i broke into 21 -- which was insane, thank they didn't catch me! -- i just drove around. trying to figure out what possessed me. you know what? i've been putting my own guilt on gary.
+speaker1: guilt?
+speaker2: if i'd stayed down there, maybe this wouldn't've happened.
+speaker1: poor baby. you know that's not true.
+speaker2: i thought, instead of indulging all these paranoid delusions, risking my job, alienating gary, scaring you, i should do something useful with my grief. help them find teddy's killers. he doesn't see her smile: is that all. assuming an
+speaker1: i was so worried about you.
+speaker2: ...been such a long night.
+
+speaker1: that was -- different. 
+speaker2: ...different?
+speaker1: you didn't feel it? so intense.
+
+speaker1: so you're not avoiding me. 
+speaker1: what's wrong?
+speaker2: i snuck into 21.
+speaker1: why would you do a thing like --
+speaker2: you thought about it too. you've been suspicious for a while. but it's not happening in there. it's happening in the day care.
+speaker1: the day care?
+speaker2: can we go someplace else?
+
+speaker1: it's easy to know who the smart geeks are, the schools tell 'em. they upload medical files, school records, pharmacy files. they'd be happy just to steal code forever. but when a program gets close to fruition. like teddy. he was almost there. 
+speaker2: but why would they --?
+speaker1: you know. there is no second place. and what's the risk? the killings're undetectable, they're hand-tailored, they make "sense." i mean, they're in the information business. they have scenarios for all of us, too. in case we find out too much.
+speaker1: i'm not one of them. not trying to "suss you out." she wants to believe him.
+speaker1: they killed my best friend! i'm living with somebody they pay to go to bed with me. can't you trust somebody just once? i don't wanna be alone here.
+speaker2: i'm sorry, milo... i'm sorry.
+speaker1: i know why you're so secretive. why you won't let anybody near you. i know what he did to you.
+speaker2: oh yeah?
+speaker2: so that's in my -- file?
+speaker2: is that my -- scenario? tell me.
+speaker1: they'd frame him.
+speaker2: he's out of prison?
+speaker2: no.
+speaker1: nobody's gonna hurt you.
+speaker2: ...milo?
+speaker1: hmm?
+speaker2: i always felt if a -- boy i liked ever found out -- he'd run. he'd think i was unclean.
+speaker1: no, no. never.
+speaker3: all his suspicions were allayed?
+
+speaker1: you're sure. 
+speaker2: he said it made sense that gary's code was like teddy's, that that clichã© about great minds was true. said it was all about his own guilt. plus, he has a tendency to get gary mixed-up with his dad once in a while. it always passes.
+speaker3: he wasn't acting?
+speaker2: i don't think he knows how.
+
+speaker1: what about the fbi? 
+speaker2: they've got this guy in the doj, maybe others. we tell the wrong person, it's over.
+speaker1: who can we trust?
+speaker2: there's always a logical answer -- you just have to define the question.
+speaker1: how do you let go of a secret without telling the wrong person.
+speaker2: we don't tell anybody. we tell everybody. at once. so there's no secret left to protect. when everybody knows, they don't dare touch us.
+
+speaker1: no, tony can't fill in for you, he's not at your authorization level. 
+speaker2: bob? you better look at this.
+speaker3: do we post it on the net?
+speaker4: there're so many disinformation sites about gary already. where he has devil's horns or they crop him in with saddam hussein.
+speaker1: could it be a glitch? something the construction workers caused?
+speaker2: unlikely. all 14 cameras are frozen. do we call randy and phil? tell 'em there may have been a break-in?
+speaker1: not yet. 'love to bust my cause i'm not in frigging mensa. i swear to it's that kid milo, i told 'em so in the first place, but they didn't even wanna hear about it. let's run a printout on card entries.
+speaker4: the mainstream media. tv, or a newsmagazine.
+speaker3: right. but gary's tied-in to a lot of media conglomerates. have to be careful who we pick.
+speaker4: we could cross-reference a data base on media ownership. but not on our own computers. not even at home.
+speaker3: certainly not at my happy home.
+
+speaker1: gary, hi. 
+speaker2: you look a little tired.
+speaker1: i'm okay. it's going well!
+speaker2: 'have a look?
+speaker1: sure.
+speaker2: why did you move around so much? when you were a kid.
+speaker1: ...my dad was a compulsive gambler. only he didn't think he was. that applied to guys who didn't have a "system." "losers," who played games of chance. he could "read" people, so chance had nothing to do with it. no matter how deep a hole he dug himself, he'd give you the whole speech. and you'd better not point out the obvious. his creditors would catch up to him. loan sharks or whatever. he'd wake us in the middle of the night. off we'd go, again.
+speaker2: what would you tell the kids? at your new school? you had to come up with a good story, right?
+speaker1: no. i just went deeper into the machine. preferred being the geek to having to explain. lying would've been worse.
+speaker2: ...worse?
+speaker1: cause he was a liar. and i hated him. "get your head out of that machine, wise up to the real world." the more he mocked me the deeper i went. cause if being savvy meant being like him -- guess that's why i'm kind of clueless, even now. didn't cultivate my conniving side. 'not sure i even have one.
+speaker2: don't be so hard on yourself. with a brain like yours, you could connive with the best of 'em i bet.
+
+speaker1: he's buying up pretty much everything: cable companies, baby bells, picture libraries, museum rights, film archives... getting ready for skywire. 
+speaker2: what about "60 minutes."
+speaker1: yeah, they dig stuff like this. "cbs news has partnered with outpost information systems in a cable news network due to launch fall of 2001."
+speaker2: but still, you can't say cbs wouldn't love to break something like --
+speaker1: say there's just one "mole" working there, like barton at the doj. how do we know he's not the guy we've contacted? or she? or the guy she works for?
+speaker2: time?
+speaker1: time-warner has a 40 per cent stake in gary's set-top device. that also takes out cnn. "ge joins outpost in new venture," which means nbc is out. "disney joins outpost," abc is out. "outpost and newscorp in new deal," fox is out. any of these places could have a mole. or all of 'em. it's like a a continuous loop. we can go to some alternative press place that 1,000 people read, get them and us killed. but anything big enough for this is a parent of or a subsidiary to something gary's got a finger in!
+speaker3: shhh.
+speaker1: sorry.
+speaker2: milo?
+speaker2: how close are you?
+speaker1: what?
+speaker2: he's got 12 satellites up. he's got dishes on top of 21. he's building this -- mega-network for skywire. let's use it.
+
+speaker1: we can't just assume they're standing by to receive skywire 12 months from launch. i'd have to write in an aglet. 
+speaker2: a what?
+speaker1: it's how on-line services push logos they wanna sell you. you don't ask for 'em, they just appear. 'have to work on it somewhere besides my office or my house. and then the quality of the broadcast wouldn't exactly be digital, that's 12 months away.
+speaker2: but they'd still get the idea, right?
+speaker1: you'd have to design a graphic interface to make the data pop. maybe some audio, too. to tie it all in to gary. how long would that take you?
+speaker2: it's a standard gui. once i've got a concept, it's maybe three day's work.
+speaker1: gary knows i'm close on skywire. we have to do this fast.
+speaker2: before they kill somebody else, too.
+speaker1: oh, man. i'd have to get into gary's house. to get the satellite positions.
+speaker2: you mean -- break in?
+speaker1: i don't know --
+speaker2: and what if the broadcast dishes on top of 21 aren't hot yet? you said the place isn't finished.
+speaker2: i'll go look. they'll just have a few more pictures of me snooping around. they come to a fountain and balustrade at the edge of the park, stop walking.
+speaker1: why were you so careless?
+speaker2: i thought the worst they would do is fire me. who knew they took termination so literally?
+speaker1: why were you snooping in my office?
+speaker2: oh. i liked you. i was checking you out. he kisses her. there are no constraints now, there's no "adulterous" guilt: they kiss with a passion deferred.
+
+speaker1: 'think everybody in this place is here the same reason we are? 
+speaker2: 'cause their apartments might be bugged?
+speaker1: i told teddy about you.
+speaker2: what'd he say?
+speaker1: "a beautiful geek? what're the chances?" she smiles, rather bashfully.
+speaker1: i felt guilty. 'cause i "owed so much" to alice. but even then i was starting to wonder. is it so great to be so consumed by this one thing that you let another person do your thinking for you? if you have a lucrative skill, it's all anybody wants from you. you grow older but you don't grow up. you turn into -- into --
+speaker2: gary. it's painful for him: losing a second father.
+speaker1: larry used to say how the guys who wrote the first cool operating systems, like the unix guys at berkeley? they just gave it away. they figured it was human knowledge, it belonged to the world, like shakespeare or aspirin. 'know what i'm gonna do after we broadcast the incriminating stuff? air the skywire code. then nobody can have a monopoly.
+
+speaker1: where were you? you know you can't keep anything from me. 
+speaker2: okay, yeah. i did something naughty... there's this amazing comix store in seattle. to tell you the truth, i did it once or twice at stanford. 'guess i can't keep anything from you...
+speaker1: i won't turn you in.
+
+speaker1: every entry was authorized. 
+speaker2: keep looking.
+speaker1: what're we looking for?
+speaker2: any irregularity in the pattern.
+
+speaker1: last years' party-goers pledged over $2 million to the museum; this year's event promises to raise even more. lured in part by the chance to see the stunning boyd house... 
+speaker2: look at this.
+speaker3: what?
+speaker2: why doesn't he ask us to his party. he's never even met you.
+speaker3: he has thousands of employees, milo --
+speaker2: it's for the museum. he knows you're a painter. if anybody should be invited --
+speaker3: milo --
+speaker2: i know you think i'm too attached to him, but still. i am close to gary. and you're the most meaningful person in my life. i'm going back to the comix place, why should i be killing myself.
+speaker3: milo, you --
+
+speaker1: this is a lifesaver. my pc crashed just before finals. 
+speaker2: none of us knows how to use it. i'm thinking of taking a course. may i?
+speaker1: sure.
+speaker2: forget it.
+
+speaker1: i needed t'see it up close for a graphic. the outpost with a dish on top? i climbed up there to get it right. 
+speaker2: next time you ask.
+speaker3: 'might of found something.
+speaker3: delbert seems to enter 21 twice. without leaving the first time.
+speaker2: let's get him in here.
+
+speaker1: great. i knocked off the aglet, as soon as i get a passable version of skywire we're there. 
+speaker2: the dishes are juiced up, too.
+speaker1: thank
+speaker2: milo? shrot suspects somebody broke into 21. i was in his office when he was reviewing the card readouts.
+speaker1: they know i broke in. alice helped me. shrot's not one of them. he's blundering into this on his own.
+speaker2: he doesn't know about the day care.
+speaker1: hardly anybody does, that's the beauty part. no cameras, the doj doesn't bother with it, it's accessed by a tunnel they boast about. you know the best place to hide a leaf?
+speaker2: yeah, that's old, in a tree.
+speaker1: oh.
+speaker2: milo? what if shrot notices somebody entered the day care at four a.m.? and tells them about it?
+
+speaker1: milo? 
+speaker1: i'm giving a benefit for the art museum thursday night. thought you'd like to bring alice.
+speaker2: that's great! thanks.
+speaker1: 'sorry about the late notice...
+speaker3: "sorry about the late notice?"
+
+speaker1: why did you enter 21 twice? 
+speaker2: huh?
+speaker2: this thing's screwed-up. look here. 'shows me going into the day care that night. i never been in the day care.
+
+speaker1: one window'll be obits i downloaded, based on the scenarios you described. the other windows'll accommodate the surveillance stuff you told me about. the idea is, this works with anything, since we can't edit. 
+speaker1: same with the excerpts i'm choosing: they'll play against any of the images you described.
+speaker2: perfect. how am i gonna get away from the party long enough to --
+speaker1: you could always say you have to go the bathroom.
+speaker2: that's lame, isn't it?
+speaker1: you'll come up with something.
+
+speaker1: they called the house to ask who's your favorite painter. 
+speaker2: sorry, sir, this part of the residence is restricted.
+
+speaker1: alice, i'm gary. this is my wife, clarissa. milo, this is barry linder, who's visiting from hollywood. 
+speaker2: i hate being the hollywood guy. it's so limiting. meet my friend, ricky.
+speaker3: hi, guys.
+speaker1: barry's studio's gonna help fill the skywire pipeline, thought you guys should meet.
+speaker4: cool. angle: the orchestra, playing.
+speaker5: he's a sweetheart. he gave 10,000 pc's to the library association.
+speaker6: all 10,000 of which will be signed onto his browser, no doubt.
+speaker5: and so what?!
+speaker7: wait'll all the books are on-line.
+speaker5: and so what?
+speaker2: the merchandising implications are epic. a kid's watching the movie, he points and clicks at the laser blaster -- before the reel's even over he's ordered the toy.
+speaker8: but, i mean -- devil's advocate -- won't that influence the content? won't the artists complain? the directors or writers or whoever?
+speaker2: artists? darling, the only art left in america is business. you're in picasso's house!
+speaker4: where's the bathroom?
+speaker2: the irreverence! laughter.
+
+speaker1: you'll have to use one over there. 
+speaker2: there's like eight women waiting in line. they take forever. please?
+speaker1: right here.
+
+speaker1: "dear lisa. i've enjoyed working with you. i'd be lying if i didn't say i find you attractive. but in my heart i know that alice..." you left my party to send e-mail? 
+speaker2: i couldn't do it at work cause of security or at home for -- obvious reasons.
+speaker1: you could've handwritten it.
+speaker2: i'm not much good at handwriting. or parties.
+speaker1: oh, that's right. you're "clueless." this hangs there.
+speaker2: gary, i'm sorry if i was rude -- the second houseman sticks his head in.
+speaker3: everything ok, mr. boyd?
+speaker1: no problem. is there?
+speaker2: gary, i --
+speaker1: you see what's hanging on the wall?
+speaker1: i hope you know what you mean to me. not just because of what you're doing. because of who you are.
+speaker2: i do know, gary. i feel the same way. i thought i was coming here for a job. but it's meant a lot more.
+speaker1: when will you have a beta version?
+speaker2: i'm pretty close. but when i wrote the last contact switches, it wiped out a piece of the content filer. you know what it's like, writing software.
+speaker1: i do know. you focus on the big problem. but somewhere down the chain, something breaks down. something gets destroyed. at first it's upsetting. you feel you've lost control.
+speaker1: so you have to remind yourself: it's just the process. something's always lost along the way to anything worthwhile. some little bug, some glitch. 'can't get bogged down in that, you're doing something other people could never do. they lack the imagination, the brain, the nerve. let them fret about every unforeseen consequence. you have to solve the problem. that's who you are.
+
+speaker1: are you gonna tell me where you went? 
+speaker2: i went to see the skywire model in gary's office. you know. just to hold it again.
+speaker1: are you having an affair, milo?
+speaker2: no. no. i sent an e-mail to somebody, just now. to tell her how i feel about you. you know i'm clueless, without you. you know i --
+speaker1: just shut up?
+
+speaker1: get the backslash, the colon, keys kids don't use but geeks do. what would milo want in here, anyway? 
+speaker2: they know. 'just they don't trust me with it. so we'll get the evidence, first, ask questions later.
+
+speaker1: does he know you know? 
+speaker2: he suspects i know something. i think he was sort of -- explaining himself to me, in case i do. we have to go in tonight. i'm two hours from a beta version. but i've gotta go home for an hour.
+speaker1: why?!
+speaker2: she called to apologize. i said i was pulling an all-nighter. she said then come home just to say hi. which i always do when we fight, it's suspicious if i don't.
+speaker1: please don't go.
+speaker2: at this point the worst thing i could do is anything out of the ordinary.
+speaker1: here's the interface.
+
+speaker1: i'm a mess! i got this hunan cookbook, since we're always afraid for you to eat in chinese restaurants. i've been mincing things into teeny-tiny pieces all afternoon. 
+speaker2: great!
+speaker1: look at me! i'm gonna change.
+
+speaker1: alice applies blush-on. 
+speaker2: milo goes through the spice cabinet...
+
+speaker1: you look beautiful. 
+speaker2: yeah? give me a goodbye kiss.
+speaker1: ...what?
+speaker2: i know you. you're gonna run back to work right after dinner. i want my kiss now.
+speaker2: be right back.
+
+speaker1: milo's fingers drum the table top... 
+speaker2: alice picks up the dish. we don't see her face.
+
+speaker1: milo? 
+speaker1: milo?
+speaker2: don't we have any chopsticks?
+speaker1: oh, right. hold on.
+
+speaker1: one more minute... 
+speaker2: here we go.
+speaker1: great.
+speaker1: ...wanna savor this.
+speaker2: it's gonna get cold.
+speaker1: right. wait. a toast.
+speaker2: you're just afraid to eat it.
+speaker1: to the artist.
+speaker1: it's great. it's great.
+
+speaker1: milo, hi! how was the party? 
+speaker2: great! great! thanks for asking!
+
+speaker1: you calling phil and randy? 
+speaker2: i'm calling gary.
+
+speaker1: he's left his office, we think he's gone back to the day care for some reason. can you tell me why, gary? whatever you say. wants to consult with phil. was it phil's idea to run the fingerprints? 
+speaker1: come with me.
+speaker2: where we going?
+
+speaker1: what are you doing? 
+speaker2: you're better off not knowing.
+speaker1: what're you doing?!
+speaker2: they're surveilling programmers from in here. they steal their code. sometimes -- i know this sounds insane -- sometimes they kill one.
+speaker2: they let me break into 21. 'cause there's nothing in there. you know they've been keeping things from you. 'getting in the way when you try t'do your job. that's why you never told 'em your suspicions about me. right?
+speaker2: if you had i'd be dead now.
+speaker2: you've been following your gut all along. please don't stop now?
+
+speaker1: what's going on here? 
+speaker2: who're these guys?
+speaker1: where is he?
+speaker2: we're too late. take a look.
+speaker2: what's in here worth taking, anyway?
+
+speaker1: he must be out there still -- 
+speaker2: forget about it. his car's not in the lot, he's gone!
+
+speaker1: hey! 
+speaker2: wanna get a cheeseburger or something?
+speaker3: maybe another time.
+speaker4: fellas, i'm gonna have to ask you to leave here now.
+speaker5: wait a second. i'm the one who found out he was mucking around in here in the first place.
+speaker4: we're all grateful for that. really. go out the way you came in?
+
+speaker1: meet me at the other location. 
+speaker2: tell me you're not calling on your car phone?!
+
+speaker1: bring it to the other location. 
+speaker2: but you said the other --
+
+speaker1: yeah, alright. he's off campus, he's taken some surveillance data with him. 
+speaker1: she's bringing her laptop, it's wired. second she boots up, we're on 'em.
+
+speaker1: help you? 
+speaker2: brian here? brian bissel?
+speaker1: who wants to see him?
+
+speaker1: nothing. they haven't booted-up yet. 
+speaker2: this is the biggest beta demo in like the history of software. you'd be my partner.
+speaker3: you can't pre-empt yoga, that's our biggest show.
+speaker2: brian! you wanna be a big deal, don't you? that's your dream in life.
+speaker3: will i get to work for outpost?
+speaker2: no. but you can write your own ticket in the valley after this. we're gonna bring down outpost.
+speaker3: what?
+speaker2: what'd they ever do for you?
+speaker3: okay.
+speaker2: great. great! we need to drag a lot of heavy stuff in front of the door --
+speaker3: what?!
+speaker2: wanna be a part of history?
+speaker4: not really.
+speaker2: well -- would you like to pick up an extra -- 232 dollars?
+speaker5: nothing yet, gary...
+
+speaker1: we've got a fix on 'em. 218 north jericho road. 
+speaker1: public access tv station. knqr.
+speaker2: he's taken it to the public access station.
+speaker3: that's what he was doing in here.
+speaker2: gary? gary throws a printed spiral notebook at him.
+speaker3: help me change the skywire settings. add five degrees to each satellite coordinate.
+speaker2: gary, don't worry, we --
+speaker3: just do what i'm asking!
+
+speaker1: you're interfaced with our dish. 
+speaker2: gimme the coordinates?
+speaker3: longitude 77 degrees, 03 minutes, 58 seconds east.
+speaker3: latitude 38 degrees, 55 minutes, 14 seconds south.
+speaker4: 19 seconds south. altitude 431 miles.
+
+speaker1: is it your software? 
+speaker2: is it your dish?
+speaker3: maybe it's the satellite.
+speaker2: let's try 2.
+
+speaker1: okay, 2. 
+speaker2: longitude 48 degrees 06 minutes --
+
+speaker1: they're already here. my laptop must be wired! 
+speaker2: milo?
+speaker3: we're there.
+
+speaker1: you checked your connections? 
+speaker2: yes! should you reboot?
+speaker3: ...he knows.
+speaker1: what?
+speaker3: he's been altering the coordinates since we logged on. he's a step ahead. let's jump to 12.
+
+speaker1: ready for number three? 
+speaker2: let's go.
+speaker1: longitude 109 --
+speaker2: wait... he knows.
+speaker1: what?
+speaker2: 'knows i'm altering the coordinates. let's jump to 12.
+speaker1: gary?
+speaker2: just do it.
+
+speaker1: step aside. we won't hurt you. 
+speaker2: latitude 47 degrees.
+speaker3: wait a second. he knows i know.
+speaker4: what?!
+speaker3: he's working backwards, too. let's do number five?
+speaker2: longitude 66.
+
+speaker1: come now. they've got guns! 
+speaker2: open the door, milo!
+speaker3: you there yet?
+speaker4: one more second.
+speaker3: hey, hey, relax, relax!
+speaker1: oh my
+speaker3: milo? wake up. our regular programming will not be preempted tonight.
+speaker2: wait.
+speaker3: ...when did you know?
+speaker4: you should've called a few times to bug me about your job prospects.
+speaker1: milo? who's got skywire?
+
+speaker1: now what are we doing? i don't get any of this 
+speaker2: i launched skywire. just pray the last set of coordinates milo sent me connected us to gary's satellite.
+
+speaker1: most of us who write software achieve our greatest work before age 30. as i grow older i know how important it is to access fertile young minds! 
+speaker2: gary watching.
+
+speaker1: 'last thing you wanna do is hurt us now. right? 
+speaker2: who's seeing this?
+speaker3: who isn't?
+
+speaker1: we work hard to stay ahead because we know any kid working in his garage can put us out of business. 
+speaker1: the first rule of the software
+speaker1: that's why we work so hard to invent or acquire great new applications. consumers don't care where new ideas come from, just so long as they're offered at competitive prices. isn't that what the free market's about? sure, we like being 1, but it's pressure, too. this business is binary: you're a zero or a one.
+
+speaker1: 'guess we should wake the attorney general. 
+speaker2: i've been called "aggressive" but to me, that's really a compliment.
+
+speaker1: lyle? phone for you. 
+speaker2: we really are a family here at outpost.
+
+speaker1: the "murder" stuff is all innuendo: bad pr, legally null. 'could probably be spun as urban legend. there is a case for corporate espionage, but if you cop a plea, you'll get a slap -- 
+speaker2: cop a plea? i'm confused, ted. you think i knew about this?
+speaker2: i'm running the company, fighting the doj, raising a family. randy and phil obviously overreacted. to this endless, antitrust witchhunt.
+speaker1: the government's gonna offer 'em a helluva deal to tie you into this. whether you knew about it or not.
+speaker3: randy, phil and whoever else knew about it.
+speaker2: that won't be a problem.
+speaker4: gunther and riman turn off a rural road...
+speaker2: as for pr, skywire'll take care of all that.
+
+speaker1: you threaten tv networks, phone companies, catalog outlets, publishing houses, movie studios, travel agents, airlines, stock brokerages -- you sabotage the whole economy. talk about undermining innovation! 
+speaker2: easy to spin, old as the hills: what's good for outpost is good for america.
+speaker3: come on, bob. load in the other disk.
+speaker1: "i had no knowledge of these activities, but i have to ask myself if the competitive environment i encouraged in some small way contributed --"
+speaker4: gary?
+speaker5: watching, gary knits his brow: he looks wounded.
+
+speaker1: the cyber pundit chats with larry king. 
+speaker2: that's gotta kill him, right?
+speaker3: outpost was his baby, sure. on the other hand, we just learned gary boyd owns the skywire satellites. personally.
+speaker2: outpost doesn't own em.
+
+speaker1: conglomerates're lined up to finance the launch of the remaining satellites. they'll pay him a huge premium to get on-line. 
+speaker2: that'd change with a criminal indictment.
+speaker1: there's no hard evidence he knew about this. anybody who could implicate him seems to've vanished.
+speaker2: isn't there a stigma? bankrolling this guy?
+speaker1: stigma? larry! 60 billion buys you some slack in this world.
+speaker2: and the kid who wrote skywire -- then gave it away? they're calling him the digital robin hood.
+speaker1: milo. surprised he's not your guest.
+speaker2: we tried!
+speaker1: you better believe everybody's trying to sign him up.
+speaker3: larry, lisa.
+speaker4: your app kind of blew mine out of the water.
+speaker3: we'll come up with the next big thing.
+speaker4: ...you wanna work -- here?
+speaker3: got out of my other commitment.
+speaker4: may i?
+speaker3: hey, wait! not giving everything away.
+speaker4: c'mon. bring your stuff.
+speaker4: you guys'll be using teddy's old space, is that okay?
+speaker3: cool.
+

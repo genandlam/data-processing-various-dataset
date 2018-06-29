@@ -1,0 +1,715 @@
+speaker1: where's the girl? 
+speaker2: i only called her ten minutes ago --
+speaker1: i made our reservation for 8:15. we're going to be late.
+speaker2: here she is now.
+speaker3: dr. minakis?
+speaker2: mandrakis. it's okay. everyone gets it wrong the first time. you're jill? come on in.
+speaker3: thank you.
+speaker1: i've written the number of the restaurant on the notepad by the phone. zip me up, will you please? if we aren't home in two hours, it means we've decided to go on to a movie and won't be back until after midnight. is that all right?
+speaker3: sure.
+speaker2: i've told my service to pick up any calls coming in to my office phone.
+speaker1: the children are asleep upstairs -- first door on your left at the top of the landing. they're both just getting over a cold -- so try not to wake them.
+speaker3: okay.
+speaker1: do you have any questions?
+speaker1: we have to go now. we're late.
+speaker2: make yourself at home. the refrigerator's loaded.
+speaker1: goodbye.
+speaker2: we even have some low-fat yogurt.
+speaker1: will you please come on!
+speaker2: bye.
+
+speaker1: hello? 
+speaker2: nancy?
+speaker1: hello, jill? how's it going? i got it, dad! father! christ! my father's in one of his moods again. male menopause, you know. so how are you?
+speaker2: all right.
+speaker1: are you over at dr. mandrakis'?
+speaker2: yeah, i've been here for about an hour already.
+speaker1: isn't it a neat house?
+speaker2: i guess... i haven't looked around very much.
+speaker1: did you see his kids?
+speaker2: no, they were asleep when i got here.
+speaker1: they're really cute. so what can i do for you?
+speaker2: you didn't happen to talk to billy today, did you?
+speaker1: yeah, i talked to him.
+speaker2: did he say anything about me?
+speaker1: i don't know what you did to him, or said to him, or what... but he's really off at you! what did you do?
+speaker2: it's what i didn't do.
+speaker1: yeah, i can imagine.
+speaker2: do me a favor, nance.
+speaker1: what.
+speaker2: do you think you'll be talking with billy some time tonight?
+speaker1: prabably. i'm going to the library in a few minutes. i just have to get out of this house! hey! why don't billy and i come over there? he'll come along if i tell him to.
+speaker2: that isn't what i had in mind.
+speaker1: you'll be safe with billy. i'll be there. come on.
+speaker2: nancy, all you want to do is come over here and get drunk.
+speaker1: who? me?
+speaker2: who? me?
+speaker1: you want to see billy, don't you?!
+speaker2: i've got a lot of work to do. i don't want you coming over!
+speaker1: you know what your problem is, jill, is you're so straight. i really mean that. you go to a private school, you wear a bra. no one can have a good time with you! you know, billy asked me to go out with him this weekend, and i was really really tempted because i like billy... a lot... as much as you do. but i told him i couldn't, that i didn't think it was right because you were my friend --
+speaker2: you are my friend.
+speaker1: yeah. i guess so.
+speaker2: listen, just give billy the number here, but don't tell him i told you to. okay?
+speaker1: okay. i've got to go now.
+speaker2: okay, nancy. bye. and thank you.
+speaker1: yeah. bye.
+
+speaker1: hello? 
+speaker1: billy?... a voice speaks on the other end of the phone.
+speaker2: have you checked the children?
+speaker1: what?
+
+speaker1: hello? 
+speaker2: have you checked the children?
+speaker1: mrs. mandrakis?
+
+speaker1: hello! 
+speaker2: have you checked the children?
+speaker1: billy! i don't think this is very funny!
+speaker1: ...who is this?
+
+speaker1: golden bull... 
+speaker2: hello, i'd like to speak to dr. mandrakis. this is his babysitter.
+speaker1: hold on a minute.
+speaker1: hello?
+speaker2: yes?
+speaker1: dr. mandrakis left the restaurant about forty minutes ago.
+speaker2: forty minutes?
+speaker1: that's right.
+speaker2: okay. thank you.
+speaker3: operator...
+speaker2: hello, operator? can you get me the police?
+speaker3: is this an emergency?
+speaker2: yes! no, not really.
+speaker3: the number is 555-9431. would you like me to connect you?
+speaker2: please.
+speaker4: seventh precinct, sergeant sacker.
+speaker2: hello, i've been getting phone calls, every fifteen minutes or so. i think it's a man. he's trying to scare me.
+speaker5: an anonymous caller?
+speaker2: that's right.
+speaker5: has he threatened you?
+speaker2: no.
+speaker5: has he been using obscene language?
+speaker2: no. he just keeps calling me. sometimes he doesn't say anything.
+speaker5: there's really nothing we can do about it down here. is the phone listed in your name?
+speaker2: no, i'm just the babysitter.
+speaker5: it's probably just some weirdo. the city's full of them. believe it or not, we get reports like this every night. it's nothing to worry about.
+speaker2: oh...
+speaker5: have you tried whistling?
+speaker2: what?
+speaker5: if you can find a good loud whistle somewhere in the house, blow it into the phone hard, next time he calls. probably break his eardrum. he won't bother you after that.
+speaker2: no, i... you're probably right. it's nothing to worry about.
+speaker5: or you could just take your phone off the hook.
+speaker2: no, the people i'm babysitting for might try to reach me.
+speaker5: well, as i say, there's nothing we can really do to help you down here.
+speaker2: okay. thank you.
+speaker5: you bet. goodnight.
+speaker2: goodnight.
+
+speaker1: hello? 
+speaker2: why haven't you checked the children?
+
+speaker1: seventh precinct, sergeant sacker. 
+speaker2: i called you before... about the man who keeps calling me?
+speaker1: oh, yeah.
+speaker2: he called me again.
+speaker1: did you try whistling?
+speaker2: no, he's out there somewhere.
+speaker1: out where?
+speaker2: in the neighborhood. he's been watching me... through the windows.
+speaker1: did you see him?
+speaker2: no. i know he's there.
+speaker1: is the house locked up?
+speaker2: yes.
+speaker1: and the windows?
+speaker2: yes. everything.
+speaker1: then you're safe. if he wanted to break in, he wouldn't be calling you.
+speaker2: please, can't you help me? i'm all alone.
+speaker1: tell you what. if this guy calls you again --
+speaker2: he will call again! i know he will!
+speaker1: okay, calm down now. i can alert the phone company so that if he calls again we can try to trace the call. what's your number there?
+
+speaker1: and the address? 
+speaker2: 3317 oakridge drive.
+speaker1: oh, yeah, i know where that is. all right. if the guy calls again, try to keep him on the line for at least a minute so we can trace the call.
+speaker2: but he never stays on that long! sometimes he hangs up after just a couple of seconds.
+speaker1: it's the only way we can help you. by the way, what's your name?
+speaker2: jill johnson.
+speaker1: jill, the important thing is to relax. you're safe where you are. we've got patrolmen cruising the area all night long. just stay calm. will you do that for me?
+speaker2: yes.
+speaker1: in the meantime, we'll be watching your line. okay, jill?
+speaker2: okay.
+speaker1: call again if there's any problem.
+speaker2: thank you.
+speaker1: goodnight.
+
+speaker1: hello? 
+speaker2: it's me.
+speaker1: i know. who are you?
+speaker1: i won't be here much longer. the doctor and his wife are coming home soon.
+speaker2: i know.
+speaker1: can you see me?
+speaker2: yes.
+speaker1: i'm sorry i turned the lights down. it didn't work anyway. i can turn them back up if you like --
+speaker2: don't.
+speaker1: don't? you've really scared me. is that what you wanted? is that what you wanted?
+speaker2: no.
+speaker1: what do you want?
+speaker2: your blood... all over me.
+speaker1: you don't know me. you don't know who i am or where i live. i'll get dr. mandrakis to drive me home. him or the police.
+speaker2: you've called the police?
+speaker1: i want to talk to you.
+speaker1: leave me alone!
+speaker3: jill, this is sergeant sacker! listen to me! we've traced the call. it's coming from within the house. a squad car's on its way over there now... just get out of that house!
+
+speaker1: are the parents here yet? 
+speaker2: yeah, they arrived about ten minutes ago.
+speaker1: christ! what a homecoming!
+speaker2: they wanted to talk to someone. i asked them to wait until you got here. come on in.
+speaker3: we were only a block away when the call went out. when we got here, the guy was still waiting upstairs in the children's bedroom. he was covered with blood.
+speaker1: blood?
+speaker3: not his own. the children had been dead for several hours.
+speaker1: jesus...
+speaker3: he'd been using an old phone in their bedroom that the parents had never had disconnected.
+speaker1: who is he?
+speaker3: we found a merchant seaman's card on him. he's english. entered the country less than a week ago.
+speaker1: how about the babysitter?
+speaker3: she's going to be all right.
+
+speaker1: so you're in business for yourself now. 
+speaker2: yes, sir, for the past three and a half years.
+speaker1: that's good. and you'd heard about curt duncan's escape?
+speaker2: oh, yes.
+speaker1: do you think the police will... find him?
+speaker2: i know they haven't assigned anyone to it specifically. it's an old case.
+speaker1: an old case. can you find him?
+speaker2: yes. maybe not tomorrow, maybe not this week, but i'll find him.
+speaker1: he could be anywhere by now.
+speaker2: i don't think so... because he's a foreigner. he'll come back to the city. after six years in confinement, it's the only place that's familiar to him. that's important.
+speaker1: a man murders two children in cold blood. a jury declares him insane. how could such a person not be?
+speaker1: he is sent to a state mental institution where the security is... less than perfect. and he escapes. it... it isn't fair.
+speaker3: a thing like that should never be allowed to happen again.
+speaker2: i couldn't agree with you more.
+speaker3: go ahead then. my accountant will contact you.
+speaker2: thank you. how is mrs. mandrakis?
+speaker3: she is... unable to have any more children.
+speaker2: i'm sorry. please give her my best.
+speaker3: of course.
+
+speaker1: eventually, anyone will respond to the treatment here. 
+speaker2: you gave him electric shock?
+speaker1: yeah, we zapped him a few times. it's fairly standard.
+speaker2: it says here thirty-eight... thirty- eight times.
+speaker2: what will happen to him now, without the drugs he was on?
+speaker1: there'll be some deterioration. that's inevitable, but we can't say how much.
+speaker2: during the time that you had him here, did you discover any particular habits of his, peculiarities, quirks, anything that might help me find him?
+speaker1: it's all in the folder.
+speaker2: any letters from people back in england? family?
+speaker1: that, too, is in the folder.
+speaker2: let's get something straight here, doctor. i've been 33 years in the business of tracking people down and putting them away. i spent almost a year on curt duncan alone, with the trial, the testimonies, the background investigations. i didn't come here today to look in your folders. in fact, i wouldn't have come here at all if you'd done your job right.
+speaker1: mr. clifford, this is a hospital, not a penitentiary. everything that pertains to one of our patients is meticulously recorded in that patient's folder... whether you can make sense of it or not.
+speaker1: curt duncan is a classic paranoid- schizophrenic. they see themselves as victims, and they always blame other people for the way they are. when duncan killed the mandrakis kids, it wasn't an act of hostility against the children but against their parents. he was getting back at his own parents for traumas he suffered in early childhood. the criminal side of curt duncan is one of terrible, symbolic vengeance.
+speaker2: assuming he isn't found right away... what will happen to him?
+speaker1: i think you'll find him. somebody will find him. he can't function out there. he'll make a mistake. this is where he belongs. after six years in here, he's suddenly gone out to confront the world again. i think he's in for a bit of a shock.
+
+speaker1: rackin' 'em up today, bill? 
+speaker2: doin' all right.
+speaker3: c'mon in and shut the door.
+speaker3: what'll it be? hey! what'll it be?
+
+speaker1: ordinary street clothes. not all of our patients have to wear the green gucci gowns. 
+speaker2: did he have any money with him?
+speaker1: probably. but not more than, say, fifty dollars. some of the patients are given little jobs around the ward, for which they are paid. it's part of the rehabilitation.
+
+speaker1: what's guy du mar-- 
+speaker2: guy du marraux syndrom.
+
+speaker1: it's a psycho-motor dysfunction. 
+speaker2: duncan had it?
+speaker1: only from time to time, which is unusual.
+speaker2: what is it?
+speaker1: it attacks the nervous system. people suffering from it are irresistibly compelled to utter obscenities, sometimes one, sometimes a whole string of them. they can't control it.
+speaker2: are you being serious?
+speaker1: yeah. here, i'll give you an example.
+speaker1: duncan never had the twitch that sometimes goes with it. and with duncan, as i said, the disease would only manifest itself in periods of extreme anxiety. when he was really flipping out, in other words.
+speaker2: duncan was catholic?
+speaker1: yeah. so am i.
+speaker2: that makes three of us.
+speaker1: is that right? so we all share the same guilt.
+speaker1: here. this is curt duncan shortly after he was admitted here in 1972.
+speaker1: -- to put the situation right. the hypodermic needles are only used to give you medication that will calm you down. they make you feel good, relaxed. all right? we're not putting anything in your food either. the food is just food.
+speaker3: no. i don't eat the food. it doesn't taste right.
+speaker1: that's duncan.
+speaker1: curt, why are you fidgeting? can't you get comfortable?
+speaker3: no, i'm not comfortable!
+speaker1: wait a -- hey!
+speaker1: pull him down... that's right... just lay him out... lay him right out... steady... pull out his knees...
+
+speaker1: a little action for your game? 
+speaker2: what, him?
+
+speaker1: i wouldn't bet against you. 
+speaker2: what's the matter? you don't like me playing with myself?
+
+speaker1: pause. duncan is still smiling at her. 
+speaker2: hi.
+speaker2: what you been up to?
+speaker3: my own business. thanks for the light. okay?
+speaker2: next round's on me.
+speaker3: listen, mister, i've got my own money. so, if you don't mind...
+speaker2: after what i been through, i don't mind anything.
+speaker2: see, that's the whole point. my mind... your mind... where do they fit in? you know what i mean?
+
+speaker1: do you live around here? 
+speaker2: get offa me!!
+
+speaker1: listen, i didn't mean nothin'. i don't live around here. see -- ? 
+speaker2: i think the lady wants to be left alone.
+
+speaker1: the air is charged with tension. 
+speaker2: i think an apology is in order.
+speaker2: that the best you can do?
+speaker2: i think you'd better just move along, pal.
+speaker3: he'll be okay now, bill. he just --
+speaker2: no! i want him out of here!
+speaker2: go on, beat it.
+speaker4: as the tension builds.
+speaker2: i'm not going to say it again, mister.
+speaker2: who're you calling?
+speaker2: you're welcome, baby!
+speaker2: okay?
+speaker5: good riddance to bad rubbish, eh, bill?
+speaker3: a fight breaks out, there's gonna be damages. insurance company doesn't pay without a police report...
+speaker2: you see any damages?
+speaker2: see ya 'round.
+speaker3: no, it's over now...
+
+speaker1: what is all this?! 
+speaker2: happy birthday, charlie!
+speaker3: look at him!
+speaker4: don't shoot us, charlie!
+speaker1: how was i supposed to know?
+
+speaker1: will you tell me what this is about, cliff? 
+speaker2: yeah, in a minute.
+speaker1: i don't think i can take any more of these surprises.
+
+speaker1: okay now, what's the big deal? 
+speaker2: stand still. i want you to remember this in the morning.
+speaker1: if you want me to remember something in the morning, then tell it to me in the morning.
+speaker2: charlie, come on.
+
+speaker1: all right, all right. what is it? you're getting married. 
+speaker2: no. i got a job today, tracking someone.
+
+speaker1: that's great, cliff; i'm sure you'll find your man. 
+speaker2: it's curt duncan.
+speaker1: what?
+speaker2: you didn't know he got out?
+
+speaker1: i need your cooperation on this one. 
+speaker2: sure. anything.
+
+speaker1: oh, it's you! what do you want? 
+speaker2: ...came to apologize. i...
+speaker1: look, i'm the one who should be sorry. i didn't want that to happen. oh, look at you. are you all right.
+speaker2: i'm new in town. don't know anybody...
+speaker1: where're you from?
+speaker2: new york. ever been there?
+speaker1: sure. sure i've been there. they look at each other. duncan coughs again.
+speaker2: kind of a mean place to be. everyone cold, unfriendly...
+speaker1: excuse me.
+speaker1: hello?...
+speaker1: ...no, i just got in... i don't know if i can... listen, i can't talk now. can i call you back?... okay... goodbye. she hangs up the phone, stands and turns back toward the door. duncan is standing right behind her.
+speaker2: i'm not from new york, actually. but i'm very, very far from home.
+speaker1: look, you can't come in here.
+speaker2: i thought we might get some coffee. can i buy you -- ?
+speaker1: i don't think so.
+speaker2: someplace nearby?
+speaker1: not tonight. you'd better go.
+speaker2: i got no place to go.
+speaker1: you can't --
+speaker2: just, just a little coffee?
+speaker1: maybe tomorrow.
+speaker2: okay, tomorrow. when?
+speaker1: i said maybe. i don't know. listen, i'm sorry about this afternoon. i really am. all right? that was my boyfriend on the phone. he's coming over. so please leave. now.
+speaker2: i like you.
+speaker1: look, do you want me to call the cops?
+speaker2: it's okay. it's okay.
+speaker2: i'll see you later... sometime. i still want to buy you that drink.
+
+speaker1: i don't recognize anybody. 
+speaker2: three years is a long time in a place like this.
+speaker1: three and a half.
+speaker3: hiya, cliff. howya doin'?
+speaker1: hi...
+speaker2: how long will you be here?
+speaker1: depends on how lucky i get. i'll only be coming around once, maybe twice a week.
+speaker2: you want to use your old desk? someplace to sit down?
+speaker1: is it vacant?
+
+speaker1: okay, man, move it out. let's go. 
+speaker2: wha -- ?
+speaker3: there's another one down there.
+speaker1: hey!
+speaker1: come on, bright eyes. wake up. wake -- christ! what happened to you?
+
+speaker1: i'm sorry, man, but you can't stay in here. go out to the park, lay in the sunshine. you'll feel better. okay? 
+speaker1: bless it! hey!
+speaker1: out. out. out. out. out.
+speaker2: all right! all right!
+speaker2: whaddya say, pardner. i'm dry as a bone. you got any money?
+speaker2: you neither, huh? my name is morgan, but it ain't j.p. guess i better go to work. take 'er easy now, pardner.
+
+speaker1: who is it? 
+speaker2: my name's john clifford. i'm a private investigator.
+speaker1: a what?
+speaker2: a private detective.
+speaker1: what do you want with me?
+speaker2: i'd just like to talk, ask a few questions.
+speaker1: i've got nothing to say about anything or anybody.
+speaker2: listen, lady, i can be back in thirty minutes with a search warrant and a handful of cops, and i can probably have you arrested, whether or not the charges would stick. now do you want to let me in and talk?
+speaker1: have you got a badge?
+speaker2: i'll show you a badge when you open the door!
+speaker2: i don't carry a badge. i'm issued a license, a piece of paper, and i left it at home. you're tracy fuller?
+speaker2: can we sit down?
+speaker2: do you recognize this man?
+speaker1: why?
+speaker2: he's escaped from the insane asylum. in 1972, he murdered two children... broke into a house and found them asleep in bed. it was a little boy, five an a half, and a little three- year-old girl. after the coroner's investigation, their bodies were taken to the mortuary, where the undertaker took one look at them and said he couldn't have their bodies reconstructed for the funeral without six days of steady work. then he asked what had been the murder weapon, because looking at the mess in front of him, he couldn't imagine what had been used. the coroner told him there had been no murder weapon. the killer had used only his hands. the undertaker went to work and had them done in four.
+speaker2: what's the matter?
+speaker1: he's been here.
+
+speaker1: do you think he'll try to see you again? 
+speaker2: i don't know. he said he had no place else to go.
+
+speaker1: let's play it safe. let's assume that he will. 
+speaker2: reacting to this possibility.
+speaker1: will you work with me?
+
+speaker1: you again? 
+speaker2: what are your hours tonight?
+speaker1: no hours. bar's closed on mondays.
+speaker2: i want you to be open if that's possible.
+speaker2: this is tomorrow! now what are your hours?
+
+speaker1: any luck? 
+speaker2: i've come to say goodbye, and thank you.
+speaker1: you found him?
+speaker2: i think so.
+speaker1: where?
+speaker2: from here on, i go it alone.
+speaker1: what's the point of chancing it, cliff? we'll let you take the credit.
+speaker2: no.
+speaker2: i'm going to kill him, charlie.
+speaker2: the closer i get to this guy, the more i... it gets to me. i don't know...
+speaker1: i think you'd better go on home, cliff. you've fallen in.
+speaker2: no. not this time. this is the case that makes up for a whole career. if you can't understand it now, you will in a few years.
+speaker1: what part does money play in all this? play straight with me.
+speaker2: for what i'm being paid, it's not out of line.
+speaker1: who's hired you for this?
+speaker1: so you're a hitman now.
+speaker1: you could get busted.
+speaker2: i understand that.
+speaker1: what are you going to use?
+speaker2: jimmy needles.
+speaker1: you're stretching our friendship, cliff. if you blow this at all --
+speaker2: you'll never hear from me again.
+speaker1: take your time. do it right.
+speaker2: don't worry.
+speaker1: do you need any help preparing for this thing?
+speaker2: i'm ready. i'm just trying to think where he could be in the meantime.
+
+speaker1: what happened to you? 
+speaker2: coffee.
+speaker1: you get mugged?
+speaker2: black.
+speaker1: coffee's twenty-seven.
+speaker1: coffee's twenty-seven cents. ya got it or don't ya?
+speaker1: okay, buster, one cup. on the house.
+speaker1: drink it and be on your way.
+speaker1: you're welcome.
+speaker2: no, thank you.
+
+speaker1: well! i can't say much for your protocol, but your timing's dead on. here's to you, pardner. 
+speaker2: i'm looking for an old buddy of mine, english fella. name's crazy curt. any of you guys seen him?
+speaker2: i owe him some money.
+speaker1: aaahh. show me an honest man...
+speaker2: stands about so. brown hair. face kind of banged up. was in an accident.
+speaker1: oh, yeah? i was just with that guy, not more'n an hour ago. looked bad. crazy curt, huh?
+speaker2: where?
+speaker1: hell, i can't remember. prob'bly see him again though. tell you what. you leave the money with me, i'll see he gets it... as a favor to you.
+speaker2: i have to talk to him.
+speaker1: whatsa matter? you don't trust me? i'll have you know i used to be a college professor. we can work together.
+speaker2: sure. keep the bottle. i'll be back.
+speaker1: "long life to the grape! for when summer is flown, the age of our nectar shall gladden our own." that's shelley, you know.
+
+speaker1: hey, hank, what're you doing open tonight? 
+speaker2: keep it, honey. my treat.
+speaker1: that how you make a buck?
+
+speaker1: no luck. you see him? 
+speaker1: he still could be out there, though.
+speaker2: oh,
+speaker1: are you all right?
+speaker2: i'm okay.
+speaker1: i'm going to hang around outside for awhile. i'll be back on and off again all night.
+
+speaker1: are you sure you're okay? 
+speaker2: i'm fine.
+speaker1: all right. bolt your door. don't let anybody in, no matter what.
+speaker2: okay.
+speaker1: i'll be seeing you. listen. thanks.
+speaker2: sure.
+
+speaker1: i just have to talk to you. i want you to be my friend. 
+speaker1: please...
+
+speaker1: so this will be your first time? an old salt like you? 
+speaker1: you'll love it here. it's where they make the bombs. it's where they make the planes that carry the bombs; the planes we saw over singapore and manila.
+speaker1: there she is. that's america.
+
+speaker1: what's the matter? 
+speaker2: save it for later. let's go out and get some food.
+speaker1: what about the lad? you can't leave him.
+speaker2: curt's asleep. he'll never know we're gone.
+
+speaker1: as he stares at the sign. 
+speaker2: hey, crazy curt!
+speaker3: hail fellow well met, and all that jazz. it's our lucky day! a friend of your's got money for you. we got to get back to the park and meet him.
+speaker3: c'mon. he'll be comin' for you, crazy curt. s'got some money. we'll get us a little joy juice.
+speaker3: c'mon! hey!! you really are crazy! c'mon!
+speaker3: "blow, winds, and crack your cheeks! rage! blow, you cataracts and hurricanoes, spout till you have drench'd our steeples and drown'd the cocks!"
+
+speaker1: duncan. duncan. it's over now. come on out. 
+speaker1: my name's john clifford. i'm a private detective. i've been hired by alexander mandrakis to take you back. i'm not going to hurt you.
+
+speaker1: now... it's been years. they're grown up. 
+speaker1: i look at where i am now. i know i could've done better, but... it's too late for that.
+speaker2: i know.
+speaker1: well, you've got to keep looking, i suppose.
+speaker2: i don't think he'll come back here.
+speaker2: thanks... for all your help.
+speaker2: i know it wasn't easy. maybe, someday, i'll be able to...
+speaker1: i wish you wouldn't leave me altogether...
+speaker1: i'm not a young woman anymore. i've given up all my dreams of the future. now, i just want to make it to the end. you know what i mean. clifford smiles at her gently. he knows exactly what she means.
+speaker2: i'll be around.
+speaker1: sure.
+speaker2: you like ice cream?
+speaker1: yes.
+speaker2: what flavor?
+speaker1: chocolate chip.
+speaker2: okay.
+
+speaker1: hi, mommy! 
+speaker2: mommy, what's for dinner? could we have hamburgers?
+speaker3: is that all you ever want?
+speaker2: hello?
+speaker4: hey, how's my little tiger?
+speaker2: daddy, junie threw my baseball down the street; and i can't find it!
+speaker4: well, we'll look for it real hard later. let me talk to mommy.
+speaker2: okay. bye, daddy.
+speaker3: hi.
+speaker4: hi, babe -- whaddya say you put on a dress, and i take you out to dinner tonight?
+speaker3: great... what's the occasion?
+speaker4: just a little surprise.
+speaker3: what?
+speaker4: i'm leaving here now; be home in half an hour.
+speaker3: okay, see ya.
+speaker4: bye, babe.
+speaker2: mommy, is daddy gonna get me a new baseball?
+
+speaker1: dr. and mrs. mandrakis are out of town. 
+speaker2: for how long?
+speaker1: three more weeks.
+speaker2: it's just as well. will you be here?
+speaker1: yes.
+speaker2: here. call if you need me.
+
+speaker1: ...i pray the lord my soul to keep. if i die before i wake, i pray the lord my soul to take. bless mommy and daddy and... 
+speaker2: and me.
+speaker1: ...and granmom and aunt lucy and uncle george...
+speaker2: and me!
+speaker1: ...and her. now will you tell us a story?
+speaker3: no, i will not tell you a story. you go to sleep now. and be good. carol will be here while we're gone.
+speaker1: goodnight.
+speaker2: mommy, will you come here a minute? i want to tell you something.
+speaker3: what is it?
+speaker2: come closer.
+speaker2: i love you.
+speaker3: i love you, too, junebug. goodnight. sleep tight.
+
+speaker1: hi, carol. 
+speaker2: hello, mrs. lockhart. i saw your picture in the paper the other day. congratulations.
+speaker1: ugggh... wasn't it a dreadful picture?
+speaker3: i thought it was nice.
+speaker3: are the kids asleep?
+speaker1: they will be soon. give them about twenty minutes and then take a peek -- but if stevie sees you, you'll have to tell him a story. here's the number of the restaurant. call us if you need us. for police, ambulance, any emergency like that, just dial 911. you know that, right?
+speaker2: nine-one-one? oh, sure.
+speaker1: and just in case, i've written the number of the children's uncle george and aunt lucy here, too.
+speaker3: honey, in ten seconds i eat the staircase.
+speaker1: okay. okay.
+speaker1: here.
+speaker3: i'm not wearing that thing!
+speaker2: have a good time.
+speaker1: thanks, carol.
+speaker3: bye, carol.
+speaker2: goodbye.
+speaker1: goodbye.
+
+speaker1: hello? 
+speaker2: hi. it's me.
+speaker1: oh, hi.
+speaker2: can you come over?
+speaker1: i can't. i really have a lot of work to do.
+speaker2: ohhh...
+
+speaker1: i've eaten enough breadsticks to turn into a pretzel. 
+speaker2: john, tell me about the surprise.
+speaker1: oh, yeah. brace yourself.
+speaker2: i'm braced.
+speaker1: good. i got the sack today.
+speaker2: what sack?
+speaker1: the can... i was fired!
+speaker2: oh, sure.
+speaker1: you don't believe me?
+speaker2: no, i don't believe you.
+speaker1: well, wally did call me into his office today. and he did tell me i didn't have my old job anymore.
+speaker2: john, what did you get?
+speaker1: are you ready for this?
+speaker2: district sales manager!
+speaker1: regional!
+speaker2: regional?!
+speaker1: nah, district.
+speaker2: john, i don't believe it! district sales manager!
+speaker2: well, it's about time!
+speaker2: not you. it's about time they recognized you for what you are.
+speaker3: enjoy your dinner, folks.
+speaker1: i'll be the youngest district manager in the company's history. am i hungry!
+speaker2: does this mean a raise?
+speaker1: it sure does.
+speaker2: how much?
+speaker1: a lot.
+speaker2: how much?
+speaker2: you're kidding! and a car?
+speaker1: and a car.
+speaker2: john, i'm so proud of you.
+speaker1: what's the matter? you don't like your food?
+speaker4: mr. and mrs. lockhart?
+speaker2: that's right.
+speaker4: there's a telephone call for you.
+speaker2: eat your dinner. it's probably carol. i'll talk to her.
+speaker2: hello?
+speaker5: have you checked the children?
+
+speaker1: jill, what's happening? what's wrong? 
+speaker2: it was him! somebody call the police! help me!
+speaker1: wait a minute! just hold on! sweetheart, what was him? what are you talking about?
+speaker2: that man... curt duncan... he's home again! he's got our children!
+speaker1: he was on the phone? jill nods.
+speaker3: hello?
+speaker1: hello, carol, it's mr. lockhart. what's going on over there?
+speaker3: nothing's going on.
+speaker1: is everything all right?
+speaker3: yes, there's nothing --
+speaker1: are you sure?
+speaker3: everything's fine. why? what's --?
+speaker1: carol, listen to me very carefully. if there's a man in the house, if there's any reason why you can't talk to me right now, just answer yes to me over the phone. that's all. if there's any danger of any kind, just say yes.
+speaker3: i don't understand what's happening. what man in the house?
+speaker2: carol, it's mrs. lockhart. answer me truthfully. when was the last time you looked in on the children?
+speaker3: about forty-five minutes ago. everything's fine. they were fast asleep.
+speaker1: carol, i'm sorry about all the hysterics. we're leaving the restaurant now. we'll explain everything when we get home. before we hang up, could you do just one more thing for me, please?
+speaker3: what?
+speaker1: would you go upstairs and, and check on the children for me?
+speaker3: sure. hold on.
+speaker4: what seems to be the problem here, sir?
+speaker1: officer, i'm john lockhart. just a second please, and i'll explain everything.
+speaker2: i'm jill johnson, the babysitter seven years ago with the child killer.
+speaker1: the babysitter. the guy got into the house and killed the two children upstairs.
+speaker5: oh, yeah, i remember something about that. a greek doctor...
+speaker1: that's right. that's the one.
+speaker2: hello?
+speaker2: carol?
+speaker2: carol? carol?!
+
+speaker1: carol? carol? 
+speaker1: jill!
+
+speaker1: mommy? 
+speaker2: sshhh...
+
+speaker1: nothing was wrong? 
+speaker2: when i got back to the phone, the line was dead. i figured we got cut off somehow. what's been going on?
+
+speaker1: what are you thinking about? 
+speaker2: if i ever get my hands on the guy that made that call...
+speaker1: john, it wasn't a prank. i know that voice.
+speaker2: he disguised it though, didn't he? same as before?
+speaker1: i know that voice.
+speaker1: how can we just sit here?
+speaker2: look, we promised never to talk about this.
+speaker2: what are we supposed to do? leave town? take the kids and lock ourselves up somewhere? come on... let's get a good night's sleep, and in the morning we can rethink this whole thing.
+speaker1: nothing has to be rethought. and i'm not about to fall asleep.
+speaker2: try to relax, honey. i'm here. we're both here. the house is locked up. the cops'll be just outside all night long. we're safe now.
+speaker1: that's what they told me before.
+speaker2: okay. look. if it'll make you feel any better...
+speaker2: i'll keep it right here beside me all night. you know i'm a light sleeper and a good shot. are you satisfied?
+speaker1: john, i'm sorry to be putting you through all this.
+speaker2: hey, you're not putting me through anything that you don't have to go through yourself. i'm with you all the way. trust me. okay? jill nods. john leans forward and kisses her.
+speaker2: that's my girl. he gets up and walks out of the room talking.
+speaker2: now try to relax. we'll get some sleep. you'll be surprised how differently things will look in the morning.
+speaker1: honey...
+speaker2: what?
+speaker1: not so loud. you're going to wake the children.
+speaker2: naw. those kids'd sleep through an earthquake. they're good kids. here, take a couple of these. they're just what the doctor ordered.
+
+speaker1: what's a word for "an outsider, of sorts"? 
+speaker2: trespasser.
+speaker1: uh-uh. eight letters.
+speaker2: stranger.
+speaker1: uh-uh. starts with an "i".
+speaker3: hey, bert. a report just came in on that guy, curt duncan.
+
+speaker1: broke outta the nuthouse two months ago. 
+speaker2: oh, yeah? you going to put that in our report?
+speaker3: diamonds, charlie. diamonds was led.
+speaker1: course i'm going to put it in the report. maybe this gal tonight really did get a call from him. who knows?
+speaker3: your lead, charlie.
+speaker3: what the are you doing? that's a trump.
+speaker4: a card laid is a card played.
+speaker2: yeah, you're right. we'd better leave that on ruznik's desk in the morning.
+speaker4: toss 'em in. i got the rest.
+speaker3: kay-reist!
+speaker5: hey, tucker, lemme see that a minute.
+speaker5: you guys have a stake on the house?
+speaker1: bernstein and waller are checkin' it every twenty minutes or so.
+speaker5: thanks.
+speaker2: hey, what's an eight letter word for "an outsider, of sorts"? starts with an "i".
+speaker1: intruder!
+speaker2: right! intruder!
+
+speaker1: hello? 
+speaker2: cliff?... i think i got something for you...
+
+speaker1: operator. 
+speaker2: can you dial a local number for me?
+speaker1: what is the number, please?
+
+speaker1: operator, what does that mean? 
+speaker2: i'm sorry, sir, that line seems to be disconnected.
+speaker1: why don't i get a recording?
+speaker2: i don't know, sir. maybe the number was just recently disconnected. maybe there's a temporary malfunction in the wiring. why don't you try it again in the morning?
+speaker1: yeah, okay. thanks.
+
+speaker1: stevie... stevie... 
+speaker2: yes?
+speaker1: stevie, listen to me. where did you get this candy?
+speaker2: what?
+speaker1: where did you get this?
+speaker2: the man gave it to me...
+speaker1: what man?
+
+speaker1: john?... john?... 
+speaker1: john!... john!...
+speaker2: your husband's okay. then he is gone.
+speaker3: mommy?
+
