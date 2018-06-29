@@ -1,0 +1,347 @@
+Agent: this is a at american express can i help you?
+speaker: oh yes A this is B
+Agent: ok) thanks what can i help you with?
+speaker: well C is going to go to Ottawa
+Agent: is this for a new reservation?
+speaker: yes and I, what I need right now are um choices
+Agent: just flight information then?
+speaker: right
+Agent: ok and what date is he gonna go?
+speaker: the twenty second and he needs to be there in time for an evening meeting
+speaker: if he can be, say around six o'clock
+Agent: let me see here
+speaker: twenty second of June did I make that clear?
+Agent: yeah a- i assumed that yeah. ah there's nothing really that gets in that
+Agent: early. uh air canda has a connection through toronto that leaves san
+Agent: francisco at seven fifty a.m. arrives toronto at three thirty five but
+Agent: the connection to ottawa doesn't leave until five fifteen getting into
+Agent: ottawa at six ten (and
+speaker: when)
+Agent: that's about the earliest one
+speaker: um ok
+Agent: other than leaving the evening before. i mean the, you know like just
+Agent: after midnight
+speaker: so we have one tha- on Air Canada that goes to Toronto huh?
+Agent: right and then it's a change of planes there but it doesn't arrive into
+Agent: ottawa until six ten
+speaker: let me take all that down anyway ok I guess it's too, at what time does it
+speaker: get to Toronto?
+Agent: ah three thirty five p.m.
+speaker: mm hmm
+Agent: and departs there at five fifteen. do you want the flight numbers on these?
+speaker: right uh huh
+Agent: uh the first one is air canada flight seven fifty eight
+speaker: mm hmm
+Agent: the connection is flight four sixty
+speaker: uh huh.  and it arrives Ottawa
+Agent: at six ten p.m.
+speaker: all right do you have any that get in- into ah Ottawa later in the evening?
+Agent: ah yes one second
+speaker: ge- are there any direct flights at all?
+Agent: ah only if there's an overnight direct flight on piedmont but it leaves
+Agent: leaves the night before at eleven forty p.m.
+speaker: let me see I'm writing this down.  that's Piedmont what
+Agent: ah flight twelve fifty it really isn't worth considering i just noticed
+Agent: it makes three (stops
+speaker: no) no
+Agent: i mean it's direct in that it's the same plane all the way through but
+Agent: ( it's ??
+speaker: ??) going to take him all night
+Agent: there are no non stop flights (um
+speaker: that's) what I was wondering ok
+Agent: there's a cp air f- uh connection through vancouver it get's in later it
+Agent: leaves at nine ten a.m. and arrives vancouver (at
+speaker: what) is CP Air?
+Agent: it's a canadian airline like air canada it's
+speaker: and it flies out of San Francisco?
+Agent: uh huh
+speaker: huh what's that number then?
+Agent: uh it's cp air flight one forty
+speaker: one forty
+Agent: it's out of san francisco at nine ten a.m.
+speaker: uh huh
+Agent: arrives vancouver at eleven thirteen a.m. it connects to cp air flight
+Agent: seven twenty two
+speaker: mm hmm
+Agent: that leaves vancouver at one p.m. and arrives ottawa at nine forty eight
+Agent: p.m. that does make one stop between vancouver and ottawa
+speaker: where does it stop?
+Agent: let's see. looks like calgary
+speaker: like Calgary ok
+Agent: yeah, calgary
+speaker: all right then coming back if if you ha- do you have a late flight out on the
+speaker: twenty third.  probably not huh?
+Agent: well let me see. we might cause the time zone's in our v- our favor
+Agent: coming (this direction
+speaker: uh huh) he said either l- late on the twenty third or or any time on the
+speaker: twenty fourth
+Agent: ok. by late he means something like nine ten like that?
+Agent: cause there's an eight p.m. departure
+speaker: tha- ah I think that's (that's
+Agent: would) that be good?
+speaker: uh huh
+Agent: ok there's an eight p.m. departure on air canada it's flight four sixty
+Agent: seven it arrives into toronto at eight fifty five connects to air canada
+Agent: flight seven fifty five that's out of toronto at ten thirty p.m. and
+Agent: arrives san francisco at twelve forty five a.m. on the twenty fourth
+speaker: no I'm it leaves Ottawa four sixty seven leaves Ottawa at what time?
+Agent: eight p.m.
+speaker: eight p.m.  and arrives at Toronto
+Agent: eight fifty five
+speaker: eight fifty five. and leaves Toronto at ten thirty?
+Agent: right
+speaker: (and arrives
+Agent: seven fifty) five does
+speaker: mm huh
+Agent: and arrives san francisco at twelve forty five a.m.
+speaker: ok and then what about Saturday a flight next Saturday?
+Agent: yeah one second. uh there's an early air canada connection through toronto
+Agent: again
+speaker: uh huh
+Agent: it's uh flight one eighty nine out of ottawa at six fifty a.m. arrives
+Agent: toronto at seven forty seven a.m.
+speaker: mmm hmm
+Agent: connects to air canada flight seven fifty seven
+speaker: mm hmm
+Agent: out of toronto at nine thirty a.m.
+speaker: mm hmm
+Agent: and arrives san francisco at eleven forty five a.m.
+speaker: all right I think tha- this is enough for him to consider
+Agent: ok
+speaker: for the time being  and I'll get back with you
+Agent: ok great
+speaker: all right thank you ( very much
+Agent: thanks a lot)
+speaker: bye bye
+Agent: bye bye
+Agent: -----
+Agent: this is a at american express may i help you?
+speaker: A this is B
+Agent: ok what can i help you with b?
+speaker: ok my the traveller is C [spells name]
+Agent: mm hmm
+speaker: first name is CC
+Agent: ok what does he need to do?
+speaker: ok it's for ah the outbound would be on June seventeenth
+Agent: uh huh
+speaker: and it's on US Air flight two seven eight two and I believe it's departing
+speaker: at twelve twenty five p.m.
+Agent: going where?
+speaker: Orange County
+Agent: two twenty five p.m.?
+speaker: yes, uh twelve twenty five sorry
+Agent: ok us air flight twenty seven eighty two?
+speaker: mm yeah
+Agent: ok (got that
+speaker: that right? ok) now this traveller is making uh, this is something out of the
+speaker: ordinary now it says reservations for CC and his wife and
+Agent: yeah, let me make c's reservation
+Agent: and then i'll have to call us air to find out if if we're allowed to make
+Agent: her reservations sometimes you have to make it directly with the airline
+speaker: oh
+Agent: and if we can make it i'll go ahead and do it
+speaker: oh ok
+Agent: ok otherwise you'll have to call us air
+speaker: oh I see all right now coming back on June twentieth
+Agent: leaving at what time?
+speaker: uh  let's see five ten p.m. out of Burbank and this is on US Air two five
+speaker: one one and again this return flight will be for CC and his wife 
+Agent: right n- yeah, i know
+speaker: you'll have to check that one too
+Agent: no i'll check the whole thing yeah
+speaker: mmm
+Agent: what's his wife's name?
+speaker: ah huh
+Agent: yeah we have enough advance purchase time that i can get a nonrefundable
+Agent: fare on the return would bring that portion down to twenty nine dollars
+Agent: one way but i'd have to t- issue the tickets today
+speaker: no give them the non restricted air fare (I think it's one ninety eight
+Agent: non restrictive air fare) one ninety eight right
+Agent: ok sure
+speaker: bye
+Agent: bye bye b
+Agent: -----
+Agent: hi this is a at american express may i help you?
+speaker: hi A this is B Physical Sciences Business Office at uh WWW
+Agent: yeah and uh what can i help you with?
+speaker: uh I need to know uh business class round trip uh fare for ah San Francisco
+speaker: to ah Baron, Switzerland
+Agent: sure one second. is this for a proposal?
+speaker: right
+Agent: i'm checking a couple different carriers just to compare them before i give
+Agent: you the fare on this
+speaker: ok
+Agent: i seem to have a very slow computer here
+speaker: ok that's all right
+Agent: well i have one fare let me give you that and i'm just trying to see if i
+Agent: can verify it on another carrier
+speaker: ok
+Agent: uh one way fare would be fifteen sixty seven
+speaker: w- round trip?
+Agent: the round trip would be that times two plus thirteen for taxes
+speaker: ok
+Agent: ah it looks like approximately right uh using twa instead of american i get
+Agent: fifteen eighty nine a little bit higher
+speaker: ok
+Agent: so it's it's in that ballpark (??
+speaker: ok fifteen) fifty seven times two plus thirteen
+Agent: there isn't any one carrier that flies all the way in there you need
+Agent: to connect somewhere like from twa to air france or pan am to air france
+Agent: or something to get in to baron
+speaker: uh huh
+Agent: and also you can't get business class all the way through but they fare
+Agent: it business class all the way
+speaker: ok
+Agent: you you you would get business class from the us to your european gateway
+Agent: city and then for the little hop to baron you would probably be in coach
+speaker: yeah ok
+Agent: ok
+speaker: that helps
+Agent: ok great
+speaker: thanks a lot
+Agent: you're welcome (bye bye
+speaker: bye bye
+Agent: -----
+speaker: This is for B
+Agent: ok, what is she doing?
+speaker: ok, on the uh thirty first of may
+Agent: uh huh
+speaker: out of SFO to DFW on American thirteen hundred leaving at eleven am
+Agent: ok i've got that it arrives at four twenty three into dallas?
+speaker: right
+Agent: ok and then a return?
+speaker: returning on the first of june
+Agent: uh huh
+speaker: departing DFW at six forty pm on American three eight nine
+Agent: okay, let me see what sort of fare i can get on that
+speaker: ok
+Agent: the only thing that's going to apply is full coach
+speaker: ok
+Agent: and that's nine forty six one way
+speaker: ok
+Agent: i mean round trip, (round trip, sorry
+speaker: thanks a lot
+Agent: ok, thanks, d
+speaker: bye bye
+Agent: bye bye
+Agent: -----
+Agent: a at american express may i help you?
+speaker: yeah this is B B I need to make some travel arrangements
+Agent: ok and what do you need to do?
+speaker: ok on June sixth from San Jose to Denver, United
+Agent: leaving at what time?
+speaker: I believe there's one leaving at eleven o'clock in the morning
+Agent: yeah that's united flight four seventy
+speaker: ok
+Agent: leaves at eleven a.m. and arrives denver at two twenty p.m. out of san jose
+speaker: that's the one
+Agent: and a return?
+speaker: return June seventh
+Agent: leaving at what time?
+speaker: uh I believe there's one at five sixteen
+Agent: yeah that's united flight six fifty nine it arrives back into san jose at
+Agent: six forty two
+speaker: ok
+Agent: let me just see what sort of fare i can get you on this
+speaker: all righty
+Agent: ok the best fare i can get you on this would be five sixty eight round
+Agent: trip. that does have a twenty five percent change cancellation penalty on it
+speaker: ok
+Agent: and we'd have to ticket it by tuesday
+speaker: right that's fine
+speaker: ok thank you very much
+Agent: thanks a lot
+speaker: sure
+Agent: mm bye
+speaker: bye bye
+Agent: -----
+Agent: american express may i help you?
+speaker: oh A this is B
+Agent: ok wh- how can i help you?
+speaker: we have an emergency traveller who is going t- uh
+speaker: Copenhagen from San Francisco to Los Angeles and he is going on a two
+speaker: o'clock flight.
+Agent: he's going to copenhagen today?
+speaker: that's correct yes
+Agent: it's just a flat one way?
+speaker: ah yes that's correct
+Agent: in business class?
+speaker: ok (??
+Agent: yeah we should be able to do it)
+Agent: um) one sec let me just
+speaker: all right
+Agent: start a new reservation for him. what's his last name?
+speaker: um C [spells name]
+Agent: first name
+speaker: D [spells name]
+Agent: ok what flights do you want to have him on?
+speaker: ok he would like to be on United flight one one one seven
+Agent: first of all he's going all the way through to copenhagen?
+speaker: oh, that's right uh huh
+Agent: and this is a connection in what city?
+speaker: ah Los Angeles
+Agent: ok
+speaker: oh and yeah
+Agent: and what time does that united flight leave?
+speaker: it's ah going out at uh two o'clock today, SFO to Los Angeles
+Agent: and then connecting to sas flight nine thirty two?
+speaker: nine thirty two that's right
+Agent: and you said well actually the eleven seventeen i'm showing sold out let
+Agent: me just look (in their system
+speaker: oh no)
+Agent: well we can put him there are other flights oh there i can get a seat on it
+speaker: oh ok
+Agent: ?? it's one of the last ones but i can get it.
+Agent: now is he going business class on the sas flight?
+speaker: um if he can go business class sure
+Agent: they're allowed it for flights over (thirteen hours
+speaker: certainly oh) ok great that's fine
+Agent: and this is just going to be one way only right?
+speaker: that's correct
+Agent: ok b so i have him on united flight eleven seventeen on today friday
+Agent: the twenty sixth out of san francisco at two p.m.
+speaker: right
+Agent: arriving lax at three fifteen p.m.
+speaker: uh huh
+Agent: connecting to sas flight nine thirty two
+speaker: right 
+Agent: out of lax at five thirty p.m. it arrives copenhagen at one oh five p.m. on
+Agent: the twenty seventh of may
+speaker: yes (that's wonderf-
+Agent: that's) on request and that's already confirmed so that's (great
+speaker: that's) just absolutely marvelous and I am wondering now if we can we add
+speaker: another leg to that uh
+Agent: what do you want to do?
+speaker: um we would like on Monday which would be uh let's see the twenty ninth the
+speaker: holiday
+Agent: mm hmm
+speaker: May twenty ninth from Copenhagen to uh Sandestrom
+Agent: ok
+speaker: and that would be uh SAS flight two nine one and that is a ten thirty a.m.
+speaker: departure
+Agent: ok no- this adds a fare that isn't in my system
+speaker: oh
+Agent: so if we do that i'm going to have to send it off to the airlines for
+Agent: faring and i can't guarantee how fast they'll come back with a fare
+speaker: y- exactly yes I understand. ok that's great and you did make the
+speaker: reservation for the uh Monday five twenty nine flight was that possible
+speaker: to go on flight two nine one from Copenhagen?
+Agent: yeah i haven't confirmed it yet but i've just (got it
+speaker: oh ok)
+Agent: requested. one second
+speaker: sure
+Agent: yes b that's that's confirmed now
+speaker: oh ok
+Agent: so we'll just ticket as far as copenhagen and he'll deal with the rest
+Agent: in denmark then
+speaker: uh 
+Agent: is that what you want to do?
+speaker: all right
+Agent: you know if it's not back within an hour we'll just ticket him as far as
+Agent: copenhagen
+speaker: good
+Agent: how's that?
+speaker: all right
+Agent: ok
+speaker: good bye
+Agent: sure, bye bye

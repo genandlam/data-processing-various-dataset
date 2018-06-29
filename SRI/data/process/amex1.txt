@@ -1,0 +1,243 @@
+speaker: My name is B C and I would like to plan a trip
+Agent: and the date you need to leave?
+speaker: well um I have to work a little bit backwards here
+Agent: ok
+speaker: I want to leave on the first flight out of ORD uh Monday morning
+Agent: m- monday (the first
+speaker: the eighth) the eighth
+Agent: ok
+speaker: and I want to take whatever red eye or any other flight that I have to take
+speaker: to get there in time to make that transfer
+Agent: where are you going from chicago to where?
+speaker: Greenbay.  so the first I need to catch the first flight from ORD out
+speaker: to Greenbay, Wisconsin uh Monday morning
+Agent: it looks like the first one is a seven forty on american uh eagle that
+Agent: arrives greenbay at eight fifty one
+speaker: is that booked?
+Agent: i do show space avaliable
+speaker: ok
+Agent: uh, let's see what would get you there then leaving probabl- the seventh.
+Agent: from san jose or san francisco?
+speaker: San Francisco.  actually Oakland would be good too on that
+Agent: i don't know if there are any red eyes from there (let's see
+speaker: ok)
+Agent: there is one on united that leaves oakland at eleven thirty p.m. and
+Agent: arrives chicago five twenty five a.m.
+speaker: so that's a two hour hold there
+Agent: yes
+speaker: waiting for that flight ok any others?
+Agent: uh not from oakland. departing from san francisco it's about the same
+Agent: actually american has an eleven forty one flight from san francisco
+Agent: that arrives chicago five fifty four (and
+speaker: that's ) and hour and a half.  so that's that's a a wash
+Agent: yeah or wait just one moment. or united has a twelve oh one a.m.
+Agent: departure that arrives at chicago five fifty two a.m.
+speaker: oh that sounds good
+Agent: it's about the same i don't know if you prefer united over american or ??
+speaker: I'm a member of the United Travel
+Agent: oh ok
+speaker: group, so let's book that midnight red eye out of SFO
+Agent: uh huh
+speaker: right will leave SFO at
+Agent: i'm sorry just one moment
+Agent: ok put this in the correct order. so you'd be on united flight five two
+Agent: eight
+speaker: United five twenty eight
+Agent: leaving on the eigth from san francisco twelve oh one (a.m.
+speaker: oh)
+Agent: is that right? arriving chicago five fifty two
+Agent: and then you would connect with american flight four two oh eight leaving
+Agent: chicago seven forty a.m. and arriving greenbay eight fifty one
+speaker: seven forty to eight fifty one.  ok and
+Agent: that's actually operated by american eagle
+speaker: uh what's the name of that the flight number
+Agent: four two zero eight
+speaker: four two zero eight ok
+Agent: all righty and from there?
+speaker: mh huh and I need a flight uh let's see I guess mid to late morning back uh
+Agent: from greenbay to
+speaker: Springfield, Illinois that's that's probably going to be via Chicago
+Agent: let's take a look and see what we have. ok united has a nine thirty
+Agent: seven connection through chicago and you would conn- connect with an
+Agent: american flight that would arrive springfield twelve thirty one
+speaker: ok
+Agent: or you can take american both legs leaving at nine thirty two and connecting
+Agent: with the same flight
+speaker: all right so let's see it's only nine thirty seven to twelve thirty ( for
+speaker: that trip
+Agent: mmm hmmmm)
+speaker: that sounds good to me
+Agent: let me give you those flight numbers
+speaker: ok
+Agent: that would be united flight two nine seven four
+Agent: that flight is operated by united express air wisconsin and it leaves
+Agent: greenbay nine thirty seven a.m. arrives chicago ten thirty five, connects
+Agent: with american flight four three oh six. again that's operated by american
+Agent: eagle leaving chicago eleven twenty five and arriving springfield
+Agent: twelve thirty one p.m.
+speaker: uh that gives me half a day there Wednesday that's good
+Agent: ok and then you're going to return from chicago on the fourteen or
+speaker: on the fourteenth right
+Agent: at what time?
+speaker: umm think I'd like to arrive SFO around six in the evening, late afternoon
+speaker: evening
+Agent: united has a three forty five nonstop that arrives san francisco six oh
+Agent: three or they have a five p.m. that arrives seven eighteen
+speaker: what's the next flight earlier than the the uh one that arrives
+Agent: there's a two fifty on american that arrives san francisco five twenty
+Agent: five or a one o'clock on united that arrives san francisco three fourteen
+speaker: I think I'm going to do the one p.m. thing
+Agent: ok that would be united
+speaker: let me let me let me  beg your pardon here for a second I want to pull a map
+speaker: Do you have any distances easily available in your computer there?
+Agent: um, just air mileage actually where were you thinking of from
+speaker: well I want I've got I think it's either two or three hundred miles that I have
+speaker: to drive if I'm going to come into ORD
+Agent: from springfield
+speaker: ah well no it's a different town but it's very very close to that
+Agent: let me ah ah a hundred and seventy five airmiles from springfield to chicago
+speaker: all right I've got my auto club map
+Agent: if you have yeah that's probably better it would give you the
+speaker: all right let me, what have I got. I've got about two hundred and fifty miles
+speaker: that's five hours of driving.  I want to book the um I want to book
+speaker: the three what is it three p.m. or so United flight out of Chicago
+Agent: ok that would be united f- it leaves at three forty five united flight one
+Agent: two nine
+speaker: United one twenty nine and it leaves at three
+Agent: three forty five and arrives san francisco six oh three
+speaker: and
+Agent: you want me to price this and see what we get for the lowest available
+Agent: fare just one moment
+speaker: all right this is two weeks in advance so it should be
+Agent: yeah and you are staying over a saturday night so we should be able to do
+Agent: something here. uh it's taking a moment not sure why
+Agent: ok i can send your united number to hertz also um i'm just looking at
+Agent: this fare we got back the lowest available would be six hundred and
+Agent: sixty dollars round trip that is completely non refundable and the
+Agent: last day to issue the ticket would be today because it has a fourteen
+Agent: day advance purchase
+speaker: so that is that is the discounted fare then
+Agent: yes and that's that's the the lowest
+speaker: ok
+Agent: we would have to issue the ticket today and it would be completely non
+Agent: refundable
+speaker: uh huh
+Agent: and if you want to go with that or we could look at er er portions of
+Agent: your trip going to change or would you like to look at a fare that has a
+speaker: well barring some major catastrophe no it won't change
+Agent: so would you like me to go ahead and set this up to ticket today?
+speaker: yes
+Agent: ok (and
+speaker: I've I've) always wondered if I get bumped on one of these legs because
+speaker: I am flying two different airlines is that going to foul up my ticketing
+Agent: no if if for for their reasons you mean (they
+speaker: say American Airlines)
+Agent: oversold the flight or something
+speaker: American Eagle or whoever it is bumps me off a flight is United going to
+speaker: penalize me?
+Agent: no
+speaker: ok
+speaker: ok that's real fine
+Agent: all righty
+speaker: all right thank you (very much
+Agent: thanks.) ok bye bye
+speaker: bye bye
+Agent: -----
+Agent: um is this going to be business or personal?
+speaker: this is business and uh
+Agent: and what date did you want to leave
+speaker: I'm going to be leaving May first
+Agent: from san jose or san francisco?
+speaker: uh it looks like San Jose tell you what I what I need I have an appointment
+speaker: Monday afternoon at San Bernadino and uh I have appointments on Tuesday
+speaker: um in the City Commerce and in the Santa Ana areas so 
+Agent: mm hmm
+speaker: it looks like probably the best connections are to go out to Ontario and
+speaker: to come back by way of Orange County I don't know if you split that up
+speaker: whether that's gonna
+Agent: it won't it really won't affect the cost um except that if we issue the
+Agent: ticket today we can get you a seven day advance purchase
+speaker: mm hmm
+Agent: fare that's gonna be two fifty eight round trip instead of two ninety
+speaker: mm hmm
+Agent: six
+speaker: mm hmm
+Agent: but uh otherwise un- unless you're staying over a saturday night
+speaker: unfortunately no I ??
+Agent: ok and what time do you need to be in san bernadino by?
+speaker: I need to uh well my appointment is at two o'clock so it looks like I I
+speaker: just looked at the airline guide it looks like there are two American
+speaker: Airlines flights out of San Jose ah one's at nine fifty gets in  around
+speaker: eleven oh two and the other nine twenty five it gets in at ten thirty
+Agent: that's on alaska
+speaker: is that Alaska?
+Agent: yeah
+speaker: ah both of them?
+Agent: no american is the nine fifty flight
+speaker: nine fifty is American uh huh are there price differences depending on
+Agent: no it would be the same airfare it's just up to you which time would be
+Agent: better or if you have a preference (to airlines
+speaker: they're both in) the middle of the morning so
+Agent: yeah
+speaker: equally non productive uh
+Agent: it shouldn't be ba- too bad traffic wise
+speaker: yeah I guess Alaska has a snack on it and American doesn't um
+Agent: would you rather fly on the alaska flight?
+speaker: well p- p- put me on the American that's a little later that's the nine
+speaker: fifty you say?
+Agent: uh huh
+speaker: yeah put me on the American flight
+Agent: ok that's flight fourteen thirteen and it leaves san jose nine fifty a.m.
+speaker: yeah
+Agent: and arrives ontario eleven oh two
+speaker: eleven oh two ok
+Agent: ok and then what date would you be returning?
+speaker: be returning on the second
+Agent: at what time?
+speaker: and uh my last appointment is again two o'clock in the afternoon
+speaker: I would imagine we could depart around five five or six
+Agent: and you wanted to leave from orange county, correct?
+speaker: I think so yeah the appointment going to be right near Orange County
+Agent: ok american has a five p.m. flight
+speaker: that sounds
+Agent: or they have a six p.m.
+speaker: the fourteen ninety six is the five right
+Agent: uh huh
+speaker: um yeah I'd almost I'd almost say uh the five ought to be able to do it um 
+Agent: the only um let me just go ahead and price this and double check but yeah
+Agent: you would be eligible for the two fifty eight fare but the ticket would
+Agent: need to be issued today
+speaker: mm hmm
+Agent: so if you want to change that return you'd have to give me a call by this
+Agent: afternoon or unless you wanted to go with the fare that had no penalty
+Agent: which would be two ninety six
+speaker: ok in other words if I change the return then I'm 
+Agent: you need to do so by by (this afternoon
+speaker: ok it's not something) that I could uh if I if I changed en route er while I
+speaker: was there that would be a penalty
+Agent: yo- yeah then it would be a twenty five percent penalty
+speaker: yeah I I suspect that uh I suspect the uh five o'clock is ok but maybe to be on
+speaker: the safe side we better do the six
+Agent: ok
+speaker: if we wind up having a productive meeting I'd hate to have to push it
+speaker: short for twenty five percent penalty included
+Agent: yeah tha- that's true
+speaker: uh huh
+Agent: ok i can confirm you on the six o'clock flight which is flight three six two
+Agent: so do you want to go ahead with the six p.m. departure then?
+speaker: I believe so yes
+Agent: ok and we want to go ahead with the two hundred and fifty eight dollar
+Agent: fare that (has the twenty five
+speaker: if that's the best) we can do.  what, just for curiosity if you stayed over
+speaker: Saturday what are the rates?
+Agent: well we could get it down to a hundred and twenty four dollars round trip
+speaker: round trip ok (?? efforts
+Agent: but that w- but that would be completely non refundable
+speaker: no no changes ??
+Agent: yeah no changes on a a if if worst now the only thing is that i do need
+Agent: to have the um charge number and the travel advance before we can issue
+Agent: (the ticket today
+speaker: A thank you so much
+Agent: ok thanks
+speaker: bye bye
+Agent: bye bye

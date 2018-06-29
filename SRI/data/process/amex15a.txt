@@ -1,0 +1,230 @@
+speaker: Hi this is A
+Agent: and what can i help you with
+speaker: I'd like to make a reservation for B C
+Agent: ok and what does he need to do
+speaker: he wants to go on July fourth uh TWA eight six two
+Agent: that goes to washington d.c.?
+speaker: right
+Agent: business class or or coach?
+speaker: um he has an upgrade to business right?
+Agent: yeah
+speaker: ok
+Agent: they basically pay full coach although see with his twa frequent flyer
+Agent: number i sh- i can probably get a little better discount than full coach
+speaker: ok 
+Agent: that's basically what, how it works. and then uh return?
+speaker: uh can you give me the time on that?
+Agent: yes one second. that leaves seven forty five a.m. out of san francisco
+Agent: and arrives washington dulles at three twenty seven p.m. twa flight eight
+Agent: sixty two
+speaker: ok and returning July fifth
+Agent: leaving in the evening?
+speaker: uh flight ( sixty three
+Agent: uh huh. ok that's available that leaves washington dulles at four forty
+Agent: five p.m.and arrives san francisco at seven ten
+speaker: seven ten
+speaker: ok
+Agent: just give you a fare on this one ??
+Agent: the round trip fare on that would be nine thirty eight without restrictions
+speaker: ok
+Agent: i could get a slightly lower fare if i used restrictive fares
+Agent: for instance on united coming back rather than twa i know he wants twa but
+Agent: i just have to advise you that i
+speaker: (ok
+Agent: can) get nine eighteen round trip if i used that that's not really much
+Agent: difference anyway
+speaker: ok um I- I'll let him know
+Agent: ok then let me, the fare's going up after tomorrow how about if i go ahead
+Agent: and ticket 'em tomorrow then
+speaker: ok
+Agent: would that be all right?
+speaker: yeah
+Agent: ok ok you'll have them then
+speaker: all right
+Agent: thanks a lot
+speaker: thanks
+Agent: bye
+speaker: bye
+Agent: -----
+Agent: can i help you?
+speaker: yes A I'd like to make reservations for C
+Agent: ok b what does he need to do?
+speaker: he needs to go SFO to Seattle
+Agent: mm hmm
+speaker: and he would like to go at seven o'clock arriving there (at eight
+Agent: uh what) date
+speaker: oh beg your pardon twenty ninth of June
+Agent: and that's seven a.m.?
+speaker: seven a.m. he has A S uh I guess that's (Alaska
+Agent: alaska) flight one sixty one?
+speaker: that's correct
+Agent: and when's he returning
+speaker: uhh he'd like to return on the same day at five on Alaska ninety six
+Agent: ok that's available. the best fare i can get on that round trip is six ten
+speaker: six hundred and ten (dollars?
+Agent: mm hmm.) he's not qualified for any discounts cause he's not staying
+Agent: over (saturday night
+speaker: oh I see) ok well uh would it be the same with United Airlines?
+Agent: mm hmm yeah they have exactly the same fares
+speaker: oh that's absolutely terrible if he stayed overnight
+Agent: well if he stayed over a saturday night
+speaker: oh a Saturday
+Agent: yeah i mean if you purchase at least seven days in advance
+speaker: yeah yeah
+Agent: and stays over a saturday night that's pretty much the only way you can
+Agent: get a discount going to seattle
+speaker: good grief (Charlie Brown
+Agent: and then it) brings it down to you know like two fifty to three hundred
+Agent: dollars round trip
+speaker: w- w- but who's one to go on the weekend?
+Agent: mm hmm
+speaker: umm all right well he's not going on the weekend so it's six ten
+Agent: ok right
+Agent: ok we're all set then
+speaker: thank you
+Agent: thanks a lot
+speaker: bye 
+Agent: bye bye
+Agent: -----
+speaker: A uh need to make some air reservations
+Agent: ok great who's the reservation for?
+speaker: B. C. D [spelling of D]
+Agent: ok fine. ok just one second here. ok and then what does he need to do?
+speaker: ok on Monday the seventeenth of July SFO to Denver
+Agent: leaving at what time?
+speaker: late morning, early afternoon
+speaker: I guess that would be in the ten to two window if possible
+Agent: ok (there's
+speaker: would) prefer United but he does not want something for which we'll be
+speaker: charged a giant fee if there's a change you know a penalty
+Agent: ok yeah and he and that can be on any airline i mean any any flight you
+Agent: can request a non penalty fare
+speaker: oh
+Agent: they're just generally higher, more expensive
+speaker: how much more?
+Agent: well let's see is he staying over saturday night as it is?
+speaker: no
+Agent: then it probably won't be a ma- a major difference if there's any at all um
+Agent: let me find the flights then i can tell you both ways
+speaker: ok great
+Agent: uh there's a flight out at eleven oh eight on united gets into denver at
+Agent: two twenty nine would that be good for him or would he like something
+Agent: later ther- the next later flight on united isn't until two twenty nine
+Agent: in the afternoon so that's a little outside that window
+speaker: I think eleven oh eight he'd leave here what nine thirty to get to the airport?
+Agent: oh yeah uh huh
+speaker: yeah that's great
+Agent: and then uh re- return?
+speaker: returning on Wednesday the nineteenth
+Agent: leaving at what time?
+speaker: this is a tighter window, between ten and twelve noon
+Agent: well there's a flight at twelve noon exactly
+speaker: ahh!
+Agent: arriving one thirty six how would that be?
+speaker: oh that's marvelous!
+Agent: good. so let me just check the fare
+Agent: well let's see ok if we used a penalty fare which i know he doesn't
+Agent: want it would be five sixty eight round trip uh non penalty is six
+Agent: forty four so it's less than a hundred dollers difference
+Agent: so you want to go with the non penalty?
+speaker: I guess we better, that's not a huge difference in these terms?
+Agent: no not really
+Agent: mm hmm ok usually i mean if he was staying over saturday night for
+Agent: instance and able to get an excursion that would cut the fare by, in
+Agent: half probably, or you know less than half of what he's paying
+speaker: Ahhh
+speaker: I know.  Do you have the flight numbers up or are they someplace else?
+Agent: flight eight twenty between san francisco and denver
+speaker: ok
+Agent: leaving eleven oh eight arriving two twenty nine
+speaker: uh huh
+Agent: and flight three forty three denver to san francisco leaving at twelve
+Agent: noon and arriving at one thirty six
+speaker: and those are both United
+Agent: mm hmm
+Agent: ok. how soon do you want the tickets on these?
+Agent: the fares are not guaranteed until we ticket
+speaker: is it better to wait or to do it now wha- whatever you recommend
+Agent: it's it's really got advantages both ways like i said the fare's not
+Agent: guaranteed so if they suddenly decided to change the fares they could
+Agent: but they haven't indicated they have any plans to that effect although
+Agent: they don't always let us know (ahead of time
+speaker: yeah)
+Agent: uh you know if you do if you're sure and everything is, looks like it's
+Agent: right that does guarantee it and this has no penalties on it, so in that
+Agent: sense i might recommend that he go ahead and and ticket it
+speaker: (ok
+Agent: uh) but on the other hand i don't think you'd really risk a lot by waiting
+Agent: if you prefer to do that
+speaker: let's go on and do it
+Agent: go ahead and ticket it ok
+speaker: yeah
+Agent: ?? there's no penalties so even if he finds out oh i wanted to go out on
+Agent: sunday rather than monday it shouldn't be any really difficulty in
+Agent: changing it, so i'll set these up for ticketing tomorrow then
+speaker: ok 
+speaker: ok.  also I am going to be personal tr- uh travel going back to Chicago around
+speaker: the Christmas holiday.  when do I need to make reservations and can I, I
+speaker: will definitely be staying over the Saturday night is there
+Agent: i wouldn't wait too much longer it's amazing
+speaker: oh
+Agent: you know by the end of s- like august some markets start to, you could
+Agent: probably at least still get it in september you know probably by october
+Agent: though you'll find it really difficult to find the excursion space
+speaker: But (I should definitely
+Agent: the most the most) inexpensive ah
+speaker: I should definitely do it in July?
+Agent: uh well i mean you you really guarantee it now
+Agent: so you see you sort of weigh the guaranteeing that you get the lowest
+Agent: fare per right now i mean what they sell right now against possible changes
+Agent: in your itinerary or possible changes in the fares by the airline.
+speaker: what are we looking at round trip, cheapo
+Agent: to to where?
+speaker: to Chicago
+Agent: (chicago
+speaker: from SFO), or San Jose I don't care
+Agent: it's probably going to about the same. actually do do you have dates in
+Agent: mind i could just have a look and see what they look like right now
+speaker: ohh either Friday the twenty second or Saturday the twenty third and
+speaker: returning uh the twenty seventh or twenty eighth Wednesday or Thursday
+Agent: ok at this point both dates are wide open. uh as far as the dates you've
+Agent: just given me the only thing that would affect your fare is thursday the
+Agent: twenty eighth. uh the breakoff point between weekday fares and weekend fares
+Agent: is at twelve noon thursdays, so if you came back leaving after noon on
+Agent: thursday you would pay a little bit h- higher than you would before that
+Agent: or on wednesday
+speaker: Ahhh!
+Agent: but otherwise the friday saturday is the same fare it's considered weekend.
+Agent: uh and there's a few flights that show a f- a few a little space sold but
+Agent: hardly any for the most part those are wide open dates at this point. let
+Agent: me just look at the fares.
+Agent: the fare i'm getting coming back on wednesday or before noon on thursday
+Agent: on united is three seventy three round trip it looks like that's based
+Agent: on a a slightly higher fare on the outbound. they've blacked out the
+Agent: lowest fare on that day on the twenty second. the return though is using
+Agent: the lowest fare.
+Agent: so it's still non refundable a little bit more than what you'd pay if it
+Agent: was not christmas but not by much
+Agent: but for that fare uh well it has to be purchased at least fourteen days in
+Agent: advance which i'm sure you'll do because if you waited until fourteen
+Agent: days at christmas time you wouldn't get the
+speaker: yeah
+Agent: ?? anyway
+speaker: no way
+Agent: uh uh it's like i said non refundable and they don't allow you to hold
+Agent: a reservation without ticketing, so
+speaker: ok
+Agent: like i you know i said uh t-this is a guess and i can't guarantee
+Agent: it but i would say you'd probably be safe waiting through e- into september.
+Agent: you know and ?? but the longer you wait too there may still be space but
+Agent: you may have to be more flexible in your times.
+Agent: you know the more in advance you make the reservation the more chance you
+Agent: have of having exactly the flight you want.
+speaker: will there be much difference between the Friday and the Saturday?
+Agent: uh right now i'm showing them both wide open um i think they're both
+Agent: going to be really bad days because they're the beginning of a weekend
+speaker: yeah
+speaker: ok thanks again
+Agent: you're welcome
+speaker: (Bye Bye
+Agent: bye bye)

@@ -1,0 +1,183 @@
+speaker: yes I'd like to make a travel arrangement please
+Agent: ok one second and what's the name of the last the last name of the
+Agent: passenger?
+speaker: B [spells name]
+Agent: and a first name
+speaker: C.  you know I have to get a travel advance can I give you a call right
+speaker: back?
+Agent: sure, no problem
+Agent: and which day would mr. b like to travel?
+speaker: umm he's departing on June fourteenth going from San Jose to Burbank
+speaker: leaving at six forty p.m. 
+Agent: ok and returning on which day?
+speaker: uhh June sixteenth 
+Agent: and at what time?
+speaker: umm, leaving four fifteen pm from Burbank
+Agent: ok we have him on us air flight twenty six fifty on the fourteenth of june
+Agent: out of san jose at six forty p. m. and into burbank at seven forty two p.m.
+speaker: ok
+Agent: he's returning on the sixteen of june, on us air flight twenty six sixty
+Agent: five leaving burbank at four fifteen p.m. and getting back into san jose
+Agent: at five twenty p.m.
+speaker: ok
+Agent: and the fare on this is a hundred and ninety eight dollars
+speaker: ok um I think we'd like to pay just with the full fare  umm because he could
+speaker: change his mind
+Agent: yeah this is full fare there is no penalties or anything
+speaker: great
+Agent: you'll have it on monday
+speaker: thank you so much A
+Agent: thank you d
+speaker: Bye Bye
+Agent: mm bye now
+Agent: -----
+Agent: american express a speaking
+speaker: Hi uh this is B C I want to go to New York Monday morning
+speaker: ok I went there last Wednesday could you just uh d- do the same thing you did
+speaker: for me then?
+Agent: ok let me check to see if um we still have that old record
+Agent: one second. ok shhs see you flying on pa- uh on pan am
+speaker: why don't we do that (yeah
+Agent: on that special) fare
+speaker: yeah
+Agent: ok and same class of service
+speaker: same class
+Agent: ok
+Agent: kay let me check on that flight one second
+speaker: leaving Monday morning coming back Friday night Friday aftern-
+Agent: i don't have the complete history in front of me, what time did you come
+Agent: back was that the six o'clock flight?
+speaker: It's ah five forty five Pan Am
+Agent: ok
+Agent: and this will be at the fare of lets see ?? it'll be one thousand sixty
+Agent: dollars
+speaker: right
+Agent: ok, and was there anything else
+speaker: no I guess that's it
+speaker: fine thank you
+Agent: you're welcome
+speaker: bye 
+Agent: bye now
+Agent: -----
+Agent: a speaking
+speaker: Hi this is B C at WWW
+Agent: hi mr. c
+speaker: I was wanting to make some arrangements for a trip that I'm going to be
+speaker: taking uhh to LA uh beginning of the week after next see (eighteenth
+speaker: nineteenth twentieth
+Agent: ok ah let me pull up your profile and i'll be right with you here
+Agent: and you said you wanted to travel next week?
+speaker: uh yes uh it I I- have to be in LA a couple of different places actually on
+speaker: the nineteenth and twentieth, now I'm going to be down  in San Diego on
+speaker: personal business uh the previous weekend the sixteenth seventeenth and
+speaker: eighteenth
+Agent: uh huh
+speaker: and basically I have to get into ah ah or near the Ontario airport for the
+speaker: Sunday night and I leave out of the Irvine which I guess is John Wayne
+speaker: Airport on the Tuesday. 
+Agent: ok
+speaker: I guess the first question I had was uh are there
+speaker: flights from San Diego to the Ontario airport in uh in LA or outside LA I
+speaker: guess if (I
+Agent: let me see)
+speaker: if there's a real problem there I might keep a car which I'll have and simply
+speaker: drive up
+Agent: ok there's only two direct or nonstop flights from san diego to ontario and
+Agent: they're both in the morning on sunday
+speaker: Are they?
+Agent: uh huh
+speaker: I think I'm going to forget that
+Agent: otherwise i'd be i'd be routing you through um through los angeles
+speaker: Seems a little ridiculous I think
+Agent: uh huh now do you have to be there on uh sunday mo- sunday night or monday
+Agent: morning?
+speaker: uh uh i- i- it would be Monday uh uh Sunday night yeah
+Agent: well there's a like i say a seven a.m. flight in the morning (out of san
+Agent: diego
+speaker: ??) no,no,no,no
+Agent: ok
+speaker: no, no, no obviously then uh I ha- as far as getting there I'll do it under my
+speaker: own steam
+Agent: ok
+speaker: I'll just keep the rent a car that I'll have  for personal reasons uh for that
+speaker: weekend
+Agent: ok
+speaker: Umm
+Agent: so on the twentieth you want me to ( look at the return
+speaker: that's wonderful so what it boils down to is just one flight getting
+speaker: out of there
+Agent: ok (on the twenty
+speaker: uh now it wi- will be near the John Wayne Airport I guess it i- it is John
+speaker: Wayne in Irvine (isn't it?
+Agent: yes,) yes it is
+speaker: and um and um as far as I can see we're going to have a pretty full day
+speaker: meeting on the on Tuesday the twentieth uh I think I ought to be looking at
+speaker: a flight out of there perhaps no earlier than round about seven o'clock
+Agent: ok is this going (back to
+speaker: back to back to San Francisco)
+Agent: to san francisco
+speaker: yeah
+Agent: excuse me there's an american flight at seven thirty
+speaker: oh no I was going to say that if I had my choice I'd pick American simply
+speaker: because I've got the uh advantage
+Agent: mm hmm
+speaker: I I'm sorry I (my enthusiasm ??
+Agent: yeah) yeah the um let me see here we've got you on american flight nine
+Agent: thirty eight
+speaker: yep
+Agent: leaving on the twentieth of june out of orange county john wayne airport
+Agent: at seven thirty p.m.
+speaker: seven thirty
+Agent: and into uh san francisco at eight fifty seven
+speaker: that sounds great
+Agent: ok
+Agent: and that is ninety nine dollars one way
+speaker: and uh I think that's going to do it, those two ho- hotel reservations and and
+speaker: the one flight
+Agent: you're all set then
+speaker: ok) fine thank you very much for your help
+Agent: you're quite welcome
+speaker: have a good weekend
+Agent: you too
+speaker: bye
+Agent: bye now
+Agent: -----
+Agent: eight thirty five p.m.
+speaker: uh huh
+Agent: he's returning on the thirteenth of june on united flight one one one
+Agent: eight leaving los angeles at four p.m. and arriving into san francisco
+Agent: at five thirteen p.m.
+speaker: mmm hmm
+Agent: and the fare is two hundred and thirty four dollars and sixty four cents
+Agent: ok. almost finished here. ok you said you had a second reservation?
+speaker: yes, please umm ar- are we done with um B?
+Agent: yes we are
+speaker: yes um the second reservation is for D E, last name is E as
+speaker: in the month E.
+Agent: and ffff, what day would he like to travel?
+speaker: uh he wants to go San Francisco to Phoenix on Monday June nineteenth uh
+speaker: Southwest six seven eight out of San Francisco at four ten p.m. into
+speaker: Phoenix at eh five fifty five
+Agent: and returning or continuing on what date?
+speaker: returning on Tuesday June twentieth on United one four three six out of
+speaker: Phoenix at six thirty five p.m. and into San Francisco at eight thirty three
+Agent: ok we've requested southwestern flight six seventy eight that uh leaves
+Agent: on the nineteenth of june out of san francisco at four ten p.m.
+Agent: arriving into phoenix at five fifty five p.m.
+speaker: uh 
+Agent: and as i say request because they're not in our system we will actually
+Agent: phone and have to confirm this reservation with (southwestern
+speaker: right)
+Agent: ok and then returning on the twentieth w- he's on united flight fourteen
+Agent: thirty six leaving phoenix at six thirty five p.m. and arriving back into
+Agent: san francisco at eight thirty three p.m.
+speaker: ok
+Agent: and the fare on this is one hundred and sixty two dollars
+speaker: one sixty two
+Agent: that's correct
+speaker: ok great
+Agent: ok
+speaker: thank you A
+Agent: you're quite welcome ffff
+speaker: hmm mhh (bye bye
+Agent: bye now)

@@ -1,0 +1,534 @@
+Agent: american express can you hold please
+speaker: yes
+Agent: ok thanks for holding this is a
+speaker: Hi A this is B
+Agent: hi b
+speaker: hi
+speaker: uh ok um
+speaker: I need to change um C. D.'s coming back trip from Washington D.C. on
+speaker: the nineteenth of July
+Agent: ok let me get his reservation
+speaker: ok
+Agent: uh what are we changing this to
+speaker: um instead of five ten he wants to take the one forty from Dellas to
+speaker: on United
+Agent: ok that's united one nine five on the nineteenth departing dellas at one forty p.m. arriving san francisco four eleven p.m.
+speaker: and let me just see looks like that's going to be airport check in on the seating
+Agent: now this ticket was issued
+speaker: uh huh
+Agent: ok i'm going to request twenty seven b
+speaker: ok (is it an aisle
+Agent: but i'm not sure) whether we're going to get it, it looks like it's airport check in (on the flight
+speaker: I see ok)
+Agent: um we're going to have to reissue the ticket because there was a twenty five percent penalty on that we're going to have to void that
+speaker: mm hmm
+speaker: it'll still be the same amount or
+Agent: uh i'm checking that the fare eight ninety eight yeah it's still the same fare
+speaker: ok
+Agent: but that ticket must you have the ticket
+speaker: no I don't I it's supposedly coming today I ( haven't u-
+speaker: ok)
+Agent: had a call or anything
+Agent: ok i'll have to call f. cause it has to be in today or it will or he will be charged a penalty
+speaker: ok
+speaker: it's by tomorrow I I mean by Monday 
+Agent: by monday we can't void it has it'll??(?
+speaker: that's fine)
+speaker: ok
+Agent: ok great
+Agent: so the new ticket shall be sent
+Agent: should i wait till monday do you think it's going to change
+speaker: I think Monday's fine
+Agent: is that let me see what the last day for ticketing is
+speaker: yeah Monday's fine
+Agent: it changes so much we issue so many tickets, have to wait to the very last day on some of these people
+Agent: ok why don't i just wait, i'm going to set these up to be issued on monday
+Agent: that way if he changes again we don't have to keep reissuing tickets
+speaker: exactly
+Agent: ok
+speaker: thank you 
+Agent: ok thanks b
+speaker: bye bye
+Agent: bye
+Agent: -----
+Agent: american express this is a
+speaker: Hi A this is C.D. I'd like to make some reservations please
+speaker: no problem
+Agent: what's the last name of the pass(enger
+speaker: Speech Lab)do they care how we how we talk
+Agent: i don't know um what what's the last name of the passenger
+speaker: um I've two passengers F [spells name] and G [spells name]
+Agent: what's the first name on f, h.f. and j.g.
+Agent: ok i don't have a profile for f.
+speaker: I have that information here
+Agent: ok
+Agent: let me get a generic profile one moment
+speaker: ?? he's what I guess you'd call a seldom flyer
+Agent: that's [spells name]
+speaker: that's correct
+Agent: first name h.
+speaker: right
+Agent: ok his id number is
+speaker: [digits]
+Agent: and the charge number
+speaker: charge number is [digits]
+Agent: and the travel advance number
+speaker: well I have two of them one for J which is [digits] ([digits]
+Agent: ok wait) i need h.first
+speaker: H. first
+Agent: yeah
+speaker: [digits]
+speaker: and J.G.'s is
+Agent: ok i don't need his yet
+speaker: ok
+Agent: i can only do one th- one profile at a time
+speaker: I see
+Agent: we do a generic profile and i have to implement all this first then i can go into another area and do the other person ok
+speaker: will you be using this information to start a a profile for H.F.
+Agent: no the only way we'll start a permanent profile a form has to be filled out and completed by him and signed
+speaker: ok well
+Agent: and that'll come back to us and then it's put in the computer
+Agent: would you like to send it to me at e
+speaker: um they have em at the travel office
+Agent: ok
+speaker: the forms
+Agent: ok
+Agent: because everything on this once he departs will completely leave our computer
+speaker: all right
+Agent: and your ex- extension at www
+speaker: [digits]
+Agent: ok let me we have a profile for g., yes we do ok let me get his profile
+speaker: for J.G.
+speaker: ok
+Agent: all right and the same charge number for him
+speaker: yes
+Agent: ok now his travel advance is
+speaker: [digits]
+Agent: ok and they're travelling to what city
+speaker: I'm sorry
+Agent: what city are they travelling to
+speaker: to LA
+Agent: on what date
+speaker: on Tuesday I'm sorry on Monday the tenth
+Agent: is that from san francisco or san jose
+speaker: well I don't know that there is anything available the ideal would be from uh San Jose to uh Long Beach, but I have a feeling that fli- a flight won't be available direct ??
+Agent: a- a and this is for the morning
+speaker: yeah
+Agent: well there's a united at eight fifty five arriving long beach at ten twenty
+speaker: to to late uh it'd have to be at seven o'clock
+Agent: ok that would be san francisco
+speaker: or seven thirty at the latest yeah, if it can't be San J- can it be San Francisco Long Beach
+Agent: no it can't either ok they the service out of san francisco is eight forty five is the first flight out
+speaker: SFO to LAX then
+Agent: ok i can get them san jose lax at seven is is san jose closer to them er
+speaker: mmmm
+Agent: or should we just do san francisco
+speaker: that's hard to say maybe SFO's fine I have a feeling we're in Menlo Park so
+Agent: oh ok
+speaker: and I think they each live fairly close to here so probably SFO is better actually
+Agent: ok there is a united us air or american at seven
+speaker: ok I think we had better price rates on the US Air didn't we or was it
+Agent: pardon me
+speaker: are the rates better on the US Air
+Agent: um they're gong to be exactly the same i'm going to offer you what the lowest fare is it's not going to be on either of those carriers
+speaker: oh 
+Agent: the lowest airfare would be on pan am at six a.m. arriving seven twenty nine their airfare is fifty nine dollars everyone else is ninety nine dollars
+speaker: departing at six a.m. huh
+Agent: yeah six (a.m.
+speaker: that's) that's a little cruel
+Agent: pardon me
+speaker: that's a little cruel they they have to be in LA at nine thirty and so um I think we'll stick with US Air number I think two nine oh eight it goes down
+Agent: do you want to do does it matter to them do you know
+speaker: what
+Agent: uh carrier
+speaker: no
+Agent: can we put them on american
+speaker: why
+Agent: only because we're having a lot of seat problems i if i'm going to try and get them seats together
+speaker: uh huh
+Agent: we're having a lot of problems on the us air seat maps so i i'm prbably not going to be able to i don't know if i can get them together because we we request through our computer specific seats but we're not always getting them but either united or american you know whatever we request pretty much we get
+Agent: i mean it's up to you i i'll just you know book the us air but the- i don't think i'll get to seat them together on that
+speaker: I don't know if they care if they sit together
+Agent: ok
+speaker: oh I feel like flipping a coin now
+speaker: it's real frustrating ( he was ??
+speaker: I was ?? )he the US Air flight was recommended by the manager I don't know if that makes
+Agent: oh
+Agent: well
+speaker: any difference he travels a lot he may of said it because of some preference
+speaker: I think they give really good service it's just that
+Agent: pardon me
+speaker: they give really good service
+Agent: us air
+speaker: yeah
+speaker: well let's go ahead and stick with it
+Agent: ?? i hate their seat maps their just i mean they have seats that we you know we can't book the the way you look when you look at your map you have no idea what they are
+speaker: oh
+Agent: so when you request them you don't get responses at all on them for (days
+speaker: so)like we won't know if it's how about non smoking and window aisle and all that stuff
+Agent: yeahi'm i'm going to do that but i just what i have to do is like a generic request instead of asking for specific seats
+speaker: I see
+Agent: yeah i can see what seats are available but then they don't tell us which ones we can't some of them are blo- blacked out for restrictions or like ?? or whatever and we can't really tell on those on their seats maps are really i know that they said it's a real problem for themselves even their own agents trying to do their own seat assignments
+Agent: ok let me just see here that's us air two nine zero eight
+speaker: departing at
+Agent: seven a.m. on the tenth arriving eight twelve
+Agent: and the return would be i believe us air two seven seven seven departing at nine o'clock p.m.
+speaker: ok what d- is that on the same day
+Agent: same day
+speaker: ok you said seven p.m. 
+Agent: mm hmm
+Agent: ok that'd be us air two five one four on the on the tenth
+speaker: oh
+speaker: they've changed their flight number
+Agent: oh wait hold on a second, th- that's wrong hold on a moment ?? my computer here it's acting very strange
+Agent: ok so that's us air two seven seven seven on the tenth departing los angeles seven p.m. arriving san francisco eight twenty p.m.
+Agent: are we booking, can i put you on hold for a moment
+speaker: sure
+Agent: thanks
+Agent: ok did we are we booking a car b
+speaker: yes
+Agent: under which name
+speaker: G.
+Agent: and do you know what size he uh what his profile if his profile says ?? midsized car, it's what's in his profile should we do that
+speaker: yeah uh mi- uh midsized mm hmm that's on the profile
+Agent: yeah
+speaker: ok
+Agent: well from what these travellers are telling me there's only like a dollar difference between compact and midsized
+speaker: oh ok
+Agent: so i guess that's why they they?? of them have changed their profiles
+Agent: all right so the airfare again like i said is umm one ninety eight total
+speaker: now
+Agent: that's ninety nine a person
+speaker: pardon me
+Agent: ninety nine a person
+Agent: it's one- ninety nine each way on the airline
+speaker: oh I see one ninety eight per person
+Agent: one ninety eight per person
+speaker: all right
+Agent: and i guess
+speaker: I'm sorry
+Agent: i gotta offer what the lowest fares are so i have to see what the lowest fares returning are to
+Agent: ok so the lowest airfare being declined is fifty nine each way on pan am
+Agent: but leaving at six in the morning and
+speaker: right 
+speaker: and coming back when
+Agent: coming back they have a six p.m. arriving seven thirty
+speaker: which again is too early, too bad they didn't just schedule it an hour different maybe that's why it's so cheap
+Agent: mm right so we just have we do we just have to offer it and notate that it was declined
+Agent: ok so one eighteen will be what's declined one ninety nine is what's being paid and the other passenger wants what kind of seating
+speaker: oh H.F.
+Agent: yeah?? a profile
+speaker: he would like a nonsmoking window
+Agent: ok and these tickets will be sent over today is there anything else
+speaker: yes um I need u- wh- let's see we've gotten the car in uh in at LAX from wh- wh- what rental agency
+Agent: that's hertz, hertz midsized
+speaker: Hertz midsized in J.'s name and um I need one more thing um H.F. does
+speaker: not drive and needs uh some kind of arrangement from his home to the
+speaker: airport so I believe there's a limo that goes directly by WWW  and
+speaker: he's only about a block from there from here 
+Agent: ok there's there's the www the um airport connection has a thirteen dollar it's thirteen dollars and they have a pickup right at www
+speaker: ok
+Agent: if he takes a limosine it's twenty nine each way
+speaker: uh huh
+Agent: to take a limosine
+Agent: so does he want the airport connection that just picks up right at www
+speaker: y- yeah I think I'll go ahead and commit him to that
+Agent: ok
+speaker: I don't think he wanted to to
+speaker: spend twenty nine each way
+speaker: to be committed to it but do you know this area
+Agent: uh huh
+speaker: or are you not in on this site 
+Agent: no i'm not there but (um
+speaker: yeah) ok
+speaker: I just wasn't sure how far away this is or how he gets to work in the morning if he walks or what
+Agent: well how far ?? where's he at
+speaker: I'm just wondering how far he really is from c- from our site
+Agent: i know where you're at but w- do you know where he's at
+speaker: he's at the [numbers] block of [street name]
+Agent: ok i know where [street name]'s at
+speaker: is it
+Agent: i'm trying to think [street name] runs right up to [street name] he's in palo alto
+speaker: no Menlo Park
+Agent: oh i didn't know that went down to menlo park
+speaker: yeah I think he really is pretty close but uh I am committing him to
+speaker: making it into WWW by like six in the morning or something
+speaker: what time is the pickup
+Agent: um they are ten minutes to the hour so it would have to be six fifty
+Agent: no it can't be six fifty it'd have to be like five fifty they might
+Agent: have a six let me see six fifteen i think they have like a six fifteen
+Agent: that would get him there like a quarter to seven but i don't know if
+Agent: that's like going to be enough time to check in
+speaker: well he won't have any luggage
+Agent: a quarter to seven is a little close
+Agent: ok let me let me call and i'll put him on the best one we can
+speaker: yeah that
+Agent: and see exactly what their times are
+speaker: yeah that may not be appropriate I don't want him to both have to walk
+speaker: all walk over to WWW and
+Agent: oh
+speaker: um you know be here
+speaker: if the timing works for that then I think that'd be appropriate otherwise I think we should get the limo
+Agent: ok you mean at six fifteen
+speaker: if they have one at six fifteen he'll take that one
+Agent: see the- they're not going to be at six thirty, cause it takes them about a half hour to get to the airport he wouldn't make his flight
+speaker: uh huh six let's see
+Agent: it's probably i think it's like ten to se- ten to six or then i think they then have another one at i'm not sure if they're just ten minutes to the hour it would be ten to six and that( would
+speaker: ??) it's kind of tough to decide what would work cause I'm not a traveller and I their
+Agent: yeah
+speaker: are so many things I don't know about this but um what time do you think he should arrive at the airport if he has no luggage and wants to get on the seven o'clock flight
+Agent: well if he he he sould at least arrive twenty minutes before the flight if not they can sell his seat to someone else
+speaker: oh
+Agent: so that's the problem
+speaker: ok so he should he should be leaving here at six o'clock then it seems like
+Agent: six he he would get there about six thirty right so (they leave
+speaker: ??)
+speaker: ten to six
+Agent: yeah if he's disembarking from the van at at six thirty then he's
+speaker: yeah
+Agent: finding his way to the check out window excetera
+speaker: yeah
+Agent: probably twenty till (so
+Agent: e- even) the limosine if he takes the limosine a shared ride limosine
+Agent: for twenty nine dollars there going to pick him up an hour and a half
+Agent: prior to departure cause he's not going to be the only person in that
+Agent: limosine
+speaker: the-
+Agent: their going to go around and make pick ups
+speaker: uh huh
+Agent: and then they're they're probably going to say five thirty they're
+Agent: going to pick him up
+speaker: ok if it if it if it comes if there is one you are you saying there
+speaker: definitely is one at ten to six 
+Agent: there is one definitly ten to six, i'm not certain whether they have
+Agent: them like after ten minutes after the hour i know they have them ten
+Agent: minutes to the hour
+speaker: ok well I think the ten to six would be the most appropriate one
+Agent: ok and does he is that round trip or just the one way
+speaker: that is round trip
+Agent: ok
+Agent: ok i i'll go ahead and book that then that'll also be printed on his
+Agent: itinery his pick up time
+speaker: um ok and how about exact location of pickup where does he need to be
+Agent: i think building a let me find out (ok
+speaker: ok)
+Agent: ok it's building a is where they pick up
+speaker: at the front steps
+Agent: right
+speaker: and what's the name of the company
+Agent: it's airport connection
+speaker: Airport Connection
+Agent: uh huh
+speaker: all right
+Agent: ok
+speaker: that's it thank you very much
+Agent: thanks bye
+speaker: bye bye
+Agent: -----
+Agent: american express travel this is a.
+speaker: Hi I'd like to make a personal reservation
+Agent: ok and who's calling
+speaker: beg your pardon
+Agent: i'm sorry who's calling please
+speaker: um my name's B [spells name]
+speaker: ok um
+Agent: ok and this is uh how many people are going to be travelling on this
+speaker: uh ju- I I'm going to make this reservation for some another individual
+speaker: it'll be one person
+Agent: and how's it going to be paid for
+speaker: I'd like it on my American Express card
+Agent: and what is the last name of the passenger
+speaker: C
+Agent: and that's spelled how
+speaker: [spells name]
+Agent: and the first name
+speaker: D.
+Agent: all right and this is travel from what city to what city
+speaker: um it's going to be uh well let's see I'd like to find out I'd like to
+speaker: get the cheapest rates you can uh th-there's a flight an American
+speaker: Airlines flight fourteen forty this is on the fifth of September that
+speaker: goes from Orange County to Lake Tahoe via San Jose   
+Agent: ok i don't let's see here i'm not sure they're operating on the fifth
+speaker: beg your pardon
+Agent: i show that schedule for american flight fourteen forty on the fifth
+Agent: of december of nineteen ninety nine operating just san san jose to san
+Agent: diego or let me check this one more time hold on a second
+Agent: fourteen forty ok they must of changed all their flight numbers what
+Agent: time was that departing i show
+speaker: well what I need to do is have someone go from Orange County to Lake
+speaker: Tahoe they had a month ago fourteen forty started at six fifty four a.m.  
+Agent: ok
+speaker: and arrived in San Jose at eleven a.m.
+Agent: ok they've changed um is he is he he's not going to stop in san j-,
+Agent: he's not stopping in san jose
+speaker: No he's going th- the most direct route to Or- to Lake Tahoe
+Agent: ok so what they have now the flight number for december is five five
+Agent: eight departing uh john wayne at six fifty a.m. arriving tahoe at nine
+Agent: thirty five a.m. with a stop in san jose
+speaker: ok
+Agent: that's the schedule for december, and that is available what with the
+Agent: return date that would be on that
+speaker: it'd be the same day uh that's that's in September right
+Agent: the fifth of september
+speaker: no tha- I I thought you said December
+Agent: ok september that flight doesn't operate
+Agent: ah let me see here,look at this morning's schedule here again
+Agent: ok i can get that the fifth of september same flight number five five
+Agent: eight and it's returning on the same day
+speaker: yes um what flights do you have returning to uh Orange county uh late afternoon
+Agent: ok there's a direct flight at three thirty p.m. arriving six oh three
+Agent: p.m. on american
+speaker: three thirty 
+Agent: right
+Agent: that's a flight that st- uh goes through san jose also three thirty
+Agent: p.m. and arrives uh john wayne at six oh three p.m. with a stop in san
+Agent: jose
+speaker: what's the next one after that
+Agent: well there going to be connections then
+speaker: yeah ok I'm just thinking ??
+Agent: um connection would be at four twenty five through san francisco
+Agent: arriving seven forty one p.m.
+speaker: I'm I'm thinking this is a minister that's going to be doing a wedding
+Agent: oh i see
+speaker: so it's a little important to have enough time 
+Agent: sure
+speaker: to let me think about that uh let's say the wedding would be around
+speaker: eleven, three thirty get the three thirty flight please 
+Agent: ok that would be american four seven nine on the fifth of september
+Agent: departing tahoe at three thirty p.m. and arriving john wayne at six oh
+Agent: three p.m.and let me check what the airfare is
+Agent: the airfare is two hundred and sixty four round trip
+speaker: ok
+Agent: on that they don't have any discounts without a saturday night stay
+speaker: that's that's ok now that's ah uh uh
+Agent: that's a fully changable ticket also
+speaker: fully changable ok
+Agent: right
+speaker: if he needs to change that or take a later flight he can do so
+Agent: ok you do have a fl a flight through sf that's leaving at four twenty you said
+Agent: right let me give you you want to write down what the schedule is on
+Agent: that so if he needs to know that or
+speaker: uh I'll remember this one
+Agent: ok that's a four twenty five arriving john wayne at seven forty one
+Agent: connects through san francisco and let me see i don't think there's
+Agent: anything after that
+Agent: well there is one later at six six seventeen
+speaker: no th th these two it'll be one or the other of these
+Agent: ok
+speaker: and l- let me schedule the three thirty one
+Agent: ok so those are both confirmed do you know what his seating preference would be
+Agent: for that aisle or window
+speaker: oh make it a window he's not been to Tahoe before and
+Agent: ok
+speaker: nor beautiful down town San Jose
+Agent: that sure is
+Agent: um i can confirm him nineteen f going out and nineteen a returning
+speaker: ok
+Agent: and does he need a car or anything hotel
+Agent: no we'll be picking him up everything'll be just fine on that now now
+Agent: i want to make sure you get the pr- the right b. it's um credit
+Agent: card there
+Agent: a- all right let me get your profile one moment
+speaker: there's two of us at least now
+Agent: ok and you are
+speaker: C.W.
+Agent: c.w. ok let me make sure i have that i have the profile let me look at
+Agent: the bottem for the credit card ok i do have that credit card and i
+Agent: will put it in right now so i have it
+speaker: and if the expiration date says it's expired you can extend it two years
+Agent: this this actually is really old we have eighty seven so i guess we
+Agent: extend it four years on this
+speaker: well i- it it just got when I got it reissued they asked me before
+speaker: about that and they said 
+Agent: yeah
+speaker: it was good until eighty nine but now it's good until( ninety one
+Agent: ninety one)right ok
+Agent: ok so i've put that in there and if and if you just want me to verify
+Agent: i can very with you the number
+Agent: do you have your card out if not i'll just i'm sure it's the same
+speaker: no that's fine
+Agent: did you want me to verify it or uh
+speaker: what the credit card number
+Agent: yes
+speaker: no not necessary 
+Agent: oh ok all right anything else
+speaker: no
+Agent: and when would you like me to send this ticket over to you
+speaker: oh when ever it gets done (uh
+Agent: ok)
+speaker: next week before Thursday for sure
+Agent: ok i can have it over there like the eleventh, that's fine , that would be tuesday
+speaker: that'd be Tuesday that would that'll be fine
+Agent: ok all right anything else i can help you with
+speaker: not right now thank  you
+Agent: thank you mr. b.
+speaker: bye (now
+Agent: bye)
+Agent: -----
+Agent: american express travel this is a.
+speaker: Hi this is B. C. WWW
+Agent: uh huh
+speaker: Do you still provide the personal service of making reservations for
+speaker: WWW employees
+speaker: for air reservation
+Agent: uh huh
+speaker: yes uh huh
+Agent: ok and this is for personal travel
+speaker: right airline reservations
+Agent: uh huh
+speaker: right uh huh
+speaker: ok uh I actually am going to I think be  buying a ticket for someone
+speaker: else and so I need to know some time periods can you help me with that 
+Agent: sure what um
+speaker: this p- this will be from Traver City, Michigan to SFO
+Agent: what date is it for
+speaker: the twenty eighth of August
+speaker: and I'd like an open return but it would probably be something like
+speaker: the uh nineteenth of September 
+Agent: ok now if you have open return you're not going to get the lowest fare
+Agent: the lowest require a confirmed return
+speaker: oh I see
+Agent: cause they're all subject to what days you're travelling and they have
+Agent: to be confirmed with an open return uh you would be paying as high as
+Agent: let me get that five hundred twenty four one way
+speaker: ooh 
+speaker: so you have to have a confirmed return to get the lowest fares
+Agent: ok that five hundred and twenty four dollars one way
+speaker: one way
+Agent: right uh huh
+speaker: and if it's confirmed
+Agent: i ne- i need to know the dates, days (of the week
+speaker: uh say)the nineteenth of September
+speaker: ok
+Agent: ok the lowest airfare would be three fifty three round trip that's a
+Agent: non refundable non changable ticket, you have to make the reservation
+Agent: er buy the ticket within twenty hours after reservations are made
+Agent: the very latest you can make reservations and buy tickets would be
+Agent: fourteen days uh before departure and that would be subject to the
+Agent: fares being available
+speaker: I see uh well gee that certaily a big difference in price (isn't it
+Agent: right) right it's real restrictive too, so once you buy it they can't
+Agent: change anything on it
+Agent: you use it or lose it
+speaker: ok and there's nothing in between th- even with uh confirmed date that
+speaker: would allow for a cancellation at anytime before the 
+Agent: well not not on the only fare that allows you that is the five twenty four so if you have um there's a twenty five percent penalty ticket uh let me get that fare but you still have to use it round trip um you'd have to make your re- changes seven days before the new date or pay a five hundred dollar fare to come home
+speaker: uhh
+Agent: so all all of the fares are real restrictive now today so let me see what the twenty five percent penalty ticket would be
+speaker: what airline is this
+Agent: that's american or northwest the two carriers service that
+speaker: ok and and it's the same no matter if if we changed to United
+Agent: same same re- they're all the same they all are competitive with one
+Agent: another so the fares are the same
+speaker: ok so it's Northwest or American and it goes Traver City to Chicago O'Hara
+Agent: well it depends of who you're using northwest will go through detroit
+Agent: and united will go through actually united doesn't service, united is
+Agent: no you can't use united
+Agent: they don't service traver city so it would have to be american or northwest
+speaker: ok and American goes through Chicago
+Agent: that's correct uh huh
+speaker: ok well I guess I have some thinking to do and some questions to ask
+Agent: ok thank you (very much for your help
+speaker: your welcome) ok
+Agent: bye
+speaker: good bye

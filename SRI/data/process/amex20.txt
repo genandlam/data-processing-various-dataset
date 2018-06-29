@@ -1,0 +1,285 @@
+speaker: A.B.
+Agent: hi mr. b this is c with american express
+speaker: yeah hi
+speaker: ah yes I called to make arrangements for a trip to Vancouver leaving on August nineth and returning on August tenth (from
+Agent: um)
+speaker: SFO
+Agent: ok this is a new reservation here
+speaker: it's a new reservation
+speaker: this is A B [spells name] not [alternative name]
+Agent: not [repeats alternative name] ok yeah i was a little confused there
+Agent: one second here
+Agent: and do you have a charge number at this time
+Agent: ... [break in transcript]
+Agent: ok going up to vancouver you said on the eigth of august
+speaker: on the nineth 
+Agent: the nineth
+speaker: Wednsday the nineth back Thursday the tenth
+Agent: ok and this is from san francisco
+speaker: yeah
+Agent: and about what time did you want to leave
+speaker: ah what's your first one or two morning flights on the nineth
+Agent: ok there's a delta nonstop at seven forty a.m.
+speaker: mm hmm
+Agent: that gets in at nine forty the next nonstop is going to be the next non stop is sold out
+speaker: probably United
+Agent: yes the one second canadian air
+speaker: oh ok
+Agent: united uh at eleven ten is would stop down
+speaker: n-n- that's too late
+Agent: yeah
+speaker: um
+Agent: that delta flight looks the best
+speaker: ok that's Delta flight what and when again
+Agent: delta flight fourteen oh nine on the nineth of august out of san francisco at seven forty and into uh vancouver at uh nine forty
+speaker: ok
+Agent: and then continuing or returning on what date
+speaker: ah returning the tenth
+Agent: returning the tenth right
+speaker: let's get ah two options in here one will be coming back uh direct say leaving around uh five p.m. or so
+Agent: mm hmm
+speaker: and the other option will be leaving a little earlier stopping over in Seattle for a few hours and then coming back down, so let's just go the direct return leaving around five p.m.
+Agent: ok the two non stops are on canadian airlines they are at one forty p.m. and eight p.m. nothing in between there
+speaker: that's it
+Agent: uh huh
+Agent: ok what about a a change of planes or a quick stop over or one stop maybe in either portland or seattle and continuing on down
+speaker: ok
+Agent: connecting through seattle there'd be a four forty departure uh on alaskan air um it connects up with a united flight at six thirty but let me see what you'd how long do you want would you prefer in ah un seattle
+speaker: um  if I stop over Seattle I'll want a few hours so what I'll want to do is um probably not leave Seattle until about eight thirty or so
+Agent: would you still you would still want to leave around the four o'clock five o'clock hour
+speaker: yeah
+Agent: ?? yeah
+speaker: ok
+Agent: yeah well that's one the other thing is i'll look at ah moving that up a bit
+speaker: uh huh
+Agent: to say four o'clock three thirty
+speaker: uh huh
+speaker: second
+Agent: but for the moment let's just consider that four thirty alaska
+speaker: ok
+speaker: and that then you're saying connects with a six thirty United 
+Agent: right there's a four thirty eight on united let me look at that instead
+Agent: and then expand your return
+Agent: ok there's um
+Agent: a like i could get you on a four thirty eight united out of vancouver it's into seattle at five twenty five
+speaker: mm hmm
+Agent: ah i see a seven fourty five p.m. departure on united let me see if there's something later here
+Agent: uh looks like we might need to get you something earlier if you want that kind of time in seattle ah seven fifty is the last flight out
+speaker: seven fifty is the last anybody has out of
+Agent: uh huh
+speaker: Seattle
+Agent: correct
+speaker: oh I thought I'd been there later than that uh    
+speaker: not even a one stop or a non stop
+Agent: ah let me get you on a on a one stop here
+Agent: wait even a one stop that's that's showing to be the last flight out
+speaker: that's it
+Agent: uh huh
+speaker: ?? back to the airport by seven fifteen ok
+Agent: right
+speaker: um ok so you said at the moment you've got a a four thirty eight United out of Vancouver five twenty five into Seattle 
+Agent: uh huh
+speaker: and I guess a couple of United connections but the latest is seven forty five
+Agent: correct
+speaker: and that get get's back in the bay area at what time
+Agent: at nine thirty four
+speaker: nine thirty four
+speaker: ok if I took what would be the normal direct connection from that four thirty eight
+Agent: the normal connection would be a five fifty five departure getting you back in at seven forty eight
+speaker: seven forty eight ok why don't you go ahead and ticket me on that ?? for the return so I'll take that four thirty eight United five twenty five and then departing again five fifty five
+Agent: ok we've got you then on united flight one one five seven on the tenth of august out of woops one second one second hold on just a second i grabbed the wrong flight one second ok that's united sorry one zero four one
+speaker: one zero four one out of Vancouver
+Agent: at four thirty eight
+speaker: right
+Agent: into seattle at five twenty five
+speaker: uh huh
+Agent: connecting to united one one three seven
+speaker: one one three seven
+Agent: leaving seattle at five fifty five
+Agent: and getting into san francisco at seven forty eight
+speaker: ok and informational purposes the last Untied flight and almost one of the last direct flights is seven forty five and what is that flight number
+Agent: ah that flight number is united flight one zero eight nine
+speaker: one zero eight nine
+speaker: ok so I'm up on Delta as a non stop at seven forty and I'm back on United at ah four thirty eight the next day 
+Agent: that's correct
+speaker: ok
+Agent: the fare on this is three hundred and seventy six seventy
+speaker: ok uh three seventy six seventy is there any
+Agent: no restrictions on it
+speaker: no restrictions none ok
+Agent: and i do need to advise you you do need to bring proof of u- united states citizenship
+speaker: yep
+Agent: ok
+speaker: yeah ok 
+Agent: and what about a car or hotel up there
+speaker: ....
+speaker: ok thank you then
+Agent: thank you
+speaker: ok bye
+Agent: bye
+Agent: -----
+Agent: hi a
+speaker: um I just talked to C.D.
+speaker: yeah um let's see on the return 
+Agent: mm hmm
+speaker: um let's see you you mentioned that there was the American flight and there was also a Un- United flight
+Agent: that's correct
+speaker: ok what time does the uh United flight return
+Agent: ok one second
+Agent: the united flight leaves at five forty and gets in at ten eleven
+Agent: connects through denver
+speaker: that goes through Denver ok
+Agent: mm hmm
+speaker: um ok why didn't we go ahead and book him on the um American flight leaving at six twenty two 
+Agent: ok
+speaker: through Dallas
+Agent: ok one second
+Agent: that's american flight six twenty seven on the second of august out of newark at six twenty two p.m.
+speaker: mmm hmm
+Agent: into dallas at eight forty five p.m.
+Agent: connecting to american flight three nine nine
+Agent: leaving dallas at nine forty four p.m. and getting into san jose a at eleven fourteen p.m.
+speaker: ok
+Agent: ok i'm looking one second here
+speaker: so that's ah a DC ten from Newark to Dallas and then a DC nine from Dallas to to San Jose
+Agent: uh let me check that again that is a dc ten correct
+speaker: uh huh
+Agent: and a dc nine you're right
+speaker: ok
+Agent: coming back
+Agent: um
+speaker: now on the um on the outbound
+Agent: mm hmm
+speaker: uh why d- don't you just leave the reservation as is
+Agent: ok
+speaker: because he's not going to be able to upgrade anyway
+Agent: he's not
+speaker: no, no he's not so um just leave um leave
+Agent: it as it be ok
+Agent: the fare does go up it jumps up to nine thirty four uh continental's just a little cheaper market then american is
+speaker: ok
+Agent: and we'll go ahead and set that up for reticket i don't show that he has an american frequest flyer number in his in his profile here does he have one do you know
+Agent: ... [break in transcript]
+speaker: Hi A.
+Agent: hi
+speaker: yeah I'm sorry I ne- I need to um change that to United on the return
+Agent: on the return
+speaker: yeah
+Agent: ok hold on just a second
+speaker: and I have his United um mileage plus number
+Agent: ok we've got that number in the system her i believe oops no we do not
+Agent: ... [break in transcript]
+Agent: that fare will be nine thirty four
+speaker: ok
+Agent: and what we've got him on is united flight two eighty one oops on the second of august out of um newark at um five forty p.m.
+speaker: uh huh 
+Agent: into denver at seven forty three p.m.
+speaker: ok
+Agent: connecting to united flight eight sixty one
+speaker: mm hmm
+Agent: leaving denver at eight thirty six p.m.
+Agent: and getting into san jose at ten eleven p.m.
+speaker: ok
+Agent: let me check seating on this
+speaker: ...[break in transcript]
+speaker: ok thank you
+Agent: thank you
+speaker: mm hmm bye
+Agent: bye now
+Agent: -----
+Agent: express a. speaking
+speaker: yes I need some round trip airfares
+Agent: and this is just for a quote
+speaker: yeah full coach
+Agent: ok
+speaker: and all departing from San Francisco
+Agent: ok what's the first destination
+speaker: ah West Palm Beach
+Agent: one second
+Agent: that would be four eighty eight each direction
+Agent: oops w- wait a second hold on a second sorry about that that is five ninety six each direction
+speaker: ok Pheonix
+Agent: that would be two ninety five each direction
+speaker: Cleveland
+Agent: four ninety eight each direction
+speaker: Louisville
+Agent: five fifteen each direction
+speaker: Columbus
+Agent: and we are talking columbus, ohio correct
+speaker: yes
+Agent: five hundred each direction
+speaker: Tulsa
+Agent: four twenty two each direction
+speaker: Indianapolis
+Agent: you got a lot of projects going
+Agent: ah four seventy eight each direction
+speaker: Milwauke
+Agent: four eighty eight each direction
+speaker: and the last one is Oklahoma City
+Agent: and that's four oh two each direction
+speaker: ok thanks a lot
+Agent: you're welcome
+speaker: bye bye
+Agent: bye now
+Agent: -----
+Agent: this is b.
+speaker: hi B. how you doing
+speaker: hi 
+speaker: ok um I have two reservations to make
+Agent: ok this is for mr. c.
+speaker: one of them is yeah
+Agent: let's take him first cause i like him
+speaker: oh well 
+speaker: good I'm glad
+Agent: ... [break in transcript]
+Agent: ok and what date does he want to travel
+speaker: the second of August
+Agent: out of san francisco let me guess he's going to washington
+speaker: No ha ha ha ha I should have bet you we'll be going to Denver Colorado this time
+Agent: ... [break in transcript]
+Agent: ok and does he want to fly continental or united
+speaker: United
+Agent: and when about what time does he want to leave
+speaker: um after work on that day so hmm were talking eighteen thirty or nineteen
+Agent: ok we can get him that six- eighteen forty rather
+speaker: eighteen forty
+Agent: and continuing or returning when
+speaker: umm  umm he'll come back on the third
+Agent: and again late afternoon
+speaker: uh no this time around fourteen hundred or fifteen hundred
+Agent: ... [break in transcript]
+Agent: uh i can get her get him on a fourteen ten flight
+speaker: hey
+Agent: on united other than that it's continental at fifteen hundred
+speaker: no United's fine
+Agent: ok
+Agent: ...[break in transcript]
+Agent: ok we've got him on united flight three forty six on the second of august leaving san francisco at what is that fourteen forty getting into denver at
+speaker: ??
+Agent: twenty two oh two
+Agent: can you hold on one sec
+speaker: yeah
+Agent: thanks
+Agent: they hung up they don't want to talk to me
+speaker: uh
+Agent: um leaving at six-eighteen forty right(not
+Agent: ???)leaving at yeah yah right it goes that way eighteen forty
+speaker: arriving when 
+Agent: at twenty two oh two
+speaker: twenty two oh two 
+Agent: and returning on the third of august united flight seven seven three
+speaker: mm hmm
+Agent: out of denver at fourteen ten and into san francisco at fifteen forty one
+speaker: hokey dokey
+Agent: and let's check the seats
+Agent: ...[break in transcript]
+speaker: ah the other person is it going to be the same itinerary
+Agent: yep
+Agent: ...[break in transcript]
+Agent: ok ah what's the next name
+Agent: ...[break in transcript]
+speaker: ok I will call you back with the charge number
+Agent: ok
+Agent: ...[break in transcript]
+speaker: bye bye
+Agent: mmm bye

@@ -1,0 +1,250 @@
+Agent: this is b speaking
+speaker: hello I'd like to make plans for a round trip from San Jose to Buffalo
+Agent: ok ah what's your last name?
+speaker: BB b as in boy
+Agent: mhm
+speaker: [spells name]
+Agent: and what day did you want to travel
+speaker: well I'm completely flexible 
+Agent: uh huh
+speaker: uh almost completely flexible in regard to that uh either I want to
+speaker: first of all economy is the first consideration.  I want to go there for
+speaker: two or three days preferably over a weekend
+Agent: mm hmm
+speaker: preferably in July
+Agent: ok any preference as to weekend?
+speaker: um not too much if I could go the weekend of the fifteenth.  for example
+speaker: le- leave Thursday or Friday and come back on the following
+Agent: this was a round trip to buffalo you said?
+speaker: round trip to Buffalo
+Agent: ok one second here
+Agent: ok you said leaving on a thursday and returning on a sunday or a monday?
+speaker: yeah whatever whatever's cheaper (I know there's some 
+Agent: whatever's cheaper)
+speaker: catch there you have to stay over Saturday (night
+Agent: ?? you stay over saturday night) is correct
+Agent: ok um the lowest fare i'm going to be able to find for you would be
+Agent: three ninety eight if and that's totally non refundable if you leave
+Agent: be- after twelve noon on thursday and return prior to twelve noon on
+Agent: monday. the lowest fare travelling uh prior to twelve noon on thursday
+Agent: and returning after twelve noon on monday would be three fifty eight,
+Agent: difference of forty dollars
+speaker: three fifty eight
+Agent: mm hmm
+speaker: wh- what was three ninety eight?
+Agent: three ninety eight is if you travel after twelve noon on thursday so if
+Agent: you were going to leave thursday night and come back say monday uh sunday
+Agent: the fare would be three ninety eight
+speaker: and when would it be three fifty eight?
+Agent: three fifty eight if you were to leave thursday morning and come back
+Agent: thu- on monday afternoon
+speaker: ok that that sounds good the three fifty eight
+Agent: three fifty eight ok. one second here. can i put you on hold a second?
+speaker: ok h-
+Agent: be, be right back with you here
+speaker: ok
+Agent: back with you here
+speaker: I ha- I  had one other question when
+Agent: mm hmm
+speaker: when you find that, would it be cheaper to go the following weekend than
+speaker: it is the weekend of the twenty second
+Agent: ok
+speaker: cause I know sometimes there's a a two week criteria there
+Agent: that's what's happening right now. hold on a second today,
+Agent: hmm it's not giving me the fare i want. we meet all the conditions
+Agent: i'm just looking at the rules here to figure out why. oh i see ok.
+Agent: ok there i got it yeah we do have to put it off to the following week
+Agent: to get those four full fourteen days here (and
+speaker: ok)
+Agent: uh i can get it on american or united right off uh if you have a
+Agent: preference to airlines
+speaker: ah
+Agent: i found that the american lets you sleep in a little bit longer than
+Agent: united did on the outbound flight uh i could get you on an eight
+Agent: thirty seven flight out of san francisco on the twentieth versus something
+Agent: closer to about six fiftyish on united
+speaker: ok um do any of those go out of San Jose
+Agent: um let me check here what we can do there
+Agent: ok i can get you a good ah fare out of on american the same three hundred
+Agent: and fifty eight dollar fare. there's a direct flight out of san jose on
+Agent: american leaves at eight fifty a.m. out of san jose gets into buffalo at
+Agent: six at six thirty three p.m. it does stop down in chicago but you would
+Agent: not get off the plane.
+speaker: ok 
+Agent: and then returning on the twenty fourth there's an american flight that
+Agent: leaves at five p.m. connects in chicago and uh would get into uh san jose
+Agent: at s- nine oh two p.m. i found the flights both on united and american ah
+Agent: around the twelve o'clock hour the one o'clock flights we- these fares
+Agent: were sold out so a lot of people are ahead of you in in grabbing that fare
+speaker: yeah, that's pretty good
+Agent: in the early afternoon right
+speaker: I'd rather go in the morning anyway ??
+Agent: well what i'm saying is returning back coming back from buffalo
+speaker: ok
+Agent: um i've got a five p.m. flight for you tentatively right now because the
+Agent: the one and two o'clock flights are sold out
+speaker: on the returning flight I'd rather go as late as possible (so that's good too
+Agent: ok) ok
+speaker: uh
+Agent: now i can get you a se- an earlier morning flight if you'd like out of uh
+Agent: san jose
+speaker: would it also be direct?
+Agent: ah no this was the only direct one that i saw
+speaker: ?? ah that's a real attraction
+Agent: that's a plus
+speaker: I'll stick with that.  the the day let me just get the exact days
+Agent: ok this was out on the twentieth of july
+speaker: the twentieth is a Thursday
+Agent: it's a thursday morning and coming back monday evening
+speaker: that's perfect and that's for three fifty eight?
+Agent: three fifty eight
+speaker: ok
+Agent: ok you want to think about that or should we go ahead and book that?
+speaker: go go ahead and do it I I got to sort this out once and for all, I've been
+speaker: putting it off
+Agent: ok now this is a non refundable fare this is a hundred percent penalty no
+Agent: returns no changes no cancellations
+speaker: ok
+Agent: and the other stipulation with this particular fare is that they s- they
+Agent: require that we ticket it twenty four hours after we make the reservation
+Agent: or the reservation goes is basically disappears
+speaker: ok
+Agent: um so we would have to ticket this in this in this case today tonight
+speaker: go ahead and ticket it now
+speaker: could you give me the flight numbers on these?
+Agent: sure can on the twentieth of july we have you on american flight one one
+Agent: six zero out of san jose at eight fifty a.m. and into buffalo at six
+Agent: thirty three p.m. on the twentyfourth of july we have you on american
+Agent: flight three ninety three leaving buffalo at five p.m. and getting into
+Agent: chicago at five forty p.m. connecting there with american flight one
+Agent: zero two nine leaving chicago at six thirty p.m. and getting into san jose
+Agent: at nine oh two p.m.
+speaker: what was the Buffalo to Chicago flight?
+Agent: ah buffalo to chicago flight is three ninety three
+speaker: three ninety three
+Agent: uh huh (and
+speaker: ok)
+Agent: all righty you're all set and we'll have this out to you this afternoon
+speaker: thank you very much
+Agent: you're quite welcome
+speaker: bye
+Agent: bye now
+Agent: -----
+Agent: american express b speaking
+speaker: yes I'd just to make some reservations to go to New York City
+Agent: ok and your last name please?
+speaker: the last name would be CC [spells name]
+Agent: and first name?
+speaker: DD [spells part of name]
+Agent: ok one second here. is this a business trip or personal?
+speaker: ah this is business trip
+Agent: and the date you wanted to travel?
+speaker: uh that'd be uh July the eighth Saturday
+Agent: out of san francisco?
+speaker: correct
+Agent: and going into which airport?
+speaker: uh that would be uh JFK
+Agent: and what time of day did you want to tr- fly?
+speaker: um let's see um early in the morning and probably possibly arrive
+speaker: in New York ah let's say maybe mid to late afternoon
+Agent: ok
+speaker: I don't know exactly what (the time is
+Agent: ok we've got) a special fare with pan am it's a seven hundred dollar round
+Agent: trip fare
+speaker: uh huh
+Agent: which is about two hundred and thirty six dollars cheaper than the other
+Agent: airlines
+speaker: hmm
+Agent: um
+Agent: they have a nonstop flight that leaves at eight a.m. and gets in at four
+Agent: twenty five p.m.
+speaker: ok and that's nonstop correct?
+Agent: correct
+speaker: hm ok um h- ho- let's see how much lead time do you generally need to get
+speaker: like the cheaper flights I'm just curious
+Agent: ah let me check here one second
+speaker: ok
+Agent: if you're looking for a penalty fare like a twenty five percent or a hundred
+Agent: percent penalty we would need seven days advance purchase time which
+Agent: does qualify
+speaker: uh huh
+Agent: for a twenty five percent penalty not for the uh hundred percent penalty
+speaker: oh I see I see
+Agent: uh we could get you hold on a second. i tend to forget when uh you guys are
+Agent: going and staying over a saturday night
+speaker: yeah
+Agent: let me look here. do you have a preference as to airlines?
+speaker: um well American or United would be fine
+Agent: ok wh- what date are you returning on?
+speaker: that would be Sunday the sixteenth
+Agent: and time of day?
+speaker: um let's see when's the best time
+speaker: um hopefully uh let's see if I left New York at let's say maybe around
+speaker: two or three o'clock, what time would I get back to San Francisco
+Agent: let me see here. it's a matter of finding flights that leave around that
+Agent: time. most of them leave early in the morning or later in the afternoon
+speaker: ok how much later in the afternoon would that be?
+Agent: ah around the five o'clock hour
+speaker: ok and if I left at five what time would I arrive?
+Agent: you'd get in about nine o'clock
+speaker: oh nine o'clock San Francisco time
+Agent: mmm hmm yes
+speaker: ok yeah that doesn't sound too bad
+Agent: ok let me look for an american flight that does that
+speaker: ok
+Agent: having a hard time finding a non stops uh that match up between airlines
+Agent: i've got to keep you on the same airline for that fare
+speaker: hmmm (I see
+Agent: so) do a little bit of looking around here. right at the moment i'm
+Agent: narrowing it down to twa. ok i can get you a four hundred and fifty eight
+Agent: dollar fare which has a twenty five percent penalty for changes or refunds
+speaker: mm hmm
+Agent: uh would have to be ticketed today
+speaker: ok
+Agent: and it's twa non stop both directions outbound on the eighth of july
+Agent: at eight ten a.m.
+speaker: ok
+Agent: into jfk at four thirty
+speaker: ok arrives at four thirty ok
+Agent: and returning on the sixteenth of july at
+Agent: four twenty five p.m. getting into san francisco at seven thirty p.m.
+speaker: seven thirty p.m. ok so you're saying like American United there's no other
+speaker: flight that had that same type of connection huh?
+Agent: uh looking for not keeping you just on non stops uh i could not find one
+Agent: where the return umm i couldn't find that fare
+speaker: uh huh
+Agent: available on both the going and the coming back on those particular dates
+Agent: at those times that you're requesting
+speaker: I see ok
+Agent: i could put you on connection flights around those times
+speaker: uh huh
+Agent: but that really does a a it adds a couple hours to your trip
+speaker: exactly now that's at the twenty five percent right uh
+Agent: correct
+speaker: ref- wh- what's the one hundred o- or what's the hundred percent?
+Agent: you would need fourteen days advance purchase time in order to get that
+speaker: oh I see ok ok great um yeah ok that flight sounds fine then
+Agent: you want to go with that twa?
+speaker: right
+Agent: ok (that's
+speaker: what's the)
+Agent: twa flight eight forty two
+speaker: eight forty two
+Agent: on the eighth of july out of san francisco at eight ten a.m.
+speaker: ok
+Agent: into jfk at four thirty p.m.
+speaker: right
+Agent: and returning on the sixteenth of july and that's twa flight eight oh three
+speaker: ok
+Agent: leaving jfk at four twenty five getting into san francisco at seven thirty
+speaker: seven thirty p.m.
+Agent: the fare is four hundred and tw- fifty eight dollars
+speaker: ok
+Agent: and it does have a twenty five percent penalty
+speaker: ok
+Agent: you're all set
+speaker: ok fantastic
+speaker: thank you very much
+Agent: thank you very much
+speaker: bye
+Agent: bye now
