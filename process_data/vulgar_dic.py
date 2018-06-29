@@ -31,7 +31,16 @@ def vulgar_collection():
                    'dickweed!','Dickweed','dickwad','dickwad.','Dickwad.','dumb','Dumbass','dumb,','god','God','"god"!'
                    'what...the...fuck..are',"absomotherfuckin'lutely",'fucked.','motherfucker,','fuck-me-lievable...','the-fuck',
                    'motherfucker?',"fuck's ",'fuckin,','fuck!!','jesus.','bitch,',"fuckin'...",'sonsofbitches,','sonsofbitches.'
-                   'sonsofbitch.','sonsofbitch,','jesus,'
+                   'sonsofbitch.','sonsofbitch,','jesus,','fuck?','fuckers!','mother-fucker.','fuck-ups.','fuck...','fucker.','fuck...?'
+                   'goddamnit!',"god's",'god.','god,','dammit!','god.','god...','goddamn--','damned.','damn...', 'motherfucker.'
+                   'fuck-up...','"bitch','sonsabitches','shit?','shit','shit!','shit.','bitch?','bitch!','shit!!','son-of-a-bitch!',
+                   'son-of-a-bitch','son-of-a-bitch!.','bitch.','bullshit.','bullshit!','bullshit','bullshit?','bullshit...','f','shit.',
+                   'son-of-a-bitch...', 'moron,','MORON','moron!','idiot,','idiot','idiot!','idiot.','god!','dick.','jesus!','fuck-',
+                   'god!!','jesus!','christ!!','butt.', "fuck...'",'shit,',"'shit...'","'fuck'","'shit'",'shit...','christ...','sucker.',
+                   'sucks.','fuck..? ','bitch-slap','suck?','sucks,','sucks.','sucks!','dick.','god!','...shit','durn','darned',
+                   'sonsabitches..','sonofabitch,','fucking.'
+                   
+                   
                    ]
     
     arrBad = [
