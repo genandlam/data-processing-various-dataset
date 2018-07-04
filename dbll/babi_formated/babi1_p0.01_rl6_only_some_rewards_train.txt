@@ -1,0 +1,5000 @@
+speaker1: 1 Mary moved to the bathroom.	0
+speaker1: 2 John went to the hallway.	0
+speaker1: 3 Where is Mary? 
+speaker2: garden	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 Daniel went back to the hallway.	0
+speaker1: 6 Sandra moved to the garden.	0
+speaker1: 7 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 John moved to the office.	0
+speaker1: 10 Sandra journeyed to the bathroom.	0
+speaker1: 11 Where is Daniel? 
+speaker2: garden	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Mary moved to the hallway.	0
+speaker1: 14 Daniel travelled to the office.	0
+speaker1: 15 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 John went back to the garden.	0
+speaker1: 18 John moved to the bedroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: garden	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Sandra travelled to the office.	0
+speaker1: 2 Sandra went to the bathroom.	0
+speaker1: 3 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 Mary went to the bedroom.	0
+speaker1: 6 Daniel moved to the hallway.	0
+speaker1: 7 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 John went to the garden.	0
+speaker1: 10 John travelled to the office.	0
+speaker1: 11 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Daniel journeyed to the bedroom.	0
+speaker1: 14 Daniel travelled to the hallway.	0
+speaker1: 15 Where is John? 
+speaker2: office	0
+speaker1: 16 Correct!	1
+speaker1: 17 John went to the bedroom.	0
+speaker1: 18 John travelled to the office.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 Mary went to the bedroom.	0
+speaker1: 2 John journeyed to the bathroom.	0
+speaker1: 3 Where is John? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 Sandra journeyed to the hallway.	0
+speaker1: 6 John journeyed to the garden.	0
+speaker1: 7 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 John journeyed to the bathroom.	0
+speaker1: 10 Sandra journeyed to the garden.	0
+speaker1: 11 Where is John? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Sandra went back to the bedroom.	0
+speaker1: 14 Daniel travelled to the bathroom.	0
+speaker1: 15 Where is John? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 John went to the office.	0
+speaker1: 18 Mary moved to the office.	0
+speaker1: 19 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Daniel journeyed to the kitchen.	0
+speaker1: 2 Daniel journeyed to the bedroom.	0
+speaker1: 3 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Sandra moved to the garden.	0
+speaker1: 6 Sandra went back to the kitchen.	0
+speaker1: 7 Where is Sandra? 
+speaker2: office	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Daniel travelled to the office.	0
+speaker1: 10 Sandra went back to the hallway.	0
+speaker1: 11 Where is Sandra? 
+speaker2: garden	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Daniel journeyed to the hallway.	0
+speaker1: 14 Daniel went to the bathroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 John travelled to the garden.	0
+speaker1: 18 Daniel moved to the hallway.	0
+speaker1: 19 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 Mary moved to the garden.	0
+speaker1: 2 John journeyed to the bathroom.	0
+speaker1: 3 Where is John? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 Sandra moved to the office.	0
+speaker1: 6 John moved to the kitchen.	0
+speaker1: 7 Where is Mary? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Sandra went to the hallway.	0
+speaker1: 10 Mary travelled to the bedroom.	0
+speaker1: 11 Where is John? 
+speaker2: kitchen	0
+speaker1: 12 That's correct.	0
+speaker1: 13 Mary moved to the office.	0
+speaker1: 14 John moved to the garden.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 John journeyed to the office.	0
+speaker1: 18 Sandra went to the office.	0
+speaker1: 19 Where is John? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Mary moved to the garden.	0
+speaker1: 2 Daniel journeyed to the bathroom.	0
+speaker1: 3 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 John travelled to the kitchen.	0
+speaker1: 6 John went back to the bedroom.	0
+speaker1: 7 Where is John? 
+speaker2: bedroom	0
+speaker1: 8 That's correct.	0
+speaker1: 9 John moved to the office.	0
+speaker1: 10 Daniel went back to the garden.	0
+speaker1: 11 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 John went back to the hallway.	0
+speaker1: 14 Mary went to the office.	0
+speaker1: 15 Where is John? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 Sandra travelled to the bedroom.	0
+speaker1: 18 John travelled to the garden.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 John moved to the bedroom.	0
+speaker1: 2 Mary moved to the hallway.	0
+speaker1: 3 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Sandra moved to the bedroom.	0
+speaker1: 6 Sandra travelled to the kitchen.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Daniel journeyed to the bathroom.	0
+speaker1: 10 Sandra moved to the bathroom.	0
+speaker1: 11 Where is Daniel? 
+speaker2: garden	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Daniel went back to the garden.	0
+speaker1: 14 John moved to the kitchen.	0
+speaker1: 15 Where is John? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Daniel journeyed to the kitchen.	0
+speaker1: 18 Daniel journeyed to the garden.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Mary went to the kitchen.	0
+speaker1: 2 John went back to the bedroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: garden	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 Mary went back to the bathroom.	0
+speaker1: 6 Mary moved to the hallway.	0
+speaker1: 7 Where is John? 
+speaker2: garden	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 John went to the kitchen.	0
+speaker1: 10 Daniel travelled to the bedroom.	0
+speaker1: 11 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Mary travelled to the office.	0
+speaker1: 14 Sandra moved to the bedroom.	0
+speaker1: 15 Where is John? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 John moved to the bedroom.	0
+speaker1: 18 Sandra journeyed to the kitchen.	0
+speaker1: 19 Where is Sandra? 
+speaker2: garden	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Daniel moved to the hallway.	0
+speaker1: 2 Daniel travelled to the office.	0
+speaker1: 3 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Daniel went to the bedroom.	0
+speaker1: 6 Daniel journeyed to the office.	0
+speaker1: 7 Where is Daniel? 
+speaker2: garden	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Sandra went back to the bathroom.	0
+speaker1: 10 Sandra journeyed to the kitchen.	0
+speaker1: 11 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Daniel moved to the bedroom.	0
+speaker1: 14 Daniel journeyed to the hallway.	0
+speaker1: 15 Where is Sandra? 
+speaker2: garden	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Sandra travelled to the garden.	0
+speaker1: 18 Sandra went back to the bathroom.	0
+speaker1: 19 Where is Daniel? 
+speaker2: garden	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 Sandra went to the garden.	0
+speaker1: 2 Sandra journeyed to the bedroom.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Mary travelled to the bathroom.	0
+speaker1: 6 John journeyed to the bedroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Mary went back to the kitchen.	0
+speaker1: 10 John went to the kitchen.	0
+speaker1: 11 Where is John? 
+speaker2: office	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Daniel travelled to the kitchen.	0
+speaker1: 14 Sandra travelled to the bathroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 16 That's right.	1
+speaker1: 17 Sandra went back to the garden.	0
+speaker1: 18 John went back to the garden.	0
+speaker1: 19 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 20 Yes, that's right.	0
+speaker1: 1 Sandra went back to the bathroom.	0
+speaker1: 2 Mary moved to the garden.	0
+speaker1: 3 Where is Mary? 
+speaker2: garden	0
+speaker1: 4 Correct!	1
+speaker1: 5 Mary went back to the hallway.	0
+speaker1: 6 Sandra went to the office.	0
+speaker1: 7 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 John went back to the hallway.	0
+speaker1: 10 John travelled to the office.	0
+speaker1: 11 Where is Sandra? 
+speaker2: office	0
+speaker1: 12 Yes, that's right.	1
+speaker1: 13 Sandra journeyed to the hallway.	0
+speaker1: 14 Daniel moved to the office.	0
+speaker1: 15 Where is John? 
+speaker2: office	0
+speaker1: 16 That's right.	0
+speaker1: 17 Mary went to the office.	0
+speaker1: 18 Sandra went to the office.	0
+speaker1: 19 Where is John? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Mary went back to the office.	0
+speaker1: 2 John went back to the bathroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 John went to the hallway.	0
+speaker1: 6 Mary journeyed to the hallway.	0
+speaker1: 7 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Sandra travelled to the hallway.	0
+speaker1: 10 Mary travelled to the office.	0
+speaker1: 11 Where is John? 
+speaker2: hallway	0
+speaker1: 12 Correct!	0
+speaker1: 13 Mary went back to the hallway.	0
+speaker1: 14 Sandra travelled to the office.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 John went to the kitchen.	0
+speaker1: 18 Sandra went to the hallway.	0
+speaker1: 19 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 Sandra moved to the hallway.	0
+speaker1: 2 John moved to the hallway.	0
+speaker1: 3 Where is John? 
+speaker2: office	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 John journeyed to the bathroom.	0
+speaker1: 6 Daniel went back to the bedroom.	0
+speaker1: 7 Where is John? 
+speaker2: bathroom	0
+speaker1: 8 Yes, that is correct!	0
+speaker1: 9 Mary travelled to the bedroom.	0
+speaker1: 10 Mary journeyed to the garden.	0
+speaker1: 11 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 12 That's right.	0
+speaker1: 13 John travelled to the bedroom.	0
+speaker1: 14 Sandra journeyed to the garden.	0
+speaker1: 15 Where is Daniel? 
+speaker2: office	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 John journeyed to the kitchen.	0
+speaker1: 18 Sandra went to the kitchen.	0
+speaker1: 19 Where is John? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Daniel went to the kitchen.	0
+speaker1: 2 Mary travelled to the hallway.	0
+speaker1: 3 Where is Daniel? 
+speaker2: office	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 Daniel went back to the garden.	0
+speaker1: 6 Mary went back to the bathroom.	0
+speaker1: 7 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 Sandra moved to the hallway.	0
+speaker1: 10 John moved to the garden.	0
+speaker1: 11 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Daniel moved to the kitchen.	0
+speaker1: 14 Mary travelled to the office.	0
+speaker1: 15 Where is Daniel? 
+speaker2: office	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Daniel travelled to the hallway.	0
+speaker1: 18 Sandra travelled to the bathroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Sandra moved to the kitchen.	0
+speaker1: 2 Sandra went back to the garden.	0
+speaker1: 3 Where is Sandra? 
+speaker2: garden	0
+speaker1: 4 Yes, that is correct!	1
+speaker1: 5 Sandra journeyed to the office.	0
+speaker1: 6 Mary moved to the office.	0
+speaker1: 7 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Sandra journeyed to the bathroom.	0
+speaker1: 10 Daniel moved to the office.	0
+speaker1: 11 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Daniel went back to the kitchen.	0
+speaker1: 14 Mary moved to the hallway.	0
+speaker1: 15 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 John went to the office.	0
+speaker1: 18 Sandra went to the office.	0
+speaker1: 19 Where is John? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Sandra went to the garden.	0
+speaker1: 2 Mary travelled to the bathroom.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Sandra moved to the bathroom.	0
+speaker1: 6 Mary travelled to the hallway.	0
+speaker1: 7 Where is Mary? 
+speaker2: hallway	0
+speaker1: 8 Yes, that is correct!	0
+speaker1: 9 Mary went back to the kitchen.	0
+speaker1: 10 Daniel travelled to the bedroom.	0
+speaker1: 11 Where is Mary? 
+speaker2: office	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Mary journeyed to the bedroom.	0
+speaker1: 14 Mary journeyed to the office.	0
+speaker1: 15 Where is Daniel? 
+speaker2: garden	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 Mary went back to the bedroom.	0
+speaker1: 18 Daniel went to the garden.	0
+speaker1: 19 Where is Mary? 
+speaker2: office	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Mary journeyed to the garden.	0
+speaker1: 2 Sandra went back to the office.	0
+speaker1: 3 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Sandra went to the bathroom.	0
+speaker1: 6 John travelled to the bathroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 Sandra moved to the bedroom.	0
+speaker1: 10 Sandra travelled to the hallway.	0
+speaker1: 11 Where is Sandra? 
+speaker2: garden	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Mary moved to the bathroom.	0
+speaker1: 14 John went to the kitchen.	0
+speaker1: 15 Where is Mary? 
+speaker2: office	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Daniel moved to the bathroom.	0
+speaker1: 18 Daniel went to the office.	0
+speaker1: 19 Where is John? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Mary moved to the office.	0
+speaker1: 2 Daniel went to the kitchen.	0
+speaker1: 3 Where is Mary? 
+speaker2: garden	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Sandra went to the bathroom.	0
+speaker1: 6 Daniel moved to the office.	0
+speaker1: 7 Where is Daniel? 
+speaker2: garden	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Sandra went to the office.	0
+speaker1: 10 Sandra went to the hallway.	0
+speaker1: 11 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Mary went to the garden.	0
+speaker1: 14 Daniel moved to the kitchen.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 Mary went back to the kitchen.	0
+speaker1: 18 John journeyed to the hallway.	0
+speaker1: 19 Where is Mary? 
+speaker2: garden	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 John went back to the bathroom.	0
+speaker1: 2 Mary travelled to the bathroom.	0
+speaker1: 3 Where is John? 
+speaker2: garden	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 Mary went to the garden.	0
+speaker1: 6 Sandra moved to the garden.	0
+speaker1: 7 Where is John? 
+speaker2: office	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 John went to the kitchen.	0
+speaker1: 10 Daniel moved to the bathroom.	0
+speaker1: 11 Where is John? 
+speaker2: garden	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Daniel went back to the hallway.	0
+speaker1: 14 Mary went to the kitchen.	0
+speaker1: 15 Where is Mary? 
+speaker2: office	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Daniel went to the garden.	0
+speaker1: 18 Daniel travelled to the hallway.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 Mary went back to the bedroom.	0
+speaker1: 2 Mary travelled to the bathroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 John travelled to the office.	0
+speaker1: 6 Mary travelled to the bedroom.	0
+speaker1: 7 Where is Mary? 
+speaker2: garden	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 John journeyed to the kitchen.	0
+speaker1: 10 John moved to the hallway.	0
+speaker1: 11 Where is Mary? 
+speaker2: garden	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Daniel moved to the hallway.	0
+speaker1: 14 Mary went back to the garden.	0
+speaker1: 15 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Daniel went back to the office.	0
+speaker1: 18 Daniel travelled to the kitchen.	0
+speaker1: 19 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Daniel moved to the garden.	0
+speaker1: 2 Mary went back to the bathroom.	0
+speaker1: 3 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Daniel travelled to the kitchen.	0
+speaker1: 6 Sandra went to the kitchen.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Daniel journeyed to the garden.	0
+speaker1: 10 Mary journeyed to the kitchen.	0
+speaker1: 11 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Mary moved to the hallway.	0
+speaker1: 14 John went back to the bedroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: garden	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 John moved to the office.	0
+speaker1: 18 John travelled to the bathroom.	0
+speaker1: 19 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 Mary went back to the hallway.	0
+speaker1: 2 Sandra journeyed to the garden.	0
+speaker1: 3 Where is Sandra? 
+speaker2: office	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Sandra travelled to the bathroom.	0
+speaker1: 6 John travelled to the hallway.	0
+speaker1: 7 Where is Sandra? 
+speaker2: garden	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 John travelled to the garden.	0
+speaker1: 10 Mary journeyed to the bedroom.	0
+speaker1: 11 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Sandra journeyed to the office.	0
+speaker1: 14 Daniel journeyed to the hallway.	0
+speaker1: 15 Where is John? 
+speaker2: garden	0
+speaker1: 16 Correct!	1
+speaker1: 17 Mary journeyed to the hallway.	0
+speaker1: 18 Mary moved to the bedroom.	0
+speaker1: 19 Where is Mary? 
+speaker2: garden	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Sandra journeyed to the kitchen.	0
+speaker1: 2 Sandra journeyed to the garden.	0
+speaker1: 3 Where is Sandra? 
+speaker2: office	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Daniel travelled to the kitchen.	0
+speaker1: 6 Mary moved to the bedroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Sandra moved to the bedroom.	0
+speaker1: 10 John travelled to the garden.	0
+speaker1: 11 Where is Sandra? 
+speaker2: office	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Sandra went back to the kitchen.	0
+speaker1: 14 John journeyed to the bedroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: office	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Daniel went back to the bathroom.	0
+speaker1: 18 Sandra journeyed to the bedroom.	0
+speaker1: 19 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Mary went back to the hallway.	0
+speaker1: 2 Daniel went back to the bedroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: garden	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Sandra moved to the bathroom.	0
+speaker1: 6 Sandra journeyed to the hallway.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Mary went back to the bedroom.	0
+speaker1: 10 Mary went back to the garden.	0
+speaker1: 11 Where is Mary? 
+speaker2: garden	0
+speaker1: 12 That's right.	1
+speaker1: 13 Sandra went back to the bathroom.	0
+speaker1: 14 John went to the office.	0
+speaker1: 15 Where is John? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 Daniel travelled to the garden.	0
+speaker1: 18 Sandra travelled to the hallway.	0
+speaker1: 19 Where is John? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 John went back to the hallway.	0
+speaker1: 2 Sandra journeyed to the kitchen.	0
+speaker1: 3 Where is John? 
+speaker2: office	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Daniel journeyed to the office.	0
+speaker1: 6 John went to the kitchen.	0
+speaker1: 7 Where is John? 
+speaker2: office	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Daniel journeyed to the garden.	0
+speaker1: 10 John travelled to the bedroom.	0
+speaker1: 11 Where is John? 
+speaker2: bedroom	0
+speaker1: 12 That's right.	1
+speaker1: 13 Daniel journeyed to the office.	0
+speaker1: 14 Daniel went to the bedroom.	0
+speaker1: 15 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 Sandra travelled to the hallway.	0
+speaker1: 18 Sandra journeyed to the bedroom.	0
+speaker1: 19 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 John moved to the kitchen.	0
+speaker1: 2 Daniel travelled to the garden.	0
+speaker1: 3 Where is John? 
+speaker2: office	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 Daniel went to the kitchen.	0
+speaker1: 6 Daniel travelled to the bathroom.	0
+speaker1: 7 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 John moved to the bathroom.	0
+speaker1: 10 Mary journeyed to the bathroom.	0
+speaker1: 11 Where is John? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Mary went to the kitchen.	0
+speaker1: 14 Daniel journeyed to the garden.	0
+speaker1: 15 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Daniel went to the kitchen.	0
+speaker1: 18 John went to the hallway.	0
+speaker1: 19 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 20 Yes!	1
+speaker1: 1 Sandra went back to the kitchen.	0
+speaker1: 2 Sandra travelled to the bathroom.	0
+speaker1: 3 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 John travelled to the garden.	0
+speaker1: 6 Daniel moved to the hallway.	0
+speaker1: 7 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 John went to the kitchen.	0
+speaker1: 10 Daniel journeyed to the garden.	0
+speaker1: 11 Where is Sandra? 
+speaker2: office	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Daniel journeyed to the hallway.	0
+speaker1: 14 Sandra journeyed to the garden.	0
+speaker1: 15 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 John went back to the hallway.	0
+speaker1: 18 Mary travelled to the office.	0
+speaker1: 19 Where is John? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 Daniel moved to the bedroom.	0
+speaker1: 2 John went back to the garden.	0
+speaker1: 3 Where is Daniel? 
+speaker2: office	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 John travelled to the bathroom.	0
+speaker1: 6 John travelled to the garden.	0
+speaker1: 7 Where is John? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 John went to the kitchen.	0
+speaker1: 10 Daniel journeyed to the garden.	0
+speaker1: 11 Where is Daniel? 
+speaker2: office	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 John went back to the garden.	0
+speaker1: 14 Sandra went back to the kitchen.	0
+speaker1: 15 Where is John? 
+speaker2: garden	0
+speaker1: 16 Yes!	0
+speaker1: 17 Daniel journeyed to the hallway.	0
+speaker1: 18 Daniel moved to the bathroom.	0
+speaker1: 19 Where is Daniel? 
+speaker2: garden	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Mary travelled to the hallway.	0
+speaker1: 2 Mary moved to the garden.	0
+speaker1: 3 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Sandra went to the kitchen.	0
+speaker1: 6 Sandra moved to the bathroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: office	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 Daniel went back to the bedroom.	0
+speaker1: 10 John went back to the office.	0
+speaker1: 11 Where is Mary? 
+speaker2: office	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Mary went back to the office.	0
+speaker1: 14 Mary went to the bathroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Daniel went back to the kitchen.	0
+speaker1: 18 Mary moved to the kitchen.	0
+speaker1: 19 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Daniel went to the office.	0
+speaker1: 2 John journeyed to the garden.	0
+speaker1: 3 Where is Daniel? 
+speaker2: office	0
+speaker1: 4 Yes, that's right.	1
+speaker1: 5 John travelled to the bathroom.	0
+speaker1: 6 Daniel moved to the bedroom.	0
+speaker1: 7 Where is John? 
+speaker2: garden	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 Mary travelled to the kitchen.	0
+speaker1: 10 John journeyed to the kitchen.	0
+speaker1: 11 Where is John? 
+speaker2: garden	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 John travelled to the office.	0
+speaker1: 14 Sandra moved to the office.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 John moved to the garden.	0
+speaker1: 18 Mary journeyed to the bedroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Sandra journeyed to the hallway.	0
+speaker1: 2 Daniel travelled to the hallway.	0
+speaker1: 3 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 4 Yes, that is correct!	1
+speaker1: 5 John travelled to the hallway.	0
+speaker1: 6 Sandra went to the bedroom.	0
+speaker1: 7 Where is John? 
+speaker2: office	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 John travelled to the office.	0
+speaker1: 10 Sandra went to the kitchen.	0
+speaker1: 11 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Mary moved to the office.	0
+speaker1: 14 Daniel moved to the office.	0
+speaker1: 15 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Daniel went back to the bathroom.	0
+speaker1: 18 Daniel travelled to the office.	0
+speaker1: 19 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Mary went to the bathroom.	0
+speaker1: 2 John travelled to the hallway.	0
+speaker1: 3 Where is Mary? 
+speaker2: office	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 John moved to the kitchen.	0
+speaker1: 6 Mary went back to the hallway.	0
+speaker1: 7 Where is John? 
+speaker2: office	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Daniel went back to the bedroom.	0
+speaker1: 10 Mary journeyed to the garden.	0
+speaker1: 11 Where is John? 
+speaker2: garden	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Mary went back to the office.	0
+speaker1: 14 Daniel went back to the bathroom.	0
+speaker1: 15 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Sandra moved to the hallway.	0
+speaker1: 18 John went back to the bedroom.	0
+speaker1: 19 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Daniel journeyed to the bedroom.	0
+speaker1: 2 John went to the kitchen.	0
+speaker1: 3 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Mary moved to the office.	0
+speaker1: 6 Sandra travelled to the bathroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 Mary went to the kitchen.	0
+speaker1: 10 Sandra journeyed to the bedroom.	0
+speaker1: 11 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Sandra journeyed to the office.	0
+speaker1: 14 Daniel went back to the bathroom.	0
+speaker1: 15 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Mary went back to the office.	0
+speaker1: 18 John went back to the office.	0
+speaker1: 19 Where is Sandra? 
+speaker2: garden	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Mary moved to the garden.	0
+speaker1: 2 John went to the bedroom.	0
+speaker1: 3 Where is John? 
+speaker2: bedroom	0
+speaker1: 4 Yes, that is correct!	0
+speaker1: 5 Daniel journeyed to the kitchen.	0
+speaker1: 6 Sandra went to the bathroom.	0
+speaker1: 7 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Daniel journeyed to the bathroom.	0
+speaker1: 10 Daniel moved to the garden.	0
+speaker1: 11 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Daniel went to the kitchen.	0
+speaker1: 14 Mary journeyed to the bathroom.	0
+speaker1: 15 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Sandra travelled to the garden.	0
+speaker1: 18 Sandra went to the hallway.	0
+speaker1: 19 Where is Mary? 
+speaker2: office	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Sandra travelled to the office.	0
+speaker1: 2 Sandra travelled to the bathroom.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 Mary went back to the hallway.	0
+speaker1: 6 Mary travelled to the bathroom.	0
+speaker1: 7 Where is Mary? 
+speaker2: garden	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 Daniel went to the bedroom.	0
+speaker1: 10 Mary went to the office.	0
+speaker1: 11 Where is Mary? 
+speaker2: office	0
+speaker1: 12 Yes, that is correct!	0
+speaker1: 13 Mary travelled to the hallway.	0
+speaker1: 14 John moved to the garden.	0
+speaker1: 15 Where is Mary? 
+speaker2: office	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 Sandra journeyed to the office.	0
+speaker1: 18 Sandra moved to the bathroom.	0
+speaker1: 19 Where is John? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Sandra journeyed to the garden.	0
+speaker1: 2 Mary travelled to the hallway.	0
+speaker1: 3 Where is Mary? 
+speaker2: hallway	0
+speaker1: 4 That's right.	1
+speaker1: 5 John travelled to the bathroom.	0
+speaker1: 6 Sandra went back to the kitchen.	0
+speaker1: 7 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Daniel travelled to the bathroom.	0
+speaker1: 10 Daniel travelled to the kitchen.	0
+speaker1: 11 Where is John? 
+speaker2: garden	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 John went back to the hallway.	0
+speaker1: 14 John travelled to the bathroom.	0
+speaker1: 15 Where is John? 
+speaker2: bathroom	0
+speaker1: 16 Correct!	0
+speaker1: 17 Mary journeyed to the bathroom.	0
+speaker1: 18 Mary travelled to the bedroom.	0
+speaker1: 19 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 20 That's correct.	1
+speaker1: 1 John went to the office.	0
+speaker1: 2 Daniel journeyed to the kitchen.	0
+speaker1: 3 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 John travelled to the bedroom.	0
+speaker1: 6 John moved to the garden.	0
+speaker1: 7 Where is Daniel? 
+speaker2: garden	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Daniel journeyed to the bathroom.	0
+speaker1: 10 John journeyed to the bedroom.	0
+speaker1: 11 Where is John? 
+speaker2: office	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Sandra journeyed to the kitchen.	0
+speaker1: 14 Mary moved to the garden.	0
+speaker1: 15 Where is John? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 Sandra journeyed to the bathroom.	0
+speaker1: 18 Sandra went back to the bedroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 20 That's correct.	0
+speaker1: 1 Daniel went back to the bedroom.	0
+speaker1: 2 Sandra travelled to the bedroom.	0
+speaker1: 3 Where is Sandra? 
+speaker2: garden	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Sandra went to the office.	0
+speaker1: 6 Mary went to the office.	0
+speaker1: 7 Where is Mary? 
+speaker2: office	0
+speaker1: 8 Yes, that's right.	0
+speaker1: 9 John journeyed to the garden.	0
+speaker1: 10 Mary journeyed to the garden.	0
+speaker1: 11 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Daniel travelled to the bathroom.	0
+speaker1: 14 John moved to the kitchen.	0
+speaker1: 15 Where is John? 
+speaker2: office	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Sandra went back to the kitchen.	0
+speaker1: 18 Daniel journeyed to the hallway.	0
+speaker1: 19 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Daniel moved to the bathroom.	0
+speaker1: 2 John moved to the office.	0
+speaker1: 3 Where is Daniel? 
+speaker2: office	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 Mary went back to the office.	0
+speaker1: 6 John went back to the hallway.	0
+speaker1: 7 Where is Mary? 
+speaker2: garden	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Mary moved to the hallway.	0
+speaker1: 10 Mary journeyed to the kitchen.	0
+speaker1: 11 Where is Mary? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Daniel went to the office.	0
+speaker1: 14 Daniel moved to the bedroom.	0
+speaker1: 15 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 16 Correct!	0
+speaker1: 17 Sandra journeyed to the hallway.	0
+speaker1: 18 Daniel travelled to the garden.	0
+speaker1: 19 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Mary travelled to the hallway.	0
+speaker1: 2 Sandra went to the garden.	0
+speaker1: 3 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Daniel travelled to the bedroom.	0
+speaker1: 6 Mary went to the bedroom.	0
+speaker1: 7 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 8 Yes!	0
+speaker1: 9 Daniel moved to the hallway.	0
+speaker1: 10 John travelled to the bathroom.	0
+speaker1: 11 Where is Sandra? 
+speaker2: office	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Daniel journeyed to the bathroom.	0
+speaker1: 14 John journeyed to the office.	0
+speaker1: 15 Where is Daniel? 
+speaker2: garden	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Mary went back to the garden.	0
+speaker1: 18 John went to the kitchen.	0
+speaker1: 19 Where is John? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Daniel travelled to the kitchen.	0
+speaker1: 2 Daniel journeyed to the garden.	0
+speaker1: 3 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 John journeyed to the office.	0
+speaker1: 6 John travelled to the garden.	0
+speaker1: 7 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Daniel moved to the office.	0
+speaker1: 10 John went to the hallway.	0
+speaker1: 11 Where is John? 
+speaker2: garden	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 John moved to the office.	0
+speaker1: 14 Daniel journeyed to the kitchen.	0
+speaker1: 15 Where is John? 
+speaker2: garden	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 Daniel went to the garden.	0
+speaker1: 18 John went back to the bathroom.	0
+speaker1: 19 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Mary went to the bathroom.	0
+speaker1: 2 John went to the kitchen.	0
+speaker1: 3 Where is John? 
+speaker2: office	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 Daniel moved to the office.	0
+speaker1: 6 Daniel moved to the bathroom.	0
+speaker1: 7 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 Sandra travelled to the bathroom.	0
+speaker1: 10 Mary travelled to the kitchen.	0
+speaker1: 11 Where is John? 
+speaker2: garden	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Mary went to the garden.	0
+speaker1: 14 Sandra moved to the bedroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Sandra journeyed to the kitchen.	0
+speaker1: 18 Daniel travelled to the garden.	0
+speaker1: 19 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 20 Correct!	0
+speaker1: 1 Daniel moved to the garden.	0
+speaker1: 2 John went to the kitchen.	0
+speaker1: 3 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Mary went to the office.	0
+speaker1: 6 Sandra travelled to the bedroom.	0
+speaker1: 7 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Mary went to the bathroom.	0
+speaker1: 10 John journeyed to the bathroom.	0
+speaker1: 11 Where is John? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Mary went back to the office.	0
+speaker1: 14 John went back to the kitchen.	0
+speaker1: 15 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 John moved to the office.	0
+speaker1: 18 Mary journeyed to the bathroom.	0
+speaker1: 19 Where is John? 
+speaker2: office	0
+speaker1: 20 Yes, that's right.	1
+speaker1: 1 Mary travelled to the kitchen.	0
+speaker1: 2 Mary moved to the bedroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Mary went to the hallway.	0
+speaker1: 6 Sandra went back to the bathroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 John went to the bedroom.	0
+speaker1: 10 Daniel travelled to the garden.	0
+speaker1: 11 Where is John? 
+speaker2: garden	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Daniel went to the hallway.	0
+speaker1: 14 Sandra went to the office.	0
+speaker1: 15 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 Sandra journeyed to the bedroom.	0
+speaker1: 18 John travelled to the bathroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 John journeyed to the kitchen.	0
+speaker1: 2 John journeyed to the garden.	0
+speaker1: 3 Where is John? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Mary went back to the bathroom.	0
+speaker1: 6 Mary moved to the garden.	0
+speaker1: 7 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Daniel travelled to the bedroom.	0
+speaker1: 10 John moved to the kitchen.	0
+speaker1: 11 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 John journeyed to the hallway.	0
+speaker1: 14 Mary went back to the bathroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 16 That's correct.	0
+speaker1: 17 John journeyed to the bathroom.	0
+speaker1: 18 Sandra moved to the kitchen.	0
+speaker1: 19 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 20 Yes, that is correct!	0
+speaker1: 1 Mary journeyed to the office.	0
+speaker1: 2 Daniel journeyed to the bedroom.	0
+speaker1: 3 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Mary went to the bedroom.	0
+speaker1: 6 Sandra went to the bedroom.	0
+speaker1: 7 Where is Mary? 
+speaker2: office	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 John went back to the hallway.	0
+speaker1: 10 Daniel went back to the bathroom.	0
+speaker1: 11 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Mary travelled to the garden.	0
+speaker1: 14 Daniel moved to the hallway.	0
+speaker1: 15 Where is John? 
+speaker2: hallway	0
+speaker1: 16 Yes, that is correct!	0
+speaker1: 17 Sandra travelled to the office.	0
+speaker1: 18 Daniel moved to the bathroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Mary moved to the kitchen.	0
+speaker1: 2 Sandra moved to the kitchen.	0
+speaker1: 3 Where is Mary? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 Mary went to the garden.	0
+speaker1: 6 John moved to the bedroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Mary journeyed to the office.	0
+speaker1: 10 Mary went to the bathroom.	0
+speaker1: 11 Where is John? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Sandra travelled to the garden.	0
+speaker1: 14 Daniel went back to the hallway.	0
+speaker1: 15 Where is Sandra? 
+speaker2: garden	0
+speaker1: 16 Correct!	1
+speaker1: 17 Daniel went to the bedroom.	0
+speaker1: 18 Sandra journeyed to the hallway.	0
+speaker1: 19 Where is Sandra? 
+speaker2: garden	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 John went to the kitchen.	0
+speaker1: 2 John went to the hallway.	0
+speaker1: 3 Where is John? 
+speaker2: hallway	0
+speaker1: 4 Yes, that is correct!	1
+speaker1: 5 John travelled to the bathroom.	0
+speaker1: 6 Sandra travelled to the kitchen.	0
+speaker1: 7 Where is John? 
+speaker2: office	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 John journeyed to the garden.	0
+speaker1: 10 Sandra went back to the bedroom.	0
+speaker1: 11 Where is John? 
+speaker2: office	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Mary moved to the hallway.	0
+speaker1: 14 Mary went to the bedroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: garden	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 Mary went back to the garden.	0
+speaker1: 18 Sandra travelled to the hallway.	0
+speaker1: 19 Where is Mary? 
+speaker2: garden	0
+speaker1: 20 That's correct.	0
+speaker1: 1 Daniel went back to the bathroom.	0
+speaker1: 2 Mary journeyed to the office.	0
+speaker1: 3 Where is Daniel? 
+speaker2: office	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 Sandra went back to the garden.	0
+speaker1: 6 Daniel moved to the garden.	0
+speaker1: 7 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Daniel journeyed to the hallway.	0
+speaker1: 10 John moved to the garden.	0
+speaker1: 11 Where is Mary? 
+speaker2: office	0
+speaker1: 12 That's correct.	0
+speaker1: 13 Sandra went back to the hallway.	0
+speaker1: 14 Mary went back to the bedroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 16 Correct!	0
+speaker1: 17 John journeyed to the office.	0
+speaker1: 18 John went to the bathroom.	0
+speaker1: 19 Where is John? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Sandra moved to the bathroom.	0
+speaker1: 2 Daniel journeyed to the garden.	0
+speaker1: 3 Where is Daniel? 
+speaker2: garden	0
+speaker1: 4 Correct!	1
+speaker1: 5 Mary journeyed to the bathroom.	0
+speaker1: 6 Sandra moved to the hallway.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Daniel moved to the office.	0
+speaker1: 10 Daniel went to the garden.	0
+speaker1: 11 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 John travelled to the bathroom.	0
+speaker1: 14 Mary moved to the bedroom.	0
+speaker1: 15 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Sandra went back to the bathroom.	0
+speaker1: 18 Sandra went to the garden.	0
+speaker1: 19 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 John journeyed to the hallway.	0
+speaker1: 2 Daniel journeyed to the hallway.	0
+speaker1: 3 Where is John? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Daniel went to the office.	0
+speaker1: 6 Sandra moved to the bedroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 John went to the bedroom.	0
+speaker1: 10 Daniel went back to the kitchen.	0
+speaker1: 11 Where is Sandra? 
+speaker2: garden	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 John journeyed to the kitchen.	0
+speaker1: 14 Mary went to the hallway.	0
+speaker1: 15 Where is John? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Sandra went back to the bathroom.	0
+speaker1: 18 Mary went to the office.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Daniel journeyed to the office.	0
+speaker1: 2 Mary went back to the garden.	0
+speaker1: 3 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Daniel went back to the garden.	0
+speaker1: 6 John moved to the hallway.	0
+speaker1: 7 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 John travelled to the bathroom.	0
+speaker1: 10 Mary moved to the kitchen.	0
+speaker1: 11 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Daniel travelled to the bathroom.	0
+speaker1: 14 Sandra journeyed to the bedroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: garden	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 Daniel journeyed to the garden.	0
+speaker1: 18 Sandra travelled to the office.	0
+speaker1: 19 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Daniel went back to the bathroom.	0
+speaker1: 2 John moved to the bathroom.	0
+speaker1: 3 Where is John? 
+speaker2: bathroom	0
+speaker1: 4 Yes!	0
+speaker1: 5 Mary journeyed to the bathroom.	0
+speaker1: 6 Sandra went to the kitchen.	0
+speaker1: 7 Where is Daniel? 
+speaker2: garden	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 Mary went back to the kitchen.	0
+speaker1: 10 Daniel travelled to the office.	0
+speaker1: 11 Where is John? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Sandra went back to the office.	0
+speaker1: 14 Mary went back to the garden.	0
+speaker1: 15 Where is Sandra? 
+speaker2: garden	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 Mary moved to the bedroom.	0
+speaker1: 18 Daniel moved to the hallway.	0
+speaker1: 19 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 Sandra went to the hallway.	0
+speaker1: 2 Sandra journeyed to the kitchen.	0
+speaker1: 3 Where is Sandra? 
+speaker2: garden	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 Sandra travelled to the garden.	0
+speaker1: 6 Mary journeyed to the garden.	0
+speaker1: 7 Where is Mary? 
+speaker2: office	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Daniel went back to the bathroom.	0
+speaker1: 10 Daniel went to the garden.	0
+speaker1: 11 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 John went back to the garden.	0
+speaker1: 14 John travelled to the bedroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Mary went to the kitchen.	0
+speaker1: 18 Sandra moved to the hallway.	0
+speaker1: 19 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 John went back to the garden.	0
+speaker1: 2 Sandra went back to the bedroom.	0
+speaker1: 3 Where is John? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Sandra went to the bathroom.	0
+speaker1: 6 John went back to the kitchen.	0
+speaker1: 7 Where is John? 
+speaker2: garden	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Mary went back to the hallway.	0
+speaker1: 10 Daniel travelled to the kitchen.	0
+speaker1: 11 Where is Daniel? 
+speaker2: garden	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Sandra went back to the bedroom.	0
+speaker1: 14 Sandra went to the office.	0
+speaker1: 15 Where is Sandra? 
+speaker2: office	0
+speaker1: 16 Yes, that is correct!	0
+speaker1: 17 Sandra went to the kitchen.	0
+speaker1: 18 Daniel travelled to the hallway.	0
+speaker1: 19 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Sandra journeyed to the office.	0
+speaker1: 2 John moved to the bathroom.	0
+speaker1: 3 Where is John? 
+speaker2: bathroom	0
+speaker1: 4 Yes, that's right.	0
+speaker1: 5 Daniel moved to the hallway.	0
+speaker1: 6 John moved to the hallway.	0
+speaker1: 7 Where is John? 
+speaker2: hallway	0
+speaker1: 8 Yes!	0
+speaker1: 9 John travelled to the kitchen.	0
+speaker1: 10 John went to the bedroom.	0
+speaker1: 11 Where is John? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Daniel journeyed to the kitchen.	0
+speaker1: 14 John journeyed to the kitchen.	0
+speaker1: 15 Where is John? 
+speaker2: garden	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 John travelled to the bathroom.	0
+speaker1: 18 John travelled to the kitchen.	0
+speaker1: 19 Where is John? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Mary moved to the hallway.	0
+speaker1: 2 John travelled to the hallway.	0
+speaker1: 3 Where is John? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Daniel travelled to the bedroom.	0
+speaker1: 6 Daniel went to the garden.	0
+speaker1: 7 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 John went back to the bathroom.	0
+speaker1: 10 Sandra moved to the hallway.	0
+speaker1: 11 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Daniel moved to the hallway.	0
+speaker1: 14 Mary went to the office.	0
+speaker1: 15 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 16 Yes, that is correct!	0
+speaker1: 17 Mary journeyed to the garden.	0
+speaker1: 18 John went to the hallway.	0
+speaker1: 19 Where is Mary? 
+speaker2: garden	0
+speaker1: 20 That's correct.	1
+speaker1: 1 John journeyed to the bathroom.	0
+speaker1: 2 Daniel went back to the kitchen.	0
+speaker1: 3 Where is Daniel? 
+speaker2: office	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 John journeyed to the office.	0
+speaker1: 6 Sandra travelled to the bedroom.	0
+speaker1: 7 Where is Daniel? 
+speaker2: office	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Daniel moved to the bathroom.	0
+speaker1: 10 Daniel went to the hallway.	0
+speaker1: 11 Where is John? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Mary went back to the office.	0
+speaker1: 14 Mary went to the bathroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Mary journeyed to the kitchen.	0
+speaker1: 18 Mary moved to the bedroom.	0
+speaker1: 19 Where is Mary? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Mary journeyed to the bathroom.	0
+speaker1: 2 Mary moved to the hallway.	0
+speaker1: 3 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Daniel moved to the bathroom.	0
+speaker1: 6 Sandra went back to the bathroom.	0
+speaker1: 7 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Sandra went to the kitchen.	0
+speaker1: 10 Mary travelled to the kitchen.	0
+speaker1: 11 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Daniel journeyed to the kitchen.	0
+speaker1: 14 Sandra went to the garden.	0
+speaker1: 15 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Daniel went to the bedroom.	0
+speaker1: 18 Sandra went to the bathroom.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Mary travelled to the garden.	0
+speaker1: 2 John journeyed to the bathroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Mary journeyed to the kitchen.	0
+speaker1: 6 John travelled to the kitchen.	0
+speaker1: 7 Where is John? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Mary moved to the bedroom.	0
+speaker1: 10 Mary travelled to the garden.	0
+speaker1: 11 Where is John? 
+speaker2: office	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 John went back to the bedroom.	0
+speaker1: 14 Daniel went back to the bedroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 John went back to the kitchen.	0
+speaker1: 18 Mary went to the bedroom.	0
+speaker1: 19 Where is John? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Mary went back to the bedroom.	0
+speaker1: 2 Daniel travelled to the office.	0
+speaker1: 3 Where is Mary? 
+speaker2: office	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Mary journeyed to the hallway.	0
+speaker1: 6 Sandra went back to the garden.	0
+speaker1: 7 Where is Daniel? 
+speaker2: garden	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Mary moved to the garden.	0
+speaker1: 10 Daniel moved to the kitchen.	0
+speaker1: 11 Where is Daniel? 
+speaker2: garden	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 John went to the office.	0
+speaker1: 14 Sandra journeyed to the office.	0
+speaker1: 15 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 John travelled to the hallway.	0
+speaker1: 18 Sandra travelled to the bathroom.	0
+speaker1: 19 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 20 Yes!	1
+speaker1: 1 Sandra journeyed to the bathroom.	0
+speaker1: 2 John went to the hallway.	0
+speaker1: 3 Where is John? 
+speaker2: garden	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Mary travelled to the garden.	0
+speaker1: 6 Mary went back to the kitchen.	0
+speaker1: 7 Where is Mary? 
+speaker2: garden	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Daniel travelled to the bathroom.	0
+speaker1: 10 John moved to the garden.	0
+speaker1: 11 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Daniel moved to the kitchen.	0
+speaker1: 14 Sandra journeyed to the hallway.	0
+speaker1: 15 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 16 That's correct.	1
+speaker1: 17 Daniel moved to the bedroom.	0
+speaker1: 18 John went back to the office.	0
+speaker1: 19 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 20 Yes!	0
+speaker1: 1 John went back to the kitchen.	0
+speaker1: 2 John moved to the office.	0
+speaker1: 3 Where is John? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 John journeyed to the garden.	0
+speaker1: 6 Sandra journeyed to the bedroom.	0
+speaker1: 7 Where is John? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Mary went back to the garden.	0
+speaker1: 10 John journeyed to the bedroom.	0
+speaker1: 11 Where is John? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 John went to the hallway.	0
+speaker1: 14 Sandra went back to the hallway.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 John journeyed to the bathroom.	0
+speaker1: 18 Mary went to the hallway.	0
+speaker1: 19 Where is John? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 John went back to the bedroom.	0
+speaker1: 2 John moved to the kitchen.	0
+speaker1: 3 Where is John? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 John journeyed to the garden.	0
+speaker1: 6 Mary went back to the hallway.	0
+speaker1: 7 Where is John? 
+speaker2: garden	0
+speaker1: 8 Yes, that is correct!	1
+speaker1: 9 Daniel went back to the bedroom.	0
+speaker1: 10 John went to the bedroom.	0
+speaker1: 11 Where is John? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Sandra travelled to the garden.	0
+speaker1: 14 Daniel went back to the office.	0
+speaker1: 15 Where is John? 
+speaker2: bedroom	0
+speaker1: 16 Yes, that is correct!	0
+speaker1: 17 Mary went back to the bedroom.	0
+speaker1: 18 Daniel journeyed to the kitchen.	0
+speaker1: 19 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 20 Correct!	1
+speaker1: 1 Mary went to the garden.	0
+speaker1: 2 Daniel journeyed to the bathroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 John went to the office.	0
+speaker1: 6 Mary moved to the hallway.	0
+speaker1: 7 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 8 That's correct.	1
+speaker1: 9 John went to the bathroom.	0
+speaker1: 10 Daniel moved to the kitchen.	0
+speaker1: 11 Where is John? 
+speaker2: office	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 John went to the kitchen.	0
+speaker1: 14 Daniel went to the bedroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 Mary went to the kitchen.	0
+speaker1: 18 Sandra journeyed to the garden.	0
+speaker1: 19 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Daniel went back to the kitchen.	0
+speaker1: 2 Daniel moved to the garden.	0
+speaker1: 3 Where is Daniel? 
+speaker2: office	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Sandra journeyed to the bedroom.	0
+speaker1: 6 Mary moved to the bathroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 John went back to the office.	0
+speaker1: 10 Daniel went back to the bathroom.	0
+speaker1: 11 Where is Daniel? 
+speaker2: office	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Daniel travelled to the bedroom.	0
+speaker1: 14 Sandra went to the bathroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Daniel went back to the hallway.	0
+speaker1: 18 Sandra travelled to the kitchen.	0
+speaker1: 19 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Sandra moved to the bedroom.	0
+speaker1: 2 Mary journeyed to the bedroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: office	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Mary moved to the bathroom.	0
+speaker1: 6 Daniel travelled to the bedroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Mary moved to the bedroom.	0
+speaker1: 10 Sandra went to the kitchen.	0
+speaker1: 11 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 12 Correct!	1
+speaker1: 13 Sandra went to the garden.	0
+speaker1: 14 Daniel moved to the kitchen.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Sandra went back to the bedroom.	0
+speaker1: 18 Sandra went to the hallway.	0
+speaker1: 19 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 John journeyed to the bedroom.	0
+speaker1: 2 Daniel moved to the office.	0
+speaker1: 3 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 John went to the hallway.	0
+speaker1: 6 John journeyed to the kitchen.	0
+speaker1: 7 Where is John? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Mary went to the office.	0
+speaker1: 10 Daniel went back to the bedroom.	0
+speaker1: 11 Where is Mary? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Daniel moved to the hallway.	0
+speaker1: 14 John went to the bedroom.	0
+speaker1: 15 Where is Daniel? 
+speaker2: office	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 Sandra moved to the kitchen.	0
+speaker1: 18 Daniel moved to the office.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 Yes, that's right.	0
+speaker1: 1 Mary journeyed to the office.	0
+speaker1: 2 Daniel went to the bedroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Daniel journeyed to the bathroom.	0
+speaker1: 6 Sandra went to the bedroom.	0
+speaker1: 7 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 Mary journeyed to the hallway.	0
+speaker1: 10 Daniel travelled to the kitchen.	0
+speaker1: 11 Where is Daniel? 
+speaker2: garden	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Sandra journeyed to the bathroom.	0
+speaker1: 14 Sandra moved to the bedroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: hallway	0
+speaker1: 16 That's right.	1
+speaker1: 17 John moved to the garden.	0
+speaker1: 18 Daniel travelled to the bathroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 John journeyed to the garden.	0
+speaker1: 2 John travelled to the office.	0
+speaker1: 3 Where is John? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Mary travelled to the hallway.	0
+speaker1: 6 John journeyed to the bedroom.	0
+speaker1: 7 Where is John? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Daniel moved to the garden.	0
+speaker1: 10 Mary journeyed to the bedroom.	0
+speaker1: 11 Where is John? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Daniel went to the office.	0
+speaker1: 14 Daniel journeyed to the kitchen.	0
+speaker1: 15 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 John travelled to the hallway.	0
+speaker1: 18 Daniel went back to the garden.	0
+speaker1: 19 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Daniel journeyed to the garden.	0
+speaker1: 2 John moved to the garden.	0
+speaker1: 3 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Daniel travelled to the bathroom.	0
+speaker1: 6 Sandra went back to the garden.	0
+speaker1: 7 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 Daniel went back to the office.	0
+speaker1: 10 Mary journeyed to the bedroom.	0
+speaker1: 11 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Daniel went to the kitchen.	0
+speaker1: 14 John journeyed to the kitchen.	0
+speaker1: 15 Where is Sandra? 
+speaker2: garden	0
+speaker1: 16 That's right.	1
+speaker1: 17 Sandra journeyed to the kitchen.	0
+speaker1: 18 Sandra went back to the office.	0
+speaker1: 19 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Sandra moved to the bathroom.	0
+speaker1: 2 John journeyed to the office.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 4 That's right.	1
+speaker1: 5 Sandra went back to the hallway.	0
+speaker1: 6 John moved to the bedroom.	0
+speaker1: 7 Where is John? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Daniel moved to the garden.	0
+speaker1: 10 Daniel went back to the kitchen.	0
+speaker1: 11 Where is Daniel? 
+speaker2: garden	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Mary went back to the bedroom.	0
+speaker1: 14 John went back to the office.	0
+speaker1: 15 Where is John? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 Mary travelled to the office.	0
+speaker1: 18 Sandra went back to the bedroom.	0
+speaker1: 19 Where is John? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Sandra journeyed to the bathroom.	0
+speaker1: 2 Mary travelled to the hallway.	0
+speaker1: 3 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Sandra moved to the kitchen.	0
+speaker1: 6 Mary journeyed to the garden.	0
+speaker1: 7 Where is Mary? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 John travelled to the office.	0
+speaker1: 10 John went to the hallway.	0
+speaker1: 11 Where is John? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Daniel travelled to the bedroom.	0
+speaker1: 14 John went back to the office.	0
+speaker1: 15 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Sandra went back to the bedroom.	0
+speaker1: 18 John went to the bedroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: garden	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Mary went to the hallway.	0
+speaker1: 2 Daniel went to the bathroom.	0
+speaker1: 3 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 4 Yes!	1
+speaker1: 5 Mary went to the bedroom.	0
+speaker1: 6 Mary went to the kitchen.	0
+speaker1: 7 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Daniel moved to the garden.	0
+speaker1: 10 Daniel went to the office.	0
+speaker1: 11 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 John went to the kitchen.	0
+speaker1: 14 Sandra travelled to the garden.	0
+speaker1: 15 Where is John? 
+speaker2: kitchen	0
+speaker1: 16 Yes, that's right.	1
+speaker1: 17 Mary journeyed to the hallway.	0
+speaker1: 18 Sandra went back to the hallway.	0
+speaker1: 19 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 Mary went back to the hallway.	0
+speaker1: 2 Sandra journeyed to the bedroom.	0
+speaker1: 3 Where is Sandra? 
+speaker2: garden	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Sandra travelled to the kitchen.	0
+speaker1: 6 John went back to the hallway.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Daniel went back to the office.	0
+speaker1: 10 Mary moved to the kitchen.	0
+speaker1: 11 Where is Sandra? 
+speaker2: garden	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Daniel went back to the bathroom.	0
+speaker1: 14 Daniel travelled to the office.	0
+speaker1: 15 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 Daniel went to the hallway.	0
+speaker1: 18 Daniel went to the bathroom.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Daniel went to the office.	0
+speaker1: 2 Mary went back to the office.	0
+speaker1: 3 Where is Mary? 
+speaker2: garden	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Sandra travelled to the bedroom.	0
+speaker1: 6 John journeyed to the bedroom.	0
+speaker1: 7 Where is John? 
+speaker2: garden	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Mary moved to the bedroom.	0
+speaker1: 10 Daniel travelled to the kitchen.	0
+speaker1: 11 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Sandra journeyed to the garden.	0
+speaker1: 14 Sandra journeyed to the office.	0
+speaker1: 15 Where is Sandra? 
+speaker2: office	0
+speaker1: 16 Yes!	1
+speaker1: 17 Sandra journeyed to the garden.	0
+speaker1: 18 Sandra travelled to the hallway.	0
+speaker1: 19 Where is Daniel? 
+speaker2: garden	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 John travelled to the bedroom.	0
+speaker1: 2 Mary moved to the bedroom.	0
+speaker1: 3 Where is John? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 John went back to the bathroom.	0
+speaker1: 6 Sandra moved to the bathroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 John journeyed to the office.	0
+speaker1: 10 Daniel journeyed to the office.	0
+speaker1: 11 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 12 That's correct.	0
+speaker1: 13 John went back to the garden.	0
+speaker1: 14 John journeyed to the bedroom.	0
+speaker1: 15 Where is John? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 John went to the bathroom.	0
+speaker1: 18 Mary moved to the office.	0
+speaker1: 19 Where is John? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 John went to the bathroom.	0
+speaker1: 2 John moved to the office.	0
+speaker1: 3 Where is John? 
+speaker2: office	0
+speaker1: 4 Correct!	0
+speaker1: 5 John went to the hallway.	0
+speaker1: 6 Sandra journeyed to the hallway.	0
+speaker1: 7 Where is John? 
+speaker2: garden	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 John journeyed to the bathroom.	0
+speaker1: 10 Daniel went to the bathroom.	0
+speaker1: 11 Where is John? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Sandra moved to the garden.	0
+speaker1: 14 John moved to the office.	0
+speaker1: 15 Where is John? 
+speaker2: garden	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 Sandra moved to the hallway.	0
+speaker1: 18 Daniel went to the kitchen.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Mary travelled to the garden.	0
+speaker1: 2 Daniel moved to the bathroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: office	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 John went to the hallway.	0
+speaker1: 6 Sandra went back to the kitchen.	0
+speaker1: 7 Where is John? 
+speaker2: office	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Daniel went back to the garden.	0
+speaker1: 10 John travelled to the garden.	0
+speaker1: 11 Where is John? 
+speaker2: office	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Mary went to the bathroom.	0
+speaker1: 14 Sandra went back to the hallway.	0
+speaker1: 15 Where is Mary? 
+speaker2: garden	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Daniel travelled to the office.	0
+speaker1: 18 Daniel travelled to the bathroom.	0
+speaker1: 19 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 John moved to the hallway.	0
+speaker1: 2 Mary travelled to the hallway.	0
+speaker1: 3 Where is John? 
+speaker2: hallway	0
+speaker1: 4 That's correct.	0
+speaker1: 5 Sandra went to the bedroom.	0
+speaker1: 6 Sandra went back to the hallway.	0
+speaker1: 7 Where is Mary? 
+speaker2: garden	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 John went back to the office.	0
+speaker1: 10 Daniel travelled to the kitchen.	0
+speaker1: 11 Where is John? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 John travelled to the hallway.	0
+speaker1: 14 Mary journeyed to the kitchen.	0
+speaker1: 15 Where is John? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 John travelled to the office.	0
+speaker1: 18 John travelled to the kitchen.	0
+speaker1: 19 Where is John? 
+speaker2: office	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Mary moved to the bedroom.	0
+speaker1: 2 Sandra went back to the garden.	0
+speaker1: 3 Where is Sandra? 
+speaker2: office	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Daniel went to the bedroom.	0
+speaker1: 6 Mary journeyed to the hallway.	0
+speaker1: 7 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Mary went back to the bathroom.	0
+speaker1: 10 Daniel journeyed to the office.	0
+speaker1: 11 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Daniel went back to the bedroom.	0
+speaker1: 14 Mary went back to the office.	0
+speaker1: 15 Where is Mary? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 John journeyed to the garden.	0
+speaker1: 18 John moved to the office.	0
+speaker1: 19 Where is John? 
+speaker2: office	0
+speaker1: 20 Yes, that's right.	0
+speaker1: 1 John travelled to the bathroom.	0
+speaker1: 2 Sandra moved to the hallway.	0
+speaker1: 3 Where is Sandra? 
+speaker2: office	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Daniel travelled to the kitchen.	0
+speaker1: 6 Daniel travelled to the hallway.	0
+speaker1: 7 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 John moved to the hallway.	0
+speaker1: 10 Mary went to the hallway.	0
+speaker1: 11 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Daniel journeyed to the office.	0
+speaker1: 14 Daniel journeyed to the kitchen.	0
+speaker1: 15 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 16 Yes, that's right.	0
+speaker1: 17 Mary moved to the office.	0
+speaker1: 18 Mary went to the bedroom.	0
+speaker1: 19 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Daniel journeyed to the hallway.	0
+speaker1: 2 Sandra travelled to the kitchen.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 John journeyed to the hallway.	0
+speaker1: 6 Sandra travelled to the office.	0
+speaker1: 7 Where is Sandra? 
+speaker2: garden	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Sandra went to the hallway.	0
+speaker1: 10 Daniel journeyed to the office.	0
+speaker1: 11 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Daniel went back to the bedroom.	0
+speaker1: 14 Sandra moved to the bedroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: office	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 John moved to the office.	0
+speaker1: 18 Daniel travelled to the kitchen.	0
+speaker1: 19 Where is Daniel? 
+speaker2: garden	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Sandra travelled to the bedroom.	0
+speaker1: 2 Mary went to the hallway.	0
+speaker1: 3 Where is Mary? 
+speaker2: hallway	0
+speaker1: 4 Yes, that's right.	1
+speaker1: 5 Sandra went to the office.	0
+speaker1: 6 Sandra journeyed to the kitchen.	0
+speaker1: 7 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Sandra travelled to the bathroom.	0
+speaker1: 10 Daniel journeyed to the office.	0
+speaker1: 11 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 John went back to the hallway.	0
+speaker1: 14 Daniel journeyed to the bedroom.	0
+speaker1: 15 Where is Daniel? 
+speaker2: office	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 Sandra moved to the garden.	0
+speaker1: 18 Mary went back to the bathroom.	0
+speaker1: 19 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Daniel journeyed to the bathroom.	0
+speaker1: 2 Daniel travelled to the hallway.	0
+speaker1: 3 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Sandra went back to the bedroom.	0
+speaker1: 6 Sandra travelled to the bathroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 8 That's right.	1
+speaker1: 9 John went to the bathroom.	0
+speaker1: 10 Sandra went to the garden.	0
+speaker1: 11 Where is John? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Mary journeyed to the hallway.	0
+speaker1: 14 Mary travelled to the garden.	0
+speaker1: 15 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Mary went back to the bedroom.	0
+speaker1: 18 John went back to the bedroom.	0
+speaker1: 19 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 20 Yes!	0
+speaker1: 1 John moved to the bedroom.	0
+speaker1: 2 Mary went back to the bedroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Daniel moved to the bathroom.	0
+speaker1: 6 Daniel moved to the office.	0
+speaker1: 7 Where is John? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Sandra journeyed to the bedroom.	0
+speaker1: 10 Mary moved to the garden.	0
+speaker1: 11 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 John went back to the garden.	0
+speaker1: 14 Sandra went to the bathroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 John travelled to the bedroom.	0
+speaker1: 18 Sandra travelled to the kitchen.	0
+speaker1: 19 Where is Mary? 
+speaker2: office	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Daniel moved to the garden.	0
+speaker1: 2 Sandra moved to the bedroom.	0
+speaker1: 3 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Daniel journeyed to the hallway.	0
+speaker1: 6 Sandra went to the office.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Daniel moved to the bedroom.	0
+speaker1: 10 John went back to the bathroom.	0
+speaker1: 11 Where is Daniel? 
+speaker2: office	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Sandra travelled to the kitchen.	0
+speaker1: 14 Sandra went back to the bedroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: garden	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 John journeyed to the garden.	0
+speaker1: 18 Daniel went back to the garden.	0
+speaker1: 19 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Daniel went back to the office.	0
+speaker1: 2 Mary went back to the hallway.	0
+speaker1: 3 Where is Mary? 
+speaker2: office	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Sandra journeyed to the bathroom.	0
+speaker1: 6 Sandra travelled to the hallway.	0
+speaker1: 7 Where is Mary? 
+speaker2: hallway	0
+speaker1: 8 Yes, that's right.	0
+speaker1: 9 Mary went back to the office.	0
+speaker1: 10 Daniel went to the bathroom.	0
+speaker1: 11 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Mary moved to the bathroom.	0
+speaker1: 14 John went to the bedroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Daniel went back to the bedroom.	0
+speaker1: 18 Sandra travelled to the office.	0
+speaker1: 19 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 John went to the office.	0
+speaker1: 2 Mary journeyed to the garden.	0
+speaker1: 3 Where is Mary? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 John went to the garden.	0
+speaker1: 6 John journeyed to the hallway.	0
+speaker1: 7 Where is John? 
+speaker2: garden	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Sandra went to the hallway.	0
+speaker1: 10 John went to the bedroom.	0
+speaker1: 11 Where is Mary? 
+speaker2: office	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Sandra moved to the bedroom.	0
+speaker1: 14 Mary travelled to the hallway.	0
+speaker1: 15 Where is John? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 John travelled to the garden.	0
+speaker1: 18 Daniel went back to the bedroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: garden	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Sandra travelled to the bathroom.	0
+speaker1: 2 Mary travelled to the office.	0
+speaker1: 3 Where is Mary? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Sandra travelled to the hallway.	0
+speaker1: 6 Mary moved to the bathroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 John went to the office.	0
+speaker1: 10 Sandra journeyed to the office.	0
+speaker1: 11 Where is Sandra? 
+speaker2: garden	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 John went back to the bathroom.	0
+speaker1: 14 John travelled to the kitchen.	0
+speaker1: 15 Where is John? 
+speaker2: garden	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 John moved to the office.	0
+speaker1: 18 Daniel went back to the kitchen.	0
+speaker1: 19 Where is Sandra? 
+speaker2: office	0
+speaker1: 20 That's right.	1
+speaker1: 1 Mary went back to the bedroom.	0
+speaker1: 2 Mary moved to the bathroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: garden	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 Sandra travelled to the bedroom.	0
+speaker1: 6 Sandra went to the office.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Daniel went to the garden.	0
+speaker1: 10 Daniel journeyed to the bathroom.	0
+speaker1: 11 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Sandra moved to the hallway.	0
+speaker1: 14 John journeyed to the kitchen.	0
+speaker1: 15 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Sandra went to the office.	0
+speaker1: 18 John moved to the bathroom.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Daniel went to the kitchen.	0
+speaker1: 2 Sandra went to the kitchen.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 John moved to the bedroom.	0
+speaker1: 6 Mary went to the hallway.	0
+speaker1: 7 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Mary travelled to the kitchen.	0
+speaker1: 10 Sandra journeyed to the hallway.	0
+speaker1: 11 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Sandra travelled to the bedroom.	0
+speaker1: 14 Daniel journeyed to the garden.	0
+speaker1: 15 Where is Mary? 
+speaker2: office	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Sandra journeyed to the office.	0
+speaker1: 18 Sandra journeyed to the kitchen.	0
+speaker1: 19 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Daniel travelled to the kitchen.	0
+speaker1: 2 Daniel went to the hallway.	0
+speaker1: 3 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 4 That's correct.	0
+speaker1: 5 Mary travelled to the hallway.	0
+speaker1: 6 John went to the hallway.	0
+speaker1: 7 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Sandra moved to the garden.	0
+speaker1: 10 Mary went to the kitchen.	0
+speaker1: 11 Where is John? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 John moved to the garden.	0
+speaker1: 14 John went back to the bathroom.	0
+speaker1: 15 Where is John? 
+speaker2: garden	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Mary went to the hallway.	0
+speaker1: 18 Daniel moved to the kitchen.	0
+speaker1: 19 Where is Mary? 
+speaker2: hallway	0
+speaker1: 20 Yes, that's right.	0
+speaker1: 1 John went back to the hallway.	0
+speaker1: 2 Daniel journeyed to the bedroom.	0
+speaker1: 3 Where is John? 
+speaker2: garden	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Sandra went back to the bedroom.	0
+speaker1: 6 Sandra moved to the bathroom.	0
+speaker1: 7 Where is Daniel? 
+speaker2: garden	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 John went to the office.	0
+speaker1: 10 John travelled to the garden.	0
+speaker1: 11 Where is John? 
+speaker2: garden	0
+speaker1: 12 Correct!	0
+speaker1: 13 John went to the bedroom.	0
+speaker1: 14 Mary went back to the kitchen.	0
+speaker1: 15 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Mary went back to the garden.	0
+speaker1: 18 Mary journeyed to the bedroom.	0
+speaker1: 19 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 20 That's correct.	0
+speaker1: 1 Daniel journeyed to the kitchen.	0
+speaker1: 2 Daniel went back to the bedroom.	0
+speaker1: 3 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Sandra travelled to the bathroom.	0
+speaker1: 6 Sandra moved to the kitchen.	0
+speaker1: 7 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 8 That's correct.	1
+speaker1: 9 Sandra journeyed to the bedroom.	0
+speaker1: 10 Mary went to the kitchen.	0
+speaker1: 11 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Daniel moved to the bathroom.	0
+speaker1: 14 Sandra moved to the office.	0
+speaker1: 15 Where is Daniel? 
+speaker2: garden	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Sandra travelled to the hallway.	0
+speaker1: 18 John went to the kitchen.	0
+speaker1: 19 Where is Mary? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 John went to the hallway.	0
+speaker1: 2 Daniel moved to the garden.	0
+speaker1: 3 Where is Daniel? 
+speaker2: garden	0
+speaker1: 4 Yes, that is correct!	1
+speaker1: 5 John went back to the bedroom.	0
+speaker1: 6 Mary journeyed to the garden.	0
+speaker1: 7 Where is John? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Sandra went back to the kitchen.	0
+speaker1: 10 Daniel went to the hallway.	0
+speaker1: 11 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 John went back to the bathroom.	0
+speaker1: 14 Daniel went back to the kitchen.	0
+speaker1: 15 Where is John? 
+speaker2: office	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Daniel went to the bedroom.	0
+speaker1: 18 John travelled to the hallway.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Daniel travelled to the bathroom.	0
+speaker1: 2 Sandra moved to the kitchen.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 Mary moved to the bedroom.	0
+speaker1: 6 Mary journeyed to the garden.	0
+speaker1: 7 Where is Daniel? 
+speaker2: office	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 Mary moved to the hallway.	0
+speaker1: 10 Sandra went back to the hallway.	0
+speaker1: 11 Where is Sandra? 
+speaker2: office	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Mary went to the kitchen.	0
+speaker1: 14 John went to the garden.	0
+speaker1: 15 Where is Mary? 
+speaker2: garden	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 John moved to the office.	0
+speaker1: 18 Daniel went back to the bedroom.	0
+speaker1: 19 Where is John? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Sandra moved to the office.	0
+speaker1: 2 John went back to the garden.	0
+speaker1: 3 Where is John? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Daniel travelled to the office.	0
+speaker1: 6 Sandra journeyed to the bathroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 8 Yes, that's right.	1
+speaker1: 9 John moved to the kitchen.	0
+speaker1: 10 John moved to the bathroom.	0
+speaker1: 11 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Sandra journeyed to the hallway.	0
+speaker1: 14 Daniel went to the bathroom.	0
+speaker1: 15 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Sandra went to the bathroom.	0
+speaker1: 18 Sandra journeyed to the hallway.	0
+speaker1: 19 Where is Sandra? 
+speaker2: office	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 John travelled to the kitchen.	0
+speaker1: 2 John went to the bathroom.	0
+speaker1: 3 Where is John? 
+speaker2: garden	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 Sandra travelled to the bedroom.	0
+speaker1: 6 Sandra journeyed to the garden.	0
+speaker1: 7 Where is John? 
+speaker2: bathroom	0
+speaker1: 8 That's correct.	0
+speaker1: 9 John journeyed to the bedroom.	0
+speaker1: 10 John journeyed to the bathroom.	0
+speaker1: 11 Where is John? 
+speaker2: garden	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Mary travelled to the kitchen.	0
+speaker1: 14 Mary journeyed to the garden.	0
+speaker1: 15 Where is John? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 John journeyed to the office.	0
+speaker1: 18 Daniel journeyed to the bathroom.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Mary moved to the bedroom.	0
+speaker1: 2 Sandra travelled to the garden.	0
+speaker1: 3 Where is Mary? 
+speaker2: garden	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Sandra journeyed to the kitchen.	0
+speaker1: 6 Sandra moved to the garden.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Sandra travelled to the kitchen.	0
+speaker1: 10 Daniel went to the garden.	0
+speaker1: 11 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 John went to the hallway.	0
+speaker1: 14 Mary travelled to the hallway.	0
+speaker1: 15 Where is John? 
+speaker2: garden	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 Daniel went back to the hallway.	0
+speaker1: 18 Daniel moved to the bathroom.	0
+speaker1: 19 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 Daniel went to the bedroom.	0
+speaker1: 2 Mary went to the kitchen.	0
+speaker1: 3 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 4 Yes, that's right.	0
+speaker1: 5 Mary travelled to the bedroom.	0
+speaker1: 6 John journeyed to the bathroom.	0
+speaker1: 7 Where is Mary? 
+speaker2: garden	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Sandra moved to the garden.	0
+speaker1: 10 Sandra went to the office.	0
+speaker1: 11 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Daniel went back to the hallway.	0
+speaker1: 14 Sandra moved to the kitchen.	0
+speaker1: 15 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 16 That's correct.	1
+speaker1: 17 Mary travelled to the bathroom.	0
+speaker1: 18 Sandra journeyed to the bedroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: garden	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Daniel went to the kitchen.	0
+speaker1: 2 Daniel went back to the garden.	0
+speaker1: 3 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Daniel went back to the office.	0
+speaker1: 6 John travelled to the kitchen.	0
+speaker1: 7 Where is Daniel? 
+speaker2: garden	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Sandra moved to the bedroom.	0
+speaker1: 10 John went to the office.	0
+speaker1: 11 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Mary journeyed to the office.	0
+speaker1: 14 Sandra moved to the kitchen.	0
+speaker1: 15 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 Sandra moved to the office.	0
+speaker1: 18 John travelled to the garden.	0
+speaker1: 19 Where is John? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Sandra journeyed to the hallway.	0
+speaker1: 2 Mary travelled to the bathroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: garden	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 John moved to the office.	0
+speaker1: 6 Mary moved to the bedroom.	0
+speaker1: 7 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 8 That's correct.	0
+speaker1: 9 Mary journeyed to the kitchen.	0
+speaker1: 10 Mary went back to the bathroom.	0
+speaker1: 11 Where is John? 
+speaker2: garden	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 John moved to the bathroom.	0
+speaker1: 14 Mary went back to the kitchen.	0
+speaker1: 15 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Sandra journeyed to the bedroom.	0
+speaker1: 18 Daniel went back to the kitchen.	0
+speaker1: 19 Where is John? 
+speaker2: garden	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Sandra moved to the hallway.	0
+speaker1: 2 John went back to the hallway.	0
+speaker1: 3 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Daniel moved to the garden.	0
+speaker1: 6 Daniel went to the bathroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Daniel moved to the hallway.	0
+speaker1: 10 Sandra went to the kitchen.	0
+speaker1: 11 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Daniel journeyed to the kitchen.	0
+speaker1: 14 Daniel went to the garden.	0
+speaker1: 15 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Daniel moved to the bathroom.	0
+speaker1: 18 Mary went to the office.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Sandra travelled to the office.	0
+speaker1: 2 Sandra went to the garden.	0
+speaker1: 3 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Mary went back to the garden.	0
+speaker1: 6 Daniel went to the kitchen.	0
+speaker1: 7 Where is Mary? 
+speaker2: garden	0
+speaker1: 8 Yes, that's right.	0
+speaker1: 9 Sandra moved to the bathroom.	0
+speaker1: 10 Sandra travelled to the garden.	0
+speaker1: 11 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 12 Yes, that is correct!	1
+speaker1: 13 Mary went to the bedroom.	0
+speaker1: 14 Mary went to the garden.	0
+speaker1: 15 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Sandra moved to the hallway.	0
+speaker1: 18 Mary moved to the bathroom.	0
+speaker1: 19 Where is Mary? 
+speaker2: office	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Daniel journeyed to the kitchen.	0
+speaker1: 2 John went back to the kitchen.	0
+speaker1: 3 Where is John? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 Mary went to the hallway.	0
+speaker1: 6 John moved to the office.	0
+speaker1: 7 Where is John? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Daniel travelled to the hallway.	0
+speaker1: 10 Mary went to the garden.	0
+speaker1: 11 Where is John? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Mary went back to the office.	0
+speaker1: 14 Mary went to the garden.	0
+speaker1: 15 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Sandra moved to the bathroom.	0
+speaker1: 18 Daniel moved to the office.	0
+speaker1: 19 Where is Mary? 
+speaker2: office	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 John went to the kitchen.	0
+speaker1: 2 John moved to the garden.	0
+speaker1: 3 Where is John? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Daniel went back to the bedroom.	0
+speaker1: 6 Sandra moved to the office.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Sandra journeyed to the garden.	0
+speaker1: 10 John moved to the bathroom.	0
+speaker1: 11 Where is Sandra? 
+speaker2: office	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Daniel travelled to the bathroom.	0
+speaker1: 14 John travelled to the garden.	0
+speaker1: 15 Where is John? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Mary went back to the bathroom.	0
+speaker1: 18 Sandra travelled to the hallway.	0
+speaker1: 19 Where is John? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Sandra went to the garden.	0
+speaker1: 2 Mary travelled to the garden.	0
+speaker1: 3 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Sandra travelled to the kitchen.	0
+speaker1: 6 Daniel went back to the bedroom.	0
+speaker1: 7 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Daniel went to the kitchen.	0
+speaker1: 10 Sandra travelled to the garden.	0
+speaker1: 11 Where is Sandra? 
+speaker2: office	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Mary went back to the bedroom.	0
+speaker1: 14 Mary travelled to the kitchen.	0
+speaker1: 15 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 John travelled to the bathroom.	0
+speaker1: 18 Mary travelled to the hallway.	0
+speaker1: 19 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Daniel travelled to the bathroom.	0
+speaker1: 2 Sandra moved to the hallway.	0
+speaker1: 3 Where is Sandra? 
+speaker2: garden	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Sandra went to the office.	0
+speaker1: 6 Mary journeyed to the kitchen.	0
+speaker1: 7 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 8 Yes, that is correct!	1
+speaker1: 9 Daniel went to the kitchen.	0
+speaker1: 10 Mary went back to the garden.	0
+speaker1: 11 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Daniel moved to the bedroom.	0
+speaker1: 14 Sandra travelled to the garden.	0
+speaker1: 15 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 16 Correct!	1
+speaker1: 17 Daniel went back to the hallway.	0
+speaker1: 18 John moved to the bedroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Mary travelled to the bedroom.	0
+speaker1: 2 Daniel travelled to the office.	0
+speaker1: 3 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Daniel journeyed to the hallway.	0
+speaker1: 6 Mary travelled to the hallway.	0
+speaker1: 7 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Sandra travelled to the kitchen.	0
+speaker1: 10 Mary travelled to the kitchen.	0
+speaker1: 11 Where is Daniel? 
+speaker2: garden	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 John journeyed to the garden.	0
+speaker1: 14 Daniel went to the bathroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Daniel moved to the garden.	0
+speaker1: 18 John went to the kitchen.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Sandra went back to the office.	0
+speaker1: 2 Sandra moved to the bathroom.	0
+speaker1: 3 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 Mary travelled to the office.	0
+speaker1: 6 Mary moved to the hallway.	0
+speaker1: 7 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 Mary went to the bedroom.	0
+speaker1: 10 Mary journeyed to the office.	0
+speaker1: 11 Where is Mary? 
+speaker2: office	0
+speaker1: 12 Yes!	1
+speaker1: 13 Mary journeyed to the bathroom.	0
+speaker1: 14 Sandra travelled to the garden.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Mary went to the kitchen.	0
+speaker1: 18 John travelled to the hallway.	0
+speaker1: 19 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Sandra went to the kitchen.	0
+speaker1: 2 Daniel went back to the bathroom.	0
+speaker1: 3 Where is Sandra? 
+speaker2: garden	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 Daniel journeyed to the hallway.	0
+speaker1: 6 Mary journeyed to the kitchen.	0
+speaker1: 7 Where is Mary? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Sandra travelled to the bedroom.	0
+speaker1: 10 Sandra went to the office.	0
+speaker1: 11 Where is Sandra? 
+speaker2: garden	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Mary moved to the office.	0
+speaker1: 14 Sandra went back to the hallway.	0
+speaker1: 15 Where is Mary? 
+speaker2: garden	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 John travelled to the bedroom.	0
+speaker1: 18 Daniel journeyed to the office.	0
+speaker1: 19 Where is Mary? 
+speaker2: office	0
+speaker1: 20 Yes!	1
+speaker1: 1 John travelled to the hallway.	0
+speaker1: 2 Mary travelled to the bathroom.	0
+speaker1: 3 Where is John? 
+speaker2: office	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Sandra went to the bedroom.	0
+speaker1: 6 Daniel moved to the office.	0
+speaker1: 7 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Daniel travelled to the hallway.	0
+speaker1: 10 Daniel journeyed to the bathroom.	0
+speaker1: 11 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 12 Yes, that is correct!	1
+speaker1: 13 Daniel went to the hallway.	0
+speaker1: 14 Mary journeyed to the office.	0
+speaker1: 15 Where is Daniel? 
+speaker2: office	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 Mary travelled to the bathroom.	0
+speaker1: 18 Sandra journeyed to the garden.	0
+speaker1: 19 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Daniel journeyed to the bedroom.	0
+speaker1: 2 Daniel moved to the kitchen.	0
+speaker1: 3 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 Mary travelled to the kitchen.	0
+speaker1: 6 Mary moved to the bathroom.	0
+speaker1: 7 Where is Daniel? 
+speaker2: office	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 John travelled to the office.	0
+speaker1: 10 Daniel went to the hallway.	0
+speaker1: 11 Where is John? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 John went back to the garden.	0
+speaker1: 14 Sandra travelled to the bathroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: office	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Sandra journeyed to the office.	0
+speaker1: 18 John went to the bathroom.	0
+speaker1: 19 Where is John? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Sandra travelled to the bathroom.	0
+speaker1: 2 Sandra moved to the kitchen.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 Sandra journeyed to the bathroom.	0
+speaker1: 6 Sandra journeyed to the bedroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Sandra journeyed to the hallway.	0
+speaker1: 10 Mary went to the kitchen.	0
+speaker1: 11 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 John went back to the garden.	0
+speaker1: 14 Mary went to the office.	0
+speaker1: 15 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 Daniel journeyed to the office.	0
+speaker1: 18 Mary went back to the bedroom.	0
+speaker1: 19 Where is John? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 John travelled to the office.	0
+speaker1: 2 Daniel went back to the bedroom.	0
+speaker1: 3 Where is John? 
+speaker2: garden	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Sandra travelled to the hallway.	0
+speaker1: 6 Daniel journeyed to the office.	0
+speaker1: 7 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Daniel travelled to the bathroom.	0
+speaker1: 10 Mary travelled to the garden.	0
+speaker1: 11 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Mary went to the bedroom.	0
+speaker1: 14 Sandra moved to the office.	0
+speaker1: 15 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Mary went to the kitchen.	0
+speaker1: 18 Sandra went to the kitchen.	0
+speaker1: 19 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 20 That's right.	0
+speaker1: 1 John went back to the hallway.	0
+speaker1: 2 Sandra moved to the bedroom.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 4 That's right.	1
+speaker1: 5 Sandra went to the bathroom.	0
+speaker1: 6 Daniel went back to the office.	0
+speaker1: 7 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Sandra went to the kitchen.	0
+speaker1: 10 Sandra moved to the bedroom.	0
+speaker1: 11 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 John journeyed to the garden.	0
+speaker1: 14 Mary travelled to the hallway.	0
+speaker1: 15 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 Mary went to the office.	0
+speaker1: 18 Daniel travelled to the bedroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 20 Yes, that is correct!	0
+speaker1: 1 Mary travelled to the kitchen.	0
+speaker1: 2 Mary moved to the hallway.	0
+speaker1: 3 Where is Mary? 
+speaker2: garden	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 John went to the office.	0
+speaker1: 6 John went back to the garden.	0
+speaker1: 7 Where is John? 
+speaker2: office	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 John moved to the hallway.	0
+speaker1: 10 Sandra travelled to the hallway.	0
+speaker1: 11 Where is John? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Mary moved to the garden.	0
+speaker1: 14 Daniel journeyed to the hallway.	0
+speaker1: 15 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Daniel went to the bedroom.	0
+speaker1: 18 Mary travelled to the bedroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 Mary journeyed to the office.	0
+speaker1: 2 Sandra travelled to the bathroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Sandra travelled to the office.	0
+speaker1: 6 Mary went back to the hallway.	0
+speaker1: 7 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Daniel went back to the office.	0
+speaker1: 10 Sandra went to the bathroom.	0
+speaker1: 11 Where is Sandra? 
+speaker2: office	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 John journeyed to the bedroom.	0
+speaker1: 14 Sandra went back to the office.	0
+speaker1: 15 Where is John? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 Daniel went to the bedroom.	0
+speaker1: 18 Sandra travelled to the garden.	0
+speaker1: 19 Where is Sandra? 
+speaker2: office	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Mary journeyed to the hallway.	0
+speaker1: 2 Sandra went to the garden.	0
+speaker1: 3 Where is Mary? 
+speaker2: hallway	0
+speaker1: 4 Correct!	0
+speaker1: 5 Sandra journeyed to the hallway.	0
+speaker1: 6 Mary journeyed to the bathroom.	0
+speaker1: 7 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 John went to the bathroom.	0
+speaker1: 10 Mary went back to the kitchen.	0
+speaker1: 11 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 12 Yes!	1
+speaker1: 13 Daniel went back to the bedroom.	0
+speaker1: 14 Sandra travelled to the bathroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 16 Correct!	1
+speaker1: 17 Sandra journeyed to the bedroom.	0
+speaker1: 18 Sandra went to the office.	0
+speaker1: 19 Where is Sandra? 
+speaker2: office	0
+speaker1: 20 Correct!	1
+speaker1: 1 Mary went back to the bedroom.	0
+speaker1: 2 Mary travelled to the garden.	0
+speaker1: 3 Where is Mary? 
+speaker2: office	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 John journeyed to the kitchen.	0
+speaker1: 6 Sandra went back to the office.	0
+speaker1: 7 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Mary journeyed to the bedroom.	0
+speaker1: 10 Sandra travelled to the bathroom.	0
+speaker1: 11 Where is John? 
+speaker2: garden	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Daniel journeyed to the garden.	0
+speaker1: 14 Mary went back to the hallway.	0
+speaker1: 15 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 John moved to the bedroom.	0
+speaker1: 18 Mary travelled to the kitchen.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Sandra went back to the garden.	0
+speaker1: 2 Sandra went to the hallway.	0
+speaker1: 3 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 4 That's right.	0
+speaker1: 5 Mary went back to the garden.	0
+speaker1: 6 Sandra journeyed to the office.	0
+speaker1: 7 Where is Sandra? 
+speaker2: garden	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Sandra travelled to the hallway.	0
+speaker1: 10 Sandra moved to the bedroom.	0
+speaker1: 11 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Daniel moved to the office.	0
+speaker1: 14 Mary journeyed to the hallway.	0
+speaker1: 15 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 Mary journeyed to the bedroom.	0
+speaker1: 18 Daniel went back to the kitchen.	0
+speaker1: 19 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Sandra journeyed to the garden.	0
+speaker1: 2 Sandra journeyed to the kitchen.	0
+speaker1: 3 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 4 Yes!	0
+speaker1: 5 Daniel journeyed to the bedroom.	0
+speaker1: 6 Sandra moved to the garden.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Mary journeyed to the office.	0
+speaker1: 10 Mary journeyed to the bathroom.	0
+speaker1: 11 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 12 Correct!	0
+speaker1: 13 Daniel journeyed to the garden.	0
+speaker1: 14 Mary went back to the bedroom.	0
+speaker1: 15 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Sandra went back to the kitchen.	0
+speaker1: 18 Sandra travelled to the bedroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: garden	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Daniel went to the hallway.	0
+speaker1: 2 Daniel moved to the bedroom.	0
+speaker1: 3 Where is Daniel? 
+speaker2: office	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Sandra moved to the office.	0
+speaker1: 6 Daniel journeyed to the hallway.	0
+speaker1: 7 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 John journeyed to the bathroom.	0
+speaker1: 10 Sandra went to the garden.	0
+speaker1: 11 Where is Daniel? 
+speaker2: garden	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 John moved to the garden.	0
+speaker1: 14 Mary journeyed to the garden.	0
+speaker1: 15 Where is John? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Mary went to the office.	0
+speaker1: 18 Sandra journeyed to the hallway.	0
+speaker1: 19 Where is John? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 John travelled to the garden.	0
+speaker1: 2 Daniel journeyed to the bedroom.	0
+speaker1: 3 Where is John? 
+speaker2: office	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Sandra went back to the garden.	0
+speaker1: 6 Mary went to the kitchen.	0
+speaker1: 7 Where is John? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 John travelled to the kitchen.	0
+speaker1: 10 Sandra moved to the bedroom.	0
+speaker1: 11 Where is Sandra? 
+speaker2: office	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Daniel moved to the garden.	0
+speaker1: 14 Daniel travelled to the bedroom.	0
+speaker1: 15 Where is Daniel? 
+speaker2: office	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 Mary journeyed to the office.	0
+speaker1: 18 Sandra moved to the bathroom.	0
+speaker1: 19 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 John travelled to the bathroom.	0
+speaker1: 2 Sandra went to the kitchen.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 Daniel went to the garden.	0
+speaker1: 6 Mary moved to the bedroom.	0
+speaker1: 7 Where is Mary? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Sandra moved to the bathroom.	0
+speaker1: 10 John moved to the hallway.	0
+speaker1: 11 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 John went back to the kitchen.	0
+speaker1: 14 Daniel journeyed to the hallway.	0
+speaker1: 15 Where is John? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Daniel went back to the office.	0
+speaker1: 18 Sandra went back to the hallway.	0
+speaker1: 19 Where is John? 
+speaker2: garden	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Sandra moved to the office.	0
+speaker1: 2 Mary went back to the bathroom.	0
+speaker1: 3 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Mary travelled to the office.	0
+speaker1: 6 Sandra moved to the kitchen.	0
+speaker1: 7 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Sandra moved to the bedroom.	0
+speaker1: 10 Mary went back to the garden.	0
+speaker1: 11 Where is Mary? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 John went to the hallway.	0
+speaker1: 14 Daniel went back to the bathroom.	0
+speaker1: 15 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 John travelled to the garden.	0
+speaker1: 18 John went back to the bathroom.	0
+speaker1: 19 Where is John? 
+speaker2: office	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Mary travelled to the garden.	0
+speaker1: 2 Daniel went to the garden.	0
+speaker1: 3 Where is Daniel? 
+speaker2: office	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Mary journeyed to the kitchen.	0
+speaker1: 6 Mary went back to the hallway.	0
+speaker1: 7 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Daniel travelled to the office.	0
+speaker1: 10 Daniel moved to the garden.	0
+speaker1: 11 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Sandra went back to the kitchen.	0
+speaker1: 14 John travelled to the bathroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: garden	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 Daniel went to the kitchen.	0
+speaker1: 18 Mary moved to the office.	0
+speaker1: 19 Where is Sandra? 
+speaker2: office	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Mary went to the office.	0
+speaker1: 2 Sandra travelled to the bathroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Sandra went to the hallway.	0
+speaker1: 6 Daniel journeyed to the kitchen.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Sandra travelled to the office.	0
+speaker1: 10 John journeyed to the bedroom.	0
+speaker1: 11 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Daniel moved to the hallway.	0
+speaker1: 14 Sandra went to the hallway.	0
+speaker1: 15 Where is Daniel? 
+speaker2: garden	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 John journeyed to the garden.	0
+speaker1: 18 Sandra went back to the garden.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 Sandra journeyed to the garden.	0
+speaker1: 2 Daniel travelled to the bathroom.	0
+speaker1: 3 Where is Sandra? 
+speaker2: office	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Sandra went to the bedroom.	0
+speaker1: 6 Sandra travelled to the hallway.	0
+speaker1: 7 Where is Sandra? 
+speaker2: garden	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Sandra travelled to the office.	0
+speaker1: 10 Sandra went back to the garden.	0
+speaker1: 11 Where is Sandra? 
+speaker2: office	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 John journeyed to the hallway.	0
+speaker1: 14 John moved to the bedroom.	0
+speaker1: 15 Where is John? 
+speaker2: bedroom	0
+speaker1: 16 Correct!	0
+speaker1: 17 Sandra moved to the kitchen.	0
+speaker1: 18 John journeyed to the kitchen.	0
+speaker1: 19 Where is John? 
+speaker2: kitchen	0
+speaker1: 20 Correct!	0
+speaker1: 1 Sandra went to the bedroom.	0
+speaker1: 2 Mary moved to the bedroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 John went to the office.	0
+speaker1: 6 Daniel journeyed to the garden.	0
+speaker1: 7 Where is John? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Mary travelled to the bathroom.	0
+speaker1: 10 Daniel moved to the hallway.	0
+speaker1: 11 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Daniel travelled to the garden.	0
+speaker1: 14 John moved to the garden.	0
+speaker1: 15 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 16 Correct!	1
+speaker1: 17 Mary went to the garden.	0
+speaker1: 18 Mary went to the bedroom.	0
+speaker1: 19 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Mary moved to the kitchen.	0
+speaker1: 2 John travelled to the office.	0
+speaker1: 3 Where is John? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Daniel went to the hallway.	0
+speaker1: 6 Daniel went back to the kitchen.	0
+speaker1: 7 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 8 Correct!	1
+speaker1: 9 Sandra went back to the hallway.	0
+speaker1: 10 John travelled to the bedroom.	0
+speaker1: 11 Where is John? 
+speaker2: bedroom	0
+speaker1: 12 Yes, that is correct!	0
+speaker1: 13 Daniel travelled to the garden.	0
+speaker1: 14 Mary moved to the office.	0
+speaker1: 15 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Mary journeyed to the garden.	0
+speaker1: 18 John went to the office.	0
+speaker1: 19 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Daniel went to the bedroom.	0
+speaker1: 2 Mary travelled to the bathroom.	0
+speaker1: 3 Where is Daniel? 
+speaker2: garden	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 John went back to the kitchen.	0
+speaker1: 6 John travelled to the hallway.	0
+speaker1: 7 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 8 Yes, that is correct!	1
+speaker1: 9 Mary travelled to the hallway.	0
+speaker1: 10 John travelled to the garden.	0
+speaker1: 11 Where is John? 
+speaker2: office	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Sandra went to the office.	0
+speaker1: 14 Mary moved to the bathroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: garden	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Mary journeyed to the garden.	0
+speaker1: 18 John went to the hallway.	0
+speaker1: 19 Where is John? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 John moved to the hallway.	0
+speaker1: 2 Mary moved to the garden.	0
+speaker1: 3 Where is John? 
+speaker2: garden	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Daniel travelled to the garden.	0
+speaker1: 6 Mary went to the bathroom.	0
+speaker1: 7 Where is John? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Mary went back to the bedroom.	0
+speaker1: 10 John went to the kitchen.	0
+speaker1: 11 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 12 That's right.	1
+speaker1: 13 Sandra went back to the hallway.	0
+speaker1: 14 John went to the bathroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 Mary went back to the office.	0
+speaker1: 18 John travelled to the bedroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 John went to the bedroom.	0
+speaker1: 2 Daniel journeyed to the bedroom.	0
+speaker1: 3 Where is John? 
+speaker2: garden	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Daniel journeyed to the kitchen.	0
+speaker1: 6 Sandra went back to the bedroom.	0
+speaker1: 7 Where is John? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Mary journeyed to the hallway.	0
+speaker1: 10 Daniel journeyed to the hallway.	0
+speaker1: 11 Where is Daniel? 
+speaker2: garden	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Daniel went to the bedroom.	0
+speaker1: 14 Mary journeyed to the garden.	0
+speaker1: 15 Where is Mary? 
+speaker2: office	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 John went to the office.	0
+speaker1: 18 John moved to the hallway.	0
+speaker1: 19 Where is John? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 John went back to the hallway.	0
+speaker1: 2 Daniel moved to the garden.	0
+speaker1: 3 Where is John? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Sandra travelled to the bathroom.	0
+speaker1: 6 Mary went back to the office.	0
+speaker1: 7 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Sandra travelled to the hallway.	0
+speaker1: 10 Sandra went back to the bedroom.	0
+speaker1: 11 Where is Daniel? 
+speaker2: garden	0
+speaker1: 12 Yes, that is correct!	1
+speaker1: 13 Daniel moved to the bedroom.	0
+speaker1: 14 Daniel travelled to the hallway.	0
+speaker1: 15 Where is Daniel? 
+speaker2: office	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 Daniel travelled to the garden.	0
+speaker1: 18 Daniel moved to the hallway.	0
+speaker1: 19 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 Mary went back to the kitchen.	0
+speaker1: 2 Sandra travelled to the kitchen.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 John moved to the bathroom.	0
+speaker1: 6 Sandra travelled to the bedroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 8 That's correct.	1
+speaker1: 9 John went to the hallway.	0
+speaker1: 10 Daniel went to the hallway.	0
+speaker1: 11 Where is John? 
+speaker2: office	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 John went to the kitchen.	0
+speaker1: 14 Sandra moved to the kitchen.	0
+speaker1: 15 Where is John? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Daniel travelled to the kitchen.	0
+speaker1: 18 Daniel moved to the office.	0
+speaker1: 19 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 20 That's right.	1
+speaker1: 1 Sandra went to the kitchen.	0
+speaker1: 2 Mary moved to the kitchen.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 Sandra moved to the hallway.	0
+speaker1: 6 Mary went to the office.	0
+speaker1: 7 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Daniel journeyed to the garden.	0
+speaker1: 10 Sandra journeyed to the garden.	0
+speaker1: 11 Where is Mary? 
+speaker2: garden	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Daniel went back to the kitchen.	0
+speaker1: 14 Sandra moved to the office.	0
+speaker1: 15 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 16 Yes, that's right.	0
+speaker1: 17 Daniel moved to the bedroom.	0
+speaker1: 18 John travelled to the bathroom.	0
+speaker1: 19 Where is John? 
+speaker2: garden	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Daniel went back to the hallway.	0
+speaker1: 2 Mary travelled to the kitchen.	0
+speaker1: 3 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 John went back to the office.	0
+speaker1: 6 John journeyed to the bathroom.	0
+speaker1: 7 Where is Mary? 
+speaker2: office	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 John travelled to the kitchen.	0
+speaker1: 10 John went to the bedroom.	0
+speaker1: 11 Where is John? 
+speaker2: garden	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Mary moved to the bathroom.	0
+speaker1: 14 John journeyed to the garden.	0
+speaker1: 15 Where is John? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Daniel journeyed to the kitchen.	0
+speaker1: 18 Daniel travelled to the bathroom.	0
+speaker1: 19 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Daniel travelled to the hallway.	0
+speaker1: 2 John journeyed to the hallway.	0
+speaker1: 3 Where is John? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 John journeyed to the office.	0
+speaker1: 6 Daniel went to the kitchen.	0
+speaker1: 7 Where is John? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Daniel travelled to the hallway.	0
+speaker1: 10 John journeyed to the hallway.	0
+speaker1: 11 Where is John? 
+speaker2: garden	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Daniel travelled to the kitchen.	0
+speaker1: 14 Daniel went back to the hallway.	0
+speaker1: 15 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 John went to the office.	0
+speaker1: 18 John went to the bathroom.	0
+speaker1: 19 Where is John? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 John went to the bedroom.	0
+speaker1: 2 John went back to the office.	0
+speaker1: 3 Where is John? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Daniel moved to the bathroom.	0
+speaker1: 6 Mary journeyed to the garden.	0
+speaker1: 7 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 Sandra moved to the kitchen.	0
+speaker1: 10 Sandra went to the bathroom.	0
+speaker1: 11 Where is John? 
+speaker2: office	0
+speaker1: 12 Yes, that's right.	0
+speaker1: 13 Daniel went to the bedroom.	0
+speaker1: 14 Sandra went to the hallway.	0
+speaker1: 15 Where is Sandra? 
+speaker2: garden	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 John went back to the bedroom.	0
+speaker1: 18 Mary moved to the kitchen.	0
+speaker1: 19 Where is John? 
+speaker2: garden	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Mary went back to the kitchen.	0
+speaker1: 2 John went back to the office.	0
+speaker1: 3 Where is John? 
+speaker2: garden	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Daniel journeyed to the bedroom.	0
+speaker1: 6 Mary travelled to the bathroom.	0
+speaker1: 7 Where is Daniel? 
+speaker2: garden	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 John journeyed to the kitchen.	0
+speaker1: 10 Sandra journeyed to the kitchen.	0
+speaker1: 11 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 12 Yes, that is correct!	0
+speaker1: 13 Daniel travelled to the office.	0
+speaker1: 14 Daniel journeyed to the bathroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 John travelled to the office.	0
+speaker1: 18 Daniel went back to the kitchen.	0
+speaker1: 19 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Mary moved to the bedroom.	0
+speaker1: 2 Sandra moved to the garden.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 John travelled to the office.	0
+speaker1: 6 Sandra journeyed to the office.	0
+speaker1: 7 Where is John? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Mary journeyed to the garden.	0
+speaker1: 10 Sandra journeyed to the hallway.	0
+speaker1: 11 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Daniel went back to the kitchen.	0
+speaker1: 14 Sandra went back to the garden.	0
+speaker1: 15 Where is Mary? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Sandra moved to the kitchen.	0
+speaker1: 18 John went back to the bathroom.	0
+speaker1: 19 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Sandra went to the garden.	0
+speaker1: 2 Mary journeyed to the office.	0
+speaker1: 3 Where is Sandra? 
+speaker2: garden	0
+speaker1: 4 Yes!	1
+speaker1: 5 John went to the hallway.	0
+speaker1: 6 Sandra journeyed to the bathroom.	0
+speaker1: 7 Where is Mary? 
+speaker2: garden	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Daniel went to the hallway.	0
+speaker1: 10 Daniel went to the office.	0
+speaker1: 11 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Mary moved to the garden.	0
+speaker1: 14 Mary moved to the office.	0
+speaker1: 15 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 Sandra moved to the hallway.	0
+speaker1: 18 John travelled to the office.	0
+speaker1: 19 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Sandra travelled to the hallway.	0
+speaker1: 2 Mary moved to the office.	0
+speaker1: 3 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 John went back to the kitchen.	0
+speaker1: 6 John went to the office.	0
+speaker1: 7 Where is Mary? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Mary went back to the kitchen.	0
+speaker1: 10 John journeyed to the hallway.	0
+speaker1: 11 Where is Mary? 
+speaker2: garden	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Daniel moved to the office.	0
+speaker1: 14 John journeyed to the bathroom.	0
+speaker1: 15 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 Daniel journeyed to the bedroom.	0
+speaker1: 18 Sandra travelled to the garden.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Daniel went to the bedroom.	0
+speaker1: 2 John went back to the kitchen.	0
+speaker1: 3 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 4 Yes!	1
+speaker1: 5 John moved to the bedroom.	0
+speaker1: 6 Mary travelled to the office.	0
+speaker1: 7 Where is Daniel? 
+speaker2: garden	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Sandra went to the office.	0
+speaker1: 10 Sandra went back to the hallway.	0
+speaker1: 11 Where is Mary? 
+speaker2: garden	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 John went back to the kitchen.	0
+speaker1: 14 Mary went back to the garden.	0
+speaker1: 15 Where is Mary? 
+speaker2: office	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Mary journeyed to the bathroom.	0
+speaker1: 18 Daniel travelled to the hallway.	0
+speaker1: 19 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 20 Yes!	1
+speaker1: 1 John went to the bathroom.	0
+speaker1: 2 John went back to the hallway.	0
+speaker1: 3 Where is John? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Sandra went back to the kitchen.	0
+speaker1: 6 Daniel went back to the office.	0
+speaker1: 7 Where is John? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Daniel went back to the bathroom.	0
+speaker1: 10 Daniel moved to the bedroom.	0
+speaker1: 11 Where is John? 
+speaker2: office	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Mary went to the office.	0
+speaker1: 14 Sandra travelled to the office.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 John moved to the bedroom.	0
+speaker1: 18 Mary went back to the kitchen.	0
+speaker1: 19 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Sandra went to the garden.	0
+speaker1: 2 John journeyed to the kitchen.	0
+speaker1: 3 Where is John? 
+speaker2: garden	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 John went back to the office.	0
+speaker1: 6 Daniel moved to the garden.	0
+speaker1: 7 Where is John? 
+speaker2: garden	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Mary went back to the hallway.	0
+speaker1: 10 Sandra moved to the bedroom.	0
+speaker1: 11 Where is John? 
+speaker2: office	0
+speaker1: 12 Correct!	1
+speaker1: 13 Daniel journeyed to the hallway.	0
+speaker1: 14 Sandra travelled to the bathroom.	0
+speaker1: 15 Where is Daniel? 
+speaker2: garden	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 Daniel moved to the kitchen.	0
+speaker1: 18 Sandra went to the garden.	0
+speaker1: 19 Where is Sandra? 
+speaker2: office	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Daniel travelled to the hallway.	0
+speaker1: 2 John travelled to the office.	0
+speaker1: 3 Where is John? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Daniel went to the bedroom.	0
+speaker1: 6 Daniel went back to the office.	0
+speaker1: 7 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Mary went to the bedroom.	0
+speaker1: 10 Mary went to the hallway.	0
+speaker1: 11 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Mary travelled to the office.	0
+speaker1: 14 Sandra went to the garden.	0
+speaker1: 15 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Daniel journeyed to the bedroom.	0
+speaker1: 18 John journeyed to the bedroom.	0
+speaker1: 19 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Daniel journeyed to the hallway.	0
+speaker1: 2 Sandra went back to the bathroom.	0
+speaker1: 3 Where is Sandra? 
+speaker2: office	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 John went to the bedroom.	0
+speaker1: 6 Sandra moved to the office.	0
+speaker1: 7 Where is John? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Daniel went to the bathroom.	0
+speaker1: 10 Mary travelled to the bathroom.	0
+speaker1: 11 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Sandra went back to the hallway.	0
+speaker1: 14 John went to the office.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 John moved to the kitchen.	0
+speaker1: 18 John went back to the hallway.	0
+speaker1: 19 Where is John? 
+speaker2: garden	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 Daniel went to the bathroom.	0
+speaker1: 2 Sandra went to the hallway.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 John went to the office.	0
+speaker1: 6 Sandra journeyed to the garden.	0
+speaker1: 7 Where is John? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Mary went back to the garden.	0
+speaker1: 10 Mary went to the bedroom.	0
+speaker1: 11 Where is Sandra? 
+speaker2: office	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Daniel went to the bedroom.	0
+speaker1: 14 Sandra journeyed to the hallway.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 Sandra went back to the kitchen.	0
+speaker1: 18 Daniel journeyed to the hallway.	0
+speaker1: 19 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Mary moved to the bathroom.	0
+speaker1: 2 Sandra went to the hallway.	0
+speaker1: 3 Where is Mary? 
+speaker2: garden	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 Mary went back to the kitchen.	0
+speaker1: 6 Daniel went back to the kitchen.	0
+speaker1: 7 Where is Daniel? 
+speaker2: office	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 John went back to the bathroom.	0
+speaker1: 10 Daniel journeyed to the office.	0
+speaker1: 11 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Daniel journeyed to the bathroom.	0
+speaker1: 14 Daniel went back to the garden.	0
+speaker1: 15 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Sandra moved to the bathroom.	0
+speaker1: 18 Mary went to the office.	0
+speaker1: 19 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Daniel went to the office.	0
+speaker1: 2 Mary went back to the bedroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Mary journeyed to the garden.	0
+speaker1: 6 John moved to the kitchen.	0
+speaker1: 7 Where is John? 
+speaker2: garden	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Sandra moved to the garden.	0
+speaker1: 10 Sandra journeyed to the hallway.	0
+speaker1: 11 Where is Sandra? 
+speaker2: garden	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Sandra went back to the bathroom.	0
+speaker1: 14 Mary went to the bathroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 16 Correct!	0
+speaker1: 17 Daniel went to the garden.	0
+speaker1: 18 John moved to the bedroom.	0
+speaker1: 19 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Mary went back to the office.	0
+speaker1: 2 Mary went to the bathroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 4 Yes!	0
+speaker1: 5 Mary went back to the hallway.	0
+speaker1: 6 John journeyed to the hallway.	0
+speaker1: 7 Where is Mary? 
+speaker2: office	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 John travelled to the garden.	0
+speaker1: 10 Sandra went back to the office.	0
+speaker1: 11 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Daniel went back to the garden.	0
+speaker1: 14 Mary journeyed to the garden.	0
+speaker1: 15 Where is John? 
+speaker2: garden	0
+speaker1: 16 Yes, that is correct!	1
+speaker1: 17 Daniel journeyed to the bedroom.	0
+speaker1: 18 Mary went back to the office.	0
+speaker1: 19 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Mary moved to the hallway.	0
+speaker1: 2 Mary travelled to the kitchen.	0
+speaker1: 3 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 4 Yes, that is correct!	0
+speaker1: 5 John went to the kitchen.	0
+speaker1: 6 Sandra moved to the bedroom.	0
+speaker1: 7 Where is John? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Mary travelled to the garden.	0
+speaker1: 10 Mary went back to the office.	0
+speaker1: 11 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Sandra moved to the hallway.	0
+speaker1: 14 Mary went to the garden.	0
+speaker1: 15 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Sandra journeyed to the office.	0
+speaker1: 18 Mary moved to the bedroom.	0
+speaker1: 19 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 20 That's right.	1
+speaker1: 1 Sandra went to the garden.	0
+speaker1: 2 Daniel journeyed to the office.	0
+speaker1: 3 Where is Daniel? 
+speaker2: garden	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Sandra travelled to the bathroom.	0
+speaker1: 6 Sandra travelled to the kitchen.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 John travelled to the bedroom.	0
+speaker1: 10 Sandra went to the hallway.	0
+speaker1: 11 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 John went back to the office.	0
+speaker1: 14 Mary travelled to the hallway.	0
+speaker1: 15 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 John went to the bedroom.	0
+speaker1: 18 Sandra journeyed to the bathroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 John journeyed to the hallway.	0
+speaker1: 2 Daniel travelled to the office.	0
+speaker1: 3 Where is Daniel? 
+speaker2: garden	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Mary moved to the garden.	0
+speaker1: 6 Mary moved to the bedroom.	0
+speaker1: 7 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Mary went back to the hallway.	0
+speaker1: 10 John journeyed to the bathroom.	0
+speaker1: 11 Where is John? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 John moved to the kitchen.	0
+speaker1: 14 John went to the office.	0
+speaker1: 15 Where is John? 
+speaker2: office	0
+speaker1: 16 Yes!	0
+speaker1: 17 Daniel moved to the garden.	0
+speaker1: 18 Sandra went back to the office.	0
+speaker1: 19 Where is John? 
+speaker2: office	0
+speaker1: 20 That's correct.	1
+speaker1: 1 Sandra journeyed to the bathroom.	0
+speaker1: 2 Daniel moved to the garden.	0
+speaker1: 3 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 John travelled to the garden.	0
+speaker1: 6 Daniel went to the office.	0
+speaker1: 7 Where is John? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Daniel went back to the hallway.	0
+speaker1: 10 Mary went back to the hallway.	0
+speaker1: 11 Where is Daniel? 
+speaker2: office	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Mary went back to the kitchen.	0
+speaker1: 14 John went to the bedroom.	0
+speaker1: 15 Where is John? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 Mary journeyed to the garden.	0
+speaker1: 18 John travelled to the hallway.	0
+speaker1: 19 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Sandra travelled to the kitchen.	0
+speaker1: 2 John journeyed to the bedroom.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 Sandra journeyed to the office.	0
+speaker1: 6 John journeyed to the hallway.	0
+speaker1: 7 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Daniel journeyed to the office.	0
+speaker1: 10 Mary moved to the office.	0
+speaker1: 11 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Sandra went to the kitchen.	0
+speaker1: 14 John went back to the kitchen.	0
+speaker1: 15 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 Sandra went back to the hallway.	0
+speaker1: 18 Mary travelled to the bathroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 20 Correct!	0
+speaker1: 1 Sandra travelled to the hallway.	0
+speaker1: 2 John journeyed to the bathroom.	0
+speaker1: 3 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 4 Yes, that's right.	1
+speaker1: 5 John went to the garden.	0
+speaker1: 6 John went to the kitchen.	0
+speaker1: 7 Where is John? 
+speaker2: kitchen	0
+speaker1: 8 That's correct.	1
+speaker1: 9 Mary journeyed to the garden.	0
+speaker1: 10 John journeyed to the hallway.	0
+speaker1: 11 Where is John? 
+speaker2: office	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Daniel travelled to the kitchen.	0
+speaker1: 14 Sandra moved to the kitchen.	0
+speaker1: 15 Where is John? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 Daniel travelled to the office.	0
+speaker1: 18 Daniel journeyed to the garden.	0
+speaker1: 19 Where is Daniel? 
+speaker2: office	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Sandra went to the bedroom.	0
+speaker1: 2 John went to the hallway.	0
+speaker1: 3 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 John moved to the garden.	0
+speaker1: 6 Sandra journeyed to the office.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Mary went to the garden.	0
+speaker1: 10 John journeyed to the bathroom.	0
+speaker1: 11 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Mary travelled to the bathroom.	0
+speaker1: 14 Mary moved to the office.	0
+speaker1: 15 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 John went to the kitchen.	0
+speaker1: 18 Sandra went to the garden.	0
+speaker1: 19 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Mary moved to the bedroom.	0
+speaker1: 2 John journeyed to the hallway.	0
+speaker1: 3 Where is John? 
+speaker2: office	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Sandra went to the garden.	0
+speaker1: 6 John went back to the bathroom.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Sandra travelled to the office.	0
+speaker1: 10 Daniel journeyed to the bathroom.	0
+speaker1: 11 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Daniel went back to the office.	0
+speaker1: 14 Mary travelled to the bathroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Sandra went to the bathroom.	0
+speaker1: 18 Mary went to the hallway.	0
+speaker1: 19 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 Daniel went to the kitchen.	0
+speaker1: 2 Mary went back to the bedroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Sandra travelled to the kitchen.	0
+speaker1: 6 Daniel moved to the garden.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Sandra moved to the hallway.	0
+speaker1: 10 Mary moved to the kitchen.	0
+speaker1: 11 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Mary went back to the hallway.	0
+speaker1: 14 Mary moved to the office.	0
+speaker1: 15 Where is Mary? 
+speaker2: office	0
+speaker1: 16 Yes, that's right.	1
+speaker1: 17 Daniel went to the bedroom.	0
+speaker1: 18 Daniel moved to the kitchen.	0
+speaker1: 19 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Mary went back to the kitchen.	0
+speaker1: 2 Sandra travelled to the bathroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 Mary moved to the garden.	0
+speaker1: 6 John journeyed to the office.	0
+speaker1: 7 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Sandra travelled to the bedroom.	0
+speaker1: 10 Sandra journeyed to the bathroom.	0
+speaker1: 11 Where is Sandra? 
+speaker2: office	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 John moved to the garden.	0
+speaker1: 14 Daniel went back to the hallway.	0
+speaker1: 15 Where is John? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Mary went to the office.	0
+speaker1: 18 Daniel went back to the bedroom.	0
+speaker1: 19 Where is Mary? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 John went back to the garden.	0
+speaker1: 2 Daniel moved to the office.	0
+speaker1: 3 Where is John? 
+speaker2: office	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Sandra went to the hallway.	0
+speaker1: 6 John went back to the bathroom.	0
+speaker1: 7 Where is John? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is bathroom.	0
+speaker1: 9 Mary moved to the kitchen.	0
+speaker1: 10 Mary travelled to the garden.	0
+speaker1: 11 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Sandra went back to the bathroom.	0
+speaker1: 14 John went back to the office.	0
+speaker1: 15 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Daniel went to the bathroom.	0
+speaker1: 18 Sandra went to the office.	0
+speaker1: 19 Where is John? 
+speaker2: office	0
+speaker1: 20 Yes, that is correct!	1
+speaker1: 1 Daniel travelled to the garden.	0
+speaker1: 2 Mary went back to the kitchen.	0
+speaker1: 3 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 Mary went to the office.	0
+speaker1: 6 Mary travelled to the garden.	0
+speaker1: 7 Where is Daniel? 
+speaker2: office	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Daniel journeyed to the hallway.	0
+speaker1: 10 John went back to the bedroom.	0
+speaker1: 11 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Daniel moved to the bedroom.	0
+speaker1: 14 Sandra travelled to the kitchen.	0
+speaker1: 15 Where is John? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 John went to the garden.	0
+speaker1: 18 John moved to the hallway.	0
+speaker1: 19 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 John journeyed to the bedroom.	0
+speaker1: 2 Mary went to the office.	0
+speaker1: 3 Where is Mary? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 John moved to the office.	0
+speaker1: 6 Mary went to the hallway.	0
+speaker1: 7 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Sandra travelled to the office.	0
+speaker1: 10 John travelled to the bedroom.	0
+speaker1: 11 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Daniel travelled to the kitchen.	0
+speaker1: 14 Mary went to the kitchen.	0
+speaker1: 15 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 16 Yes!	1
+speaker1: 17 John travelled to the kitchen.	0
+speaker1: 18 Sandra journeyed to the bedroom.	0
+speaker1: 19 Where is John? 
+speaker2: kitchen	0
+speaker1: 20 That's correct.	1
+speaker1: 1 Daniel moved to the kitchen.	0
+speaker1: 2 Sandra went to the kitchen.	0
+speaker1: 3 Where is Daniel? 
+speaker2: garden	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 John went back to the bedroom.	0
+speaker1: 6 Daniel went to the bathroom.	0
+speaker1: 7 Where is John? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Sandra moved to the garden.	0
+speaker1: 10 Daniel went back to the office.	0
+speaker1: 11 Where is Sandra? 
+speaker2: office	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Mary went to the kitchen.	0
+speaker1: 14 Daniel went to the hallway.	0
+speaker1: 15 Where is Daniel? 
+speaker2: garden	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 Daniel went back to the bathroom.	0
+speaker1: 18 Sandra moved to the office.	0
+speaker1: 19 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Mary journeyed to the hallway.	0
+speaker1: 2 John went back to the bathroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: garden	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 John went back to the bedroom.	0
+speaker1: 6 Daniel travelled to the bedroom.	0
+speaker1: 7 Where is John? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Mary went to the garden.	0
+speaker1: 10 Daniel moved to the kitchen.	0
+speaker1: 11 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Daniel went to the hallway.	0
+speaker1: 14 Mary journeyed to the kitchen.	0
+speaker1: 15 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Daniel travelled to the kitchen.	0
+speaker1: 18 Mary went back to the hallway.	0
+speaker1: 19 Where is Mary? 
+speaker2: garden	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 John went back to the garden.	0
+speaker1: 2 John travelled to the hallway.	0
+speaker1: 3 Where is John? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 John journeyed to the office.	0
+speaker1: 6 John journeyed to the kitchen.	0
+speaker1: 7 Where is John? 
+speaker2: kitchen	0
+speaker1: 8 Correct!	1
+speaker1: 9 Sandra journeyed to the hallway.	0
+speaker1: 10 Sandra went to the bedroom.	0
+speaker1: 11 Where is John? 
+speaker2: garden	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Sandra journeyed to the hallway.	0
+speaker1: 14 Daniel went back to the kitchen.	0
+speaker1: 15 Where is John? 
+speaker2: office	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Daniel moved to the bathroom.	0
+speaker1: 18 Mary went back to the bathroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 John travelled to the bathroom.	0
+speaker1: 2 Daniel went to the hallway.	0
+speaker1: 3 Where is John? 
+speaker2: bathroom	0
+speaker1: 4 That's right.	1
+speaker1: 5 John moved to the kitchen.	0
+speaker1: 6 Mary journeyed to the kitchen.	0
+speaker1: 7 Where is John? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Daniel travelled to the bathroom.	0
+speaker1: 10 John travelled to the bathroom.	0
+speaker1: 11 Where is John? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Daniel went to the garden.	0
+speaker1: 14 Sandra travelled to the hallway.	0
+speaker1: 15 Where is Sandra? 
+speaker2: office	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 Mary travelled to the hallway.	0
+speaker1: 18 John journeyed to the bedroom.	0
+speaker1: 19 Where is Mary? 
+speaker2: office	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 John went to the bedroom.	0
+speaker1: 2 Daniel went to the bedroom.	0
+speaker1: 3 Where is Daniel? 
+speaker2: office	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 John travelled to the office.	0
+speaker1: 6 John went back to the bedroom.	0
+speaker1: 7 Where is John? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Mary went to the bedroom.	0
+speaker1: 10 John went to the garden.	0
+speaker1: 11 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Daniel went back to the garden.	0
+speaker1: 14 Daniel went to the office.	0
+speaker1: 15 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 John moved to the hallway.	0
+speaker1: 18 John moved to the office.	0
+speaker1: 19 Where is John? 
+speaker2: garden	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Daniel moved to the garden.	0
+speaker1: 2 Sandra moved to the hallway.	0
+speaker1: 3 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 John went to the hallway.	0
+speaker1: 6 John went to the office.	0
+speaker1: 7 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 John went to the kitchen.	0
+speaker1: 10 John went back to the hallway.	0
+speaker1: 11 Where is John? 
+speaker2: garden	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Sandra journeyed to the office.	0
+speaker1: 14 Mary journeyed to the bedroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 Sandra travelled to the hallway.	0
+speaker1: 18 Mary went back to the bathroom.	0
+speaker1: 19 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 20 That's right.	0
+speaker1: 1 Mary journeyed to the bedroom.	0
+speaker1: 2 Sandra moved to the kitchen.	0
+speaker1: 3 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Mary journeyed to the garden.	0
+speaker1: 6 Sandra moved to the garden.	0
+speaker1: 7 Where is Sandra? 
+speaker2: garden	0
+speaker1: 8 Yes, that's right.	0
+speaker1: 9 John moved to the office.	0
+speaker1: 10 Sandra moved to the bedroom.	0
+speaker1: 11 Where is John? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Daniel moved to the bedroom.	0
+speaker1: 14 Sandra moved to the bathroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: garden	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Daniel travelled to the office.	0
+speaker1: 18 John went to the garden.	0
+speaker1: 19 Where is Sandra? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 John moved to the hallway.	0
+speaker1: 2 Sandra went to the hallway.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 John went back to the garden.	0
+speaker1: 6 Daniel journeyed to the office.	0
+speaker1: 7 Where is John? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Daniel moved to the bedroom.	0
+speaker1: 10 Mary journeyed to the bathroom.	0
+speaker1: 11 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 12 That's right.	0
+speaker1: 13 John went back to the kitchen.	0
+speaker1: 14 Daniel went back to the office.	0
+speaker1: 15 Where is Daniel? 
+speaker2: office	0
+speaker1: 16 Correct!	1
+speaker1: 17 Sandra moved to the kitchen.	0
+speaker1: 18 Daniel went to the kitchen.	0
+speaker1: 19 Where is Daniel? 
+speaker2: garden	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Mary travelled to the bedroom.	0
+speaker1: 2 Daniel moved to the hallway.	0
+speaker1: 3 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Daniel journeyed to the garden.	0
+speaker1: 6 Daniel journeyed to the hallway.	0
+speaker1: 7 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Sandra journeyed to the hallway.	0
+speaker1: 10 John went to the garden.	0
+speaker1: 11 Where is Daniel? 
+speaker2: office	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 John moved to the hallway.	0
+speaker1: 14 Daniel journeyed to the bathroom.	0
+speaker1: 15 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Daniel moved to the hallway.	0
+speaker1: 18 John travelled to the kitchen.	0
+speaker1: 19 Where is John? 
+speaker2: office	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Sandra went to the bathroom.	0
+speaker1: 2 Daniel went to the bedroom.	0
+speaker1: 3 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is bathroom.	0
+speaker1: 5 Mary went to the garden.	0
+speaker1: 6 Sandra moved to the hallway.	0
+speaker1: 7 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Daniel journeyed to the bathroom.	0
+speaker1: 10 Mary journeyed to the kitchen.	0
+speaker1: 11 Where is Sandra? 
+speaker2: office	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Sandra went to the bathroom.	0
+speaker1: 14 John went to the kitchen.	0
+speaker1: 15 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Sandra went back to the kitchen.	0
+speaker1: 18 Sandra went to the office.	0
+speaker1: 19 Where is Sandra? 
+speaker2: office	0
+speaker1: 20 That's right.	1
+speaker1: 1 Mary went to the hallway.	0
+speaker1: 2 Daniel travelled to the bathroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: hallway	0
+speaker1: 4 Yes!	0
+speaker1: 5 Mary journeyed to the bathroom.	0
+speaker1: 6 Daniel journeyed to the hallway.	0
+speaker1: 7 Where is Daniel? 
+speaker2: office	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Daniel went back to the garden.	0
+speaker1: 10 Daniel travelled to the office.	0
+speaker1: 11 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is office.	0
+speaker1: 13 Mary went to the office.	0
+speaker1: 14 Mary went back to the bathroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 Mary went to the hallway.	0
+speaker1: 18 Daniel went to the bedroom.	0
+speaker1: 19 Where is Mary? 
+speaker2: office	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 John travelled to the kitchen.	0
+speaker1: 2 Daniel went to the kitchen.	0
+speaker1: 3 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 John went back to the hallway.	0
+speaker1: 6 John moved to the office.	0
+speaker1: 7 Where is John? 
+speaker2: hallway	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Mary moved to the bedroom.	0
+speaker1: 10 John travelled to the bedroom.	0
+speaker1: 11 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 John went back to the bathroom.	0
+speaker1: 14 Sandra moved to the kitchen.	0
+speaker1: 15 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 16 Yes, that is correct!	1
+speaker1: 17 John journeyed to the garden.	0
+speaker1: 18 Sandra went to the office.	0
+speaker1: 19 Where is John? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Mary travelled to the garden.	0
+speaker1: 2 Daniel went to the office.	0
+speaker1: 3 Where is Daniel? 
+speaker2: garden	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Daniel travelled to the kitchen.	0
+speaker1: 6 Sandra journeyed to the kitchen.	0
+speaker1: 7 Where is Daniel? 
+speaker2: garden	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Mary went back to the hallway.	0
+speaker1: 10 Daniel went to the bedroom.	0
+speaker1: 11 Where is Daniel? 
+speaker2: office	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Mary moved to the bathroom.	0
+speaker1: 14 Sandra journeyed to the bathroom.	0
+speaker1: 15 Where is Mary? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 John journeyed to the garden.	0
+speaker1: 18 Sandra went to the garden.	0
+speaker1: 19 Where is Sandra? 
+speaker2: garden	0
+speaker1: 20 Yes!	1
+speaker1: 1 Mary went back to the hallway.	0
+speaker1: 2 John went to the garden.	0
+speaker1: 3 Where is Mary? 
+speaker2: hallway	0
+speaker1: 4 That's right.	1
+speaker1: 5 Sandra travelled to the bedroom.	0
+speaker1: 6 Mary travelled to the bedroom.	0
+speaker1: 7 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 8 That's correct.	1
+speaker1: 9 Sandra moved to the kitchen.	0
+speaker1: 10 Daniel went back to the bedroom.	0
+speaker1: 11 Where is Daniel? 
+speaker2: office	0
+speaker1: 12 No, the answer is bedroom.	0
+speaker1: 13 Mary went back to the garden.	0
+speaker1: 14 Daniel went to the office.	0
+speaker1: 15 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Daniel moved to the garden.	0
+speaker1: 18 Sandra travelled to the hallway.	0
+speaker1: 19 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Sandra went back to the office.	0
+speaker1: 2 Daniel moved to the hallway.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Daniel travelled to the garden.	0
+speaker1: 6 Mary moved to the bathroom.	0
+speaker1: 7 Where is Daniel? 
+speaker2: garden	0
+speaker1: 8 That's right.	0
+speaker1: 9 Sandra went back to the kitchen.	0
+speaker1: 10 Sandra moved to the garden.	0
+speaker1: 11 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Sandra went to the kitchen.	0
+speaker1: 14 Daniel went to the bathroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 John journeyed to the bathroom.	0
+speaker1: 18 John went back to the garden.	0
+speaker1: 19 Where is John? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Sandra went back to the bedroom.	0
+speaker1: 2 Mary went back to the hallway.	0
+speaker1: 3 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Mary moved to the bathroom.	0
+speaker1: 6 Mary went to the hallway.	0
+speaker1: 7 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Daniel travelled to the bathroom.	0
+speaker1: 10 Sandra went back to the office.	0
+speaker1: 11 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 12 That's correct.	1
+speaker1: 13 Mary moved to the kitchen.	0
+speaker1: 14 John journeyed to the bathroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: garden	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 Mary moved to the bathroom.	0
+speaker1: 18 Sandra went back to the kitchen.	0
+speaker1: 19 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 John went to the kitchen.	0
+speaker1: 2 John went to the hallway.	0
+speaker1: 3 Where is John? 
+speaker2: office	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Sandra moved to the garden.	0
+speaker1: 6 Sandra went back to the kitchen.	0
+speaker1: 7 Where is Sandra? 
+speaker2: office	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 John moved to the bedroom.	0
+speaker1: 10 Sandra went back to the bathroom.	0
+speaker1: 11 Where is Sandra? 
+speaker2: garden	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 Sandra went to the hallway.	0
+speaker1: 14 Daniel journeyed to the office.	0
+speaker1: 15 Where is Sandra? 
+speaker2: garden	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 Daniel travelled to the bedroom.	0
+speaker1: 18 Daniel travelled to the garden.	0
+speaker1: 19 Where is Daniel? 
+speaker2: garden	0
+speaker1: 20 That's correct.	1
+speaker1: 1 Sandra journeyed to the bathroom.	0
+speaker1: 2 Daniel moved to the garden.	0
+speaker1: 3 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Mary went back to the garden.	0
+speaker1: 6 Daniel went back to the kitchen.	0
+speaker1: 7 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 Mary went back to the bedroom.	0
+speaker1: 10 Mary went back to the bathroom.	0
+speaker1: 11 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 John journeyed to the hallway.	0
+speaker1: 14 John went back to the bedroom.	0
+speaker1: 15 Where is John? 
+speaker2: garden	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 Daniel journeyed to the bathroom.	0
+speaker1: 18 John went back to the office.	0
+speaker1: 19 Where is John? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 John went to the kitchen.	0
+speaker1: 2 John journeyed to the office.	0
+speaker1: 3 Where is John? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Daniel travelled to the bedroom.	0
+speaker1: 6 John journeyed to the kitchen.	0
+speaker1: 7 Where is John? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 John journeyed to the office.	0
+speaker1: 10 Mary went back to the bathroom.	0
+speaker1: 11 Where is Mary? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is bathroom.	0
+speaker1: 13 John journeyed to the garden.	0
+speaker1: 14 Sandra went to the bathroom.	0
+speaker1: 15 Where is John? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Sandra journeyed to the office.	0
+speaker1: 18 John went back to the bathroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Mary journeyed to the bedroom.	0
+speaker1: 2 Mary journeyed to the garden.	0
+speaker1: 3 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is garden.	0
+speaker1: 5 Daniel went back to the garden.	0
+speaker1: 6 Mary went back to the hallway.	0
+speaker1: 7 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Daniel went to the hallway.	0
+speaker1: 10 John travelled to the bedroom.	0
+speaker1: 11 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is hallway.	0
+speaker1: 13 Mary went to the garden.	0
+speaker1: 14 Mary went to the kitchen.	0
+speaker1: 15 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 John moved to the kitchen.	0
+speaker1: 18 John went back to the garden.	0
+speaker1: 19 Where is John? 
+speaker2: office	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 John journeyed to the bedroom.	0
+speaker1: 2 Mary moved to the garden.	0
+speaker1: 3 Where is John? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Mary journeyed to the bathroom.	0
+speaker1: 6 Mary travelled to the garden.	0
+speaker1: 7 Where is John? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Mary went back to the bedroom.	0
+speaker1: 10 Sandra went back to the office.	0
+speaker1: 11 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 12 Yes!	1
+speaker1: 13 Sandra travelled to the bathroom.	0
+speaker1: 14 Sandra travelled to the kitchen.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Sandra moved to the hallway.	0
+speaker1: 18 Mary went to the bathroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 20 No, the answer is hallway.	0
+speaker1: 1 Mary travelled to the kitchen.	0
+speaker1: 2 Sandra moved to the office.	0
+speaker1: 3 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Mary went back to the bedroom.	0
+speaker1: 6 Mary journeyed to the kitchen.	0
+speaker1: 7 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is kitchen.	0
+speaker1: 9 John travelled to the bedroom.	0
+speaker1: 10 Daniel went to the bedroom.	0
+speaker1: 11 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Sandra journeyed to the garden.	0
+speaker1: 14 Sandra travelled to the office.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bedroom	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 Mary travelled to the office.	0
+speaker1: 18 Mary journeyed to the kitchen.	0
+speaker1: 19 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Daniel journeyed to the kitchen.	0
+speaker1: 2 John journeyed to the office.	0
+speaker1: 3 Where is John? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Daniel travelled to the bedroom.	0
+speaker1: 6 Sandra journeyed to the bathroom.	0
+speaker1: 7 Where is Daniel? 
+speaker2: office	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Mary travelled to the bedroom.	0
+speaker1: 10 John travelled to the kitchen.	0
+speaker1: 11 Where is John? 
+speaker2: hallway	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Mary went back to the garden.	0
+speaker1: 14 Sandra went back to the bedroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: office	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 Sandra journeyed to the bathroom.	0
+speaker1: 18 Daniel moved to the bathroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: office	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Sandra journeyed to the hallway.	0
+speaker1: 2 Mary moved to the bedroom.	0
+speaker1: 3 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Mary went back to the office.	0
+speaker1: 6 Sandra moved to the bedroom.	0
+speaker1: 7 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Sandra moved to the kitchen.	0
+speaker1: 10 Daniel moved to the bedroom.	0
+speaker1: 11 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 12 Yes, that is correct!	1
+speaker1: 13 Sandra went to the hallway.	0
+speaker1: 14 Mary journeyed to the bathroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: office	0
+speaker1: 16 No, the answer is hallway.	0
+speaker1: 17 John went back to the bathroom.	0
+speaker1: 18 John travelled to the hallway.	0
+speaker1: 19 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 20 Yes!	0
+speaker1: 1 Sandra moved to the office.	0
+speaker1: 2 John went to the kitchen.	0
+speaker1: 3 Where is John? 
+speaker2: kitchen	0
+speaker1: 4 That's correct.	1
+speaker1: 5 John travelled to the garden.	0
+speaker1: 6 Mary moved to the office.	0
+speaker1: 7 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 John went to the bedroom.	0
+speaker1: 10 John went back to the kitchen.	0
+speaker1: 11 Where is John? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Daniel went to the garden.	0
+speaker1: 14 John went to the office.	0
+speaker1: 15 Where is Daniel? 
+speaker2: office	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 Mary went back to the bathroom.	0
+speaker1: 18 Sandra journeyed to the garden.	0
+speaker1: 19 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Mary went back to the bedroom.	0
+speaker1: 2 Daniel travelled to the office.	0
+speaker1: 3 Where is Mary? 
+speaker2: hallway	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Daniel went back to the garden.	0
+speaker1: 6 John journeyed to the office.	0
+speaker1: 7 Where is John? 
+speaker2: garden	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Daniel moved to the kitchen.	0
+speaker1: 10 Mary journeyed to the garden.	0
+speaker1: 11 Where is Daniel? 
+speaker2: office	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Sandra went back to the bedroom.	0
+speaker1: 14 John went to the garden.	0
+speaker1: 15 Where is John? 
+speaker2: hallway	0
+speaker1: 16 No, the answer is garden.	0
+speaker1: 17 John journeyed to the bathroom.	0
+speaker1: 18 Sandra journeyed to the office.	0
+speaker1: 19 Where is Mary? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 John moved to the garden.	0
+speaker1: 2 Daniel went back to the office.	0
+speaker1: 3 Where is John? 
+speaker2: garden	0
+speaker1: 4 Yes, that's right.	0
+speaker1: 5 Sandra travelled to the office.	0
+speaker1: 6 Mary went back to the garden.	0
+speaker1: 7 Where is John? 
+speaker2: kitchen	0
+speaker1: 8 No, the answer is garden.	0
+speaker1: 9 Daniel went back to the hallway.	0
+speaker1: 10 Sandra travelled to the kitchen.	0
+speaker1: 11 Where is Mary? 
+speaker2: office	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 Sandra journeyed to the bathroom.	0
+speaker1: 14 Sandra went to the kitchen.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Sandra went to the bathroom.	0
+speaker1: 18 Mary moved to the bathroom.	0
+speaker1: 19 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is bathroom.	0
+speaker1: 1 Sandra went to the bathroom.	0
+speaker1: 2 John journeyed to the hallway.	0
+speaker1: 3 Where is John? 
+speaker2: hallway	0
+speaker1: 4 Yes, that's right.	0
+speaker1: 5 Daniel went to the office.	0
+speaker1: 6 John went to the kitchen.	0
+speaker1: 7 Where is John? 
+speaker2: kitchen	0
+speaker1: 8 That's right.	1
+speaker1: 9 Daniel travelled to the kitchen.	0
+speaker1: 10 Mary journeyed to the bedroom.	0
+speaker1: 11 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 Daniel went back to the office.	0
+speaker1: 14 Mary travelled to the garden.	0
+speaker1: 15 Where is John? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 John journeyed to the hallway.	0
+speaker1: 18 John travelled to the office.	0
+speaker1: 19 Where is Mary? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Sandra went to the kitchen.	0
+speaker1: 2 John journeyed to the kitchen.	0
+speaker1: 3 Where is Sandra? 
+speaker2: garden	0
+speaker1: 4 No, the answer is kitchen.	0
+speaker1: 5 Sandra went back to the garden.	0
+speaker1: 6 Mary travelled to the hallway.	0
+speaker1: 7 Where is John? 
+speaker2: kitchen	0
+speaker1: 8 Yes!	0
+speaker1: 9 Sandra went back to the bathroom.	0
+speaker1: 10 Daniel journeyed to the garden.	0
+speaker1: 11 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 12 No, the answer is garden.	0
+speaker1: 13 John moved to the hallway.	0
+speaker1: 14 Mary moved to the bathroom.	0
+speaker1: 15 Where is Sandra? 
+speaker2: office	0
+speaker1: 16 No, the answer is bathroom.	0
+speaker1: 17 John went back to the office.	0
+speaker1: 18 Mary went to the kitchen.	0
+speaker1: 19 Where is Mary? 
+speaker2: garden	0
+speaker1: 20 No, the answer is kitchen.	0
+speaker1: 1 Sandra moved to the bedroom.	0
+speaker1: 2 John travelled to the office.	0
+speaker1: 3 Where is John? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 Daniel travelled to the hallway.	0
+speaker1: 6 Mary went to the hallway.	0
+speaker1: 7 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 8 No, the answer is hallway.	0
+speaker1: 9 Mary travelled to the office.	0
+speaker1: 10 Sandra moved to the kitchen.	0
+speaker1: 11 Where is Mary? 
+speaker2: office	0
+speaker1: 12 That's correct.	1
+speaker1: 13 John went back to the hallway.	0
+speaker1: 14 Daniel moved to the garden.	0
+speaker1: 15 Where is Sandra? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Daniel moved to the office.	0
+speaker1: 18 Daniel travelled to the bedroom.	0
+speaker1: 19 Where is Daniel? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is bedroom.	0
+speaker1: 1 Mary went to the kitchen.	0
+speaker1: 2 John travelled to the hallway.	0
+speaker1: 3 Where is John? 
+speaker2: bedroom	0
+speaker1: 4 No, the answer is hallway.	0
+speaker1: 5 Sandra went back to the bedroom.	0
+speaker1: 6 John travelled to the kitchen.	0
+speaker1: 7 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 8 That's right.	0
+speaker1: 9 Mary went back to the garden.	0
+speaker1: 10 Mary travelled to the office.	0
+speaker1: 11 Where is John? 
+speaker2: bathroom	0
+speaker1: 12 No, the answer is kitchen.	0
+speaker1: 13 John journeyed to the office.	0
+speaker1: 14 Sandra went to the office.	0
+speaker1: 15 Where is Mary? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is office.	0
+speaker1: 17 Sandra journeyed to the kitchen.	0
+speaker1: 18 John travelled to the hallway.	0
+speaker1: 19 Where is Mary? 
+speaker2: kitchen	0
+speaker1: 20 No, the answer is office.	0
+speaker1: 1 Daniel went back to the office.	0
+speaker1: 2 Sandra went to the garden.	0
+speaker1: 3 Where is Daniel? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is office.	0
+speaker1: 5 John journeyed to the bedroom.	0
+speaker1: 6 Mary went back to the bathroom.	0
+speaker1: 7 Where is Daniel? 
+speaker2: bedroom	0
+speaker1: 8 No, the answer is office.	0
+speaker1: 9 Daniel went back to the kitchen.	0
+speaker1: 10 Mary travelled to the bedroom.	0
+speaker1: 11 Where is Mary? 
+speaker2: bedroom	0
+speaker1: 12 Yes, that is correct!	0
+speaker1: 13 John went back to the office.	0
+speaker1: 14 Sandra went to the bedroom.	0
+speaker1: 15 Where is Daniel? 
+speaker2: garden	0
+speaker1: 16 No, the answer is kitchen.	0
+speaker1: 17 Daniel went to the bedroom.	0
+speaker1: 18 John went back to the garden.	0
+speaker1: 19 Where is John? 
+speaker2: bathroom	0
+speaker1: 20 No, the answer is garden.	0
+speaker1: 1 Sandra travelled to the hallway.	0
+speaker1: 2 Sandra went to the bedroom.	0
+speaker1: 3 Where is Sandra? 
+speaker2: kitchen	0
+speaker1: 4 No, the answer is bedroom.	0
+speaker1: 5 Daniel moved to the office.	0
+speaker1: 6 Mary went to the hallway.	0
+speaker1: 7 Where is Sandra? 
+speaker2: office	0
+speaker1: 8 No, the answer is bedroom.	0
+speaker1: 9 Mary journeyed to the kitchen.	0
+speaker1: 10 John went back to the bedroom.	0
+speaker1: 11 Where is Daniel? 
+speaker2: office	0
+speaker1: 12 Yes!	1
+speaker1: 13 Daniel travelled to the kitchen.	0
+speaker1: 14 Sandra travelled to the kitchen.	0
+speaker1: 15 Where is John? 
+speaker2: bathroom	0
+speaker1: 16 No, the answer is bedroom.	0
+speaker1: 17 Sandra travelled to the hallway.	0
+speaker1: 18 Daniel went to the garden.	0
+speaker1: 19 Where is Daniel? 
+speaker2: hallway	0
+speaker1: 20 No, the answer is garden.	0
