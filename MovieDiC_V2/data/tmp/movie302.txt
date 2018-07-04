@@ -1,656 +1,656 @@
-speaker1: dr. jones. 
-speaker2: lao she.
-speaker1: nee chin lie how ma?
-speaker2: wah hung how, nee nah? wah hwey hung jing chee jah loo nee kao soo wah shu shu.
-speaker1: you never told me you spoke my language, dr. jones.
-speaker2: i don't like to show off.
-speaker1: for this special occasion, i ordered champagne and caviar.
-speaker1: so, it is true, dr. jones? you found nurhachi?
-speaker2: sure, i found him. then last night i had a little trouble. somebody tried to slit my throat.
-speaker1: you have insulted my son.
-speaker2: next time i'll cut off more than his finger.
-speaker1: dr. jones -- i want nurhachi.
-speaker2: as i recall the deal was consid- erably more.
-speaker3: aren't you going to introduce us?
-speaker1: this is willie scott.
-speaker3: well -- i thought archaeologists were always funny little men searching for their mummies -- aaahhh!
-speaker2: put the gun away, sonny.
-speaker2: now i suggest you pay me what you promised -- or your girlfriend here is going to be squealing a new tune.
-speaker2: try again lao -- the deal was more.
-speaker3: look at this! he put a hole in my dress from paris!
-speaker1: sit down!
-speaker2: what's that?
-speaker1: a bonus, dr. jones. that is poison. you just drank the rest of it.
-speaker3: this nurhachi's a very small guy.
-speaker2: inside are the remains of nur- hachi -- the first emperor of the manchu dynasty.
-speaker1: at last i have the ashes of my sacred ancestor!
-speaker3: so, what's the big deal? let me see it --
-speaker1: you fool!
-speaker3: ow, you're hurting me, you miser- able little hood!
-speaker2: let go of her, lao. and give me the antidote.
-speaker3: hey, he's not a waiter...
-speaker2: no, wu han's an old friend i brought along. so, the game's not over. put the antidote on the table, lao.
-speaker2: wu han -- listen to me -- i'm going to get you out of here.
-speaker4: not this time, my friend... i followed you on many adventures -- but into the great unknown mystery, i go first, indy...
-speaker1: don't be sad, dr. jones -- you will soon join him.
-speaker2: the antidote -- !
-
-speaker1: look out, it, i need that antidote! 
-speaker2: who cares? where's that diamond!
-speaker2: aw nuts!
-speaker1: hey,doll! don't move!
-
-speaker1: wow! holy smoke! crash landing! 
-speaker2: step on it, short round!
-speaker1: okey doke, indy! hold onto your potatoes!
-speaker3: for crying out loud, a kid's driv- ing the car?!
-speaker2: relax, i've been giving him lessons.
-
-speaker1: listen, we just met for crissake! 
-speaker2: don't get your hopes up -- where's the antidote?
-speaker1: you don't look very good.
-speaker2: poison never agrees with me. pull a right, short round, and head for the poo bridge!
-speaker3: check! gotcha!
-speaker1: look at what you've done to me! i'm a mess! my lipstick's smeared, i broke two nails, i've got an aw- ful run in my stocking -- !
-speaker2: somehow i think you've got bigger problems.
-speaker1: what're we going to do?! where're we going?!
-speaker2: the airport...no, look out, short round! left, left!
-
-speaker1: you got the tickets, short round? 
-speaker2: sure, indy -- three tickets! you, me and wu han --
-speaker2: don't worry, indy. short round number one bodyguard now!
-speaker3: i'll take the extra ticket. where's this plane going anyway?
-speaker1: siam.
-speaker3: siam? but i'm not dressed for siam...
-
-speaker1: no, no, they're all right! 
-speaker2: thanks, weber.
-speaker1: dr. jones, this is positively the last time our airline can hold a plane for you. now you must hurry!
-
-speaker1: so, what're you supposed to be, a lion tamer? 
-speaker2: since i was nice enough to let you tag along, why don't you give your mouth a rest? okay, doll?
-speaker1: i'm freezing. what do you mean, tag along? from the minute you walked into that nightclub, you haven't been able to keep your eyes off me.
-speaker2: oh yeah?
-
-speaker1: lao send planes to kill indy! 
-speaker2: wake up! it's the drug he drank to stop the poison --
-speaker3: please to remain calm. we start passing out parachutes now --
-speaker2: you got to be kidding! no! no, i can't!
-
-speaker1: put it on! what's wrong with you? you've got to jump! 
-speaker2: no, can't leave indy!
-speaker3: give me that parachute, i changed my mind --
-speaker2: no, this last one! it's for indy!
-
-speaker1: we there yet? 
-speaker2: there's nobody flying the plane!
-
-speaker1: come here, lady, hold this and shut up please! 
-speaker1: i get it!
-speaker2: you got it!
-speaker1: oh oh -- big mistake!
-
-speaker1: are you crazy, a lift raft?! we're not sinking, we're crashing! 
-speaker2: get over here, it! short round, come on, grab onto me tight!
-speaker1: wait for me!
-
-speaker1: indy? 
-speaker2: okay, shorty. indy looks over at willie who is moaning. indiana you all right?
-speaker3: no... i'm not cut out for the kind of life you lead. oh no...i ripped my dress. where are we anyway?
-speaker2: india...
-speaker3: holy cow -- india? how do you know we're in --
-
-speaker1: what'd he say? 
-speaker2: he told me they knew i was coming here.
-speaker1: what do you mean -- how?
-speaker2: the old man saw it in a dream.
-speaker1: dream -- nightmare is more like it.
-speaker2: he said that's whey they were at river -- they were waiting for the plane to fall down.
-
-speaker1: i am starving, but i can't eat this... 
-speaker2: that's more food than these people eat in a week. they're starving, too...
-speaker1: i'm sorry, i -- here, please.
-speaker3: you will rest here before you go on.
-speaker2: we'd appreciate that. this was an unexpected detour. we'll have to go to delhi now and find a flight west.
-speaker4: indy is taking me to america.
-speaker2: i'm a professor. i have to re- turn to the university. can you give us a guide to take us to delhi?
-speaker3: sanju will guide you.
-speaker2: thank you. the old shaman speaks now for the first time.
-speaker5: on the way to delhi, you will stop at pankot.
-speaker2: pankot isn't on the way to delhi.
-speaker5: you will go to palace there.
-speaker2: hasn't the pankot palace been de- serted since the mutiny of 1857?
-speaker5: no. now there is new maharajah -- and palace is powerful again. the shaman looks around at his unfortunate people. shaman it is pankot palace that kills my village.
-speaker2: i don't understand. what's hap- pened here?
-speaker5: the evil starts in pankot. then like monsoon, it moves darkness over all country.
-speaker2: what evil?
-speaker5: they came from palace and took sivalinga from out village.
-speaker1: took what?
-speaker2: it's a sacred stone in a shine that's supposed to protect a village.
-speaker5: it is why krishna brought you here.
-speaker2: nobody brought us here. our plane crashed. we were shot down by --
-
-speaker1: indy, they make out plane crash? 
-speaker2: it's just superstition, shorty. like a ghost story.
-speaker3: yes.
-speaker2: was the stone very smooth? it was probably brought here from a sacred river.
-speaker4: long ago -- before my father's father.
-speaker2: and it had three lines painted across it? the lines represent the three levels of the universe. i've seen stones like the one you lost.
-speaker5: i don't understand how losing one rock could destroy this village. is it really powerful?
-speaker2: but why would the maharajah take this sacred stone?
-speaker4: they say we must pray to their evil we say we will not.
-speaker2: he says their crops dies and then the animals died.
-speaker2: and then they took their children.
-speaker5: their children?
-speaker2: he says one night there was a fire in the fields. the men went to fight it. when they came back, they heard the women crying in the darkness. and the children were gone.
-speaker4: you will find them when you find sivlalinga.
-speaker2: i'm sorry, i don't know how i can help you here.
-speaker3: they do not listen.
-speaker2: i have friends in delhi and i will make sure they investigate this...
-speaker4: no, you will got to pankot...
-speaker5: what'd he say now?
-speaker2: it was destined that i came here -- and the future cannot be changed...
-
-speaker1: sankara... 
-speaker2: sankara...
-
-speaker1: it , willie, get on -- we've got to move out! 
-speaker2: whoa! easy now -- nice elephant...
-speaker3: i ride with you, indy?
-speaker1: nope, you got a little surprise over there, shorty.
-speaker3: oh boy!
-speaker2: this is the first time anybody ever cried when i left.
-speaker3: they don't cry about you. they cry about the elephants leaving.
-speaker2: figures...
-speaker3: they got no food to feed them. so they taking the elephants away to sell them.
-speaker1: all right, let's go. i want to get to pankot before tomorrow night.
-speaker2: pankot?! i thought we were going to delhi! hey, wait a minute! can't somebody take me to delhi?! i don't want to go to pankot!
-
-speaker1: here you go, lunch time! 
-speaker2: those are very big bird.
-speaker3: those aren't birds -- those are giant bats.
-
-speaker1: they must be pretty to drink that awful-looking water. 
-speaker2: i think maybe we'll camp here.
-
-speaker1: hey, willie -- i think you better get out now. 
-speaker2: stark naked? you wish... if you're trying to seduce me, dr. jones, this is a very primitive approach.
-speaker1: me seduce you? honey, you're the one who took your clothes off. i just came over to remind you that you never know what else might be in the water.
-speaker2: somehow i feel safer in here.
-speaker2: indy! help me!
-speaker1: don't worry, i'm coming in! what is it?
-speaker2: a snake!
-speaker1: a what...?
-
-speaker1: uh, listen -- willie -- i got a better idea. 
-speaker2: what?!
-speaker1: first of all -- don't panic!
-speaker2: it's got me ! indy, help me!
-speaker1: don't let it pull you deeper!
-speaker2: it's pulling me deeper!
-speaker1: don't let it curl around you!
-speaker2: it's curling around me! it, stop talking and do something!
-speaker1: listen, willie. do exactly what i tell you now.
-speaker2: what?!
-speaker1: can you move your arm?
-speaker2: just one arm!
-speaker1: okay, i want you to lift your hand -- and pet the snake.
-
-speaker1: pet it on the head! go on, pet it! 
-speaker2: oh -- my -- -- it's going to crush me!
-speaker1: keep stroking it!
-speaker2: it's starting to let go!
-speaker1: that's good -- you're doing fine.
-speaker2: it's letting fo. i think it's -- i think it's going to sleep!
-speaker1: see -- i got you out...
-speaker2: thanks for nothing! i hate snakes!
-speaker1: i know the feeling...
-
-speaker1: you come to america with me, and we can get job in the circus -- you like that? the baby elephant trumpets affirmitively. 
-speaker2: where'd you find your little body- guard?
-speaker3: i met short round when he tried to pick my pocket. indiana kneels and arranges the wood. indiana shorty's family was killed when they bombed shanghai. he was living on the streets.
-speaker2: he'll be okay. he's a good kid. indy strikes a match and lights the new fire. willie all these fires -- you expecting more snakes, dr. jones?
-speaker3: by the way, how'd you end up in shanghai?
-speaker2: well, when my nightclub career was run over by the depression, some pinhead convinced me that "a girl could go places in the orient..." so, look where i got.
-speaker3: what about the future?
-speaker2: oh, that's easy -- i'm going to latch onto a good-looking, in- credibly rich prince.
-speaker3: i'd like to find one of those myself.
-speaker2: oh really?
-speaker3: yeah, but he's got to be dead and buried for a couple of thousand years. fortune and glory...
-speaker2: is that what you're hoping to find at this palace, dr. jones?
-speaker3: maybe...
-speaker2: what's that?
-speaker3: something that kid gave me last night. it's a piece of an old manuscript.
-speaker2: what does the writing say?
-speaker3: it's sanskrit. it tells the story of sankara climbing mt. kalisa where he met the hindu shiva.
-speaker2: that's shiva? what's he giving the priest?
-speaker3: legend says he told sankara to go forth and combat evil. to do that he gave him five sacred stones that had magical powers.
-speaker2: you mean magical like the rock that was stolen from that village?
-speaker3: it could be.
-speaker2: fortune and glory...sweet dreams, dr. jones.
-speaker3: i think you should sleep closer. i meant for safety.
-speaker2: did you see it?! it was one of those bats! what else is out there...?!
-speaker3: couldn't keep away, huh?
-speaker2: just try and control yourself.
-speaker3: still scared? okay, willie, you can get closer if you want...
-speaker3: honey, i knew you'd be the first one to give in...
-
-speaker1: indy, look! 
-speaker2: that's it. pankot palace.
-
-speaker1: why are we stopping here? 
-speaker2: what you look at, indy?
-speaker3: just a statue.
-speaker1: what's the guide talking about? he hasn't said a word the whole trip.
-speaker1: he's afraid of something.
-speaker3: he said he couldn't take us any farther. he has to go sell the elephants.
-speaker1: you mean we have to walk the rest of the way?
-
-speaker1: -- shot at, fallen out of a plane, nearly drowned, squashed by a snake, attacked by a bat -- i smell like an elephant! i tell you i'm not going to make it! 
-speaker2: any more complaints?
-speaker2: it doesn't feel like there's been any permanent damage.
-
-speaker1: hello?...... 
-speaker2: hi.........
-speaker3: i would say you look rather lost. but then i cannot imagine where in the world the three of you would look at home...
-speaker1: lost? no, we're not lost. we're on our way to delhi. this is miss scott -- and mr. round. my name's indiana jones.
-speaker3: dr. jones? the eminent archae- ologist?
-speaker2: hard to believe, isn't it...?
-speaker3: i remember first hearing your name when i was studying at oxford. i am chattar lal, prime minister for his highness the maharajah of pankot. he bows and willie sort of curtsies. chattar lal welcome to pankot palace.
-
-speaker1: how'd you like to run into him in a dark alley...that one's kind of cute...i could see myself married to a prince like that... 
-speaker2: the plane crash and your journey here sound -- most incredible.
-speaker1: you should have been there...
-speaker3: we'd appreciate it if the mahara- jah would let us stay tonight. we'll be on out way in the morn- ing.
-speaker2: i am only his humble servant, but the maharajah usually listens to my advice.
-speaker1: is that him?
-speaker2: no, no, that is uhmed singh, the present maharajah's late father.
-speaker1: oh -- good. and maybe the pres- ent marahajah is a little younger? and thinner?
-speaker2: they will you to your rooms now. you will be provided with fresh clothes. tonight you will be dining with his highness.
-speaker1: dinner? and with a prince?! my luck is changing. but look at me -- my i've to to get ready!
-speaker2: eight o'clock in the pleasure pavilion.
-
-speaker1: you look like a princess. 
-speaker2: it's sort of like being in heaven.
-
-speaker1: i've always had a weakness for folk dancing. 
-speaker2: she might get away with that act here, but she'd never make it in a real nightclub.
-speaker3: we are fortunate tonight to have some many unexpected guests. his is captain phillip blumburtt. blumburtt bows to willie and indiana. chattar lal captain blumburtt and his troops are here to check up on the "natives".
-speaker4: just a routine inspection tour.
-speaker3: the british worry so about their emprie -- it makes us feel like well-cared-for children.
-speaker2: listen, mr. lal, what do you call the maharajah's wife?
-speaker3: his highness has not yet taken a wife.
-speaker4: interested in local curios?
-speaker1: no. but i am interested in the occult. and this is a krtya.
-speaker4: charming.
-speaker1: it's like the voodoo dolls of west africa. the kryta represents your enemy -- and gives you complete power over him.
-speaker4: that all that mumbo jumbo rubbish is disappearing.
-speaker1: you think so?
-speaker4: of course. admittedly, it's taken time. britian's controlled india for almost two hundred eyars now.
-speaker1: you're hanging on better here than you did in america.
-speaker4: this is a different situation, dr. jones. these people are like children. we have to lead them slowly into the twentieth century.
-speaker1: the prime minister doesn't seem that naive.
-speaker4: no, he's a very shrewd old boy. power behind the throne and all that. he actually runs this whole province.
-speaker2: i think this maharajah is swim- ming in money. maybe coming here wasn't such a bad idea.
-speaker4: i believe we're being called to dinner.
-speaker2: finally!
-speaker3: his supremem highness, guardian of rajput tradition -- the maharajah of pankot -- zalim singh.
-speaker2: that's the maharajah -- that kid?!
-speaker1: maybe he likes older women.
-speaker1: cheer up, you lost your prince, but dinner's on the way.
-speaker2: i've never been so hungry in my life...
-speaker3: his highness wants me to welcome his visitors. especially the renowned dr. jones from america.
-speaker1: we are honored to be here.
-speaker2: suddenly i'm not so hungry...
-speaker1: i had a question, mr. prime mini- ster. i was examining some of the maharajah's artifacts.
-speaker3: a very fine collection of very old pieces, don't you think?
-speaker1: yes, very fine. but not all of the pieces look old. some were carved recently and look like images used by the thuggees to worship the god- des kali.
-speaker3: dr. jones, you know very well that the thuggee cult has been dead for nearly a century.
-speaker4: of course. the thuggees were an obscenity that worshipped kali with human sacrifices. the brit- ish army wiped them out about the time of the mutiny of 1857.
-speaker5: but you're not eating!
-speaker2: i uh -- had bugs for lunch.
-speaker1: i suppose stories of the thuggees die hard.
-speaker3: there are no stories anymore.
-speaker1: well, i don't know... we came here from a small village and the peas- ants there told us that the pankot palace was growing powerful again -- becuase of some ancient evil.
-speaker3: their stories are just fear and folklore.
-speaker1: maybe.. but how do you explain the thuggee shrine i saw right below the palace?
-speaker3: the local peasants are just as superstitious. you're very ob- servant, dr. jones. but you're beginning to worry capt. blum- burtt.
-speaker4: i'm not worried, prime minister, just interested.
-speaker2: give me your hat...
-speaker6: what for?
-speaker2: i'm going to puke in it...
-speaker1: you know the villagers also claimed that this palace stole something from them.
-speaker3: dr. jones, it our country a guest does not usually insult his host.
-speaker1: sorry, i thought we were just talking about folklore.
-speaker4: i'm sure it's nothing. just ru- mors. what was it they claimed was stolen?
-speaker1: something magical. a sacred rock.
-speaker3: there, you see, captain. a rock!
-speaker1: when they lost this rock their fields and animals dies. they also said their children were taken from them.
-speaker3: i think that's enough of this nonsense, dr. jones...
-speaker2: so you have something, you know, simple -- like soup or something?
-speaker5: looks delicious!
-speaker2: i wanna go home...
-speaker1: i was dubious muself at first. then something connected -- the village's rock and the old legend of the sankara stones...
-speaker3: dr. jones, we are all vulnerable to vicious rumors. i seem to re- member that in honduras you were accused of being a grave robber rather than a scientist.
-speaker1: the newspapers exaggerated the incident
-speaker3: and didn't the sultan of madagas- car threaten to cut your head off if you ever returned to his coun- try?
-speaker1: that was a misunderstanding.
-speaker3: exactly what we have here, dr.
-speaker7: i have heard the terrible stories of the evil thuggee cult...
-speaker1: i'm sorry if i've offended you.
-speaker5: ah, dessert!
-
-speaker1: rather bizarre menu, woundn't you say? 
-speaker2: even if they were trying to scare us away, a devout hindu would never touch meat. makes you wonder what these people are...
-speaker3: i have seen this thing. what is it, dr. jones?
-speaker4: hey, nobody touches indy's whip!
-speaker2: we're guests here, shorty.
-speaker3: you will show me how it works please.
-speaker2: you wish is my command, your highness.
-speaker3: that is wonderful! please teach me how!
-speaker2: okay, short round, let go of it.
-
-speaker1: that little maharajah think he big stuff. 
-speaker2: you don't like him do you?
-speaker1: next time i flatten him! did you see his eyes?
-speaker2: no.
-speaker1: indy, they glow like fire and get real crazy! then he talk in this real scary voice!
-speaker2: he was afraid of you. he knows a tough guy when he sees one.
-speaker1: yeah, that's what happened...
-speaker2: i better see how willie is.
-speaker2: i brought you something.
-speaker3: not leftovers?
-speaker2: no -- real food.
-speaker3: oh, it is real food...it's beautiful.
-speaker3: yeah -- and nothing else. that shock you?
-speaker2: i'm a scientist. i like doing research on certain "nocturnal activities" --
-speaker3: you mean like love rituals...
-speaker2: and mating customs...
-speaker3: primitive sexual practices?
-speaker2: you're taling to an authority in that area.
-speaker3: you're dying to come into my room, aren't you?
-speaker2: you want me so bad, why don't you invite me?
-speaker3: too proud to admit you're crazy about me, dr. jones?
-speaker2: i think you're too used to get- ting you own way, willie...
-speaker3: we'll see who gives in first -- i'll leave my door open.
-speaker2: don't catch cold.
-speaker3: dr. jones -- ?
-speaker2: you're dreaming, willie. you want to make it real, just knock on my door.
-
-speaker1: get to sleep indy -- i stay up and keep eye on things... 
-speaker2: okay, shorty ... see you in the morning...i'm going to have a little -- word with willie.
-
-speaker1: don't worry, indy! where are they?! 
-speaker2: it's okay, it's over -- go turn off the fan.
-
-speaker1: this a cheap trick to get me over here? 
-speaker2: no -- don't you see -- crawling --
-speaker1: what -- the bug?
-speaker2: get -- the -- bug -- off!
-speaker1: gee, i wouldn't want to touch an ugly critter like that!
-speaker3: uh uh -- me neither!
-speaker2: oh no -- oh no!!
-speaker1: you know, willie, i'll bet he's mad because they were eating his friends for dinner.
-speaker2: please -- oh please, i'm going to die! get it off!
-speaker2: what did i do to deserve this trip?!
-speaker3: it went under. hey, i feel wind, indy.
-speaker2: i'm packing! i'm getting out of here right now tonight!
-speaker1: .
-speaker3: what does it mean, indy?
-speaker1: "follow in the footsteps of shiva. do not betray his truth."
-speaker2: i don't care if i have to walk to delhi, i'm -- hey!
-speaker1: lock your door and don't leave until we get back.
-
-speaker1: i don't think we suppose to be in here, indy... 
-speaker2: you're right, there's something all over the floor...
-speaker1: indy, the floor -- there is some- thing alive!
-speaker1: holy smoke -- i'm scared, indy!
-speaker2: there's a chamber here. come on --
-
-speaker1:  
-speaker2: hey -- where are you?!
-
-speaker1: yes, we're in here... 
-speaker2: indy, i found a --
-speaker1: uh -- willie?! willie, you better get down here!
-speaker3: what?!
-speaker1: willie, come here! hurry up, we're in trouble!!
-speaker2: willie, help!!
-
-speaker1: it's all wet and icky! aaahh -- things are moving!! 
-speaker2: please, willie!
-speaker1: there's bugs! bugs all over!
-speaker3: willie, open the door! get us
-
-speaker1: get us out! willie, shut up and listen! there's got to be a ful- crum release! look around! 
-speaker2: a what?!
-
-speaker1: a fulcrum release lever! 
-speaker2: i can't find any lever! help me indy!
-
-speaker1: there's a hole! i found a square hole! 
-speaker2: that's it -- the release lever -- look inside!
-speaker1: i am -- it looks horrible!
-speaker2: reach inside!
-speaker1: i can't, indy! i can't!
-
-speaker1: oh it's soft -- it's moving! 
-speaker2: willie!
-speaker3: willie, help us! hurry!
-
-speaker1: get is off me -- get it off! 
-speaker2: not that one! we had enought of that one, thank you...
-
-speaker1: what is it...? 
-speaker2: it's a thuggee ceremony. they're whorshipping kali, the goddess of death and destruction.
-
-speaker1: oh my he ripped out his -- he killed him! 
-speaker2: no...the heart's still beating!
-
-speaker1: let's go! let's get out of here! 
-speaker2: quiet!
-
-speaker1: the village knew their rock was magic -- but they didn't know it was one of the lost sankara stones... 
-speaker2: why they glow like that?
-speaker1: legend says that when the stones are brought together the diamonds inside of them will glow.
-speaker3: diamonds...?
-
-speaker1: okay -- now listen -- you wait here and keep quiet. shorty, keep an eye on her. 
-speaker2: wait -- what're you doing?
-speaker1: i'm going down.
-speaker2: down? down there?! are you crazy --!
-speaker1: i'm not leaving without those stones.
-speaker2: you're gonna get killed chasing after your fortune and glory!
-speaker1: maybe...someday. not today.
-speaker3: i keep my eye peeled, indy.
-
-speaker1: oh hell, where's he going? 
-speaker1: what're you -- ?
-speaker2: run willie!
-
-speaker1: indy -- you knocked out when you fall. you okay? 
-speaker1: this is nainsukh -- from the vil- lage. they bring him here to dig in the mines.
-speaker2: why?
-speaker3: children are small -- we can work in tunnels. now i am too old.
-speaker1: what they do to you now?
-speaker3: i pray to shiva -- let me die. but i do not. now -- now the evil of kali take me.
-speaker1: how?
-speaker3: they will make me drink blood of kali. then i fall into black sleep of kali ma...
-speaker2: what is that?
-speaker3: i become like them. i be alive -- nut like in nightmare. you drink the blood, you not wake up from nightmare of kali ma.
-
-speaker1: you were caught trying to steal the sankara stones. 
-speaker2: nobody's perfect. the way i heard it, you stole one of them from a small village.
-speaker1: there were five stones in the beginning. over the centuries they were dispersed by wars, sold off by thieves like you...
-speaker2: two are still missing.
-speaker1: no. they are here -- somewhere. a century ago when the british raided this temple and butchered my people, a loyal priest his the last two stones down here in the catacombs.
-speaker2: that's what you've got these chil- dren -- these slaves digging for?
-speaker1: they dig for the gems to support our cause. they also search for the last two stones. soon we will have all five sankara stones and the thuggees will be all powerful!
-speaker2: nobody can say you don't have a vivid imagination.
-speaker1: you do not believe me? you will, dr. jones. you will become a true believer.
-speaker3: you will not suffer. i recently became of age and tasted the blood of kali.
-speaker1: hold him!
-speaker3: you will learn to obey because you are powerless!
-speaker1: the british in india will be slaughtered. then we will over- run the moslems and force their "allah" to bow to kali.
-
-speaker1: oh my you scared me! listen, you've got to help. we found this tunnel -- 
-speaker2: jones isn't in his room. miss scott -- my troops are leaving at dawn if you want us to you to delhi --
-speaker1: no -- you can't go! something aw- ful's happened. they've got short round and i think indy's been --
-speaker2: what?
-speaker1: we found a tennel that leads to a temple below the palace! please, come with me, i'll show you!
-speaker3: miss scott, you're not making any sense.
-speaker1: i'm afraid they'll kill them! we saw horrible things down there -- they had a human sacrifice and they ripped a man's heart out!
-speaker2: who?
-speaker1: it's some kind of cult! and they've got the sacred stones that indy was searching for.
-speaker3: i sense the fumes of opium in all this. prehaps miss scott picked up the habit in shanghai.
-speaker1: what're you talking about -- i'm not a dope fiend! i saw it! i'll show you!
-
-speaker1: what're we playing, hid and seek? 
-speaker2: oh, indy, you got away! tell them what happened, they won't believe me --
-speaker1: it's okay. you're all right now.
-speaker2: they think i'm insane. tell them i'm not, indy. please -- help me ...
-speaker1: hey, i thought you were supposed to be a real tropper. willie?
-speaker2: what?
-speaker1: you've got to go to sleep now.
-speaker2: i want to go home...
-speaker1: i don't blame you... this hasn't been what you'd call a fun vaca- tion...
-
-speaker1: i've spent by life crawling around in caves and tunnels -- i shouldn't have let somebody like willie go in there with me. 
-speaker2: miss scott panicked?
-speaker1: when she saw the insects she passed out cold. i carried her back to her room. she was sleeping when i re-entered the tunnel to look around.
-speaker3: as she slept, she undoubtedly had nightmares.
-speaker1: then she must have run out of the room and you found her.
-speaker2: did you discover anything in that tunnel, dr. jones?
-speaker1: nothing. just a dead end. that tunnel's been deserted for years.
-speaker2: well, mr. prime minister, my re- port will duly note that we found nothing unusual here in pankot.
-speaker3: i'm sure that will please the maharajah, captain.
-speaker2: as i said before, we'd be happy to you to delhi.
-speaker1: thanks, but i don't think willie is ready to travel yet.
-
-speaker1: indy? did you walk to them? 
-speaker2: yes.
-speaker1: so now they believe me.
-speaker2: yes, they believe you.
-speaker1: then they'll send the soldiers down into the temple...
-speaker2: no... they won't kill me.
-speaker1: you know you've been nothing but trouble since i hooked up with you -- but i have to admit i'd miss you if i lost you...
-speaker2: you won't lose me, willie...
-speaker2: no! i've found it -- you can't -- kali knows!
-speaker2: -- been too many lies -- there's no heaven -- just -- the horror! i've seen it -- life preying on life!
-speaker2: -- rivers -- destroying mountains -- a comet in space -- exploding! aaahh! -- the screams -- pitiful people -- their pain -- the hate -- and greed -- always greed!
-speaker2: -- but i've found -- kali's touch! death -- no more lies -- the death i've been searching for! quit crying! she can hear you -- kali knows fear -- don't you under- stand -- kali is freedom!
-
-speaker1: mola ram is telling the faithful of out victory. he says the british have left the palace, which proves kali ma's new power. 
-speaker2: yes, i understand.
-
-speaker1: his eyes -- they go out. 
-speaker2: no! no!
-speaker1: the pain -- the pain makes him wake up! indy! i can make indy wake up!
-speaker1: indy!
-
-speaker1: you understand what he tells us? 
-speaker2: kali ma protects us now and for- ever, and we must pledge our devotion by worshipping her with an offering of flesh and blood!
-speaker1: your friend has seen and she has heard -- now she will not talk.
-speaker3: indy! help me! indy?!
-
-speaker1: wake up! it's just a nightmare, indy! wake up, please indy! 
-speaker2: no! give him to me!
-speaker1: no, indy, no!
-
-speaker1: come on, quick! 
-speaker2: what're we going to do?
-speaker1: we're going to get them out of here -- !
-speaker1: ah, sir? excuse me --
-
-speaker1: no, wait! 
-speaker2: what're we going to do?!
-speaker1: there's got to be another way out.
-
-speaker1: those empty cars have got to go out of the mines. 
-speaker2: i can't!
-speaker1: go!
-speaker1: we've got to get across to the empty cars. wait here until i signal you.
-speaker1: come on!
-speaker3: behind you!
-speaker1: i see the problem...
-speaker2: what happened?
-speaker2: what's wrong with him?
-speaker2: i got one! indy, i got one!
-speaker2: indy, look out!
-speaker3: how you like bing pin cushion, mr. rajah-ha-ha?
-speaker4: please -- pull it out!
-speaker3: it was the black sleep of kali...
-speaker4: they made me do evil things... may lord krishna forgive me.
-speaker2: get down here, shorty! i got us a ride!
-speaker4: please -- listen -- to go out you must take the left tunnel.
-speaker3: thanks pal.
-speaker4: i'm going to try to find the english soldiers.
-speaker3: good luck.
-speaker2: i don't appreciate being cooked like a french fry!
-speaker3: willie, come on!
-speaker3: indy! hurry!
-speaker5: they've stolen the sankara stones -- they must be stopped!
-speaker3: no, indy, it's left tunnel.
-
-speaker1: come here and take the brake! 
-speaker2: read you loud and clear, indy!
-
-speaker1: let up on the brake! 
-speaker2: what?!
-speaker1: let her go! our only chance is outrunning them!
-speaker3: what above the curves?!
-speaker2: indy, look out!
-speaker3: what're you doing?! we're going too fast!!
-speaker1: get over on the other side!
-speaker1: one down, one to go!
-
-speaker1: anymore ideas...? 
-speaker2: yeah -- this time you're gonna help!
-
-speaker1: okay -- one -- two -- now! 
-speaker1: okay, shorty, hit the brakes!
-speaker2: indy!!
-speaker1: grab onto me -- i'm going to try and slow us down from underneath!
-speaker3: oh no!
-speaker1: what's wrong?
-speaker1: ouch...
-speaker3: i'm okay -- i'm fine -- i love to flirt with death...
-speaker3: what's that?...indy?!
-
-speaker1: oh... 
-speaker2: there! dive!
-
-speaker1: lucky i found a short cut. look, there's a light at the end of the tunnel... 
-speaker2: some short cut!
-
-speaker1: willie -- the bridge! climb up to the bridge! 
-speaker2: nothing to it -- follow me!
-
-speaker1: easy like pie! kid's stuff! 
-speaker2: indy -- looks out behind you!
-speaker3: let my friends go!
-speaker4: you are in no position to give orders, dr. jones.
-speaker3: you want the stones, let them go and call off your guards!
-speaker4: impressive, dr. jones. but i don't believe you would kill yourself!
-speaker3: then i guess we're all going to take a big dive!
-speaker4: give me the stones!
-speaker3: mola ram -- you're about to meet kali -- in hell!
-speaker1: willie, look!
-speaker4: no, the stones are mine!
-speaker3: you're betrayed shiva.
-
-speaker1: i guess mola ram got what he wanted. 
-speaker2: not quite.
-speaker1: and the diamond hidden inside...
-
-speaker1: we know you are coming back -- -- when life returns to our village. 
-speaker2: it's a real miracle.
-speaker1: now you see the magic of the "rock" you bring back.
-speaker3: yes, i've seen its power
-speaker3: the last sankara stone.
-speaker2: and they don't even know what it really is.
-speaker3: well, you didn't get your prince, and there goes your diamond.
-speaker2: you didn't do so well yourself. finding that stone could've got- ten you all the fortune and glory you were talking about.
-speaker3: it's still a long way to delhi. who knows what might happen.
-speaker2: oh no, i'm finding a native guide who knows the way. no more de- tours for me, thank you dr. jones.
+LAO: dr. jones. 
+INDIANA: lao she.
+LAO: nee chin lie how ma?
+INDIANA: wah hung how, nee nah? wah hwey hung jing chee jah loo nee kao soo wah shu shu.
+LAO: you never told me you spoke my language, dr. jones.
+INDIANA: i don't like to show off.
+LAO: for this special occasion, i ordered champagne and caviar.
+LAO: so, it is true, dr. jones? you found nurhachi?
+INDIANA: sure, i found him. then last night i had a little trouble. somebody tried to slit my throat.
+LAO: you have insulted my son.
+INDIANA: next time i'll cut off more than his finger.
+LAO: dr. jones -- i want nurhachi.
+INDIANA: as i recall the deal was consid- erably more.
+WILLIE: aren't you going to introduce us?
+LAO: this is willie scott.
+WILLIE: well -- i thought archaeologists were always funny little men searching for their mummies -- aaahhh!
+INDIANA: put the gun away, sonny.
+INDIANA: now i suggest you pay me what you promised -- or your girlfriend here is going to be squealing a new tune.
+INDIANA: try again lao -- the deal was more.
+WILLIE: look at this! he put a hole in my dress from paris!
+LAO: sit down!
+INDIANA: what's that?
+LAO: a bonus, dr. jones. that is poison. you just drank the rest of it.
+WILLIE: this nurhachi's a very small guy.
+INDIANA: inside are the remains of nur- hachi -- the first emperor of the manchu dynasty.
+LAO: at last i have the ashes of my sacred ancestor!
+WILLIE: so, what's the big deal? let me see it --
+LAO: you fool!
+WILLIE: ow, you're hurting me, you miser- able little hood!
+INDIANA: let go of her, lao. and give me the antidote.
+WILLIE: hey, he's not a waiter...
+INDIANA: no, wu han's an old friend i brought along. so, the game's not over. put the antidote on the table, lao.
+INDIANA: wu han -- listen to me -- i'm going to get you out of here.
+WU HAN: not this time, my friend... i followed you on many adventures -- but into the great unknown mystery, i go first, indy...
+LAO: don't be sad, dr. jones -- you will soon join him.
+INDIANA: the antidote -- !
+
+INDIANA: look out, it, i need that antidote! 
+WILLIE: who cares? where's that diamond!
+WILLIE: aw nuts!
+INDIANA: hey,doll! don't move!
+
+SHORT ROUND: wow! holy smoke! crash landing! 
+INDIANA: step on it, short round!
+SHORT ROUND: okey doke, indy! hold onto your potatoes!
+WILLIE: for crying out loud, a kid's driv- ing the car?!
+INDIANA: relax, i've been giving him lessons.
+
+WILLIE: listen, we just met for crissake! 
+INDIANA: don't get your hopes up -- where's the antidote?
+WILLIE: you don't look very good.
+INDIANA: poison never agrees with me. pull a right, short round, and head for the poo bridge!
+SHORT ROUND: check! gotcha!
+WILLIE: look at what you've done to me! i'm a mess! my lipstick's smeared, i broke two nails, i've got an aw- ful run in my stocking -- !
+INDIANA: somehow i think you've got bigger problems.
+WILLIE: what're we going to do?! where're we going?!
+INDIANA: the airport...no, look out, short round! left, left!
+
+INDIANA: you got the tickets, short round? 
+SHORT ROUND: sure, indy -- three tickets! you, me and wu han --
+SHORT ROUND: don't worry, indy. short round number one bodyguard now!
+WILLIE: i'll take the extra ticket. where's this plane going anyway?
+INDIANA: siam.
+WILLIE: siam? but i'm not dressed for siam...
+
+WEBER: no, no, they're all right! 
+INDIANA: thanks, weber.
+WEBER: dr. jones, this is positively the last time our airline can hold a plane for you. now you must hurry!
+
+WILLIE: so, what're you supposed to be, a lion tamer? 
+INDIANA: since i was nice enough to let you tag along, why don't you give your mouth a rest? okay, doll?
+WILLIE: i'm freezing. what do you mean, tag along? from the minute you walked into that nightclub, you haven't been able to keep your eyes off me.
+INDIANA: oh yeah?
+
+SHORT ROUND: lao send planes to kill indy! 
+WILLIE: wake up! it's the drug he drank to stop the poison --
+CO-PILOT: please to remain calm. we start passing out parachutes now --
+WILLIE: you got to be kidding! no! no, i can't!
+
+CO-PILOT: put it on! what's wrong with you? you've got to jump! 
+SHORT ROUND: no, can't leave indy!
+WILLIE: give me that parachute, i changed my mind --
+SHORT ROUND: no, this last one! it's for indy!
+
+INDIANA: we there yet? 
+WILLIE: there's nobody flying the plane!
+
+SHORT ROUND: come here, lady, hold this and shut up please! 
+SHORT ROUND: i get it!
+WILLIE: you got it!
+SHORT ROUND: oh oh -- big mistake!
+
+WILLIE: are you crazy, a lift raft?! we're not sinking, we're crashing! 
+INDIANA: get over here, it! short round, come on, grab onto me tight!
+WILLIE: wait for me!
+
+SHORT ROUND: indy? 
+INDIANA: okay, shorty. indy looks over at willie who is moaning. indiana you all right?
+WILLIE: no... i'm not cut out for the kind of life you lead. oh no...i ripped my dress. where are we anyway?
+INDIANA: india...
+WILLIE: holy cow -- india? how do you know we're in --
+
+WILLIE: what'd he say? 
+INDIANA: he told me they knew i was coming here.
+WILLIE: what do you mean -- how?
+INDIANA: the old man saw it in a dream.
+WILLIE: dream -- nightmare is more like it.
+INDIANA: he said that's whey they were at river -- they were waiting for the plane to fall down.
+
+WILLIE: i am starving, but i can't eat this... 
+INDIANA: that's more food than these people eat in a week. they're starving, too...
+WILLIE: i'm sorry, i -- here, please.
+CHIEFTAIN: you will rest here before you go on.
+INDIANA: we'd appreciate that. this was an unexpected detour. we'll have to go to delhi now and find a flight west.
+SHORT ROUND: indy is taking me to america.
+INDIANA: i'm a professor. i have to re- turn to the university. can you give us a guide to take us to delhi?
+CHIEFTAIN: sanju will guide you.
+INDIANA: thank you. the old shaman speaks now for the first time.
+SHAMAN: on the way to delhi, you will stop at pankot.
+INDIANA: pankot isn't on the way to delhi.
+SHAMAN: you will go to palace there.
+INDIANA: hasn't the pankot palace been de- serted since the mutiny of 1857?
+SHAMAN: no. now there is new maharajah -- and palace is powerful again. the shaman looks around at his unfortunate people. shaman it is pankot palace that kills my village.
+INDIANA: i don't understand. what's hap- pened here?
+SHAMAN: the evil starts in pankot. then like monsoon, it moves darkness over all country.
+INDIANA: what evil?
+SHAMAN: they came from palace and took sivalinga from out village.
+WILLIE: took what?
+INDIANA: it's a sacred stone in a shine that's supposed to protect a village.
+SHAMAN: it is why krishna brought you here.
+INDIANA: nobody brought us here. our plane crashed. we were shot down by --
+
+SHORT ROUND: indy, they make out plane crash? 
+INDIANA: it's just superstition, shorty. like a ghost story.
+CHIEFTAIN: yes.
+INDIANA: was the stone very smooth? it was probably brought here from a sacred river.
+SHAMAN: long ago -- before my father's father.
+INDIANA: and it had three lines painted across it? the lines represent the three levels of the universe. i've seen stones like the one you lost.
+WILLIE: i don't understand how losing one rock could destroy this village. is it really powerful?
+INDIANA: but why would the maharajah take this sacred stone?
+SHAMAN: they say we must pray to their evil we say we will not.
+INDIANA: he says their crops dies and then the animals died.
+INDIANA: and then they took their children.
+WILLIE: their children?
+INDIANA: he says one night there was a fire in the fields. the men went to fight it. when they came back, they heard the women crying in the darkness. and the children were gone.
+SHAMAN: you will find them when you find sivlalinga.
+INDIANA: i'm sorry, i don't know how i can help you here.
+CHIEFTAIN: they do not listen.
+INDIANA: i have friends in delhi and i will make sure they investigate this...
+SHAMAN: no, you will got to pankot...
+WILLIE: what'd he say now?
+INDIANA: it was destined that i came here -- and the future cannot be changed...
+
+LITTLE BOY: sankara... 
+INDIANA: sankara...
+
+INDIANA: it , willie, get on -- we've got to move out! 
+WILLIE: whoa! easy now -- nice elephant...
+SHORT ROUND: i ride with you, indy?
+INDIANA: nope, you got a little surprise over there, shorty.
+SHORT ROUND: oh boy!
+WILLIE: this is the first time anybody ever cried when i left.
+SHORT ROUND: they don't cry about you. they cry about the elephants leaving.
+WILLIE: figures...
+SHORT ROUND: they got no food to feed them. so they taking the elephants away to sell them.
+INDIANA: all right, let's go. i want to get to pankot before tomorrow night.
+WILLIE: pankot?! i thought we were going to delhi! hey, wait a minute! can't somebody take me to delhi?! i don't want to go to pankot!
+
+SHORT ROUND: here you go, lunch time! 
+WILLIE: those are very big bird.
+INDIANA: those aren't birds -- those are giant bats.
+
+WILLIE: they must be pretty to drink that awful-looking water. 
+INDIANA: i think maybe we'll camp here.
+
+INDIANA: hey, willie -- i think you better get out now. 
+WILLIE: stark naked? you wish... if you're trying to seduce me, dr. jones, this is a very primitive approach.
+INDIANA: me seduce you? honey, you're the one who took your clothes off. i just came over to remind you that you never know what else might be in the water.
+WILLIE: somehow i feel safer in here.
+WILLIE: indy! help me!
+INDIANA: don't worry, i'm coming in! what is it?
+WILLIE: a snake!
+INDIANA: a what...?
+
+INDIANA: uh, listen -- willie -- i got a better idea. 
+WILLIE: what?!
+INDIANA: first of all -- don't panic!
+WILLIE: it's got me ! indy, help me!
+INDIANA: don't let it pull you deeper!
+WILLIE: it's pulling me deeper!
+INDIANA: don't let it curl around you!
+WILLIE: it's curling around me! it, stop talking and do something!
+INDIANA: listen, willie. do exactly what i tell you now.
+WILLIE: what?!
+INDIANA: can you move your arm?
+WILLIE: just one arm!
+INDIANA: okay, i want you to lift your hand -- and pet the snake.
+
+INDIANA: pet it on the head! go on, pet it! 
+WILLIE: oh -- my -- -- it's going to crush me!
+INDIANA: keep stroking it!
+WILLIE: it's starting to let go!
+INDIANA: that's good -- you're doing fine.
+WILLIE: it's letting fo. i think it's -- i think it's going to sleep!
+INDIANA: see -- i got you out...
+WILLIE: thanks for nothing! i hate snakes!
+INDIANA: i know the feeling...
+
+SHORT ROUND: you come to america with me, and we can get job in the circus -- you like that? the baby elephant trumpets affirmitively. 
+WILLIE: where'd you find your little body- guard?
+INDIANA: i met short round when he tried to pick my pocket. indiana kneels and arranges the wood. indiana shorty's family was killed when they bombed shanghai. he was living on the streets.
+WILLIE: he'll be okay. he's a good kid. indy strikes a match and lights the new fire. willie all these fires -- you expecting more snakes, dr. jones?
+INDIANA: by the way, how'd you end up in shanghai?
+WILLIE: well, when my nightclub career was run over by the depression, some pinhead convinced me that "a girl could go places in the orient..." so, look where i got.
+INDIANA: what about the future?
+WILLIE: oh, that's easy -- i'm going to latch onto a good-looking, in- credibly rich prince.
+INDIANA: i'd like to find one of those myself.
+WILLIE: oh really?
+INDIANA: yeah, but he's got to be dead and buried for a couple of thousand years. fortune and glory...
+WILLIE: is that what you're hoping to find at this palace, dr. jones?
+INDIANA: maybe...
+WILLIE: what's that?
+INDIANA: something that kid gave me last night. it's a piece of an old manuscript.
+WILLIE: what does the writing say?
+INDIANA: it's sanskrit. it tells the story of sankara climbing mt. kalisa where he met the hindu shiva.
+WILLIE: that's shiva? what's he giving the priest?
+INDIANA: legend says he told sankara to go forth and combat evil. to do that he gave him five sacred stones that had magical powers.
+WILLIE: you mean magical like the rock that was stolen from that village?
+INDIANA: it could be.
+WILLIE: fortune and glory...sweet dreams, dr. jones.
+INDIANA: i think you should sleep closer. i meant for safety.
+WILLIE: did you see it?! it was one of those bats! what else is out there...?!
+INDIANA: couldn't keep away, huh?
+WILLIE: just try and control yourself.
+INDIANA: still scared? okay, willie, you can get closer if you want...
+INDIANA: honey, i knew you'd be the first one to give in...
+
+SHORT ROUND: indy, look! 
+INDIANA: that's it. pankot palace.
+
+WILLIE: why are we stopping here? 
+SHORT ROUND: what you look at, indy?
+INDIANA: just a statue.
+WILLIE: what's the guide talking about? he hasn't said a word the whole trip.
+WILLIE: he's afraid of something.
+INDIANA: he said he couldn't take us any farther. he has to go sell the elephants.
+WILLIE: you mean we have to walk the rest of the way?
+
+WILLIE: -- shot at, fallen out of a plane, nearly drowned, squashed by a snake, attacked by a bat -- i smell like an elephant! i tell you i'm not going to make it! 
+INDIANA: any more complaints?
+INDIANA: it doesn't feel like there's been any permanent damage.
+
+INDIANA: hello?...... 
+WILLIE: hi.........
+CHATTAR LAL: i would say you look rather lost. but then i cannot imagine where in the world the three of you would look at home...
+INDIANA: lost? no, we're not lost. we're on our way to delhi. this is miss scott -- and mr. round. my name's indiana jones.
+CHATTAR LAL: dr. jones? the eminent archae- ologist?
+WILLIE: hard to believe, isn't it...?
+CHATTAR LAL: i remember first hearing your name when i was studying at oxford. i am chattar lal, prime minister for his highness the maharajah of pankot. he bows and willie sort of curtsies. chattar lal welcome to pankot palace.
+
+WILLIE: how'd you like to run into him in a dark alley...that one's kind of cute...i could see myself married to a prince like that... 
+CHATTAR LAL: the plane crash and your journey here sound -- most incredible.
+WILLIE: you should have been there...
+INDIANA: we'd appreciate it if the mahara- jah would let us stay tonight. we'll be on out way in the morn- ing.
+CHATTAR LAL: i am only his humble servant, but the maharajah usually listens to my advice.
+WILLIE: is that him?
+CHATTAR LAL: no, no, that is uhmed singh, the present maharajah's late father.
+WILLIE: oh -- good. and maybe the pres- ent marahajah is a little younger? and thinner?
+CHATTAR LAL: they will you to your rooms now. you will be provided with fresh clothes. tonight you will be dining with his highness.
+WILLIE: dinner? and with a prince?! my luck is changing. but look at me -- my i've to to get ready!
+CHATTAR LAL: eight o'clock in the pleasure pavilion.
+
+INDIANA: you look like a princess. 
+WILLIE: it's sort of like being in heaven.
+
+INDIANA: i've always had a weakness for folk dancing. 
+WILLIE: she might get away with that act here, but she'd never make it in a real nightclub.
+CHATTAR LAL: we are fortunate tonight to have some many unexpected guests. his is captain phillip blumburtt. blumburtt bows to willie and indiana. chattar lal captain blumburtt and his troops are here to check up on the "natives".
+CAPT. BLUMBURTT: just a routine inspection tour.
+CHATTAR LAL: the british worry so about their emprie -- it makes us feel like well-cared-for children.
+WILLIE: listen, mr. lal, what do you call the maharajah's wife?
+CHATTAR LAL: his highness has not yet taken a wife.
+CAPT. BLUMBURTT: interested in local curios?
+INDIANA: no. but i am interested in the occult. and this is a krtya.
+CAPT. BLUMBURTT: charming.
+INDIANA: it's like the voodoo dolls of west africa. the kryta represents your enemy -- and gives you complete power over him.
+CAPT. BLUMBURTT: that all that mumbo jumbo rubbish is disappearing.
+INDIANA: you think so?
+CAPT. BLUMBURTT: of course. admittedly, it's taken time. britian's controlled india for almost two hundred eyars now.
+INDIANA: you're hanging on better here than you did in america.
+CAPT. BLUMBURTT: this is a different situation, dr. jones. these people are like children. we have to lead them slowly into the twentieth century.
+INDIANA: the prime minister doesn't seem that naive.
+CAPT. BLUMBURTT: no, he's a very shrewd old boy. power behind the throne and all that. he actually runs this whole province.
+WILLIE: i think this maharajah is swim- ming in money. maybe coming here wasn't such a bad idea.
+CAPT. BLUMBURTT: i believe we're being called to dinner.
+WILLIE: finally!
+CHATTAR LAL: his supremem highness, guardian of rajput tradition -- the maharajah of pankot -- zalim singh.
+WILLIE: that's the maharajah -- that kid?!
+INDIANA: maybe he likes older women.
+INDIANA: cheer up, you lost your prince, but dinner's on the way.
+WILLIE: i've never been so hungry in my life...
+CHATTAR LAL: his highness wants me to welcome his visitors. especially the renowned dr. jones from america.
+INDIANA: we are honored to be here.
+WILLIE: suddenly i'm not so hungry...
+INDIANA: i had a question, mr. prime mini- ster. i was examining some of the maharajah's artifacts.
+CHATTAR LAL: a very fine collection of very old pieces, don't you think?
+INDIANA: yes, very fine. but not all of the pieces look old. some were carved recently and look like images used by the thuggees to worship the god- des kali.
+CHATTAR LAL: dr. jones, you know very well that the thuggee cult has been dead for nearly a century.
+CAPT. BLUMBURTT: of course. the thuggees were an obscenity that worshipped kali with human sacrifices. the brit- ish army wiped them out about the time of the mutiny of 1857.
+MERCHANT: but you're not eating!
+WILLIE: i uh -- had bugs for lunch.
+INDIANA: i suppose stories of the thuggees die hard.
+CHATTAR LAL: there are no stories anymore.
+INDIANA: well, i don't know... we came here from a small village and the peas- ants there told us that the pankot palace was growing powerful again -- becuase of some ancient evil.
+CHATTAR LAL: their stories are just fear and folklore.
+INDIANA: maybe.. but how do you explain the thuggee shrine i saw right below the palace?
+CHATTAR LAL: the local peasants are just as superstitious. you're very ob- servant, dr. jones. but you're beginning to worry capt. blum- burtt.
+CAPT. BLUMBURTT: i'm not worried, prime minister, just interested.
+WILLIE: give me your hat...
+SHORT ROUND: what for?
+WILLIE: i'm going to puke in it...
+INDIANA: you know the villagers also claimed that this palace stole something from them.
+CHATTAR LAL: dr. jones, it our country a guest does not usually insult his host.
+INDIANA: sorry, i thought we were just talking about folklore.
+CAPT. BLUMBURTT: i'm sure it's nothing. just ru- mors. what was it they claimed was stolen?
+INDIANA: something magical. a sacred rock.
+CHATTAR LAL: there, you see, captain. a rock!
+INDIANA: when they lost this rock their fields and animals dies. they also said their children were taken from them.
+CHATTAR LAL: i think that's enough of this nonsense, dr. jones...
+WILLIE: so you have something, you know, simple -- like soup or something?
+MERCHANT: looks delicious!
+WILLIE: i wanna go home...
+INDIANA: i was dubious muself at first. then something connected -- the village's rock and the old legend of the sankara stones...
+CHATTAR LAL: dr. jones, we are all vulnerable to vicious rumors. i seem to re- member that in honduras you were accused of being a grave robber rather than a scientist.
+INDIANA: the newspapers exaggerated the incident
+CHATTAR LAL: and didn't the sultan of madagas- car threaten to cut your head off if you ever returned to his coun- try?
+INDIANA: that was a misunderstanding.
+CHATTAR LAL: exactly what we have here, dr.
+MAHARAJAH: i have heard the terrible stories of the evil thuggee cult...
+INDIANA: i'm sorry if i've offended you.
+MERCHANT: ah, dessert!
+
+CAPT. BLUMBURTT: rather bizarre menu, woundn't you say? 
+INDIANA: even if they were trying to scare us away, a devout hindu would never touch meat. makes you wonder what these people are...
+MAHARAJAH: i have seen this thing. what is it, dr. jones?
+SHORT ROUND: hey, nobody touches indy's whip!
+INDIANA: we're guests here, shorty.
+MAHARAJAH: you will show me how it works please.
+INDIANA: you wish is my command, your highness.
+MAHARAJAH: that is wonderful! please teach me how!
+INDIANA: okay, short round, let go of it.
+
+SHORT ROUND: that little maharajah think he big stuff. 
+INDIANA: you don't like him do you?
+SHORT ROUND: next time i flatten him! did you see his eyes?
+INDIANA: no.
+SHORT ROUND: indy, they glow like fire and get real crazy! then he talk in this real scary voice!
+INDIANA: he was afraid of you. he knows a tough guy when he sees one.
+SHORT ROUND: yeah, that's what happened...
+INDIANA: i better see how willie is.
+INDIANA: i brought you something.
+WILLIE: not leftovers?
+INDIANA: no -- real food.
+WILLIE: oh, it is real food...it's beautiful.
+WILLIE: yeah -- and nothing else. that shock you?
+INDIANA: i'm a scientist. i like doing research on certain "nocturnal activities" --
+WILLIE: you mean like love rituals...
+INDIANA: and mating customs...
+WILLIE: primitive sexual practices?
+INDIANA: you're taling to an authority in that area.
+WILLIE: you're dying to come into my room, aren't you?
+INDIANA: you want me so bad, why don't you invite me?
+WILLIE: too proud to admit you're crazy about me, dr. jones?
+INDIANA: i think you're too used to get- ting you own way, willie...
+WILLIE: we'll see who gives in first -- i'll leave my door open.
+INDIANA: don't catch cold.
+WILLIE: dr. jones -- ?
+INDIANA: you're dreaming, willie. you want to make it real, just knock on my door.
+
+SHORT ROUND: get to sleep indy -- i stay up and keep eye on things... 
+INDIANA: okay, shorty ... see you in the morning...i'm going to have a little -- word with willie.
+
+SHORT ROUND: don't worry, indy! where are they?! 
+INDIANA: it's okay, it's over -- go turn off the fan.
+
+INDIANA: this a cheap trick to get me over here? 
+WILLIE: no -- don't you see -- crawling --
+INDIANA: what -- the bug?
+WILLIE: get -- the -- bug -- off!
+INDIANA: gee, i wouldn't want to touch an ugly critter like that!
+SHORT ROUND: uh uh -- me neither!
+WILLIE: oh no -- oh no!!
+INDIANA: you know, willie, i'll bet he's mad because they were eating his friends for dinner.
+WILLIE: please -- oh please, i'm going to die! get it off!
+WILLIE: what did i do to deserve this trip?!
+SHORT ROUND: it went under. hey, i feel wind, indy.
+WILLIE: i'm packing! i'm getting out of here right now tonight!
+INDIANA: .
+SHORT ROUND: what does it mean, indy?
+INDIANA: "follow in the footsteps of shiva. do not betray his truth."
+WILLIE: i don't care if i have to walk to delhi, i'm -- hey!
+INDIANA: lock your door and don't leave until we get back.
+
+SHORT ROUND: i don't think we suppose to be in here, indy... 
+INDIANA: you're right, there's something all over the floor...
+SHORT ROUND: indy, the floor -- there is some- thing alive!
+SHORT ROUND: holy smoke -- i'm scared, indy!
+INDIANA: there's a chamber here. come on --
+
+INDIANA:  
+WILLIE: hey -- where are you?!
+
+INDIANA: yes, we're in here... 
+SHORT ROUND: indy, i found a --
+INDIANA: uh -- willie?! willie, you better get down here!
+WILLIE: what?!
+INDIANA: willie, come here! hurry up, we're in trouble!!
+SHORT ROUND: willie, help!!
+
+WILLIE: it's all wet and icky! aaahh -- things are moving!! 
+SHORT ROUND: please, willie!
+WILLIE: there's bugs! bugs all over!
+INDIANA: willie, open the door! get us
+
+INDIANA: get us out! willie, shut up and listen! there's got to be a ful- crum release! look around! 
+WILLIE: a what?!
+
+INDIANA: a fulcrum release lever! 
+WILLIE: i can't find any lever! help me indy!
+
+WILLIE: there's a hole! i found a square hole! 
+INDIANA: that's it -- the release lever -- look inside!
+WILLIE: i am -- it looks horrible!
+INDIANA: reach inside!
+WILLIE: i can't, indy! i can't!
+
+WILLIE: oh it's soft -- it's moving! 
+INDIANA: willie!
+SHORT ROUND: willie, help us! hurry!
+
+WILLIE: get is off me -- get it off! 
+INDIANA: not that one! we had enought of that one, thank you...
+
+WILLIE: what is it...? 
+INDIANA: it's a thuggee ceremony. they're whorshipping kali, the goddess of death and destruction.
+
+WILLIE: oh my he ripped out his -- he killed him! 
+INDIANA: no...the heart's still beating!
+
+WILLIE: let's go! let's get out of here! 
+INDIANA: quiet!
+
+INDIANA: the village knew their rock was magic -- but they didn't know it was one of the lost sankara stones... 
+SHORT ROUND: why they glow like that?
+INDIANA: legend says that when the stones are brought together the diamonds inside of them will glow.
+WILLIE: diamonds...?
+
+INDIANA: okay -- now listen -- you wait here and keep quiet. shorty, keep an eye on her. 
+WILLIE: wait -- what're you doing?
+INDIANA: i'm going down.
+WILLIE: down? down there?! are you crazy --!
+INDIANA: i'm not leaving without those stones.
+WILLIE: you're gonna get killed chasing after your fortune and glory!
+INDIANA: maybe...someday. not today.
+SHORT ROUND: i keep my eye peeled, indy.
+
+WILLIE: oh hell, where's he going? 
+WILLIE: what're you -- ?
+SHORT ROUND: run willie!
+
+SHORT ROUND: indy -- you knocked out when you fall. you okay? 
+SHORT ROUND: this is nainsukh -- from the vil- lage. they bring him here to dig in the mines.
+INDIANA: why?
+NAINSUKH: children are small -- we can work in tunnels. now i am too old.
+SHORT ROUND: what they do to you now?
+NAINSUKH: i pray to shiva -- let me die. but i do not. now -- now the evil of kali take me.
+SHORT ROUND: how?
+NAINSUKH: they will make me drink blood of kali. then i fall into black sleep of kali ma...
+INDIANA: what is that?
+NAINSUKH: i become like them. i be alive -- nut like in nightmare. you drink the blood, you not wake up from nightmare of kali ma.
+
+MOLA RAM: you were caught trying to steal the sankara stones. 
+INDIANA: nobody's perfect. the way i heard it, you stole one of them from a small village.
+MOLA RAM: there were five stones in the beginning. over the centuries they were dispersed by wars, sold off by thieves like you...
+INDIANA: two are still missing.
+MOLA RAM: no. they are here -- somewhere. a century ago when the british raided this temple and butchered my people, a loyal priest his the last two stones down here in the catacombs.
+INDIANA: that's what you've got these chil- dren -- these slaves digging for?
+MOLA RAM: they dig for the gems to support our cause. they also search for the last two stones. soon we will have all five sankara stones and the thuggees will be all powerful!
+INDIANA: nobody can say you don't have a vivid imagination.
+MOLA RAM: you do not believe me? you will, dr. jones. you will become a true believer.
+MAHARAJAH: you will not suffer. i recently became of age and tasted the blood of kali.
+MOLA RAM: hold him!
+MAHARAJAH: you will learn to obey because you are powerless!
+MOLA RAM: the british in india will be slaughtered. then we will over- run the moslems and force their "allah" to bow to kali.
+
+WILLIE: oh my you scared me! listen, you've got to help. we found this tunnel -- 
+CAPT. BLUMBURTT: jones isn't in his room. miss scott -- my troops are leaving at dawn if you want us to you to delhi --
+WILLIE: no -- you can't go! something aw- ful's happened. they've got short round and i think indy's been --
+CAPT. BLUMBURTT: what?
+WILLIE: we found a tennel that leads to a temple below the palace! please, come with me, i'll show you!
+CHATTAR LAL: miss scott, you're not making any sense.
+WILLIE: i'm afraid they'll kill them! we saw horrible things down there -- they had a human sacrifice and they ripped a man's heart out!
+CAPT. BLUMBURTT: who?
+WILLIE: it's some kind of cult! and they've got the sacred stones that indy was searching for.
+CHATTAR LAL: i sense the fumes of opium in all this. prehaps miss scott picked up the habit in shanghai.
+WILLIE: what're you talking about -- i'm not a dope fiend! i saw it! i'll show you!
+
+INDIANA: what're we playing, hid and seek? 
+WILLIE: oh, indy, you got away! tell them what happened, they won't believe me --
+INDIANA: it's okay. you're all right now.
+WILLIE: they think i'm insane. tell them i'm not, indy. please -- help me ...
+INDIANA: hey, i thought you were supposed to be a real tropper. willie?
+WILLIE: what?
+INDIANA: you've got to go to sleep now.
+WILLIE: i want to go home...
+INDIANA: i don't blame you... this hasn't been what you'd call a fun vaca- tion...
+
+INDIANA: i've spent by life crawling around in caves and tunnels -- i shouldn't have let somebody like willie go in there with me. 
+CAPT. BLUMBURTT: miss scott panicked?
+INDIANA: when she saw the insects she passed out cold. i carried her back to her room. she was sleeping when i re-entered the tunnel to look around.
+CHATTAR LAL: as she slept, she undoubtedly had nightmares.
+INDIANA: then she must have run out of the room and you found her.
+CAPT. BLUMBURTT: did you discover anything in that tunnel, dr. jones?
+INDIANA: nothing. just a dead end. that tunnel's been deserted for years.
+CAPT. BLUMBURTT: well, mr. prime minister, my re- port will duly note that we found nothing unusual here in pankot.
+CHATTAR LAL: i'm sure that will please the maharajah, captain.
+CAPT. BLUMBURTT: as i said before, we'd be happy to you to delhi.
+INDIANA: thanks, but i don't think willie is ready to travel yet.
+
+WILLIE: indy? did you walk to them? 
+INDIANA: yes.
+WILLIE: so now they believe me.
+INDIANA: yes, they believe you.
+WILLIE: then they'll send the soldiers down into the temple...
+INDIANA: no... they won't kill me.
+WILLIE: you know you've been nothing but trouble since i hooked up with you -- but i have to admit i'd miss you if i lost you...
+INDIANA: you won't lose me, willie...
+INDIANA: no! i've found it -- you can't -- kali knows!
+INDIANA: -- been too many lies -- there's no heaven -- just -- the horror! i've seen it -- life preying on life!
+INDIANA: -- rivers -- destroying mountains -- a comet in space -- exploding! aaahh! -- the screams -- pitiful people -- their pain -- the hate -- and greed -- always greed!
+INDIANA: -- but i've found -- kali's touch! death -- no more lies -- the death i've been searching for! quit crying! she can hear you -- kali knows fear -- don't you under- stand -- kali is freedom!
+
+CHATTAR LAL: mola ram is telling the faithful of out victory. he says the british have left the palace, which proves kali ma's new power. 
+INDIANA: yes, i understand.
+
+SHORT ROUND: his eyes -- they go out. 
+FAT GUARD: no! no!
+SHORT ROUND: the pain -- the pain makes him wake up! indy! i can make indy wake up!
+SHORT ROUND: indy!
+
+CHATTAR LAL: you understand what he tells us? 
+INDIANA: kali ma protects us now and for- ever, and we must pledge our devotion by worshipping her with an offering of flesh and blood!
+CHATTAR LAL: your friend has seen and she has heard -- now she will not talk.
+WILLIE: indy! help me! indy?!
+
+SHORT ROUND: wake up! it's just a nightmare, indy! wake up, please indy! 
+INDIANA: no! give him to me!
+SHORT ROUND: no, indy, no!
+
+INDIANA: come on, quick! 
+WILLIE: what're we going to do?
+INDIANA: we're going to get them out of here -- !
+INDIANA: ah, sir? excuse me --
+
+INDIANA: no, wait! 
+WILLIE: what're we going to do?!
+INDIANA: there's got to be another way out.
+
+INDIANA: those empty cars have got to go out of the mines. 
+WILLIE: i can't!
+INDIANA: go!
+INDIANA: we've got to get across to the empty cars. wait here until i signal you.
+INDIANA: come on!
+SHORT ROUND: behind you!
+INDIANA: i see the problem...
+WILLIE: what happened?
+WILLIE: what's wrong with him?
+WILLIE: i got one! indy, i got one!
+WILLIE: indy, look out!
+SHORT ROUND: how you like bing pin cushion, mr. rajah-ha-ha?
+MAHARAJAH: please -- pull it out!
+SHORT ROUND: it was the black sleep of kali...
+MAHARAJAH: they made me do evil things... may lord krishna forgive me.
+WILLIE: get down here, shorty! i got us a ride!
+MAHARAJAH: please -- listen -- to go out you must take the left tunnel.
+SHORT ROUND: thanks pal.
+MAHARAJAH: i'm going to try to find the english soldiers.
+SHORT ROUND: good luck.
+WILLIE: i don't appreciate being cooked like a french fry!
+SHORT ROUND: willie, come on!
+SHORT ROUND: indy! hurry!
+MOLA RAM: they've stolen the sankara stones -- they must be stopped!
+SHORT ROUND: no, indy, it's left tunnel.
+
+INDIANA: come here and take the brake! 
+SHORT ROUND: read you loud and clear, indy!
+
+INDIANA: let up on the brake! 
+SHORT ROUND: what?!
+INDIANA: let her go! our only chance is outrunning them!
+WILLIE: what above the curves?!
+SHORT ROUND: indy, look out!
+WILLIE: what're you doing?! we're going too fast!!
+INDIANA: get over on the other side!
+INDIANA: one down, one to go!
+
+WILLIE: anymore ideas...? 
+INDIANA: yeah -- this time you're gonna help!
+
+INDIANA: okay -- one -- two -- now! 
+INDIANA: okay, shorty, hit the brakes!
+SHORT ROUND: indy!!
+INDIANA: grab onto me -- i'm going to try and slow us down from underneath!
+WILLIE: oh no!
+INDIANA: what's wrong?
+INDIANA: ouch...
+WILLIE: i'm okay -- i'm fine -- i love to flirt with death...
+WILLIE: what's that?...indy?!
+
+WILLIE: oh... 
+INDIANA: there! dive!
+
+INDIANA: lucky i found a short cut. look, there's a light at the end of the tunnel... 
+WILLIE: some short cut!
+
+INDIANA: willie -- the bridge! climb up to the bridge! 
+SHORT ROUND: nothing to it -- follow me!
+
+SHORT ROUND: easy like pie! kid's stuff! 
+WILLIE: indy -- looks out behind you!
+INDIANA: let my friends go!
+MOLA RAM: you are in no position to give orders, dr. jones.
+INDIANA: you want the stones, let them go and call off your guards!
+MOLA RAM: impressive, dr. jones. but i don't believe you would kill yourself!
+INDIANA: then i guess we're all going to take a big dive!
+MOLA RAM: give me the stones!
+INDIANA: mola ram -- you're about to meet kali -- in hell!
+SHORT ROUND: willie, look!
+MOLA RAM: no, the stones are mine!
+INDIANA: you're betrayed shiva.
+
+WILLIE: i guess mola ram got what he wanted. 
+INDIANA: not quite.
+WILLIE: and the diamond hidden inside...
+
+SHAMAN: we know you are coming back -- -- when life returns to our village. 
+WILLIE: it's a real miracle.
+SHAMAN: now you see the magic of the "rock" you bring back.
+INDIANA: yes, i've seen its power
+INDIANA: the last sankara stone.
+WILLIE: and they don't even know what it really is.
+INDIANA: well, you didn't get your prince, and there goes your diamond.
+WILLIE: you didn't do so well yourself. finding that stone could've got- ten you all the fortune and glory you were talking about.
+INDIANA: it's still a long way to delhi. who knows what might happen.
+WILLIE: oh no, i'm finding a native guide who knows the way. no more de- tours for me, thank you dr. jones.
 

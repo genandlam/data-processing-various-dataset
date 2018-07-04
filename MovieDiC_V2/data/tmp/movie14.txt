@@ -1,1011 +1,1011 @@
-speaker1: what about roger? he's free. 
-speaker2: they want a woman.
-speaker3: all you have to do is meet with her once or twice... then tell the court she's insane.
-speaker1: are you dictating my position to me? we're getting into some sticky legal territories here.
-speaker2: martha, all we're saying is, no-one wants this to come to trial, not the church, not the crown... least of all me.
-speaker1: eve, she strangled a baby!
-speaker2: nobody is interested in sending a nun to prison.
-speaker4: we're not telling you what to decide martha. we're not even telling you to take this.
-speaker3: is there any reason why you feel you shouldn't take it?
-speaker1: today's my birthday. i always make bad decisions on my birthday.
-speaker4: happy birthday.
-
-speaker1: hi, it's helen, calling to tell you that mrs davenport phoned to confirm her appointment at nine o'clock tomorrow, okay? bye bye. 
-speaker2: hi martha, it's roger. can you call me at the hospital. i'd like your opinion on a case. oh, bye the way, happy birthday. bye.
-speaker1: hi, marty it's helen again. i cancelled your wednesday afternoon appointment so you can visit with your mother. bye bye.
-
-speaker1: bonjour, i'm doctor martha livingston, i... 
-speaker1: excuse me... i'm...
-
-speaker1: doctor livingston i presume? i'm mother miriam ruth. you needn't call mother if you don't wish. most people find it uncomfortable. 
-speaker2: well... i...
-speaker3: i'm afraid the word brings up the most unpleasant connatations in this day and age...
-speaker2: yes... i...
-speaker3: you can call me sister.
-speaker2: ... thank you.
-speaker3: you must have tons of questions. you may smoke if you want to. just don't tell any of the sisters.
-
-speaker1: you were a smoker? 
-speaker2: two packs a day.
-speaker1: i can beat that.
-speaker2: unfiltered.
-speaker1: who knew about agnes' pregnancy?
-speaker2: no-one.
-speaker1: how did she hide it from the other nuns?
-speaker2: she undressed alone... she bathed alone.
-speaker1: is that normal?
-speaker2: yes.
-speaker1: how did she hide it during the day?
-speaker2: she could have hidden a machine gun in here if she had wanted to.
-speaker1: didn't she have any physical examinations
-speaker1: in this time?
-speaker2: we're examined once a year. her pregnancy fell in between the doctor's visits.
-speaker1: who was the father?
-speaker2: i haven't a clue.
-speaker1: what man had access to her?
-speaker2: none as far as i know.
-speaker1: was there a priest?
-speaker2: yes, but i...
-speaker1: what's his name?
-speaker2: father martineau, but i don't see him as a candidate.
-speaker1: could there have been anyone else?
-speaker2: obviously there was.
-speaker1: and you didn't try to find out who?
-speaker2: believe me, i've done everything possible short of asking agnes.
-speaker1: why haven't you asked her?
-speaker2: she can't even remember the birth. do you think she'd admit to the conception?
-
-speaker1: look, someone gave her the baby. 
-speaker2: yes, but that was some ten months ago. i fail to see that the identity of that somebody has anything to do with this trial.
-speaker1: why do you think that?
-speaker3: don't ask me those questions dear, i'm not the patient.
-speaker1: well i'm the doctor. i'm the one who's going to decide what is, or is not important here.
-speaker3: look doctor, i don't know how to tell you this politely, but i don't approve of you. not you personally...
-speaker1: the science of psychiatry.
-speaker3: exactly. i want you do deal with agnes as speedily and as easily as possible. she won't hold up under any sort of cross examination.
-speaker1: i am not with the inquisition.
-speaker3: and i am not from the middle ages. i know what you are! i don't want that mind cut open.
-
-speaker1: hello. i'm doctor livingston. i've been asked to talk to you. may i? 
-speaker2: yes.
-speaker1: you have a lovely voice.
-speaker2: no i don't.
-speaker1: i just heard you.
-speaker2: that wasn't me.
-speaker1: was it sister marguerite?
-speaker2: no i'm not.
-speaker1: hasn't anyone ever told you that before?
-speaker2: let's talk about something else.
-
-speaker1: what would you like to talk about. 
-speaker2: i don't know.
-speaker1: anything... may i sit down?
-speaker2: yes.
-speaker1: first thing that comes to your mind?
-speaker2: but there's nothing to say about
-speaker1: second thing that comes to your mind.
-speaker2: love.
-speaker1: have you ever loved anyone?
-speaker2: yes.
-speaker1: who?
-speaker2: everyone.
-speaker1: well, who in particular?
-speaker2: right now?
-speaker1: uh huh.
-speaker2: i love you.
-speaker1: agnes, have you ever loved another man... other than, christ?
-speaker2: yes.
-
-speaker1: who? 
-speaker2: oh, there are so many.
-speaker1: well do you love... do you love father martineau?
-speaker2: oh, yes!
-speaker1: do you think he loves you?
-speaker2: oh, i know he does.
-speaker1: he's told you?
-speaker2: no. but... when i look into his eyes, i can tell.
-speaker1: you've been alone together?
-speaker2: yes.
-speaker1: often?
-speaker2: at least once a week.
-speaker1: and you like that?
-speaker2: oh, yes.
-speaker1: where do you meet?
-speaker2: in the confessional.
-speaker1: agnes, do ever see father martineau outside the...
-speaker1: agnes suddenly looks exasperated.
-speaker2: you want to talk about the baby don't you?
-speaker1: would you like to talk about it?
-speaker2: i never saw any baby... i think they made it up.
-speaker1: why should they?
-speaker2: i don't know.
-speaker1: do you remember the night they said it came?
-speaker2: no. i was sick.
-speaker1: how were you sick?
-speaker2: something i ate.
-speaker1: did it hurt?
-speaker2: yes.
-speaker1: where?
-speaker2: down... there.
-speaker1: and what did you do?
-speaker2: i went to my room.
-speaker1: and what happened?
-speaker2: i got sicker.
-
-speaker1: i fell asleep. 
-speaker2: in the middle of all the pain?
-speaker1: yes.
-speaker2: where did the baby come from?
-speaker1: what baby?
-speaker2: the baby they made up.
-speaker1: from their heads...
-speaker2: is that where they say it came from... ?
-speaker1: no, they say it came from the waste paper basket!
-speaker2: where'd it come from before that?
-speaker1: from
-speaker2: after before the waste-paper basket.
-speaker1: i... i don't understand.
-speaker2: agnes, how are babies born?
-speaker1: don't you know?
-speaker2: yes i do, but i want you to...
-speaker1: i don't understand what you're talking about... you want to talk about the baby... everybody wants
-speaker1: to talk about the baby but... i never saw the baby so i can't talk about the baby because... i don't believe in the baby.
-speaker2: then let's talk about something else...
-speaker1: no... no, i'm tired of talking, i've been talking for weeks, nobody believes me when i tell them anything... nobody listens to me.
-speaker2: agnes...
-speaker1: no... no, i don't want to answer any more questions.
-speaker2: would you like to ask them?
-speaker1: what do you mean?
-speaker2: just that... you ask and i'll answer.
-speaker1: anything?
-speaker2: anything.
-
-speaker1: what's your real name? 
-speaker2: martha louise livingston.
-
-speaker1: are you married? 
-speaker2: no.
-speaker1: would you like to be?
-speaker2: not at the moment, no.
-speaker1: do you have any children?
-speaker2: no.
-speaker1: would you like some?
-speaker2: i can't have them any more.
-speaker1: why not?
-speaker2: i've stopped menstruating
-speaker1: why do you smoke?
-speaker2: does it bother you?
-speaker1: no questions.
-speaker2: smoking is an obsession with me. maybe one day i'll become obsessed with something else, then i'll stop smoking... do you have any more questions?
-speaker1: one.
-speaker2: what?
-speaker1: where do you think babies come from?
-
-speaker1: from their mothers and fathers of course. before that, i... i don't know. 
-speaker2: well i think they come from... angel lights on their mothers chest and
-speaker2: tower. agnes loves you.
-speaker1: do you know a marie?
-speaker2: no... do you?
-speaker1: why should i?
-speaker2: i don't know.
-
-speaker1: well... what do you think? is she totally bananas or merely slightly off centre... or maybe she's perfectly sane and just a very good liar. 
-speaker2: what's your opinion?
-speaker1: i believe agnes is different.
-speaker2: from other nuns... yes i... i've noticed.
-speaker1: from other people! i believe she is not crazy, nor is she lying.
-speaker2: how could she have a baby and know nothing of or birth?
-speaker1: because she's an innocent. she's a slate that's hasn't been touched except by
-speaker2: that's ridiculous...
-speaker1: in her case it isn't. she's had very little schooling. her mother kept her home almost all the time and when her mother died agnes came here, to us. she's never been out there doctor. she's never seen a movie or a television show. she's never even read a book.
-speaker2: if she's so innocent, how come she murdered a child?
-speaker1: she didn't! this is manslaughter, not murder. she didn't consciously kill that baby. she'd lost a lot of blood. she was unconscious by the time we got to her.
-speaker2: so, someone else could have done it.
-speaker1: no... not in the eyes of the police.
-speaker2: and in your eyes?
-speaker1: i've already told you what i thought.
-speaker2: that she was unconscious, yes! so someone easily could have come in the room and killed the...
-speaker1: you don't really believe something like that happened do you?
-speaker2: it's possible isn't it?
-speaker1: who?
-speaker2: one of the other nuns found out about the baby and... and wanted to avoid a scandal.
-
-speaker1: that's absurd! 
-speaker2: that possibility never occurred to you?
-speaker1: no-one knew about agnes' pregnancy.
-
-speaker1: wipe your feet. 
-speaker1: pere martineau...
-
-speaker1: they arise at five in the morning... and they're in bed by nine at night. even if a man could get to them, he would probably find them praying. that's why i see that the real question is not only how he got in, but when. 
-speaker2: and you're the only man to see them?
-speaker1: i promise you doctor, even if i had the inclination, how could i possibly catch her? she would have to be a very slow and patient nun. ah no... they're a very special and rare people those sisters. only a few of them left in this modern world, consecrated to the praise of
-
-speaker1: hello, mama ... brought you something. 
-speaker2: shut up, i'm trying to watch this.
-speaker1: it's your favourite...
-speaker2: who are you?
-speaker1: it's martha, mama. there you go.
-speaker2: marie brings me icecream too you know. chocolate... my favourite.
-speaker1: i thought cherry-vanilla was your favourite.
-speaker2: not any more... now i like chocolate.
-speaker1: did you have a good week mama. are they treating you all right?
-speaker2: you know martha never comes to see me. you watch it, she's going straight to hell... after all the things she said to me. then she marries that son of a of a frenchman... has an abortion. i knew that one wouldn't work out. not like you marie. you got married to
-speaker1: marie's dead mama.
-
-speaker1: i remember when you was a little girl marie. you come back from the movies and you'd say - mama that ending was so sad... and i'd tell you they had all the happy endings locked away in a vault in hollywood. and you believed me. 
-speaker2: mama, that wasn't marie, that was me!
-speaker1: who are you?
-speaker2: i... i'm martha, mama.
-
-speaker1: the convent was built for over fifty. not many of us left... just us and the chickens. 
-speaker2: how do you survive?
-speaker1: oh, we own the land around here. but we rent it out. we keep a few acres for ourselves, some wheat, corn, some vegetables.
-speaker2: well that's a lot of land. you must have help. do you have field hands that help you?
-speaker1: no. we work the land alone. no-one but sister marguerite and i are permitted contact with the public.
-speaker2: sister anne, which was agnes' room?
-
-speaker1: oh that one there, in the corner. 
-speaker2: the one up on the third floor?
-speaker1: yes.
-speaker2: uh huh.
-
-speaker1: this convent is locked solid. the only one that has a key is sister marguerite and she wouldn't let christ in after dark. 
-speaker2: well, it's been known to happen in the day too. maybe agnes went to him.
-speaker1: oh come on, you've talked to her. she doesn't even know how babies are born, let alone made.
-speaker2: when did you first learn about her...
-speaker1: shortly after she came to us.
-speaker2: and you weren't shocked?
-speaker1: i was appalled, just as you are now.
-speaker2: and what happened?
-speaker1: she stopped eating completely...
-
-speaker1: this was before her pregnancy? 
-speaker2: about two years before.
-speaker2: agnes, it has come to my attention that you have stopped eating. why is this?
-speaker3: i've been commanded by
-speaker2: he talked to you himself?
-speaker3: no.
-speaker2: through someone else?
-speaker3: yes.
-speaker2: who?
-speaker3: i can't say.
-speaker2: why?
-speaker3: she'd punish me.
-speaker2: one of the other sisters?
-speaker3: no.
-speaker2: who?
-speaker2: ... agnes look at me.
-speaker3: because i'm getting fat.
-speaker2: oh, for heaven's sake.
-speaker3: i am, there's too much flesh on me.
-speaker2: agnes...
-speaker3: i'm a blimp.
-speaker2: why does it matter whether you're fat or not...
-speaker3: because...
-speaker2: ... you needn't worry about being attractive here.
-speaker3: i do, i have to be attractive to
-speaker2: he loves you the way you are.
-speaker3: no he doesn't. he hates fat people.
-speaker2: who told you this?
-speaker3: it's a sin to be fat.
-speaker2: why?
-speaker3: look at the statues, they're thin.
-speaker2: agnes...
-speaker3: that's because they're suffering... suffering is beautiful, i want to be beautiful.
-
-speaker1: who tells you these things? 
-speaker2: christ said it in the bible, he said - suffer the little children, i want to suffer like a little child.
-speaker1: that's not what he meant.
-speaker2: i... i am a little child but my body keeps getting bigger and soon i... i won't be able to fit in, i... i won't be able to squeeze into heaven.
-speaker1: agnes dear, heaven is not a place where...
-speaker2: no... i mean... i mean look at these.
-speaker1: oh my dear child.
-speaker2: blew up the hindenburg. he'll blow me up, that's what she said...
-speaker1: who?
-speaker2: mommy i'll get bigger and bigger every day and then i'll pop but... but if i stay little it won't happen.
-speaker1: your mother tells you this?... agnes your mother is dead.
-speaker2: but she watches... she listens.
-speaker1: nonsense, i'm your mother now and i want you to eat.
-speaker2: i'm not hungry.
-
-speaker1: no i don't... the host is enough. 
-speaker2: my dear, i don't think a communion wafer has the recommended daily allowance of anything.
-speaker1: of
-speaker2: yes, of
-speaker1: i'm being punished.
-speaker2: why?
-speaker1: i don't know.
-speaker2: dear jesus...
-speaker1: it started this morning and i can't get it to stop.
-speaker3: why didn't you take her to a doctor?
-speaker2: it was healed by the following morning and she started eating again...
-speaker3: she had a... a hole in the palm of her hand! she could have bled to death.
-
-speaker1: she has it now. 
-speaker2: i know what you're thinking, she's a hysteric pure and simple.
-speaker1: not simple, no.
-speaker2: i saw it. clean through the palm of her hand. do you think hysteria could do that?
-speaker1: it's being doing it for centuries. she's not unique, she's just another victim.
-speaker2: victim. that's her innocence.
-speaker1: and i intend to take her away from him. that's what you're afraid of isn't it?
-speaker2: you bet i am.
-
-speaker1: last tuesday, i didn't eat all of my lima beans... hid them under my spoon. 
-speaker2: yes...
-speaker1: i thought... thoughts... about...
-speaker2: speak up, i can hardly hear you.
-speaker1: i thought ugly thoughts about sister marguerite.
-
-speaker1: would you tell me why the this is taking so long. 
-speaker2: look there are a lot of unanswered questions here.
-speaker3: martha, your job is to diagnose, not to heal and play detective. who do you think you are?
-speaker2: i know my job. don't tell me my job lyon. my duty as a doctor is to...
-speaker4: martha, you have to make a decision on her sanity as quickly as possible and not interfere with due process of law.
-speaker2: no... no, excuse me eve. as quickly as i see fit.
-speaker4: the longer you take to make a decision, the more difficult it will be for us.
-speaker2: why?
-speaker4: the bishop is breathing down our necks.
-speaker2: and the sooner she goes to prison, the better off she'll be?
-
-speaker1: i don't believe this. i don't believe this. 
-speaker2: well the bishop will be very upset about this.
-speaker1: i'm fighting for this woman's life, not some bishop.
-
-speaker1: you liked sister paul? 
-speaker2: she was kind to me. she told me i was beautiful.
-speaker1: what else did she tell you?
-speaker2: she said all of angels would want to sleep beside me if they could. i liked that.
-speaker1: where's that?... i promise i won't tell, would you take me?
-speaker1: so agnes takes her.
-
-speaker1: sister paul was in her eighties? did she climb up here often? 
-speaker2: no, only when she felt like it. she brought me up here last winter and the next day she died.
-speaker1: no wonder... wait... agnes... agnes how do you feel about babies?
-speaker2: oh, they frighten me, i'm afraid i'll drop them. they have a soft spot on their heads and if you drop them so they land on their heads they become stupid. i was dropped on my head, that's why i don't understand things.
-speaker1: like what?
-speaker2: numbers... you can spend your whole life counting and never reach the end.
-speaker1: i don't understand them either. do you suppose i was dropped on my head?
-speaker2: i hope not. it's a terrible thing to be dropped on your head.
-speaker1: oh, i've got to give up smoking. agnes ... wait a minute... agnes slow down.
-
-speaker1: she said you could see the whole world from up here. but it looks much better far away than it looks close up. 
-speaker2: beautiful...
-speaker1: and sometimes i get under here... it makes a wonderful sound.
-speaker2: what happens if the bell rings and you're under there?
-speaker1: oh, it's even more wonderful then.
-speaker2: it's like hiding from my mother when i was a little girl.
-speaker1: where did you go?
-speaker2: oh, no place as wonderful as this. agnes... have you ever thought of leaving the convent for something else?
-speaker1: no. there is nothing else. just being here at night helps me sleep.
-speaker2: you have trouble sleeping?
-speaker1: i get headaches. mommy did too... oh, but she wasn't stupid. she knew things that nobody else knew.
-speaker2: what things?
-
-speaker1: she knew what was going to happen to me. that's why she hid me away. 
-speaker2: how did she know that?
-speaker1: somebody told her.
-speaker2: who?
-speaker1: i don't know.
-speaker2: agnes...
-speaker1: you'll laugh.
-speaker2: i promise i won't laugh. who told her?
-speaker1: an angel, when she was having one of her headaches.
-speaker2: did your mother see angels often?
-speaker1: no.
-speaker2: do you?
-speaker1: no.
-speaker2: do you believe she really saw them?
-speaker1: no, but i can never tell her that.
-speaker2: why not? mmm?
-speaker1: she'd get angry.
-
-speaker1: agnes, did you love your mother? 
-speaker2: yes.
-speaker1: did you ever want to be a mother yourself?
-speaker2: i could never be a mother.
-speaker1: why not?
-speaker2: well i don't think i'm old enough and besides i don't want to have a baby.
-speaker1: why not?
-speaker2: because i don't want one.
-speaker1: if you did want one, how'd you go about getting one?
-speaker2: from someone who didn't want to have a baby.
-speaker1: like you?
-speaker2: no, not like me!
-speaker1: how would that person get one if they didn't want one?
-speaker2: a mistake...
-speaker1: agnes, how did your mother get you?
-speaker2: a mistake... it was a mistake...
-
-speaker1: if you're trying to get me to say that she was a bad woman and hated me and didn't want me but that's not true, she was a good woman, a saint... 
-speaker2: agnes, i don't believe you know nothing about sex...
-speaker1: i can't help it if i'm stupid.
-speaker2: ... that you don't remember getting pregnant...
-speaker1: not my fault.
-speaker2: ... and that you don't believe you carried a child.
-speaker1: i was a mistake.
-speaker2: what the child?
-speaker1: everything... i don't have children.
-speaker2: agnes...
-speaker1: don't touch me like that! you don't touch me like that, i know what you want from me, you want to take away. you should be ashamed, they should lock you up people like you.
-
-speaker1: you hate us don't you? 
-speaker2: what?
-speaker1: nuns... you hate nuns.
-speaker2: i hate ignorance and stupidity.
-speaker1: the catholic church...
-speaker2: i haven't said anything against the the catholic church.
-speaker1: catholicism is not on trial here. i want you to deal with agnes without any religious prejudice or you turn this case over to someone else...
-speaker2: how dare you tell me to run my affairs!
-speaker1: it's my affair too.
-speaker2: how dare you think i'm in a position to be pressured...
-speaker1: i'm only interested...
-speaker2: ... or bullied or what ever you're doing. who the do you think you are? you go around here expecting applause for the way you treated this child.
-speaker1: she is not a child.
-speaker2: and she has a right to know that there's a world out there filled with people who don't believe in
-speaker2: ... and aren't any worse off than you mother. people who've gone through their entire lives without bending their knees once, to anybody. and people who fall in love and have babies and occas- sionally are very happy. she has a right to know that. but you and your... your order and your church have kept her ignorant...
-speaker1: ???
-speaker2: ??? ... virginity, right mother? poverty, chastity and ignorance is what you live by.
-speaker1: i am not a virgin, doctor. i was married for twenty three years, two daughters. i even have grandchildren... surprised? it might please you to know that i was a failure as a wife and mother. my children won't even see me any more, that's their revenge. i think they tell their friends that i've passed on. and don't tell me i'm making up for past mistakes doctor freud.
-speaker2: then help her.
-speaker1: i am...
-speaker2: no, you're shielding her. let her face the world.
-speaker1: what good would it do. no matter what you decide it's either the... the prison or the nut house and the differences between them are pretty thin.
-speaker2: there's another choice.
-speaker1: what?
-speaker2: aquittal.
-
-speaker1: how? 
-speaker2: innocence. legal innocence. i know the judge would be happy for any reason to throw this case out of court.
-speaker1: all right, what do you need.
-speaker2: answers.
-
-speaker1: when would agnes have conceived the child? 
-speaker2: oh, some time in january.
-speaker1: do you remember anything unusual happening at the time?
-speaker2: earthquakes?
-speaker1: visitors to the convent.
-speaker2: nothing.
-speaker1: do you have a... a diary or a day book?
-speaker2: yes.
-speaker1: take at look at it.
-speaker2: there's nothing here.
-
-speaker1: oh, dear 
-speaker2: what is it?
-speaker1: the sheets...
-speaker2: what sheets?
-speaker1: oh, dear i should have guessed...
-
-speaker1: ... i should have suspected something. 
-speaker1: sister marguerite says you have been sleeping on a bare mattress sister.
-speaker2: yes mother.
-speaker1: why?
-speaker2: in the medieval days the nuns and monks would sleep in their own coffins.
-speaker1: we're not in the middle ages, sister.
-speaker2: it made them holy.
-speaker1: it made them uncomfortable. and if
-speaker1: they didn't sleep well i'm certain the next day they were cranky as mules. sister where are your sheets? do you really believe that sleeping on a bare mattress is the equivalent of sleeping in a coffin?
-speaker2: no.
-speaker1: then tell me. where are your sheets?
-speaker2: i burnt them.
-speaker1: why?
-speaker2: they were stained.
-speaker1: how many times have i burned into your thick skull and the thick skull of your fellow novice, that menstruation is a perfectly natural process and nothing to be ashamed of.
-speaker2: yes, mother.
-speaker1: say it! agnes and genevieve it is a perfectly natural process and nothing to be ashamed of.
-speaker1: mean it!
-speaker1: a few years ago one of the sisters came to me in tears, asking for comfort, comfort because she was too old to have any children. not that she wanted to, but once a month she had been reminded of that possibility.
-speaker2: it's not that... it's not that...
-
-speaker1: what do you mean? 
-speaker2: it's not my time of month.
-speaker1: should you see a doctor?
-speaker2: i don't know. i don't know what happened mother, i woke up... there was blood on the sheets, but i don't know what happened. i don't know what i did wrong, i don't know and i should be punished.
-speaker1: for what?
-speaker2: i don't know... i don't know...
-speaker1: that was the beginning, the night of the conception. that's why she burnt the sheets.
-
-speaker1: when was that? 
-speaker2: the twenty third of january. on that night one of our elder nuns passed away.
-speaker1: sister paul?
-speaker2: yes. i don't remember where agnes was. i was needed in the sick room.
-speaker2: and dies.
-
-speaker1: no. 
-speaker2: well you're probably right about that. it certainly can't help sister agnes to have this investigation continued for any length of time.
-speaker1: why do you call it an investigation?
-speaker2: your mother was a resident of saint catherines home before you moved her.
-speaker1: what does this have to do with..?
-speaker2: and you had a sister who died in the convent.
-speaker1: who told you this?
-speaker2: do you still go to church?
-speaker1: what business is it of yours..?
-speaker2: oh, we just wonder if you can be very objective about this case.
-speaker1: look, father, ah... just because i don't subscribe to the... to the beliefs you subscribe to...
-speaker2: but what you believe makes no difference to us whatsoever doctor. but it does
-speaker2: make all the difference to agnes.
-speaker1: i don't understand. are you expecting me to..?
-speaker2: well somone's got to suffer for this doctor. you've got to be merciful and quick. excuse me. martha stares at him as he walks away.
-
-speaker1: agnes, i'm here because i want to help you. 
-speaker2: i'm not sick.
-speaker1: but you're troubled... aren't you?
-speaker2: that's because you keep reminding me.
-speaker1: and you're unhappy.
-speaker2: everyone's unhappy, you're unhappy aren't
-speaker2: you?
-speaker1: agnes...
-speaker2: answer me! you never answer me.
-speaker1: sometimes, yes.
-speaker2: only you think you're lucky because you didn't have a mother who said things to you and did things to you that maybe weren't always nice but that was because of me, because i was bad, not her.
-speaker1: what did you do?
-speaker2: i'm always bad.
-speaker1: what did you do?
-speaker2: i breathed!
-speaker1: agnes. what did your mother do to you? if you can't answer me, just shake your head yes or no. did... did she hit you? did she make you do something you didn't want to? did it make you feel uncomfortable to do it? did it embarrass you? did it... did it hurt you? what did she make you you do?
-speaker2: no...
-
-speaker1: you can tell me. 
-speaker2: i can't.
-speaker1: she's dead isn't she?
-speaker2: yes.
-speaker1: she can't hurt you any more.
-speaker2: she can.
-speaker1: how?
-speaker2: she watches... she listens.
-speaker1: agnes, i don't believe that. tell me.
-speaker2: she...
-speaker1: yes?
-speaker2: ... makes me...
-speaker1: yes?
-speaker2: ... take off my clothes and then...
-speaker1: she tells you you're ugly?
-speaker2: yes.
-speaker1: and that you're stupid?
-speaker2: yes.
-speaker1: that you're a mistake?
-
-speaker1: she says my whole body's a mistake. 
-speaker2: why?
-speaker1: because she says if i don't watch out i'll have a baby.
-speaker2: how does she know that?
-speaker1: her headaches.
-speaker2: oh, yes.
-speaker1: and then...
-speaker2: what?
-speaker1: she touches me down there with a cigarette. please mommy, don't touch me like that any more. i'll be good, i won't be a baby any more.
-speaker2: agnes, oh agnes, agnes i want you to do something. i want you to pretend that i'm your mother. oh yes, only this time i want you to tell me what you're feeling, alright?
-speaker1: i'm afraid.
-speaker2: please! i want to help you. let me help you.
-speaker1: alright.
-speaker2: agnes, you're ugly!... what do you say? of course you do. agnes, you're ugly!...
-speaker1: no i'm not.
-
-speaker1: are you pretty? 
-speaker2: yes.
-speaker1: agnes, you're stupid.
-speaker2: no i'm not.
-speaker1: are you intelligent?
-speaker2: yes i am.
-speaker1: you're a mistake.
-speaker2: i'm not mistake, i'm here aren't i. how can i be a mistake if i'm really here. doesn't make mistakes, you're a mistake...
-speaker1: oh agnes, oh agnes, it's alright, it's alright, it's alright, it's alright, i love you.
-speaker2: do you really love me or are you just saying that?
-speaker1: i really love you.
-speaker2: as much as mother miriam does?
-speaker1: as much as loves you.
-
-speaker1: what? 
-speaker2: look into the convent records.
-speaker1: sister...
-
-speaker1: thank you. 
-speaker1: you lied to me
-
-speaker1: your niece! 
-speaker2: i didn't tell you because i didn't think it was important.
-speaker1: no, it just makes you doubly responsible doesn't it?
-speaker2: i never saw agnes until she set foot in this convent. my sister ran away from home. we lost touch with her. and when my husband died and i came here, she wrote to me and asked me if i would take care of agnes in case anything happened.
-speaker1: and agnes' father?
-speaker2: it could have been any one of a dozen men from what my sister told me.
-
-speaker1: like keeping her home from school? 
-speaker2: yes.
-speaker1: listening to angels?
-speaker2: she drank too much. that's what killed her.
-speaker1: do you know what she did to her?
-
-speaker1: i don't think i care to know. 
-speaker2: she molested her!
-speaker1: oh, dear
-speaker2: there is more here than meets the eye isn't there? lots of dirty little secrets.
-speaker1: oh if only i'd known.
-speaker2: why didn't you? you knew she was keeping her home from school. you knew she was an alcoholic.
-speaker1: i knew that after the fact.
-speaker2: why didn't you do anything to stop her?
-speaker1: because i didn't know...
-speaker2: oh,
-
-speaker1: larry... 
-speaker2: marty, what are you doing here?
-speaker1: larry there's got to be something missing.
-speaker2: i gave you the pictures marty, what else do you want?
-
-speaker1: what? you think that the girl is innocent? 
-speaker2: i don't know.
-speaker1: you got to be crazy.
-speaker2: larry...
-speaker1: what's the matter with you, you've seen the reports. it's a cut and dried case.
-speaker2: maybe there's something that's not in the report that should be.
-speaker1: you're too involved marty. look at you. why don't you turn this case over to someone else?
-speaker2: thanks.
-speaker1: if i find anything i'll call you.
-
-speaker1: hi marty, it's helen. mrs davenport 
-speaker1: called and was very upset that you'd missed her appointment. she wants you to call her at home, oh and a couple of reporters have been trying to get a hold of you about sister agnes. they seem persistent and they may try to reach you at home. i didn't give them number.
-speaker2: hallo, doctor livingston. my name is . i'm doing a sunday article on sister agnes for the gazette. i would appreciate it if you would give me a phone call on 942-2424.
-speaker3: hi marty, it's me. listen i just talked with detective crawley who was at the convent. she said that there was one thing that bothered her that didn't make it into the report. the waste paper basket. the one in agnes' room. none of the other nuns had one. bye.
-speaker3: ... her that didn't make it into the report. the waste paper basket. the one in agnes' room. none of the other nuns had one. bye.
-
-speaker1: i've gotten the court's permission to hypnotise her. 
-speaker2: and my permission?
-speaker1: i'd like yours too.
-speaker2: we'll see about that.
-speaker1: don't deny it!
-speaker2: i haven't decided yet.
-speaker1: the woman's health is at stake.
-speaker2: her spiritual health.
-speaker1: i don't give a about her spiritual health.
-speaker2: i know you don't.
-speaker1: sentence her and be done with it, that's what you're saying and i...
-speaker2: i am saying a beautifully simple woman...
-speaker1: an unhappy woman...
-speaker2: she's happy with us and she could go on being happy if she was left alone.
-
-speaker1: then why did you call the police in the first place mother, huh? martha why didn't you just throw the baby into the incinerator and be done with it. 
-speaker2: because i am a moral person.
-speaker1: 
-speaker2: yourself!
-speaker1: catholic church doesn't have a corner on morality...
-speaker2: who said anything about the catholic church...
-speaker1: you just said...
-speaker2: what the has the catholic church got to do with you?
-speaker1: nothing...
-speaker2: what have we done to hurt you? and don't deny it, i can smell an ex-catholic a mile away. what did we do? burn a few heretics, sell some indulgences? that was in the days when the church was a ruling body. we let governments do those things today. so what did we do to you eh? you wanted to neck in the back seat of a car when you were fifteen and you couldn't because it was a sin?
-speaker1: it wasn't sex. it was a lot of things, but it wasn't sex. you know when i was in the first grade my best friend was run
-
-speaker1: stupid woman... and that's all? 
-speaker2: that's all? that's enough! she was a beautiful little girl.
-speaker1: and what has that to do with it?
-speaker2: i wasn't. i wasn't. she was the pretty one. she died, why not me? i never said my morning prayers. and i was ugly, i was scrawny, i had buck teeth and freckles all over my face, do you know what the nun called me, sister mary clitus, called me polkadot livingston.
-speaker1: so you left the church because you had freckles?
-speaker2: no, because i... yeah, yeah i left the church cause i had freckles.
-
-speaker1: my sister died in a convent. and it's her voice i hear. does my smoking bother you? 
-speaker2: no, it reminds me.
-speaker1: would you like one? huh?
-speaker2: i'd love one.
-speaker2: i'm out of prac... ... practice.
-speaker1: all right?
-speaker2: fine thanks...
-speaker1: do you suppose the saints would have smoked if tobacco had been popular back then?
-speaker2: undoubtedly. not the ascetics of course but, well saint thomas more...
-speaker1: long, thin and filtered.
-speaker2: saint ignatius would smoke cigars and stub them out on the soles of his bare feet. and of course
-speaker1: hand rolled.
-
-speaker1: even christ would partake socially. 
-speaker2: saint peter?
-speaker1: pipe!
-speaker2: right...
-speaker1: mary magdelen?
-speaker2: oh, you've come a long way baby.
-speaker1: and saint john would chew tobacco.
-speaker2: right. what do you suppose today's saints are smoking?
-speaker1: there are no saints today. good people yes, but extraordinarily good people...
-speaker2: do you think they ever existed?
-speaker1: yes i do.
-speaker2: do you want to become one?
-speaker1: become? one is born a saint.
-speaker2: well you can try, can't you, to be good?
-speaker1: yes, but goodness has very little to do with it. not all the saints were good, in fact some of them were a little crazy. but... they were still attached to agnes has that birth.
-speaker1: no more... we're born, we live, we die. no room for miracles. oh my dear, how i miss the miracles.
-speaker2: do you think agnes is still attached to god?
-speaker1: listen to her singing.
-speaker2: i'd like to begin.
-speaker1: begin what?
-speaker2: the hypnotism. do you still disapprove?
-speaker1: would it stop you if i did?
-speaker2: no.
-speaker1: may i be present?
-speaker2: of course.
-speaker1: then let's begin.
-
-speaker1: yes. 
-speaker2: who am i?
-speaker1: doctor livingston.
-speaker2: and why am i here?
-speaker1: to help me.
-speaker2: good. would you like to tell me why you're here?
-speaker1: because i'm in trouble.
-speaker2: what kind of trouble? what kind of trouble agnes?
-speaker1: i'm frightened.
-speaker2: of what?
-speaker1: of telling you.
-speaker2: but it's easy. it's just a breath with sound. say it. what kind of trouble?
-speaker1: i had a baby.
-speaker2: how did you have a baby?
-speaker1: it came out of me.
-speaker2: did you know what was going to come
-speaker2: out?
-speaker1: yes.
-speaker2: did you want it to come out?
-speaker1: no.
-speaker2: why?
-speaker1: because i was afraid.
-speaker2: why were you afraid?
-speaker1: because i wasn't worthy.
-speaker2: to be a mother?
-speaker1: yes.
-speaker2: why?
-speaker1: may i open my eyes now?
-speaker2: no not yet agnes, very soon but not yet. how did the baby get into you?
-speaker1: it grew.
-speaker2: what made it grow? do you know?
-speaker1: yes.
-speaker2: would you like to tell me?
-speaker1: no.
-speaker2: did anyone else know about the baby?
-
-speaker1: will she be angry? 
-speaker2: she made me promise not to.
-speaker1: who? who made you promise? it's alright agnes. it's alright. let's go to your room. it's the night about six weeks ago when you were very sick.
-speaker2: i'm afraid.
-speaker1: oh don't be, i'm here. it's alright. i want you to tell me what you did before you went to bed.
-speaker2: i ate.
-speaker1: hm hmm. what did you have for dinner?
-speaker2: fish... ... brussel sprouts.
-speaker1: you don't like brussel sprouts?
-speaker2: i hate them.
-speaker1: and then what happened?
-speaker2: we went to chapel for vespers.
-speaker1: hm hmm.
-speaker2: i left early because i wasn't feeling very well.
-speaker2: suddenly agnes leaps up from her chair.
-speaker1: what is it?
-speaker2: someone's following me.
-speaker1: who?
-speaker2: sister marguerite i think.
-speaker1: was it sister marguerite who knew about the baby? alright agnes, i want you to see your room as you saw it on that night. martha open your eyes. what do you see?
-speaker2: my bed.
-speaker1: what else?
-speaker2: a crucifix.
-speaker1: above the bed? any... anything else? what do you you see, something different? what is it?
-speaker2: a wastepaper basket.
-speaker1: do you know who put it there?
-speaker2: no.
-speaker1: what do you think it's there for?
-speaker2: for me to get sick in.
-speaker1: are you ill?
-
-speaker1: yes. 
-speaker2: what do you feel?
-speaker1: i feel as if i've eaten glass.
-speaker2: what do you do?
-speaker1: i have to throw up...
-speaker2: which one?
-speaker1: i don't know which one
-speaker2: of what?
-speaker1: of me. oh... my water... it's all water...
-speaker2: why isn't anyone coming?
-speaker1: they can't hear me that's why. oh i don't wanna...
-speaker3: stop her!
-speaker2: what is it?
-
-speaker1: please get away from me... 
-speaker2: who?
-speaker1: go away, i don't want you here.
-speaker2: is someone in the room with you?
-speaker1: no... don't hit me please...
-speaker3: stop this, she'll hurt herself i'm not going to allow this.
-speaker2: no... no... i said leave her alone.
-speaker1: you're trying to take my baby... trying to take my baby... no... it wasn't my fault mommy... it was a mistake mommy.
-speaker2: alright agnes... it's alright. one, two three... it's alright... it's me, doctor livingston, it's alright, alright. thankyou agnes, thankyou. how do you feel?
-speaker1: frightened.
-speaker2: do you remember what just happened?
-speaker1: yes.
-speaker2: that's good. do you feel well enough to stand?
-
-speaker1: oh... very interesting i guess... excuse me... 
-speaker1: ... like that one.
-speaker2: that's how he got in... or she got out.
-speaker1: oh excuse me, what did you say?
-speaker2: nothing. may i take some notes?
-speaker1: oh yes, martha starts drawing a rough plan.
-
-speaker1: is the doctor in her office? 
-speaker2: ah, who shall i say is calling?
-speaker1: general macarthur.
-speaker2: just a minute please, you can't go in there.
-speaker1: i've just met with the bishop. we're taking you off the case.
-speaker3: you're what?
-speaker1: if we want to hire a psychiatrist for agnes. we'll find our own, thank you.
-speaker3: one that will ask the questions you want asked.
-
-speaker1: one that will approach this matter with some objectivity and respect. 
-speaker2: for the church?
-speaker1: for agnes.
-speaker2: you think she's a saint?
-speaker1: she's been touched by yes.
-speaker2: how? how? she hallucinates, stops eating and bleeds spontaneously. is that supposed to convince me she shouldn't be touched. give me a miracle.
-speaker1: the father!
-speaker2: who is he?
-speaker1: why must he be anybody?
-speaker2: my you're as crazy as...
-speaker1: stop laughing, i don't say it's the truth, i'm saying...
-speaker2: how ?
-speaker1: don't be ridiculous.
-speaker2: well give me a reasonable explanation
-speaker1: a miracle is an event without an explanation. if she's capable of putting a hole in her hand without benefit of a nail, why couldn't she split a cell in her womb?
-speaker2: this is insane.
-
-speaker1: there as no man in the convent on that night and no way for any man to get in or out. 
-speaker2: you're saying did it?
-speaker1: no, that's as much as saying father martineau did it. i'm saying permitted it.
-speaker2: but how did it happen?
-speaker1: you'll never find the answer for everything did.
-speaker2: i thought you didn't believe in miracles today mother?
-speaker1: but i want the opportunity to believe.
-speaker2: but what you are choosing to believe is a lie because you won't face the fact that she was raped... or seduced...
-speaker1: she is an innocent.
-speaker2: but she is not an enigma mother. everything that agnes has done is explainable from modern psychiatry.
-speaker1: that's what you believe she is? the sum of her psychological parts?
-speaker2: that's what i have to believe...
-speaker1: then why are you so obsessed with her? you're losing sleep over her? you're thinking about her all the time.
-speaker1: martha has no answer. mother miriam i'm not accusing. i'm recognizing.
-speaker2: there's a tunnel out of the crypt into the barn. did you know about that? there's an answer mother. that's how she got out.
-speaker1: that's crazy. how could she find out about it?
-speaker2: somebody told her.
-speaker1: who? that tun... that tunnel hasn't been used in fifty years.
-speaker2: oh, would you stop lying mother!
-speaker1: why would i lie?
-speaker2: because it's murder we're talking about. aren't you concerned about what she told us about the other person in her room.
-speaker1: i'm concerned about her health.
-speaker2: who was that person mother? was it you?
-speaker1: if you believe this is murder, it is the crown attorney you have to talk to, not me. and definitely not agnes. she goes out and slams the door.
-
-speaker1: all i want is one more week. 
-speaker2: why? you've done nothing to show any progress.
-speaker1: yes, that's because i'm getting to her.
-speaker2: you're getting to all of us martha, let's face it.
-speaker1: i'll have a decision by next week.
-speaker2: it's gone on long enough. you're out.
-speaker1: oh joe... joe she didn't kill the baby.
-speaker2: you have proof?
-speaker1: i'll have it.
-speaker2: when?
-speaker1: next week.
-speaker2: no, no, no...
-
-speaker1: no! 
-speaker2: tomorrow... tomorrow, i'll get it by tomorrow. i will.
-speaker1: yes, demain
-
-speaker1: this is permission to take her apart. 
-speaker2: where is she?
-speaker1: hasn't she had enough?
-
-speaker1: i have a few more questions to ask her. 
-speaker2: my but you're determined.
-speaker1: who knew she was pregnant?
-speaker2: why do you insist upon pressing...
-speaker1: was it you?
-speaker2: is it because she's a nun?
-speaker1: did you know she was pregnant?
-speaker2: yes.
-speaker1: and you didn't send her to a doctor.
-speaker2: i didn't guess until it was too late.
-speaker1: for what? an abortion?
-speaker2: oh, don't be ridiculous.
-speaker1: too late for what?
-speaker2: i don't know... too late to stop it.
-speaker1: the baby?
-speaker2: the scandal...
-speaker1: you went to the room to help with the birth.
-speaker2: she didn't want any help.
-
-speaker1: that's a lie. 
-speaker2: you hid the wastepaper basket in her room.
-speaker1: i didn't hide it. i put it there for the blood and the dirty sheets.
-speaker2: and the baby.
-speaker1: no!
-speaker2: you tied the cord around its neck.
-speaker1: i wanted her to have it when no-one else was around, they would have taken the baby to a hospital and left it with them, but it was such a difficult birth, there was so much blood and i panicked.
-speaker2: before or after you killed the child?
-speaker1: i left it with her and i went for help.
-speaker2: i doubt that's what she'd say.
-speaker1: then she's a liar.
-
-speaker1: agnes, can you hear me? 
-speaker2: yes.
-speaker1: i want you to remember if you can a night last january. the night sister paul died. do you remember.
-
-speaker1: she said michael. 
-speaker2: what did she mean?
-speaker1: the statue. she had shown it to me the day before.
-speaker2: and the passage to the barn?
-speaker1: yes.
-speaker2: why?
-speaker1: so i could go to him.
-speaker2: who?
-speaker1: him.
-speaker2: how did she know about him?
-speaker1: she'd seen him too.
-speaker2: where?
-speaker1: from the belltower the day she before she died.
-speaker2: so she sent you?
-speaker1: yes.
-
-speaker1: he's here. 
-speaker2: are you frightened?
-speaker1: yes.
-
-speaker1: hallo... 
-speaker1: ... where are you?
-
-speaker1: is it you? 
-speaker2: what do you see?
-speaker1: halos...
-
-speaker1: his blood... my martha and mother miriam are equally shocked. 
-speaker2: oh agnes...
-speaker2: white habit. mother miriam rushes after her.
-speaker1: it's bleeding... i'm bleeding... my it won't stop, i can't get it to stop. let go of me, i wish you were dead.
-speaker2: agnes... agnes...
-speaker1: stay away from me...
-speaker2: agnes it had nothing to do with the hand of he did a terrible thing to you, do you understand?
-speaker1: no...
-speaker2: he frightened you and he hurt you. it's not your fault. it's his fault. tell us who he is so we can find him. stop him from doing this to other women.
-speaker1: not your fault...
-speaker2: agnes who did you see?
-speaker1: i hate him...
-speaker2: of course you do. who was it?
-speaker1: i hate him for what he did to me.
-speaker2: yes.
-speaker1: for what he made me go through.
-speaker2: who?
-
-speaker1: i hate him. 
-speaker2: agnes, who did this to you?
-speaker1: it was and now i'll burn in because i hate him.
-speaker2: agnes you won't burn in hell. it's alright to hate him.
-speaker3: that's enough.
-speaker2: agnes, what happened to the baby?
-speaker3: she can't remember.
-speaker2: what happened to the baby?
-speaker1: it was dead.
-speaker2: it was alive wasn't it?
-speaker1: i don't remember.
-speaker3: oh, don't do this!
-speaker2: wasn't it!
-
-speaker1: she took the baby in her arms? 
-speaker2: yes.
-speaker1: you saw it all didn't you?
-speaker2: yes.
-speaker1: and then... what did she do? agnes what did she do?
-speaker2: she... left me alone with that little thing, and i looked at it, and i thought this is a mistake. but it's my mistake, not mommy's. mistake. agnes i thought i... i can save her. i can give her back to
-speaker1: what did you do?
-speaker2: i put her to sleep.
-speaker1: h... how?
-speaker2: i tied the cord around her neck... wrapped her in the sheets... and stuffed her in the trash can.
-
-speaker1: in view of the situation as it now stands, and the testimony given here this morning, it seems quite clear that the defendant was in no manner responsible for her actions. it is therefore the judgement of this court that she be returned to the convent of marie madeleine where she will be cared for under proper medical supervision by a visiting physician. 
-speaker2: i stood in the window of my room every night for a week. and one night i heard the most beautiful voice imaginable. and when i looked i saw the moon shining down on him. for six nights he sang to me, songs i'd never heard. and on the seventh night he opened his wings and lay on top of me. all the while he sang - charlie sweet... charlie sweet...
-speaker1: please, remove her from the court.
-speaker1: would someone please remove the defendant from the courtroom.
-
-speaker1: i don't know the meaning behind the song she sang. perhaps it was a song of seduction. and the father was a fieldhand. perhaps the song was simply a lullaby that she remembered from many years ago. and the father was hope and... and love and desire. and a belief in miracles. 
-speaker1: i want to believe that she was blessed. and i do miss her, and i hope that she's left something, some little part of herself with me. that would be miracle enough wouldn't it?
+MARTHA: what about roger? he's free. 
+EVE: they want a woman.
+LYON: all you have to do is meet with her once or twice... then tell the court she's insane.
+MARTHA: are you dictating my position to me? we're getting into some sticky legal territories here.
+EVE: martha, all we're saying is, no-one wants this to come to trial, not the church, not the crown... least of all me.
+MARTHA: eve, she strangled a baby!
+EVE: nobody is interested in sending a nun to prison.
+LEVEAU: we're not telling you what to decide martha. we're not even telling you to take this.
+LYON: is there any reason why you feel you shouldn't take it?
+MARTHA: today's my birthday. i always make bad decisions on my birthday.
+LEVEAU: happy birthday.
+
+SECRETARY: hi, it's helen, calling to tell you that mrs davenport phoned to confirm her appointment at nine o'clock tomorrow, okay? bye bye. 
+ROGER: hi martha, it's roger. can you call me at the hospital. i'd like your opinion on a case. oh, bye the way, happy birthday. bye.
+SECRETARY: hi, marty it's helen again. i cancelled your wednesday afternoon appointment so you can visit with your mother. bye bye.
+
+MARTHA: bonjour, i'm doctor martha livingston, i... 
+MARTHA: excuse me... i'm...
+
+MOTHER SUPERIOR: doctor livingston i presume? i'm mother miriam ruth. you needn't call mother if you don't wish. most people find it uncomfortable. 
+MARTHA: well... i...
+MOTHER MIRIAM: i'm afraid the word brings up the most unpleasant connatations in this day and age...
+MARTHA: yes... i...
+MOTHER MIRIAM: you can call me sister.
+MARTHA: ... thank you.
+MOTHER MIRIAM: you must have tons of questions. you may smoke if you want to. just don't tell any of the sisters.
+
+MARTHA: you were a smoker? 
+MOTHER MIRIAM: two packs a day.
+MARTHA: i can beat that.
+MOTHER MIRIAM: unfiltered.
+MARTHA: who knew about agnes' pregnancy?
+MOTHER MIRIAM: no-one.
+MARTHA: how did she hide it from the other nuns?
+MOTHER MIRIAM: she undressed alone... she bathed alone.
+MARTHA: is that normal?
+MOTHER MIRIAM: yes.
+MARTHA: how did she hide it during the day?
+MOTHER MIRIAM: she could have hidden a machine gun in here if she had wanted to.
+MARTHA: didn't she have any physical examinations
+MARTHA: in this time?
+MOTHER MIRIAM: we're examined once a year. her pregnancy fell in between the doctor's visits.
+MARTHA: who was the father?
+MOTHER MIRIAM: i haven't a clue.
+MARTHA: what man had access to her?
+MOTHER MIRIAM: none as far as i know.
+MARTHA: was there a priest?
+MOTHER MIRIAM: yes, but i...
+MARTHA: what's his name?
+MOTHER MIRIAM: father martineau, but i don't see him as a candidate.
+MARTHA: could there have been anyone else?
+MOTHER MIRIAM: obviously there was.
+MARTHA: and you didn't try to find out who?
+MOTHER MIRIAM: believe me, i've done everything possible short of asking agnes.
+MARTHA: why haven't you asked her?
+MOTHER MIRIAM: she can't even remember the birth. do you think she'd admit to the conception?
+
+MARTHA: look, someone gave her the baby. 
+MOTHER    MIRIAM: yes, but that was some ten months ago. i fail to see that the identity of that somebody has anything to do with this trial.
+MARTHA: why do you think that?
+MOTHER MIRIAM: don't ask me those questions dear, i'm not the patient.
+MARTHA: well i'm the doctor. i'm the one who's going to decide what is, or is not important here.
+MOTHER MIRIAM: look doctor, i don't know how to tell you this politely, but i don't approve of you. not you personally...
+MARTHA: the science of psychiatry.
+MOTHER MIRIAM: exactly. i want you do deal with agnes as speedily and as easily as possible. she won't hold up under any sort of cross examination.
+MARTHA: i am not with the inquisition.
+MOTHER MIRIAM: and i am not from the middle ages. i know what you are! i don't want that mind cut open.
+
+MARTHA: hello. i'm doctor livingston. i've been asked to talk to you. may i? 
+AGNES: yes.
+MARTHA: you have a lovely voice.
+AGNES: no i don't.
+MARTHA: i just heard you.
+AGNES: that wasn't me.
+MARTHA: was it sister marguerite?
+AGNES: no i'm not.
+MARTHA: hasn't anyone ever told you that before?
+AGNES: let's talk about something else.
+
+MARTHA: what would you like to talk about. 
+AGNES: i don't know.
+MARTHA: anything... may i sit down?
+AGNES: yes.
+MARTHA: first thing that comes to your mind?
+AGNES: but there's nothing to say about
+MARTHA: second thing that comes to your mind.
+AGNES: love.
+MARTHA: have you ever loved anyone?
+AGNES: yes.
+MARTHA: who?
+AGNES: everyone.
+MARTHA: well, who in particular?
+AGNES: right now?
+MARTHA: uh huh.
+AGNES: i love you.
+MARTHA: agnes, have you ever loved another man... other than, christ?
+AGNES: yes.
+
+MARTHA: who? 
+AGNES: oh, there are so many.
+MARTHA: well do you love... do you love father martineau?
+AGNES: oh, yes!
+MARTHA: do you think he loves you?
+AGNES: oh, i know he does.
+MARTHA: he's told you?
+AGNES: no. but... when i look into his eyes, i can tell.
+MARTHA: you've been alone together?
+AGNES: yes.
+MARTHA: often?
+AGNES: at least once a week.
+MARTHA: and you like that?
+AGNES: oh, yes.
+MARTHA: where do you meet?
+AGNES: in the confessional.
+MARTHA: agnes, do ever see father martineau outside the...
+MARTHA: agnes suddenly looks exasperated.
+AGNES: you want to talk about the baby don't you?
+MARTHA: would you like to talk about it?
+AGNES: i never saw any baby... i think they made it up.
+MARTHA: why should they?
+AGNES: i don't know.
+MARTHA: do you remember the night they said it came?
+AGNES: no. i was sick.
+MARTHA: how were you sick?
+AGNES: something i ate.
+MARTHA: did it hurt?
+AGNES: yes.
+MARTHA: where?
+AGNES: down... there.
+MARTHA: and what did you do?
+AGNES: i went to my room.
+MARTHA: and what happened?
+AGNES: i got sicker.
+
+AGNES: i fell asleep. 
+MARTHA: in the middle of all the pain?
+AGNES: yes.
+MARTHA: where did the baby come from?
+AGNES: what baby?
+MARTHA: the baby they made up.
+AGNES: from their heads...
+MARTHA: is that where they say it came from... ?
+AGNES: no, they say it came from the waste paper basket!
+MARTHA: where'd it come from before that?
+AGNES: from
+MARTHA: after before the waste-paper basket.
+AGNES: i... i don't understand.
+MARTHA: agnes, how are babies born?
+AGNES: don't you know?
+MARTHA: yes i do, but i want you to...
+AGNES: i don't understand what you're talking about... you want to talk about the baby... everybody wants
+AGNES: to talk about the baby but... i never saw the baby so i can't talk about the baby because... i don't believe in the baby.
+MARTHA: then let's talk about something else...
+AGNES: no... no, i'm tired of talking, i've been talking for weeks, nobody believes me when i tell them anything... nobody listens to me.
+MARTHA: agnes...
+AGNES: no... no, i don't want to answer any more questions.
+MARTHA: would you like to ask them?
+AGNES: what do you mean?
+MARTHA: just that... you ask and i'll answer.
+AGNES: anything?
+MARTHA: anything.
+
+AGNES: what's your real name? 
+MARTHA: martha louise livingston.
+
+AGNES: are you married? 
+MARTHA: no.
+AGNES: would you like to be?
+MARTHA: not at the moment, no.
+AGNES: do you have any children?
+MARTHA: no.
+AGNES: would you like some?
+MARTHA: i can't have them any more.
+AGNES: why not?
+MARTHA: i've stopped menstruating
+AGNES: why do you smoke?
+MARTHA: does it bother you?
+AGNES: no questions.
+MARTHA: smoking is an obsession with me. maybe one day i'll become obsessed with something else, then i'll stop smoking... do you have any more questions?
+AGNES: one.
+MARTHA: what?
+AGNES: where do you think babies come from?
+
+MARTHA: from their mothers and fathers of course. before that, i... i don't know. 
+AGNES: well i think they come from... angel lights on their mothers chest and
+AGNES: tower. agnes loves you.
+MARTHA: do you know a marie?
+AGNES: no... do you?
+MARTHA: why should i?
+AGNES: i don't know.
+
+MOTHER MIRIAM: well... what do you think? is she totally bananas or merely slightly off centre... or maybe she's perfectly sane and just a very good liar. 
+MARTHA: what's your opinion?
+MOTHER MIRIAM: i believe agnes is different.
+MARTHA: from other nuns... yes i... i've noticed.
+MOTHER MIRIAM: from other people! i believe she is not crazy, nor is she lying.
+MARTHA: how could she have a baby and know nothing of or birth?
+MOTHER MIRIAM: because she's an innocent. she's a slate that's hasn't been touched except by
+MARTHA: that's ridiculous...
+MOTHER MIRIAM: in her case it isn't. she's had very little schooling. her mother kept her home almost all the time and when her mother died agnes came here, to us. she's never been out there doctor. she's never seen a movie or a television show. she's never even read a book.
+MARTHA: if she's so innocent, how come she murdered a child?
+MOTHER MIRIAM: she didn't! this is manslaughter, not murder. she didn't consciously kill that baby. she'd lost a lot of blood. she was unconscious by the time we got to her.
+MARTHA: so, someone else could have done it.
+MOTHER MIRIAM: no... not in the eyes of the police.
+MARTHA: and in your eyes?
+MOTHER MIRIAM: i've already told you what i thought.
+MARTHA: that she was unconscious, yes! so someone easily could have come in the room and killed the...
+MOTHER MIRIAM: you don't really believe something like that happened do you?
+MARTHA: it's possible isn't it?
+MOTHER MIRIAM: who?
+MARTHA: one of the other nuns found out about the baby and... and wanted to avoid a scandal.
+
+MOTHER MIRIAM: that's absurd! 
+MARTHA: that possibility never occurred to you?
+MOTHER MIRIAM: no-one knew about agnes' pregnancy.
+
+HOUSEKEEPER: wipe your feet. 
+HOUSEKEEPER: pere martineau...
+
+FATHER MARTINEAU: they arise at five in the morning... and they're in bed by nine at night. even if a man could get to them, he would probably find them praying. that's why i see that the real question is not only how he got in, but when. 
+MARTHA: and you're the only man to see them?
+FATHER MARTINEAU: i promise you doctor, even if i had the inclination, how could i possibly catch her? she would have to be a very slow and patient nun. ah no... they're a very special and rare people those sisters. only a few of them left in this modern world, consecrated to the praise of
+
+MARTHA: hello, mama ... brought you something. 
+MAMA: shut up, i'm trying to watch this.
+MARTHA: it's your favourite...
+MAMA: who are you?
+MARTHA: it's martha, mama. there you go.
+MAMA: marie brings me icecream too you know. chocolate... my favourite.
+MARTHA: i thought cherry-vanilla was your favourite.
+MAMA: not any more... now i like chocolate.
+MARTHA: did you have a good week mama. are they treating you all right?
+MAMA: you know martha never comes to see me. you watch it, she's going straight to hell... after all the things she said to me. then she marries that son of a of a frenchman... has an abortion. i knew that one wouldn't work out. not like you marie. you got married to
+MARTHA: marie's dead mama.
+
+MAMA: i remember when you was a little girl marie. you come back from the movies and you'd say - mama that ending was so sad... and i'd tell you they had all the happy endings locked away in a vault in hollywood. and you believed me. 
+MARTHA: mama, that wasn't marie, that was me!
+MAMA: who are you?
+MARTHA: i... i'm martha, mama.
+
+SISTER ANNE: the convent was built for over fifty. not many of us left... just us and the chickens. 
+MARTHA: how do you survive?
+SISTER ANNE: oh, we own the land around here. but we rent it out. we keep a few acres for ourselves, some wheat, corn, some vegetables.
+MARTHA: well that's a lot of land. you must have help. do you have field hands that help you?
+SISTER ANNE: no. we work the land alone. no-one but sister marguerite and i are permitted contact with the public.
+MARTHA: sister anne, which was agnes' room?
+
+SISTER ANNE: oh that one there, in the corner. 
+MARTHA: the one up on the third floor?
+SISTER ANNE: yes.
+MARTHA: uh huh.
+
+MOTHER MIRIAM: this convent is locked solid. the only one that has a key is sister marguerite and she wouldn't let christ in after dark. 
+MARTHA: well, it's been known to happen in the day too. maybe agnes went to him.
+MOTHER MIRIAM: oh come on, you've talked to her. she doesn't even know how babies are born, let alone made.
+MARTHA: when did you first learn about her...
+MOTHER MIRIAM: shortly after she came to us.
+MARTHA: and you weren't shocked?
+MOTHER MIRIAM: i was appalled, just as you are now.
+MARTHA: and what happened?
+MOTHER MIRIAM: she stopped eating completely...
+
+MARTHA: this was before her pregnancy? 
+MOTHER MIRIAM: about two years before.
+MOTHER MIRIAM: agnes, it has come to my attention that you have stopped eating. why is this?
+AGNES: i've been commanded by
+MOTHER MIRIAM: he talked to you himself?
+AGNES: no.
+MOTHER MIRIAM: through someone else?
+AGNES: yes.
+MOTHER MIRIAM: who?
+AGNES: i can't say.
+MOTHER MIRIAM: why?
+AGNES: she'd punish me.
+MOTHER MIRIAM: one of the other sisters?
+AGNES: no.
+MOTHER MIRIAM: who?
+MOTHER MIRIAM: ... agnes look at me.
+AGNES: because i'm getting fat.
+MOTHER MIRIAM: oh, for heaven's sake.
+AGNES: i am, there's too much flesh on me.
+MOTHER MIRIAM: agnes...
+AGNES: i'm a blimp.
+MOTHER MIRIAM: why does it matter whether you're fat or not...
+AGNES: because...
+MOTHER MIRIAM: ... you needn't worry about being attractive here.
+AGNES: i do, i have to be attractive to
+MOTHER MIRIAM: he loves you the way you are.
+AGNES: no he doesn't. he hates fat people.
+MOTHER MIRIAM: who told you this?
+AGNES: it's a sin to be fat.
+MOTHER MIRIAM: why?
+AGNES: look at the statues, they're thin.
+MOTHER MIRIAM: agnes...
+AGNES: that's because they're suffering... suffering is beautiful, i want to be beautiful.
+
+MOTHER MIRIAM: who tells you these things? 
+AGNES: christ said it in the bible, he said - suffer the little children, i want to suffer like a little child.
+MOTHER MIRIAM: that's not what he meant.
+AGNES: i... i am a little child but my body keeps getting bigger and soon i... i won't be able to fit in, i... i won't be able to squeeze into heaven.
+MOTHER MIRIAM: agnes dear, heaven is not a place where...
+AGNES: no... i mean... i mean look at these.
+MOTHER MIRIAM: oh my dear child.
+AGNES: blew up the hindenburg. he'll blow me up, that's what she said...
+MOTHER MIRIAM: who?
+AGNES: mommy i'll get bigger and bigger every day and then i'll pop but... but if i stay little it won't happen.
+MOTHER MIRIAM: your mother tells you this?... agnes your mother is dead.
+AGNES: but she watches... she listens.
+MOTHER MIRIAM: nonsense, i'm your mother now and i want you to eat.
+AGNES: i'm not hungry.
+
+AGNES: no i don't... the host is enough. 
+MOTHER MIRIAM: my dear, i don't think a communion wafer has the recommended daily allowance of anything.
+AGNES: of
+MOTHER MIRIAM: yes, of
+AGNES: i'm being punished.
+MOTHER MIRIAM: why?
+AGNES: i don't know.
+MOTHER MIRIAM: dear jesus...
+AGNES: it started this morning and i can't get it to stop.
+MARTHA: why didn't you take her to a doctor?
+MOTHER MIRIAM: it was healed by the following morning and she started eating again...
+MARTHA: she had a... a hole in the palm of her hand! she could have bled to death.
+
+MARTHA: she has it now. 
+MOTHER MIRIAM: i know what you're thinking, she's a hysteric pure and simple.
+MARTHA: not simple, no.
+MOTHER MIRIAM: i saw it. clean through the palm of her hand. do you think hysteria could do that?
+MARTHA: it's being doing it for centuries. she's not unique, she's just another victim.
+MOTHER MIRIAM: victim. that's her innocence.
+MARTHA: and i intend to take her away from him. that's what you're afraid of isn't it?
+MOTHER MIRIAM: you bet i am.
+
+AGNES: last tuesday, i didn't eat all of my lima beans... hid them under my spoon. 
+FATHER MARTINEAU: yes...
+AGNES: i thought... thoughts... about...
+FATHER MARTINEAU: speak up, i can hardly hear you.
+AGNES: i thought ugly thoughts about sister marguerite.
+
+LEVEAU: would you tell me why the this is taking so long. 
+MARTHA: look there are a lot of unanswered questions here.
+LYON: martha, your job is to diagnose, not to heal and play detective. who do you think you are?
+MARTHA: i know my job. don't tell me my job lyon. my duty as a doctor is to...
+EVE: martha, you have to make a decision on her sanity as quickly as possible and not interfere with due process of law.
+MARTHA: no... no, excuse me eve. as quickly as i see fit.
+EVE: the longer you take to make a decision, the more difficult it will be for us.
+MARTHA: why?
+EVE: the bishop is breathing down our necks.
+MARTHA: and the sooner she goes to prison, the better off she'll be?
+
+MARTHA: i don't believe this. i don't believe this. 
+LYON: well the bishop will be very upset about this.
+MARTHA: i'm fighting for this woman's life, not some bishop.
+
+MARTHA: you liked sister paul? 
+AGNES: she was kind to me. she told me i was beautiful.
+MARTHA: what else did she tell you?
+AGNES: she said all of angels would want to sleep beside me if they could. i liked that.
+MARTHA: where's that?... i promise i won't tell, would you take me?
+MARTHA: so agnes takes her.
+
+MARTHA: sister paul was in her eighties? did she climb up here often? 
+AGNES: no, only when she felt like it. she brought me up here last winter and the next day she died.
+MARTHA: no wonder... wait... agnes... agnes how do you feel about babies?
+AGNES: oh, they frighten me, i'm afraid i'll drop them. they have a soft spot on their heads and if you drop them so they land on their heads they become stupid. i was dropped on my head, that's why i don't understand things.
+MARTHA: like what?
+AGNES: numbers... you can spend your whole life counting and never reach the end.
+MARTHA: i don't understand them either. do you suppose i was dropped on my head?
+AGNES: i hope not. it's a terrible thing to be dropped on your head.
+MARTHA: oh, i've got to give up smoking. agnes ... wait a minute... agnes slow down.
+
+AGNES: she said you could see the whole world from up here. but it looks much better far away than it looks close up. 
+MARTHA: beautiful...
+AGNES: and sometimes i get under here... it makes a wonderful sound.
+MARTHA: what happens if the bell rings and you're under there?
+AGNES: oh, it's even more wonderful then.
+MARTHA: it's like hiding from my mother when i was a little girl.
+AGNES: where did you go?
+MARTHA: oh, no place as wonderful as this. agnes... have you ever thought of leaving the convent for something else?
+AGNES: no. there is nothing else. just being here at night helps me sleep.
+MARTHA: you have trouble sleeping?
+AGNES: i get headaches. mommy did too... oh, but she wasn't stupid. she knew things that nobody else knew.
+MARTHA: what things?
+
+AGNES: she knew what was going to happen to me. that's why she hid me away. 
+MARTHA: how did she know that?
+AGNES: somebody told her.
+MARTHA: who?
+AGNES: i don't know.
+MARTHA: agnes...
+AGNES: you'll laugh.
+MARTHA: i promise i won't laugh. who told her?
+AGNES: an angel, when she was having one of her headaches.
+MARTHA: did your mother see angels often?
+AGNES: no.
+MARTHA: do you?
+AGNES: no.
+MARTHA: do you believe she really saw them?
+AGNES: no, but i can never tell her that.
+MARTHA: why not? mmm?
+AGNES: she'd get angry.
+
+MARTHA: agnes, did you love your mother? 
+AGNES: yes.
+MARTHA: did you ever want to be a mother yourself?
+AGNES: i could never be a mother.
+MARTHA: why not?
+AGNES: well i don't think i'm old enough and besides i don't want to have a baby.
+MARTHA: why not?
+AGNES: because i don't want one.
+MARTHA: if you did want one, how'd you go about getting one?
+AGNES: from someone who didn't want to have a baby.
+MARTHA: like you?
+AGNES: no, not like me!
+MARTHA: how would that person get one if they didn't want one?
+AGNES: a mistake...
+MARTHA: agnes, how did your mother get you?
+AGNES: a mistake... it was a mistake...
+
+AGNES: if you're trying to get me to say that she was a bad woman and hated me and didn't want me but that's not true, she was a good woman, a saint... 
+MARTHA: agnes, i don't believe you know nothing about sex...
+AGNES: i can't help it if i'm stupid.
+MARTHA: ... that you don't remember getting pregnant...
+AGNES: not my fault.
+MARTHA: ... and that you don't believe you carried a child.
+AGNES: i was a mistake.
+MARTHA: what the child?
+AGNES: everything... i don't have children.
+MARTHA: agnes...
+AGNES: don't touch me like that! you don't touch me like that, i know what you want from me, you want to take away. you should be ashamed, they should lock you up people like you.
+
+MOTHER MIRIAM: you hate us don't you? 
+MARTHA: what?
+MOTHER MIRIAM: nuns... you hate nuns.
+MARTHA: i hate ignorance and stupidity.
+MOTHER MIRIAM: the catholic church...
+MARTHA: i haven't said anything against the the catholic church.
+MOTHER MIRIAM: catholicism is not on trial here. i want you to deal with agnes without any religious prejudice or you turn this case over to someone else...
+MARTHA: how dare you tell me to run my affairs!
+MOTHER MIRIAM: it's my affair too.
+MARTHA: how dare you think i'm in a position to be pressured...
+MOTHER MIRIAM: i'm only interested...
+MARTHA: ... or bullied or what ever you're doing. who the do you think you are? you go around here expecting applause for the way you treated this child.
+MOTHER MIRIAM: she is not a child.
+MARTHA: and she has a right to know that there's a world out there filled with people who don't believe in
+MARTHA: ... and aren't any worse off than you mother. people who've gone through their entire lives without bending their knees once, to anybody. and people who fall in love and have babies and occas- sionally are very happy. she has a right to know that. but you and your... your order and your church have kept her ignorant...
+MOTHER MIRIAM: ???
+MARTHA: ??? ... virginity, right mother? poverty, chastity and ignorance is what you live by.
+MOTHER MIRIAM: i am not a virgin, doctor. i was married for twenty three years, two daughters. i even have grandchildren... surprised? it might please you to know that i was a failure as a wife and mother. my children won't even see me any more, that's their revenge. i think they tell their friends that i've passed on. and don't tell me i'm making up for past mistakes doctor freud.
+MARTHA: then help her.
+MOTHER MIRIAM: i am...
+MARTHA: no, you're shielding her. let her face the world.
+MOTHER MIRIAM: what good would it do. no matter what you decide it's either the... the prison or the nut house and the differences between them are pretty thin.
+MARTHA: there's another choice.
+MOTHER MIRIAM: what?
+MARTHA: aquittal.
+
+MOTHER MIRIAM: how? 
+MARTHA: innocence. legal innocence. i know the judge would be happy for any reason to throw this case out of court.
+MOTHER MIRIAM: all right, what do you need.
+MARTHA: answers.
+
+MARTHA: when would agnes have conceived the child? 
+MOTHER MIRIAM: oh, some time in january.
+MARTHA: do you remember anything unusual happening at the time?
+MOTHER MIRIAM: earthquakes?
+MARTHA: visitors to the convent.
+MOTHER MIRIAM: nothing.
+MARTHA: do you have a... a diary or a day book?
+MOTHER MIRIAM: yes.
+MARTHA: take at look at it.
+MOTHER MIRIAM: there's nothing here.
+
+MOTHER MIRIAM: oh, dear 
+MARTHA: what is it?
+MOTHER MIRIAM: the sheets...
+MARTHA: what sheets?
+MOTHER MIRIAM: oh, dear i should have guessed...
+
+MOTHER MIRIAM: ... i should have suspected something. 
+MOTHER MIRIAM: sister marguerite says you have been sleeping on a bare mattress sister.
+AGNES: yes mother.
+MOTHER MIRIAM: why?
+AGNES: in the medieval days the nuns and monks would sleep in their own coffins.
+MOTHER MIRIAM: we're not in the middle ages, sister.
+AGNES: it made them holy.
+MOTHER MIRIAM: it made them uncomfortable. and if
+MOTHER MIRIAM: they didn't sleep well i'm certain the next day they were cranky as mules. sister where are your sheets? do you really believe that sleeping on a bare mattress is the equivalent of sleeping in a coffin?
+AGNES: no.
+MOTHER MIRIAM: then tell me. where are your sheets?
+AGNES: i burnt them.
+MOTHER MIRIAM: why?
+AGNES: they were stained.
+MOTHER MIRIAM: how many times have i burned into your thick skull and the thick skull of your fellow novice, that menstruation is a perfectly natural process and nothing to be ashamed of.
+AGNES: yes, mother.
+MOTHER MIRIAM: say it! agnes and genevieve it is a perfectly natural process and nothing to be ashamed of.
+MOTHER MIRIAM: mean it!
+MOTHER MIRIAM: a few years ago one of the sisters came to me in tears, asking for comfort, comfort because she was too old to have any children. not that she wanted to, but once a month she had been reminded of that possibility.
+AGNES: it's not that... it's not that...
+
+MOTHER MIRIAM: what do you mean? 
+AGNES: it's not my time of month.
+MOTHER MIRIAM: should you see a doctor?
+AGNES: i don't know. i don't know what happened mother, i woke up... there was blood on the sheets, but i don't know what happened. i don't know what i did wrong, i don't know and i should be punished.
+MOTHER MIRIAM: for what?
+AGNES: i don't know... i don't know...
+MOTHER MIRIAM: that was the beginning, the night of the conception. that's why she burnt the sheets.
+
+MARTHA: when was that? 
+MOTHER MIRIAM: the twenty third of january. on that night one of our elder nuns passed away.
+MARTHA: sister paul?
+MOTHER MIRIAM: yes. i don't remember where agnes was. i was needed in the sick room.
+MOTHER MIRIAM: and dies.
+
+MARTHA: no. 
+MONSIGNOR: well you're probably right about that. it certainly can't help sister agnes to have this investigation continued for any length of time.
+MARTHA: why do you call it an investigation?
+MONSIGNOR: your mother was a resident of saint catherines home before you moved her.
+MARTHA: what does this have to do with..?
+MONSIGNOR: and you had a sister who died in the convent.
+MARTHA: who told you this?
+MONSIGNOR: do you still go to church?
+MARTHA: what business is it of yours..?
+MONSIGNOR: oh, we just wonder if you can be very objective about this case.
+MARTHA: look, father, ah... just because i don't subscribe to the... to the beliefs you subscribe to...
+MONSIGNOR: but what you believe makes no difference to us whatsoever doctor. but it does
+MONSIGNOR: make all the difference to agnes.
+MARTHA: i don't understand. are you expecting me to..?
+MONSIGNOR: well somone's got to suffer for this doctor. you've got to be merciful and quick. excuse me. martha stares at him as he walks away.
+
+MARTHA: agnes, i'm here because i want to help you. 
+AGNES: i'm not sick.
+MARTHA: but you're troubled... aren't you?
+AGNES: that's because you keep reminding me.
+MARTHA: and you're unhappy.
+AGNES: everyone's unhappy, you're unhappy aren't
+AGNES: you?
+MARTHA: agnes...
+AGNES: answer me! you never answer me.
+MARTHA: sometimes, yes.
+AGNES: only you think you're lucky because you didn't have a mother who said things to you and did things to you that maybe weren't always nice but that was because of me, because i was bad, not her.
+MARTHA: what did you do?
+AGNES: i'm always bad.
+MARTHA: what did you do?
+AGNES: i breathed!
+MARTHA: agnes. what did your mother do to you? if you can't answer me, just shake your head yes or no. did... did she hit you? did she make you do something you didn't want to? did it make you feel uncomfortable to do it? did it embarrass you? did it... did it hurt you? what did she make you you do?
+AGNES: no...
+
+MARTHA: you can tell me. 
+AGNES: i can't.
+MARTHA: she's dead isn't she?
+AGNES: yes.
+MARTHA: she can't hurt you any more.
+AGNES: she can.
+MARTHA: how?
+AGNES: she watches... she listens.
+MARTHA: agnes, i don't believe that. tell me.
+AGNES: she...
+MARTHA: yes?
+AGNES: ... makes me...
+MARTHA: yes?
+AGNES: ... take off my clothes and then...
+MARTHA: she tells you you're ugly?
+AGNES: yes.
+MARTHA: and that you're stupid?
+AGNES: yes.
+MARTHA: that you're a mistake?
+
+AGNES: she says my whole body's a mistake. 
+MARTHA: why?
+AGNES: because she says if i don't watch out i'll have a baby.
+MARTHA: how does she know that?
+AGNES: her headaches.
+MARTHA: oh, yes.
+AGNES: and then...
+MARTHA: what?
+AGNES: she touches me down there with a cigarette. please mommy, don't touch me like that any more. i'll be good, i won't be a baby any more.
+MARTHA: agnes, oh agnes, agnes i want you to do something. i want you to pretend that i'm your mother. oh yes, only this time i want you to tell me what you're feeling, alright?
+AGNES: i'm afraid.
+MARTHA: please! i want to help you. let me help you.
+AGNES: alright.
+MARTHA: agnes, you're ugly!... what do you say? of course you do. agnes, you're ugly!...
+AGNES: no i'm not.
+
+MARTHA: are you pretty? 
+AGNES: yes.
+MARTHA: agnes, you're stupid.
+AGNES: no i'm not.
+MARTHA: are you intelligent?
+AGNES: yes i am.
+MARTHA: you're a mistake.
+AGNES: i'm not mistake, i'm here aren't i. how can i be a mistake if i'm really here. doesn't make mistakes, you're a mistake...
+MARTHA: oh agnes, oh agnes, it's alright, it's alright, it's alright, it's alright, i love you.
+AGNES: do you really love me or are you just saying that?
+MARTHA: i really love you.
+AGNES: as much as mother miriam does?
+MARTHA: as much as loves you.
+
+MARTHA: what? 
+ELDERLY NUN: look into the convent records.
+MARTHA: sister...
+
+MARTHA: thank you. 
+MARTHA: you lied to me
+
+MARTHA: your niece! 
+MOTHER MIRIAM: i didn't tell you because i didn't think it was important.
+MARTHA: no, it just makes you doubly responsible doesn't it?
+MOTHER MIRIAM: i never saw agnes until she set foot in this convent. my sister ran away from home. we lost touch with her. and when my husband died and i came here, she wrote to me and asked me if i would take care of agnes in case anything happened.
+MARTHA: and agnes' father?
+MOTHER MIRIAM: it could have been any one of a dozen men from what my sister told me.
+
+MARTHA: like keeping her home from school? 
+MOTHER MIRIAM: yes.
+MARTHA: listening to angels?
+MOTHER MIRIAM: she drank too much. that's what killed her.
+MARTHA: do you know what she did to her?
+
+MOTHER MIRIAM: i don't think i care to know. 
+MARTHA: she molested her!
+MOTHER MIRIAM: oh, dear
+MARTHA: there is more here than meets the eye isn't there? lots of dirty little secrets.
+MOTHER MIRIAM: oh if only i'd known.
+MARTHA: why didn't you? you knew she was keeping her home from school. you knew she was an alcoholic.
+MOTHER MIRIAM: i knew that after the fact.
+MARTHA: why didn't you do anything to stop her?
+MOTHER MIRIAM: because i didn't know...
+MARTHA: oh,
+
+MARTHA: larry... 
+LARRY: marty, what are you doing here?
+MARTHA: larry there's got to be something missing.
+LARRY: i gave you the pictures marty, what else do you want?
+
+LARRY: what? you think that the girl is innocent? 
+MARTHA: i don't know.
+LARRY: you got to be crazy.
+MARTHA: larry...
+LARRY: what's the matter with you, you've seen the reports. it's a cut and dried case.
+MARTHA: maybe there's something that's not in the report that should be.
+LARRY: you're too involved marty. look at you. why don't you turn this case over to someone else?
+MARTHA: thanks.
+LARRY: if i find anything i'll call you.
+
+SECRETARY: hi marty, it's helen. mrs davenport 
+SECRETARY: called and was very upset that you'd missed her appointment. she wants you to call her at home, oh and a couple of reporters have been trying to get a hold of you about sister agnes. they seem persistent and they may try to reach you at home. i didn't give them number.
+REPORTER: hallo, doctor livingston. my name is . i'm doing a sunday article on sister agnes for the gazette. i would appreciate it if you would give me a phone call on 942-2424.
+LARRY: hi marty, it's me. listen i just talked with detective crawley who was at the convent. she said that there was one thing that bothered her that didn't make it into the report. the waste paper basket. the one in agnes' room. none of the other nuns had one. bye.
+LARRY: ... her that didn't make it into the report. the waste paper basket. the one in agnes' room. none of the other nuns had one. bye.
+
+MARTHA: i've gotten the court's permission to hypnotise her. 
+MOTHER MIRIAM: and my permission?
+MARTHA: i'd like yours too.
+MOTHER MIRIAM: we'll see about that.
+MARTHA: don't deny it!
+MOTHER MIRIAM: i haven't decided yet.
+MARTHA: the woman's health is at stake.
+MOTHER MIRIAM: her spiritual health.
+MARTHA: i don't give a about her spiritual health.
+MOTHER MIRIAM: i know you don't.
+MARTHA: sentence her and be done with it, that's what you're saying and i...
+MOTHER MIRIAM: i am saying a beautifully simple woman...
+MARTHA: an unhappy woman...
+MOTHER MIRIAM: she's happy with us and she could go on being happy if she was left alone.
+
+MARTHA: then why did you call the police in the first place mother, huh? martha why didn't you just throw the baby into the incinerator and be done with it. 
+MOTHER MIRIAM: because i am a moral person.
+MARTHA: 
+MOTHER MIRIAM: yourself!
+MARTHA: catholic church doesn't have a corner on morality...
+MOTHER MIRIAM: who said anything about the catholic church...
+MARTHA: you just said...
+MOTHER MIRIAM: what the has the catholic church got to do with you?
+MARTHA: nothing...
+MOTHER MIRIAM: what have we done to hurt you? and don't deny it, i can smell an ex-catholic a mile away. what did we do? burn a few heretics, sell some indulgences? that was in the days when the church was a ruling body. we let governments do those things today. so what did we do to you eh? you wanted to neck in the back seat of a car when you were fifteen and you couldn't because it was a sin?
+MARTHA: it wasn't sex. it was a lot of things, but it wasn't sex. you know when i was in the first grade my best friend was run
+
+MOTHER MIRIAM: stupid woman... and that's all? 
+MARTHA: that's all? that's enough! she was a beautiful little girl.
+MOTHER MIRIAM: and what has that to do with it?
+MARTHA: i wasn't. i wasn't. she was the pretty one. she died, why not me? i never said my morning prayers. and i was ugly, i was scrawny, i had buck teeth and freckles all over my face, do you know what the nun called me, sister mary clitus, called me polkadot livingston.
+MOTHER MIRIAM: so you left the church because you had freckles?
+MARTHA: no, because i... yeah, yeah i left the church cause i had freckles.
+
+MARTHA: my sister died in a convent. and it's her voice i hear. does my smoking bother you? 
+MOTHER MIRIAM: no, it reminds me.
+MARTHA: would you like one? huh?
+MOTHER MIRIAM: i'd love one.
+MOTHER MIRIAM: i'm out of prac... ... practice.
+MARTHA: all right?
+MOTHER MIRIAM: fine thanks...
+MARTHA: do you suppose the saints would have smoked if tobacco had been popular back then?
+MOTHER MIRIAM: undoubtedly. not the ascetics of course but, well saint thomas more...
+MARTHA: long, thin and filtered.
+MOTHER MIRIAM: saint ignatius would smoke cigars and stub them out on the soles of his bare feet. and of course
+MARTHA: hand rolled.
+
+MOTHER MIRIAM: even christ would partake socially. 
+MARTHA: saint peter?
+MOTHER MIRIAM: pipe!
+MARTHA: right...
+MOTHER MIRIAM: mary magdelen?
+MARTHA: oh, you've come a long way baby.
+MOTHER MIRIAM: and saint john would chew tobacco.
+MARTHA: right. what do you suppose today's saints are smoking?
+MOTHER MIRIAM: there are no saints today. good people yes, but extraordinarily good people...
+MARTHA: do you think they ever existed?
+MOTHER MIRIAM: yes i do.
+MARTHA: do you want to become one?
+MOTHER MIRIAM: become? one is born a saint.
+MARTHA: well you can try, can't you, to be good?
+MOTHER MIRIAM: yes, but goodness has very little to do with it. not all the saints were good, in fact some of them were a little crazy. but... they were still attached to agnes has that birth.
+MOTHER MIRIAM: no more... we're born, we live, we die. no room for miracles. oh my dear, how i miss the miracles.
+MARTHA: do you think agnes is still attached to god?
+MOTHER MIRIAM: listen to her singing.
+MARTHA: i'd like to begin.
+MOTHER MIRIAM: begin what?
+MARTHA: the hypnotism. do you still disapprove?
+MOTHER MIRIAM: would it stop you if i did?
+MARTHA: no.
+MOTHER MIRIAM: may i be present?
+MARTHA: of course.
+MOTHER MIRIAM: then let's begin.
+
+AGNES: yes. 
+MARTHA: who am i?
+AGNES: doctor livingston.
+MARTHA: and why am i here?
+AGNES: to help me.
+MARTHA: good. would you like to tell me why you're here?
+AGNES: because i'm in trouble.
+MARTHA: what kind of trouble? what kind of trouble agnes?
+AGNES: i'm frightened.
+MARTHA: of what?
+AGNES: of telling you.
+MARTHA: but it's easy. it's just a breath with sound. say it. what kind of trouble?
+AGNES: i had a baby.
+MARTHA: how did you have a baby?
+AGNES: it came out of me.
+MARTHA: did you know what was going to come
+MARTHA: out?
+AGNES: yes.
+MARTHA: did you want it to come out?
+AGNES: no.
+MARTHA: why?
+AGNES: because i was afraid.
+MARTHA: why were you afraid?
+AGNES: because i wasn't worthy.
+MARTHA: to be a mother?
+AGNES: yes.
+MARTHA: why?
+AGNES: may i open my eyes now?
+MARTHA: no not yet agnes, very soon but not yet. how did the baby get into you?
+AGNES: it grew.
+MARTHA: what made it grow? do you know?
+AGNES: yes.
+MARTHA: would you like to tell me?
+AGNES: no.
+MARTHA: did anyone else know about the baby?
+
+MARTHA: will she be angry? 
+AGNES: she made me promise not to.
+MARTHA: who? who made you promise? it's alright agnes. it's alright. let's go to your room. it's the night about six weeks ago when you were very sick.
+AGNES: i'm afraid.
+MARTHA: oh don't be, i'm here. it's alright. i want you to tell me what you did before you went to bed.
+AGNES: i ate.
+MARTHA: hm hmm. what did you have for dinner?
+AGNES: fish... ... brussel sprouts.
+MARTHA: you don't like brussel sprouts?
+AGNES: i hate them.
+MARTHA: and then what happened?
+AGNES: we went to chapel for vespers.
+MARTHA: hm hmm.
+AGNES: i left early because i wasn't feeling very well.
+AGNES: suddenly agnes leaps up from her chair.
+MARTHA: what is it?
+AGNES: someone's following me.
+MARTHA: who?
+AGNES: sister marguerite i think.
+MARTHA: was it sister marguerite who knew about the baby? alright agnes, i want you to see your room as you saw it on that night. martha open your eyes. what do you see?
+AGNES: my bed.
+MARTHA: what else?
+AGNES: a crucifix.
+MARTHA: above the bed? any... anything else? what do you you see, something different? what is it?
+AGNES: a wastepaper basket.
+MARTHA: do you know who put it there?
+AGNES: no.
+MARTHA: what do you think it's there for?
+AGNES: for me to get sick in.
+MARTHA: are you ill?
+
+AGNES: yes. 
+MARTHA: what do you feel?
+AGNES: i feel as if i've eaten glass.
+MARTHA: what do you do?
+AGNES: i have to throw up...
+MARTHA: which one?
+AGNES: i don't know which one
+MARTHA: of what?
+AGNES: of me. oh... my water... it's all water...
+MARTHA: why isn't anyone coming?
+AGNES: they can't hear me that's why. oh i don't wanna...
+MOTHER MIRIAM: stop her!
+MARTHA: what is it?
+
+AGNES: please get away from me... 
+MARTHA: who?
+AGNES: go away, i don't want you here.
+MARTHA: is someone in the room with you?
+AGNES: no... don't hit me please...
+MOTHER MIRIAM: stop this, she'll hurt herself i'm not going to allow this.
+MARTHA: no... no... i said leave her alone.
+AGNES: you're trying to take my baby... trying to take my baby... no... it wasn't my fault mommy... it was a mistake mommy.
+MARTHA: alright agnes... it's alright. one, two three... it's alright... it's me, doctor livingston, it's alright, alright. thankyou agnes, thankyou. how do you feel?
+AGNES: frightened.
+MARTHA: do you remember what just happened?
+AGNES: yes.
+MARTHA: that's good. do you feel well enough to stand?
+
+MAN: oh... very interesting i guess... excuse me... 
+MAN: ... like that one.
+MARTHA: that's how he got in... or she got out.
+MAN: oh excuse me, what did you say?
+MARTHA: nothing. may i take some notes?
+MAN: oh yes, martha starts drawing a rough plan.
+
+MOTHER MIRIAM: is the doctor in her office? 
+HELEN: ah, who shall i say is calling?
+MOTHER MIRIAM: general macarthur.
+HELEN: just a minute please, you can't go in there.
+MOTHER MIRIAM: i've just met with the bishop. we're taking you off the case.
+MARTHA: you're what?
+MOTHER MIRIAM: if we want to hire a psychiatrist for agnes. we'll find our own, thank you.
+MARTHA: one that will ask the questions you want asked.
+
+MOTHER MIRIAM: one that will approach this matter with some objectivity and respect. 
+MARTHA: for the church?
+MOTHER MIRIAM: for agnes.
+MARTHA: you think she's a saint?
+MOTHER MIRIAM: she's been touched by yes.
+MARTHA: how? how? she hallucinates, stops eating and bleeds spontaneously. is that supposed to convince me she shouldn't be touched. give me a miracle.
+MOTHER MIRIAM: the father!
+MARTHA: who is he?
+MOTHER MIRIAM: why must he be anybody?
+MARTHA: my you're as crazy as...
+MOTHER MIRIAM: stop laughing, i don't say it's the truth, i'm saying...
+MARTHA: how ?
+MOTHER MIRIAM: don't be ridiculous.
+MARTHA: well give me a reasonable explanation
+MOTHER MIRIAM: a miracle is an event without an explanation. if she's capable of putting a hole in her hand without benefit of a nail, why couldn't she split a cell in her womb?
+MARTHA: this is insane.
+
+MOTHER MIRIAM: there as no man in the convent on that night and no way for any man to get in or out. 
+MARTHA: you're saying did it?
+MOTHER MIRIAM: no, that's as much as saying father martineau did it. i'm saying permitted it.
+MARTHA: but how did it happen?
+MOTHER MIRIAM: you'll never find the answer for everything did.
+MARTHA: i thought you didn't believe in miracles today mother?
+MOTHER MIRIAM: but i want the opportunity to believe.
+MARTHA: but what you are choosing to believe is a lie because you won't face the fact that she was raped... or seduced...
+MOTHER MIRIAM: she is an innocent.
+MARTHA: but she is not an enigma mother. everything that agnes has done is explainable from modern psychiatry.
+MOTHER MIRIAM: that's what you believe she is? the sum of her psychological parts?
+MARTHA: that's what i have to believe...
+MOTHER MIRIAM: then why are you so obsessed with her? you're losing sleep over her? you're thinking about her all the time.
+MOTHER MIRIAM: martha has no answer. mother miriam i'm not accusing. i'm recognizing.
+MARTHA: there's a tunnel out of the crypt into the barn. did you know about that? there's an answer mother. that's how she got out.
+MOTHER MIRIAM: that's crazy. how could she find out about it?
+MARTHA: somebody told her.
+MOTHER MIRIAM: who? that tun... that tunnel hasn't been used in fifty years.
+MARTHA: oh, would you stop lying mother!
+MOTHER MIRIAM: why would i lie?
+MARTHA: because it's murder we're talking about. aren't you concerned about what she told us about the other person in her room.
+MOTHER MIRIAM: i'm concerned about her health.
+MARTHA: who was that person mother? was it you?
+MOTHER MIRIAM: if you believe this is murder, it is the crown attorney you have to talk to, not me. and definitely not agnes. she goes out and slams the door.
+
+MARTHA: all i want is one more week. 
+LEVEAU: why? you've done nothing to show any progress.
+MARTHA: yes, that's because i'm getting to her.
+LEVEAU: you're getting to all of us martha, let's face it.
+MARTHA: i'll have a decision by next week.
+LEVEAU: it's gone on long enough. you're out.
+MARTHA: oh joe... joe she didn't kill the baby.
+LEVEAU: you have proof?
+MARTHA: i'll have it.
+LEVEAU: when?
+MARTHA: next week.
+LEVEAU: no, no, no...
+
+LEVEAU: no! 
+MARTHA: tomorrow... tomorrow, i'll get it by tomorrow. i will.
+LEVEAU: yes, demain
+
+MOTHER MIRIAM: this is permission to take her apart. 
+MARTHA: where is she?
+MOTHER MIRIAM: hasn't she had enough?
+
+MARTHA: i have a few more questions to ask her. 
+MOTHER MIRIAM: my but you're determined.
+MARTHA: who knew she was pregnant?
+MOTHER MIRIAM: why do you insist upon pressing...
+MARTHA: was it you?
+MOTHER MIRIAM: is it because she's a nun?
+MARTHA: did you know she was pregnant?
+MOTHER MIRIAM: yes.
+MARTHA: and you didn't send her to a doctor.
+MOTHER MIRIAM: i didn't guess until it was too late.
+MARTHA: for what? an abortion?
+MOTHER MIRIAM: oh, don't be ridiculous.
+MARTHA: too late for what?
+MOTHER MIRIAM: i don't know... too late to stop it.
+MARTHA: the baby?
+MOTHER MIRIAM: the scandal...
+MARTHA: you went to the room to help with the birth.
+MOTHER MIRIAM: she didn't want any help.
+
+MOTHER MIRIAM: that's a lie. 
+MARTHA: you hid the wastepaper basket in her room.
+MOTHER MIRIAM: i didn't hide it. i put it there for the blood and the dirty sheets.
+MARTHA: and the baby.
+MOTHER MIRIAM: no!
+MARTHA: you tied the cord around its neck.
+MOTHER MIRIAM: i wanted her to have it when no-one else was around, they would have taken the baby to a hospital and left it with them, but it was such a difficult birth, there was so much blood and i panicked.
+MARTHA: before or after you killed the child?
+MOTHER MIRIAM: i left it with her and i went for help.
+MARTHA: i doubt that's what she'd say.
+MOTHER MIRIAM: then she's a liar.
+
+MARTHA: agnes, can you hear me? 
+AGNES: yes.
+MARTHA: i want you to remember if you can a night last january. the night sister paul died. do you remember.
+
+AGNES: she said michael. 
+MARTHA: what did she mean?
+AGNES: the statue. she had shown it to me the day before.
+MARTHA: and the passage to the barn?
+AGNES: yes.
+MARTHA: why?
+AGNES: so i could go to him.
+MARTHA: who?
+AGNES: him.
+MARTHA: how did she know about him?
+AGNES: she'd seen him too.
+MARTHA: where?
+AGNES: from the belltower the day she before she died.
+MARTHA: so she sent you?
+AGNES: yes.
+
+AGNES: he's here. 
+MARTHA: are you frightened?
+AGNES: yes.
+
+AGNES: hallo... 
+AGNES: ... where are you?
+
+AGNES: is it you? 
+MARTHA: what do you see?
+AGNES: halos...
+
+AGNES: his blood... my martha and mother miriam are equally shocked. 
+MARTHA: oh agnes...
+MARTHA: white habit. mother miriam rushes after her.
+AGNES: it's bleeding... i'm bleeding... my it won't stop, i can't get it to stop. let go of me, i wish you were dead.
+MARTHA: agnes... agnes...
+AGNES: stay away from me...
+MARTHA: agnes it had nothing to do with the hand of he did a terrible thing to you, do you understand?
+AGNES: no...
+MARTHA: he frightened you and he hurt you. it's not your fault. it's his fault. tell us who he is so we can find him. stop him from doing this to other women.
+AGNES: not your fault...
+MARTHA: agnes who did you see?
+AGNES: i hate him...
+MARTHA: of course you do. who was it?
+AGNES: i hate him for what he did to me.
+MARTHA: yes.
+AGNES: for what he made me go through.
+MARTHA: who?
+
+AGNES: i hate him. 
+MARTHA: agnes, who did this to you?
+AGNES: it was and now i'll burn in because i hate him.
+MARTHA: agnes you won't burn in hell. it's alright to hate him.
+MOTHER MIRIAM: that's enough.
+MARTHA: agnes, what happened to the baby?
+MOTHER MIRIAM: she can't remember.
+MARTHA: what happened to the baby?
+AGNES: it was dead.
+MARTHA: it was alive wasn't it?
+AGNES: i don't remember.
+MOTHER MIRIAM: oh, don't do this!
+MARTHA: wasn't it!
+
+MARTHA: she took the baby in her arms? 
+AGNES: yes.
+MARTHA: you saw it all didn't you?
+AGNES: yes.
+MARTHA: and then... what did she do? agnes what did she do?
+AGNES: she... left me alone with that little thing, and i looked at it, and i thought this is a mistake. but it's my mistake, not mommy's. mistake. agnes i thought i... i can save her. i can give her back to
+MARTHA: what did you do?
+AGNES: i put her to sleep.
+MARTHA: h... how?
+AGNES: i tied the cord around her neck... wrapped her in the sheets... and stuffed her in the trash can.
+
+LEVEAU: in view of the situation as it now stands, and the testimony given here this morning, it seems quite clear that the defendant was in no manner responsible for her actions. it is therefore the judgement of this court that she be returned to the convent of marie madeleine where she will be cared for under proper medical supervision by a visiting physician. 
+AGNES: i stood in the window of my room every night for a week. and one night i heard the most beautiful voice imaginable. and when i looked i saw the moon shining down on him. for six nights he sang to me, songs i'd never heard. and on the seventh night he opened his wings and lay on top of me. all the while he sang - charlie sweet... charlie sweet...
+LEVEAU: please, remove her from the court.
+LEVEAU: would someone please remove the defendant from the courtroom.
+
+MARTHA: i don't know the meaning behind the song she sang. perhaps it was a song of seduction. and the father was a fieldhand. perhaps the song was simply a lullaby that she remembered from many years ago. and the father was hope and... and love and desire. and a belief in miracles. 
+MARTHA: i want to believe that she was blessed. and i do miss her, and i hope that she's left something, some little part of herself with me. that would be miracle enough wouldn't it?
 

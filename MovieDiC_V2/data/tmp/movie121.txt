@@ -1,649 +1,649 @@
-speaker1: thanks for the horse. 
-speaker2: you liked him?
-speaker1: he's beautiful...
-speaker1: but i thought we were going sailing.
-speaker1: you promised.
-speaker1: we can't fit into that!
-speaker1: that'll do.
-speaker1: come on, mister e.
-speaker1: what now?
-speaker2: 's broken.
-speaker1: who says?
-speaker2: mocky-lock.
-speaker1: oh no... no you don't.
-speaker2: "mocky-lock is the bogeyman. mocky-lock wants me where i am."
-speaker1: i bet we can fix it.
-speaker1: ed-ward...
-speaker1: we agreed. no more mocky-lock. the creature sticks its tongue out and dives.
-speaker1: edward!
+CATHERINE: thanks for the horse. 
+EDWARD: you liked him?
+CATHERINE: he's beautiful...
+CATHERINE: but i thought we were going sailing.
+CATHERINE: you promised.
+CATHERINE: we can't fit into that!
+CATHERINE: that'll do.
+CATHERINE: come on, mister e.
+CATHERINE: what now?
+EDWARD: 's broken.
+CATHERINE: who says?
+EDWARD: mocky-lock.
+CATHERINE: oh no... no you don't.
+EDWARD: "mocky-lock is the bogeyman. mocky-lock wants me where i am."
+CATHERINE: i bet we can fix it.
+CATHERINE: ed-ward...
+CATHERINE: we agreed. no more mocky-lock. the creature sticks its tongue out and dives.
+CATHERINE: edward!
 
-speaker1: sing a song of sixpence... 
-speaker1: sing a song of sixpence...
-speaker2: a pocketful of rye...
-speaker1: four-and-twenty blackbirds.
-speaker2: baked in a pie...
-speaker3: "mister e." is doing fine.
-speaker1: did we go sailing?
-speaker2: almost. mocky-lock showed up.
-speaker1: "mocky-lock is the bogeyman, mocky-lock wants me where i am."
-speaker2: mocky-lock is a pain in the ass.
-speaker3: where did that come from again?
-speaker2: a nursery rhyme.
-speaker3: anybody hungry? i'm hungry...
-speaker4: edward's parents are here.
+MIRIAM: sing a song of sixpence... 
+MIRIAM: sing a song of sixpence...
+CATHERINE: a pocketful of rye...
+MIRIAM: four-and-twenty blackbirds.
+CATHERINE: baked in a pie...
+HENRY: "mister e." is doing fine.
+MIRIAM: did we go sailing?
+CATHERINE: almost. mocky-lock showed up.
+MIRIAM: "mocky-lock is the bogeyman, mocky-lock wants me where i am."
+CATHERINE: mocky-lock is a pain in the ass.
+HENRY: where did that come from again?
+CATHERINE: a nursery rhyme.
+HENRY: anybody hungry? i'm hungry...
+COOPERMAN: edward's parents are here.
 
-speaker1: he needs a haircut. 
-speaker2: i'll tell the nurse. he loves when you visit.
-speaker1: my husband wonders if that's true. he wants to place edward in a hospital.
-speaker3: there are other applications for the scanner, mr. baines...
-speaker4: i realize that, henry... and i know your work, dr. kent, is invaluable to this company...
-speaker2: you don't know about me, though, do you?
-speaker4: catherine, we've waited eighteen months for signs of progress...
-speaker2: there's been progress.
-speaker4: yes, but there is no proof the procedure works. all i have is a belief that your interaction with my son is not a hallucination.
-speaker2: you picked me, remember? and i took the job. gladly. this is the next wave and i want to be part of it...
-speaker5: no one is doubting your ability.
-speaker2: then what is it?
-speaker4: i've invested millions of dollars in this study... and i've convinced others to do the same. i suppose i should feel responsible to them, but i don't. i could care less if they see a profit. i'm responsible to my boy, that's all that matters. you tell me... am i doing the right thing?
+ELLA: he needs a haircut. 
+CATHERINE: i'll tell the nurse. he loves when you visit.
+ELLA: my husband wonders if that's true. he wants to place edward in a hospital.
+HENRY: there are other applications for the scanner, mr. baines...
+LUCIEN: i realize that, henry... and i know your work, dr. kent, is invaluable to this company...
+CATHERINE: you don't know about me, though, do you?
+LUCIEN: catherine, we've waited eighteen months for signs of progress...
+CATHERINE: there's been progress.
+LUCIEN: yes, but there is no proof the procedure works. all i have is a belief that your interaction with my son is not a hallucination.
+CATHERINE: you picked me, remember? and i took the job. gladly. this is the next wave and i want to be part of it...
+COOPERMAN: no one is doubting your ability.
+CATHERINE: then what is it?
+LUCIEN: i've invested millions of dollars in this study... and i've convinced others to do the same. i suppose i should feel responsible to them, but i don't. i could care less if they see a profit. i'm responsible to my boy, that's all that matters. you tell me... am i doing the right thing?
 
-speaker1: you okay? 
-speaker2: he hates me.
-speaker1: lucien baines?
-speaker1: i wouldn't say "hates." dislikes, distrusts, maybe. catherine laughs. exactly what miriam wanted.
-speaker1: she adores you.
-speaker2: she thinks i can bring edward back.
-speaker1: someday you can. we all believe that...
-speaker2: i want to try it. please.
-speaker1: we've been over this a dozen times. no.
-speaker2: why not? just once. a trial run. what harm could it do?
-speaker1: i don't want to find out.
-speaker2: why is it taking so long for us to reach him? because we've been reactive, that's why. and we need to be active.
-speaker2: miriam...
-speaker1: shush.
-speaker2: he creates the obstacles, he decides which games to play.
-speaker1: i've heard this argument before. it's not happening.
-speaker2: it could take years for me to get past the barriers he's created.
-speaker1: if we reverse the feed and bring edward into your mind, it could be devastating for him. imagine the shock of suddenly existing in a whole other world.
-speaker2: i do it all the time!
-speaker1: yes, but, you're a willing participant. picture edward in a strange place, lost, frightened...
-speaker2: i'd be there for him.
-speaker1: and he might blame you for terrifying him. that one moment could erase all you've accomplished. and if that happened, the trust he has in you is gone.
-speaker2: okay, okay...
-speaker1: besides, i don't know what it might do to you. you're already exhausted. have you been sleeping?
-speaker1: i can prescribe something...
-speaker1: you're sure? any more nightmares?
-speaker2: no.
-speaker1: good. we need you healthy and relaxed. you're going to eat well, meditate, exercise, and watch mindless television.
-speaker2: yes mother.
-speaker1: i don't want you up all night reading edward's case file of the nine millionth time. balance, dear girl, is the key. leave the work here.
-speaker1: don't bring it home in this.
-speaker2: okay.
-speaker1: henry wants me to try this vietnamese place he's wild about. want to come?
-speaker2: i've got to feed my cat. besides, i want to get to bed early.
-speaker1: that's my girl.
+MIRIAM: you okay? 
+CATHERINE: he hates me.
+MIRIAM: lucien baines?
+MIRIAM: i wouldn't say "hates." dislikes, distrusts, maybe. catherine laughs. exactly what miriam wanted.
+MIRIAM: she adores you.
+CATHERINE: she thinks i can bring edward back.
+MIRIAM: someday you can. we all believe that...
+CATHERINE: i want to try it. please.
+MIRIAM: we've been over this a dozen times. no.
+CATHERINE: why not? just once. a trial run. what harm could it do?
+MIRIAM: i don't want to find out.
+CATHERINE: why is it taking so long for us to reach him? because we've been reactive, that's why. and we need to be active.
+CATHERINE: miriam...
+MIRIAM: shush.
+CATHERINE: he creates the obstacles, he decides which games to play.
+MIRIAM: i've heard this argument before. it's not happening.
+CATHERINE: it could take years for me to get past the barriers he's created.
+MIRIAM: if we reverse the feed and bring edward into your mind, it could be devastating for him. imagine the shock of suddenly existing in a whole other world.
+CATHERINE: i do it all the time!
+MIRIAM: yes, but, you're a willing participant. picture edward in a strange place, lost, frightened...
+CATHERINE: i'd be there for him.
+MIRIAM: and he might blame you for terrifying him. that one moment could erase all you've accomplished. and if that happened, the trust he has in you is gone.
+CATHERINE: okay, okay...
+MIRIAM: besides, i don't know what it might do to you. you're already exhausted. have you been sleeping?
+MIRIAM: i can prescribe something...
+MIRIAM: you're sure? any more nightmares?
+CATHERINE: no.
+MIRIAM: good. we need you healthy and relaxed. you're going to eat well, meditate, exercise, and watch mindless television.
+CATHERINE: yes mother.
+MIRIAM: i don't want you up all night reading edward's case file of the nine millionth time. balance, dear girl, is the key. leave the work here.
+MIRIAM: don't bring it home in this.
+CATHERINE: okay.
+MIRIAM: henry wants me to try this vietnamese place he's wild about. want to come?
+CATHERINE: i've got to feed my cat. besides, i want to get to bed early.
+MIRIAM: that's my girl.
 
-speaker1: who found her? 
-speaker2: surveyor for the railroad... 'bout six this morning.
-speaker3: thanks for waiting, teddy.
-speaker4: bleach.
-speaker3: anne marie vicksey.
-speaker2: she the one from santa cruz?
-speaker3: just graduated law school. single mom. had a two-year-old daughter.
-speaker3: the on her legs and abdomen.
-speaker4: someone looking after her little girl?
-speaker3: grandparents. live over in davis.
-speaker4: the poor thing.
+RAMSEY: who found her? 
+COLE: surveyor for the railroad... 'bout six this morning.
+NOVAK: thanks for waiting, teddy.
+TEDDY LEE: bleach.
+NOVAK: anne marie vicksey.
+COLE: she the one from santa cruz?
+NOVAK: just graduated law school. single mom. had a two-year-old daughter.
+NOVAK: the on her legs and abdomen.
+TEDDY LEE: someone looking after her little girl?
+NOVAK: grandparents. live over in davis.
+TEDDY LEE: the poor thing.
 
-speaker1: ...complaining about government subsidies for farmers... 
-speaker1: ...but without subsidies, families will starve, and i'm nodd exagggeerrrrr....ayding. iff id werrrr up tooooo meeeee.....
-speaker1: meeeee gawwwwwdd caaaarrrrlll. mee cum... meeeee....wwuuuuuddunnnnttttt... be spending billions on other countries when we've got problems right here.
+TALK RADIO HOST: ...complaining about government subsidies for farmers... 
+TALK RADIO HOST: ...but without subsidies, families will starve, and i'm nodd exagggeerrrrr....ayding. iff id werrrr up tooooo meeeee.....
+TALK RADIO HOST: meeeee gawwwwwdd caaaarrrrlll. mee cum... meeeee....wwuuuuuddunnnnttttt... be spending billions on other countries when we've got problems right here.
 
-speaker1: well, honey, what's worse? doing it yourself or asking your mother for help? can it wait 'til i get back/ i have no idea, jeannie. 
-speaker1: well all right. good luck with the monster. i love you too. bye-bye.
-speaker1: we call jeannie's mother "the monster" because, well... she just is.
-speaker1: i know you could care less about my personal life, peter, but i do appreciate the occasional, "how's your wife, gordon?" he waits. novak obliges:
-speaker2: how is she?
-speaker1: pregnant. thanks for asking.
-speaker2: here he is.
-speaker1: damn, man, i give up. your partner tells you his wife's gonna have a baby, and all you care about is a coroner's report!
-speaker1: i feel for those girls too, pete. and their families. but it's just a job. someday it'll be over. and then what'll you have?
-speaker3: hot off the presses.
-speaker3: chicken fried steak, mashed potatoes, garden salad with thousand island dressing and an iced-tea. thank you darlin'. she nods and moves to the kitchen. novak and ramsey flip through the documents.
-speaker3: water in her lungs. same brand of bleach. match on the semen. lots of hair.
-speaker3: so?
-speaker2: anne vicksey didn't own a dog.
-speaker2: i need it.
-speaker3: now?
-speaker2: now.
+RAMSEY: well, honey, what's worse? doing it yourself or asking your mother for help? can it wait 'til i get back/ i have no idea, jeannie. 
+RAMSEY: well all right. good luck with the monster. i love you too. bye-bye.
+RAMSEY: we call jeannie's mother "the monster" because, well... she just is.
+RAMSEY: i know you could care less about my personal life, peter, but i do appreciate the occasional, "how's your wife, gordon?" he waits. novak obliges:
+NOVAK: how is she?
+RAMSEY: pregnant. thanks for asking.
+NOVAK: here he is.
+RAMSEY: damn, man, i give up. your partner tells you his wife's gonna have a baby, and all you care about is a coroner's report!
+RAMSEY: i feel for those girls too, pete. and their families. but it's just a job. someday it'll be over. and then what'll you have?
+TEDDY LEE: hot off the presses.
+TEDDY LEE: chicken fried steak, mashed potatoes, garden salad with thousand island dressing and an iced-tea. thank you darlin'. she nods and moves to the kitchen. novak and ramsey flip through the documents.
+TEDDY LEE: water in her lungs. same brand of bleach. match on the semen. lots of hair.
+TEDDY LEE: so?
+NOVAK: anne vicksey didn't own a dog.
+NOVAK: i need it.
+TEDDY LEE: now?
+NOVAK: now.
 
-speaker1: complete absence of melanin. 
-speaker2: and that means?
-speaker3: the dog's an albino. he'd love an animal like that.
-speaker1: gentlemen, i believe an albino dog is rare indeed.
+TEDDY LEE: complete absence of melanin. 
+RAMSEY: and that means?
+NOVAK: the dog's an albino. he'd love an animal like that.
+TEDDY LEE: gentlemen, i believe an albino dog is rare indeed.
 
-speaker1: i didn't see you. 
-speaker2: good boy.
+JULIA: i didn't see you. 
+STARGHER: good boy.
 
-speaker1: donna krozin. helen francis, teresa manicki... 
-speaker1: antoinette simms, natalie pagels, grace cassatt... anne vicksey.
-speaker1: smart, gentle, attractive young women. just starting out in life. embarking on careers, going to school, getting married...
-speaker1: they were killed. kidnapped, tortured, and murdered. by a white male. about 30-years old. who owns an albino dog./
-speaker2: a purebred german shepherd.
-speaker2: breeders typically destroy albino pups, so this animal is truly unique.
-speaker1: nicole labetzki. victim seven. forensics found dog hair in her car, but they had a k-9 unit at the scene and never had it checked.
-speaker3: the phoenix office tested that hair thirty minutes ago. and we got the match.
-speaker1: it's his dog.
-speaker2: registered breeders of german shepherds.
-speaker1: be thorough, but be fast. this guy's accelerating. he only waited six days this last time. when he started, two months could pass.
-speaker1: this can mean different things. he thinks we're stupid and can't catch him. he's having fun and needs more. or... this dog hair thing is sloppy. the body this morning was found in less than three inches of water. he knew we'd find her. he wants to be caught. but if we can't stop him...
-speaker1: ...he can't stop himself.
+NOVAK: donna krozin. helen francis, teresa manicki... 
+NOVAK: antoinette simms, natalie pagels, grace cassatt... anne vicksey.
+NOVAK: smart, gentle, attractive young women. just starting out in life. embarking on careers, going to school, getting married...
+NOVAK: they were killed. kidnapped, tortured, and murdered. by a white male. about 30-years old. who owns an albino dog./
+RAMSEY: a purebred german shepherd.
+RAMSEY: breeders typically destroy albino pups, so this animal is truly unique.
+NOVAK: nicole labetzki. victim seven. forensics found dog hair in her car, but they had a k-9 unit at the scene and never had it checked.
+TEDDY LEE: the phoenix office tested that hair thirty minutes ago. and we got the match.
+NOVAK: it's his dog.
+RAMSEY: registered breeders of german shepherds.
+NOVAK: be thorough, but be fast. this guy's accelerating. he only waited six days this last time. when he started, two months could pass.
+NOVAK: this can mean different things. he thinks we're stupid and can't catch him. he's having fun and needs more. or... this dog hair thing is sloppy. the body this morning was found in less than three inches of water. he knew we'd find her. he wants to be caught. but if we can't stop him...
+NOVAK: ...he can't stop himself.
 
-speaker1: me feed on pain. 
-speaker1: pain good. cumm home to meee...
+DISTORTED VOICE: me feed on pain. 
+DISTORTED VOICE: pain good. cumm home to meee...
 
-speaker1: she was still living at home? 
-speaker2: yes, sir.
-speaker3: we were looking at apartments.
-speaker1: john, you came to pick her up when?
-speaker3: eight o'clock. we were going out for my birthday.
-speaker2: maybe you made a mistake. maybe she... she...
-speaker1: no sir. i'm sorry.
-speaker4: after three years she remembers what the guy drove?
-speaker1: she remembers because it was her "dream truck." wanted one just like it.
+RAMSEY: she was still living at home? 
+MR. HICKSON: yes, sir.
+JOHN: we were looking at apartments.
+RAMSEY: john, you came to pick her up when?
+JOHN: eight o'clock. we were going out for my birthday.
+MR. HICKSON: maybe you made a mistake. maybe she... she...
+RAMSEY: no sir. i'm sorry.
+NOVAK: after three years she remembers what the guy drove?
+RAMSEY: she remembers because it was her "dream truck." wanted one just like it.
 
-speaker1: ramsey, novak? 
-speaker1: agent stockwell.
-speaker2: where is he?
-speaker1: edison. just east of loma park. swat's had the house under surveillance for about twenty minutes. suspect is carl rudolph stargher. no registered weapons, no priors. got a license for his dog, though. named him valentine...
+STOCKWELL: ramsey, novak? 
+STOCKWELL: agent stockwell.
+NOVAK: where is he?
+STOCKWELL: edison. just east of loma park. swat's had the house under surveillance for about twenty minutes. suspect is carl rudolph stargher. no registered weapons, no priors. got a license for his dog, though. named him valentine...
 
-speaker1: have they seen him? 
-speaker2: no. there's been movement in the kitchen. but it could be the dog. you think she's in there?
-speaker1: we proceed assuming she is.
-speaker3: let's give old carl a call. tell him he's got company.
-speaker1: no. can you get a man close?
+NOVAK: have they seen him? 
+BROCK: no. there's been movement in the kitchen. but it could be the dog. you think she's in there?
+NOVAK: we proceed assuming she is.
+RAMSEY: let's give old carl a call. tell him he's got company.
+NOVAK: no. can you get a man close?
 
-speaker1: i'm at the back door. 
-speaker2: check the kitchen.
-speaker1: i have a man down. repeat, man down.
-speaker2: stargher?
-speaker1: can't see his face.
+ERICSON: i'm at the back door. 
+BROCK: check the kitchen.
+ERICSON: i have a man down. repeat, man down.
+BROCK: stargher?
+ERICSON: can't see his face.
 
-speaker1: i've got the dog! 
-speaker1: carl stargher! do not move!
-speaker1: 
+ERICSON: i've got the dog! 
+ERICSON: carl stargher! do not move!
+ERICSON: 
 
-speaker1: paramedics. now. 
-speaker1: he's alive.
+NOVAK: paramedics. now. 
+NOVAK: he's alive.
 
-speaker1: they'll take him to county general. reid's already there. 
-speaker2: make sure he stays cuffed. two men on him at all times. i don't want anyone treating him but reid. not so much as a thermometer up his ass. understand?
-speaker3: she's not here.
-speaker3: you should come downstairs.
+STOCKWELL: they'll take him to county general. reid's already there. 
+NOVAK: make sure he stays cuffed. two men on him at all times. i don't want anyone treating him but reid. not so much as a thermometer up his ass. understand?
+RAMSEY: she's not here.
+RAMSEY: you should come downstairs.
 
-speaker1: minimal activity in the dorsolateral prefrontal cortex. and here, the anterior cingulate cortex. it's what helps distinguish between external and internal stimuli. 
-speaker2: what the does that mean?
-speaker3: he's schizophrenic.
-speaker2: what're you doing here, reid? paving the way for his insanity defense?
-speaker1: no need. there won't be a trial. this is no act. the coma is real.
-speaker2: whoa. wait a minute.
-speaker1: you ever hear of whalen's infraction?
-speaker1: in any schizophrenic, these areas would be affected. but in someone with whalen's, they're hit hard and hit fast.
-speaker1: stargher's neurological system was infected by a virus in utero. it lay dormant. in his case for about... ...thirty years. most likely, he's exhibited symptoms for awhile now, but the infraction - the breach - didn't occur 'til today. you never know when it'll happen, at what age, or why. the triggers vary, but the results don't. he has no ties to reality. no awareness of this world or the people in it.
-speaker3: what about thorazine? or... desoxyn?
-speaker1: the normal psychotropics don't work. he's not just catatonic, he's... disappeared. like having a dream and never waking up.
-speaker4: this girl. julia hickson. only he knows where she is.
-speaker1: then i'm sorry. for her and for you.
-speaker2: we'll go back to his house, pete. there's still a lot to do. analyze the videos, track sales of the bleach, go through his records. maybe he owns property somewhere.
-speaker4: they're in that thing for forty hours, gordon. four-oh. he got julia at seven-thirty last night. you know what time it is now...?!
-speaker1: peter? this is a longshot. i mean a real long shot. you're gonna think i'm crazy...
+REID: minimal activity in the dorsolateral prefrontal cortex. and here, the anterior cingulate cortex. it's what helps distinguish between external and internal stimuli. 
+RAMSEY: what the does that mean?
+TEDDY LEE: he's schizophrenic.
+RAMSEY: what're you doing here, reid? paving the way for his insanity defense?
+REID: no need. there won't be a trial. this is no act. the coma is real.
+RAMSEY: whoa. wait a minute.
+REID: you ever hear of whalen's infraction?
+REID: in any schizophrenic, these areas would be affected. but in someone with whalen's, they're hit hard and hit fast.
+REID: stargher's neurological system was infected by a virus in utero. it lay dormant. in his case for about... ...thirty years. most likely, he's exhibited symptoms for awhile now, but the infraction - the breach - didn't occur 'til today. you never know when it'll happen, at what age, or why. the triggers vary, but the results don't. he has no ties to reality. no awareness of this world or the people in it.
+TEDDY LEE: what about thorazine? or... desoxyn?
+REID: the normal psychotropics don't work. he's not just catatonic, he's... disappeared. like having a dream and never waking up.
+NOVAK: this girl. julia hickson. only he knows where she is.
+REID: then i'm sorry. for her and for you.
+RAMSEY: we'll go back to his house, pete. there's still a lot to do. analyze the videos, track sales of the bleach, go through his records. maybe he owns property somewhere.
+NOVAK: they're in that thing for forty hours, gordon. four-oh. he got julia at seven-thirty last night. you know what time it is now...?!
+REID: peter? this is a longshot. i mean a real long shot. you're gonna think i'm crazy...
 
-speaker1: it's fixed! 
-speaker1: i'm not signalling...
-speaker2: sing a song of sixpence...
-speaker1: i'm not signalling!
-speaker1: i'm not...
+CATHERINE: it's fixed! 
+CATHERINE: i'm not signalling...
+VOICE: sing a song of sixpence...
+CATHERINE: i'm not signalling!
+CATHERINE: i'm not...
 
-speaker1: sing a song of sixpence. 
-speaker2: a pocketful of rye. what's wrong?
-speaker1: nothing.
-speaker2: why did we stop? cooperman appears in the window and explains.
-speaker3: i asked them to. we have a situation.
+MIRIAM: sing a song of sixpence. 
+CATHERINE: a pocketful of rye. what's wrong?
+MIRIAM: nothing.
+CATHERINE: why did we stop? cooperman appears in the window and explains.
+COOPERMAN: i asked them to. we have a situation.
 
-speaker1: when did he lapse into the coma? 
-speaker2: sometime yesterday morning.
-speaker2: each tape is the same. he provides food, drinking water, a toilet. periodically, a shower starts. it's on some kind of timer - he's clever with machines, building things. i think he wants them to believe this is a simple kidnapping. that there's a possibility of rescue. of survival. but it's just a form of torture. at the end of the fortieth hour, the drain shuts. the water starts and doesn't stop. we've already lost more than a day. if she isn't found tonight. she dies like the rest.
-speaker3: john and ella baines - as well as the sunerset board of directors - have given their approval, but the decision is yours.
-speaker1: what about the legalities of this...?
-speaker2: stargher is in custody. the functional equivalent of being under arrest. normally, we'd mirandize him, and if he didn't lawyer up, we'd interrogate him. but because of his condition, he doesn't have the capacity to waive those rights.
-speaker4: so what you're asking us to do is illegal?
-speaker2: no, not at all. we're dealing with exigent circumstances. somewhere there's a kidnapped woman still alive. if we weigh the suspect's constitutional rights against the public safety. the law favors the victim and gives us a lot of leeway. it's called the public safety exception.
-speaker3: so what can you do?
-speaker2: pretty much anything we want. there's a chance to save a human life. because of that, stargher has no reasonable expectation of privacy.
-speaker5: what if...?
-speaker5: what if he wasn't like this? what if he was "normal?" conscious. how far would you go?
-speaker2: as far as i needed.
-speaker5: do you think he'd tell you what you need to know?
-speaker2: there's always a chance they'll confess.
-speaker5: really? i don't work with violent cases, i work with children. but even a kid lies. they love it when they get you to believe something that isn't true. don't you think stargher would do the same?
-speaker2: sometimes... once they've been caught they feel a need for disclosure. they have so much they want to tell. but they've never had a sympathetic ear. they need someone to understand why. stargher used to hide the bodies very carefully. it was part of the ritual. some weren't found for weeks and any physical evidence had been meticulously wiped clean. but these last three... they were still in water - always in water - but listen, he wasn't just careless. it went beyond that...
-speaker5: okay. let's assume he wanted you to find him, that some part of him hated what he was doing... most likely, that part is dead. schizophrenics with whalen's infraction sever all ties with the real world. i'm sorry, i really am.
-speaker6: is it possible?
-speaker5: if he came to trust me, yes, but it takes months to build that kind of trust. someone like stargher can't distinguish between fantasy and reality. it's all the same. he might tell me she's in timbuktu and absolutely, one hundred percent believe it to be true, but she's...
-speaker7: julia.
-speaker7: not "she." julia. not thing, or it, or her. do you know anything about her? do you know what we've been through? julia is everything to me. can you say that about anyone?
+MIRIAM: when did he lapse into the coma? 
+NOVAK: sometime yesterday morning.
+NOVAK: each tape is the same. he provides food, drinking water, a toilet. periodically, a shower starts. it's on some kind of timer - he's clever with machines, building things. i think he wants them to believe this is a simple kidnapping. that there's a possibility of rescue. of survival. but it's just a form of torture. at the end of the fortieth hour, the drain shuts. the water starts and doesn't stop. we've already lost more than a day. if she isn't found tonight. she dies like the rest.
+COOPERMAN: john and ella baines - as well as the sunerset board of directors - have given their approval, but the decision is yours.
+MIRIAM: what about the legalities of this...?
+NOVAK: stargher is in custody. the functional equivalent of being under arrest. normally, we'd mirandize him, and if he didn't lawyer up, we'd interrogate him. but because of his condition, he doesn't have the capacity to waive those rights.
+HENRY: so what you're asking us to do is illegal?
+NOVAK: no, not at all. we're dealing with exigent circumstances. somewhere there's a kidnapped woman still alive. if we weigh the suspect's constitutional rights against the public safety. the law favors the victim and gives us a lot of leeway. it's called the public safety exception.
+COOPERMAN: so what can you do?
+NOVAK: pretty much anything we want. there's a chance to save a human life. because of that, stargher has no reasonable expectation of privacy.
+CATHERINE: what if...?
+CATHERINE: what if he wasn't like this? what if he was "normal?" conscious. how far would you go?
+NOVAK: as far as i needed.
+CATHERINE: do you think he'd tell you what you need to know?
+NOVAK: there's always a chance they'll confess.
+CATHERINE: really? i don't work with violent cases, i work with children. but even a kid lies. they love it when they get you to believe something that isn't true. don't you think stargher would do the same?
+NOVAK: sometimes... once they've been caught they feel a need for disclosure. they have so much they want to tell. but they've never had a sympathetic ear. they need someone to understand why. stargher used to hide the bodies very carefully. it was part of the ritual. some weren't found for weeks and any physical evidence had been meticulously wiped clean. but these last three... they were still in water - always in water - but listen, he wasn't just careless. it went beyond that...
+CATHERINE: okay. let's assume he wanted you to find him, that some part of him hated what he was doing... most likely, that part is dead. schizophrenics with whalen's infraction sever all ties with the real world. i'm sorry, i really am.
+RAMSEY: is it possible?
+CATHERINE: if he came to trust me, yes, but it takes months to build that kind of trust. someone like stargher can't distinguish between fantasy and reality. it's all the same. he might tell me she's in timbuktu and absolutely, one hundred percent believe it to be true, but she's...
+JOHN: julia.
+JOHN: not "she." julia. not thing, or it, or her. do you know anything about her? do you know what we've been through? julia is everything to me. can you say that about anyone?
 
-speaker1: quantico. san diego field office. s.d., l.a., and san francisco p.d. california, arizona, nevada state police. nine and ten are open lines. direct link to the chopper. that gets you into the bureau database. 
-speaker2: thanks.
-speaker3: you sure you want to go through with this?
-speaker2: what else do we do?!
-speaker3: i don't know, pete, but for sake... this is nuts. do you really understand what they're going to do?
-speaker2: i don't have to.
-speaker3: why jeopardize what we've already done? we caught the carl stargher. that's going to be like bundy, gacy, dahmer. a case that makes careers. but if we push our luck. if this is all and we come out smelling like it.
-speaker2: tell you what. if this thing burns us, i take that heat. i give you permission to point your finger at me and say "it was all his idea."
-speaker3: that's not what i'm talking about, pete. i'm talking about waking up and realizing this girl's gonna die.
-speaker2: that won't happen.
-speaker4: they're ready.
+FBI TECH: quantico. san diego field office. s.d., l.a., and san francisco p.d. california, arizona, nevada state police. nine and ten are open lines. direct link to the chopper. that gets you into the bureau database. 
+NOVAK: thanks.
+RAMSEY: you sure you want to go through with this?
+NOVAK: what else do we do?!
+RAMSEY: i don't know, pete, but for sake... this is nuts. do you really understand what they're going to do?
+NOVAK: i don't have to.
+RAMSEY: why jeopardize what we've already done? we caught the carl stargher. that's going to be like bundy, gacy, dahmer. a case that makes careers. but if we push our luck. if this is all and we come out smelling like it.
+NOVAK: tell you what. if this thing burns us, i take that heat. i give you permission to point your finger at me and say "it was all his idea."
+RAMSEY: that's not what i'm talking about, pete. i'm talking about waking up and realizing this girl's gonna die.
+NOVAK: that won't happen.
+COOPERMAN: they're ready.
 
-speaker1: shouldn't we get a catheter in him? 
-speaker2: they took care of that, thank you, henry.
-speaker2: why don't you give our guests a little tour?
-speaker1: gentlemen, you stand before the one and only neurological cartography and synaptic transfer system.
-speaker1: it provides a highly detailed map of the human mind. not the brain - any mri can do that. the mind. it reads and processes electronically allowing information to be transferred and interrupted. let's say your thoughts could be stored on dvd. if someone had the right kind of player, they could watch and listen to what you're thinking.
-speaker1: but we can't record or store the data. the connections between nerve cells are constantly being modified.
-speaker1: it's like the early days of television. the subject sends out a live feed and you receive it during time of broadcast. whatever happens, happens. all you have to do is "tune in."
-speaker1: but you do more than tune in... you become part of the snow.
-speaker3: i still don't understand why i can't do this... this isn't some "troubled kid" you're dealing with.
-speaker4: i realize that...
-speaker3: how hard could it be...?
-speaker4: the first... what? six or seven times i went in. remember what happened?
-speaker2: disorientation, nausea, migraines, hallucinations, insomnia, paranoia.
-speaker4: like a new year's day hangover.
-speaker2: he needs to be turned over.
-speaker3: this man is deeply disturbed, he...
-speaker4: you don't know the procedure.
-speaker3: i know him.
-speaker2: that may be true, but you don't have catherine's gift. she... what happened here?
-speaker5: we removed eight metal rings.
-speaker4: then he should like this.
-speaker4: they're comforted by the feeling of weightlessness. like floating in water.
-speaker1: don't touch that, please.
-speaker5: sorry.
-speaker2: this isn't your responsibility. remember that. don't let them use guilt as a tool. if you want to stop, say so.
-speaker4: i'll be fine.
-speaker2: she said convincingly.
-speaker3: that's the stuff?
-speaker1: about twelve years of research, right miriam?
-speaker2: don't remind me.
-speaker5: what is it - are they - exactly?
-speaker2: psychostimulants, serotonin, stabilizers, meprobamate, neurontin, lithium carbonate. and my baby. it duplicates and expands upon the effects of a chemical called oxytocin, forcing a break in the neuron connections that hold experience. so new experience can form.
-speaker1: there's a touch-sensitive microchip implanted in her hand. if she becomes frightened, disoriented, or simply wants to end the session, she signals us to abort.
-speaker2: although none of what she experiences is real, she can be tricked into thinking it is. the mind is awfully gullible, so she needs to monitor herself.
-speaker2: catherine? i'm about to start. if you want me to wait, or...
-speaker4: no. no.
-speaker3: you said she has a "gift."
-speaker1: not a gift. a highly evolved area in her cerebral cortex, that's all. a genetic fluke.
-speaker2: catherine has a tremendous capacity for empathy. when we started, there were a number of test subjects - other therapists - who acted as "receivers." all they did was observe and report. nothing more. but catherine, she had the ability to feel what was happening. she understood. and the patient responded. edward engaged her in dialogue, took her places, showed her things. he knew she cared.
-speaker2: intravenous administration complete.
-speaker1: initiating connection.
-speaker1: transfer begins 1100 hours, 34 minutes, 12 seconds.
+HENRY: shouldn't we get a catheter in him? 
+MIRIAM: they took care of that, thank you, henry.
+MIRIAM: why don't you give our guests a little tour?
+HENRY: gentlemen, you stand before the one and only neurological cartography and synaptic transfer system.
+HENRY: it provides a highly detailed map of the human mind. not the brain - any mri can do that. the mind. it reads and processes electronically allowing information to be transferred and interrupted. let's say your thoughts could be stored on dvd. if someone had the right kind of player, they could watch and listen to what you're thinking.
+HENRY: but we can't record or store the data. the connections between nerve cells are constantly being modified.
+HENRY: it's like the early days of television. the subject sends out a live feed and you receive it during time of broadcast. whatever happens, happens. all you have to do is "tune in."
+HENRY: but you do more than tune in... you become part of the snow.
+NOVAK: i still don't understand why i can't do this... this isn't some "troubled kid" you're dealing with.
+CATHERINE: i realize that...
+NOVAK: how hard could it be...?
+CATHERINE: the first... what? six or seven times i went in. remember what happened?
+MIRIAM: disorientation, nausea, migraines, hallucinations, insomnia, paranoia.
+CATHERINE: like a new year's day hangover.
+MIRIAM: he needs to be turned over.
+NOVAK: this man is deeply disturbed, he...
+CATHERINE: you don't know the procedure.
+NOVAK: i know him.
+MIRIAM: that may be true, but you don't have catherine's gift. she... what happened here?
+RAMSEY: we removed eight metal rings.
+CATHERINE: then he should like this.
+CATHERINE: they're comforted by the feeling of weightlessness. like floating in water.
+HENRY: don't touch that, please.
+RAMSEY: sorry.
+MIRIAM: this isn't your responsibility. remember that. don't let them use guilt as a tool. if you want to stop, say so.
+CATHERINE: i'll be fine.
+MIRIAM: she said convincingly.
+NOVAK: that's the stuff?
+HENRY: about twelve years of research, right miriam?
+MIRIAM: don't remind me.
+RAMSEY: what is it - are they - exactly?
+MIRIAM: psychostimulants, serotonin, stabilizers, meprobamate, neurontin, lithium carbonate. and my baby. it duplicates and expands upon the effects of a chemical called oxytocin, forcing a break in the neuron connections that hold experience. so new experience can form.
+HENRY: there's a touch-sensitive microchip implanted in her hand. if she becomes frightened, disoriented, or simply wants to end the session, she signals us to abort.
+MIRIAM: although none of what she experiences is real, she can be tricked into thinking it is. the mind is awfully gullible, so she needs to monitor herself.
+MIRIAM: catherine? i'm about to start. if you want me to wait, or...
+CATHERINE: no. no.
+NOVAK: you said she has a "gift."
+HENRY: not a gift. a highly evolved area in her cerebral cortex, that's all. a genetic fluke.
+MIRIAM: catherine has a tremendous capacity for empathy. when we started, there were a number of test subjects - other therapists - who acted as "receivers." all they did was observe and report. nothing more. but catherine, she had the ability to feel what was happening. she understood. and the patient responded. edward engaged her in dialogue, took her places, showed her things. he knew she cared.
+MIRIAM: intravenous administration complete.
+HENRY: initiating connection.
+HENRY: transfer begins 1100 hours, 34 minutes, 12 seconds.
 
-speaker1: hello? 
-speaker1: yeah, you like that, don't you?
-speaker1: is your name carl?
-speaker1: another little boy i know, he has a horse, too.
-speaker1: his name's edward. the boy, not the horse...
-speaker1: what's the matter, carl?
-speaker1: what's wro---?
+CATHERINE: hello? 
+CATHERINE: yeah, you like that, don't you?
+CATHERINE: is your name carl?
+CATHERINE: another little boy i know, he has a horse, too.
+CATHERINE: his name's edward. the boy, not the horse...
+CATHERINE: what's the matter, carl?
+CATHERINE: what's wro---?
 
-speaker1: gentlemen? 
-speaker1: she's back.
+HENRY: gentlemen? 
+HENRY: she's back.
 
-speaker1: what happened? 
-speaker2: must've been rather unusual.
-speaker3: what happens here?
-speaker2: we don't talk about that.
-speaker1: what happens?
-speaker2: well, theoretically, while she's inside. if she came to believe that stargher's world is her world, her mind has the power to convince the body that anything done to it is, um, actually done. novak doesn't like the sound of that.
-speaker2: that's why we monitor the use of the drugs so closely. we don't want her getting to that degree of perceptual disorientation.
-speaker4: pump in two liters of pure oxygen, please henry.
-speaker1: dr. kent?
-speaker4: deep breaths.
-speaker5: is it cold in here?
-speaker4: what happened?
-speaker4: what's wrong?
-speaker4: catherine!
+NOVAK: what happened? 
+HENRY: must've been rather unusual.
+RAMSEY: what happens here?
+HENRY: we don't talk about that.
+NOVAK: what happens?
+HENRY: well, theoretically, while she's inside. if she came to believe that stargher's world is her world, her mind has the power to convince the body that anything done to it is, um, actually done. novak doesn't like the sound of that.
+HENRY: that's why we monitor the use of the drugs so closely. we don't want her getting to that degree of perceptual disorientation.
+MIRIAM: pump in two liters of pure oxygen, please henry.
+NOVAK: dr. kent?
+MIRIAM: deep breaths.
+CATHERINE: is it cold in here?
+MIRIAM: what happened?
+MIRIAM: what's wrong?
+MIRIAM: catherine!
 
-speaker1: edward baines, i presume. hi, ed. i'm pete. 
-speaker2: do you think that's funny?
-speaker1: no. not at all. from what i understand, he knows i"m here, isn't that right?
-speaker1: i read about a woman in texas who was in a coma for seven years. every time her husband came to visit, her heart would beat faster. isn't that something? i don't know what name scientists have for something like that...
-speaker2: it doesn't have much to do with science.
-speaker1: what then?
-speaker2: the soul. the spirit. whatever you want to call it.
-speaker1: ah, the part of us that can't be explained.
-speaker2: agent novak?
-speaker1: peter, okay?
-speaker2: do you feel there's a side of yourself you don't show people?
-speaker1: absolutely. i suppose everyone does.
-speaker2: just like we all have fantasies, right? things only we know, that we don't share.
-speaker1: that's what therapists are for, right?
-speaker2: during the sessions. when i'm inside. i see those things. what a person hides, what they despite, what they want to control. with stargher...
-speaker2: with stargher i saw things...
-speaker1: what did you see?
-speaker2: a kingdom. his utopia. life without consequence or restriction. he's not even carl stargher anymore. he's this... idealized version of himself who can do anything he pleases... without fear. a horrible primitive ugly thing. i don't want to talk in here.
+NOVAK: edward baines, i presume. hi, ed. i'm pete. 
+CATHERINE: do you think that's funny?
+NOVAK: no. not at all. from what i understand, he knows i"m here, isn't that right?
+NOVAK: i read about a woman in texas who was in a coma for seven years. every time her husband came to visit, her heart would beat faster. isn't that something? i don't know what name scientists have for something like that...
+CATHERINE: it doesn't have much to do with science.
+NOVAK: what then?
+CATHERINE: the soul. the spirit. whatever you want to call it.
+NOVAK: ah, the part of us that can't be explained.
+CATHERINE: agent novak?
+NOVAK: peter, okay?
+CATHERINE: do you feel there's a side of yourself you don't show people?
+NOVAK: absolutely. i suppose everyone does.
+CATHERINE: just like we all have fantasies, right? things only we know, that we don't share.
+NOVAK: that's what therapists are for, right?
+CATHERINE: during the sessions. when i'm inside. i see those things. what a person hides, what they despite, what they want to control. with stargher...
+CATHERINE: with stargher i saw things...
+NOVAK: what did you see?
+CATHERINE: a kingdom. his utopia. life without consequence or restriction. he's not even carl stargher anymore. he's this... idealized version of himself who can do anything he pleases... without fear. a horrible primitive ugly thing. i don't want to talk in here.
 
-speaker1: why'd you bring him here? 
-speaker2: you're the shrink, you tell me.
-speaker1: as soon as i met him, you knew i'd say yes. he makes julia real for me.
-speaker2: it's an old lawyer trick. target the emotions. do it right, you get a reluctant witness to testify, a scared kid to confess.
-speaker2: before i was with the bureau, i was an attorney, a prosecutor. mr. law and order. and then... i had a murder case in north carolina. charles gish. butchered seventeen people in three days. and because of one tiny piece of tainted evidence, he walked. that's when i quit the da's office and joined the fbi.
-speaker1: you thought stargher wanted to be caught.
-speaker2: i did, yeah.
-speaker1: you were right. there's a part of him that knows the truth. about what he did, about himself.
-speaker2: what about julia?
-speaker1: this is going to sound terrible, but... i don't think she matters anymore. not to him. he never finished her. the others...he was able to make them his.
-speaker2: you think you can do this, don't you?
-speaker1: he might tell me about julia. the part of him that wants to help, that feels shame and remorse. who wants to be redeemed.
-speaker2: this is stargher we're talking about?
-speaker1: not stargher, not really. he's split himself right down the middle. good/evil, right/wrong, merciful/cruel. a monster. and an innocent child. if i could reach the boy.
-speaker2: whoa. hold on. aren't they the same guy?
-speaker1: don't you feel there are different sides to every personality? maybe even the worst of us is capable of one decent act. we're all human.
-speaker2: it's hard for me to see stargher as human, capable of something like "remorse."
-speaker1: then what is he?
-speaker2: evil.
-speaker1: if you believe that.
-speaker2: maybe this is a big waste of time.
-speaker1: what happened to charles gish?
-speaker1: what happened?
-speaker2: what difference does it make...?
-speaker1: tell me.
-speaker2: right after the trial, the night after he was released. mr. and mrs. frank simmons found charlie sitting in their living room watching tv with their twelve-year old daughter margaret. he'd cut her right down the middle with a carving knife.
-speaker2: found the girl's heart in the freezer - he thought they might want to keep it. luckily, the next thing he did was slit his own throat. i am convinced of one thing. charles gish could've been raised by ozzie and harriet and the same thing would've happened.
-speaker2: a child can experience abuse worse than charlie's. and grow up to be someone who would never, ever hurt another living thing.
-speaker1: you're sure of that?
-speaker2: yes. i am.
-speaker3: where the you been?
-speaker2: right here.
-speaker3: next time, tell me, okay?
-speaker2: but you looked so cute. all sleepy...
-speaker3: your colleagues want to know what to do with stargher.
-speaker1: tell them to prep him. and that i'll be right there.
-speaker2: thank you.
-speaker1: i need something.
+CATHERINE: why'd you bring him here? 
+NOVAK: you're the shrink, you tell me.
+CATHERINE: as soon as i met him, you knew i'd say yes. he makes julia real for me.
+NOVAK: it's an old lawyer trick. target the emotions. do it right, you get a reluctant witness to testify, a scared kid to confess.
+NOVAK: before i was with the bureau, i was an attorney, a prosecutor. mr. law and order. and then... i had a murder case in north carolina. charles gish. butchered seventeen people in three days. and because of one tiny piece of tainted evidence, he walked. that's when i quit the da's office and joined the fbi.
+CATHERINE: you thought stargher wanted to be caught.
+NOVAK: i did, yeah.
+CATHERINE: you were right. there's a part of him that knows the truth. about what he did, about himself.
+NOVAK: what about julia?
+CATHERINE: this is going to sound terrible, but... i don't think she matters anymore. not to him. he never finished her. the others...he was able to make them his.
+NOVAK: you think you can do this, don't you?
+CATHERINE: he might tell me about julia. the part of him that wants to help, that feels shame and remorse. who wants to be redeemed.
+NOVAK: this is stargher we're talking about?
+CATHERINE: not stargher, not really. he's split himself right down the middle. good/evil, right/wrong, merciful/cruel. a monster. and an innocent child. if i could reach the boy.
+NOVAK: whoa. hold on. aren't they the same guy?
+CATHERINE: don't you feel there are different sides to every personality? maybe even the worst of us is capable of one decent act. we're all human.
+NOVAK: it's hard for me to see stargher as human, capable of something like "remorse."
+CATHERINE: then what is he?
+NOVAK: evil.
+CATHERINE: if you believe that.
+NOVAK: maybe this is a big waste of time.
+CATHERINE: what happened to charles gish?
+CATHERINE: what happened?
+NOVAK: what difference does it make...?
+CATHERINE: tell me.
+NOVAK: right after the trial, the night after he was released. mr. and mrs. frank simmons found charlie sitting in their living room watching tv with their twelve-year old daughter margaret. he'd cut her right down the middle with a carving knife.
+NOVAK: found the girl's heart in the freezer - he thought they might want to keep it. luckily, the next thing he did was slit his own throat. i am convinced of one thing. charles gish could've been raised by ozzie and harriet and the same thing would've happened.
+NOVAK: a child can experience abuse worse than charlie's. and grow up to be someone who would never, ever hurt another living thing.
+CATHERINE: you're sure of that?
+NOVAK: yes. i am.
+RAMSEY: where the you been?
+NOVAK: right here.
+RAMSEY: next time, tell me, okay?
+NOVAK: but you looked so cute. all sleepy...
+RAMSEY: your colleagues want to know what to do with stargher.
+CATHERINE: tell them to prep him. and that i'll be right there.
+NOVAK: thank you.
+CATHERINE: i need something.
 
-speaker1: sure wasn't like that with me. 
-speaker2: you're a good boy, aren't you, valentine?
-speaker3: i hate to admit it, but there's something perversely satisfying about this.
-speaker4: i think that's the whole point.
-speaker4: that's interesting.
-speaker4: increased neural activity in the frontal lobes. rising dopamine levels in the basal ganglia. ever since the dog walked in.
-speaker5: remember, julia hickson is priority number one. nothing else matters. find out where she is.
-speaker2: okay, okay...
-speaker4: uh-oh...
-speaker2: don't kid around, henry...
-speaker4: i'm not. it's a power problem. i need you to go to the circuit breaker and check switches six through twelve.
-speaker4: try to stay awake, okay?
-speaker2: yeah, yeah, yeah. i'm not sleepy.
+FBI K-9 AGENT: sure wasn't like that with me. 
+CATHERINE: you're a good boy, aren't you, valentine?
+MIRIAM: i hate to admit it, but there's something perversely satisfying about this.
+HENRY: i think that's the whole point.
+HENRY: that's interesting.
+HENRY: increased neural activity in the frontal lobes. rising dopamine levels in the basal ganglia. ever since the dog walked in.
+NOVAK: remember, julia hickson is priority number one. nothing else matters. find out where she is.
+CATHERINE: okay, okay...
+HENRY: uh-oh...
+CATHERINE: don't kid around, henry...
+HENRY: i'm not. it's a power problem. i need you to go to the circuit breaker and check switches six through twelve.
+HENRY: try to stay awake, okay?
+CATHERINE: yeah, yeah, yeah. i'm not sleepy.
 
-speaker1: valentine? 
-speaker1: hi sweetie...
+CATHERINE: valentine? 
+CATHERINE: hi sweetie...
 
-speaker1: need some help? 
-speaker1: carl, i want to give you a present.
-speaker1: if you need me, or if you feel that i'm around but can't find me, just shine it, like this.
-speaker1: what's wrong honey?
-speaker2: what did you do know? you make a mess? i hate a mess.
-speaker2: don't lie, now, carl.
-speaker2: remember what i said about liars? liars will be punished.
+CATHERINE: need some help? 
+CATHERINE: carl, i want to give you a present.
+CATHERINE: if you need me, or if you feel that i'm around but can't find me, just shine it, like this.
+CATHERINE: what's wrong honey?
+MARTIN: what did you do know? you make a mess? i hate a mess.
+MARTIN: don't lie, now, carl.
+MARTIN: remember what i said about liars? liars will be punished.
 
-speaker1: i got you a present, cutie-pie. 
-speaker1: oh no. you're not going anywhere.
-speaker2: go back to bed, worm.
-speaker1: it's okay, we was just.
-speaker2: shut up,
-speaker2: what is that?
-speaker2: you give him nothing. whore. are you his mother? are you?
-speaker2: you see that? see it? you slithered out one of them. but where is she now, carl? as far from you as she could get, that's where. you want a mommy? is that what you want?
-speaker2: little worm his pants.
+WOMAN: i got you a present, cutie-pie. 
+WOMAN: oh no. you're not going anywhere.
+MARTIN: go back to bed, worm.
+WOMAN: it's okay, we was just.
+MARTIN: shut up,
+MARTIN: what is that?
+MARTIN: you give him nothing. whore. are you his mother? are you?
+MARTIN: you see that? see it? you slithered out one of them. but where is she now, carl? as far from you as she could get, that's where. you want a mommy? is that what you want?
+MARTIN: little worm his pants.
 
-speaker1: only girls play with dolls... 
-speaker1: what kind of thing are you?
+MARTIN: only girls play with dolls... 
+MARTIN: what kind of thing are you?
 
-speaker1: she was the first... 
-speaker1: didn't know what i was doing...
-speaker1: be careful...
-speaker1: what did you do now? you make a mess?
-speaker1: i hate a mess.
-speaker1: why are you here?
-speaker1: don't lie, now...
-speaker1: liars will be punished.
-speaker1: where do you think you're going?
-speaker1: don't do that.
-speaker1: if you go away, you'll never find her.
-speaker1: if you never find her, she dies. like the rest.
-speaker1: i mean, that's why you're here, right? why you came to my happy little home?
-speaker1: you're pretty. a pretty, pretty thing.
-speaker2: i want to help you, carl.
-speaker1: help me? that's good. that's a good one. liar. whore.
-speaker2: you sound like your father.
-speaker1: i am not like him.
-speaker2: then help me. where is julia hickson?
-speaker1: why?
-speaker2: maybe, because you want to.
-speaker1: is that right? you think you know me?
+STARGHER: she was the first... 
+STARGHER: didn't know what i was doing...
+STARGHER: be careful...
+STARGHER: what did you do now? you make a mess?
+STARGHER: i hate a mess.
+STARGHER: why are you here?
+STARGHER: don't lie, now...
+STARGHER: liars will be punished.
+STARGHER: where do you think you're going?
+STARGHER: don't do that.
+STARGHER: if you go away, you'll never find her.
+STARGHER: if you never find her, she dies. like the rest.
+STARGHER: i mean, that's why you're here, right? why you came to my happy little home?
+STARGHER: you're pretty. a pretty, pretty thing.
+CATHERINE: i want to help you, carl.
+STARGHER: help me? that's good. that's a good one. liar. whore.
+CATHERINE: you sound like your father.
+STARGHER: i am not like him.
+CATHERINE: then help me. where is julia hickson?
+STARGHER: why?
+CATHERINE: maybe, because you want to.
+STARGHER: is that right? you think you know me?
 
-speaker1: you wanna know who i am? you stupid 
-speaker2: now shud you mouth, priddy thing, or me slice you from the kunt to the
-speaker2: me want you stay.
-speaker2: me mek you beaudiful...
+STARGHER: you wanna know who i am? you stupid 
+STARGHER KING: now shud you mouth, priddy thing, or me slice you from the kunt to the
+STARGHER KING: me want you stay.
+STARGHER KING: me mek you beaudiful...
 
-speaker1: son of a 
-speaker2: when we got here, you just topped and pulled her out.
-speaker1: that was with edward. she's accustomed to his world. stargher's mind is unfamiliar territory. she's "lost." someone has to go in. remind her what's really happening. and get her out. until then, she's at his mercy.
-speaker2: into stargher. inside...
-speaker1: yes.
+MIRIAM: son of a 
+NOVAK: when we got here, you just topped and pulled her out.
+MIRIAM: that was with edward. she's accustomed to his world. stargher's mind is unfamiliar territory. she's "lost." someone has to go in. remind her what's really happening. and get her out. until then, she's at his mercy.
+NOVAK: into stargher. inside...
+MIRIAM: yes.
 
-speaker1: our father, who art in heaven, hallowed be thy name. thy kingdom come, thy will be done. 
-speaker1: ...on earth as it is in heaven.
+JULIA: our father, who art in heaven, hallowed be thy name. thy kingdom come, thy will be done. 
+JULIA: ...on earth as it is in heaven.
 
-speaker1: i have done this, you know. been inside. 
-speaker2: no.
-speaker1: deep breaths.
-speaker3: pulse is rapid, pressure's a little high...
-speaker1: nervous?
-speaker2: absolutely.
-speaker1: i have to ask you some things... are you taking any prescription drugs?
-speaker2: prevacid. for my stomach.
-speaker1: any psychiatric medication?
-speaker2: no.
-speaker1: what about narcotics?
-speaker2: no.
-speaker1: i know your partner's here, but it's very important that you're honest.
-speaker2: i am. i'm a pretty boring guy.
-speaker1: i doubt that.
-speaker3: we should hurry.
-speaker1: the first five minutes will be disorienting. give yourself time. let the drugs do the work. if you can see, smell, feel, hear, taste things - you're on the right track. once you've acclimated, try to get a feeling for catherine. instinct plays a huge role in this. trust it.
-speaker1: you can control how you see yourself - clothes, shoes, that kind of thing - but the rest of it is up to him. use only what he provides. don't try to change anything. or introduce something of your own. it'll only upset him.
-speaker3: agent novak? press the sensor.
-speaker1: no matter what happens, peter, remember one thing: it's not real.
+MIRIAM: i have done this, you know. been inside. 
+NOVAK: no.
+MIRIAM: deep breaths.
+HENRY: pulse is rapid, pressure's a little high...
+MIRIAM: nervous?
+NOVAK: absolutely.
+MIRIAM: i have to ask you some things... are you taking any prescription drugs?
+NOVAK: prevacid. for my stomach.
+MIRIAM: any psychiatric medication?
+NOVAK: no.
+MIRIAM: what about narcotics?
+NOVAK: no.
+MIRIAM: i know your partner's here, but it's very important that you're honest.
+NOVAK: i am. i'm a pretty boring guy.
+MIRIAM: i doubt that.
+HENRY: we should hurry.
+MIRIAM: the first five minutes will be disorienting. give yourself time. let the drugs do the work. if you can see, smell, feel, hear, taste things - you're on the right track. once you've acclimated, try to get a feeling for catherine. instinct plays a huge role in this. trust it.
+MIRIAM: you can control how you see yourself - clothes, shoes, that kind of thing - but the rest of it is up to him. use only what he provides. don't try to change anything. or introduce something of your own. it'll only upset him.
+HENRY: agent novak? press the sensor.
+MIRIAM: no matter what happens, peter, remember one thing: it's not real.
 
-speaker1: have you seen him? 
-speaker1: my boy, my little one. his father took him from me. have you seen him?
-speaker2: my child is an abomination. he is he has no soul.
-speaker3: me me boy. me good son.
+MOTHER ONE: have you seen him? 
+MOTHER ONE: my boy, my little one. his father took him from me. have you seen him?
+MOTHER TWO: my child is an abomination. he is he has no soul.
+MOTHER THREE: me me boy. me good son.
 
-speaker1: not real... 
-speaker1: catherine.
-speaker1: catherine. listen to me...
+NOVAK: not real... 
+NOVAK: catherine.
+NOVAK: catherine. listen to me...
 
-speaker1: you're catherine young. you majored in psych at uc san diego. you work for sunerset industries. 
-speaker1: your grandmother raised you after your parents died in a car crash...
-speaker1: when you were twenty-one, you were arrested for possession and got off with community service.
-speaker1: i know this because i work for the fbi. peter novak, remember?!?! remember. you are cath-
-speaker1: help me!!!
-speaker1: feels real!
-speaker2: me gut you like a dear.
-speaker1: not real. not real. not real.
-speaker2: nod reel, nod reel, nod reel...
+NOVAK: you're catherine young. you majored in psych at uc san diego. you work for sunerset industries. 
+NOVAK: your grandmother raised you after your parents died in a car crash...
+NOVAK: when you were twenty-one, you were arrested for possession and got off with community service.
+NOVAK: i know this because i work for the fbi. peter novak, remember?!?! remember. you are cath-
+NOVAK: help me!!!
+NOVAK: feels real!
+STARGHER KING: me gut you like a dear.
+NOVAK: not real. not real. not real.
+STARGHER KING: nod reel, nod reel, nod reel...
 
-speaker1: wait... 
-speaker2: like "wait."
-speaker1: he wants us to follow. the little boy...
-speaker2: little boy?! that's him!
-speaker1: he brought you to me, didn't he? if you want julia to live, trust me. trust him.
+CATHERINE: wait... 
+NOVAK: like "wait."
+CATHERINE: he wants us to follow. the little boy...
+NOVAK: little boy?! that's him!
+CATHERINE: he brought you to me, didn't he? if you want julia to live, trust me. trust him.
 
-speaker1: carl... 
-speaker1: this is peter.
-speaker1: don't be scared. you're my friend and i would never hurt you.
-speaker1: will you take us to her? to julia?
+CATHERINE: carl... 
+CATHERINE: this is peter.
+CATHERINE: don't be scared. you're my friend and i would never hurt you.
+CATHERINE: will you take us to her? to julia?
 
-speaker1: where the are we? 
-speaker2: carl, do you know? like on a map...
-speaker2: it's okay, it's okay. you helped so much already. i'm proud of you.
-speaker2: carl, i think i can help you. would you like that? even if peter can't find julia, i want to help you.
-speaker2: i promise.
-speaker1: let's go.
+NOVAK: where the are we? 
+CATHERINE: carl, do you know? like on a map...
+CATHERINE: it's okay, it's okay. you helped so much already. i'm proud of you.
+CATHERINE: carl, i think i can help you. would you like that? even if peter can't find julia, i want to help you.
+CATHERINE: i promise.
+NOVAK: let's go.
 
-speaker1: they're back. 
-speaker2: get me out!
+HENRY: they're back. 
+NOVAK: get me out!
 
-speaker1: don't move! 
-speaker1: agent novak!
-speaker2: is she alright?
-speaker1: yes. but you're going to sit down right now. i have to...
+MIRIAM: don't move! 
+MIRIAM: agent novak!
+NOVAK: is she alright?
+MIRIAM: yes. but you're going to sit down right now. i have to...
 
-speaker1: i need you to find something in the basement... 
-speaker2: already there.
-speaker1: that hoist, with the winch...
-speaker1: there's some kind of plaque, a metal plate, with a logo. on the base.
-speaker2: carver industrial equipment.
-speaker1: find out the history of that machine. who bought it, used it, sold it. and check stargher's pay stubs. i want to know every contractor he worked for. i'm calling you from the chopper in ten minutes.
-speaker3: christ, man, you look like hell.
-speaker1: considering where i've been...
-speaker3: whoa-whoa-whoa. mind telling me what the is happening?
-speaker3: you're bettin' the farm on something you saw after they pumped you full of knows-what kind of
-speaker1: i saw her. julia. alive. i saw everything.
-speaker3: you might've seen jimmy hoffa dancing with timothy leary. i don't care.
+NOVAK: i need you to find something in the basement... 
+COLE: already there.
+NOVAK: that hoist, with the winch...
+NOVAK: there's some kind of plaque, a metal plate, with a logo. on the base.
+COLE: carver industrial equipment.
+NOVAK: find out the history of that machine. who bought it, used it, sold it. and check stargher's pay stubs. i want to know every contractor he worked for. i'm calling you from the chopper in ten minutes.
+RAMSEY: christ, man, you look like hell.
+NOVAK: considering where i've been...
+RAMSEY: whoa-whoa-whoa. mind telling me what the is happening?
+RAMSEY: you're bettin' the farm on something you saw after they pumped you full of knows-what kind of
+NOVAK: i saw her. julia. alive. i saw everything.
+RAMSEY: you might've seen jimmy hoffa dancing with timothy leary. i don't care.
 
-speaker1: ...a pocketful of rye. 
-speaker2: four and twenty blackbirds...
-speaker1: baked in a pie.
-speaker3: the fbi has left the building.
-speaker2: him.
-speaker1: what's wrong?
-speaker2: agent novak. i didn't get a chance to clear him.
-speaker1: go. i'm fine. go.
-speaker2: keep an eye on her.
+CATHERINE: ...a pocketful of rye. 
+MIRIAM: four and twenty blackbirds...
+CATHERINE: baked in a pie.
+HENRY: the fbi has left the building.
+MIRIAM: him.
+CATHERINE: what's wrong?
+MIRIAM: agent novak. i didn't get a chance to clear him.
+CATHERINE: go. i'm fine. go.
+MIRIAM: keep an eye on her.
 
-speaker1: ...there was a moment when we thought we'd lost agent novak as well. 
-speaker1: his post-procedure consciousness recovery was remarkably quick. never saw that before. hey, remember that one time...
-speaker1: catherine?
-speaker1: what are you doing?
+HENRY: ...there was a moment when we thought we'd lost agent novak as well. 
+HENRY: his post-procedure consciousness recovery was remarkably quick. never saw that before. hey, remember that one time...
+HENRY: catherine?
+HENRY: what are you doing?
 
-speaker1: she changed the codes. 
-speaker2: what's wrong?
-speaker1: it would take hours to re-route the system, and even if i did, i shouldn't.
-speaker3: what are you talking about?
-speaker2: she's done it. stupid, stupid girl...
-speaker3: done what?
-speaker1: instead of going into his mind...
-speaker2: she's bringing stargher into hers.
+HENRY: she changed the codes. 
+MIRIAM: what's wrong?
+HENRY: it would take hours to re-route the system, and even if i did, i shouldn't.
+RAMSEY: what are you talking about?
+MIRIAM: she's done it. stupid, stupid girl...
+RAMSEY: done what?
+HENRY: instead of going into his mind...
+MIRIAM: she's bringing stargher into hers.
 
-speaker1: you're all right, carl. 
-speaker1: it's okay, honey, you're with me now. you're safe here.
-speaker1: i promised i would help you, and i always keep my promises.
-speaker2: can...
-speaker2: can i stay here?
-speaker1: but what if i told you you could come visit?
-speaker1: i'll make sure it happens, carl. i'll get them to let me do it. and maybe... maybe we can...
-speaker2: he found me...
-speaker2: he always finds me.
-speaker3: where thiisss att?!?! me no like id here...
-speaker3: you. priddy bish-hor-kund. you big trubble-mekker... and you. you cumm home now, liddle cogsugger worm. or me haffa punish you...
-speaker1: no.!
-speaker3: no?!??!?!?!?
-speaker3: hoo you thing you are?? himm muther?
-speaker3: you gimme liddle worm.
-speaker1: i said no.
-speaker1: welcome to my world.
-speaker3: you funny. you thing you stop me god?
-speaker3: you back wif me you be good bish-hor-kund...
-speaker1: my world...
-speaker1: my rules.
-speaker2: no!
-speaker2: don't hurt him!
-speaker2: he didn't mean it. i was bad.
-speaker2: he teached me a lesson. i deserved it.
-speaker1: no one deserves it, carl. no one.
-speaker3: yer world. my knife.
-speaker3: me hurt! why you do that? why?!
-speaker4: enough.
-speaker3: enuff?!?!
-speaker4: i'll tell you what's enough...
-speaker1: carl!
-speaker3: shut up give it here, worm...
-speaker4: enough.
-speaker5: why? what'd i do?...
-speaker2: time to go 'way.
-speaker1: carl...?
-speaker2: bye.
-speaker3: thank you, catherine. you did help me. more than you'll ever know.
-speaker1: goodbye carl.
+CATHERINE: you're all right, carl. 
+CATHERINE: it's okay, honey, you're with me now. you're safe here.
+CATHERINE: i promised i would help you, and i always keep my promises.
+YOUNG STARGHER: can...
+YOUNG STARGHER: can i stay here?
+CATHERINE: but what if i told you you could come visit?
+CATHERINE: i'll make sure it happens, carl. i'll get them to let me do it. and maybe... maybe we can...
+YOUNG STARGHER: he found me...
+YOUNG STARGHER: he always finds me.
+STARGHER KING: where thiisss att?!?! me no like id here...
+STARGHER KING: you. priddy bish-hor-kund. you big trubble-mekker... and you. you cumm home now, liddle cogsugger worm. or me haffa punish you...
+CATHERINE: no.!
+STARGHER KING: no?!??!?!?!?
+STARGHER KING: hoo you thing you are?? himm muther?
+STARGHER KING: you gimme liddle worm.
+CATHERINE: i said no.
+CATHERINE: welcome to my world.
+STARGHER KING: you funny. you thing you stop me god?
+STARGHER KING: you back wif me you be good bish-hor-kund...
+CATHERINE: my world...
+CATHERINE: my rules.
+YOUNG STARGHER: no!
+YOUNG STARGHER: don't hurt him!
+YOUNG STARGHER: he didn't mean it. i was bad.
+YOUNG STARGHER: he teached me a lesson. i deserved it.
+CATHERINE: no one deserves it, carl. no one.
+STARGHER KING: yer world. my knife.
+STARGHER KING: me hurt! why you do that? why?!
+STARGHER: enough.
+STARGHER KING: enuff?!?!
+STARGHER: i'll tell you what's enough...
+CATHERINE: carl!
+STARGHER KING: shut up give it here, worm...
+STARGHER: enough.
+MARTIN: why? what'd i do?...
+YOUNG STARGHER: time to go 'way.
+CATHERINE: carl...?
+YOUNG STARGHER: bye.
+STARGHER KING: thank you, catherine. you did help me. more than you'll ever know.
+CATHERINE: goodbye carl.
 
-speaker1: he's in full arrest. 
-speaker1: help me!
+MIRIAM: he's in full arrest. 
+MIRIAM: help me!
 
-speaker1: agent novak? go ahead. 
-speaker2: cole?
+PILOT: agent novak? go ahead. 
+NOVAK: cole?
 
-speaker1: delano? 
-speaker2: yep. and guess who they hired to seal up the place?
-speaker1: you're kidding me.
-speaker2: i never kid. my wife hates it. says i'm too serious.
-speaker1: the exact location, cole. give it to me.
+NOVAK: delano? 
+COLE: yep. and guess who they hired to seal up the place?
+NOVAK: you're kidding me.
+COLE: i never kid. my wife hates it. says i'm too serious.
+NOVAK: the exact location, cole. give it to me.
 
-speaker1: i left the nutritional information on the fridge door. read it. 
-speaker1: i refilled the zyprexa and atavan...
-speaker2: i don't need them anymore...
-speaker1: i know.
-speaker1: i'll come by tomorrow after work. with dinner.
-speaker2: thanks miriam. say hi to henry and...
-speaker1: ...give a kiss to edward.
-speaker2: give a kiss to edward.
+MIRIAM: i left the nutritional information on the fridge door. read it. 
+MIRIAM: i refilled the zyprexa and atavan...
+CATHERINE: i don't need them anymore...
+MIRIAM: i know.
+MIRIAM: i'll come by tomorrow after work. with dinner.
+CATHERINE: thanks miriam. say hi to henry and...
+MIRIAM: ...give a kiss to edward.
+CATHERINE: give a kiss to edward.
 
-speaker1: agent novak. 
-speaker2: dr. kent.
-speaker1: you're looking well.
-speaker2: thanks you. six weeks off does a body good. i heard she got the approval to try the reversal with edward.
-speaker1: that's a secret.
-speaker2: federal bureau of investigation, ma'am. we know all, see all...
-speaker2: how's the patient.
-speaker1: awaiting his arrival.
-speaker2: what about the cat?
-speaker1: completely unaware.
-speaker1: i've got to go. good luck.
+MIRIAM: agent novak. 
+NOVAK: dr. kent.
+MIRIAM: you're looking well.
+NOVAK: thanks you. six weeks off does a body good. i heard she got the approval to try the reversal with edward.
+MIRIAM: that's a secret.
+NOVAK: federal bureau of investigation, ma'am. we know all, see all...
+NOVAK: how's the patient.
+MIRIAM: awaiting his arrival.
+NOVAK: what about the cat?
+MIRIAM: completely unaware.
+MIRIAM: i've got to go. good luck.
 
-speaker1: ready? 
-speaker2: ready.
-speaker1: that went well.
-speaker2: give her a minute. hello, valentine.
-speaker1: you sure about this?
-speaker2: absolutely. abigail...
-speaker2: i heard julia and john got married.
-speaker1: yep. eloped.
-speaker2: good for them.
-speaker1: well look at that.
-speaker2: i told you. you have to be optimistic. believe in them...
-speaker1: so you say.
-speaker2: he's mine?
-speaker1: all yours. my boss says it's one of the strangest requests the bureau's ever had.
-speaker1: he also says that until proven differently, julia hickson was found as a result of good old-fashioned detective work.
-speaker2: it doesn't matter...
-speaker1: i don't know. i think it does. you know, catherine... if you ever want to talk about it. what happened to stargher. that last time.
-speaker2: not just yet. okay?
-speaker2: they're hungry.
-speaker1: i got it.
-speaker2: thank you.
-speaker1: no problem.
-speaker2: no. thank you.
+NOVAK: ready? 
+CATHERINE: ready.
+NOVAK: that went well.
+CATHERINE: give her a minute. hello, valentine.
+NOVAK: you sure about this?
+CATHERINE: absolutely. abigail...
+CATHERINE: i heard julia and john got married.
+NOVAK: yep. eloped.
+CATHERINE: good for them.
+NOVAK: well look at that.
+CATHERINE: i told you. you have to be optimistic. believe in them...
+NOVAK: so you say.
+CATHERINE: he's mine?
+NOVAK: all yours. my boss says it's one of the strangest requests the bureau's ever had.
+NOVAK: he also says that until proven differently, julia hickson was found as a result of good old-fashioned detective work.
+CATHERINE: it doesn't matter...
+NOVAK: i don't know. i think it does. you know, catherine... if you ever want to talk about it. what happened to stargher. that last time.
+CATHERINE: not just yet. okay?
+CATHERINE: they're hungry.
+NOVAK: i got it.
+CATHERINE: thank you.
+NOVAK: no problem.
+CATHERINE: no. thank you.
 

@@ -1,731 +1,731 @@
-speaker1: eddie! 
-speaker2: jaffa.
-speaker1: ladies and gentlemen, water world will be open in twenty-six hours and forty-three minutes.
+JAFFA: eddie! 
+EDDIE: jaffa.
+JAFFA: ladies and gentlemen, water world will be open in twenty-six hours and forty-three minutes.
 
-speaker1: yeah. this is great. i love this plan. drag me kicking and screaming from my happy home in california to some weird place in colorado, and say hey, this'll be fun robbie. maybe we can go camping.... 
-speaker2: look, i know you're not happy about this. but it wasn't my idea for your father to have some kind of mid-life crisis and disappear with his secretary to mexico with our life savings.
-speaker1: "administrative assistant." there's no such thing as a secretary anymore.
-speaker2: fine. administrative assistant. we couldn't afford to sit around waiting any longer to see if he was coming back. i was able to land a good job here. and now thanks to uncle bernie you have this job at the water park...
-speaker1: grounds crew. what kind of job is that? it sound like the guy who cleans out the coffee pots.
-speaker2: bernie says you help keep the park clean, sweep up, that sort of thing. i'm sure it won't be so bad. besides, a lot of the kids who work at this park go to the same high school you'll be going to. you can start the school year with some ready-made friends.
-speaker1: i had friends in oceanside. i had something to do for the summer.
-speaker2: hanging out at the beach surfing with your friends is not my idea of something
-speaker2: page 4 of 81 to do. this way you'll make some money and meet people here. you'd best get used to it. this is where we live now.
-speaker1: all thanks to dad and his secretary.
-speaker2: administrative assistant.
-speaker1: whatever. some summer....
-speaker2: promise me you'll give it a try....please?
-speaker1: i will. i promise. see you later
+ROBBIE: yeah. this is great. i love this plan. drag me kicking and screaming from my happy home in california to some weird place in colorado, and say hey, this'll be fun robbie. maybe we can go camping.... 
+CONNIE: look, i know you're not happy about this. but it wasn't my idea for your father to have some kind of mid-life crisis and disappear with his secretary to mexico with our life savings.
+ROBBIE: "administrative assistant." there's no such thing as a secretary anymore.
+CONNIE: fine. administrative assistant. we couldn't afford to sit around waiting any longer to see if he was coming back. i was able to land a good job here. and now thanks to uncle bernie you have this job at the water park...
+ROBBIE: grounds crew. what kind of job is that? it sound like the guy who cleans out the coffee pots.
+CONNIE: bernie says you help keep the park clean, sweep up, that sort of thing. i'm sure it won't be so bad. besides, a lot of the kids who work at this park go to the same high school you'll be going to. you can start the school year with some ready-made friends.
+ROBBIE: i had friends in oceanside. i had something to do for the summer.
+CONNIE: hanging out at the beach surfing with your friends is not my idea of something
+CONNIE: page 4 of 81 to do. this way you'll make some money and meet people here. you'd best get used to it. this is where we live now.
+ROBBIE: all thanks to dad and his secretary.
+CONNIE: administrative assistant.
+ROBBIE: whatever. some summer....
+CONNIE: promise me you'll give it a try....please?
+ROBBIE: i will. i promise. see you later
 
-speaker1: by the way. where is that twenty bucks? 
-speaker2: ohhh, hey dougie. i'll catch up with you later... hey, how you doin'? haven't seen you before.
-speaker2: page 5 of 81
-speaker3: i'm robbie. robbie zirpollo.
-speaker2: i'm alex. where you workin'?
-speaker3: i believe it's with the grounds crew?
-speaker2: what's the matter, can't swim?
-speaker3: i can swim. why?
-speaker2: well, you look old enough to be a guard.
-speaker3: almost 16. i get my license in september.
-speaker2: it's just that most of the guys on grounds are a little younger than you. most guys your age that can swim are guards.
-speaker3: well, i just moved here. i guess i missed guard tryouts. you're a guard then?
-speaker2: oh, no no no. i work concessions...at aokee's surf and snack shack. it's just as well. the guards are mostly stuck up anyway. the rest of us are the ones who know how to have fun.
-speaker3: can't swim, huh?
-speaker2: nope.
-speaker3: what is that?
-speaker2: surf tunes, dude!
-speaker2: page 6 of 81 you'll get used to it. you'll get to where you miss it. i had to buy two cd's just to get through the winter. they are now at the front of the line. a teenage girl melissa is sitting at the table with papers and a clipboard.
-speaker2: ahh. and here we have the fair melissa, time clerk extraordinaire...
-speaker4: oh, alex. am i going to have to put up with your for another entire summer?
-speaker2: dear melissa. there's nothing about our relationship that couldn't be fixed by us spending a few moments together in the pumphouse behind thunder bay.
-speaker4: yeah, well from what i hear, it would be a brief few moments.
-speaker3: ouch.
-speaker2: my dear, you cut me to the quick. check off my name and that of my amigo here, mr. robbie zirpollo.
-speaker4: fill out these emergency cards, and turn them in when you pick up your uniforms.... over there. and alex?
-speaker2: she wants me. yeeees?
-speaker4: this year, let's clock in only our own time card, shall we?
+DOUG: by the way. where is that twenty bucks? 
+ALEX: ohhh, hey dougie. i'll catch up with you later... hey, how you doin'? haven't seen you before.
+ALEX: page 5 of 81
+ROBBIE: i'm robbie. robbie zirpollo.
+ALEX: i'm alex. where you workin'?
+ROBBIE: i believe it's with the grounds crew?
+ALEX: what's the matter, can't swim?
+ROBBIE: i can swim. why?
+ALEX: well, you look old enough to be a guard.
+ROBBIE: almost 16. i get my license in september.
+ALEX: it's just that most of the guys on grounds are a little younger than you. most guys your age that can swim are guards.
+ROBBIE: well, i just moved here. i guess i missed guard tryouts. you're a guard then?
+ALEX: oh, no no no. i work concessions...at aokee's surf and snack shack. it's just as well. the guards are mostly stuck up anyway. the rest of us are the ones who know how to have fun.
+ROBBIE: can't swim, huh?
+ALEX: nope.
+ROBBIE: what is that?
+ALEX: surf tunes, dude!
+ALEX: page 6 of 81 you'll get used to it. you'll get to where you miss it. i had to buy two cd's just to get through the winter. they are now at the front of the line. a teenage girl melissa is sitting at the table with papers and a clipboard.
+ALEX: ahh. and here we have the fair melissa, time clerk extraordinaire...
+MELISSA: oh, alex. am i going to have to put up with your for another entire summer?
+ALEX: dear melissa. there's nothing about our relationship that couldn't be fixed by us spending a few moments together in the pumphouse behind thunder bay.
+MELISSA: yeah, well from what i hear, it would be a brief few moments.
+ROBBIE: ouch.
+ALEX: my dear, you cut me to the quick. check off my name and that of my amigo here, mr. robbie zirpollo.
+MELISSA: fill out these emergency cards, and turn them in when you pick up your uniforms.... over there. and alex?
+ALEX: she wants me. yeeees?
+MELISSA: this year, let's clock in only our own time card, shall we?
 
-speaker1: whoa....who was that? 
-speaker2: eeeaasy there, big fella. not in your lifetime. or mine.
-speaker1: so who is she?
-speaker2: miss tiffany maxwell, daughter of big mike maxwell, owner and operator of this here fine water park.
-speaker2: see, princess tiffany and her friends pretty much have the run of the park. her boyfriend is dan peterson, a guy we all call cowboy, one of the lifeguards. pretty decent guy from what i can tell. but she's a piece of work. your best strategy is to steer clear of her and she won't cause you any trouble.
-speaker1: cowboy, huh. big guy?
-speaker2: big. guy.
-speaker1: page 8 of 81 hmm.
-speaker3: hey alex.
-speaker4: aokee's. large.
-speaker3: name?
-speaker1: rob zirpollo. uh, robert zirpollo
-speaker3: grounds?
-speaker4: grounds.
-speaker1: so what is this grounds thing, anyway?
-speaker2: let's just say....you are critical and indispensable to the ongoing operation... and....flow of things here at the park.
-speaker5: here you go, tiger. one grounds. medium. you have a pair of green shorts at home?
-speaker5: buy some. tonight. wear them tomorrow along with this shirt. you need to report to the area just south of surf's up. look for a guy wearing army pants and glasses.
-speaker2: i'll show him. i'm going in that
-speaker2: page 9 of 81 direction. you get to meet the colonel!
-speaker2: left. left. left right left.
+ROBBIE: whoa....who was that? 
+ALEX: eeeaasy there, big fella. not in your lifetime. or mine.
+ROBBIE: so who is she?
+ALEX: miss tiffany maxwell, daughter of big mike maxwell, owner and operator of this here fine water park.
+ALEX: see, princess tiffany and her friends pretty much have the run of the park. her boyfriend is dan peterson, a guy we all call cowboy, one of the lifeguards. pretty decent guy from what i can tell. but she's a piece of work. your best strategy is to steer clear of her and she won't cause you any trouble.
+ROBBIE: cowboy, huh. big guy?
+ALEX: big. guy.
+ROBBIE: page 8 of 81 hmm.
+MALE UNIFORM GUY: hey alex.
+PERSON): aokee's. large.
+MALE UNIFORM GUY: name?
+ROBBIE: rob zirpollo. uh, robert zirpollo
+MALE UNIFORM GUY: grounds?
+PERSON): grounds.
+ROBBIE: so what is this grounds thing, anyway?
+ALEX: let's just say....you are critical and indispensable to the ongoing operation... and....flow of things here at the park.
+FEMALE UNIFORM PERSON: here you go, tiger. one grounds. medium. you have a pair of green shorts at home?
+FEMALE UNIFORM PERSON: buy some. tonight. wear them tomorrow along with this shirt. you need to report to the area just south of surf's up. look for a guy wearing army pants and glasses.
+ALEX: i'll show him. i'm going in that
+ALEX: page 9 of 81 direction. you get to meet the colonel!
+ALEX: left. left. left right left.
 
-speaker1: david...how you do this to me? i have full staff with you. i save your spot. i was counting on you. yes, yes....but the gap? what you think you do there? are there girls in swimming suits? have you forgotten? tips. do you get tips? cash money? 
-speaker1: well, come see us this summer, eh? you're a good kid...a good worker. yeah, you too.
-speaker2: who....?
-speaker1: david. seems to think there is future in retail. now what i do? i'm one person short. park opens tomorrow.
-speaker2: you know...i just met a guy that's old
-speaker2: page 10 of 81 enough to work here, but he's stuck in grounds.
-speaker1: good guy?
-speaker2: seemed like our kind of people.
-speaker1: we need to get him before he get his plunger!
+AOKEE: david...how you do this to me? i have full staff with you. i save your spot. i was counting on you. yes, yes....but the gap? what you think you do there? are there girls in swimming suits? have you forgotten? tips. do you get tips? cash money? 
+AOKEE: well, come see us this summer, eh? you're a good kid...a good worker. yeah, you too.
+ALEX: who....?
+AOKEE: david. seems to think there is future in retail. now what i do? i'm one person short. park opens tomorrow.
+ALEX: you know...i just met a guy that's old
+ALEX: page 10 of 81 enough to work here, but he's stuck in grounds.
+AOKEE: good guy?
+ALEX: seemed like our kind of people.
+AOKEE: we need to get him before he get his plunger!
 
-speaker1: alex...... ..you got to go ahead... ...stall 'til i get there. 
-speaker2: alex takes off, and aokee runs again....
+AOKEE: alex...... ..you got to go ahead... ...stall 'til i get there. 
+OK.: alex takes off, and aokee runs again....
 
-speaker1: well, it looks like we have a good staff here. yes...yes a good staff. it will be an excellent summer. remember as we go through training today, our park is judged by the work we do. if we do it well, the people come back. we have a little tradition here on the grounds crew. rather than having to learn a lot of names, many of which i can never hope to pronounce properly, each grounds crew member gets a grounds crew nickname. you will be known by that nickname in every way except, of course, your paycheck and employee records. 
-speaker1: let's see, what do we have? hmm...yes. ok, first up is eddie cochran. your grounds crew nickname will be.....eddie!
-speaker1: now crewmembers, listen up. eddie here has eight years experience on the grounds crew. why, i'd like to think there isn't anything, any situation that eddie hasn't faced. listen to him. learn from him. watch what he does. this man is the finest, most conscientious grounds crewman we've ever had.
-speaker1: let's see...clark? hmmm. your grounds crew nickname will be....sparky.
-speaker1: page 12 of 81
-speaker2: sorry, sir. mosquito.
-speaker1: hmmm.....your grounds crew nickname will be.....skeeter.
-speaker1: melinda tally. hmmm... your grounds crew nickname will be...
-speaker3: hello, colonel!
-speaker1: alex, isn't it?
-speaker3: yes sir, colonel. and what a fine staff you've assembled this year. have you told them yet about your army background?
-speaker1: well, no, i didn't think it was..
+THE COLONEL: well, it looks like we have a good staff here. yes...yes a good staff. it will be an excellent summer. remember as we go through training today, our park is judged by the work we do. if we do it well, the people come back. we have a little tradition here on the grounds crew. rather than having to learn a lot of names, many of which i can never hope to pronounce properly, each grounds crew member gets a grounds crew nickname. you will be known by that nickname in every way except, of course, your paycheck and employee records. 
+THE COLONEL: let's see, what do we have? hmm...yes. ok, first up is eddie cochran. your grounds crew nickname will be.....eddie!
+THE COLONEL: now crewmembers, listen up. eddie here has eight years experience on the grounds crew. why, i'd like to think there isn't anything, any situation that eddie hasn't faced. listen to him. learn from him. watch what he does. this man is the finest, most conscientious grounds crewman we've ever had.
+THE COLONEL: let's see...clark? hmmm. your grounds crew nickname will be....sparky.
+THE COLONEL: page 12 of 81
+SKEETER: sorry, sir. mosquito.
+THE COLONEL: hmmm.....your grounds crew nickname will be.....skeeter.
+THE COLONEL: melinda tally. hmmm... your grounds crew nickname will be...
+ALEX: hello, colonel!
+THE COLONEL: alex, isn't it?
+ALEX: yes sir, colonel. and what a fine staff you've assembled this year. have you told them yet about your army background?
+THE COLONEL: well, no, i didn't think it was..
 
-speaker1: well, it really wasn't much of a... 
-speaker2: wasn't much? can you just imagine for a moment the germs and bacteria our american soldiers could pick up in an unsanitised army latrine? it's impossible to determine just how many lives have been saved thanks to the efforts of this one humble army colonel.
-speaker1: well, i suppose when you put it that way...
-speaker2: i, too, came up through the ranks when at age 14, i began my service here at water world learning from this great man.
-speaker1: yes....i remember now.....what was your grounds nickname...?
-speaker2: not even sure i remember it myself, sir. but i remember much more. did you tell them about the film?
-speaker1: film?
-speaker2: "hygiene makes you happy" every enlisted man in the army has seen it. some by choice. all from the mind of the colonel here...
+THE COLONEL: well, it really wasn't much of a... 
+ALEX: wasn't much? can you just imagine for a moment the germs and bacteria our american soldiers could pick up in an unsanitised army latrine? it's impossible to determine just how many lives have been saved thanks to the efforts of this one humble army colonel.
+THE COLONEL: well, i suppose when you put it that way...
+ALEX: i, too, came up through the ranks when at age 14, i began my service here at water world learning from this great man.
+THE COLONEL: yes....i remember now.....what was your grounds nickname...?
+ALEX: not even sure i remember it myself, sir. but i remember much more. did you tell them about the film?
+THE COLONEL: film?
+ALEX: "hygiene makes you happy" every enlisted man in the army has seen it. some by choice. all from the mind of the colonel here...
 
-speaker1: colonel....terrible mistake... 
-speaker2: bureaucratic bumble...
-speaker1: bureaucratic bumble....
-speaker2: lost paperwork....
-speaker1: lost paperwork....
-speaker2: an error in the front office...
-speaker1: error in front office....
-speaker2: spiced applesauce....
-speaker1: spiced...
-speaker3: good man, what are you trying to say?
-speaker2: it's robbie sir. he was supposed to work at aokee's and through some crazy mix-up, he ended up here.
-speaker3: zirpollo? well this is highly irregular...
-speaker2: page 15 of 81 most annoying....
-speaker3: most annoying....
-speaker2: never happened before....
-speaker3: never happened before....
-speaker2: spaghetti marinara...
-speaker3: spa....what?
-speaker4: i was confused myself, sir. i had heard i was working for some hawaiian guy.
-speaker1: i promise, we go straight to personnel, straighten the whole thing out. you won't need to worry.
-speaker3: very well. we'll just have to make-do.
-speaker3: snafu.
-speaker5: sir?
-speaker3: his grounds crew nickname. i remember it now. snafu.
+AOKEE: colonel....terrible mistake... 
+ALEX: bureaucratic bumble...
+AOKEE: bureaucratic bumble....
+ALEX: lost paperwork....
+AOKEE: lost paperwork....
+ALEX: an error in the front office...
+AOKEE: error in front office....
+ALEX: spiced applesauce....
+AOKEE: spiced...
+THE COLONEL: good man, what are you trying to say?
+ALEX: it's robbie sir. he was supposed to work at aokee's and through some crazy mix-up, he ended up here.
+THE COLONEL: zirpollo? well this is highly irregular...
+ALEX: page 15 of 81 most annoying....
+THE COLONEL: most annoying....
+ALEX: never happened before....
+THE COLONEL: never happened before....
+ALEX: spaghetti marinara...
+THE COLONEL: spa....what?
+ROBBIE: i was confused myself, sir. i had heard i was working for some hawaiian guy.
+AOKEE: i promise, we go straight to personnel, straighten the whole thing out. you won't need to worry.
+THE COLONEL: very well. we'll just have to make-do.
+THE COLONEL: snafu.
+MELINDA: sir?
+THE COLONEL: his grounds crew nickname. i remember it now. snafu.
 
-speaker1: okay, everybody, let's quiet down for a minute. for those who don't know me, my name is michael maxwell, and i...sort of run things around here. 
-speaker2: big mike! big mike! big mike!
-speaker1: okay, yeah thanks. now, i want go over a few basic things. first of all, make sure you've all filled out your paperwork with personnel, cause nobody gets paid unless they do. come to think of it, i suppose it's better for me that you don't fill out your paperwork, then i don't have to pay you. i'll make it optional. if you want to get paid, fill out your paperwork. let's remember, the people who come here are our guests, and your job is to see they have a safe and fun experience here. let's work together to keep the park clean and safe, and we'll have a great summer together. now with a few words is our head lifeguard, richard thompson. another cheer starts up, smaller this time, which alex starts.
-speaker3: big big big
-speaker4: ...a long ways to go...
-speaker4: ...but i'd like to take a moment to speak, mostly to the guards, but certainly everyone has a role in this. we can take everything we've learned and distill it down to two simple rules. rule number one:
-speaker4: don't drown!
-speaker4: rule number two:
-speaker4: don't let anyone else drown!
-speaker4: thank you. have a great summer!
+BIG MIKE: okay, everybody, let's quiet down for a minute. for those who don't know me, my name is michael maxwell, and i...sort of run things around here. 
+EVERYONE TOGETHER: big mike! big mike! big mike!
+BIG MIKE: okay, yeah thanks. now, i want go over a few basic things. first of all, make sure you've all filled out your paperwork with personnel, cause nobody gets paid unless they do. come to think of it, i suppose it's better for me that you don't fill out your paperwork, then i don't have to pay you. i'll make it optional. if you want to get paid, fill out your paperwork. let's remember, the people who come here are our guests, and your job is to see they have a safe and fun experience here. let's work together to keep the park clean and safe, and we'll have a great summer together. now with a few words is our head lifeguard, richard thompson. another cheer starts up, smaller this time, which alex starts.
+SMALLER GROUP: big big big
+RICHARD: ...a long ways to go...
+RICHARD: ...but i'd like to take a moment to speak, mostly to the guards, but certainly everyone has a role in this. we can take everything we've learned and distill it down to two simple rules. rule number one:
+RICHARD: don't drown!
+RICHARD: rule number two:
+RICHARD: don't let anyone else drown!
+RICHARD: thank you. have a great summer!
 
-speaker1: hey, hey lookin' good. blue is your color. beats that stupid t-shirt, huh? 
-speaker2: alex. come here a minute.
-speaker2: alex, look. we falling apart. i made you assistant manager this year. go assistant manage.
+ALEX: hey, hey lookin' good. blue is your color. beats that stupid t-shirt, huh? 
+AOKEE: alex. come here a minute.
+AOKEE: alex, look. we falling apart. i made you assistant manager this year. go assistant manage.
 
-speaker1: sorry, sarah, but i need to borrow this. 
-speaker2: hey! how did you know i wear shorts under that?
-speaker1: oh, puh-leeaase.
-speaker1: ladies and gentlemen, may i have your attention, please?
-speaker1: in exactly 30 minutes, hundreds of dripping wet customers with fistfuls of money smelling of chlorine and suntan lotion will be walking in here. and what will they be looking for?
-speaker3: the best teriyaki east of the pacific!!!
-speaker1: annnnnnd?
-speaker3: the finest smoothies in the state!!!
-speaker1: now, everyone's a little tense, except me, of course. so to help you get in the proper frame of mind and relax, we need
-speaker1: page 20 of 81 the right soundtrack. maestro?
-speaker1: this is little tune i like to call the paradise slide. one, two, a one two three.
-speaker3: page 21 of 81
+ALEX: sorry, sarah, but i need to borrow this. 
+SARAH: hey! how did you know i wear shorts under that?
+ALEX: oh, puh-leeaase.
+ALEX: ladies and gentlemen, may i have your attention, please?
+ALEX: in exactly 30 minutes, hundreds of dripping wet customers with fistfuls of money smelling of chlorine and suntan lotion will be walking in here. and what will they be looking for?
+EVERYONE TOGETHER: the best teriyaki east of the pacific!!!
+ALEX: annnnnnd?
+EVERYONE TOGETHER: the finest smoothies in the state!!!
+ALEX: now, everyone's a little tense, except me, of course. so to help you get in the proper frame of mind and relax, we need
+ALEX: page 20 of 81 the right soundtrack. maestro?
+ALEX: this is little tune i like to call the paradise slide. one, two, a one two three.
+EVERYONE TOGETHER: page 21 of 81
 
-speaker1: you did good work today. here. i made you some of my special power smoothies. more customers later wanting dinner before park closes. i can't have you falling asleep on me. 
-speaker1: alex, we are completely out of table stretchers and left-handed coffee pots. take robbie and go find some. i think some at the first-aid station near surf's up pool.
-speaker2: right. see you in a little while.
+AOKEE: you did good work today. here. i made you some of my special power smoothies. more customers later wanting dinner before park closes. i can't have you falling asleep on me. 
+AOKEE: alex, we are completely out of table stretchers and left-handed coffee pots. take robbie and go find some. i think some at the first-aid station near surf's up pool.
+ALEX: right. see you in a little while.
 
-speaker1: so that was a typical lunch crowd? 
-speaker2: well, it's early in the season yet.
-speaker1: busier?
-speaker2: don't worry. you'll get used to it. and tips were good, right?
-speaker2: page 22 of 81
-speaker1: there's nothing like cash money in your pocket. what's that over there?
-speaker2: oh, you'll find this ride interesting.
+ROBBIE: so that was a typical lunch crowd? 
+ALEX: well, it's early in the season yet.
+ROBBIE: busier?
+ALEX: don't worry. you'll get used to it. and tips were good, right?
+ALEX: page 22 of 81
+ROBBIE: there's nothing like cash money in your pocket. what's that over there?
+ALEX: oh, you'll find this ride interesting.
 
-speaker1: it's a lot harder than it looks. 
-speaker2: i can't imagine it's that difficult. ...no rudder on the board...
-speaker1: now this is a place of many wonders. see those guys in line over there?
-speaker1: we call them "wave bums". they all have season passes, and do little more than ride the wave all day long. some of them get pretty good.
-speaker1: that's where they hang out when they're not riding the wave. don't get too close to them.
-speaker2: no?
-speaker1: contact high.
-speaker1: page 23 of 81
-speaker1: and there, my friend, is another one of the wave's features.
-speaker1: we call them "wave babes". and there's a special secret to this ride.
-speaker1: hey, bob....can i borrow your radio a minute?
-speaker3: sure.
-speaker1: hey frank, it's alex.
-speaker4: yo, alex.
-speaker1: listen you have a possible code 4. means a "hottie".
-speaker1: she's up next. a free chicken sandwich and a smoothie if you bounce up the pressure a bit.
-speaker4: you got it bud. but two smoothies.
-speaker1: he knows my weak spot. two volcanos and a chicken sandwich.
-speaker4: time to go to ludicrous speed!
-speaker4: page 24 of 81
-speaker1: watch, and wait....
-speaker1: yesss!
-speaker5: excuse me... miss? hello...excuse me...?
-speaker5: is this yours?
-speaker2: you were right. i was interested in
-speaker2: page 25 of 81 this.
-speaker1: well, sometime bring your swimsuit. we'll come back on break. i'll show you how to do it. surf's is this way. and keep an eye out for frank over there. we owe him.
+ALEX: it's a lot harder than it looks. 
+ROBBIE: i can't imagine it's that difficult. ...no rudder on the board...
+ALEX: now this is a place of many wonders. see those guys in line over there?
+ALEX: we call them "wave bums". they all have season passes, and do little more than ride the wave all day long. some of them get pretty good.
+ALEX: that's where they hang out when they're not riding the wave. don't get too close to them.
+ROBBIE: no?
+ALEX: contact high.
+ALEX: page 23 of 81
+ALEX: and there, my friend, is another one of the wave's features.
+ALEX: we call them "wave babes". and there's a special secret to this ride.
+ALEX: hey, bob....can i borrow your radio a minute?
+BOB: sure.
+ALEX: hey frank, it's alex.
+FRANK VO: yo, alex.
+ALEX: listen you have a possible code 4. means a "hottie".
+ALEX: she's up next. a free chicken sandwich and a smoothie if you bounce up the pressure a bit.
+FRANK VO: you got it bud. but two smoothies.
+ALEX: he knows my weak spot. two volcanos and a chicken sandwich.
+FRANK VO: time to go to ludicrous speed!
+FRANK VO: page 24 of 81
+ALEX: watch, and wait....
+ALEX: yesss!
+SKEETER: excuse me... miss? hello...excuse me...?
+SKEETER: is this yours?
+ROBBIE: you were right. i was interested in
+ROBBIE: page 25 of 81 this.
+ALEX: well, sometime bring your swimsuit. we'll come back on break. i'll show you how to do it. surf's is this way. and keep an eye out for frank over there. we owe him.
 
-speaker1: hey. i've been sent to find some table stretchers and left-handed coffee pots. 
-speaker2: oh, you must be the new guy at aokee's.
-speaker1: yeah, how'd you know?
-speaker2: lucky guess. saw some at the top of river country. just ask one of the guards over there.
-speaker1: thanks.
-speaker2: and hey...tell that wienie alex he still owes me twenty bucks!
-speaker1: got it.
+ROBBIE: hey. i've been sent to find some table stretchers and left-handed coffee pots. 
+DOUG: oh, you must be the new guy at aokee's.
+ROBBIE: yeah, how'd you know?
+DOUG: lucky guess. saw some at the top of river country. just ask one of the guards over there.
+ROBBIE: thanks.
+DOUG: and hey...tell that wienie alex he still owes me twenty bucks!
+ROBBIE: got it.
 
-speaker1: alex! 
-speaker2: jama...i mean...jaffa the jamaican...what shakes, it mon?
-speaker1: jus' the same old this's and that's, mon.
-speaker2: jaffa, meet robbie zirpollo. jaffa plays the tunes and talks the talk.
-speaker1: what? no way.
-speaker3: check it out...
-speaker1: attention lost river guards. we have a report that some huge fat bald guy has abandoned his swimsuit and is slidin' down lost river with nothin' on but a smile. be watchin' for a great white whale now.
+JAFFA: alex! 
+ALEX: jama...i mean...jaffa the jamaican...what shakes, it mon?
+JAFFA: jus' the same old this's and that's, mon.
+ALEX: jaffa, meet robbie zirpollo. jaffa plays the tunes and talks the talk.
+JAFFA: what? no way.
+ROBBIE): check it out...
+JAFFA: attention lost river guards. we have a report that some huge fat bald guy has abandoned his swimsuit and is slidin' down lost river with nothin' on but a smile. be watchin' for a great white whale now.
 
-speaker1: attention please. will mr. john big bootay report to lost river splashdown. 
-speaker2: he's calling for security.
-speaker2: page 27 of 81
-speaker3: wow. jamaica. i thought i was far from home.
-speaker1: i'll let you in on a little secret. perception is everything...now, jamal from aurora, he's probably over with those guys...
-speaker1: ...cleaning the rest rooms. but jaffa from jamaica, he's in customer service, wearin' the nice shirt and playing the music. perception and atmosphere. you get it?
+JAFFA: attention please. will mr. john big bootay report to lost river splashdown. 
+ALEX: he's calling for security.
+ALEX: page 27 of 81
+ROBBIE: wow. jamaica. i thought i was far from home.
+JAFFA: i'll let you in on a little secret. perception is everything...now, jamal from aurora, he's probably over with those guys...
+JAFFA: ...cleaning the rest rooms. but jaffa from jamaica, he's in customer service, wearin' the nice shirt and playing the music. perception and atmosphere. you get it?
 
-speaker1: hey eddie. what have you got? 
-speaker2: water balloon.
-speaker1: you got this?
-speaker2: yeah. rookies!
-speaker3: oh eddie. listen, i know you're working but you hold on for just a minute. i've been so busy, and i really gotta go.
-speaker2: but....no....
+ALEX: hey eddie. what have you got? 
+EDDIE: water balloon.
+ALEX: you got this?
+EDDIE: yeah. rookies!
+BIG MIKE: oh eddie. listen, i know you're working but you hold on for just a minute. i've been so busy, and i really gotta go.
+EDDIE: but....no....
 
-speaker1: ...so then he just disappeared. i had to call my dad to come pick me up. 
-speaker1: page 29 of 81
-speaker2: hi. we're looking for some table stretchers and left-handed coffee pots.
-speaker3: what? amy, this guy is looking for a table stretcher?
-speaker1: aokee's huh?
-speaker2: uh, yes...
-speaker1: they're all down at big mike's last i saw. when you gonna tell him?
-speaker4: hi, amy. who's this?
-speaker1: katie, this is alex and...
-speaker2: robbie. ummm, rob zirpollo.
-speaker1: well, anyway, big mike's is where they are.
-speaker2: thanks.
-speaker1: what a couple of losers.
-speaker3: i don't know...i thought robbie was kind of cute...
-speaker1: listen, you're new, so let me tell you how things are. first those guys were wearing blue shorts. that means
-speaker1: page 30 of 81 concessions. the water world social structure is organized on three levels. at the bottom are the trash rats.
-speaker3: trash rats?
-speaker1: bottom feeders. grounds kids. babies. they clean the toilets and empty the trash. most are only 14 years old. it's the only job younger kids can do here. next up is concessions. they're our "middle class". we don't hang with them and they don't much hang with us. at the top of heap are the guards. you are a guard. girl, if you want to go out with someone, stick with your own kind.
-speaker3: aw, that's just silly. i think he's cute.
+AMY: ...so then he just disappeared. i had to call my dad to come pick me up. 
+AMY: page 29 of 81
+ROBBIE: hi. we're looking for some table stretchers and left-handed coffee pots.
+KATIE: what? amy, this guy is looking for a table stretcher?
+AMY: aokee's huh?
+ROBBIE: uh, yes...
+AMY: they're all down at big mike's last i saw. when you gonna tell him?
+ALEX: hi, amy. who's this?
+AMY: katie, this is alex and...
+ROBBIE: robbie. ummm, rob zirpollo.
+AMY: well, anyway, big mike's is where they are.
+ROBBIE: thanks.
+AMY: what a couple of losers.
+KATIE: i don't know...i thought robbie was kind of cute...
+AMY: listen, you're new, so let me tell you how things are. first those guys were wearing blue shorts. that means
+AMY: page 30 of 81 concessions. the water world social structure is organized on three levels. at the bottom are the trash rats.
+KATIE: trash rats?
+AMY: bottom feeders. grounds kids. babies. they clean the toilets and empty the trash. most are only 14 years old. it's the only job younger kids can do here. next up is concessions. they're our "middle class". we don't hang with them and they don't much hang with us. at the top of heap are the guards. you are a guard. girl, if you want to go out with someone, stick with your own kind.
+KATIE: aw, that's just silly. i think he's cute.
 
-speaker1: what did that girl amy mean? 
-speaker2: about what?
-speaker1: when she said, when are you going to tell him?
-speaker2: i'll tell you over a hamburger at big mike's.
-speaker2: page 31 of 81
-speaker3: staaaannnd uuuuuuuupppp!
+ROBBIE: what did that girl amy mean? 
+ALEX: about what?
+ROBBIE: when she said, when are you going to tell him?
+ALEX: i'll tell you over a hamburger at big mike's.
+ALEX: page 31 of 81
+RESCUE GUARD: staaaannnd uuuuuuuupppp!
 
-speaker1: aokee's not going to be happy. nobody seems to know where these things are... 
-speaker2: yep.
-speaker1: what?
-speaker2: there's no such thing as a table stretcher or a left-handed coffee pot.
-speaker1: what a dirty trick.
-speaker2: it's just aokee's way of giving you a tour of the park without having to be there. consider it a rookie initiation.
-speaker1: humph.
-speaker2: time to make it up to you. come on.
+ROBBIE: aokee's not going to be happy. nobody seems to know where these things are... 
+ALEX: yep.
+ROBBIE: what?
+ALEX: there's no such thing as a table stretcher or a left-handed coffee pot.
+ROBBIE: what a dirty trick.
+ALEX: it's just aokee's way of giving you a tour of the park without having to be there. consider it a rookie initiation.
+ROBBIE: humph.
+ALEX: time to make it up to you. come on.
 
-speaker1: alex! 
-speaker2: hey davey...how 'bout two for two?
-speaker1: malts?
-speaker2: chocolate. dave disappears for moment.
-speaker2: now, if he ever shows up at our back door, we owe him chicken and smoothies.
-speaker3: but...don't we get an employee discount? shouldn't we go in the front?
-speaker2: well...the discount is larger this way.
-speaker2: come on...let's go eat!
+DAVE: alex! 
+ALEX: hey davey...how 'bout two for two?
+DAVE: malts?
+ALEX: chocolate. dave disappears for moment.
+ALEX: now, if he ever shows up at our back door, we owe him chicken and smoothies.
+ROBBIE: but...don't we get an employee discount? shouldn't we go in the front?
+ALEX: well...the discount is larger this way.
+ALEX: come on...let's go eat!
 
-speaker1: oh boy. here we go. 
-speaker2: what now?
-speaker1: aokee. the pigeons have been taking target practice on his trophy pedestal. come on.
-speaker1: page 33 of 81
+ALEX: oh boy. here we go. 
+ROBBIE: what now?
+ALEX: aokee. the pigeons have been taking target practice on his trophy pedestal. come on.
+ALEX: page 33 of 81
 
-speaker1: stupid pigeons. they should all die! 
-speaker2: happens every week.
-speaker3: what is this thing for anyway?
-speaker1: someday, robbie. someday.
-speaker2: that stand is to display the coveted surfer king trophy. aokee seems to think that one day some concessions kid with more courage than brains is going to beat the lifeguards in the annual employee olympics.
-speaker3: and what would this concessions kid have to do?
-speaker2: nothing, really. just out surf the strongest guard of them all in the surfing competition. no big deal.
-speaker3: has it ever happened?
-speaker2: a guard always wins the surf competition. know why?
-speaker4: because concessions kids can't swim!
-speaker1: someday.
+AOKEE: stupid pigeons. they should all die! 
+ALEX: happens every week.
+ROBBIE: what is this thing for anyway?
+AOKEE: someday, robbie. someday.
+ALEX: that stand is to display the coveted surfer king trophy. aokee seems to think that one day some concessions kid with more courage than brains is going to beat the lifeguards in the annual employee olympics.
+ROBBIE: and what would this concessions kid have to do?
+ALEX: nothing, really. just out surf the strongest guard of them all in the surfing competition. no big deal.
+ROBBIE: has it ever happened?
+ALEX: a guard always wins the surf competition. know why?
+TOGETHER: because concessions kids can't swim!
+AOKEE: someday.
 
-speaker1: hi there. 
-speaker2: hello. on break?
-speaker1: yeah. two blue crushes please.
-speaker2: coming up.
-speaker3: oooh. umbrellas. i've never gotten umbrellas before.
-speaker2: these are only for vip guests.
-speaker4: amy. have you ever seen the fabulous cummings and robbins 2000-b?
-speaker3: i don't think so.
-speaker4: it's incredible. it washes 2000 plates an hour....
-speaker1: so... you're not from around here, huh?
-speaker2: california. i just moved here at the beginning of the summer.
-speaker1: i'll bet california's nice. i've never been west of the mountains.
-speaker1: page 35 of 81
-speaker2: you'd love the ocean. and the sunsets are incredible. you can almost hear the sizzle as the sun drops into the ocean... of course, we all know it doesn't drop into the ocean.
-speaker1: no. i'm surprised you're not a guard, coming from the ocean and all.
-speaker2: let's just say i missed my chance, and alex saved me from a death worse than fate. i was very nearly a trash rat.
-speaker1: oh. good save.
-speaker3: well. that was exciting. maybe next time you can show me how to scrub the grill. come on, katie.
-speaker4: well...how'd you do?
-speaker2: mmmm. i told her how beautiful the california sunsets are.
-speaker4: good job. you work fast. hey it's time for our break. bring your swimsuit?
-speaker2: yeah. the wave?
-speaker4: the wave. i love that water.
-speaker4: can't swim. it's only three inches deep.
-speaker2: ah ha! let's go.
-speaker2: page 36 of 81
+KATIE: hi there. 
+ROBBIE: hello. on break?
+KATIE: yeah. two blue crushes please.
+ROBBIE: coming up.
+AMY: oooh. umbrellas. i've never gotten umbrellas before.
+ROBBIE: these are only for vip guests.
+ALEX: amy. have you ever seen the fabulous cummings and robbins 2000-b?
+AMY: i don't think so.
+ALEX: it's incredible. it washes 2000 plates an hour....
+KATIE: so... you're not from around here, huh?
+ROBBIE: california. i just moved here at the beginning of the summer.
+KATIE: i'll bet california's nice. i've never been west of the mountains.
+KATIE: page 35 of 81
+ROBBIE: you'd love the ocean. and the sunsets are incredible. you can almost hear the sizzle as the sun drops into the ocean... of course, we all know it doesn't drop into the ocean.
+KATIE: no. i'm surprised you're not a guard, coming from the ocean and all.
+ROBBIE: let's just say i missed my chance, and alex saved me from a death worse than fate. i was very nearly a trash rat.
+KATIE: oh. good save.
+AMY: well. that was exciting. maybe next time you can show me how to scrub the grill. come on, katie.
+ALEX: well...how'd you do?
+ROBBIE: mmmm. i told her how beautiful the california sunsets are.
+ALEX: good job. you work fast. hey it's time for our break. bring your swimsuit?
+ROBBIE: yeah. the wave?
+ALEX: the wave. i love that water.
+ALEX: can't swim. it's only three inches deep.
+ROBBIE: ah ha! let's go.
+ROBBIE: page 36 of 81
 
-speaker1: now, just take it easy, and don't expect too much at first. when you wipe out, your ride is done. 
-speaker1: just ease into it.
-speaker1: gees. where did you learn to do that?
-speaker2: i'm from oceanside, california. i was born on a surfboard. they start walking back.
-speaker1: think you could ride that?
-speaker2: in my sleep.
+ALEX: now, just take it easy, and don't expect too much at first. when you wipe out, your ride is done. 
+ALEX: just ease into it.
+ALEX: gees. where did you learn to do that?
+ROBBIE: i'm from oceanside, california. i was born on a surfboard. they start walking back.
+ALEX: think you could ride that?
+ROBBIE: in my sleep.
 
-speaker1: listen. some guy came in today and try to buy a sandwich and pay with a phone card. today i believe anything. 
-speaker2: i took robbie to the wave today.
-speaker1: what? he drown?
-speaker2: no. it turns out that he's from oceanside. california. you know, where they always hold those surf competitions?
-speaker1: yeah. so?
-speaker2: it turns out that he placed second in the state high school finals for the shortboard competition. as a sophomore.
-speaker1: robbie. robbie barely walk without help.
-speaker2: i saw it myself. you wouldn't believe it.
-speaker1: i don' believe it. our robbie?
-speaker2: our robbie.
-speaker1: if this true....this could be da year.
-speaker2: that's what i was thinking.
-speaker1: well, go get him. we need to make ready. he not just walk in and win this thing.
-speaker2: you heard it. he's in the kitchen...
-speaker2: page 38 of 81
-speaker1: robbie, sit down. alex, make up a volcano. this boy in training.
-speaker3: what did i spill now?
-speaker1: robbie, alex tell me you are some kind of surfer. this true?
-speaker3: i dunno. yeah, surfing is usually how i spend my summers.
-speaker1: you know about employee olympics?
-speaker3: yeah. some kind of trophy.
-speaker1: surfer king trophy. very big. very nice. concessions never win.
-speaker3: i dunno...seems kind of silly to me.
-speaker2: it's a big deal. every girl wants to date you. every guy wants to be you. special privileges...we all wear standard uniforms. the surfer king gets to be creative. you ever see the cowboy hat cowboy wears?
-speaker3: it shouldn't be that hard...how good could this cowboy be?
-speaker1: he very good. his family go to hawaii every year, two, three weeks. good surfer. if you do this, you need to see pipeman.
+AOKEE: listen. some guy came in today and try to buy a sandwich and pay with a phone card. today i believe anything. 
+ALEX: i took robbie to the wave today.
+AOKEE: what? he drown?
+ALEX: no. it turns out that he's from oceanside. california. you know, where they always hold those surf competitions?
+AOKEE: yeah. so?
+ALEX: it turns out that he placed second in the state high school finals for the shortboard competition. as a sophomore.
+AOKEE: robbie. robbie barely walk without help.
+ALEX: i saw it myself. you wouldn't believe it.
+AOKEE: i don' believe it. our robbie?
+ALEX: our robbie.
+AOKEE: if this true....this could be da year.
+ALEX: that's what i was thinking.
+AOKEE: well, go get him. we need to make ready. he not just walk in and win this thing.
+ALEX: you heard it. he's in the kitchen...
+ALEX: page 38 of 81
+AOKEE: robbie, sit down. alex, make up a volcano. this boy in training.
+ROBBIE: what did i spill now?
+AOKEE: robbie, alex tell me you are some kind of surfer. this true?
+ROBBIE: i dunno. yeah, surfing is usually how i spend my summers.
+AOKEE: you know about employee olympics?
+ROBBIE: yeah. some kind of trophy.
+AOKEE: surfer king trophy. very big. very nice. concessions never win.
+ROBBIE: i dunno...seems kind of silly to me.
+ALEX: it's a big deal. every girl wants to date you. every guy wants to be you. special privileges...we all wear standard uniforms. the surfer king gets to be creative. you ever see the cowboy hat cowboy wears?
+ROBBIE: it shouldn't be that hard...how good could this cowboy be?
+AOKEE: he very good. his family go to hawaii every year, two, three weeks. good surfer. if you do this, you need to see pipeman.
 
-speaker1: he's a myth. 
-speaker2: oh, no. pipeman very real. works here in park. low profile. you must find him and convince him to teach you the secrets of the thunder bay wave. this not the ocean, surf boy.
-speaker1: pipeman. the banzai pipeline. i get it. some kind of legendary surf champ. where do we find him?
-speaker2: i only see him once, maybe twice. stay behind scenes. but here he is and find him you must. so. you do this?
+ALEX: he's a myth. 
+AOKEE: oh, no. pipeman very real. works here in park. low profile. you must find him and convince him to teach you the secrets of the thunder bay wave. this not the ocean, surf boy.
+ALEX: pipeman. the banzai pipeline. i get it. some kind of legendary surf champ. where do we find him?
+AOKEE: i only see him once, maybe twice. stay behind scenes. but here he is and find him you must. so. you do this?
 
-speaker1: ....why you wouldn't believe the things i've heard. just stupid things. cutting in line. demanding special treatment. oh, and how about this one: princesses don't carry trash. i've often thought it was a mistake to have you work here. maybe i was right. 
-speaker1: page 40 of 81
-speaker2: oh, daddy. you know how jealous people get.
-speaker1: i'd almost believe that. but i was behind the first aid station when you said the "princess" line. this park exists because the kids here work hard. they need to be treated fairly. they need to see you are just another lifeguard.
-speaker2: but i'm not just another lifeguard.
-speaker1: you won't even be that if this continues. if you want to keep coming here every day and driving that little convertible of yours, i need to see real, concrete changes in your attitude.
-speaker2: all right. what do you expect me to do?
-speaker1: for one thing, start mingling with "the commoners". you'd be amazed at how nice some of the people who work here are. make some friends outside that little group of yours. it's the work of the average teenager here that puts food on our table. show some gratitude.
-speaker2: fine. i'll work it.
-speaker1: good. work on it. please?
-speaker2: oh, daddy. don't worry about a thing.
+BIG MIKE: ....why you wouldn't believe the things i've heard. just stupid things. cutting in line. demanding special treatment. oh, and how about this one: princesses don't carry trash. i've often thought it was a mistake to have you work here. maybe i was right. 
+BIG MIKE: page 40 of 81
+TIFFANY: oh, daddy. you know how jealous people get.
+BIG MIKE: i'd almost believe that. but i was behind the first aid station when you said the "princess" line. this park exists because the kids here work hard. they need to be treated fairly. they need to see you are just another lifeguard.
+TIFFANY: but i'm not just another lifeguard.
+BIG MIKE: you won't even be that if this continues. if you want to keep coming here every day and driving that little convertible of yours, i need to see real, concrete changes in your attitude.
+TIFFANY: all right. what do you expect me to do?
+BIG MIKE: for one thing, start mingling with "the commoners". you'd be amazed at how nice some of the people who work here are. make some friends outside that little group of yours. it's the work of the average teenager here that puts food on our table. show some gratitude.
+TIFFANY: fine. i'll work it.
+BIG MIKE: good. work on it. please?
+TIFFANY: oh, daddy. don't worry about a thing.
 
-speaker1: this will be good. aokee throws a great luau. 
-speaker2: i don't how much fun it will be. with aokee hosting, we'll be working.
-speaker1: there'll still be time for fun. most of the work is setting up. besides, we get paid, too. when was the last time you got paid to party?
+ALEX: this will be good. aokee throws a great luau. 
+ROBBIE: i don't how much fun it will be. with aokee hosting, we'll be working.
+ALEX: there'll still be time for fun. most of the work is setting up. besides, we get paid, too. when was the last time you got paid to party?
 
-speaker1: ok. you work hard, and we fine now. your time to party. here they are. 
-speaker2: these never fail.
-speaker2: now this will never do.
-speaker3: i'm afraid you're right. something must
-speaker3: page 42 of 81 be done.
-speaker2: oh, yes, yes....
-speaker3: perfect. a work of art.
-speaker4: i don't remember anything like this on aokee's menu.
-speaker3: they're..
-speaker5: we'd like thank aokee and his crew for hosting this evening's luau.
-speaker5: we'd also like to bring aokee up to sing one of his hawaiian specialties.
-speaker2: you girls want to dance?
-speaker6: sure.
-speaker1: page 43 of 81
-speaker6: so. how are things working out at aokee's?
-speaker3: oh, he's great. alex too. i thought this summer was going to be a train wreck, but it's not turning out too bad.
-speaker6: well, of course this isn't california...
-speaker3: no, but it looks like i will get a chance to do some surfing anyway.
-speaker6: really.
-speaker3: apparently there's some kind of surfing contest and aokee is all over me to enter.
-speaker6: you mean the surfer king?
-speaker3: you've heard of it?
-speaker6: it's all the other girls seem to talk about. this is my first year, but
-speaker6: page 44 of 81 apparently it's a pretty big deal. being from oceanside, you should have a good chance.
-speaker3: we'll see. it seems kind of stupid to me. a surfing contest in colorado. my friends back home would never believe it.
-speaker7: alex. got my twenty bucks?
-speaker2: oh, dougie. you know, i left my wallet over in my locker. i'll see you before we leave and get it to you then.
-speaker7: yeah, sure.
-speaker2: you know, you could always come by aokee's and i could give it to you in trade.
-speaker7: cash money, alex. cash money.
-speaker2: no problem.
-speaker2: page 45 of 81
-speaker3: hey, listen. alex told me about this great spot on the other side of thunder bay that looks down on the party, but it's a little more quiet. want to go for a walk?
-speaker6: sure.
+AOKEE: ok. you work hard, and we fine now. your time to party. here they are. 
+ALEX: these never fail.
+ALEX: now this will never do.
+ROBBIE: i'm afraid you're right. something must
+ROBBIE: page 42 of 81 be done.
+ALEX: oh, yes, yes....
+ROBBIE: perfect. a work of art.
+AMY: i don't remember anything like this on aokee's menu.
+ROBBIE: they're..
+JAFFA: we'd like thank aokee and his crew for hosting this evening's luau.
+JAFFA: we'd also like to bring aokee up to sing one of his hawaiian specialties.
+ALEX: you girls want to dance?
+KATIE: sure.
+AOKEE: page 43 of 81
+KATIE: so. how are things working out at aokee's?
+ROBBIE: oh, he's great. alex too. i thought this summer was going to be a train wreck, but it's not turning out too bad.
+KATIE: well, of course this isn't california...
+ROBBIE: no, but it looks like i will get a chance to do some surfing anyway.
+KATIE: really.
+ROBBIE: apparently there's some kind of surfing contest and aokee is all over me to enter.
+KATIE: you mean the surfer king?
+ROBBIE: you've heard of it?
+KATIE: it's all the other girls seem to talk about. this is my first year, but
+KATIE: page 44 of 81 apparently it's a pretty big deal. being from oceanside, you should have a good chance.
+ROBBIE: we'll see. it seems kind of stupid to me. a surfing contest in colorado. my friends back home would never believe it.
+DOUG: alex. got my twenty bucks?
+ALEX: oh, dougie. you know, i left my wallet over in my locker. i'll see you before we leave and get it to you then.
+DOUG: yeah, sure.
+ALEX: you know, you could always come by aokee's and i could give it to you in trade.
+DOUG: cash money, alex. cash money.
+ALEX: no problem.
+ALEX: page 45 of 81
+ROBBIE: hey, listen. alex told me about this great spot on the other side of thunder bay that looks down on the party, but it's a little more quiet. want to go for a walk?
+KATIE: sure.
 
-speaker1: so...what made your folks pick up from beautiful southern california and move to colorado? 
-speaker2: not both my folks. just my mom.
-speaker1: aha...trouble in paradise?
-speaker2: let's just say my father had an eye for his administrative assistant, and now they're both somewhere in mexico. mom got a job here, some of her family's here, so they said "colorady is the place you outta be".
-speaker1: it could be worse.
-speaker2: well, i must admit, i've met some very nice people. in california, the attitude's a little different. here, not everyone is out to prove something. seem's like everyone just wants to have fun.
-speaker1: i have a theory. sometimes it snows here so hard, that it's a challenge just to get to work or to school. everything shuts down for a day or so. if your car gets stuck, people appear from nowhere to help pull you out and get you back on the road. most people here don't just look out for themselves. a lot of times,
-speaker1: page 46 of 81 they're looking out for you, too.
+KATIE: so...what made your folks pick up from beautiful southern california and move to colorado? 
+ROBBIE: not both my folks. just my mom.
+KATIE: aha...trouble in paradise?
+ROBBIE: let's just say my father had an eye for his administrative assistant, and now they're both somewhere in mexico. mom got a job here, some of her family's here, so they said "colorady is the place you outta be".
+KATIE: it could be worse.
+ROBBIE: well, i must admit, i've met some very nice people. in california, the attitude's a little different. here, not everyone is out to prove something. seem's like everyone just wants to have fun.
+KATIE: i have a theory. sometimes it snows here so hard, that it's a challenge just to get to work or to school. everything shuts down for a day or so. if your car gets stuck, people appear from nowhere to help pull you out and get you back on the road. most people here don't just look out for themselves. a lot of times,
+KATIE: page 46 of 81 they're looking out for you, too.
 
-speaker1: all these switches feed sound throughout the park. which reminds me. 
-speaker1: and this is for bad little girls who don't know how to have fun.
-speaker1: oops. there....almost got you.
+ALEX: all these switches feed sound throughout the park. which reminds me. 
+ALEX: and this is for bad little girls who don't know how to have fun.
+ALEX: oops. there....almost got you.
 
-speaker1: you were right. this is nice. but not necessarily quieter. 
-speaker2: just a sec. he walks away slightly and gets on the radio.
-speaker2: hey, alex. give us break down here.
+KATIE: you were right. this is nice. but not necessarily quieter. 
+ROBBIE: just a sec. he walks away slightly and gets on the radio.
+ROBBIE: hey, alex. give us break down here.
 
-speaker1: uh oh. sorry. hold that thought. 
-speaker1: page 47 of 81 he grabs the radio.
-speaker1: i'm on it.
+ALEX: uh oh. sorry. hold that thought. 
+ALEX: page 47 of 81 he grabs the radio.
+ALEX: i'm on it.
 
-speaker1: so where did you learn to dance like this? 
-speaker2: eight years at miss vickie's studio of dance. what surprises me is you.
-speaker1: can you keep my deepest, darkest secret?
-speaker2: of course.
-speaker1: when you grow up within spitting distance of hollywood, every mother seems to think her child is the next harrison ford. so when i was about 12, my mom started taking me to all these auditions for things.
-speaker2: so are you the next harrison ford?
-speaker1: some days i'm not even the next robbie zirpollo.
-speaker1: page 48 of 81
-speaker2: ....and?
-speaker1: turns out i get this part. they're selling some dish soap or something, and they think it will be magical to have two twelve year old kids dancing ballroom on this fantasy set with clouds and everything. they lock this girl and i into a dance studio with a choreographer for two weeks, and then they shoot the commercial.
-speaker2: doesn't sound so terrible. you certainly learned how to dance.
-speaker1: yeah, but when it came out everyone in school saw it. i couldn't go anywhere for six months without everyone in the room laughing their heads off.
-speaker2: i'm not laughing.
+ROBBIE: so where did you learn to dance like this? 
+KATIE: eight years at miss vickie's studio of dance. what surprises me is you.
+ROBBIE: can you keep my deepest, darkest secret?
+KATIE: of course.
+ROBBIE: when you grow up within spitting distance of hollywood, every mother seems to think her child is the next harrison ford. so when i was about 12, my mom started taking me to all these auditions for things.
+KATIE: so are you the next harrison ford?
+ROBBIE: some days i'm not even the next robbie zirpollo.
+ROBBIE: page 48 of 81
+KATIE: ....and?
+ROBBIE: turns out i get this part. they're selling some dish soap or something, and they think it will be magical to have two twelve year old kids dancing ballroom on this fantasy set with clouds and everything. they lock this girl and i into a dance studio with a choreographer for two weeks, and then they shoot the commercial.
+KATIE: doesn't sound so terrible. you certainly learned how to dance.
+ROBBIE: yeah, but when it came out everyone in school saw it. i couldn't go anywhere for six months without everyone in the room laughing their heads off.
+KATIE: i'm not laughing.
 
-speaker1: hello? 
-speaker1: hello?
-speaker1: page 50 of 81 this startles and kind of angers pipeman.
-speaker2: hey. you're not supposed to be in here.
-speaker1: yeah, sorry. are you pipeman?
-speaker2: not on purpose. i guess some people call me pipeman.
-speaker1: so you're real name's carl?
-speaker2: no. i just said pipeman was a better name than carl.
-speaker1: oh. well, my name's robbie. i work at aokee's.
-speaker2: oh. ok. what the you doin' down here?
-speaker1: i need your help.
-speaker2: that scrubsink at aokee's leakin' again? gees, i knew we shoudda replaced...
-speaker1: it's not the scrub sink. i need your help. i'm competing in the employee olympics. with your advanced surfing experience, aokee thought you might be able to help me.
-speaker2: everybody wants to be the surfer king. what advanced surfing experience?
-speaker1: well, you know. "pipeman"? hawaii's north shore? surfing the pipeline?
-speaker2: ohhh. bad news, kid. i hate to disappoint you, but this is the reason they call me pipeman. i'm the plumber around here.
-speaker2: page 51 of 81
-speaker1: oh, boy. see, i'm from california, and i can surf, i just don't know what to expect from the wave on thunder bay. i...i was just hoping you could help, i really am sorry for bothering you.
-speaker2: wait a minute, kid. i do know a little about surfing. i also know a lot about the wave here. what exactly are you looking for from me?
-speaker1: i need a mentor; you know like in karate kid.
-speaker2: karate kid. he works at big mike's doesn't he?
-speaker1: no, no it's a movie.
-speaker2: never seen it. don't know much about this mentor thing. how's it work?
-speaker1: generally, you, as mentor, draw on some personal religious philosophy to first intimidate, and then later inspire me.
-speaker2: i'm norman.
-speaker1: ah, brigham young and all that.
-speaker2: no, no nnnnorm-an. we follow the big fat guy on cheers reruns.
-speaker1: okay...and your belief structure....
-speaker2: usually involves a lot of beer and corn nuts, but i don't think that's gonna work here. tell you what.
-speaker2: page 52 of 81 eight a.m., bring your board and we'll work something out.
-speaker1: great, perfect. thanks. i won't let you down. what the heck is a corn-nut?
+ROBBIE: hello? 
+ROBBIE: hello?
+ROBBIE: page 50 of 81 this startles and kind of angers pipeman.
+PIPEMAN: hey. you're not supposed to be in here.
+ROBBIE: yeah, sorry. are you pipeman?
+PIPEMAN: not on purpose. i guess some people call me pipeman.
+ROBBIE: so you're real name's carl?
+PIPEMAN: no. i just said pipeman was a better name than carl.
+ROBBIE: oh. well, my name's robbie. i work at aokee's.
+PIPEMAN: oh. ok. what the you doin' down here?
+ROBBIE: i need your help.
+PIPEMAN: that scrubsink at aokee's leakin' again? gees, i knew we shoudda replaced...
+ROBBIE: it's not the scrub sink. i need your help. i'm competing in the employee olympics. with your advanced surfing experience, aokee thought you might be able to help me.
+PIPEMAN: everybody wants to be the surfer king. what advanced surfing experience?
+ROBBIE: well, you know. "pipeman"? hawaii's north shore? surfing the pipeline?
+PIPEMAN: ohhh. bad news, kid. i hate to disappoint you, but this is the reason they call me pipeman. i'm the plumber around here.
+PIPEMAN: page 51 of 81
+ROBBIE: oh, boy. see, i'm from california, and i can surf, i just don't know what to expect from the wave on thunder bay. i...i was just hoping you could help, i really am sorry for bothering you.
+PIPEMAN: wait a minute, kid. i do know a little about surfing. i also know a lot about the wave here. what exactly are you looking for from me?
+ROBBIE: i need a mentor; you know like in karate kid.
+PIPEMAN: karate kid. he works at big mike's doesn't he?
+ROBBIE: no, no it's a movie.
+PIPEMAN: never seen it. don't know much about this mentor thing. how's it work?
+ROBBIE: generally, you, as mentor, draw on some personal religious philosophy to first intimidate, and then later inspire me.
+PIPEMAN: i'm norman.
+ROBBIE: ah, brigham young and all that.
+PIPEMAN: no, no nnnnorm-an. we follow the big fat guy on cheers reruns.
+ROBBIE: okay...and your belief structure....
+PIPEMAN: usually involves a lot of beer and corn nuts, but i don't think that's gonna work here. tell you what.
+PIPEMAN: page 52 of 81 eight a.m., bring your board and we'll work something out.
+ROBBIE: great, perfect. thanks. i won't let you down. what the heck is a corn-nut?
 
-speaker1: hi! glad you could make it. what's that? 
-speaker2: this is how i trigger the wave.
-speaker1: with that? a garage door clicker?
-speaker2: what did you think? waves just happen? this is colorado, kid. now get your board and get in the water.
-speaker2: you sure that's where you want to be?
-speaker1: should be about right. aren't you getting in? where's your board?
-speaker2: mentors don't get wet. i looked it up. get ready.
-speaker2: page 53 of 81
-speaker2: want to know what you did wrong?
-speaker1: just gimme another wave.
-speaker2: oakey doakey.
-speaker1: okay. please. tell me what i did wrong.
-speaker2: you're in the wrong position. the wave doesn't crest that soon. move ten feet further away from the back wall.
-speaker3: yeee-haww.
+ROBBIE: hi! glad you could make it. what's that? 
+PIPEMAN: this is how i trigger the wave.
+ROBBIE: with that? a garage door clicker?
+PIPEMAN: what did you think? waves just happen? this is colorado, kid. now get your board and get in the water.
+PIPEMAN: you sure that's where you want to be?
+ROBBIE: should be about right. aren't you getting in? where's your board?
+PIPEMAN: mentors don't get wet. i looked it up. get ready.
+PIPEMAN: page 53 of 81
+PIPEMAN: want to know what you did wrong?
+ROBBIE: just gimme another wave.
+PIPEMAN: oakey doakey.
+ROBBIE: okay. please. tell me what i did wrong.
+PIPEMAN: you're in the wrong position. the wave doesn't crest that soon. move ten feet further away from the back wall.
+ALEX AND AOKEE: yeee-haww.
 
-speaker1: so. i hear he's pretty good. haven't seen him myself yet. 
-speaker2: good? good at what? who you mean?
-speaker2: page 54 of 81
-speaker1: come on. your ringer from california. everyone says he's gonna give cowboy a run for his money.
-speaker2: robbie? robbie barely walk without help. we hear a loud crash from the kitchen.
-speaker1: gees!
-speaker2: ha!
-speaker2: your surfer king. we just make a good show. your boy have nothing to worry about.
-speaker1: you know i'd feel a lot better if you hadn't taken most of my money in that poker game last friday night.
-speaker2: poker? not an island game. i no good.
-speaker1: right. tell you what. sight unseen even money, twenty dollars on cowboy.
-speaker2: you want to bet with me? take my twenty dollars, just like that? humph. not worth the trouble, twenty dollars. now, maybe a hundred...
-speaker1: a hundred bucks...
-speaker2: robbie!
-speaker1: ok, a hundred bucks.
-speaker2: page 55 of 81 robbie? that you? come out here.
-speaker3: sorry, dude, that tray was way off balance.
-speaker2: robbie, our secret getting out. you practice too good.
-speaker3: i'm really getting the hang of that wave.
-speaker2: fall more. make good show.
-speaker3: i'll try to remember to look and see who's watching.
-speaker2: good. here, have a smoothie. you too skinny to surf good.
+RICHARD: so. i hear he's pretty good. haven't seen him myself yet. 
+AOKEE: good? good at what? who you mean?
+AOKEE: page 54 of 81
+RICHARD: come on. your ringer from california. everyone says he's gonna give cowboy a run for his money.
+AOKEE: robbie? robbie barely walk without help. we hear a loud crash from the kitchen.
+RICHARD: gees!
+AOKEE: ha!
+AOKEE: your surfer king. we just make a good show. your boy have nothing to worry about.
+RICHARD: you know i'd feel a lot better if you hadn't taken most of my money in that poker game last friday night.
+AOKEE: poker? not an island game. i no good.
+RICHARD: right. tell you what. sight unseen even money, twenty dollars on cowboy.
+AOKEE: you want to bet with me? take my twenty dollars, just like that? humph. not worth the trouble, twenty dollars. now, maybe a hundred...
+RICHARD: a hundred bucks...
+AOKEE: robbie!
+RICHARD: ok, a hundred bucks.
+AOKEE: page 55 of 81 robbie? that you? come out here.
+ROBBIE: sorry, dude, that tray was way off balance.
+AOKEE: robbie, our secret getting out. you practice too good.
+ROBBIE: i'm really getting the hang of that wave.
+AOKEE: fall more. make good show.
+ROBBIE: i'll try to remember to look and see who's watching.
+AOKEE: good. here, have a smoothie. you too skinny to surf good.
 
-speaker1: ok, now this time, get up on the board more quickly. this is a wave pool and this wave dissipates quickly. you only have a little time to show your stuff. 
-speaker2: how will the judging work?
-speaker1: you get a possible ten points. three for your surfing, three for your style and four for the judge's overall impression of your ride. no one's ever gotten a ten...i'm not really sure why.
-speaker2: you've seen the competition. what does everybody do?
-speaker1: everybody just surfs, man and tries not to fall. the big reason cowboy's done so
-speaker1: page 56 of 81 well is he goes to hawaii for a couple weeks every year. but there he's mostly a longboarder. your job is to figure out how to make the most outta this little wave.
-speaker2: ok. i'm ready.
+PIPEMAN: ok, now this time, get up on the board more quickly. this is a wave pool and this wave dissipates quickly. you only have a little time to show your stuff. 
+ROBBIE: how will the judging work?
+PIPEMAN: you get a possible ten points. three for your surfing, three for your style and four for the judge's overall impression of your ride. no one's ever gotten a ten...i'm not really sure why.
+ROBBIE: you've seen the competition. what does everybody do?
+PIPEMAN: everybody just surfs, man and tries not to fall. the big reason cowboy's done so
+PIPEMAN: page 56 of 81 well is he goes to hawaii for a couple weeks every year. but there he's mostly a longboarder. your job is to figure out how to make the most outta this little wave.
+ROBBIE: ok. i'm ready.
 
-speaker1: he's pretty good, i'll give him that. 
-speaker2: how good?
-speaker1: if i have an off day, he could win.
-speaker2: that's terrible. you're the surfer king.
-speaker1: well, some days you get the wave, and some days the wave gets you.
-speaker2: this can't happen. what are we gonna do?
-speaker1: i don't know what you're going to do, but as me for me, i'm gonna schedule some practice time of my own.
-speaker2: this may take a lot more than extra practice.
-speaker1: well, i don't know what else you expect. i'll go out and do my best. if that's not enough, it's not enough.
+COWBOY: he's pretty good, i'll give him that. 
+TIFFANY: how good?
+COWBOY: if i have an off day, he could win.
+TIFFANY: that's terrible. you're the surfer king.
+COWBOY: well, some days you get the wave, and some days the wave gets you.
+TIFFANY: this can't happen. what are we gonna do?
+COWBOY: i don't know what you're going to do, but as me for me, i'm gonna schedule some practice time of my own.
+TIFFANY: this may take a lot more than extra practice.
+COWBOY: well, i don't know what else you expect. i'll go out and do my best. if that's not enough, it's not enough.
 
-speaker1: hey jaffa. no worries. people are betting on me? 
-speaker2: just a little friendly pool. no big deal. helps make this more interesting.
-speaker1: i've seen this cowboy practice. his style is more longboard, and this is a shortboard wave, but he's still pretty good. i could lose you know.
-speaker3: hi robbie!
-speaker1: how ya doin' see. how come everyone knows me by sight now?
-speaker2: ah, you're the next big thing. you'll survive it. the employee olympics are only a week away. what happens is we have this big opening ceremony where each team chooses a theme and we're judged on our spirit. then different teams compete in contests that test their water world skills. the next morning it all ends with the surf contest. you ready?
-speaker1: i suppose. i've been working out a strategy to use if cowboy has a real good day. it's risky...
-speaker4: well, hello robbie.
-speaker1: you know me?
-speaker1: page 58 of 81
-speaker4: of course i know you. it's my father's park, i try get to know everyone.
-speaker2: i'm alex!
-speaker4: yes, i'm sure you are. it's been a while since i've been to aokee's. do you suppose if i come down in a little while you could make some of that special chicken, what is it?
-speaker1: the best teriyaki east of the pacific.
-speaker4: yes...and one those smoothies i hear so much about?
-speaker1: well, sure. i'll be working all afternoon.
-speaker4: it's a date then. see you later!
-speaker2: come on, we gotta get back.
-speaker1: yes. yes we do.
+ROBBIE: hey jaffa. no worries. people are betting on me? 
+ALEX: just a little friendly pool. no big deal. helps make this more interesting.
+ROBBIE: i've seen this cowboy practice. his style is more longboard, and this is a shortboard wave, but he's still pretty good. i could lose you know.
+CONCESSIONS GIRLS: hi robbie!
+ROBBIE: how ya doin' see. how come everyone knows me by sight now?
+ALEX: ah, you're the next big thing. you'll survive it. the employee olympics are only a week away. what happens is we have this big opening ceremony where each team chooses a theme and we're judged on our spirit. then different teams compete in contests that test their water world skills. the next morning it all ends with the surf contest. you ready?
+ROBBIE: i suppose. i've been working out a strategy to use if cowboy has a real good day. it's risky...
+TIFFANY: well, hello robbie.
+ROBBIE: you know me?
+ROBBIE: page 58 of 81
+TIFFANY: of course i know you. it's my father's park, i try get to know everyone.
+ALEX: i'm alex!
+TIFFANY: yes, i'm sure you are. it's been a while since i've been to aokee's. do you suppose if i come down in a little while you could make some of that special chicken, what is it?
+ROBBIE: the best teriyaki east of the pacific.
+TIFFANY: yes...and one those smoothies i hear so much about?
+ROBBIE: well, sure. i'll be working all afternoon.
+TIFFANY: it's a date then. see you later!
+ALEX: come on, we gotta get back.
+ROBBIE: yes. yes we do.
 
-speaker1: alex! we need more large smoothie cups out here! 
-speaker1: look at that.
-speaker1: page 59 of 81 animated, engaging conversation.
-speaker1: second time this week. our boy big man on campus, huh?
-speaker2: big something. i hope he knows how to work without a net.
-speaker1: well. we all grow up sometime. he not drop a tray of dishes in days. something going right. you think he ready?
-speaker2: i guess we'll both find out on sunday. i sure hope so.
+AOKEE: alex! we need more large smoothie cups out here! 
+AOKEE: look at that.
+AOKEE: page 59 of 81 animated, engaging conversation.
+AOKEE: second time this week. our boy big man on campus, huh?
+ALEX: big something. i hope he knows how to work without a net.
+AOKEE: well. we all grow up sometime. he not drop a tray of dishes in days. something going right. you think he ready?
+ALEX: i guess we'll both find out on sunday. i sure hope so.
 
-speaker1: robbie! 
-speaker2: tiff?
-speaker3: tiff?
-speaker4: tiff.
-speaker4: page 60 of 81
+TIFFANY: robbie! 
+ALEX: tiff?
+AMY: tiff?
+KATIE: tiff.
+KATIE: page 60 of 81
 
-speaker1: aie, noka moka kei kai ke alo. 
-speaker2: concessions! concessions! concessions!
-speaker3: company! forward, march.
-speaker3: company! halt!
-speaker3: present arms!
-speaker3: page 61 of 81
-speaker3: company!
-speaker4: yes sir.
-speaker3: order arms.
-speaker3: what do you do if it's wet and not yours?
-speaker4: don't touch it! don't touch it!
-speaker3: how do you deal with a full can of trash?
-speaker4: we empty! we empty!
-speaker3: sound off!
-speaker4: trash rats!
-speaker3: again!
-speaker4: trash rats!
-speaker3: sound off, trash rats.
-speaker4: trash rats! trash rats!
-speaker3: company! brooms ho!
-speaker3: company! begin!
-speaker3: page 62 of 81
-speaker3: what do you do when the table's a mess?
-speaker5: we wipe it! we wipe it!
-speaker3: what do you do when a toilet's stopped up?
-speaker5: we plunge it! we plunge it!
-speaker3: sound off!
-speaker5: trash rats!
-speaker3: sound off!
-speaker5: trash rats!
-speaker3: sound off trash rats!
-speaker5: trash rats! trash rats!
-speaker5: page 63 of 81
+AOKEE: aie, noka moka kei kai ke alo. 
+CONCESSIONS GIRLS AND BOYS: concessions! concessions! concessions!
+LEAD MARCHER: company! forward, march.
+LEAD MARCHER: company! halt!
+LEAD MARCHER: present arms!
+LEAD MARCHER: page 61 of 81
+LEAD MARCHER: company!
+MARCHERS: yes sir.
+LEAD MARCHER: order arms.
+LEAD MARCHER: what do you do if it's wet and not yours?
+MARCHERS: don't touch it! don't touch it!
+LEAD MARCHER: how do you deal with a full can of trash?
+MARCHERS: we empty! we empty!
+LEAD MARCHER: sound off!
+MARCHERS: trash rats!
+LEAD MARCHER: again!
+MARCHERS: trash rats!
+LEAD MARCHER: sound off, trash rats.
+MARCHERS: trash rats! trash rats!
+LEAD MARCHER: company! brooms ho!
+LEAD MARCHER: company! begin!
+LEAD MARCHER: page 62 of 81
+LEAD MARCHER: what do you do when the table's a mess?
+GROUNDS KIDS: we wipe it! we wipe it!
+LEAD MARCHER: what do you do when a toilet's stopped up?
+GROUNDS KIDS: we plunge it! we plunge it!
+LEAD MARCHER: sound off!
+GROUNDS KIDS: trash rats!
+LEAD MARCHER: sound off!
+GROUNDS KIDS: trash rats!
+LEAD MARCHER: sound off trash rats!
+GROUNDS KIDS: trash rats! trash rats!
+GROUNDS KIDS: page 63 of 81
 
-speaker1: this isn't good. it's the same as every year. pretty much a dead heat going into the surf championship tomorrow morning. 
-speaker2: i can't believe those guys screwed up the
+AOKEE: this isn't good. it's the same as every year. pretty much a dead heat going into the surf championship tomorrow morning. 
+ALEX: i can't believe those guys screwed up the
 
-speaker1: hard to blame them. no one told them they had to put their mouth on yours until the last minute. yuck. 
-speaker2: bunch of babies.
-speaker3: you need to make up. you ready? tomorrow morning last event. you our last hope.
-speaker4: hi robbie.
-speaker1: oh. hey.
-speaker4: how's your team doing?
-speaker1: uh. ok, i guess. kind of a tie.
-speaker1: page 68 of 81
-speaker4: well, i think you're going to take care of that tomorrow morning. in fact, i've planned a little celebration in advance. we're going to this incredible party up in the foothills at some friends of mine.
-speaker1: party, huh? that sounds like fun. i have to work until nine tonight.
-speaker4: that's perfect. i'll come back here and pick you up.
-speaker4: oh, and robbie...call your mom and tell her you're spending the night at alex's or something. it's going to be a very special night.
+ROBBIE: hard to blame them. no one told them they had to put their mouth on yours until the last minute. yuck. 
+ALEX: bunch of babies.
+AOKEE: you need to make up. you ready? tomorrow morning last event. you our last hope.
+TIFFANY: hi robbie.
+ROBBIE: oh. hey.
+TIFFANY: how's your team doing?
+ROBBIE: uh. ok, i guess. kind of a tie.
+ROBBIE: page 68 of 81
+TIFFANY: well, i think you're going to take care of that tomorrow morning. in fact, i've planned a little celebration in advance. we're going to this incredible party up in the foothills at some friends of mine.
+ROBBIE: party, huh? that sounds like fun. i have to work until nine tonight.
+TIFFANY: that's perfect. i'll come back here and pick you up.
+TIFFANY: oh, and robbie...call your mom and tell her you're spending the night at alex's or something. it's going to be a very special night.
 
-speaker1: i'm telling you we need to talk him. 
-speaker2: robbie know the right thing to do. he's a good boy.
-speaker1: so how about this? he tells me i've got to cover for him if his mother calls. he told her he's spending the night at my house.
-speaker2: he say that?
-speaker1: yes. tiffany's got something up her sleeve and robbie's too messed up to
-speaker1: page 69 of 81 notice.
-speaker2: spending the night at your house. this very bad. very bad.
-speaker2: he should be done with the dishes by now. tell him we want to talk.
-speaker3: hey. i'm done with the pots and pans.
-speaker2: robbie, please, sit.
-speaker3: everything ok?
-speaker2: that's what we gonna ask you. what you plan tonight?
-speaker3: well, tiffany invited me to a little party up in the mountains.
-speaker2: robbie, you athlete. big day tomorrow.
-speaker3: it's no big deal. i'll be fine.
-speaker2: is big deal. robbie. you good boy, smart, everybody like you, but....
-speaker3: but...
-speaker2: face it. only one reason tiffany interested in you. she want to make you so tired and so crazy you lose tomorrow.
-speaker3: aw, come on...
-speaker3: page 70 of 81
-speaker1: robbie. she's still going out with cowboy. i saw them together at the movies two nights ago.
-speaker3: maybe she's just letting him down easy.
-speaker1: robbie...things...things are not always what they seem to be.
-speaker3: like what?
-speaker2: in this case, she acts like she likes you when really she wants cowboy to win.
-speaker3: naw. you guys are nuts. she's not like that.
-speaker1: she is like that.
-speaker3: look, i know what to believe and what not to. i'm not that easily fooled.
-speaker1: aokee?
-speaker2: go ahead. tell him. i trust him.
-speaker1: ok. take aokee for instance. gentle, genial hawaiian guy, right?
-speaker3: sure. he's great. i love working here.
-speaker1: then let me introduce you properly. robbie zirpollo, meet manuel ramirez.
-speaker1: manuel's family snuck across the border ten years ago through juarez, mexico.
-speaker2: my father refused to work for a drug lord who ran our town. they tried to kill
-speaker2: page 71 of 81 him. we barely got out with our lives.
-speaker3: aokee?
-speaker2: a name i picked up reading an obituary in the paper. i sent away to hawaii and got his birth records and social security number. this way, i never have to worry about immigration. i spent weeks watching tapes of hawaii five-o just to get the accent right. "book 'em danno".
-speaker3: and you knew?
-speaker2: i burnt my hand on the grill one day and started swearing in spanish...
-speaker1: and i said, boy, you speak spanish like a native....uh oh. it's been our little secret. now it's your secret, too.
-speaker3: i need to think about all this.
-speaker1: you do.
-speaker2: sleep tonight. sleep well.
-speaker3: right. goodnight.
+ALEX: i'm telling you we need to talk him. 
+AOKEE: robbie know the right thing to do. he's a good boy.
+ALEX: so how about this? he tells me i've got to cover for him if his mother calls. he told her he's spending the night at my house.
+AOKEE: he say that?
+ALEX: yes. tiffany's got something up her sleeve and robbie's too messed up to
+ALEX: page 69 of 81 notice.
+AOKEE: spending the night at your house. this very bad. very bad.
+AOKEE: he should be done with the dishes by now. tell him we want to talk.
+ROBBIE: hey. i'm done with the pots and pans.
+AOKEE: robbie, please, sit.
+ROBBIE: everything ok?
+AOKEE: that's what we gonna ask you. what you plan tonight?
+ROBBIE: well, tiffany invited me to a little party up in the mountains.
+AOKEE: robbie, you athlete. big day tomorrow.
+ROBBIE: it's no big deal. i'll be fine.
+AOKEE: is big deal. robbie. you good boy, smart, everybody like you, but....
+ROBBIE: but...
+AOKEE: face it. only one reason tiffany interested in you. she want to make you so tired and so crazy you lose tomorrow.
+ROBBIE: aw, come on...
+ROBBIE: page 70 of 81
+ALEX: robbie. she's still going out with cowboy. i saw them together at the movies two nights ago.
+ROBBIE: maybe she's just letting him down easy.
+ALEX: robbie...things...things are not always what they seem to be.
+ROBBIE: like what?
+AOKEE: in this case, she acts like she likes you when really she wants cowboy to win.
+ROBBIE: naw. you guys are nuts. she's not like that.
+ALEX: she is like that.
+ROBBIE: look, i know what to believe and what not to. i'm not that easily fooled.
+ALEX: aokee?
+AOKEE: go ahead. tell him. i trust him.
+ALEX: ok. take aokee for instance. gentle, genial hawaiian guy, right?
+ROBBIE: sure. he's great. i love working here.
+ALEX: then let me introduce you properly. robbie zirpollo, meet manuel ramirez.
+ALEX: manuel's family snuck across the border ten years ago through juarez, mexico.
+AOKEE: my father refused to work for a drug lord who ran our town. they tried to kill
+AOKEE: page 71 of 81 him. we barely got out with our lives.
+ROBBIE: aokee?
+AOKEE: a name i picked up reading an obituary in the paper. i sent away to hawaii and got his birth records and social security number. this way, i never have to worry about immigration. i spent weeks watching tapes of hawaii five-o just to get the accent right. "book 'em danno".
+ROBBIE: and you knew?
+AOKEE: i burnt my hand on the grill one day and started swearing in spanish...
+ALEX: and i said, boy, you speak spanish like a native....uh oh. it's been our little secret. now it's your secret, too.
+ROBBIE: i need to think about all this.
+ALEX: you do.
+AOKEE: sleep tonight. sleep well.
+ROBBIE: right. goodnight.
 
-speaker1: have you seen him? 
-speaker2: not yet.
-speaker3: what you lookin' at?
-speaker1: we looking for you. how you sleep?
-speaker3: i slept fine. i decided i'm not my father. i don't run out on the people i care about just because some blond shakes her ta-ta's at me.
-speaker1: we go then.
-speaker2: she shook her ta-tas? no one said anything about shaking ta-tas. this puts a whole new light on things!
-speaker3: get going!
+AOKEE: have you seen him? 
+ALEX: not yet.
+ROBBIE: what you lookin' at?
+AOKEE: we looking for you. how you sleep?
+ROBBIE: i slept fine. i decided i'm not my father. i don't run out on the people i care about just because some blond shakes her ta-ta's at me.
+AOKEE: we go then.
+ALEX: she shook her ta-tas? no one said anything about shaking ta-tas. this puts a whole new light on things!
+ROBBIE: get going!
 
-speaker1: alright, here's the deal. you get three tries; three heats. we judge each run and only your high score counts. if you fall you get no score for the run. your score will be added to the total for your team, and the winner gets the surfer king trophy. any questions? 
-speaker1: then let's begin. grounds is up first.
-speaker1: page 74 of 81
-speaker2: it looks like we have a tie. this has never happened before, but i seem to remember we provided for this possibility in the rules. hopefully our judges can help us figure out what to do!
-speaker1: reading from the rules, "...in the event of a tie at the end of three heats in the surf competition, the teams who are tied will participate in a sudden-death surf off. additional heats will be run until a winner can be declared." the "sudden death" heat will begin in five minutes.
-speaker1: you want to go first or second?
-speaker3: second.
-speaker1: be ready in five minutes.
+HEAD JUDGE: alright, here's the deal. you get three tries; three heats. we judge each run and only your high score counts. if you fall you get no score for the run. your score will be added to the total for your team, and the winner gets the surfer king trophy. any questions? 
+HEAD JUDGE: then let's begin. grounds is up first.
+HEAD JUDGE: page 74 of 81
+BIG MIKE: it looks like we have a tie. this has never happened before, but i seem to remember we provided for this possibility in the rules. hopefully our judges can help us figure out what to do!
+HEAD JUDGE: reading from the rules, "...in the event of a tie at the end of three heats in the surf competition, the teams who are tied will participate in a sudden-death surf off. additional heats will be run until a winner can be declared." the "sudden death" heat will begin in five minutes.
+HEAD JUDGE: you want to go first or second?
+ROBBIE: second.
+HEAD JUDGE: be ready in five minutes.
 
-speaker1: so what you do? wait for him to go crazy and fall? 
-speaker2: don't want to win with him falling.
-speaker3: you could always go out and do your very best, take a lot of chances and maybe win this thing on merit.
-speaker4: don't be silly. that only works in the movies.
-speaker2: actually, that's exactly what i'm thinking. it's the reason we're in a tie. i've been too conservative. i've got to do everything i can, or just forget about it. it's all or nothing. we gotta pull the fin.
-speaker1: pull da fin?
-speaker3: you think you can hold it?
-speaker2: one time, these tourists from japan on the beach at la jolla offered me a hundred bucks to do a full spin at the top of the wave, and then slide down and cut back and do a full back flip. i pulled it off. a friend of mine had a tricks board with just a single fin and foot pockets.
-speaker3: we gotta pull the fin. what do we do about the foot pockets?
-speaker2: you got duct tape?
-speaker3: what kind of plumber would i be if i didn't have duct tape? water world
-speaker3: page 76 of 81
-speaker2: here and here.
-speaker1: so, help me understand. what you do now?
-speaker2: pipeman is taking the extra fins off my board. i only need one to make a deep cut back. he is also putting some pockets to slip my feet into so when i flip upside down, i don't lose the board.
-speaker4: flip upside down?
-speaker2: a back flip. you guys see it on snowboarders here all the time, i'm sure.
-speaker4: oh yeah, i'm sure i did that last winter. but not on purpose! dude. you're either gonna win this thing or you're gonna die.
-speaker1: it would be better if you won.
-speaker2: yeah, well, a tie is like kissing your sister.
-speaker4: you stay away from my sister.
-speaker3: ready!
-speaker2: i'll need the biggest wave you can give me...
-speaker1: robbie. when you do this, do this mostly for robbie zirpollo. but do it just a little bit for manny ramirez, eh?
+AOKEE: so what you do? wait for him to go crazy and fall? 
+ROBBIE: don't want to win with him falling.
+PIPEMAN: you could always go out and do your very best, take a lot of chances and maybe win this thing on merit.
+ALEX: don't be silly. that only works in the movies.
+ROBBIE: actually, that's exactly what i'm thinking. it's the reason we're in a tie. i've been too conservative. i've got to do everything i can, or just forget about it. it's all or nothing. we gotta pull the fin.
+AOKEE: pull da fin?
+PIPEMAN: you think you can hold it?
+ROBBIE: one time, these tourists from japan on the beach at la jolla offered me a hundred bucks to do a full spin at the top of the wave, and then slide down and cut back and do a full back flip. i pulled it off. a friend of mine had a tricks board with just a single fin and foot pockets.
+PIPEMAN: we gotta pull the fin. what do we do about the foot pockets?
+ROBBIE: you got duct tape?
+PIPEMAN: what kind of plumber would i be if i didn't have duct tape? water world
+PIPEMAN: page 76 of 81
+ROBBIE: here and here.
+AOKEE: so, help me understand. what you do now?
+ROBBIE: pipeman is taking the extra fins off my board. i only need one to make a deep cut back. he is also putting some pockets to slip my feet into so when i flip upside down, i don't lose the board.
+ALEX: flip upside down?
+ROBBIE: a back flip. you guys see it on snowboarders here all the time, i'm sure.
+ALEX: oh yeah, i'm sure i did that last winter. but not on purpose! dude. you're either gonna win this thing or you're gonna die.
+AOKEE: it would be better if you won.
+ROBBIE: yeah, well, a tie is like kissing your sister.
+ALEX: you stay away from my sister.
+PIPEMAN: ready!
+ROBBIE: i'll need the biggest wave you can give me...
+AOKEE: robbie. when you do this, do this mostly for robbie zirpollo. but do it just a little bit for manny ramirez, eh?
 
-speaker1: looks like he's waiting for you to make a mistake. you sure you know what you're doing? 
-speaker2: i'm just making this up as i go along.
-speaker1: works for me! go get 'em.
-speaker1: page 78 of 81
-speaker3: you did what?
-speaker3: as last year's surfer king, it's my privilege to present this year's trophy to the most amazing surfer on the water today. robbie! congratulations.
-speaker2: and i have just one thing to say to everyone in concessions. we did it!
-speaker2: page 79 of 81
+ALEX: looks like he's waiting for you to make a mistake. you sure you know what you're doing? 
+ROBBIE: i'm just making this up as i go along.
+ALEX: works for me! go get 'em.
+ALEX: page 78 of 81
+COWBOY: you did what?
+COWBOY: as last year's surfer king, it's my privilege to present this year's trophy to the most amazing surfer on the water today. robbie! congratulations.
+ROBBIE: and i have just one thing to say to everyone in concessions. we did it!
+ROBBIE: page 79 of 81
 
-speaker1: another summer gone. how about it robbie? you gonna guard next year? they could use your help. 
-speaker2: i don't know...we have a pretty good time at aokee's.
-speaker1: you know, that's what i hear. maybe i should work there next summer.
-speaker2: you wouldn't like it...
-speaker3: that's a bad idea...
-speaker4: and you're such a good guard...
-speaker5: you'd be miserable...
-speaker1: maybe you're right. see you around...
-speaker1: page 80 of 81
-speaker6: tiffany!
-speaker1: hello, eddie.
-speaker1: you know, that's one of the most beautiful things i've ever seen. hop in eddie, let me give you a ride home.
-speaker2: you know katie, i really am sorry i was such a jerk this summer.
-speaker4: we'll be going to the same high school. you'll have plenty of chances to make it up to me. let's see, there's homecoming, the christmas dance, valentines day...and of course, the prom...
-speaker2: alex?
-speaker3: yeah?
-speaker2: i'm gonna need to borrow twenty bucks.
-speaker2: page 81 of 81
-speaker3: yep.
+TIFFANY: another summer gone. how about it robbie? you gonna guard next year? they could use your help. 
+ROBBIE: i don't know...we have a pretty good time at aokee's.
+TIFFANY: you know, that's what i hear. maybe i should work there next summer.
+ROBBIE: you wouldn't like it...
+ALEX: that's a bad idea...
+KATIE: and you're such a good guard...
+AMY: you'd be miserable...
+TIFFANY: maybe you're right. see you around...
+TIFFANY: page 80 of 81
+EDDIE: tiffany!
+TIFFANY: hello, eddie.
+TIFFANY: you know, that's one of the most beautiful things i've ever seen. hop in eddie, let me give you a ride home.
+ROBBIE: you know katie, i really am sorry i was such a jerk this summer.
+KATIE: we'll be going to the same high school. you'll have plenty of chances to make it up to me. let's see, there's homecoming, the christmas dance, valentines day...and of course, the prom...
+ROBBIE: alex?
+ALEX: yeah?
+ROBBIE: i'm gonna need to borrow twenty bucks.
+ROBBIE: page 81 of 81
+ALEX: yep.
 

@@ -1,888 +1,888 @@
-speaker1: written by 
-speaker1: lawrence kasdan and leigh brackett
-speaker1: from a story by george lucas
-
-speaker1: echo three to echo seven. han, old buddy, do you read me? 
-speaker2: loud and clear, kid. what's up?
-speaker1: well, i finished my circle. i don't pick up any life readings.
-speaker2: there isn't enough life on this ice cube to fill a space cruiser. the sensors are placed, i'm going back.
-speaker1: right. i'll see you shortly. there's a meteorite that hit the ground near here. i want to check it out. it won't take long.
-speaker1: hey, steady girl. what's the matter? you smell something?
-speaker1: aaargh!
-
-speaker1: chewie! 
-speaker1: all right, don't lose your temper. i'll come right back and give you a hand.
-
-speaker1: solo? 
-speaker2: no sign of life out there, general. the sensors are in place. you'll know if anything comes around.
-speaker1: commander skywalker reported in yet?
-speaker2: no. he's checking out a meteorite that hit near him.
-speaker1: with all the meteor activity in this system, it's going to be difficult to spot approaching ships.
-speaker2: general, i've got to leave. i can't stay anymore.
-speaker1: i'm sorry to hear that.
-speaker2: well, there's a price on my head. if i don't pay off jabba the hut, i'm a dead man.
-speaker1: a death mark's not an easy thing to live with. you're a good fighter, solo. i hate to lose you.
-speaker2: thank you, general.
-speaker2: well, your highness, i guess this is it.
-speaker3: that's right.
-speaker2: well, don't get all mushy on me. so long, princess.
-
-speaker1: han! 
-speaker2: yes, your highnessness?
-speaker1: i thought you decided to stay.
-speaker2: well, the bounty hunter we ran into on ord mantell changed my mind.
-speaker1: han, we need you!
-speaker2: we?
-speaker1: yes.
-speaker2: oh, what about you need?
-speaker1: i need? i don't know what you're talking about.
-speaker2: you probably don't.
-speaker1: and what precisely am i supposed to know?
-speaker2: come on! you want me to stay because of the way you feel about me.
-speaker1: yes. you're a great help to us.
-speaker2: no! that's not it. come on. aahhh - uh huh! come on.
-speaker1: you're imagining things.
-speaker2: am i? then why are you following me? afraid i was going to leave without giving you a goodbye kiss?
-speaker1: i'd just as soon kiss a wookiee.
-speaker2: i can arrange that. you could use a good kiss!
-
-speaker1: don't try to blame me. i didn't ask you to turn on the thermal heater. i merely commented that it was freezing in the princess' chamber. but it's supposed to be freezing. how are we going to dry out all her clothes? i really don't know. 
-speaker1: oh, switch off.
-
-speaker1: why do you take this apart now? i'm trying to get us out of here and you pull both of these. 
-speaker2: excuse me, sir.
-speaker1: put them back together right now.
-speaker2: might i have a word with you, please?
-speaker1: what do you want?
-speaker2: well, it's princess leia, sir. she's been trying to get you on the communicator.
-speaker1: i turned it off. i don't want to talk to her.
-speaker2: oh. well, princess leia is wondering about master luke. he hasn't come back yet. she doesn't know where he is.
-speaker1: i don't know where he is.
-speaker2: nobody knows where he is.
-speaker1: what do you mean, "nobody knows"?
-speaker2: well, uh, you see...
-speaker1: deck officer. deck officer!
-speaker2: excuse me, sir. might i inqu...
-speaker3: yes, sir?
-speaker1: do you know where commander skywalker is?
-speaker3: i haven't seen him. it's possible he came in through the south entrance.
-speaker1: it's possible? why don't you go find out? it's getting dark out there.
-speaker3: yes, sir.
-speaker2: excuse me, sir. might i inquire what's going on?
-speaker1: why not?
-speaker2: impossible man. come along, artoo, let's find princess leia. between ourselves, i think master luke is in considerable danger.
-
-speaker1: sir, commander skywalker hasn't come in through the south entrance. 
-speaker2: not likely. are the speeders ready?
-speaker1: not yet. we're having some trouble adapting them to the cold.
-speaker2: then we'll have to go out on tauntauns.
-speaker1: sir, the temperature's dropping too rapidly.
-speaker2: that's right. and my friends out in it.
-speaker3: i'll cover sector twelve. have com-control set screen alpha.
-speaker1: your tauntaun'll freeze before you reach the first marker.
-speaker2: then i'll see you in hell!
-
-speaker1: you must come along now, artoo. there's really nothing more we can do. and my joints are freezing up. 
-speaker1: don't say thing like that! of course we'll see master luke again. he'll be quite all right, you'll see. stupid little short-circuit. he'll be quite all right.
-
-speaker1: sir, all the patrols are in. there's still no contact from skywalker or solo. 
-speaker2: mistress leia, artoo says he's been quite unable to pick up any signals, although he does admit that his own range is far too weak to abandon all hope.
-speaker3: your highness, there's nothing more we can do tonight. the shield doors must be closed.
-speaker3: close the doors.
-speaker1: yes, sir.
-speaker2: artoo says the chances of survival are seven hundred seventy-five... to one.
-speaker2: actually, artoo has been known to make mistakes... from time to time. oh, dear, oh, dear. don't worry about master luke. i'm sure he'll be all right. he's quite clever, you know... for a human being.
-
-speaker1: luke... luke. 
-speaker2: ben?
-speaker1: you will go to the dagobah system.
-speaker2: dagobah system?
-speaker1: there you will learn from yoda, the jedi master who instructed me.
-speaker2: ben... ben. luke drops into unconsciousness.
-speaker3: luke! luke! don't do this, luke. come on, give me a sign here.
-speaker3: not much time.
-speaker2: ben... ben...
-speaker3: hang on, kid.
-speaker2: dagobah system...
-speaker3: whew...
-speaker2: dagobah...
-speaker3: this may smell bad, kid...
-speaker2: yoda...
-speaker3: ...but it will keep you warm... til i get the shelter built. ooh... i thought they smelled bad on the outside!
-
-speaker1: this is rogue two. this is rogue two. captain solo, so you copy? commander skywalker, do you copy? this is rogue two. 
-speaker2: good morning. nice of you guys to drop by.
-speaker1: echo base... this is rogue two. i found them. repeat, i found them.
-
-speaker1: master luke, sir, it's so good to see you fully functional again. 
-speaker1: artoo expresses his relief, also.
-speaker2: how are you feeling, kid? you don't look so bad to me. in fact, you look strong enough to pull the ears off a gundark.
-speaker3: thanks to you.
-speaker2: that's two you owe me, junior.
-speaker2: well your worship, looks like you managed to keep me around for a little while longer.
-speaker4: i had nothing to do with it. general rieekan thinks it's dangerous for any ships to leave the system until we've activated the energy shield.
-speaker2: that's a good story. i think you just can't bear to let a gorgeous guy like me out of your sight.
-speaker4: i don't know where you get your delusions, laser brain.
-speaker2: laugh it up, fuzzball. but you didn't see us alone in the south passage.
-speaker2: she expressed her true feelings for me.
-speaker4: my...! why, you stuck up,... half- witted... scruffy-looking ...nerf- herder!
-speaker2: who's scruffy-looking? i must have hit pretty close to the mark to get her all riled up like that, huh, kid?
-speaker4: why, i guess you don't know everything about women yet?
-speaker5: headquarters personnel, report to command center.
-speaker2: take it easy.
-speaker1: excuse us, please.
-
-speaker1: princess... we have a visitor. 
-speaker1: we've picked up something outside the base in zone twelve, moving east.
-speaker2: it's metal.
-speaker3: then it couldn't be one of those creatures that attacked luke.
-speaker4: it could be a speeder, one of ours.
-speaker2: no. wait - there's something very weak coming through.
-speaker5: sir, i am fluent in six million forms of communication. this signal is not used by the alliance. it could be an imperial code.
-speaker4: it isn't friendly, whatever it is. come on, chewie, let's check it out.
-speaker1: send rogues ten and eleven to station three-eight.
-
-speaker1: afraid there's not much left. 
-speaker2: what was it?
-speaker1: droid of some kind. i didn't hit it that hard. it must have had a self-destruct.
-speaker2: an imperial probe droid.
-speaker1: it's a good bet the empire knows we're here.
-speaker3: we'd better start the evacuation.
-
-speaker1: admiral. 
-speaker2: yes, captain
-speaker1: i think we've got something, sir. the report is only a fragment from a probe droid in the hoth system, but it's the best lead we've had.
-speaker2: we have thousands of probe droids searching the galaxy. i want proof, not leads!
-speaker1: the visuals indicate life readings.
-speaker2: it could mean anything. if we followed every lead...
-speaker1: but, sir, the hoth system is supposed to be devoid of human forms.
-speaker3: you found something?
-speaker1: yes, my lord.
-speaker3: that's it. the rebels are there.
-speaker2: my lord, there are so many uncharted settlements. it could be smugglers, it could be...
-speaker3: that is the system. and i'm sure skywalker is with them. set your course for the hoth system. general veers, prepare you men.
-
-speaker1: groups seven and ten will stay behind to fly the speeders. as soon as each transport is loaded, evacuation control will give clearance for immediate launch. 
-speaker2: right, sir.
-
-speaker1: sir, it will take quite a while to evacuate the t-forty- sevens. 
-speaker2: well, forget the heavy equipment. there's plenty of time to get the smaller modules on the transports.
-speaker1: take care, sir.
-speaker2: thanks.
-
-speaker1: chewie, take care of yourself, okay? 
-speaker2: hi, kid. there's got to be a reason for it. check it at the other end. wait a second. you all right?
-speaker1: yeah.
-speaker2: be careful.
-speaker1: you, too.
-
-speaker1: general, there's a fleet of star destroyers coming out of hyperspace in sector four. 
-speaker2: reroute all power to the energy shield. we've got to hold them till all transports are away. prepare for ground assault.
-
-speaker1: what is it, general? 
-speaker2: my lord, the fleet has moves out of light-speed. com-scan has detected an energy field protecting an area around the sixth planet of the hoth system. the field is strong enough to deflect any bombardment.
-speaker1: the rebels are alerted to our presence. admiral ozzel came out of light-speed too close to the system.
-speaker2: he felt surprise was wiser...
-speaker1: he is as clumsy as he is stupid. general, prepare your troops for a surface attack.
-speaker2: yes, my lord.
-speaker3: lord vader, the fleet has moved out of light-speed, and we're preparing to... aaagh!
-speaker1: you have failed me for the last time, admiral. captain piett.
-speaker4: yes, my lord.
-speaker1: make ready to land out troops beyond the energy shield and deploy the fleet so that nothing gets off that system. you are in command now, admiral piett.
-speaker4: thank you, lord vader.
-
-speaker1: all troop carriers will assemble at the north entrance. the heavy transport ships will leave as soon as they're loaded. only two fighter escorts per ship. the energy shield can only be opened for a short time, so you'll have to stay very close to your transports. 
-speaker2: two fighters against a star destroyer?
-speaker1: the ion cannon will fire several shots to make sure that any enemy ships will be out of your flight path. when you've gotten past the energy shield, proceed directly to the rendezvous point. understood?
-speaker3: right. okay.
-speaker1: good luck.
-speaker4: okay. everyone to your stations. let's go!
-
-speaker1: sir, rebel ships are coming into our sector. 
-speaker2: good. our first catch of the day.
-
-speaker1: the first transport is away. 
-speaker2: feeling all right, sir?
-speaker3: just like new, dack. how about you?
-speaker2: right now i feel like i could take on the whole empire myself.
-speaker3: i know what you mean.
-
-speaker1: we have spotted imperial walkers! 
-speaker2: imperial walkers on the north ridge.
-
-speaker1: all right, boys, keep tight now. 
-speaker2: luke, i have no approach vector. i'm not set.
-speaker1: steady, dack. attack pattern delta. go now!
-
-speaker1: all right, i'm coming in. 
-speaker1: hobbie, you still with me?
-
-speaker1: that armor's too strong for blasters. 
-speaker1: rogue group, use your harpoons and tow cables. go for the legs. it might be our only chance of stopping them. all right, stand by, dack.
-speaker2: luke, we've got a malfunction in fire control. i'll have to cut in the auxiliary.
-speaker1: just hang on. hang on, dack. get ready to fire that tow cable.
-
-speaker1: copy, rogue leader 
-speaker2: wedge, i've lost my gunner. you'll have to make this shot. i'll cover for you. set your harpoon. follow me on the next pass.
-speaker1: coming around, rogue leader.
-
-speaker1: one more pass. 
-speaker2: coming around. once more.
-
-speaker1: once more. 
-speaker1: cable out! let her go!
-speaker2: detach cable.
-
-speaker1: i don't think we can protect two transports at a time. 
-speaker2: it's risky, but we can't hold out much longer. we have no choice.
-speaker1: launch patrols.
-speaker2: evacuate remaining ground staff.
-
-speaker1: no, no! no! this one goes there, that one goes there. right? 
-speaker2: artoo, you take good care of master luke now, understand? and ... do take good care of yourself. oh, dear, oh, dear.
-
-speaker1: set for position three. steady. 
-speaker2: stay tight and low.
-
-speaker1: you all right? 
-speaker2: why are you still here?
-speaker1: i heard the command center had been hit.
-speaker2: you got your clearance to leave.
-speaker1: don't worry. i'll leave. first i'm going to get you to your ship.
-speaker3: your highness, we must take this last transport. it's our only hope.
-speaker2: send all troops in sector twelve to the south slope to protect the fighters.
-speaker4: imperial troops have entered the base.
-speaker1: come on... that's it.
-speaker2: give the evacuation code signal. and get to your transports!
-speaker5: k-one-zero... all troops disengage.
-speaker3: oh! wait for me!
-
-speaker1: begin retreat! 
-speaker2: fall back!
-
-speaker1: distance to power generators? 
-speaker2: one-seven, decimal two-eight.
-speaker1: target. maximum fire power.
-
-speaker1: transport, this is solo. better take off - i can't get to you. i'll get the princess out on the falcon. 
-speaker2: but... but... but... where are you going? uh... come back!!
-
-speaker1: wait! wait for me! wait! stop! 
-speaker1: how typical.
-speaker2: come on.
-
-speaker1: hurry up, goldenrod, or you're going to be a permanent resident! 
-speaker2: wait! wait!
-
-speaker1: how's this? 
-speaker2: would it helped if i got out and pushed?
-speaker1: it might.
-speaker3: captain solo, captain solo... sir, might i suggest that you...
-speaker3: it can wait.
-
-speaker1: this bucket of bolts is never going to get us past that blockade. 
-speaker2: this baby's got a few surprises left in her, sweetheart.
-
-speaker1: come on! come on! switch over. let's hope we don't have a burnout. 
-speaker1: see?
-speaker2: someday you're going to be wrong, and i hope i'm there to see it.
-speaker1: punch it!
-
-speaker1: artoo! get her ready for takeoff. 
-speaker2: good luck, luke. see you at the rendezvous.
-speaker1: don't worry, artoo. we're going, we're going.
-
-speaker1: there's nothing wrong, artoo. i'm just setting a new course. 
-speaker1: yes, artoo?
-speaker1: that's all right. i'd like to keep it on manual control for a while.
-
-speaker1: i saw them! i saw them! 
-speaker2: saw what?
-speaker1: star destroyers, two of them, coming right at us.
-speaker3: sir, sir! might i suggest...
-speaker1: shut him up or shut him down! check the deflector shield!
-speaker1: oh, great. well, we can still outmaneuver them.
-
-speaker1: prepare to make the jump to light- speed. 
-speaker2: but, sir!
-speaker3: they're getting closer!
-speaker1: oh yeah? watch this.
-speaker3: watch what?
-speaker1: i think we're in trouble.
-speaker2: if i may say so, sir, i noticed earlier that the hyperdrive motivator has been damaged. it's impossible to go to light-speed!
-speaker1: we're in trouble!
-
-speaker1: horizontal boosters...! alluvial dampers...! well that's not it. bring me the hydrospanners! 
-speaker1: i don't know how we're going to get out of this one.
-speaker1: oww! chewie!
-speaker1: that was no laser blast! something hit us.
-speaker2: han, get up here!
-speaker1: come on, chewie!
-
-speaker1: asteroids! 
-speaker2: oh, no! chewie, set two-seven- one.
-speaker1: what are you doing? you're not actually going into an asteroid field?
-speaker2: they'd be crazy to follow us, wouldn't they?
-speaker1: you don't have to do this to impress me.
-speaker3: sir, the possibility of successfully navigating an asteroid field is approximately three thousand, seven hundred and twenty to one.
-speaker2: never tell me the odds!
-
-speaker1: you said you wanted to be around when i made a mistake; well, this could be it, sweetheart. 
-speaker2: i take it back. we're going to get pulverized if we stay out here much longer.
-speaker1: i'm not going to argue with that.
-speaker3: pulverized?
-speaker1: i'm going in closer to one of those big ones.
-speaker2: closer?
-speaker3: closer?!
-
-speaker1: oh, this is suicide! 
-speaker2: there. that looks pretty good.
-speaker3: what looks pretty good?
-speaker2: yeah. that'll do nicely.
-speaker1: excuse me, ma'am, but where are we going?
-
-speaker1: i hope you know what you're doing. 
-speaker2: yeah, me too.
-
-speaker1: yes, that's it. dagobah. 
-speaker1: no, i'm not going to change my mind about this. i'm not picking up any cities or technology. massive life-form readings, though. there's something alive down there...
-speaker1: yes, i'm sure it's perfectly safe for droids.
-
-speaker1: no, artoo, you stay put. i'll have a look around. 
-speaker1: artoo?
-speaker1: artoo! where are you?
-speaker1: artoo! you be more careful.
-speaker1: artoo - that way!
-speaker1: artoo!
-speaker1: oh, no! are you all right? come on. you're lucky you don't taste very good. anything broken?
-speaker1: if you're saying coming here was a bad idea, i'm beginning to agree with you. oh, artoo, what are we doing here? it's like... something out of a dream, or, i don't know. maybe i'm just going crazy.
-
-speaker1: yes, admiral? 
-speaker2: our ships have sighted the millennium falcon, lord. but... it has entered an asteroid field and we cannot risk...
-speaker1: asteroids do not concern me, admiral. i want that ship and not excuses.
-speaker2: yes, lord.
-
-speaker1: i'm going to shut down everything but the emergency power systems. 
-speaker2: sir, i'm almost afraid to ask, but... does that include shutting me down, too? chewie barks "yes". but han thinks otherwise.
-speaker1: no, i need you to talk to the falcon, find out what's wrong with the hyperdrive.
-speaker2: sir, it's quite possible this asteroid is not entirely stable.
-speaker1: not entirely stable? i'm glad you're here to tell us these things. chewie, take the professor in the back and plug him into the hyperdrive.
-speaker2: oh! sometimes i just don't understand human behavior. after all, i'm only trying to do my job in the most...
-speaker3: let go.
-speaker1: sshh!
-speaker3: let go, please.
-speaker1: don't get excited.
-speaker3: captain, being held by you isn't quite enough to get me excited.
-speaker1: sorry, sweetheart. we haven't got time for anything else.
-
-speaker1: ready for some power? okay. let's see now. put that in there. there you go. 
-speaker1: now all i have to do is find this yoda... if he even exists.
-speaker1: still... there's something familiar about this place. i feel like... i don't know...
-speaker2: feel like what?
-speaker1: like we're being watched!
-speaker3: away with your weapon! i mean you no harm.
-speaker3: i am wondering, why are you here?
-speaker1: i'm looking for someone.
-speaker3: looking? found someone, you have, i would say, hmmm?
-speaker1: right.
-speaker3: help you i can. yes, mmmm.
-speaker1: i don't think so. i'm looking for a great warrior.
-speaker3: ahhh! a great warrior. wars not make one great.
-speaker1: put that down. hey! that's my dinner!
-speaker3: how you get so big, eating food of this kind?
-speaker1: listen, friend, we didn't mean to land in that puddle, and if we could get our ship out, we would, but we can't, so why don't you just...
-speaker1: hey, you could have broken this. don't do that. ohhh... you're making a mess. hey, give me that!
-speaker3: mine! or i will help you not.
-speaker1: i don't want your help. i want my lamp back. i'll need it to get out of this slimy mudhole.
-speaker3: mudhole? slimy? my home this is.
-speaker3: ah, ah, ah!
-speaker1: oh, artoo, let him have it!
-speaker3: mine! mine!
-speaker1: artoo!
-speaker3: mine!
-speaker3: mine!
-speaker1: now will you move along, little fella? we're got a lot of work to do.
-speaker3: no! no, no! stay and help you, i will. find your friend, hmm?
-speaker1: i'm not looking for a friend. i'm looking for a jedi master.
-speaker3: oohhh. jedi master. yoda. you seek yoda.
-speaker1: you know him?
-speaker3: mmm. take you to him, i will. yes, yes. but now, we must eat. come. good food. come.
-speaker3: come, come.
-speaker1: stay here and watch after the camp, artoo.
-
-speaker1: oh, where is artoo when i need him? 
-speaker1: sir, i don't know where your ship learned to communicate, but it has the most peculiar dialect. i believe, sir, it says that the power coupling on the negative axis has been polarized. i'm afraid you'll have to replace it.
-speaker2: well, of course i'll have to replace it.
-speaker2: here! and chewie...
-speaker2: hey, your worship, i'm only trying to help.
-speaker3: would you please stop calling me that?
-speaker2: sure, leia.
-speaker3: oh, you make it so difficult sometimes.
-speaker2: i do, i really do. you could be a little nicer, though. come on, admit it. sometimes you think i'm all right.
-speaker3: occasionally... ... when you aren't acting like a scoundrel.
-speaker2: scoundrel? scoundrel? i like the sound of that.
-speaker3: stop that.
-speaker2: stop what?
-speaker3: stop that! my hands are dirty.
-speaker2: my hands are dirty, too. what are you afraid of?
-speaker3: afraid?
-speaker2: you're trembling.
-speaker3: i'm not trembling.
-speaker2: you like me because i'm a scoundrel. there aren't enough scoundrels in your life.
-speaker3: i happen to like nice men.
-speaker2: i'm a nice man.
-speaker3: no, you're not. you're...
-speaker1: sir, sir! i've isolated the reverse power flux coupling.
-speaker2: thank you. thank you very much.
-speaker1: oh, you're perfectly welcome, sir.
-
-speaker1: ... and that, lord vader, was the last time they appeared in any of our scopes. considering the amount of damage we've sustained, they must have been destroyed. 
-speaker2: no, captain, they're alive. i want every ship available to sweep the asteroid field until they are found.
-speaker3: lord vader.
-speaker2: yes, admiral, what is it?
-speaker3: the emperor commands you make contact with him.
-speaker2: move the ship out of the asteroid field so that we can send a clear transmission.
-speaker3: yes, my lord.
-
-speaker1: what is thy bidding, my master? 
-speaker2: there is a great disturbance in the force.
-speaker1: i have felt it.
-speaker2: we have a new enemy - luke skywalker.
-speaker1: yes, my master.
-speaker2: he could destroy us.
-speaker1: he's just a boy. obi-wan can no longer help him.
-speaker2: the force is strong with him. the son of skywalker must not become a jedi.
-speaker1: if he could be turned, he would become a powerful ally.
-speaker2: yes. yes. he would be a great asset. can it be done?
-speaker1: he will join us or die, my master.
-
-speaker1: look, i'm sure it's delicious. i just don't understand why we can't see yoda now. 
-speaker2: patience! for the jedi it is time to eat as well. eat, eat. hot. good food, hm? good, hmm?
-speaker1: how far away is yoda? will it take us long to get there?
-speaker2: not far. yoda not far. patience. soon you will be with him. rootleaf, i cook. why wish you become jedi? hm?
-speaker1: mostly because of my father, i guess.
-speaker2: ah, your father. powerful jedi was he, powerful jedi, mmm.
-speaker1: oh, come on. how could you know my father? you don't even know who i am. oh, i don't know what i'm doing here. we're wasting our time.
-speaker3: he will learn patience.
-speaker4: hmmm. much anger in him, like his father.
-speaker3: was i any different when you taught me?
-speaker4: hah. he is not ready.
-speaker1: yoda! i am ready. i... ben! i can be a jedi. ben, tell him i'm ready.
-speaker4: ready, are you? what know you of ready? for eight hundred years have i trained jedi. my own counsel will i keep on who is to be trained! a jedi must have the deepest commitment, the most serious mind. this one a long time have i watched. all his life has he looked away... to the future, to the horizon. never his mind on where he was. hmm? what he was doing. hmph. adventure. heh! excitement. heh! a jedi craves not these things. you are reckless!
-speaker3: so was i, if you'll remember.
-speaker4: he is too old. yes, too old to begin the training.
-speaker1: but i've learned so much.
-speaker4: will he finished what he begins?
-speaker1: i won't fail you - i'm not afraid.
-speaker4: oh, you will be. you will be.
-
-speaker1: sir, if i may venture an opinion... 
-speaker2: i'm not really interested in your opinion, threepio.
-speaker3: there's something out there.
-speaker2: where?
-speaker3: outside, in the cave.
-speaker1: there it is. listen! listen!
-speaker2: i'm going out there.
-speaker3: are you crazy?!
-speaker2: i just got this bucket back together. i'm not going to let something tear it apart.
-speaker3: then i'm going with you.
-speaker1: i think it might be better if i stay here and guard the ship. oh, no.
-
-speaker1: this ground sure feels strange. it doesn't feel like rock at all. 
-speaker2: there's an awful lot of moisture in here.
-speaker1: i don't know. i have a bad feeling about this.
-speaker2: yeah.
-speaker2: watch out!
-speaker2: yeah, that's what i thought. mynock. chewie, check the rest of the ship, make sure there aren't any more attached. they're chewing on the power cables.
-speaker1: mynocks?
-speaker2: go on inside. we'll clean them off if there are any more.
-speaker3: ohhh! go away! go away! beastly little thing. shoo! shoo!
-speaker2: wait a minute...
-
-speaker1: all right, chewie, let's get out of here! 
-speaker2: the empire is still out there. i don't think it's wise to...
-speaker1: no time to discuss this in committee.
-speaker2: i am not a committee!
-
-speaker1: you can't make the jump to light- speed in this asteroid field... 
-speaker2: sit down, sweetheart. we're taking off!
-speaker3: look!
-speaker2: i see it, i see it.
-speaker3: we're doomed!
-speaker1: the cave is collapsing.
-speaker2: this is no cave.
-speaker1: what?
-
-speaker1: run! yes. a jedi's strength flows from the force. but beware of the dark side. anger... fear... aggression. the dark side of the force are they. easily they flow, quick to join you in a fight. if once you start down the dark path, forever will it dominate your destiny, consume you it will, as it did obi-wan's apprentice. 
-speaker2: vader. is the dark side stronger?
-speaker1: no... no... no. quicker, easier, more seductive.
-speaker2: but how am i to know the good side from the bad?
-speaker1: you will know. when you are calm, at peace. passive. a jedi uses the force for knowledge and defense, never for attack.
-speaker2: but tell me why i can't...
-speaker2: there's something not right here.
-speaker2: i feel cold, death.
-speaker1: that place... is strong with the dark side of the force. a domain of evil it is. in you must go.
-speaker2: what's in there?
-speaker1: only what you take with you.
-speaker1: your weapons... you will not need them.
-
-speaker1: bounty hunters. we don't need that scum. 
-speaker2: yes, sir.
-speaker1: those rebels won't escape us.
-speaker3: sir, we have a priority signal from the star destroyer avenger.
-speaker1: right.
-speaker4: ... there will be a substantial reward for the one who finds the millennium falcon. you are free to use any methods necessary, but i want them alive. no disintegrations.
-speaker5: as you wish.
-speaker1: lord vader! my lord, we have them.
-
-speaker1: let's get out of here. ready for light-speed? one... two... three! 
-speaker1: it's not fair!
-speaker1: the transfer circuits are working. it's not my fault!
-speaker2: no light-speed?
-speaker1: it's not my fault.
-speaker3: sir, we just lost the main rear deflector shield. one more direct hit on the back quarter and we're done for.
-speaker1: turn her around.
-speaker1: i said turn her around! i'm going to put all power in the front shield.
-speaker2: you're going to attack them?!
-speaker3: sir, the odds of surviving a direct assault on an imperial star destroyer...
-speaker2: shut up!
-
-speaker1: they're moving to attack position! shields up! 
-speaker1: track them. they may come around for another pass.
-speaker2: captain needa, the ship no longer appears on our scopes.
-speaker1: they can't have disappeared. no ship that small has a cloaking device.
-speaker2: well, there's no trace of them, sir.
-speaker3: captain, lord vader demands an update on the pursuit.
-speaker1: get a shuttle ready. i shall assume full responsibility for losing them, and apologize to lord vader. meanwhile, continue to scan the area.
-speaker3: yes, captain needa.
-
-speaker1: use the force. yes... 
-speaker1: now... the stone. feel it.
-speaker1: concentrate!
-speaker2: oh, no. we'll never get it out now.
-speaker1: so certain are you. always with you it cannot be done. hear you nothing that i say?
-speaker2: master, moving stones around is one thing. this is totally different.
-speaker1: no! no different! only different in your mind. you must unlearn what you have learned.
-speaker2: all right, i'll give it a try.
-speaker1: no! try not. do. or do not. there is no try.
-speaker2: i can't. it's too big.
-speaker1: size matters not. look at me. judge me by my size, do you? hm? mmmm.
-speaker1: and well you should not. for my ally in the force. and a powerful ally it is. life creates it, makes it grow. its energy surrounds us and binds us. luminous beings are we... ... not this crude matter. you must feel the force around you. here, between you... me... the tree... the rock... everywhere! yes, even between this land and that ship!
-speaker2: i don't... i don't believe it.
-speaker1: that is why you fail.
-
-speaker1: apology accepted, captain needa. 
-speaker2: lord vader, our ships have completed their scan of the area and found nothing. if the millennium falcon went into light- speed, it'll be on the other side of the galaxy by now.
-speaker1: alert all commands. calculate every possible destination along their last know trajectory.
-speaker2: yes, my lord. we'll find them.
-speaker1: don't fail me again, admiral.
-speaker2: alert all commands. deploy the fleet.
-
-speaker1: captain solo, this time you have gone too far. no, i will not be quiet, chewbacca. 
-speaker2: the fleet is beginning to break up. go back and stand by the manual release for the landing claw.
-speaker1: i really don't see how that is going to help. surrender is a perfectly acceptable alternative in extreme circumstances. the empire may be gracious enough...
-speaker2: thank you.
-speaker3: what did you have in mind for your next move?
-speaker2: well, if they follow standard imperial procedure, they'll dump their garbage before they go to light-speed, then we just float away.
-speaker3: with the rest of the garbage.
-speaker2: then we've got to find a safe port somewhere around here. got any ideas?
-speaker3: no. where are we?
-speaker2: the anoat system.
-speaker3: anoat system. there's not much there.
-speaker2: no. well, wait. this is interesting. lando.
-speaker3: lando system?
-speaker2: lando's not a system, he's a man. lando calrissian. he's a card player, gambler, scoundrel. you'd like him.
-speaker3: thanks.
-speaker2: bespin. it's pretty far, but i think we can make it.
-speaker3: a mining colony?
-speaker2: yeah, a tibanna gas mine. lando conned somebody out of it. we go back a long way, lando and me.
-speaker3: can you trust him?
-speaker2: no. but he has no love for the empire, i can tell you that.
-speaker2: here we go, chewie. stand by. detach!
-speaker3: you do have your moments. not many, but you have them.
-
-speaker1: concentrate... feel the force flow. yes. good. calm, yes. through the force, things you will see. other places. the future... the past. old friends long gone. 
-speaker2: han! leia!
-speaker1: hmm. control, control. you must learn control.
-speaker2: i saw... i saw a city in the clouds.
-speaker1: mmm. friends you have there.
-speaker2: they were in pain.
-speaker1: it is the future you see.
-speaker2: future? will they die?
-speaker1: difficult to see. always in motion is the future.
-speaker2: i've got to go to them.
-speaker1: decide you must how to serve them best. if you leave now, help them you could. but you would destroy all for which they have fought and suffered.
-
-speaker1: no, i don't have a landing permit. i'm trying to reach lando calrissian. 
-speaker1: whoa! wait a minute! let me explain.
-speaker2: you will not deviate from your present course.
-speaker3: rather touchy, aren't they?
-speaker4: i thought you knew this person.
-speaker1: well, that was a long time ago. i'm sure he's forgotten about that.
-speaker2: permission granted to land on platform three-two-seven.
-speaker1: thank you.
-speaker1: there's nothing to worry about. we go way back, lando and me.
-speaker4: who's worried?
-
-speaker1: oh. no one to meet us. 
-speaker2: i don't like this.
-speaker3: well, what would you like?
-speaker1: well, they did let us land.
-speaker3: look, don't worry. everything's going to be fine. trust me.
-
-speaker1: why, you slimy, double-crossing, no-good swindler! you've got a lot of guts coming here, after what you pulled. han points to himself innocently, mouthing, "me?" 
-speaker1: how you doing, you old pirate? so good to see you! i never thought i'd catch up with you again. where you been?
-
-speaker1: well, he seems very friendly. 
-speaker2: yes... very friendly.
-
-speaker1: what are you doing here? 
-speaker2: ahh... repairs. i thought you could help me out.
-speaker1: what have you done to my ship?
-speaker2: your ship? hey, remember, you lost her to me fair and square.
-speaker1: hello. what have we here? welcome. i'm lando calrissian. i'm the administrator of this facility. and who might you be?
-speaker3: leia.
-speaker1: welcome, leia.
-speaker2: all right, all right, you old smoothie.
-speaker4: hello, sir. i am see-threepio, human-cyborg relations. my facilities are at your...
-speaker4: well, really!
-speaker1: what's wrong with the falcon?
-speaker2: hyperdrive.
-speaker1: i'll get my people to work on it.
-speaker2: good.
-speaker1: you know, that ship saved my life quite a few times. she's the fastest hunk of junk in the galaxy.
-
-speaker1: how's the gas mine? is it paying off for you? 
-speaker2: oh, not as well as i'd like. we're a small outpost and not very self-sufficient. and i've had supply problems of every kind. i've had labor difficulties... what's so funny?
-speaker1: you. listen to you - you sound like a businessman, a responsible leader. who'd have thought that, huh?
-speaker2: you know, seeing you sure brings back a few things.
-speaker1: yeah.
-speaker2: yeah. i'm responsible these days. it's the price you pay for being successful.
-speaker3: oh! nice to see a familiar face.
-speaker4: e chu ta!
-speaker3: how rude!
-speaker3: that sounds like an r2 unit in there. i wonder if...
-speaker3: hello? how interesting. oh, my.
-speaker5: who are you?
-speaker3: oh, i'm terribly sorry. i... i didn't mean to intrude. no, no, please don't get up. no!
-
-speaker1: luke! you must complete the training. 
-speaker2: i can't keep the vision out of my head. they're my friends. i've got to help them.
-speaker1: you must not go!
-speaker2: but han and leia will die if i don't.
-speaker3: you don't know that.
-speaker4: even yoda cannot see their fate.
-speaker2: but i can help them! i feel the force!
-speaker4: but you cannot control it. this is a dangerous time for you, when you will be tempted by the dark side of the force.
-speaker1: yes, yes. to obi-wan you listen. the cave. remember your failure at the cave!
-speaker2: but i've learned so much since then. master yoda, i promise to return and finish what i've begun. you have my word.
-speaker4: it is you and your abilities the emperor wants. that is why your friends are made to suffer.
-speaker2: and that is why i have to go.
-speaker4: luke, i don't want to lose you to the emperor the way i lost vader.
-speaker2: you won't.
-speaker1: stopped they must be. on this all depends. only a fully trained jedi knight with the force as his ally will conquer vader and his emperor. if you end your training now, if you choose the quick and easy path, as vader did, you will become an agent of evil.
-speaker4: patience.
-speaker2: and sacrifice han and leia?
-speaker1: if you honor what they fight for ... yes!
-speaker4: if you choose to face vader, you will do it alone. i cannot interfere.
-speaker2: i understand. artoo, fire up the converters.
-speaker4: luke, don't give in to hate - that leads to the dark side.
-speaker1: strong is vader. mind what you have learned. save you it can.
-speaker2: i will. and i'll return. i promise.
-speaker1: told you, i did. reckless is he. now matters are worse.
-speaker4: that boy is our last hope.
-speaker1: no. there is another.
-
-speaker1: the ship is almost finished. two or three more things and we're in great shape. 
-speaker2: the sooner the better. something's wrong here. no one has seen or knows anything about threepio. he's been gone too long to have gotten lost.
-speaker1: relax. i'll talk to lando and see what i can find out.
-speaker2: i don't trust lando.
-speaker1: well, i don't trust him, either. but he is my friend. besides, we'll soon be gone.
-speaker2: and then you're as good as gone, aren't you?
-
-speaker1: what happened? 
-speaker2: where? found him in a junk pile?
-speaker1: oh, what a mess. chewie, do you think you can repair him?
-speaker2: lando's got people who can fix him.
-speaker1: no, thanks.
-speaker3: i'm sorry. am i interrupting anything?
-speaker1: not really.
-speaker3: you look absolutely beautiful. you truly belong here with us among the clouds.
-speaker1: thank you.
-speaker3: will you join me for a little refreshment?
-speaker3: everyone's invited, of course.
-speaker3: having trouble with you droid?
-speaker2: no. no problem. why?
-
-speaker1: so you see, since we're a small operation, we don't fall into the... uh... jurisdiction of the empire. 
-speaker2: so you're part of the mining guild then?
-speaker1: no, not actually. our operation is small enough not to be noticed... which is advantageous for everybody since our customers are anxious to avoid attracting attention to themselves.
-speaker3: aren't you afraid the empire's going to find out about this little operation and shut you down?
-speaker1: that's always been a danger looming like a shadow over everything we've built here. but things have developed that will insure security. i've just made a deal that will keep the empire out of here forever.
-
-speaker1: we would be honored if you would join us. 
-speaker2: i had no choice. they arrived right before you did. i'm sorry.
-
-speaker1: no, threepio's with them. 
-speaker1: just hang on. we're almost there.
-
-speaker1: mmmm. oh, my. uh, i, uh - take this off! i, uh, don't mean to intrude here. i, don't, no, no, no... please don't get up. no! 
-speaker1: stormtroopers? here? we're in danger. i must tell the others.
-
-speaker1: lord vader. 
-speaker2: you may take captain solo to jabba the hut after i have skywalker.
-speaker3: he's no good to me dead.
-speaker2: he will not be permanently damaged.
-speaker1: lord vader, what about leia and the wookiee?
-speaker2: they must never again leave this city.
-speaker1: that was never a condition of our agreement, nor was giving han to this bounty hunter!
-speaker2: perhaps you think you're being treated unfairly.
-speaker1: no.
-speaker2: good. it would be unfortunate if i had to leave a garrison here.
-speaker1: this deal's getting worse all the time.
-
-speaker1: oh, yes, that's very good. i like that. oh! something's not right because now i can't see. wait. wait! oh, my! what have you done? i'm backwards, you stupid furball. only an overgrown mophead like you would be stupid enough... 
-speaker2: i feel terrible.
-speaker3: why are they doing this?
-speaker2: they never even asked me any questions.
-speaker3: lando.
-speaker2: get out of here, lando!
-speaker4: shut up and listen! vader has agreed to turn leia and chewie over to me.
-speaker2: over to you?
-speaker4: they'll have to stay here, but at least they'll be safe.
-speaker3: what about han?
-speaker4: vader's giving him to the bounty hunter.
-speaker3: vader wants us all dead.
-speaker4: he doesn't want you at all. he's after somebody called skywalker.
-speaker2: luke?
-speaker4: lord vader has set a trap for him.
-speaker3: and we're the bait.
-speaker4: well, he's on his way.
-speaker2: perfect. you fixed us all pretty good, didn't you? my friend!
-speaker4: stop! i've done all i can. i'm sorry i couldn't do better, but i have my own problems.
-speaker2: yeah, you're a real hero.
-speaker3: you certainly have a way with people.
-
-speaker1: this facility is crude, but it should be adequate to freeze skywalker for his journey to the emperor. 
-speaker2: lord vader, ship approaching.
-speaker1: good. monitor skywalker and allow him to land.
-speaker3: lord vader, we only use this facility for carbon freezing. if you put him in there, it might kill him.
-speaker1: i do not want the emperor's prize damaged. we will test it... on captain solo.
-
-speaker1: if only you had attached my legs, i wouldn't be in this ridiculous position. now, remember, chewbacca, you have a responsibility to me, so don't do anything foolish. 
-speaker2: what's going on... buddy?
-speaker3: you're being put into carbon freeze.
-speaker4: what if he doesn't survive? he's worth a lot to me.
-speaker5: the empire will compensate you if he dies. put him in!
-speaker1: oh, no! no, no, no! stop, chewbacca, stop...!
-speaker2: stop, chewie, stop! do you hear me? stop!
-speaker1: yes, stop, please! i'm not ready to die.
-speaker2: chewie! chewie, this won't help me. hey!
-speaker2: save your strength. there'll be another time. the princess - you have to take care of her. you hear me?
-speaker6: i love you!
-speaker2: i know.
-speaker1: what... what's going on? turn round, chewbacca, i can't see. oh... they've encased him in carbonite. he should be quite well-protected - if he survives the freezing process, that is.
-speaker5: well, calrissian, did he survive?
-speaker3: yes, he's alive. and in perfect hibernation.
-speaker5: he's all yours bounty hunter.
-speaker7: skywalker has just landed, my lord.
-speaker5: good. see to it that he finds his way here. calrissian, take the princess and the wookiee to my ship.
-speaker3: you said they'd be left in the city under my supervision.
-speaker5: i am altering the deal. pray i don't alter it any further.
-
-speaker1: well done. hold them in the security tower - and keep it quiet. move. 
-speaker2: what do you think you're doing?
-speaker1: we're getting out of here.
-speaker3: i knew all along it had to be a mistake.
-speaker2: do you think that after what you did to han we're going to trust you?
-speaker1: i had no choice...
-speaker3: what are you doing? trust him, trust him!
-speaker2: oh, so we understand, don't we, chewie? he had no choice.
-speaker1: i'm just trying to help...
-speaker2: we don't need any of your help.
-speaker1: h-a-a-a...
-speaker2: what?
-speaker3: it sounds like han.
-speaker1: there's still a chance to save han... i mean, at the east platform...
-speaker2: chewie.
-speaker3: i'm terribly sorry about all this. after all, he's only a wookiee.
-
-speaker1: artoo! artoo! where have you been? 
-speaker1: turn around, you wooly...! hurry, hurry! we're trying to save han from the bounty hunter!
-speaker1: well, at least your still in one piece! look what happened to me!
-
-speaker1: you have learned much, young one. 
-speaker2: you'll find i'm full of surprises.
-speaker1: your destiny lies with me, skywalker. obi-wan knew this to be true.
-speaker2: no!
-speaker1: all to easy. perhaps you are not as strong as the emperor thought.
-speaker1: impressive... most impressive.
-speaker1: obi-wan has taught you well. you have controlled your fear... now release your anger.
-speaker1: only your hatred can destroy me.
-
-speaker1: the security codes has been changed! 
-speaker2: artoo, you can tell the computer to override the security system.
-speaker1: attention! this is lando calrissian. the empire has takes control of the city. i advise everyone to leave before more imperial troops arrive.
-speaker1: this way.
-speaker2: don't blame me. i'm an interpreter. i'm not supposed to know a power socket from a computer terminal.
-
-speaker1: ouch! oh! ah! that hurt. bend down, you thoughtless... ow! 
-speaker2: leia! go!
-
-speaker1: you are beaten. it is useless to resist. don't let yourself be destroyed as obi-wan did. 
-speaker1: there is no escape. don't make me destroy you. you do not yet realize your importance. you have only begun to discover your power. join me and i will complete your training. with our combined strength, we can end this destructive conflict and bring order to the galaxy.
-speaker2: i'll never join you!
-speaker1: if you only knew the power of the dark side. obi-wan never told you what happened to your father.
-speaker2: he told me enough! it was you who killed him.
-speaker1: no. i am your father.
-speaker2: no. no. that's not true! that's impossible!
-speaker1: search your feelings. you know it to be true.
-speaker2: no! no! no!
-speaker1: luke. you can destroy the emperor. he has foreseen this. it is your destiny. join me, and together we can rule the galaxy as father and son. come with me. it is the only way.
-
-speaker1: ben... ben, please! 
-speaker1: ben. leia!
-speaker1: hear me! leia!
-
-speaker1: luke... we've got to go back. 
-speaker2: what?
-speaker1: i know where luke is.
-speaker2: but what about those fighter?
-speaker1: chewie, just do it.
-speaker2: but what about vader?
-speaker2: all right, all right, all right.
-
-speaker1: look, someone's up there. 
-speaker2: it's luke. chewie, slow down. slow down and we'll get under him. lando, open the top hatch.
-
-speaker1: lando? 
-speaker2: okay, let's go.
-
-speaker1: oh, leia. 
-speaker2: all right, chewie. let's go.
-
-speaker1: star destroyer. 
-speaker2: all right, chewie. ready for light-speed.
-speaker1: if your people fixed the hyperdrive.
-speaker1: all the coordinates are set. it's now or never.
-speaker2: punch it!
-speaker2: they told me they fixed it. i trusted them to fix it. it's not my fault!
-
-speaker1: they'll be in range of our tractor beam in moments, my lord. 
-speaker2: did your men deactivate the hyperdrive on the millennium falcon?
-speaker1: yes, my lord.
-speaker2: good. prepare the boarding party and set your weapons for stun.
-speaker1: yes, my lord.
-
-speaker1: noisy brute. why don't we just go into light-speed? 
-speaker1: we can't? how would you know the hyperdrive is deactivated?
-speaker1: the city's central computer told you? artoo-detoo, you know better than to trust a strange computer. ouch! pay attention to what you're doing!
-
-speaker1: luke, we're ready for takeoff. 
-speaker2: good luck, lando
-speaker1: when we find jabba the hut and that bounty hunter, we'll contact you.
-
-speaker1: chewie, i'll be waiting for your signal. 
-speaker1: take care, you two. may the force be with you.
-speaker1: ow!
+THE EMPIRE STRIKES BACK: written by 
+THE EMPIRE STRIKES BACK: lawrence kasdan and leigh brackett
+THE EMPIRE STRIKES BACK: from a story by george lucas
+
+LUKE: echo three to echo seven. han, old buddy, do you read me? 
+HAN: loud and clear, kid. what's up?
+LUKE: well, i finished my circle. i don't pick up any life readings.
+HAN: there isn't enough life on this ice cube to fill a space cruiser. the sensors are placed, i'm going back.
+LUKE: right. i'll see you shortly. there's a meteorite that hit the ground near here. i want to check it out. it won't take long.
+LUKE: hey, steady girl. what's the matter? you smell something?
+LUKE: aaargh!
+
+HAN: chewie! 
+HAN: all right, don't lose your temper. i'll come right back and give you a hand.
+
+RIEEKAN: solo? 
+HAN: no sign of life out there, general. the sensors are in place. you'll know if anything comes around.
+RIEEKAN: commander skywalker reported in yet?
+HAN: no. he's checking out a meteorite that hit near him.
+RIEEKAN: with all the meteor activity in this system, it's going to be difficult to spot approaching ships.
+HAN: general, i've got to leave. i can't stay anymore.
+RIEEKAN: i'm sorry to hear that.
+HAN: well, there's a price on my head. if i don't pay off jabba the hut, i'm a dead man.
+RIEEKAN: a death mark's not an easy thing to live with. you're a good fighter, solo. i hate to lose you.
+HAN: thank you, general.
+HAN: well, your highness, i guess this is it.
+LEIA: that's right.
+HAN: well, don't get all mushy on me. so long, princess.
+
+LEIA: han! 
+HAN: yes, your highnessness?
+LEIA: i thought you decided to stay.
+HAN: well, the bounty hunter we ran into on ord mantell changed my mind.
+LEIA: han, we need you!
+HAN: we?
+LEIA: yes.
+HAN: oh, what about you need?
+LEIA: i need? i don't know what you're talking about.
+HAN: you probably don't.
+LEIA: and what precisely am i supposed to know?
+HAN: come on! you want me to stay because of the way you feel about me.
+LEIA: yes. you're a great help to us.
+HAN: no! that's not it. come on. aahhh - uh huh! come on.
+LEIA: you're imagining things.
+HAN: am i? then why are you following me? afraid i was going to leave without giving you a goodbye kiss?
+LEIA: i'd just as soon kiss a wookiee.
+HAN: i can arrange that. you could use a good kiss!
+
+THREEPIO: don't try to blame me. i didn't ask you to turn on the thermal heater. i merely commented that it was freezing in the princess' chamber. but it's supposed to be freezing. how are we going to dry out all her clothes? i really don't know. 
+THREEPIO: oh, switch off.
+
+HAN: why do you take this apart now? i'm trying to get us out of here and you pull both of these. 
+THREEPIO: excuse me, sir.
+HAN: put them back together right now.
+THREEPIO: might i have a word with you, please?
+HAN: what do you want?
+THREEPIO: well, it's princess leia, sir. she's been trying to get you on the communicator.
+HAN: i turned it off. i don't want to talk to her.
+THREEPIO: oh. well, princess leia is wondering about master luke. he hasn't come back yet. she doesn't know where he is.
+HAN: i don't know where he is.
+THREEPIO: nobody knows where he is.
+HAN: what do you mean, "nobody knows"?
+THREEPIO: well, uh, you see...
+HAN: deck officer. deck officer!
+THREEPIO: excuse me, sir. might i inqu...
+DECK OFFICER: yes, sir?
+HAN: do you know where commander skywalker is?
+DECK OFFICER: i haven't seen him. it's possible he came in through the south entrance.
+HAN: it's possible? why don't you go find out? it's getting dark out there.
+DECK OFFICER: yes, sir.
+THREEPIO: excuse me, sir. might i inquire what's going on?
+HAN: why not?
+THREEPIO: impossible man. come along, artoo, let's find princess leia. between ourselves, i think master luke is in considerable danger.
+
+DECK OFFICER: sir, commander skywalker hasn't come in through the south entrance. 
+HAN: not likely. are the speeders ready?
+DECK OFFICER: not yet. we're having some trouble adapting them to the cold.
+HAN: then we'll have to go out on tauntauns.
+DECK OFFICER: sir, the temperature's dropping too rapidly.
+HAN: that's right. and my friends out in it.
+ASSISTANT OFFICER: i'll cover sector twelve. have com-control set screen alpha.
+DECK OFFICER: your tauntaun'll freeze before you reach the first marker.
+HAN: then i'll see you in hell!
+
+THREEPIO: you must come along now, artoo. there's really nothing more we can do. and my joints are freezing up. 
+THREEPIO: don't say thing like that! of course we'll see master luke again. he'll be quite all right, you'll see. stupid little short-circuit. he'll be quite all right.
+
+LIEUTENANT: sir, all the patrols are in. there's still no contact from skywalker or solo. 
+THREEPIO: mistress leia, artoo says he's been quite unable to pick up any signals, although he does admit that his own range is far too weak to abandon all hope.
+DERLIN: your highness, there's nothing more we can do tonight. the shield doors must be closed.
+DERLIN: close the doors.
+LIEUTENANT: yes, sir.
+THREEPIO: artoo says the chances of survival are seven hundred seventy-five... to one.
+THREEPIO: actually, artoo has been known to make mistakes... from time to time. oh, dear, oh, dear. don't worry about master luke. i'm sure he'll be all right. he's quite clever, you know... for a human being.
+
+BEN: luke... luke. 
+LUKE: ben?
+BEN: you will go to the dagobah system.
+LUKE: dagobah system?
+BEN: there you will learn from yoda, the jedi master who instructed me.
+LUKE: ben... ben. luke drops into unconsciousness.
+HAN: luke! luke! don't do this, luke. come on, give me a sign here.
+HAN: not much time.
+LUKE: ben... ben...
+HAN: hang on, kid.
+LUKE: dagobah system...
+HAN: whew...
+LUKE: dagobah...
+HAN: this may smell bad, kid...
+LUKE: yoda...
+HAN: ...but it will keep you warm... til i get the shelter built. ooh... i thought they smelled bad on the outside!
+
+ZEV: this is rogue two. this is rogue two. captain solo, so you copy? commander skywalker, do you copy? this is rogue two. 
+HAN: good morning. nice of you guys to drop by.
+ZEV: echo base... this is rogue two. i found them. repeat, i found them.
+
+THREEPIO: master luke, sir, it's so good to see you fully functional again. 
+THREEPIO: artoo expresses his relief, also.
+HAN: how are you feeling, kid? you don't look so bad to me. in fact, you look strong enough to pull the ears off a gundark.
+LUKE: thanks to you.
+HAN: that's two you owe me, junior.
+HAN: well your worship, looks like you managed to keep me around for a little while longer.
+LEIA: i had nothing to do with it. general rieekan thinks it's dangerous for any ships to leave the system until we've activated the energy shield.
+HAN: that's a good story. i think you just can't bear to let a gorgeous guy like me out of your sight.
+LEIA: i don't know where you get your delusions, laser brain.
+HAN: laugh it up, fuzzball. but you didn't see us alone in the south passage.
+HAN: she expressed her true feelings for me.
+LEIA: my...! why, you stuck up,... half- witted... scruffy-looking ...nerf- herder!
+HAN: who's scruffy-looking? i must have hit pretty close to the mark to get her all riled up like that, huh, kid?
+LEIA: why, i guess you don't know everything about women yet?
+ANNOUNCER: headquarters personnel, report to command center.
+HAN: take it easy.
+THREEPIO: excuse us, please.
+
+RIEEKAN: princess... we have a visitor. 
+RIEEKAN: we've picked up something outside the base in zone twelve, moving east.
+SENIOR CONTROLLER: it's metal.
+LEIA: then it couldn't be one of those creatures that attacked luke.
+HAN: it could be a speeder, one of ours.
+SENIOR CONTROLLER: no. wait - there's something very weak coming through.
+THREEPIO: sir, i am fluent in six million forms of communication. this signal is not used by the alliance. it could be an imperial code.
+HAN: it isn't friendly, whatever it is. come on, chewie, let's check it out.
+RIEEKAN: send rogues ten and eleven to station three-eight.
+
+HAN: afraid there's not much left. 
+LEIA: what was it?
+HAN: droid of some kind. i didn't hit it that hard. it must have had a self-destruct.
+LEIA: an imperial probe droid.
+HAN: it's a good bet the empire knows we're here.
+RIEEKAN: we'd better start the evacuation.
+
+PIETT: admiral. 
+OZZEL: yes, captain
+PIETT: i think we've got something, sir. the report is only a fragment from a probe droid in the hoth system, but it's the best lead we've had.
+OZZEL: we have thousands of probe droids searching the galaxy. i want proof, not leads!
+PIETT: the visuals indicate life readings.
+OZZEL: it could mean anything. if we followed every lead...
+PIETT: but, sir, the hoth system is supposed to be devoid of human forms.
+VADER: you found something?
+PIETT: yes, my lord.
+VADER: that's it. the rebels are there.
+OZZEL: my lord, there are so many uncharted settlements. it could be smugglers, it could be...
+VADER: that is the system. and i'm sure skywalker is with them. set your course for the hoth system. general veers, prepare you men.
+
+REBEL CAPTAIN: groups seven and ten will stay behind to fly the speeders. as soon as each transport is loaded, evacuation control will give clearance for immediate launch. 
+REBEL FIGHTER: right, sir.
+
+MEDICAL DROID: sir, it will take quite a while to evacuate the t-forty- sevens. 
+LUKE: well, forget the heavy equipment. there's plenty of time to get the smaller modules on the transports.
+MEDICAL DROID: take care, sir.
+LUKE: thanks.
+
+LUKE: chewie, take care of yourself, okay? 
+HAN: hi, kid. there's got to be a reason for it. check it at the other end. wait a second. you all right?
+LUKE: yeah.
+HAN: be careful.
+LUKE: you, too.
+
+CONTROLLER: general, there's a fleet of star destroyers coming out of hyperspace in sector four. 
+RIEEKAN: reroute all power to the energy shield. we've got to hold them till all transports are away. prepare for ground assault.
+
+VADER: what is it, general? 
+VEERS: my lord, the fleet has moves out of light-speed. com-scan has detected an energy field protecting an area around the sixth planet of the hoth system. the field is strong enough to deflect any bombardment.
+VADER: the rebels are alerted to our presence. admiral ozzel came out of light-speed too close to the system.
+VEERS: he felt surprise was wiser...
+VADER: he is as clumsy as he is stupid. general, prepare your troops for a surface attack.
+VEERS: yes, my lord.
+OZZEL: lord vader, the fleet has moved out of light-speed, and we're preparing to... aaagh!
+VADER: you have failed me for the last time, admiral. captain piett.
+PIETT: yes, my lord.
+VADER: make ready to land out troops beyond the energy shield and deploy the fleet so that nothing gets off that system. you are in command now, admiral piett.
+PIETT: thank you, lord vader.
+
+LEIA: all troop carriers will assemble at the north entrance. the heavy transport ships will leave as soon as they're loaded. only two fighter escorts per ship. the energy shield can only be opened for a short time, so you'll have to stay very close to your transports. 
+HOBBIE: two fighters against a star destroyer?
+LEIA: the ion cannon will fire several shots to make sure that any enemy ships will be out of your flight path. when you've gotten past the energy shield, proceed directly to the rendezvous point. understood?
+PILOTS: right. okay.
+LEIA: good luck.
+DERLIN: okay. everyone to your stations. let's go!
+
+CONTROLLER: sir, rebel ships are coming into our sector. 
+CAPTAIN: good. our first catch of the day.
+
+ANNOUNCER: the first transport is away. 
+DACK: feeling all right, sir?
+LUKE: just like new, dack. how about you?
+DACK: right now i feel like i could take on the whole empire myself.
+LUKE: i know what you mean.
+
+TRENCH OFFICER: we have spotted imperial walkers! 
+CONTROLLER: imperial walkers on the north ridge.
+
+LUKE: all right, boys, keep tight now. 
+DACK: luke, i have no approach vector. i'm not set.
+LUKE: steady, dack. attack pattern delta. go now!
+
+LUKE: all right, i'm coming in. 
+LUKE: hobbie, you still with me?
+
+LUKE: that armor's too strong for blasters. 
+LUKE: rogue group, use your harpoons and tow cables. go for the legs. it might be our only chance of stopping them. all right, stand by, dack.
+DACK: luke, we've got a malfunction in fire control. i'll have to cut in the auxiliary.
+LUKE: just hang on. hang on, dack. get ready to fire that tow cable.
+
+WEDGE: copy, rogue leader 
+LUKE: wedge, i've lost my gunner. you'll have to make this shot. i'll cover for you. set your harpoon. follow me on the next pass.
+WEDGE: coming around, rogue leader.
+
+WEDGE: one more pass. 
+JANSON: coming around. once more.
+
+JANSON: once more. 
+JANSON: cable out! let her go!
+WEDGE: detach cable.
+
+RIEEKAN: i don't think we can protect two transports at a time. 
+LEIA: it's risky, but we can't hold out much longer. we have no choice.
+RIEEKAN: launch patrols.
+LEIA: evacuate remaining ground staff.
+
+HAN: no, no! no! this one goes there, that one goes there. right? 
+THREEPIO: artoo, you take good care of master luke now, understand? and ... do take good care of yourself. oh, dear, oh, dear.
+
+ZEV: set for position three. steady. 
+LUKE: stay tight and low.
+
+HAN: you all right? 
+LEIA: why are you still here?
+HAN: i heard the command center had been hit.
+LEIA: you got your clearance to leave.
+HAN: don't worry. i'll leave. first i'm going to get you to your ship.
+THREEPIO: your highness, we must take this last transport. it's our only hope.
+LEIA: send all troops in sector twelve to the south slope to protect the fighters.
+ANNOUNCER: imperial troops have entered the base.
+HAN: come on... that's it.
+LEIA: give the evacuation code signal. and get to your transports!
+HEAD CONTROLLER: k-one-zero... all troops disengage.
+THREEPIO: oh! wait for me!
+
+OFFICER: begin retreat! 
+SECOND OFFICER: fall back!
+
+VEERS: distance to power generators? 
+PILOT: one-seven, decimal two-eight.
+VEERS: target. maximum fire power.
+
+HAN: transport, this is solo. better take off - i can't get to you. i'll get the princess out on the falcon. 
+THREEPIO: but... but... but... where are you going? uh... come back!!
+
+THREEPIO: wait! wait for me! wait! stop! 
+THREEPIO: how typical.
+HAN: come on.
+
+HAN: hurry up, goldenrod, or you're going to be a permanent resident! 
+THREEPIO: wait! wait!
+
+HAN: how's this? 
+LEIA: would it helped if i got out and pushed?
+HAN: it might.
+THREEPIO: captain solo, captain solo... sir, might i suggest that you...
+THREEPIO: it can wait.
+
+LEIA: this bucket of bolts is never going to get us past that blockade. 
+HAN: this baby's got a few surprises left in her, sweetheart.
+
+HAN: come on! come on! switch over. let's hope we don't have a burnout. 
+HAN: see?
+LEIA: someday you're going to be wrong, and i hope i'm there to see it.
+HAN: punch it!
+
+LUKE: artoo! get her ready for takeoff. 
+WEDGE: good luck, luke. see you at the rendezvous.
+LUKE: don't worry, artoo. we're going, we're going.
+
+LUKE: there's nothing wrong, artoo. i'm just setting a new course. 
+LUKE: yes, artoo?
+LUKE: that's all right. i'd like to keep it on manual control for a while.
+
+HAN: i saw them! i saw them! 
+LEIA: saw what?
+HAN: star destroyers, two of them, coming right at us.
+THREEPIO: sir, sir! might i suggest...
+HAN: shut him up or shut him down! check the deflector shield!
+HAN: oh, great. well, we can still outmaneuver them.
+
+HAN: prepare to make the jump to light- speed. 
+THREEPIO: but, sir!
+LEIA: they're getting closer!
+HAN: oh yeah? watch this.
+LEIA: watch what?
+HAN: i think we're in trouble.
+THREEPIO: if i may say so, sir, i noticed earlier that the hyperdrive motivator has been damaged. it's impossible to go to light-speed!
+HAN: we're in trouble!
+
+HAN: horizontal boosters...! alluvial dampers...! well that's not it. bring me the hydrospanners! 
+HAN: i don't know how we're going to get out of this one.
+HAN: oww! chewie!
+HAN: that was no laser blast! something hit us.
+LEIA: han, get up here!
+HAN: come on, chewie!
+
+LEIA: asteroids! 
+HAN: oh, no! chewie, set two-seven- one.
+LEIA: what are you doing? you're not actually going into an asteroid field?
+HAN: they'd be crazy to follow us, wouldn't they?
+LEIA: you don't have to do this to impress me.
+THREEPIO: sir, the possibility of successfully navigating an asteroid field is approximately three thousand, seven hundred and twenty to one.
+HAN: never tell me the odds!
+
+HAN: you said you wanted to be around when i made a mistake; well, this could be it, sweetheart. 
+LEIA: i take it back. we're going to get pulverized if we stay out here much longer.
+HAN: i'm not going to argue with that.
+THREEPIO: pulverized?
+HAN: i'm going in closer to one of those big ones.
+LEIA: closer?
+THREEPIO: closer?!
+
+THREEPIO: oh, this is suicide! 
+HAN: there. that looks pretty good.
+LEIA: what looks pretty good?
+HAN: yeah. that'll do nicely.
+THREEPIO: excuse me, ma'am, but where are we going?
+
+LEIA: i hope you know what you're doing. 
+HAN: yeah, me too.
+
+LUKE: yes, that's it. dagobah. 
+LUKE: no, i'm not going to change my mind about this. i'm not picking up any cities or technology. massive life-form readings, though. there's something alive down there...
+LUKE: yes, i'm sure it's perfectly safe for droids.
+
+LUKE: no, artoo, you stay put. i'll have a look around. 
+LUKE: artoo?
+LUKE: artoo! where are you?
+LUKE: artoo! you be more careful.
+LUKE: artoo - that way!
+LUKE: artoo!
+LUKE: oh, no! are you all right? come on. you're lucky you don't taste very good. anything broken?
+LUKE: if you're saying coming here was a bad idea, i'm beginning to agree with you. oh, artoo, what are we doing here? it's like... something out of a dream, or, i don't know. maybe i'm just going crazy.
+
+VADER: yes, admiral? 
+PIETT: our ships have sighted the millennium falcon, lord. but... it has entered an asteroid field and we cannot risk...
+VADER: asteroids do not concern me, admiral. i want that ship and not excuses.
+PIETT: yes, lord.
+
+HAN: i'm going to shut down everything but the emergency power systems. 
+THREEPIO: sir, i'm almost afraid to ask, but... does that include shutting me down, too? chewie barks "yes". but han thinks otherwise.
+HAN: no, i need you to talk to the falcon, find out what's wrong with the hyperdrive.
+THREEPIO: sir, it's quite possible this asteroid is not entirely stable.
+HAN: not entirely stable? i'm glad you're here to tell us these things. chewie, take the professor in the back and plug him into the hyperdrive.
+THREEPIO: oh! sometimes i just don't understand human behavior. after all, i'm only trying to do my job in the most...
+LEIA: let go.
+HAN: sshh!
+LEIA: let go, please.
+HAN: don't get excited.
+LEIA: captain, being held by you isn't quite enough to get me excited.
+HAN: sorry, sweetheart. we haven't got time for anything else.
+
+LUKE: ready for some power? okay. let's see now. put that in there. there you go. 
+LUKE: now all i have to do is find this yoda... if he even exists.
+LUKE: still... there's something familiar about this place. i feel like... i don't know...
+STRANGE VOICE: feel like what?
+LUKE: like we're being watched!
+CREATURE: away with your weapon! i mean you no harm.
+CREATURE: i am wondering, why are you here?
+LUKE: i'm looking for someone.
+CREATURE: looking? found someone, you have, i would say, hmmm?
+LUKE: right.
+CREATURE: help you i can. yes, mmmm.
+LUKE: i don't think so. i'm looking for a great warrior.
+CREATURE: ahhh! a great warrior. wars not make one great.
+LUKE: put that down. hey! that's my dinner!
+CREATURE: how you get so big, eating food of this kind?
+LUKE: listen, friend, we didn't mean to land in that puddle, and if we could get our ship out, we would, but we can't, so why don't you just...
+LUKE: hey, you could have broken this. don't do that. ohhh... you're making a mess. hey, give me that!
+CREATURE: mine! or i will help you not.
+LUKE: i don't want your help. i want my lamp back. i'll need it to get out of this slimy mudhole.
+CREATURE: mudhole? slimy? my home this is.
+CREATURE: ah, ah, ah!
+LUKE: oh, artoo, let him have it!
+CREATURE: mine! mine!
+LUKE: artoo!
+CREATURE: mine!
+CREATURE: mine!
+LUKE: now will you move along, little fella? we're got a lot of work to do.
+CREATURE: no! no, no! stay and help you, i will. find your friend, hmm?
+LUKE: i'm not looking for a friend. i'm looking for a jedi master.
+CREATURE: oohhh. jedi master. yoda. you seek yoda.
+LUKE: you know him?
+CREATURE: mmm. take you to him, i will. yes, yes. but now, we must eat. come. good food. come.
+CREATURE: come, come.
+LUKE: stay here and watch after the camp, artoo.
+
+THREEPIO: oh, where is artoo when i need him? 
+THREEPIO: sir, i don't know where your ship learned to communicate, but it has the most peculiar dialect. i believe, sir, it says that the power coupling on the negative axis has been polarized. i'm afraid you'll have to replace it.
+HAN: well, of course i'll have to replace it.
+HAN: here! and chewie...
+HAN: hey, your worship, i'm only trying to help.
+LEIA: would you please stop calling me that?
+HAN: sure, leia.
+LEIA: oh, you make it so difficult sometimes.
+HAN: i do, i really do. you could be a little nicer, though. come on, admit it. sometimes you think i'm all right.
+LEIA: occasionally... ... when you aren't acting like a scoundrel.
+HAN: scoundrel? scoundrel? i like the sound of that.
+LEIA: stop that.
+HAN: stop what?
+LEIA: stop that! my hands are dirty.
+HAN: my hands are dirty, too. what are you afraid of?
+LEIA: afraid?
+HAN: you're trembling.
+LEIA: i'm not trembling.
+HAN: you like me because i'm a scoundrel. there aren't enough scoundrels in your life.
+LEIA: i happen to like nice men.
+HAN: i'm a nice man.
+LEIA: no, you're not. you're...
+THREEPIO: sir, sir! i've isolated the reverse power flux coupling.
+HAN: thank you. thank you very much.
+THREEPIO: oh, you're perfectly welcome, sir.
+
+NEEDA: ... and that, lord vader, was the last time they appeared in any of our scopes. considering the amount of damage we've sustained, they must have been destroyed. 
+VADER: no, captain, they're alive. i want every ship available to sweep the asteroid field until they are found.
+PIETT: lord vader.
+VADER: yes, admiral, what is it?
+PIETT: the emperor commands you make contact with him.
+VADER: move the ship out of the asteroid field so that we can send a clear transmission.
+PIETT: yes, my lord.
+
+VADER: what is thy bidding, my master? 
+EMPEROR: there is a great disturbance in the force.
+VADER: i have felt it.
+EMPEROR: we have a new enemy - luke skywalker.
+VADER: yes, my master.
+EMPEROR: he could destroy us.
+VADER: he's just a boy. obi-wan can no longer help him.
+EMPEROR: the force is strong with him. the son of skywalker must not become a jedi.
+VADER: if he could be turned, he would become a powerful ally.
+EMPEROR: yes. yes. he would be a great asset. can it be done?
+VADER: he will join us or die, my master.
+
+LUKE: look, i'm sure it's delicious. i just don't understand why we can't see yoda now. 
+CREATURE: patience! for the jedi it is time to eat as well. eat, eat. hot. good food, hm? good, hmm?
+LUKE: how far away is yoda? will it take us long to get there?
+CREATURE: not far. yoda not far. patience. soon you will be with him. rootleaf, i cook. why wish you become jedi? hm?
+LUKE: mostly because of my father, i guess.
+CREATURE: ah, your father. powerful jedi was he, powerful jedi, mmm.
+LUKE: oh, come on. how could you know my father? you don't even know who i am. oh, i don't know what i'm doing here. we're wasting our time.
+BEN'S VOICE: he will learn patience.
+YODA: hmmm. much anger in him, like his father.
+BEN'S VOICE: was i any different when you taught me?
+YODA: hah. he is not ready.
+LUKE: yoda! i am ready. i... ben! i can be a jedi. ben, tell him i'm ready.
+YODA: ready, are you? what know you of ready? for eight hundred years have i trained jedi. my own counsel will i keep on who is to be trained! a jedi must have the deepest commitment, the most serious mind. this one a long time have i watched. all his life has he looked away... to the future, to the horizon. never his mind on where he was. hmm? what he was doing. hmph. adventure. heh! excitement. heh! a jedi craves not these things. you are reckless!
+BEN'S VOICE: so was i, if you'll remember.
+YODA: he is too old. yes, too old to begin the training.
+LUKE: but i've learned so much.
+YODA: will he finished what he begins?
+LUKE: i won't fail you - i'm not afraid.
+YODA: oh, you will be. you will be.
+
+THREEPIO: sir, if i may venture an opinion... 
+HAN: i'm not really interested in your opinion, threepio.
+LEIA: there's something out there.
+HAN: where?
+LEIA: outside, in the cave.
+THREEPIO: there it is. listen! listen!
+HAN: i'm going out there.
+LEIA: are you crazy?!
+HAN: i just got this bucket back together. i'm not going to let something tear it apart.
+LEIA: then i'm going with you.
+THREEPIO: i think it might be better if i stay here and guard the ship. oh, no.
+
+LEIA: this ground sure feels strange. it doesn't feel like rock at all. 
+HAN: there's an awful lot of moisture in here.
+LEIA: i don't know. i have a bad feeling about this.
+HAN: yeah.
+HAN: watch out!
+HAN: yeah, that's what i thought. mynock. chewie, check the rest of the ship, make sure there aren't any more attached. they're chewing on the power cables.
+LEIA: mynocks?
+HAN: go on inside. we'll clean them off if there are any more.
+THREEPIO: ohhh! go away! go away! beastly little thing. shoo! shoo!
+HAN: wait a minute...
+
+HAN: all right, chewie, let's get out of here! 
+LEIA: the empire is still out there. i don't think it's wise to...
+HAN: no time to discuss this in committee.
+LEIA: i am not a committee!
+
+LEIA: you can't make the jump to light- speed in this asteroid field... 
+HAN: sit down, sweetheart. we're taking off!
+THREEPIO: look!
+HAN: i see it, i see it.
+THREEPIO: we're doomed!
+LEIA: the cave is collapsing.
+HAN: this is no cave.
+LEIA: what?
+
+YODA: run! yes. a jedi's strength flows from the force. but beware of the dark side. anger... fear... aggression. the dark side of the force are they. easily they flow, quick to join you in a fight. if once you start down the dark path, forever will it dominate your destiny, consume you it will, as it did obi-wan's apprentice. 
+LUKE: vader. is the dark side stronger?
+YODA: no... no... no. quicker, easier, more seductive.
+LUKE: but how am i to know the good side from the bad?
+YODA: you will know. when you are calm, at peace. passive. a jedi uses the force for knowledge and defense, never for attack.
+LUKE: but tell me why i can't...
+LUKE: there's something not right here.
+LUKE: i feel cold, death.
+YODA: that place... is strong with the dark side of the force. a domain of evil it is. in you must go.
+LUKE: what's in there?
+YODA: only what you take with you.
+YODA: your weapons... you will not need them.
+
+PIETT: bounty hunters. we don't need that scum. 
+FIRST CONTROLLER: yes, sir.
+PIETT: those rebels won't escape us.
+SECOND CONTROLLER: sir, we have a priority signal from the star destroyer avenger.
+PIETT: right.
+VADER: ... there will be a substantial reward for the one who finds the millennium falcon. you are free to use any methods necessary, but i want them alive. no disintegrations.
+BOBA FETT: as you wish.
+PIETT: lord vader! my lord, we have them.
+
+HAN: let's get out of here. ready for light-speed? one... two... three! 
+HAN: it's not fair!
+HAN: the transfer circuits are working. it's not my fault!
+LEIA: no light-speed?
+HAN: it's not my fault.
+THREEPIO: sir, we just lost the main rear deflector shield. one more direct hit on the back quarter and we're done for.
+HAN: turn her around.
+HAN: i said turn her around! i'm going to put all power in the front shield.
+LEIA: you're going to attack them?!
+THREEPIO: sir, the odds of surviving a direct assault on an imperial star destroyer...
+LEIA: shut up!
+
+NEEDA: they're moving to attack position! shields up! 
+NEEDA: track them. they may come around for another pass.
+TRACKING OFFICER: captain needa, the ship no longer appears on our scopes.
+NEEDA: they can't have disappeared. no ship that small has a cloaking device.
+TRACKING OFFICER: well, there's no trace of them, sir.
+COMMUNICATIONS OFFICER: captain, lord vader demands an update on the pursuit.
+NEEDA: get a shuttle ready. i shall assume full responsibility for losing them, and apologize to lord vader. meanwhile, continue to scan the area.
+COMMUNICATIONS OFFICER: yes, captain needa.
+
+YODA: use the force. yes... 
+YODA: now... the stone. feel it.
+YODA: concentrate!
+LUKE: oh, no. we'll never get it out now.
+YODA: so certain are you. always with you it cannot be done. hear you nothing that i say?
+LUKE: master, moving stones around is one thing. this is totally different.
+YODA: no! no different! only different in your mind. you must unlearn what you have learned.
+LUKE: all right, i'll give it a try.
+YODA: no! try not. do. or do not. there is no try.
+LUKE: i can't. it's too big.
+YODA: size matters not. look at me. judge me by my size, do you? hm? mmmm.
+YODA: and well you should not. for my ally in the force. and a powerful ally it is. life creates it, makes it grow. its energy surrounds us and binds us. luminous beings are we... ... not this crude matter. you must feel the force around you. here, between you... me... the tree... the rock... everywhere! yes, even between this land and that ship!
+LUKE: i don't... i don't believe it.
+YODA: that is why you fail.
+
+VADER: apology accepted, captain needa. 
+PIETT: lord vader, our ships have completed their scan of the area and found nothing. if the millennium falcon went into light- speed, it'll be on the other side of the galaxy by now.
+VADER: alert all commands. calculate every possible destination along their last know trajectory.
+PIETT: yes, my lord. we'll find them.
+VADER: don't fail me again, admiral.
+PIETT: alert all commands. deploy the fleet.
+
+THREEPIO: captain solo, this time you have gone too far. no, i will not be quiet, chewbacca. 
+HAN: the fleet is beginning to break up. go back and stand by the manual release for the landing claw.
+THREEPIO: i really don't see how that is going to help. surrender is a perfectly acceptable alternative in extreme circumstances. the empire may be gracious enough...
+HAN: thank you.
+LEIA: what did you have in mind for your next move?
+HAN: well, if they follow standard imperial procedure, they'll dump their garbage before they go to light-speed, then we just float away.
+LEIA: with the rest of the garbage.
+HAN: then we've got to find a safe port somewhere around here. got any ideas?
+LEIA: no. where are we?
+HAN: the anoat system.
+LEIA: anoat system. there's not much there.
+HAN: no. well, wait. this is interesting. lando.
+LEIA: lando system?
+HAN: lando's not a system, he's a man. lando calrissian. he's a card player, gambler, scoundrel. you'd like him.
+LEIA: thanks.
+HAN: bespin. it's pretty far, but i think we can make it.
+LEIA: a mining colony?
+HAN: yeah, a tibanna gas mine. lando conned somebody out of it. we go back a long way, lando and me.
+LEIA: can you trust him?
+HAN: no. but he has no love for the empire, i can tell you that.
+HAN: here we go, chewie. stand by. detach!
+LEIA: you do have your moments. not many, but you have them.
+
+YODA: concentrate... feel the force flow. yes. good. calm, yes. through the force, things you will see. other places. the future... the past. old friends long gone. 
+LUKE: han! leia!
+YODA: hmm. control, control. you must learn control.
+LUKE: i saw... i saw a city in the clouds.
+YODA: mmm. friends you have there.
+LUKE: they were in pain.
+YODA: it is the future you see.
+LUKE: future? will they die?
+YODA: difficult to see. always in motion is the future.
+LUKE: i've got to go to them.
+YODA: decide you must how to serve them best. if you leave now, help them you could. but you would destroy all for which they have fought and suffered.
+
+HAN: no, i don't have a landing permit. i'm trying to reach lando calrissian. 
+HAN: whoa! wait a minute! let me explain.
+INTERCOM VOICE: you will not deviate from your present course.
+THREEPIO: rather touchy, aren't they?
+LEIA: i thought you knew this person.
+HAN: well, that was a long time ago. i'm sure he's forgotten about that.
+INTERCOM VOICE: permission granted to land on platform three-two-seven.
+HAN: thank you.
+HAN: there's nothing to worry about. we go way back, lando and me.
+LEIA: who's worried?
+
+THREEPIO: oh. no one to meet us. 
+LEIA: i don't like this.
+HAN: well, what would you like?
+THREEPIO: well, they did let us land.
+HAN: look, don't worry. everything's going to be fine. trust me.
+
+LANDO: why, you slimy, double-crossing, no-good swindler! you've got a lot of guts coming here, after what you pulled. han points to himself innocently, mouthing, "me?" 
+LANDO: how you doing, you old pirate? so good to see you! i never thought i'd catch up with you again. where you been?
+
+THREEPIO: well, he seems very friendly. 
+LEIA: yes... very friendly.
+
+LANDO: what are you doing here? 
+HAN: ahh... repairs. i thought you could help me out.
+LANDO: what have you done to my ship?
+HAN: your ship? hey, remember, you lost her to me fair and square.
+LANDO: hello. what have we here? welcome. i'm lando calrissian. i'm the administrator of this facility. and who might you be?
+LEIA: leia.
+LANDO: welcome, leia.
+HAN: all right, all right, you old smoothie.
+THREEPIO: hello, sir. i am see-threepio, human-cyborg relations. my facilities are at your...
+THREEPIO: well, really!
+LANDO: what's wrong with the falcon?
+HAN: hyperdrive.
+LANDO: i'll get my people to work on it.
+HAN: good.
+LANDO: you know, that ship saved my life quite a few times. she's the fastest hunk of junk in the galaxy.
+
+HAN: how's the gas mine? is it paying off for you? 
+LANDO: oh, not as well as i'd like. we're a small outpost and not very self-sufficient. and i've had supply problems of every kind. i've had labor difficulties... what's so funny?
+HAN: you. listen to you - you sound like a businessman, a responsible leader. who'd have thought that, huh?
+LANDO: you know, seeing you sure brings back a few things.
+HAN: yeah.
+LANDO: yeah. i'm responsible these days. it's the price you pay for being successful.
+THREEPIO: oh! nice to see a familiar face.
+SECOND THREEPIO: e chu ta!
+THREEPIO: how rude!
+THREEPIO: that sounds like an r2 unit in there. i wonder if...
+THREEPIO: hello? how interesting. oh, my.
+MAN'S VOICE: who are you?
+THREEPIO: oh, i'm terribly sorry. i... i didn't mean to intrude. no, no, please don't get up. no!
+
+YODA: luke! you must complete the training. 
+LUKE: i can't keep the vision out of my head. they're my friends. i've got to help them.
+YODA: you must not go!
+LUKE: but han and leia will die if i don't.
+BEN'S VOICE: you don't know that.
+BEN: even yoda cannot see their fate.
+LUKE: but i can help them! i feel the force!
+BEN: but you cannot control it. this is a dangerous time for you, when you will be tempted by the dark side of the force.
+YODA: yes, yes. to obi-wan you listen. the cave. remember your failure at the cave!
+LUKE: but i've learned so much since then. master yoda, i promise to return and finish what i've begun. you have my word.
+BEN: it is you and your abilities the emperor wants. that is why your friends are made to suffer.
+LUKE: and that is why i have to go.
+BEN: luke, i don't want to lose you to the emperor the way i lost vader.
+LUKE: you won't.
+YODA: stopped they must be. on this all depends. only a fully trained jedi knight with the force as his ally will conquer vader and his emperor. if you end your training now, if you choose the quick and easy path, as vader did, you will become an agent of evil.
+BEN: patience.
+LUKE: and sacrifice han and leia?
+YODA: if you honor what they fight for ... yes!
+BEN: if you choose to face vader, you will do it alone. i cannot interfere.
+LUKE: i understand. artoo, fire up the converters.
+BEN: luke, don't give in to hate - that leads to the dark side.
+YODA: strong is vader. mind what you have learned. save you it can.
+LUKE: i will. and i'll return. i promise.
+YODA: told you, i did. reckless is he. now matters are worse.
+BEN: that boy is our last hope.
+YODA: no. there is another.
+
+HAN: the ship is almost finished. two or three more things and we're in great shape. 
+LEIA: the sooner the better. something's wrong here. no one has seen or knows anything about threepio. he's been gone too long to have gotten lost.
+HAN: relax. i'll talk to lando and see what i can find out.
+LEIA: i don't trust lando.
+HAN: well, i don't trust him, either. but he is my friend. besides, we'll soon be gone.
+LEIA: and then you're as good as gone, aren't you?
+
+LEIA: what happened? 
+HAN: where? found him in a junk pile?
+LEIA: oh, what a mess. chewie, do you think you can repair him?
+HAN: lando's got people who can fix him.
+LEIA: no, thanks.
+LANDO: i'm sorry. am i interrupting anything?
+LEIA: not really.
+LANDO: you look absolutely beautiful. you truly belong here with us among the clouds.
+LEIA: thank you.
+LANDO: will you join me for a little refreshment?
+LANDO: everyone's invited, of course.
+LANDO: having trouble with you droid?
+HAN: no. no problem. why?
+
+LANDO: so you see, since we're a small operation, we don't fall into the... uh... jurisdiction of the empire. 
+LEIA: so you're part of the mining guild then?
+LANDO: no, not actually. our operation is small enough not to be noticed... which is advantageous for everybody since our customers are anxious to avoid attracting attention to themselves.
+HAN: aren't you afraid the empire's going to find out about this little operation and shut you down?
+LANDO: that's always been a danger looming like a shadow over everything we've built here. but things have developed that will insure security. i've just made a deal that will keep the empire out of here forever.
+
+VADER: we would be honored if you would join us. 
+LANDO: i had no choice. they arrived right before you did. i'm sorry.
+
+LUKE: no, threepio's with them. 
+LUKE: just hang on. we're almost there.
+
+THREEPIO: mmmm. oh, my. uh, i, uh - take this off! i, uh, don't mean to intrude here. i, don't, no, no, no... please don't get up. no! 
+THREEPIO: stormtroopers? here? we're in danger. i must tell the others.
+
+LANDO: lord vader. 
+VADER: you may take captain solo to jabba the hut after i have skywalker.
+BOBA FETT: he's no good to me dead.
+VADER: he will not be permanently damaged.
+LANDO: lord vader, what about leia and the wookiee?
+VADER: they must never again leave this city.
+LANDO: that was never a condition of our agreement, nor was giving han to this bounty hunter!
+VADER: perhaps you think you're being treated unfairly.
+LANDO: no.
+VADER: good. it would be unfortunate if i had to leave a garrison here.
+LANDO: this deal's getting worse all the time.
+
+THREEPIO: oh, yes, that's very good. i like that. oh! something's not right because now i can't see. wait. wait! oh, my! what have you done? i'm backwards, you stupid furball. only an overgrown mophead like you would be stupid enough... 
+HAN: i feel terrible.
+LEIA: why are they doing this?
+HAN: they never even asked me any questions.
+LEIA: lando.
+HAN: get out of here, lando!
+LANDO: shut up and listen! vader has agreed to turn leia and chewie over to me.
+HAN: over to you?
+LANDO: they'll have to stay here, but at least they'll be safe.
+LEIA: what about han?
+LANDO: vader's giving him to the bounty hunter.
+LEIA: vader wants us all dead.
+LANDO: he doesn't want you at all. he's after somebody called skywalker.
+HAN: luke?
+LANDO: lord vader has set a trap for him.
+LEIA: and we're the bait.
+LANDO: well, he's on his way.
+HAN: perfect. you fixed us all pretty good, didn't you? my friend!
+LANDO: stop! i've done all i can. i'm sorry i couldn't do better, but i have my own problems.
+HAN: yeah, you're a real hero.
+LEIA: you certainly have a way with people.
+
+VADER: this facility is crude, but it should be adequate to freeze skywalker for his journey to the emperor. 
+IMPERIAL SOLDIER: lord vader, ship approaching.
+VADER: good. monitor skywalker and allow him to land.
+LANDO: lord vader, we only use this facility for carbon freezing. if you put him in there, it might kill him.
+VADER: i do not want the emperor's prize damaged. we will test it... on captain solo.
+
+THREEPIO: if only you had attached my legs, i wouldn't be in this ridiculous position. now, remember, chewbacca, you have a responsibility to me, so don't do anything foolish. 
+HAN: what's going on... buddy?
+LANDO: you're being put into carbon freeze.
+BOBA FETT: what if he doesn't survive? he's worth a lot to me.
+VADER: the empire will compensate you if he dies. put him in!
+THREEPIO: oh, no! no, no, no! stop, chewbacca, stop...!
+HAN: stop, chewie, stop! do you hear me? stop!
+THREEPIO: yes, stop, please! i'm not ready to die.
+HAN: chewie! chewie, this won't help me. hey!
+HAN: save your strength. there'll be another time. the princess - you have to take care of her. you hear me?
+LEIA: i love you!
+HAN: i know.
+THREEPIO: what... what's going on? turn round, chewbacca, i can't see. oh... they've encased him in carbonite. he should be quite well-protected - if he survives the freezing process, that is.
+VADER: well, calrissian, did he survive?
+LANDO: yes, he's alive. and in perfect hibernation.
+VADER: he's all yours bounty hunter.
+IMPERIAL OFFICER: skywalker has just landed, my lord.
+VADER: good. see to it that he finds his way here. calrissian, take the princess and the wookiee to my ship.
+LANDO: you said they'd be left in the city under my supervision.
+VADER: i am altering the deal. pray i don't alter it any further.
+
+LANDO: well done. hold them in the security tower - and keep it quiet. move. 
+LEIA: what do you think you're doing?
+LANDO: we're getting out of here.
+THREEPIO: i knew all along it had to be a mistake.
+LEIA: do you think that after what you did to han we're going to trust you?
+LANDO: i had no choice...
+THREEPIO: what are you doing? trust him, trust him!
+LEIA: oh, so we understand, don't we, chewie? he had no choice.
+LANDO: i'm just trying to help...
+LEIA: we don't need any of your help.
+LANDO: h-a-a-a...
+LEIA: what?
+THREEPIO: it sounds like han.
+LANDO: there's still a chance to save han... i mean, at the east platform...
+LEIA: chewie.
+THREEPIO: i'm terribly sorry about all this. after all, he's only a wookiee.
+
+THREEPIO: artoo! artoo! where have you been? 
+THREEPIO: turn around, you wooly...! hurry, hurry! we're trying to save han from the bounty hunter!
+THREEPIO: well, at least your still in one piece! look what happened to me!
+
+VADER: you have learned much, young one. 
+LUKE: you'll find i'm full of surprises.
+VADER: your destiny lies with me, skywalker. obi-wan knew this to be true.
+LUKE: no!
+VADER: all to easy. perhaps you are not as strong as the emperor thought.
+VADER: impressive... most impressive.
+VADER: obi-wan has taught you well. you have controlled your fear... now release your anger.
+VADER: only your hatred can destroy me.
+
+LANDO: the security codes has been changed! 
+THREEPIO: artoo, you can tell the computer to override the security system.
+LANDO: attention! this is lando calrissian. the empire has takes control of the city. i advise everyone to leave before more imperial troops arrive.
+LANDO: this way.
+THREEPIO: don't blame me. i'm an interpreter. i'm not supposed to know a power socket from a computer terminal.
+
+THREEPIO: ouch! oh! ah! that hurt. bend down, you thoughtless... ow! 
+LANDO: leia! go!
+
+VADER: you are beaten. it is useless to resist. don't let yourself be destroyed as obi-wan did. 
+VADER: there is no escape. don't make me destroy you. you do not yet realize your importance. you have only begun to discover your power. join me and i will complete your training. with our combined strength, we can end this destructive conflict and bring order to the galaxy.
+LUKE: i'll never join you!
+VADER: if you only knew the power of the dark side. obi-wan never told you what happened to your father.
+LUKE: he told me enough! it was you who killed him.
+VADER: no. i am your father.
+LUKE: no. no. that's not true! that's impossible!
+VADER: search your feelings. you know it to be true.
+LUKE: no! no! no!
+VADER: luke. you can destroy the emperor. he has foreseen this. it is your destiny. join me, and together we can rule the galaxy as father and son. come with me. it is the only way.
+
+LUKE: ben... ben, please! 
+LUKE: ben. leia!
+LUKE: hear me! leia!
+
+LEIA: luke... we've got to go back. 
+LANDO: what?
+LEIA: i know where luke is.
+LANDO: but what about those fighter?
+LEIA: chewie, just do it.
+LANDO: but what about vader?
+LANDO: all right, all right, all right.
+
+LANDO: look, someone's up there. 
+LEIA: it's luke. chewie, slow down. slow down and we'll get under him. lando, open the top hatch.
+
+LEIA: lando? 
+LANDO: okay, let's go.
+
+LUKE: oh, leia. 
+LANDO: all right, chewie. let's go.
+
+LEIA: star destroyer. 
+LANDO: all right, chewie. ready for light-speed.
+LEIA: if your people fixed the hyperdrive.
+LEIA: all the coordinates are set. it's now or never.
+LANDO: punch it!
+LANDO: they told me they fixed it. i trusted them to fix it. it's not my fault!
+
+PIETT: they'll be in range of our tractor beam in moments, my lord. 
+VADER: did your men deactivate the hyperdrive on the millennium falcon?
+PIETT: yes, my lord.
+VADER: good. prepare the boarding party and set your weapons for stun.
+PIETT: yes, my lord.
+
+THREEPIO: noisy brute. why don't we just go into light-speed? 
+THREEPIO: we can't? how would you know the hyperdrive is deactivated?
+THREEPIO: the city's central computer told you? artoo-detoo, you know better than to trust a strange computer. ouch! pay attention to what you're doing!
+
+LANDO: luke, we're ready for takeoff. 
+LUKE: good luck, lando
+LANDO: when we find jabba the hut and that bounty hunter, we'll contact you.
+
+LUKE: chewie, i'll be waiting for your signal. 
+LUKE: take care, you two. may the force be with you.
+LUKE: ow!
 

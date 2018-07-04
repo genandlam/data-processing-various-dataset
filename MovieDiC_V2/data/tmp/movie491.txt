@@ -1,1151 +1,1151 @@
-speaker1: ...the 
-speaker1: yeah?
-speaker2: hi, miles. can you move your car, please?
-speaker1: why?
-speaker2: the painters got to put the truck in, and you didn't park too good.
-speaker1: yeah, hold on.
-
-speaker1:  
-speaker1: yeah, no, i know i said i'd be there by noon, but there's been all this work going on at my building, and it's like a total nightmare, and i had a bunch of stuff to deal with this morning. but i'm on my way. i'm out the door right this second. it's going to be great. yeah. bye.
-
-speaker1: hey, miles. 
-speaker2: hey, simon. triple espresso, please.
-speaker1: rough night, huh? for here?
-speaker2: no, i'm running late. make it to go. and give me a new york times and... ...a spinach croissant.
-
-speaker1: look what the cat dragged! 
-speaker2: hi, everybody.
-speaker3: about time you got here, bud. mr. prompt.
-speaker4: we were thinking maybe you took the wrong way and went to tijuana and they didn't let you back in.
-speaker2: i had to bribe them.
-speaker5: hey, miles.
-speaker2: seriously though, the freeway was unbelievable today. unbelievable. bumper to bumper the whole way. people getting an early start on the weekend, i guess. granted i got a late start, but still.
-speaker1: christine, why don't you ask miles about the cake?
-speaker5: oh, good idea. here, miles, come to the kitchen with me.
-speaker3: don't bother him with that. we got to get going.
-speaker5: it'll just take a second.
-
-speaker1: jack tells us you are publishing a book. congratulations. 
-speaker2: yes, congratulations.
-speaker3: yeah, well, it's not exactly finalized yet, but, um, there has been some interest and --
-speaker1: your friend is modest.
-speaker4: yeah, miles, don't be so modest. indulge them. don't make me out to be a liar.
-speaker2: what subject is your book? non- fiction?
-speaker3: no, it's a novel. fiction. although there's a lot from my own life, so i guess technically some of it is non- fiction.
-speaker2: good, i like non-fiction. there is so much to know about the world that i think reading a story someone just invented is kind of a waste of time.
-speaker5: so which one do you like better?
-speaker3: i like them both, but if pressed i'd have to say i prefer the dark.
-speaker4: see?
-
-speaker1: where the were you, man? i was dying in there. we were supposed to be a hundred miles away by now. 
-speaker2: i can't help the traffic.
-speaker1: come on. you're hungover.
-speaker2: okay, there was a tasting last night. but i wanted to get us some stuff for the ride up. check out the box.
-
-speaker1: why did you tell them my book was being published? 
-speaker2: you said you had it all lined up.
-speaker1: no, i didn't. what i said was that my agent had heard there was some interest at conundrum...
-speaker2: yeah, conundrum.
-speaker1: ...and that one of the editors was passing it up to a senior editor. she was supposed to hear something this week, but now it's next week, and... it's always like this. it's always a waiting game. i've been through it too many times already.
-speaker2: i don't know. senior editor? sounds like you're in to me.
-speaker1: it's a long shot, all right? and conundrum is just a small specialty press anyway. i'm not getting my hopes up. i've stopped caring. that's it. i've stopped caring.
-speaker2: but i know it's going to happen this time. i can feel it. this is the one. i'm proud of you, man. you're the smartest guy i know.
-speaker1: don't open that now. it's warm.
-speaker2: come on, we're celebrating. i say we pop it.
-speaker1: that's a 1992 byron. it's really rare. don't open it now. i've been saving it!
-speaker1: for christ's sake, jack! you just wasted like half of it!
-speaker2: shut up. here's to a great week.
-speaker1: yes. absolutely. despite your crass behavior, i'm really glad we're finally getting this time together.
-speaker2: yeah.
-speaker1: you know how long i've been begging to take you on the wine tour. i was beginning to think it was never going to happen.
-speaker2: oh, that's tasty.
-speaker1: 100% pinot noir. single vineyard. they don't even make it anymore.
-speaker2: pinot noir? how come it's white? doesn't noir mean dark?
-speaker1: don't ask questions like that up in the wine country. they'll think you're a moron.
-speaker2: just tell me.
-speaker1: color in the red wines comes from the skins. this juice is free run, so there's no skin contact in the fermentation, ergo no color.
-speaker2: sure is tasty.
-speaker1: did you read the latest draft, by the way?
-speaker2: oh, yeah. yeah.
-speaker1: and?
-speaker2: i liked it a lot. a lot of improvements. it just seemed overall, i don't know, tighter, more... congealed or something.
-speaker1: how about the new ending? did you like that?
-speaker2: oh yeah. much better.
-speaker1: there is no new ending. page 750 on is exactly the same.
-speaker2: well, then i guess it must have felt new because everything leading up to it was so different.
-
-speaker1: it's christine. hey you. 
-speaker2: you guys having fun?
-speaker1: yeah. all twenty minutes so far have been a blast.
-speaker2: good. that's good.
-speaker1: so what's up?
-speaker2: just seeing how you're doing. and, um, mom and i were starting to look over the seating charts again, and we're wondering if you wanted tony levin to sit next to the feldmans, or should he be at one of the singles tables?
-speaker2: so what do you think? with the feldmans?
-speaker1: yeah. the feldmans.
-speaker2: really? because i don't know, i was thinking that --
-speaker1: well, then put him at the singles table.
-speaker2: the problem with that is that then there's one extra --
-speaker1: then put him with the feldmans. whatever you and your mom decide is fine with me.
-speaker2: don't dismiss me. i'm trying to include you in this decision. he's your friend.
-speaker1: i didn't dismiss you. i told you what i thought, but it didn't seem to matter, so you decide. besides, this is supposed to be my time with miles. i hope you're not going to call every five minutes.
-speaker2: i'm not going to call every five minutes, but this is important.
-speaker1: honey, i'm just saying you know i need a little space before the wedding. isn't that the point of this? isn't that what we talked about with dr. gertler?
-speaker2: why are you being so defensive?
-speaker1: i don't know, christine. perhaps it's because i feel attacked.
-speaker2: i ask you one simple question, and suddenly i'm attacking you.
-speaker1: listen. i'll call you when we get there, and we can talk about it then, okay?
-speaker2: bye.
-speaker1: i love you.
-speaker2: bye.
-speaker3: tony levin? why did you invite tony levin?
-
-speaker1: miles signals and begins to head for an exit. 
-speaker2: whoa, why are we getting off?
-speaker3: i've just got to make one quick stop. won't take a second.
-speaker2: what?
-speaker3: i thought we could just say a quick hello to my mother.
-speaker2: your mother? miles, we were supposed to be up there hours ago.
-speaker3: it's her birthday tomorrow. and i don't feel right driving by her house and not stopping in, okay? it'll just take a second. she's right off the freeway.
-speaker2: how old's she going to be?
-speaker3: um... seventy... something.
-speaker2: that's a good age.
-
-speaker1: miles pulls a birthday card out of the bag too. 
-speaker2: wait a second.
-speaker3: surprise! happy birthday!
-speaker4: my miles. and jack! what a surprise. i can't remember the last time you brought me flowers.
-speaker5: they're from both of us.
-speaker4: a famous actor bringing me flowers on my birthday. don't i feel special?
-speaker2: a famous actor who's getting married next week.
-speaker4: oh, that's right. isn't that nice? i hope that girls knows how lucky she is, marrying no less than derek summersby.
-
-speaker1: jeez, mrs. raymond, that was eleven years ago. 
-speaker2: well, you were wonderful on that show. i never understood why they had to give you that brain tumor so soon. why that didn't make you the biggest movie star in the world is a sin. it's a sin.
-speaker1: yeah, well, you should be my agent.
-speaker2: if i was, i would sing your praises up and down the street until they put me in the loony bin. now miles, why didn't you tell me you were coming and bringing this handsome man? look how i'm dressed. i've got to run and put my face on.
-speaker1: you look fabulous, mrs. raymond.
-speaker2: oh, stop it. make yourselves comfortable. you boys hungry?
-speaker3: yeah, i'm hungry.
-
-speaker1: let me show you something. the secret to opening champagne is that once the cork is released, you keep pressure on it so you don't -- 
-speaker2: concentrated on the
-speaker3: just a second. guy's going for $2500.
-speaker4: ready for my close up!
-speaker4: oh, champagne! miles, why don't you bring that out onto the lanai? i thought we could eat on the lanai.
-
-speaker1: mrs. raymond, this is delicious. absolutely delicious. 
-speaker2: they're just leftovers.
-speaker1: is it chicken?
-speaker2: i could have made something fancier if a certain someone had let me know that a certain someone was coming for a visit with a certain special friend. could have made a pork roast.
-speaker3: it was a surprise, mom.
-speaker2: and i could have already put clean sheets on the other bed and the fold- out. you are staying. wendy, ron and the twins are picking us up at 11:30 to go to brunch at the sheraton. they do a magnificent job there. wendy is so excited you're coming.
-speaker3: you talked to wendy?
-speaker2: just now. she's thrilled. and the kids.
-speaker3: yeah, well. you know, jack's pretty eager to get up to... you know, but, uh, yeah. we'll see how it goes.
-speaker2: well, you boys do what you want. i just think it would be nice for us to be together as a family on my birthday.
-speaker3: uh-huh. i'll be right back.
-
-speaker1: and what was that other one you did, the one where you're the jogger? 
-speaker2: oh, that was for, uh, wait... that was for spray and wash.
-speaker1: spray and wash. that's the one.
-speaker2: yeah, i remember the girl who was in it with me. she was something.
-speaker1: i just remember you jogging. so when's the wedding?
-speaker3: this saturday, mom, remember? we told you.
-speaker2: and miles is my best man, mrs. raymond. my main man.
-speaker1: miles, when are you going to get married again?
-speaker3: i just got divorced. phyllis.
-speaker2: two years ago, buddy.
-speaker1: you should get back together with victoria. she was good for you.
-speaker1: she was good for you. and so beautiful and intelligent. you knew her, right?
-speaker2: oh, yeah. real well. still do.
-speaker1: i'm worried about you, miles. do you need some money?
-speaker3: i'm fine.
-
-speaker1: man. too early in the morning for that, you know what i mean? 
-speaker2: she's a kid, jack. i don't even look at that stuff anymore.
-speaker1: that's your problem, miles.
-speaker2: as if she'd even be attracted to guys like us in the first place.
-speaker1: speak for yourself. i get chicks looking at me all the time. all ages.
-speaker2: it's not worth it. you pay too big a price. it's never free.
-speaker1: you need to get laid.
-speaker1: it'd be the best thing for you. you know what? i'm going to get you laid this week. that's going to be my best man gift to you. i'm not going to give you a pen knife or a gift certificate or any of that other horseshit.
-speaker2: i'd rather have a knife.
-speaker1: no. no. you've been officially depressed for like two years now, and you were always a negative guy anyway, even in college. now it's worse -- you're wasting away. teaching english to eighth-graders when they should be reading what you wrote. your books.
-speaker2: i'm working on it.
-speaker1: you still seeing that shrink?
-speaker2: i went on monday. but i spent most of the time helping him with his computer.
-speaker1: well, i say therapy and what's that stuff you take, xanax?
-speaker2: and lexapro, yes.
-speaker1: well, i say that. you need to get your joint worked on, that's what you need.
-speaker2: jack. this week is not about me. it's about you. i'm going to show you a good time. we're going to drink a lot of good wine, play some golf, eat some great food, enjoy the scenery and send you off in style.
-speaker1: and get your bone smooched.
-speaker1: what?
-
-speaker1: you know what? let's take the santa rosa turnoff and hit sanford first. 
-speaker2: whatever's closest, man. i need a glass.
-speaker1: these guys make top-notch pinot and chardonnay. one of the best producers in santa barbara county. look how beautiful this view is. what a day!
-speaker2: i thought you hated chardonnay.
-speaker1: i like all varietals. i just don't generally like the way they manipulate chardonnay in california -- too much oak and secondary malolactic fermentation.
-
-speaker1: what a day! isn't it gorgeous? and the ocean's just right over that ridge. see, the reason this region's great for pinot is that the cold air off the pacific flows in at night through these transverse valleys and cools down the berries. pinot's a very thin-skinned grape and doesn't like heat or humidity. 
-speaker2: hey, miles. i really hope your novel sells.
-speaker1: thanks, jack. so do i. here we are.
-
-speaker1: so what'd you guys finally decide on for the menu? 
-speaker2: i told you. filet and salmon.
-speaker1: yeah, but how are they making the salmon? poached with a yogurt-dill sauce? teriyaki? curry?
-speaker2: i don't know. salmon. don't you always have white wine with fish?
-speaker1: oh, look, at some point we have to find out because it's going to make a big difference.
-speaker2: let me call christine.
-speaker1: doesn't have to be now. let's go taste.
-speaker2: i owe her a call anyway.
-speaker2: hey, honey. so we're up here about to taste some whites, and we need to know how the caterers are going to make the salmon.
-speaker2: no, i know, i didn't forget, but we wound up at miles's mom's house, and it got really late, and it was hard to call, so i'm calling you now. i said i was sorry. yes, i did. you heard me say i was sorry, right?
-speaker2: miles heard me say i was sorry.
-speaker2: give me a break, will you? i just called to find out about the salmon -- for our wedding -- to be more involved, like you said -- and all you want to do is get into it about last night and, okay, i'm sorry. i'm sorry i didn't call. you're totally right. i know, but i'm trying to make this the best wedding i can with the best wine we can find. don't i get any credit for that? okay. look, i've got to go. i'm out here in the parking lot, and miles is waiting for me...
-
-speaker1: baked with a butter-lime glaze. 
-speaker2: now we're talking.
-speaker3: this is the condemned man?
-speaker2: here he is. jack, chris. chris, jack.
-speaker1: how you doing?
-speaker3: you guys want to start with the vin gris?
-speaker1: sounds good.
-
-speaker1: this is rose, right? 
-speaker2: good, yeah, it is a rose. only this one is rather atypically made from 100% pinot noir.
-speaker1: pinot noir? not again! you know, not all pinots are noir. they laugh.
-speaker2: let me show you.
-speaker2: first take your glass and examine the wine against the light. you're looking at color and clarity.
-speaker1: what color is it supposed to be?
-speaker2: depends on the varietal. just get a sense of it. thick? thin? watery? syrupy? inky? amber, whatever...
-speaker1: huh.
-speaker2: now tip it. what you're doing here is checking for color density as it thins toward the rim. tells you how old it is, among other things, usually more important with reds. this is a very young wine, so it's going to retain its color pretty solidly. now stick your nose in it.
-speaker2: don't be shy. get your nose in there.
-speaker2: what do you smell?
-speaker1: i don't know. wine? fermented grapes?
-speaker2: there's not much there yet, but you can still find... ...a little citrus... maybe some strawberry... passion fruit... and there's even a hint of like asparagus... or like a nutty edam cheese.
-speaker1: huh. maybe a little strawberry. yeah, strawberry. i'm not so sure about the cheese.
-speaker2: now set your glass down and get some air into it.
-speaker2: oxygenating it opens it up, unlocks the aroma and the flavors. very important. now we smell again.
-speaker2: that's what you do with every one.
-speaker1: when do we get to drink it?
-speaker2: now.
-speaker1: how would you rate this one?
-speaker2: usually they start you on the wines with learning disabilities, but this one's pretty good. this is the new one, right, chris?
-speaker3: released it about two months ago.
-speaker2: nice job.
-speaker3: we like it.
-speaker1: you know, you could work in a wine store.
-speaker2: yeah, that would be a good move.
-speaker2: are you chewing gum?
-speaker1: want some?
-
-speaker1: hey jack, hurry up! 
-speaker2: just a minute!
-
-speaker1: i thought you said it was close. now i'm all pitted out. 
-speaker2: it's not even a mile.
-speaker1: we should have driven.
-speaker2: not with the wine list these people have. we don't want to hold back.
-speaker1: you think i'm making a mistake marrying christine?
-speaker2: whoa.
-speaker1: come on, do you think i'm doing the right thing? tell the truth. you've been through it.
-speaker2: well, you waited for good reason, and you proposed to christine for some good reason. so i think it's great. it's time. you've got to have your eyes open, that's all. i mean, look at me. i thought victoria and i were set for life.
-speaker1: christine's dad -- he's been talking about bringing me into his property business. showing me the ropes. and that's something, considering how long it took him to get over i'm not armenian. so i'm thinking about it. but i don't know, might get a little incestuous. but mike does pretty well. a lot of high-end commercial stuff.
-speaker2: so you're going to stop acting?
-speaker1: no way. this would just provide some stability is what i'm saying. i can always squeeze in an audition or a commercial here and there, you know, keep myself in the game in case something big comes along.
-speaker2: uh-huh.
-speaker1: we're not getting any younger, right? and my career, well, it's gotten pretty, you know, frustrating. even with my new manager. maybe it's time to settle down.
-speaker2: if that's what feels right.
-speaker1: it does. feels right.
-speaker2: then it's a good thing.
-speaker1: yeah. it's good. feels good.
-
-speaker1: hey, miles. long time no see. 
-speaker2: gary.
-speaker1: when's that novel of yours coming out? we all want to read it.
-speaker2: soon, soon. say, this is my buddy jack. he's getting married next week.
-speaker1: my condolences.
-speaker2: what are you pouring tonight?
-speaker1: lot of good stuff. got the new bien nacido. want a taste?
-speaker2: absolutement. they have their own label that's just outstanding.
-speaker1: what do you think?
-speaker2: tight as a nun's but qood concentration. nice fruit.
-speaker3: yeah. tight.
-speaker2: pour us a couple.
-speaker3: here's to my last week of freedom.
-speaker2: it's going to be great. here's to us.
-
-speaker1: miles. check it out. 
-speaker2: oh, yeah. that's maya.
-speaker1: you know her?
-speaker2: sure i know maya.
-speaker1: you know that chick?
-speaker2: jack, this is where i eat when i come up here. it's practically my office. and sometimes i have a drink with the employees. maya's great. she's worked here about a year, maybe a year and a half.
-speaker1: she is very hot.
-speaker2: and very nice. and very married. check out the rock.
-speaker1: doesn't mean when christine was a hostess at sushi roku, she wore a big engagement ring to keep guys from hitting on her. think it worked? no. how do you think i met her?
-speaker2: this gal's married to i think a philosophy professor at uc santa barbara.
-speaker1: so what's a professor's wife doing waitressing? obviously that's over.
-speaker2: you don't know anything about this woman. calm down. let's just eat, okay? the duck is excellent and pairs nicely with the highliner pinot.
-speaker3: hey, miles. good to see you.
-speaker2: maya, how are you?
-speaker3: i'm doing good, good. you look great. did you lose some weight?
-speaker2: oh, no, actually. busy night.
-speaker3: oh yeah, sunday night. you guys been out tasting today?
-speaker2: you know it. this is my friend jack. jack, maya.
-speaker1: hiya.
-speaker3: hi. well, nice to see you guys here. bye, miles.
-speaker1: she's jammin'. and she likes you. what else do you know about her?
-speaker2: well, she does know a lot about wine.
-speaker1: ooooooohh. now we're getting somewhere.
-speaker2: and she likes pinot.
-speaker1: perfect.
-speaker2: jack, she's a waitress in buellton. how would that ever work?
-speaker1: why do you always focus on the negative? didn't you see how friendly she was to you?
-speaker2: she works for tips!
-speaker1: you're blind, dude. blind.
-speaker2: i also recommend the ostrich. very lean. locally raised.
-
-speaker1: highliner, please. 
-speaker2: that's on us.
-speaker1: hey, guys.
-speaker3: you want to join us?
-speaker1: sure.
-speaker1: so how's that book of yours going, miles? i think you were almost done with it last time we talked.
-speaker3: i finished it.
-speaker1: good for you.
-speaker2: it's getting published. that's what we're up here celebrating.
-speaker1: that's fantastic. congratulations.
-speaker1: are you a writer too?
-speaker2: no, i'm an actor.
-speaker1: oh yeah? what kind of stuff?
-speaker2: a lot of tv. i was a regular on a couple of series. and lately i've been doing a lot of commercials. national mostly.
-speaker1: anything i'd know?
-speaker2: maybe. recognize this?
-
-speaker1: "now with low, low 5.8% apr financing." 
-speaker2: that's hilarious. you sound just like one of those guys.
-speaker1: i am one of those guys.
-speaker2: you are not.
-speaker3: he is.
-speaker2: oh. i needed that. thank you.
-speaker2: so what are you guys up to tonight?
-speaker3: we're pretty wiped. probably go back to the hotel and crash.
-speaker2: yeah, i know what you mean. it's a long drive up here. where're you staying?
-speaker3: the windmill.
-speaker1: windmill.
-speaker2: well, good to see you, miles. jack.
-speaker3: see you.
-speaker1: we'll catch up with you later, okay?
-speaker1: we'll probably go back to the hotel and crash?
-
-speaker1: the girl is looking to party, and you tell her we're going to go back to our motel room and crash? miles! 
-speaker2: well, i'm tired. aren't you tired?
-speaker1: the chick digs you. she lit up like a pinball machine when she heard your novel was getting published.
-speaker2: now i've got another lie to live down. thanks, jack.
-speaker1: i'm trying to get you some action, but you've got to help me out just a little bit.
-speaker2: didn't seem to me like that's what was going on. you were all over her.
-speaker1: somebody had to do the talking. and by the way, i was right. she's not married.
-speaker2: how do you know?
-speaker1: no rock. when she came to the bar, sans rock.
-speaker1: single. waitress. getting off work. looking for love. a little slap and tickle.
-speaker2: shut up.
-speaker1: she probably went home, lit some candles, put on some relaxing music, took a nice hot bath, and laid down on her bed with her favorite vibrator.
-speaker2: have you no shame?
-speaker1: oooh. oh. miles. miles.
-speaker2: you.
-speaker2: shut the up!
-speaker1: you need to get your prostate checked.
-
-speaker1: so what're we going to have? pigs in a blanket? the "rancher's special breakfast"? or maybe just some grease and fat with a side of lard? 
-speaker2: so what's the plan today?
-speaker1: we head north, begin the grape tour up there, make our way south so the more we drink the closer we get to the motel.
-speaker1: what's your problem?
-speaker1: what is it?
-speaker2: i am going to get my nut on this trip, miles. and you are not going to it up for me with all your depression and anxiety and neg-head downer
-speaker1: ooooh, now the cards are on the table.
-speaker2: yes they are. and i'm serious. do not with me. i am going to get laid before i settle down on saturday. do you read me?
-speaker1: sure, big guy. whatever you say. it's your party. i'm sorry i'm in the way and dragging you down. maybe you'd have a better time on your own. you take the car. i'll catch the train back.
-speaker2: no, see, i want both of us to get crazy. we should both be cutting loose. i mean, this is our last chance. this is our week! it should be something we share.
-speaker3: can i take your order?
-speaker2: but i am warning you.
-speaker1: oatmeal, one poached egg, and rye toast. dry.
-speaker3: okay. and you?
-speaker2: pigs in a blanket. with extra syrup.
-
-speaker1: how much skin and stem contact? 
-speaker2: about four weeks.
-speaker1: huh. that explains all the tannins. and how long in oak?
-speaker2: about a year.
-speaker1: french or american?
-speaker2: both.
-speaker1: good stuff.
-speaker3: yeah, oak. that's a good wood.
-
-speaker1: nice, huh? 
-speaker2: beautiful.
-speaker1: victoria and i used to like this view. once we had a picnic here and drank a '95 opus one. with smoked salmon and artichokes, but we didn't care.
-speaker2: miles.
-speaker1: she has the best palate of any woman i've ever known. she could even differentiate italian wines.
-speaker2: miles, i gotta tell you something. victoria's coming to the wedding.
-speaker1: i know. you told me. i'm okay with it.
-speaker2: yeah, but that's not the whole story. she got remarried.
-speaker1: she what? when?
-speaker2: about a month ago. six weeks.
-speaker1: to that guy? that guy with the restaurant...
-speaker2: miles... miles...
-speaker2: christ, miles. get out!
-speaker1: i want to go home now.
-speaker2: you've been divorced for two years already. people move on. she has! it's like you enjoy self-pity. makes you feel special or something.
-speaker1: is she bringing him to the wedding?
-speaker2: what do you think?
-speaker1: you drop this bombshell on me. why didn't you tell me before?
-speaker2: because i knew you'd freak out and probably get so depressed you wouldn't even come on this trip. but then i figured here would be the best place to tell you. we're here to forget about all that we're here to party!
-speaker1: i'm going to be a pariah. everyone's just going to be holding their breath to see if i'm going to get drunk and make a scene. plus tony levin?
-speaker2: no, no, no. it's cool. i talked to victoria. she's cool. everyone's cool.
-speaker2: hey, hey, hey. no, you don't!
-
-speaker1: miles? 
-speaker1: you going to be okay?
-
-speaker1: hey, guys. how's it going? 
-speaker2: excellent. my friend and i are up here doing the wine tour, and he tells me that you folks make one of a syrah.
-speaker1: that's what people say.
-speaker3: you gotta excuse him. yesterday he didn't know pinot noir from film noir.
-speaker2: i'm a quick learner.
-speaker3: i'm trying to teach my friend here some basics about wine over the next few days before he goes off and --
-speaker2: that's right -- i'm here to learn. i never had that much interest in wine before, but this trip has been very enlightening. always like wine, of course, but i don't know. more of a beer man, really. microbreweries.
-speaker1: well, no better way to learn than tasting.
-speaker2: now there's a girl who knows how to pour. what's your name?
-speaker1: stephanie.
-speaker2: nice.
-speaker1: so what do you think?
-speaker3: quaffable but far from transcendent.
-speaker2: i like it. tastes great. oaky.
-speaker1: cabernet franc. this is only the fifth year we've made this varietal. very few wineries around here do a straight cabernet franc. it's from our vineyard up in santa maria. and it was a silver medal winner at paso robles last year.
-speaker3: well, i've come to never expect greatness from a cab franc, and this one's no exception. sort of a flabby, overripe --
-speaker2: tastes good to me. you live around here, stephanie?
-speaker1: in santa ynez. and i agree with you about cab franc.
-speaker2: oh yeah? we're just over in buellton. windmill inn.
-speaker1: oh yeah.
-speaker2: you know a gal named maya? works at the hitching post?
-speaker1: sure i know maya. real well.
-speaker2: no we just had a drink with her last night. miles knows her.
-speaker3: could we move on to the syrah, please?
-speaker1: this is our estate syrah...
-speaker2: you're a bad, bad girl, stephanie.
-speaker1: i know. i might need to be spanked.
-speaker1: excuse me.
-speaker2: a bad girl, miles. she might need to be spanked.
-speaker3: do you know how often these pourers get hit on?
-
-speaker1: get the trunk. 
-speaker2: you have the keys.
-speaker1: we're on.
-speaker2: what?
-speaker1: she called maya, who's not working tonight, so we're all going out.
-speaker2: with maya?
-speaker1: been divorced for a year now, bud.
-speaker1: stephanie, holy chick had it all going on.
-speaker2: well, she is cute.
-speaker1: cute? she's a hottie. and you almost tell her i'm getting married. what's the matter with you? gotta love it. gotta love it.
-
-speaker1: you know how often these pourers get hit on? i'm going for a swim. get the blood flowing. want to come? 
-speaker2: nah. i want to watch this.
-
-speaker1: chick in the jacuzzi -- goddamn, miles, going nuts up here. whole place is wide open. assylvania. jack does some actor's weird warm-up stretch. 
-speaker2: so what should i wear?
-speaker1: i don't know. casual but nice. they think you're a writer.
-speaker1: don't you have any other shoes?
-speaker1: hello? oh hey, baby, just checking in. not much. we're about to go out for dinner, probably be out pretty late, so i thought i'd say goodnight now. i know, i love you too. i miss you.
-
-speaker1: please just try to be your normal humorous self, okay? like who you were before the tailspin. do you remember that guy? people love that guy. and don't forget -- your novel is coming out in the fall. 
-speaker2: oh yeah? how exciting. what's it called?
-speaker1: do not sabotage me. if you want to be a lightweight, that's your call. but do not sabotage me.
-speaker2: aye-aye, captain.
-speaker1: and if they want to drink merlot, we're drinking merlot.
-speaker2: if anyone orders merlot, i'm leaving. i am not drinking any merlot!
-speaker1: okay, okay. relax, miles, no merlot. did you bring your xanax?
-speaker1: and don't drink too much. i don't want you going to the dark side or passing out. do you hear me? no going to the dark side.
-speaker2: okay!
-speaker1: we're going in.
-
-speaker1: how you doin' tonight, beautiful? 
-speaker2: good. how're you?
-speaker1: great. you look great. you both do.
-speaker2: not so bad yourself.
-speaker3: what are you drinking?
-speaker4: a fiddlehead sauvignon blanc.
-speaker3: oh yeah? how is it?
-speaker4: try it.
-speaker3: nice. very nice.
-speaker4: twelve months in oak.
-speaker3: on a sauvignon blanc?
-speaker4: i know the winemaker. she comes in the restaurant all the time.
-speaker3: this is good. little hints of clove.
-speaker4: i know. i love that.
-speaker5: ...medallions of pork with a dusting of black truffles served with a root vegetable foulon and wasabi-whipped potatoes. and finally a copper river salmon grilled on an alder wood plank. and that comes with roasted new potatoes and steamed watercress.
-speaker5: and who gets the wine list?
-speaker4: i guess miles wants it.
-speaker3: nope. you ladies choose.
-speaker4: you choose, stephanie.
-speaker2: so what does everyone feel like?
-speaker1: whatever you girls want. it's on us tonight. sky's the limit.
-speaker4: no, we're paying for the wine.
-speaker1: i don't think so. we're celebrating miles's book deal.
-speaker4: well, in that case...
-speaker2: what's everyone ordering? then we can sort out the wine.
-speaker3: exactement!
-speaker4: i'm having the salmon.
-speaker3: that's what i'm having.
-speaker2: i'm thinking about the duck breast.
-speaker1: me too.
-speaker4: well, that narrows things down.
-speaker2: sounds like... pinot noir to me.
-speaker1: pinot!
-speaker6: -- the four of them drink. particularly miles. -- stephanie and jack get cozier and cozier. -- the salmon and duck arrive.
-
-speaker1: hello? 
-speaker2: victoria.
-speaker1: miles?
-speaker2: victoria! how the are you?
-speaker1: fine. what's, uh, what's on your mind?
-speaker2: heard you got remarried! congratulations. didn't think you had the stomach for another go-round.
-speaker1: oh, miles. you're drunk.
-speaker2: just some local pinot, you know, then a little burgundy. that old cotes de beaune!
-speaker1: where are you?
-speaker2: a little place in los olivos. new owners. cozy ambiance. excellent food too -- you should try it. thought of you at the hitching post last night.
-speaker2: hello?
-speaker1: miles, don't call me when you're drunk.
-speaker2: i just wanted you to know i've decided not to go to the wedding, so in case you were dreading some uncomfortable, you know, run-in or something, well, worry no more. you won't see me there. my wedding gift to you and what's- his-name. what is his name?
-speaker1: ken.
-speaker2: ken.
-speaker1: miles, i don't care if you come to the wedding or not.
-speaker2: well, i'm not coming, barbie. so you guys have fun.
-speaker1: i'm going to hang up now, miles.
-speaker2: you see, vicki, i just heard about this today, you getting married that is, and i was kind of taken aback. kind of hard to believe.
-speaker2: i guess i just thought there was still some hope for us somewhere down the road and i just, i just --
-speaker1: miles, maybe it is better if you don't come to the wedding.
-speaker2: whatever you say, vicki. you're the boss.
-
-speaker1: easy, boy. easy. 
-speaker2: are you all right?
-speaker3: fine. just slipped. this is my blood.
-speaker4: excuse us.
-speaker2: sorry to make you get up again, miles.
-speaker3: that's okay.
-speaker1: what the man? what is up?
-speaker1: pull yourself together, man.
-speaker3: i'm fine!
-speaker1: where were you?
-speaker3: bathroom.
-speaker1: did you drink and dial? miles's silence confirms his guilt and shame.
-speaker1: why do you always do this? victoria's gone, man. gone. poof.
-speaker1: stop it. you are blowing a great opportunity here, miles. maya, man. she's great. she's cool. she's funny. she knows wine. what is this morose come-down these girls want to party. and what was that ten-minute lecture on, what was it, vouvrays? i mean, come on!
-speaker3: let's just say i'm uncomfortable with the whole scenario.
-speaker1: oh miles.
-speaker1: and don't forget all the bad times you had with victoria. how small she make you feel. that's why you had the affair in the first place.
-speaker3: shut up. shut your face.
-speaker1: don't you see how maya's looking at you? you got her on the hook. reel her in! come on, let's rachet this up a notch. you know how to to do it. here. drink some agua. miles looks at the water, takes it and drains it.
-speaker3: should we get dessert?
-speaker4: we were thinking. why don't we go back to my place? i've got wine, some insane cheeses, music, whatever.
-speaker1: excellent idea. waiter!
-
-speaker1: we're here! 
-speaker2: what happened to you guys?
-speaker1: couple of wrong turns. thanks to magellan, here.
-speaker1: hi.
-speaker2: hi. maya's in the kitchen.
-
-speaker1: hi. 
-speaker2: hey.
-speaker1: she got anything good?
-speaker2: oh, yeah. steph's way into pinots and syrahs. hey, steph? you sure we can open anything? anything we want?
-speaker3: anything but the jayer richebourg!
-speaker1: she has a richebourg? mon dieu. i have completely underestimated stephanie.
-speaker2: who do you think you're dealing with here?
-speaker2: how about this?
-speaker2: nope. i don't think we know each other well enough. i'd say this guy's more our speed.
-speaker2: so what gems do you have in your collection?
-speaker1: not much of a collection really. i haven't had the wallet for that, so i sort of live bottle to bottle. but i've got a couple things i'm saving. i guess the star would be a 1961 cheval blanc.
-speaker2: you've got a '61 cheval blanc that's just sitting there? go get it. right now. hurry up...
-speaker2: seriously, the '61s are peaking, aren't they? at least that's what i've read.
-speaker1: yeah, i know.
-speaker2: it might be too late already. what are you waiting for?
-speaker1: i don't know. special occasion. with the right person. it was supposed to be for my tenth wedding anniversary.
-speaker2: the day you open a '61 cheval blanc, that's the special occasion.
-speaker1: how long have you been into wine?
-speaker2: i started to get serious about seven years ago.
-speaker1: what was the bottle that did it?
-speaker2: eighty-eight sassicaia.
-speaker1: wow. we gotta give it a moment, but this is tasty. really good. how about you?
-speaker2: i think they overdid it a bit. too much alcohol. overwhelms the fruit.
-speaker1: yeah, i'd say you're right on the money.
-speaker1: is this stephanie's kid? sure is cute.
-speaker2: yeah, siena's a sweetie.
-speaker1: is she sleeping or...?
-speaker2: she's with her grandmother. she's with steph's mom. she spends a lot of time over there. steph's... well, she's stephanie.
-speaker4: "and now for a low, low 4.8% apr..." ...is followed by peals of laughter.
-speaker2: you got kids?
-speaker1: who me? nah, i'd just them up. that was the one unpolluted part of my divorce -- no kids.
-speaker2: yeah, same here.
-speaker2: let's go in there.
-
-speaker1: looks like our friends are hitting it off. 
-speaker1: it's kind of weird sitting here with you in stephanie's house. all those times you came into the restaurant. it's like you're a real person now. almost.
-speaker2: yeah, i know. it's kind of weird. out of context.
-speaker1: yeah, weird. but great.
-speaker2: yeah. definitely.
-speaker1: so what's your novel about?
-speaker2: well, it's a little difficult to summarize. it begins as a first-person account of a guy taking care of his father after a stroke. kind of based on personal experience, but only loosely.
-speaker1: what's the title?
-speaker2: "the day after yesterday."
-speaker1: oh. you mean... today?
-speaker2: um... yeah but it's more...
-speaker1: so is it kind of about death and mortality, or...?
-speaker2: mrnmm, yeah... but not really. it shifts around a lot. like you also start to see everything from the point of view of the father. and some other stuff happens, some parallel narrative, and then it evolves -- or devolves -- into a kind of a robbe-grillet mystery -- you know, with no real resolution.
-speaker1: wow. anyway, i think it's amazing you're getting it published. really. i know how hard it is. just to write it even.
-speaker2: yeah. thanks.
-speaker1: like me, i have this stupid paper due on friday, and as usual i'm freaked out about it. just like in high school. it never changes.
-speaker2: a paper?
-speaker1: yeah. i'm working on a masters in horticulture. chipping away at it.
-speaker2: horticulture? wow. i didn't know there was a college here.
-speaker1: i commute to san luis obispo twice a week.
-speaker2: so... you want to work for a winery or something someday?
-speaker1: well...
-speaker2: i do have a copy of the manuscript in the car. it's not fully proofed, but if you're okay with a few typos...
-speaker1: oh yeah. who cares? i'm the queen of typos. wow, this is really starting to open up. what do you think?
-speaker2: my palate's kind of shot, but from what i can tell, i'd dub it pretty good.
-speaker1: can i ask you a personal question?
-speaker2: sure.
-speaker1: why are you so into pinot? it's like a thing with you.
-speaker2: i don't know. it's a hard grape to grow. as you know. it's thin-skinned, temperamental, ripens early. it's not a survivor like cabernet that can grow anywhere and thrive even when neglected. pinot needs constant care and attention and in fact can only grow in specific little tucked- away corners of the world. and only the most patient and nurturing growers can do it really, can tap into pinot's most fragile, delicate qualities. only when someone has taken the time to truly understand its potential can pinot be coaxed into its fullest expression. and when that happens, its flavors are the most haunting and brilliant and subtle and thrilling and ancient on the planet.
-speaker2: i mean, cabernets can be powerful and exalting, but they seem prosaic to me for some reason. by comparison. how about you?
-speaker1: what about me?
-speaker2: i don't know. why are you into wine?
-speaker1: i suppose i got really into wine originally through my ex-husband. he had a big, kind of show-off cellar. but then i found out that i have a really sharp palate, and the more i drank, the more i liked what it made me think about.
-speaker2: yeah? like what?
-speaker1: like what a fraud he was.
-speaker1: no, but i do like to think about the life of wine, how it's a living thing. i like to think about what was going on the year the grapes were growing, how the sun was shining that summer or if it rained... what the weather was like. i think about all those people who tended and picked the grapes, and if it's an old wine, how many of them must be dead by now. i love how wine continues to evolve, how every time i open a bottle it's going to taste different than if i had opened it on any other day. because a bottle of wine is actually alive -- it's constantly evolving and gaining complexity. that is, until it peaks -- like your '61 -- and begins its steady, inevitable decline. and it tastes so good.
-speaker2: bathroom over there?
-speaker1: yeah.
-
-speaker1: i was just getting some water. you want some water? 
-speaker1: nice.
-speaker1: i should probably get going.
-
-speaker1: you know how to get back to the windmill, right? 
-speaker2: got it.
-speaker1: i had a good time tonight, miles. i really did.
-speaker2: good. so did i.
-speaker1: okay. see you around.
-speaker2: um... did you still want to read my novel?
-speaker1: oh, yeah. sure. of course.
-speaker1: wow. great.
-speaker2: hope you like it. feel free to stop reading at any time. i'll take no offense.
-speaker1: goodnight, miles.
-
-speaker1: chick is unbelievable. un-be- lieve-able! 
-speaker1: goddamn, miles, she is nasty. nasty nasty nasty.
-speaker2: well, i'm glad you got it out of your system. congratulations. mission accomplished.
-
-speaker1: returns the wave and goes back inside. 
-speaker1: you didn't invite stephanie to come with us, did you?
-speaker2: oh, hey, change of plans. steph's off today, so she and i are going on a hike.
-speaker1: we were supposed to play golf.
-speaker2: you go. in fact, use my clubs. they're brand new -- gift from christine's dad. it's on me. oh, say, by the way, stephanie and me were thinking we'd all go to the hitching post tonight and sit at one of maya's tables, and she'll bring us some great wines and then we can all --
-speaker1: count me out.
-speaker2: oooh, i see. didn't go so good last night, huh? that's a shocker. you mean getting drunk and calling victoria didn't put you in the mood? you your divorce pain's getting real old real fast, dude.
-speaker2: later.
-speaker1: yeah, well, maybe you should check your messages first.
-speaker2: oh, boy.
-speaker1: she's been leaving messages here too.
-speaker2: yeah. okay.
-speaker1: you should call her.
-speaker2: i will. see ya!
-speaker1: right now.
-speaker2: okay!
-speaker2: i've got no problem calling her.
-speaker2: wait outside, will you?
-speaker3: that was fun last night.
-speaker1: yeah. good food. you've got quite a wine collection. very impressive.
-speaker3: thanks. hey, i talked to maya this morning. she said she had a good time too. you should call her.
-speaker3: where's jack?
-speaker1: he had to make a phone call.
-speaker3: so what are you up to today, miles?
-speaker1: just kickin' back, i guess. i don't know. jack and i were supposed to go golfing.
-speaker3: huh.
-speaker1: yeah, i reserved the tee time about a month ago.
-speaker3: oops. sorry.
-speaker1: you golf?
-speaker3: me? no, i think it's kind of a stupid game. i mean, at least, i could never get into it. i tried it once.
-speaker1: huh. jack loves golf. crazy about it.
-speaker2: hey miles. miles.
-
-speaker1: do you have that other condom? 
-speaker2: what'd christine say?
-speaker1: lucked out -- got voice mail. everything's cool.
-
-speaker1: hey, there you are. 
-speaker2: yep.
-speaker1: what're you drinking?
-speaker1: any good?
-speaker1: could i get a glass please? stephanie took me out into the pinot fields today. it was awesome. i think i finally got a handle on the whole process, from the soil to the vine to the -- what do you call it? -- selection and harvest. and the whole, you know, big containers where they mix it. we even ate pinot grapes right off the vine. still a little sour but already showing potential for great structure. stephanie really knows her miles.
-speaker2: where is stephanie?
-speaker1: upstairs. getting cleaned up.
-speaker2: what the are you doing?
-speaker1: what?
-speaker2: with this chick.
-speaker2: does she know about saturday?
-speaker1: um... not exactly. but i've been honest. i haven't told her i'm available. and she knows this trip up here is only for a few days. besides...
-speaker2: besides what?
-speaker1: well... i don't know, just... the wedding.
-speaker2: what?
-speaker1: well, i've been doing some thinking.
-speaker2: oh, you've been thinking. and?
-speaker1: i may have to put the wedding on hold is all.
-speaker1: i fully realize that making a change like that might be tricky for certain people to accept at first, but life is short, miles. i've got to be sure i'm doing the right thing before taking such a big step. and not just for my sake. i'm thinking about christine's feelings too. i take marriage very seriously -- always have. that's why i've never done it before. the day i get married, it's going to be the real thing.
-speaker1: being with stephanie has opened my eyes. she's not uptight or controlling. she's just cool. things are so easy with her. smells different. tastes different. different. like an animal. i'm telling you, i went deep last night, miles. deep.
-speaker2: deep.
-speaker1: don't get all judgmental on me. this is my deal. it's my life, and it's my call.
-speaker1: i was hoping to get some understanding from you. and i'm not getting it.
-speaker2: understanding of what?
-speaker1: like i might be in love with another woman.
-speaker2: in love? twenty-four hours with some wine-pourer chick and you think you're in love? and give up everything?
-speaker1: look who's talking. you've been there.
-speaker2: yes i have, and do i look like a happy man? was all that drama with brenda a happy thing for me to do? huh? was it? is she a part of my life now?
-speaker1: this is totally different. i'm talking about avoiding what you're talking about. that's the distinction. i have not made the commitment yet. i am not married. i have not said the words. in a few days, i might get married, and if i do, then i won't be doing stuff like this anymore. otherwise, what's the whole point of getting married?
-speaker2: and what about stephanie? she's a woman -- with a kid. a single mom. what do you think she's looking for? huh?
-speaker1: here's what i'm thinking. we move up here, you and me, buy a vineyard. you design your own wine; i'll handle the business side. then you get inspired and write a new novel. as for me, if an audition comes along, hell, la's two hours away. not even.
-speaker2: you're crazy. you've gone crazy.
-speaker1: what do you care anyway? you don't even like christine.
-speaker2: what? of course i like christine.
-speaker1: you said she was shallow. yeah, and a nouveau riche.
-speaker2: that was three years ago after that first party!
-speaker1: look, miles, all i know is i'm an actor. all i have is my instinct. my intuition -- that's all i have. and you're asking me to go against it. and that's just wrong.
-speaker3: hi, guys. we should probably get going.
-speaker2: where?
-
-speaker1: listen, i'm going to make sure steph and siena get home safe, and then maybe we'll hook up with you later, okay? 
-speaker2: see you, miles. you take care.
-speaker3: bye, stephanie. bye, siena, caryl.
-speaker4: bye, miles.
-speaker1: call me on my cell if you go out.
-speaker3: yeah.
-
-speaker1: and could i get a barely leqal? 
-speaker1: no, um, the new one.
-
-speaker1: how's it hanging, miles? 
-speaker2: you know me. i love it up here. how about you?
-speaker1: busy night for a tuesday. we had a busload of retired folks in on a wine tour. usually they're not too rowdy, but tonight there was something going on. full moon or something. what can i get you?
-speaker2: highliner.
-speaker1: glass or bottle?
-speaker2: bottle.
-speaker1: you got it.
-speaker2: say, is maya working?
-speaker1: maya? haven't seen her. i think she's off tonight. say, where's your buddy?
-
-speaker1: you okay, miles? 
-speaker2: i'm good.
-
-speaker1: come on, dude. let's go golfing! i got us in at alisal. 
-speaker2: that's a public course. no stephanie?
-speaker1: she's working. i need a break anyway. she's getting a little clingy. this is our day!
-
-speaker1: crap. 
-speaker1: did you ever got ahold of maya yesterday?
-speaker2: nope.
-speaker1: she likes you, man. stephanie'll tell you.
-speaker2: can you give me some room here?
-speaker1: oh yeah. sure.
-speaker1: you know, in life you gotta strike when the iron's hot.
-speaker2: thanks, jack.
-speaker1: don't whiff it.
-speaker1: nice shot.
-speaker2: you're an
-
-speaker1: what about your agent? hear anything yet? 
-speaker2: nope.
-speaker1: what do you think's going on?
-speaker2: could be anything.
-speaker1: been checking your messages?
-speaker2: obsessively.
-speaker1: huh.
-speaker2: they probably think my book is such a piece of that it's not even worthy of a response. i guess i'll just have to learn how to kiss off three years of my life.
-speaker1: but you don't know yet, so your negativity's a bit premature, wouldn't you say?
-speaker1: or those new york publishers. publish it yourself. i'll chip in. just get it out there, get it reviewed, get it in libraries. let the public decide. giving jack a look that says jack has no idea what he's
-speaker1: don't come over the top. stay still.
-speaker2: shut up.
-speaker1: just trying to be helpful. it's all about stillness, miles. inner quiet.
-speaker2: shut up! shut up! shut up! what's the matter with you, man? shut up!
-speaker1: why are you so hostile? i know you're frustrated with your life right now, but you can choose not to be so hostile. here.
-speaker2: what is it?
-speaker1: i don't know. got it from stephanie.
-speaker2: huh. let me see the label.
-speaker1: what the
-speaker3: hurry it up, will you?
-speaker2: hit into us.
-speaker1: hey, asshole! that's not cool!
-speaker2: throw me his ball.
-speaker1: nice shot.
-
-speaker1: watches their approach, grinning. 
-speaker1: oh, this is going to be fun. this is going to be fun.
-speaker1: hit into us again, motherfuckers, and i'll ass-rape all four of you!
-
-speaker1: just don't give up on maya. cool smart chicks like that --they like persistence. 
-speaker2: i don't want to talk about it.
-speaker1: all i know is she's beautiful. lots of soul. perfect for you. i'm not going to feel good about this trip until you guys hook up. don't you just want to feel that cozy little box grip down on your johnson?
-speaker3: hey, you mind keeping it down, buddy?
-speaker1: is it the money thing?
-speaker2: is what the money thing?
-speaker1: with maya.
-speaker2: well, yeah, that's part of it. woman finds out how i live, that i'm not a published author, that i'm a liar essentially, then yeah, any interest is gonna evaporate real quick. if you don't have money at my age, you're not even in the game. you're just a pasture animal waiting for the abattoir.
-speaker1: is an abattoir like a... like a... what is that?
-speaker2: slaughterhouse.
-speaker1: abattoir. huh. but you are going to get the good news this week about your book. i know you are. i can feel it.
-speaker1: it's steph. hey, baby. yeah. oh yeah. yesssss. i mean i would, but let me see. hey, miles... oh it, we're going. we'll be right there. me too.
-speaker1: we're on.
-speaker2: what's happening?
-speaker1: we're going to have some fun. remember fun? we're going to have some of it. okay?
-speaker2: what exactly are we going to do?
-speaker1: i said okay?
-speaker2: you have to tell me --
-
-speaker1: miles finally smiles. 
-speaker2: okay.
-
-speaker1: they're going fast, hair whipping around. 
-speaker2: hey, miles, i heard you came by the restaurant last night looking for me.
-speaker3: oh, yeah. no. i mean yeah, i stopped by for a drink. didn't see you.
-speaker2: i had class.
-speaker3: well, nice to see you now.
-speaker2: you too.
-
-speaker1: you ever actually read any of this guy's books? 
-speaker2: he wrote a great one on burgundy, and i used to get his newsletter, but then there were doubts about whether he does all his own tasting. plus a couple of times he declared certain years vintages of the century, and they turned out to be turkeys. never retracted.
-speaker1: huh.
-
-speaker1: you guys should stop by the restaurant for lunch today. 
-speaker2: great. what's the latest we can get there?
-speaker1: about two-thirty.
-speaker2: okay.
-speaker1: did you hear about this bordeaux tasting dinner down in santa barbara saturday night? it's a little pricey, but if you wanted to go, i'd be into it. why don't you stay through the weekend? miles has just figured out a difficult clue. as he writes it down --
-speaker2: no, we've got to get back friday for the rehearsal dinner.
-speaker1: what rehearsal dinner?
-speaker1: who's getting married?
-speaker1: were you ever going to say anything?
-speaker2: of course i was. i mean, just now i could have made up some story, but i didn't. i told you the truth.
-speaker2: maya.
-speaker1: don't touch me. just take me home.
-
-speaker1: i've told him. i've told him over and over, but he's out of control. 
-speaker2: do you know what he's been saying to her?
-speaker1: he's an actor, so it can't be good.
-speaker2: oh, just that he loves her. that she's the only woman who has ever really rocked his world. how he adores siena. how he wants to move up here and get a place with the two of them and commute when he has to.
-speaker1: i'm sure he believed every word.
-speaker1: please believe me. i was even on the verge of telling you last night, but...
-speaker2: but you wanted to me first.
-speaker1: oh, maya. no.
-speaker2: yeah.
-
-speaker1: you know, i just spent three years trying to extricate myself from a relationship that turned out to be full of deception. and i've been doing just fine. 
-speaker2: and i haven't been with anyone since my divorce. this has been a big deal for me, maya -- hanging out with you, and last night. i really like you, maya. and i'm not jack. i'm just his... his freshman roommate from san diego state.
-speaker1: could i have my paper, please?
-
-speaker1: yo! yo! here's my boy! here's my boy! who's your daddy, boy? who is yo' daddy? 
-speaker2: put me down, jack.
-speaker2: i said put me down. jack!
-speaker1: i'm so proud of you! let me love you!
-speaker1: so tell me everything. details. i like details.
-speaker2: no.
-speaker1: what?
-speaker2: it's private.
-speaker1: you're kidding, right? tell me what happened, you fucker, or i'll tie your in a knot.
-speaker2: let's leave it alone.
-speaker1: you didn't get any, did you? you're a homo.
-speaker2: just stop, okay? make something up, and that's what happened. whatever you want. write my confession, and i'll sign it. just stop pushing me all the time! i can't take it! you're an infant! this is all a big party for you, but not for me! this is serious. and you -- just... leave me alone, okay? you're me up.
-speaker1: wow. okay. calm down. sorry.
-speaker1: did you have trouble performing? yeah, that's...
-speaker2: shut up! shut up, jack!
-speaker2: don't answer it.
-speaker2: i'm telling you, don't.
-speaker1: hello? oh, hey, honey. how you doing? uh-huh. uh-huh. christine.
-speaker1: listen, honey. let me call you back. miles and i are in the middle of something. no, it's nothing serious -- miles is just having one of his freak- outs. yeah. love you too. i'll call you right back.
-speaker2: this whole week has gone sour. it isn't turning out like it was supposed to. i want to go home.
-speaker1: who's being selfish now? i'm the one getting married. i thought this week was supposed to be about me.
-speaker2: we gotta slow down. i'm so tired. let's just get out of here.
-speaker1: i know what you need.
-
-speaker1: there you go. 
-speaker2: do you like them?
-speaker3: yeah, they're great. sporty. they're really sporty.
-speaker2: are they too sporty?
-
-speaker1: feel better? 
-speaker1: oh here, wait a second. i want to run in here real quick.
-speaker1: i want to get something for siena.
-
-speaker1: how about this one? we didn't hit this one. 
-speaker2: yeah, it's frass canyon. it's a joke.
-speaker1: you ever actually been in there, miles?
-speaker2: i don't have to.
-speaker1: i say we check it out. you never know.
-
-speaker1: tastes like the back of a la schoolbus. probably didn't de-stem, hoping for some semblance of concentration, crushed it up with leaves and mice, wound up with this rancid tar and turpentine mouthwash raid. 
-speaker2: i don't know. tastes okay to me. hey, they got a reserve pinot.
-speaker1: let me use your phone.
-speaker2: what's up?
-speaker1: i can't take it anymore. i've got to call evelyn.
-
-speaker1: evelyn berman-silverman's office. 
-speaker2: hi, it's miles.
-speaker1: oh, hi, miles. let me see if i can get her. you're in luck. i'll put you through.
-speaker3: miles.
-speaker2: hey, evelyn, it's your favorite client.
-speaker3: how's the trip?
-speaker2: good, good. drinking some good wines and kicking back, you know. so what's happening? still no word?
-speaker3: actually there is word. i spoke to keith kurtzman this morning.
-speaker2: and?
-speaker3: and... they're passing. conundrum's passing. he said they really liked it. they really wanted to do it, but they just couldn't figure out how to market it. he said it was a tough call.
-speaker2: huh.
-speaker3: i'm sorry, miles. so i don't know where that leaves us. i'm not sure how much more mileage i can get out of continuing to submit it. i think it's one of those unfortunate cases in the business right now -- a fabulous book with no home. the whole industry's gotten gutless. it's not about the quality of the books. it's about the marketing. miles is at a loss for words. a distant rumble begins to sound, the familiar harbinger of an anxiety attack.
-
-speaker1: are you there? miles? 
-speaker2: yeah, i'm here.
-speaker1: i'm sorry, miles. we did all we could. you've been a real trooper. tell him i'll call back.
-speaker2: so i guess that's it.
-speaker1: you're a wonderful writer, miles. don't be discouraged.
-
-speaker1: hit me again. 
-speaker1: pour me a full glass. i'll pay for it.
-speaker2: this is a tasting, sir. not a bar.
-speaker1: just give me a full pour.
-speaker2: sir, what are you doing?
-speaker1: i told you i need a drink.
-speaker2: then buy a bottle and go outside.
-speaker2: put the glass down.
-speaker2: you're going to have to leave, sir.
-speaker3: it's all right. his mother just died.
-
-speaker1: just write another one. you have lots of ideas, right? 
-speaker2: no, i'm finished. i'm not a writer. i'm a middle-school english teacher. i'm going to spend the rest of my life grading essays and reading the works of others. it's okay. i like books. the world doesn't give a what i have to say. i'm unnecessary. i'm so insignificant, i can't even kill myself.
-speaker1: what's that supposed to mean?
-speaker2: you know -- hemingway, sexton, woolf, plath, delmore schwartz. you can't kill yourself before you've even been published.
-speaker1: what about that guy who wrote confederacy of dunces? he committed suicide before he got published, and look how famous he is.
-speaker2: thanks.
-speaker1: don't give up. you're going to make it.
-speaker2: half my life is over, and i have nothing to show for it. i'm a thumbprint on the window of a skyscraper. i'm a smudge of excrement on a tissue surging out to sea with a million tons of raw sewage.
-speaker1: see? right there. just what you just said. that's beautiful. a thumbprint on a skyscraper. i couldn't write that.
-speaker2: neither could i. i think it's bukowski.
-speaker1: oh, look. there's steph!
-
-speaker1: pulls to a stop in a parking space. 
-speaker2: hey, baby.
-speaker2: look what i got for our favorite girl.
-
-speaker1: stephanie! stop! 
-speaker2: you bastard! lying piece of you're getting married on saturday? what was all that you said to me?
-speaker3: i can explain.
-speaker2: you said you loved me! you i hope you die!
-speaker2: fuckface! you too!
-
-speaker1: aren't you glad you didn't move up here and marry her? 
-speaker2: don't need a lecture. you told maya, didn't you?
-speaker1: no, i did not. must have been gary at the hitching post. i think we mentioned it to him the first night.
-speaker2: you told him. i'm hurting here.
-speaker1: keep it elevated.
-
-speaker1: hi. it's maya. please leave a message. 
-speaker2: it's miles. listen, i don't know if you even care, but i had to call and tell you again how much i enjoyed our time together and how sorry i am things turned out the way they did. i think you're great, maya -- always have. from the first time you waited on me. and while i'm at it, i guess you should know that my book is not getting published. i thought this one had a chance, but i was wrong. again. don't bother reading it -- you've got better things to do. so you see i'm not much of a writer. i'm not anything really. the only real talent i seem to have is for disappointing people and now you know that firsthand. we're leaving in the morning, and i want you to know that i take with me wonderful memories of you. i'm sorry. i'm really sorry. what else to say? he hangs up.
-
-speaker1: well? 
-speaker2: i'm going to need an operation. maybe a couple of them. they have to wait for it it to heal first. then they break it again.
-speaker1: good thing you have a voice-over career.
-speaker2: gonna that up too. i should sue her ass. only reason i won't is to protect christine.
-speaker1: that's thoughtful.
-speaker2: yeah.
-
-speaker1: i hate this place. 
-speaker2: take a couple of these, and you'll learn to love it.
-speaker2: two for you. and two for me.
-
-speaker1: so how did stephanie know it was saturday? we didn't get into that with gary. 
-speaker2: huh. let me think.
-speaker1: you sure you didn't say anything to maya?
-speaker2: sure i'm sure. and just what are you implying? i'm really off at you about all this, if you want to know the truth. what's maya going to think of me now just for associating with you? you're the one who's sabotaging me, not the other way around, pal. not by a longshot.
-speaker1: i don't know. just seems fishy.
-
-speaker1: what's it look like to you? 
-speaker2: looks like you were in a bad car accident.
-speaker1: i'm hungry.
-
-speaker1: you know what i'm thinking? 
-speaker2: what's that?
-speaker1: i'm thinking it's time to settle down. one woman. one house. you know. it's time.
-speaker2: uh-huh.
-
-speaker1: mm. mm. 
-speaker2: and here're your handi-wipes.
-speaker1: oh, so that's what those are? for a second there i thought you guys were promoting safe sex.
-speaker2: i'll be right back with more corn bread.
-speaker1: i bet you that chick is two tons of fun. you know, the grateful type.
-speaker3: i don't know. i wouldn't know.
-speaker1: nice technique there... ...cammi.
-speaker4: it's all in the wrist. you know, you look really familiar. you from around here? where'd you go to high school?
-speaker1: no, we're from san diego. why?
-speaker4: i don't know. you just seem really familiar to me. never mind. enjoy your meals.
-speaker1: hang on. did you ever know a derek sommersby?
-speaker4: doctor derek sommersby? you mean from "one life to live"?
-speaker1: you have to imagine him with a bandage and shorter hair.
-speaker4: no. way. no way!
-speaker4: oh, my
-speaker3: could you tell me where the bathroom is?
-speaker4: uh, sure, it's right over there, right past the buffalo.
-
-speaker1: she gets off in an hour, so i think i'm just going to have a drink and then... make sure she gets home safe. 
-speaker2: you're joking, right? what are you doing? un-fucking- believeable. can we just go back to the hotel and hang out and get up early and play nine holes before we head home?
-speaker1: look, miles. i know you're my friend and you care about me. and i know you disapprove. i respect that. but there are some things i have to do that you don't understand. you understand wine and literature and movies, but you don't understand my plight. and that's okay.
-
-speaker1: christ, it's freezing. 
-speaker1: vicodin. where's the vicodin? my nose.
-speaker1: chick's married.
-speaker2: what?
-speaker1: her husband works a night shift or something, and he comes home, and i'm on the floor with my in his wife's ass.
-speaker2: jack. and you walked all the way back from solvang?
-speaker1: ran. twisted my ankle too.
-speaker2: that's five clicks, jackson.
-speaker1: fucking-a it's five clicks! at one point i had to cut through an ostrich farm. are mean.
-speaker1: we gotta go back.
-speaker2: what?
-speaker1: i left my wallet. my credit cards, cash, id, everything. we gotta go back.
-speaker2: big deal. we'll call right now and cancel your cards.
-speaker1: you don't understand. the wedding bands. the wedding bands are in my wallet.
-speaker2: okay, so they were in your wallet, and you left your wallet somewhere. some bar. christine'll understand.
-speaker1: no. she ordered them special. took her forever to find them. they've got this design on them with dolphins and our names engraved in sanskrit. we've got to go back. christine'll crucify me.
-speaker2: no way. no way.
-speaker1: please, miles, please.
-speaker2: forget it. your wallet was stolen at a bar. happens every day.
-speaker1: no, we've got to get my wallet! those rings are irreplaceable! we've got to get them, miles! i up! i know i up, okay? i up. you gotta help me. you gotta help me. pleeeease!
-speaker1: oh, please... oh i know i'm bad. i know i did a bad thing. help me, miles. just this one thing, this one last thing. i can't lose christine. i can't. i'm nothing without her. please, miles, please... uuuuu... uuuuuu.... uuuuuuu......
-
-speaker1: she tell you she was married? 
-speaker2: yeah.
-speaker1: so what the were you thinking?
-speaker2: wasn't supposed to be back till six. rolls in at five.
-speaker1: cutting it a little close, don't you think? so how was she? compared to stephanie, say.
-speaker2: as flopping around like a landed trout.
-speaker3: jack scans the street.
-speaker2: yeah, this is the block. just keep going... yeah! this is it. there's her car.
-speaker1: so what's the plan?
-speaker2: the plan is... you go.
-speaker1: me?
-speaker2: my ankle. just go explain the situation.
-speaker1: uh, excuse me, sir, but my friend was the one balling your wife a couple hours ago, and he seems to have left his wallet behind, and we were wondering...
-speaker2: yeah, yeah. like that. just like that.
-
-speaker1: you. i'll get it myself. 
-speaker2: hold on.
-
-speaker1: you don't think i you, i'll you. 
-speaker2: i'm a bad girl. i'm a bad girl.
-
-speaker1: you picked him up and you him, didn't you, 
-speaker2: i picked him up and i him. i'm a bad girl.
-speaker1: and you liked him, didn't you, you fat little whore?
-speaker2: i liked it when you caught me him. whoa!
-speaker1: the was that?
-speaker2: the wallet! he took derek's wallet!
-
-speaker1: open up! open the door! 
-speaker2: you motherfuckers! i'll kill you! i'll kill you motherfuckers!
-speaker3: removes the rings from the wallet.
-speaker3: you did it! you did it!
-
-speaker1: hey, jack. jack. 
-speaker2: hrnrnrn?
-speaker1: that was quite a day yesterday.
-speaker2: yep. quite a day.
-speaker1: quite a week.
-
-speaker1: want me to drive? 
-speaker2: no, i'm okay.
-speaker1: hey, why don't you invite maya to the wedding?
-speaker2: somehow i don't think inviting maya to your wedding is the right move. in fact, after your bullshit, it's going to be hard for me to even go to the hitching post again.
-speaker1: you're so negative.
-speaker1: come on, let me drive.
-speaker2: i'm fine. you rest.
-speaker1: i feel like driving.
-
-speaker1: what's wrong? 
-speaker2: nothing. buckle up, okay?
-
-speaker1: what the 
-speaker2: you said it looked like a car accident.
-speaker1: what the
-speaker2: i'll pay for it.
-
-speaker1: look at this! 
-speaker2: i don't know. doesn't look like anybody got hurt in this one.
-speaker1: oh, no. oh, christ. no, you don't.
-speaker2: you need a new car anyway.
-speaker2: i said i'd pay for it.
-
-speaker1: you broke some. 
-speaker2: whatever. sorry.
-speaker1: no, not whatever. you derelict.
-
-speaker1: you ready? 
-speaker2: oh,
-speaker1: it's okay. i've got triple a.
-
-speaker1: well. that about does it. 
-speaker2: why don't you come in?
-speaker1: uh-uh. you're on your own.
-speaker2: so i'll see you at the rehearsal.
-speaker1: yeah.
-speaker2: love you, man.
-speaker1: back at you.
-speaker2: hey, don't pull away till they see the car.
-speaker1: yeah. hey, why wasn't i injured?
-speaker2: you were wearing your belt.
-
-speaker1: hey, miles. 
-speaker2: hi, vicki. you look beautiful.
-speaker1: thanks. um, this is ken cortland, my husband.
-speaker3: how are you?
-speaker2: hi. how you doing? you're a lucky guy.
-speaker3: thanks. i'll wait for you at the car. nice to meet you, miles.
-speaker2: ken.
-speaker2: that was big of him.
-speaker1: yeah, he's good that way. very considerate.
-speaker2: that's great.
-speaker1: so how're you doing?
-speaker2: since the last time we spoke? i don't know. could be better. could be worse.
-speaker1: so what's happening with your book?
-speaker2: universally rejected. strike three.
-speaker1: oh, miles. that's awful. what are you going to do?
-speaker2: back to the drawing board, i guess. or not. so... you're married. congratulations. you look happy.
-speaker1: i am.
-speaker2: seems like everyone's getting married. a year ago it was all divorces. now it's all weddings. cyclical, i guess.
-speaker1: i guess.
-speaker2: well, let's go have some champagne, shall we? toast all the newlyweds.
-speaker1: not me. i'm not drinking.
-speaker2: you quit drinking?
-speaker1: i'm pregnant.
-speaker2: oh. huh. well... congratulations again, vicki. that's wonderful news.
-speaker1: see you over there, miles.
-speaker2: yeah.
-
-speaker1: i did not cry then or ever about finny. i did not cry even when i stood watching him being lowered into his family's straight-laced burial ground outside of boston. i could not escape a feeling that this was my own funeral, and you do not cry in that case. 
-speaker1: do you want me to keep reading the next chapter, mr. raymond?
-speaker2: hrnrnrn? no, we'll pick up there on monday.
-
-speaker1: one new message. 
-speaker2: hello, miles. it's maya.
-speaker2: thanks for your letter. i would have called you sooner, but i think i've needed some time to think about everything that happened and what you wrote to me. another reason i didn't call sooner is that i wanted to finish your book, which i finally did last night.
-speaker2: i think it's really lovely, miles. you're so good with words. who cares if it's not getting published? there are so many beautiful and painful things about it. did you really go through all that? it must have been awfully hard. and the sister character -- what a wreck. but i have to say i was really confused by the ending. did the father finally commit suicide, or what? it's driving me crazy. and the title.
+MILES: ...the 
+MILES: yeah?
+WORKER: hi, miles. can you move your car, please?
+MILES: why?
+WORKER: the painters got to put the truck in, and you didn't park too good.
+MILES: yeah, hold on.
+
+MILES:  
+MILES: yeah, no, i know i said i'd be there by noon, but there's been all this work going on at my building, and it's like a total nightmare, and i had a bunch of stuff to deal with this morning. but i'm on my way. i'm out the door right this second. it's going to be great. yeah. bye.
+
+BARISTA: hey, miles. 
+MILES: hey, simon. triple espresso, please.
+BARISTA: rough night, huh? for here?
+MILES: no, i'm running late. make it to go. and give me a new york times and... ...a spinach croissant.
+
+MRS. ERGANIAN: look what the cat dragged! 
+MILES: hi, everybody.
+JACK: about time you got here, bud. mr. prompt.
+MR. ERGANIAN: we were thinking maybe you took the wrong way and went to tijuana and they didn't let you back in.
+MILES: i had to bribe them.
+CHRISTINE: hey, miles.
+MILES: seriously though, the freeway was unbelievable today. unbelievable. bumper to bumper the whole way. people getting an early start on the weekend, i guess. granted i got a late start, but still.
+MRS. ERGANIAN: christine, why don't you ask miles about the cake?
+CHRISTINE: oh, good idea. here, miles, come to the kitchen with me.
+JACK: don't bother him with that. we got to get going.
+CHRISTINE: it'll just take a second.
+
+MRS. ERGANIAN: jack tells us you are publishing a book. congratulations. 
+MR. ERGANIAN: yes, congratulations.
+MILES: yeah, well, it's not exactly finalized yet, but, um, there has been some interest and --
+MRS. ERGANIAN: your friend is modest.
+JACK: yeah, miles, don't be so modest. indulge them. don't make me out to be a liar.
+MR. ERGANIAN: what subject is your book? non- fiction?
+MILES: no, it's a novel. fiction. although there's a lot from my own life, so i guess technically some of it is non- fiction.
+MR. ERGANIAN: good, i like non-fiction. there is so much to know about the world that i think reading a story someone just invented is kind of a waste of time.
+CHRISTINE: so which one do you like better?
+MILES: i like them both, but if pressed i'd have to say i prefer the dark.
+JACK: see?
+
+JACK: where the were you, man? i was dying in there. we were supposed to be a hundred miles away by now. 
+MILES: i can't help the traffic.
+JACK: come on. you're hungover.
+MILES: okay, there was a tasting last night. but i wanted to get us some stuff for the ride up. check out the box.
+
+MILES: why did you tell them my book was being published? 
+JACK: you said you had it all lined up.
+MILES: no, i didn't. what i said was that my agent had heard there was some interest at conundrum...
+JACK: yeah, conundrum.
+MILES: ...and that one of the editors was passing it up to a senior editor. she was supposed to hear something this week, but now it's next week, and... it's always like this. it's always a waiting game. i've been through it too many times already.
+JACK: i don't know. senior editor? sounds like you're in to me.
+MILES: it's a long shot, all right? and conundrum is just a small specialty press anyway. i'm not getting my hopes up. i've stopped caring. that's it. i've stopped caring.
+JACK: but i know it's going to happen this time. i can feel it. this is the one. i'm proud of you, man. you're the smartest guy i know.
+MILES: don't open that now. it's warm.
+JACK: come on, we're celebrating. i say we pop it.
+MILES: that's a 1992 byron. it's really rare. don't open it now. i've been saving it!
+MILES: for christ's sake, jack! you just wasted like half of it!
+JACK: shut up. here's to a great week.
+MILES: yes. absolutely. despite your crass behavior, i'm really glad we're finally getting this time together.
+JACK: yeah.
+MILES: you know how long i've been begging to take you on the wine tour. i was beginning to think it was never going to happen.
+JACK: oh, that's tasty.
+MILES: 100% pinot noir. single vineyard. they don't even make it anymore.
+JACK: pinot noir? how come it's white? doesn't noir mean dark?
+MILES: don't ask questions like that up in the wine country. they'll think you're a moron.
+JACK: just tell me.
+MILES: color in the red wines comes from the skins. this juice is free run, so there's no skin contact in the fermentation, ergo no color.
+JACK: sure is tasty.
+MILES: did you read the latest draft, by the way?
+JACK: oh, yeah. yeah.
+MILES: and?
+JACK: i liked it a lot. a lot of improvements. it just seemed overall, i don't know, tighter, more... congealed or something.
+MILES: how about the new ending? did you like that?
+JACK: oh yeah. much better.
+MILES: there is no new ending. page 750 on is exactly the same.
+JACK: well, then i guess it must have felt new because everything leading up to it was so different.
+
+JACK: it's christine. hey you. 
+CHRISTINE: you guys having fun?
+JACK: yeah. all twenty minutes so far have been a blast.
+CHRISTINE: good. that's good.
+JACK: so what's up?
+CHRISTINE: just seeing how you're doing. and, um, mom and i were starting to look over the seating charts again, and we're wondering if you wanted tony levin to sit next to the feldmans, or should he be at one of the singles tables?
+CHRISTINE: so what do you think? with the feldmans?
+JACK: yeah. the feldmans.
+CHRISTINE: really? because i don't know, i was thinking that --
+JACK: well, then put him at the singles table.
+CHRISTINE: the problem with that is that then there's one extra --
+JACK: then put him with the feldmans. whatever you and your mom decide is fine with me.
+CHRISTINE: don't dismiss me. i'm trying to include you in this decision. he's your friend.
+JACK: i didn't dismiss you. i told you what i thought, but it didn't seem to matter, so you decide. besides, this is supposed to be my time with miles. i hope you're not going to call every five minutes.
+CHRISTINE: i'm not going to call every five minutes, but this is important.
+JACK: honey, i'm just saying you know i need a little space before the wedding. isn't that the point of this? isn't that what we talked about with dr. gertler?
+CHRISTINE: why are you being so defensive?
+JACK: i don't know, christine. perhaps it's because i feel attacked.
+CHRISTINE: i ask you one simple question, and suddenly i'm attacking you.
+JACK: listen. i'll call you when we get there, and we can talk about it then, okay?
+CHRISTINE: bye.
+JACK: i love you.
+CHRISTINE: bye.
+MILES: tony levin? why did you invite tony levin?
+
+INT./EXT. SAAB - LATE AFTERNOON: miles signals and begins to head for an exit. 
+JACK: whoa, why are we getting off?
+MILES: i've just got to make one quick stop. won't take a second.
+JACK: what?
+MILES: i thought we could just say a quick hello to my mother.
+JACK: your mother? miles, we were supposed to be up there hours ago.
+MILES: it's her birthday tomorrow. and i don't feel right driving by her house and not stopping in, okay? it'll just take a second. she's right off the freeway.
+JACK: how old's she going to be?
+MILES: um... seventy... something.
+JACK: that's a good age.
+
+CHAMPAGNE.: miles pulls a birthday card out of the bag too. 
+MILES: wait a second.
+MILES AND JACK: surprise! happy birthday!
+PHYLLIS: my miles. and jack! what a surprise. i can't remember the last time you brought me flowers.
+JACK: they're from both of us.
+PHYLLIS: a famous actor bringing me flowers on my birthday. don't i feel special?
+MILES: a famous actor who's getting married next week.
+PHYLLIS: oh, that's right. isn't that nice? i hope that girls knows how lucky she is, marrying no less than derek summersby.
+
+JACK: jeez, mrs. raymond, that was eleven years ago. 
+PHYLLIS: well, you were wonderful on that show. i never understood why they had to give you that brain tumor so soon. why that didn't make you the biggest movie star in the world is a sin. it's a sin.
+JACK: yeah, well, you should be my agent.
+PHYLLIS: if i was, i would sing your praises up and down the street until they put me in the loony bin. now miles, why didn't you tell me you were coming and bringing this handsome man? look how i'm dressed. i've got to run and put my face on.
+JACK: you look fabulous, mrs. raymond.
+PHYLLIS: oh, stop it. make yourselves comfortable. you boys hungry?
+MILES: yeah, i'm hungry.
+
+MILES: let me show you something. the secret to opening champagne is that once the cork is released, you keep pressure on it so you don't -- 
+JACK: concentrated on the
+TV): just a second. guy's going for $2500.
+PHYLLIS: ready for my close up!
+PHYLLIS: oh, champagne! miles, why don't you bring that out onto the lanai? i thought we could eat on the lanai.
+
+JACK: mrs. raymond, this is delicious. absolutely delicious. 
+PHYLLIS: they're just leftovers.
+JACK: is it chicken?
+PHYLLIS: i could have made something fancier if a certain someone had let me know that a certain someone was coming for a visit with a certain special friend. could have made a pork roast.
+MILES: it was a surprise, mom.
+PHYLLIS: and i could have already put clean sheets on the other bed and the fold- out. you are staying. wendy, ron and the twins are picking us up at 11:30 to go to brunch at the sheraton. they do a magnificent job there. wendy is so excited you're coming.
+MILES: you talked to wendy?
+PHYLLIS: just now. she's thrilled. and the kids.
+MILES: yeah, well. you know, jack's pretty eager to get up to... you know, but, uh, yeah. we'll see how it goes.
+PHYLLIS: well, you boys do what you want. i just think it would be nice for us to be together as a family on my birthday.
+MILES: uh-huh. i'll be right back.
+
+PHYLLIS: and what was that other one you did, the one where you're the jogger? 
+JACK: oh, that was for, uh, wait... that was for spray and wash.
+PHYLLIS: spray and wash. that's the one.
+JACK: yeah, i remember the girl who was in it with me. she was something.
+PHYLLIS: i just remember you jogging. so when's the wedding?
+MILES: this saturday, mom, remember? we told you.
+JACK: and miles is my best man, mrs. raymond. my main man.
+PHYLLIS: miles, when are you going to get married again?
+MILES: i just got divorced. phyllis.
+JACK: two years ago, buddy.
+PHYLLIS: you should get back together with victoria. she was good for you.
+PHYLLIS: she was good for you. and so beautiful and intelligent. you knew her, right?
+JACK: oh, yeah. real well. still do.
+PHYLLIS: i'm worried about you, miles. do you need some money?
+MILES: i'm fine.
+
+JACK: man. too early in the morning for that, you know what i mean? 
+MILES: she's a kid, jack. i don't even look at that stuff anymore.
+JACK: that's your problem, miles.
+MILES: as if she'd even be attracted to guys like us in the first place.
+JACK: speak for yourself. i get chicks looking at me all the time. all ages.
+MILES: it's not worth it. you pay too big a price. it's never free.
+JACK: you need to get laid.
+JACK: it'd be the best thing for you. you know what? i'm going to get you laid this week. that's going to be my best man gift to you. i'm not going to give you a pen knife or a gift certificate or any of that other horseshit.
+MILES: i'd rather have a knife.
+JACK: no. no. you've been officially depressed for like two years now, and you were always a negative guy anyway, even in college. now it's worse -- you're wasting away. teaching english to eighth-graders when they should be reading what you wrote. your books.
+MILES: i'm working on it.
+JACK: you still seeing that shrink?
+MILES: i went on monday. but i spent most of the time helping him with his computer.
+JACK: well, i say therapy and what's that stuff you take, xanax?
+MILES: and lexapro, yes.
+JACK: well, i say that. you need to get your joint worked on, that's what you need.
+MILES: jack. this week is not about me. it's about you. i'm going to show you a good time. we're going to drink a lot of good wine, play some golf, eat some great food, enjoy the scenery and send you off in style.
+JACK: and get your bone smooched.
+JACK: what?
+
+MILES: you know what? let's take the santa rosa turnoff and hit sanford first. 
+JACK: whatever's closest, man. i need a glass.
+MILES: these guys make top-notch pinot and chardonnay. one of the best producers in santa barbara county. look how beautiful this view is. what a day!
+JACK: i thought you hated chardonnay.
+MILES: i like all varietals. i just don't generally like the way they manipulate chardonnay in california -- too much oak and secondary malolactic fermentation.
+
+MILES: what a day! isn't it gorgeous? and the ocean's just right over that ridge. see, the reason this region's great for pinot is that the cold air off the pacific flows in at night through these transverse valleys and cools down the berries. pinot's a very thin-skinned grape and doesn't like heat or humidity. 
+JACK: hey, miles. i really hope your novel sells.
+MILES: thanks, jack. so do i. here we are.
+
+MILES: so what'd you guys finally decide on for the menu? 
+JACK: i told you. filet and salmon.
+MILES: yeah, but how are they making the salmon? poached with a yogurt-dill sauce? teriyaki? curry?
+JACK: i don't know. salmon. don't you always have white wine with fish?
+MILES: oh, look, at some point we have to find out because it's going to make a big difference.
+JACK: let me call christine.
+MILES: doesn't have to be now. let's go taste.
+JACK: i owe her a call anyway.
+JACK: hey, honey. so we're up here about to taste some whites, and we need to know how the caterers are going to make the salmon.
+JACK: no, i know, i didn't forget, but we wound up at miles's mom's house, and it got really late, and it was hard to call, so i'm calling you now. i said i was sorry. yes, i did. you heard me say i was sorry, right?
+JACK: miles heard me say i was sorry.
+JACK: give me a break, will you? i just called to find out about the salmon -- for our wedding -- to be more involved, like you said -- and all you want to do is get into it about last night and, okay, i'm sorry. i'm sorry i didn't call. you're totally right. i know, but i'm trying to make this the best wedding i can with the best wine we can find. don't i get any credit for that? okay. look, i've got to go. i'm out here in the parking lot, and miles is waiting for me...
+
+JACK: baked with a butter-lime glaze. 
+MILES: now we're talking.
+CHRIS: this is the condemned man?
+MILES: here he is. jack, chris. chris, jack.
+JACK: how you doing?
+CHRIS: you guys want to start with the vin gris?
+JACK: sounds good.
+
+JACK: this is rose, right? 
+MILES: good, yeah, it is a rose. only this one is rather atypically made from 100% pinot noir.
+JACK: pinot noir? not again! you know, not all pinots are noir. they laugh.
+MILES: let me show you.
+MILES: first take your glass and examine the wine against the light. you're looking at color and clarity.
+JACK: what color is it supposed to be?
+MILES: depends on the varietal. just get a sense of it. thick? thin? watery? syrupy? inky? amber, whatever...
+JACK: huh.
+MILES: now tip it. what you're doing here is checking for color density as it thins toward the rim. tells you how old it is, among other things, usually more important with reds. this is a very young wine, so it's going to retain its color pretty solidly. now stick your nose in it.
+MILES: don't be shy. get your nose in there.
+MILES: what do you smell?
+JACK: i don't know. wine? fermented grapes?
+MILES: there's not much there yet, but you can still find... ...a little citrus... maybe some strawberry... passion fruit... and there's even a hint of like asparagus... or like a nutty edam cheese.
+JACK: huh. maybe a little strawberry. yeah, strawberry. i'm not so sure about the cheese.
+MILES: now set your glass down and get some air into it.
+MILES: oxygenating it opens it up, unlocks the aroma and the flavors. very important. now we smell again.
+MILES: that's what you do with every one.
+JACK: when do we get to drink it?
+MILES: now.
+JACK: how would you rate this one?
+MILES: usually they start you on the wines with learning disabilities, but this one's pretty good. this is the new one, right, chris?
+CHRIS: released it about two months ago.
+MILES: nice job.
+CHRIS: we like it.
+JACK: you know, you could work in a wine store.
+MILES: yeah, that would be a good move.
+MILES: are you chewing gum?
+JACK: want some?
+
+MILES: hey jack, hurry up! 
+JACK: just a minute!
+
+JACK: i thought you said it was close. now i'm all pitted out. 
+MILES: it's not even a mile.
+JACK: we should have driven.
+MILES: not with the wine list these people have. we don't want to hold back.
+JACK: you think i'm making a mistake marrying christine?
+MILES: whoa.
+JACK: come on, do you think i'm doing the right thing? tell the truth. you've been through it.
+MILES: well, you waited for good reason, and you proposed to christine for some good reason. so i think it's great. it's time. you've got to have your eyes open, that's all. i mean, look at me. i thought victoria and i were set for life.
+JACK: christine's dad -- he's been talking about bringing me into his property business. showing me the ropes. and that's something, considering how long it took him to get over i'm not armenian. so i'm thinking about it. but i don't know, might get a little incestuous. but mike does pretty well. a lot of high-end commercial stuff.
+MILES: so you're going to stop acting?
+JACK: no way. this would just provide some stability is what i'm saying. i can always squeeze in an audition or a commercial here and there, you know, keep myself in the game in case something big comes along.
+MILES: uh-huh.
+JACK: we're not getting any younger, right? and my career, well, it's gotten pretty, you know, frustrating. even with my new manager. maybe it's time to settle down.
+MILES: if that's what feels right.
+JACK: it does. feels right.
+MILES: then it's a good thing.
+JACK: yeah. it's good. feels good.
+
+GARY: hey, miles. long time no see. 
+MILES: gary.
+GARY: when's that novel of yours coming out? we all want to read it.
+MILES: soon, soon. say, this is my buddy jack. he's getting married next week.
+GARY: my condolences.
+MILES: what are you pouring tonight?
+GARY: lot of good stuff. got the new bien nacido. want a taste?
+MILES: absolutement. they have their own label that's just outstanding.
+GARY: what do you think?
+MILES: tight as a nun's but qood concentration. nice fruit.
+JACK: yeah. tight.
+MILES: pour us a couple.
+JACK: here's to my last week of freedom.
+MILES: it's going to be great. here's to us.
+
+JACK: miles. check it out. 
+MILES: oh, yeah. that's maya.
+JACK: you know her?
+MILES: sure i know maya.
+JACK: you know that chick?
+MILES: jack, this is where i eat when i come up here. it's practically my office. and sometimes i have a drink with the employees. maya's great. she's worked here about a year, maybe a year and a half.
+JACK: she is very hot.
+MILES: and very nice. and very married. check out the rock.
+JACK: doesn't mean when christine was a hostess at sushi roku, she wore a big engagement ring to keep guys from hitting on her. think it worked? no. how do you think i met her?
+MILES: this gal's married to i think a philosophy professor at uc santa barbara.
+JACK: so what's a professor's wife doing waitressing? obviously that's over.
+MILES: you don't know anything about this woman. calm down. let's just eat, okay? the duck is excellent and pairs nicely with the highliner pinot.
+MAYA: hey, miles. good to see you.
+MILES: maya, how are you?
+MAYA: i'm doing good, good. you look great. did you lose some weight?
+MILES: oh, no, actually. busy night.
+MAYA: oh yeah, sunday night. you guys been out tasting today?
+MILES: you know it. this is my friend jack. jack, maya.
+JACK: hiya.
+MAYA: hi. well, nice to see you guys here. bye, miles.
+JACK: she's jammin'. and she likes you. what else do you know about her?
+MILES: well, she does know a lot about wine.
+JACK: ooooooohh. now we're getting somewhere.
+MILES: and she likes pinot.
+JACK: perfect.
+MILES: jack, she's a waitress in buellton. how would that ever work?
+JACK: why do you always focus on the negative? didn't you see how friendly she was to you?
+MILES: she works for tips!
+JACK: you're blind, dude. blind.
+MILES: i also recommend the ostrich. very lean. locally raised.
+
+MAYA: highliner, please. 
+JACK: that's on us.
+MAYA: hey, guys.
+MILES: you want to join us?
+MAYA: sure.
+MAYA: so how's that book of yours going, miles? i think you were almost done with it last time we talked.
+MILES: i finished it.
+MAYA: good for you.
+JACK: it's getting published. that's what we're up here celebrating.
+MAYA: that's fantastic. congratulations.
+MAYA: are you a writer too?
+JACK: no, i'm an actor.
+MAYA: oh yeah? what kind of stuff?
+JACK: a lot of tv. i was a regular on a couple of series. and lately i've been doing a lot of commercials. national mostly.
+MAYA: anything i'd know?
+JACK: maybe. recognize this?
+
+JACK: "now with low, low 5.8% apr financing." 
+MAYA: that's hilarious. you sound just like one of those guys.
+JACK: i am one of those guys.
+MAYA: you are not.
+MILES: he is.
+MAYA: oh. i needed that. thank you.
+MAYA: so what are you guys up to tonight?
+MILES: we're pretty wiped. probably go back to the hotel and crash.
+MAYA: yeah, i know what you mean. it's a long drive up here. where're you staying?
+MILES: the windmill.
+JACK: windmill.
+MAYA: well, good to see you, miles. jack.
+MILES: see you.
+JACK: we'll catch up with you later, okay?
+JACK: we'll probably go back to the hotel and crash?
+
+JACK: the girl is looking to party, and you tell her we're going to go back to our motel room and crash? miles! 
+MILES: well, i'm tired. aren't you tired?
+JACK: the chick digs you. she lit up like a pinball machine when she heard your novel was getting published.
+MILES: now i've got another lie to live down. thanks, jack.
+JACK: i'm trying to get you some action, but you've got to help me out just a little bit.
+MILES: didn't seem to me like that's what was going on. you were all over her.
+JACK: somebody had to do the talking. and by the way, i was right. she's not married.
+MILES: how do you know?
+JACK: no rock. when she came to the bar, sans rock.
+JACK: single. waitress. getting off work. looking for love. a little slap and tickle.
+MILES: shut up.
+JACK: she probably went home, lit some candles, put on some relaxing music, took a nice hot bath, and laid down on her bed with her favorite vibrator.
+MILES: have you no shame?
+JACK: oooh. oh. miles. miles.
+MILES: you.
+MILES: shut the up!
+JACK: you need to get your prostate checked.
+
+MILES: so what're we going to have? pigs in a blanket? the "rancher's special breakfast"? or maybe just some grease and fat with a side of lard? 
+JACK: so what's the plan today?
+MILES: we head north, begin the grape tour up there, make our way south so the more we drink the closer we get to the motel.
+MILES: what's your problem?
+MILES: what is it?
+JACK: i am going to get my nut on this trip, miles. and you are not going to it up for me with all your depression and anxiety and neg-head downer
+MILES: ooooh, now the cards are on the table.
+JACK: yes they are. and i'm serious. do not with me. i am going to get laid before i settle down on saturday. do you read me?
+MILES: sure, big guy. whatever you say. it's your party. i'm sorry i'm in the way and dragging you down. maybe you'd have a better time on your own. you take the car. i'll catch the train back.
+JACK: no, see, i want both of us to get crazy. we should both be cutting loose. i mean, this is our last chance. this is our week! it should be something we share.
+WAITRESS: can i take your order?
+JACK: but i am warning you.
+MILES: oatmeal, one poached egg, and rye toast. dry.
+WAITRESS: okay. and you?
+JACK: pigs in a blanket. with extra syrup.
+
+MILES: how much skin and stem contact? 
+POURER: about four weeks.
+MILES: huh. that explains all the tannins. and how long in oak?
+POURER: about a year.
+MILES: french or american?
+POURER: both.
+MILES: good stuff.
+JACK: yeah, oak. that's a good wood.
+
+MILES: nice, huh? 
+JACK: beautiful.
+MILES: victoria and i used to like this view. once we had a picnic here and drank a '95 opus one. with smoked salmon and artichokes, but we didn't care.
+JACK: miles.
+MILES: she has the best palate of any woman i've ever known. she could even differentiate italian wines.
+JACK: miles, i gotta tell you something. victoria's coming to the wedding.
+MILES: i know. you told me. i'm okay with it.
+JACK: yeah, but that's not the whole story. she got remarried.
+MILES: she what? when?
+JACK: about a month ago. six weeks.
+MILES: to that guy? that guy with the restaurant...
+JACK: miles... miles...
+JACK: christ, miles. get out!
+MILES: i want to go home now.
+JACK: you've been divorced for two years already. people move on. she has! it's like you enjoy self-pity. makes you feel special or something.
+MILES: is she bringing him to the wedding?
+JACK: what do you think?
+MILES: you drop this bombshell on me. why didn't you tell me before?
+JACK: because i knew you'd freak out and probably get so depressed you wouldn't even come on this trip. but then i figured here would be the best place to tell you. we're here to forget about all that we're here to party!
+MILES: i'm going to be a pariah. everyone's just going to be holding their breath to see if i'm going to get drunk and make a scene. plus tony levin?
+JACK: no, no, no. it's cool. i talked to victoria. she's cool. everyone's cool.
+JACK: hey, hey, hey. no, you don't!
+
+JACK: miles? 
+JACK: you going to be okay?
+
+STEPHANIE: hey, guys. how's it going? 
+JACK: excellent. my friend and i are up here doing the wine tour, and he tells me that you folks make one of a syrah.
+STEPHANIE: that's what people say.
+MILES: you gotta excuse him. yesterday he didn't know pinot noir from film noir.
+JACK: i'm a quick learner.
+MILES: i'm trying to teach my friend here some basics about wine over the next few days before he goes off and --
+JACK: that's right -- i'm here to learn. i never had that much interest in wine before, but this trip has been very enlightening. always like wine, of course, but i don't know. more of a beer man, really. microbreweries.
+STEPHANIE: well, no better way to learn than tasting.
+JACK: now there's a girl who knows how to pour. what's your name?
+STEPHANIE: stephanie.
+JACK: nice.
+STEPHANIE: so what do you think?
+MILES: quaffable but far from transcendent.
+JACK: i like it. tastes great. oaky.
+STEPHANIE: cabernet franc. this is only the fifth year we've made this varietal. very few wineries around here do a straight cabernet franc. it's from our vineyard up in santa maria. and it was a silver medal winner at paso robles last year.
+MILES: well, i've come to never expect greatness from a cab franc, and this one's no exception. sort of a flabby, overripe --
+JACK: tastes good to me. you live around here, stephanie?
+STEPHANIE: in santa ynez. and i agree with you about cab franc.
+JACK: oh yeah? we're just over in buellton. windmill inn.
+STEPHANIE: oh yeah.
+JACK: you know a gal named maya? works at the hitching post?
+STEPHANIE: sure i know maya. real well.
+JACK: no we just had a drink with her last night. miles knows her.
+MILES: could we move on to the syrah, please?
+STEPHANIE: this is our estate syrah...
+JACK: you're a bad, bad girl, stephanie.
+STEPHANIE: i know. i might need to be spanked.
+STEPHANIE: excuse me.
+JACK: a bad girl, miles. she might need to be spanked.
+MILES: do you know how often these pourers get hit on?
+
+JACK: get the trunk. 
+MILES: you have the keys.
+JACK: we're on.
+MILES: what?
+JACK: she called maya, who's not working tonight, so we're all going out.
+MILES: with maya?
+JACK: been divorced for a year now, bud.
+JACK: stephanie, holy chick had it all going on.
+MILES: well, she is cute.
+JACK: cute? she's a hottie. and you almost tell her i'm getting married. what's the matter with you? gotta love it. gotta love it.
+
+JACK: you know how often these pourers get hit on? i'm going for a swim. get the blood flowing. want to come? 
+MILES: nah. i want to watch this.
+
+JACK: chick in the jacuzzi -- goddamn, miles, going nuts up here. whole place is wide open. assylvania. jack does some actor's weird warm-up stretch. 
+MILES: so what should i wear?
+JACK: i don't know. casual but nice. they think you're a writer.
+JACK: don't you have any other shoes?
+JACK: hello? oh hey, baby, just checking in. not much. we're about to go out for dinner, probably be out pretty late, so i thought i'd say goodnight now. i know, i love you too. i miss you.
+
+JACK: please just try to be your normal humorous self, okay? like who you were before the tailspin. do you remember that guy? people love that guy. and don't forget -- your novel is coming out in the fall. 
+MILES: oh yeah? how exciting. what's it called?
+JACK: do not sabotage me. if you want to be a lightweight, that's your call. but do not sabotage me.
+MILES: aye-aye, captain.
+JACK: and if they want to drink merlot, we're drinking merlot.
+MILES: if anyone orders merlot, i'm leaving. i am not drinking any merlot!
+JACK: okay, okay. relax, miles, no merlot. did you bring your xanax?
+JACK: and don't drink too much. i don't want you going to the dark side or passing out. do you hear me? no going to the dark side.
+MILES: okay!
+JACK: we're going in.
+
+JACK: how you doin' tonight, beautiful? 
+STEPHANIE: good. how're you?
+JACK: great. you look great. you both do.
+STEPHANIE: not so bad yourself.
+MILES: what are you drinking?
+MAYA: a fiddlehead sauvignon blanc.
+MILES: oh yeah? how is it?
+MAYA: try it.
+MILES: nice. very nice.
+MAYA: twelve months in oak.
+MILES: on a sauvignon blanc?
+MAYA: i know the winemaker. she comes in the restaurant all the time.
+MILES: this is good. little hints of clove.
+MAYA: i know. i love that.
+WAITER: ...medallions of pork with a dusting of black truffles served with a root vegetable foulon and wasabi-whipped potatoes. and finally a copper river salmon grilled on an alder wood plank. and that comes with roasted new potatoes and steamed watercress.
+WAITER: and who gets the wine list?
+MAYA: i guess miles wants it.
+MILES: nope. you ladies choose.
+MAYA: you choose, stephanie.
+STEPHANIE: so what does everyone feel like?
+JACK: whatever you girls want. it's on us tonight. sky's the limit.
+MAYA: no, we're paying for the wine.
+JACK: i don't think so. we're celebrating miles's book deal.
+MAYA: well, in that case...
+STEPHANIE: what's everyone ordering? then we can sort out the wine.
+MILES: exactement!
+MAYA: i'm having the salmon.
+MILES: that's what i'm having.
+STEPHANIE: i'm thinking about the duck breast.
+JACK: me too.
+MAYA: well, that narrows things down.
+STEPHANIE: sounds like... pinot noir to me.
+JACK: pinot!
+WINE.: -- the four of them drink. particularly miles. -- stephanie and jack get cozier and cozier. -- the salmon and duck arrive.
+
+VICTORIA: hello? 
+MILES: victoria.
+VICTORIA: miles?
+MILES: victoria! how the are you?
+VICTORIA: fine. what's, uh, what's on your mind?
+MILES: heard you got remarried! congratulations. didn't think you had the stomach for another go-round.
+VICTORIA: oh, miles. you're drunk.
+MILES: just some local pinot, you know, then a little burgundy. that old cotes de beaune!
+VICTORIA: where are you?
+MILES: a little place in los olivos. new owners. cozy ambiance. excellent food too -- you should try it. thought of you at the hitching post last night.
+MILES: hello?
+VICTORIA: miles, don't call me when you're drunk.
+MILES: i just wanted you to know i've decided not to go to the wedding, so in case you were dreading some uncomfortable, you know, run-in or something, well, worry no more. you won't see me there. my wedding gift to you and what's- his-name. what is his name?
+VICTORIA: ken.
+MILES: ken.
+VICTORIA: miles, i don't care if you come to the wedding or not.
+MILES: well, i'm not coming, barbie. so you guys have fun.
+VICTORIA: i'm going to hang up now, miles.
+MILES: you see, vicki, i just heard about this today, you getting married that is, and i was kind of taken aback. kind of hard to believe.
+MILES: i guess i just thought there was still some hope for us somewhere down the road and i just, i just --
+VICTORIA: miles, maybe it is better if you don't come to the wedding.
+MILES: whatever you say, vicki. you're the boss.
+
+JACK: easy, boy. easy. 
+MAYA: are you all right?
+MILES: fine. just slipped. this is my blood.
+STEPHANIE: excuse us.
+MAYA: sorry to make you get up again, miles.
+MILES: that's okay.
+JACK: what the man? what is up?
+JACK: pull yourself together, man.
+MILES: i'm fine!
+JACK: where were you?
+MILES: bathroom.
+JACK: did you drink and dial? miles's silence confirms his guilt and shame.
+JACK: why do you always do this? victoria's gone, man. gone. poof.
+JACK: stop it. you are blowing a great opportunity here, miles. maya, man. she's great. she's cool. she's funny. she knows wine. what is this morose come-down these girls want to party. and what was that ten-minute lecture on, what was it, vouvrays? i mean, come on!
+MILES: let's just say i'm uncomfortable with the whole scenario.
+JACK: oh miles.
+JACK: and don't forget all the bad times you had with victoria. how small she make you feel. that's why you had the affair in the first place.
+MILES: shut up. shut your face.
+JACK: don't you see how maya's looking at you? you got her on the hook. reel her in! come on, let's rachet this up a notch. you know how to to do it. here. drink some agua. miles looks at the water, takes it and drains it.
+MILES: should we get dessert?
+STEPHANIE: we were thinking. why don't we go back to my place? i've got wine, some insane cheeses, music, whatever.
+JACK: excellent idea. waiter!
+
+JACK: we're here! 
+STEPHANIE: what happened to you guys?
+JACK: couple of wrong turns. thanks to magellan, here.
+JACK: hi.
+STEPHANIE: hi. maya's in the kitchen.
+
+MILES: hi. 
+MAYA: hey.
+MILES: she got anything good?
+MAYA: oh, yeah. steph's way into pinots and syrahs. hey, steph? you sure we can open anything? anything we want?
+STEPHANIE: anything but the jayer richebourg!
+MILES: she has a richebourg? mon dieu. i have completely underestimated stephanie.
+MAYA: who do you think you're dealing with here?
+MAYA: how about this?
+MAYA: nope. i don't think we know each other well enough. i'd say this guy's more our speed.
+MAYA: so what gems do you have in your collection?
+MILES: not much of a collection really. i haven't had the wallet for that, so i sort of live bottle to bottle. but i've got a couple things i'm saving. i guess the star would be a 1961 cheval blanc.
+MAYA: you've got a '61 cheval blanc that's just sitting there? go get it. right now. hurry up...
+MAYA: seriously, the '61s are peaking, aren't they? at least that's what i've read.
+MILES: yeah, i know.
+MAYA: it might be too late already. what are you waiting for?
+MILES: i don't know. special occasion. with the right person. it was supposed to be for my tenth wedding anniversary.
+MAYA: the day you open a '61 cheval blanc, that's the special occasion.
+MILES: how long have you been into wine?
+MAYA: i started to get serious about seven years ago.
+MILES: what was the bottle that did it?
+MAYA: eighty-eight sassicaia.
+MILES: wow. we gotta give it a moment, but this is tasty. really good. how about you?
+MAYA: i think they overdid it a bit. too much alcohol. overwhelms the fruit.
+MILES: yeah, i'd say you're right on the money.
+MILES: is this stephanie's kid? sure is cute.
+MAYA: yeah, siena's a sweetie.
+MILES: is she sleeping or...?
+MAYA: she's with her grandmother. she's with steph's mom. she spends a lot of time over there. steph's... well, she's stephanie.
+JACK: "and now for a low, low 4.8% apr..." ...is followed by peals of laughter.
+MAYA: you got kids?
+MILES: who me? nah, i'd just them up. that was the one unpolluted part of my divorce -- no kids.
+MAYA: yeah, same here.
+MAYA: let's go in there.
+
+MAYA: looks like our friends are hitting it off. 
+MAYA: it's kind of weird sitting here with you in stephanie's house. all those times you came into the restaurant. it's like you're a real person now. almost.
+MILES: yeah, i know. it's kind of weird. out of context.
+MAYA: yeah, weird. but great.
+MILES: yeah. definitely.
+MAYA: so what's your novel about?
+MILES: well, it's a little difficult to summarize. it begins as a first-person account of a guy taking care of his father after a stroke. kind of based on personal experience, but only loosely.
+MAYA: what's the title?
+MILES: "the day after yesterday."
+MAYA: oh. you mean... today?
+MILES: um... yeah but it's more...
+MAYA: so is it kind of about death and mortality, or...?
+MILES: mrnmm, yeah... but not really. it shifts around a lot. like you also start to see everything from the point of view of the father. and some other stuff happens, some parallel narrative, and then it evolves -- or devolves -- into a kind of a robbe-grillet mystery -- you know, with no real resolution.
+MAYA: wow. anyway, i think it's amazing you're getting it published. really. i know how hard it is. just to write it even.
+MILES: yeah. thanks.
+MAYA: like me, i have this stupid paper due on friday, and as usual i'm freaked out about it. just like in high school. it never changes.
+MILES: a paper?
+MAYA: yeah. i'm working on a masters in horticulture. chipping away at it.
+MILES: horticulture? wow. i didn't know there was a college here.
+MAYA: i commute to san luis obispo twice a week.
+MILES: so... you want to work for a winery or something someday?
+MAYA: well...
+MILES: i do have a copy of the manuscript in the car. it's not fully proofed, but if you're okay with a few typos...
+MAYA: oh yeah. who cares? i'm the queen of typos. wow, this is really starting to open up. what do you think?
+MILES: my palate's kind of shot, but from what i can tell, i'd dub it pretty good.
+MAYA: can i ask you a personal question?
+MILES: sure.
+MAYA: why are you so into pinot? it's like a thing with you.
+MILES: i don't know. it's a hard grape to grow. as you know. it's thin-skinned, temperamental, ripens early. it's not a survivor like cabernet that can grow anywhere and thrive even when neglected. pinot needs constant care and attention and in fact can only grow in specific little tucked- away corners of the world. and only the most patient and nurturing growers can do it really, can tap into pinot's most fragile, delicate qualities. only when someone has taken the time to truly understand its potential can pinot be coaxed into its fullest expression. and when that happens, its flavors are the most haunting and brilliant and subtle and thrilling and ancient on the planet.
+MILES: i mean, cabernets can be powerful and exalting, but they seem prosaic to me for some reason. by comparison. how about you?
+MAYA: what about me?
+MILES: i don't know. why are you into wine?
+MAYA: i suppose i got really into wine originally through my ex-husband. he had a big, kind of show-off cellar. but then i found out that i have a really sharp palate, and the more i drank, the more i liked what it made me think about.
+MILES: yeah? like what?
+MAYA: like what a fraud he was.
+MAYA: no, but i do like to think about the life of wine, how it's a living thing. i like to think about what was going on the year the grapes were growing, how the sun was shining that summer or if it rained... what the weather was like. i think about all those people who tended and picked the grapes, and if it's an old wine, how many of them must be dead by now. i love how wine continues to evolve, how every time i open a bottle it's going to taste different than if i had opened it on any other day. because a bottle of wine is actually alive -- it's constantly evolving and gaining complexity. that is, until it peaks -- like your '61 -- and begins its steady, inevitable decline. and it tastes so good.
+MILES: bathroom over there?
+MAYA: yeah.
+
+MAYA: i was just getting some water. you want some water? 
+MAYA: nice.
+MAYA: i should probably get going.
+
+MAYA: you know how to get back to the windmill, right? 
+MILES: got it.
+MAYA: i had a good time tonight, miles. i really did.
+MILES: good. so did i.
+MAYA: okay. see you around.
+MILES: um... did you still want to read my novel?
+MAYA: oh, yeah. sure. of course.
+MAYA: wow. great.
+MILES: hope you like it. feel free to stop reading at any time. i'll take no offense.
+MAYA: goodnight, miles.
+
+JACK: chick is unbelievable. un-be- lieve-able! 
+JACK: goddamn, miles, she is nasty. nasty nasty nasty.
+MILES: well, i'm glad you got it out of your system. congratulations. mission accomplished.
+
+MILES: returns the wave and goes back inside. 
+MILES: you didn't invite stephanie to come with us, did you?
+JACK: oh, hey, change of plans. steph's off today, so she and i are going on a hike.
+MILES: we were supposed to play golf.
+JACK: you go. in fact, use my clubs. they're brand new -- gift from christine's dad. it's on me. oh, say, by the way, stephanie and me were thinking we'd all go to the hitching post tonight and sit at one of maya's tables, and she'll bring us some great wines and then we can all --
+MILES: count me out.
+JACK: oooh, i see. didn't go so good last night, huh? that's a shocker. you mean getting drunk and calling victoria didn't put you in the mood? you your divorce pain's getting real old real fast, dude.
+JACK: later.
+MILES: yeah, well, maybe you should check your messages first.
+JACK: oh, boy.
+MILES: she's been leaving messages here too.
+JACK: yeah. okay.
+MILES: you should call her.
+JACK: i will. see ya!
+MILES: right now.
+JACK: okay!
+JACK: i've got no problem calling her.
+JACK: wait outside, will you?
+STEPHANIE: that was fun last night.
+MILES: yeah. good food. you've got quite a wine collection. very impressive.
+STEPHANIE: thanks. hey, i talked to maya this morning. she said she had a good time too. you should call her.
+STEPHANIE: where's jack?
+MILES: he had to make a phone call.
+STEPHANIE: so what are you up to today, miles?
+MILES: just kickin' back, i guess. i don't know. jack and i were supposed to go golfing.
+STEPHANIE: huh.
+MILES: yeah, i reserved the tee time about a month ago.
+STEPHANIE: oops. sorry.
+MILES: you golf?
+STEPHANIE: me? no, i think it's kind of a stupid game. i mean, at least, i could never get into it. i tried it once.
+MILES: huh. jack loves golf. crazy about it.
+JACK: hey miles. miles.
+
+JACK: do you have that other condom? 
+MILES: what'd christine say?
+JACK: lucked out -- got voice mail. everything's cool.
+
+JACK: hey, there you are. 
+MILES: yep.
+JACK: what're you drinking?
+JACK: any good?
+JACK: could i get a glass please? stephanie took me out into the pinot fields today. it was awesome. i think i finally got a handle on the whole process, from the soil to the vine to the -- what do you call it? -- selection and harvest. and the whole, you know, big containers where they mix it. we even ate pinot grapes right off the vine. still a little sour but already showing potential for great structure. stephanie really knows her miles.
+MILES: where is stephanie?
+JACK: upstairs. getting cleaned up.
+MILES: what the are you doing?
+JACK: what?
+MILES: with this chick.
+MILES: does she know about saturday?
+JACK: um... not exactly. but i've been honest. i haven't told her i'm available. and she knows this trip up here is only for a few days. besides...
+MILES: besides what?
+JACK: well... i don't know, just... the wedding.
+MILES: what?
+JACK: well, i've been doing some thinking.
+MILES: oh, you've been thinking. and?
+JACK: i may have to put the wedding on hold is all.
+JACK: i fully realize that making a change like that might be tricky for certain people to accept at first, but life is short, miles. i've got to be sure i'm doing the right thing before taking such a big step. and not just for my sake. i'm thinking about christine's feelings too. i take marriage very seriously -- always have. that's why i've never done it before. the day i get married, it's going to be the real thing.
+JACK: being with stephanie has opened my eyes. she's not uptight or controlling. she's just cool. things are so easy with her. smells different. tastes different. different. like an animal. i'm telling you, i went deep last night, miles. deep.
+MILES: deep.
+JACK: don't get all judgmental on me. this is my deal. it's my life, and it's my call.
+JACK: i was hoping to get some understanding from you. and i'm not getting it.
+MILES: understanding of what?
+JACK: like i might be in love with another woman.
+MILES: in love? twenty-four hours with some wine-pourer chick and you think you're in love? and give up everything?
+JACK: look who's talking. you've been there.
+MILES: yes i have, and do i look like a happy man? was all that drama with brenda a happy thing for me to do? huh? was it? is she a part of my life now?
+JACK: this is totally different. i'm talking about avoiding what you're talking about. that's the distinction. i have not made the commitment yet. i am not married. i have not said the words. in a few days, i might get married, and if i do, then i won't be doing stuff like this anymore. otherwise, what's the whole point of getting married?
+MILES: and what about stephanie? she's a woman -- with a kid. a single mom. what do you think she's looking for? huh?
+JACK: here's what i'm thinking. we move up here, you and me, buy a vineyard. you design your own wine; i'll handle the business side. then you get inspired and write a new novel. as for me, if an audition comes along, hell, la's two hours away. not even.
+MILES: you're crazy. you've gone crazy.
+JACK: what do you care anyway? you don't even like christine.
+MILES: what? of course i like christine.
+JACK: you said she was shallow. yeah, and a nouveau riche.
+MILES: that was three years ago after that first party!
+JACK: look, miles, all i know is i'm an actor. all i have is my instinct. my intuition -- that's all i have. and you're asking me to go against it. and that's just wrong.
+STEPHANIE: hi, guys. we should probably get going.
+MILES: where?
+
+JACK: listen, i'm going to make sure steph and siena get home safe, and then maybe we'll hook up with you later, okay? 
+STEPHANIE: see you, miles. you take care.
+MILES: bye, stephanie. bye, siena, caryl.
+SIENA AND CARYL: bye, miles.
+JACK: call me on my cell if you go out.
+MILES: yeah.
+
+MILES: and could i get a barely leqal? 
+MILES: no, um, the new one.
+
+GARY: how's it hanging, miles? 
+MILES: you know me. i love it up here. how about you?
+GARY: busy night for a tuesday. we had a busload of retired folks in on a wine tour. usually they're not too rowdy, but tonight there was something going on. full moon or something. what can i get you?
+MILES: highliner.
+GARY: glass or bottle?
+MILES: bottle.
+GARY: you got it.
+MILES: say, is maya working?
+GARY: maya? haven't seen her. i think she's off tonight. say, where's your buddy?
+
+GARY: you okay, miles? 
+MILES: i'm good.
+
+JACK: come on, dude. let's go golfing! i got us in at alisal. 
+MILES: that's a public course. no stephanie?
+JACK: she's working. i need a break anyway. she's getting a little clingy. this is our day!
+
+JACK: crap. 
+JACK: did you ever got ahold of maya yesterday?
+MILES: nope.
+JACK: she likes you, man. stephanie'll tell you.
+MILES: can you give me some room here?
+JACK: oh yeah. sure.
+JACK: you know, in life you gotta strike when the iron's hot.
+MILES: thanks, jack.
+JACK: don't whiff it.
+JACK: nice shot.
+MILES: you're an
+
+JACK: what about your agent? hear anything yet? 
+MILES: nope.
+JACK: what do you think's going on?
+MILES: could be anything.
+JACK: been checking your messages?
+MILES: obsessively.
+JACK: huh.
+MILES: they probably think my book is such a piece of that it's not even worthy of a response. i guess i'll just have to learn how to kiss off three years of my life.
+JACK: but you don't know yet, so your negativity's a bit premature, wouldn't you say?
+JACK: or those new york publishers. publish it yourself. i'll chip in. just get it out there, get it reviewed, get it in libraries. let the public decide. giving jack a look that says jack has no idea what he's
+JACK: don't come over the top. stay still.
+MILES: shut up.
+JACK: just trying to be helpful. it's all about stillness, miles. inner quiet.
+MILES: shut up! shut up! shut up! what's the matter with you, man? shut up!
+JACK: why are you so hostile? i know you're frustrated with your life right now, but you can choose not to be so hostile. here.
+MILES: what is it?
+JACK: i don't know. got it from stephanie.
+MILES: huh. let me see the label.
+JACK: what the
+HUSBAND #1: hurry it up, will you?
+MILES: hit into us.
+JACK: hey, asshole! that's not cool!
+MILES: throw me his ball.
+JACK: nice shot.
+
+JACK: watches their approach, grinning. 
+JACK: oh, this is going to be fun. this is going to be fun.
+JACK: hit into us again, motherfuckers, and i'll ass-rape all four of you!
+
+JACK: just don't give up on maya. cool smart chicks like that --they like persistence. 
+MILES: i don't want to talk about it.
+JACK: all i know is she's beautiful. lots of soul. perfect for you. i'm not going to feel good about this trip until you guys hook up. don't you just want to feel that cozy little box grip down on your johnson?
+GOLFER: hey, you mind keeping it down, buddy?
+JACK: is it the money thing?
+MILES: is what the money thing?
+JACK: with maya.
+MILES: well, yeah, that's part of it. woman finds out how i live, that i'm not a published author, that i'm a liar essentially, then yeah, any interest is gonna evaporate real quick. if you don't have money at my age, you're not even in the game. you're just a pasture animal waiting for the abattoir.
+JACK: is an abattoir like a... like a... what is that?
+MILES: slaughterhouse.
+JACK: abattoir. huh. but you are going to get the good news this week about your book. i know you are. i can feel it.
+JACK: it's steph. hey, baby. yeah. oh yeah. yesssss. i mean i would, but let me see. hey, miles... oh it, we're going. we'll be right there. me too.
+JACK: we're on.
+MILES: what's happening?
+JACK: we're going to have some fun. remember fun? we're going to have some of it. okay?
+MILES: what exactly are we going to do?
+JACK: i said okay?
+MILES: you have to tell me --
+
+I SAID OKAY?: miles finally smiles. 
+MILES: okay.
+
+INT./EXT. THE SAAB - DAY: they're going fast, hair whipping around. 
+MAYA: hey, miles, i heard you came by the restaurant last night looking for me.
+MILES: oh, yeah. no. i mean yeah, i stopped by for a drink. didn't see you.
+MAYA: i had class.
+MILES: well, nice to see you now.
+MAYA: you too.
+
+JACK: you ever actually read any of this guy's books? 
+MILES: he wrote a great one on burgundy, and i used to get his newsletter, but then there were doubts about whether he does all his own tasting. plus a couple of times he declared certain years vintages of the century, and they turned out to be turkeys. never retracted.
+JACK: huh.
+
+MAYA: you guys should stop by the restaurant for lunch today. 
+MILES: great. what's the latest we can get there?
+MAYA: about two-thirty.
+MILES: okay.
+MAYA: did you hear about this bordeaux tasting dinner down in santa barbara saturday night? it's a little pricey, but if you wanted to go, i'd be into it. why don't you stay through the weekend? miles has just figured out a difficult clue. as he writes it down --
+MILES: no, we've got to get back friday for the rehearsal dinner.
+MAYA: what rehearsal dinner?
+MAYA: who's getting married?
+MAYA: were you ever going to say anything?
+MILES: of course i was. i mean, just now i could have made up some story, but i didn't. i told you the truth.
+MILES: maya.
+MAYA: don't touch me. just take me home.
+
+MILES: i've told him. i've told him over and over, but he's out of control. 
+MAYA: do you know what he's been saying to her?
+MILES: he's an actor, so it can't be good.
+MAYA: oh, just that he loves her. that she's the only woman who has ever really rocked his world. how he adores siena. how he wants to move up here and get a place with the two of them and commute when he has to.
+MILES: i'm sure he believed every word.
+MILES: please believe me. i was even on the verge of telling you last night, but...
+MAYA: but you wanted to me first.
+MILES: oh, maya. no.
+MAYA: yeah.
+
+MAYA: you know, i just spent three years trying to extricate myself from a relationship that turned out to be full of deception. and i've been doing just fine. 
+MILES: and i haven't been with anyone since my divorce. this has been a big deal for me, maya -- hanging out with you, and last night. i really like you, maya. and i'm not jack. i'm just his... his freshman roommate from san diego state.
+MAYA: could i have my paper, please?
+
+JACK: yo! yo! here's my boy! here's my boy! who's your daddy, boy? who is yo' daddy? 
+MILES: put me down, jack.
+MILES: i said put me down. jack!
+JACK: i'm so proud of you! let me love you!
+JACK: so tell me everything. details. i like details.
+MILES: no.
+JACK: what?
+MILES: it's private.
+JACK: you're kidding, right? tell me what happened, you fucker, or i'll tie your in a knot.
+MILES: let's leave it alone.
+JACK: you didn't get any, did you? you're a homo.
+MILES: just stop, okay? make something up, and that's what happened. whatever you want. write my confession, and i'll sign it. just stop pushing me all the time! i can't take it! you're an infant! this is all a big party for you, but not for me! this is serious. and you -- just... leave me alone, okay? you're me up.
+JACK: wow. okay. calm down. sorry.
+JACK: did you have trouble performing? yeah, that's...
+MILES: shut up! shut up, jack!
+MILES: don't answer it.
+MILES: i'm telling you, don't.
+JACK: hello? oh, hey, honey. how you doing? uh-huh. uh-huh. christine.
+JACK: listen, honey. let me call you back. miles and i are in the middle of something. no, it's nothing serious -- miles is just having one of his freak- outs. yeah. love you too. i'll call you right back.
+MILES: this whole week has gone sour. it isn't turning out like it was supposed to. i want to go home.
+JACK: who's being selfish now? i'm the one getting married. i thought this week was supposed to be about me.
+MILES: we gotta slow down. i'm so tired. let's just get out of here.
+JACK: i know what you need.
+
+SALES ASSOCIATE: there you go. 
+MILES: do you like them?
+JACK: yeah, they're great. sporty. they're really sporty.
+MILES: are they too sporty?
+
+JACK: feel better? 
+JACK: oh here, wait a second. i want to run in here real quick.
+JACK: i want to get something for siena.
+
+JACK: how about this one? we didn't hit this one. 
+MILES: yeah, it's frass canyon. it's a joke.
+JACK: you ever actually been in there, miles?
+MILES: i don't have to.
+JACK: i say we check it out. you never know.
+
+MILES: tastes like the back of a la schoolbus. probably didn't de-stem, hoping for some semblance of concentration, crushed it up with leaves and mice, wound up with this rancid tar and turpentine mouthwash raid. 
+JACK: i don't know. tastes okay to me. hey, they got a reserve pinot.
+MILES: let me use your phone.
+JACK: what's up?
+MILES: i can't take it anymore. i've got to call evelyn.
+
+ASSISTANT: evelyn berman-silverman's office. 
+MILES: hi, it's miles.
+ASSISTANT: oh, hi, miles. let me see if i can get her. you're in luck. i'll put you through.
+EVELYN: miles.
+MILES: hey, evelyn, it's your favorite client.
+EVELYN: how's the trip?
+MILES: good, good. drinking some good wines and kicking back, you know. so what's happening? still no word?
+EVELYN: actually there is word. i spoke to keith kurtzman this morning.
+MILES: and?
+EVELYN: and... they're passing. conundrum's passing. he said they really liked it. they really wanted to do it, but they just couldn't figure out how to market it. he said it was a tough call.
+MILES: huh.
+EVELYN: i'm sorry, miles. so i don't know where that leaves us. i'm not sure how much more mileage i can get out of continuing to submit it. i think it's one of those unfortunate cases in the business right now -- a fabulous book with no home. the whole industry's gotten gutless. it's not about the quality of the books. it's about the marketing. miles is at a loss for words. a distant rumble begins to sound, the familiar harbinger of an anxiety attack.
+
+EVELYN: are you there? miles? 
+MILES: yeah, i'm here.
+EVELYN: i'm sorry, miles. we did all we could. you've been a real trooper. tell him i'll call back.
+MILES: so i guess that's it.
+EVELYN: you're a wonderful writer, miles. don't be discouraged.
+
+MILES: hit me again. 
+MILES: pour me a full glass. i'll pay for it.
+POURER: this is a tasting, sir. not a bar.
+MILES: just give me a full pour.
+POURER: sir, what are you doing?
+MILES: i told you i need a drink.
+POURER: then buy a bottle and go outside.
+POURER: put the glass down.
+POURER: you're going to have to leave, sir.
+JACK: it's all right. his mother just died.
+
+JACK: just write another one. you have lots of ideas, right? 
+MILES: no, i'm finished. i'm not a writer. i'm a middle-school english teacher. i'm going to spend the rest of my life grading essays and reading the works of others. it's okay. i like books. the world doesn't give a what i have to say. i'm unnecessary. i'm so insignificant, i can't even kill myself.
+JACK: what's that supposed to mean?
+MILES: you know -- hemingway, sexton, woolf, plath, delmore schwartz. you can't kill yourself before you've even been published.
+JACK: what about that guy who wrote confederacy of dunces? he committed suicide before he got published, and look how famous he is.
+MILES: thanks.
+JACK: don't give up. you're going to make it.
+MILES: half my life is over, and i have nothing to show for it. i'm a thumbprint on the window of a skyscraper. i'm a smudge of excrement on a tissue surging out to sea with a million tons of raw sewage.
+JACK: see? right there. just what you just said. that's beautiful. a thumbprint on a skyscraper. i couldn't write that.
+MILES: neither could i. i think it's bukowski.
+JACK: oh, look. there's steph!
+
+THE SAAB: pulls to a stop in a parking space. 
+JACK: hey, baby.
+JACK: look what i got for our favorite girl.
+
+MILES: stephanie! stop! 
+STEPHANIE: you bastard! lying piece of you're getting married on saturday? what was all that you said to me?
+JACK: i can explain.
+STEPHANIE: you said you loved me! you i hope you die!
+STEPHANIE: fuckface! you too!
+
+MILES: aren't you glad you didn't move up here and marry her? 
+JACK: don't need a lecture. you told maya, didn't you?
+MILES: no, i did not. must have been gary at the hitching post. i think we mentioned it to him the first night.
+JACK: you told him. i'm hurting here.
+MILES: keep it elevated.
+
+MAYA: hi. it's maya. please leave a message. 
+MILES: it's miles. listen, i don't know if you even care, but i had to call and tell you again how much i enjoyed our time together and how sorry i am things turned out the way they did. i think you're great, maya -- always have. from the first time you waited on me. and while i'm at it, i guess you should know that my book is not getting published. i thought this one had a chance, but i was wrong. again. don't bother reading it -- you've got better things to do. so you see i'm not much of a writer. i'm not anything really. the only real talent i seem to have is for disappointing people and now you know that firsthand. we're leaving in the morning, and i want you to know that i take with me wonderful memories of you. i'm sorry. i'm really sorry. what else to say? he hangs up.
+
+MILES: well? 
+JACK: i'm going to need an operation. maybe a couple of them. they have to wait for it it to heal first. then they break it again.
+MILES: good thing you have a voice-over career.
+JACK: gonna that up too. i should sue her ass. only reason i won't is to protect christine.
+MILES: that's thoughtful.
+JACK: yeah.
+
+JACK: i hate this place. 
+MILES: take a couple of these, and you'll learn to love it.
+MILES: two for you. and two for me.
+
+JACK: so how did stephanie know it was saturday? we didn't get into that with gary. 
+MILES: huh. let me think.
+JACK: you sure you didn't say anything to maya?
+MILES: sure i'm sure. and just what are you implying? i'm really off at you about all this, if you want to know the truth. what's maya going to think of me now just for associating with you? you're the one who's sabotaging me, not the other way around, pal. not by a longshot.
+JACK: i don't know. just seems fishy.
+
+JACK: what's it look like to you? 
+MILES: looks like you were in a bad car accident.
+JACK: i'm hungry.
+
+JACK: you know what i'm thinking? 
+MILES: what's that?
+JACK: i'm thinking it's time to settle down. one woman. one house. you know. it's time.
+MILES: uh-huh.
+
+JACK: mm. mm. 
+WAITRESS: and here're your handi-wipes.
+JACK: oh, so that's what those are? for a second there i thought you guys were promoting safe sex.
+WAITRESS: i'll be right back with more corn bread.
+JACK: i bet you that chick is two tons of fun. you know, the grateful type.
+MILES: i don't know. i wouldn't know.
+JACK: nice technique there... ...cammi.
+CAMMI: it's all in the wrist. you know, you look really familiar. you from around here? where'd you go to high school?
+JACK: no, we're from san diego. why?
+CAMMI: i don't know. you just seem really familiar to me. never mind. enjoy your meals.
+JACK: hang on. did you ever know a derek sommersby?
+CAMMI: doctor derek sommersby? you mean from "one life to live"?
+JACK: you have to imagine him with a bandage and shorter hair.
+CAMMI: no. way. no way!
+CAMMI: oh, my
+MILES: could you tell me where the bathroom is?
+CAMMI: uh, sure, it's right over there, right past the buffalo.
+
+JACK: she gets off in an hour, so i think i'm just going to have a drink and then... make sure she gets home safe. 
+MILES: you're joking, right? what are you doing? un-fucking- believeable. can we just go back to the hotel and hang out and get up early and play nine holes before we head home?
+JACK: look, miles. i know you're my friend and you care about me. and i know you disapprove. i respect that. but there are some things i have to do that you don't understand. you understand wine and literature and movies, but you don't understand my plight. and that's okay.
+
+JACK: christ, it's freezing. 
+JACK: vicodin. where's the vicodin? my nose.
+JACK: chick's married.
+MILES: what?
+JACK: her husband works a night shift or something, and he comes home, and i'm on the floor with my in his wife's ass.
+MILES: jack. and you walked all the way back from solvang?
+JACK: ran. twisted my ankle too.
+MILES: that's five clicks, jackson.
+JACK: fucking-a it's five clicks! at one point i had to cut through an ostrich farm. are mean.
+JACK: we gotta go back.
+MILES: what?
+JACK: i left my wallet. my credit cards, cash, id, everything. we gotta go back.
+MILES: big deal. we'll call right now and cancel your cards.
+JACK: you don't understand. the wedding bands. the wedding bands are in my wallet.
+MILES: okay, so they were in your wallet, and you left your wallet somewhere. some bar. christine'll understand.
+JACK: no. she ordered them special. took her forever to find them. they've got this design on them with dolphins and our names engraved in sanskrit. we've got to go back. christine'll crucify me.
+MILES: no way. no way.
+JACK: please, miles, please.
+MILES: forget it. your wallet was stolen at a bar. happens every day.
+JACK: no, we've got to get my wallet! those rings are irreplaceable! we've got to get them, miles! i up! i know i up, okay? i up. you gotta help me. you gotta help me. pleeeease!
+JACK: oh, please... oh i know i'm bad. i know i did a bad thing. help me, miles. just this one thing, this one last thing. i can't lose christine. i can't. i'm nothing without her. please, miles, please... uuuuu... uuuuuu.... uuuuuuu......
+
+MILES: she tell you she was married? 
+JACK: yeah.
+MILES: so what the were you thinking?
+JACK: wasn't supposed to be back till six. rolls in at five.
+MILES: cutting it a little close, don't you think? so how was she? compared to stephanie, say.
+JACK: as flopping around like a landed trout.
+INT./EXT. SAAB - MORNING: jack scans the street.
+JACK: yeah, this is the block. just keep going... yeah! this is it. there's her car.
+MILES: so what's the plan?
+JACK: the plan is... you go.
+MILES: me?
+JACK: my ankle. just go explain the situation.
+MILES: uh, excuse me, sir, but my friend was the one balling your wife a couple hours ago, and he seems to have left his wallet behind, and we were wondering...
+JACK: yeah, yeah. like that. just like that.
+
+JACK: you. i'll get it myself. 
+MILES: hold on.
+
+MAN: you don't think i you, i'll you. 
+CAMMI: i'm a bad girl. i'm a bad girl.
+
+MAN: you picked him up and you him, didn't you, 
+CAMMI: i picked him up and i him. i'm a bad girl.
+MAN: and you liked him, didn't you, you fat little whore?
+CAMMI: i liked it when you caught me him. whoa!
+MAN: the was that?
+CAMMI: the wallet! he took derek's wallet!
+
+MILES: open up! open the door! 
+MAN: you motherfuckers! i'll kill you! i'll kill you motherfuckers!
+JACK: removes the rings from the wallet.
+JACK: you did it! you did it!
+
+MILES: hey, jack. jack. 
+JACK: hrnrnrn?
+MILES: that was quite a day yesterday.
+JACK: yep. quite a day.
+MILES: quite a week.
+
+JACK: want me to drive? 
+MILES: no, i'm okay.
+JACK: hey, why don't you invite maya to the wedding?
+MILES: somehow i don't think inviting maya to your wedding is the right move. in fact, after your bullshit, it's going to be hard for me to even go to the hitching post again.
+JACK: you're so negative.
+JACK: come on, let me drive.
+MILES: i'm fine. you rest.
+JACK: i feel like driving.
+
+MILES: what's wrong? 
+JACK: nothing. buckle up, okay?
+
+MILES: what the 
+JACK: you said it looked like a car accident.
+MILES: what the
+JACK: i'll pay for it.
+
+MILES: look at this! 
+JACK: i don't know. doesn't look like anybody got hurt in this one.
+MILES: oh, no. oh, christ. no, you don't.
+JACK: you need a new car anyway.
+JACK: i said i'd pay for it.
+
+MILES: you broke some. 
+JACK: whatever. sorry.
+MILES: no, not whatever. you derelict.
+
+JACK: you ready? 
+MILES: oh,
+JACK: it's okay. i've got triple a.
+
+MILES: well. that about does it. 
+JACK: why don't you come in?
+MILES: uh-uh. you're on your own.
+JACK: so i'll see you at the rehearsal.
+MILES: yeah.
+JACK: love you, man.
+MILES: back at you.
+JACK: hey, don't pull away till they see the car.
+MILES: yeah. hey, why wasn't i injured?
+JACK: you were wearing your belt.
+
+VICTORIA: hey, miles. 
+MILES: hi, vicki. you look beautiful.
+VICTORIA: thanks. um, this is ken cortland, my husband.
+KEN: how are you?
+MILES: hi. how you doing? you're a lucky guy.
+KEN: thanks. i'll wait for you at the car. nice to meet you, miles.
+MILES: ken.
+MILES: that was big of him.
+VICTORIA: yeah, he's good that way. very considerate.
+MILES: that's great.
+VICTORIA: so how're you doing?
+MILES: since the last time we spoke? i don't know. could be better. could be worse.
+VICTORIA: so what's happening with your book?
+MILES: universally rejected. strike three.
+VICTORIA: oh, miles. that's awful. what are you going to do?
+MILES: back to the drawing board, i guess. or not. so... you're married. congratulations. you look happy.
+VICTORIA: i am.
+MILES: seems like everyone's getting married. a year ago it was all divorces. now it's all weddings. cyclical, i guess.
+VICTORIA: i guess.
+MILES: well, let's go have some champagne, shall we? toast all the newlyweds.
+VICTORIA: not me. i'm not drinking.
+MILES: you quit drinking?
+VICTORIA: i'm pregnant.
+MILES: oh. huh. well... congratulations again, vicki. that's wonderful news.
+VICTORIA: see you over there, miles.
+MILES: yeah.
+
+14-YEAR-OLD BOY: i did not cry then or ever about finny. i did not cry even when i stood watching him being lowered into his family's straight-laced burial ground outside of boston. i could not escape a feeling that this was my own funeral, and you do not cry in that case. 
+14-YEAR-OLD BOY: do you want me to keep reading the next chapter, mr. raymond?
+MILES: hrnrnrn? no, we'll pick up there on monday.
+
+ANSWERING MACHINE: one new message. 
+MAYA'S VOICE: hello, miles. it's maya.
+MAYA'S VOICE: thanks for your letter. i would have called you sooner, but i think i've needed some time to think about everything that happened and what you wrote to me. another reason i didn't call sooner is that i wanted to finish your book, which i finally did last night.
+MAYA'S VOICE: i think it's really lovely, miles. you're so good with words. who cares if it's not getting published? there are so many beautiful and painful things about it. did you really go through all that? it must have been awfully hard. and the sister character -- what a wreck. but i have to say i was really confused by the ending. did the father finally commit suicide, or what? it's driving me crazy. and the title.
 

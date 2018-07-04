@@ -1,1062 +1,1062 @@
-speaker1: expectin' someone? 
-speaker2: i guess not. where's the stagecoach office?
-speaker1: back of the depot.
-
-speaker1: j. harolday proprietor 
-speaker2: heh-heh -- fooled you, didn't i? -- fooled myself, too.
-
-speaker1: howdy. 
-speaker2: that the stage for santa inez?
-speaker1: leaving any minute.
-speaker1: santa inez -- seventeen-fifty -- name?
-speaker2: rocklin.
-speaker2: mind if i ride alongside the driver?
-speaker1: it's all right with me -- if it's all right with dave -- he's mad -- his last trip -- had a row with harolday, the boss -- old-timer, dave -- an' a grumpy old cuss.
-speaker2: i like grumpy old cusses -- hope to live long enough to be one.
-speaker1: yeah?
-
-speaker1: here's your mail, dave -- 
-speaker2: -- and a passenger.
-speaker2: mind if i ride up here?
-speaker3: where's them wimmen?
-speaker1: up at the hotel.
-speaker3: why ain't they here? -- this is the stage depot, ain't it -- ? ain't it?
-speaker1: you can pick 'em up there -- it's only up the street --
-speaker3: on'y up the street -- an' they cain't walk it -- what's the matter -- don't easterners have laigs like other folks?
-speaker1: hold tight when you git in the mountains, mister -- when he gits riled you can hear the passengers prayin' for miles.
-
-speaker1: dave -- dave -- tell arly harolday her saddle ain't ready yet, will ya? 
-speaker2: i ain't tellin' that crazy female nothin' -- last time i seen her she threatened to rip the hide off'n me and bat me dizzy with it.
-speaker1: mister -- will you tell the agent at santa inez to tell miss harolday her saddle ain't ready yet?
-speaker3: i'll say that.
-
-speaker1: now don't drop it -- dave pauses to see who is talking. 
-speaker1: at your age you'd best not be lifting things so heavy.
-speaker2: mebbe you're young enough to hoist her up your own self.
-
-speaker1: well, i hope you have a nice trip, ladies. 
-speaker2: i hope we get there -- wouldn't surprise me if we didn't.
-speaker3: wait till i get you on the road, you old buzzard, you'll be surprised all right.
-
-speaker1: i wonder why a young feller who don't have to wants to come into this danged country? 
-speaker1: say -- did you mean what you said back there about wimmen?
-speaker2: every word of it.
-speaker1: then you're smarter than most.
-speaker2: maybe i seen more of 'em than most.
-speaker1: shouldn't be surprised. shouldn't be a leetle bit surprised. all the same...
-speaker2: all the same -- what?
-speaker1: take a slug.
-speaker1: whiskey and wimmen -- ever think how much alike they are? both fool you, but you never figger out how to do without 'em.
-speaker1: take another.
-speaker2: not just yet.
-speaker1: well... here's to her.
-speaker2: who?
-speaker1: the next one that fools you.
-
-speaker1: like me to speel you a while? 
-speaker2: nope. i've had a few snorts but that don't make no difference. leas'ways, never has... don't ever git wore out, and useless, like me.
-speaker1: who're them as say you are?
-speaker2: harolday, for one. oh, i ain't belly- aching. reckon he's entitled to his opinion. but him and me never did see eye to eye.
-speaker1: what's wrong?
-speaker2: it's constitootional, i reckon. like that step-daughter of his is crazy -- he's too sane. believes in law and order.
-speaker1: what's wrong with law and order?
-speaker2: depends on who's a-dishin' it out. never was good at takin' orders meself. as for the law -- well, you'll soon find out what that means 'round these parts.
-
-speaker1: driver? driver, what's the matter? 
-speaker2: nothin'. restin' hosses. git out and stretch yore laigs if you want.
-speaker1: resting horses? what for? i can see with my own eyes it's downhill.
-speaker2: you in such an all-fired hurry, lady?
-speaker1: certainly, we are in a hurry.
-
-speaker1: buenas noches, senor. 
-speaker2: buenas noches, amigo.
-speaker1: ha llegado anticipademente, senor.
-speaker2: tuvimos suerte en haber llegado.
-
-speaker1: we stop here. 
-speaker2: why do we stop here?
-speaker1: if you wanta eat and stretch yore laigs.
-speaker2: will you please stop referring to my legs!
-speaker1: you got some, ain't you?
-
-speaker1: dave! 
-speaker2: why, zeke, you two-legged old coot!
-
-speaker1: whar you been all these months? 
-speaker2: up in the hills workin' my way down the biggest hole you ever seed.
-speaker1: good -- what's at the bottom of it?
-speaker2: nothin'!
-speaker1: what, again!!
-
-speaker1: good evening, ladies. how about something to eat? 
-speaker2: well -- if it won't take too long.
-speaker1: this way, ladies.
-
-speaker1: yep -- this is my last trip. 
-speaker2: why?
-speaker1: old harolday won't take back what he said.
-speaker2: what'd he say?
-speaker1: "you're fired."
-
-speaker1: supper, dave? 
-speaker2: i'm drinkin' mine. set 'em up.
-
-speaker1: auntie -- 
-speaker2: with my dyspepsia? do you want to kill me?
-speaker1: aren't you going to have any supper?
-speaker3: reckon so.
-speaker2: young man, that driver's had all the liquor he can take.
-speaker3: has he?
-speaker2: you know he has. you're not a complete fool, are you?
-speaker3: frequently.
-
-speaker1: well, well -- smells like a mighty nice bit of veal. 
-speaker2: doin' yourself well these days, stan.
-speaker3: a friend of mine was by an' sold me a quarter of beef.
-speaker4: the same friend as sold you that hide bob, here, found stashed in your barn yesterday?
-speaker3: hide -- what hide?
-speaker2: the one that might send you to the penitentiary.
-speaker4: what did you do with it, stan?
-speaker3: i never had no hide stashed --
-speaker2: i saw it yesterday under the hay.
-speaker3: then it must still be there.
-speaker4: no it ain't -- we looked -- where is it?
-speaker3: i tell ya --
-speaker5: what is all this?
-speaker4: afternoon ma'am. miz caldwell ain't it?
-speaker5: no -- martin -- miss martin -- this is miss caldwell.
-speaker4: glad to know you, miss -- been expectin' you at santa inez. i'm sheriff jackson. any relation of red caldwell's a friend of mine.
-speaker5: what's going on with him?
-speaker4: just a little matter of the law.
-speaker2: rustlin'.
-speaker5: wrestling?
-speaker2: rustlin' -- cattle stealin'.
-speaker5: oh -- a thief --
-speaker3: i tell ya i never --
-speaker2: save it --
-speaker4: matter of fact -- bob, here, says that the hide he saw yesterday had the k.c. brand on it.
-speaker5: oh -- hmmm -- well, what do you intend doing about it?
-speaker2: law's pretty harsh 'round here on cattle thieves.
-speaker4: course, we don't want to make a mistake with an old-timer, but --
-speaker6: how about the owner of that beef -- mightn't he have somethin' to say about it?
-speaker4: meanin'?
-speaker6: red caldwell -- he's the owner of the k.c., ain't he?
-speaker2: you're 'way behind the herd, mister -- red caldwell died three weeks ago.
-speaker5: was murdered, you mean.
-speaker4: that's right -- shot in the back -- not far from here.
-speaker2: maybe he was gettin' on to things about the cattle that's been missin' from the k.c. lately.
-speaker3: i tell ya i ain't never had any hide --
-speaker2: well, you got beef --
-speaker3: yes -- an' i got a bill of sale fer it, too.
-speaker4: s'pose you let me see that bill of sale.
-speaker3: it's right out here.
-speaker4: like i said -- i wouldn't want to make a mistake with an ole-timer.
-
-speaker1: see that one? she ain't got no laigs. 
-speaker2: hold your tongue. and you -- stop staring as if we were monsters.
-speaker1: where's stan? we got to have another drink.
-speaker3: he's outside tryin' to explain away a hide.
-speaker1: eh?
-speaker3: seems we're eatin' stolen beef.
-speaker1: somebody's loco. stan might have given house-room to bit o' dead beef, but he'd never be fool enough to leave the hide lyin' around. how 'bout it, zeke?
-
-speaker1: that's the way it is, dave. 
-speaker2: oh -- it's you.
-speaker1: that's right -- your old pal bob clews.
-speaker2: git away from me -- you two-timin' horse thief.
-speaker2: hey, stan -- don't let 'em hang nothin' on you, you ain't done. they're just a couple of fourflushers -- the pair of 'em, everybody knows that.
-speaker3: crazy drunk.
-speaker2: mebbe i am drunk -- mebbe that's why i'm tellin' the truth -- i'm drunk an' i'll say what i think -- i'll say what i know. zeke, on the floor, takes up dave's belligerent mood for a flash.
-speaker4: so will -- i -- jackson goes to dave.
-speaker3: don't act up this ways, dave -- they's women watchin'.
-speaker2: git your hands off me --
-speaker1: what he needs is a short lay-down.
-speaker5: i'll lend a hand.
-speaker3: me an' bob'll look after him. we're his friends -- come on, bob. careful now -- don't hurt him.
-speaker5: how are things standin' now between you an' the law?
-speaker6: all right, i reckon -- i guess this bill of sale -- -- kinda winded him.
-speaker5: good thing you saved it.
-speaker7: what are you doing?
-speaker4: musta been dreamin' -- thought i was sittin' on a pot of gold.
-speaker6: there ain't no gold here.
-speaker4: there ain't even a pot.
-speaker5: how is he?
-speaker3: went to sleep soon's we laid him down. sorry to have a ruckus in front of you ladies. dave's an ornery old cuss when he gets goin' -- no shape to drive on, i'm afraid.
-speaker7: hmmm --
-speaker3: don't worry, ma'am. bob, here, 'll take you on in -- knows every inch of the road -- don't you?
-speaker1: you bet.
-speaker5: i'm drivin'.
-
-speaker1: but if anything was to happen to the ladies, i'd feel -- to blame. 
-speaker2: don't.
-speaker1: you ladies want he should drive?
-speaker3: i'll be more'n glad to accommodate you --
-speaker4: he's going with us anyway -- he may as well drive.
-speaker1: anything you say, ma'am.
-
-speaker1: did they do it? 
-speaker2: si, senor. they hit him with a pistola.
-speaker1: his friends, eh?
-
-speaker1: proprietor -- j. harolday 
-speaker2: what happened?
-speaker3: bumped his head.
-speaker2: where -- on iron mountain?
-speaker3: where's the best chance of a cheap room?
-speaker2: there's cap's place across the street -- the sun-up saloon.
-speaker3: i'll pick that up later.
-
-speaker1: this isn't the hotel. 
-speaker2: no'm, lady. hotel's up the street a piece.
-speaker1: are we expected to carry our bags at this time of night?
-speaker2: want to drive 'em on up?
-speaker3: nope. here -- catch aholt.
-
-speaker1: hey doc! 
-speaker2: customer --
-speaker3: take my hand, sammy.
-
-speaker1: what happened? 
-speaker2: bumped his head.
-speaker1: i see. looks like he's going to need a couple or so stitches. better get him upstairs.
-
-speaker1: he'll be all right in the morning. 
-speaker1: how about a snort?
-speaker2: don't mind if i do.
-
-speaker1: will he make it? 
-speaker2: sure he'll make it. can't kill off a salty old hairpin like dave that easy.
-speaker1: you're right. reckon saint peter must be gitten' mighty tired of dustin' off that doormat for him. by the way, how did you say it happened?
-speaker3: i didn't.
-speaker1: that's right; you didn't. reason i ask is, a couple fellers was in saying how dave was kickin' up a ruckus up at stan's place. sheriff jackson it was and one of the clewses.
-speaker2: oh!
-speaker1: tough customers, the clewses.
-speaker2: yeah -- don't pay to start something with 'em you don't intend to finish.
-speaker1: by the way, doc, they tell me george'll be out again. that's bob clews' brother. jest done a stretch in pen 'tentiary for horse stealin'.
-speaker3: they string 'em up for that where i come from.
-speaker2: pity they didn't string him up while they wore about it.
-speaker1: that's what arly harolday was sayin' only this mornin'. you ain't met our arly yet, i reckon?
-speaker2: he will, if he stays here long enough.
-speaker1: hell-fire in skirts.
-speaker2: well, here's now.
-
-speaker1: what did i tell you? they gotta be big to beat me! 
-speaker2: group at bar.
-speaker3: clint harolday's in luck tonight.
-speaker4: they're certainly running for him. about time, too. he's taken a beating this last week would shake a better man.
-
-speaker1: include me out. 
-speaker2: aw -- come on. can't you take it?
-speaker1: not that sort o' luck, i can't. besides, i on'y came in to oblige.
-speaker2: come on, doc. i still got to take something from you.
-speaker3: how about you, sir? care to sit in? i'm warnin' you, though -- our young friend here has been holding phenomenal cards.
-speaker3: fine! oh -- this is pap fossler; shorty davis; ab jenkins; mr. harolday, and my name's garvey -- judge garvey. i didn't get your name.
-speaker4: i didn't give it. deal.
-
-speaker1: raise you twenty. 
-speaker2: table stakes, clint.
-speaker1: not if he wants to dig.
-speaker3: no place for me.
-speaker2: cards?
-speaker4: one.
-speaker1: one for me.
-speaker4: don't you know that queen is dead?
-speaker1: i can take it if i want it.
-speaker4: sure -- if you want -- but you'll have to beat my hand with four cards.
-speaker5: i'm not settin' in.
-speaker3: why don't you split the pot?
-speaker1: i'm not splitting -- i'm betting!
-speaker1: are you calling?
-speaker4: no.
-speaker4: i'm raising.
-speaker4: dig.
-speaker1: let me have some money
-speaker2: you're in deep enough, clint.
-speaker1: i've called for all i've got. full house.
-speaker4: no good.
-
-speaker1: no man can run a bluff on me. 
-speaker2: he wasn't armed.
-speaker3: i don't like to tell men how to play cards unless i'm settin' in -- but i mebbe ought to have spoken up. that queen was dead, clint -- and you know it.
-speaker1: when anybody plays poker with me, they play my game or not at all.
-speaker3: you can't just go makin' your own rules, clint -- -- an' if i was you i'd hightail outa here before he comes back.
-speaker1: comes back?
-speaker3: he's the kind.
-
-speaker1: i've come for my money. 
-speaker1: by the way, judge -- the name is rocklin.
-
-speaker1: how you feelin'? 
-speaker2: after that singin'? -- thirsty.
-speaker1: how's your head?
-speaker2: oh -- a mite hungover -- but i'll feel better once i git downstairs.
-
-speaker1: i knocked, but guess you didn't hear me. 
-speaker2: what do you want?
-speaker1: looks like you stirred things up around here last night, stranger.
-speaker2: that all you came to say?
-speaker1: no. i got a message for you. from old man harolday. wants to see you out front.
-speaker2: what about?
-speaker1: maybe he wants to thank you for teaching that pup of his a lesson.
-speaker2: i'll be down.
-
-speaker1: what's goin' on here? 
-speaker2: arly harolday's on the warpath.
-
-speaker1: is your name rocklin? 
-speaker2: yes.
-speaker1: i want that money you took from my brother last night.
-speaker2: are you crazy? or just ignorant?
-speaker1: you took it at the point of a gun -- -- and i'm taking it back the same way!
-speaker3: of group at window of sun-up saloon.
-
-speaker1: turn around. 
-speaker2: arly. she raises her gun.
-
-speaker1: what happened? 
-speaker2: you lied to me, didn't you?
-
-speaker1: boy, oh boy, was that a near thing! she'd just as soon have hit you as missed. you don't know how lucky you were, son. 
-speaker2: don't i? why d'you think i need this?
-speaker3: funniest sight i ever seen.
-
-speaker1: you broke it! you broke it! 
-speaker2: try another trick like that on me and it'll be worse.
-speaker1: i never played you no trick. you broke my wrist.
-
-speaker1: where'll i find judge garvey? 
-speaker2: he rooms behind his office down the street. don't usually pull up the blinds till around noon, though.
-speaker1: he will this morning. see you later, old-timer...
-
-speaker1: i understand you were red caldwell's lawyer? 
-speaker2: i was.
-speaker1: know anything about this?
-
-speaker1: i don't understand. job? what job? 
-speaker2: foreman.
-speaker1: on the "k.c."? but -- but why should he want you?
-speaker2: why not? good foremen don't grow on bushes.
-speaker1: is that your only motive for coming here?
-speaker2: what other motive could i have?
-speaker1: i don't know -- it's just that red caldwell was a peculiar man -- had a funny way of doing things.
-speaker1: well, i'm sorry, mr. rocklin, that you've been brought all this way on a fool's errand, but -- i'm afraid the deal's off.
-speaker2: off?
-speaker1: i don't want to be too hard on you, but as executor of the estate i have to consider the interests of the new owner. how about, say, a hundred in full settlement?
-speaker2: well --
-speaker1: that's my last word -- think it over.
-speaker1: how do you do, ladies --
-speaker3: you are judge garvey, i presume.
-speaker1: yes -- and you are --
-speaker3: miss martin -- and my niece, clara caldwell.
-speaker1: of course -- of course --
-speaker1: you came at a very opportune moment, madam. this gentleman claims to have some sort of a letter from the late mr. caldwell, engaging him as foreman of the "k.c."
-speaker3: what!
-speaker2: what do you mean -- claims to have? -- you saw it, didn't you?
-speaker3: you can't hold us to account for every promise made by that man. everyone knows he wasn't responsible for his actions half the time. and if you think i'd have you as a foreman --
-speaker2: listen, lady -- i'd rather walk for somebody else, than ride for you.
-speaker3: well -- the impudence --
-speaker2: all i come for this morning was to pay beck the hundred and fifty red caldwell sent in advance.
-speaker4: oh, no they all turn and stare at her.
-speaker3: don't interfere, clara. of course he must pay it back.
-speaker2: the railway fare -- well, i reckon we can check that up against the time lost and call it quits.
-speaker4: but, mr. -- er -- i don't know your name...
-speaker2: rocklin, miss.
-speaker4: mr. rocklin, it isn't fair for you to pay anything back.
-speaker2: that's how i'd prefer it, if you don't mind, miss -- never did care fer owing favors to no one -- especially women.
-speaker4: oh!
-
-speaker1: i've just heard they let george clews out of penitentiary and that he's headed this way. you might tell him from me, if he sets foot on the santee ranch, i'll shoot him on sight. 
-speaker2: but really, miss arly, why should you deliver your message through me?
-speaker1: you have mutual friends.
-speaker2: if you're referring to sheriff jackson...
-speaker1: i am.
-speaker2: but that's absurd. the fact that he employs one of the clews brothers doesn't make the other his friend.
-speaker2: oh, miss caldwell, this is miss harolday -- miss martin, miss caldwell's aunt. you should know one another, seeing you'll be neighbors. miss harolday runs the santee ranch for her stepfather. she's a famous -- ah -- horsewoman in these parts.
-speaker3: i know. i saw you ride into town this morning. you looked lovely. just what i'd like to be.
-speaker1: yes?
-speaker3: oh, this is mr. rocklin. he drove us in from garden city last night. he...
-speaker4: i already met miss harolday.
-speaker3: oh.
-speaker1: i've a message for you -- from harolday.
-speaker4: what, again?
-speaker1: he wants you to come down to the office.
-speaker4: what for?
-speaker1: he's got a proposition to make -- about riding for him. sixty a month.
-speaker4: hmmm -- that's a foreman's wages.
-speaker1: i wouldn't offer you a red cent. but it's his money. and the way things are shaping, maybe we could do with somebody as mean as you around the ranch.
-speaker5: i warn you, you're making a great mistake. this man is no good.
-speaker3: auntie!
-speaker1: well? d'you want the job?
-
-speaker1: auntie, why did you have to say that? i simply don't understand you... 
-speaker2: but i understand you. i'd be ashamed of myself. throwing myself at a man like that.
-
-speaker1: you must excuse her. she's young. 
-speaker2: and inexperienced.
-speaker1: and young people must be protected from themselves at times -- don't you agree? miss martin throws him a quick look, which he returns steadily.
-speaker2: exactly.
-
-speaker1: does he always follow you? 
-speaker2: he's not following me -- he's with me -- he's always with me.
-speaker1: oh -- just an old indian friend.
-speaker2: the best friend i've got.
-
-speaker1: i've just hired a man named rocklin and said you made me do it. sixty dollars and he 'll earn it -- while he lasts. 
-speaker2: why did you do it, arly?
-speaker1: so i can fire him. i hate him. clint and he quarrelled last night. clint lied about it and i made a fool of myself. he's outside now.
-speaker2: all right. send him in.
-speaker1: come in.
-
-speaker1: mr. rocklin, what happened between you and my son last night? 
-speaker2: poker.
-speaker1: hmmm. about this suggestion of you working for me.
-speaker2: it's your suggestion, not mine.
-speaker1: ye-es. sixty dollars is big money.
-speaker2: if you've changed your mind...
-speaker1: no, no.... wait a minute. i take it you've had the experience.
-speaker2: enough for red caldwell to hire me as foreman.
-speaker1: oh -- had caldwell hired you?
-speaker2: yeah -- but i won't ride for the new owners -- so that leaves me open.
-speaker1: i see -- were you a friend of red's?
-speaker2: no -- i guess he just heard about me.
-
-speaker1: the street is clear. 
-speaker2: tell him i'll be out in the street in front of the saloon.
-speaker3: uh-huh!
-
-speaker1: i'm gonna get his ears. 
-speaker2: hi you, george clews -- george clews turns.
-speaker2: rocklin says if you don't come out, he'll come in here after you, an' tear you apart.
-speaker3: that was my beer, you know.
-speaker4: that does it, boys -- you know where the door is.
-speaker1: com-mon -- i'll get his ears.
-speaker4: not until i get my money --
-speaker4: there's three drinks and a broken beer glass.
-speaker1: pay 'im.
-speaker1: i'll get his ears.
-
-speaker1: that rocklin'll kill him for sure. 
-speaker2: le's hope.
-
-speaker1: hey, you! what's this you been up to? 
-speaker2: i just laid a gun barrel over the head of a drunk friend of yours -- same as you did over dave's here yesterday.
-speaker3: eh?
-speaker1: i don't know what you're talking about.
-speaker2: you're a liar!
-speaker1: now you lookee here, young feller. you go on talking that way and you'll find yourself in trouble.
-speaker1: don't say you ain't been warned.
-
-speaker1: i saw you. i saw you strike that poor man. 
-speaker2: yes, ma'am. as hard as i could.
-speaker1: you ruffian, you!
-speaker1: let me go!
-
-speaker1: -- now what was that you were sayin' about caldwell? 
-speaker2: you being hired by red caldwell only confirms what i'd suspected -- he was getting ready to fight.
-speaker1: fight? who?
-speaker2: organized rustling. well at least -- that's my belief. red was no friend of mine. too fond of taking the law into his own hands. but he had my sympathy. he'd been harder hit than any of us. and on top of it all, he lost his foreman.
-speaker1: you mean, he quit on him?
-speaker2: he was shot -- in the back -- with a bullet from the same caliber rifle as got red.
-speaker1: got any ideas?
-speaker2: no -- except that the man you just pistol-whipped is in on it somewhere. pity you didn't kill him when you had the chance.
-speaker1: say -- it don't sound as if it's goin' to be too easy for them wimmen at the k.c.
-speaker2: want to go back and work for them?
-speaker1: no, sir. and i ain't jumping at this offer o' yours either because i don't hold with working for wimmen.
-speaker2: oh, you mean my step-daughter. well don't worry. she won't interfere with you...rocklin -- i figure we've been losin' cattle over a place called table top -- it's the back way into the topaz ranch and the perfect route for rustlers -- i'm going to send you up to the line camp -- you don't mind working a lone hand -- do you?
-speaker1: -- i like workin' that way.
-speaker2: good -- be ready to move out this afternoon.
-
-speaker1: -- now pap -- i'm givin' you first call on me services. they's lots of other folks lookin' fer a good man, too -- you know. so if you want me, you better hurry and speak up because -- 
-speaker1: 'scuse me, pap -- be right back to find out when i start.
-
-speaker1: whar you off to? 
-speaker2: i'm riding for the topaz ranch.
-speaker1: what! -- have you gone plumb loco?
-speaker2: good money -- sixty a month
-speaker1: there ain't enough money in this town to make it worth your while to work for that gal.
-speaker1: when she gits goin' she can be meaner'n a skillet full o' snakes. she ain't goin' to forget the way you made a fool of her today -- in front of the whole town.
-speaker3: hey, dave.
-speaker1: be right with you.
-speaker3: hey, dave.
-speaker2: be right with you.
-
-speaker1: good afternoon, mr. rocklin. lovely day, isn't it? 
-speaker2: reckon it is pretty nice. so you're moving in on the "k.c." eh?
-speaker1: we-el, not exactly moving in. you see...
-
-speaker1: do you have to discuss our private affairs with every rag-tag-and-bobtail cow-person we meet, clara? 
-speaker2: auntie!
-speaker3: sorry if i butted in, ma'am. jest passing the time o'day.
-speaker1: we can do very well without it -- thank you. and you're keeping your lady friend waiting.
-
-speaker1: i thought maybe you'd changed your mind again. 
-speaker2: nope.
-
-speaker1: how far is the line-camp at table- top? 
-speaker2: twenty-five -- thirty mile.
-speaker1: i'm moving out there first thing in the morning. boss' orders. care to show me the way?
-speaker2: i will show you.
-
-speaker1: the trail is straight ahead. you will find the cabin at the top. adios, senor. 
-speaker1: senor, that is true. i do not like you.
-speaker2: why?
-speaker1: it is not your fault that your shadow is black. but you will only bring unhappiness to my senorita. i do not blame you, but i fear i must hate you.
-speaker1: adios, senor.
-
-speaker1: hiya there. 
-speaker2: buenos dias, senor dave. you have found new employer, eh?
-speaker1: yeah. haulin' freight for ole pap fossler. got a letter here for that crazy galoot, rocklin. from the little caldwell girl. seems mighty took up about sumpin'. made me promise to deliver it personal.
-speaker2: but senor rocklin is not here.
-speaker1: lordy -- he ain't quit already...
-speaker2: i have just accompany him to table- top.
-
-speaker1: have you seen arly? 
-speaker2: no, suh, ah didn't see miss arly today, but ah seed her las' night, and she shore was mad.
-speaker2: plenty mad!
-
-speaker1: 'mornin', arly -- arly is coming toward clint. 
-speaker2: 'mornin', clint.
-speaker1: you must be feeling pretty good.
-
-speaker1: say, arly -- about that poker game, night before last, i --- 
-speaker2: forget it.
-speaker1: forget it?
-
-speaker1: well -- 
-speaker2: what is this? --
-speaker1: what do you mean?
-speaker2: what do i mean? --
-speaker3: good morning, arliete.
-
-speaker1: good morning, tala. 
-speaker2: you have make yourself very pretty today.
-speaker3: see what i mean?
-speaker1: have my horse saddled and sent around right away -- will you? you can have that rocklin bring it.
-speaker1: what's the matter?
-speaker2: rocklin is not here.
-speaker1: he quit?
-speaker2: he has gone to the line camp at table top.
-speaker1: what?
-speaker2: it was mr. harolday's orders.
-speaker2: why do you make your heart heavy with thoughts of him, little one. -- he is not for you.
-speaker1: be quiet.
-speaker2: he has made the choice, arliete. with your own eyes you saw it yesterday.
-speaker1: oh --
-speaker2: and she, too, has opened her heart to him -- already she has summoned him to her.
-speaker1: what do you mean?
-speaker2: dave -- of the white beard -- carries a letter to rocklin -- it is from her.
-speaker1: how do you know that?
-speaker2: i have just now met dave, and he tell me. -- so now he rides to table top.
-speaker2: little one you --
-speaker1: oh, leave me alone.
-
-speaker1: looks like we're going to get that land we've been wanting along the river bottom. 
-speaker1: i didn't tell you -- but i bought the mortgage on the hardman ranch, and it's due today -- on my way over there now.
-speaker2: did you send that rocklin to table- top?
-speaker1: i did.
-speaker2: well, let's get things straight. this place was my mother's -- now it's mine and clint's -- it's true you've been helping out -- but the way things are going we'll soon be able to pay you back every penny we owe. meanwhile, i'm running this outfit and i expect to give the orders.
-speaker1: you generally do.
-speaker2: why did you send rocklin up to table- top?
-speaker1: it seemed to me a good idea -- what with all this rustling going on --
-speaker2: who'd ever try driving cattle over table-top? -- unless they were crazy.
-speaker1: i don't agree with you. in any case -- if you must have it -- i'd no intention of engaging a man at foreman's wages just to gratify the whims of a jealous woman!
-speaker2: you take care what you're saying.
-speaker1: it's you should take care, my dear. i'm afraid there's one man you can't rawhide into jumping the way you want. you've made a fool of yourself over him once. better watch out you don't do it again.
-
-speaker1: funny -- that storm quittin' just about the time i get here. 
-speaker2: no funnier than you sloggin' through it, just to deliver a letter from a woman.
-speaker1: when are we gonna get around to readin' it?
-speaker2: thought i'd wait till mornin' -- might be bad news an' i wouldn't be able to sleep.
-speaker1: mmmm -- dineroo.
-speaker3: forgive me if this letter is a trifle incoherent, but i am terribly worried and unhappy.
-
-speaker1: who wouldn't be -- livin' with that ole screech owl. 
-speaker2: i am desperately in need of help and advice from someone whom i feel i can trust, and i am appealing to you, because i regard you in the same way my uncle surely must have. i heartily dislike and distrust judge garvey --
-speaker1: huh -- smart girl --
-speaker2: but my aunt seems to have suddenly revised her opinion of him, and now wants me to place all my affairs in the judge's hands and return east. such is certainly not my wish.
-speaker1: looks kinda like she's formed an attachment.
-speaker1: for the locality, i mean.
-speaker2: i wanted so much to give ranch life a trial, but fear circumstances are against me, especially in view of the recent indian trouble --
-speaker1: indian trouble -- good lord, they ain't been any indian trouble around here in --
-speaker2: you want to hear the rest of this?
-speaker1: might's well -- come this far.
-speaker1: well -- what do you make of it?
-speaker2: somebody's sure bustin' to get her out of there.
-speaker1: indian trouble --
-speaker2: wonder why the old lady's playin' along?
-speaker1: baaa -- wimmen -- who can ever figure 'em? got to admit though, i feel a mite sorry for the young'un -- nice little tyke.
-speaker2: too nice for this country.
-speaker1: she's shore a pretty thing.
-speaker2: don't know how i could help her -- even if i wanted to -- i don't know any thing about this garvey -- or caldwell -- or --
-speaker1: well, now -- i could mebbe help you out some, there -- fact, i could tell you somethin' 'bout ole red that might be interestin'.
-speaker2: you must have known him pretty well -- what kind of a man was he?
-speaker1: caldwell? -- the best -- cantankerous cuss -- but a real cowman, believe me -- he was a big feller, like yourself -- fact, you coulda passed fer a blood relation, come to think of it.
-speaker2: was the judge and red friends?
-speaker1: that's what you'd say. garvey managed all red's business. besides which they was regular drinkin' pals -- played poker together most nights -- tho' they do say red got the worst of it.
-speaker2: red was a gambler, eh?
-speaker1: oh, yeah -- reckon a pretty poor one, tho' -- still you'd say him and garvey was friends.
-speaker2: anything ever happen to make you think they weren't?
-speaker1: rock -- i'm gonna tell you somethin' i ain't never told anybody.
-speaker2: think you can trust me?
-speaker1: the last time i seen red was the day he died -- in the pause rocklin remains silent.
-speaker1: -- 'twas in town -- he jus' come out of the stage office. tried to book passage to garden city but couldn't on account i had a full load. -- well, sir, he took me aside and give me a printed sheet of paper and says, "read it." i looked it over and fer as i could see it was a paper from one of them chicago sportin' firms, tellin' how to manipulate trick playin' cards.
-speaker2: marked cards.
-speaker1: reckon so. -- seems red found some cards and this paper in a coat one of his friends loaned him one night.
-speaker2: whose was it?
-speaker1: well, now that's just what i asked -- but all he said, was that it belonged to a good friend. then he said he wasn't waitin' fer the next coach, but was ridin' over to see the district judge about it alone.
-speaker2: that's when they got him.
-speaker1: yes, sir -- 'bout a mile or so from stan's place. a bullet in the back an' his pockets empty.
-speaker2: how come you never told this before?
-speaker1: who was there to tell? -- sheriff jackson? -- him an' garvey's thick as thieves.
-speaker2: how about what's his name -- harolday? -- he's no friend of the judge's, is he?
-speaker1: hates his guts -- sure riles him to see young clint hangin' onto the judge's coattails. all the same, i jus' decided to keep my mouth shut and my eyes open.
-speaker2: even if it was garvey red was talkin' about -- it don't follow that he killed him.
-speaker1: no -- general opinion is that it was rustlers.
-speaker2: why would rustlers take the evidence caldwell had with him?
-speaker1: looks to me if you get the man who owned the marked cards, you get the killer.
-speaker2: funny tho' -- first the k.c. foreman -- then caldwell -- an' now these women.
-speaker1: lordy -- you ain't thinkin' somebody might try bumpin' them?
-speaker2: i'm not so sure somebody hasn't tried already -- remember, when we stopped to change horses on the way over from garden city --
-speaker1: shore -- you told me how jackson and clews tried to frame stan.
-speaker2: yeah. like they wanted to be sure he'd keep his mouth shut about something. dave sits down on a box sitting against the wall, directly under the large earthen jug of water.
-speaker1: and layin' that gun across my skull -- an' offerin' to drive the coach themselves.
-
-speaker1: you all right? 
-speaker2: will be if i ever get dry.
-speaker1: lookit that --
-speaker2: good lord --
-speaker1: come on --
-
-speaker1: my team. 
-speaker2: that's not your team.
-
-speaker1: come on -- 
-speaker2: no use -- he's gone.
-speaker1: mebbe we winged him.
-
-speaker1: not bad shootin'. 
-speaker2: you think i did that?
-speaker1: sure -- to draw us away from here. you know, you cut it mighty close -- good thing i ain't got brains enough to fill it.
-speaker1: too bad you had to come 'way up here through that storm for nothin'.
-speaker2: i haven't minded a bit -- -- because i came up to fire you.
-speaker1: oh -- i see.
-speaker2: get out of here -- get off the santee and don't ever come back.
-speaker1: mind if i wait for dave? he ought to be along any minute -- be funny if he winged that shadow of yours.
-speaker2: if you mean juan -- you're loco. he's not even up here.
-speaker1: you came up alone?
-speaker2: yes.
-speaker1: then who was that we took out after?
-speaker2: the man who shot at you.
-speaker1: who was he?
-speaker2: i don't know.
-speaker1: you mean you won't tell.
-speaker2: i mean i don't know -- why should i lie to you?
-speaker1: i guess you forgot -- you jes' fired me.
-speaker1: so long.
-speaker3: hey, rock --
-speaker4: -- he got away -- but guess what, i -- he sees arly and pulls up abruptly.
-speaker1: you guess --
-speaker1: come on.
-
-speaker1: you work for harolday? 
-speaker1: here's one of his horses -- i'll pick up my saddle later.
-
-speaker1: howdy... 
-speaker2: i thought i sent you up to table- top.
-speaker1: that's right.
-speaker2: what happened?
-speaker1: well, this, for one thing.
-speaker2: i told you you'd regret letting that rat clews off so easy.
-speaker2: what's the matter? don't you think it was him, then?
-speaker1: i been figgerin'. don't seem reasonable clews was in condition to take that sort of chance alone... besides -- how could he have known i was up there -- that soon. and -- george clews ain't the only one i've run contrariwise to in this town. there's that mexican, for instance.
-speaker2: juan?
-speaker1: he as good as told me yesterday that him and me was due for a run-in one of those days. and then there's him!
-
-speaker1: i just heard that -- that rocklin was -- 
-speaker2: was what?
-speaker1: was shot at last night.
-speaker3: mr. rocklin was just telling me all about it. any idea who might have done it? clint looks quickly at harolday and back at rocklin with frightened eyes.
-speaker1: not me.
-speaker1: you ain't trying to pin it on me? 'cause if you are, you're in for a big disappointment. i was over at the sun-up playing poker with the judge and the rest of the boys till early morning. if you don't believe me, ask for yourself.
-speaker2: all right. i believe you. but that don't mean you couldn't tell a thing or two as would help -- if you wanted.
-speaker1: what d'you mean?
-speaker3: yes. what sort of thing would clint here know about, that would help identify the man who tried to kill you last night?
-speaker2: this for one.
-speaker2: ever seen it before?
-speaker4: clint as he stares wide-eyed at the pouch.
-
-speaker1: well, go on -- speak up. did you ever see it before? 
-speaker2: no. course i didn't quit riding me! i don't know nothin' about it i tell you. jest because i had a run-in with you over a game o' cards, that don't mean i'd sneak up on you in the dark and...
-
-speaker1: he means trouble. 
-speaker2: aw, what do i care.
-speaker1: listen, i never did have much use for you. you're a poor specimen at the best; but as a would-be bad man you're nothing but a laughing stock. why, the way you lied about that pouch just now wouldn't have deceived a six-year old.
-
-speaker1: i'm so glad i've found you -- i was on my way to the santee and learned you were in town. 
-speaker2: just got in.
-speaker1: i feel perfectly awful, running after you like this, but --
-speaker2: you got trouble, eh?
-speaker1: my aunt found out i wrote you and made a terrible scene --
-speaker2: you haven't signed everything over to that garvey, have you?
-speaker1: no -- and because i refused, auntie said she would sign an affidavit that i'm still underage, and then, as my guardian she can do what she likes.
-speaker2: got anything to prove you're not underage?
-speaker1: no -- but mr. garvey has a letter that would prove it. my aunt wrote it before we came out here.
-speaker2: s'pose we could get it?
-speaker1: he'd never give it to me.
-speaker2: wait here.
-speaker1: oh, please -- you -- you won't go getting yourself in trouble -- i -- i'd rather give up everything -- i mean --
-
-speaker1: that takes care of that -- now, i'll draw up an affidavit right away and everything will be taken care of as we want it. 
-speaker2: i certainly hope so -- it's not myself i'm concerned about --
-speaker1: -- of course not.
-speaker2: i can't say i'm very happy about doing this -- i only hope it works out for the best.
-speaker1: it's the better choice of two evils -- now let's see -- i, elizabeth -- it is elizabeth, isn't it?
-speaker2: yes --
-speaker1: -- elizabeth martin, of danvers, massachusetts, do hereby --
-speaker1: well, mr. rocklin, this is indeed a surprise. didn't expect to see you so soon. i understood you were riding for the santee.
-speaker3: that's right.
-
-speaker1: i came for that letter. 
-speaker2: did you say letter?
-speaker3: that's right -- the one miss caldwell's aunt wrote from out east sayin' she was of age. remember?
-speaker2: no -- i'm afraid i don't.
-
-speaker1: what is your interest in this letter? 
-speaker2: my only interest is getting' it.
-speaker1: you realize what this is, don't you? -- robbing -- armed robbery at that. rocklin pulls open the "m" drawer.
-speaker1: i warn you, you're in for a disappointment.
-speaker2: open up.
-speaker1: listens, you -- there's nothing in there that'd interest you.
-speaker2: i'd like to make up my own mind about that.
-speaker1: what's the idea?
-speaker2: these cards --
-speaker1: anything wrong in a man having cards in his possession?
-speaker2: depends on what kind they are -- 'specially when they're under lock and key.
-speaker1: you're taking those, i presume.
-speaker2: that's right.
-speaker1: now, you look here --
-speaker2: you're the one who better start lookin' -- lookin' for a way out for killin' red caldwell.
-speaker1: caldwell --
-speaker2: he found out about these -- and you went and killed him.
-speaker1: and you believe a story like that?
-speaker2: i will until i hear a better one. i'll just take this along -- the district judge at garden city should be mighty interested.
-
-speaker1: say -- looks like you two been disagreein' 'bout somethin' -- he ain't daid, is he? 
-speaker2: not permanently, i don't reckon. -- what happened, anyways?
-speaker1: you musta found out somethin'.
-speaker2: i reckon the judge did, too.
-speaker3: oh, dear -- dear -- are you hurt?
-speaker4: get out of my way --
-
-speaker1: -- find out who owns that tobaccy pouch yet? 
-speaker2: no -- but get hold of clint harolday.
-speaker1: clint -- is he in on it?
-speaker2: can't say for sure -- bring him to the sun-up, and don't take no for an answer.
-
-speaker1: did you get it? 
-speaker2: no -- but i don't think it's gonna matter much -- you go on back to the k.c. and i'll be out in the mornin' and take you with me to garden city to see the district judge.
-speaker1: but i hate putting you to that trouble.
-speaker2: no trouble at all -- i'm going anyway.
-speaker3: you look like you've been fighting.
-speaker2: what are you doin' here?
-speaker3: i was just telling miss caldwell about -- well -- you and me.
-speaker2: what about, you an' me?
-speaker1: i think i'd better be going...
-speaker2: just a minute -- what all has she been tellin' you?
-speaker1: oh -- oh, really i'd rather not --
-speaker3: go ahead, tell him -- -- and i dare him to deny it.
-speaker2: deny what?
-speaker1: that she was with you last night at the cabin in the mountains.
-speaker2: well -- why should i deny it?...
-speaker3: and didn't you make love to me?
-speaker2: make love to you --
-speaker3: you didn't kiss me -- i suppose?
-speaker2: did you expect me to deny that, too?
-speaker3: you see?
-speaker1: please -- you needn't explain. after all, it really isn't any of my business, is it?
-speaker2: you little --
-speaker3: that's it -- start swearin'-- just like a man.
-speaker2: if there wasn't a lady here, i'd do more to you than swear.
-speaker1: i don't know how i can ever thank you for trying to help me. i do appreciate it ever so much -- don't think too harshly of me, will you -- i --
-speaker3: she's lovely, isn't she? -- so sweet -- honest, and helpless.
-speaker3: pity you didn't fall in love with her, instead of me.
-speaker2: you might's well know right now that you or no woman is ever goin' to get me.
-speaker3: don't be so sure -- i don't think i'm doin' so badly.
-speaker2: don't you?
-speaker3: don't you know?
-speaker2: i know there ain't a dirty trick you wouldn't play to get what you want.
-speaker3: i always get what i want.
-speaker3: -- see? -- 'bye now --
-
-speaker1: whatever is to become of you? 
-speaker1: have you no sense of pride, or decency? throwing yourself at that -- that wretch, like any shameless hussy.
-speaker1: i thought we'd done with him -- but no -- you have to run to him and tell him all our business --
-speaker1: don't you dare deny it -- you know very well you told him about that letter i wrote mr. garvey.
-speaker1: didn't you? --
-speaker1: didn't you?
-
-speaker1: tell miss martin that i'll take care of everything. 
-speaker2: -- you take clare of evelything.
-
-speaker1: come in -- 
-speaker2: here he is, rock. caught him jist in time near the santee. headed fer out, i'd say.
-speaker1: sit down, clint. how about goin' down below an' havin' one on me?
-speaker2: well, now -- that's right thoughtful -- holler if you need me.
-speaker3: what's this all about?
-speaker1: it ain't gonna do you any good to get all het up and tough, kid --
-speaker1: i just want to ask you a few questions -- that's all.
-
-speaker1: i told you once, i don't know who owns that pouch-- and i don't know who shot you. 
-speaker2: forget it -- that's not what i want to talk to you about, anyway.
-speaker1: well, what do you want to talk about? come on, get it over with.
-
-speaker1: clint -- i want you to tell me why garvey murdered red caldwell -- 
-speaker1: you know -- don't you?
-speaker2: me? no!
-speaker1: oh yes you do. and you're going to tell me all about it.
-speaker2: i don't know nothing, i tell you --
-
-speaker1: talk! 
-speaker2: i tell ya, i...
-speaker1: talk!
-
-speaker1: what happened? who is it? clint harolday -- etc. 
-speaker2: where's doc riding?
-speaker1: get the doc. hey, doc -- he was down below. here he is.
-speaker3: here i am --
-speaker1: look out, men -- let the doc through. etc.
-speaker4: somebody better fetch harolday.
-speaker5: shorty's already gone for him.
-speaker2: better get arly, too.
-speaker6: she was at the hotel a while ago.
-speaker2: he was only a kid.
-
-speaker1: what's goin' on here -- gang way -- 
-speaker2: what's the trouble here --
-speaker2: i warned you, didn't i? -- well, i guess this is the last trouble you'll ever make in this town. hand over that gun.
-speaker3: just a minute, now --
-speaker3: i know it looks bad -- but i didn't kill the kid.
-speaker4: i believe you. his gun was layin' over there on the floor when i come in and --
-speaker3: no it wasn't -- it was right in my hand -- like it is now.
-speaker2: if you didn't know him -- then who did?
-speaker3: i don't know -- but i'm going to find out.
-
-speaker1: you murderer. 
-speaker2: i didn't do it, mr. harolday.
-speaker1: then who did?
-speaker3: he had a gun in his hand when we come in.
-speaker4: and i'll bet it's the same one the bullet that killed clint came out of.
-speaker1: well, what do you say to that?
-speaker2: he's right.
-speaker4: you admit it.
-speaker2: yeah -- but that still don't say i killed him.
-speaker5: aw, take him away -- liar -- lock him up, sheriff -- the yellow-bellied -- etc.
-
-speaker1: why did you do it? 
-speaker2: with rocklin in f.g.
-speaker3: i didn't.
-speaker4: he admits it was his gun that shot him.
-speaker1: but you didn't fire it.
-speaker3: that's right.
-speaker1: what happened?
-speaker3: clint and me was having a bit of an argument.
-speaker1: what about?
-speaker3: about whether he was going to help clear up a few things that's been bothering me and some others 'round these parts. for instance -- who it was shot red caldwell.
-speaker5: caldwell!
-speaker3: and the k.c. foreman. and who took that shot at me up at table-top last night. and why certain people are so anxious to get rid of the caldwell girl.
-speaker6: how would clint know about all that?
-speaker7: he's lying. he's trying to cover up for killing my boy.
-speaker5: quit stalling, rocklin.
-speaker1: wait a minute -- he's get a right to be heard. well, we're listenin'.
-speaker3: well -- clint was getting' all set to talk, when -- somebody snuck up along the verandah there and pulled the gun out o' my belt... ... and let him have it.
-speaker8: what a story! what an alibi! string him up, the heel! etc.
-speaker5: you'll have to think up something better than that rocklin.
-speaker2: with garvey in f.g.
-speaker4: don't be a fool, rocklin. you know you can't get away with a yarn like that. why don't you save yourself and everyone else a lot of trouble by surrendering to the sheriff? after all, it isn't such a crime in these parts to kill a man in self-defense.
-speaker3: self-defense?
-speaker4: everyone knows what clint was like. he probably lost his head and pulled a gun on you, like he did at the sun- up that night. wasn't that it?
-speaker3: no, that wasn't it. and till i do what i got to do, i ain't surrenderin' to anybody -- least of all to your pal here. if i got to be shot for knowing too much, it ain't going to be in the back, in a framed-up jail-break.
-
-speaker1: but if someone's trying to kill you, why didn't they do it just now? why did they have to kill clint? 
-speaker2: rocklin.
-speaker3: guess they wanted to get clint, too. doin' it this way they get us both. clint first -- an' me afterwards -- like i jus' said.
-
-speaker1: quit fancy talk. who's "they?" 
-speaker2: i might be able to tell you that later.
-speaker3: no you won't -- because you're comin' with me.
-speaker2: am i?
-speaker2: the first one that moves -- gets it.
-
-speaker1: well, sheriff -- you certainly are to be congratulated. 
-speaker2: look, mr. harolday -- you saw what happened --
-speaker3: never mind that -- let's get going for garden city -- that's where he's headed for.
-speaker1: you sure?
-speaker3: i'm positive.
-
-speaker1: where do you think he's gone? 
-speaker2: all right, men -- follow me --
-
-speaker1: i mighta knowed you'd do somethin' like this. what are we doin'? 
-speaker2: headin' for the k.c.
-
-speaker1: now -- what is it? 
-speaker2: the name's clews, ma'am -- mr. garvey sent us out --
-speaker3: said you were expectin' trouble with that rocklin.
-speaker1: i am. -- but i'm wondering if you're up to it. i noticed you didn't fare so well with him yesterday.
-speaker3: he was drunk --
-speaker2: yeah -- but i'm sober now.
-speaker1: well, see that you stay that way.
-speaker2: don't worry, ma'am -- i've jus' bin waitin' to get even with that saddle- bum.
-speaker3: we'll be close-by.
-speaker2: you bet.
-
-speaker1: seen anybody ridin' hard for garden city. 
-speaker2: bin on the road since sundown -- ain't seen a livin' soul -- be he man or beast.
-speaker1: he mighta taken the cutoff through jaw bone canyon.
-speaker3: after that storm? -- he'd never make it.
-speaker4: there's only one other place he might have gone -- the k.c.
-speaker1: you think so?
-speaker4: i'm positive.
-speaker3: that's what you said before.
-speaker1: to the k.c., men.
-speaker5: arly watches the posse, then turns to juan.
-speaker6: take me through the canyon.
-speaker7: it is dangerous, senorita.
-speaker6: but if we get through we'll beat them to the k.c.
-speaker7: you would risk your life for senor rocklin?
-
-speaker1: afraid? 
-speaker2: only for you -- you must not do this -- i will go through from here alone.
-speaker1: no, -- we're going through together.
-
-speaker1: you can ease up now. 
-speaker2: we're just about there.
-
-speaker1: you vile, ungrateful strumpet -- running away in the night, like a deceitful sneak-thief -- 
-speaker2: yes -- i'm running away -- and it's all your fault -- you're the one who's been deceitful and sneaking -- and don't think i don't know what you intend doing.
-speaker1: -- and don't think i don't know what you intend doing.
-speaker2: i don't care -- i'm not ashamed of it -- and nothing you can say or do is going to stop me.
-speaker1: you little fool -- if you go to garden city with that man -- you stand to lose everything.
-speaker2: but why? -- why are you being so secretive? -- if you know something, why don't you tell me?
-
-speaker1: rocklin turned up unexpectedly -- 
-speaker2: and you and mr. garvey knew the truth all the time?
-speaker1: yes.
-speaker3: -- and you knew the truth all the time, too -- didn't you? -- no wonder you stuck around --
-
-speaker1: you are crying, senorita --? 
-speaker2: no.
-speaker1: it is too bad we lose your horse. she was good horse, for sure.
-speaker2: if only we make it in time.
-speaker3: -- and i heard one of them tell my aunt not to worry, that he was just as anxious as she was to get even with you.
-speaker4: this is the only way i could handle her.
-speaker5: the clews are around here some place -- garvey sent 'em out.
-
-speaker1: you bet we're around. 
-speaker1: untie her.
-speaker2: untie her.
-
-speaker1: now tie him up. 
-speaker2: i'll take part in this -- you -- you hairy beast.
-
-speaker1: what'll we do with 'em? 
-speaker2: take them in to mr. garvey and tell him i must see him at once.
-speaker3: we'll dump them right in the judge's lap.
-speaker2: hadn't you better tie him, too?
-speaker1: get some more rope.
-
-speaker1: what are you doin' with that gun, arly? 
-speaker2: arly.
-speaker3: get down from there before i show you.
-speaker4: now listen, arly -- this ain't your wagon --
-speaker5: neither is it yours -- get down out of there -- before i knock you down.
-
-speaker1: -- and they're headed this way and should get here any minute -- 
-speaker1: where'd you get this?
-speaker2: that belongs to the man who shot at me on table-top -- dave found it.
-
-speaker1: come on -- let's git goin' -- 
-speaker2: where's the girl?
-speaker1: back at the house --
-speaker2: we've got to get her.
-speaker3: you haven't time -- they're coming -- don't you believe me? --
-speaker2: come on --
-speaker1: stubborn as an ole mule. you're puttin' a rope around your neck -- dave runs after rocklin.
-
-speaker1: but what'll we do with the ole lady? 
-speaker2: anything you like.
-speaker1: i'd like to pizen her.
-
-speaker1: evenin' ma'am -- hate to bother you like this, but -- 
-speaker2: i'm so glad you've come, mr. garvey, the most awful -- -- why -- what are all these people doing here?
-speaker3: we're after rocklin -- has he been here?
-speaker2: oh yes -- here and gone.
-speaker1: what!
-speaker3: gone --
-speaker2: yes -- the two men you sent out are taking him and that horrid old man back to town.
-speaker3: the clewses -- funny we didn't see them.
-speaker1: somethin' musta gone wrong -- we better fan out and see what's goin' on.
-speaker3: but, madam --
-speaker2: it's very important.
-speaker4: we'll go on and meet you in town.
-speaker3: perhaps you'd better. i'll meet you in town, jackson.
-speaker5: right -- come on, men.
-
-speaker1: -- and you're positive he knows everything? 
-speaker2: absolutely everything -- he was standing at the window all the time -- the scoundrel.
-
-speaker1: if you were to ask me, i think the best thing to do is -- garvey stops and glares. 
-speaker2: i'm not asking you -- and don't bother me with your silly questions -- we've got to do something besides talk.
-speaker1: you mean -- you have to do something.
-speaker1: -- this was all your idea, remember.
-speaker2: my idea -- that's all you know about it.
-speaker3: it is open and rocklin stands there looking o.s.
-speaker4: if there's anybody else in on it -- speak up, judge.
-
-speaker1: talk. 
-speaker2: of dave.
-speaker3: not you.
-speaker4: miss martin. her mouth snaps shut like a trap.
-
-speaker1: ever see that before? 
-speaker2: no -- it's not mine.
-speaker1: tell me whose it is.
-speaker2: no -- no -- i don't know --
-
-speaker1: there is no one in evidence. 
-speaker2: drop that gun.
-
-speaker1: you seem to like to do business through windows, mr. harolday. 
-speaker1: you're not clint's killer, by any chance --
-speaker2: by one bad chance -- juan saw you do it.
-speaker1: well, now we're gettin' some place --
-speaker2: that pouch is his -- juan made it for him a long time ago. didn't you? juan nods.
-
-speaker1: -- harolday wanted the k.c. like he wanted the santee and the hardman place, for his land scheme -- he planned on breaking up the ranches into small holdings and selling to dirt farmers. he pretended to be on the outs with me so i could get caldwell's confidence. and when red caught me with the crooked cards and threatened to expose me -- harolday shot him. 
-speaker2: why did he kill clint? an' not me?
-speaker1: that shot was an accident -- it was meant for you. we planned on getting the women to let me handle their business --
-speaker3: -- and do us out of everything -- you vile -- wicked -- despicable --
-
-speaker1: when he wakes up -- we'll have him put everything on paper. 
-speaker2: well, you'll have to do the writin' -- 'cause i don't know how to write.
-
-speaker1: oh, mr. rocklin -- please -- i think auntie is out of her mind -- she's in her room -- laughing. 
-speaker2: what that ole pelican needs is a good spankin'.
-speaker3: and i'll bet you're just the one who can do it.
-speaker2: yeah -- i believe i am. i know i am.
-speaker4: i guess there's no rush for you to get to garden city, now --
-speaker1: no -- i don't suppose there's any -- rush --
-speaker1: if i was like her, i'd stay in the west.
-speaker4: that means you're goin' back east -- cousin clara?
-speaker1: it's where i belong -- i know that now --
-speaker4: it's good to know where you belong, i reckon -- wish i knew.
-
-speaker1: thanks. 
-speaker2: for what?
-speaker1: everything.
-speaker2: beautiful day.
-speaker1: it didn't start out so beautiful.
-speaker2: that's true of lots of things.
-speaker1: fer instance?
-speaker2: well -- you and -- me.
+STATION AGENT: expectin' someone? 
+ROCKLIN: i guess not. where's the stagecoach office?
+STATION AGENT: back of the depot.
+
+RED ROCK STAGE: j. harolday proprietor 
+DAVE: heh-heh -- fooled you, didn't i? -- fooled myself, too.
+
+STAGE AGENT: howdy. 
+ROCKLIN: that the stage for santa inez?
+STAGE AGENT: leaving any minute.
+STAGE AGENT: santa inez -- seventeen-fifty -- name?
+ROCKLIN: rocklin.
+ROCKLIN: mind if i ride alongside the driver?
+STAGE AGENT: it's all right with me -- if it's all right with dave -- he's mad -- his last trip -- had a row with harolday, the boss -- old-timer, dave -- an' a grumpy old cuss.
+ROCKLIN: i like grumpy old cusses -- hope to live long enough to be one.
+STAGE AGENT: yeah?
+
+STAGE AGENT: here's your mail, dave -- 
+ROCKLIN: -- and a passenger.
+ROCKLIN: mind if i ride up here?
+DAVE: where's them wimmen?
+STAGE AGENT: up at the hotel.
+DAVE: why ain't they here? -- this is the stage depot, ain't it -- ? ain't it?
+STAGE AGENT: you can pick 'em up there -- it's only up the street --
+DAVE: on'y up the street -- an' they cain't walk it -- what's the matter -- don't easterners have laigs like other folks?
+STAGE AGENT: hold tight when you git in the mountains, mister -- when he gits riled you can hear the passengers prayin' for miles.
+
+SADDLER: dave -- dave -- tell arly harolday her saddle ain't ready yet, will ya? 
+DAVE: i ain't tellin' that crazy female nothin' -- last time i seen her she threatened to rip the hide off'n me and bat me dizzy with it.
+SADDLER: mister -- will you tell the agent at santa inez to tell miss harolday her saddle ain't ready yet?
+ROCKLIN: i'll say that.
+
+MISS MARTIN: now don't drop it -- dave pauses to see who is talking. 
+MISS MARTIN: at your age you'd best not be lifting things so heavy.
+DAVE: mebbe you're young enough to hoist her up your own self.
+
+CLERK: well, i hope you have a nice trip, ladies. 
+MISS MARTIN: i hope we get there -- wouldn't surprise me if we didn't.
+DAVE: wait till i get you on the road, you old buzzard, you'll be surprised all right.
+
+DAVE: i wonder why a young feller who don't have to wants to come into this danged country? 
+DAVE: say -- did you mean what you said back there about wimmen?
+ROCKLIN: every word of it.
+DAVE: then you're smarter than most.
+ROCKLIN: maybe i seen more of 'em than most.
+DAVE: shouldn't be surprised. shouldn't be a leetle bit surprised. all the same...
+ROCKLIN: all the same -- what?
+DAVE: take a slug.
+DAVE: whiskey and wimmen -- ever think how much alike they are? both fool you, but you never figger out how to do without 'em.
+DAVE: take another.
+ROCKLIN: not just yet.
+DAVE: well... here's to her.
+ROCKLIN: who?
+DAVE: the next one that fools you.
+
+ROCKLIN: like me to speel you a while? 
+DAVE: nope. i've had a few snorts but that don't make no difference. leas'ways, never has... don't ever git wore out, and useless, like me.
+ROCKLIN: who're them as say you are?
+DAVE: harolday, for one. oh, i ain't belly- aching. reckon he's entitled to his opinion. but him and me never did see eye to eye.
+ROCKLIN: what's wrong?
+DAVE: it's constitootional, i reckon. like that step-daughter of his is crazy -- he's too sane. believes in law and order.
+ROCKLIN: what's wrong with law and order?
+DAVE: depends on who's a-dishin' it out. never was good at takin' orders meself. as for the law -- well, you'll soon find out what that means 'round these parts.
+
+MISS MARTIN: driver? driver, what's the matter? 
+DAVE: nothin'. restin' hosses. git out and stretch yore laigs if you want.
+MISS MARTIN: resting horses? what for? i can see with my own eyes it's downhill.
+DAVE: you in such an all-fired hurry, lady?
+MISS MARTIN: certainly, we are in a hurry.
+
+PABLO: buenas noches, senor. 
+ROCKLIN: buenas noches, amigo.
+PABLO: ha llegado anticipademente, senor.
+ROCKLIN: tuvimos suerte en haber llegado.
+
+DAVE: we stop here. 
+MISS MARTIN: why do we stop here?
+DAVE: if you wanta eat and stretch yore laigs.
+MISS MARTIN: will you please stop referring to my legs!
+DAVE: you got some, ain't you?
+
+ZEKE: dave! 
+DAVE: why, zeke, you two-legged old coot!
+
+DAVE: whar you been all these months? 
+ZEKE: up in the hills workin' my way down the biggest hole you ever seed.
+DAVE: good -- what's at the bottom of it?
+ZEKE: nothin'!
+DAVE: what, again!!
+
+STAN: good evening, ladies. how about something to eat? 
+MISS MARTIN: well -- if it won't take too long.
+STAN: this way, ladies.
+
+DAVE: yep -- this is my last trip. 
+ZEKE: why?
+DAVE: old harolday won't take back what he said.
+ZEKE: what'd he say?
+DAVE: "you're fired."
+
+STAN: supper, dave? 
+DAVE: i'm drinkin' mine. set 'em up.
+
+CLARA: auntie -- 
+MISS MARTIN: with my dyspepsia? do you want to kill me?
+CLARA: aren't you going to have any supper?
+ROCKLIN: reckon so.
+MISS MARTIN: young man, that driver's had all the liquor he can take.
+ROCKLIN: has he?
+MISS MARTIN: you know he has. you're not a complete fool, are you?
+ROCKLIN: frequently.
+
+BOB CLEWS' VOICE: well, well -- smells like a mighty nice bit of veal. 
+BOB CLEWS: doin' yourself well these days, stan.
+STAN: a friend of mine was by an' sold me a quarter of beef.
+JACKSON: the same friend as sold you that hide bob, here, found stashed in your barn yesterday?
+STAN: hide -- what hide?
+BOB CLEWS: the one that might send you to the penitentiary.
+JACKSON: what did you do with it, stan?
+STAN: i never had no hide stashed --
+BOB CLEWS: i saw it yesterday under the hay.
+STAN: then it must still be there.
+JACKSON: no it ain't -- we looked -- where is it?
+STAN: i tell ya --
+MISS MARTIN: what is all this?
+JACKSON: afternoon ma'am. miz caldwell ain't it?
+MISS MARTIN: no -- martin -- miss martin -- this is miss caldwell.
+JACKSON: glad to know you, miss -- been expectin' you at santa inez. i'm sheriff jackson. any relation of red caldwell's a friend of mine.
+MISS MARTIN: what's going on with him?
+JACKSON: just a little matter of the law.
+BOB CLEWS: rustlin'.
+MISS MARTIN: wrestling?
+BOB CLEWS: rustlin' -- cattle stealin'.
+MISS MARTIN: oh -- a thief --
+STAN: i tell ya i never --
+BOB CLEWS: save it --
+JACKSON: matter of fact -- bob, here, says that the hide he saw yesterday had the k.c. brand on it.
+MISS MARTIN: oh -- hmmm -- well, what do you intend doing about it?
+BOB CLEWS: law's pretty harsh 'round here on cattle thieves.
+JACKSON: course, we don't want to make a mistake with an old-timer, but --
+ROCKLIN: how about the owner of that beef -- mightn't he have somethin' to say about it?
+JACKSON: meanin'?
+ROCKLIN: red caldwell -- he's the owner of the k.c., ain't he?
+BOB CLEWS: you're 'way behind the herd, mister -- red caldwell died three weeks ago.
+MISS MARTIN: was murdered, you mean.
+JACKSON: that's right -- shot in the back -- not far from here.
+BOB CLEWS: maybe he was gettin' on to things about the cattle that's been missin' from the k.c. lately.
+STAN: i tell ya i ain't never had any hide --
+BOB CLEWS: well, you got beef --
+STAN: yes -- an' i got a bill of sale fer it, too.
+JACKSON: s'pose you let me see that bill of sale.
+STAN: it's right out here.
+JACKSON: like i said -- i wouldn't want to make a mistake with an ole-timer.
+
+DAVE: see that one? she ain't got no laigs. 
+MISS MARTIN: hold your tongue. and you -- stop staring as if we were monsters.
+DAVE: where's stan? we got to have another drink.
+ROCKLIN: he's outside tryin' to explain away a hide.
+DAVE: eh?
+ROCKLIN: seems we're eatin' stolen beef.
+DAVE: somebody's loco. stan might have given house-room to bit o' dead beef, but he'd never be fool enough to leave the hide lyin' around. how 'bout it, zeke?
+
+BOB CLEWS: that's the way it is, dave. 
+DAVE: oh -- it's you.
+BOB CLEWS: that's right -- your old pal bob clews.
+DAVE: git away from me -- you two-timin' horse thief.
+DAVE: hey, stan -- don't let 'em hang nothin' on you, you ain't done. they're just a couple of fourflushers -- the pair of 'em, everybody knows that.
+JACKSON: crazy drunk.
+DAVE: mebbe i am drunk -- mebbe that's why i'm tellin' the truth -- i'm drunk an' i'll say what i think -- i'll say what i know. zeke, on the floor, takes up dave's belligerent mood for a flash.
+ZEKE: so will -- i -- jackson goes to dave.
+JACKSON: don't act up this ways, dave -- they's women watchin'.
+DAVE: git your hands off me --
+BOB CLEWS: what he needs is a short lay-down.
+ROCKLIN: i'll lend a hand.
+JACKSON: me an' bob'll look after him. we're his friends -- come on, bob. careful now -- don't hurt him.
+ROCKLIN: how are things standin' now between you an' the law?
+STAN: all right, i reckon -- i guess this bill of sale -- -- kinda winded him.
+ROCKLIN: good thing you saved it.
+MISS MARTIN: what are you doing?
+ZEKE: musta been dreamin' -- thought i was sittin' on a pot of gold.
+STAN: there ain't no gold here.
+ZEKE: there ain't even a pot.
+ROCKLIN: how is he?
+JACKSON: went to sleep soon's we laid him down. sorry to have a ruckus in front of you ladies. dave's an ornery old cuss when he gets goin' -- no shape to drive on, i'm afraid.
+MISS MARTIN: hmmm --
+JACKSON: don't worry, ma'am. bob, here, 'll take you on in -- knows every inch of the road -- don't you?
+BOB CLEWS: you bet.
+ROCKLIN: i'm drivin'.
+
+JACKSON: but if anything was to happen to the ladies, i'd feel -- to blame. 
+ROCKLIN: don't.
+JACKSON: you ladies want he should drive?
+BOB CLEWS: i'll be more'n glad to accommodate you --
+MISS MARTIN: he's going with us anyway -- he may as well drive.
+JACKSON: anything you say, ma'am.
+
+ROCKLIN: did they do it? 
+MEXICAN: si, senor. they hit him with a pistola.
+ROCKLIN: his friends, eh?
+
+RED ROCK STAGE SANTA INEZ DEPOT: proprietor -- j. harolday 
+STABLEMAN: what happened?
+ROCKLIN: bumped his head.
+STABLEMAN: where -- on iron mountain?
+ROCKLIN: where's the best chance of a cheap room?
+STABLEMAN: there's cap's place across the street -- the sun-up saloon.
+ROCKLIN: i'll pick that up later.
+
+MISS MARTIN: this isn't the hotel. 
+STABLEMAN: no'm, lady. hotel's up the street a piece.
+MISS MARTIN: are we expected to carry our bags at this time of night?
+STABLEMAN: want to drive 'em on up?
+ROCKLIN: nope. here -- catch aholt.
+
+CAP: hey doc! 
+CAP'S VOICE: customer --
+DOC RIDING: take my hand, sammy.
+
+DOC RIDING: what happened? 
+ROCKLIN: bumped his head.
+DOC RIDING: i see. looks like he's going to need a couple or so stitches. better get him upstairs.
+
+DOC RIDING: he'll be all right in the morning. 
+DOC RIDING: how about a snort?
+ROCKLIN: don't mind if i do.
+
+CAP: will he make it? 
+DOC RIDING: sure he'll make it. can't kill off a salty old hairpin like dave that easy.
+CAP: you're right. reckon saint peter must be gitten' mighty tired of dustin' off that doormat for him. by the way, how did you say it happened?
+ROCKLIN: i didn't.
+CAP: that's right; you didn't. reason i ask is, a couple fellers was in saying how dave was kickin' up a ruckus up at stan's place. sheriff jackson it was and one of the clewses.
+DOC RIDING: oh!
+CAP: tough customers, the clewses.
+DOC RIDING: yeah -- don't pay to start something with 'em you don't intend to finish.
+CAP: by the way, doc, they tell me george'll be out again. that's bob clews' brother. jest done a stretch in pen 'tentiary for horse stealin'.
+ROCKLIN: they string 'em up for that where i come from.
+DOC RIDING: pity they didn't string him up while they wore about it.
+CAP: that's what arly harolday was sayin' only this mornin'. you ain't met our arly yet, i reckon?
+DOC RIDING: he will, if he stays here long enough.
+CAP: hell-fire in skirts.
+DOC RIDING: well, here's now.
+
+CLINT: what did i tell you? they gotta be big to beat me! 
+MED. CLOSE SHOT: group at bar.
+CAP: clint harolday's in luck tonight.
+DOC RIDING: they're certainly running for him. about time, too. he's taken a beating this last week would shake a better man.
+
+SAMMY: include me out. 
+CLINT: aw -- come on. can't you take it?
+SAMMY: not that sort o' luck, i can't. besides, i on'y came in to oblige.
+CLINT: come on, doc. i still got to take something from you.
+GARVEY: how about you, sir? care to sit in? i'm warnin' you, though -- our young friend here has been holding phenomenal cards.
+GARVEY: fine! oh -- this is pap fossler; shorty davis; ab jenkins; mr. harolday, and my name's garvey -- judge garvey. i didn't get your name.
+ROCKLIN: i didn't give it. deal.
+
+CLINT: raise you twenty. 
+PAP: table stakes, clint.
+CLINT: not if he wants to dig.
+GARVEY: no place for me.
+PAP: cards?
+ROCKLIN: one.
+CLINT: one for me.
+ROCKLIN: don't you know that queen is dead?
+CLINT: i can take it if i want it.
+ROCKLIN: sure -- if you want -- but you'll have to beat my hand with four cards.
+CAP: i'm not settin' in.
+GARVEY: why don't you split the pot?
+CLINT: i'm not splitting -- i'm betting!
+CLINT: are you calling?
+ROCKLIN: no.
+ROCKLIN: i'm raising.
+ROCKLIN: dig.
+CLINT: let me have some money
+PAP: you're in deep enough, clint.
+CLINT: i've called for all i've got. full house.
+ROCKLIN: no good.
+
+CLINT: no man can run a bluff on me. 
+PAP: he wasn't armed.
+CAP: i don't like to tell men how to play cards unless i'm settin' in -- but i mebbe ought to have spoken up. that queen was dead, clint -- and you know it.
+CLINT: when anybody plays poker with me, they play my game or not at all.
+CAP: you can't just go makin' your own rules, clint -- -- an' if i was you i'd hightail outa here before he comes back.
+CLINT: comes back?
+CAP: he's the kind.
+
+ROCKLIN: i've come for my money. 
+ROCKLIN: by the way, judge -- the name is rocklin.
+
+ROCKLIN: how you feelin'? 
+DAVE: after that singin'? -- thirsty.
+ROCKLIN: how's your head?
+DAVE: oh -- a mite hungover -- but i'll feel better once i git downstairs.
+
+BOB CLEWS: i knocked, but guess you didn't hear me. 
+ROCKLIN: what do you want?
+BOB CLEWS: looks like you stirred things up around here last night, stranger.
+ROCKLIN: that all you came to say?
+BOB CLEWS: no. i got a message for you. from old man harolday. wants to see you out front.
+ROCKLIN: what about?
+BOB CLEWS: maybe he wants to thank you for teaching that pup of his a lesson.
+ROCKLIN: i'll be down.
+
+DAVE: what's goin' on here? 
+PAP FOSSLER: arly harolday's on the warpath.
+
+ARLY: is your name rocklin? 
+ROCKLIN: yes.
+ARLY: i want that money you took from my brother last night.
+ROCKLIN: are you crazy? or just ignorant?
+ARLY: you took it at the point of a gun -- -- and i'm taking it back the same way!
+FLASH SHOT: of group at window of sun-up saloon.
+
+ARLY: turn around. 
+CLOSE SHOT: arly. she raises her gun.
+
+CLINT: what happened? 
+ARLY: you lied to me, didn't you?
+
+DAVE: boy, oh boy, was that a near thing! she'd just as soon have hit you as missed. you don't know how lucky you were, son. 
+ROCKLIN: don't i? why d'you think i need this?
+BOB CLEWS: funniest sight i ever seen.
+
+BOB CLEWS: you broke it! you broke it! 
+ROCKLIN: try another trick like that on me and it'll be worse.
+BOB CLEWS: i never played you no trick. you broke my wrist.
+
+ROCKLIN: where'll i find judge garvey? 
+CAP: he rooms behind his office down the street. don't usually pull up the blinds till around noon, though.
+ROCKLIN: he will this morning. see you later, old-timer...
+
+ROCKLIN: i understand you were red caldwell's lawyer? 
+GARVEY: i was.
+ROCKLIN: know anything about this?
+
+GARVEY: i don't understand. job? what job? 
+ROCKLIN: foreman.
+GARVEY: on the "k.c."? but -- but why should he want you?
+ROCKLIN: why not? good foremen don't grow on bushes.
+GARVEY: is that your only motive for coming here?
+ROCKLIN: what other motive could i have?
+GARVEY: i don't know -- it's just that red caldwell was a peculiar man -- had a funny way of doing things.
+GARVEY: well, i'm sorry, mr. rocklin, that you've been brought all this way on a fool's errand, but -- i'm afraid the deal's off.
+ROCKLIN: off?
+GARVEY: i don't want to be too hard on you, but as executor of the estate i have to consider the interests of the new owner. how about, say, a hundred in full settlement?
+ROCKLIN: well --
+GARVEY: that's my last word -- think it over.
+GARVEY: how do you do, ladies --
+MISS MARTIN: you are judge garvey, i presume.
+GARVEY: yes -- and you are --
+MISS MARTIN: miss martin -- and my niece, clara caldwell.
+GARVEY: of course -- of course --
+GARVEY: you came at a very opportune moment, madam. this gentleman claims to have some sort of a letter from the late mr. caldwell, engaging him as foreman of the "k.c."
+MISS MARTIN: what!
+ROCKLIN: what do you mean -- claims to have? -- you saw it, didn't you?
+MISS MARTIN: you can't hold us to account for every promise made by that man. everyone knows he wasn't responsible for his actions half the time. and if you think i'd have you as a foreman --
+ROCKLIN: listen, lady -- i'd rather walk for somebody else, than ride for you.
+MISS MARTIN: well -- the impudence --
+ROCKLIN: all i come for this morning was to pay beck the hundred and fifty red caldwell sent in advance.
+CLARA: oh, no they all turn and stare at her.
+MISS MARTIN: don't interfere, clara. of course he must pay it back.
+ROCKLIN: the railway fare -- well, i reckon we can check that up against the time lost and call it quits.
+CLARA: but, mr. -- er -- i don't know your name...
+ROCKLIN: rocklin, miss.
+CLARA: mr. rocklin, it isn't fair for you to pay anything back.
+ROCKLIN: that's how i'd prefer it, if you don't mind, miss -- never did care fer owing favors to no one -- especially women.
+CLARA: oh!
+
+ARLY: i've just heard they let george clews out of penitentiary and that he's headed this way. you might tell him from me, if he sets foot on the santee ranch, i'll shoot him on sight. 
+GARVEY: but really, miss arly, why should you deliver your message through me?
+ARLY: you have mutual friends.
+GARVEY: if you're referring to sheriff jackson...
+ARLY: i am.
+GARVEY: but that's absurd. the fact that he employs one of the clews brothers doesn't make the other his friend.
+GARVEY: oh, miss caldwell, this is miss harolday -- miss martin, miss caldwell's aunt. you should know one another, seeing you'll be neighbors. miss harolday runs the santee ranch for her stepfather. she's a famous -- ah -- horsewoman in these parts.
+CLARA: i know. i saw you ride into town this morning. you looked lovely. just what i'd like to be.
+ARLY: yes?
+CLARA: oh, this is mr. rocklin. he drove us in from garden city last night. he...
+ROCKLIN: i already met miss harolday.
+CLARA: oh.
+ARLY: i've a message for you -- from harolday.
+ROCKLIN: what, again?
+ARLY: he wants you to come down to the office.
+ROCKLIN: what for?
+ARLY: he's got a proposition to make -- about riding for him. sixty a month.
+ROCKLIN: hmmm -- that's a foreman's wages.
+ARLY: i wouldn't offer you a red cent. but it's his money. and the way things are shaping, maybe we could do with somebody as mean as you around the ranch.
+MISS MARTIN: i warn you, you're making a great mistake. this man is no good.
+CLARA: auntie!
+ARLY: well? d'you want the job?
+
+CLARA: auntie, why did you have to say that? i simply don't understand you... 
+MISS MARTIN: but i understand you. i'd be ashamed of myself. throwing myself at a man like that.
+
+MISS MARTIN: you must excuse her. she's young. 
+GARVEY: and inexperienced.
+MISS MARTIN: and young people must be protected from themselves at times -- don't you agree? miss martin throws him a quick look, which he returns steadily.
+GARVEY: exactly.
+
+ROCKLIN: does he always follow you? 
+ARLY: he's not following me -- he's with me -- he's always with me.
+ROCKLIN: oh -- just an old indian friend.
+ARLY: the best friend i've got.
+
+ARLY: i've just hired a man named rocklin and said you made me do it. sixty dollars and he 'll earn it -- while he lasts. 
+HAROLDAY: why did you do it, arly?
+ARLY: so i can fire him. i hate him. clint and he quarrelled last night. clint lied about it and i made a fool of myself. he's outside now.
+HAROLDAY: all right. send him in.
+ARLY: come in.
+
+HAROLDAY: mr. rocklin, what happened between you and my son last night? 
+ROCKLIN: poker.
+HAROLDAY: hmmm. about this suggestion of you working for me.
+ROCKLIN: it's your suggestion, not mine.
+HAROLDAY: ye-es. sixty dollars is big money.
+ROCKLIN: if you've changed your mind...
+HAROLDAY: no, no.... wait a minute. i take it you've had the experience.
+ROCKLIN: enough for red caldwell to hire me as foreman.
+HAROLDAY: oh -- had caldwell hired you?
+ROCKLIN: yeah -- but i won't ride for the new owners -- so that leaves me open.
+HAROLDAY: i see -- were you a friend of red's?
+ROCKLIN: no -- i guess he just heard about me.
+
+HAROLDAY: the street is clear. 
+ROCKLIN: tell him i'll be out in the street in front of the saloon.
+DAVE: uh-huh!
+
+GEORGE CLEWS: i'm gonna get his ears. 
+DAVE: hi you, george clews -- george clews turns.
+DAVE: rocklin says if you don't come out, he'll come in here after you, an' tear you apart.
+SHORTY: that was my beer, you know.
+CAP: that does it, boys -- you know where the door is.
+GEORGE CLEWS: com-mon -- i'll get his ears.
+CAP: not until i get my money --
+CAP: there's three drinks and a broken beer glass.
+GEORGE CLEWS: pay 'im.
+GEORGE CLEWS: i'll get his ears.
+
+PAP: that rocklin'll kill him for sure. 
+CUSTOMER: le's hope.
+
+JACKSON: hey, you! what's this you been up to? 
+ROCKLIN: i just laid a gun barrel over the head of a drunk friend of yours -- same as you did over dave's here yesterday.
+DAVE: eh?
+JACKSON: i don't know what you're talking about.
+ROCKLIN: you're a liar!
+JACKSON: now you lookee here, young feller. you go on talking that way and you'll find yourself in trouble.
+JACKSON: don't say you ain't been warned.
+
+MISS MARTIN: i saw you. i saw you strike that poor man. 
+ROCKLIN: yes, ma'am. as hard as i could.
+MISS MARTIN: you ruffian, you!
+MISS MARTIN: let me go!
+
+ROCKLIN: -- now what was that you were sayin' about caldwell? 
+HAROLDAY: you being hired by red caldwell only confirms what i'd suspected -- he was getting ready to fight.
+ROCKLIN: fight? who?
+HAROLDAY: organized rustling. well at least -- that's my belief. red was no friend of mine. too fond of taking the law into his own hands. but he had my sympathy. he'd been harder hit than any of us. and on top of it all, he lost his foreman.
+ROCKLIN: you mean, he quit on him?
+HAROLDAY: he was shot -- in the back -- with a bullet from the same caliber rifle as got red.
+ROCKLIN: got any ideas?
+HAROLDAY: no -- except that the man you just pistol-whipped is in on it somewhere. pity you didn't kill him when you had the chance.
+ROCKLIN: say -- it don't sound as if it's goin' to be too easy for them wimmen at the k.c.
+HAROLDAY: want to go back and work for them?
+ROCKLIN: no, sir. and i ain't jumping at this offer o' yours either because i don't hold with working for wimmen.
+HAROLDAY: oh, you mean my step-daughter. well don't worry. she won't interfere with you...rocklin -- i figure we've been losin' cattle over a place called table top -- it's the back way into the topaz ranch and the perfect route for rustlers -- i'm going to send you up to the line camp -- you don't mind working a lone hand -- do you?
+ROCKLIN: -- i like workin' that way.
+HAROLDAY: good -- be ready to move out this afternoon.
+
+DAVE: -- now pap -- i'm givin' you first call on me services. they's lots of other folks lookin' fer a good man, too -- you know. so if you want me, you better hurry and speak up because -- 
+DAVE: 'scuse me, pap -- be right back to find out when i start.
+
+DAVE: whar you off to? 
+ROCKLIN: i'm riding for the topaz ranch.
+DAVE: what! -- have you gone plumb loco?
+ROCKLIN: good money -- sixty a month
+DAVE: there ain't enough money in this town to make it worth your while to work for that gal.
+DAVE: when she gits goin' she can be meaner'n a skillet full o' snakes. she ain't goin' to forget the way you made a fool of her today -- in front of the whole town.
+PAP FOSSLER'S VOICE: hey, dave.
+DAVE: be right with you.
+PAP FOSSLER'S VOICE: hey, dave.
+ROCKLIN: be right with you.
+
+CLARA: good afternoon, mr. rocklin. lovely day, isn't it? 
+ROCKLIN: reckon it is pretty nice. so you're moving in on the "k.c." eh?
+CLARA: we-el, not exactly moving in. you see...
+
+MISS MARTIN: do you have to discuss our private affairs with every rag-tag-and-bobtail cow-person we meet, clara? 
+CLARA: auntie!
+ROCKLIN: sorry if i butted in, ma'am. jest passing the time o'day.
+MISS MARTIN: we can do very well without it -- thank you. and you're keeping your lady friend waiting.
+
+ARLY: i thought maybe you'd changed your mind again. 
+ROCKLIN: nope.
+
+ROCKLIN: how far is the line-camp at table- top? 
+JUAN: twenty-five -- thirty mile.
+ROCKLIN: i'm moving out there first thing in the morning. boss' orders. care to show me the way?
+JUAN: i will show you.
+
+JUAN: the trail is straight ahead. you will find the cabin at the top. adios, senor. 
+JUAN: senor, that is true. i do not like you.
+ROCKLIN: why?
+JUAN: it is not your fault that your shadow is black. but you will only bring unhappiness to my senorita. i do not blame you, but i fear i must hate you.
+JUAN: adios, senor.
+
+DAVE: hiya there. 
+JUAN: buenos dias, senor dave. you have found new employer, eh?
+DAVE: yeah. haulin' freight for ole pap fossler. got a letter here for that crazy galoot, rocklin. from the little caldwell girl. seems mighty took up about sumpin'. made me promise to deliver it personal.
+JUAN: but senor rocklin is not here.
+DAVE: lordy -- he ain't quit already...
+JUAN: i have just accompany him to table- top.
+
+CLINT: have you seen arly? 
+SHELLEY: no, suh, ah didn't see miss arly today, but ah seed her las' night, and she shore was mad.
+SHELLEY: plenty mad!
+
+CLINT: 'mornin', arly -- arly is coming toward clint. 
+ARLY: 'mornin', clint.
+CLINT: you must be feeling pretty good.
+
+CLINT: say, arly -- about that poker game, night before last, i --- 
+ARLY: forget it.
+CLINT: forget it?
+
+ARLY: well -- 
+CLINT: what is this? --
+ARLY: what do you mean?
+CLINT: what do i mean? --
+TALA'S VOICE: good morning, arliete.
+
+ARLY: good morning, tala. 
+TALA: you have make yourself very pretty today.
+CLINT: see what i mean?
+ARLY: have my horse saddled and sent around right away -- will you? you can have that rocklin bring it.
+ARLY: what's the matter?
+TALA: rocklin is not here.
+ARLY: he quit?
+TALA: he has gone to the line camp at table top.
+ARLY: what?
+TALA: it was mr. harolday's orders.
+TALA: why do you make your heart heavy with thoughts of him, little one. -- he is not for you.
+ARLY: be quiet.
+TALA: he has made the choice, arliete. with your own eyes you saw it yesterday.
+ARLY: oh --
+TALA: and she, too, has opened her heart to him -- already she has summoned him to her.
+ARLY: what do you mean?
+TALA: dave -- of the white beard -- carries a letter to rocklin -- it is from her.
+ARLY: how do you know that?
+TALA: i have just now met dave, and he tell me. -- so now he rides to table top.
+TALA: little one you --
+ARLY: oh, leave me alone.
+
+HAROLDAY: looks like we're going to get that land we've been wanting along the river bottom. 
+HAROLDAY: i didn't tell you -- but i bought the mortgage on the hardman ranch, and it's due today -- on my way over there now.
+ARLY: did you send that rocklin to table- top?
+HAROLDAY: i did.
+ARLY: well, let's get things straight. this place was my mother's -- now it's mine and clint's -- it's true you've been helping out -- but the way things are going we'll soon be able to pay you back every penny we owe. meanwhile, i'm running this outfit and i expect to give the orders.
+HAROLDAY: you generally do.
+ARLY: why did you send rocklin up to table- top?
+HAROLDAY: it seemed to me a good idea -- what with all this rustling going on --
+ARLY: who'd ever try driving cattle over table-top? -- unless they were crazy.
+HAROLDAY: i don't agree with you. in any case -- if you must have it -- i'd no intention of engaging a man at foreman's wages just to gratify the whims of a jealous woman!
+ARLY: you take care what you're saying.
+HAROLDAY: it's you should take care, my dear. i'm afraid there's one man you can't rawhide into jumping the way you want. you've made a fool of yourself over him once. better watch out you don't do it again.
+
+DAVE: funny -- that storm quittin' just about the time i get here. 
+ROCKLIN: no funnier than you sloggin' through it, just to deliver a letter from a woman.
+DAVE: when are we gonna get around to readin' it?
+ROCKLIN: thought i'd wait till mornin' -- might be bad news an' i wouldn't be able to sleep.
+DAVE: mmmm -- dineroo.
+ROCKLIN'S VOICE: forgive me if this letter is a trifle incoherent, but i am terribly worried and unhappy.
+
+DAVE: who wouldn't be -- livin' with that ole screech owl. 
+ROCKLIN: i am desperately in need of help and advice from someone whom i feel i can trust, and i am appealing to you, because i regard you in the same way my uncle surely must have. i heartily dislike and distrust judge garvey --
+DAVE: huh -- smart girl --
+ROCKLIN: but my aunt seems to have suddenly revised her opinion of him, and now wants me to place all my affairs in the judge's hands and return east. such is certainly not my wish.
+DAVE: looks kinda like she's formed an attachment.
+DAVE: for the locality, i mean.
+ROCKLIN: i wanted so much to give ranch life a trial, but fear circumstances are against me, especially in view of the recent indian trouble --
+DAVE: indian trouble -- good lord, they ain't been any indian trouble around here in --
+ROCKLIN: you want to hear the rest of this?
+DAVE: might's well -- come this far.
+DAVE: well -- what do you make of it?
+ROCKLIN: somebody's sure bustin' to get her out of there.
+DAVE: indian trouble --
+ROCKLIN: wonder why the old lady's playin' along?
+DAVE: baaa -- wimmen -- who can ever figure 'em? got to admit though, i feel a mite sorry for the young'un -- nice little tyke.
+ROCKLIN: too nice for this country.
+DAVE: she's shore a pretty thing.
+ROCKLIN: don't know how i could help her -- even if i wanted to -- i don't know any thing about this garvey -- or caldwell -- or --
+DAVE: well, now -- i could mebbe help you out some, there -- fact, i could tell you somethin' 'bout ole red that might be interestin'.
+ROCKLIN: you must have known him pretty well -- what kind of a man was he?
+DAVE: caldwell? -- the best -- cantankerous cuss -- but a real cowman, believe me -- he was a big feller, like yourself -- fact, you coulda passed fer a blood relation, come to think of it.
+ROCKLIN: was the judge and red friends?
+DAVE: that's what you'd say. garvey managed all red's business. besides which they was regular drinkin' pals -- played poker together most nights -- tho' they do say red got the worst of it.
+ROCKLIN: red was a gambler, eh?
+DAVE: oh, yeah -- reckon a pretty poor one, tho' -- still you'd say him and garvey was friends.
+ROCKLIN: anything ever happen to make you think they weren't?
+DAVE: rock -- i'm gonna tell you somethin' i ain't never told anybody.
+ROCKLIN: think you can trust me?
+DAVE: the last time i seen red was the day he died -- in the pause rocklin remains silent.
+DAVE: -- 'twas in town -- he jus' come out of the stage office. tried to book passage to garden city but couldn't on account i had a full load. -- well, sir, he took me aside and give me a printed sheet of paper and says, "read it." i looked it over and fer as i could see it was a paper from one of them chicago sportin' firms, tellin' how to manipulate trick playin' cards.
+ROCKLIN: marked cards.
+DAVE: reckon so. -- seems red found some cards and this paper in a coat one of his friends loaned him one night.
+ROCKLIN: whose was it?
+DAVE: well, now that's just what i asked -- but all he said, was that it belonged to a good friend. then he said he wasn't waitin' fer the next coach, but was ridin' over to see the district judge about it alone.
+ROCKLIN: that's when they got him.
+DAVE: yes, sir -- 'bout a mile or so from stan's place. a bullet in the back an' his pockets empty.
+ROCKLIN: how come you never told this before?
+DAVE: who was there to tell? -- sheriff jackson? -- him an' garvey's thick as thieves.
+ROCKLIN: how about what's his name -- harolday? -- he's no friend of the judge's, is he?
+DAVE: hates his guts -- sure riles him to see young clint hangin' onto the judge's coattails. all the same, i jus' decided to keep my mouth shut and my eyes open.
+ROCKLIN: even if it was garvey red was talkin' about -- it don't follow that he killed him.
+DAVE: no -- general opinion is that it was rustlers.
+ROCKLIN: why would rustlers take the evidence caldwell had with him?
+DAVE: looks to me if you get the man who owned the marked cards, you get the killer.
+ROCKLIN: funny tho' -- first the k.c. foreman -- then caldwell -- an' now these women.
+DAVE: lordy -- you ain't thinkin' somebody might try bumpin' them?
+ROCKLIN: i'm not so sure somebody hasn't tried already -- remember, when we stopped to change horses on the way over from garden city --
+DAVE: shore -- you told me how jackson and clews tried to frame stan.
+ROCKLIN: yeah. like they wanted to be sure he'd keep his mouth shut about something. dave sits down on a box sitting against the wall, directly under the large earthen jug of water.
+DAVE: and layin' that gun across my skull -- an' offerin' to drive the coach themselves.
+
+ROCKLIN: you all right? 
+DAVE: will be if i ever get dry.
+ROCKLIN: lookit that --
+DAVE: good lord --
+ROCKLIN: come on --
+
+DAVE: my team. 
+ROCKLIN: that's not your team.
+
+DAVE: come on -- 
+ROCKLIN: no use -- he's gone.
+DAVE: mebbe we winged him.
+
+ROCKLIN: not bad shootin'. 
+ARLY: you think i did that?
+ROCKLIN: sure -- to draw us away from here. you know, you cut it mighty close -- good thing i ain't got brains enough to fill it.
+ROCKLIN: too bad you had to come 'way up here through that storm for nothin'.
+ARLY: i haven't minded a bit -- -- because i came up to fire you.
+ROCKLIN: oh -- i see.
+ARLY: get out of here -- get off the santee and don't ever come back.
+ROCKLIN: mind if i wait for dave? he ought to be along any minute -- be funny if he winged that shadow of yours.
+ARLY: if you mean juan -- you're loco. he's not even up here.
+ROCKLIN: you came up alone?
+ARLY: yes.
+ROCKLIN: then who was that we took out after?
+ARLY: the man who shot at you.
+ROCKLIN: who was he?
+ARLY: i don't know.
+ROCKLIN: you mean you won't tell.
+ARLY: i mean i don't know -- why should i lie to you?
+ROCKLIN: i guess you forgot -- you jes' fired me.
+ROCKLIN: so long.
+DAVE'S VOICE: hey, rock --
+DAVE: -- he got away -- but guess what, i -- he sees arly and pulls up abruptly.
+ROCKLIN: you guess --
+ROCKLIN: come on.
+
+ROCKLIN: you work for harolday? 
+ROCKLIN: here's one of his horses -- i'll pick up my saddle later.
+
+ROCKLIN: howdy... 
+HAROLDAY: i thought i sent you up to table- top.
+ROCKLIN: that's right.
+HAROLDAY: what happened?
+ROCKLIN: well, this, for one thing.
+HAROLDAY: i told you you'd regret letting that rat clews off so easy.
+HAROLDAY: what's the matter? don't you think it was him, then?
+ROCKLIN: i been figgerin'. don't seem reasonable clews was in condition to take that sort of chance alone... besides -- how could he have known i was up there -- that soon. and -- george clews ain't the only one i've run contrariwise to in this town. there's that mexican, for instance.
+HAROLDAY: juan?
+ROCKLIN: he as good as told me yesterday that him and me was due for a run-in one of those days. and then there's him!
+
+CLINT: i just heard that -- that rocklin was -- 
+ROCKLIN: was what?
+CLINT: was shot at last night.
+HAROLDAY: mr. rocklin was just telling me all about it. any idea who might have done it? clint looks quickly at harolday and back at rocklin with frightened eyes.
+CLINT: not me.
+CLINT: you ain't trying to pin it on me? 'cause if you are, you're in for a big disappointment. i was over at the sun-up playing poker with the judge and the rest of the boys till early morning. if you don't believe me, ask for yourself.
+ROCKLIN: all right. i believe you. but that don't mean you couldn't tell a thing or two as would help -- if you wanted.
+CLINT: what d'you mean?
+HAROLDAY: yes. what sort of thing would clint here know about, that would help identify the man who tried to kill you last night?
+ROCKLIN: this for one.
+ROCKLIN: ever seen it before?
+CLOSE SHOT: clint as he stares wide-eyed at the pouch.
+
+HAROLDAY: well, go on -- speak up. did you ever see it before? 
+CLINT: no. course i didn't quit riding me! i don't know nothin' about it i tell you. jest because i had a run-in with you over a game o' cards, that don't mean i'd sneak up on you in the dark and...
+
+HAROLDAY: he means trouble. 
+CLINT: aw, what do i care.
+HAROLDAY: listen, i never did have much use for you. you're a poor specimen at the best; but as a would-be bad man you're nothing but a laughing stock. why, the way you lied about that pouch just now wouldn't have deceived a six-year old.
+
+CLARA: i'm so glad i've found you -- i was on my way to the santee and learned you were in town. 
+ROCKLIN: just got in.
+CLARA: i feel perfectly awful, running after you like this, but --
+ROCKLIN: you got trouble, eh?
+CLARA: my aunt found out i wrote you and made a terrible scene --
+ROCKLIN: you haven't signed everything over to that garvey, have you?
+CLARA: no -- and because i refused, auntie said she would sign an affidavit that i'm still underage, and then, as my guardian she can do what she likes.
+ROCKLIN: got anything to prove you're not underage?
+CLARA: no -- but mr. garvey has a letter that would prove it. my aunt wrote it before we came out here.
+ROCKLIN: s'pose we could get it?
+CLARA: he'd never give it to me.
+ROCKLIN: wait here.
+CLARA: oh, please -- you -- you won't go getting yourself in trouble -- i -- i'd rather give up everything -- i mean --
+
+GARVEY: that takes care of that -- now, i'll draw up an affidavit right away and everything will be taken care of as we want it. 
+MISS MARTIN: i certainly hope so -- it's not myself i'm concerned about --
+GARVEY: -- of course not.
+MISS MARTIN: i can't say i'm very happy about doing this -- i only hope it works out for the best.
+GARVEY: it's the better choice of two evils -- now let's see -- i, elizabeth -- it is elizabeth, isn't it?
+MISS MARTIN: yes --
+GARVEY: -- elizabeth martin, of danvers, massachusetts, do hereby --
+GARVEY: well, mr. rocklin, this is indeed a surprise. didn't expect to see you so soon. i understood you were riding for the santee.
+ROCKLIN: that's right.
+
+ROCKLIN'S VOICE: i came for that letter. 
+GARVEY: did you say letter?
+ROCKLIN: that's right -- the one miss caldwell's aunt wrote from out east sayin' she was of age. remember?
+GARVEY: no -- i'm afraid i don't.
+
+GARVEY: what is your interest in this letter? 
+ROCKLIN: my only interest is getting' it.
+GARVEY: you realize what this is, don't you? -- robbing -- armed robbery at that. rocklin pulls open the "m" drawer.
+GARVEY: i warn you, you're in for a disappointment.
+ROCKLIN: open up.
+GARVEY: listens, you -- there's nothing in there that'd interest you.
+ROCKLIN: i'd like to make up my own mind about that.
+GARVEY: what's the idea?
+ROCKLIN: these cards --
+GARVEY: anything wrong in a man having cards in his possession?
+ROCKLIN: depends on what kind they are -- 'specially when they're under lock and key.
+GARVEY: you're taking those, i presume.
+ROCKLIN: that's right.
+GARVEY: now, you look here --
+ROCKLIN: you're the one who better start lookin' -- lookin' for a way out for killin' red caldwell.
+GARVEY: caldwell --
+ROCKLIN: he found out about these -- and you went and killed him.
+GARVEY: and you believe a story like that?
+ROCKLIN: i will until i hear a better one. i'll just take this along -- the district judge at garden city should be mighty interested.
+
+DAVE: say -- looks like you two been disagreein' 'bout somethin' -- he ain't daid, is he? 
+PAP FOSSLER: not permanently, i don't reckon. -- what happened, anyways?
+DAVE: you musta found out somethin'.
+PAP FOSSLER: i reckon the judge did, too.
+MISS MARTIN: oh, dear -- dear -- are you hurt?
+GARVEY: get out of my way --
+
+DAVE: -- find out who owns that tobaccy pouch yet? 
+ROCKLIN: no -- but get hold of clint harolday.
+DAVE: clint -- is he in on it?
+ROCKLIN: can't say for sure -- bring him to the sun-up, and don't take no for an answer.
+
+CLARA: did you get it? 
+ROCKLIN: no -- but i don't think it's gonna matter much -- you go on back to the k.c. and i'll be out in the mornin' and take you with me to garden city to see the district judge.
+CLARA: but i hate putting you to that trouble.
+ROCKLIN: no trouble at all -- i'm going anyway.
+ARLY: you look like you've been fighting.
+ROCKLIN: what are you doin' here?
+ARLY: i was just telling miss caldwell about -- well -- you and me.
+ROCKLIN: what about, you an' me?
+CLARA: i think i'd better be going...
+ROCKLIN: just a minute -- what all has she been tellin' you?
+CLARA: oh -- oh, really i'd rather not --
+ARLY: go ahead, tell him -- -- and i dare him to deny it.
+ROCKLIN: deny what?
+CLARA: that she was with you last night at the cabin in the mountains.
+ROCKLIN: well -- why should i deny it?...
+ARLY: and didn't you make love to me?
+ROCKLIN: make love to you --
+ARLY: you didn't kiss me -- i suppose?
+ROCKLIN: did you expect me to deny that, too?
+ARLY: you see?
+CLARA: please -- you needn't explain. after all, it really isn't any of my business, is it?
+ROCKLIN: you little --
+ARLY: that's it -- start swearin'-- just like a man.
+ROCKLIN: if there wasn't a lady here, i'd do more to you than swear.
+CLARA: i don't know how i can ever thank you for trying to help me. i do appreciate it ever so much -- don't think too harshly of me, will you -- i --
+ARLY: she's lovely, isn't she? -- so sweet -- honest, and helpless.
+ARLY: pity you didn't fall in love with her, instead of me.
+ROCKLIN: you might's well know right now that you or no woman is ever goin' to get me.
+ARLY: don't be so sure -- i don't think i'm doin' so badly.
+ROCKLIN: don't you?
+ARLY: don't you know?
+ROCKLIN: i know there ain't a dirty trick you wouldn't play to get what you want.
+ARLY: i always get what i want.
+ARLY: -- see? -- 'bye now --
+
+MISS MARTIN: whatever is to become of you? 
+MISS MARTIN: have you no sense of pride, or decency? throwing yourself at that -- that wretch, like any shameless hussy.
+MISS MARTIN: i thought we'd done with him -- but no -- you have to run to him and tell him all our business --
+MISS MARTIN: don't you dare deny it -- you know very well you told him about that letter i wrote mr. garvey.
+MISS MARTIN: didn't you? --
+MISS MARTIN: didn't you?
+
+GARVEY: tell miss martin that i'll take care of everything. 
+SAMMY: -- you take clare of evelything.
+
+ROCKLIN: come in -- 
+DAVE: here he is, rock. caught him jist in time near the santee. headed fer out, i'd say.
+ROCKLIN: sit down, clint. how about goin' down below an' havin' one on me?
+DAVE: well, now -- that's right thoughtful -- holler if you need me.
+CLINT: what's this all about?
+ROCKLIN: it ain't gonna do you any good to get all het up and tough, kid --
+ROCKLIN: i just want to ask you a few questions -- that's all.
+
+CLINT: i told you once, i don't know who owns that pouch-- and i don't know who shot you. 
+ROCKLIN: forget it -- that's not what i want to talk to you about, anyway.
+CLINT: well, what do you want to talk about? come on, get it over with.
+
+ROCKLIN: clint -- i want you to tell me why garvey murdered red caldwell -- 
+ROCKLIN: you know -- don't you?
+CLINT: me? no!
+ROCKLIN: oh yes you do. and you're going to tell me all about it.
+CLINT: i don't know nothing, i tell you --
+
+ROCKLIN: talk! 
+CLINT: i tell ya, i...
+ROCKLIN: talk!
+
+AD LIBS: what happened? who is it? clint harolday -- etc. 
+PAP FOSSLER: where's doc riding?
+AD LIBS: get the doc. hey, doc -- he was down below. here he is.
+DOC RIDING'S VOICE: here i am --
+AD LIBS: look out, men -- let the doc through. etc.
+DOC RIDING: somebody better fetch harolday.
+CAP: shorty's already gone for him.
+PAP FOSSLER: better get arly, too.
+VOICE: she was at the hotel a while ago.
+PAP FOSSLER: he was only a kid.
+
+JACKSON'S VOICE: what's goin' on here -- gang way -- 
+JACKSON: what's the trouble here --
+JACKSON: i warned you, didn't i? -- well, i guess this is the last trouble you'll ever make in this town. hand over that gun.
+ROCKLIN: just a minute, now --
+ROCKLIN: i know it looks bad -- but i didn't kill the kid.
+DAVE: i believe you. his gun was layin' over there on the floor when i come in and --
+ROCKLIN: no it wasn't -- it was right in my hand -- like it is now.
+JACKSON: if you didn't know him -- then who did?
+ROCKLIN: i don't know -- but i'm going to find out.
+
+HAROLDAY: you murderer. 
+ROCKLIN: i didn't do it, mr. harolday.
+HAROLDAY: then who did?
+VOICE: he had a gun in his hand when we come in.
+GARVEY: and i'll bet it's the same one the bullet that killed clint came out of.
+HAROLDAY: well, what do you say to that?
+ROCKLIN: he's right.
+GARVEY: you admit it.
+ROCKLIN: yeah -- but that still don't say i killed him.
+AD LIBS: aw, take him away -- liar -- lock him up, sheriff -- the yellow-bellied -- etc.
+
+ARLY: why did you do it? 
+MED. SHOT: with rocklin in f.g.
+ROCKLIN: i didn't.
+GARVEY: he admits it was his gun that shot him.
+ARLY: but you didn't fire it.
+ROCKLIN: that's right.
+ARLY: what happened?
+ROCKLIN: clint and me was having a bit of an argument.
+ARLY: what about?
+ROCKLIN: about whether he was going to help clear up a few things that's been bothering me and some others 'round these parts. for instance -- who it was shot red caldwell.
+JACKSON: caldwell!
+ROCKLIN: and the k.c. foreman. and who took that shot at me up at table-top last night. and why certain people are so anxious to get rid of the caldwell girl.
+PAP FOSSLER: how would clint know about all that?
+HAROLDAY: he's lying. he's trying to cover up for killing my boy.
+JACKSON: quit stalling, rocklin.
+ARLY: wait a minute -- he's get a right to be heard. well, we're listenin'.
+ROCKLIN: well -- clint was getting' all set to talk, when -- somebody snuck up along the verandah there and pulled the gun out o' my belt... ... and let him have it.
+AD LIBS: what a story! what an alibi! string him up, the heel! etc.
+JACKSON: you'll have to think up something better than that rocklin.
+MED. SHOT: with garvey in f.g.
+GARVEY: don't be a fool, rocklin. you know you can't get away with a yarn like that. why don't you save yourself and everyone else a lot of trouble by surrendering to the sheriff? after all, it isn't such a crime in these parts to kill a man in self-defense.
+ROCKLIN: self-defense?
+GARVEY: everyone knows what clint was like. he probably lost his head and pulled a gun on you, like he did at the sun- up that night. wasn't that it?
+ROCKLIN: no, that wasn't it. and till i do what i got to do, i ain't surrenderin' to anybody -- least of all to your pal here. if i got to be shot for knowing too much, it ain't going to be in the back, in a framed-up jail-break.
+
+ARLY: but if someone's trying to kill you, why didn't they do it just now? why did they have to kill clint? 
+CLOSE SHOT: rocklin.
+ROCKLIN: guess they wanted to get clint, too. doin' it this way they get us both. clint first -- an' me afterwards -- like i jus' said.
+
+PAP FOSSLER: quit fancy talk. who's "they?" 
+ROCKLIN: i might be able to tell you that later.
+JACKSON: no you won't -- because you're comin' with me.
+ROCKLIN: am i?
+ROCKLIN: the first one that moves -- gets it.
+
+HAROLDAY: well, sheriff -- you certainly are to be congratulated. 
+JACKSON: look, mr. harolday -- you saw what happened --
+GARVEY: never mind that -- let's get going for garden city -- that's where he's headed for.
+HAROLDAY: you sure?
+GARVEY: i'm positive.
+
+ARLY: where do you think he's gone? 
+JACKSON'S VOICE: all right, men -- follow me --
+
+DAVE: i mighta knowed you'd do somethin' like this. what are we doin'? 
+ROCKLIN: headin' for the k.c.
+
+MISS MARTIN: now -- what is it? 
+GEORGE CLEWS: the name's clews, ma'am -- mr. garvey sent us out --
+BOB CLEWS: said you were expectin' trouble with that rocklin.
+MISS MARTIN: i am. -- but i'm wondering if you're up to it. i noticed you didn't fare so well with him yesterday.
+BOB CLEWS: he was drunk --
+GEORGE CLEWS: yeah -- but i'm sober now.
+MISS MARTIN: well, see that you stay that way.
+GEORGE CLEWS: don't worry, ma'am -- i've jus' bin waitin' to get even with that saddle- bum.
+BOB CLEWS: we'll be close-by.
+GEORGE CLEWS: you bet.
+
+JACKSON: seen anybody ridin' hard for garden city. 
+ZEKE: bin on the road since sundown -- ain't seen a livin' soul -- be he man or beast.
+JACKSON: he mighta taken the cutoff through jaw bone canyon.
+HAROLDAY: after that storm? -- he'd never make it.
+GARVEY: there's only one other place he might have gone -- the k.c.
+JACKSON: you think so?
+GARVEY: i'm positive.
+HAROLDAY: that's what you said before.
+JACKSON: to the k.c., men.
+ARLY AND JUAN: arly watches the posse, then turns to juan.
+ARLY: take me through the canyon.
+JUAN: it is dangerous, senorita.
+ARLY: but if we get through we'll beat them to the k.c.
+JUAN: you would risk your life for senor rocklin?
+
+ARLY: afraid? 
+JULIO: only for you -- you must not do this -- i will go through from here alone.
+ARLY: no, -- we're going through together.
+
+ROCKLIN: you can ease up now. 
+DAVE: we're just about there.
+
+MISS MARTIN: you vile, ungrateful strumpet -- running away in the night, like a deceitful sneak-thief -- 
+CLARA: yes -- i'm running away -- and it's all your fault -- you're the one who's been deceitful and sneaking -- and don't think i don't know what you intend doing.
+MISS MARTIN: -- and don't think i don't know what you intend doing.
+CLARA: i don't care -- i'm not ashamed of it -- and nothing you can say or do is going to stop me.
+MISS MARTIN: you little fool -- if you go to garden city with that man -- you stand to lose everything.
+CLARA: but why? -- why are you being so secretive? -- if you know something, why don't you tell me?
+
+MISS MARTIN'S VOICE: rocklin turned up unexpectedly -- 
+CLARA'S VOICE: and you and mr. garvey knew the truth all the time?
+MISS MARTIN'S VOICE: yes.
+DAVE: -- and you knew the truth all the time, too -- didn't you? -- no wonder you stuck around --
+
+JULIO: you are crying, senorita --? 
+ARLY: no.
+JULIO: it is too bad we lose your horse. she was good horse, for sure.
+ARLY: if only we make it in time.
+CLARA: -- and i heard one of them tell my aunt not to worry, that he was just as anxious as she was to get even with you.
+DAVE: this is the only way i could handle her.
+ROCKLIN: the clews are around here some place -- garvey sent 'em out.
+
+GEORGE CLEWS: you bet we're around. 
+GEORGE CLEWS: untie her.
+BOB CLEWS: untie her.
+
+GEORGE CLEWS: now tie him up. 
+MISS MARTIN: i'll take part in this -- you -- you hairy beast.
+
+GEORGE CLEWS: what'll we do with 'em? 
+MISS MARTIN: take them in to mr. garvey and tell him i must see him at once.
+BOB CLEWS: we'll dump them right in the judge's lap.
+MISS MARTIN: hadn't you better tie him, too?
+GEORGE CLEWS: get some more rope.
+
+GEORGE CLEWS: what are you doin' with that gun, arly? 
+CLOSE SHOT: arly.
+ARLY: get down from there before i show you.
+GEORGE CLEWS' VOICE: now listen, arly -- this ain't your wagon --
+ARLY'S VOICE: neither is it yours -- get down out of there -- before i knock you down.
+
+ARLY: -- and they're headed this way and should get here any minute -- 
+ARLY: where'd you get this?
+ROCKLIN: that belongs to the man who shot at me on table-top -- dave found it.
+
+DAVE: come on -- let's git goin' -- 
+ROCKLIN: where's the girl?
+DAVE: back at the house --
+ROCKLIN: we've got to get her.
+ARLY: you haven't time -- they're coming -- don't you believe me? --
+ROCKLIN: come on --
+DAVE: stubborn as an ole mule. you're puttin' a rope around your neck -- dave runs after rocklin.
+
+DAVE: but what'll we do with the ole lady? 
+ROCKLIN: anything you like.
+DAVE: i'd like to pizen her.
+
+JACKSON: evenin' ma'am -- hate to bother you like this, but -- 
+MISS MARTIN: i'm so glad you've come, mr. garvey, the most awful -- -- why -- what are all these people doing here?
+GARVEY: we're after rocklin -- has he been here?
+MISS MARTIN: oh yes -- here and gone.
+JACKSON: what!
+GARVEY: gone --
+MISS MARTIN: yes -- the two men you sent out are taking him and that horrid old man back to town.
+GARVEY: the clewses -- funny we didn't see them.
+JACKSON: somethin' musta gone wrong -- we better fan out and see what's goin' on.
+GARVEY: but, madam --
+MISS MARTIN: it's very important.
+HAROLDAY: we'll go on and meet you in town.
+GARVEY: perhaps you'd better. i'll meet you in town, jackson.
+JACKSON'S VOICE: right -- come on, men.
+
+GARVEY: -- and you're positive he knows everything? 
+MISS MARTIN: absolutely everything -- he was standing at the window all the time -- the scoundrel.
+
+MISS MARTIN: if you were to ask me, i think the best thing to do is -- garvey stops and glares. 
+GARVEY: i'm not asking you -- and don't bother me with your silly questions -- we've got to do something besides talk.
+MISS MARTIN: you mean -- you have to do something.
+MISS MARTIN: -- this was all your idea, remember.
+GARVEY: my idea -- that's all you know about it.
+THE DOOR TO CLARA'S BEDROOM: it is open and rocklin stands there looking o.s.
+ROCKLIN: if there's anybody else in on it -- speak up, judge.
+
+ROCKLIN: talk. 
+FLASH: of dave.
+DAVE: not you.
+CLOSE SHOT: miss martin. her mouth snaps shut like a trap.
+
+ROCKLIN: ever see that before? 
+GARVEY: no -- it's not mine.
+ROCKLIN: tell me whose it is.
+GARVEY: no -- no -- i don't know --
+
+ANGLE: there is no one in evidence. 
+ARLY'S VOICE: drop that gun.
+
+ROCKLIN: you seem to like to do business through windows, mr. harolday. 
+ROCKLIN: you're not clint's killer, by any chance --
+ARLY: by one bad chance -- juan saw you do it.
+ROCKLIN: well, now we're gettin' some place --
+ARLY: that pouch is his -- juan made it for him a long time ago. didn't you? juan nods.
+
+GARVEY: -- harolday wanted the k.c. like he wanted the santee and the hardman place, for his land scheme -- he planned on breaking up the ranches into small holdings and selling to dirt farmers. he pretended to be on the outs with me so i could get caldwell's confidence. and when red caught me with the crooked cards and threatened to expose me -- harolday shot him. 
+ROCKLIN: why did he kill clint? an' not me?
+GARVEY: that shot was an accident -- it was meant for you. we planned on getting the women to let me handle their business --
+MISS MARTIN: -- and do us out of everything -- you vile -- wicked -- despicable --
+
+ROCKLIN: when he wakes up -- we'll have him put everything on paper. 
+DAVE: well, you'll have to do the writin' -- 'cause i don't know how to write.
+
+CLARA: oh, mr. rocklin -- please -- i think auntie is out of her mind -- she's in her room -- laughing. 
+DAVE: what that ole pelican needs is a good spankin'.
+ARLY: and i'll bet you're just the one who can do it.
+DAVE: yeah -- i believe i am. i know i am.
+ROCKLIN: i guess there's no rush for you to get to garden city, now --
+CLARA: no -- i don't suppose there's any -- rush --
+CLARA: if i was like her, i'd stay in the west.
+ROCKLIN: that means you're goin' back east -- cousin clara?
+CLARA: it's where i belong -- i know that now --
+ROCKLIN: it's good to know where you belong, i reckon -- wish i knew.
+
+ROCKLIN: thanks. 
+ARLY: for what?
+ROCKLIN: everything.
+ARLY: beautiful day.
+ROCKLIN: it didn't start out so beautiful.
+ARLY: that's true of lots of things.
+ROCKLIN: fer instance?
+ARLY: well -- you and -- me.
 

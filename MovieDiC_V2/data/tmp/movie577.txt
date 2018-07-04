@@ -1,525 +1,525 @@
-speaker1: this is mr. mathison. he's a doctor. 
-speaker2: you okay?
+SALESWOMAN: this is mr. mathison. he's a doctor. 
+DR. MATHISON: you okay?
 
-speaker1: an ambulance is on the way. 
-speaker2: is there a name yet?
-speaker3: elijah.
+SALESWOMAN: an ambulance is on the way. 
+DR. MATHISON: is there a name yet?
+WOMAN: elijah.
 
-speaker1: is he supposed to be crying like that? 
-speaker1: can i have him back?
-speaker2: what happened during the delivery?
-speaker3: nothing. it was very quick. the baby just wanted to come right out. there was no problems.
-speaker2: did you drop him?
+WOMAN: is he supposed to be crying like that? 
+WOMAN: can i have him back?
+DR. MATHISON: what happened during the delivery?
+OLDER SALESWOMAN: nothing. it was very quick. the baby just wanted to come right out. there was no problems.
+DR. MATHISON: did you drop him?
 
-speaker1: did you drop this baby? 
-speaker2: christ, no. the baby screams.
-speaker1: please inform the ambulance we have a situation...
-speaker1: i've never seen this... it appears your infant sustained some fractures while in your uterus. his arms and legs are broken.
+DR. MATHISON: did you drop this baby? 
+OLDER SALESWOMAN: christ, no. the baby screams.
+DR. MATHISON: please inform the ambulance we have a situation...
+DR. MATHISON: i've never seen this... it appears your infant sustained some fractures while in your uterus. his arms and legs are broken.
 
-speaker1: someone left these. you want one? 
-speaker1: you like sports?
-speaker2: it's my field. i represent athletes. i'm an agent.
-speaker1: what a coincidence? i'm a male synchronized swimmer and i'm looking for representation. woman is that right?
-speaker1: but i'm afraid of water, so that's been holding my career back a little bit.
-speaker1: you represent someone in philadelphia?
-speaker2: i'm meeting a player from temple university. he's a cornerback. you like football?
-speaker1: not really.
-speaker2: this kid is six foot two, two hundred and forty pounds. he runs the fifty in under six seconds. he's going to be a beat. david studies the excitement in her eyes.
-speaker1: i'm david dunne.
-speaker2: kelly. she goes back to the magazine.
-speaker1: how long are you staying in philly?
-speaker3: sorry. david what are you talking about?
-speaker1: i think you got the wrong idea.
-speaker3: i'm going to find another seat.
+DAVID: someone left these. you want one? 
+DAVID: you like sports?
+WOMAN: it's my field. i represent athletes. i'm an agent.
+DAVID: what a coincidence? i'm a male synchronized swimmer and i'm looking for representation. woman is that right?
+DAVID: but i'm afraid of water, so that's been holding my career back a little bit.
+DAVID: you represent someone in philadelphia?
+WOMAN: i'm meeting a player from temple university. he's a cornerback. you like football?
+DAVID: not really.
+WOMAN: this kid is six foot two, two hundred and forty pounds. he runs the fifty in under six seconds. he's going to be a beat. david studies the excitement in her eyes.
+DAVID: i'm david dunne.
+WOMAN: kelly. she goes back to the magazine.
+DAVID: how long are you staying in philly?
+KELLY: sorry. david what are you talking about?
+DAVID: i think you got the wrong idea.
+KELLY: i'm going to find another seat.
 
-speaker1: you okay, virginia? 
-speaker1: i'll put something on the t.v. maybe we'll find some almost naked guys to inspire you.
+MEGAN: you okay, virginia? 
+MEGAN: i'll put something on the t.v. maybe we'll find some almost naked guys to inspire you.
 
-speaker1: how are you feeling? 
-speaker2: okay.
-speaker1: you are in the emergency room of the university of pennsylvania hospital. you were in a serious accident. how's your vision?
-speaker2: fine.
-speaker1: where were you sitting on the train?
-speaker2: against a window.
-speaker1: in the passenger car?
-speaker2: yes. where are the rest of the passengers?
-speaker1: was your family traveling with you?
-speaker2: no.
-speaker1: did you get up from your seat?
-speaker2: no.
-speaker1: you're certain you were in the passenger car?
-speaker2: yes... why are you looking at me like that?
-speaker1: your train derailed... some kind of malfunction... it took a curve way to fast. a second train collided with yours after it derailed. the debris is spread over one mile. it's unbelievable they said. they only found two people alive so far... you and him.
-speaker1: the man's skull was cracked open and most of his left side was crushed.
-speaker1: and to answer your question, there are two reasons why i'm looking at you like this.
-speaker1: one, because it seems, in a few minutes, you will officially be the only survivor of this train wreck. and two, because you don't have a scratch on you. you didn't break one bone.
+MAN IN SCRUBS: how are you feeling? 
+DAVID: okay.
+MAN IN SCRUBS: you are in the emergency room of the university of pennsylvania hospital. you were in a serious accident. how's your vision?
+DAVID: fine.
+MAN IN SCRUBS: where were you sitting on the train?
+DAVID: against a window.
+MAN IN SCRUBS: in the passenger car?
+DAVID: yes. where are the rest of the passengers?
+MAN IN SCRUBS: was your family traveling with you?
+DAVID: no.
+MAN IN SCRUBS: did you get up from your seat?
+DAVID: no.
+MAN IN SCRUBS: you're certain you were in the passenger car?
+DAVID: yes... why are you looking at me like that?
+MAN IN SCRUBS: your train derailed... some kind of malfunction... it took a curve way to fast. a second train collided with yours after it derailed. the debris is spread over one mile. it's unbelievable they said. they only found two people alive so far... you and him.
+MAN IN SCRUBS: the man's skull was cracked open and most of his left side was crushed.
+MAN IN SCRUBS: and to answer your question, there are two reasons why i'm looking at you like this.
+MAN IN SCRUBS: one, because it seems, in a few minutes, you will officially be the only survivor of this train wreck. and two, because you don't have a scratch on you. you didn't break one bone.
 
-speaker1: i told you! 
-speaker1: they thought everybody on the train died.
-speaker1: i told them they were wrong.
-speaker1: mom even cried.
-speaker1: a lot.
-speaker2: not a lot.
-speaker1: let's go home.
+JEREMY: i told you! 
+JEREMY: they thought everybody on the train died.
+JEREMY: i told them they were wrong.
+JEREMY: mom even cried.
+JEREMY: a lot.
+MEGAN: not a lot.
+JEREMY: let's go home.
 
-speaker1: i don't think i got the job in new york. 
-speaker2: what does that mean?
-speaker1: i'm still going to new york.
-speaker2: i don't want to drag this out too long for jeremy.
-speaker1: i know.
-speaker1: how about in the meantime, you don't sleep in the guestroom anymore? you sleep in our room. i'll sleep down here.
-speaker2: it stopped being our room a long time ago. you should go up and get some rest.
+DAVID: i don't think i got the job in new york. 
+MEGAN: what does that mean?
+DAVID: i'm still going to new york.
+MEGAN: i don't want to drag this out too long for jeremy.
+DAVID: i know.
+DAVID: how about in the meantime, you don't sleep in the guestroom anymore? you sleep in our room. i'll sleep down here.
+MEGAN: it stopped being our room a long time ago. you should go up and get some rest.
 
-speaker1: jeremy, why don't you go sleep with your mom? jeremy i want to sleep here tonight. 
-speaker1: i think it's be better if i was alone. jeremy i won't make any noise.
-speaker1: how about your room then? if you get scared like before, you can come back in here?
+DAVID: jeremy, why don't you go sleep with your mom? jeremy i want to sleep here tonight. 
+DAVID: i think it's be better if i was alone. jeremy i won't make any noise.
+DAVID: how about your room then? if you get scared like before, you can come back in here?
 
-speaker1: elijah... 
-speaker2: i won't get hurt momma! i'm safe!
+MOTHER: elijah... 
+ELIJAH: i won't get hurt momma! i'm safe!
 
-speaker1: sarah elaston, social worker at broad and locust community center. we pray for your soul. kevin elliott, business man, father of six. we pray for your soul. glen stevens, researcher in the area of leukemia at drexel university. we pray for your soul. 
-speaker1: ...jennifer pennyman, third grade teacher at jefferson elementary. we pray for your soul.
+PRIEST: sarah elaston, social worker at broad and locust community center. we pray for your soul. kevin elliott, business man, father of six. we pray for your soul. glen stevens, researcher in the area of leukemia at drexel university. we pray for your soul. 
+PRIEST: ...jennifer pennyman, third grade teacher at jefferson elementary. we pray for your soul.
 
-speaker1: i used to play football in college. in my first year as quarterback, we went on this winning streak. it just went on and on. it didn't matter who we played... i'd always win. you get superstitious when something like that happens. you give things meaning. like you wear the same color socks each game or you listen to the same b.b. king song before you leave the apartment. i wouldn't even untie the shoelaces on my cleats. i'd just slip them on and off so nothing would change... i gave things meaning that had no meaning. i'm here to make sure i'm not making shoelaces into something they're not again. i was the only person to survive that accident. the only one... it feels like it means something. 
-speaker2: are you a religious man, david? david nods, "no."
-speaker2: good. because i'm going to talk to you as a man. not as a man of the cloth.
-speaker1: okay.
-speaker2: it was luck.
-speaker1: what do you mean?
-speaker2: luck... random... without meaning.
-speaker2: three years ago, my cousin died on a plane that crashed on take off at philadelphia international airport. do you remember that crash?
-speaker2: i prayed and prayed and finally found some meaning in the event. it gave me peace... and then not quite a year later, an entire family from my parish burned to death in a hotel fire downtown... again i prayed. again i found meaning. just two days ago, my nephew rode with you on that train back from new york. he was traveling alone for the first time.
-speaker2: i'm sorry if i can't react to your survival with the appropriate 'it was the hand of it was a miracle.' kind of answer... i'm fresh out of those right now. david is shaken. beat. david the metal of the watch i was wearing was crushed like a sledge hammer hit it.
-speaker2: my twelve year old nephew's neck was broken in four places... what's your point? you were chosen? i don't think so.
+DAVID: i used to play football in college. in my first year as quarterback, we went on this winning streak. it just went on and on. it didn't matter who we played... i'd always win. you get superstitious when something like that happens. you give things meaning. like you wear the same color socks each game or you listen to the same b.b. king song before you leave the apartment. i wouldn't even untie the shoelaces on my cleats. i'd just slip them on and off so nothing would change... i gave things meaning that had no meaning. i'm here to make sure i'm not making shoelaces into something they're not again. i was the only person to survive that accident. the only one... it feels like it means something. 
+PRIEST: are you a religious man, david? david nods, "no."
+PRIEST: good. because i'm going to talk to you as a man. not as a man of the cloth.
+DAVID: okay.
+PRIEST: it was luck.
+DAVID: what do you mean?
+PRIEST: luck... random... without meaning.
+PRIEST: three years ago, my cousin died on a plane that crashed on take off at philadelphia international airport. do you remember that crash?
+PRIEST: i prayed and prayed and finally found some meaning in the event. it gave me peace... and then not quite a year later, an entire family from my parish burned to death in a hotel fire downtown... again i prayed. again i found meaning. just two days ago, my nephew rode with you on that train back from new york. he was traveling alone for the first time.
+PRIEST: i'm sorry if i can't react to your survival with the appropriate 'it was the hand of it was a miracle.' kind of answer... i'm fresh out of those right now. david is shaken. beat. david the metal of the watch i was wearing was crushed like a sledge hammer hit it.
+PRIEST: my twelve year old nephew's neck was broken in four places... what's your point? you were chosen? i don't think so.
 
-speaker1: yes? 
-speaker2: is noel in?
-speaker1: no sir he is not. i read about you in the paper.
-speaker2: oh.
-speaker1: i was in an accident once too. a horse almost trampled me to death.
-speaker2: wow.
-speaker1: i had to put him down.
-speaker2: that's a sad story. do you think you could ask noel something for me?
-speaker1: proceed.
-speaker2: ask if he can check how many sick days i've taken since i've worked here?
-speaker1: is that the entire message?
-speaker2: yes.
+ANCIENT SECRETARY: yes? 
+DAVID: is noel in?
+ANCIENT SECRETARY: no sir he is not. i read about you in the paper.
+DAVID: oh.
+ANCIENT SECRETARY: i was in an accident once too. a horse almost trampled me to death.
+DAVID: wow.
+ANCIENT SECRETARY: i had to put him down.
+DAVID: that's a sad story. do you think you could ask noel something for me?
+ANCIENT SECRETARY: proceed.
+DAVID: ask if he can check how many sick days i've taken since i've worked here?
+ANCIENT SECRETARY: is that the entire message?
+DAVID: yes.
 
-speaker1: you know what i think about to calm down? i think about those big fat, hundred and twenty pound turtles that live in the islands. those suckers never get angry, never get in fights and live longer than all of us and all they do all is sit on the beach and hump other turtles. why don't we take a second and think about the turtles? 
-speaker2: yeah jerry why don't you think about the fat turtles... like your fat son on the field jeopardizing the rest of our chances at a championship.
+DAVID: you know what i think about to calm down? i think about those big fat, hundred and twenty pound turtles that live in the islands. those suckers never get angry, never get in fights and live longer than all of us and all they do all is sit on the beach and hump other turtles. why don't we take a second and think about the turtles? 
+FATHER: yeah jerry why don't you think about the fat turtles... like your fat son on the field jeopardizing the rest of our chances at a championship.
 
-speaker1: hey noel. 
-speaker2: forty dollars.
-speaker1: what?
-speaker2: you're getting a forty dollar raise per week... that's it.
-speaker2: i checked. you were right. you've never taken a sick day. five years, no sick days. i get it. you want a raise. you made your point.
-speaker2: all right fifty dollars and that's the limit. are we done here?
+DAVID: hey noel. 
+NOEL: forty dollars.
+DAVID: what?
+NOEL: you're getting a forty dollar raise per week... that's it.
+NOEL: i checked. you were right. you've never taken a sick day. five years, no sick days. i get it. you want a raise. you made your point.
+NOEL: all right fifty dollars and that's the limit. are we done here?
 
-speaker1: no more sitting in this room. i've let it go on long enough. 
-speaker2: i'm not going out anymore. i'm not getting hurt again. this was the last time. i told you.
-speaker1: you can't do anything about that. you might fall between that chair and this television. if that's what has planned for you, that's what's going to happen. you can't hide from it in your room.
-speaker2: they call me mr. glass at school. cause i break like glass. elijah's face is tense. unyielding. beat.
-speaker1: ...you make this decision now to be afraid... and you'll never turn back your whole life. you'll always be afraid.
-speaker1: ...i got a present for you.
-speaker2: why?
-speaker1: forget why. do you want it or not?
-speaker1: well, go get it then.
-speaker2: where is it?
-speaker1: on a bench, across the street.
-speaker1: you calling me a liar?
-speaker2: someone's gonna take it.
-speaker1: then you better get out there soon.
+ELIJAH'S MOTHER: no more sitting in this room. i've let it go on long enough. 
+ELIJAH: i'm not going out anymore. i'm not getting hurt again. this was the last time. i told you.
+ELIJAH'S MOTHER: you can't do anything about that. you might fall between that chair and this television. if that's what has planned for you, that's what's going to happen. you can't hide from it in your room.
+ELIJAH: they call me mr. glass at school. cause i break like glass. elijah's face is tense. unyielding. beat.
+ELIJAH'S MOTHER: ...you make this decision now to be afraid... and you'll never turn back your whole life. you'll always be afraid.
+ELIJAH'S MOTHER: ...i got a present for you.
+ELIJAH: why?
+ELIJAH'S MOTHER: forget why. do you want it or not?
+ELIJAH'S MOTHER: well, go get it then.
+ELIJAH: where is it?
+ELIJAH'S MOTHER: on a bench, across the street.
+ELIJAH'S MOTHER: you calling me a liar?
+ELIJAH: someone's gonna take it.
+ELIJAH'S MOTHER: then you better get out there soon.
 
-speaker1: i bought a whole bunch. they'll be one of these waiting for you, every time you want to come out here. 
-speaker1: they said this one has a surprise ending.
+ELIJAH'S MOTHER: i bought a whole bunch. they'll be one of these waiting for you, every time you want to come out here. 
+ELIJAH'S MOTHER: they said this one has a surprise ending.
 
-speaker1: this is from fritz champion's own library. this is before the first issue of the comic book hit the stands in 1968. 
-speaker2: it's a classic depiction of good versus evil. notice the square jaw of slayer - common in most comic book heroes. and the slightly disproportionate size of jaguaro's body to his head. this again is common, but only in villains... the thing to notice about this piece... the thing that makes it very, very special... is its realistic depiction of its figures. when the characters eventually made it into the magazine they were exaggerated... as always happens. this is vintage.
-speaker3: wrap it up.
-speaker2: you've made a considerably wise decision.
-speaker3: my kid's gonna go berserk.
-speaker2: once again please?
-speaker3: my son jeb. it's a gift for him.
-speaker2: how old is jeb?
-speaker3: four.
-speaker2: no.
-speaker2: no, no, no, no no... you need to go now.
-speaker3: what did i say?
-speaker2: do you see any telletubbies around here?... do you see a slender plastic tag clipped to my shirt with my name printed on it?... do you see a little asian child with a blank expression sitting outside in a mechanical helicopter that shakes when you put a quarter in it?... no?... well that's what you see at a toy store? any you must think this is a toy store, cause you're in here shopping for an infant named jeb. one of us has made a gross error and wasted the other person's valuable time...
-speaker2: this is an art gallery my friend. this is piece of art...
-speaker2: this is one of seventeen original drawings by fritz champion remaining in the world. it's value will triple every year... this piece is to be treasured. to be cherished... to be coveted by every single one of your banker friends that think they're better than you.
-speaker3: what if i kept it?
-speaker2: i'm listening.
-speaker3: i'll keep it in my office room.
-speaker2: what about jeb?
-speaker3: i have a lock on the door.
-speaker2: will it be near a window?
-speaker4: no direct sunlight will fall on it.
-speaker2: come back in three days. i'll think about it.
-speaker2: we're by appointment only.
-speaker1: i received a card from your store.
-speaker2: congratulations, you have a mailbox... the sale isn't for two weeks.
-speaker1: this one was under the windshield of my car.
-speaker2: you've never been sick?
-speaker5: i don't know for sure. ...i don't think so.
-speaker2: well if this ain't a riddle worthy of the riddler?
+MAN: this is from fritz champion's own library. this is before the first issue of the comic book hit the stands in 1968. 
+ELIJAH: it's a classic depiction of good versus evil. notice the square jaw of slayer - common in most comic book heroes. and the slightly disproportionate size of jaguaro's body to his head. this again is common, but only in villains... the thing to notice about this piece... the thing that makes it very, very special... is its realistic depiction of its figures. when the characters eventually made it into the magazine they were exaggerated... as always happens. this is vintage.
+BUSINESS MAN: wrap it up.
+ELIJAH: you've made a considerably wise decision.
+BUSINESS MAN: my kid's gonna go berserk.
+ELIJAH: once again please?
+BUSINESS MAN: my son jeb. it's a gift for him.
+ELIJAH: how old is jeb?
+BUSINESS MAN: four.
+ELIJAH: no.
+ELIJAH: no, no, no, no no... you need to go now.
+BUSINESS MAN: what did i say?
+ELIJAH: do you see any telletubbies around here?... do you see a slender plastic tag clipped to my shirt with my name printed on it?... do you see a little asian child with a blank expression sitting outside in a mechanical helicopter that shakes when you put a quarter in it?... no?... well that's what you see at a toy store? any you must think this is a toy store, cause you're in here shopping for an infant named jeb. one of us has made a gross error and wasted the other person's valuable time...
+ELIJAH: this is an art gallery my friend. this is piece of art...
+ELIJAH: this is one of seventeen original drawings by fritz champion remaining in the world. it's value will triple every year... this piece is to be treasured. to be cherished... to be coveted by every single one of your banker friends that think they're better than you.
+BUSINESS MAN: what if i kept it?
+ELIJAH: i'm listening.
+BUSINESS MAN: i'll keep it in my office room.
+ELIJAH: what about jeb?
+BUSINESS MAN: i have a lock on the door.
+ELIJAH: will it be near a window?
+BUSINESSMAN: no direct sunlight will fall on it.
+ELIJAH: come back in three days. i'll think about it.
+ELIJAH: we're by appointment only.
+MAN: i received a card from your store.
+ELIJAH: congratulations, you have a mailbox... the sale isn't for two weeks.
+MAN: this one was under the windshield of my car.
+ELIJAH: you've never been sick?
+DAVID: i don't know for sure. ...i don't think so.
+ELIJAH: well if this ain't a riddle worthy of the riddler?
 
-speaker1: so let's get some of the usual questions out of the way. why am i using a cane? raise your hand if you were thinking that. 
-speaker1: i fractured my leg. it's the fifth time i've done that particular bone. it didn't really heal well this time.
-speaker1: raise your hand is you're wondering who the breaks the same bone five times?
-speaker1: i have something called osteogenesis imperfecta. it's a genetic disorder. i don't make this particular type of protein very well and it makes my bones very low in density, very easy to break. i've had fifty-four breaks in my life. i have the tamest version of the disorder... type one. there are type two, type three, and type four. type four's don't make it very long... that ends our lecture on the medical anomaly known as elijah price.
-speaker1: how certain are you that you haven't been sick in your life?
-speaker2: seventy-five percent.
-speaker1: seventy-five percent? that's not nearly good enough for me. i'm extremely skeptical.
-speaker2: skeptical about what?
-speaker1: your answer to my question. it's one thing to have never been injured in your life, but to state that you've never taken ill, well that's a whole new level.
-speaker3: dad's been injured.
-speaker1: what's he talking about?
-speaker2: in college. a car accident.
-speaker1: was it serious?
-speaker3: he couldn't play football anymore.
-speaker1: i assumed because of the train.
-speaker2: you assumed wrong.
-speaker1: it's over. you can go now.
+ELIJAH: so let's get some of the usual questions out of the way. why am i using a cane? raise your hand if you were thinking that. 
+ELIJAH: i fractured my leg. it's the fifth time i've done that particular bone. it didn't really heal well this time.
+ELIJAH: raise your hand is you're wondering who the breaks the same bone five times?
+ELIJAH: i have something called osteogenesis imperfecta. it's a genetic disorder. i don't make this particular type of protein very well and it makes my bones very low in density, very easy to break. i've had fifty-four breaks in my life. i have the tamest version of the disorder... type one. there are type two, type three, and type four. type four's don't make it very long... that ends our lecture on the medical anomaly known as elijah price.
+ELIJAH: how certain are you that you haven't been sick in your life?
+DAVID: seventy-five percent.
+ELIJAH: seventy-five percent? that's not nearly good enough for me. i'm extremely skeptical.
+DAVID: skeptical about what?
+ELIJAH: your answer to my question. it's one thing to have never been injured in your life, but to state that you've never taken ill, well that's a whole new level.
+JEREMY: dad's been injured.
+ELIJAH: what's he talking about?
+DAVID: in college. a car accident.
+ELIJAH: was it serious?
+JEREMY: he couldn't play football anymore.
+ELIJAH: i assumed because of the train.
+DAVID: you assumed wrong.
+ELIJAH: it's over. you can go now.
 
-speaker1: i think you skipped a couple steps. 
-speaker1: you forgot the "now i'm going to tell you what the is going on" step. see usually that comes before the, "it's over" step. and it always, always comes before the "you can go" step. what is over?
-speaker2: the life of an idea that has lived too long in my head.
-speaker2: there are probably only four or five individuals in the world who can claim more knowledge of comics than myself. i've spent a third of my life in a hospital bed with nothing else to do but read. i have studied the form intimately. i have seen the patterns in them... the references to social and cultural events and the atmosphere that surrounded them. i've come to believe that comics are our last link to the ancient way of passing on history.
-speaker2: the egyptians drew pictures on walls about battles, and events. countries all around the world still pass on knowledge through pictorial forms. i believe that comics, just at their core now... have a truth. they are depicting what someone, somewhere felt or experienced. then of course that core got chewed up in the commercial machine and gets jazzed up, made titillating - cartooned for the sale rack.
-speaker2: this city has had its share of disasters. well publicized ones. it was around the time of that plane crash, when it first entered my head. and there it stayed, as i waited and watched the news over the years... and then one day i see a news report on a train accident and its sole survivor who was miraculously unharmed. and just like that, an idea blossoms into the flower of possible reality.
-speaker1: what was your idea elijah? beat. elijah if there is someone like me in the world, and i'm at one end of the spectrum... couldn't there be someone the opposite of me, at the other end? a person who can't be hurt like the rest of us. a kind of person they were talking about in those stories. elijah points at the framed comic sketches. elijah a person they believed was put here to protect the rest of us. guard us.
-speaker3: you thought my dad was a real-
-speaker1: jeremy don't take another sip of that drink.
-speaker1: throw it in the trashcan near the door and wait for me outside. do it now please.
-speaker1: at the church... you were following me weren't you?
-speaker2: technically no. i gambled that you would attend the church service. i just waited for you.
-speaker1: what's this about? this is obviously some scam. is this where you tell me one of those pictures is like an investment?
-speaker2: you've misunderstood.
-speaker1: i see guys like you all the time in my work. you find someone you think is emotionally vulnerable and you tell them a fantastic story, utterly convincing... and somewhere in there, you slip it in... 'i just need your credit card number','i just need a small down payment.'
-speaker1: did you know that this morning was the first morning i can remember, that i didn't open my eyes and feel that sadness... do you know what i'm talking about? that little bit of sadness? i thought the person that wrote that note had an answer for me. for why i survived that train. for why my life feels so out of balance... but i guess that's what you were counting on.
-speaker1: i'm going to leave now. good luck with your sale.
-speaker2: what type of job do you have david?
-speaker2: you mentioned you've met 'guys like me' in your work. what type of job would that be?
-speaker1: i work at the stadium as a security guard.
+DAVID: i think you skipped a couple steps. 
+DAVID: you forgot the "now i'm going to tell you what the is going on" step. see usually that comes before the, "it's over" step. and it always, always comes before the "you can go" step. what is over?
+ELIJAH: the life of an idea that has lived too long in my head.
+ELIJAH: there are probably only four or five individuals in the world who can claim more knowledge of comics than myself. i've spent a third of my life in a hospital bed with nothing else to do but read. i have studied the form intimately. i have seen the patterns in them... the references to social and cultural events and the atmosphere that surrounded them. i've come to believe that comics are our last link to the ancient way of passing on history.
+ELIJAH: the egyptians drew pictures on walls about battles, and events. countries all around the world still pass on knowledge through pictorial forms. i believe that comics, just at their core now... have a truth. they are depicting what someone, somewhere felt or experienced. then of course that core got chewed up in the commercial machine and gets jazzed up, made titillating - cartooned for the sale rack.
+ELIJAH: this city has had its share of disasters. well publicized ones. it was around the time of that plane crash, when it first entered my head. and there it stayed, as i waited and watched the news over the years... and then one day i see a news report on a train accident and its sole survivor who was miraculously unharmed. and just like that, an idea blossoms into the flower of possible reality.
+DAVID: what was your idea elijah? beat. elijah if there is someone like me in the world, and i'm at one end of the spectrum... couldn't there be someone the opposite of me, at the other end? a person who can't be hurt like the rest of us. a kind of person they were talking about in those stories. elijah points at the framed comic sketches. elijah a person they believed was put here to protect the rest of us. guard us.
+JEREMY: you thought my dad was a real-
+DAVID: jeremy don't take another sip of that drink.
+DAVID: throw it in the trashcan near the door and wait for me outside. do it now please.
+DAVID: at the church... you were following me weren't you?
+ELIJAH: technically no. i gambled that you would attend the church service. i just waited for you.
+DAVID: what's this about? this is obviously some scam. is this where you tell me one of those pictures is like an investment?
+ELIJAH: you've misunderstood.
+DAVID: i see guys like you all the time in my work. you find someone you think is emotionally vulnerable and you tell them a fantastic story, utterly convincing... and somewhere in there, you slip it in... 'i just need your credit card number','i just need a small down payment.'
+DAVID: did you know that this morning was the first morning i can remember, that i didn't open my eyes and feel that sadness... do you know what i'm talking about? that little bit of sadness? i thought the person that wrote that note had an answer for me. for why i survived that train. for why my life feels so out of balance... but i guess that's what you were counting on.
+DAVID: i'm going to leave now. good luck with your sale.
+ELIJAH: what type of job do you have david?
+ELIJAH: you mentioned you've met 'guys like me' in your work. what type of job would that be?
+DAVID: i work at the stadium as a security guard.
 
-speaker1: dunne, it's jenkins, we got a guy at gate 17c with a bogus ticket. says he knows you. he won't tell me his name. david what's he look like? 
-speaker1: he's got the most beautiful eyes... the kind of question is that? he's a guy. david send him packing. i'm not walking all the way over there.
-speaker1: consider him packed. i didn't like his attitude... struttin around with a cane and beat. david hold up jenkins...
+WALKIE: dunne, it's jenkins, we got a guy at gate 17c with a bogus ticket. says he knows you. he won't tell me his name. david what's he look like? 
+WALKIE: he's got the most beautiful eyes... the kind of question is that? he's a guy. david send him packing. i'm not walking all the way over there.
+WALKIE: consider him packed. i didn't like his attitude... struttin around with a cane and beat. david hold up jenkins...
 
-speaker1: they said i couldn't get in with my ticket. 
-speaker2: it's for last week's game.
-speaker1: i've come to understand that... an ill advised purchase in the parking lot.
-speaker2: what do you want?
-speaker1: not money. but i appreciate your healthy cynicism in the manner. it will be wise for both of us to proceed with greatest caution.
-speaker2: we're not proceeding anywhere together.
-speaker1: we've already begun.
-speaker2: one more time. what is it you want?
-speaker1: why is it, do you think, that of all the professions in the world... you chose protection?
-speaker2: are you for real?
-speaker1: you could have poured coffee in starbucks, you could have learned to install track lighting in office buildings, you could have told people their horoscopes on the internet... you could have been one of ten thousand things... but in the end, you chose to protect people. you made that decision... and i find that very, very interesting. now all i need is your credit card number.
-speaker1: that last part was a joke.
-speaker2: i got this job because my college coach called the guy who manages the stadium. there's no hidden meaning to it.
-speaker2: they need me at the gate.
-speaker2: did you really want to see the game? i can get you in.
+ELIJAH: they said i couldn't get in with my ticket. 
+DAVID: it's for last week's game.
+ELIJAH: i've come to understand that... an ill advised purchase in the parking lot.
+DAVID: what do you want?
+ELIJAH: not money. but i appreciate your healthy cynicism in the manner. it will be wise for both of us to proceed with greatest caution.
+DAVID: we're not proceeding anywhere together.
+ELIJAH: we've already begun.
+DAVID: one more time. what is it you want?
+ELIJAH: why is it, do you think, that of all the professions in the world... you chose protection?
+DAVID: are you for real?
+ELIJAH: you could have poured coffee in starbucks, you could have learned to install track lighting in office buildings, you could have told people their horoscopes on the internet... you could have been one of ten thousand things... but in the end, you chose to protect people. you made that decision... and i find that very, very interesting. now all i need is your credit card number.
+ELIJAH: that last part was a joke.
+DAVID: i got this job because my college coach called the guy who manages the stadium. there's no hidden meaning to it.
+DAVID: they need me at the gate.
+DAVID: did you really want to see the game? i can get you in.
 
-speaker1: it gets heaviest ten minutes before kickoff. 
-speaker1: why don't we pat down?
-speaker1: just give me a minute.
-speaker2: is there a problem?
-speaker1: that guy in green. sometimes people carry weapons in here. then they drink too much. they're team isn't doing so well, bad things happen... we do random pat downs of the crowd to discourage people from carrying. if he's carrying, he'll step out of line.
+DAVID: it gets heaviest ten minutes before kickoff. 
+DAVID: why don't we pat down?
+DAVID: just give me a minute.
+ELIJAH: is there a problem?
+DAVID: that guy in green. sometimes people carry weapons in here. then they drink too much. they're team isn't doing so well, bad things happen... we do random pat downs of the crowd to discourage people from carrying. if he's carrying, he'll step out of line.
 
-speaker1: i got you a seat in the seven hundred level. it's nose-bleed territory, but at least you won't get spit on. 
-speaker2: how did you know that man you bumped was carrying a weapon?
-speaker1: probably the army jacket. those guys carry hunting knives and stuff for show.
-speaker2: you thought he was carrying a knife?
-speaker1: i thought he was carrying something.
-speaker2: but not a knife?
-speaker1: i got this picture of a silver handled gun tucked in his pants. like on t.v.
-speaker2: you have good instincts when it comes to things like that?
-speaker1: like what?
-speaker2: telling when people have done something wrong?
-speaker1: yes.
-speaker2: have you ever tried to develop it?
-speaker1: i don't know what you're asking?
-speaker2: you're skill.
-speaker1: listen. i got to be on the sidelines during the game... you can get to your seat by taking the stairwell at-
-speaker2: characters in comic books are often attributed special powers. x-ray vision, things of that sort.
-speaker1: okay, i don't want to play this game anymore.
-speaker2: it's an exaggeration of the truth. maybe it's based on something as simple as instinct. like being able to touch someone and tell whether they've done something wrong... or the level of what they've done wrong.
-speaker1: the guy might not have been carrying anything.
-speaker2: or he might have been carrying a silver handled gun tucked in his pants.
-speaker1: i have to go now.
-speaker2: one last question.
-speaker1: quick.
-speaker2: the car accident you were in... was there anyone else involved?
-speaker1: yes. my wife megan. she was in the car with me.
-speaker1: have a good life elijah and try to buy your tickets at an authorized sales location.
+DAVID: i got you a seat in the seven hundred level. it's nose-bleed territory, but at least you won't get spit on. 
+ELIJAH: how did you know that man you bumped was carrying a weapon?
+DAVID: probably the army jacket. those guys carry hunting knives and stuff for show.
+ELIJAH: you thought he was carrying a knife?
+DAVID: i thought he was carrying something.
+ELIJAH: but not a knife?
+DAVID: i got this picture of a silver handled gun tucked in his pants. like on t.v.
+ELIJAH: you have good instincts when it comes to things like that?
+DAVID: like what?
+ELIJAH: telling when people have done something wrong?
+DAVID: yes.
+ELIJAH: have you ever tried to develop it?
+DAVID: i don't know what you're asking?
+ELIJAH: you're skill.
+DAVID: listen. i got to be on the sidelines during the game... you can get to your seat by taking the stairwell at-
+ELIJAH: characters in comic books are often attributed special powers. x-ray vision, things of that sort.
+DAVID: okay, i don't want to play this game anymore.
+ELIJAH: it's an exaggeration of the truth. maybe it's based on something as simple as instinct. like being able to touch someone and tell whether they've done something wrong... or the level of what they've done wrong.
+DAVID: the guy might not have been carrying anything.
+ELIJAH: or he might have been carrying a silver handled gun tucked in his pants.
+DAVID: i have to go now.
+ELIJAH: one last question.
+DAVID: quick.
+ELIJAH: the car accident you were in... was there anyone else involved?
+DAVID: yes. my wife megan. she was in the car with me.
+DAVID: have a good life elijah and try to buy your tickets at an authorized sales location.
 
-speaker1: was it sold out? 
-speaker2: you know how mad your mom would be if she knew you were playing football?
-speaker1: are you going to tell?
-speaker1: you want yo play the last downs? we got a big guy like you. you can play on opposite sides.
-speaker1: he's potter's cousin. he's the starting corner back for temple university.
-speaker1: he going pro in the draft. they say he can run the fifty-
-speaker2: in under six seconds. i've heard.
-speaker2: i'm going to go in.
-speaker1: just play one set of downs.
-speaker2: why'd you do that?
-speaker1: just one-
-speaker2: jeremy. i'm going in. i have to do some things.
-speaker1: what things?
-speaker2: i'm going to work out.
-speaker1: i'll help you.
-speaker2: there's nothing to do. jeremy turns back to the children and waves. jeremy i can't play! i'm working out with my dad!
+JEREMY: was it sold out? 
+DAVID: you know how mad your mom would be if she knew you were playing football?
+JEREMY: are you going to tell?
+JEREMY: you want yo play the last downs? we got a big guy like you. you can play on opposite sides.
+JEREMY: he's potter's cousin. he's the starting corner back for temple university.
+JEREMY: he going pro in the draft. they say he can run the fifty-
+DAVID: in under six seconds. i've heard.
+DAVID: i'm going to go in.
+JEREMY: just play one set of downs.
+DAVID: why'd you do that?
+JEREMY: just one-
+DAVID: jeremy. i'm going in. i have to do some things.
+JEREMY: what things?
+DAVID: i'm going to work out.
+JEREMY: i'll help you.
+DAVID: there's nothing to do. jeremy turns back to the children and waves. jeremy i can't play! i'm working out with my dad!
 
-speaker1: why don't you rest now? i'll take it from here. you've been a big help. 
-speaker2: you think you could beat up mike tyson? i mean before he started wiggin out and eating people's ears?
-speaker1: no.
-speaker2: what if you worked out everyday for six months? you think you could beat him then?
-speaker1: no.
-speaker2: what if you only ate foods that were good for you and you worked out everyday for a year?
-speaker1: no.
-speaker1: how much did you put on there?
-speaker1: you put too much. that's two hundred and fifty pounds.
-speaker2: how much can you lift?
-speaker1: that's the most i've ever lifted. that could have been dangerous jeremy. why don't you go upstairs and let me finish up?
-speaker2: i'll take it off. i'll help you right.
-speaker2: you think you could have beaten up bruce lee?
-speaker1: no.
-speaker2: i mean if you knew karate?
-speaker1: no jeremy.
-speaker2: what if he wasn't aloud to kick and you were really mad at him?
-speaker1: no.
-speaker1: how much did you take off?
-speaker2: i lied.
-speaker1: you added?
-speaker1: okay.
+DAVID: why don't you rest now? i'll take it from here. you've been a big help. 
+JEREMY: you think you could beat up mike tyson? i mean before he started wiggin out and eating people's ears?
+DAVID: no.
+JEREMY: what if you worked out everyday for six months? you think you could beat him then?
+DAVID: no.
+JEREMY: what if you only ate foods that were good for you and you worked out everyday for a year?
+DAVID: no.
+DAVID: how much did you put on there?
+DAVID: you put too much. that's two hundred and fifty pounds.
+JEREMY: how much can you lift?
+DAVID: that's the most i've ever lifted. that could have been dangerous jeremy. why don't you go upstairs and let me finish up?
+JEREMY: i'll take it off. i'll help you right.
+JEREMY: you think you could have beaten up bruce lee?
+DAVID: no.
+JEREMY: i mean if you knew karate?
+DAVID: no jeremy.
+JEREMY: what if he wasn't aloud to kick and you were really mad at him?
+DAVID: no.
+DAVID: how much did you take off?
+JEREMY: i lied.
+DAVID: you added?
+DAVID: okay.
 
-speaker1: why don't you move back a bit? just to be safe. 
-speaker2: more?
+DAVID: why don't you move back a bit? just to be safe. 
+JEREMY: more?
 
-speaker1: you should never try anything like this. you know that right? 
-speaker1: what do you do if something happens? jeremy get mom.
-speaker1: how many did you put on that time? jeremy all of it.
-speaker1: there's no more left?
-speaker1: what else can we use?
+DAVID: you should never try anything like this. you know that right? 
+DAVID: what do you do if something happens? jeremy get mom.
+DAVID: how many did you put on that time? jeremy all of it.
+DAVID: there's no more left?
+DAVID: what else can we use?
 
-speaker1: yeah, hello. woman is david dunne there? 
-speaker1: megan? megan yes. is this david?
-speaker1: yeah? megan where are you calling from? megan my name is megan inverso. we went to college together.
-speaker1: i remember you. megan i was hoping you would call me, but... anyway i decided not to wait. i was thinking, it might be nice to go to dinner together. beat. megan ...hello?
-speaker1: yeah it might be nice.
+DAVID: yeah, hello. woman is david dunne there? 
+DAVID: megan? megan yes. is this david?
+DAVID: yeah? megan where are you calling from? megan my name is megan inverso. we went to college together.
+DAVID: i remember you. megan i was hoping you would call me, but... anyway i decided not to wait. i was thinking, it might be nice to go to dinner together. beat. megan ...hello?
+DAVID: yeah it might be nice.
 
-speaker1: ...when you work with clients on machines, do they sometimes just jump up a level or two? do something they didn't know they were capable of? 
-speaker2: not often, but it is possible. most people get scared when they see the shadow of their limits. they don't know how long the shadow really is. they don't know how far away the real limits are standing... they stop out of fear.
-speaker2: this is kind of strange isn't it?
-speaker2: we're not even acting like ourselves.
-speaker2: like that. your mouth's dirty. you tapped your napkin to your lips. you only do that when you're with someone you don't know.
-speaker1: what do i do when i'm around someone i know?
-speaker2: you use your sleeve. they both smile at each other. beat. woman megan?
-speaker3: i thought it was you.
-speaker2: hi. this is claire. her son is in jeremy's class. claire and i worked on the school food drive together.
-speaker1: hello.
-speaker4: i'm very happy about this. megan mentioned to me she was considering dating again. megan becomes still. claire i'm sorry, what's your name?
-speaker1: david.
-speaker4: david?
-speaker2: this is my husband.
+DAVID: ...when you work with clients on machines, do they sometimes just jump up a level or two? do something they didn't know they were capable of? 
+MEGAN: not often, but it is possible. most people get scared when they see the shadow of their limits. they don't know how long the shadow really is. they don't know how far away the real limits are standing... they stop out of fear.
+MEGAN: this is kind of strange isn't it?
+MEGAN: we're not even acting like ourselves.
+MEGAN: like that. your mouth's dirty. you tapped your napkin to your lips. you only do that when you're with someone you don't know.
+DAVID: what do i do when i'm around someone i know?
+MEGAN: you use your sleeve. they both smile at each other. beat. woman megan?
+WOMAN: i thought it was you.
+MEGAN: hi. this is claire. her son is in jeremy's class. claire and i worked on the school food drive together.
+DAVID: hello.
+CLAIRE: i'm very happy about this. megan mentioned to me she was considering dating again. megan becomes still. claire i'm sorry, what's your name?
+DAVID: david.
+CLAIRE: david?
+MEGAN: this is my husband.
 
-speaker1: he ate about six of those chocolate covered doughnut holes with his milk. he said he only had three, but i know he had six. 
-speaker2: okay.
-speaker1: my parents sleep in separate beds.
-speaker2: thank you.
-speaker1: by the way, jeremy went to sleep in his room tonight.
-speaker2: his room?
+DYED HAIR GIRL: he ate about six of those chocolate covered doughnut holes with his milk. he said he only had three, but i know he had six. 
+DAVID: okay.
+DYED HAIR GIRL: my parents sleep in separate beds.
+DAVID: thank you.
+DYED HAIR GIRL: by the way, jeremy went to sleep in his room tonight.
+DAVID: his room?
 
-speaker1: they call me mr. glass. beat. physician who does? 
-speaker1: kids.
+ELIJAH: they call me mr. glass. beat. physician who does? 
+ELIJAH: kids.
 
-speaker1: your ten o'clock is here. the hospital discharged him this morning. 
-speaker2: thanks.
-speaker2: elijah right?
+JANIS: your ten o'clock is here. the hospital discharged him this morning. 
+MEGAN: thanks.
+MEGAN: elijah right?
 
-speaker1: we're going to prevent any substantial atrophy of your good leg with this. it works the quadriceps. 
-speaker2: how long have you been married?
-speaker1: twelve years.
-speaker2: how did you get together?
-speaker1: a car accident.
-speaker2: now you're going to have to tell me more.
-speaker1: ...see my husband was a big football star in college and we were in an accident together. our car flipped on an icy road. we were both injured. he couldn't play football anymore. if that hadn't happened, we wouldn't have been together.
-speaker2: how so?
-speaker1: football wasn't the kind of life i wanted... for ten years i'd be by the phone waiting for a call telling me he broke his neck in a practice game. and if it wasn't that call, it would be a call telling me he blew out his knee or suffered his third concussion. i've seen way too much of it in my job... i can barely take it when my clients are in pain. i don't hate the game. i admire the amount of skill it involved and, like everyone else, i was in awe of how he could play it, but i couldn't give him my heart and then have something happen to him. and it always does with that game. it's not a thing many people would understand.
-speaker2: you and my mother would have a special connection.
-speaker1: any way, fate stepped in and took football out of the equation.
-speaker2: ...and everyone lived happily ever after.
-speaker1: sort of.
-speaker2: what part of david's body was injured?
-speaker1: who said my husband's name is david?
+MEGAN: we're going to prevent any substantial atrophy of your good leg with this. it works the quadriceps. 
+ELIJAH: how long have you been married?
+MEGAN: twelve years.
+ELIJAH: how did you get together?
+MEGAN: a car accident.
+ELIJAH: now you're going to have to tell me more.
+MEGAN: ...see my husband was a big football star in college and we were in an accident together. our car flipped on an icy road. we were both injured. he couldn't play football anymore. if that hadn't happened, we wouldn't have been together.
+ELIJAH: how so?
+MEGAN: football wasn't the kind of life i wanted... for ten years i'd be by the phone waiting for a call telling me he broke his neck in a practice game. and if it wasn't that call, it would be a call telling me he blew out his knee or suffered his third concussion. i've seen way too much of it in my job... i can barely take it when my clients are in pain. i don't hate the game. i admire the amount of skill it involved and, like everyone else, i was in awe of how he could play it, but i couldn't give him my heart and then have something happen to him. and it always does with that game. it's not a thing many people would understand.
+ELIJAH: you and my mother would have a special connection.
+MEGAN: any way, fate stepped in and took football out of the equation.
+ELIJAH: ...and everyone lived happily ever after.
+MEGAN: sort of.
+ELIJAH: what part of david's body was injured?
+MEGAN: who said my husband's name is david?
 
-speaker1: there have been three major disasters in this city over the last four years. i've followed each one of them... a seven-three-seven crashes on take off. one hundred and seventy-two die. no survivors... a hotel fire downtown. two hundred and eleven die. no survivors... and am amtrak train derails seven and half miles outside of the city. one hundred and thirty one die. one survivor. he is unharmed. i've spoken with your husband about his survival. i suggested a rather unbelievable explanation. since then, i've come to believe, that my explanation, however unbelievable, is in fact, true. 
-speaker2: and what was that explanation?
-speaker1: it's a mediocre time mrs. dunne. people are starting to lose hope. it's hard for many to believe that extraordinary things live inside themselves as well as others... i hope you can keep an open mind? beat. megan is this a religious thing?
-speaker1: i own a comic book museum. it's called the limited edition. megan for a second there i thought you were a fanatic.
-speaker1: i believe comic books are based loosely on reality - i believe there are real life equivalents of the heroes in those books that walk the earth - i believe your husband is one of those individuals.
-speaker1: i'm glad you brought up fate mrs. dunne. i'm becoming a strong believer in it... see, david refuses to speak with me any longer... and when i saw your name on my insurance list of approved physical therapists... it was like fate had intervened... we were meant to speak to each other.
+ELIJAH: there have been three major disasters in this city over the last four years. i've followed each one of them... a seven-three-seven crashes on take off. one hundred and seventy-two die. no survivors... a hotel fire downtown. two hundred and eleven die. no survivors... and am amtrak train derails seven and half miles outside of the city. one hundred and thirty one die. one survivor. he is unharmed. i've spoken with your husband about his survival. i suggested a rather unbelievable explanation. since then, i've come to believe, that my explanation, however unbelievable, is in fact, true. 
+MEGAN: and what was that explanation?
+ELIJAH: it's a mediocre time mrs. dunne. people are starting to lose hope. it's hard for many to believe that extraordinary things live inside themselves as well as others... i hope you can keep an open mind? beat. megan is this a religious thing?
+ELIJAH: i own a comic book museum. it's called the limited edition. megan for a second there i thought you were a fanatic.
+ELIJAH: i believe comic books are based loosely on reality - i believe there are real life equivalents of the heroes in those books that walk the earth - i believe your husband is one of those individuals.
+ELIJAH: i'm glad you brought up fate mrs. dunne. i'm becoming a strong believer in it... see, david refuses to speak with me any longer... and when i saw your name on my insurance list of approved physical therapists... it was like fate had intervened... we were meant to speak to each other.
 
-speaker1: yeah? david stares hard at the man in front of him. 
-speaker2: we've had some problems with drug selling in this stadium. would you mind if i checked the pockets of your sweatshirt?
-speaker1: why don't you go take care of your business?
-speaker1: and dude, no one carries their merchandise on them any more. they got messengers for that now. that's what they tell me.
+GRAY EYED MAN: yeah? david stares hard at the man in front of him. 
+DAVID: we've had some problems with drug selling in this stadium. would you mind if i checked the pockets of your sweatshirt?
+GRAY EYED MAN: why don't you go take care of your business?
+GRAY EYED MAN: and dude, no one carries their merchandise on them any more. they got messengers for that now. that's what they tell me.
 
-speaker1: is that your dad? 
-speaker1: i bet my dad can beat up you dad.
-speaker2: i don't think so.
+THERMOMETER BOY: is that your dad? 
+THERMOMETER BOY: i bet my dad can beat up you dad.
+JEREMY: i don't think so.
 
-speaker1: ...no, he insisted we only call you. though it took us a while to track down your number. it's not on file here. 
-speaker2: megan handles that type of stuff.
-speaker1: what stuff is that?
-speaker2: jeremy's stuff.
-speaker2: so do i need to put any smelly ointments on him or anything?
-speaker1: it's more emotional damage. it wasn't very serious physically.
-speaker1: nothing like when i sent you to the hospital.
-speaker2: what was that?
-speaker1: my office was on the other side of the building back then. you don't remember me do you?
-speaker1: i had red hair.
-speaker1: i think you were a little younger than jeremy when it happened. did you know we changed the conduct rules of the pool because of you?
-speaker1: the kids still talk about it like some ghost story..."did you know there was a kid that almost drowned in the pool? he got pneumonia and almost died." the nurse shakes her head.
-speaker1: we let them tell it... it helps keep them safe.
-speaker1: are you still phobic of water?
-speaker2: yes i am.
+NURSE: ...no, he insisted we only call you. though it took us a while to track down your number. it's not on file here. 
+DAVID: megan handles that type of stuff.
+NURSE: what stuff is that?
+DAVID: jeremy's stuff.
+DAVID: so do i need to put any smelly ointments on him or anything?
+NURSE: it's more emotional damage. it wasn't very serious physically.
+NURSE: nothing like when i sent you to the hospital.
+DAVID: what was that?
+NURSE: my office was on the other side of the building back then. you don't remember me do you?
+NURSE: i had red hair.
+NURSE: i think you were a little younger than jeremy when it happened. did you know we changed the conduct rules of the pool because of you?
+NURSE: the kids still talk about it like some ghost story..."did you know there was a kid that almost drowned in the pool? he got pneumonia and almost died." the nurse shakes her head.
+NURSE: we let them tell it... it helps keep them safe.
+NURSE: are you still phobic of water?
+DAVID: yes i am.
 
-speaker1: you are like me. we both can get hurt. i'm just an ordinary man. i'm not what you think i am. 
-speaker2: why do you keep saying that?
+DAVID: you are like me. we both can get hurt. i'm just an ordinary man. i'm not what you think i am. 
+JEREMY: why do you keep saying that?
 
-speaker1: he's just laying in bed. he's pretty upset. he won't talk. 
-speaker2: he's dealing with a lot of things. i think he needs to find answers himself.
-speaker1: it's weird to hear you tell me about jeremy. a good weird.
-speaker2: would you like to try going-
-speaker1: yes.
-speaker2: -out again.
-speaker2: but if we see another mother from jeremy's school, me name is juan. i always wanted to be a juan.
-speaker1: oh. elijah price came to visit me at the center today.
-speaker2: 
-speaker1: he didn't do anything. he just told me his theory... it's sad when patients get like that. they loose reality. david jeremy what the are you doing?
-speaker2: -jeremy did you load that gun? jeremy nods, "yes." crying harder now. jeremy -you won't get hurt...
-speaker2: -elijah was wrong.
-speaker1: -sometimes when people are sick or hurt for a long time, like elijah, they're mind gets hurt too.
-speaker1: -they start to think things that aren't true. he hold me what he thought about your father. it isn't true. jeremy -i'll show you.
-speaker2: -you know the story about the kid who almost drowned in the pool?
-speaker2: -that was me they were talking about. i almost died. that was me. jeremy -you're lying.
-speaker2: -i'm not. i just didn't connect it.
-speaker1: -jeremy, your father was injured in college - you know that. you know all about that.
-speaker1: -don't do it. he'll die jeremy.
-speaker2: -jeremy listen to what-
-speaker3: -don't be scared.
-speaker2: -jeremy if you pull that trigger i'm going to leave! i'm going to go to new york.
-speaker2: you're right... if you shoot me, that bullet is going to bounce off me and i won't get hurt... but then i'm going to go upstairs and pack. and then leave to new york. beat. jeremy -why?
+MEGAN: he's just laying in bed. he's pretty upset. he won't talk. 
+DAVID: he's dealing with a lot of things. i think he needs to find answers himself.
+MEGAN: it's weird to hear you tell me about jeremy. a good weird.
+DAVID: would you like to try going-
+MEGAN: yes.
+DAVID: -out again.
+DAVID: but if we see another mother from jeremy's school, me name is juan. i always wanted to be a juan.
+MEGAN: oh. elijah price came to visit me at the center today.
+DAVID: 
+MEGAN: he didn't do anything. he just told me his theory... it's sad when patients get like that. they loose reality. david jeremy what the are you doing?
+DAVID: -jeremy did you load that gun? jeremy nods, "yes." crying harder now. jeremy -you won't get hurt...
+DAVID: -elijah was wrong.
+MEGAN: -sometimes when people are sick or hurt for a long time, like elijah, they're mind gets hurt too.
+MEGAN: -they start to think things that aren't true. he hold me what he thought about your father. it isn't true. jeremy -i'll show you.
+DAVID: -you know the story about the kid who almost drowned in the pool?
+DAVID: -that was me they were talking about. i almost died. that was me. jeremy -you're lying.
+DAVID: -i'm not. i just didn't connect it.
+MEGAN: -jeremy, your father was injured in college - you know that. you know all about that.
+MEGAN: -don't do it. he'll die jeremy.
+DAVID: -jeremy listen to what-
+JEREMY: -don't be scared.
+DAVID: -jeremy if you pull that trigger i'm going to leave! i'm going to go to new york.
+DAVID: you're right... if you shoot me, that bullet is going to bounce off me and i won't get hurt... but then i'm going to go upstairs and pack. and then leave to new york. beat. jeremy -why?
 
-speaker1: joined a rugby league. turned out to be a bad idea. come here i want to show you something. 
-speaker1: look at this. i just noticed this today. david steps in close and studies the drawing.
-speaker1: this is from the sentryman series. a color version of this was actually used in the second issue.
-speaker1: look at this eyes. what do you see?
-speaker1: it's fear. he was scared. they were being honest in the beginning you see. they let him be human. they turned him into a garden variety hero later... then he was brave all the time.
-speaker1: i followed the guy in the army jacket.
-speaker1: he had a silver handled gun tucked in the back of his pants. were you really injured in that car accident in college?
-speaker1: because i think you faked it. i think you took the opportunity to end your career - no questions asked. and i think you did it, of all things, for a women... not only do you have the physical traits of a hero, down somewhere in there, you have the moral code of one too. you were ready to sacrifice everything for what's right. where can you find that these days? only thing you didn't realize is that you were giving up a part of yourself when you gave up football. the physical part. and you need that part desperately to feel balance again... you can have it back now. this was all just make believe before. what if there was someone the opposite of me? what if?... i now believe you are the genuine article mr. david dunne. the kind of person we knew existed, from our history.
-speaker1: it's time for someone like you. bad is winning. i can feel it.
-speaker1: that's not what i witnessed david.
-speaker2: stop messing with my life elijah. my son almost shot me last night. he wanted to prove you were right.
-speaker1: i never said you couldn't be killed. i never said that.
-speaker2: you have a problem, elijah. my wife is right. somewhere along the line one of your bones broke and your mind just broke with it.
-speaker1: are you finished?
-speaker2: no. and i have been sick. i spent a week in a hospital when i was a boy recovering from pneumonia and almost drowning.
-speaker2: two skinny eight year old kids were playing around the pool. they were dunking me. i swallowed water. they didn't know it and they almost killed me. heroes don't get killed like that. normal people do.
-speaker2: i don't want to see you again okay. now i'm finished.
+ELIJAH: joined a rugby league. turned out to be a bad idea. come here i want to show you something. 
+ELIJAH: look at this. i just noticed this today. david steps in close and studies the drawing.
+ELIJAH: this is from the sentryman series. a color version of this was actually used in the second issue.
+ELIJAH: look at this eyes. what do you see?
+ELIJAH: it's fear. he was scared. they were being honest in the beginning you see. they let him be human. they turned him into a garden variety hero later... then he was brave all the time.
+ELIJAH: i followed the guy in the army jacket.
+ELIJAH: he had a silver handled gun tucked in the back of his pants. were you really injured in that car accident in college?
+ELIJAH: because i think you faked it. i think you took the opportunity to end your career - no questions asked. and i think you did it, of all things, for a women... not only do you have the physical traits of a hero, down somewhere in there, you have the moral code of one too. you were ready to sacrifice everything for what's right. where can you find that these days? only thing you didn't realize is that you were giving up a part of yourself when you gave up football. the physical part. and you need that part desperately to feel balance again... you can have it back now. this was all just make believe before. what if there was someone the opposite of me? what if?... i now believe you are the genuine article mr. david dunne. the kind of person we knew existed, from our history.
+ELIJAH: it's time for someone like you. bad is winning. i can feel it.
+ELIJAH: that's not what i witnessed david.
+DAVID: stop messing with my life elijah. my son almost shot me last night. he wanted to prove you were right.
+ELIJAH: i never said you couldn't be killed. i never said that.
+DAVID: you have a problem, elijah. my wife is right. somewhere along the line one of your bones broke and your mind just broke with it.
+ELIJAH: are you finished?
+DAVID: no. and i have been sick. i spent a week in a hospital when i was a boy recovering from pneumonia and almost drowning.
+DAVID: two skinny eight year old kids were playing around the pool. they were dunking me. i swallowed water. they didn't know it and they almost killed me. heroes don't get killed like that. normal people do.
+DAVID: i don't want to see you again okay. now i'm finished.
 
-speaker1: the sitter's here. 
-speaker1: we can do this another time if you want? i'm fine with anything.
-speaker2: but i put cologne on.
-speaker1: is that what that smell is?
+MEGAN: the sitter's here. 
+MEGAN: we can do this another time if you want? i'm fine with anything.
+DAVID: but i put cologne on.
+MEGAN: is that what that smell is?
 
-speaker1: hey man it's twenty after. it's time to close. i gotta head. the top of the man's head doesn't move. beat. 
-speaker1: you better not be jacking off to the japanese comics. i swear to
-speaker1: listen man, i didn't know you were in- just choose something all right?
-speaker1: hello. you understand english?
-speaker1: look man, i'm just gonna wheel you out. you can think about things outside on the sidewalk. i gotta get some chicken in me, you know what i'm saying?
-speaker1: 
-speaker1: dude, i don't care if you are in a wheelchair. if you do that again, i'm calling five-o.
-speaker1: that's it crackerjack! you're going to sit your in jail now. the ponytail man moves to the front counter.
-speaker2: how much is this one?
+PONYTAIL MAN: hey man it's twenty after. it's time to close. i gotta head. the top of the man's head doesn't move. beat. 
+PONYTAIL MAN: you better not be jacking off to the japanese comics. i swear to
+PONYTAIL MAN: listen man, i didn't know you were in- just choose something all right?
+PONYTAIL MAN: hello. you understand english?
+PONYTAIL MAN: look man, i'm just gonna wheel you out. you can think about things outside on the sidewalk. i gotta get some chicken in me, you know what i'm saying?
+PONYTAIL MAN: 
+PONYTAIL MAN: dude, i don't care if you are in a wheelchair. if you do that again, i'm calling five-o.
+PONYTAIL MAN: that's it crackerjack! you're going to sit your in jail now. the ponytail man moves to the front counter.
+ELIJAH: how much is this one?
 
-speaker1: ...i think rust. 
-speaker2: rust?
-speaker1: as a color, not as rust. you know, a rust colored paint or wood?
-speaker2: i didn't know that. mine's still brown.
-speaker1: my turn. what's your favorite song?
-speaker2: soft and wet, by the artist formerly known as prince.
-speaker1: what was that?
-speaker2: we're supposed to be honest.
-speaker1: soft and wet. that's very interesting.
-speaker2: my turn. when was the first time the thought popped into your head that we might not make it?
-speaker1: that's not the game.
-speaker2: it's a second date. there aren't any rules.
-speaker1: i'm not sure.
-speaker2: think carefully?
-speaker1: what about the game?
-speaker2: it's finished. i won.
-speaker2: maybe it wasn't a specific moment, maybe it-
-speaker1: i had a nightmare one night and i didn't wake you up so you could tell me it was okay. i think that was the first time. does that count? megan that counts.
-speaker2: do you knowingly keep jeremy and me at a distance?
-speaker1: yes.
-speaker2: why?
-speaker1: i don't know megan.
-speaker2: it's like you resent us david. resent the life you have.
-speaker2: you know even if it meant we couldn't be together, i would never have wished that injury on you? what you could so physically was a gift. i would never have wished it to go away.
-speaker2: you know that right?
+DAVID: ...i think rust. 
+MEGAN: rust?
+DAVID: as a color, not as rust. you know, a rust colored paint or wood?
+MEGAN: i didn't know that. mine's still brown.
+DAVID: my turn. what's your favorite song?
+MEGAN: soft and wet, by the artist formerly known as prince.
+DAVID: what was that?
+MEGAN: we're supposed to be honest.
+DAVID: soft and wet. that's very interesting.
+MEGAN: my turn. when was the first time the thought popped into your head that we might not make it?
+DAVID: that's not the game.
+MEGAN: it's a second date. there aren't any rules.
+DAVID: i'm not sure.
+MEGAN: think carefully?
+DAVID: what about the game?
+MEGAN: it's finished. i won.
+MEGAN: maybe it wasn't a specific moment, maybe it-
+DAVID: i had a nightmare one night and i didn't wake you up so you could tell me it was okay. i think that was the first time. does that count? megan that counts.
+MEGAN: do you knowingly keep jeremy and me at a distance?
+DAVID: yes.
+MEGAN: why?
+DAVID: i don't know megan.
+MEGAN: it's like you resent us david. resent the life you have.
+MEGAN: you know even if it meant we couldn't be together, i would never have wished that injury on you? what you could so physically was a gift. i would never have wished it to go away.
+MEGAN: you know that right?
 
-speaker1: you got two calls. one came through while i was on the line - i wasn't talking too long. there was an emergency with my sister. she tried to do her own perm and now she looks like- 
-speaker2: who called through?
-speaker1: someone from new york.
-speaker1: about a security job at a museum. they want to hire you. i didn't know you guys were moving to new york. thanks for telling me.
-speaker3: we're not moving.
-speaker1: oh. i let the answering machine pick up the other call.
-speaker1: great.
-speaker3: look let's be honest here. we're just at the beginning. i don't expect you or i to change the course of where our lives were headed because of two dates. if you do go to new york, we can still develop this. we'll just be forced to take it slow. and in the end, that's definitely better. this is our second time around david. i don't expect us to get carried away. i guess congratulations is the right thing to say.
+DYED HAIR GIRL: you got two calls. one came through while i was on the line - i wasn't talking too long. there was an emergency with my sister. she tried to do her own perm and now she looks like- 
+DAVID: who called through?
+DYED HAIR GIRL: someone from new york.
+DYED HAIR GIRL: about a security job at a museum. they want to hire you. i didn't know you guys were moving to new york. thanks for telling me.
+MEGAN: we're not moving.
+DYED HAIR GIRL: oh. i let the answering machine pick up the other call.
+DYED HAIR GIRL: great.
+MEGAN: look let's be honest here. we're just at the beginning. i don't expect you or i to change the course of where our lives were headed because of two dates. if you do go to new york, we can still develop this. we'll just be forced to take it slow. and in the end, that's definitely better. this is our second time around david. i don't expect us to get carried away. i guess congratulations is the right thing to say.
 
-speaker1: megan? 
-speaker1: me too.
-speaker2: is she all right?
-speaker1: i think her leg is fractured.
-speaker2: are you injured?
-speaker2: hold on. i got a c.b. in the truck. the driver moves back to his truck.
+DAVID: megan? 
+DAVID: me too.
+DRIVER: is she all right?
+DAVID: i think her leg is fractured.
+DRIVER: are you injured?
+DRIVER: hold on. i got a c.b. in the truck. the driver moves back to his truck.
 
-speaker1: hello. 
-speaker2: elijah?
-speaker1: david?
+ELIJAH: hello. 
+DAVID'S VOICE: elijah?
+ELIJAH: david?
 
-speaker1: can i come in? 
-speaker2: who are you?
-speaker1: i like your house. can i come in?
-speaker2: what is this? no you can't come in.
-speaker1: are you sure?
-speaker2: what are you doing?
+GLASSY EYED MAN: can i come in? 
+MAN IN HOUSE: who are you?
+GLASSY EYED MAN: i like your house. can i come in?
+MAN IN HOUSE: what is this? no you can't come in.
+GLASSY EYED MAN: are you sure?
+MAN IN HOUSE: what are you doing?
 
-speaker1: ...see the villain's eyes. they're larger than the other characters'. they insinuate a slightly skewed perspective of how they see the world. just off normal. 
-speaker2: he doesn't look very threatening.
-speaker1: that's what i said to my son. he said, there's always two kinds. the soldier villain who fights the hero with his hands, and then there's the real threat. the brilliant and evil arch enemy who fights the hero with his mind.
-speaker2: are you elijah's mother?
-speaker3: i am. i'm helping him with the sale.
-speaker2: it's a pleasure to meet you.
-speaker3: he's spoken of you. he says you're becoming friends.
-speaker2: we are.
-speaker2: he's doing well today.
-speaker3: i'm very proud of him. he's been through a lot in his life. a lot of ups and downs, a lot of bad spells. a couple i'd thought had broken him... i mean emotionally. they were bad... but he made it. yes he did.
-speaker2: he's kind of a miracle.
-speaker3: yes he is.
-speaker3: i'll tell him you're here.
-speaker4: did you see this?
-speaker4: when i saw it this morning. i felt a part of the world again. elijah looks down at the newspaper. david hesitates and then reaches forward.
+WOMAN: ...see the villain's eyes. they're larger than the other characters'. they insinuate a slightly skewed perspective of how they see the world. just off normal. 
+DAVID: he doesn't look very threatening.
+WOMAN: that's what i said to my son. he said, there's always two kinds. the soldier villain who fights the hero with his hands, and then there's the real threat. the brilliant and evil arch enemy who fights the hero with his mind.
+DAVID: are you elijah's mother?
+ELIJAH'S MOTHER: i am. i'm helping him with the sale.
+DAVID: it's a pleasure to meet you.
+ELIJAH'S MOTHER: he's spoken of you. he says you're becoming friends.
+DAVID: we are.
+DAVID: he's doing well today.
+ELIJAH'S MOTHER: i'm very proud of him. he's been through a lot in his life. a lot of ups and downs, a lot of bad spells. a couple i'd thought had broken him... i mean emotionally. they were bad... but he made it. yes he did.
+DAVID: he's kind of a miracle.
+ELIJAH'S MOTHER: yes he is.
+ELIJAH'S MOTHER: i'll tell him you're here.
+ELIJAH: did you see this?
+ELIJAH: when i saw it this morning. i felt a part of the world again. elijah looks down at the newspaper. david hesitates and then reaches forward.
 
-speaker1: what's going on? 
-speaker2: a plane just crashed.
+MAN: what's going on? 
+ELIJAH: a plane just crashed.
 
-speaker1: i've worked here twenty-five years. i know all its secrets. 
-speaker2: secrets? elderly man like if there was ever a fire on floors one, two, or three... everyone in this hotel would be burned alive.
+ELDERLY MAN: i've worked here twenty-five years. i know all its secrets. 
+ELIJAH: secrets? elderly man like if there was ever a fire on floors one, two, or three... everyone in this hotel would be burned alive.
 

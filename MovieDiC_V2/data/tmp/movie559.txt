@@ -1,1073 +1,1073 @@
-speaker1: had enough? 
-speaker2: i believe now would be a good time to end your, uhm, formal training. well done.
-
-speaker1: thank you, sir. 
-speaker2: and have mercy on whomever you meet next.
-
-speaker1: mother...? 
-speaker1: did you see us? you heard us, i'll bet. girard finally surrendered a compliment... though i almost had to kill him to get it... mother...?
-
-speaker1: sit down. 
-speaker2: didn't you hear me? girard --
-speaker1: sit.
-speaker1: your father was a proud man. and he had a right to be. i never knew one as brave or as kind. he knew that his strength was a gift to be given in the service of honor. that is why he dedicated his life to his country and his king. that is why he gave his life, for both.
-speaker1: i watched you this morning and saw someone i knew. you have your father's heart, his will to fight, his courage. but these gifts have no value unless they are given.
-speaker1: it's time for you find your fortune with men as brave and as bold as you are. in paris. with the king's musketeers. you'll need this.
-speaker2: father's sword.
-
-speaker1: forged in the crusades, handed from generation to generation. 
-speaker2: and now to me.
-speaker1: yes, son. and now to you.
-
-speaker1: i'm not your mother now. i'm speaking for your father. and this is what he would have told you. never forget the code of the d'artagnans. it is your special heritage. always seek out adventure... 
-speaker2: i will.
-speaker1: never run from a fight...
-speaker2: i won't.
-speaker1: never submit to insults. except from the king.
-speaker2: never.
-
-speaker1: and be wary of cardinal richelieu for he rules france through the king. 
-speaker2: mother. maybe i should wait. until after harvest.
-speaker1: you've heard that every man in the musketeers is on the run from someone or something?
-speaker2: yes. but what am i running from?
-speaker1: and for heaven's sake, practice your horsemanship.
-speaker2: horsemanship. got it.
-
-speaker1: what should i do with this? 
-speaker2: throw it on the fire with everything else.
-speaker1: but this is the emblem of the musketeers...
-speaker2: the musketeers no longer exist. or haven't you heard? throw it on the fire.
-
-speaker1: musketeers... 
-speaker1: by joint edict of his majesty king louis xiii and his eminence cardinal richelieu, the musketeers are officially disbanded. in preparation for the coming war with england, your ranks and commissions are hereby transferred to the infantry. you will be contacted and told where to report. until that time, you are instructed to return to your homes.
-speaker2: and who will protect the king?
-speaker1: the cardinal's guards are more than capable of assuming that... responsibility.
-speaker1: you are hereby ordered to disperse. should even one of you resist... the entire corps will be arrested and imprisoned. 'all for one, and one for all.'
-
-speaker1: musketeers! 
-speaker1: go to your homes. wait. our day will come again.
-
-speaker1: your eminence. 
-speaker2: have they all been accounted for?
-speaker1: all but... three. on richelieu's face, a flicker of irritation.
-speaker2: three?
-
-speaker1: i sent a patrol to find them but it hasn't returned yet. 
-speaker2: i want those musketeers, not excuses. bring them in at once.
-
-speaker1: what is this? 
-speaker2: a private party. go away.
-speaker3: athos -- is that any way to greet our guests?
-speaker3: don't be shy, gentlemen. come in. your friends have been expecting you.
-speaker1: your presence is requested at musketeer headquarters by captain rochefort.
-speaker2: the cyclops is a captain? he must've made a pact with the devil.
-speaker3: or the cardinal.
-speaker2: what's the difference?
-
-speaker1: the devil is more ethical than the cardinal. 
-speaker2: you're instructed to come with me and surrender your tunics.
-speaker3: these gentlemen made a similar request.
-speaker2: are you refusing to come peaceably?
-speaker3: probably. but i'll leave it up to my companions. aramis?
-speaker1: we can't refuse rochefort's invitation. it would be impolite.
-speaker3: and what do you say, porthos?
-speaker4: i'll be right down!
-
-speaker1: ready when you are. 
-speaker2: congratulations, porthos. you brought down the house.
-speaker1: my aim was off. i was trying to hit jussac.
-speaker3: now. about those tunics...
-speaker4: musketeers.
-
-speaker1: do you have any idea what you've done? 
-speaker2: i've saved you and your friend from these bandits.
-speaker1: these 'bandits' are the queen's own bodyguards.
-speaker2: the queen?
-speaker1: if i were you, i'd make myself scarce. these men are going to be very angry when they wake up.
-
-speaker1: i didn't know. i thought... 
-speaker2: do you have a name?
-speaker1: d'artagnan.
-speaker2: you're a very foolish boy, d'artagnan... but a very handsome one. good-bye.
-speaker1: wait! you didn't tell me your name! but constance is gone.
-speaker1: the man who attacked you... ... went that way.
-
-speaker1: i'll take those tunics, musketeers. 
-speaker2: what did he say?
-speaker3: he said he'll take those tunics.
-speaker2: tunics? coming right up.
-speaker4: i was trying to remember the last time i saw you here. i know. it was the day you were kicked out of the musketeers.
-speaker3: conduct unbecoming a musketeer.
-speaker1: you ought to know. three witnesses stood against me.
-
-speaker1: it was the least we could do. 
-speaker2: you are hereby ordered to surrender your commissions and make yourselves available for reassignment in the king's army.
-speaker1: and if we refuse?
-speaker2: you will become outlaws. hunted men.
-speaker3: it doesn't matter where i go or what i do. sooner or later somebody's calling me 'outlaw.'
-speaker2: are you refusing to serve your king?
-speaker4: we are refusing to serve the cardinal.
-speaker3: same thing, these days.
-speaker4: france has one king too many.
-speaker2: i'll tell him you said that.
-speaker1: do that, rochefort. tell his emminence the cardinal that we will continue to perform our sworn duty to protect the king. from enemies across the sea.
-
-speaker1: from traitors who sit at his right hand. and tell him that he can take away our tunics, our muskets, even our swords. but he cannot stop us from being what we are. musketeers. 
-speaker2: i'll make sure his emminence the cardinal gets the message. but i can't promise he'll be pleased.
-speaker3: well, if we're going to be outlaws, i suppose we'll have to get our affairs in order.
-speaker4: are you going to visit them alphabetically or in order of preference?
-speaker3: alphabetically seems... fair.
-speaker4: when it comes to you and women, fairness rarely applies.
-speaker1: we'll meet at the columbier-rouge at sundown. to celebrate. and to plan our new lives.
-speaker3: outlaws.
-speaker4: citizens of france.
-speaker1: the three musketeers.
-
-speaker1: look out! 
-speaker2: aaarrgghh...
-speaker1: where are they? where are the musketeers? i'm in the right place, aren't i?
-speaker2: not as far as i'm concerned.
-speaker1: but this is musketeer headquarters...
-
-speaker1: no. this was musketeer headquarters. 
-speaker2: you mean it's been moved?
-speaker1: i mean the musketeers have been disbanded. feel free to poke around for souvenirs.
-speaker2: what do you mean 'disbanded'?
-speaker1: some nonsense about being needed in the army. now if you'll excuse me...
-speaker2: but i just got here. how can i become a musketeer if they've been disbanded?
-speaker1: i'd say you've got a problem.
-speaker1: you could use a lesson in manners.
-speaker2: any time.
-speaker1: i'm in a hurry now -- but i'll meet you at the carmes-deshaux monastery at noon.
-speaker2: i'll be there ten minutes early.
-
-speaker1: do you know where this sash comes from? 
-speaker2: no.
-speaker1: it is a gift from the queen of america.
-speaker2: there is no queen of america.
-speaker1: madame augustine, would you excuse me for a moment, i'm going to kill him. now, where were we?
-speaker2: i rode through a puddle, muddied your sash, the queen of america except there isn't one, i'm in a hurry, and you were about to challenge me to a duel.
-speaker1: i was?
-speaker2: that seems to be the local custom.
-
-speaker1: everywhere i go, it's always the same. there's always some kid who thinks he's hot with a sword... some itchy punk who wants to go up against the great porthos... 
-speaker2: the great who?
-speaker1: the great porthos. me, you
-speaker1: don't you know who i am?
-speaker2: the world's greatest talker?
-speaker1: all right, you little puke! you want to die? so be it! one o'clock behind the luxembourg!
-speaker2: bring your own!
-
-speaker1: i'm afraid that's not possible. 
-speaker2: i must speak to those young women.
-speaker1: the young women do not wish to be spoken to.
-speaker2: i have something that belongs to the queen.
-speaker3: what?
-speaker2: a bracelet.
-speaker3: i'll deliver it for you.
-speaker2: no, you've been enough help already. would you be so kind as to point out the carmes-deshaux monastery?
-
-speaker1: excuse me, monsieur aramis. but when you started talking about original sin, i lost control and became impassioned. it won't happen again. 
-speaker2: there's nothing unholy about expressing one's emotions. on the contrary. religion should be experienced in a passionate, all- embracing way. we should feel free to express our spirituality.
-speaker1: yes, darling!
-speaker3: open up!
-speaker1: my husband!
-speaker2: your husband!?
-speaker1: aramis -- run!
-speaker2: first we must pray to for forgiveness.
-speaker2: on second thought, often busy.
-
-speaker1: thanks. you broke my fall perfectly. but i do apologize for the inconvenience... 
-speaker2: get off me!
-speaker1: if there's one thing i can't abide, it's rudeness.
-speaker2: you fell on me!
-speaker1: and i apologized for it.
-speaker2: i suppose you'd like to teach me a lesson in manners, too.
-speaker1: i'd be honored.
-speaker2: how's two o'clock behind the luxembourg?
-speaker1: if that's where you wish to die, i won't disappoint you. until then...
-speaker2: three duels in one day. i love this town.
-
-speaker1: have you seen the king? 
-speaker2: no, your majesty.
-
-speaker1: your majesty... 
-speaker2: cardinal richelieu, you surprised me.
-speaker3: how was your ride?
-speaker2: my ride...? well, i... i'm not sure...
-speaker3: forgive me.
-
-speaker1: but your welfare is more than a matter of personal interest. it is a matter of state. but rest assured, your secret is safe with me. 
-speaker2: thank you.
-speaker1: you're homesick.
-speaker2: lonely. is that the same thing?
-speaker1: sometimes.
-speaker1: austria's loss is france's gain.
-speaker2: i'm not sure my new husband shares your opinion.
-speaker1: nonsense. he's young, not blind.
-speaker2: mostly, he is absent. i've barely seen his majesty since our wedding, and that was three months ago. whenever he's around me, he has nothing to say.
-speaker1: arranged marriages can be difficult. your father and i thought yours would bring austria and france closer together.
-
-speaker1: countries align more swiftly than people, i'm afraid. louis and i remain... far apart. 
-speaker2: may i advise you?
-speaker2: louis was only nine years old when his father was assassinated. he lost his childhood forever that day. i have watched him grow toward manhood, seen the toll his life demands. a boy who is not allowed to be a boy sometimes has difficulty becoming a man. he is shy, yet boastful. giving, yet stubborn. but most of all, he is not yet sure exactly who he is. the boy who lost his father. or the king of france.
-speaker1: but how can i...?
-speaker2: flatter him. make the boy feel like a king. so that the king may be your husband.
-speaker3: his majesty, the king.
-speaker2: your majesty.
-speaker4: cardinal richelieu, i've been looking for you.
-
-speaker1: oh. anne. hello. i didn't know you were here. 
-speaker2: would you like me to go?
-speaker1: no. please, stay. your eminence, i demand an answer.
-speaker3: perhaps if i knew the question...
-speaker1: i've just been told that you went ahead and disbanded my musketeers.
-speaker3: you approved the decision.
-speaker1: but not the timing of the matter. i intended to address them myself, explain the situation...
-speaker3: your majesty, france is on the brink of war. we dare not hesitate.
-speaker1: but these men are my personal guards...
-speaker3: they are the bravest fighters in france.
-
-speaker1: we'll need them in the field if we're to win this war with england. buckingham plans to invade la rochelle within the month. i thought it best to act quickly -- 
-speaker2: i will be the judge of what is best. for me, and for france.
-speaker1: of course. forgive me.
-speaker2: anne? are you all right?
-speaker3: you two should continue this discussion in private.
-speaker2: your thoughts on the matter interest me. they might... help.
-speaker3: it seems to me that... you're doing very well on your own.
-speaker2: she's beautiful.
-speaker1: extremely.
-speaker2: intelligent.
-speaker1: very.
-
-speaker1: sometimes she scares me half to death. 
-speaker2: may i advise you?
-speaker2: she scares me too. as do all women who join beauty to intelligence. what's a man to do?
-speaker1: i have no idea.
-speaker2: the course of love is full of frightful turns. but, no matter how you feel, no matter how hopelessly afraid... never let her know that you are anything other than the bravest and most confident man in france. make that your starting point, and everything else will fall... into place.
-speaker1: the bravest man in france...
-speaker2: good advice for a shopkeeper. let alone a king.
-speaker1: your eminence, i'm sorry that i was sharp with you. it's just that the musketeers... well, they're not just my guards. they're my friends too.
-speaker2: i know. but don't worry.
-
-speaker1: he's a foolish boy. and barely that. 
-speaker2: that foolish boy is about to become a man. which is all the more reason for us to act... quickly.
-speaker1: and the queen...?
-speaker2: she will receive me in ways she never thought possible. privately.
-
-speaker1: wait here. 
-speaker2: but, father...
-speaker1: wait.
-
-speaker1: count de winter. 
-speaker2: we found you.
-speaker1: yes. now that you have, what will you do?
-speaker2: bring you back. to pay for what you did to my son.
-speaker1: and if i resist...?
-speaker2: i will kill you with my bare hands.
-speaker1: well if that's the case, i'd better start packing. but first, my hair...
-
-speaker1: ten minutes early. 
-speaker2: i have another appointment at one.
-speaker1: you'll miss it, i'm afraid.
-speaker2: i'll try my best to be on time.
-speaker1: i asked two of my friends to act as seconds, but they are not as punctual.
-speaker2: but you're wounded.
-speaker1: don't worry. i fight just as well with my left hand.
-
-speaker1: if you'd rather kill me another time... 
-speaker2: thanks, but i see my seconds coming now.
-speaker3: what're you doing? you can't fight this man.
-speaker2: why not?
-speaker3: because i'm fighting him.
-speaker1: excuse me, monsieur. but not until one o'clock.
-speaker4: wait a minute. i've got a duel with him, too.
-speaker1: yes, sir. but not until two.
-speaker2: how long have you been in paris?
-speaker1: i arrived this morning.
-speaker2: you've been... busy.
-speaker1: i've also fallen in love.
-speaker2: better to die for love than to live for it. gentlemen?
-
-speaker1: there they are!! 
-speaker2: jussac. again.
-speaker3: i told you the next time we met i'd want an answer. but i didn't expect you so soon.
-speaker1: the three of you are under arrest. the boy's of no interest to me and is free to go. do you intend to resist?
-speaker4: oh, don't be stupid. of course we intend to resist. just give us a second.
-speaker4: interesting odds. five of them and three of us.
-speaker2: it hardly seems fair. let's give them the chance to surrender.
-speaker5: excuse me, but there are four of us.
-
-speaker1: this is not your fight. you're not a musketeer. 
-speaker2: i may not wear the uniform, but i believe i have the heart of a musketeer.
-speaker3: bold and brave.
-speaker4: a poet.
-speaker1: have you got a name, boy?
-speaker2: d'artagnan.
-speaker3: d'artagnan?
-speaker4: impossible.
-speaker3: it couldn't be.
-speaker1: athos... porthos... aramis.
-speaker2: pleased to meet you... how do you do?... good to see you again...
-
-speaker1: well. now that we're all acquainted... 
-speaker2: the cardinal's guards.
-
-speaker1: monks. always spoiling everybody's fun. 
-speaker2: they are nearer to
-speaker1: they're about to get a little nearer to the hilt of my sword.
-speaker2: pagan.
-speaker1: papist.
-speaker1: excuse me?
-speaker2: i'm fine, thank you.
-speaker2: take a look at our young friend.
-speaker3: you mean he's still alive?
-
-speaker1: now what...? 
-speaker2: i love my work.
-
-speaker1: what's he doing? 
-speaker2: last rites. aramis takes death very seriously.
-speaker3: do you know where this bolo comes from?
-speaker1: the queen of america?
-speaker3: spain.
-
-speaker1: don't encourage him. by killing jussac, the boy's made himself an outlaw too. 
-speaker2: not if he leaves paris. which is exactly what he's going to do.
-speaker3: i can't leave. i just got here.
-speaker4: go home, find a wench, live long and prosper.
-speaker3: why can't i stay with you?
-speaker2: because i do not want you to.
-speaker1: i know athos may seem cold and unfriendly, but don't let that fool you.
-speaker4: he really is cold and unfriendly.
-speaker1: but he's also right. this is our fight, not yours. go on, get out of here.
-speaker3: whatever happened to the motto of the musketeers? 'all for one, and one for all.'
-speaker2: wake up, boy. the musketeers are just a dream.
-
-speaker1: rochefort's got the boy. 
-speaker2: too bad.
-speaker3: you can't just leave him.
-speaker3: he has a plan.
-speaker1: definitely. a plan.
-
-speaker1: this boy fights like a wildcat. 
-speaker2: thank you.
-
-speaker1: my sword -- 
-speaker2: it's magnificent. where did you get it?
-speaker1: it belonged to my father.
-speaker2: your father...
-speaker2: well now it belongs to me. i collect swords. i take them from the men i kill.
-speaker1: i'm not dead yet.
-speaker2: soon enough.
-
-speaker1: where am i? 
-speaker2: i'll give you a hint. it's not the louvre.
-speaker1: the bastille! i'm in the bastille!
-speaker2: well, you're the first person who was ever happy to be here. unfortunately, your visit will be a short one.
-speaker1: what do you mean?
-speaker2: you killed one of the cardinal's guards. an offense punishable by death.
-speaker1: he interrupted a duel i was fighting.
-speaker2: also punishable by death.
-speaker1: it was a long day.
-speaker2: you know them?
-speaker1: who?
-speaker2: the musketeers.
-speaker2: tell me where they are, and i will be lenient.
-speaker1: how?
-
-speaker1: give me my father's sword, and i'll cut out your heart. 
-speaker2: fool. like your father.
-
-speaker1: i have an errand that requires your singular talents. 
-speaker2: i was beginning to think you'd forgotten me.
-speaker1: forget you? impossible.
-
-speaker1: you did it. an alliance with buckingham. 
-speaker2: the king left me no choice. now that he's come of age, the boy believes he should rule france. instead of me.
-speaker3: you're going to go through with ... everything?
-speaker2: yes. everything. you're to leave for calais at once. a ship called the persephone will carry you to england. it sails tuesday, midnight. i want buckingham's signature next to mine before the king's birthday. friday.
-speaker1: consider it done.
-speaker2: and doing so, shall earn you the gratitude of... a king.
-
-speaker1: on your knees. 
-speaker1: this is the boy who killed jussac.
-speaker2: i can explain that --
-speaker1: silence!
-speaker3: rochefort. violence solves nothing. leave him to me.
-speaker3: please. sit down.
-speaker3: how much did you hear?
-speaker2: not a word, your eminence. i stepped from my cell for a breath of air, and became lost in the corridors, it's dark as you know, but then i saw a light up ahead, the light over your door, i...
-
-speaker1: you may have many talents, my young friend. but guile is not one of them. do you have a name? 
-speaker2: d'artagnan.
-speaker1: i've heard that name before. are you a gascon?
-speaker2: yes, your eminence.
-speaker1: tell me. what brought you to paris. and don't say 'a horse.'
-speaker2: i came to join the king's musketeers.
-speaker1: bad timing.
-speaker2: so i've heard.
-speaker1: d'artagnan, i like you. i could use a capable young man like you in my guards.
-speaker2: i'm honored, your eminence, but i don't think i would be very popular with the other men. not after today.
-speaker1: i suppose not. your heart is set on being a musketeer. when i was your age, i too had dreams of joining the musketeers.
-speaker2: you, your eminence?
-
-speaker1: why not? becoming a musketeer is the fantasy of every young frenchman. or should i say it was... like the knights of the round table, the musketeers have outlived their usefulness. they are a thing of the past. and so have your three friends. tell me where they are, d'artagnan, and i will spare your life. 
-speaker2: i'm sorry. but i can't tell you what i do not know.
-speaker1: in that case, give my regards to the headsman.
-speaker2: what about my trial?
-speaker1: you've just had it.
-speaker2: wait --
-speaker1: why? do you object to losing your head?
-speaker2: yes. i like it where it is.
-speaker1: then tell me what i want to know, and perhaps you will keep it there a few years longer. where are the three musketeers?
-
-speaker1: i don't know. 
-speaker2: and if you did?
-speaker1: i wouldn't tell you.
-speaker2: i admire your courage, young man. you might have made a fine musketeer after all.
-speaker2: but we'll never know, will we?
-speaker2: find the three musketeers and kill them.
-speaker3: they'll be dead by dawn.
-speaker2: a comforting thought. good night, d'artagnan. enjoy it. morning comes quickly.
-
-speaker1: milady left at midnight. by private coach. 
-speaker2: a remarkable woman. the most beautiful i've ever known. and the deadliest. which would explain my attraction. how is our young daredevil holding up?
-speaker1: he's wishing he'd never heard of the musketeers.
-
-speaker1: fear not, my son... 
-speaker1: for we are with you, always.
-speaker2: all for one, and one for all...
-speaker3: prepare the prisoner.
-speaker4: don't worry, boy. you won't feel a thing.
-speaker3: where is father rostand today?
-speaker2: the good father is... all tied up.
-speaker3: very well. proceed.
-
-speaker1: barbarism. 
-speaker2: men call it justice.
-speaker1: are you surprised?
-speaker2: it's him.
-
-speaker1: yes! 
-speaker2: my carriage.
-
-speaker1: well, what have we here? 
-speaker1: how considerate of the cardinal to provide us with a snack.
-
-speaker1: hello. 
-speaker1: how is it that a man of becomes a man of gold?
-speaker2: trinkets for the ladies.
-speaker1: let's share.
-
-speaker1: would you be so good as to distribute these? your generosity will be greatly appreciated. 
-speaker2: but...?
-speaker2: they're firing at us!
-
-speaker1: champagne? 
-speaker2: you know i prefer wine.
-speaker1: don't go away.
-speaker1: may i recommend this find cabernet?
-speaker2: turn right at the next street.
-speaker3: the next right...?
-speaker2: turn.
-
-speaker1: gentlemen, this is the end of the line. i hope you had a pleasant ride. unhitch the horses. 
-speaker2: but the guards.
-speaker1: do as i say.
-speaker1: stand back.
-
-speaker1: i'd give five years of your life just to see the cardinal's face! 
-speaker2: ten!
-
-speaker1: i haven't eaten in three days. i guess with all the excitement, i forgot. 
-speaker2: your trip from home has been an eventful one.
-speaker1: three days.
-speaker3: i heard of a d'artagnan once. he was a captain in the musketeers when we were just recruits.
-speaker1: he was my father.
-speaker2: a good man, i'm told.
-speaker3: i knew there was something familiar about this boy.
-
-speaker1: he died when i was nine. 
-speaker1: all my mother would tell me is that he died in the service of the king.
-speaker2: d'artagnan, your father and another musketeer were ambushed and murdered outside the louvre.
-speaker1: this other musketeer -- is he still alive? i'd like to talk to him.
-speaker3: you already have. his name is the count de rochefort.
-speaker4: d'artagnan.
-
-speaker1: on a battlefield, defending his king. fighting bravely for france. and now... i will find the man who murdered my father and kill him where he stands. 
-speaker2: a man is better measured by his life than by his death. your father was bold, and brave.
-speaker1: but you never knew him...
-speaker2: he lives in you.
-speaker1: and your father?
-speaker2: i was orphaned at a young age.
-speaker1: you didn't have one.
-speaker2: but i did. he was a great man, a leader of the church. and his example inspired me to dedicate my life to service.
-speaker1: you were a priest...
-speaker2: i was a fool. this great man, this father, betrayed the church, and turned his back on to worship power and gold.
-
-speaker1: it broke my heart to see it. 
-speaker2: and you became a musketeer.
-speaker1: i joined the musketeers and a strange thing happened. i got my faith back.
-speaker2: but who was that man...
-speaker1: all of france knows him. his eminence, the cardinal richelieu.
-
-speaker1: your eminence. the musketeers have been sighted riding north on the road to calais. richelieu nods, he already knows. he picks up one of the pigeons, strokes it gently. 
-speaker2: don't worry. thanks to our winged friends, every mercenary and bounty hunter in france will be waiting for them. isn't modern communication a wonderful thing?
-
-speaker1: ... i couldn't hear it clearly, i was standing by the door, the voices were low -- 
-speaker2: go on.
-speaker1: the cardinal sent someone to england. with a secret treaty.
-speaker3: what?
-speaker1: he's made an alliance with a man named, bucking... buckingham.
-speaker2: the duke of buckingham?
-speaker1: do you know him?
-speaker3: he rules england the way richelieu rules france. d'artagnanj a ship called the persephone waits for the cardinal's agent at calais. to take him to england.
-speaker3: calais is over two hundred leagues from here...
-
-speaker1: this messenger and the treaty will prove the cardinal a traitor. if we can get our hands on them. 
-speaker2: what are we waiting for, let's go.
-speaker3: wait.
-speaker3: does the cardinal know you have this information?
-speaker2: yes.
-speaker3: then he knows we have it too. and he'll do everything in his power to stop us.
-speaker1: but with three men trying, one of us might be able to make it.
-speaker2: four.
-
-speaker1: thank for a friendly face. my horse broke loose. can you help me move these kegs out of the road? 
-speaker2: stay on your horse.
-speaker3: he needs our help.
-speaker2: don't worry. we'll help him.
-
-speaker1: won't you step down... musketeers? 
-speaker2: gentlemen, i beg you. please put away your weapons and remove these kegs from the road. we'd prefer to ride on without having to kill you.
-speaker1: you're threatening us?
-speaker3: it's not a threat, it's a fact. if you don't haul those kegs away, you're dead where you stand.
-speaker3: mine hit the ground first.
-speaker4: mine was taller.
-speaker3: there's only one rule, d'artagnan -- stay alive.
-
-speaker1: good evening. 
-speaker2: see to our horses and bring us some food.
-speaker1: i'm sorry but we have little to spare. the cardinal's guards were here today. they helped themselves to our food and then refused to pay.
-speaker3: musketeers!
-speaker1: musketeers in my house! gentlemen, put away your swords and come in. anyone who fights the cardinal is welcome here.
-
-speaker1: i think we've found a home. 
-speaker2: we don't have much but what we have is yours.
-speaker3: ladies, you're in for a treat tonight. allow me to introduce myself. i'm the musketeer they call porthos.
-speaker3: porthos.
-speaker1: it's hard to believe they haven't heard of the great porthos.
-speaker3: oh, shut up, aramis.
-speaker4: aramis? did you say aramis?
-speaker3: i don't get it. i just don't get it.
-
-speaker1: i said, 'a queen is no different than a barmaid in the dark. though less... practiced in the arts of pleasure...' 
-speaker1: if you're going to be a proper musketeer, you'll have to learn the manly art of wenching. right, ladies?
-speaker1: ahh, very good. your first subject. but you'll need instruction. watch closely.
-speaker1: the secret to wenching is the first kiss. for in that kiss, a lasting impression is made. if it is weak, she will think you are weak. and if it is comical, she will think you are a clown. with me?
-speaker2: weak... weak. comical... clown.
-speaker1: very good. and as a musketeer is never weak, and only rarely a clown, your first kiss must be all the things that you are. like this...
-
-speaker1: you may speak first if you like, your name, her name, an endearment or two. but words are usually a waste of time. 
-speaker2: only if you don't know which words to say.
-speaker2: words may make a more lasting impression than a thousand of porthos' kisses.
-speaker3: not likely.
-speaker2: i'll demonstrate. please. sit beside me.
-speaker2: 'shall i compare thee to a summer's day? thou art more lovely and more temperate: rough winds do shake the darling buds of may, and summer's leash hath all too short a date; sometime too hot the eye of heaven shines, and often is his gold complexion dimmed; and every fair from fair sometimes declines, by chance, or nature's changing course untrimmed; but thy eternal summer shall not fade.
-
-speaker1: nor lose possession of that fair thou owest, nor shall death brag thou wanderest in his shade, when in eternal lines to time thou growest; so long as men can breathe, or eyes can see. so long lives this, and this gives life to thee.' the barmaid, once skeptical, sits silently. her face 
-speaker1: shakespeare.
-speaker2: that's cheating.
-speaker3: it's beautiful.
-speaker2: come on, d'artagnan. we haven't got all night.
-speaker4: 'shall i compare thee to a summer's day? thou are move lovely and more tempest, er, more tempered...' ahh, to with it --
-speaker2: the boy's a natural.
-
-speaker1: so little time, so much to learn. 
-speaker1: in all the years i've know him...
-speaker2: why is he sitting by himself?
-speaker3: athos takes his drinking seriously. ignore him. he'll be his usual warm, charming self by morning. service! my lap is cold!
-
-speaker1: come join us. 
-speaker2: you fight like a musketeer. let's see if you can drink like one.
-speaker1: i'll drink anything you put in front of me.
-speaker2: famous last words. what shall we drink to?
-
-speaker1: love? 
-speaker2: love.
-speaker1: yes.
-speaker2: i once knew a man... one of the counts of berry. my native province. when the good count was about your age, he fell in love with a visitor from paris. a breathtaking girl of seventeen. she was more than beautiful, d'artagnan. she was... intoxicating. and this man, the poor he married her.
-speaker1: isn't that what people do when they fall in love?
-speaker2: be quiet and listen. the count took her to his castle and made her the first lady of the province. they were happy for a time, as happy as a man and a woman can be. then one day, while riding in the woods, the girl was thrown from her horse, and knocked unconscious. the count hurried to help her. her dress was torn.
-
-speaker1: on her her arm, the woman wore a gold band in the shape of a serpent. it was the only article of clothing she refused to remove. the count's curiosity got the best of him. he reached over and slid down the gold band. he saw something on her arm... something she'd kept hidden 'til then... 
-speaker2: what?
-speaker1: the fleur d'lis. she'd been branded...
-speaker1: the count's angel turned out to be a murderess who escaped the executioner's blade. she swore that she loved him. swore that she had changed. and if he would just keep her secret, they would live a long life together.
-speaker1: but the count was young and he was stupid. he was tormented by the ridicule of his social class. and so he rejected her. for her lies and for her past. and turned her over to the authorities to be executed for the crime.
-speaker1: but you see... his heart did not agree. the count soon realized what she had meant to him. and what he had done.
-
-speaker1: that his... betrayal was far greater than her own. soon after he foreswore the society that shaped him. gave up his title. and was never seen again. 
-speaker2: he loved her.
-speaker1: he killed her. it seemed like the same thing after a while.
-speaker1: good. more for me.
-speaker3: aramis -- play something with some blood in it! i feel like dancing!
-speaker3: care to dance, athos?
-speaker1: only if i can lead.
-speaker3: aramis! athos made a joke!
-
-speaker1: excuse me, gentlemen. 
-speaker2: were we making too much noise?
-speaker1: you told me to wake you at dawn.
-speaker3: well?
-speaker1: it's dawn.
-
-speaker1: beautiful morning, eh, d'artagnan? 
-speaker1: you know, d'artagnan, it's not a good idea to travel on an empty stomach. you really should have had a big portion of those sheep's brains...
-speaker2: my head feels like it's filled with the king's marching band.
-
-speaker1: whistling? i'm not whistling. 
-speaker2: well someone is.
-speaker1: the barmaid's kiss left him dizzy.
-speaker3: i hear it too. it sounds like...
-speaker4: a connon ball.
-speaker1: i hate cannon balls.
-speaker3: how's your head now?
-speaker2: i'm beginning to wish the cardinal had chopped if off.
-speaker4: stay with us, and you just might get your wish.
-
-speaker1: split in half! d'artagnan rides with me! 
-speaker2: we'll see you in calais!
-speaker1: or hell!
-
-speaker1: but how, your majesty? how can you tell if you're really in love? 
-speaker2: do you think about him all the time?
-speaker1: yes.
-speaker2: and when he's around, do your knees feel as weak as water?
-speaker1: yes.
-speaker2: and when he looks at you, do you suddenly forget how to breathe?
-
-speaker1: yes. 
-speaker2: then you're in love.
-speaker1: i am.
-speaker2: who is he?
-speaker1: you'll never believe it.
-speaker2: of course i will.
-speaker1: you won't.
-speaker2: who?
-speaker1: the young man who rescued us from the bandit.
-speaker2: the young man on the scaffold?
-speaker1: yes.
-speaker2: you're right. i don't believe it.
-speaker1: are you in love, your majesty?
-speaker2: what an impertinent question.
-
-speaker1: are you? 
-speaker2: my love... is a matter of state. it's complicated.
-speaker1: do you think about him all the time?
-speaker2: as queen, my mind touches on many subjects.
-speaker1: do your knees feel as weak as water?
-speaker2: never.
-speaker1: when he looks at you, do you forget how to breathe?
-speaker2: i hope he will someday. i hope i will too.
-
-speaker1: your majesty, forgive me. 
-speaker2: cardinal.
-speaker1: i need your help. and could not in good conscience wait another minute.
-speaker2: you want my help?
-speaker1: yes.
-speaker2: on what matter?
-speaker1: your... husband.
-speaker2: your king.
-speaker2: of course. as your eminence has been kind enough to advise me... it's the least i can do.
-speaker1: i am worried about the king's...
-speaker2: what do you mean?
-speaker1: the huguenot rebellion, occupation in the antilles and cayenne. the coming war with france. these are not the usual hobbies of youth.
-speaker2: no.
-
-speaker1: and now he wishes to postpone his birthday celebration. 
-speaker2: why?
-speaker1: he feels it is not... appropriate.
-speaker2: it sounds as though he is concerned with more important matters.
-speaker1: which is exactly why we must celebrate. to show the world that the king of france is strong enough to face any enemy on any field. to show france... that he is king. he will listen to you. if you will speak.
-speaker2: i will speak to him.
-speaker2: now, if you'll excuse me, i...
-speaker1: of course.
-speaker1: your majesty? please understand that i do not underestimate the value of your assistance.
-
-speaker1: i'm sorry to be late, your majesty, but i was wrestling with an important matter of state. 
-speaker2: why is it i don't see any of my musketeers?
-speaker1: i'm afraid... that's impossible.
-speaker2: why?
-
-speaker1: they have become outlaws. they are terrorizing the countryside, robbing and killing innocent people. 
-speaker2: there must be some mistake.
-speaker1: no mistake. i have reports from the local constables involved.
-speaker2: musketeers...
-speaker1: they are better off disbanded.
-speaker2: your eminence, i've been hearing some very troubling rumors about you.
-speaker1: there are so many to choose from. is it the one about my alleged alliance with buckingham? let's see if i remember it correctly. while the english attack from without, i'll undermine the throne from within -- depose you -- and become sovereign of france myself. that rumor, your majesty?
-speaker2: it does seem rather farfetched.
-
-speaker1: if there are any doubts of my loyalty, they'll be put to rest when we appear together at your birthday celebration. 
-speaker2: i've been thinking about that. a birthday celebration when we're on the brink of war...
-speaker1: your subjects are eager to celebrate the birth of their king at a time like this.
-speaker2: i'm not so eager.
-speaker1: i have an idea. why don't you discuss the matter with your queen?
-
-speaker1: my horse will not survive another league. 
-speaker2: and you?
-speaker1: ten, twenty at the most.
-
-speaker1: a privilege to carry you on my humble boat... 
-speaker1: two pistoles.
-speaker2: but i only have one. couldn't my child ride free? she's so small...
-speaker1: two pistoles.
-speaker3: put away your money, madame. you and your child will cross the river under our protection. for free.
-
-speaker1: nobody rides for free! under your protection well indeed! i'll teach you a thing or two about protection! apple- cheeked young fools!! -- just who do you think you are!! 
-speaker2: musketeers.
-speaker1: musketeers? well, why didn't you say so? of course you'll ride for free. i insist on it. this way, pretty madame. my what a lovely little girl...
-speaker2: porthos!
-speaker3: what?
-speaker3: we sail!
-
-speaker1: you're those musketeers everyone's been looking for. 
-speaker2: popularity has its price.
-speaker1: i have some excellent brandy here. would you gentlemen care to drink a toast with us to the cardinal?
-speaker2: we'd be happy to.
-speaker2: if you'll drink one with us to the king.
-speaker3: but the only king we recognize...
-speaker4: there are those who would call that treason.
-speaker1: happily, no such objections have been raised... here.
-speaker2: all right. i'll object.
-speaker3: i'm listening.
-speaker2: let's see. you are, by your dress and by your manner, members of a bone-lazy class of servile ninnyhammers whose slavish allegiance to his eminence the cardinal is as that of a dog who likes nothing better than to sniff today where he has peed the day before.
-
-speaker1: is piss, no matter what robes surround it. 
-speaker2: well said. i'm impressed.
-speaker1: i was momentarily inspired.
-speaker3: may i reply?
-speaker2: by all means.
-speaker3: better to be a dog in the service of a great master, than a beef- witted moron so dazzled by the throne that he does not see the true nature of the foolish boy who wobbles atop it. which is to say, that most muddy-brained of all men... a musketeer.
-speaker1: maybe there's something about us that just people off. at least i'd like to think so. it's too bad we can only kill them once.
-
-speaker1: i've been called a lot of things in my time... 
-speaker2: porthos...
-speaker1: but beef-witted is a little more than i can stand, not to mention unfair...
-speaker2: porthos...
-speaker1: what?
-speaker2: can you swim?
-speaker1: no. my horse can.
-speaker2: that'll do.
-speaker1: but...?
-
-speaker1: you go first and i'll watch your progress. 
-speaker2: no, no. please. after you.
-speaker3: one, two -- three!
-speaker4: thank you. speed.
-
-speaker1: do you think we've lost them? 
-speaker2: they'll catch up eventually.
-speaker1: my father used to hunt in a forest like this. he promised to take me on my tenth birthday. i don't know why he picked that year. something about a boy becoming a man. i'd lay in bed at night and imagine it, just the two of us. but he died before i could go with him.
-speaker2: well. you have your boyhood wish at last. the dark forest. the thrill of the hunt. the nearness of death.
-speaker1: i'd be proud to die for my king.
-speaker2: i just wanted to save you from the life of a musketeer. you don't have to go looking for experience, d'artagnan. it'll find you soon enough. and when it does -- it will mark you forever.
-
-speaker1: i'll hold them off for as long as i can. go on without me. 
-speaker2: i can't leave you here. not like this.
-speaker1: ride to calais and stop the cardinal's agent.
-speaker2: athos... i can't.
-speaker1: go, or i'll kill you myself.
-speaker2: a duel then.
-
-speaker1: you're insane. 
-speaker2: we never finished the first.
-speaker1: all right. i'll toss a coin. tails i stay, heads you remain. agreed?
-
-speaker1: tails. i stay. 
-speaker2: but...?
-speaker2: at least take my pistol.
-speaker2: i'll never forget you.
-speaker1: go!
-
-speaker1: what is it, henri? 
-speaker2: there's a body in the road, milady.
-speaker1: be careful.
-speaker2: it's a young man. he appears to be injured.
-speaker1: my, what a handsome boy. put him inside with me.
-
-speaker1: you. 
-speaker2: have we met?
-speaker1: i... saw you in paris.
-speaker1: where am i...?
-speaker2: this is calais.
-speaker1: calais! the ship... tuesday at midnight...
-speaker1: where are my clothes?
-
-speaker1: filthy. i'm having them cleaned. 
-speaker2: what day is it? what time?!
-speaker1: it's tuesday, near nine.
-speaker2: nine? are you sure?
-speaker1: quite sure.
-speaker1: are you in a hurry?
-speaker2: how did i... get here?
-speaker1: i found you in the road. discarded. like an unwanted kitten. do you have a name or shall i make one up for you?
-speaker2: my name is d'artagnan.
-speaker1: d'artagnan. i like that. i am the countess de winter. milady.
-speaker2: countess?
-speaker1: my husband's dead.
-
-speaker1: i'm sorry. 
-speaker2: i have learned to live with death.
-speaker1: countess, i'm very grateful for what you've done, but i can't stay here. i've got...
-speaker2: what...?
-speaker1: important business.
-speaker2: how mysterious. a handsome young man with 'important business' in the still of night. does it involve a young lady?
-speaker1: no.
-speaker2: does it require clothes?
-speaker1: yes. i need my clothes.
-speaker2: they won't be ready for at least an hour.
-speaker1: an hour?
-speaker2: i told the innkeeper to bring them when they are dry. until then, i'm afraid you are my prisoner. would the prisoner care for a drink?
-
-speaker1: i am... thirsty. 
-speaker2: good. then we will sit by the fire, and eat and drink, and you may impress, perhaps even move me, with the story of how you came to lie unconscious, in the middle of the night, on the road to calais. i love a good adventure.
-
-speaker1: milady has reached calais. 
-speaker2: i told you not to worry about the musketeers. they are dead by now.
-speaker1: buckingham's signature will be on the treaty by morning.
-speaker2: the king's birthday celebration...?
-speaker1: will proceed as planned. thanks to the kind intercession of queen anne.
-speaker2: and our plans...?
-speaker1: will proceed as well.
-
-speaker1: you are sad. 
-speaker2: i was thinking about my friends.
-
-speaker1: the three best friends a man could have. we were separated on our way to calais. i'm afraid i'll never see them again. 
-speaker2: what brings you here?
-speaker1: i'd like to tell you. but i can't.
-speaker2: 'important business.'
-speaker2: i understand. men make bold plans in secret. and women wait... to mourn, or to celebrate the outcome. i know from experience, it's a lonely vigil.
-speaker1: all i can tell you is... i'm on a mission for the king.
-speaker2: i've heard that one before.
-speaker1: i'm serious.
-speaker2: you are a young man. and young men are given to exaggeration. however, if you would like to entertain me with a story, i'm eager to hear it. and please, make it very brave, filled with handsome knights and beautiful ladies. i know, a dragon --
-
-speaker1: i came to calais to stop a spy from sailing to england. 
-speaker2: a spy...?
-speaker1: yes.
-speaker2: i believe you... aren't you afraid?
-speaker1: musketeers are not afraid of anything.
-speaker2: i knew it. i knew you were a musketeer the moment i saw you.
-speaker1: you did?
-speaker2: of course. but, d'artagnan, if this spy was to find out you are here, your life could be in grave danger.
-speaker1: a musketeer is not afriad of danger.
-speaker2: i'm dangerous. you're not afraid of me?
-speaker1: you're not dangerous.
-speaker2: then what am i?
-
-speaker1: you're... beautiful. 
-speaker2: beauty, danger. they are the same.
-
-speaker1: i'm sorry -- 
-speaker1: what're you doing?! have you lost your mind?!
-speaker2: you came to calais to stop a spy from sailing to england.
-speaker1: my
-
-speaker1: parker!! 
-speaker1: kill him.
-speaker2: you can kill me. but a surprise waits for you in england. that even buckingham can't prevent.
-speaker1: what... surprise?
-speaker2: that's one thing i'll never tell you.
-speaker1: d'artagnan. you are young, vain, and foolish. but i do not know if you are clever.
-speaker1: we'll take him with us.
-
-speaker1: the man at the inn... what did he want? 
-speaker2: justice. honor. revenge.
-speaker1: why?
-speaker2: he is the brother of my late husband, lord de winter. he blames me for de winter's death.
-speaker1: did you murder your husband, milady?
-speaker2: what do you think?
-speaker1: i think he's not the first husband you killed. i once knew a man, one of the counts of berry. he told me a story... of beauty and danger. he was the bravest man i've ever known. and the saddest.
-speaker2: i know...
-
-speaker1: what's the matter, d'artagnan? still hoping for your friends to ride to the rescue? 
-speaker2: my friends are dead.
-speaker1: well. if it's any consolation, you'll soon be joining them.
-
-speaker1: take us to your captain. 
-speaker1: what are you, deaf?
-speaker2: what is this?
-speaker3: dead! they're all dead!
-speaker4: well i certainly hope so. after all that hard work.
-speaker5: you look like you've seen a ghost.
-
-speaker1: two of them. 
-speaker2: remind me to tell you the story of horses that could fly above raging waters. a heroic tale of love, death, and musketeers. suitable for the general public.
-speaker2: all right then. all those who wish to die, raise your hands! don't by shy, there's plenty to go around!
-speaker3: sorry i'm late. did i miss anything?
-speaker1: i thought you were dead.
-speaker3: keep your mind on the mission, d'artagnan.
-
-speaker1: boy, it's a miracle you're still alive fighting like that. 
-speaker2: what do you mean?
-speaker1: first, always find your enemy's weakness. second, take advantage of it. watch me.
-speaker2: find the weakness. take advantage. got it.
-
-speaker1: porthos the pirate!! 
-speaker2: i told you i was famous.
-speaker3: porthos the pirate?
-speaker2: privateer. there's a difference.
-speaker3: i love a good sea story. do tell me sometime.
-
-speaker1: did you find the cardinal's spy? 
-speaker2: yes.
-speaker1: did you kill him?
-speaker2: athos. the spy... is a woman.
-
-speaker1: what? 
-speaker1: no.
-
-speaker1: stop!! 
-speaker2: athos.
-speaker1: how did you do it, sabine? how did you come back from the dead?
-
-speaker1: a kind gentleman took pity on me. 
-speaker2: i did not.
-speaker1: no, count. you were too proud to listen to the truth. i learned the value of lies soon after.
-speaker2: give me the cardinal's treaty.
-speaker1: no.
-speaker2: then i will shoot.
-speaker1: be kind. and aim for my heart.
-speaker1: i remember... everything.
-speaker3: countess de winter...
-
-speaker1: the treaty outlines richelieu's plan to forge an alliance with buckingham. 
-speaker2: what about the king?
-speaker1: he is not mentioned directly. but the agreement is contingent on a 'demonstration' of the cardinal's power.
-speaker3: a demonstration? what does that mean?
-speaker1: i don't know.
-speaker4: i know someone who does.
-
-speaker1: i'd like a word with your prisoner. 
-speaker2: she dies at dawn.
-
-speaker1: did you come to offer me consolation? 
-speaker2: no.
-speaker1: there was a time when i would've given my life for a kind word.
-speaker2: i could not give it, sabine. i was... a fool.
-speaker2: did you kill his brother and his father as he says?
-speaker1: i have become... the nightmare you once thought me to be.
-speaker2: but not before. not us.
-speaker1: no. the memory will keep me company.
-speaker2: do you know the cardinal's plans?
-speaker1: yes.
-speaker2: tell me.
-speaker1: will you spare my life?
-speaker2: i can't.
-
-speaker1: society demands swift justice. i'll take the secret to my grave. 
-speaker2: sabine. you'll die for your crimes. nothing can stop that. but how you leave this world is up to you.
-speaker1: what did the world ever do for me?
-
-speaker1: i forgive you for your crimes. die in peace. 
-speaker2: die in peace.
-speaker3: i am the resurrection and the life, sayeth the lord. he that believeth in me, though he were dead, yet shall he live; and whosoever liveth and believeth in me shall never die...
-speaker1: on your knees.
-speaker2: no.
-speaker1: what's this...?
-speaker4: athos --
-speaker2: forgive me, sabine. please forgive.
-
-speaker1: i do. 
-speaker1: the cardinal intends to assassinate the king at his birthday celebration on friday.
-speaker2: justice be done.
-speaker3: amen.
-speaker4: musketeers.
-speaker4: the king's life in danger. we have work to do.
-
-speaker1: impressive. 
-speaker2: he can do it every time.
-speaker1: and he has no qualms about...
-speaker2: none. he believes that man should honor no kings before
-speaker1: a man of faith. how delightful. whatever you're paying him, double it. i want the king's birthday to be a memorable event. and rehang this painting in my chamber. just as it is.
-
-speaker1: they look... happy. 
-speaker2: hungry, more likely.
-speaker1: still, you were right about the celebration. and when the cardinal told me how much it meant to you...
-speaker2: i said nothing.
-speaker1: but... ?
-speaker2: the cardinal expressed in confidence how much the celebration would mean to you...
-
-speaker1: i'm not sure which is sadder... to die so young. or to die a king. 
-speaker1: france will not go wanting. a new king will sit on the throne. the true king after all...
-
-speaker1: is everything ready? 
-speaker2: yes, your eminence.
-speaker1: are you sure?
-speaker2: i'd stake my life on it, your eminence.
-speaker1: rest assured, captain. you have.
-
-speaker1: look through the surrounding area. 
-speaker2: but...?
-speaker1: go!
-
-speaker1: i do not trust him. 
-speaker2: i'm not sure who to trust.
-speaker1: then we will discover the truth together.
-
-speaker1: your majesty... 
-speaker2: leave us... alone.
-
-speaker1: kill him. kill her, too. 
-speaker2: get behind me.
-
-speaker1: greetings, monsieur cyclops. are we interrupting? 
-speaker2: not for long.
-
-speaker1: this sword belongs to me. 
-speaker2: d'artagnan. kill him where he stands.
-speaker3: by all means. let's discover if you are as brave a man as your father was. and as foolish.
-speaker1: what...?
-speaker3: he died for his king and for france. but most of all... he died on the end of my sword. as will you.
-speaker1: this is for you, father.
-
-speaker1: one thing's certain. you're no musketeer. 
-speaker2: take it back...?
-speaker1: i might... have been... mistaken.
-speaker2: no!!
-
-speaker1: your majesty, that document is an obvious forgery. i am clearly the victim of a conspiracy designed and perpetuated by these three musketeers. 
-speaker2: this is a complicated matter, your eminence, affecting both france and the crown...
-speaker2: and so, until such time as i and my advisors -- -- can determine the whole truth of the matter. i invite you to await our decision in the comfort of... the bastille.
-speaker1: you can't do this to me. i'm the cardinal of france.
-
-speaker1: and i am its king. 
-speaker1: and as king... i hereby reinstate the musketeers.
-speaker2: congratulations, monsieur d'artagnan. i'll be keeping an eye on you.
-speaker1: is this the young man who saved my life?
-speaker3: his name's d'artagnan, sire.
-speaker1: approach, d'artagnan.
-speaker4: i have something that belongs to ... your majesty...
-
-speaker1: thank you, d'artagnan. but the bracelet does not belong to me. it belongs to her. 
-speaker2: d'artagnan, i am in your debt. what can i do to repay the courage you've shown me? anything, d'artagnan. whatever your heart desires...
-speaker3: majesty, his heart has only one desire. to become a musketeer.
-speaker2: then kneel, d'artagnan.
-speaker2: the world is an uncertain realm, filled with danger. truth despoiled by broken promises. honor undermined by the pursuit of gold. freedom sacrificed when the weak are oppressed by the strong. but there are those who oppose these powerful forces. those who dedicate their lives to truth, honor, and freedom. they are a constant reminder to all of us. that such a life is not just possible, but necessary to our continued survival. as a country, as a king. these men are known as the musketeers...
-
-speaker1: rise, d'artagnan. and join them. musketeer. 
-speaker2: do my eyes deceive me?
-speaker3: i find it hard to believe myself.
-speaker2: his lips, unused as they are to such a contortion, twisted and stretched... into a smile.
-speaker3: it was spectacular. and what teeth.
-speaker4: i know this is a stupid question. but what exactly does a musketeer do?
-speaker2: truth... honor...
-speaker3: and freedom.
-
-speaker1: all for one... 
-speaker2: ... and one for all!!
+D'ARTAGNAN: had enough? 
+GIRARD: i believe now would be a good time to end your, uhm, formal training. well done.
+
+D'ARTAGNAN: thank you, sir. 
+GIRARD: and have mercy on whomever you meet next.
+
+D'ARTAGNAN: mother...? 
+D'ARTAGNAN: did you see us? you heard us, i'll bet. girard finally surrendered a compliment... though i almost had to kill him to get it... mother...?
+
+MOTHER: sit down. 
+D'ARTAGNAN: didn't you hear me? girard --
+MOTHER: sit.
+MOTHER: your father was a proud man. and he had a right to be. i never knew one as brave or as kind. he knew that his strength was a gift to be given in the service of honor. that is why he dedicated his life to his country and his king. that is why he gave his life, for both.
+MOTHER: i watched you this morning and saw someone i knew. you have your father's heart, his will to fight, his courage. but these gifts have no value unless they are given.
+MOTHER: it's time for you find your fortune with men as brave and as bold as you are. in paris. with the king's musketeers. you'll need this.
+D'ARTAGNAN: father's sword.
+
+MOTHER: forged in the crusades, handed from generation to generation. 
+D'ARTAGNAN: and now to me.
+MOTHER: yes, son. and now to you.
+
+MOTHER: i'm not your mother now. i'm speaking for your father. and this is what he would have told you. never forget the code of the d'artagnans. it is your special heritage. always seek out adventure... 
+D'ARTAGNAN: i will.
+MOTHER: never run from a fight...
+D'ARTAGNAN: i won't.
+MOTHER: never submit to insults. except from the king.
+D'ARTAGNAN: never.
+
+MOTHER: and be wary of cardinal richelieu for he rules france through the king. 
+D'ARTAGNAN: mother. maybe i should wait. until after harvest.
+MOTHER: you've heard that every man in the musketeers is on the run from someone or something?
+D'ARTAGNAN: yes. but what am i running from?
+MOTHER: and for heaven's sake, practice your horsemanship.
+D'ARTAGNAN: horsemanship. got it.
+
+JUSSAC: what should i do with this? 
+ROCHEFORT: throw it on the fire with everything else.
+JUSSAC: but this is the emblem of the musketeers...
+ROCHEFORT: the musketeers no longer exist. or haven't you heard? throw it on the fire.
+
+ROCHEFORT: musketeers... 
+ROCHEFORT: by joint edict of his majesty king louis xiii and his eminence cardinal richelieu, the musketeers are officially disbanded. in preparation for the coming war with england, your ranks and commissions are hereby transferred to the infantry. you will be contacted and told where to report. until that time, you are instructed to return to your homes.
+DE TREVILLE: and who will protect the king?
+ROCHEFORT: the cardinal's guards are more than capable of assuming that... responsibility.
+ROCHEFORT: you are hereby ordered to disperse. should even one of you resist... the entire corps will be arrested and imprisoned. 'all for one, and one for all.'
+
+DE TREVILLE: musketeers! 
+DE TREVILLE: go to your homes. wait. our day will come again.
+
+ROCHEFORT: your eminence. 
+RICHELIEU: have they all been accounted for?
+ROCHEFORT: all but... three. on richelieu's face, a flicker of irritation.
+RICHELIEU: three?
+
+JUSSAC: i sent a patrol to find them but it hasn't returned yet. 
+RICHELIEU: i want those musketeers, not excuses. bring them in at once.
+
+JUSSAC: what is this? 
+ATHOS: a private party. go away.
+ARAMIS: athos -- is that any way to greet our guests?
+ARAMIS: don't be shy, gentlemen. come in. your friends have been expecting you.
+JUSSAC: your presence is requested at musketeer headquarters by captain rochefort.
+ATHOS: the cyclops is a captain? he must've made a pact with the devil.
+ARAMIS: or the cardinal.
+ATHOS: what's the difference?
+
+ARAMIS: the devil is more ethical than the cardinal. 
+JUSSAC: you're instructed to come with me and surrender your tunics.
+ATHOS: these gentlemen made a similar request.
+JUSSAC: are you refusing to come peaceably?
+ATHOS: probably. but i'll leave it up to my companions. aramis?
+ARAMIS: we can't refuse rochefort's invitation. it would be impolite.
+ATHOS: and what do you say, porthos?
+PORTHOS: i'll be right down!
+
+PORTHOS: ready when you are. 
+ARAMIS: congratulations, porthos. you brought down the house.
+PORTHOS: my aim was off. i was trying to hit jussac.
+ATHOS: now. about those tunics...
+JUSSAC: musketeers.
+
+CONSTANCE: do you have any idea what you've done? 
+D'ARTAGNAN: i've saved you and your friend from these bandits.
+CONSTANCE: these 'bandits' are the queen's own bodyguards.
+D'ARTAGNAN: the queen?
+CONSTANCE: if i were you, i'd make myself scarce. these men are going to be very angry when they wake up.
+
+D'ARTAGNAN: i didn't know. i thought... 
+CONSTANCE: do you have a name?
+D'ARTAGNAN: d'artagnan.
+CONSTANCE: you're a very foolish boy, d'artagnan... but a very handsome one. good-bye.
+D'ARTAGNAN: wait! you didn't tell me your name! but constance is gone.
+D'ARTAGNAN: the man who attacked you... ... went that way.
+
+ROCHEFORT: i'll take those tunics, musketeers. 
+PORTHOS: what did he say?
+ARAMIS: he said he'll take those tunics.
+PORTHOS: tunics? coming right up.
+ATHOS: i was trying to remember the last time i saw you here. i know. it was the day you were kicked out of the musketeers.
+ARAMIS: conduct unbecoming a musketeer.
+ROCHEFORT: you ought to know. three witnesses stood against me.
+
+ATHOS: it was the least we could do. 
+ROCHEFORT: you are hereby ordered to surrender your commissions and make yourselves available for reassignment in the king's army.
+ATHOS: and if we refuse?
+ROCHEFORT: you will become outlaws. hunted men.
+PORTHOS: it doesn't matter where i go or what i do. sooner or later somebody's calling me 'outlaw.'
+ROCHEFORT: are you refusing to serve your king?
+ARAMIS: we are refusing to serve the cardinal.
+PORTHOS: same thing, these days.
+ARAMIS: france has one king too many.
+ROCHEFORT: i'll tell him you said that.
+ATHOS: do that, rochefort. tell his emminence the cardinal that we will continue to perform our sworn duty to protect the king. from enemies across the sea.
+
+ATHOS: from traitors who sit at his right hand. and tell him that he can take away our tunics, our muskets, even our swords. but he cannot stop us from being what we are. musketeers. 
+ROCHEFORT: i'll make sure his emminence the cardinal gets the message. but i can't promise he'll be pleased.
+PORTHOS: well, if we're going to be outlaws, i suppose we'll have to get our affairs in order.
+ARAMIS: are you going to visit them alphabetically or in order of preference?
+PORTHOS: alphabetically seems... fair.
+ARAMIS: when it comes to you and women, fairness rarely applies.
+ATHOS: we'll meet at the columbier-rouge at sundown. to celebrate. and to plan our new lives.
+PORTHOS: outlaws.
+ARAMIS: citizens of france.
+ATHOS: the three musketeers.
+
+D'ARTAGNAN: look out! 
+ATHOS: aaarrgghh...
+D'ARTAGNAN: where are they? where are the musketeers? i'm in the right place, aren't i?
+ATHOS: not as far as i'm concerned.
+D'ARTAGNAN: but this is musketeer headquarters...
+
+ATHOS: no. this was musketeer headquarters. 
+D'ARTAGNAN: you mean it's been moved?
+ATHOS: i mean the musketeers have been disbanded. feel free to poke around for souvenirs.
+D'ARTAGNAN: what do you mean 'disbanded'?
+ATHOS: some nonsense about being needed in the army. now if you'll excuse me...
+D'ARTAGNAN: but i just got here. how can i become a musketeer if they've been disbanded?
+ATHOS: i'd say you've got a problem.
+ATHOS: you could use a lesson in manners.
+D'ARTAGNAN: any time.
+ATHOS: i'm in a hurry now -- but i'll meet you at the carmes-deshaux monastery at noon.
+D'ARTAGNAN: i'll be there ten minutes early.
+
+PORTHOS: do you know where this sash comes from? 
+D'ARTAGNAN: no.
+PORTHOS: it is a gift from the queen of america.
+D'ARTAGNAN: there is no queen of america.
+PORTHOS: madame augustine, would you excuse me for a moment, i'm going to kill him. now, where were we?
+D'ARTAGNAN: i rode through a puddle, muddied your sash, the queen of america except there isn't one, i'm in a hurry, and you were about to challenge me to a duel.
+PORTHOS: i was?
+D'ARTAGNAN: that seems to be the local custom.
+
+PORTHOS: everywhere i go, it's always the same. there's always some kid who thinks he's hot with a sword... some itchy punk who wants to go up against the great porthos... 
+D'ARTAGNAN: the great who?
+PORTHOS: the great porthos. me, you
+PORTHOS: don't you know who i am?
+D'ARTAGNAN: the world's greatest talker?
+PORTHOS: all right, you little puke! you want to die? so be it! one o'clock behind the luxembourg!
+D'ARTAGNAN: bring your own!
+
+CARDINAL'S GUARD: i'm afraid that's not possible. 
+D'ARTAGNAN: i must speak to those young women.
+CARDINAL'S GUARD: the young women do not wish to be spoken to.
+D'ARTAGNAN: i have something that belongs to the queen.
+GUARD: what?
+D'ARTAGNAN: a bracelet.
+GUARD: i'll deliver it for you.
+D'ARTAGNAN: no, you've been enough help already. would you be so kind as to point out the carmes-deshaux monastery?
+
+DAMSEL: excuse me, monsieur aramis. but when you started talking about original sin, i lost control and became impassioned. it won't happen again. 
+ARAMIS: there's nothing unholy about expressing one's emotions. on the contrary. religion should be experienced in a passionate, all- embracing way. we should feel free to express our spirituality.
+DAMSEL: yes, darling!
+MAN: open up!
+DAMSEL: my husband!
+ARAMIS: your husband!?
+DAMSEL: aramis -- run!
+ARAMIS: first we must pray to for forgiveness.
+ARAMIS: on second thought, often busy.
+
+ARAMIS: thanks. you broke my fall perfectly. but i do apologize for the inconvenience... 
+D'ARTAGNAN: get off me!
+ARAMIS: if there's one thing i can't abide, it's rudeness.
+D'ARTAGNAN: you fell on me!
+ARAMIS: and i apologized for it.
+D'ARTAGNAN: i suppose you'd like to teach me a lesson in manners, too.
+ARAMIS: i'd be honored.
+D'ARTAGNAN: how's two o'clock behind the luxembourg?
+ARAMIS: if that's where you wish to die, i won't disappoint you. until then...
+D'ARTAGNAN: three duels in one day. i love this town.
+
+ANNE: have you seen the king? 
+SENESCHAL: no, your majesty.
+
+MAN: your majesty... 
+ANNE: cardinal richelieu, you surprised me.
+RICHELIEU: how was your ride?
+ANNE: my ride...? well, i... i'm not sure...
+RICHELIEU: forgive me.
+
+RICHELIEU: but your welfare is more than a matter of personal interest. it is a matter of state. but rest assured, your secret is safe with me. 
+ANNE: thank you.
+RICHELIEU: you're homesick.
+ANNE: lonely. is that the same thing?
+RICHELIEU: sometimes.
+RICHELIEU: austria's loss is france's gain.
+ANNE: i'm not sure my new husband shares your opinion.
+RICHELIEU: nonsense. he's young, not blind.
+ANNE: mostly, he is absent. i've barely seen his majesty since our wedding, and that was three months ago. whenever he's around me, he has nothing to say.
+RICHELIEU: arranged marriages can be difficult. your father and i thought yours would bring austria and france closer together.
+
+ANNE: countries align more swiftly than people, i'm afraid. louis and i remain... far apart. 
+RICHELIEU: may i advise you?
+RICHELIEU: louis was only nine years old when his father was assassinated. he lost his childhood forever that day. i have watched him grow toward manhood, seen the toll his life demands. a boy who is not allowed to be a boy sometimes has difficulty becoming a man. he is shy, yet boastful. giving, yet stubborn. but most of all, he is not yet sure exactly who he is. the boy who lost his father. or the king of france.
+ANNE: but how can i...?
+RICHELIEU: flatter him. make the boy feel like a king. so that the king may be your husband.
+SENESCHAL: his majesty, the king.
+RICHELIEU: your majesty.
+LOUIS: cardinal richelieu, i've been looking for you.
+
+LOUIS: oh. anne. hello. i didn't know you were here. 
+ANNE: would you like me to go?
+LOUIS: no. please, stay. your eminence, i demand an answer.
+RICHELIEU: perhaps if i knew the question...
+LOUIS: i've just been told that you went ahead and disbanded my musketeers.
+RICHELIEU: you approved the decision.
+LOUIS: but not the timing of the matter. i intended to address them myself, explain the situation...
+RICHELIEU: your majesty, france is on the brink of war. we dare not hesitate.
+LOUIS: but these men are my personal guards...
+RICHELIEU: they are the bravest fighters in france.
+
+RICHELIEU: we'll need them in the field if we're to win this war with england. buckingham plans to invade la rochelle within the month. i thought it best to act quickly -- 
+LOUIS: i will be the judge of what is best. for me, and for france.
+RICHELIEU: of course. forgive me.
+LOUIS: anne? are you all right?
+ANNE: you two should continue this discussion in private.
+LOUIS: your thoughts on the matter interest me. they might... help.
+ANNE: it seems to me that... you're doing very well on your own.
+LOUIS: she's beautiful.
+RICHELIEU: extremely.
+LOUIS: intelligent.
+RICHELIEU: very.
+
+LOUIS: sometimes she scares me half to death. 
+RICHELIEU: may i advise you?
+RICHELIEU: she scares me too. as do all women who join beauty to intelligence. what's a man to do?
+LOUIS: i have no idea.
+RICHELIEU: the course of love is full of frightful turns. but, no matter how you feel, no matter how hopelessly afraid... never let her know that you are anything other than the bravest and most confident man in france. make that your starting point, and everything else will fall... into place.
+LOUIS: the bravest man in france...
+RICHELIEU: good advice for a shopkeeper. let alone a king.
+LOUIS: your eminence, i'm sorry that i was sharp with you. it's just that the musketeers... well, they're not just my guards. they're my friends too.
+RICHELIEU: i know. but don't worry.
+
+ROCHEFORT: he's a foolish boy. and barely that. 
+RICHELIEU: that foolish boy is about to become a man. which is all the more reason for us to act... quickly.
+ROCHEFORT: and the queen...?
+RICHELIEU: she will receive me in ways she never thought possible. privately.
+
+COUNT DE WINTER: wait here. 
+ARMAND: but, father...
+COUNT DE WINTER: wait.
+
+MILADY: count de winter. 
+COUNT DE WINTER: we found you.
+MILADY: yes. now that you have, what will you do?
+COUNT DE WINTER: bring you back. to pay for what you did to my son.
+MILADY: and if i resist...?
+COUNT DE WINTER: i will kill you with my bare hands.
+MILADY: well if that's the case, i'd better start packing. but first, my hair...
+
+ATHOS: ten minutes early. 
+D'ARTAGNAN: i have another appointment at one.
+ATHOS: you'll miss it, i'm afraid.
+D'ARTAGNAN: i'll try my best to be on time.
+ATHOS: i asked two of my friends to act as seconds, but they are not as punctual.
+D'ARTAGNAN: but you're wounded.
+ATHOS: don't worry. i fight just as well with my left hand.
+
+D'ARTAGNAN: if you'd rather kill me another time... 
+ATHOS: thanks, but i see my seconds coming now.
+PORTHOS: what're you doing? you can't fight this man.
+ATHOS: why not?
+PORTHOS: because i'm fighting him.
+D'ARTAGNAN: excuse me, monsieur. but not until one o'clock.
+ARAMIS: wait a minute. i've got a duel with him, too.
+D'ARTAGNAN: yes, sir. but not until two.
+ATHOS: how long have you been in paris?
+D'ARTAGNAN: i arrived this morning.
+ATHOS: you've been... busy.
+D'ARTAGNAN: i've also fallen in love.
+ATHOS: better to die for love than to live for it. gentlemen?
+
+JUSSAC: there they are!! 
+ARAMIS: jussac. again.
+ATHOS: i told you the next time we met i'd want an answer. but i didn't expect you so soon.
+JUSSAC: the three of you are under arrest. the boy's of no interest to me and is free to go. do you intend to resist?
+PORTHOS: oh, don't be stupid. of course we intend to resist. just give us a second.
+PORTHOS: interesting odds. five of them and three of us.
+ARAMIS: it hardly seems fair. let's give them the chance to surrender.
+D'ARTAGNAN: excuse me, but there are four of us.
+
+ATHOS: this is not your fight. you're not a musketeer. 
+D'ARTAGNAN: i may not wear the uniform, but i believe i have the heart of a musketeer.
+PORTHOS: bold and brave.
+ARAMIS: a poet.
+ATHOS: have you got a name, boy?
+D'ARTAGNAN: d'artagnan.
+PORTHOS: d'artagnan?
+ARAMIS: impossible.
+PORTHOS: it couldn't be.
+ATHOS: athos... porthos... aramis.
+D'ARTAGNAN: pleased to meet you... how do you do?... good to see you again...
+
+PORTHOS: well. now that we're all acquainted... 
+ATHOS: the cardinal's guards.
+
+PORTHOS: monks. always spoiling everybody's fun. 
+ARAMIS: they are nearer to
+PORTHOS: they're about to get a little nearer to the hilt of my sword.
+ARAMIS: pagan.
+PORTHOS: papist.
+PORTHOS: excuse me?
+ARAMIS: i'm fine, thank you.
+ARAMIS: take a look at our young friend.
+ATHOS: you mean he's still alive?
+
+BISCARAT: now what...? 
+PORTHOS: i love my work.
+
+D'ARTAGNAN: what's he doing? 
+ATHOS: last rites. aramis takes death very seriously.
+PORTHOS: do you know where this bolo comes from?
+D'ARTAGNAN: the queen of america?
+PORTHOS: spain.
+
+ARAMIS: don't encourage him. by killing jussac, the boy's made himself an outlaw too. 
+ATHOS: not if he leaves paris. which is exactly what he's going to do.
+D'ARTAGNAN: i can't leave. i just got here.
+PORTHOS: go home, find a wench, live long and prosper.
+D'ARTAGNAN: why can't i stay with you?
+ATHOS: because i do not want you to.
+ARAMIS: i know athos may seem cold and unfriendly, but don't let that fool you.
+PORTHOS: he really is cold and unfriendly.
+ARAMIS: but he's also right. this is our fight, not yours. go on, get out of here.
+D'ARTAGNAN: whatever happened to the motto of the musketeers? 'all for one, and one for all.'
+ATHOS: wake up, boy. the musketeers are just a dream.
+
+PORTHOS: rochefort's got the boy. 
+ATHOS: too bad.
+ARAMIS: you can't just leave him.
+ARAMIS: he has a plan.
+PORTHOS: definitely. a plan.
+
+GUARD: this boy fights like a wildcat. 
+D'ARTAGNAN: thank you.
+
+D'ARTAGNAN: my sword -- 
+ROCHEFORT: it's magnificent. where did you get it?
+D'ARTAGNAN: it belonged to my father.
+ROCHEFORT: your father...
+ROCHEFORT: well now it belongs to me. i collect swords. i take them from the men i kill.
+D'ARTAGNAN: i'm not dead yet.
+ROCHEFORT: soon enough.
+
+D'ARTAGNAN: where am i? 
+ROCHEFORT: i'll give you a hint. it's not the louvre.
+D'ARTAGNAN: the bastille! i'm in the bastille!
+ROCHEFORT: well, you're the first person who was ever happy to be here. unfortunately, your visit will be a short one.
+D'ARTAGNAN: what do you mean?
+ROCHEFORT: you killed one of the cardinal's guards. an offense punishable by death.
+D'ARTAGNAN: he interrupted a duel i was fighting.
+ROCHEFORT: also punishable by death.
+D'ARTAGNAN: it was a long day.
+ROCHEFORT: you know them?
+D'ARTAGNAN: who?
+ROCHEFORT: the musketeers.
+ROCHEFORT: tell me where they are, and i will be lenient.
+D'ARTAGNAN: how?
+
+D'ARTAGNAN: give me my father's sword, and i'll cut out your heart. 
+ROCHEFORT: fool. like your father.
+
+RICHELIEU: i have an errand that requires your singular talents. 
+MILADY: i was beginning to think you'd forgotten me.
+RICHELIEU: forget you? impossible.
+
+MILADY: you did it. an alliance with buckingham. 
+RICHELIEU: the king left me no choice. now that he's come of age, the boy believes he should rule france. instead of me.
+ROCHEFORT: you're going to go through with ... everything?
+RICHELIEU: yes. everything. you're to leave for calais at once. a ship called the persephone will carry you to england. it sails tuesday, midnight. i want buckingham's signature next to mine before the king's birthday. friday.
+MILADY: consider it done.
+RICHELIEU: and doing so, shall earn you the gratitude of... a king.
+
+ROCHEFORT: on your knees. 
+ROCHEFORT: this is the boy who killed jussac.
+D'ARTAGNAN: i can explain that --
+ROCHEFORT: silence!
+RICHELIEU: rochefort. violence solves nothing. leave him to me.
+RICHELIEU: please. sit down.
+RICHELIEU: how much did you hear?
+D'ARTAGNAN: not a word, your eminence. i stepped from my cell for a breath of air, and became lost in the corridors, it's dark as you know, but then i saw a light up ahead, the light over your door, i...
+
+RICHELIEU: you may have many talents, my young friend. but guile is not one of them. do you have a name? 
+D'ARTAGNAN: d'artagnan.
+RICHELIEU: i've heard that name before. are you a gascon?
+D'ARTAGNAN: yes, your eminence.
+RICHELIEU: tell me. what brought you to paris. and don't say 'a horse.'
+D'ARTAGNAN: i came to join the king's musketeers.
+RICHELIEU: bad timing.
+D'ARTAGNAN: so i've heard.
+RICHELIEU: d'artagnan, i like you. i could use a capable young man like you in my guards.
+D'ARTAGNAN: i'm honored, your eminence, but i don't think i would be very popular with the other men. not after today.
+RICHELIEU: i suppose not. your heart is set on being a musketeer. when i was your age, i too had dreams of joining the musketeers.
+D'ARTAGNAN: you, your eminence?
+
+RICHELIEU: why not? becoming a musketeer is the fantasy of every young frenchman. or should i say it was... like the knights of the round table, the musketeers have outlived their usefulness. they are a thing of the past. and so have your three friends. tell me where they are, d'artagnan, and i will spare your life. 
+D'ARTAGNAN: i'm sorry. but i can't tell you what i do not know.
+RICHELIEU: in that case, give my regards to the headsman.
+D'ARTAGNAN: what about my trial?
+RICHELIEU: you've just had it.
+D'ARTAGNAN: wait --
+RICHELIEU: why? do you object to losing your head?
+D'ARTAGNAN: yes. i like it where it is.
+RICHELIEU: then tell me what i want to know, and perhaps you will keep it there a few years longer. where are the three musketeers?
+
+D'ARTAGNAN: i don't know. 
+RICHELIEU: and if you did?
+D'ARTAGNAN: i wouldn't tell you.
+RICHELIEU: i admire your courage, young man. you might have made a fine musketeer after all.
+RICHELIEU: but we'll never know, will we?
+RICHELIEU: find the three musketeers and kill them.
+ROCHEFORT: they'll be dead by dawn.
+RICHELIEU: a comforting thought. good night, d'artagnan. enjoy it. morning comes quickly.
+
+ROCHEFORT: milady left at midnight. by private coach. 
+RICHELIEU: a remarkable woman. the most beautiful i've ever known. and the deadliest. which would explain my attraction. how is our young daredevil holding up?
+ROCHEFORT: he's wishing he'd never heard of the musketeers.
+
+PRIEST: fear not, my son... 
+PRIEST: for we are with you, always.
+ARAMIS: all for one, and one for all...
+CAPTAIN OF THE GUARDS: prepare the prisoner.
+PORTHOS: don't worry, boy. you won't feel a thing.
+CAPTAIN OF THE GUARDS: where is father rostand today?
+ARAMIS: the good father is... all tied up.
+CAPTAIN OF THE GUARDS: very well. proceed.
+
+ANNE: barbarism. 
+CONSTANCE: men call it justice.
+ANNE: are you surprised?
+CONSTANCE: it's him.
+
+CONSTANCE: yes! 
+RICHELIEU: my carriage.
+
+PORTHOS: well, what have we here? 
+PORTHOS: how considerate of the cardinal to provide us with a snack.
+
+ARAMIS: hello. 
+ARAMIS: how is it that a man of becomes a man of gold?
+PORTHOS: trinkets for the ladies.
+ARAMIS: let's share.
+
+ARAMIS: would you be so good as to distribute these? your generosity will be greatly appreciated. 
+D'ARTAGNAN: but...?
+D'ARTAGNAN: they're firing at us!
+
+PORTHOS: champagne? 
+ATHOS: you know i prefer wine.
+PORTHOS: don't go away.
+PORTHOS: may i recommend this find cabernet?
+ATHOS: turn right at the next street.
+D'ARTAGNAN: the next right...?
+ATHOS: turn.
+
+ATHOS: gentlemen, this is the end of the line. i hope you had a pleasant ride. unhitch the horses. 
+D'ARTAGNAN: but the guards.
+ATHOS: do as i say.
+ATHOS: stand back.
+
+PORTHOS: i'd give five years of your life just to see the cardinal's face! 
+ARAMIS: ten!
+
+D'ARTAGNAN: i haven't eaten in three days. i guess with all the excitement, i forgot. 
+ARAMIS: your trip from home has been an eventful one.
+D'ARTAGNAN: three days.
+PORTHOS: i heard of a d'artagnan once. he was a captain in the musketeers when we were just recruits.
+D'ARTAGNAN: he was my father.
+ARAMIS: a good man, i'm told.
+PORTHOS: i knew there was something familiar about this boy.
+
+D'ARTAGNAN: he died when i was nine. 
+D'ARTAGNAN: all my mother would tell me is that he died in the service of the king.
+ATHOS: d'artagnan, your father and another musketeer were ambushed and murdered outside the louvre.
+D'ARTAGNAN: this other musketeer -- is he still alive? i'd like to talk to him.
+PORTHOS: you already have. his name is the count de rochefort.
+ARAMIS: d'artagnan.
+
+D'ARTAGNAN: on a battlefield, defending his king. fighting bravely for france. and now... i will find the man who murdered my father and kill him where he stands. 
+ARAMIS: a man is better measured by his life than by his death. your father was bold, and brave.
+D'ARTAGNAN: but you never knew him...
+ARAMIS: he lives in you.
+D'ARTAGNAN: and your father?
+ARAMIS: i was orphaned at a young age.
+D'ARTAGNAN: you didn't have one.
+ARAMIS: but i did. he was a great man, a leader of the church. and his example inspired me to dedicate my life to service.
+D'ARTAGNAN: you were a priest...
+ARAMIS: i was a fool. this great man, this father, betrayed the church, and turned his back on to worship power and gold.
+
+ARAMIS: it broke my heart to see it. 
+D'ARTAGNAN: and you became a musketeer.
+ARAMIS: i joined the musketeers and a strange thing happened. i got my faith back.
+D'ARTAGNAN: but who was that man...
+ARAMIS: all of france knows him. his eminence, the cardinal richelieu.
+
+ROCHEFORT: your eminence. the musketeers have been sighted riding north on the road to calais. richelieu nods, he already knows. he picks up one of the pigeons, strokes it gently. 
+RICHELIEU: don't worry. thanks to our winged friends, every mercenary and bounty hunter in france will be waiting for them. isn't modern communication a wonderful thing?
+
+D'ARTAGNAN: ... i couldn't hear it clearly, i was standing by the door, the voices were low -- 
+PORTHOS: go on.
+D'ARTAGNAN: the cardinal sent someone to england. with a secret treaty.
+ARAMIS: what?
+D'ARTAGNAN: he's made an alliance with a man named, bucking... buckingham.
+PORTHOS: the duke of buckingham?
+D'ARTAGNAN: do you know him?
+ARAMIS: he rules england the way richelieu rules france. d'artagnanj a ship called the persephone waits for the cardinal's agent at calais. to take him to england.
+ARAMIS: calais is over two hundred leagues from here...
+
+PORTHOS: this messenger and the treaty will prove the cardinal a traitor. if we can get our hands on them. 
+D'ARTAGNAN: what are we waiting for, let's go.
+ATHOS: wait.
+ATHOS: does the cardinal know you have this information?
+D'ARTAGNAN: yes.
+ATHOS: then he knows we have it too. and he'll do everything in his power to stop us.
+PORTHOS: but with three men trying, one of us might be able to make it.
+D'ARTAGNAN: four.
+
+FARMER: thank for a friendly face. my horse broke loose. can you help me move these kegs out of the road? 
+ATHOS: stay on your horse.
+D'ARTAGNAN: he needs our help.
+ATHOS: don't worry. we'll help him.
+
+FARMER: won't you step down... musketeers? 
+ARAMIS: gentlemen, i beg you. please put away your weapons and remove these kegs from the road. we'd prefer to ride on without having to kill you.
+FARMER: you're threatening us?
+PORTHOS: it's not a threat, it's a fact. if you don't haul those kegs away, you're dead where you stand.
+PORTHOS: mine hit the ground first.
+ATHOS: mine was taller.
+PORTHOS: there's only one rule, d'artagnan -- stay alive.
+
+INNKEEPER: good evening. 
+ATHOS: see to our horses and bring us some food.
+INNKEEPER: i'm sorry but we have little to spare. the cardinal's guards were here today. they helped themselves to our food and then refused to pay.
+BARMAID #1: musketeers!
+INNKEEPER: musketeers in my house! gentlemen, put away your swords and come in. anyone who fights the cardinal is welcome here.
+
+ARAMIS: i think we've found a home. 
+INNKEEPER: we don't have much but what we have is yours.
+PORTHOS: ladies, you're in for a treat tonight. allow me to introduce myself. i'm the musketeer they call porthos.
+PORTHOS: porthos.
+ARAMIS: it's hard to believe they haven't heard of the great porthos.
+PORTHOS: oh, shut up, aramis.
+BARMAIDS: aramis? did you say aramis?
+PORTHOS: i don't get it. i just don't get it.
+
+PORTHOS: i said, 'a queen is no different than a barmaid in the dark. though less... practiced in the arts of pleasure...' 
+PORTHOS: if you're going to be a proper musketeer, you'll have to learn the manly art of wenching. right, ladies?
+PORTHOS: ahh, very good. your first subject. but you'll need instruction. watch closely.
+PORTHOS: the secret to wenching is the first kiss. for in that kiss, a lasting impression is made. if it is weak, she will think you are weak. and if it is comical, she will think you are a clown. with me?
+D'ARTAGNAN: weak... weak. comical... clown.
+PORTHOS: very good. and as a musketeer is never weak, and only rarely a clown, your first kiss must be all the things that you are. like this...
+
+PORTHOS: you may speak first if you like, your name, her name, an endearment or two. but words are usually a waste of time. 
+ARAMIS: only if you don't know which words to say.
+ARAMIS: words may make a more lasting impression than a thousand of porthos' kisses.
+BARMAID: not likely.
+ARAMIS: i'll demonstrate. please. sit beside me.
+ARAMIS: 'shall i compare thee to a summer's day? thou art more lovely and more temperate: rough winds do shake the darling buds of may, and summer's leash hath all too short a date; sometime too hot the eye of heaven shines, and often is his gold complexion dimmed; and every fair from fair sometimes declines, by chance, or nature's changing course untrimmed; but thy eternal summer shall not fade.
+
+ARAMIS: nor lose possession of that fair thou owest, nor shall death brag thou wanderest in his shade, when in eternal lines to time thou growest; so long as men can breathe, or eyes can see. so long lives this, and this gives life to thee.' the barmaid, once skeptical, sits silently. her face 
+ARAMIS: shakespeare.
+PORTHOS: that's cheating.
+BARMAID: it's beautiful.
+PORTHOS: come on, d'artagnan. we haven't got all night.
+D'ARTAGNAN: 'shall i compare thee to a summer's day? thou are move lovely and more tempest, er, more tempered...' ahh, to with it --
+PORTHOS: the boy's a natural.
+
+ARAMIS: so little time, so much to learn. 
+ARAMIS: in all the years i've know him...
+D'ARTAGNAN: why is he sitting by himself?
+PORTHOS: athos takes his drinking seriously. ignore him. he'll be his usual warm, charming self by morning. service! my lap is cold!
+
+D'ARTAGNAN: come join us. 
+ATHOS: you fight like a musketeer. let's see if you can drink like one.
+D'ARTAGNAN: i'll drink anything you put in front of me.
+ATHOS: famous last words. what shall we drink to?
+
+D'ARTAGNAN: love? 
+ATHOS: love.
+D'ARTAGNAN: yes.
+ATHOS: i once knew a man... one of the counts of berry. my native province. when the good count was about your age, he fell in love with a visitor from paris. a breathtaking girl of seventeen. she was more than beautiful, d'artagnan. she was... intoxicating. and this man, the poor he married her.
+D'ARTAGNAN: isn't that what people do when they fall in love?
+ATHOS: be quiet and listen. the count took her to his castle and made her the first lady of the province. they were happy for a time, as happy as a man and a woman can be. then one day, while riding in the woods, the girl was thrown from her horse, and knocked unconscious. the count hurried to help her. her dress was torn.
+
+ATHOS: on her her arm, the woman wore a gold band in the shape of a serpent. it was the only article of clothing she refused to remove. the count's curiosity got the best of him. he reached over and slid down the gold band. he saw something on her arm... something she'd kept hidden 'til then... 
+D'ARTAGNAN: what?
+ATHOS: the fleur d'lis. she'd been branded...
+ATHOS: the count's angel turned out to be a murderess who escaped the executioner's blade. she swore that she loved him. swore that she had changed. and if he would just keep her secret, they would live a long life together.
+ATHOS: but the count was young and he was stupid. he was tormented by the ridicule of his social class. and so he rejected her. for her lies and for her past. and turned her over to the authorities to be executed for the crime.
+ATHOS: but you see... his heart did not agree. the count soon realized what she had meant to him. and what he had done.
+
+ATHOS: that his... betrayal was far greater than her own. soon after he foreswore the society that shaped him. gave up his title. and was never seen again. 
+D'ARTAGNAN: he loved her.
+ATHOS: he killed her. it seemed like the same thing after a while.
+ATHOS: good. more for me.
+PORTHOS: aramis -- play something with some blood in it! i feel like dancing!
+PORTHOS: care to dance, athos?
+ATHOS: only if i can lead.
+PORTHOS: aramis! athos made a joke!
+
+INNKEEPER: excuse me, gentlemen. 
+D'ARTAGNAN: were we making too much noise?
+INNKEEPER: you told me to wake you at dawn.
+ATHOS: well?
+INNKEEPER: it's dawn.
+
+PORTHOS: beautiful morning, eh, d'artagnan? 
+PORTHOS: you know, d'artagnan, it's not a good idea to travel on an empty stomach. you really should have had a big portion of those sheep's brains...
+D'ARTAGNAN: my head feels like it's filled with the king's marching band.
+
+PORTHOS: whistling? i'm not whistling. 
+D'ARTAGNAN: well someone is.
+PORTHOS: the barmaid's kiss left him dizzy.
+ARAMIS: i hear it too. it sounds like...
+ATHOS: a connon ball.
+PORTHOS: i hate cannon balls.
+ARAMIS: how's your head now?
+D'ARTAGNAN: i'm beginning to wish the cardinal had chopped if off.
+ATHOS: stay with us, and you just might get your wish.
+
+ATHOS: split in half! d'artagnan rides with me! 
+ARAMIS: we'll see you in calais!
+ATHOS: or hell!
+
+CONSTANCE: but how, your majesty? how can you tell if you're really in love? 
+ANNE: do you think about him all the time?
+CONSTANCE: yes.
+ANNE: and when he's around, do your knees feel as weak as water?
+CONSTANCE: yes.
+ANNE: and when he looks at you, do you suddenly forget how to breathe?
+
+CONSTANCE: yes. 
+ANNE: then you're in love.
+CONSTANCE: i am.
+ANNE: who is he?
+CONSTANCE: you'll never believe it.
+ANNE: of course i will.
+CONSTANCE: you won't.
+ANNE: who?
+CONSTANCE: the young man who rescued us from the bandit.
+ANNE: the young man on the scaffold?
+CONSTANCE: yes.
+ANNE: you're right. i don't believe it.
+CONSTANCE: are you in love, your majesty?
+ANNE: what an impertinent question.
+
+CONSTANCE: are you? 
+ANNE: my love... is a matter of state. it's complicated.
+CONSTANCE: do you think about him all the time?
+ANNE: as queen, my mind touches on many subjects.
+CONSTANCE: do your knees feel as weak as water?
+ANNE: never.
+CONSTANCE: when he looks at you, do you forget how to breathe?
+ANNE: i hope he will someday. i hope i will too.
+
+RICHELIEU: your majesty, forgive me. 
+ANNE: cardinal.
+RICHELIEU: i need your help. and could not in good conscience wait another minute.
+ANNE: you want my help?
+RICHELIEU: yes.
+ANNE: on what matter?
+RICHELIEU: your... husband.
+ANNE: your king.
+ANNE: of course. as your eminence has been kind enough to advise me... it's the least i can do.
+RICHELIEU: i am worried about the king's...
+ANNE: what do you mean?
+RICHELIEU: the huguenot rebellion, occupation in the antilles and cayenne. the coming war with france. these are not the usual hobbies of youth.
+ANNE: no.
+
+RICHELIEU: and now he wishes to postpone his birthday celebration. 
+ANNE: why?
+RICHELIEU: he feels it is not... appropriate.
+ANNE: it sounds as though he is concerned with more important matters.
+RICHELIEU: which is exactly why we must celebrate. to show the world that the king of france is strong enough to face any enemy on any field. to show france... that he is king. he will listen to you. if you will speak.
+ANNE: i will speak to him.
+ANNE: now, if you'll excuse me, i...
+RICHELIEU: of course.
+RICHELIEU: your majesty? please understand that i do not underestimate the value of your assistance.
+
+RICHELIEU: i'm sorry to be late, your majesty, but i was wrestling with an important matter of state. 
+LOUIS: why is it i don't see any of my musketeers?
+RICHELIEU: i'm afraid... that's impossible.
+LOUIS: why?
+
+RICHELIEU: they have become outlaws. they are terrorizing the countryside, robbing and killing innocent people. 
+LOUIS: there must be some mistake.
+RICHELIEU: no mistake. i have reports from the local constables involved.
+LOUIS: musketeers...
+RICHELIEU: they are better off disbanded.
+LOUIS: your eminence, i've been hearing some very troubling rumors about you.
+RICHELIEU: there are so many to choose from. is it the one about my alleged alliance with buckingham? let's see if i remember it correctly. while the english attack from without, i'll undermine the throne from within -- depose you -- and become sovereign of france myself. that rumor, your majesty?
+LOUIS: it does seem rather farfetched.
+
+RICHELIEU: if there are any doubts of my loyalty, they'll be put to rest when we appear together at your birthday celebration. 
+LOUIS: i've been thinking about that. a birthday celebration when we're on the brink of war...
+RICHELIEU: your subjects are eager to celebrate the birth of their king at a time like this.
+LOUIS: i'm not so eager.
+RICHELIEU: i have an idea. why don't you discuss the matter with your queen?
+
+ARAMIS: my horse will not survive another league. 
+PORTHOS: and you?
+ARAMIS: ten, twenty at the most.
+
+FERRYMAN: a privilege to carry you on my humble boat... 
+FERRYMAN: two pistoles.
+WOMAN: but i only have one. couldn't my child ride free? she's so small...
+FERRYMAN: two pistoles.
+ARAMIS: put away your money, madame. you and your child will cross the river under our protection. for free.
+
+FERRYMAN: nobody rides for free! under your protection well indeed! i'll teach you a thing or two about protection! apple- cheeked young fools!! -- just who do you think you are!! 
+ARAMIS: musketeers.
+FERRYMAN: musketeers? well, why didn't you say so? of course you'll ride for free. i insist on it. this way, pretty madame. my what a lovely little girl...
+ARAMIS: porthos!
+PORTHOS: what?
+PORTHOS: we sail!
+
+FIRST CAVALIER: you're those musketeers everyone's been looking for. 
+PORTHOS: popularity has its price.
+FIRST CAVALIER: i have some excellent brandy here. would you gentlemen care to drink a toast with us to the cardinal?
+PORTHOS: we'd be happy to.
+PORTHOS: if you'll drink one with us to the king.
+SECOND CAVALIER: but the only king we recognize...
+ARAMIS: there are those who would call that treason.
+FIRST CAVALIER: happily, no such objections have been raised... here.
+PORTHOS: all right. i'll object.
+SECOND CAVALIER: i'm listening.
+PORTHOS: let's see. you are, by your dress and by your manner, members of a bone-lazy class of servile ninnyhammers whose slavish allegiance to his eminence the cardinal is as that of a dog who likes nothing better than to sniff today where he has peed the day before.
+
+PORTHOS: is piss, no matter what robes surround it. 
+ARAMIS: well said. i'm impressed.
+PORTHOS: i was momentarily inspired.
+FIRST CAVALIER: may i reply?
+ARAMIS: by all means.
+FIRST CAVALIER: better to be a dog in the service of a great master, than a beef- witted moron so dazzled by the throne that he does not see the true nature of the foolish boy who wobbles atop it. which is to say, that most muddy-brained of all men... a musketeer.
+PORTHOS: maybe there's something about us that just people off. at least i'd like to think so. it's too bad we can only kill them once.
+
+PORTHOS: i've been called a lot of things in my time... 
+ARAMIS: porthos...
+PORTHOS: but beef-witted is a little more than i can stand, not to mention unfair...
+ARAMIS: porthos...
+PORTHOS: what?
+ARAMIS: can you swim?
+PORTHOS: no. my horse can.
+ARAMIS: that'll do.
+PORTHOS: but...?
+
+ARAMIS: you go first and i'll watch your progress. 
+PORTHOS: no, no. please. after you.
+ARAMIS AND PORTHOS: one, two -- three!
+WOMAN: thank you. speed.
+
+D'ARTAGNAN: do you think we've lost them? 
+ATHOS: they'll catch up eventually.
+D'ARTAGNAN: my father used to hunt in a forest like this. he promised to take me on my tenth birthday. i don't know why he picked that year. something about a boy becoming a man. i'd lay in bed at night and imagine it, just the two of us. but he died before i could go with him.
+ATHOS: well. you have your boyhood wish at last. the dark forest. the thrill of the hunt. the nearness of death.
+D'ARTAGNAN: i'd be proud to die for my king.
+ATHOS: i just wanted to save you from the life of a musketeer. you don't have to go looking for experience, d'artagnan. it'll find you soon enough. and when it does -- it will mark you forever.
+
+ATHOS: i'll hold them off for as long as i can. go on without me. 
+D'ARTAGNAN: i can't leave you here. not like this.
+ATHOS: ride to calais and stop the cardinal's agent.
+D'ARTAGNAN: athos... i can't.
+ATHOS: go, or i'll kill you myself.
+D'ARTAGNAN: a duel then.
+
+ATHOS: you're insane. 
+D'ARTAGNAN: we never finished the first.
+ATHOS: all right. i'll toss a coin. tails i stay, heads you remain. agreed?
+
+ATHOS: tails. i stay. 
+D'ARTAGNAN: but...?
+D'ARTAGNAN: at least take my pistol.
+D'ARTAGNAN: i'll never forget you.
+ATHOS: go!
+
+MILADY: what is it, henri? 
+HENRI: there's a body in the road, milady.
+MILADY: be careful.
+HENRI: it's a young man. he appears to be injured.
+MILADY: my, what a handsome boy. put him inside with me.
+
+D'ARTAGNAN: you. 
+MILADY: have we met?
+D'ARTAGNAN: i... saw you in paris.
+D'ARTAGNAN: where am i...?
+MILADY: this is calais.
+D'ARTAGNAN: calais! the ship... tuesday at midnight...
+D'ARTAGNAN: where are my clothes?
+
+MILADY: filthy. i'm having them cleaned. 
+D'ARTAGNAN: what day is it? what time?!
+MILADY: it's tuesday, near nine.
+D'ARTAGNAN: nine? are you sure?
+MILADY: quite sure.
+MILADY: are you in a hurry?
+D'ARTAGNAN: how did i... get here?
+MILADY: i found you in the road. discarded. like an unwanted kitten. do you have a name or shall i make one up for you?
+D'ARTAGNAN: my name is d'artagnan.
+MILADY: d'artagnan. i like that. i am the countess de winter. milady.
+D'ARTAGNAN: countess?
+MILADY: my husband's dead.
+
+D'ARTAGNAN: i'm sorry. 
+MILADY: i have learned to live with death.
+D'ARTAGNAN: countess, i'm very grateful for what you've done, but i can't stay here. i've got...
+MILADY: what...?
+D'ARTAGNAN: important business.
+MILADY: how mysterious. a handsome young man with 'important business' in the still of night. does it involve a young lady?
+D'ARTAGNAN: no.
+MILADY: does it require clothes?
+D'ARTAGNAN: yes. i need my clothes.
+MILADY: they won't be ready for at least an hour.
+D'ARTAGNAN: an hour?
+MILADY: i told the innkeeper to bring them when they are dry. until then, i'm afraid you are my prisoner. would the prisoner care for a drink?
+
+D'ARTAGNAN: i am... thirsty. 
+MILADY: good. then we will sit by the fire, and eat and drink, and you may impress, perhaps even move me, with the story of how you came to lie unconscious, in the middle of the night, on the road to calais. i love a good adventure.
+
+RICHELIEU: milady has reached calais. 
+ROCHEFORT: i told you not to worry about the musketeers. they are dead by now.
+RICHELIEU: buckingham's signature will be on the treaty by morning.
+ROCHEFORT: the king's birthday celebration...?
+RICHELIEU: will proceed as planned. thanks to the kind intercession of queen anne.
+ROCHEFORT: and our plans...?
+RICHELIEU: will proceed as well.
+
+MILADY: you are sad. 
+D'ARTAGNAN: i was thinking about my friends.
+
+D'ARTAGNAN: the three best friends a man could have. we were separated on our way to calais. i'm afraid i'll never see them again. 
+MILADY: what brings you here?
+D'ARTAGNAN: i'd like to tell you. but i can't.
+MILADY: 'important business.'
+MILADY: i understand. men make bold plans in secret. and women wait... to mourn, or to celebrate the outcome. i know from experience, it's a lonely vigil.
+D'ARTAGNAN: all i can tell you is... i'm on a mission for the king.
+MILADY: i've heard that one before.
+D'ARTAGNAN: i'm serious.
+MILADY: you are a young man. and young men are given to exaggeration. however, if you would like to entertain me with a story, i'm eager to hear it. and please, make it very brave, filled with handsome knights and beautiful ladies. i know, a dragon --
+
+D'ARTAGNAN: i came to calais to stop a spy from sailing to england. 
+MILADY: a spy...?
+D'ARTAGNAN: yes.
+MILADY: i believe you... aren't you afraid?
+D'ARTAGNAN: musketeers are not afraid of anything.
+MILADY: i knew it. i knew you were a musketeer the moment i saw you.
+D'ARTAGNAN: you did?
+MILADY: of course. but, d'artagnan, if this spy was to find out you are here, your life could be in grave danger.
+D'ARTAGNAN: a musketeer is not afriad of danger.
+MILADY: i'm dangerous. you're not afraid of me?
+D'ARTAGNAN: you're not dangerous.
+MILADY: then what am i?
+
+D'ARTAGNAN: you're... beautiful. 
+MILADY: beauty, danger. they are the same.
+
+D'ARTAGNAN: i'm sorry -- 
+D'ARTAGNAN: what're you doing?! have you lost your mind?!
+MILADY: you came to calais to stop a spy from sailing to england.
+D'ARTAGNAN: my
+
+MILADY: parker!! 
+MILADY: kill him.
+D'ARTAGNAN: you can kill me. but a surprise waits for you in england. that even buckingham can't prevent.
+MILADY: what... surprise?
+D'ARTAGNAN: that's one thing i'll never tell you.
+MILADY: d'artagnan. you are young, vain, and foolish. but i do not know if you are clever.
+MILADY: we'll take him with us.
+
+D'ARTAGNAN: the man at the inn... what did he want? 
+MILADY: justice. honor. revenge.
+D'ARTAGNAN: why?
+MILADY: he is the brother of my late husband, lord de winter. he blames me for de winter's death.
+D'ARTAGNAN: did you murder your husband, milady?
+MILADY: what do you think?
+D'ARTAGNAN: i think he's not the first husband you killed. i once knew a man, one of the counts of berry. he told me a story... of beauty and danger. he was the bravest man i've ever known. and the saddest.
+MILADY: i know...
+
+MILADY: what's the matter, d'artagnan? still hoping for your friends to ride to the rescue? 
+D'ARTAGNAN: my friends are dead.
+MILADY: well. if it's any consolation, you'll soon be joining them.
+
+HENRI: take us to your captain. 
+HENRI: what are you, deaf?
+BODYGUARD: what is this?
+BODYGUARDS: dead! they're all dead!
+PORTHOS: well i certainly hope so. after all that hard work.
+ARAMIS: you look like you've seen a ghost.
+
+D'ARTAGNAN: two of them. 
+PORTHOS: remind me to tell you the story of horses that could fly above raging waters. a heroic tale of love, death, and musketeers. suitable for the general public.
+PORTHOS: all right then. all those who wish to die, raise your hands! don't by shy, there's plenty to go around!
+ATHOS: sorry i'm late. did i miss anything?
+D'ARTAGNAN: i thought you were dead.
+ATHOS: keep your mind on the mission, d'artagnan.
+
+ATHOS: boy, it's a miracle you're still alive fighting like that. 
+D'ARTAGNAN: what do you mean?
+ATHOS: first, always find your enemy's weakness. second, take advantage of it. watch me.
+D'ARTAGNAN: find the weakness. take advantage. got it.
+
+BOTH SAILORS: porthos the pirate!! 
+PORTHOS: i told you i was famous.
+D'ARTAGNAN: porthos the pirate?
+PORTHOS: privateer. there's a difference.
+D'ARTAGNAN: i love a good sea story. do tell me sometime.
+
+ATHOS: did you find the cardinal's spy? 
+D'ARTAGNAN: yes.
+ATHOS: did you kill him?
+D'ARTAGNAN: athos. the spy... is a woman.
+
+ATHOS: what? 
+ATHOS: no.
+
+ATHOS: stop!! 
+MILADY: athos.
+ATHOS: how did you do it, sabine? how did you come back from the dead?
+
+MILADY: a kind gentleman took pity on me. 
+ATHOS: i did not.
+MILADY: no, count. you were too proud to listen to the truth. i learned the value of lies soon after.
+ATHOS: give me the cardinal's treaty.
+MILADY: no.
+ATHOS: then i will shoot.
+MILADY: be kind. and aim for my heart.
+MILADY: i remember... everything.
+ARMAND: countess de winter...
+
+ARAMIS: the treaty outlines richelieu's plan to forge an alliance with buckingham. 
+PORTHOS: what about the king?
+ARAMIS: he is not mentioned directly. but the agreement is contingent on a 'demonstration' of the cardinal's power.
+D'ARTAGNAN: a demonstration? what does that mean?
+ARAMIS: i don't know.
+ATHOS: i know someone who does.
+
+ATHOS: i'd like a word with your prisoner. 
+ARMAND: she dies at dawn.
+
+MILADY: did you come to offer me consolation? 
+ATHOS: no.
+MILADY: there was a time when i would've given my life for a kind word.
+ATHOS: i could not give it, sabine. i was... a fool.
+ATHOS: did you kill his brother and his father as he says?
+MILADY: i have become... the nightmare you once thought me to be.
+ATHOS: but not before. not us.
+MILADY: no. the memory will keep me company.
+ATHOS: do you know the cardinal's plans?
+MILADY: yes.
+ATHOS: tell me.
+MILADY: will you spare my life?
+ATHOS: i can't.
+
+MILADY: society demands swift justice. i'll take the secret to my grave. 
+ATHOS: sabine. you'll die for your crimes. nothing can stop that. but how you leave this world is up to you.
+MILADY: what did the world ever do for me?
+
+EXECUTIONER: i forgive you for your crimes. die in peace. 
+ATHOS: die in peace.
+ARAMIS: i am the resurrection and the life, sayeth the lord. he that believeth in me, though he were dead, yet shall he live; and whosoever liveth and believeth in me shall never die...
+EXECUTIONER: on your knees.
+ATHOS: no.
+EXECUTIONER: what's this...?
+PORTHOS: athos --
+ATHOS: forgive me, sabine. please forgive.
+
+MILADY: i do. 
+MILADY: the cardinal intends to assassinate the king at his birthday celebration on friday.
+EXECUTIONER: justice be done.
+ARAMIS: amen.
+ATHOS: musketeers.
+ATHOS: the king's life in danger. we have work to do.
+
+RICHELIEU: impressive. 
+ROCHEFORT: he can do it every time.
+RICHELIEU: and he has no qualms about...
+ROCHEFORT: none. he believes that man should honor no kings before
+RICHELIEU: a man of faith. how delightful. whatever you're paying him, double it. i want the king's birthday to be a memorable event. and rehang this painting in my chamber. just as it is.
+
+LOUIS: they look... happy. 
+ANNE: hungry, more likely.
+LOUIS: still, you were right about the celebration. and when the cardinal told me how much it meant to you...
+ANNE: i said nothing.
+LOUIS: but... ?
+ANNE: the cardinal expressed in confidence how much the celebration would mean to you...
+
+RICHELIEU: i'm not sure which is sadder... to die so young. or to die a king. 
+RICHELIEU: france will not go wanting. a new king will sit on the throne. the true king after all...
+
+RICHELIEU: is everything ready? 
+ROCHEFORT: yes, your eminence.
+RICHELIEU: are you sure?
+ROCHEFORT: i'd stake my life on it, your eminence.
+RICHELIEU: rest assured, captain. you have.
+
+ATHOS: look through the surrounding area. 
+D'ARTAGNAN: but...?
+ATHOS: go!
+
+ANNE: i do not trust him. 
+LOUIS: i'm not sure who to trust.
+ANNE: then we will discover the truth together.
+
+RICHELIEU: your majesty... 
+LOUIS: leave us... alone.
+
+RICHELIEU: kill him. kill her, too. 
+LOUIS: get behind me.
+
+ATHOS: greetings, monsieur cyclops. are we interrupting? 
+ROCHEFORT: not for long.
+
+D'ARTAGNAN: this sword belongs to me. 
+ARAMIS: d'artagnan. kill him where he stands.
+ROCHEFORT: by all means. let's discover if you are as brave a man as your father was. and as foolish.
+D'ARTAGNAN: what...?
+ROCHEFORT: he died for his king and for france. but most of all... he died on the end of my sword. as will you.
+D'ARTAGNAN: this is for you, father.
+
+ROCHEFORT: one thing's certain. you're no musketeer. 
+D'ARTAGNAN: take it back...?
+ROCHEFORT: i might... have been... mistaken.
+D'ARTAGNAN: no!!
+
+RICHELIEU: your majesty, that document is an obvious forgery. i am clearly the victim of a conspiracy designed and perpetuated by these three musketeers. 
+LOUIS: this is a complicated matter, your eminence, affecting both france and the crown...
+LOUIS: and so, until such time as i and my advisors -- -- can determine the whole truth of the matter. i invite you to await our decision in the comfort of... the bastille.
+RICHELIEU: you can't do this to me. i'm the cardinal of france.
+
+LOUIS: and i am its king. 
+LOUIS: and as king... i hereby reinstate the musketeers.
+RICHELIEU: congratulations, monsieur d'artagnan. i'll be keeping an eye on you.
+LOUIS: is this the young man who saved my life?
+PORTHOS: his name's d'artagnan, sire.
+LOUIS: approach, d'artagnan.
+D'ARTAGNAN: i have something that belongs to ... your majesty...
+
+ANNE: thank you, d'artagnan. but the bracelet does not belong to me. it belongs to her. 
+LOUIS: d'artagnan, i am in your debt. what can i do to repay the courage you've shown me? anything, d'artagnan. whatever your heart desires...
+ATHOS: majesty, his heart has only one desire. to become a musketeer.
+LOUIS: then kneel, d'artagnan.
+LOUIS: the world is an uncertain realm, filled with danger. truth despoiled by broken promises. honor undermined by the pursuit of gold. freedom sacrificed when the weak are oppressed by the strong. but there are those who oppose these powerful forces. those who dedicate their lives to truth, honor, and freedom. they are a constant reminder to all of us. that such a life is not just possible, but necessary to our continued survival. as a country, as a king. these men are known as the musketeers...
+
+LOUIS: rise, d'artagnan. and join them. musketeer. 
+PORTHOS: do my eyes deceive me?
+ARAMIS: i find it hard to believe myself.
+PORTHOS: his lips, unused as they are to such a contortion, twisted and stretched... into a smile.
+ARAMIS: it was spectacular. and what teeth.
+D'ARTAGNAN: i know this is a stupid question. but what exactly does a musketeer do?
+PORTHOS: truth... honor...
+ARAMIS: and freedom.
+
+D'ARTAGNAN: all for one... 
+OTHERS: ... and one for all!!
 

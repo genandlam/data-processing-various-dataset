@@ -1,519 +1,519 @@
-speaker1: it is so good of you to come. 
-speaker2: an honor, mrs. teasdale... you must indeed have great faith in your new dictator to give him such a magnificent reception.
-speaker1: i feel that rufus t. firefly is the only logical successor to my dear departed husband. he has the statesmanship of gladstone, the humility of lincoln, and the wisdom of pericles.
-speaker3: mrs. teasdale, as members of freedonia's cabinet, we do not approve of your choice. who is this rufus t. firefly?
-speaker4: a stranger in our midst, an agent for the eureka ammunition company. think of it, gentlemen, an ammunition salesman dictating the policies of our peace-loving country.
-speaker5: reconsider, mrs. teasdale, before it is too late. the citizens of freedonia want a president!
-speaker1: as the widow of your last president, i have the right to choose -- and, gentlemen, i refuse to discuss the matter any further.
-speaker6: his excellency, ambassador verdi trentino of amnesia!
-speaker7: mrs. teasdale... my niece, vera.
-speaker1: your uncle has been such a friend to us in every crisis. without his country's financial aid --
-speaker7: what is money? mrs. teasdale, for you -- i would do anything.
-speaker1: ambassador! i am so anxious for you to meet our new dictator.
-speaker7: mrs. teasdale -- no matter who rules freedonia, to me you will always be the first lady of the land.
-speaker8: mrs. teasdale, my uncle's hopeless -- you've been the only topic of conversation ever since we left amnesia.
-speaker6: the honorable mohamed pandooh of mufhtan!
-speaker1: oh, i must greet his honor.
-speaker8: so that's the one you want to marry.
-speaker7: with mrs. teasdale as my wife and freedonia under my control --
-speaker8: maybe it's not going to be so easy. from what i've heard, mrs. teasdale is rather sweet on this rufus t. firefly.
-speaker7: that's where you come in. i'll leave him in your hands, and don't forget you're supposed to be my niece. vera winks agreeingly.
-speaker1: i want you to meet the son of his excellency -- bob firefly...
-speaker7: isn't it about time for the ceremony to begin, mrs. teasdale? i do hope his excellency won't be late.
-speaker9: my father makes it a point to always be on time. as long as i've known him, he's never been late for an appointment.
-speaker7: but it's two minutes of ten now.
-speaker9: his excellency is due to take his station. beginning his new administration... he'll make his appearance when the clock on the wall strikes ten.
-speaker1: when the clock on the wall strikes ten all you loyal ladies and you patriotic men let's sing the national anthem when... the clock on the wall strikes ten. the clock begins to strike the hour... one... two... three... four...
-speaker10: hail, hail, freedonia... land of the brave and free.
-speaker10: hail, hail, freedonia... land of the brave and free.
-speaker1: i hope nothing has happened.
-speaker9: mrs. teasdale, i assure you there is nothing to worry about. father is probably taking extra care in getting into his robes of state. i'll call him.
-speaker10: hail, hail, freedonia... land of the brave and free.
-speaker11: as chairwoman of the reception committee, i welcome you and extend the good wishes of every man, woman and child of freedonia. i deem it an honor on this momentous occasion...
-speaker12: never mind that stuff...
-speaker12: take a card.
-speaker1: what'll i do with this card?
-speaker12: you can keep it -- i've got a whole pack... now what were you saying?
-speaker11: as chairwoman of the reception committee, i welcome you with open arms.
-speaker12: how late do you stay open?
-speaker1: in choosing you, i feel that i serve my country well. i heartily endorse everything you stand for.
-speaker12: well, i won't stand for much. and i won't stand for you if you don't show some improvement soon. look at your report card last month -- "d" in spelling... six in behavior. now who were the six? a fine state of affairs -- no wonder you can't matriculate, now what were you saying?
-speaker1: the future of freedonia rests upon you. promise me you will follow in my husband's footsteps.
-speaker12: i haven't been on the job five minutes and already she's making advances to me. not that i care -- but where is your husband?
-speaker1: why - er -- my husband passed away... i was with him to the very end.
-speaker12: no wonder he passed away. i'd like to be with you to the very end. can't you see what i'm trying to tell you -- i love you.
-speaker1: your excellency!
-speaker12: you're not so bad yourself, mrs. teasdale, when i look at you i can see that we're facing a crisis. we've got to balance the budget -- we've got to cut down everything including, you.
-speaker11: oh... your excellency... i would like to present to you... ambassador verdi trentino of amnesia... having him with us today is indeed a great honor.
-speaker7: thanks... but i can't stay very long.
-speaker12: that's even a greater honor.
-speaker7: i bring you the greetings of my president and the good will of my people.
-speaker12: i'll keep the greetings -- but you can send back the good will... what we need right now is twenty million dollars.
-speaker7: twenty million dollars is a considerable sum... i'll have to discuss that with my minister of finance.
-speaker12: well, in the meantime, could you let me have $50 personally?
+MRS. TEASDALE: it is so good of you to come. 
+NOTABLE: an honor, mrs. teasdale... you must indeed have great faith in your new dictator to give him such a magnificent reception.
+MRS. TEASDALE: i feel that rufus t. firefly is the only logical successor to my dear departed husband. he has the statesmanship of gladstone, the humility of lincoln, and the wisdom of pericles.
+FIRST CABINET MEMBER: mrs. teasdale, as members of freedonia's cabinet, we do not approve of your choice. who is this rufus t. firefly?
+SECOND CABINET MEMBER: a stranger in our midst, an agent for the eureka ammunition company. think of it, gentlemen, an ammunition salesman dictating the policies of our peace-loving country.
+THIRD CABINET MEMBER: reconsider, mrs. teasdale, before it is too late. the citizens of freedonia want a president!
+MRS. TEASDALE: as the widow of your last president, i have the right to choose -- and, gentlemen, i refuse to discuss the matter any further.
+SERVANT: his excellency, ambassador verdi trentino of amnesia!
+TRENTINO: mrs. teasdale... my niece, vera.
+MRS. TEASDALE: your uncle has been such a friend to us in every crisis. without his country's financial aid --
+TRENTINO: what is money? mrs. teasdale, for you -- i would do anything.
+MRS. TEASDALE: ambassador! i am so anxious for you to meet our new dictator.
+TRENTINO: mrs. teasdale -- no matter who rules freedonia, to me you will always be the first lady of the land.
+VERA: mrs. teasdale, my uncle's hopeless -- you've been the only topic of conversation ever since we left amnesia.
+SERVANT: the honorable mohamed pandooh of mufhtan!
+MRS. TEASDALE: oh, i must greet his honor.
+VERA: so that's the one you want to marry.
+TRENTINO: with mrs. teasdale as my wife and freedonia under my control --
+VERA: maybe it's not going to be so easy. from what i've heard, mrs. teasdale is rather sweet on this rufus t. firefly.
+TRENTINO: that's where you come in. i'll leave him in your hands, and don't forget you're supposed to be my niece. vera winks agreeingly.
+MRS. TEASDALE: i want you to meet the son of his excellency -- bob firefly...
+TRENTINO: isn't it about time for the ceremony to begin, mrs. teasdale? i do hope his excellency won't be late.
+BOB: my father makes it a point to always be on time. as long as i've known him, he's never been late for an appointment.
+TRENTINO: but it's two minutes of ten now.
+BOB: his excellency is due to take his station. beginning his new administration... he'll make his appearance when the clock on the wall strikes ten.
+MRS. TEASDALE: when the clock on the wall strikes ten all you loyal ladies and you patriotic men let's sing the national anthem when... the clock on the wall strikes ten. the clock begins to strike the hour... one... two... three... four...
+ALL: hail, hail, freedonia... land of the brave and free.
+ALL: hail, hail, freedonia... land of the brave and free.
+MRS. TEASDALE: i hope nothing has happened.
+BOB: mrs. teasdale, i assure you there is nothing to worry about. father is probably taking extra care in getting into his robes of state. i'll call him.
+ALL: hail, hail, freedonia... land of the brave and free.
+MRS.  TEASDALE: as chairwoman of the reception committee, i welcome you and extend the good wishes of every man, woman and child of freedonia. i deem it an honor on this momentous occasion...
+GROUCHO: never mind that stuff...
+GROUCHO: take a card.
+MRS. TEASDALE: what'll i do with this card?
+GROUCHO: you can keep it -- i've got a whole pack... now what were you saying?
+MRS.  TEASDALE: as chairwoman of the reception committee, i welcome you with open arms.
+GROUCHO: how late do you stay open?
+MRS. TEASDALE: in choosing you, i feel that i serve my country well. i heartily endorse everything you stand for.
+GROUCHO: well, i won't stand for much. and i won't stand for you if you don't show some improvement soon. look at your report card last month -- "d" in spelling... six in behavior. now who were the six? a fine state of affairs -- no wonder you can't matriculate, now what were you saying?
+MRS. TEASDALE: the future of freedonia rests upon you. promise me you will follow in my husband's footsteps.
+GROUCHO: i haven't been on the job five minutes and already she's making advances to me. not that i care -- but where is your husband?
+MRS. TEASDALE: why - er -- my husband passed away... i was with him to the very end.
+GROUCHO: no wonder he passed away. i'd like to be with you to the very end. can't you see what i'm trying to tell you -- i love you.
+MRS. TEASDALE: your excellency!
+GROUCHO: you're not so bad yourself, mrs. teasdale, when i look at you i can see that we're facing a crisis. we've got to balance the budget -- we've got to cut down everything including, you.
+MRS.  TEASDALE: oh... your excellency... i would like to present to you... ambassador verdi trentino of amnesia... having him with us today is indeed a great honor.
+TRENTINO: thanks... but i can't stay very long.
+GROUCHO: that's even a greater honor.
+TRENTINO: i bring you the greetings of my president and the good will of my people.
+GROUCHO: i'll keep the greetings -- but you can send back the good will... what we need right now is twenty million dollars.
+TRENTINO: twenty million dollars is a considerable sum... i'll have to discuss that with my minister of finance.
+GROUCHO: well, in the meantime, could you let me have $50 personally?
 
-speaker1: i'll tell you what i'll do. i'll give you mrs. teasdale as security. or my jackknife. if you want my advice, you'll take the jackknife... i've a better proposition... make it $25 and i'll give you a first mortgage on my son and i hope you foreclose. 
-speaker2: your excellency, haven't we met before?
-speaker1: why yes. i met you at the dog races -- say, you could have won that race if you tried a little harder.
-speaker2: excellency, may i present my niece.
-speaker1: go ahead.
-speaker2: you don't understand. this is my niece vera.
-speaker1: and vera niece, too.
-speaker3: your excellency, please don't think me silly, but i'd love to have a picture of you. i want to hang it in my bedroom.
-speaker1: you couldn't hang me in your bedroom -- i'll make a note of it. where's my secretary? bob enters scene.
-speaker4: here i am, father.
-speaker1: take a letter.
-speaker4: who to?
-speaker1: the president of the united states.
-speaker1: my dear president... read it back...
-speaker4: "my dear president"...
-speaker1: that doesn't sound right... take out "president"... now read it.
-speaker4: "my dear"...
-speaker1: that's not right yet... put back "president" and take out "dear"... how does it read now?
-speaker4: "my president"...
-speaker1: there's still something wrong with it... take out "president" ...now what've you got?
-speaker4: "my"...
-speaker1: now we're on the right track... put back "dear"... how does it read?
-speaker4: "my dear"...
-speaker1: you can't say that to the president... put back "president"... now let's hear how sounds.
-speaker4: "my dear president"...
-speaker1: that's what i wanted in the first place. tear it up and send it airmail.
-speaker4: is that all?
-speaker1: take another letter... to my tailor.
-speaker1: dear sir... enclosed find check for $100. yours very truly... send that immediately.
-speaker4: i'll have to enclose the check first.
-speaker1: you do and i'll fire you.
-speaker5: your excellency, the eyes of the world are upon you. notables from every land are gathered here in your honor -- this is a gala day for us.
-speaker1: well, a gal a day is enough for me. i couldn't handle any more.
-speaker5: if it's not asking too much -- for our information just for illustration tell us how you intend to run the nation.
-speaker1: these are the laws of my administration: no one's allowed to smoke or tell a dirty joke -- and whistling is forbidden...
-speaker6: we're not allowed to tell a dirty joke hail, hail, freedonia
-speaker1: if chewing gum is chewed, the chewer is pursued and in the hoosegow hidden...
-speaker6: if we should choose to chew, we'll be pursued -
-speaker1: if any form of pleasure is exhibited report to me and it will be prohibited. i'll put my foot down; so shall it be - this is the land of the free. the last man nearly ruined this place he didn't know what to do with it. if you think this country's bad off now just wait 'till i get through with it. the treasury is low on dough; the last man went and flew with it. if you think we're short of money now just wait 'till i get through with it. the country's taxes must be fixed - and i know what to do with it, if you think you're paying too much now, just wait 'till i get through with it.
-speaker7: in our midst you stand the ruler of this land a man who'll govern with an iron hand.
-speaker1: if anyone gets fresh with me, i'll show him who's the boss; i'll stand upon my dignity, and toss him for a loss. and this will be the penalty for those who doublecross - we'll stand 'em up against the wall, and pop goes the weasel
-speaker6: if you should make him cross, he'll toss you for a loss. if anyone gets fresh with him, he'll show him who's the boss.
-speaker1: i will not stand for anything that's crooked or unfair; i'm strictly on the up and up, so everyone beware. if anyone's caught taking graft and i don't get my share, we'll stand 'em up against the wall - and pop goes the weasel!
-speaker6: so everyone beware who's crooked or unfair; no one must take a bit of graft unless he gets his share.
-speaker1: if any man should come between a husband and his bride, we find out which one she prefers by letting her decide. if she prefers the other man, the husband steps outside; we stand him up against the wall and pop goes the weasel!
-speaker6: the husband steps outside; relinquishes his bride; we stand him up against the wall and take him for a ride.
-speaker1: the population must increase with great rapidity. we give a couple seven years to raise a family. if, by that time, there is no branch upon the family tree, we stand 'em up against the wall - and pop goes the weasel.
-speaker5: you've made a wonderful impression. your views are liberal... it is easy to see you have an open mind.
-speaker1: that's what i get for dressing in a hurry.
-speaker5: your excellency, you mustn't forget your appointment at the house of representatives... have you got your speech ready?
-speaker1: i wrote a speech last night that'll knock them off their seats... four score and seven years ago, our fathers brought forth on this continent a new nation --
-speaker5: why, that's the speech that lincoln made at gettysburg...
-speaker1: he did?... i told my son not to leave it laying around... where is son?
-speaker4: here i am, father...
-speaker1: send for my car...
-speaker4: his excellency's car!
-speaker1: to the house of representatives... ride like fury... don't stop for any signals and don't wait for a corner to make a turn... see if you can break a record...
-speaker1: a fine thing -- leaving the head of the nation at the foot of the stairs...
-speaker1: that concludes the nine o'clock sprints... next saturday night the winner of the six day bicycle race will receive ten thousand dollars in gold... the following morning we go off the gold standard...
+GROUCHO: i'll tell you what i'll do. i'll give you mrs. teasdale as security. or my jackknife. if you want my advice, you'll take the jackknife... i've a better proposition... make it $25 and i'll give you a first mortgage on my son and i hope you foreclose. 
+TRENTINO: your excellency, haven't we met before?
+GROUCHO: why yes. i met you at the dog races -- say, you could have won that race if you tried a little harder.
+TRENTINO: excellency, may i present my niece.
+GROUCHO: go ahead.
+TRENTINO: you don't understand. this is my niece vera.
+GROUCHO: and vera niece, too.
+VERA: your excellency, please don't think me silly, but i'd love to have a picture of you. i want to hang it in my bedroom.
+GROUCHO: you couldn't hang me in your bedroom -- i'll make a note of it. where's my secretary? bob enters scene.
+BOB: here i am, father.
+GROUCHO: take a letter.
+BOB: who to?
+GROUCHO: the president of the united states.
+GROUCHO: my dear president... read it back...
+BOB: "my dear president"...
+GROUCHO: that doesn't sound right... take out "president"... now read it.
+BOB: "my dear"...
+GROUCHO: that's not right yet... put back "president" and take out "dear"... how does it read now?
+BOB: "my president"...
+GROUCHO: there's still something wrong with it... take out "president" ...now what've you got?
+BOB: "my"...
+GROUCHO: now we're on the right track... put back "dear"... how does it read?
+BOB: "my dear"...
+GROUCHO: you can't say that to the president... put back "president"... now let's hear how sounds.
+BOB: "my dear president"...
+GROUCHO: that's what i wanted in the first place. tear it up and send it airmail.
+BOB: is that all?
+GROUCHO: take another letter... to my tailor.
+GROUCHO: dear sir... enclosed find check for $100. yours very truly... send that immediately.
+BOB: i'll have to enclose the check first.
+GROUCHO: you do and i'll fire you.
+MRS. TEASDALE: your excellency, the eyes of the world are upon you. notables from every land are gathered here in your honor -- this is a gala day for us.
+GROUCHO: well, a gal a day is enough for me. i couldn't handle any more.
+MRS. TEASDALE: if it's not asking too much -- for our information just for illustration tell us how you intend to run the nation.
+GROUCHO: these are the laws of my administration: no one's allowed to smoke or tell a dirty joke -- and whistling is forbidden...
+ENSEMBLE: we're not allowed to tell a dirty joke hail, hail, freedonia
+GROUCHO: if chewing gum is chewed, the chewer is pursued and in the hoosegow hidden...
+ENSEMBLE: if we should choose to chew, we'll be pursued -
+GROUCHO: if any form of pleasure is exhibited report to me and it will be prohibited. i'll put my foot down; so shall it be - this is the land of the free. the last man nearly ruined this place he didn't know what to do with it. if you think this country's bad off now just wait 'till i get through with it. the treasury is low on dough; the last man went and flew with it. if you think we're short of money now just wait 'till i get through with it. the country's taxes must be fixed - and i know what to do with it, if you think you're paying too much now, just wait 'till i get through with it.
+DIGNITARY: in our midst you stand the ruler of this land a man who'll govern with an iron hand.
+GROUCHO: if anyone gets fresh with me, i'll show him who's the boss; i'll stand upon my dignity, and toss him for a loss. and this will be the penalty for those who doublecross - we'll stand 'em up against the wall, and pop goes the weasel
+ENSEMBLE: if you should make him cross, he'll toss you for a loss. if anyone gets fresh with him, he'll show him who's the boss.
+GROUCHO: i will not stand for anything that's crooked or unfair; i'm strictly on the up and up, so everyone beware. if anyone's caught taking graft and i don't get my share, we'll stand 'em up against the wall - and pop goes the weasel!
+ENSEMBLE: so everyone beware who's crooked or unfair; no one must take a bit of graft unless he gets his share.
+GROUCHO: if any man should come between a husband and his bride, we find out which one she prefers by letting her decide. if she prefers the other man, the husband steps outside; we stand him up against the wall and pop goes the weasel!
+ENSEMBLE: the husband steps outside; relinquishes his bride; we stand him up against the wall and take him for a ride.
+GROUCHO: the population must increase with great rapidity. we give a couple seven years to raise a family. if, by that time, there is no branch upon the family tree, we stand 'em up against the wall - and pop goes the weasel.
+MRS. TEASDALE: you've made a wonderful impression. your views are liberal... it is easy to see you have an open mind.
+GROUCHO: that's what i get for dressing in a hurry.
+MRS. TEASDALE: your excellency, you mustn't forget your appointment at the house of representatives... have you got your speech ready?
+GROUCHO: i wrote a speech last night that'll knock them off their seats... four score and seven years ago, our fathers brought forth on this continent a new nation --
+MRS. TEASDALE: why, that's the speech that lincoln made at gettysburg...
+GROUCHO: he did?... i told my son not to leave it laying around... where is son?
+BOB: here i am, father...
+GROUCHO: send for my car...
+BOB: his excellency's car!
+GROUCHO: to the house of representatives... ride like fury... don't stop for any signals and don't wait for a corner to make a turn... see if you can break a record...
+GROUCHO: a fine thing -- leaving the head of the nation at the foot of the stairs...
+GROUCHO: that concludes the nine o'clock sprints... next saturday night the winner of the six day bicycle race will receive ten thousand dollars in gold... the following morning we go off the gold standard...
 
-speaker1: gentlemen, gentlemen, remember for forty-six years we have enjoyed the friendship of amnesia, so ably represented by ambassador trentino. we owe it to ourselves to listen to what he has to say... 
-speaker2: gentlemen, while i admit it is unusual for a representative of one country to advise the legislative body of another, i assure you that i have the interest of freedonia at heart
-speaker3: we have lent you money in the past -- we are willing to lend you money again -- but, we cannot do it if your leader is allowed by you, to carry out his ridiculous proposals... in self-protection it is my -- bob rises to interrupt
-speaker4: i object!... we have no right to discuss this matter in the absence of my father.
-speaker1: we have been meeting every morning for eight days and not once has his excellency been on time...
-speaker2: gentlemen, i cannot wait much longer...
-speaker5: the secretary of agriculture was a little flat... i move we open the morning session... has anybody got a cork screw? [page missing]
-speaker5: what's to stop you from digging one... and after you dig a river, how're ya gonna cross it without a bridge...? we've got to have a bridge to stop people from going places -- then we've gotta stop them from coming back. if you're worried about the expense we can have a bridge with only one end -- and if that's a success we can do away with it altogether. i'm telling you that what this country needs is --
-speaker5: if there's one thing we don't need right now -- it's peanuts -- gentlemen, what good is a bridge if you haven't got ammunition to blow it up... ammunition was never cheaper... right now, you can get two cannons for the price of one and shoot twice as far for half the money... with every five thousand dollar purchase we throw in a big bertha... if you don't like her, you can throw her right out again. i tell you no country can protect itself without --
-speaker1: i'm sorry your excellency, it is that infernal peanut vendor chicolini... how can we accomplish anything with that constant annoyance?
-speaker2: your excellency - are we or are we not going to discuss this problem - my time is valuable - i'm a man of few words -
-speaker5: i'm a man of one word... scram!!!
-speaker5: go out and chase that peanut vendor away from the building -- get rid of him if you have to use violence - if necessary call out the militia and if he isn't looking get me a bag of peanuts.
-speaker4: i've tried to chase him but it's no use - he won't go -
-speaker5: he won't eh? - we'll see about that - send for your father immediately.
-speaker4: but you're my father -
-speaker5: never mind then, i'll get in touch with him myself -
+SPEAKER: gentlemen, gentlemen, remember for forty-six years we have enjoyed the friendship of amnesia, so ably represented by ambassador trentino. we owe it to ourselves to listen to what he has to say... 
+TRENTINO: gentlemen, while i admit it is unusual for a representative of one country to advise the legislative body of another, i assure you that i have the interest of freedonia at heart
+...: we have lent you money in the past -- we are willing to lend you money again -- but, we cannot do it if your leader is allowed by you, to carry out his ridiculous proposals... in self-protection it is my -- bob rises to interrupt
+BOB: i object!... we have no right to discuss this matter in the absence of my father.
+SPEAKER: we have been meeting every morning for eight days and not once has his excellency been on time...
+TRENTINO: gentlemen, i cannot wait much longer...
+GROUCHO: the secretary of agriculture was a little flat... i move we open the morning session... has anybody got a cork screw? [page missing]
+GROUCHO: what's to stop you from digging one... and after you dig a river, how're ya gonna cross it without a bridge...? we've got to have a bridge to stop people from going places -- then we've gotta stop them from coming back. if you're worried about the expense we can have a bridge with only one end -- and if that's a success we can do away with it altogether. i'm telling you that what this country needs is --
+GROUCHO: if there's one thing we don't need right now -- it's peanuts -- gentlemen, what good is a bridge if you haven't got ammunition to blow it up... ammunition was never cheaper... right now, you can get two cannons for the price of one and shoot twice as far for half the money... with every five thousand dollar purchase we throw in a big bertha... if you don't like her, you can throw her right out again. i tell you no country can protect itself without --
+SPEAKER: i'm sorry your excellency, it is that infernal peanut vendor chicolini... how can we accomplish anything with that constant annoyance?
+TRENTINO: your excellency - are we or are we not going to discuss this problem - my time is valuable - i'm a man of few words -
+GROUCHO: i'm a man of one word... scram!!!
+GROUCHO: go out and chase that peanut vendor away from the building -- get rid of him if you have to use violence - if necessary call out the militia and if he isn't looking get me a bag of peanuts.
+BOB: i've tried to chase him but it's no use - he won't go -
+GROUCHO: he won't eh? - we'll see about that - send for your father immediately.
+BOB: but you're my father -
+GROUCHO: never mind then, i'll get in touch with him myself -
 
-speaker1: how'm i doing, boss? 
-speaker2: fine - keep on yelling - do everything you can to disturb firefly - now what about your cousin?
-speaker1: he's working very hard - i got him a job driving firefly's car - he's-a driving him crazy and i'm driving him nuts - p-e-a-n-u-t-s
-speaker3: hey you!!
-speaker1: all right -
-speaker3: have you got a license?
-speaker1: no, but my dog he's a got millions of them --
-speaker3: what kind of a dog is he?
-speaker1: he used to be a bloodhound but he's anemic --
-speaker3: well - what is he now?
-speaker1: he's half poodle and half watch dog -
-speaker3: half watch dog?
-speaker1: yeh, he's only got one eye.
-speaker3: i don't know much about dogs but you ought to be on the end of a leash - a ninety-nine year leash - look - what do you call your dog?
-speaker1: i don't call him, i whistle.
-speaker3: what do you whistle?
-speaker1: yankee poodle.
-speaker3: i've got just the place for a man like you but i'm too busy right now to do any digging. what do you call your dog when you want him?
-speaker1: i don't want him.
-speaker3: well, if you don't want your dog why don't you put him in a pound?
-speaker1: he only weighs ten ounces --
-speaker3: i can use you in the house of representatives. we need a man who understands dogs -- and that's where this country is going to. step inside.
-speaker3: in case of fire, how long will it take to empty this place?
-speaker4: about - thirty-four seconds.
-speaker3: we'll start a fire --
-speaker1: that was for you.
-speaker3: i'm sorry i'm not in. i wanted to have a long talk with you... now look here, my good man, you've got to stop yelling "peanuts" in front of the house of representatives.
-speaker1: oh no, i can't do it.
-speaker3: you don't want to be a public nuisance, do you?
-speaker1: sure. how much does the job pay? sure, if there's a chance for advancement.
-speaker3: you wouldn't consider going over niagara falls without a barrel?
-speaker1: 'at's-a no good. i went to niagara falls once.
-speaker3: did you shoot the rapids?
-speaker1: no, but i shot some ducks.
-speaker3: if there was an open season for fellows like you, i'd get myself a hunting license. anyway, i'm going to make you a sporting proposition. you give up the peanut stand and i'll make you vice-president of the country.
-speaker1: oh, no -- nothing doing. i had a brother who was a vice-president once and that's the last we ever heard of him.
-speaker3: well, maybe he's still the vice- president. now if i were to offer you --
-speaker1: hello... yes... no, not yet... all right... goodbye. that was for you again. he wants you to call him up as soon as you get back.
-speaker3: i don't know what's keeping me. i should've been here a long time ago. now how about my proposition?
-speaker1: what other job you got?
-speaker3: let's see -- what've i got in my cabinet besides mice -- i've got it -- how would you like to be secretary of the interior?
-speaker1: that's no good. i like to work on the outside. i must have something easy.
-speaker3: then you don't wanna work hard?
-speaker1: i don't wanna work at all.
-speaker3: in that case you'll have to take a civil service examination -- if you pass i'll put you in the post-office -- stick out your tongue.
-speaker1: i don't wanna stick out my tongue.
-speaker3: well, if you wanna work in the post- office you'll have to stick out your tongue.
-speaker1: look, i'm a very nervous man. i gotta have a job where i come to work at eleven -- go to lunch at twelve -- and quit at one. and twice a year i gotta have a six month vacation.
-speaker3: i've got just the job for you -- secretary of war.
-speaker1: 'at's-a fine.
-speaker3: you know, i'd be lost without a telephone. now - where were we? oh, yes - i just made you secretary of war. the first thing you do is buy ammunition -- you buy it from me and i get 10% commission.
-speaker1: what do i get?
-speaker3: you get half mine and i get half yours.
-speaker1: i don't want to buy ammunition -- we no gotta war.
-speaker3: then we've gotta start one. do you know how to start a war?
-speaker1: sure, that's easy. you gotta insult somebody.
-speaker3: my card.
-speaker1: that's a-no good. you gotta insult somebody from another country. look -- i come from one country. you come from another country. i say something you don't like. you say something i don't like - and i'm insulted.
-speaker3: why wasn't i insulted?
-speaker1: you was insulted, but you don't know it.
-speaker3: then i demand an apology!
-speaker1: that's a-no good. if i apologize we no got a war. look -- i send you a scrap of paper. you send me a scrap of paper -- and we have a scrap.
-speaker3: you've got a brain after all - and how you get along without it is amazing to me -- now, who can i insult?... who do we owe money to?... ambassador trentino! how about him?
-speaker1: he's-a very easy to insult -- i say something to his niece once, and he slapped my face.
-speaker3: why didn't his niece slap your face?
-speaker1: she did.
-speaker3: what did you say to her?
-speaker3: you're lucky i don't slap your face -- you oughtta be ashamed of yourself. where did you hear that story?
-speaker1: you told it to me.
-speaker3: oh, yes, i remember -- and i should have slapped mrs. teasdale's face when she told it to me... i'm going right out and find trentino. you go right out and get yourself an army.
-speaker3: wait a minute. what kind of an army do you think we oughtta have?
-speaker1: i think we oughtta have a standing army, so we can save money on chairs.
-speaker3: to mrs. teasdale's residence!
-speaker3: this is the fifth trip i've made today and i haven't been anywhere yet.
+CHICO: how'm i doing, boss? 
+TRENTINO: fine - keep on yelling - do everything you can to disturb firefly - now what about your cousin?
+CHICO: he's working very hard - i got him a job driving firefly's car - he's-a driving him crazy and i'm driving him nuts - p-e-a-n-u-t-s
+GROUCHO: hey you!!
+CHICO: all right -
+GROUCHO: have you got a license?
+CHICO: no, but my dog he's a got millions of them --
+GROUCHO: what kind of a dog is he?
+CHICO: he used to be a bloodhound but he's anemic --
+GROUCHO: well - what is he now?
+CHICO: he's half poodle and half watch dog -
+GROUCHO: half watch dog?
+CHICO: yeh, he's only got one eye.
+GROUCHO: i don't know much about dogs but you ought to be on the end of a leash - a ninety-nine year leash - look - what do you call your dog?
+CHICO: i don't call him, i whistle.
+GROUCHO: what do you whistle?
+CHICO: yankee poodle.
+GROUCHO: i've got just the place for a man like you but i'm too busy right now to do any digging. what do you call your dog when you want him?
+CHICO: i don't want him.
+GROUCHO: well, if you don't want your dog why don't you put him in a pound?
+CHICO: he only weighs ten ounces --
+GROUCHO: i can use you in the house of representatives. we need a man who understands dogs -- and that's where this country is going to. step inside.
+GROUCHO: in case of fire, how long will it take to empty this place?
+BOB: about - thirty-four seconds.
+GROUCHO: we'll start a fire --
+CHICO: that was for you.
+GROUCHO: i'm sorry i'm not in. i wanted to have a long talk with you... now look here, my good man, you've got to stop yelling "peanuts" in front of the house of representatives.
+CHICO: oh no, i can't do it.
+GROUCHO: you don't want to be a public nuisance, do you?
+CHICO: sure. how much does the job pay? sure, if there's a chance for advancement.
+GROUCHO: you wouldn't consider going over niagara falls without a barrel?
+CHICO: 'at's-a no good. i went to niagara falls once.
+GROUCHO: did you shoot the rapids?
+CHICO: no, but i shot some ducks.
+GROUCHO: if there was an open season for fellows like you, i'd get myself a hunting license. anyway, i'm going to make you a sporting proposition. you give up the peanut stand and i'll make you vice-president of the country.
+CHICO: oh, no -- nothing doing. i had a brother who was a vice-president once and that's the last we ever heard of him.
+GROUCHO: well, maybe he's still the vice- president. now if i were to offer you --
+CHICO: hello... yes... no, not yet... all right... goodbye. that was for you again. he wants you to call him up as soon as you get back.
+GROUCHO: i don't know what's keeping me. i should've been here a long time ago. now how about my proposition?
+CHICO: what other job you got?
+GROUCHO: let's see -- what've i got in my cabinet besides mice -- i've got it -- how would you like to be secretary of the interior?
+CHICO: that's no good. i like to work on the outside. i must have something easy.
+GROUCHO: then you don't wanna work hard?
+CHICO: i don't wanna work at all.
+GROUCHO: in that case you'll have to take a civil service examination -- if you pass i'll put you in the post-office -- stick out your tongue.
+CHICO: i don't wanna stick out my tongue.
+GROUCHO: well, if you wanna work in the post- office you'll have to stick out your tongue.
+CHICO: look, i'm a very nervous man. i gotta have a job where i come to work at eleven -- go to lunch at twelve -- and quit at one. and twice a year i gotta have a six month vacation.
+GROUCHO: i've got just the job for you -- secretary of war.
+CHICO: 'at's-a fine.
+GROUCHO: you know, i'd be lost without a telephone. now - where were we? oh, yes - i just made you secretary of war. the first thing you do is buy ammunition -- you buy it from me and i get 10% commission.
+CHICO: what do i get?
+GROUCHO: you get half mine and i get half yours.
+CHICO: i don't want to buy ammunition -- we no gotta war.
+GROUCHO: then we've gotta start one. do you know how to start a war?
+CHICO: sure, that's easy. you gotta insult somebody.
+GROUCHO: my card.
+CHICO: that's a-no good. you gotta insult somebody from another country. look -- i come from one country. you come from another country. i say something you don't like. you say something i don't like - and i'm insulted.
+GROUCHO: why wasn't i insulted?
+CHICO: you was insulted, but you don't know it.
+GROUCHO: then i demand an apology!
+CHICO: that's a-no good. if i apologize we no got a war. look -- i send you a scrap of paper. you send me a scrap of paper -- and we have a scrap.
+GROUCHO: you've got a brain after all - and how you get along without it is amazing to me -- now, who can i insult?... who do we owe money to?... ambassador trentino! how about him?
+CHICO: he's-a very easy to insult -- i say something to his niece once, and he slapped my face.
+GROUCHO: why didn't his niece slap your face?
+CHICO: she did.
+GROUCHO: what did you say to her?
+GROUCHO: you're lucky i don't slap your face -- you oughtta be ashamed of yourself. where did you hear that story?
+CHICO: you told it to me.
+GROUCHO: oh, yes, i remember -- and i should have slapped mrs. teasdale's face when she told it to me... i'm going right out and find trentino. you go right out and get yourself an army.
+GROUCHO: wait a minute. what kind of an army do you think we oughtta have?
+CHICO: i think we oughtta have a standing army, so we can save money on chairs.
+GROUCHO: to mrs. teasdale's residence!
+GROUCHO: this is the fifth trip i've made today and i haven't been anywhere yet.
 
-speaker1: can't you see, gloria, our marriage would not only unite two great families... 
-speaker2: ...but would further cement the relations of our countries.
-speaker3: ambassador trentino, i am indeed honored... but you see - well - i --
-speaker2: oh. then there his somebody else?
-speaker3: well no -- not exactly -- but --
-speaker2: gloria -- i've waited for years. i won't be put off! i love you! i want you! can't you see that i'm at your feet?
-speaker4: when you get through with her feet, you can start on mine. i haven't been to a chiropodist in two years... if that's not an insult, i don't know what is. gloria, i love you. i --
-speaker2: can't we go some place where we can be alone?
-speaker4: what can this mug offer you? wealth and family. i can't give you wealth... ...but we can have a little family of our own.
-speaker3: oh, rufus!
-speaker4: all i can offer you is a rufus over your head.
-speaker3: oh, your excellency, i don't know what to say.
-speaker4: i wouldn't know what to say either if i was in your place. maybe you can suggest something.
-speaker2: this has gone far enough! this interruption is humiliating, to say the least...
-speaker4: well, why not say the least and get it over with?
-speaker3: gentlemen! gentlemen!
-speaker2: i didn't come here to be insulted.
-speaker4: that's what you think.
-speaker2: you swine!
-speaker4: give me that again!
-speaker2: you worm!
-speaker4: once more!
-speaker2: you upstart!
-speaker4: that's it! no man lives who can call a firefly an upstart.
-speaker4: touchã©.
-speaker2: i shall report this indignity the my president. mrs. teasdale, i feel this regrettable occurrence will plunge our countries into war.
-speaker3: this is terrible!
-speaker5: uncle, you can't do this!
-speaker2: my dear niece -- i must ask you not to interfere. war is not a woman's problem.
-speaker5: it is every woman's problem. who supplies the sons? -- the brothers? -- the husbands? who...
-speaker4: you keep that up and you'll crab the whole war.
-speaker5: carry out this tragic folly if you will -- but i for one will not be a part of it. i will stay here in freedonia.
-speaker2: very well then, if that's how you feel about it -- my country has spoken.
-speaker4: then it's war?
-speaker2: yes.
-speaker4: how're ya fixed for ammunition?
-speaker2: bah!!
+TRENTINO'S VOICE: can't you see, gloria, our marriage would not only unite two great families... 
+TRENTINO: ...but would further cement the relations of our countries.
+MRS. TEASDALE: ambassador trentino, i am indeed honored... but you see - well - i --
+TRENTINO: oh. then there his somebody else?
+MRS. TEASDALE: well no -- not exactly -- but --
+TRENTINO: gloria -- i've waited for years. i won't be put off! i love you! i want you! can't you see that i'm at your feet?
+GROUCHO: when you get through with her feet, you can start on mine. i haven't been to a chiropodist in two years... if that's not an insult, i don't know what is. gloria, i love you. i --
+TRENTINO: can't we go some place where we can be alone?
+GROUCHO: what can this mug offer you? wealth and family. i can't give you wealth... ...but we can have a little family of our own.
+MRS. TEASDALE: oh, rufus!
+GROUCHO: all i can offer you is a rufus over your head.
+MRS. TEASDALE: oh, your excellency, i don't know what to say.
+GROUCHO: i wouldn't know what to say either if i was in your place. maybe you can suggest something.
+TRENTINO: this has gone far enough! this interruption is humiliating, to say the least...
+GROUCHO: well, why not say the least and get it over with?
+MRS. TEASDALE: gentlemen! gentlemen!
+TRENTINO: i didn't come here to be insulted.
+GROUCHO: that's what you think.
+TRENTINO: you swine!
+GROUCHO: give me that again!
+TRENTINO: you worm!
+GROUCHO: once more!
+TRENTINO: you upstart!
+GROUCHO: that's it! no man lives who can call a firefly an upstart.
+GROUCHO: touchã©.
+TRENTINO: i shall report this indignity the my president. mrs. teasdale, i feel this regrettable occurrence will plunge our countries into war.
+MRS. TEASDALE: this is terrible!
+VERA: uncle, you can't do this!
+TRENTINO: my dear niece -- i must ask you not to interfere. war is not a woman's problem.
+VERA: it is every woman's problem. who supplies the sons? -- the brothers? -- the husbands? who...
+GROUCHO: you keep that up and you'll crab the whole war.
+VERA: carry out this tragic folly if you will -- but i for one will not be a part of it. i will stay here in freedonia.
+TRENTINO: very well then, if that's how you feel about it -- my country has spoken.
+GROUCHO: then it's war?
+TRENTINO: yes.
+GROUCHO: how're ya fixed for ammunition?
+TRENTINO: bah!!
 
-speaker1: the secretary of war will see you next, miss. 
-speaker2: look!
+BOB: the secretary of war will see you next, miss. 
+GIRL: look!
 
-speaker1: you got credentials all right. 
-speaker1: this is fine. put it back.
-speaker1: i think i better take another look at that paper...
-speaker1: i look this over later -- now i look you over. if you want to be a spy, you gotta be in good condition. i better examine you.
-speaker1: there's something wrong -- i think i'm getting whiteman's band.
-speaker1: according to my watch it's four o'clock. now look -- a woman spy is a-gotta make love to men. come on -- let's see you make love...
-speaker1: now you feel my pulse.
+CHICO: you got credentials all right. 
+CHICO: this is fine. put it back.
+CHICO: i think i better take another look at that paper...
+CHICO: i look this over later -- now i look you over. if you want to be a spy, you gotta be in good condition. i better examine you.
+CHICO: there's something wrong -- i think i'm getting whiteman's band.
+CHICO: according to my watch it's four o'clock. now look -- a woman spy is a-gotta make love to men. come on -- let's see you make love...
+CHICO: now you feel my pulse.
 
-speaker1: send in the next girl. 
-speaker2: by the way, are you sure we need a spy?
-speaker1: sure, we gotta have a spy. if we no got a spy who's gonna tell the other side what we're doing?
-speaker2: i don't go in much for modern art. have you got anything by one of the old masters?
-speaker2: i'm glad i didn't ask you for "washington crossing the delaware".
-speaker1: that's very funny... he certainly fooled me. he'll make a good spy.
-speaker1: say, that's a nice collection. you oughta have a catalogue.
-speaker2: let's take a look at number eighteen.
+CHICO: send in the next girl. 
+GROUCHO: by the way, are you sure we need a spy?
+CHICO: sure, we gotta have a spy. if we no got a spy who's gonna tell the other side what we're doing?
+GROUCHO: i don't go in much for modern art. have you got anything by one of the old masters?
+GROUCHO: i'm glad i didn't ask you for "washington crossing the delaware".
+CHICO: that's very funny... he certainly fooled me. he'll make a good spy.
+CHICO: say, that's a nice collection. you oughta have a catalogue.
+GROUCHO: let's take a look at number eighteen.
 
-speaker1: he's going to make a good spy... that's not bad for the first day. 
-speaker2: that's not bad for any day.
-speaker2: you're right about that guy -- i think we've got something.
-speaker1: i don't know about us, but i know he's-a got something...
+CHICO: he's going to make a good spy... that's not bad for the first day. 
+GROUCHO: that's not bad for any day.
+GROUCHO: you're right about that guy -- i think we've got something.
+CHICO: i don't know about us, but i know he's-a got something...
 
-speaker1: this is all firefly's fault -- that that fool... 
-speaker2: i thought everything was working out fine.
-speaker1: fine nothing! i didn't want war... my plan was to marry mrs. teasdale and overthrow firefly.
-speaker2: maybe you can still win the old dame over -- why not try to --
-speaker3: i'm so sorry i've kept you waiting...
-speaker1: mrs. teasdale... i deeply regret the unfortunate affair with his excellency, but his attitude left me no alternative...
-speaker4: to think that this should happen after all these years of friendship.
-speaker2: maybe the war can still be averted...
-speaker3: oh, if only it could...
-speaker1: mrs. teasdale, i'm willing to pocket my pride and do anything i can to make up with his excellency.
-speaker3: oh, would you...?
-speaker1: for you, i would do anything...
-speaker2: if only we can get his excellency to listen to reason...
-speaker1: perhaps he will listen to you...
-speaker4: perhaps... i'll call him...
-speaker5: why not come over here? -- you can come in the back way and no one'll see you...
-speaker5: if i knew you were here i would've brought some cheese...
-speaker5: so -- you've come to ask for clemency! i'll give the enemy no quarter -- not a dime...
-speaker3: but your excellency -- the ambassador is here on a friendly visit... he came to ask you to patch up the breach.
-speaker5: let him patch up his own breeches...
-speaker1: i'm sorry we lost our tempers... i'm willing to forget if you are.
-speaker5: forget? you ask me to forget... why, my ancestors would rise from their graves... and i'd only have to bury them again... a firefly never forgets...
-speaker1: i am willing to apologize... i'm willing to do anything to prevent this war.
-speaker5: nothing doing!! i've taken a lease on the battlefield. i'd lose my deposit, besides, i've already ordered the ammunition...
-speaker2: oh, your excellency, isn't there something i can do?
-speaker5: yes, but i'll talk to you about that when we're alone...
-speaker3: oh, won't you reconsider...
-speaker5: well, maybe i am a little headstrong... but, you know, it's awfully hard to forget what he called me.
-speaker1: what i called you... why, what did i call you?
-speaker5: i don't remember.
-speaker1: oh -- you mean... worm?
-speaker5: no, that wasn't it...
-speaker1: was it -- swine?
-speaker5: no... it was a seven letter word.
-speaker1: oh yes! -- upstart!
-speaker5: that's it...
-speaker1: why - er - mrs. teasdale - this is an outrage! this man is impossible... my course is clear... this means war... you runt!
-speaker5: i still like upstart the best.
-speaker2: oh, this is dreadful! if you'll excuse me i'll go to my room...
-speaker4: yes, it's awful! are you sure you did the right thing?
-speaker5: of course. who ever heard of calling off a war after ordering all the ammunition?
-speaker5: the plans of war are in this envelope. i want you to take care of them -- no one will ever suspect you. he hands papers to her
-speaker5: guard them with your life... don't leave them out of your sight... if the enemy gets those papers we're lost. if they don't get them, we're lost. can't you see what i'm trying to tell you? i love you... mrs. teasdale, you're the salt of the earth. they don't come any better than you...
-speaker3: now -- er --
-speaker5: well -- they might come better but they don't come any bigger... and the bigger the better. the bigger the betta you've got on a horse, the more you lose, and speaking about horses, why don't you marry me. come, come -- say yes and you'll never see me again. i'll go 'way if it means your happiness...
-speaker3: oh, your excellency, you take me off my feet.
-speaker5: gloria -- may i call you gloria?
-speaker3: why -- why -- of course.
-speaker5: you can call me gloria too. gloria -- what a beautiful name. when i was born my mother named me gloria -- two minutes later she found out her mistake...
-speaker6: father...
-speaker5: take a letter...
-speaker6: who to?
-speaker5: none of your business... take another letter.
-speaker5: eureka ammunition company -- gentlemen -- your shipment of sailor hats arrived this morning by freight -- gloria, i could go for you in a big way -- however, the rifles you sent were a little rusty -- -- and i don't say that to everybody -- have not received last month's drawing account. how come? your neck is like a swan... yours very truly. now read it back.
-speaker6: eureka ammunition company, gentlemen. your shipment of sailor hats arrived this morning by freight. gloria, i could go for you in a big way. however, the rifles you sent were a little rusty and i don't say that to everybody. have not received last month's drawing account; how come your neck is like a swan. yours very truly...
-speaker5: they'll know i mean business then they get that letter... see that that gets out immediately and that goes for you too.
-speaker6: yes, sir.
-speaker5: gloria, much as i hate to leave, i'd be crazy to stay here.
-speaker3: well, if you must go --
+TRENTINO: this is all firefly's fault -- that that fool... 
+VERA: i thought everything was working out fine.
+TRENTINO: fine nothing! i didn't want war... my plan was to marry mrs. teasdale and overthrow firefly.
+VERA: maybe you can still win the old dame over -- why not try to --
+MRS. TEASDALE: i'm so sorry i've kept you waiting...
+TRENTINO: mrs. teasdale... i deeply regret the unfortunate affair with his excellency, but his attitude left me no alternative...
+MRS.  TEASDALE: to think that this should happen after all these years of friendship.
+VERA: maybe the war can still be averted...
+MRS. TEASDALE: oh, if only it could...
+TRENTINO: mrs. teasdale, i'm willing to pocket my pride and do anything i can to make up with his excellency.
+MRS. TEASDALE: oh, would you...?
+TRENTINO: for you, i would do anything...
+VERA: if only we can get his excellency to listen to reason...
+TRENTINO: perhaps he will listen to you...
+MRS.  TEASDALE: perhaps... i'll call him...
+GROUCHO: why not come over here? -- you can come in the back way and no one'll see you...
+GROUCHO: if i knew you were here i would've brought some cheese...
+GROUCHO: so -- you've come to ask for clemency! i'll give the enemy no quarter -- not a dime...
+MRS. TEASDALE: but your excellency -- the ambassador is here on a friendly visit... he came to ask you to patch up the breach.
+GROUCHO: let him patch up his own breeches...
+TRENTINO: i'm sorry we lost our tempers... i'm willing to forget if you are.
+GROUCHO: forget? you ask me to forget... why, my ancestors would rise from their graves... and i'd only have to bury them again... a firefly never forgets...
+TRENTINO: i am willing to apologize... i'm willing to do anything to prevent this war.
+GROUCHO: nothing doing!! i've taken a lease on the battlefield. i'd lose my deposit, besides, i've already ordered the ammunition...
+VERA: oh, your excellency, isn't there something i can do?
+GROUCHO: yes, but i'll talk to you about that when we're alone...
+MRS. TEASDALE: oh, won't you reconsider...
+GROUCHO: well, maybe i am a little headstrong... but, you know, it's awfully hard to forget what he called me.
+TRENTINO: what i called you... why, what did i call you?
+GROUCHO: i don't remember.
+TRENTINO: oh -- you mean... worm?
+GROUCHO: no, that wasn't it...
+TRENTINO: was it -- swine?
+GROUCHO: no... it was a seven letter word.
+TRENTINO: oh yes! -- upstart!
+GROUCHO: that's it...
+TRENTINO: why - er - mrs. teasdale - this is an outrage! this man is impossible... my course is clear... this means war... you runt!
+GROUCHO: i still like upstart the best.
+VERA: oh, this is dreadful! if you'll excuse me i'll go to my room...
+MRS.  TEASDALE: yes, it's awful! are you sure you did the right thing?
+GROUCHO: of course. who ever heard of calling off a war after ordering all the ammunition?
+GROUCHO: the plans of war are in this envelope. i want you to take care of them -- no one will ever suspect you. he hands papers to her
+GROUCHO: guard them with your life... don't leave them out of your sight... if the enemy gets those papers we're lost. if they don't get them, we're lost. can't you see what i'm trying to tell you? i love you... mrs. teasdale, you're the salt of the earth. they don't come any better than you...
+MRS. TEASDALE: now -- er --
+GROUCHO: well -- they might come better but they don't come any bigger... and the bigger the better. the bigger the betta you've got on a horse, the more you lose, and speaking about horses, why don't you marry me. come, come -- say yes and you'll never see me again. i'll go 'way if it means your happiness...
+MRS. TEASDALE: oh, your excellency, you take me off my feet.
+GROUCHO: gloria -- may i call you gloria?
+MRS. TEASDALE: why -- why -- of course.
+GROUCHO: you can call me gloria too. gloria -- what a beautiful name. when i was born my mother named me gloria -- two minutes later she found out her mistake...
+BOB: father...
+GROUCHO: take a letter...
+BOB: who to?
+GROUCHO: none of your business... take another letter.
+GROUCHO: eureka ammunition company -- gentlemen -- your shipment of sailor hats arrived this morning by freight -- gloria, i could go for you in a big way -- however, the rifles you sent were a little rusty -- -- and i don't say that to everybody -- have not received last month's drawing account. how come? your neck is like a swan... yours very truly. now read it back.
+BOB: eureka ammunition company, gentlemen. your shipment of sailor hats arrived this morning by freight. gloria, i could go for you in a big way. however, the rifles you sent were a little rusty and i don't say that to everybody. have not received last month's drawing account; how come your neck is like a swan. yours very truly...
+GROUCHO: they'll know i mean business then they get that letter... see that that gets out immediately and that goes for you too.
+BOB: yes, sir.
+GROUCHO: gloria, much as i hate to leave, i'd be crazy to stay here.
+MRS. TEASDALE: well, if you must go --
 
-speaker1: i'm sorry gentlemen - but you have the wrong seats. 
-speaker2: that's all right. we're not enjoying ourselves anyway.
-speaker1: you belong in that box over there -
-speaker2: come on --
+USHER: i'm sorry gentlemen - but you have the wrong seats. 
+CHICO: that's all right. we're not enjoying ourselves anyway.
+USHER: you belong in that box over there -
+CHICO: come on --
 
-speaker1: i wonder what's keeping his excellency? 
-speaker2: never mind his excellency -- you gotta your pocketbook?
-speaker1: yes -- why?
-speaker2: i wanna powder my nose...
+MRS. TEASDALE: i wonder what's keeping his excellency? 
+CHICO: never mind his excellency -- you gotta your pocketbook?
+MRS. TEASDALE: yes -- why?
+CHICO: i wanna powder my nose...
 
-speaker1: if his excellency doesn't get here soon, he'll miss the whole performance. 
-speaker2: he's-a not missing anything. he's in the dressing room with vera trentino.
-speaker3: in her dressing room? why, what could he be doing there?
-speaker2: he could be playing solitaire, but i don't think so.
-speaker3: what's the matter with you?
-speaker2: what's the matter with you?
-speaker3: you haven't been still a moment since you've been here. you act as if you had neurosis --
-speaker2: i no gotta new-rosis. my uncle he's- a got a flower shop -- he's-a gotta new-rosis.
-speaker4: i shall dance for you tonight as i've never danced before.
-speaker5: this is a fine thing to be doing at my age.
-speaker4: are you getting tired?
-speaker5: not at all. when i was a boy back on the farm i used to pump my own water.
-speaker6: your love is waiting for you, my lord...
-speaker7: fetch my hat - my hat - my hat --
-speaker7: fetch my boots -- bring me my sword --
-speaker2: he no got it ---
-speaker3: this is dreadful -- i must see his excellency at once ---
-speaker4: are you sure you're not tired?
-speaker5: tired! i'd like to stretch this into a week -
-speaker3: i hope i'm not interrupting.
-speaker5: take a seat -- you're next.
-speaker3: your excellency, something terrible has just happened.
-speaker5: that's all right. i'll fix you right up.
-speaker3: my purse has been stolen -- the plans of war are in it.
-speaker8: walks up and down puffing furiously on his cigar
-speaker3: i -- i may be wrong, but i suspect the secretary of war.
-speaker5: don't bother me - i'm thinking -- what was that?
-speaker3: i said - i suspect the secretary of war.
-speaker3: but -
-speaker5: you satisfied your selfish whims, while nations tottered, dynasties rocked and the world plunged headlong into a chasm of chaos and oblivion -- not bad, eh? starts for door cut to - stage showing about eight bars of vera trentino's solo dance. pan to lower box - mrs. teasdale's guests are gone but chico and harpo are there -- chico is examining plans of war.
-speaker2: this is-a fine - you do a good job - you make-a no trouble and you waste- a no time. come on, we take-a the plans to the ambassador. you gotta the address?
-speaker5: hands up!
-speaker2: you no gotta no gun.
-speaker5: who said i had a gun... gimme those plans, you paper snatchers --
-speaker5: here -- put these plans where no one will ever find them - sleep on them.
-speaker4: i'm sorry boys -- i did my best -- it's all my fault.
-speaker2: it's not-a your fault. it's-a his fault -- i fix it for you to getta the plans -- you getta the plans -- then you losa- a the plans -- now we no gotta the plans of war...
+MRS.  TEASDALE: if his excellency doesn't get here soon, he'll miss the whole performance. 
+CHICO: he's-a not missing anything. he's in the dressing room with vera trentino.
+MRS. TEASDALE: in her dressing room? why, what could he be doing there?
+CHICO: he could be playing solitaire, but i don't think so.
+MRS. TEASDALE: what's the matter with you?
+CHICO: what's the matter with you?
+MRS. TEASDALE: you haven't been still a moment since you've been here. you act as if you had neurosis --
+CHICO: i no gotta new-rosis. my uncle he's- a got a flower shop -- he's-a gotta new-rosis.
+VERA: i shall dance for you tonight as i've never danced before.
+GROUCHO: this is a fine thing to be doing at my age.
+VERA: are you getting tired?
+GROUCHO: not at all. when i was a boy back on the farm i used to pump my own water.
+VALET: your love is waiting for you, my lord...
+HERO: fetch my hat - my hat - my hat --
+HERO: fetch my boots -- bring me my sword --
+CHICO: he no got it ---
+MRS. TEASDALE: this is dreadful -- i must see his excellency at once ---
+VERA: are you sure you're not tired?
+GROUCHO: tired! i'd like to stretch this into a week -
+MRS. TEASDALE: i hope i'm not interrupting.
+GROUCHO: take a seat -- you're next.
+MRS. TEASDALE: your excellency, something terrible has just happened.
+GROUCHO: that's all right. i'll fix you right up.
+MRS. TEASDALE: my purse has been stolen -- the plans of war are in it.
+WHAT  ?: walks up and down puffing furiously on his cigar
+MRS. TEASDALE: i -- i may be wrong, but i suspect the secretary of war.
+GROUCHO: don't bother me - i'm thinking -- what was that?
+MRS. TEASDALE: i said - i suspect the secretary of war.
+MRS. TEASDALE: but -
+GROUCHO: you satisfied your selfish whims, while nations tottered, dynasties rocked and the world plunged headlong into a chasm of chaos and oblivion -- not bad, eh? starts for door cut to - stage showing about eight bars of vera trentino's solo dance. pan to lower box - mrs. teasdale's guests are gone but chico and harpo are there -- chico is examining plans of war.
+CHICO: this is-a fine - you do a good job - you make-a no trouble and you waste- a no time. come on, we take-a the plans to the ambassador. you gotta the address?
+GROUCHO: hands up!
+CHICO: you no gotta no gun.
+GROUCHO: who said i had a gun... gimme those plans, you paper snatchers --
+GROUCHO: here -- put these plans where no one will ever find them - sleep on them.
+VERA: i'm sorry boys -- i did my best -- it's all my fault.
+CHICO: it's not-a your fault. it's-a his fault -- i fix it for you to getta the plans -- you getta the plans -- then you losa- a the plans -- now we no gotta the plans of war...
 
-speaker1: it's all your fault. now we gotta steal the plans again -- you had 'em on you... you take a bath... and now we no gotta plans of war. 
-speaker2: psst...
-speaker2: in the safe -- behind the drapes --
-speaker1: all right -- i'll meet you behind the drapes.
-speaker2: no, no -- i mean the plans are in the safe. harpo hasn't taken his eyes off of vera during all this, makes a sudden dash for her, as she turns to her room.
-speaker1: come on, we gotta no time for that.
-speaker1: wait a minute... we make too much noise... turn on the radio so they can't hear what we're doing.
-speaker1: what's-a matter, you crazy... ?
-speaker3: calling car 125... car 125... go to vacant lot at tenth and elm... a woman walking around in her nightgown ---
-speaker1: come on, we gotta finish the job...
-speaker3: calling car 67-w... car 67-w... go to mrs. teasdale's residence... burglars are attempting to break in.
-speaker1: hello -- police department... ? that fellow's crazy... we're in the house already...
-speaker4: the teasdale residence is located at 232 poloma drive...
-speaker1: you'll never find us, you gotta the wrong address... we're at 235 poloma drive... not 232... look, it's a white house with a shingle roof -- shingle -- shingle -- shingle bells, shingle bells, shingle all the way... that's it, you got it... hurry up, if no get-a here soon, we can't wait...
-speaker1: hey, skippy...
-speaker5: hello? your excellency? there are burglars in the house... i want you to come right over.
-speaker6: you come over here. there are no burglars in my house.
-speaker1: light it... now we blow him up...
-speaker1: wait a minute... we gotta fix it so it don't make-a so much noise... what-a we do?
-speaker1: that's fine... now, nobody hear the noise.
-speaker6: that woman is crazy... there are no burglars around here...
+CHICO: it's all your fault. now we gotta steal the plans again -- you had 'em on you... you take a bath... and now we no gotta plans of war. 
+VERA: psst...
+VERA: in the safe -- behind the drapes --
+CHICO: all right -- i'll meet you behind the drapes.
+VERA: no, no -- i mean the plans are in the safe. harpo hasn't taken his eyes off of vera during all this, makes a sudden dash for her, as she turns to her room.
+CHICO: come on, we gotta no time for that.
+CHICO: wait a minute... we make too much noise... turn on the radio so they can't hear what we're doing.
+CHICO: what's-a matter, you crazy... ?
+RADIO POLICE ANNOUNCER: calling car 125... car 125... go to vacant lot at tenth and elm... a woman walking around in her nightgown ---
+CHICO: come on, we gotta finish the job...
+RADIO POLICE ANNOUNCER: calling car 67-w... car 67-w... go to mrs. teasdale's residence... burglars are attempting to break in.
+CHICO: hello -- police department... ? that fellow's crazy... we're in the house already...
+RADIO ANNOUNCER: the teasdale residence is located at 232 poloma drive...
+CHICO: you'll never find us, you gotta the wrong address... we're at 235 poloma drive... not 232... look, it's a white house with a shingle roof -- shingle -- shingle -- shingle bells, shingle bells, shingle all the way... that's it, you got it... hurry up, if no get-a here soon, we can't wait...
+CHICO: hey, skippy...
+MRS. TEASDALE: hello? your excellency? there are burglars in the house... i want you to come right over.
+GROUCHO: you come over here. there are no burglars in my house.
+CHICO: light it... now we blow him up...
+CHICO: wait a minute... we gotta fix it so it don't make-a so much noise... what-a we do?
+CHICO: that's fine... now, nobody hear the noise.
+GROUCHO: that woman is crazy... there are no burglars around here...
 
-speaker1: harpo is standing at the other side of the desk. 
-speaker2: they're coming... ride through every village and town wake every citizen up hill and down tell them the enemy comes from afar with a hey-nonny-nonny and a ha-cha- char
-speaker2: there'll be two lamps in the steeple if they're coming by land and one lamp if they're coming by sea. he and harpo go to the window and look out.
-speaker2: they double-crossed me... they're
+"ENEMY APPROACHING CAPITOL": harpo is standing at the other side of the desk. 
+GROUCHO: they're coming... ride through every village and town wake every citizen up hill and down tell them the enemy comes from afar with a hey-nonny-nonny and a ha-cha- char
+GROUCHO: there'll be two lamps in the steeple if they're coming by land and one lamp if they're coming by sea. he and harpo go to the window and look out.
+GROUCHO: they double-crossed me... they're
 
-speaker1: either there's a fly in the room or we've got a soldier in africa. 
-speaker2: a dispatch from the front, sir.
-speaker3: bad news, sir?
-speaker1: bad news -- its disastrous!
-speaker4: what is it?
-speaker1: private moscowitz quits!
-speaker1: clear all wires...
-speaker1: the enemy has taken hill 25, throwing twelve hill-billies out of work... our front is exposed to the enemy -- we'll have to bring up the rear... p.s. have misplaced flag of truce... look in upper lefthand drawer of my bureau...
+GROUCHO: either there's a fly in the room or we've got a soldier in africa. 
+BOB: a dispatch from the front, sir.
+A GENERAL: bad news, sir?
+GROUCHO: bad news -- its disastrous!
+A FEW GENERALS: what is it?
+GROUCHO: private moscowitz quits!
+GROUCHO: clear all wires...
+GROUCHO: the enemy has taken hill 25, throwing twelve hill-billies out of work... our front is exposed to the enemy -- we'll have to bring up the rear... p.s. have misplaced flag of truce... look in upper lefthand drawer of my bureau...
 
-speaker1: late again, eh? you haven't been on time once since this war started... get out there and fight... 
-speaker2: i can't do it...
-speaker1: why not? you're the secretary of war, aren't you?
-speaker2: yes, but i'm not working for you any more. i'm on the other side.
-speaker1: is that so? i used to think you were two-faced - but you can't be - or you wouldn't be wearing that one. now - let's talk this thing over.
-speaker1: now -- how many men you got in your army?
-speaker2: well, we gotta one hundred thousand men.
-speaker1: that's not fair -- we've only got fifty thousand.
-speaker2: that's all right. we let you have twenty-five thousand men -- and we both start even.
-speaker1: that's the spirit -- fifty-fifty.
-speaker2: no. seventy-five -- seventy-five.
-speaker1: well, we'll let that one go. now -- how many battalions you got?
-speaker2: we gotta two battalions and one frenchman.
-speaker1: i wish you were still working for me, so i could ask you to resign. how're ya fixed for cavalry?
-speaker2: i've gotta five thousand men but no horses.
-speaker1: that's funny, we've got five thousand horses but no men.
-speaker2: that's all right -- our men can ride your horses.
-speaker1: not a bad idea. if our horses get tired they can ride your men for a change. now, i don't mind letting you have our horses, but you must promise to put them through their maneuvers.
-speaker2: oh, sure. we have horse maneuvers every morning.
-speaker1: acme ammunition company, eh? how do you expect to win the war with shells that don't go off? now, if you were buying your stuff from me, you wouldn't have that trouble. eureka ammunition is guaranteed to explode -- or your money back. let me show you some samples.
-speaker1: bring in no. 47, line 8.
-speaker1: with a gun like that you can kill some of your own men.
-speaker2: that's-a pretty good. i'll take a dozen of them.
-speaker1: anything else?
-speaker2: yes, one gross of bullets, two dozen hand-grenades, three kegs of powder -- and throw in some matches.
-speaker1: fine. we'll throw in the matches before we make the delivery. by the way, how're you fixed for spys?
-speaker2: fine. we gotta him.
-speaker1: so! -- he's on your side, too.
-speaker2: sure.
-speaker1: well, with you two fellows on the other side, this country should have no trouble keeping the wolf from the door.
-speaker3: something must be done immediately. the soldiers are getting discouraged.
-speaker4: there's only one thing to do... we must capture firefly.
-speaker3: but how? it's a very dangerous undertaking.
-speaker4: ask for volunteers. some one must make the sacrifice -- someone -- here comes chicolini. maybe he'll do it. unless we can make firefly our prisoner, we're lost.
-speaker4: chicolini, you've come just in time. we need a man who's fearless, brave. a man who's willing to die, if necessary.
-speaker2: all right -- i'll go out and find one.
-speaker4: firefly must be captured at any cost.
-speaker2: that's easy, i'll get him for you wholesale.
-speaker4: it must be done right away.
-speaker2: i can't do it right away.
-speaker3: why not?
-speaker2: i got a date with a general's wife.
-speaker3: isn't that a little dangerous?
-speaker2: not unless you find it out.
+GROUCHO: late again, eh? you haven't been on time once since this war started... get out there and fight... 
+CHICO: i can't do it...
+GROUCHO: why not? you're the secretary of war, aren't you?
+CHICO: yes, but i'm not working for you any more. i'm on the other side.
+GROUCHO: is that so? i used to think you were two-faced - but you can't be - or you wouldn't be wearing that one. now - let's talk this thing over.
+GROUCHO: now -- how many men you got in your army?
+CHICO: well, we gotta one hundred thousand men.
+GROUCHO: that's not fair -- we've only got fifty thousand.
+CHICO: that's all right. we let you have twenty-five thousand men -- and we both start even.
+GROUCHO: that's the spirit -- fifty-fifty.
+CHICO: no. seventy-five -- seventy-five.
+GROUCHO: well, we'll let that one go. now -- how many battalions you got?
+CHICO: we gotta two battalions and one frenchman.
+GROUCHO: i wish you were still working for me, so i could ask you to resign. how're ya fixed for cavalry?
+CHICO: i've gotta five thousand men but no horses.
+GROUCHO: that's funny, we've got five thousand horses but no men.
+CHICO: that's all right -- our men can ride your horses.
+GROUCHO: not a bad idea. if our horses get tired they can ride your men for a change. now, i don't mind letting you have our horses, but you must promise to put them through their maneuvers.
+CHICO: oh, sure. we have horse maneuvers every morning.
+GROUCHO: acme ammunition company, eh? how do you expect to win the war with shells that don't go off? now, if you were buying your stuff from me, you wouldn't have that trouble. eureka ammunition is guaranteed to explode -- or your money back. let me show you some samples.
+GROUCHO: bring in no. 47, line 8.
+GROUCHO: with a gun like that you can kill some of your own men.
+CHICO: that's-a pretty good. i'll take a dozen of them.
+GROUCHO: anything else?
+CHICO: yes, one gross of bullets, two dozen hand-grenades, three kegs of powder -- and throw in some matches.
+GROUCHO: fine. we'll throw in the matches before we make the delivery. by the way, how're you fixed for spys?
+CHICO: fine. we gotta him.
+GROUCHO: so! -- he's on your side, too.
+CHICO: sure.
+GROUCHO: well, with you two fellows on the other side, this country should have no trouble keeping the wolf from the door.
+GENERAL: something must be done immediately. the soldiers are getting discouraged.
+TRENTINO: there's only one thing to do... we must capture firefly.
+GENERAL: but how? it's a very dangerous undertaking.
+TRENTINO: ask for volunteers. some one must make the sacrifice -- someone -- here comes chicolini. maybe he'll do it. unless we can make firefly our prisoner, we're lost.
+TRENTINO: chicolini, you've come just in time. we need a man who's fearless, brave. a man who's willing to die, if necessary.
+CHICO: all right -- i'll go out and find one.
+TRENTINO: firefly must be captured at any cost.
+CHICO: that's easy, i'll get him for you wholesale.
+TRENTINO: it must be done right away.
+CHICO: i can't do it right away.
+GENERAL: why not?
+CHICO: i got a date with a general's wife.
+GENERAL: isn't that a little dangerous?
+CHICO: not unless you find it out.
 
-speaker1: boys, i hate to do this, but if you generals want this war to continue you'll have to take a cut -- 
-speaker1: we can't afford to pay the money we've been paying. now i don't want to lay anybody off. my motto in this war is: - "live and let live".
+GROUCHO: boys, i hate to do this, but if you generals want this war to continue you'll have to take a cut -- 
+GROUCHO: we can't afford to pay the money we've been paying. now i don't want to lay anybody off. my motto in this war is: - "live and let live".
 
-speaker1: gentlemen, the overhead is killing us. everything is going up. if we don't watch ourselves, we'll come down with a crash. now -- all those in favor of taking a cut say "aye"... 
-speaker2: but your excellency!
-speaker1: carried unanimously.
-speaker1: now go right out there and fight. you go out there and relieve general beauregard, and while you're at it, see what general motors is doing.
-speaker1: call him back -- he didn't salute me.
-speaker3: father, he didn't salute you either.
-speaker1: attention!
-speaker1: go out there -- all of you -- and bring those generals back -- dead or alive.
-speaker1: why don't those generals come back?
-speaker3: i'll call them.
-speaker1: never mind, i'll go after them myself.
-speaker1: hey, junior!
-speaker1: get my rifle.
-speaker1: i'll get rid of them.
-speaker1: take a letter.
-speaker3: to whom?
-speaker1: to whom it may concern... dear gloria: the air has done me a world of good. i am five thousand feet above sea level speeding home to you. can you arrange to meet me at twenty-five hundred feet? -- which is only asking you to meet me half way. don't be surprised if i drop in on you any minute... your fun- loving dictator.
+GROUCHO: gentlemen, the overhead is killing us. everything is going up. if we don't watch ourselves, we'll come down with a crash. now -- all those in favor of taking a cut say "aye"... 
+ONE GENERAL: but your excellency!
+GROUCHO: carried unanimously.
+GROUCHO: now go right out there and fight. you go out there and relieve general beauregard, and while you're at it, see what general motors is doing.
+GROUCHO: call him back -- he didn't salute me.
+ZEPPO: father, he didn't salute you either.
+GROUCHO: attention!
+GROUCHO: go out there -- all of you -- and bring those generals back -- dead or alive.
+GROUCHO: why don't those generals come back?
+ZEPPO: i'll call them.
+GROUCHO: never mind, i'll go after them myself.
+GROUCHO: hey, junior!
+GROUCHO: get my rifle.
+GROUCHO: i'll get rid of them.
+GROUCHO: take a letter.
+ZEPPO: to whom?
+GROUCHO: to whom it may concern... dear gloria: the air has done me a world of good. i am five thousand feet above sea level speeding home to you. can you arrange to meet me at twenty-five hundred feet? -- which is only asking you to meet me half way. don't be surprised if i drop in on you any minute... your fun- loving dictator.
 
-speaker1: hail, hail, freedonia... land of the brave and free! 
-speaker2: my dad is much too great for his position without a question. i'd like to offer this with your permission as a suggestion: i really think he should be king!
-speaker1: we really think he should be king!
-speaker2: i really think he should be king!
-speaker1: he should be king!
-speaker3: and wear a crown and everything.
-speaker1: and everything.
-speaker3: i really think he should be king!
-speaker1: he should be king!
-speaker4: from what i have been gathering, i think they think i should be king: i think they think i should be king!
-speaker1: he should be king!
-speaker4: and wear a crown and everything.
-speaker1: and everything. he should be king!
-speaker4: you know i think they think i should be king. although it would please me to govern the throng, suppose i were king and then everything went wrong.
-speaker5: the king can do no wrong!
-speaker1: the king can do no wrong! the king can do no wrong!
-speaker4: of course you're all aware a king must have an heir some one to pass the family name along will some one tell me where i'd ever get an heir if a king can do no wrong
-speaker1: the king can do no wrong!
-speaker4: suppose a pretty dame into my castle came - and let us say that i was going strong. she might be stuck on me, but what good would it be, if the king can do no wrong.
-speaker1: the king can do to wrong!
-speaker4: king solomon was game he gave each girl his name to number them would make a list that long i'll bet his thousand wives led miserable lives if the king can do no wrong.
-speaker1: we really think he should be king and wear a crown and everything.
-speaker4: they think i should - they think i should - they think i should - they think i should be king.
-speaker4: mrs. teasdale rises.
-speaker5: my dear friends, in time of peace we should forgive those who fought against us, and so, i have invited our former enemies.
-speaker4: no, no, this is the one...
-speaker4: that was awfully good, i think i'll have a second helping... waiter...
-speaker4: if i don't stop eating i'll get indigestion...
-speaker6: would you mind passing the salt?
-speaker4: ambassador, how's the food?
-speaker7: it's delicious, your excellency.
-speaker4: that's all i wanted to know.
-speaker4: i couldn't eat another thing. ladies and gentlemen, i want to introduce to you a man who is a prince of good fellows, generous to a fault, his own worst enemy and a devil in his own hometown...
-speaker4: thanks, i didn't expect to be called upon... however, in conclusion i want to tell you that i promised mrs. teasdale i'd marry her if we won the war.... well, we won the war and i'm stuck... to the victor belongs the spoils...
-speaker4: in union there is strength...
-speaker4: i feel that we are taking a step in the right direction, and that's what i call balling the jack...
-speaker4: now is not the time for political temporizing, all interests must be sacrificed for the common weal...
-speaker4: all those who want to place their money on the wheel, step inside, faint heart never won fair lady... money won't grow in your pocket like the hair on your head and now is the time for all good men to come to the aid of their party.
+ALL: hail, hail, freedonia... land of the brave and free! 
+ZEPPO: my dad is much too great for his position without a question. i'd like to offer this with your permission as a suggestion: i really think he should be king!
+ALL: we really think he should be king!
+ZEPPO: i really think he should be king!
+ALL: he should be king!
+SOLO: and wear a crown and everything.
+ALL: and everything.
+SOLO: i really think he should be king!
+ALL: he should be king!
+GROUCHO: from what i have been gathering, i think they think i should be king: i think they think i should be king!
+ALL: he should be king!
+GROUCHO: and wear a crown and everything.
+ALL: and everything. he should be king!
+GROUCHO: you know i think they think i should be king. although it would please me to govern the throng, suppose i were king and then everything went wrong.
+MRS. TEASDALE: the king can do no wrong!
+ALL: the king can do no wrong! the king can do no wrong!
+GROUCHO: of course you're all aware a king must have an heir some one to pass the family name along will some one tell me where i'd ever get an heir if a king can do no wrong
+ALL: the king can do no wrong!
+GROUCHO: suppose a pretty dame into my castle came - and let us say that i was going strong. she might be stuck on me, but what good would it be, if the king can do no wrong.
+ALL: the king can do to wrong!
+GROUCHO: king solomon was game he gave each girl his name to number them would make a list that long i'll bet his thousand wives led miserable lives if the king can do no wrong.
+ALL: we really think he should be king and wear a crown and everything.
+GROUCHO: they think i should - they think i should - they think i should - they think i should be king.
+GROUCHO: mrs. teasdale rises.
+MRS. TEASDALE: my dear friends, in time of peace we should forgive those who fought against us, and so, i have invited our former enemies.
+GROUCHO: no, no, this is the one...
+GROUCHO: that was awfully good, i think i'll have a second helping... waiter...
+GROUCHO: if i don't stop eating i'll get indigestion...
+A WOMAN GUEST: would you mind passing the salt?
+GROUCHO: ambassador, how's the food?
+AMBASSADOR TRENTINO: it's delicious, your excellency.
+GROUCHO: that's all i wanted to know.
+GROUCHO: i couldn't eat another thing. ladies and gentlemen, i want to introduce to you a man who is a prince of good fellows, generous to a fault, his own worst enemy and a devil in his own hometown...
+GROUCHO: thanks, i didn't expect to be called upon... however, in conclusion i want to tell you that i promised mrs. teasdale i'd marry her if we won the war.... well, we won the war and i'm stuck... to the victor belongs the spoils...
+GROUCHO: in union there is strength...
+GROUCHO: i feel that we are taking a step in the right direction, and that's what i call balling the jack...
+GROUCHO: now is not the time for political temporizing, all interests must be sacrificed for the common weal...
+GROUCHO: all those who want to place their money on the wheel, step inside, faint heart never won fair lady... money won't grow in your pocket like the hair on your head and now is the time for all good men to come to the aid of their party.
 

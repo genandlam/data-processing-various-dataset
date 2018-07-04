@@ -1,1415 +1,1415 @@
-speaker1: smells good. 
-speaker2: sit down.
-speaker1: wow. thanks.
-speaker2: how was your night?
-speaker1: good. how was yours?
-speaker2: good.
-speaker1: this is great.
-speaker1: your shift's at eight thirty?
-speaker1: you not eating?
-speaker2: i already did.
-speaker1: you okay?
-speaker3: pause.
-speaker2: are you coming with me to cindy and bill's on saturday?
-speaker1: sure. what time?
-speaker2: for the baby shower.
-speaker1: right.
-speaker2: well, i don't want to go to cindy and bill's.
-speaker1: what?
-speaker2: i mean i want cindy and bill to come here.
-speaker1: cindy and bill are welcome here anytime. pause.
-speaker2: henry. isn't it time...isn't it time for us? henry stops eating.
-speaker1: you're talking about kids.
-speaker2: of course i am.
-speaker1: okay.
-speaker2: 'okay' you want kids?
-speaker1: i love kids.
-
-speaker1: henry? 
-speaker1: do you still love me?
-speaker2: of course i do.
-speaker1: because i know you did once.
-speaker1: what happened, henry?
-speaker3: henry gets up, heads to the door.
-
-speaker1: henry torne. 
-speaker2: eddie vibes.
-speaker1: so how you doin', man?
-speaker2: i'm okay. what's going on?
-speaker1: listen, i got a man down here.
-speaker3: eddie glances up and down the street.
-speaker1: mind if we come in for a second?
-
-speaker1: he's hot. 
-speaker2: i'm sorry.
-speaker1: you better come with me.
-speaker3: sausage at pinwheels.
-speaker4: yeah.
-speaker3: so we're in a little bind, henry. got league playoffs in a half-hour and joe's our first baseman. and he's not exactly game-ready as you can see...
-speaker4: yeah.
-speaker3: so, what do you say?
-speaker4: what do i say what?
-speaker3: you feel like playing a little ball?
-speaker4: it's november.
-
-speaker1: yeah. they keep the field in perfect shape. 
-speaker2: oh.
-speaker1: so what do you say?
-speaker1: henry?
-
-speaker1: appreciate you driving, man. 
-speaker2: so where's this game?
-speaker1: near kaisertown. like fifteen minutes.
-
-speaker1: pull up right over here. we gotta grab some beer money at that atm. 
-speaker2: eddie pats henry's shoulder.
-speaker1: just hang tight. we'll be right back.
-
-speaker1: you! 
-speaker2: is pointing at him through the windshield.
-speaker1: freeze!
-
-speaker1: henry, we know this wasn't your deal. 
-speaker2: henry just listens.
-speaker1: all you have to do is give me those names. and you can go home. it's that simple.
-speaker1: come on. why are you sticking up for these people? they're not your friends. you've got a wife. you've got a job...
-speaker1: all you have to do is say something.
-speaker3: ...in light of the fact that this is a first offence...
-
-speaker1: so. what're you in for? 
-speaker2: henry turns.
-speaker3: huh.
-speaker1: i said what are you in for?
-speaker3: bank robbery.
-speaker1: good. clean. simple. i like it.
-speaker3: but i didn't do it.
-speaker1: ah. mistaken identity. a perennial favorite. identities are just constructs, anyway. they're mistaken all the time.
-speaker1: i'm max.
-speaker3: henry.
-speaker1: go on. make yourself at home.
-speaker3: so...what are you in for?
-speaker1: life.
-speaker1: don't worry, you'll get used to it.
-
-speaker1: hurry up. we gotta go. 
-speaker1: breakfast.
-
-speaker1: `monday is whole wheat bun-day.' henry's lost in thought... 
-speaker1: what are you thinking about?
-speaker2: nothing.
-speaker1: you're thinking something. let me guess. you're thinking, `how did i get here?' henry puts out his tray.
-speaker1: how do you think any of us got here?
-speaker2: i'm not sure.
-speaker1: i'll tell you how. because we committed crimes. but we committed to the wrong thing. you see that was our mistake. we didn't fulfill our potential, we got angry and we took it out on other people.
-speaker1: see him?
-speaker3: henry nods.
-speaker1: hector. he wanted to be a doctor. he could've been, but he chose not to fulfil his potential, he chose not to commit to his dream. and now look at him.
-speaker1: bad choices, see.
-speaker1: by the way, i recommend the potatoes.
-
-speaker1: that's the real crime, henry. not committing to your dream. 
-speaker1: so what's yours?
-speaker2: my what?
-speaker1: your dream.
-speaker2: not sure i ever had one.
-speaker1: never had a dream? what kind of a life is that?
-speaker2: i don't know. a pretty good one?
-speaker1: henry, you're in jail.
-
-speaker1: knowledge. self respect. forgiveness. and in your case, you can figure out what your dream is. max takes his arm : 
-speaker1: your dream is your truth is your destiny. henry looks at him.
-speaker2: i told you. i'm here by mistake.
-speaker1: there are no mistakes.
-speaker2: what?
-speaker1: but you're going to have to fight for that dream, henry.
-speaker2: i am.
-speaker1: you're at a crossroads now. there are going to be tests!
-speaker2: what tests?
-
-speaker1: you did good, henry. 
-speaker2: i don't feel good.
-speaker1: you're doing better than you feel.
-speaker1: go to sleep, henry.
-speaker1: sleep is for the blessed.
-
-speaker1: hi. 
-speaker2: hi. you look beautiful.
-speaker1: thank you. how are you doing?
-speaker2: i'm okay. how about you?
-speaker1: i'm good.
-speaker1: listen, henry. i have something i need to talk to you about.
-
-speaker1: okay. 
-speaker2: i fell in love.
-speaker1: oh.
-speaker2: i just...i mean it just happened.
-speaker1: okay. wow...
-speaker2: i'm sorry, henry.
-speaker1: it's alright.
-speaker2: you're not mad?
-speaker1: no.
-speaker1: i want you to be happy.
-speaker2: you too, henry.
-
-speaker1: i mean nearly. i had a lovely correspondence going with jocelyn steinberg in utica. problem was when she finally came on visitor's day she said i was too short. 
-speaker2: books and covers.
-speaker1: right. books and covers.
-
-speaker1: clean as a whistle. 
-speaker2: max, i think you missed your calling.
-speaker1: thank you.
-speaker1: who do we got next, henry?
-speaker3: hector. you're up.
-speaker4: hey, max. when are you up for parole?
-
-speaker1: october. 
-speaker2: show us what you did for the board last time.
-speaker1: i'm working.
-speaker3: show us!
-speaker1: leave me alone.
-speaker4: come on! show us.
-speaker1: all right, so i'm sitting there, and the head of the board asks me what i'm going to do if they let me out this time. and, so...
-speaker1: i get this twitch! and then i give him my answer: "i'm gonna break in your house, set your dog on fire, eat all your food, go on a naked rampage through your garden, dance in the streets of your l'il hometown like a crazed harpee, hurl myself headlong flaming through the ethereal sky like blackest angel and explode like a heavenly fireball!
-speaker1: oh, yeah. you don't want me. you don't want this. not out there.
-speaker1: believe me, i'm not going anywhere.
-
-speaker1: hey, white shadow. when's your review coming up? 
-speaker2: next month.
-speaker1: you gonna do the twitch like your cellie?
-speaker2: nope.
-speaker1: what, you don't like it around here?
-speaker3: everyone knows henry's innocent.
-speaker1: the board don't like it when you deny the crime.
-speaker2: i didn't do the crime.
-speaker1: hey, but you got the time...so you may as well have done it. everyone laughs.
-speaker3: i like it! `you got the time, so you may as well have done the crime!' everyone laughs again.
-speaker3: now that's funny, henry.
-speaker2: yeah, you're right.
-
-speaker1: i'm living it. 
-speaker2: really?
-speaker1: sure! it's easier to live in here. you don't have to do anything. you just show up. in fact they even do that for you.
-speaker2: this place is horrible, max.
-speaker1: so why didn't you just say something?
-speaker2: when?
-speaker1: back then. when you had the chance. when you were still innocent.
-speaker2: i thought maybe this was my way out.
-speaker1: and was it?
-speaker2: yeah.
-speaker1: see. there are no mistakes.
-
-speaker1: you got everything, kid? 
-speaker2: yeah.
-
-speaker1: maybe you should think about getting out of here sometime. i'll buy you a cup of coffee on the outside. 
-speaker2: the only thing i've ever missed in twenty three years is a hot bath. and that ain't worth walking out of here for. the cell door slides open.
-speaker3: torne! let's go!
-speaker2: don't forget. your dream is your myth is your truth. pause.
-speaker1: i thought it was my dream is my truth is my destiny.
-speaker2: just testing.
-speaker1: i'm going to miss you.
-speaker2: yeah, well. i hope i never see you again. henry smiles.
-speaker1: i'm still gonna miss you.
-speaker2: get out of here, henry.
-
-speaker1: henry. how you doing? 
-speaker2: hey.
-speaker1: debbie! henry's here.
-speaker2: thanks.
-
-speaker1: don't mind me. i'm just getting set up for my meeting. you want a beer? 
-speaker2: sure.
-speaker1: honey, do mind getting henry a beer?
-
-speaker1: hi. 
-speaker2: hi.
-
-speaker1: i think that's everything you wanted. 
-speaker2: thanks.
-speaker2: are you happy?
-speaker1: i am, henry.
-speaker2: i'm glad. he means it.
-speaker1: so what are you going to do now?
-speaker2: i don't know yet.
-speaker3: honey, they're starting to arrive.
-speaker1: we're having a meeting. it's his new business.
-
-speaker1: hey, maybe you'd be interested, henry. you could become a distributor for jin chi. 
-speaker1: it's korean kitchenware. the future of food storage. plus, if you recruit distributors, you get paid even more.
-speaker2: you mean like a pyramid scheme?
-speaker1: no! no. it's a multi-layered marketing paradigm.
-speaker1: anyway, why don't you give it some thought?
-speaker1: henry.
-speaker2: yeah?
-speaker1: listen, i just wanted to thank you. for not giving up my name.
-speaker2: i don't know your name.
-speaker1: sure you do. it's joe.
-speaker2: right. you're welcome joe.
-speaker2: i'll see you deb.
-speaker3: take care of yourself, henry.
-
-speaker1: henry! how are you? 
-speaker2: i'm good. how are you?
-speaker1: great. how was greece?
-speaker2: greece?
-speaker1: debbie told us all about your trip.
-speaker2: i was in prison.
-speaker1: in greece?
-
-speaker1: is it okay? 
-speaker2: good. thank you.
-speaker1: so what do you think?
-speaker2: about what?
-speaker1: about building your life from the ground up.
-speaker2: sure. sounds good.
-
-speaker1: thanks. 
-speaker2: seems like yesterday you walked through that door.
-speaker1: it does?
-speaker2: henry, you've done your time. you are now a free free man.
-speaker2: how does it feel?
-speaker1: good.
-speaker3: she signs a document and hands it to him.
-speaker2: so, what's next? henry doesn't answer.
-
-speaker1: what are you doing? what the are you doing? are you okay? stan. i gotta call you back! i just ran someone over. no, he looks okay. 
-speaker2: she hangs up.
-speaker1: you you weren't even looking where you were going! are you okay? henry's a little delirious.
-speaker3: i think i'm okay.
-speaker1: no. stay on the ground.
-speaker4: is he alright? don't get up. i'll call an ambulance.
-speaker3: no, don't. i think i'm okay.
-speaker4: you!
-speaker3: yeah. me.
-speaker1: is he alright?
-speaker4: are you alright?
-speaker3: yeah. fine.
-speaker1: he just walked right out into the street. he came out of nowhere.
-speaker4: i saw the whole thing. you were on the phone. you weren't even paying attention.
-speaker1: yes. i was. i know how to drive.
-
-speaker1: what are you doing? get back on the ground! 
-speaker2: park your car. i'm going to take him into that cafe.
-speaker2: they let you out, huh.
-speaker3: yeah.
-speaker2: let's get you a seat in here.
-
-speaker1: pierre! une verre d'eau. 
-speaker2: thanks.
-speaker3: did you call an ambulance? i'm calling an ambulance.
-speaker2: it's okay. i really am fine.
-speaker1: yeah. he's alright for a guy who just got run over. lucky i guess. frank leaves.
-speaker3: i think we should call a doctor. henry just stares at her. for a long moment.
-speaker3: what? are you okay?
-
-speaker1: hello, guy? are you okay? do you need a doctor? 
-speaker2: no. you look familiar.
-speaker1: what?
-speaker1: oh. that.
-speaker2: what?
-
-speaker1: oh, that's why. 
-speaker2: well, i guess you seem to be okay.
-speaker1: yeah. i'm okay.
-speaker2: okay. so you're okay?
-speaker1: yeah.
-speaker2: great.
-speaker2: so i can go now?
-speaker1: sure.
-speaker2: bye.
-speaker2: and be more careful.
-speaker1: thanks.
-speaker3: she leaves. he watches her go.
-speaker4: anything else i can get you?
-speaker1: a bathroom?
-
-speaker1: emerges with a guard. 
-speaker1: i thought i told you i didn't want to see your face again. henry smiles.
-speaker2: nice to see you too.
-speaker3: no contact.
-speaker2: i figured it out.
-speaker1: what?
-speaker2: my destiny.
-speaker1: good. what is it?
-speaker2: the bank.
-speaker1: the bank is your destiny?
-
-speaker1: yeah. 
-speaker2: what bank?
-speaker1: the one i didn't rob.
-speaker2: but you went to jail for it.
-speaker1: exactly.
-speaker2: what are you talking about henry?
-speaker1: i did the time, i may as well have done the crime.
-speaker2: ah, that. time. crime. right.
-speaker2: i still don't get it.
-speaker1: i need your help.
-speaker2: what for?
-speaker1: to rob the bank.
-speaker1: so what do you say?
-speaker2: i'm in jail. that's what i say.
-speaker1: you've got your review coming up --
-speaker2: -- so?
-speaker1: so you can get of here. if you want to.
-
-speaker1: no. it's not as simple as that. 
-speaker2: yes, it is.
-speaker1: no, it's not.
-speaker2: yes. it is.
-speaker1: no, it's not.
-
-speaker1: i'm happy here. this is my home. 
-speaker2: this is not a home. this is a prison.
-speaker1: whatever you want to call it, i'm happy here.
-speaker2: max. you can't die in this place.
-speaker1: i can die wherever i want.
-speaker2: you really want to die here?
-speaker1: what do you want, henry?
-speaker2: i'm asking for your help.
-speaker1: to rob that bank?!
-speaker2: i've thought about it. it's the right thing.
-speaker2: for both of us.
-speaker1: henry. i got cards.
-
-speaker1: great to see you, kid. 
-speaker2: max!
-
-speaker1: i think i must be dreaming. knows i love my country. i love it deeply. i couldn't see out the train window i was crying so much. 
-speaker1: but...i must drink my coffee...thank you firs, thank you, you dear old man. i'm so glad to find you still alive.
-
-speaker1: stop! stop! 
-speaker1: too small, too safe! stop showing me your `safe face' --
-speaker2: -- but i was --
-speaker1: not you. you're doing the best you can. you.
-speaker1: what are you doing?
-speaker3: i'm...listening.
-
-speaker1: listening? you look like you're hearing. to hear is to be weak. to listen is to be strong. to listen is an action. 
-speaker1: what is that?
-speaker2: an action. i'm listening. is this what you mean, darek? is this what you want?
-speaker1: no, djula.
-speaker2: then what do you want?
-speaker1: i want you to be more. i want you to be better than that.
-speaker1: now go drink coffee. and don't think about what i want, think about what you want!
-speaker2: fine. i'll go drink coffee.
-speaker1: i'll go drink coffee too! let's all `go drink coffee'.
-speaker1: ten minutes everyone!
-
-speaker1: are you here to sue me? 
-speaker2: no.
-speaker1: then what are you doing here?
-speaker2: i saw your picture outside. the door was open. i came in. she exits.
-
-speaker1: is it always like that? 
-speaker2: what?
-speaker1: gesturing back to the
-speaker3: that.
-speaker2: you mean rehearsal?
-speaker1: yeah.
-speaker2: it's a process.
-speaker1: looks complicated.
-speaker2: it's all pain.
-speaker2: chekhov, right?
-speaker1: i thought you were listening.
-speaker1: i'm henry by the way.
-
-speaker1: julie. 
-speaker2: madame julie!
-speaker1: coffee, pierre.
-speaker1: you want one?
-speaker3: sure.
-
-speaker1: two. 
-speaker1: what?
-speaker1: so what do you think?
-speaker2: doesn't look like you.
-speaker1: no, i meant the poster.
-speaker2: oh. it's funny.
-speaker1: actors on a tree is funny?
-speaker2: yeah.
-
-speaker1: that's the director's joke. 
-speaker1: he's making a comment on the american culture. actors faces as falling fruit. birth, death, the consumption of the id.
-speaker1: to him, the american dream has become the world's nightmare. "you are the country of apocalypse."
-speaker1: that's what he told us on the first day of rehearsal, anyway.
-speaker2: oh.
-speaker1: the irony is, he loves the american dream. i mean that's why he's here, right?
-speaker1: but i know for a fact he hates himself for loving it. it's always an inside job, isn't it?
-speaker2: yeah. i guess.
-speaker1: but the truth is i wasn't listening. i was playing it safe.
-speaker1: he was right. the jerk. about that, anyway...
-speaker1: you know the cherry orchard was chekhov's last play. he was dying when he wrote it. she thinks. he listens.
-speaker1: it's perfect.
-speaker2: why?
-
-speaker1: it's my last play too. here in buffalo. 
-speaker2: you're leaving?
-speaker3: right after we're done.
-speaker3: i'm glad you came by. thanks for not suing me. i'll see ya. she leaves.
-
-speaker1: right. 
-speaker2: give `em hell!
-speaker1: i always do, felipe!
-speaker3: morning, max. here we are again.
-speaker1: how's your grandson?
-speaker3: just started first grade.
-speaker1: that's great. the socialization begins!
-
-speaker1: how many more of these you think you got in you, max? pause. 
-speaker2: as many as it takes.
-
-speaker1: good afternoon, mr. saltzman. take a seat. 
-speaker1: mr. saltzman. could you please tell the board why you believe we should grant you parole?
-
-speaker1: mr. saltzman? 
-speaker2: well...
-
-speaker1: max looks a little less sure of himself. 
-speaker2: appears. smiling.
-speaker2: i knew you could do it.
-speaker3: where's the car?
-speaker2: i don't have a car.
-speaker3: you don't have a car? what's wrong with you? you came to pick me up without a car. that's not picking a person up.
-speaker2: yes, it is. i'm here. i'm picking you up.
-speaker3: i don't know about this. maybe this is a mistake.
-speaker3: dave! carl!
-speaker2: max, it's okay. you're free.
-speaker3: open up! dave! no response.
-speaker2: come on, max.
-speaker3: i don't like this.
-speaker2: take it easy. there's nothing to be frightened of. i promise. you're okay. the bus station's just a short walk.
-
-speaker1: i can't breathe. i -- can't breathe... 
-speaker2: you're going to be alright.
-speaker1: i'm going to die right here. i told you!
-speaker2: come on, max, we're going to miss that bus. henry helps max back up again.
-
-speaker1: you hungry? 
-speaker1: it's pastrami. on rye.
-
-speaker1: here we are. 
-speaker1: that one's yours.
-
-speaker1: thanks. 
-speaker2: anything else you need?
-speaker1: yeah.
-
-speaker1: what is this obsession with coffee, henry? when did that happen? 
-speaker2: i'm not sure, max. but it seems to give people a lot of purpose.
-
-speaker1: it's a start. 
-speaker2: a start? this was your plan? an old cartoon in a pissoir?
-speaker1: it's an article.
-speaker2: whatever, henry. why don't we just go in with guns and do it the old-fashioned way?
-speaker1: no. no guns.
-speaker2: what?
-speaker1: someone could get hurt.
-speaker2: that's sweet, kid.
-speaker1: maybe it's still there, max.
-speaker2: uh-huh.
-speaker1: maybe it is.
-speaker2: right. okay. yes. first things first. why don't we go take a look at this bank of yours?
-speaker2: at least we know that's still there.
-
-speaker1: what kind do you have? 
-speaker2: savings. interest only. commercial --
-speaker1: you know my uncle put all his money in that vault when i was a kid, after we came from europe, before the war...the brownshirts. he said that vault will be there for three hundred years!
-speaker2: we hope he's right!
-speaker1: he was never wrong. how long's it been there already mr. tuttle?
-speaker2: since 1891.
-speaker1: and in the very same spot, correct?
-speaker2: that's right. on the very same spot.
-
-speaker1: now. as i was saying. we have savings. 
-speaker2: you'll have to give us some time to think about which one. max gets up.
-speaker2: thank you. you've been very helpful.
-speaker1: no. thank you.
-speaker3: have a nice day, gentlemen.
-
-speaker1: the vault is here. 
-speaker1: the tunnel runs under here...
-speaker1: and ends up somewhere in there.
-speaker2: it's virtually robbing itself!
-speaker3: jesus...goddamn! czech chekhov
-speaker4: she storms out, punches the air, screams :
-
-speaker1: hi. 
-speaker2: henry?
-speaker1: julie, max. max, julie.
-speaker3: hiya.
-speaker2: what are you doing here?
-speaker1: oh, we were, you know --
-speaker3: i was just showing henry the place i used to perform. henry shoots max a look.
-speaker2: oh. what?
-speaker4: that's lunch, julie.
-speaker2: thank
-speaker3: chekov's tough stuff. it takes a steel stomach.
-speaker2: you know chekhov?
-speaker3: of course. apart from gorbachev he's my favorite russian.
-
-speaker1: would you mind if we took a look around? it's been over thirty years since i've been inside. she considers the request. 
-speaker2: sure.
-speaker2: sure. yeah. come on in.
-speaker1: thank you.
-speaker3: how you doing?
-speaker2: great. i'm in hell.
-
-speaker1: home again. 
-speaker2: so what productions were you in?
-speaker1: oh. shakespeare, ibsen, mahoney, the greats.
-speaker1: and the not-so-greats!
-speaker3: mary wants to fit your wig at four. darek says to stay hungry.
-speaker2: him.
-speaker3: got it.
-
-speaker1: would it be a tremendous imposition to have a little tour for old time's sake? 
-speaker2: he used to perform here.
-speaker3: i don't see why not. we're on a break.
-speaker1: that okay, henry?
-speaker4: sure. go ahead.
-speaker2: is that your dad?
-speaker4: no. he's a friend.
-speaker2: he seems like your dad.
-speaker4: it's peaceful out here.
-speaker4: is it fun?
-speaker2: what?
-speaker4: pretending to be other people.
-speaker2: it's not really like that. i don't pretend to be someone else. i find some part of me, and reveal it in a new way...just inside of a character.
-speaker4: so, in a way, you're still playing `you'.
-speaker2: yes. exactly. in a way.
-
-speaker1: so what part of `you' are you playing now? 
-speaker2: that's the question you always have to ask yourself.
-
-speaker1: people often make the mistake in chekhov of going down...but you must always always go up... other actors look at him with blank faces. 
-speaker2: simon, did you know there used to be a speakeasy down here during prohibition days?
-speaker3: yes. and they hid the booze in the bank!
-speaker2: i know.
-speaker3: and there was a tunnel too!
-speaker2: i know!
-speaker2: i forget. where was it?
-
-speaker1: so what's your story, henry? 
-speaker2: my story?
-speaker1: i mean, like...what do you do?
-speaker2: i'm figuring that out.
-speaker1: does that mean you don't have a job?
-speaker2: i just got out of jail.
-speaker1: jail!
-speaker2: sounds worse than it is.
-speaker1: really? jail sounds bad.
-speaker1: why were you in there?
-speaker1: are you a murderer or something?
-speaker2: no. do i look like one?
-speaker1: no.
-
-speaker1: what do i look like? 
-speaker2: i don't know. a criminal.
-speaker1: i do?
-speaker2: yeah.
-
-speaker1: it was right here. 
-speaker2: booze, broads and lucre. the good old days. i like it.
-speaker1: they filled it in, in 1931 when they built the theatre.
-speaker1: times have changed.
-
-speaker1: all good things must come to... ...an end. 
-speaker1: do you need volunteers?
-
-speaker1: the cherry orchard. so what happens? what's it about? is it funny? 
-speaker2: a woman returns to her family estate in the russian countryside and realizes she has no choice but to sell her beloved cherry orchard, the magical place of her youth, the only place she ever felt safe.
-speaker1: i guess it's not funny.
-speaker2: it's about being forced to let go of the past and create a new life in order to survive. max's voice booms :
-speaker3: that was great! this place is full of treasures.
-speaker3: thank you, julie. and thank you, simon.
-speaker2: tomorrow?
-speaker4: max has very kindly offered to volunteer at the theatre!
-
-speaker1: oh. 
-speaker2: henry, let's get out of these people's way! henry turns to julie.
-speaker3: what are you doing after rehearsal?
-speaker1: why?
-speaker3: do you like chinese?
-speaker1: yeah.
-speaker3: golden dragon?
-speaker1: it's okay.
-speaker3: eight o'clock?
-
-speaker1: sure. 
-speaker2: work. work! it's time to work americans!
-speaker2: even you djula...
-speaker3: let's go.
-speaker4: see you, julie.
-speaker1: stay out of jail.
-
-speaker1: you were right, henry. you got a nose like a bloodhound! 
-speaker2: you found it?
-speaker1: yeah. right there. in lophakin's dressing room.
-speaker2: who?
-speaker1: lophakin. we find a way to get into his dressing room and we're right as rain!
-
-speaker1: i can see it, henry. it's all in front of me. the vault. the bank. the tunnel. the pieces of the puzzle are on the table. all we got to do is put them in the right order! 
-speaker1: the only thing is the dirt...where does the dirt from the tunnel go?
-speaker2: what about the vault?
-speaker1: first things first. i'm on the dirt.
-speaker2: okay. how do i look?
-speaker1: like henry.
-speaker1: we had a good day, kid. it's good to be back in the soup.
-
-speaker1: he starts to take off his 
-speaker2: go have a nice supper.
-
-speaker1: sorry i'm late. i'm starving. 
-speaker2: julie.
-speaker1: bruce.
-speaker1: that guy's a total hi, henry.
-speaker3: hi. how was rehearsal?
-speaker1: i feel like duck.
-
-speaker1: it's the end of the meal. henry listens. 
-speaker2: i don't just want to be good, i want to be great. and i don't just want to be great in buffalo.
-speaker3: where then?
-speaker2: don't laugh.
-speaker2: hollywood.
-speaker4: he doesn't.
-speaker3: i guess that's where people go.
-speaker2: i don't want my legacy to be a buffalotto commercial. and it's not going to be. soon as this thing is done i'm out of here.
-speaker2: before it's too late.
-speaker3: sounds like a plan.
-speaker2: i hate fortune cookies.
-
-speaker1: we going anywhere in particular? 
-speaker2: want some?
-
-speaker1: you know there's a whole bunch of bodies down there churning around. just caught in the current. 
-speaker1: they all took the risk and look what happened to them. same in death as they were in life. imagine that. you kill yourself and nothing changes.
-speaker2: they both stare down into the roaring water.
-speaker1: all those dreams churning around down there. it makes you sick.
-speaker1: i got to get out of here.
-speaker3: i get it.
-speaker1: so what did you do before jail, henry?
-speaker3: i worked at a toll booth.
-speaker1: which one?
-speaker3: rainbow bridge.
-speaker1: no!
-speaker3: yes.
-speaker1: i had family that used to live on the other side. i took that bridge all the time. we must of met a hundred times!
-speaker1: wow. so you were one of the guys in the tollbooth with those weird rubber gloves?
-speaker3: yeah.
-speaker3: what's so funny?
-speaker1: you were watching everyone go somewhere and you were going nowhere.
-speaker3: that's funny?
-speaker1: yeah. funny sad, not funny funny.
-
-speaker1: i worked nights. it gave me time to think. 
-speaker2: about what?
-speaker1: about where i wasn't going.
-speaker2: see, that's funny.
-speaker2: what about now? where you going now?
-speaker1: i'm working on it.
-speaker2: what'd they send you to jail for henry?
-speaker1: for trying to rob the first buffalo bank.
-speaker2: what!
-speaker1: i thought i was on my way to a softball game. it was a mistake.
-speaker2: sounds like it.
-speaker1: but now i'm going to rob it for real.
-speaker2: you're going to rob the bank you already went to jail for robbing?
-speaker1: yeah.
-speaker2: ha!
-speaker1: there's a tunnel.
-speaker2: what tunnel?
-speaker1: runs from the bank to the theatre.
-
-speaker1: my theatre? 
-speaker2: yeah.
-speaker1: ha!
-speaker1: you're hilarious, henry.
-
-speaker1: you know what? 
-speaker2: what?
-speaker1: i'm hungry.
-speaker2: what for?
-speaker1: ice cream.
-
-speaker1: i can't believe i'm sitting here. 
-speaker2: neither can i.
-speaker1: i want to dance and clap my hands.
-
-speaker1: i think i must be dreaming! 
-speaker1: knows i love my country. i love it deeply.
-speaker1: i couldn't see out the train window i was crying so much. henry's not sure what she's talking about.
-speaker1: page twenty one.
-speaker1: i couldn't see out the train window i was crying so much. but i must drink my coffee.
-speaker1: read lophakin.
-speaker2: `i have to go to kharkov on the five o'clock train. such a bother, i wanted to stay and look at you and talk to you.
-speaker2: you're as wonderful as ever....' he stops, looks at her :
-speaker1: read the next line!
-speaker2: `even more beautiful, and dressed like a parisian...you could blow me down.'
-speaker1: say it like you feel it. like it's real. say it to me. henry takes a beat. this time he makes it his.
-
-speaker1: even more beautiful, and dressed like a parisian...you could blow me down.' she laughs like a little girl. 
-speaker2: you're good. keep reading! and get up.
-speaker3: `your brother says i'm an upstart, a money-grubber.'
-speaker2: yes, you are. you're a bank robber, henry!
-speaker3: `i don't care a bit. i just want you to believe in me like the old days!'
-speaker2: don't stop --
-speaker3: `i just want your wonderful tender eyes to look at me like they did then.'
-speaker2: again!
-speaker3: `i just want your wonderful tender eyes to look at me like they did then.' she laughs some more. comes closer.
-speaker2: i'm glad i ran you over.
-speaker3: me too.
-
-speaker1: good morning. 
-speaker2: good morning.
-speaker2: good morning.
-
-speaker1: henry! 
-speaker2: max.
-speaker1: i figured it out! once we're in that dressing room the dirt from the tunnel goes out through the roof!
-
-speaker1: rushing out into the front 
-speaker2: that bank doesn't stand a chance.
-speaker1: ah. company.
-speaker3: good morning, max.
-speaker4: max is frozen.
-speaker5: it's alright. she knows.
-speaker1: she does?
-speaker3: i didn't know the dirt from the tunnel goes out through the roof.
-speaker5: we brought breakfast. how do you like your eggs?
-speaker3: it's okay. i'm not going to tell anyone.
-speaker1: hold on.
-speaker1: you told her?
-speaker1: about what we're doing?
-speaker5: yeah. i did.
-speaker1: it's a crime. you're supposed to keep crimes a secret.
-speaker5: it's okay, max.
-speaker1: no. it's not kosher.
-speaker5: how do you like your bacon?
-
-speaker1: crispy. 
-speaker1: okay. i'll get dressed.
-speaker2: so what were you in prison for, max?
-speaker1: i'm a confidence man.
-speaker2: you mean a `con' man?
-speaker1: i never liked that word. it's only half of what it is. the word confidence comes from the latin. fides. with faith.
-speaker1: that's what i'm about.
-speaker2: you mean you make people feel good...and then you rip them off?
-speaker1: yes.
-speaker1: but i was always much better at the feeling good part than the ripping off part.
-speaker1: hence, the prison.
-speaker2: aren't you guys worried about getting caught?
-
-speaker1: not really. for me it's a win-win situation. 
-speaker2: how?
-speaker1: i like jail. three hots and a cot.
-speaker2: you too, henry? you like jail?
-speaker3: no. i like it out here.
-speaker2: so why would you take the risk? is it the money?
-speaker2: it must be the money.
-speaker2: you are a criminal. a greedy little criminal.
-speaker3: `your brother leonid says i'm an upstart, a money grubber...
-speaker3: ...but i don't care a bit'.
-speaker3: `i just want you to believe in me like the old days.'
-speaker2: you remember!
-speaker1: what is that?
-speaker2: it's chekhov!
-speaker1: chekhov?!
-
-speaker1: we read it last night. 
-speaker2: you really are good.
-speaker3: i thought you were on a date.
-speaker1: we were.
-speaker3: reading chekhov's a date?
-speaker1: yeah.
-speaker2: i got to get to the theatre --
-speaker3: can you give me a ride there?
-speaker2: why?
-speaker3: i'm a volunteer!
-speaker2: you weren't in any of those plays, were you?
-speaker3: no.
-speaker3: but can you give me a ride?
-
-speaker1: yes and now the orchard will be sold to pay our debts, which seems impossible... 
-speaker2: look! it's mamma walking in the orchard...in a white dress! there she is.
-speaker1: where?
-speaker3: momma, don't!
-speaker4: this is driving me crazy.
-speaker5: what?
-speaker4: we could be digging right now!
-speaker5: we could?
-speaker4: if we were in that dressing room.
-speaker5: it's rehearsal. there are people everywhere.
-speaker4: this is me off.
-
-speaker1: what? 
-speaker2: i got an idea.
-speaker1: what?
-speaker2: you have to be lophakin!
-speaker1: what?
-speaker2: if you did we'd be able to get into that tunnel whenever we want.
-speaker1: i'm not an actor.
-speaker2: you're not a bank robber either! and you're doing that.
-speaker1: max. come on.
-speaker2: she said you were a natural. that means you can do it.
-speaker1: no, it doesn't.
-speaker2: yes, it does henry.
-speaker2: you are lophakin! a man who came from nothing. a man who's not afraid to create a new life.
-speaker2: a man who's in love with her!
-speaker2: your dream is your truth is your destiny! henry thinks...
-speaker1: i can't be lophakin. they have a lophakin.
-
-speaker1: what if they didn't? 
-speaker2: there has to be another way.
-speaker1: kid, you forced me out of jail to help you. and i'm going to help you. but you got to help me help you. now i need to know... ...do you want this bank or not?
-speaker2: yes. i want it.
-speaker2: then you're gonna be lophakin!
-
-speaker1: unprofessional 
-speaker2: mr. millodragovich --
-speaker1: 
-speaker3: what's happening?
-speaker4: arnold's leaving the production.
-speaker3: oh. gosh.
-
-speaker1: but i have no choice it's willie lohman we're talking about! a ken waterstone production! 
-speaker2: oooh-la-la! a ken waterstone production. the heaven's have opened. you lucky boy.
-
-speaker1: run, run, to that pandering, populist, piece-of-shit-waterstone and his spineless productions! you're perfect for it. 
-speaker2: good-bye, darek.
-speaker2: i'm sorry.
-speaker1: simone! i need a new lopakhin. now.
-speaker1: i'm dying, olga! cigarettes! cigarettes now! and coffee!
-speaker3: we'll hold auditions this afternoon, darek! i'll get the list --
-speaker1: i've seen that shit-list! it's a disaster.
-speaker3: what do we do?
-speaker1: i must think.
-speaker1: djula! your orchard cannot be felled before she has a chance to grow.
-speaker4: perfect.
-speaker5: it is ken waterstone.
-
-speaker1: yes, stan, yes! i know it's but that's what's happening... 
-speaker1: i don't know, he's `thinking'...
-speaker1: what?
-speaker1: sorry, i can't give you a ride --
-speaker2: you said he was a natural.
-speaker1: stan. let me call you back. what?
-speaker2: henry.
-speaker1: henry what?
-speaker2: henry would be perfect for it.
-speaker1: perfect for what?
-speaker2: for lophakin.
-speaker1: you mean henry should play lophakin?
-speaker2: yes.
-speaker1: he's not even an actor!
-speaker2: exactly. he'd be playing himself. think about it julie! he is lophakin.
-
-speaker1: a man who came from nothing. a man who's not afraid to create a new life and put his past behind him. a man who's in love with you...madame ranevsky. a beat. she does think about it. 
-speaker2: why do i feel like the earth is suddenly shifting under my feet?
-speaker1: fact is you need a lophakin and lophakin needs a dressing room.
-speaker1: can you get him in to see darek?
-speaker2: what's going on here, max? what are you doing?
-speaker1: nothing.
-speaker2: you made this happen, didn't you?
-speaker1: sometimes a good guy needs a less good guy to help the good guy be good. he smiles. a beat : she slaps him hard across the cheek.
-speaker1: fair enough.
-speaker2: what am i supposed to do now?
-speaker1: he just needs a shot. one audition. let the chips fall where they may.
-speaker2: what if it doesn't work?
-speaker1: they'll get someone else.
-
-speaker1: give him a shot. one shot. that's all i'm asking, julie. she thinks some more... 
-speaker2: okay, confidence man.
-
-speaker1: ...you've never had any training...you've never been in a production...you don't even know the play... 
-speaker2: i read it. i think i know the scene.
-speaker1: think.
-speaker1: start.
-speaker2: `your brother , leonid andrevich...'
-speaker1: how can you perform chekhov and not be able to say and-rey-e-vich! now say it!
-
-speaker1: darek nods, continue : 
-speaker2: your brother, leonid andreyevich says i'm an upstart, a money grubber --
-speaker3: a what?
-speaker2: a money-grubber!
-
-speaker1: convince her. 
-speaker2: your brother, leonid andreyevich says i'm an upstart, a money grubber. he can say whatever he likes. i don't care a bit --
-speaker3: henry ignores him and with twice the passion --
-speaker2: i just want you to believe in me like in the old days.
-
-speaker1: show me, tell me. darek laughs, circling... 
-speaker2: good in heaven. my father was one of your father's serfs, and your grandfather's serf before that. but you, you did so much for me in the old days that i've forgotten all that...
-speaker2: i love you...like a sister...more than a sister. henry drops to his knees, supplicates.
-speaker3: you piece of yes! henry just breathes. he's unbreakable.
-speaker3: good.
-speaker4: henry looks up.
-speaker2: good?
-speaker3: yes.
-speaker3: tomorrow. be more good.
-
-speaker1: does this make me an accessory? 
-speaker2: i think so.
-speaker1: things have certainly gotten a lot more interesting since you showed up.
-speaker2: you mean since you ran me over...
-
-speaker1: it's not just about the money, is it? 
-speaker2: no.
-speaker1: so why are you doing it?
-speaker2: i used to sit in that toll booth and think about just getting in one of those cars, going wherever they went. just joining someone else's life.
-speaker1: you were asleep at the wheel.
-speaker2: yeah, i was.
-speaker2: it was easier for me to go to jail than tell my wife the truth.
-speaker1: which was?
-speaker2: that i was going along with everything. i didn't know i could change it.
-speaker2: so now i'm changing it.
-speaker1: robbing the bank is changing it?
-speaker2: it already has.
-speaker1: what was your wife like?
-speaker2: nice.
-speaker2: are you sure you're okay with this? i know it's a lot.
-
-speaker1: thanks. thank you. looking forward. 
-speaker2: top of act three. twenty minutes. olga, cigarettes!
-
-speaker1: tracks! trolley tracks! 
-speaker2: there's still twenty feet to go.
-speaker2: we're going to need another pair of hands.
-
-speaker1: that's him. 
-speaker2: that's him?
-
-speaker1: thanks for meeting us. 
-speaker2: sure.
-speaker1: how's your pyramid scheme?
-speaker2: it wasn't a pyramid scheme.
-speaker1: okay.
-speaker2: it all fell apart.
-speaker2: we were banking on that money, henry. and now all i've got is a garage full of korean plastic.
-speaker3: what's he talking about?
-speaker1: kitchenware.
-speaker3: oh.
-speaker2: see what happens when a person tries to go `legit'?
-speaker2: it's killing me.
-speaker1: so how's debbie?
-speaker2: she's worried, henry. the baby's due in a couple months. he grabs a wing. rips off the meat.
-speaker1: she's pregnant?
-speaker2: yeah, she's pregnant.
-speaker4: henry takes it in.
-speaker1: congratulations.
-speaker2: thanks, henry.
-speaker2: it's okay if you want to punch me out. tonight would be a good night. in fact i could use it.
-speaker1: come on. this is great news. it's going to be okay.
-speaker2: really? it is? you know how much diapers cost? you know how much it costs to send a kid to college?
-speaker3: you want to send your baby to college?
-speaker2: of course not. i'm just saying. the kid needs stuff. stuff that's expensive.
-speaker2: these things are hot! i'm on fire.
-speaker1: listen, joe, maybe we can help.
-speaker2: how?
-speaker1: we might have a job for you.
-speaker2: no foolin'?
-
-speaker1: there's maybe twenty feet till the bottom of that vault. 
-speaker2: that's a lot of dirt, henry.
-speaker1: so what do you think?
-speaker2: i think we should get some guns and go get the money through the front door!
-speaker1: no guns. people could get hurt.
-speaker2: what about fake ones?
-speaker1: they're still guns.
-speaker3: listen joseph, guns are dangerous and we're not doing a simple hold-up. tellers and tears and chump change. we're doing an old fashioned heist. we're going right into the belly of the beast.
-speaker3: are you in or are you in?
-speaker2: i hope we don't get caught.
-
-speaker1: i hate that commercial. 
-speaker2: i like it.
-
-speaker1: so what's your plan? 
-speaker2: for what?
-speaker1: for when it's done. after. am i going to see your picture in the post office or something?
-speaker2: i hope not.
-speaker1: but have you thought about what happens after?
-speaker2: not really, no.
-speaker2: i don't know. maybe i could meet you out west...
-speaker1: out west?
-speaker2: yeah. maybe you could meet me there.
-speaker1: when did you think of that?
-speaker2: just now.
-speaker2: so what about it?
-speaker1: what about what?
-speaker2: meeting me --
-speaker1: -- i'm not going anywhere, henry --
-speaker2: you're not?
-speaker1: no.
-
-speaker1: plans change, henry. okay? 
-speaker1: i think i ran out of maple syrup.
-
-speaker1: is there a reason you didn't leave before? 
-speaker2: because life is it never works out the way you want it to.
-speaker1: yeah. well. maybe...
-speaker1: but you could still meet me.
-speaker2: right! on the lam? you're dreaming.
-speaker1: it was just an idea. why not --
-speaker2: this isn't going to work out, henry.
-speaker2: didn't we both know that?
-speaker1: i didn't.
-speaker2: i did.
-
-speaker1: it's going to be incredible. i'm talking, florida... 
-speaker1: palm trees. sandy beaches. all you can eat sunshine. grapefruits as big as your head!
-speaker2: why couldn't i have met her after?
-speaker1: who?
-speaker2: julie. i asked her to meet me. after we're done.
-speaker1: oh yeah? what'd she say?
-speaker2: she said no.
-speaker1: of course she said no.
-speaker2: why of course?
-speaker1: because life ain't like that. there's always a cost. that's why they call it life. you got to pay somewhere. the piper must be paid to pipe.
-
-speaker1: i paid already, max. 
-speaker1: i don't want to leave her. max looks at him. about to say something -- a knock at the door.
-speaker2: who's that?
-speaker1: i'll check.
-speaker1: who is it?
-speaker3: it's me. joe.
-speaker3: sorry, henry.
-speaker4: the same bank. henry. now that's poetry! i like it.
-speaker2: who is this guy?
-speaker4: your new partner.
-speaker2: what do you mean?
-speaker4: i'm in. or you're out.
-speaker3: i screwed up. sorry, max.
-speaker4: joe tells me you guys might need a little help with that vault. i know the whole story.
-speaker5: he sits.
-speaker4: and i don't dig. dig?
-speaker4: got any cold ones?
-speaker2: joe doesn't know what he's talking about. he's a drunk. he made a mistake. get out of that chair. eddie laughs. leans back on it.
-speaker4: relax, old man. henry and i go way back. we've known each other since high school, isn't that right?
-speaker1: yeah. i know you.
-speaker4: appreciate you keeping your mouth shut, henry. one thing i admire in a man is the quality of loyalty.
-speaker1: what do you want, eddie?
-speaker4: nothing. just the american dream.
-
-speaker1: i'm gonna kill him. with a knife. 
-speaker2: you can't kill him.
-speaker3: yeah. you can't kill him, max. he's got the vault --
-speaker1: shut up, joe.
-
-speaker1: deb says we can't have till the kid's born. says the kid'll know about it. 
-speaker2: go home. please. before it's too late.
-
-speaker1: i'm sorry to be blunt, but, for sake, the man has robbed you. 
-speaker2: no! no! no! don't say that!
-speaker1: he's a scoundrel: everybody knows it but you. he's a petty scoundrel, a user...
-speaker2: you are twenty six or twenty seven, and you're still in the lower grades!
-speaker1: who cares?
-speaker2: you ought to be grown up by now. at your age, you ought to understand about love --
-speaker3: where are you, djula? where?!
-speaker2: you ought to love someone yourself! you ought to have an affair. yes! yes!
-speaker3: yes. yes. good djula! scene.
-speaker3: carlotta and the girls.
-
-speaker1: let's run the magic scene! 
-speaker2: what happened last night?
-speaker3: i came to my senses.
-speaker3: and you should too.
-speaker2: we should talk about it.
-speaker3: i don't want to, henry.
-
-speaker1: what do you think guys? if it's a boy do i cut him or not? 
-speaker2: well, you know what they say, cleanliness is next to godliness.
-speaker1: what do you say, henry?
-
-speaker1: i see you guys in the bank. i see you guys in the alley next to the bank. 
-speaker2: now i see you coming out of the theatre behind the bank.
-speaker2: i know what you're up to gentlemen.
-speaker2: and i want in.
-speaker3: in on what?
-speaker2: we can't talk here. let's drive.
-
-speaker1: what's on your mind, frank? 
-speaker2: the i.c.r.e. indigenous currency retrieval and exchange.
-speaker2: once a month a truck goes to all our partner banks across the border in canada, picks up all the currency and brings it back home.
-
-speaker1: i'd say on average eight to twelve million, held in our vault at first buffalo for just a few hours before it's picked up for redistribution. 
-speaker1: only a bunch of fools would rob that bank any other time. a beat. he leans closer...
-speaker1: i can give you that date. i can help with alarms. i can be your guy on the inside.
-speaker2: hypothetically say you were right about what we're up to...which you're not. but just say...why would you help us rob your bank?
-speaker1: i got my reasons.
-speaker3: this sounds like a set-up, man -- frank grabs joe. glares into his eyes.
-speaker1: i don't around, kid. i told you. i got my reasons.
-speaker2: well, forgive us, frank. but we're going to need to hear them. a beat.
-speaker1: the wife got sick a few years ago. insurance wouldn't pick up all the costs. so i went to the bank. they wouldn't help cover the difference. we were going to retire to the loire valley.
-speaker1: we had to use all our savings to cover the bills.
-speaker3: the man gave it to you, huh.
-
-speaker1: i spent everything we had -- then she died...thirty years i've been at that bank. 
-speaker2: what was her name?
-speaker1: annie. her name was annie.
-speaker2: i'm sorry.
-speaker1: november 23rd. the money's delivered at eight and picked up at midnight.
-speaker1: i retire in two weeks. this is it.
-speaker1: you set up the table. i make sure dinner arrives hot.
-
-speaker1:  
-speaker1: opening night.
-speaker2: and?
-speaker1: that's soon.
-speaker2: we're going to have pull some nights.
-speaker1: maybe we should wait. do it closing night.
-speaker3: max turns.
-speaker2: we can't. he's retiring. this is a one time deal.
-speaker2: i told you there were going to be tests, henry. henry absorbs that. looks at max.
-speaker2: you're going to have to leave her.
-speaker2: no looking back.
-
-speaker1: you okay, henry? 
-speaker2: no.
-speaker2: i'm not leaving her.
-speaker3: who?
-speaker1: the girl -- he throws down his shovel.
-speaker1: now listen, henry. you're digging this tunnel. and you're gonna rob that bank. you're gonna take the money and you're gonna put it in the car and we're gonna drive away.
-speaker1: this is one thing. julie is another thing. this is not that. that is not this. understand?
-
-speaker1: hey! i think i got something... 
-speaker2: we have arrived! look at that.
-
-speaker1: not a cloud in the sky. 
-speaker2: so clear you can see tomorrow.
-speaker2: you're a good man, henry. thank you.
-speaker1: you too, max. let's go.
-
-speaker1: standing on opposite sides of the room. 
-speaker2: in this `american dream' of ours, everyone is happy and smiling, they have achieved their objectives...and yet in life there is only change, upheaval, the birth of the new...and that birth is painful.
-speaker2: our play is about misery, disconnection, a future that we don't see hitting us like a train...but tonight, my players, we show them...that this not a future to fear! he leaves. the players applaud --
-speaker3: off the cushion in the corner ; double into the centre pocket!
-
-speaker1: come in. 
-speaker2: i want you to meet me in california.
-speaker1: henry, we've been over this --
-speaker2: we're doing it tonight.
-speaker1: what?
-speaker2: it's the only time we can get in the
-
-speaker1: of course! opening night. what else? like i said, everything always up -- 
-speaker2: nothing's up. if it's tonight or a month from now, what's the difference? i still want you to meet me.
-speaker1: nothing's up? have you looked around recently? you're leaving. what about the play?
-speaker2: arnold's coming back. max arranged it already.
-speaker1: i'm sure he did.
-speaker2: i want us to be together.
-
-speaker1: we screwed a couple of times, henry! so what? 
-speaker2: you know that's not true --
-speaker1: no, really. a couple of times.
-speaker1: don't you get it? i don't want to be with you. that cuts him dead.
-speaker1: you're a thief. go rob your bank.
-speaker3: enjoy the show, folks!
-
-speaker1: on a headset. points to henry. 
-speaker1: curtain!
-
-speaker1: well, thank the train is in. what time is it? 
-speaker2: almost two. it's light already.
-speaker1: the train's late. at least two hours.
-speaker3: rounds a corner into view...
-
-speaker1: how you doin', frank? 
-speaker2: doin' good, bernie. real good.
-
-speaker1: my nursery, my dear, beautiful, sweet nursery! this is where i used to sleep when i was a little girl! 
-speaker1: i'm still like a little girl...
-speaker2: your train was two hours late. how do you explain that? is that good management?
-
-speaker1: i looked out from here into the garden. i woke up happy every morning. 
-speaker2: isn't she beautiful?
-speaker3: yes.
-speaker1: oh, my cherry orchard...
-
-speaker1: you ever think what you could do with all that money, frank? 
-speaker2: i know what you'd do. buy the bills and put them in first place.
-speaker1: you'd need a lot more money than that. but i guarantee you i'd have them back in the super bowl within two seasons.
-speaker2: perfect. another chance to lose.
-
-speaker1: i'm sure it wasn't in the least funny. i believe people like you should examine their own lives instead of going to the theatre to observe other peoples! 
-speaker2: true enough. to be honest. we live a stupid life.
-speaker3: well this is it, frank.
-speaker4: we got you something.
-speaker3: a little retirement gift.
-speaker3: go ahead. open it.
-speaker5: thanks guys.
-speaker4: we wanted to get you something from france.
-speaker3: you like french roast, right?
-speaker5: thanks.
-speaker5: you know this isn't from france.
-speaker4: what are you talking about? it's french roast.
-speaker5: right. but over there they call it coffee.
-speaker3: but this is french roast...
-
-speaker1: julie -- break a leg! 
-speaker2: play's already started, max.
-speaker2: good-bye confidence man.
-speaker1: good-bye, julie.
-
-speaker1: go! go! go! 
-speaker2: about time, old man.
-speaker1: do your job.
-speaker2: not again! what is it with you?
-speaker3: sorry.
-speaker4: eddie looks at him.
-speaker2: you're a pussy, joe, you know that?
-speaker5: well, what should we do? tell us what to do?
-speaker6: i tell you every day. every day i say the same thing over and over. you must rent out the cherry orchard and the rest of the estate for villas. at once, right this second, the auction is coming up very soon -- a muffled boom henry freezes. julie looks at him.
-speaker5: it's all so vulgar!
-
-speaker1: that was good, kid. good acting. 
-speaker2: there she is.
-speaker3: get out of there!
-speaker3: this comes straight from hell.
-
-speaker1: welcome to my world, 
-speaker2: yeah.
-
-speaker1: you're on, henry! 
-speaker2: is the cherry orchard sold?
-
-speaker1: who bought it? 
-speaker2: i did.
-speaker2: i bought it. wait a minute ; don't rush me. i'm all dizzy. i can't talk...
-
-speaker1: stuff duffel bags full of cash. 
-speaker2: deb's gonna freak.
-speaker3: ...and now the cherry orchard is mine.
-
-speaker1: finish lining up the duffels of cash by the door. 
-speaker2: that's everything.
-speaker3: yes, it is.
-speaker2: what's that, eddie?
-
-speaker1: it's a gun, max. 
-speaker1: joe! take the money out back to my car.
-speaker1: joe!
-speaker2: stay right where you are, joe.
-speaker1: don't be stupid, max.
-speaker2: you're not going to do this, eddie.
-speaker2: you can shoot me dead if you want, but you're going to have to shoot me dead.
-speaker1: i'm not playing with you, old man.
-speaker3: what are you doing, eddie?
-speaker1: welcome to the party, brando.
-speaker4: what are you doing, eddie?
-speaker1: it's money, henry. money.
-
-speaker1: this was your chance you you could've been a better man but you did it again. you messed up. and now you're back with the maggots. just one big missed opportunity. 
-speaker2: yeah. come on, eddie. we're here. we're done. he's right. come on, man.
-speaker3: shut up, joe. get the money. put it in the car. shut up.
-speaker3: now move, torne. no happy ending for you. he gestures to the tunnel.
-speaker3: you animal!
-
-speaker1: famach deh mohl! gey lig mitt'n vahntzin son of a henry, a little dazed, picks up the gun. 
-speaker2: get the extension chord.
-speaker3: you couldn't have done this without me.
-speaker1: our new partner. huh.
-
-speaker1: you ok? 
-speaker2: i got shot.
-speaker2: i gotta get on stage.
-
-speaker1: thank you, my friends, thank you. 
-speaker2: the peasants have come to say good-bye.
-speaker2: they're good fellows, yermolai aleksayovich but in my opinion a little stupid...
-speaker1: you gave them everything in your purse, lyuba. wrong, quite wrong!
-speaker3: i couldn't help it. i couldn't help it.
-speaker4: still a little out of
-speaker5: won't you please come here and drink a glass as a good-bye?
-
-speaker1: we're going and not a soul will be here until after we're gone. 
-speaker2: until spring.
-
-speaker1: where is he? 
-speaker2: any minute now.
-
-speaker1: goodbye, home! goodbye to the old life! 
-speaker2: hello to the new life!
-speaker3: until the spring, then. goodbye my friends, until we meet again!
-
-speaker1: my sister! my sister! 
-speaker2: oh, my dear, sweet, lovely orchard! my life, my youth, my happiness, farewell!
-speaker3: mamma!
-speaker4: aa-oo!
-speaker5: how's the leg?
-speaker6: it's fine. go.
-
-speaker1: one last look at these walls, these windows...dear mother used to love to walk about in this room. 
-speaker2: my sister! my sister!
-speaker3: mamma!
-
-speaker1: aa-oo! 
-speaker2: we're coming.
-
-speaker1: stop the car! 
-speaker2: henry!
-speaker1: joe, stop the car.
-speaker2: he can't stop the car, it's the getaway!
-speaker3: yeah, you can't --
-
-speaker1: what the are you doing? 
-speaker1: henry!
-
-speaker1: coming down the aisle is henry as lophakin pause. 
-speaker2: i had to come back. i couldn't get on the train. the moment i stepped on the platform, the blood drained from my heart. on julie, in shock.
-speaker2: i knew i might never see you again.
-
-speaker1: i had to come back. 
-speaker2: henry, what is this? what are you doing?
-speaker1: this is the only way you'll listen to me.
-speaker2: you should have gotten on that stupid train. you made a mistake.
-speaker1: the mistake would have been getting on that train without telling you how i feel.
-speaker2: ha! don't pretend you care about me. all you care about is money.
-speaker3: she tries to get past him. he blocks her.
-speaker1: you think this is about money?
-speaker2: yes.
-speaker4: it's never been about money. you know that.
-speaker2: let go of me!
-speaker1: no.
-speaker2: it! just leave, henry! get off the stage --
-speaker4: take a chance. meet me in moscow.
-speaker2: no, i'm perfectly happy here.
-speaker4: that's not true. meet me in moscow.
-speaker2: let me go!
-speaker4: i can't.
-speaker2: why are you doing this?
-speaker1: you're just afraid.
-speaker2: i'm not afraid of anything -- she kicks out at him.
-speaker2: what am i afraid of henry? tell me!
-
-speaker1: you're afraid because i love you. 
-speaker2: on the side of the stage.
-
-speaker1: ...what? 
-speaker2: meet me in moscow.
-speaker2: tell me you'll meet me in moscow.
-speaker3: go with him!
-speaker4: meet him in moscow!
-speaker5: at the back of the theatre. stunned :
-speaker5: he loves her.
-speaker6: she whispers softly. looks down at his leg.
-speaker7: henry. you're bleeding.
-speaker2: i know.
-
-speaker1: lights down ten. down ten more. slowly... 
-speaker2: oh, henry...
-
-speaker1: it's a girl!!! 
-speaker2: a girl.
-
-speaker1: time is a medium of exchange. you can buy things with it. education. self-respect. you can even figure out your dream. 
-speaker1: you're done. next!
-speaker1: so tell me, javier. what's your dream?
-speaker2: fade up on : what looks like the african bush.
-speaker3: sitting right below the hollywood sign now...
-
-speaker1: look. you can see the ocean. 
-speaker2: `your brother says i'm an upstart, a money grubber...but i don't care a bit.'
-
-speaker1: i'm only going to ask you one more time, eddie. who was it? who helped you? 
-speaker2: i told you before. dopey. sleepy. happy and doc --
-speaker1: you know what you are vibes? a liar, a cheat, a thief and a loser.
+HENRY: smells good. 
+DEBBIE: sit down.
+HENRY: wow. thanks.
+DEBBIE: how was your night?
+HENRY: good. how was yours?
+DEBBIE: good.
+HENRY: this is great.
+HENRY: your shift's at eight thirty?
+HENRY: you not eating?
+DEBBIE: i already did.
+HENRY: you okay?
+3.: pause.
+DEBBIE: are you coming with me to cindy and bill's on saturday?
+HENRY: sure. what time?
+DEBBIE: for the baby shower.
+HENRY: right.
+DEBBIE: well, i don't want to go to cindy and bill's.
+HENRY: what?
+DEBBIE: i mean i want cindy and bill to come here.
+HENRY: cindy and bill are welcome here anytime. pause.
+DEBBIE: henry. isn't it time...isn't it time for us? henry stops eating.
+HENRY: you're talking about kids.
+DEBBIE: of course i am.
+HENRY: okay.
+DEBBIE: 'okay' you want kids?
+HENRY: i love kids.
+
+DEBBIE: henry? 
+DEBBIE: do you still love me?
+HENRY: of course i do.
+DEBBIE: because i know you did once.
+DEBBIE: what happened, henry?
+THE FRONT DOORBELL RINGS: henry gets up, heads to the door.
+
+EDDIE: henry torne. 
+HENRY: eddie vibes.
+EDDIE: so how you doin', man?
+HENRY: i'm okay. what's going on?
+EDDIE: listen, i got a man down here.
+5.: eddie glances up and down the street.
+EDDIE: mind if we come in for a second?
+
+DEBBIE: he's hot. 
+JOE: i'm sorry.
+DEBBIE: you better come with me.
+EDDIE: sausage at pinwheels.
+HENRY: yeah.
+EDDIE: so we're in a little bind, henry. got league playoffs in a half-hour and joe's our first baseman. and he's not exactly game-ready as you can see...
+HENRY: yeah.
+EDDIE: so, what do you say?
+HENRY: what do i say what?
+EDDIE: you feel like playing a little ball?
+HENRY: it's november.
+
+EDDIE: yeah. they keep the field in perfect shape. 
+HENRY: oh.
+EDDIE: so what do you say?
+EDDIE: henry?
+
+EDDIE: appreciate you driving, man. 
+HENRY: so where's this game?
+EDDIE: near kaisertown. like fifteen minutes.
+
+EDDIE: pull up right over here. we gotta grab some beer money at that atm. 
+BUFFALO BANK.: eddie pats henry's shoulder.
+EDDIE: just hang tight. we'll be right back.
+
+FRANK: you! 
+A GUN: is pointing at him through the windshield.
+FRANK: freeze!
+
+DETECTIVE: henry, we know this wasn't your deal. 
+8.: henry just listens.
+DETECTIVE: all you have to do is give me those names. and you can go home. it's that simple.
+DETECTIVE: come on. why are you sticking up for these people? they're not your friends. you've got a wife. you've got a job...
+DETECTIVE: all you have to do is say something.
+JUDGE: ...in light of the fact that this is a first offence...
+
+MAX: so. what're you in for? 
+9.: henry turns.
+HENRY: huh.
+MAX: i said what are you in for?
+HENRY: bank robbery.
+MAX: good. clean. simple. i like it.
+HENRY: but i didn't do it.
+MAX: ah. mistaken identity. a perennial favorite. identities are just constructs, anyway. they're mistaken all the time.
+MAX: i'm max.
+HENRY: henry.
+MAX: go on. make yourself at home.
+HENRY: so...what are you in for?
+MAX: life.
+MAX: don't worry, you'll get used to it.
+
+MAX: hurry up. we gotta go. 
+MAX: breakfast.
+
+MAX: `monday is whole wheat bun-day.' henry's lost in thought... 
+MAX: what are you thinking about?
+HENRY: nothing.
+MAX: you're thinking something. let me guess. you're thinking, `how did i get here?' henry puts out his tray.
+MAX: how do you think any of us got here?
+HENRY: i'm not sure.
+MAX: i'll tell you how. because we committed crimes. but we committed to the wrong thing. you see that was our mistake. we didn't fulfill our potential, we got angry and we took it out on other people.
+MAX: see him?
+11.: henry nods.
+MAX: hector. he wanted to be a doctor. he could've been, but he chose not to fulfil his potential, he chose not to commit to his dream. and now look at him.
+MAX: bad choices, see.
+MAX: by the way, i recommend the potatoes.
+
+MAX: that's the real crime, henry. not committing to your dream. 
+MAX: so what's yours?
+HENRY: my what?
+MAX: your dream.
+HENRY: not sure i ever had one.
+MAX: never had a dream? what kind of a life is that?
+HENRY: i don't know. a pretty good one?
+MAX: henry, you're in jail.
+
+MAX: knowledge. self respect. forgiveness. and in your case, you can figure out what your dream is. max takes his arm : 
+MAX: your dream is your truth is your destiny. henry looks at him.
+HENRY: i told you. i'm here by mistake.
+MAX: there are no mistakes.
+HENRY: what?
+MAX: but you're going to have to fight for that dream, henry.
+HENRY: i am.
+MAX: you're at a crossroads now. there are going to be tests!
+HENRY: what tests?
+
+MAX: you did good, henry. 
+HENRY: i don't feel good.
+MAX: you're doing better than you feel.
+MAX: go to sleep, henry.
+MAX: sleep is for the blessed.
+
+DEBBIE: hi. 
+HENRY: hi. you look beautiful.
+DEBBIE: thank you. how are you doing?
+HENRY: i'm okay. how about you?
+DEBBIE: i'm good.
+DEBBIE: listen, henry. i have something i need to talk to you about.
+
+HENRY: okay. 
+DEBBIE: i fell in love.
+HENRY: oh.
+DEBBIE: i just...i mean it just happened.
+HENRY: okay. wow...
+DEBBIE: i'm sorry, henry.
+HENRY: it's alright.
+DEBBIE: you're not mad?
+HENRY: no.
+HENRY: i want you to be happy.
+DEBBIE: you too, henry.
+
+MAX: i mean nearly. i had a lovely correspondence going with jocelyn steinberg in utica. problem was when she finally came on visitor's day she said i was too short. 
+HENRY: books and covers.
+MAX: right. books and covers.
+
+MAX: clean as a whistle. 
+FINK: max, i think you missed your calling.
+MAX: thank you.
+MAX: who do we got next, henry?
+HENRY: hector. you're up.
+HECTOR: hey, max. when are you up for parole?
+
+MAX: october. 
+HECTOR: show us what you did for the board last time.
+MAX: i'm working.
+OTHER INMATES: show us!
+MAX: leave me alone.
+INMATES: come on! show us.
+MAX: all right, so i'm sitting there, and the head of the board asks me what i'm going to do if they let me out this time. and, so...
+MAX: i get this twitch! and then i give him my answer: "i'm gonna break in your house, set your dog on fire, eat all your food, go on a naked rampage through your garden, dance in the streets of your l'il hometown like a crazed harpee, hurl myself headlong flaming through the ethereal sky like blackest angel and explode like a heavenly fireball!
+MAX: oh, yeah. you don't want me. you don't want this. not out there.
+MAX: believe me, i'm not going anywhere.
+
+HECTOR: hey, white shadow. when's your review coming up? 
+HENRY: next month.
+HECTOR: you gonna do the twitch like your cellie?
+HENRY: nope.
+HECTOR: what, you don't like it around here?
+MAX: everyone knows henry's innocent.
+HECTOR: the board don't like it when you deny the crime.
+HENRY: i didn't do the crime.
+HECTOR: hey, but you got the time...so you may as well have done it. everyone laughs.
+MAX: i like it! `you got the time, so you may as well have done the crime!' everyone laughs again.
+MAX: now that's funny, henry.
+HENRY: yeah, you're right.
+
+MAX: i'm living it. 
+HENRY: really?
+MAX: sure! it's easier to live in here. you don't have to do anything. you just show up. in fact they even do that for you.
+HENRY: this place is horrible, max.
+MAX: so why didn't you just say something?
+HENRY: when?
+MAX: back then. when you had the chance. when you were still innocent.
+HENRY: i thought maybe this was my way out.
+MAX: and was it?
+HENRY: yeah.
+MAX: see. there are no mistakes.
+
+MAX: you got everything, kid? 
+HENRY: yeah.
+
+HENRY: maybe you should think about getting out of here sometime. i'll buy you a cup of coffee on the outside. 
+MAX: the only thing i've ever missed in twenty three years is a hot bath. and that ain't worth walking out of here for. the cell door slides open.
+PRISON GUARD: torne! let's go!
+MAX: don't forget. your dream is your myth is your truth. pause.
+HENRY: i thought it was my dream is my truth is my destiny.
+MAX: just testing.
+HENRY: i'm going to miss you.
+MAX: yeah, well. i hope i never see you again. henry smiles.
+HENRY: i'm still gonna miss you.
+MAX: get out of here, henry.
+
+JOE: henry. how you doing? 
+HENRY: hey.
+JOE: debbie! henry's here.
+HENRY: thanks.
+
+JOE: don't mind me. i'm just getting set up for my meeting. you want a beer? 
+HENRY: sure.
+JOE: honey, do mind getting henry a beer?
+
+DEBBIE: hi. 
+HENRY: hi.
+
+DEBBIE: i think that's everything you wanted. 
+HENRY: thanks.
+HENRY: are you happy?
+DEBBIE: i am, henry.
+HENRY: i'm glad. he means it.
+DEBBIE: so what are you going to do now?
+HENRY: i don't know yet.
+JOE: honey, they're starting to arrive.
+DEBBIE: we're having a meeting. it's his new business.
+
+JOE: hey, maybe you'd be interested, henry. you could become a distributor for jin chi. 
+JOE: it's korean kitchenware. the future of food storage. plus, if you recruit distributors, you get paid even more.
+HENRY: you mean like a pyramid scheme?
+JOE: no! no. it's a multi-layered marketing paradigm.
+JOE: anyway, why don't you give it some thought?
+JOE: henry.
+HENRY: yeah?
+JOE: listen, i just wanted to thank you. for not giving up my name.
+HENRY: i don't know your name.
+JOE: sure you do. it's joe.
+HENRY: right. you're welcome joe.
+HENRY: i'll see you deb.
+DEBBIE: take care of yourself, henry.
+
+NEIGHBOR: henry! how are you? 
+HENRY: i'm good. how are you?
+NEIGHBOR: great. how was greece?
+HENRY: greece?
+NEIGHBOR: debbie told us all about your trip.
+HENRY: i was in prison.
+NEIGHBOR: in greece?
+
+PAROLE OFFICER: is it okay? 
+HENRY: good. thank you.
+PAROLE OFFICER: so what do you think?
+HENRY: about what?
+PAROLE OFFICER: about building your life from the ground up.
+HENRY: sure. sounds good.
+
+HENRY: thanks. 
+FEMALE PAROLE OFFICER: seems like yesterday you walked through that door.
+HENRY: it does?
+FEMALE PAROLE OFFICER: henry, you've done your time. you are now a free free man.
+FEMALE PAROLE OFFICER: how does it feel?
+HENRY: good.
+26.: she signs a document and hands it to him.
+FEMALE PAROLE OFFICER: so, what's next? henry doesn't answer.
+
+JULIE: what are you doing? what the are you doing? are you okay? stan. i gotta call you back! i just ran someone over. no, he looks okay. 
+27.: she hangs up.
+JULIE: you you weren't even looking where you were going! are you okay? henry's a little delirious.
+HENRY: i think i'm okay.
+JULIE: no. stay on the ground.
+FRANK: is he alright? don't get up. i'll call an ambulance.
+HENRY: no, don't. i think i'm okay.
+FRANK: you!
+HENRY: yeah. me.
+JULIE: is he alright?
+FRANK: are you alright?
+HENRY: yeah. fine.
+JULIE: he just walked right out into the street. he came out of nowhere.
+FRANK: i saw the whole thing. you were on the phone. you weren't even paying attention.
+JULIE: yes. i was. i know how to drive.
+
+JULIE: what are you doing? get back on the ground! 
+FRANK: park your car. i'm going to take him into that cafe.
+FRANK: they let you out, huh.
+HENRY: yeah.
+FRANK: let's get you a seat in here.
+
+FRANK: pierre! une verre d'eau. 
+HENRY: thanks.
+JULIE: did you call an ambulance? i'm calling an ambulance.
+HENRY: it's okay. i really am fine.
+FRANK: yeah. he's alright for a guy who just got run over. lucky i guess. frank leaves.
+JULIE: i think we should call a doctor. henry just stares at her. for a long moment.
+JULIE: what? are you okay?
+
+JULIE: hello, guy? are you okay? do you need a doctor? 
+HENRY: no. you look familiar.
+JULIE: what?
+JULIE: oh. that.
+HENRY: what?
+
+HENRY: oh, that's why. 
+JULIE: well, i guess you seem to be okay.
+HENRY: yeah. i'm okay.
+JULIE: okay. so you're okay?
+HENRY: yeah.
+JULIE: great.
+JULIE: so i can go now?
+HENRY: sure.
+JULIE: bye.
+JULIE: and be more careful.
+HENRY: thanks.
+30.: she leaves. he watches her go.
+WAITRESS: anything else i can get you?
+HENRY: a bathroom?
+
+MAX: emerges with a guard. 
+MAX: i thought i told you i didn't want to see your face again. henry smiles.
+HENRY: nice to see you too.
+GUARD: no contact.
+HENRY: i figured it out.
+MAX: what?
+HENRY: my destiny.
+MAX: good. what is it?
+HENRY: the bank.
+MAX: the bank is your destiny?
+
+HENRY: yeah. 
+MAX: what bank?
+HENRY: the one i didn't rob.
+MAX: but you went to jail for it.
+HENRY: exactly.
+MAX: what are you talking about henry?
+HENRY: i did the time, i may as well have done the crime.
+MAX: ah, that. time. crime. right.
+MAX: i still don't get it.
+HENRY: i need your help.
+MAX: what for?
+HENRY: to rob the bank.
+HENRY: so what do you say?
+MAX: i'm in jail. that's what i say.
+HENRY: you've got your review coming up --
+MAX: -- so?
+HENRY: so you can get of here. if you want to.
+
+MAX: no. it's not as simple as that. 
+HENRY: yes, it is.
+MAX: no, it's not.
+HENRY: yes. it is.
+MAX: no, it's not.
+
+MAX: i'm happy here. this is my home. 
+HENRY: this is not a home. this is a prison.
+MAX: whatever you want to call it, i'm happy here.
+HENRY: max. you can't die in this place.
+MAX: i can die wherever i want.
+HENRY: you really want to die here?
+MAX: what do you want, henry?
+HENRY: i'm asking for your help.
+MAX: to rob that bank?!
+HENRY: i've thought about it. it's the right thing.
+HENRY: for both of us.
+MAX: henry. i got cards.
+
+MAX: great to see you, kid. 
+HENRY: max!
+
+JULIE: i think i must be dreaming. knows i love my country. i love it deeply. i couldn't see out the train window i was crying so much. 
+JULIE: but...i must drink my coffee...thank you firs, thank you, you dear old man. i'm so glad to find you still alive.
+
+DAREK: stop! stop! 
+DAREK: too small, too safe! stop showing me your `safe face' --
+ARNOLD: -- but i was --
+DAREK: not you. you're doing the best you can. you.
+DAREK: what are you doing?
+JULIE: i'm...listening.
+
+DAREK: listening? you look like you're hearing. to hear is to be weak. to listen is to be strong. to listen is an action. 
+DAREK: what is that?
+JULIE: an action. i'm listening. is this what you mean, darek? is this what you want?
+DAREK: no, djula.
+JULIE: then what do you want?
+DAREK: i want you to be more. i want you to be better than that.
+DAREK: now go drink coffee. and don't think about what i want, think about what you want!
+JULIE: fine. i'll go drink coffee.
+DAREK: i'll go drink coffee too! let's all `go drink coffee'.
+DAREK: ten minutes everyone!
+
+JULIE: are you here to sue me? 
+HENRY: no.
+JULIE: then what are you doing here?
+HENRY: i saw your picture outside. the door was open. i came in. she exits.
+
+HENRY: is it always like that? 
+JULIE: what?
+HENRY: gesturing back to the
+THEATRE): that.
+JULIE: you mean rehearsal?
+HENRY: yeah.
+JULIE: it's a process.
+HENRY: looks complicated.
+JULIE: it's all pain.
+JULIE: chekhov, right?
+HENRY: i thought you were listening.
+HENRY: i'm henry by the way.
+
+JULIE: julie. 
+PIERRE: madame julie!
+JULIE: coffee, pierre.
+JULIE: you want one?
+HENRY: sure.
+
+JULIE: two. 
+JULIE: what?
+JULIE: so what do you think?
+HENRY: doesn't look like you.
+JULIE: no, i meant the poster.
+HENRY: oh. it's funny.
+JULIE: actors on a tree is funny?
+HENRY: yeah.
+
+JULIE: that's the director's joke. 
+JULIE: he's making a comment on the american culture. actors faces as falling fruit. birth, death, the consumption of the id.
+JULIE: to him, the american dream has become the world's nightmare. "you are the country of apocalypse."
+JULIE: that's what he told us on the first day of rehearsal, anyway.
+HENRY: oh.
+JULIE: the irony is, he loves the american dream. i mean that's why he's here, right?
+JULIE: but i know for a fact he hates himself for loving it. it's always an inside job, isn't it?
+HENRY: yeah. i guess.
+JULIE: but the truth is i wasn't listening. i was playing it safe.
+JULIE: he was right. the jerk. about that, anyway...
+JULIE: you know the cherry orchard was chekhov's last play. he was dying when he wrote it. she thinks. he listens.
+JULIE: it's perfect.
+HENRY: why?
+
+JULIE (CONT'D: it's my last play too. here in buffalo. 
+HENRY: you're leaving?
+JULIE: right after we're done.
+JULIE: i'm glad you came by. thanks for not suing me. i'll see ya. she leaves.
+
+MAX: right. 
+ANOTHER CONVICT: give `em hell!
+MAX: i always do, felipe!
+GUARD: morning, max. here we are again.
+MAX: how's your grandson?
+GUARD: just started first grade.
+MAX: that's great. the socialization begins!
+
+GUARD: how many more of these you think you got in you, max? pause. 
+MAX: as many as it takes.
+
+HEAD PAROLE REVIEWER: good afternoon, mr. saltzman. take a seat. 
+HEAD PAROLE REVIEWER: mr. saltzman. could you please tell the board why you believe we should grant you parole?
+
+HEAD PAROLE REVIEWER: mr. saltzman? 
+MAX: well...
+
+42.: max looks a little less sure of himself. 
+HENRY: appears. smiling.
+HENRY: i knew you could do it.
+MAX: where's the car?
+HENRY: i don't have a car.
+MAX: you don't have a car? what's wrong with you? you came to pick me up without a car. that's not picking a person up.
+HENRY: yes, it is. i'm here. i'm picking you up.
+MAX: i don't know about this. maybe this is a mistake.
+MAX: dave! carl!
+HENRY: max, it's okay. you're free.
+MAX: open up! dave! no response.
+HENRY: come on, max.
+MAX: i don't like this.
+HENRY: take it easy. there's nothing to be frightened of. i promise. you're okay. the bus station's just a short walk.
+
+MAX: i can't breathe. i -- can't breathe... 
+HENRY: you're going to be alright.
+MAX: i'm going to die right here. i told you!
+HENRY: come on, max, we're going to miss that bus. henry helps max back up again.
+
+HENRY: you hungry? 
+HENRY: it's pastrami. on rye.
+
+HENRY: here we are. 
+HENRY: that one's yours.
+
+MAX: thanks. 
+HENRY: anything else you need?
+MAX: yeah.
+
+MAX: what is this obsession with coffee, henry? when did that happen? 
+HENRY: i'm not sure, max. but it seems to give people a lot of purpose.
+
+HENRY: it's a start. 
+MAX: a start? this was your plan? an old cartoon in a pissoir?
+HENRY: it's an article.
+MAX: whatever, henry. why don't we just go in with guns and do it the old-fashioned way?
+HENRY: no. no guns.
+MAX: what?
+HENRY: someone could get hurt.
+MAX: that's sweet, kid.
+HENRY: maybe it's still there, max.
+MAX: uh-huh.
+HENRY: maybe it is.
+MAX: right. okay. yes. first things first. why don't we go take a look at this bank of yours?
+MAX: at least we know that's still there.
+
+MAX: what kind do you have? 
+MR. TUTTLE: savings. interest only. commercial --
+MAX: you know my uncle put all his money in that vault when i was a kid, after we came from europe, before the war...the brownshirts. he said that vault will be there for three hundred years!
+MR. TUTTLE: we hope he's right!
+MAX: he was never wrong. how long's it been there already mr. tuttle?
+MR. TUTTLE: since 1891.
+MAX: and in the very same spot, correct?
+MR. TUTTLE: that's right. on the very same spot.
+
+MR. TUTTLE: now. as i was saying. we have savings. 
+MAX: you'll have to give us some time to think about which one. max gets up.
+MAX: thank you. you've been very helpful.
+MR. TUTTLE: no. thank you.
+FRANK: have a nice day, gentlemen.
+
+HENRY: the vault is here. 
+HENRY: the tunnel runs under here...
+HENRY: and ends up somewhere in there.
+MAX: it's virtually robbing itself!
+JULIE: jesus...goddamn! czech chekhov
+48.: she storms out, punches the air, screams :
+
+HENRY: hi. 
+JULIE: henry?
+HENRY: julie, max. max, julie.
+MAX: hiya.
+JULIE: what are you doing here?
+HENRY: oh, we were, you know --
+MAX: i was just showing henry the place i used to perform. henry shoots max a look.
+JULIE: oh. what?
+SIMON: that's lunch, julie.
+JULIE: thank
+MAX: chekov's tough stuff. it takes a steel stomach.
+JULIE: you know chekhov?
+MAX: of course. apart from gorbachev he's my favorite russian.
+
+MAX: would you mind if we took a look around? it's been over thirty years since i've been inside. she considers the request. 
+JULIE: sure.
+JULIE: sure. yeah. come on in.
+MAX: thank you.
+HENRY: how you doing?
+JULIE: great. i'm in hell.
+
+MAX: home again. 
+JULIE: so what productions were you in?
+MAX: oh. shakespeare, ibsen, mahoney, the greats.
+MAX: and the not-so-greats!
+SIMON: mary wants to fit your wig at four. darek says to stay hungry.
+JULIE: him.
+SIMON: got it.
+
+MAX: would it be a tremendous imposition to have a little tour for old time's sake? 
+JULIE: he used to perform here.
+SIMON: i don't see why not. we're on a break.
+MAX: that okay, henry?
+HENRY: sure. go ahead.
+JULIE: is that your dad?
+HENRY: no. he's a friend.
+JULIE: he seems like your dad.
+HENRY: it's peaceful out here.
+HENRY: is it fun?
+JULIE: what?
+HENRY: pretending to be other people.
+JULIE: it's not really like that. i don't pretend to be someone else. i find some part of me, and reveal it in a new way...just inside of a character.
+HENRY: so, in a way, you're still playing `you'.
+JULIE: yes. exactly. in a way.
+
+HENRY: so what part of `you' are you playing now? 
+JULIE: that's the question you always have to ask yourself.
+
+ARNOLD: people often make the mistake in chekhov of going down...but you must always always go up... other actors look at him with blank faces. 
+MAX: simon, did you know there used to be a speakeasy down here during prohibition days?
+SIMON: yes. and they hid the booze in the bank!
+MAX: i know.
+SIMON: and there was a tunnel too!
+MAX: i know!
+MAX: i forget. where was it?
+
+JULIE: so what's your story, henry? 
+HENRY: my story?
+JULIE: i mean, like...what do you do?
+HENRY: i'm figuring that out.
+JULIE: does that mean you don't have a job?
+HENRY: i just got out of jail.
+JULIE: jail!
+HENRY: sounds worse than it is.
+JULIE: really? jail sounds bad.
+JULIE: why were you in there?
+JULIE: are you a murderer or something?
+HENRY: no. do i look like one?
+JULIE: no.
+
+HENRY: what do i look like? 
+JULIE: i don't know. a criminal.
+HENRY: i do?
+JULIE: yeah.
+
+SIMON: it was right here. 
+MAX: booze, broads and lucre. the good old days. i like it.
+SIMON: they filled it in, in 1931 when they built the theatre.
+SIMON: times have changed.
+
+MAX: all good things must come to... ...an end. 
+MAX: do you need volunteers?
+
+HENRY: the cherry orchard. so what happens? what's it about? is it funny? 
+JULIE: a woman returns to her family estate in the russian countryside and realizes she has no choice but to sell her beloved cherry orchard, the magical place of her youth, the only place she ever felt safe.
+HENRY: i guess it's not funny.
+JULIE: it's about being forced to let go of the past and create a new life in order to survive. max's voice booms :
+MAX: that was great! this place is full of treasures.
+MAX: thank you, julie. and thank you, simon.
+JULIE: tomorrow?
+SIMON: max has very kindly offered to volunteer at the theatre!
+
+JULIE: oh. 
+MAX: henry, let's get out of these people's way! henry turns to julie.
+HENRY: what are you doing after rehearsal?
+JULIE: why?
+HENRY: do you like chinese?
+JULIE: yeah.
+HENRY: golden dragon?
+JULIE: it's okay.
+HENRY: eight o'clock?
+
+JULIE: sure. 
+DAREK: work. work! it's time to work americans!
+DAREK: even you djula...
+MAX: let's go.
+HENRY: see you, julie.
+JULIE: stay out of jail.
+
+MAX: you were right, henry. you got a nose like a bloodhound! 
+HENRY: you found it?
+MAX: yeah. right there. in lophakin's dressing room.
+HENRY: who?
+MAX: lophakin. we find a way to get into his dressing room and we're right as rain!
+
+MAX: i can see it, henry. it's all in front of me. the vault. the bank. the tunnel. the pieces of the puzzle are on the table. all we got to do is put them in the right order! 
+MAX: the only thing is the dirt...where does the dirt from the tunnel go?
+HENRY: what about the vault?
+MAX: first things first. i'm on the dirt.
+HENRY: okay. how do i look?
+MAX: like henry.
+MAX: we had a good day, kid. it's good to be back in the soup.
+
+MAX: he starts to take off his 
+CLOTHES): go have a nice supper.
+
+JULIE: sorry i'm late. i'm starving. 
+GUY: julie.
+JULIE: bruce.
+JULIE: that guy's a total hi, henry.
+HENRY: hi. how was rehearsal?
+JULIE: i feel like duck.
+
+PLATES ARE CLEARED: it's the end of the meal. henry listens. 
+JULIE: i don't just want to be good, i want to be great. and i don't just want to be great in buffalo.
+HENRY: where then?
+JULIE: don't laugh.
+JULIE: hollywood.
+58.: he doesn't.
+HENRY: i guess that's where people go.
+JULIE: i don't want my legacy to be a buffalotto commercial. and it's not going to be. soon as this thing is done i'm out of here.
+JULIE: before it's too late.
+HENRY: sounds like a plan.
+JULIE: i hate fortune cookies.
+
+HENRY: we going anywhere in particular? 
+JULIE: want some?
+
+JULIE: you know there's a whole bunch of bodies down there churning around. just caught in the current. 
+JULIE: they all took the risk and look what happened to them. same in death as they were in life. imagine that. you kill yourself and nothing changes.
+59.: they both stare down into the roaring water.
+JULIE: all those dreams churning around down there. it makes you sick.
+JULIE: i got to get out of here.
+HENRY: i get it.
+JULIE: so what did you do before jail, henry?
+HENRY: i worked at a toll booth.
+JULIE: which one?
+HENRY: rainbow bridge.
+JULIE: no!
+HENRY: yes.
+JULIE: i had family that used to live on the other side. i took that bridge all the time. we must of met a hundred times!
+JULIE: wow. so you were one of the guys in the tollbooth with those weird rubber gloves?
+HENRY: yeah.
+HENRY: what's so funny?
+JULIE: you were watching everyone go somewhere and you were going nowhere.
+HENRY: that's funny?
+JULIE: yeah. funny sad, not funny funny.
+
+HENRY: i worked nights. it gave me time to think. 
+JULIE: about what?
+HENRY: about where i wasn't going.
+JULIE: see, that's funny.
+JULIE: what about now? where you going now?
+HENRY: i'm working on it.
+JULIE: what'd they send you to jail for henry?
+HENRY: for trying to rob the first buffalo bank.
+JULIE: what!
+HENRY: i thought i was on my way to a softball game. it was a mistake.
+JULIE: sounds like it.
+HENRY: but now i'm going to rob it for real.
+JULIE: you're going to rob the bank you already went to jail for robbing?
+HENRY: yeah.
+JULIE: ha!
+HENRY: there's a tunnel.
+JULIE: what tunnel?
+HENRY: runs from the bank to the theatre.
+
+JULIE: my theatre? 
+HENRY: yeah.
+JULIE: ha!
+JULIE: you're hilarious, henry.
+
+JULIE: you know what? 
+HENRY: what?
+JULIE: i'm hungry.
+HENRY: what for?
+JULIE: ice cream.
+
+JULIE: i can't believe i'm sitting here. 
+HENRY: neither can i.
+JULIE: i want to dance and clap my hands.
+
+JULIE: i think i must be dreaming! 
+JULIE: knows i love my country. i love it deeply.
+JULIE: i couldn't see out the train window i was crying so much. henry's not sure what she's talking about.
+JULIE: page twenty one.
+JULIE: i couldn't see out the train window i was crying so much. but i must drink my coffee.
+JULIE: read lophakin.
+HENRY: `i have to go to kharkov on the five o'clock train. such a bother, i wanted to stay and look at you and talk to you.
+HENRY: you're as wonderful as ever....' he stops, looks at her :
+JULIE: read the next line!
+HENRY: `even more beautiful, and dressed like a parisian...you could blow me down.'
+JULIE: say it like you feel it. like it's real. say it to me. henry takes a beat. this time he makes it his.
+
+`HENRY: even more beautiful, and dressed like a parisian...you could blow me down.' she laughs like a little girl. 
+JULIE: you're good. keep reading! and get up.
+HENRY: `your brother says i'm an upstart, a money-grubber.'
+JULIE: yes, you are. you're a bank robber, henry!
+HENRY: `i don't care a bit. i just want you to believe in me like the old days!'
+JULIE: don't stop --
+HENRY: `i just want your wonderful tender eyes to look at me like they did then.'
+JULIE: again!
+HENRY: `i just want your wonderful tender eyes to look at me like they did then.' she laughs some more. comes closer.
+JULIE: i'm glad i ran you over.
+HENRY: me too.
+
+JULIE: good morning. 
+HENRY: good morning.
+HENRY: good morning.
+
+MAX: henry! 
+HENRY: max.
+MAX: i figured it out! once we're in that dressing room the dirt from the tunnel goes out through the roof!
+
+MAX: rushing out into the front 
+ROOM): that bank doesn't stand a chance.
+MAX: ah. company.
+JULIE: good morning, max.
+65.: max is frozen.
+HENRY: it's alright. she knows.
+MAX: she does?
+JULIE: i didn't know the dirt from the tunnel goes out through the roof.
+HENRY: we brought breakfast. how do you like your eggs?
+JULIE: it's okay. i'm not going to tell anyone.
+MAX: hold on.
+MAX: you told her?
+MAX: about what we're doing?
+HENRY: yeah. i did.
+MAX: it's a crime. you're supposed to keep crimes a secret.
+HENRY: it's okay, max.
+MAX: no. it's not kosher.
+HENRY: how do you like your bacon?
+
+MAX: crispy. 
+MAX: okay. i'll get dressed.
+JULIE: so what were you in prison for, max?
+MAX: i'm a confidence man.
+JULIE: you mean a `con' man?
+MAX: i never liked that word. it's only half of what it is. the word confidence comes from the latin. fides. with faith.
+MAX: that's what i'm about.
+JULIE: you mean you make people feel good...and then you rip them off?
+MAX: yes.
+MAX: but i was always much better at the feeling good part than the ripping off part.
+MAX: hence, the prison.
+JULIE: aren't you guys worried about getting caught?
+
+MAX: not really. for me it's a win-win situation. 
+JULIE: how?
+MAX: i like jail. three hots and a cot.
+JULIE: you too, henry? you like jail?
+HENRY: no. i like it out here.
+JULIE: so why would you take the risk? is it the money?
+JULIE: it must be the money.
+JULIE: you are a criminal. a greedy little criminal.
+HENRY: `your brother leonid says i'm an upstart, a money grubber...
+HENRY: ...but i don't care a bit'.
+HENRY: `i just want you to believe in me like the old days.'
+JULIE: you remember!
+MAX: what is that?
+JULIE: it's chekhov!
+MAX: chekhov?!
+
+HENRY: we read it last night. 
+JULIE: you really are good.
+MAX: i thought you were on a date.
+HENRY: we were.
+MAX: reading chekhov's a date?
+HENRY: yeah.
+JULIE: i got to get to the theatre --
+MAX: can you give me a ride there?
+JULIE: why?
+MAX: i'm a volunteer!
+JULIE: you weren't in any of those plays, were you?
+MAX: no.
+MAX: but can you give me a ride?
+
+GAYEV: yes and now the orchard will be sold to pay our debts, which seems impossible... 
+JULIE: look! it's mamma walking in the orchard...in a white dress! there she is.
+GAYEV: where?
+VARYA: momma, don't!
+MAX: this is driving me crazy.
+HENRY: what?
+MAX: we could be digging right now!
+HENRY: we could?
+MAX: if we were in that dressing room.
+HENRY: it's rehearsal. there are people everywhere.
+MAX: this is me off.
+
+HENRY: what? 
+MAX: i got an idea.
+HENRY: what?
+MAX: you have to be lophakin!
+HENRY: what?
+MAX: if you did we'd be able to get into that tunnel whenever we want.
+HENRY: i'm not an actor.
+MAX: you're not a bank robber either! and you're doing that.
+HENRY: max. come on.
+MAX: she said you were a natural. that means you can do it.
+HENRY: no, it doesn't.
+MAX: yes, it does henry.
+MAX: you are lophakin! a man who came from nothing. a man who's not afraid to create a new life.
+MAX: a man who's in love with her!
+MAX: your dream is your truth is your destiny! henry thinks...
+HENRY: i can't be lophakin. they have a lophakin.
+
+MAX: what if they didn't? 
+HENRY: there has to be another way.
+MAX: kid, you forced me out of jail to help you. and i'm going to help you. but you got to help me help you. now i need to know... ...do you want this bank or not?
+HENRY: yes. i want it.
+HENRY: then you're gonna be lophakin!
+
+DAREK: unprofessional 
+ARNOLD: mr. millodragovich --
+DAREK: 
+MAX: what's happening?
+JULIE: arnold's leaving the production.
+MAX: oh. gosh.
+
+ARNOLD: but i have no choice it's willie lohman we're talking about! a ken waterstone production! 
+DAREK: oooh-la-la! a ken waterstone production. the heaven's have opened. you lucky boy.
+
+DAREK: run, run, to that pandering, populist, piece-of-shit-waterstone and his spineless productions! you're perfect for it. 
+ARNOLD: good-bye, darek.
+ARNOLD: i'm sorry.
+DAREK: simone! i need a new lopakhin. now.
+DAREK: i'm dying, olga! cigarettes! cigarettes now! and coffee!
+SIMON: we'll hold auditions this afternoon, darek! i'll get the list --
+DAREK: i've seen that shit-list! it's a disaster.
+SIMON: what do we do?
+DAREK: i must think.
+DAREK: djula! your orchard cannot be felled before she has a chance to grow.
+JULIE: perfect.
+MAX: it is ken waterstone.
+
+JULIE: yes, stan, yes! i know it's but that's what's happening... 
+JULIE: i don't know, he's `thinking'...
+JULIE: what?
+JULIE: sorry, i can't give you a ride --
+MAX: you said he was a natural.
+JULIE: stan. let me call you back. what?
+MAX: henry.
+JULIE: henry what?
+MAX: henry would be perfect for it.
+JULIE: perfect for what?
+MAX: for lophakin.
+JULIE: you mean henry should play lophakin?
+MAX: yes.
+JULIE: he's not even an actor!
+MAX: exactly. he'd be playing himself. think about it julie! he is lophakin.
+
+MAX: a man who came from nothing. a man who's not afraid to create a new life and put his past behind him. a man who's in love with you...madame ranevsky. a beat. she does think about it. 
+JULIE: why do i feel like the earth is suddenly shifting under my feet?
+MAX: fact is you need a lophakin and lophakin needs a dressing room.
+MAX: can you get him in to see darek?
+JULIE: what's going on here, max? what are you doing?
+MAX: nothing.
+JULIE: you made this happen, didn't you?
+MAX: sometimes a good guy needs a less good guy to help the good guy be good. he smiles. a beat : she slaps him hard across the cheek.
+MAX: fair enough.
+JULIE: what am i supposed to do now?
+MAX: he just needs a shot. one audition. let the chips fall where they may.
+JULIE: what if it doesn't work?
+MAX: they'll get someone else.
+
+MAX: give him a shot. one shot. that's all i'm asking, julie. she thinks some more... 
+JULIE: okay, confidence man.
+
+DAREK: ...you've never had any training...you've never been in a production...you don't even know the play... 
+HENRY: i read it. i think i know the scene.
+DAREK: think.
+DAREK: start.
+HENRY: `your brother , leonid andrevich...'
+DAREK: how can you perform chekhov and not be able to say and-rey-e-vich! now say it!
+
+ANDREYEVICH.: darek nods, continue : 
+HENRY: your brother, leonid andreyevich says i'm an upstart, a money grubber --
+DAREK: a what?
+HENRY: a money-grubber!
+
+DAREK: convince her. 
+HENRY: your brother, leonid andreyevich says i'm an upstart, a money grubber. he can say whatever he likes. i don't care a bit --
+NEITHER DO I.: henry ignores him and with twice the passion --
+HENRY: i just want you to believe in me like in the old days.
+
+JULIE: show me, tell me. darek laughs, circling... 
+HENRY: good in heaven. my father was one of your father's serfs, and your grandfather's serf before that. but you, you did so much for me in the old days that i've forgotten all that...
+HENRY: i love you...like a sister...more than a sister. henry drops to his knees, supplicates.
+DAREK: you piece of yes! henry just breathes. he's unbreakable.
+DAREK: good.
+78.: henry looks up.
+HENRY: good?
+DAREK: yes.
+DAREK: tomorrow. be more good.
+
+JULIE: does this make me an accessory? 
+HENRY: i think so.
+JULIE: things have certainly gotten a lot more interesting since you showed up.
+HENRY: you mean since you ran me over...
+
+JULIE: it's not just about the money, is it? 
+HENRY: no.
+JULIE: so why are you doing it?
+HENRY: i used to sit in that toll booth and think about just getting in one of those cars, going wherever they went. just joining someone else's life.
+JULIE: you were asleep at the wheel.
+HENRY: yeah, i was.
+HENRY: it was easier for me to go to jail than tell my wife the truth.
+JULIE: which was?
+HENRY: that i was going along with everything. i didn't know i could change it.
+HENRY: so now i'm changing it.
+JULIE: robbing the bank is changing it?
+HENRY: it already has.
+JULIE: what was your wife like?
+HENRY: nice.
+HENRY: are you sure you're okay with this? i know it's a lot.
+
+HENRY: thanks. thank you. looking forward. 
+DAREK: top of act three. twenty minutes. olga, cigarettes!
+
+MAX: tracks! trolley tracks! 
+HENRY: there's still twenty feet to go.
+HENRY: we're going to need another pair of hands.
+
+HENRY: that's him. 
+MAX: that's him?
+
+HENRY: thanks for meeting us. 
+JOE: sure.
+HENRY: how's your pyramid scheme?
+JOE: it wasn't a pyramid scheme.
+HENRY: okay.
+JOE: it all fell apart.
+JOE: we were banking on that money, henry. and now all i've got is a garage full of korean plastic.
+MAX: what's he talking about?
+HENRY: kitchenware.
+MAX: oh.
+JOE: see what happens when a person tries to go `legit'?
+JOE: it's killing me.
+HENRY: so how's debbie?
+JOE: she's worried, henry. the baby's due in a couple months. he grabs a wing. rips off the meat.
+HENRY: she's pregnant?
+JOE: yeah, she's pregnant.
+83.: henry takes it in.
+HENRY: congratulations.
+JOE: thanks, henry.
+JOE: it's okay if you want to punch me out. tonight would be a good night. in fact i could use it.
+HENRY: come on. this is great news. it's going to be okay.
+JOE: really? it is? you know how much diapers cost? you know how much it costs to send a kid to college?
+MAX: you want to send your baby to college?
+JOE: of course not. i'm just saying. the kid needs stuff. stuff that's expensive.
+JOE: these things are hot! i'm on fire.
+HENRY: listen, joe, maybe we can help.
+JOE: how?
+HENRY: we might have a job for you.
+JOE: no foolin'?
+
+HENRY: there's maybe twenty feet till the bottom of that vault. 
+JOE: that's a lot of dirt, henry.
+HENRY: so what do you think?
+JOE: i think we should get some guns and go get the money through the front door!
+HENRY: no guns. people could get hurt.
+JOE: what about fake ones?
+HENRY: they're still guns.
+MAX: listen joseph, guns are dangerous and we're not doing a simple hold-up. tellers and tears and chump change. we're doing an old fashioned heist. we're going right into the belly of the beast.
+MAX: are you in or are you in?
+JOE: i hope we don't get caught.
+
+JULIE: i hate that commercial. 
+HENRY: i like it.
+
+JULIE: so what's your plan? 
+HENRY: for what?
+JULIE: for when it's done. after. am i going to see your picture in the post office or something?
+HENRY: i hope not.
+JULIE: but have you thought about what happens after?
+HENRY: not really, no.
+HENRY: i don't know. maybe i could meet you out west...
+JULIE: out west?
+HENRY: yeah. maybe you could meet me there.
+JULIE: when did you think of that?
+HENRY: just now.
+HENRY: so what about it?
+JULIE: what about what?
+HENRY: meeting me --
+JULIE: -- i'm not going anywhere, henry --
+HENRY: you're not?
+JULIE: no.
+
+JULIE: plans change, henry. okay? 
+JULIE: i think i ran out of maple syrup.
+
+HENRY: is there a reason you didn't leave before? 
+JULIE: because life is it never works out the way you want it to.
+HENRY: yeah. well. maybe...
+HENRY: but you could still meet me.
+JULIE: right! on the lam? you're dreaming.
+HENRY: it was just an idea. why not --
+JULIE: this isn't going to work out, henry.
+JULIE: didn't we both know that?
+HENRY: i didn't.
+JULIE: i did.
+
+MAX: it's going to be incredible. i'm talking, florida... 
+MAX: palm trees. sandy beaches. all you can eat sunshine. grapefruits as big as your head!
+HENRY: why couldn't i have met her after?
+MAX: who?
+HENRY: julie. i asked her to meet me. after we're done.
+MAX: oh yeah? what'd she say?
+HENRY: she said no.
+MAX: of course she said no.
+HENRY: why of course?
+MAX: because life ain't like that. there's always a cost. that's why they call it life. you got to pay somewhere. the piper must be paid to pipe.
+
+HENRY: i paid already, max. 
+HENRY: i don't want to leave her. max looks at him. about to say something -- a knock at the door.
+MAX: who's that?
+HENRY: i'll check.
+HENRY: who is it?
+JOE: it's me. joe.
+JOE: sorry, henry.
+EDDIE: the same bank. henry. now that's poetry! i like it.
+MAX: who is this guy?
+EDDIE: your new partner.
+MAX: what do you mean?
+EDDIE: i'm in. or you're out.
+JOE: i screwed up. sorry, max.
+EDDIE: joe tells me you guys might need a little help with that vault. i know the whole story.
+89.: he sits.
+EDDIE: and i don't dig. dig?
+EDDIE: got any cold ones?
+MAX: joe doesn't know what he's talking about. he's a drunk. he made a mistake. get out of that chair. eddie laughs. leans back on it.
+EDDIE: relax, old man. henry and i go way back. we've known each other since high school, isn't that right?
+HENRY: yeah. i know you.
+EDDIE: appreciate you keeping your mouth shut, henry. one thing i admire in a man is the quality of loyalty.
+HENRY: what do you want, eddie?
+EDDIE: nothing. just the american dream.
+
+MAX: i'm gonna kill him. with a knife. 
+HENRY: you can't kill him.
+JOE: yeah. you can't kill him, max. he's got the vault --
+MAX: shut up, joe.
+
+JOE: deb says we can't have till the kid's born. says the kid'll know about it. 
+MAX: go home. please. before it's too late.
+
+TROFIMOV: i'm sorry to be blunt, but, for sake, the man has robbed you. 
+MADAME RANEVSKY: no! no! no! don't say that!
+TROFIMOV: he's a scoundrel: everybody knows it but you. he's a petty scoundrel, a user...
+MADAME RANEVSKY: you are twenty six or twenty seven, and you're still in the lower grades!
+TROFIMOV: who cares?
+MADAME RANEVSKY: you ought to be grown up by now. at your age, you ought to understand about love --
+DAREK: where are you, djula? where?!
+MADAME RANEVSKY: you ought to love someone yourself! you ought to have an affair. yes! yes!
+DAREK: yes. yes. good djula! scene.
+DAREK: carlotta and the girls.
+
+DAREK: let's run the magic scene! 
+HENRY: what happened last night?
+JULIE: i came to my senses.
+JULIE: and you should too.
+HENRY: we should talk about it.
+JULIE: i don't want to, henry.
+
+JOE: what do you think guys? if it's a boy do i cut him or not? 
+MAX: well, you know what they say, cleanliness is next to godliness.
+JOE: what do you say, henry?
+
+VOICE: i see you guys in the bank. i see you guys in the alley next to the bank. 
+FRANK: now i see you coming out of the theatre behind the bank.
+FRANK: i know what you're up to gentlemen.
+FRANK: and i want in.
+MAX: in on what?
+FRANK: we can't talk here. let's drive.
+
+HENRY: what's on your mind, frank? 
+FRANK: the i.c.r.e. indigenous currency retrieval and exchange.
+FRANK: once a month a truck goes to all our partner banks across the border in canada, picks up all the currency and brings it back home.
+
+FRANK: i'd say on average eight to twelve million, held in our vault at first buffalo for just a few hours before it's picked up for redistribution. 
+FRANK: only a bunch of fools would rob that bank any other time. a beat. he leans closer...
+FRANK: i can give you that date. i can help with alarms. i can be your guy on the inside.
+MAX: hypothetically say you were right about what we're up to...which you're not. but just say...why would you help us rob your bank?
+FRANK: i got my reasons.
+JOE: this sounds like a set-up, man -- frank grabs joe. glares into his eyes.
+FRANK: i don't around, kid. i told you. i got my reasons.
+MAX: well, forgive us, frank. but we're going to need to hear them. a beat.
+FRANK: the wife got sick a few years ago. insurance wouldn't pick up all the costs. so i went to the bank. they wouldn't help cover the difference. we were going to retire to the loire valley.
+FRANK: we had to use all our savings to cover the bills.
+JOE: the man gave it to you, huh.
+
+FRANK: i spent everything we had -- then she died...thirty years i've been at that bank. 
+HENRY: what was her name?
+FRANK: annie. her name was annie.
+HENRY: i'm sorry.
+FRANK: november 23rd. the money's delivered at eight and picked up at midnight.
+FRANK: i retire in two weeks. this is it.
+FRANK: you set up the table. i make sure dinner arrives hot.
+
+HENRY:  
+HENRY: opening night.
+MAX: and?
+HENRY: that's soon.
+MAX: we're going to have pull some nights.
+HENRY: maybe we should wait. do it closing night.
+95.: max turns.
+MAX: we can't. he's retiring. this is a one time deal.
+MAX: i told you there were going to be tests, henry. henry absorbs that. looks at max.
+MAX: you're going to have to leave her.
+MAX: no looking back.
+
+MAX: you okay, henry? 
+HENRY: no.
+HENRY: i'm not leaving her.
+JOE: who?
+MAX: the girl -- he throws down his shovel.
+MAX: now listen, henry. you're digging this tunnel. and you're gonna rob that bank. you're gonna take the money and you're gonna put it in the car and we're gonna drive away.
+MAX: this is one thing. julie is another thing. this is not that. that is not this. understand?
+
+JOE: hey! i think i got something... 
+MAX: we have arrived! look at that.
+
+HENRY: not a cloud in the sky. 
+MAX: so clear you can see tomorrow.
+MAX: you're a good man, henry. thank you.
+HENRY: you too, max. let's go.
+
+HENRY AND JULIE: standing on opposite sides of the room. 
+DAREK: in this `american dream' of ours, everyone is happy and smiling, they have achieved their objectives...and yet in life there is only change, upheaval, the birth of the new...and that birth is painful.
+DAREK: our play is about misery, disconnection, a future that we don't see hitting us like a train...but tonight, my players, we show them...that this not a future to fear! he leaves. the players applaud --
+GAYEV: off the cushion in the corner ; double into the centre pocket!
+
+JULIE: come in. 
+HENRY: i want you to meet me in california.
+JULIE: henry, we've been over this --
+HENRY: we're doing it tonight.
+JULIE: what?
+HENRY: it's the only time we can get in the
+
+JULIE: of course! opening night. what else? like i said, everything always up -- 
+HENRY: nothing's up. if it's tonight or a month from now, what's the difference? i still want you to meet me.
+JULIE: nothing's up? have you looked around recently? you're leaving. what about the play?
+HENRY: arnold's coming back. max arranged it already.
+JULIE: i'm sure he did.
+HENRY: i want us to be together.
+
+JULIE: we screwed a couple of times, henry! so what? 
+HENRY: you know that's not true --
+JULIE: no, really. a couple of times.
+JULIE: don't you get it? i don't want to be with you. that cuts him dead.
+JULIE: you're a thief. go rob your bank.
+MAX: enjoy the show, folks!
+
+SIMON: on a headset. points to henry. 
+SIMON: curtain!
+
+LOPHAKIN: well, thank the train is in. what time is it? 
+DUNYASHA: almost two. it's light already.
+LOPHAKIN: the train's late. at least two hours.
+AN ARMORED BANK TRUCK: rounds a corner into view...
+
+BERNIE: how you doin', frank? 
+FRANK: doin' good, bernie. real good.
+
+MADAME RANEVSKY: my nursery, my dear, beautiful, sweet nursery! this is where i used to sleep when i was a little girl! 
+MADAME RANEVSKY: i'm still like a little girl...
+GAYEV: your train was two hours late. how do you explain that? is that good management?
+
+MADAME RANEVSKY: i looked out from here into the garden. i woke up happy every morning. 
+HENRY: isn't she beautiful?
+SIMON: yes.
+MADAME RANEVSKY: oh, my cherry orchard...
+
+BERNIE: you ever think what you could do with all that money, frank? 
+STAN: i know what you'd do. buy the bills and put them in first place.
+BERNIE: you'd need a lot more money than that. but i guarantee you i'd have them back in the super bowl within two seasons.
+STAN: perfect. another chance to lose.
+
+MADAME RANEVSKY: i'm sure it wasn't in the least funny. i believe people like you should examine their own lives instead of going to the theatre to observe other peoples! 
+LOPHAKIN: true enough. to be honest. we live a stupid life.
+STAN: well this is it, frank.
+BERNIE: we got you something.
+STAN: a little retirement gift.
+STAN: go ahead. open it.
+FRANK: thanks guys.
+BERNIE: we wanted to get you something from france.
+STAN: you like french roast, right?
+FRANK: thanks.
+FRANK: you know this isn't from france.
+BERNIE: what are you talking about? it's french roast.
+FRANK: right. but over there they call it coffee.
+STAN: but this is french roast...
+
+MAX: julie -- break a leg! 
+JULIE: play's already started, max.
+JULIE: good-bye confidence man.
+MAX: good-bye, julie.
+
+MAX: go! go! go! 
+EDDIE: about time, old man.
+MAX: do your job.
+EDDIE: not again! what is it with you?
+JOE: sorry.
+106.: eddie looks at him.
+EDDIE: you're a pussy, joe, you know that?
+MADAME RANEVSKY: well, what should we do? tell us what to do?
+LOPHAKIN: i tell you every day. every day i say the same thing over and over. you must rent out the cherry orchard and the rest of the estate for villas. at once, right this second, the auction is coming up very soon -- a muffled boom henry freezes. julie looks at him.
+MADAME RANEVSKY: it's all so vulgar!
+
+MAX: that was good, kid. good acting. 
+JOE: there she is.
+EDDIE: get out of there!
+EDDIE: this comes straight from hell.
+
+EDDIE: welcome to my world, 
+JOE: yeah.
+
+MAX: you're on, henry! 
+MADAME RANEVSKY: is the cherry orchard sold?
+
+MADAME RANEVSKY: who bought it? 
+LOPHAKIN: i did.
+LOPHAKIN: i bought it. wait a minute ; don't rush me. i'm all dizzy. i can't talk...
+
+EDDIE, JOE AND MAX: stuff duffel bags full of cash. 
+JOE: deb's gonna freak.
+LOPHAKIN: ...and now the cherry orchard is mine.
+
+EDDIE, JOE AND MAX: finish lining up the duffels of cash by the door. 
+MAX: that's everything.
+EDDIE: yes, it is.
+MAX: what's that, eddie?
+
+EDDIE: it's a gun, max. 
+EDDIE: joe! take the money out back to my car.
+EDDIE: joe!
+MAX: stay right where you are, joe.
+EDDIE: don't be stupid, max.
+MAX: you're not going to do this, eddie.
+MAX: you can shoot me dead if you want, but you're going to have to shoot me dead.
+EDDIE: i'm not playing with you, old man.
+JOE: what are you doing, eddie?
+EDDIE: welcome to the party, brando.
+HENRY: what are you doing, eddie?
+EDDIE: it's money, henry. money.
+
+MAX: this was your chance you you could've been a better man but you did it again. you messed up. and now you're back with the maggots. just one big missed opportunity. 
+JOE: yeah. come on, eddie. we're here. we're done. he's right. come on, man.
+EDDIE: shut up, joe. get the money. put it in the car. shut up.
+EDDIE: now move, torne. no happy ending for you. he gestures to the tunnel.
+EDDIE: you animal!
+
+MAX: famach deh mohl! gey lig mitt'n vahntzin son of a henry, a little dazed, picks up the gun. 
+JOE: get the extension chord.
+EDDIE: you couldn't have done this without me.
+MAX: our new partner. huh.
+
+MAX: you ok? 
+HENRY: i got shot.
+HENRY: i gotta get on stage.
+
+GAYEV: thank you, my friends, thank you. 
+YASHA: the peasants have come to say good-bye.
+YASHA: they're good fellows, yermolai aleksayovich but in my opinion a little stupid...
+GAYEV: you gave them everything in your purse, lyuba. wrong, quite wrong!
+MADAME RANEVSKY: i couldn't help it. i couldn't help it.
+LOPHAKIN: still a little out of
+BREATH): won't you please come here and drink a glass as a good-bye?
+
+MADAME RANEVSKY: we're going and not a soul will be here until after we're gone. 
+LOPHAKIN: until spring.
+
+JOE: where is he? 
+MAX: any minute now.
+
+ANYA: goodbye, home! goodbye to the old life! 
+TROFIMOV: hello to the new life!
+LOPHAKIN: until the spring, then. goodbye my friends, until we meet again!
+
+GAYEV: my sister! my sister! 
+MADAME RANEVSKY: oh, my dear, sweet, lovely orchard! my life, my youth, my happiness, farewell!
+ANYA: mamma!
+TROFIMOV: aa-oo!
+MAX: how's the leg?
+HENRY: it's fine. go.
+
+JULIE: one last look at these walls, these windows...dear mother used to love to walk about in this room. 
+GAYEV: my sister! my sister!
+ANYA: mamma!
+
+TROFIMOV: aa-oo! 
+JULIE: we're coming.
+
+HENRY: stop the car! 
+MAX: henry!
+HENRY: joe, stop the car.
+MAX: he can't stop the car, it's the getaway!
+JOE: yeah, you can't --
+
+MAX: what the are you doing? 
+MAX: henry!
+
+RIGHT IN FRONT OF HER: coming down the aisle is henry as lophakin pause. 
+LOPHAKIN: i had to come back. i couldn't get on the train. the moment i stepped on the platform, the blood drained from my heart. on julie, in shock.
+LOPHAKIN: i knew i might never see you again.
+
+LOPHAKIN: i had to come back. 
+MADAME RANEVSKY: henry, what is this? what are you doing?
+LOPHAKIN: this is the only way you'll listen to me.
+MADAME RANEVSKY: you should have gotten on that stupid train. you made a mistake.
+LOPHAKIN: the mistake would have been getting on that train without telling you how i feel.
+MADAME RANEVSKY: ha! don't pretend you care about me. all you care about is money.
+116.: she tries to get past him. he blocks her.
+LOPHAKIN: you think this is about money?
+MADAME RANEVSKY: yes.
+HENRY: it's never been about money. you know that.
+MADAME RANEVSKY: let go of me!
+LOPHAKIN: no.
+MADAME RANEVSKY: it! just leave, henry! get off the stage --
+HENRY: take a chance. meet me in moscow.
+MADAME RANEVSKY: no, i'm perfectly happy here.
+HENRY: that's not true. meet me in moscow.
+MADAME RANEVSKY: let me go!
+HENRY: i can't.
+MADAME RANEVSKY: why are you doing this?
+LOPHAKIN: you're just afraid.
+MADAME RANEVSKY: i'm not afraid of anything -- she kicks out at him.
+MADAME RANEVSKY: what am i afraid of henry? tell me!
+
+LOPHAKIN: you're afraid because i love you. 
+SHOCKED ACTORS: on the side of the stage.
+
+MADAME RANEVSKY: ...what? 
+HENRY: meet me in moscow.
+HENRY: tell me you'll meet me in moscow.
+AUDIENCE MEMBER: go with him!
+ANOTHER AUDIENCE MEMBER: meet him in moscow!
+DAREK: at the back of the theatre. stunned :
+DAREK: he loves her.
+JULIE AND HENRY: she whispers softly. looks down at his leg.
+JULIE: henry. you're bleeding.
+HENRY: i know.
+
+DAREK: lights down ten. down ten more. slowly... 
+JULIE: oh, henry...
+
+JOE: it's a girl!!! 
+DEBBIE: a girl.
+
+MAX: time is a medium of exchange. you can buy things with it. education. self-respect. you can even figure out your dream. 
+MAX: you're done. next!
+MAX: so tell me, javier. what's your dream?
+THE SOUND OF BREATHING: fade up on : what looks like the african bush.
+REVEAL HENRY AND JULIE: sitting right below the hollywood sign now...
+
+JULIE: look. you can see the ocean. 
+HENRY: `your brother says i'm an upstart, a money grubber...but i don't care a bit.'
+
+DETECTIVE: i'm only going to ask you one more time, eddie. who was it? who helped you? 
+EDDIE: i told you before. dopey. sleepy. happy and doc --
+DETECTIVE: you know what you are vibes? a liar, a cheat, a thief and a loser.
 

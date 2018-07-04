@@ -1,1370 +1,1370 @@
-speaker1: pappa. 
-speaker2: go back inside and shut the door.
-
-speaker1: ready pappa. 
-speaker2: thank you darling, now go inside and take care of your mother. don't run.
-speaker3: this is the property of perrier lapadite?
-
-speaker1: yes heer colonel. 
-speaker2: herman, until i summon you, i am to be left alone.
-speaker1: as you wish heer col.
-speaker3: is this the property of perrier lapadite?
-speaker4: i am perrier lapadite.
-speaker3: it is a pleasure to meet you monsieur lapadite, i am colonel hans landa of the s.s.
-speaker5: how may i help you?
-speaker6: i was hoping you could invite me inside your home and we may have a discussion.
-
-speaker1: colonel landa, this is my family. 
-speaker2: col hans landa of the s.s. madame, at your service.
-speaker2: please excuse my rude intrusion on your routine.
-speaker3: don't be ridiculous, heer col.
-speaker2: monsieur lapadite, the rumors i have heard in the village about your family are all true. your wife is a beautiful woman.
-
-speaker1: merci. please have a seat. 
-speaker1: charlotte, would you be so good as to get the colonel some wine?
-
-speaker1: merci be coupe monsieur lapadite, but no wine. this being a dairy farm one would be safe in assuming you have milk? 
-speaker2: oui.
-speaker1: then milk is what i prefer.
-speaker2: very well.
-speaker1: monsieur, to both your family, and your cows, i say; bravo.
-speaker3: merci.
-speaker1: please, join me at your table.
-speaker3: very well.
-
-speaker1: monsieur lapadite, what we have to discuss,' would be better discussed in private. you'll notice, i left my men outdoors- if it wouldn't offend them, could you ask your lovely ladies to step outside. 
-speaker2: you are right.
-
-speaker1: monsieur lapadite, i regret to inform you i've exhausted the extent of my french. to continue to speak it so inadequately, would only serve to embarrass me. however, i've been lead to believe you speak english quite well? 
-speaker2: oui.
-speaker1: well, it just so happens, i do as well. this being your house, i ask your permission to switch to english, for the remainder of the conversation?
-speaker2: by all means.
-speaker1: monsieur lapadite, while i'm very familiar with you, and your family. i have no way of knowing if you are familiar with who i am. are you aware of my existence?
-speaker2: yes.
-speaker1: this is good. are you aware of the job i've been ordered to carry out in france?
-
-speaker1: yes. 
-speaker2: please tell me what you've heard?
-speaker1: i've heard, the fuhrer has put you in charge of rounding up the jews left in france who are ether hiding, or passing for gentile.
-speaker2: the fuhrer couldn't of said it better himself.
-speaker1: but the meaning of your visit, pleasant though it is, is mysterious to me. the germans looked through my house nine months ago for hiding jews, and found nothing.
-speaker2: i'm aware of that, i read the report on this area. but like any enterprise, when under new management, there's always a slight duplication of efforts. most of it being a complete waste of time, but needs to be done nevertheless. i just have a few questions monsieur lapadite, if you can assist me with answers, my department can close the file on your family.
-speaker2: now before the occupation there were four jewish families in this area, all dairy farmers like yourself. the loveitts, the doleracs, the rollins, and the dreyfus's, is that correct?
-
-speaker1: to my knowledge those were the jewish families among the dairy farmers. - heer colonel, would it disturb you if i smoked my pipe? 
-speaker2: please, monsieur lapadite, it is your house, make yourself comfortable.
-speaker2: now according to these papers, all the jewish families in this area have been accounted for - except, the dreyfusis. somewhere in the last year it would appear they have vanished. which leads me to the conclusion that they've ether made good their escape, or someone is very successfully hiding them.
-speaker2: what have you heard about the dreyfusis monsieur lapadite?
-speaker1: only rumors -
-speaker2: - i love rumors! facts can be so misleading, where rumors, true or false are often reveling. so monsieur lapadite, what rumors have you heard regarding the dreyfusis?
-
-speaker1: speak freely monsieur lapadite, i want to hear what the rumors are, not who told them to you. 
-speaker2: again, this is just a rumor - but we heard the dreyfusis had made there way into spain.
-speaker1: so the rumors you've heard have been of escape?
-speaker2: yes.
-speaker1: were the lapadites and the dreyfusis friendly?
-
-speaker1: we were families in the same community, in the same bussiness. i wouldn't say we were friends, but members of the same community, we had common interest. 
-speaker2: having never met the dreyfusis, would you confirm for me the exact members of the household and their names?
-
-speaker1: there were five of them. the father, jacob... .wife, miram... 
-speaker2: - how old is bob?
-speaker1: thirty - thirty one?
-speaker2: continue.
-speaker1: and the children... amos... and shoshanna.
-speaker2: ages of the children?
-speaker1: amos - six - i believe. and shosanna, was fifteen or sixteen, i'm not really sure.
-
-speaker1: well i guess that should do it. 
-speaker1: however, before i go, could i have another glass of your delicious milk?
-
-speaker1: but of course. 
-speaker2: monsieur lapadite, are you aware of the nickname the people of france have given me?
-speaker1: i have no interest in such things.
-speaker2: but you are aware of what they call me?
-speaker1: i'm aware.
-speaker2: what are you aware of?
-speaker1: that they call you, "the jew hunter".
-speaker2: precisely! now i understand your trepidation in repeating it. before he was assassinated, heydrich apparently hated the moniker the good people of prague bestowed on him. actually why he would hate the name, "the hangman", is baffling to me it would appear he did everything in his power to earn it. but i, on the other hand, love my unofficial title, precisely because i've earned it.
-speaker2: the feature that makes me such a effective hunter of the jews, is, as opposed to most german soldiers, i can think like a jew. where they can only think like a german, or more precisely, a german soldier. now if one were to determine what attribute the german people share with a beast, it would be the cunning and predatory instinct of a hawk.
-
-speaker1: negro's - gorilla's - brain - lips - 
-speaker2: i suppose i would.
-speaker1: has a rat ever done anything to you to create this animosity you feel toward them?
-speaker2: rat's spread disease, they bite people -
-speaker1: - unless some fool is stupid enough to try and handle a live one, rats don't make it a practise of biting human beings. rats were the cause of the bubonic plague, but that was some time ago. in all your born days, has a rat ever caused you to be sick a day in your life? i purpose to you, any disease a rat could spread, a squirrel could equally carry. yet i assume you don't share the same animosity with squirrels that you do with rats, do you?
-speaker2: no.
-speaker1: yet, they are both rodent's, are they not? and except for the fact that one has a big bushy tail, while the other has a long repugnt tail of rodent skin, they even rather look alike, don't they?
-
-speaker1: it is a interesting thought, beer colonel. 
-speaker2: however, interesting as the thought may be, it makes not one bit of difference to how you feel. if a rat were to scamper through your door, this very minute, would you offer it a saucer of your delicious milk?
-speaker1: probably not.
-speaker2: i didn't think so. you don't like them. you don't really know why you don't like them. all you know is, you find them repulsive.
-speaker1: please, cononel, make yourself at home.
-
-speaker1: the other mistake the german soldier make is their severe handling of the citizens who give shelter and aid to the jews. these citizens are not enemies of the state. they are simply confused people, trying to make some sense out of the madness war creates. these citizens do not need punishing. they simply need to be reminded of their duty in war time. let's use you as a example monsieur lapadite. in this war, you have found yourself in the middle of a conflict that has nothing to do with yourself, your lovely ladies, or your cows - yet, here you are. so monsieur lapadite, let me purpose a question. in this time of war, what is your number one duty? is it to fight the germans in the name of france to your last breath? or, is it to harass the occupying army to the best of your ability? or, is it to protect the poor unfortunate victims of warfare who can not protect themselfs? or, is your number one duty in this time of bloodshed, to protect those very beautiful women who constitute your family? 
-speaker1: that was a question monsieur lapadite. in this time of war, what do you consider your number one duty?
-speaker2: to protect my family.
-speaker1: now, my job dictates, that i must have my men enter your home, and conduct a thorough search, before i can officially cross your families name off my list.
-
-speaker1: and if there are any irregularities to be found, rest assured, they will be. that is unless, you have something to tell me that will make the conducting of a search unnecessary. 
-speaker1: you are sheltering enemies of the state, are you not?
-speaker2: yes.
-speaker1: your sheltering them underneath your floorboards aren't you?
-speaker2: yes.
-speaker1: point out to me the area's where their hiding.
-speaker1: since i haven't heard any disturbance, i assume that while their listening, they don't speak english?
-speaker2: yes .
-speaker1: i'm going to switch back to french now, and i want you to follow my masquerade - is that clear?
-
-speaker1: monsieur lapadite, i thank you for milk, and your hospitably. i do believe our business here is done. 
-speaker1: mademoiselle lapadite, i thank you for your time, we shant be bothering your family any longer.
-speaker1: so, monsieur and madame lapadite i bid you adieu.
-
-speaker1: lapping against wet grass. qt! shosannma' s face 
-speaker2: the safety of tree's, getting closer.
-
-speaker1: slow zoom into his eyes as he aims. 
-speaker2: sod dash for life.
-
-speaker1: au revoir, shosanna! till we meet again! 
-speaker2: maces it to the woods, and is gone.
-
-speaker1: herman, i sense` a question on your lips? out with it? 
-speaker2: why did yoy allow a enemy of the state to escape?
-speaker1: oh, i don't think the state is in too much danger, do you?
-speaker2: i suppose not.
-speaker1: i'm glad you see it my way. besides, not putting a bullet in the back of a fifteen year old girl, and allowing her to escape, our not nessessarlly the same thing. she's a young girl, no food, no shelter, no shoes, who's just witnessed the massacre of her entire family. she may not survive the night. and after word spreads about what happened today, it's highly unlikely she will find any willing farmers to extend her aid. if i had to guess her fate, i'd say she'll probably be turned in by some neighbour. or, she'll be spotted by some german soldier. or, we'll find her body in the woods, dead from starvation or exposure. or, perhaps-she'll survive. she will elude capture. she will escape to america. she will move to new york city. where she will be elected, president of the united states.
-
-speaker1: we will be cruel to the germans, and through our cruelty, they will know who we are. they will find the evidence of our cruelty, in the disembowed, dismembered, and disfigured bodies of their brothers we leave behind us. and the german will not be able to help themselves from imagining the cruelty their brothers endured at our hands, and our boot heels, and the edge of our knives. and the germans, will be sickened by us. and the germans, will talk about us. and the germans, will fear us. and when the germans close their eyes at night, and their sub conscious tortures them for the evil they've done, it will be with thoughts of us, that it tortures them with. 
-speaker2: sound good?
-speaker3: yes, sir!
-speaker1: that's what i like to hear. but i got a word of warning to all would-be warriors. when you join my command, you take on debit. a debit you owe me, personally. every man under my command, owes me, one hundred scalps. and i want my scalps. and all y'all will git me, one hundred scalps, taken from the heads of one hundred dead nazi's...
-
-speaker1: how much more of these jew swine must i endure? they butcher my men like they were fish bait! this pack of filthy degenerates, are doing what the russian army didn't, and patton's army couldn't. turning soldiers of the third reich, into superstitious old women! 
-speaker2: just the cowards among them mine fuhrer.
-speaker1: no, no, no, no, no, no! i have heard the rumors myself! solders of the third reich, who have brought the world to there knee`s, now pecking and clucking like chickens. do you know the latest rumor they've conjured up, in their fear induced delirium? the one that beats my boys with a bat. the one they call "the bear jew"...is a golem. a avenging jew angel, conjured up by a vengeful rabbi, to smite the aryans!
-speaker3: mine fuhrer, this is just soldiers gossip, no one really believes the bear jew is a golem.
-speaker1: why not? they seem to be able to elude capture like a aberration. they seem to be able to appear and disappear at will.
-
-speaker1: you want to prove their flesh and blood? then bring them to me! i will hang them naked, by their heels, from the eiffel tower! and then throw their bodies in the sewers, for the rats of paris to feast! 
-speaker1: the bear jew.
-
-speaker1: kliest voice comes out of the intercom; 
-speaker2: year mine fuhrer.
-speaker3: i have a order i want relayed to all german soldiers stationed in france. the jew degenerate known as the bear jew, hence forth, is never to be referred to as the bear jew again. we will cease to aid the americans any longer in there attempt to undermine the german soldier psyche.
-speaker2: yes mine fubrer. do you still wish to see private butz?
-speaker3: who and what is a private butz?
-speaker4: he's the soldier you wanted to see personally. his squad was ambushed by lt.raines jews. he was it's only survivor.
-speaker3: indeed i do want to see him, thank you for reminding me. send him in.
-
-speaker1: werner and i were the only ones left alive after the ambush. while one man guarded us, the rest removed the hair. all the basterds wore german scalps tied to their belts. 
-speaker2: hanging from belts.
-speaker1: they not only took valuables...
-
-speaker1: .and tore out the identification page. 
-speaker1: ...they then removed their boots...
-speaker2: laces untied.. .boot pulled off...
-speaker3: removed, reveling dead bare feet...
-speaker4: tossing the boots off a hill.
-speaker1: throwing them away from the bodies...
-
-speaker1: the dogsl he fights his frustration, then... 
-speaker1: continue.
-
-speaker1: hey hirschberg, send that kraut sarge over. 
-speaker2: kicks sgt.rachtman in the back.
-
-speaker1: you! go! 
-speaker2: sgt.werner rachtman has seen many interrogations since germany decided it should rule europe. but this is the first time he's ever been on the wrong end of the exchange. it's always been his belief, only a weakling, in mind, body, and spirt complies with the enemy under threat of consequence. as werner watched men cry like women, pleadingly offer their knowledge, in exchange for their worthless lives, he made a vow to himself. if his role is to die in this conflict. when they put him under the earth, his dignity would be buried with him. for in the other world, the gods only respect the ones they test first. well sgt, this is your test. and the gods are watching. the captured german sgt, enters the circle of basterds,
-speaker3: sgt.werner rachtman.
-speaker4: lt.aldo raine, pleased to meet cha.
-speaker3: yes.
-speaker4: then sit down.
-
-speaker1: the german sgt does. 
-speaker2: hows your english werner? cause if need be, we gotta a couple fellas can translate.
-
-speaker1: wicki there, a austrian jew, got the outta saltzberg, while the gettin was good. became american, got drafted, and came back to give y'all what for. 
-speaker1: and another one over there, you might be familiar with, sgt.hugo stiglitz. heard of 'em.
-speaker2: everybody in the german army's heard of hugo stiglitz.
-speaker3: the reason for hugo stiglitz's celebrity among german soldiers is simple.
-speaker3: as a german enlisted man, he killed thirteen gestapo officers, mostly majors.
-
-speaker1: instead of putting him up against a wall, the high command decided to send him back to berlin, to be made a example of. 
-speaker1: needless to say, once the basterds heard about him, he never got there.
-
-speaker1: sgt.hugo stiglitz? 
-speaker2: i'm lt.aldo raine, and these are the basterds. ever heard of us?
-speaker1: we just wanna say, we're a big fan of your work. when it comes to killin nazi's, i think you show great talent, and i pride myself on havin a eye for that kind of talent. but your status as a killer, is still amateur.
-
-speaker1: now werner, i'm gonna assume you know who we are? 
-speaker2: aldo the apache.
-
-speaker1: well werner, if you heard of us, you probably heard, we ain't in the prisoner takin business. we in the killin business. and cousin, business is boomin. 
-speaker2: now that leaves two ways we can play this out. either kill ya, or let ya go. now weather or not you gonna leave this circle alive, depends entirely on you.
-speaker1: up the road a piece, there's a orchard. 'sides you, we know there's another kraut patrol around here somewhere. now if that patrol were to have any crackshots, that orchard, would be a snipers delight. now if you ever wanna eat a sauerkraut sandwich again, you gotta show me on this map, where they are, you gotta tell me how many they are, and you gotta tell me, what kinda artillery they carrying with 'em?
-speaker3: you can't expect me to divulge information that would put german lives in danger?
-speaker1: well, werner that's where your wrong. because that's exactly what i expect. i need to know about germans hidin in trees? and you need to tell me? and you need to tell me, right now? now take your finger, and point out on this map, where this partys bein held, how manys comin, and what they brought to play with?
-
-speaker1: i respectfully refuse, sir. 
-speaker2: you see that ole boy battin rocks?
-speaker2: that's sgt.donny donowitz. but you might know him better by his nickname, the bear jew. now if you heard of aldo the apache, you gotta heard about the bear jew?
-speaker3: i heard.
-speaker2: what did you hear?
-speaker3: he beats german soldiers with a club.
-speaker2: he bashes their brains in with a baseball bat, what he does.
-
-speaker1: now werner, i'm gonna ask you one last-goddamn-time, and if you still, "respectfully refuse", i'm callin the bear jew over here, and he's gonna take that big bat of his, and he's gonna beat your to death with it. now take your wennersitnitzel lickin finger, and point out on this map what i want to know. 
-speaker2: you and your jew dogs.
-
-speaker1: he turns to camera, and yells; 
-speaker1: yeah?
-speaker2: got a german here wants to die for country. oblige him.
-speaker3: bat over his shoulder, smiles.
-
-speaker1: .ya got the germans, declaring open season on jews in europe, and i'm suppose to fly to the philippines, and fight a bunch of japs - not me pal. if we just go in this against the japs, the whole u.s.of a can go take a running jump at the moon. 
-speaker2: you know they got a word for what your sayin donny, it's called treason.
-speaker1: hey, stick your treason up your hole. if i'm gonna kill my fellow man in the name of liberty, that fellow man, will be german.
-
-speaker1: hello donny, how are you? 
-speaker2: ah, just dandy, mr.goorowitz.
-speaker1: your mother, your father - everything good there?
-speaker2: there just fine. i'm shippin off next week.
-speaker1: good for you son. kill one of those basterds for me, will ya?
-speaker2: that's the idea, mr.goorowitz.
-speaker1: what can i do you for, donny?
-speaker2: i need a baseball bat.
-speaker1: you gettin your little brother a present before you ship out?
-speaker2: no.
-speaker2: can i try this one on for size, outside?
-
-speaker1: extending his arm; 
-speaker2: be my guest.
-speaker2: i'll get that, you go right ahead.
-speaker3: take that ya basterd! you like with the jews? wanna with the jews? the american jews are gonna with you... ..!
-speaker3: is this the heaviest ya got?
-
-speaker1: how can i help you? 
-speaker2: mrs.himmelstein?
-speaker3: state your business young man.
-
-speaker1: mrs.himmelstein, i'm donny donowitz, my father sy donowitz, owns the barber shop on greeny ave, "sy's barber shop". 
-speaker2: i've seen it. do you live in the neighbourhood?
-speaker1: all my life.
-speaker2: again, state your business?
-speaker1: may i have a word with you?
-speaker2: what about?
-speaker1: our people in europe.
-speaker2: come in. would you like some tea?
-
-speaker1: very good. 
-speaker2: if you like tea.
-speaker1: mrs.himmelstein, do you have any love ones over in europe who your concerned for?
-
-speaker1: what compels you young man, to ask a stranger such a personal question? 
-speaker2: because i'm going to europe. and i'm gonna make it right.
-speaker1: and just how do intend to do that, joshua?
-
-speaker1: and what exactly do you intend to do with that toy? 
-speaker2: i'm gonna beat every i find to death with it.
-speaker1: i thought we were having tea together?
-speaker1: and in this pursuit, how is it that i can be of service?
-speaker2: i'm going through the neighbourhood. if you have any love ones in europe, who's safety you fear for, i'd like you to write their name on my bat.
-speaker3: donny takes a long walk to werner...
-
-speaker1: you bet your sweet i am. 
-speaker2: good. a basterds work is never done. specially in germany.
-speaker1: gimmie your papers.
-speaker2: hand me your sword gideon. i do believe i will join you on this journey.
-speaker3: she signs the bat, "madeleine"
-
-speaker1: watches. hirschberg says to him; 
-speaker2: about now, i'd be shittin my pants, if i was you.
-speaker2: that means you, cup cake.
-speaker3: you wanna live?
-speaker1: yes, sir.
-speaker3: point out on this map, the german position.
-
-speaker1: this area here. 
-speaker2: how many?
-speaker1: maybe twelve.
-speaker2: what kinda of artillery?
-speaker1: they have a machine gunn dug in here pointing north.
-speaker3: how did you survived this ordel?
-speaker4: they let me go.
-
-speaker1: now when you report what happened here, you can't tell 'em, you told us, what you told us. they'll shoot ya. but there gonna wanna know, why you so special, we let you live? so tell 'em, we let ya live, so you could spread the word through the ranks, what's gonna happen to every we find. 
-speaker2: you are not to tell anybody anything! not one word of detail! your outfit was ambushed, and you got a away.
-speaker3: yes mine fuhrer.
-speaker2: did they mark you like they did the other survivors?
-
-speaker1: yes mine fuhrer. 
-speaker2: remove your hat and show me.
-speaker3: now say we let ya go, and say you survive the'war? when you get back home, what'eha gonna do?
-speaker1: i will hug my mother like i've never hugged her before.
-speaker3: well, ain't that's a real nice boy. are you going to take off your uniform?
-speaker1: not only shall i remove it, but i intend to burn it!
-speaker4: yeah, that's what we thought. we don't like that. you see, we like our nazi's in uniforms. that way, you can spot 'em, just like that. but you take off that uniform, ain't nobody gonna know you was a nazi. and that don't sit well with us.
-speaker3: so i'm gonna give ya a little somethin, you can't take off.
-
-speaker1: so young woman, since it's beyond obvious we're closed for the evening. i must assume you want something. what can i do for you? 
-speaker2: may i sleep here tonight?
-speaker1: so i gather your not a nurse?
-speaker2: no.
-speaker1: but your a bright little thing, that's clever disguise. where is your family?
-speaker2: murdered.
-
-speaker1: so your a war orphan? 
-speaker2: we were from nancy. the bosch found us
-speaker1: is this a sad story?
-speaker2: oui.
-speaker1: sad stories bore me. these days everyone in paris has one. i haven't bore you with mine, don't bore me with yours.
-speaker2: you can run the machines?
-speaker1: what machines?
-speaker2: the machines that show the film?
-speaker1: the projectors? yes, i own a cinema, of course i can operate them.
-speaker2: i know, i saw you.
-
-speaker1: i know at least six people who've been put up against a wall, and machine gunned for sheltering enemies of the state. i have no intention of being unlucky number seven. how long have you been in paris? 
-speaker2: a week, and a few days.
-speaker1: how have you survived the curfew without capture?
-speaker2: i sleep on rooftops.
-speaker1: again, i'm forced to admit, clever girl. how is it?
-speaker2: cold.
-speaker1: i can imagine.
-speaker2: respectfully, no you can't.
-speaker1: fair enough.
-speaker1: so you can't operate a 35mm film projector, you want me teach you, in order to work here, in order to use my cinema, as a hole to hide in, is that correct?
-speaker2: oui.
-speaker1: whats your name?
-speaker2: shosanna.
-
-speaker1: i'm madame mimieux. you may call me madame. this is a cinema. not a home for wayward war orphans. having said that, what you say is true. if you were truly exceptional, i could find use for you. so shosanna, are you truly exceptional? 
-speaker2: oui madame.
-speaker1: i will be the judge of that.
-
-speaker1: the marquee reads in french: 
-speaker2: to operate a cinema in paris during the occupation, one had two choices. ether you could show new german propaganda films, produced under the watchful eye of joseph goebbels. or... .you could have a german night in your weekly schedule, and show allowed german classic films. their german night was thursday.
-speaker3: what starts tomorrow?
-
-speaker1: a max linder festival. 
-speaker2: ummmm, i always preferred linder to chaplin. except linder never made a film as good as "the rid". the chase climax of "the kid", superb.
-speaker2: i suppose now you could use a "m" a "a" and a "x"?
-speaker1: no need, i can manage.
-speaker2: don't be ridiculous, it's my pleasure.
-speaker1: merci.
-speaker2: i adore your cinema very much.
-speaker1: merci.
-
-speaker1: my aunt left it to me. 
-speaker2: lucky girl.
-speaker2: merci for hoisting a german night.
-speaker1: i don't have a choice, but your welcome.
-speaker2: do you chose the german films yourself?
-speaker1: oui.
-speaker2: then my merci stands. i love the refensthal mountain films, especially, "pizu palu". it's nice to see a french girl who's a admirer of refensthal.
-speaker1: "admire", would not be the adjective i would use to describe my feelings towards fraulein refensthal.
-speaker2: but you do admire the director. pabst, don't you? that's why you included his name on the marquee.
-speaker1: i'm french. we respect directors in our country.
-speaker2: apparently even germans.
-speaker1: even germans. merci for assistance, private. adieu.
-speaker2: your not finished?
-
-speaker1: i'll finish in the morning. 
-speaker2: may i ask your name?
-speaker1: you wish to see my papers?
-speaker2: emmanuelle mimieux. that's a very pretty name.
-speaker1: merci. are you finished with my papers?
-speaker2: mademoiselle. my name is fredrick zoller. she gives no response.
-speaker2: it's been a pleasure chatting with a fellow cinema lover. sweet dreams, mademoiselle.
-
-speaker1: if i ever see you light up a cigarette in my cinema again, i'll turn you into the nazi's, do you understand? 
-speaker2: oui, madame.
-speaker1: and for bringing a open flame in my cinema, you deserve far worse then a jewish boxcar. with your thick head, what do you think the highest priority of a cinema manager is? keeping this place from burning down to the ground, that's what! in my collection, i have over 350, 35mm, nitrate film prints, which are not only immensely flammable, but highly unstable. and should they catch fire, they burn three times faster then paper. if that happens.. .poof...all gone, cinema no more, every body burned alive. if i ever see you with a open flame in my cinema again, i won't turn you into the nazi's i'll kill you myself. and the germans will give me a curfew pass.
-speaker2: out, madame.
-speaker1: do you believe me?
-speaker2: out, madame.
-speaker1: you well better.
-speaker3: shosanna exhales cigarette smoke.
-speaker4: are you well?
-
-speaker1: even on the roof i can't smoke a cigarette without hearing madames voice yelling at me. that's why i do it. to hear madames voice again. 
-speaker2: we both miss her.
-speaker1: i know. i'm fine, darling. i'll be to bed soon.
-
-speaker1: may i join you? 
-speaker2: look fredrick -
-speaker1: - you remember my name?
-speaker2: yes....look, you seem a pleasant enough fellow -
-speaker1: - merci.
-speaker2: your welcome. - regardless, i want you to stop pestering me.
-speaker1: i apologize mademoiselle, i wasn't trying to be a pest. i was simply trying to be friendly.
-speaker2: i don't wish to be your friend.
-
-speaker1: why not? 
-speaker2: don't act like a infant. you know why.
-speaker1: i'm more then just a uniform.
-speaker2: not to me. if you are so desperate for a french girlfriend, i suggest you try vichy?
-speaker2: who are you?
-speaker1: i thought i was just a uniform?
-speaker2: your not just a german soldier, are you somebodies son?
-speaker1: most german soldiers are somebodies son.
-speaker2: yeah, but your not just somebody. what are you, hitlers nephew?
-speaker1: yes.
-speaker2: really?
-speaker1: no not really, i'm just teasing you.
-speaker2: then what is it? what are you, a german movie star?
-
-speaker1: not exactly. 
-speaker2: , what does that mean, "not exactly". i asked if you were a movie star, the answer to that question, is yes or no. fredrick laughs at that line.
-speaker3: when you said that just now, you reminded me of my sister.
-speaker3: i come from a home of six sisters. we run a family operated cinema in munich. seeing you run around your cinema, reminds me of them. especially my sister helga. she raised me, when our father wasn't up to the job. i admire her very much. you'd like her, she doesn't wear a german uniform.
-speaker2: you were raised by helga?
-speaker1: all my sisters, i'm the baby, but helga was the bossiest.
-speaker2: and your mother and father?
-speaker1: my mother died. and my father was a loser. my fathers moto; "if at first you don't succeed, quit". the day he left, good riddance. my sisters are all i need. it's why i like your cinema. it makes me feel both closer to them, and a little homesick at the same time.
-speaker2: is your cinema still operatiing?
-speaker3: oui.
-speaker2: what's it called?
-
-speaker1: the kino haus. 
-speaker2: how has it done durring the war?
-speaker1: actually, in germany, cinema attendance is up.
-speaker2: no doubt, you don't have to operate under a curfew.
-speaker1: how often do you fill your house?
-speaker2: , not since before the war.
-speaker1: so if you had one big engagement, that would help you out?
-speaker2: of course, but that's not likely to happen.
-speaker2: so your a war hero? why didn't you tell me?
-speaker1: everybody knows that, i liked you didn't.
-speaker2: what did you do?
-speaker1: i've shot the most enemy soldiers in world war two...so far.
-speaker2: wow.
-
-speaker1: i was alone in a bell tower in a walled off city in russia. it was myself, and a thousand rounds of ammo, in a bird's nest, against three hundred soviet soldiers. 
-speaker2: what's a bird's nest?
-speaker1: a bird's nest is what a sniper would call a bell tower. it's a high structure, offering a three hundred and sixty degree view. very advantageous for marksmen.
-speaker2: how many russian's did you kill?
-speaker1: sixty-eight.
-speaker1: the first day. a hundred and fifty the second day. thirty-two, the third day. on the forth day, they exited the city. naturally my war story received alot of attention in germany, that's why they all recognize me. they call me the german sgt.york.
-speaker2: maybe they'll make a film about your exploits.
-speaker1: well, that's just what joseph goebbels thought. so he did. it's called "nation's pride", and guess what, they wanted me to play myself, so i did. they have posters for it in kiosks all over paris. that's another reason for all the attention.
-speaker2: "nation's pride" is about you? "nation's pride" is starring you?
-speaker1: i know, comical, huh?
-speaker2: not so comical. so what are you doing in paris, enjoying a rest?
-
-speaker1: hardly. i've been doing publicity, having my picture taken with different german luminaries, visiting troops, that sort of thing. goebbels wants the film to premier in paris, so i've been helping them in the planning. joseph is very keen on this film. he's telling anybody who will listen, when "nation's pride" is released, i'll be the german van johnson. 
-speaker2: well, good luck with your premier private. i hope all goes well for joseph and yourself. au revoir.
-speaker3: it's the next day.
-
-speaker1: mademoiselle nimieux? 
-speaker2: oui?
-speaker1: ask her if this is her cinema?
-speaker3: is this your cinema?
-
-speaker1: tell her to come down. 
-speaker2: come down please. she climbs down the ladder.
-speaker3: i don't understand, what have i done?
-speaker2: she wants to know what she's done?
-speaker1: who says she's done anything?
-speaker2: who says you've done anything?
-speaker3: then i demand to know what this is about, and where do you propose to take me?
-
-speaker1: - it's only the off spring of slaves that allows america to be competitive athletically. america olympic gold can measured in sweat. 
-speaker2: good you came. i wasn't sure weather or not you'd except my invitation.
-
-speaker1: invitation? 
-speaker2: .goebbles voice says off screen;
-speaker3: is that the young lady in question, fredrick?
-speaker4: yes it is, beer goebbels. emmanuelle, there is somebody i want you to meet.
-speaker4: emmanuelle mimieux, i'd like to introduce you to the minister of propaganda, the leader of the entire german film industry, and now i'm a actor, my boss, joseph goebbels.
-speaker5: your reputation precedes you fraulein mimieux.
-speaker4: and normally, this is beer goebbels french interpreter, mademoiselle francesca mondino.
-speaker6: looks up at shosanna.
-
-speaker1: narrator's voice comes on soundtrack; 
-speaker2: francesca mondino is much more then goebbels french interpreter. she's also goebbels favorite french actress to appear in his films...
-
-speaker1: she speaks in french, subtitled in to english; 
-speaker2: i love you, i can't help it. my country or my heart, which do i betray?
-
-speaker1: do it! do it! me - fill me! 
-speaker2: looking at shosanna.
-speaker1: bon jour.
-speaker3: bon jour.
-
-speaker1: f. 
-speaker2: and you've met the major.
-speaker3: actually, i didn't introduce myself. major deiter helistrom of the gestapo, at your service mademoiselle. please allow me, have a seat.
-speaker4: try the wine mademoiselle, it's quite good. goebbels looks across the table at her.
-speaker5: well i must say, you've made quite a impression on our boy.
-speaker5: i must say fraulein, i should be rather annoyed with you.
-speaker5: i arrive in france, and i wish to have lunch with my star...
-speaker5: little do i know be's become the toast of paris, and now he must find time for me.
-
-speaker1: people wait in line hours, day's, to see me. for the fuhrer and private zoller, i wait. 
-speaker1: so finally, i'm granted a audience with the young private, and he spends the entire lunch speaking of you and your cinema.
-speaker1: so fraulein mimieux, let's get down to business.
-speaker2: - heer goebbels, i haven't informed her yet.
-speaker1: unless the girls a simpleton, i'm sure she's figured it out by now, after all she does operate a cinema. francesca, tell her.
-speaker3: what they're trying to tell you emmanuelle, is private zoller has spent the last hour at lunch, trying to convince monsieur goebbels to abandon previous plans for private zollers film premier, and change the venue to your cinema.
-
-speaker1: i wanted to inform her. 
-speaker2: i apologize private, of course you did.
-
-speaker1: the private wanted to inform the mademoiselle himself. 
-speaker2: nonsense. until i ask a few questions, he has nothing to inform. let the record state, i have not agreed to a venue change.
-speaker3: duly noted.
-speaker2: you have opera boxes?
-
-speaker1: more would be better. how many seats in your auditorium? 
-speaker2: three hundred and fifty.
-speaker1: that's almost four hundred less then the ritz.
-speaker3: but beer goebbels, that's not such a terrible thing. you said yourself you didn't want to indulge every two faced french bourgeois taking up space currying favor. with less seat's it makes the event more exclusive. your not trying to fill the house, their fightin g for seats.
-
-speaker1: besides, to with the french. this is a german night, a german event, a german celebration. this night is for you, me, the german military, the high command, their family and friends. the only people who should be allowed in the room, are people who will be moved by the exploits on screen. 
-speaker2: i see your public speaking has improved. it appears i've created a monster. a strangely persuasive monster. when the war's over, politics awaits.
-speaker2: well private, though it is true, i'm inclined to indulge you anything. i must watch a film in this young ladies cinema before i can say, yes or no. so young lady, you are to close your cinema tonight, and have a private screening me.
-speaker2: what german films do you have?
-speaker3: my cinema , on german night, tends to show older german classics.
-speaker2: why not my films?
-
-speaker1: i draw a older german audience in my cinema, that appreciate the nostalgia of the earlier time. 
-speaker2: that's nonsense fraulein. us germans are looking forward, not backwards. that era of german cinema is dead. the german cinema i create, will not only be thee cinema of europe. but the worlds only alternative to the degenerate jewish influence of hollywood.
-speaker3: along with being a cinema owner, emmanuelle is quite a formidable film critic.
-speaker2: wso it would appear. unfortunately for the fraulein, i've outlawed film criticism.
-speaker3: why don't you screen "lucky kids"? i'm sure emmanuelle hasn't seen. it. and it's so funny, i've been meaning to recommend it to her, for her german night. that's a great idea, let's watch "lucky kids" tonight.
-speaker2: ahhh, "lucky kids", "lucky kids", "lucky kids". when all is said and done, my most purely enjoyable production. not only that, i wouldn't be surprised, if sixty years from now, it's "lucky kids" that i'm the most remembered for. i know it doesn't seem like it now, but mark my words. very well, i'll have a print sent over to the fraulein'.s cinema.
-
-speaker1: as francesca interprets this for shosanna... 
-speaker2: ah landa, your here, this is the young lady in question.
-speaker3: shosanna, this4pol hans landa of the ss., he'll be running security for the premier.
-
-speaker1: charmed mademoiselle. 
-speaker2: better known as "the jew hunter".
-speaker3: oh francesca, what was that funny thing the fuhrer said about hans?
-speaker4: what thing?
-speaker3: you know, you were there, it was a funny thing the fuhrer said, about hans...something about a pig?
-speaker4: oh, yes of course.
-
-speaker1: oh, yes of course, that's it. so the fuhrer said, he wouldn't be surprised if hans weren't rooting out jews like a truffle pig from the play pen. 
-speaker2: that's what we need, pigs that can root out jews.
-speaker3: who needs pigs when you have me?
-speaker1: do you have a engagement tonight?
-speaker3: well, as a matter of fact, i do -
-speaker1: - break it. we're all going to the fraulein's cinema tonight to view "lucky kids".
-speaker3: splendid.
-
-speaker1: and now i must get reich minister goebbels to his next appointment. 
-speaker2: slave driver! french slave driver! they all chuckle.
-speaker3: actually, in my role as security chief of this joyous german occasion, i'm afraid i must have a word with mademoiselle mimieux.
-
-speaker1: what sort of discussion? 
-speaker2: that sounded suspiciously like a private questioning the order of a colonel? or am i just being sensitive?
-speaker1: nothing could be further from the truth colonel. your authority is beyond question. but your reputation does proceed you. should mademoiselle mimieux or myself be concerned?
-speaker3: hans, the boy means no harm, he's simply smitten. and he's correct. your reputation does proceed you.
-speaker2: no need for concern, you two. as security chief, i simply need to have a chat with the possible new venue's property owner.
-speaker1: i was just hoping to mademoiselle mimieux back to her cinema.
-speaker3: nonsense! you can eat ice cream, and walk along the sienne another time. right now, allow col landa to do his job. everybody saystheir farewells.
-
-speaker1: have you tried the strudel here? 
-speaker2: no.
-speaker1: it's not so terrible. so how is it the young private and yourself came to be acquainted?
-speaker1: yes, two strudels, one for myself, and one for the mademoiselle. a cup of espresso, with a container of. steamed milk, on the side. for the mademoiselle, a glass of milk.
-speaker1: so mademoiselle, you were beginning to explain....?
-speaker2: up untill a couple of days ago, i had no knowledge of private zoller, or his exploits. to me, the private was simply just a patron of my cinema.
-speaker1: - mademoiselle, let me interrupt you. this is a simple formality, no reason for you to feel anxious.
-
-speaker1: i apologize, i forgot to order the cream fresh. 
-speaker2: one moment.
-speaker1: wait for the cream.
-speaker3: so emmanuelle - may i call you emmanuelle?
-speaker4: oui.
-speaker1: so emmanuelle, explain to me how does it happen, that a young lady such as your self, comes to own a cinema?
-speaker1: after you.
-
-speaker1: like i said, not so terrible. 
-speaker2: so you were explaining the origin of your cinema ownership?
-
-speaker1: the cinema originally belonged to my aunt and uncle - 
-speaker2: - what is there names?
-speaker1: jean-pierre and ada mimieux.
-speaker2: where are they now?
-speaker1: my uncle was killed during blitzkrieg.
-speaker2: pity... . continue.
-speaker1: aunt ada passed away from fever last spring.'
-speaker2: regrettable.
-
-speaker1: yes, he's a frenchman. his name is marcel. he worked with my aunt and uncle since they opened the cinema. he's the only other one who works with me. 
-speaker2: doing what?
-speaker1: projectionist.
-speaker2: is he any good?
-speaker1: the best.
-
-speaker1: actually one could see where that might be a good trade for them. 
-speaker2: of course i can.
-speaker1: knowing the reich minister as i do, i'm quite positive he wouldn't want the success or failure of his illustrious evening, dependent on the prowess of a negro. so if it comes to pass we hold this event at your venue, talented no doubt, as your may be, you will operate the projectors. is that exceptable?
-speaker2: oui.
-speaker1: so it would appear our young hero is quite smitten with you?
-speaker2: private zollers feelings for me aren't of a romantic nature.
-speaker1: mademoiselle...?
-speaker2: colonel, his feelings are not romantic. i remind him of his sister.
-speaker1: that doesn't mean his feelings aren't romantic.
-speaker2: i remind him of his sister who raised him.
-
-speaker1: it's sounding more and more romantic by the minute. 
-speaker1: cigarette?
-speaker2: no thank you.
-speaker1: do you smoke?
-speaker2: yes.
-speaker1: then i insist, you must take one. there not french, there german. i hope your not nationalist about your tobacco, to me french cigarettes are a sin against nicotine.
-speaker1: i did have some thing else i wanted to ask you, but right now, for the life of me, i can't remember what it is. oh well, must not of been important.
-speaker1: till tonight.
-
-speaker1: laughing at the comedy, hand covering her mouth. 
-speaker2: pantingly watching the screen.
-speaker3: smiling, smoking a french cigarette.
-speaker4: smoking his calabash, amused.
-speaker5: truly enjoying himself.
-speaker6: watching the screen.
-speaker7: while shosanna sits there pretending to be amused by the aryan antics of goebbels frank capra copy, "lucky kids", a thought suddenly comes to her.
-speaker7: what if tonight, accidently, the cinema burned down? the third reich would lose it's minister of propaganda, it's national hero, and it's top jew hunter, all in one fell swoop.
-speaker8: "the end" card for "lucky kids" is projected.
-
-speaker1: the screening of "lucky kids" was a complete success. and heer goebbels conceded to have the venue changed to shosannas cinema. not only that, in a moment of inspiration, heer goebbels had a idea. 
-speaker2: i must say, i appreciate the modesty of this auditorium. your cinema has real respect, almost church like. not to say we couldn't spruce the place up a bit. in versailles there's a crystal chandelier hanging in the banquet hall that is extraordinary. we're going to get it, and hang it from the very middle of auditorium roof. also i want to go to louvre, pick up a few greek nudes, and just scatter them about the lobby.
-
-speaker1: as they left the little french cinema that night, all the germans were very happy... 
-speaker1: none more so then private zoller.
-speaker2: what the are we suppose to do?
-speaker3: it looks like we're suppose to have a premier.
-speaker2: like i said, what the are we suppose to do?
-speaker3: well, i need to speak with you about that.
-speaker2: about what?
-speaker3: about these hun swine, commandeering our cinema.
-speaker2: what about it?
-
-speaker1: well, when i was watching the bosch 
-speaker1: capra-corn abomination,
-speaker1: i got a idea.
-speaker2: i'm confused, what are we talking about?
-speaker1: filling the cinema with nazi's and their whores, and burning it down to the ground.
-speaker2: i'm not talking about that, your talking about that.
-speaker1: no, we're talking about that, right now. if we can keep this place from burning down by ourselves, we can burn it down by ourselves.
-speaker2: shosanna -
-speaker1: no, marcel, just for sake of argument, if we wanted to burn down the cinema, for any number of reasons, you and i could physically accomplish that, no?
-speaker2: oui shosanna, we could do that.
-speaker1: and with madame mimieux's 350 nitrate film print collection, we wouldn't even need explosives, would we?
-speaker2: you mean we wouldn't need any more explosives?
-speaker1: oui, that's exactly what i mean.
-
-speaker1: i am going to burn down the cinema on night. 
-speaker1: and if i'm going to burn down the cinema, which i am, we both know, your not going to let me do it by myself.
-speaker1: because you love me. and i love you. and your the only person on this earth i can trust.
-speaker1: but that's not all we're going to do. does the filmmaking equipment it the attic still work? i know the film camera does. how about the sound recorder?
-speaker2: quite well, actually. i recorded a new guitarist i met in a cafe last week. it works superb. why do we need filmmaking equipment?
-speaker1: because marcel, my sweet, we're going to make a film. just for the nazi's.
-
-speaker1: right this way, lieutenant. 
-speaker2: lt. archie hicox, reporting sir.
-speaker3: if you offered me a scotch and plane water, i could drink a scotch and plain water.
-
-speaker1: that a boy, lieutenant. make it yourself, like a good chap, will you? bars in the globe. 
-speaker2: something for yourself, sir?
-speaker1: whiskey straight. no junk in it.
-speaker1: it says here you've run three undercover commando operations in germany, and german occupied territories? frankfaurt, holland, and norway to be exact?
-speaker2: extraordinary people, the norwegian's.
-speaker1: it says here you speak german fluently?
-speaker2: like a katzenjammer kid.
-speaker1: and your occupation before the war?
-speaker3: i'm a film critic.
-speaker1: list your accomplishments?
-speaker2: well sir, such as they are, i write reviews and articles, for a publication called; "films and filmmakers".
-
-speaker1: what's that called? 
-speaker2: "flickers bi-monthly". and i've had two books published.
-speaker1: impressive. don't be modest lieutenant, what are their titles?
-speaker3: the first book was called; "art of the eye's, the heart, and the mind:a study of german cinema in the twenties". and the second one was called; ...
-speaker2: "twenty-four frame da vinci". it's a subtexual film criticism study of the work of german director g.w. pabst.
-speaker3: what should we drink to, sir?
-speaker1: down with hitler.
-speaker2: all the way down, sir.
-speaker1: are you familiar with german cinema under the third reich?
-speaker3: yes. obviously i haven't seen any of the films made in the last three years, but i am familiar with it.
-speaker1: explain it to me.?
-
-speaker1: pardon sir? 
-speaker2: this little escapade of ours, requires a knowledge of the german film industry under the third reich.
-speaker1: goebbels considers the films he's making to be the beginning of a new era in german cinema. a alternative to what he considers the jewish german intellectual cinema of the twenties. and the jewish controlled dogma of hollywood.
-speaker3: how's he doing?
-speaker4: frightfully sorry sir, once again?
-speaker3: you say he wants to take on the jews at their own game? compared to say .louis b.mayer...how's he doing?
-speaker1: quite well, actually. since goebbels has taken over, film attendance has steadily risen in germany over the last eight years. but louis b.mayer wouldn't be goebbels proper opposite number. i believe goebbels see's himself closer to david o.selznick. gen.fenech looks to the prime minister.
-speaker3: brief him.
-speaker5: lt.bicox, at this point in time i'd like to brief you on, operation kino. three days from now, joseph goebbels is throwing a gala premier of one of his new movies in paris -
-
-speaker1: - what film sir? 
-speaker2: the motion pictures called; "nation's pride".
-speaker1: oh, you mean the film about private zoller?
-speaker2: we don't have any intelligence, on exactly, what the film that night will be about.
-speaker1: but it's called "nation's pride"?
-speaker2: yes.
-speaker1: i can tell you what it's about, it's about private fredrick zoller. he's the german sgt.york.
-speaker2: in attendance at this joyous germatic occasion, will be goebbels, gerring, boorman, and most of the german high command, including all high ranking officers of both the s.s., and, the gestapo. as well as luminaries of the propaganda film industry.
-speaker1: the master race at play, aye?
-speaker2: basically, we have all our rotten eggs in one basket. the objective of operation kino.... blow up the basket.
-speaker1: "...and like the snows of yesteryear, gone from this earth". jolly good, sir.
-
-speaker1: an american secret service outfit, that lives deep behind enemy lines, will be your assist. the germans call them; "the basterds". 
-speaker2: "the basterds", never heard of them.
-speaker1: whole point of the secret service, old boy, you not hearing of them. but the gerrys have heard of them, because these yanks have been them the devil. their leader is a chap named lt.aldo raine. the germans call him, "aldo the apache".
-speaker2: why do they call him that?
-speaker1: best guess, is because he removes the scalps of the dead.
-speaker2: scalps, sir?
-speaker1: the hair.
-speaker1: like a red injun.
-speaker2: rather gruesome sounding little dicky bird, isn't he?
-speaker1: no doubt the whole lot, a bunch a nutters. but you've heard the expression, "it takes a thief".
-speaker2: indeed.
-
-speaker1: you'll be dropped into france, about twenty four kilometers outside of paris. the basterds will be waiting for you. first thing, you go to a little village called, "nadine". apparently the gerrys never go there. in nadine, there's a tavern, called, "la louisiane", you'll rendez-vous with our double agent, and she'll take it from there. she's the one who's going to get you in the premiere. it will be you, her, and two german born members of the basterds. she's also made all the other arrangements your going to need. 
-speaker2: how will i know her?
-speaker1: i suspect that won't be too much trouble for you. your contact is bridget von hammersmark.
-speaker2: bridget von hammersmark? the german movie star is working for england?
-speaker1: for the last two years now. one could even say operation kino was her brainchild.
-speaker3: extraordinary women.
-speaker4: quite.
-speaker1: you'll go to the premiere as her escort, lucky devil. she'll also have the premiere tickets for the other two. got the gist?
-speaker2: i think so, sir. paris when it sizzles.
-
-speaker1: we need a sync mark. 
-speaker2: what is a sync mark?
-speaker1: a action and noise put together, so we can sync up the picture and sound.
-speaker2: how do we do that?
-speaker1: clap your hands.
-speaker1: in frame imbecile.
-speaker1: ready?
-speaker2: ready.
-speaker1: action.
-
-speaker1: but how do we get it developed? only a suicidal like us would develop that footage. how do we get a35mm print with a soundtrack? 
-speaker2: do you know one person who can do both things?
-speaker1: of course gaspar, very nice man, took care of all the experimental filmmakers. but nobody in their right mind would strike a print of what your talking about. if the nazi's found out, their life wouldn't be worth this.
-speaker2: in a wolf fight, you ether eat the wolf, or the wolf eats you. if we're going to obliterate the nazi's, we have to use their tactics.
-speaker1: what does that mean?
-speaker2: we find somebody who can develop and process a35mm print. and we make them do it, or we kill them. once we tell them what we want to do, if they refuse, we have to kill them anyway, or they'll turn us in.
-speaker1: would you do that?
-speaker2: like that.
-
-speaker1: bring that over here! put his head down on that table. 
-speaker1: you ether do what the we tell you to, or i'll bury this axe in your collaborating skull.
-speaker2: i'm not a collaborator!
-speaker1: then prove it! or does your manhood go no deeper, then standing to piss? marcel, does his wife, and children know you?
-speaker3: oui.
-speaker1: then after we kill this dog for germans, we'll go and silence them.
-speaker1: prepare to die, collaborator fucker!
-
-speaker1: two shot lt.hicox and lt.aldo raine 
-speaker2: you didn't say the rendez-vous was in a basement.
-speaker3: i didn't know.
-speaker2: you said it was in a tavern?
-speaker3: it is a tavern.
-
-speaker1: yeah, in a basement. you know, fightin in a basement offers a lot of difficulties, number one being, your fighting in a basement. 
-speaker2: what if we go in there, and she's not even there?
-speaker3: we wait. don't worry, she's a british spy, she'll make the rendez-vous.
-speaker4: stiglitz, right?
-speaker5: that's right, sir.
-speaker3: i hear your pretty good with that?
-speaker3: you know, we're not looking for trouble, right now. we're simply making contact with our agent. should be uneventful. however, on the off chance i'm wrong, and things prove eventful. i need to know, we can all remain calm.
-
-speaker1: i don't look calm to you? 
-speaker2: well, now you put it like that, i guess you do. he turns his attention back to his blade.
-speaker3: this gerry of yours, stiglitz? not exactly the loquacious type, is he?
-speaker4: is that the kinds man you need, the loquacious type?
-speaker2: fair point, lieutenant.
-speaker4: so y'all git in trouble in there, what are we suppose to do?
-speaker2: if we get into trouble, we can handle it. but if trouble does happen, we need you to make sure no germans, or french, for matter, escape from that basement. if frau von hammersmark's cover is compromised, the mission is kaput.
-speaker5: speaking of frau von hammersmark, who's idea was it for the death trap redez-vous?
-speaker2: she chose the spot.
-speaker5: well isn't that just dandy?
-
-speaker1: look, she's not a military strategist. 
-speaker2: ya don't got to be stonewall jackson to know you don't want to fight in a basement.
-speaker1: she wasn't picking a place to fight. she was picking a place, isolated, and without germans.
-speaker3: lieutenant, i hate to be contrary, but i got me a on louisianna two-o'clock.
-speaker1: 
-speaker4: so what do you think your fraulein von hammer -
-speaker1: - obviously, i don't know,sgt.
-speaker5: if we're going, let's go.
-
-speaker1: .okay, i'm not german. am i american? 
-speaker2: yes you arel
-speaker3: well, not really.
-speaker4: what do you mean, not really? of course he is.
-
-speaker1: well if he's so american, how come he's never been translated into english? he's not american. he's suppose to be american, but he's not a american creation. in fact, he's something very different. 
-speaker2: okay, i'm a fictional, literary character, from the past, i'm american, and that's controversial.
-
-speaker1: is my bloodbrother, old shatterhand? the table yes! 
-speaker1: did karl may write me? the table yes!
-
-speaker1: hello, my lovelies, i will join you in moments. i'm finishing up a game with my five new friends here. 
-speaker2: no hurry, frau von hammersmark.
-speaker1: so who are you?
-speaker3: i am winnetou, chief of the apaches!
-speaker4: frau von hammersmark, when your friends came in, did you realize you did a double take, like in the movies?
-speaker1: really? no, i wasn't aware of that at all.
-speaker4: they must be second nature to you now? did they teach you how to do a double take in the movies?
-speaker1: well, yes they did, but it's not really that difficult.
-speaker5: do one for us. the tableheartily agrees.
-
-speaker1: my turn, i want to try. 
-speaker2: i want to try. he does.
-
-speaker1: gengus khaun! i would never of gotten that. 
-speaker2: i thought this place was suppose to have more french then germans?
-speaker1: normally that's true. the sgt over there's wife, just had a baby. his commanding officer gave him, and his mates the night off to celebrate.
-speaker3: we should leave.
-
-speaker1: no, we should stay. for one drink at least. i've been waiting for you in a bar, it would look strange if we left before we had a drink. 
-speaker2: she's right, just be calm, and enjoy your booze.
-
-speaker1: there's been some new developments. 
-speaker2: why?
-speaker1: no one knows. but that in itself shouldn't be a problem. the cinema it's been changed to is considerably smaller then the ritz. so whatever materials you brought for the ritz, should be doubly effective here. now this next piece of information is colossal, try not to over react. the fubrer, will be attending tomorrow. hugo stiglitz does a spit take.
-
-speaker1: .the films gone through many delays, and leni's heath is deteriorating, so if you have to speak... 
-speaker2: frau von hammersmark, i was just thinking, could you sign a autograph to my son on his birthday?
-speaker1: i'd love to wilhelm. this handsome happy sgt, just became a father today.
-speaker2: thank you, heil hitler.
-speaker1: so wilhelm, do you know the name of this progeny yet?
-
-speaker1: i most certainly do, fraulein. his name is maximilian. 
-speaker2: wonderful name, sgt.
-speaker1: thank you, lieutenant. when he's old enough to ride a bicycle, i will buy him a blue one. and i will paint on the side "the blue max".
-speaker3: there you go. but wait, i'm not finished yet.
-speaker3: nothing but the best for little maximilian.
-speaker1: thank you fraulein, thank you. max may not know who you are now. but he will. i will show him all of your movies. he will grow up with your films, and this napkin on his wall.
-speaker1: i purpose a toast to the greatest actress in germany! there is no dietrich, there is no riefenstahl, only von hammersmark! the whole room toasts.
-speaker1: so, frau von hammersmark, what brings you to france?
-
-speaker1: none of your business,sgt. you might not have worn out your welcome with the fraulein, with your drunken boorish behavior, but you have wore out your welcome with me. 
-speaker1: might i remind you sgt.,your a enlisted man. this is a officers table. i suggest you stop pestering the fraulein, and rejoin your table.
-speaker2: excuse me cap't, but your accent is is very unusual.
-speaker2: where are you from?
-speaker3: sgt.! you must be ether drunk or mad, to speak to a superior officer with such impertinentness!
-speaker4: i'm making you,...
-speaker5: .and you,.. .responsible, for him. i suggest you take hold of your friend, or he'll spend max's first birthday in jail for public drunkenness!
-
-speaker1: a german voice rings out; 
-speaker2: then might i inquire?
-speaker3: like the young newly christened father, i too have a acute ear for accents. and like him, i too find yours odd. from where do you hail, cap't?
-speaker4: major, this is highly inappr -
-speaker3: t wasn't speaking to you lt.saltzberg,
-speaker3: or you ether, lt.berlin.
-speaker5: i was speaking to cap't i--don't-know-what.
-speaker6: i was born in the village that rests in the shadow of piz palu.
-speaker3: the mountain?
-speaker6: yes. in that village we all speak like this. have you seen the riefenstahl film?
-speaker3: yes.
-
-speaker1: then you saw me. you remember the skiing torch scene? 
-speaker2: yes i do.
-speaker3: in that scene was myself, my father, my sister, and my two brothers. my brother is so handsome, the director pabst, gave him a close up.
-speaker4: major, if my word means anything, i can vouch for everything the young cap't has just said. he does hail from the bottom of piz palu, he was in the film, and his brother is far more handsome then he. the impostors laugh.
-speaker2: you should rejoin your friends.
-speaker2: may i join you?
-speaker4: by all means, major.
-speaker2: so that's the source of your bazaar accent? extraordinary. so what are you doing here cap't?
-speaker3: aside from having a drink with the lovely fraulein?
-
-speaker1: well that pleasure requires no explanation. chuckle...chuckle 
-speaker1: i mean in country. your obviously not stationed in france, or i'd know who you are.
-speaker2: you know every german in france?
-speaker3: worth knowing.
-speaker4: well, there in lies the problem. we never claimed to be worth knowing.
-speaker1: all levity aside, what are you doing in france?
-speaker4: attending goebbels film premiere as the frauleins escort.
-speaker1: your the frauleins escort?
-speaker4: somebody has to carry the lighter.
-speaker5: the captain is my date, but all three are my guests. we're old friends major, who go back along time. longer then a actress would care to admit.
-speaker1: well, in that case, let me raise a glass to the three luckiest men in the room.
-speaker5: i'll drink to that.
-
-speaker1: i must say, that game their playing looks like a good bit of fun. i didn't join them, because your quite right cap't, officers and enlisted men shouldn't fraternize. but seeing as we're all officers here, 
-speaker1: .and sophisticated lady friends of officers. what say we play the game?
-speaker2: okay, one game.
-
-speaker1: so the object of the game, is to write the name of a famous person on your card. real or fictitious, doesn't matter. for instance, you could write confucius or fu manchu. 
-speaker2: eric' more pens. and they must be famous. no aunt inga's. when you finish writing, put the card face down on the table, and move it to the person to your left. the person to your right, will move their card in front of you. you pick up the card without looking at it, lick the back, and stick it on your forehead like so.
-
-speaker1: and in ten yes or no questions, you must guess who you are... 
-speaker1: .so let's give it a try, shall we? everybody write your names. the five players write their names... then move their cards to the right...
-
-speaker1: i'll start, give you the idea. am i german? 
-speaker2: no.
-speaker1: am i a american?
-speaker3: wait a minute, he goes to
-
-speaker1: don't be ridiculous, obviously he wasn't born in america. 
-speaker2: so... . i visited america, aye?
-speaker2: was this vist...fortuitous?
-speaker3: not for you.
-speaker2: .bummm. my native land, is it what one would call, exotic?
-speaker2: hummmm. that could be ether a reference to the jungle, or the orient. i'm going to let my first instinct take over, and ask, am i from the jungle?
-speaker2: now gentlemen, around this time you could ask, weather your real or fictitious. i however, think that's too easy, so i won't ask that, yet. okay, my native land is the jungle? i visited america, but my visit was not fortuitous to me, but the implication is that it was to somebody else. when i went from the jungle to america,... .did i go by boat? "yes".
-speaker2: did i go against my will?
-speaker2: on this boat ride, ... . was i in chains?
-
-speaker1: when i arrived in america,...was i displayed in chains? 
-speaker1: am i the story of the in america?
-speaker1: well then i must be king kong. be throws the card on the table.
-speaker2: nov since i answered correctly, you all need to finnish your drinks.
-speaker2: now, who's next?
-speaker3: major, i don't mean to be rude. but the four of us are very good friends. and the four of us haven't seen each other in quite a while. so...
-speaker2: i beg to differ cap't. it's only if the fraulein considers my presence a intrusion, that i become a intruder.
-speaker4: of course not, major.
-speaker2: i didn't think so. it's simply the young cap't is immune to my charms.
-speaker2: i'm just joking, of course i'm intruding.
-
-speaker1: allow me to refill your glasses gentlemen, and i will bid you and the fraulein adieu. eric has a bottle of thirty-three year old single malt scotch whisky from the scottish highlands. what do you say gentlemen? 
-speaker2: your most gracious, sir.
-speaker1: eric, the thirty-three, and new glasses! you don't want to contaminate the thirty- three with the swill you were drinking.
-speaker3: how many glasses?
-speaker2: five glasses.
-speaker1: not me. i like scotch, scotch doesn't like me.
-speaker4: nor i. i'll stay with bubbly.
-speaker2: three glasses.
-speaker1: to a thousand year reich!
-speaker1: did you hear that? that's the sound of my luger pointed right at your testicles.
-
-speaker1: why do you have a luger pointed at my testicles? 
-speaker2: because you've just given yourself away, cap't. your no more german then that scotch.
-speaker1: well, -major -
-speaker3: - major -
-speaker2: - shut up slut. you were saying?
-speaker1: i was saying that makes two of us. i've had a gun pointed at your since you sat down.
-speaker4: that makes three of us.
-
-speaker1: and at this range, i'm a real fredrick zoller. 
-speaker2: hummmmm ... looks like we have a bit of a sticky situation here.
-speaker3: what's going to happen, major, is your going to stand up, and walk out that door with us.
-speaker2: no no no no no no, i don't think so. i'm afraid you and i both know, no matter what happens to anybody else in this room, the two of us aren't going anywhere.
-
-speaker1: too bad about them though. they seem like a likeable you two will have to shoot them. 
-speaker2: then major, i implore you. for the sake of those german troops, will you please leave with us?
-speaker1: oh bridget, your concern for german troops, gets me .right here. you mean for the sake your legs, don't you? you can't afford to get any bullet holes in them, your not finished spreading them for all the hollywood jews.
-speaker3: 'well, if this is it old boy, i hope you dont mind if i go out speaking the kings?
-speaker1: by all means, cap't.
-speaker3: there's a special rung in reserved for people who waste good scotch. and seeing as i might be rapping on the door momentarily...
-speaker3: to the
-speaker4: i must say, good stuff, sir.
-
-speaker1: now about this, "pickle", we find ourself's in. it would appear, there's only thing left for you to do. 
-speaker2: and what would that be?
-speaker1: stiglitz.
-speaker3: say, auf wiedersehen to your balls!
-speaker3: fires into hellstrom's balls...
-speaker4: fires into hicox's and knee caps.
-
-speaker1: comes the a chine gunn, 
-speaker2: you outside! who are you? british, american, what?
-speaker3: were american's 1 what are you?
-speaker2: i'm a german you
-speaker3: you speak english pretty good for a german!
-speaker2: i agree! so let's talk!
-speaker3: okay, talk!
-speaker2: i'm a father! my baby was born today in frankfurt! five hours ago! his name is max! we were in here drinking and celebrating! they're the ones that came in shooting and killing!
-
-speaker1: okay, okay, it wasn't your fault! 
-speaker2: wilhelm!
-speaker1: that's the same name as one of the guys you just killed!
-speaker3: they attacked us!
-speaker1: okay wilhelm... .is anybody alive on our side?
-speaker3: no!
-
-speaker1: who's that? 
-speaker2: to bridget,
-speaker3: make a sound whore, and i spit!
-speaker1: wilhelm, who is that?
-speaker2: is the girl on your side?
-speaker1: which girl?
-
-speaker1: 1 who do you think, von hammersmark! 
-speaker2: yeah, she's oar's!
-speaker1: i thought so. so you run with the american's now, huh? now times are bad?
-speaker2: is she okay?
-speaker1: you despicable traitor. she's been shot, but she's alive. for now.
-speaker2: okay wilhelm, what'd ya say we make a deal?
-speaker1: what's your name?
-speaker2: aldo. wilhelm, can i call yap willi?
-speaker1: yes.
-speaker2: so willi, you know we could lob three or four or five or six grenades down there, and your little war story ends here. but good fer you, bad fer her, you die, she dies. so what say we make a swap?
-speaker3: keep talking?
-
-speaker1: okay, willi here's my deal! you let me and one of my men come down to take the girl away! and we take the girl, and leave! that simple, willi! you go your way, we go ours! and little max, gets to grow up playing catch with his daddy! so what'ya say, willi, we got a deal? willi thinks... 
-speaker2: aldo?
-speaker1: i'm here willi!
-speaker2: i want to trust you.... but howcani?
-speaker1: what choice ya got?
-speaker2: i could kill the girl!
-speaker1: well now, willi, that's true enough. but something you need to know, so you don't get the wrong idea. ain't none of us give a bout that girl. but, admittedly, if you kill her, it would up our plans. but you'll be dead by then anyway, so what'd you care? and lets not forget that little gatzenjammer max, growin up without a pop. so in the spirit of gettin you home to him, we got a deal, willi?
-speaker2: okay aldo, i'm going to trust you! come down, no guns!
-
-speaker1: hey willi, what's with the machine gunny i thought we had a deal? 
-speaker2: we do have a deal, now git the girl and go.
-speaker1: not so fast, willi, we only have a deal, we trust each other. a mexican stand off ain't trust.
-speaker2: you need guns on me for it to be a mexican stand off.
-speaker1: you got guns on us, you decide to shoot, we're dead. up top, they got grenades, they drop 'em down here, your dead. that's a mexican stand off, and that wasn't the deal.
-speaker2: just take that traitor, and go! see? now your down here now you get tricky - t
-speaker1: - no tricks!- ain't nobody gittin tricky, willi; i swear to i'm too toget tricky. but
-
-speaker1: fine. take that traitor and get her out of my sight. 
-speaker2: danka, willi, danka. okay, hirschbeg, you grab her shoulder -
-
-speaker1: you i had a deal with that man! 
-speaker2: he was a enemy soldier, who knew who i was. he couldn't live.
-
-speaker1: i ought'a beat your head in 
-speaker2: stop it. just pick her up, and get that outta here.
-speaker1: aldo, she just-
-speaker2: - she's right.
-speaker1: what?
-speaker2: i said, she's right. he was a soldier. if he lived, he would doomed the mission.
-
-speaker1: doctor? are you a doctor? 
-speaker1: andi amo...
-
-speaker1: it's still a doctor. if he can get a bullet out of a cow, he can get a bullet outta you. 
-speaker2: right now, we just need morphine.
-speaker3: morphine! we need morphine!
-
-speaker1: and that ones... 
-speaker2: .name is weiheim wicki. bets austrian born jew, who immigrated to the united states when things began turning sour for the israelites. they are the two german born members of the basterds. they've been known to don german uniforms, to ambush squads.
-
-speaker1: but that doesnt look like this. this is odd. looking down he see's something... 
-speaker2: it would appear somebodies missing. somebody fashionable.
-speaker3: col, this ones still alive!
-
-speaker1: now 'fore we yank that slug outta ya, you need to answer a few questions 
-speaker2: few questions about what?
-speaker1: about i got three men dead back there, and why don't you try tellin us what the happened?
-speaker2: the british officer blew his german act, and a gestapo major saw it.
-speaker1: 'fore we get into who shot john, why did you invite my men to a rendez-vous in a basement with a bunch of nazis?
-speaker2: i can see, since you didn't see what happened inside, the nazi's being there must look odd.
-speaker1: yeah, we gotta word for that kinda odd in english, it's called, suspicious.
-speaker3: don't let your imagination get the better of you, lieutenant. you met the sergeant, willi. he had a baby tonight. his commanding officer gave him and his friends the night off to celebrate. the germans being there was just a tragic coincidence.
-speaker4: okay, i'll buy that. he was ether there with his men waiting for us, or he was there celebrating his sons birthday, he wasn't doin both.
-
-speaker1: how did the shootin start? 
-speaker2: the english man, gave himself away.
-speaker3: how did he do that?
-speaker2: he ordered three glasses.
-speaker2: we order, three glasses.
-speaker2: that's the german three. the other is odd. germans would, and did notice it.
-speaker3: okay, let's pretend there were no germans, and everything went exactly the way it was suppose to. what would of been the next step?
-speaker2: tuxedos. to get them into the premiere, wearing military uniforms, with all the military there, would of been suicide. but going as members of the german film industry, they wear tuxedos, and blend in with everybody else. i arranged a tailor to fit three tuxedos tonight.
-speaker1: how did you intend to get them into the premiere?
-speaker2: hand me my purse.
-speaker2: lt.hicox was going as my escort. the other two were going as a german cameraman and his assistant.
-
-speaker1: can you still get us in that premiere? 
-speaker2: can you speak german better then your friends, no. have i been shot, yes. i don't see me tripping the light fantastique up the red carpet any time soon. least of all by tomorrow night.
-speaker2: however, there's something you don't know. there's been two recent developments regarding operation kino. one, the venue has been changed from the ritz, to a much smaller venue.
-speaker3: enormous changes at the last minute? that's not very germatic. why the is goebbels doin stuff so peculiar?
-speaker2: it probably has something to do with the second development.
-speaker1: which is?
-
-speaker1: donny breaks the teams silence; 
-speaker2: what?
-speaker3: when the did this happen?
-speaker4: the venue change, two weeks ago. the fuhrer's attendance, four days ago.
-speaker5: and how come london don't know nothing about that?
-speaker4: we need to get something straight, once and for all. everything london knows, it learned from me. if i don't know, london doesn't know. so now, this is me, informing you, hitler's coming to paris.
-
-speaker1: what are you thinking? 
-speaker2: i'm thinking getting a wack at plantin ole uncle adolph makes this a horse of a different color.
-speaker1: what's that suppose to mean?
-speaker2: it means, your gettin us in that premiere.
-speaker1: i'm going to probably end up losing this leg, bye bye acting career, fun while it lasted. how do you expect me to walk up a red carpet?
-
-speaker1: the doggie docs gonna dig that slug outta your gam. then he's gonna wrap it up in a cast, and you gotta good how i broke my leg mountain climbing story. that's german, ain't it? y'all like climbin mountains, don'tch? 
-speaker2: i don't. i like smoking, drinking, and ordering in restaurants, but i see your point.
-speaker3: we fill ya up with morphine, till it's comin out ya ears. then just limp your little up that rouge car-pet.
-speaker2: splendid. when the nazi's put me up against a wall, it won't hurt so much. i know this is a silly question before i ask it, but can you american's speak any other language then english?
-speaker4: other then yiddish?
-speaker2: preferably.
-speaker5: we both speak alittle italian.
-speaker2: with a atrocious accent, no doubt. but that doesn't exactly kill us in the crib. germans don't have a good ear for italian. so you mumble italian, and brazen through it, is that the plan?
-speaker3: that's about it.
-
-speaker1: that sounds good. 
-speaker2: it sounds like but what else we gonna do, go home?
-speaker1: no, it's good. if you don't blow it, with that, i can get you in the building. so, who does what?
-speaker3: well i speak the most italian, so i'll be your escort. donowitz speaks the second most, so he'll be your italian cameraman. and hirschberg third most, so he'll be donnys assistant.
-speaker4: i don't speak italian.
-speaker2: like i said, third best. just keep your mouth shut. in fact why don't you start practising, right now.
-speaker1: what about the little one?
-speaker5: do you mean me?
-speaker1: i didn't mean any offence.
-speaker5: none taken you german
-speaker3: utivich is the chauffeur.
-speaker5: i can't drive.
-speaker1: you americans are useless!
-
-speaker1: ivgimmie a break, i'm from manhattan. 
-speaker2: no worries, son. we got over fourteen hours before the movie tomorrow. more then enough time for you to learn to drive.
-speaker1: no no no no, lieutenant, it's not!
-speaker2: oh yes yes yes yes, private, it is. and yes yes yes yes, you will. look utivich, you and i both know, if we went to grade school together, you sure ain't copyin off of my test. well i lern't to drive in four hours on a tennessee mountain road. and i'm a for brains coal miner bootlegger. hirschberg, you know how to drive, right?
-speaker3: yes.
-speaker2: teach 'em.
-speaker4: but there is a problem. i'm a movie star. this is a movie premiere. i can't show up looking like i was just in a gun fight. now i have a dress for the premiere at my hotel. but sometime tomorrow, i have to get my hair done.
-speaker5: sister, you must got wunderbar luck. guess who went to beauty school? the camera whip pans to sgt.donowitz.
-
-speaker1: ooh lala, danielle darrieux, this is so exciting. pleased to meet you. 
-speaker2: shut up fool.
-speaker2: cheeky black bugger. i have to go down and socialize with these hun pigs. let's go over it again?
-speaker1: reel one is on the first projector. reel two is on the second. three and four are ready to go.
-speaker2: okay, the big sniper battle in the film begins around the middle of the third reel. our film, comes on in the forth reel, so somewhere towards the end of the third reel, go down and lock the doors of the auditorium. then take your place behind the screen, and wait for my cue, when i give it to you, burn it down!
-
-speaker1: i want everybody out of this room! 
-speaker1: that means now, goddamnit! they rush out.
-speaker1: can you speak, sgt?
-
-speaker1: tell me everything that happened in there? 
-speaker2: smiles.
-speaker1: fraulein von hammersmark, what has befallen germany's most elegant swan?
-speaker3: colonel landa, it's been years.
-speaker1: flattery will get you everywhere, fraulein.
-speaker1: so what's happened to your lovely leg, a by product of kicking in the german cinema, no doubt.
-speaker3: save your flattery, you old dog. i know too many of your former conquests, to fall into that honey pot.
-speaker1: seriously, what happened?
-
-speaker1: well, i tried my hand, foolishly i might add, at mountain climbing. 
-speaker2: mountain climbing? that's how you injured your leg, mountain climbing?
-speaker1: believe it or not, yes it is.
-
-speaker1: forgive me, fraulein. i don't mean laugh at your misfortune. it's just .mountain climbing? i'm curious fraulein, what could of ever compelled you to undertake such a foolhardy endeavor? 
-speaker2: well, i chant be doing it again, i can tell you that.
-speaker1: that cast looks as fresh as my old uncle gustave, when were you climbing this mountain, last night?
-speaker2: very good eye, colonel. it happened yesterday morning.
-speaker1: hummm. and where exactly in paris is this mountain? this stops her for a seconded.
-
-speaker1: i'm just teasing you, fraulein. you know me, i tease rough. so who are your three handsome escorts? 
-speaker2: i'm afraid neither three speak a word of german. their friends of mine from italy. this is a wonderful italian stuntman, antonio margheriti. a very talented cameraman, enzo gorlomi. and enzo's camera assistant, dominick decocco.
-speaker2: gentlemen, this is a old friend, col. sans landa of the s.s.
-
-speaker1: margheriti...? 
-speaker1: am i saying it correctly...?
-speaker2: yes. correct.
-speaker1: margheriti.... say it for me once please...?
-speaker2: margheriti.
-
-speaker1: i'm sorry, again...? 
-speaker2: i4argheriti.
-speaker1: once more... .?
-speaker2: margheriti.
-speaker1: nargheriti.
-speaker1: it means daisies, i believe.
-speaker1: what's your name again?
-speaker3: enzo gorlomi.
-speaker1: again... .?
-speaker3: gorlomi.
-speaker1: one more time, but let me really hear the music in it.
-speaker3: gorlomi.
-speaker1: and you?
-
-speaker1: dominick decocco. 
-speaker2: dominick decocco?
-speaker1: dominick decocco.
-speaker2: bravo... . bravo.
-speaker3: well, my two cameraman friends need to find there seats.
-speaker2: not so fast, lets enjoy some champagne.
-speaker2: - oh, mademoiselle mimieux, please join us, i have some friends i'd like you to meet.
-speaker2: may i say mademoiselle, you look divine.
-speaker4: merci'.
-speaker2: this lovely young lady, is mademoiselle emmanuelle mimieux, this is her cinema, and she is our hostess for the evening.
-
-speaker1: bonjour. 
-speaker2: bon jour.
-speaker1: i'm afraid my companions don't speak any french, there italian. this is antonino, enzo, and dominick.
-speaker3: actually fraulein von hammersmarks italian associates, need help finding there seats. perhaps mademoiselle mimieux would be so kind to them?
-speaker2: it would be my pleasure. let me see your tickets?
-
-speaker1: take your seats! the show is about to begin! everybody take your seatsl 
-speaker2: i must call the fuhrer. he doesn't want to make his entrance untill everybody seated. come with me frau von hammersmark. the fuhrer has heard your here, and he wishes to commend you personally.
-speaker3: me? why?
-speaker2: don't be modest. everybody is quite taken with your resolve. a accident, like you've just experienced, and yet you still show up to to a important party event. the fuhrer was quite adamant in his gratitude. we'll use mademoiselle mimieux's office. i'm afraid i must rob you of your companion, but only for a moment.
-speaker3: yes, apparently the fuhrer wishes to commend me.
-
-speaker1: have a seat fraulein. 
-speaker1: let me see your foot.
-speaker2: i beg your pardon?
-
-speaker1: patting his lap. 
-speaker2: put your foot in my lap.
-speaker3: colonel, you embarrass me.
-speaker2: i assure you fraulein, my intention is not to flirt. patting his lap more with more aggression.
-
-speaker1: what's that american expression... "if the shoe fits...you must wear it". 
-speaker2: what now colonel?
-speaker3: do you admit you treachery?
-
-speaker1: the only thing i will admit to, is resisting you... 
-speaker2: "resist to your last breath"?
-
-speaker1: she's dead. 
-speaker2: he rises.
-
-speaker1: inform the fuhrer the audience has taken there seats, and we're ready to begin. step one, in hans master plan, done. 
-speaker2: aldo in the lobby...
-speaker3: .he's jumped by the six ushers...
-
-speaker1: shut up! 
-speaker2: as stanley said to livingston; lt.aldo raine, i presume?
-
-speaker1: hans landa? 
-speaker2: you've had a nice long run, aldo. alas, your now in the hands of the ss. my hands to be exact. and they've been waiting along time, to touch you.
-speaker2: caught ya flinching.
-
-speaker1: utivich? 
-speaker2: is that you lieutenant?
-speaker3: yep.
-
-speaker1: do you know what happened to donny? 
-speaker2: no i do not.
-speaker3: lieutenant, sorry i'm crying.
-speaker4: nothin to be sorry about, son.
-speaker3: not exactly john wayne, am i?
-speaker2: john waynes a pampered movie star. he burst into tears, if his cook, busts his yoke at breakfast. just try puttin a bag over his head, and hear what kinda sounds he makes.
-speaker2: i just want you to know, son, i was real proud of you tonight. learnin how to drive overnight. driving in that limo line. you was in the hot seat, son, and you stood up real good. utivich cries louder.
-
-speaker1: italian? really? 
-speaker1: what could you have possibly been thinking?
-speaker2: well, i speak alittle italian -
-speaker1: i speak a little tagalog, but i wouldn't begin to presume i could pass for filipino. don't get me wrong, i understand you were in a pickle, what with you losing your germans. and i have nothing but admiration for improvisation. still.... chico marx is more convincing. if the three of you had shown up to the premiere dressed in womans attire, it would have been more convincing.
-speaker1: you may leave us. but stay alert outside.
-
-speaker1: so your aldo the apache? 
-speaker2: so your the jew hunter?
-speaker1: jew hunter, , i'm a detective. a good detective. finding people is my specialty. so naturally, i worked for the nazi's finding people. and yes, some of them were jews.
-speaker3: well you do hafts admit, it is catchy.
-speaker1: do you control the nicknames, your enemies bestow on you? aldo the apache and the little man?
-speaker3: what do you mean, the little man?
-speaker1: the germans nickname for you.
-speaker3: the germans nickname for me is, the little man?
-speaker1: or "the little one, ether one means you. and as if to make my point, i'm a little surprised how tall you were in real life. i mean, your a little fellow. but not circus midget little, as your reputation would suggest.
-speaker4: where is my men? where is bridget von hammersmark?
-speaker1: bridget von hammersmark. oh i'm sure she's in whatever, big bubbling cesspool in hell, the devil reserves for traitors of her ilk.
-
-speaker1: how do you know our names? 
-speaker2: lt.aldo, if you don't think i wouldn't interrogate every single one of your marked survivors... .? we simply aren't operating on the level of mutual respect i assumed. now, back to the whereabouts of your two italian saboteurs. at this moment, both hirschberg, and donowitz, should be sitting in the very seats we left them in. seats, 0023 and 0024, if my memory serves. explosives, still around there ankle, still ready to explode. and your mission, some would call a terrorist plot, as of this moment, is still a go.
-speaker1: that's a pretty exciting story.
-speaker2: however, all i have to do, is pick pick up that phone right there. inform the cinema, and your plans kupet.
-speaker1: if, their still there, and if their still alive, and that's one big if, there ain't no way, you gonna take them boys without settin off them bombs.
-
-speaker1: i have no doubt, and yes, some germans will die., and yes, it will ruin the evening, and yes, goebbels will be very very very mad at you for what you've done to his big night. but you won't get hitler, you won't get goebbels, you won't get gering, and you won't get boorman. and you need all four to end the war. 
-speaker1: but if i don't pick up that phone, right there, you may very well get all four. and if you get all four, you end the war...tonight.
-speaker2: so gentlemen, lets discuss the prospect of ending the war-tonight. all three have their chianti filled glasses.
-speaker2: so the way i see it, since hitlers death, or possible rescue, rests solely on my reaction...if i do nothing ...it's as if i'm causing his death, even more then yourselves.
-speaker3: i guess so.
-speaker2: how about you uitivich?
-speaker4: i guess so too.
-speaker2: good, we more or less, all agree. gentlemen, i have no intention, of killing hitler, and killing goebbels, and killing gerring, and killing boorman, not to mention winning the war single handedly for the allies, only later, to find myself standing before a jewish tribunal.
-
-speaker1: if you want to win the war, tonight, we have to make a deal. 
-speaker2: what kinda deal?
-speaker1: the kind you wouldn't have the authority to make. however, i'm sure this mission of yours, has a commanding officer? a general, i'm betting. for ..
-speaker1: .o.s.s. would be my guess.
-speaker1: oooh, that's a bingo. is that the way you say it, that's a bingo?
-speaker2: you just say, bingo.
-speaker1: bingo! how fun. but i digress, where were we? oh yes, make a deal. over there is a very capable two way radio. and sitting behind it, is a more then capable radio operator, named herrman. get me somebody on the other end of that radio with the power of the pen, to authorize my - let's call it, the terms of my conditional surrender, if that taste better going down.
-
-speaker1: in fact, i want all the members of "operation kino" to receive the congregational medal of honor. full citizenship for myself - but that goes without saying. and i would like the united states of america to purchase property for me on nantuckett island, as a reward for all the countless lives i've saved by bringing the tyranny of the national socialist party to a swifter then imanged end. do you have all that, sir? 
-speaker1: i look forward to seeing you face to face as well, sir.
-speaker1: he's right here.
-speaker2: yes, sir?
-
-speaker1: colonel landa will put you and private uitivich in a truck as prisoners. then he and his radio operator, will get in the truck, drive to our lines. upon crossing our lines, colonel landa and his man will surrender to you. you will then take over driving of the truck, a bring them straight to me for debriefing. is that clear, lieutenant? 
-speaker2: yes, sir.
-
-speaker1: so i suppose the only thing left to do is lift a glass, and toast to donowitz and hirschbergs success. you too herrman, come over here. 
-speaker1: gentlemen, to history, and it's witnesses.
-
-speaker1: i-a go-a toilet-a, set-ta boom-a. when-a i-a go-a, you-a set-ta boom-a. 
-speaker2: what-a?
-
-speaker1: affirm-ato, affirm-ato. 
-speaker2: they-o look-o screen-a, not-o you-a.
-speaker1: fantastic-o.
-
-speaker1: after-teri, set-ta, five-o moment-o 
-speaker1: you-a, pphisst.
-speaker2: what-o?
-speaker1: confuse-i, confuss-i, confuss-i. what-a, and-o what-o, same-o?
-speaker2: oh-o, sorr-o, i-o ment-a "what-a".
-speaker1: after-teri, you-a set-ta boom-a, five-o moment-o, you-a, fuck-o pphisst.
-speaker2: affirm-ato, affirm-ato.
-speaker1: good-a, luck-a.
-
-speaker1: perfectly understandable, dear boy. you go now, and we'll see you after the show. 
-speaker2: are you the manager, of this cinema? i want my money back. that actor in the movie stinks.
-
-speaker1: what are you doing here? 
-speaker2: i came to visit you.
-speaker1: can't you see how busy i am?
-speaker2: then allow me to lend a assist.
-speaker1: fredrick it's not funny, you can't be here. this is your premiere, you need to be out there with them.
-
-speaker1: normally, you would be.right. and for all the other films i do, i intend to endure evenings like tonight, in the proper sprit. however the fact remains, this film, is based on my military exploits. and in this case, my exploits consisted of me killing many men. consequently, the part of the film that's playing now,... .i don't like watching this part. 
-speaker2: fredrick, i am sorry, but -
-speaker1: - so, i thought, i'd come up here and do what i do best, annoy you. and from the look on your face, it would appear i haven't lost my touch.
-
-speaker1: let me do it? 
-speaker2: no.
-speaker1: oh please, it's been two years since i've done a reel change.
-speaker2: i said, no.
-speaker1: come on, it's my premiere.
-speaker2: are you so use to the nazi's kissing your ass, you've forgotten what the word,ãƒâ‚ã‚â°ãƒâ‚ã‚â°no" means? no fredrick, you can't come in here, now go away!
-speaker2: fredrick, you hurt me.
-speaker1: well, it's nice to know you can feel something. even if it's just physical pain. fredrick steps forward...
-speaker1: i'm not a man you say, "go away" to. there's over three hundred dead bodies in russia, that if they could, would testify to that. after what i've done for you, you disrespect me at your peril.
-
-speaker1: seeing him get closer... 
-speaker1: seeing him closer still...
-speaker1: begins to notice...
-
-speaker1: what the was that? 
-speaker2: shosanna moves to him...
-speaker3: two bullets hit her point blank in the chest...
-
-speaker1: i have a message for germany. i'm interrupting your propaganda horse to inform you despicable german swine, that your all going to die. hitler and goebbels react. 
-speaker2: react.
-speaker3: smiles.
-speaker1: and i want you to look deep in the face of the jew who's going to do it.
-
-speaker1: these are the american lines, sir. 
-speaker2: okay gentlemen, you can climb down.
-
-speaker1: aldo and uitivich climb down from the truck. 
-speaker2: herrman, hand them your weapon. he does.
-
-speaker1: i am officially surrendering myself over to you, lt.raine. we are your prisoners. 
-speaker2: thank you very much colonel. uitivich, cuff the colonel's hands behind his back.
-speaker1: is that really necessary?
-
-speaker1: i'm a slave to appearances. 
-speaker2: are you mad? what have you done? i made a deal with your general for that mans life!
-speaker3: yeah, they made that deal, but they don't give a about him, they need you.
-speaker2: you'll be shot for this.
-
-speaker1: raw i don't think so, more like i'll be chewed out. i've been chewed out before. you know, uitvich and myself, heard that deal you made with the brass. end the war tonight? i'd make that deal. how bout you uitivich, you make that deal? 
-speaker2: i'd make that deal.
-speaker1: i don't blame ya. good deal. and that pretty little nest ya feathered for yourself. well, if your willing to barbecue the whole high command, i suppose that's worth certain considerations. now i don't care about you gettin pensions, merit badges, ticker tape parades, who gives a damn, let's all go home. but .1do have one question? when you go to your little place on nantuckett island, i image you gonna take off that handsome looking ss uniform of yours, ain't ya?
-speaker1: that's what i thought. now that... .i can't abide. how bout you uitivich, can you abide it?
-speaker2: not one bit, sir.
-speaker1: i mean if i had my way, you'd wear that uniform for the rest of your suckin life. but i'm aware that's ain't practical. i mean at some point ya gotta hafta take it off.
-speaker1: so i'm gonna give you a little somethin you can't take off.
+JULIE: pappa. 
+FARMER: go back inside and shut the door.
+
+JULIE: ready pappa. 
+FARMER: thank you darling, now go inside and take care of your mother. don't run.
+NAZI OFFICER: this is the property of perrier lapadite?
+
+NAZI DRIVER: yes heer colonel. 
+OFFICER: herman, until i summon you, i am to be left alone.
+NAZI DRIVER: as you wish heer col.
+NAZI OFFICER: is this the property of perrier lapadite?
+FARMER: i am perrier lapadite.
+NAZI OFFICER: it is a pleasure to meet you monsieur lapadite, i am colonel hans landa of the s.s.
+PERRIER: how may i help you?
+COL LANDA: i was hoping you could invite me inside your home and we may have a discussion.
+
+PERRIER: colonel landa, this is my family. 
+COL LANDA: col hans landa of the s.s. madame, at your service.
+COL LANDA: please excuse my rude intrusion on your routine.
+FARMERS WIFE: don't be ridiculous, heer col.
+COL LANDA: monsieur lapadite, the rumors i have heard in the village about your family are all true. your wife is a beautiful woman.
+
+PERRIER: merci. please have a seat. 
+PERRIER: charlotte, would you be so good as to get the colonel some wine?
+
+COL LANDA: merci be coupe monsieur lapadite, but no wine. this being a dairy farm one would be safe in assuming you have milk? 
+CHARLOTTE: oui.
+COL LANDA: then milk is what i prefer.
+CHARLOTTE: very well.
+COL LANDA: monsieur, to both your family, and your cows, i say; bravo.
+PERRIER: merci.
+COL LANDA: please, join me at your table.
+PERRIER: very well.
+
+COL LANDA: monsieur lapadite, what we have to discuss,' would be better discussed in private. you'll notice, i left my men outdoors- if it wouldn't offend them, could you ask your lovely ladies to step outside. 
+PERRIER: you are right.
+
+COL LANDA: monsieur lapadite, i regret to inform you i've exhausted the extent of my french. to continue to speak it so inadequately, would only serve to embarrass me. however, i've been lead to believe you speak english quite well? 
+PERRIER: oui.
+COL LANDA: well, it just so happens, i do as well. this being your house, i ask your permission to switch to english, for the remainder of the conversation?
+PERRIER: by all means.
+COL LANDA: monsieur lapadite, while i'm very familiar with you, and your family. i have no way of knowing if you are familiar with who i am. are you aware of my existence?
+PERRIER: yes.
+COL LANDA: this is good. are you aware of the job i've been ordered to carry out in france?
+
+PERRIER: yes. 
+COL LANDA: please tell me what you've heard?
+PERRIER: i've heard, the fuhrer has put you in charge of rounding up the jews left in france who are ether hiding, or passing for gentile.
+COL LANDA: the fuhrer couldn't of said it better himself.
+PERRIER: but the meaning of your visit, pleasant though it is, is mysterious to me. the germans looked through my house nine months ago for hiding jews, and found nothing.
+COL LANDA: i'm aware of that, i read the report on this area. but like any enterprise, when under new management, there's always a slight duplication of efforts. most of it being a complete waste of time, but needs to be done nevertheless. i just have a few questions monsieur lapadite, if you can assist me with answers, my department can close the file on your family.
+COL LANDA: now before the occupation there were four jewish families in this area, all dairy farmers like yourself. the loveitts, the doleracs, the rollins, and the dreyfus's, is that correct?
+
+PERRIER: to my knowledge those were the jewish families among the dairy farmers. - heer colonel, would it disturb you if i smoked my pipe? 
+COL LANDA: please, monsieur lapadite, it is your house, make yourself comfortable.
+COL LANDA: now according to these papers, all the jewish families in this area have been accounted for - except, the dreyfusis. somewhere in the last year it would appear they have vanished. which leads me to the conclusion that they've ether made good their escape, or someone is very successfully hiding them.
+COL LANDA: what have you heard about the dreyfusis monsieur lapadite?
+PERRIER: only rumors -
+COL LANDA: - i love rumors! facts can be so misleading, where rumors, true or false are often reveling. so monsieur lapadite, what rumors have you heard regarding the dreyfusis?
+
+COL LANDA: speak freely monsieur lapadite, i want to hear what the rumors are, not who told them to you. 
+PERRIER: again, this is just a rumor - but we heard the dreyfusis had made there way into spain.
+COL LANDA: so the rumors you've heard have been of escape?
+PERRIER: yes.
+COL LANDA: were the lapadites and the dreyfusis friendly?
+
+PERRIER: we were families in the same community, in the same bussiness. i wouldn't say we were friends, but members of the same community, we had common interest. 
+COL LANDA: having never met the dreyfusis, would you confirm for me the exact members of the household and their names?
+
+PERRIER: there were five of them. the father, jacob... .wife, miram... 
+COL LANDA: - how old is bob?
+PERRIER: thirty - thirty one?
+COL LANDA: continue.
+PERRIER: and the children... amos... and shoshanna.
+COL LANDA: ages of the children?
+PERRIER: amos - six - i believe. and shosanna, was fifteen or sixteen, i'm not really sure.
+
+COL LANDA: well i guess that should do it. 
+COL LANDA: however, before i go, could i have another glass of your delicious milk?
+
+PERRIER: but of course. 
+COL LANDA: monsieur lapadite, are you aware of the nickname the people of france have given me?
+PERRIER: i have no interest in such things.
+COL LANDA: but you are aware of what they call me?
+PERRIER: i'm aware.
+COL LANDA: what are you aware of?
+PERRIER: that they call you, "the jew hunter".
+COL LANDA: precisely! now i understand your trepidation in repeating it. before he was assassinated, heydrich apparently hated the moniker the good people of prague bestowed on him. actually why he would hate the name, "the hangman", is baffling to me it would appear he did everything in his power to earn it. but i, on the other hand, love my unofficial title, precisely because i've earned it.
+COL LANDA: the feature that makes me such a effective hunter of the jews, is, as opposed to most german soldiers, i can think like a jew. where they can only think like a german, or more precisely, a german soldier. now if one were to determine what attribute the german people share with a beast, it would be the cunning and predatory instinct of a hawk.
+
+COL LANDA: negro's - gorilla's - brain - lips - 
+PERRIER: i suppose i would.
+COL LANDA: has a rat ever done anything to you to create this animosity you feel toward them?
+PERRIER: rat's spread disease, they bite people -
+COL LANDA: - unless some fool is stupid enough to try and handle a live one, rats don't make it a practise of biting human beings. rats were the cause of the bubonic plague, but that was some time ago. in all your born days, has a rat ever caused you to be sick a day in your life? i purpose to you, any disease a rat could spread, a squirrel could equally carry. yet i assume you don't share the same animosity with squirrels that you do with rats, do you?
+PERRIER: no.
+COL LANDA: yet, they are both rodent's, are they not? and except for the fact that one has a big bushy tail, while the other has a long repugnt tail of rodent skin, they even rather look alike, don't they?
+
+PERRIER: it is a interesting thought, beer colonel. 
+COL LANDA: however, interesting as the thought may be, it makes not one bit of difference to how you feel. if a rat were to scamper through your door, this very minute, would you offer it a saucer of your delicious milk?
+PERRIER: probably not.
+COL LANDA: i didn't think so. you don't like them. you don't really know why you don't like them. all you know is, you find them repulsive.
+PERRIER: please, cononel, make yourself at home.
+
+COL LANDA: the other mistake the german soldier make is their severe handling of the citizens who give shelter and aid to the jews. these citizens are not enemies of the state. they are simply confused people, trying to make some sense out of the madness war creates. these citizens do not need punishing. they simply need to be reminded of their duty in war time. let's use you as a example monsieur lapadite. in this war, you have found yourself in the middle of a conflict that has nothing to do with yourself, your lovely ladies, or your cows - yet, here you are. so monsieur lapadite, let me purpose a question. in this time of war, what is your number one duty? is it to fight the germans in the name of france to your last breath? or, is it to harass the occupying army to the best of your ability? or, is it to protect the poor unfortunate victims of warfare who can not protect themselfs? or, is your number one duty in this time of bloodshed, to protect those very beautiful women who constitute your family? 
+COL LANDA: that was a question monsieur lapadite. in this time of war, what do you consider your number one duty?
+PERRIER: to protect my family.
+COL LANDA: now, my job dictates, that i must have my men enter your home, and conduct a thorough search, before i can officially cross your families name off my list.
+
+COL LANDA: and if there are any irregularities to be found, rest assured, they will be. that is unless, you have something to tell me that will make the conducting of a search unnecessary. 
+COL LANDA: you are sheltering enemies of the state, are you not?
+PERRIER: yes.
+COL LANDA: your sheltering them underneath your floorboards aren't you?
+PERRIER: yes.
+COL LANDA: point out to me the area's where their hiding.
+COL LANDA: since i haven't heard any disturbance, i assume that while their listening, they don't speak english?
+PERRIER: yes .
+COL LANDA: i'm going to switch back to french now, and i want you to follow my masquerade - is that clear?
+
+COL LANDA: monsieur lapadite, i thank you for milk, and your hospitably. i do believe our business here is done. 
+COL LANDA: mademoiselle lapadite, i thank you for your time, we shant be bothering your family any longer.
+COL LANDA: so, monsieur and madame lapadite i bid you adieu.
+
+LTHY BAREFEET: lapping against wet grass. qt! shosannma' s face 
+SNOSANNA'S POV: the safety of tree's, getting closer.
+
+CU COL LANDA: slow zoom into his eyes as he aims. 
+PROFILE CU SHOSANNA: sod dash for life.
+
+COL LANDA: au revoir, shosanna! till we meet again! 
+HOSANNA: maces it to the woods, and is gone.
+
+COL LANDA: herman, i sense` a question on your lips? out with it? 
+DRIVER: why did yoy allow a enemy of the state to escape?
+COL LANDA: oh, i don't think the state is in too much danger, do you?
+DRIVER: i suppose not.
+COL LANDA: i'm glad you see it my way. besides, not putting a bullet in the back of a fifteen year old girl, and allowing her to escape, our not nessessarlly the same thing. she's a young girl, no food, no shelter, no shoes, who's just witnessed the massacre of her entire family. she may not survive the night. and after word spreads about what happened today, it's highly unlikely she will find any willing farmers to extend her aid. if i had to guess her fate, i'd say she'll probably be turned in by some neighbour. or, she'll be spotted by some german soldier. or, we'll find her body in the woods, dead from starvation or exposure. or, perhaps-she'll survive. she will elude capture. she will escape to america. she will move to new york city. where she will be elected, president of the united states.
+
+LT.ALDO: we will be cruel to the germans, and through our cruelty, they will know who we are. they will find the evidence of our cruelty, in the disembowed, dismembered, and disfigured bodies of their brothers we leave behind us. and the german will not be able to help themselves from imagining the cruelty their brothers endured at our hands, and our boot heels, and the edge of our knives. and the germans, will be sickened by us. and the germans, will talk about us. and the germans, will fear us. and when the germans close their eyes at night, and their sub conscious tortures them for the evil they've done, it will be with thoughts of us, that it tortures them with. 
+LT. ALDO: sound good?
+ALL: yes, sir!
+LT.ALDO: that's what i like to hear. but i got a word of warning to all would-be warriors. when you join my command, you take on debit. a debit you owe me, personally. every man under my command, owes me, one hundred scalps. and i want my scalps. and all y'all will git me, one hundred scalps, taken from the heads of one hundred dead nazi's...
+
+HITLER: how much more of these jew swine must i endure? they butcher my men like they were fish bait! this pack of filthy degenerates, are doing what the russian army didn't, and patton's army couldn't. turning soldiers of the third reich, into superstitious old women! 
+GERMAN GENERAL: just the cowards among them mine fuhrer.
+HITLER: no, no, no, no, no, no! i have heard the rumors myself! solders of the third reich, who have brought the world to there knee`s, now pecking and clucking like chickens. do you know the latest rumor they've conjured up, in their fear induced delirium? the one that beats my boys with a bat. the one they call "the bear jew"...is a golem. a avenging jew angel, conjured up by a vengeful rabbi, to smite the aryans!
+GENERAL: mine fuhrer, this is just soldiers gossip, no one really believes the bear jew is a golem.
+HITLER: why not? they seem to be able to elude capture like a aberration. they seem to be able to appear and disappear at will.
+
+HITLER: you want to prove their flesh and blood? then bring them to me! i will hang them naked, by their heels, from the eiffel tower! and then throw their bodies in the sewers, for the rats of paris to feast! 
+HITLER: the bear jew.
+
+KLIEST1: kliest voice comes out of the intercom; 
+KLIEST'S VOICE: year mine fuhrer.
+HITLER: i have a order i want relayed to all german soldiers stationed in france. the jew degenerate known as the bear jew, hence forth, is never to be referred to as the bear jew again. we will cease to aid the americans any longer in there attempt to undermine the german soldier psyche.
+KLIEST'S VOICE: yes mine fubrer. do you still wish to see private butz?
+HITLER: who and what is a private butz?
+KELIST'S VOICE: he's the soldier you wanted to see personally. his squad was ambushed by lt.raines jews. he was it's only survivor.
+HITLER: indeed i do want to see him, thank you for reminding me. send him in.
+
+PVT.BUTZ: werner and i were the only ones left alive after the ambush. while one man guarded us, the rest removed the hair. all the basterds wore german scalps tied to their belts. 
+CU SCALPS: hanging from belts.
+PVT.BUTZ: they not only took valuables...
+
+PVT.BUTZ: .and tore out the identification page. 
+PVT.BUTZ: ...they then removed their boots...
+CU GERMAN COMBAT BOOTS: laces untied.. .boot pulled off...
+SOCKS: removed, reveling dead bare feet...
+BASTERDS: tossing the boots off a hill.
+PVT.BUTZ: throwing them away from the bodies...
+
+HITLER: the dogsl he fights his frustration, then... 
+HITLER: continue.
+
+LT.ALDO: hey hirschberg, send that kraut sarge over. 
+BASTERD PFC.HIRSCHBERG: kicks sgt.rachtman in the back.
+
+PFC.HIRSCHBERG: you! go! 
+NARRATOR: sgt.werner rachtman has seen many interrogations since germany decided it should rule europe. but this is the first time he's ever been on the wrong end of the exchange. it's always been his belief, only a weakling, in mind, body, and spirt complies with the enemy under threat of consequence. as werner watched men cry like women, pleadingly offer their knowledge, in exchange for their worthless lives, he made a vow to himself. if his role is to die in this conflict. when they put him under the earth, his dignity would be buried with him. for in the other world, the gods only respect the ones they test first. well sgt, this is your test. and the gods are watching. the captured german sgt, enters the circle of basterds,
+SGT.RACHTMAN: sgt.werner rachtman.
+LT.ALDO: lt.aldo raine, pleased to meet cha.
+SGT.RACHTMAN: yes.
+LT.ALDO: then sit down.
+
+2.5.: the german sgt does. 
+LT.ALDO: hows your english werner? cause if need be, we gotta a couple fellas can translate.
+
+LT.ALDO: wicki there, a austrian jew, got the outta saltzberg, while the gettin was good. became american, got drafted, and came back to give y'all what for. 
+LT.ALDO: and another one over there, you might be familiar with, sgt.hugo stiglitz. heard of 'em.
+SGT.RACHTMAN: everybody in the german army's heard of hugo stiglitz.
+NARRATOR: the reason for hugo stiglitz's celebrity among german soldiers is simple.
+NARRATOR: as a german enlisted man, he killed thirteen gestapo officers, mostly majors.
+
+NARRATOR: instead of putting him up against a wall, the high command decided to send him back to berlin, to be made a example of. 
+NARRATOR: needless to say, once the basterds heard about him, he never got there.
+
+LT.ALDO: sgt.hugo stiglitz? 
+LT. ALDO: i'm lt.aldo raine, and these are the basterds. ever heard of us?
+LT.ALDO: we just wanna say, we're a big fan of your work. when it comes to killin nazi's, i think you show great talent, and i pride myself on havin a eye for that kind of talent. but your status as a killer, is still amateur.
+
+LT.ALDO: now werner, i'm gonna assume you know who we are? 
+SGT.RACHTMAN: aldo the apache.
+
+LT.ALDO: well werner, if you heard of us, you probably heard, we ain't in the prisoner takin business. we in the killin business. and cousin, business is boomin. 
+LT. ALDO: now that leaves two ways we can play this out. either kill ya, or let ya go. now weather or not you gonna leave this circle alive, depends entirely on you.
+LT.ALDO: up the road a piece, there's a orchard. 'sides you, we know there's another kraut patrol around here somewhere. now if that patrol were to have any crackshots, that orchard, would be a snipers delight. now if you ever wanna eat a sauerkraut sandwich again, you gotta show me on this map, where they are, you gotta tell me how many they are, and you gotta tell me, what kinda artillery they carrying with 'em?
+SGT.RACHTMAN: you can't expect me to divulge information that would put german lives in danger?
+LT.ALDO: well, werner that's where your wrong. because that's exactly what i expect. i need to know about germans hidin in trees? and you need to tell me? and you need to tell me, right now? now take your finger, and point out on this map, where this partys bein held, how manys comin, and what they brought to play with?
+
+SGT.WERNER: i respectfully refuse, sir. 
+LT.ALDO: you see that ole boy battin rocks?
+LT.ALDO: that's sgt.donny donowitz. but you might know him better by his nickname, the bear jew. now if you heard of aldo the apache, you gotta heard about the bear jew?
+SGT.RACHTMAN: i heard.
+LT.ALDO: what did you hear?
+SGT.RACHTMAN: he beats german soldiers with a club.
+LT.ALDO: he bashes their brains in with a baseball bat, what he does.
+
+LT. ALDO: now werner, i'm gonna ask you one last-goddamn-time, and if you still, "respectfully refuse", i'm callin the bear jew over here, and he's gonna take that big bat of his, and he's gonna beat your to death with it. now take your wennersitnitzel lickin finger, and point out on this map what i want to know. 
+SGT.RACHTMAN: you and your jew dogs.
+
+SGT.DONOWITZ: he turns to camera, and yells; 
+SGT.DONOWITZ: yeah?
+LT.ALDO: got a german here wants to die for country. oblige him.
+SGT.DONNY DONOWITZ: bat over his shoulder, smiles.
+
+DONNY: .ya got the germans, declaring open season on jews in europe, and i'm suppose to fly to the philippines, and fight a bunch of japs - not me pal. if we just go in this against the japs, the whole u.s.of a can go take a running jump at the moon. 
+HEAD: you know they got a word for what your sayin donny, it's called treason.
+DONNY: hey, stick your treason up your hole. if i'm gonna kill my fellow man in the name of liberty, that fellow man, will be german.
+
+MR.GOOROWITZ: hello donny, how are you? 
+DONNY: ah, just dandy, mr.goorowitz.
+MR.GOOROWITZ: your mother, your father - everything good there?
+DONNY: there just fine. i'm shippin off next week.
+MR.GOOROWITZ: good for you son. kill one of those basterds for me, will ya?
+DONNY: that's the idea, mr.goorowitz.
+MR.GOOROWITZ: what can i do you for, donny?
+DONNY: i need a baseball bat.
+MR.GOOROWITZ: you gettin your little brother a present before you ship out?
+DONNY: no.
+DONNY: can i try this one on for size, outside?
+
+31.: extending his arm; 
+MR.GOOROWITZ: be my guest.
+MR.GOOROWITZ: i'll get that, you go right ahead.
+DONNY: take that ya basterd! you like with the jews? wanna with the jews? the american jews are gonna with you... ..!
+DONNY: is this the heaviest ya got?
+
+OLD WOMAN: how can i help you? 
+DONNY: mrs.himmelstein?
+MRS.HIMMELSTEIN: state your business young man.
+
+DONNY: mrs.himmelstein, i'm donny donowitz, my father sy donowitz, owns the barber shop on greeny ave, "sy's barber shop". 
+MRS.HIMMELSTEIN: i've seen it. do you live in the neighbourhood?
+DONNY: all my life.
+MRS.HIMMELSTEIN: again, state your business?
+DONNY: may i have a word with you?
+MRS.HIMMELSTEIN: what about?
+DONNY: our people in europe.
+MRS.HIMMELSTEIN: come in. would you like some tea?
+
+DONNY: very good. 
+MRS.HIMMELSTEIN: if you like tea.
+DONNY: mrs.himmelstein, do you have any love ones over in europe who your concerned for?
+
+MRS.HIMMELSTEIN: what compels you young man, to ask a stranger such a personal question? 
+DONNY: because i'm going to europe. and i'm gonna make it right.
+MRS.HIMMELSTEIN: and just how do intend to do that, joshua?
+
+MRS.HIMMELSTEIN: and what exactly do you intend to do with that toy? 
+DONNY: i'm gonna beat every i find to death with it.
+MRS.HIMMELSTEIN: i thought we were having tea together?
+MRS.HIMMELSTEIN: and in this pursuit, how is it that i can be of service?
+DONNY: i'm going through the neighbourhood. if you have any love ones in europe, who's safety you fear for, i'd like you to write their name on my bat.
+BACK TO BASTERDS: donny takes a long walk to werner...
+
+DONNY: you bet your sweet i am. 
+MRS.HIMMELSTEIN: good. a basterds work is never done. specially in germany.
+DONNY: gimmie your papers.
+MRS.HIMMELSTEIN: hand me your sword gideon. i do believe i will join you on this journey.
+INSERT: she signs the bat, "madeleine"
+
+PVT.BUTZ: watches. hirschberg says to him; 
+PFC.HIRSCHBERG: about now, i'd be shittin my pants, if i was you.
+PFC.HIRSCHBERG: that means you, cup cake.
+LT.ALDO: you wanna live?
+PVT.BUTZ: yes, sir.
+LT.ALDO: point out on this map, the german position.
+
+PVT.BUTZ: this area here. 
+LT.ALDO: how many?
+PVT.BUTZ: maybe twelve.
+LT.ALDO: what kinda of artillery?
+PVT.BUTZ: they have a machine gunn dug in here pointing north.
+HITLER: how did you survived this ordel?
+PRVT.BUTZ: they let me go.
+
+LT.ALDO: now when you report what happened here, you can't tell 'em, you told us, what you told us. they'll shoot ya. but there gonna wanna know, why you so special, we let you live? so tell 'em, we let ya live, so you could spread the word through the ranks, what's gonna happen to every we find. 
+HITLER: you are not to tell anybody anything! not one word of detail! your outfit was ambushed, and you got a away.
+PVT.BUTZ: yes mine fuhrer.
+HITLER: did they mark you like they did the other survivors?
+
+PVT.BUTZ: yes mine fuhrer. 
+HITLER: remove your hat and show me.
+LT.ALDO: now say we let ya go, and say you survive the'war? when you get back home, what'eha gonna do?
+PVT.BUTZ: i will hug my mother like i've never hugged her before.
+LT.ALDO: well, ain't that's a real nice boy. are you going to take off your uniform?
+PVT.BUTZ: not only shall i remove it, but i intend to burn it!
+LT. ALDO: yeah, that's what we thought. we don't like that. you see, we like our nazi's in uniforms. that way, you can spot 'em, just like that. but you take off that uniform, ain't nobody gonna know you was a nazi. and that don't sit well with us.
+LT.ALDO: so i'm gonna give ya a little somethin, you can't take off.
+
+MADAME MIMIEUX: so young woman, since it's beyond obvious we're closed for the evening. i must assume you want something. what can i do for you? 
+SHOSANNA: may i sleep here tonight?
+MADAME MIMIEUX: so i gather your not a nurse?
+SHOSANNA: no.
+MADAME MIMIEUX: but your a bright little thing, that's clever disguise. where is your family?
+SHOSANNA: murdered.
+
+MADAME MIMIEUX: so your a war orphan? 
+SHOSANNA: we were from nancy. the bosch found us
+MADAME MIMIEUX: is this a sad story?
+SHOSANNA: oui.
+MADAME MIMIEUX: sad stories bore me. these days everyone in paris has one. i haven't bore you with mine, don't bore me with yours.
+SHOSANNA: you can run the machines?
+MADAME MIMIEUX: what machines?
+SHOSANNA: the machines that show the film?
+MADAME MIMIEUX: the projectors? yes, i own a cinema, of course i can operate them.
+SHOSANNA: i know, i saw you.
+
+MADAME MIMIEUX: i know at least six people who've been put up against a wall, and machine gunned for sheltering enemies of the state. i have no intention of being unlucky number seven. how long have you been in paris? 
+SHOSANNA: a week, and a few days.
+MADAME MIMIEUX: how have you survived the curfew without capture?
+SHOSANNA: i sleep on rooftops.
+MADAME MIMIEUX: again, i'm forced to admit, clever girl. how is it?
+SHOSANNA: cold.
+MADAME MIMIEUX: i can imagine.
+SHOSANNA: respectfully, no you can't.
+MADAME MIMIEUX: fair enough.
+MADAME MIMIEUX: so you can't operate a 35mm film projector, you want me teach you, in order to work here, in order to use my cinema, as a hole to hide in, is that correct?
+SHOSANNA: oui.
+MADAME MIMIEUX: whats your name?
+SHOSANNA: shosanna.
+
+MADAME MIMIEUX: i'm madame mimieux. you may call me madame. this is a cinema. not a home for wayward war orphans. having said that, what you say is true. if you were truly exceptional, i could find use for you. so shosanna, are you truly exceptional? 
+SHOSANNA: oui madame.
+MADAME MIMIEUX: i will be the judge of that.
+
+EXT - CINEMA - NIGHT: the marquee reads in french: 
+NARRATOR: to operate a cinema in paris during the occupation, one had two choices. ether you could show new german propaganda films, produced under the watchful eye of joseph goebbels. or... .you could have a german night in your weekly schedule, and show allowed german classic films. their german night was thursday.
+GERMAN SOLDIER: what starts tomorrow?
+
+SHOSANNA: a max linder festival. 
+GERMAN SOLDIER: ummmm, i always preferred linder to chaplin. except linder never made a film as good as "the rid". the chase climax of "the kid", superb.
+GERMAN SOLDIER: i suppose now you could use a "m" a "a" and a "x"?
+SHOSANNA: no need, i can manage.
+GERMAN SOLDIER: don't be ridiculous, it's my pleasure.
+SHOSANNA: merci.
+GERMAN SOLDIER: i adore your cinema very much.
+SHOSANNA: merci.
+
+SHOSANNA: my aunt left it to me. 
+GERMAN SOLDIER: lucky girl.
+GERMAN SOLDIER: merci for hoisting a german night.
+SHOSANNA: i don't have a choice, but your welcome.
+GERMAN SOLDIER: do you chose the german films yourself?
+SHOSANNA: oui.
+GERMAN SOLDIER: then my merci stands. i love the refensthal mountain films, especially, "pizu palu". it's nice to see a french girl who's a admirer of refensthal.
+SHOSANNA: "admire", would not be the adjective i would use to describe my feelings towards fraulein refensthal.
+GERMAN SOLDIER: but you do admire the director. pabst, don't you? that's why you included his name on the marquee.
+SHOSANNA: i'm french. we respect directors in our country.
+GERMAN SOLDIER: apparently even germans.
+SHOSANNA: even germans. merci for assistance, private. adieu.
+GERMAN SOLDIER: your not finished?
+
+SHOSANNA: i'll finish in the morning. 
+GERMAN SOLDIER: may i ask your name?
+SHOSANNA: you wish to see my papers?
+GERMAN SOLDIER: emmanuelle mimieux. that's a very pretty name.
+SHOSANNA: merci. are you finished with my papers?
+GERMAN SOLDIER: mademoiselle. my name is fredrick zoller. she gives no response.
+GERMAN SOLDIER: it's been a pleasure chatting with a fellow cinema lover. sweet dreams, mademoiselle.
+
+MADAME MIMIEUX: if i ever see you light up a cigarette in my cinema again, i'll turn you into the nazi's, do you understand? 
+SHOSANNA: oui, madame.
+MADAME MIMIEUX: and for bringing a open flame in my cinema, you deserve far worse then a jewish boxcar. with your thick head, what do you think the highest priority of a cinema manager is? keeping this place from burning down to the ground, that's what! in my collection, i have over 350, 35mm, nitrate film prints, which are not only immensely flammable, but highly unstable. and should they catch fire, they burn three times faster then paper. if that happens.. .poof...all gone, cinema no more, every body burned alive. if i ever see you with a open flame in my cinema again, i won't turn you into the nazi's i'll kill you myself. and the germans will give me a curfew pass.
+SHOSANNA: out, madame.
+MADAME MIMIEUX: do you believe me?
+SHOSANNA: out, madame.
+MADAME MIMIEUX: you well better.
+BACK TO ROOF: shosanna exhales cigarette smoke.
+MARCEL: are you well?
+
+SHOSANNA: even on the roof i can't smoke a cigarette without hearing madames voice yelling at me. that's why i do it. to hear madames voice again. 
+MARCEL: we both miss her.
+SHOSANNA: i know. i'm fine, darling. i'll be to bed soon.
+
+FREDRICK: may i join you? 
+SHOSANNA: look fredrick -
+FREDRICK: - you remember my name?
+SHOSANNA: yes....look, you seem a pleasant enough fellow -
+FREDRICK: - merci.
+SHOSANNA: your welcome. - regardless, i want you to stop pestering me.
+FREDRICK: i apologize mademoiselle, i wasn't trying to be a pest. i was simply trying to be friendly.
+SHOSANNA: i don't wish to be your friend.
+
+FREDRICK: why not? 
+SHOSANNA: don't act like a infant. you know why.
+FREDRICK: i'm more then just a uniform.
+SHOSANNA: not to me. if you are so desperate for a french girlfriend, i suggest you try vichy?
+SHOSANNA: who are you?
+FREDRICK: i thought i was just a uniform?
+SHOSANNA: your not just a german soldier, are you somebodies son?
+FREDRICK: most german soldiers are somebodies son.
+SHOSANNA: yeah, but your not just somebody. what are you, hitlers nephew?
+FREDRICK: yes.
+SHOSANNA: really?
+FREDRICK: no not really, i'm just teasing you.
+SHOSANNA: then what is it? what are you, a german movie star?
+
+FREDRICK: not exactly. 
+SHOSANNA: , what does that mean, "not exactly". i asked if you were a movie star, the answer to that question, is yes or no. fredrick laughs at that line.
+FREDRICR: when you said that just now, you reminded me of my sister.
+FREDRICR: i come from a home of six sisters. we run a family operated cinema in munich. seeing you run around your cinema, reminds me of them. especially my sister helga. she raised me, when our father wasn't up to the job. i admire her very much. you'd like her, she doesn't wear a german uniform.
+SHOSANNA: you were raised by helga?
+FREDRICK: all my sisters, i'm the baby, but helga was the bossiest.
+SHOSANNA: and your mother and father?
+FREDRICK: my mother died. and my father was a loser. my fathers moto; "if at first you don't succeed, quit". the day he left, good riddance. my sisters are all i need. it's why i like your cinema. it makes me feel both closer to them, and a little homesick at the same time.
+SHOSANNA: is your cinema still operatiing?
+FREDRICR: oui.
+SHOSANNA: what's it called?
+
+FREDRICK: the kino haus. 
+SHOSANNA: how has it done durring the war?
+FREDRICK: actually, in germany, cinema attendance is up.
+SHOSANNA: no doubt, you don't have to operate under a curfew.
+FREDRICK: how often do you fill your house?
+SHOSANNA: , not since before the war.
+FREDRICK: so if you had one big engagement, that would help you out?
+SHOSANNA: of course, but that's not likely to happen.
+SHOSANNA: so your a war hero? why didn't you tell me?
+FREDRICK: everybody knows that, i liked you didn't.
+SHOSANNA: what did you do?
+FREDRICK: i've shot the most enemy soldiers in world war two...so far.
+SHOSANNA: wow.
+
+FREDRICK: i was alone in a bell tower in a walled off city in russia. it was myself, and a thousand rounds of ammo, in a bird's nest, against three hundred soviet soldiers. 
+SHOSANNA: what's a bird's nest?
+FREDRICK: a bird's nest is what a sniper would call a bell tower. it's a high structure, offering a three hundred and sixty degree view. very advantageous for marksmen.
+SHOSANNA: how many russian's did you kill?
+FREDRICK: sixty-eight.
+FREDRICK: the first day. a hundred and fifty the second day. thirty-two, the third day. on the forth day, they exited the city. naturally my war story received alot of attention in germany, that's why they all recognize me. they call me the german sgt.york.
+SHOSANNA: maybe they'll make a film about your exploits.
+FREDRICK: well, that's just what joseph goebbels thought. so he did. it's called "nation's pride", and guess what, they wanted me to play myself, so i did. they have posters for it in kiosks all over paris. that's another reason for all the attention.
+SHOSANNA: "nation's pride" is about you? "nation's pride" is starring you?
+FREDRICK: i know, comical, huh?
+SHOSANNA: not so comical. so what are you doing in paris, enjoying a rest?
+
+FREDRICK: hardly. i've been doing publicity, having my picture taken with different german luminaries, visiting troops, that sort of thing. goebbels wants the film to premier in paris, so i've been helping them in the planning. joseph is very keen on this film. he's telling anybody who will listen, when "nation's pride" is released, i'll be the german van johnson. 
+SHOSANNA: well, good luck with your premier private. i hope all goes well for joseph and yourself. au revoir.
+EXT - CINEMA MARQUEE - DAY: it's the next day.
+
+GESTAPO MAJOR: mademoiselle nimieux? 
+SHOSANNA: oui?
+GESTAPO MAJOR: ask her if this is her cinema?
+DRIVER: is this your cinema?
+
+GESTAPO MAJOR: tell her to come down. 
+DRIVER: come down please. she climbs down the ladder.
+SHOSANNA: i don't understand, what have i done?
+DRIVER: she wants to know what she's done?
+GESTAPO MAJOR: who says she's done anything?
+DRIVER: who says you've done anything?
+SHOSANNA: then i demand to know what this is about, and where do you propose to take me?
+
+GOEBBELS: - it's only the off spring of slaves that allows america to be competitive athletically. america olympic gold can measured in sweat. 
+FREDRICK: good you came. i wasn't sure weather or not you'd except my invitation.
+
+SHOSANNA: invitation? 
+THEN...: .goebbles voice says off screen;
+GOEBBLES: is that the young lady in question, fredrick?
+FREDRICK: yes it is, beer goebbels. emmanuelle, there is somebody i want you to meet.
+FREDRICK: emmanuelle mimieux, i'd like to introduce you to the minister of propaganda, the leader of the entire german film industry, and now i'm a actor, my boss, joseph goebbels.
+GOEBBELS: your reputation precedes you fraulein mimieux.
+FREDRICK: and normally, this is beer goebbels french interpreter, mademoiselle francesca mondino.
+FRANCESCA: looks up at shosanna.
+
+5'?: narrator's voice comes on soundtrack; 
+NARRATOR: francesca mondino is much more then goebbels french interpreter. she's also goebbels favorite french actress to appear in his films...
+
+GERMAN  SOLDIER.: she speaks in french, subtitled in to english; 
+FRANCESCA/PEASANT GIRL: i love you, i can't help it. my country or my heart, which do i betray?
+
+FRANCESCA: do it! do it! me - fill me! 
+BACK TO FRANCESCA: looking at shosanna.
+FRANCESCA: bon jour.
+SHOSANNA: bon jour.
+
+I: f. 
+FREDRICK: and you've met the major.
+GESTAPO MAJOR: actually, i didn't introduce myself. major deiter helistrom of the gestapo, at your service mademoiselle. please allow me, have a seat.
+MAJOR HELLSTROM: try the wine mademoiselle, it's quite good. goebbels looks across the table at her.
+GOEBBELS: well i must say, you've made quite a impression on our boy.
+GOEBBELS: i must say fraulein, i should be rather annoyed with you.
+GOEBBELS: i arrive in france, and i wish to have lunch with my star...
+GOEBBELS: little do i know be's become the toast of paris, and now he must find time for me.
+
+GOEBBELS: people wait in line hours, day's, to see me. for the fuhrer and private zoller, i wait. 
+GOEBBELS: so finally, i'm granted a audience with the young private, and he spends the entire lunch speaking of you and your cinema.
+GOEBBELS: so fraulein mimieux, let's get down to business.
+FREDRICK: - heer goebbels, i haven't informed her yet.
+GOEBBELS: unless the girls a simpleton, i'm sure she's figured it out by now, after all she does operate a cinema. francesca, tell her.
+FRANCESCA: what they're trying to tell you emmanuelle, is private zoller has spent the last hour at lunch, trying to convince monsieur goebbels to abandon previous plans for private zollers film premier, and change the venue to your cinema.
+
+FREDRICK: i wanted to inform her. 
+FRANCESCA: i apologize private, of course you did.
+
+FRANCESCA: the private wanted to inform the mademoiselle himself. 
+GOEBBELS: nonsense. until i ask a few questions, he has nothing to inform. let the record state, i have not agreed to a venue change.
+MAJOR HELLSTROM: duly noted.
+GOEBBELS: you have opera boxes?
+
+GOEBBELS: more would be better. how many seats in your auditorium? 
+SHOSANNA: three hundred and fifty.
+GOEBBELS: that's almost four hundred less then the ritz.
+FREDRICK: but beer goebbels, that's not such a terrible thing. you said yourself you didn't want to indulge every two faced french bourgeois taking up space currying favor. with less seat's it makes the event more exclusive. your not trying to fill the house, their fightin g for seats.
+
+FREDRICK: besides, to with the french. this is a german night, a german event, a german celebration. this night is for you, me, the german military, the high command, their family and friends. the only people who should be allowed in the room, are people who will be moved by the exploits on screen. 
+GOEBBELS: i see your public speaking has improved. it appears i've created a monster. a strangely persuasive monster. when the war's over, politics awaits.
+GOEBBELS: well private, though it is true, i'm inclined to indulge you anything. i must watch a film in this young ladies cinema before i can say, yes or no. so young lady, you are to close your cinema tonight, and have a private screening me.
+GOEBBELS: what german films do you have?
+SHOSANNA: my cinema , on german night, tends to show older german classics.
+GOEBBELS: why not my films?
+
+SHOSANNA: i draw a older german audience in my cinema, that appreciate the nostalgia of the earlier time. 
+GOEBBELS: that's nonsense fraulein. us germans are looking forward, not backwards. that era of german cinema is dead. the german cinema i create, will not only be thee cinema of europe. but the worlds only alternative to the degenerate jewish influence of hollywood.
+FREDRICK: along with being a cinema owner, emmanuelle is quite a formidable film critic.
+GOEBBELS: wso it would appear. unfortunately for the fraulein, i've outlawed film criticism.
+FREDRICK: why don't you screen "lucky kids"? i'm sure emmanuelle hasn't seen. it. and it's so funny, i've been meaning to recommend it to her, for her german night. that's a great idea, let's watch "lucky kids" tonight.
+GOEBBELS: ahhh, "lucky kids", "lucky kids", "lucky kids". when all is said and done, my most purely enjoyable production. not only that, i wouldn't be surprised, if sixty years from now, it's "lucky kids" that i'm the most remembered for. i know it doesn't seem like it now, but mark my words. very well, i'll have a print sent over to the fraulein'.s cinema.
+
+63: as francesca interprets this for shosanna... 
+GOEBBELS: ah landa, your here, this is the young lady in question.
+FREDRICK: shosanna, this4pol hans landa of the ss., he'll be running security for the premier.
+
+COL LANDA: charmed mademoiselle. 
+MAJOR HELLSTROM: better known as "the jew hunter".
+GOEBBELS: oh francesca, what was that funny thing the fuhrer said about hans?
+FRANCESCA: what thing?
+GOEBBELS: you know, you were there, it was a funny thing the fuhrer said, about hans...something about a pig?
+FRANCESCA: oh, yes of course.
+
+GOEBBELS: oh, yes of course, that's it. so the fuhrer said, he wouldn't be surprised if hans weren't rooting out jews like a truffle pig from the play pen. 
+FRANCESCA: that's what we need, pigs that can root out jews.
+COL LANDA: who needs pigs when you have me?
+GOEBBELS: do you have a engagement tonight?
+COL LANDA: well, as a matter of fact, i do -
+GOEBBELS: - break it. we're all going to the fraulein's cinema tonight to view "lucky kids".
+COL LANDA: splendid.
+
+FRANCESCA: and now i must get reich minister goebbels to his next appointment. 
+GOEBBELS: slave driver! french slave driver! they all chuckle.
+COL LANDA: actually, in my role as security chief of this joyous german occasion, i'm afraid i must have a word with mademoiselle mimieux.
+
+FREDRICK: what sort of discussion? 
+COL LANDA: that sounded suspiciously like a private questioning the order of a colonel? or am i just being sensitive?
+FREDRICK: nothing could be further from the truth colonel. your authority is beyond question. but your reputation does proceed you. should mademoiselle mimieux or myself be concerned?
+GOEBBELS: hans, the boy means no harm, he's simply smitten. and he's correct. your reputation does proceed you.
+COL LANDA: no need for concern, you two. as security chief, i simply need to have a chat with the possible new venue's property owner.
+FREDRICK: i was just hoping to mademoiselle mimieux back to her cinema.
+GOEBBELS: nonsense! you can eat ice cream, and walk along the sienne another time. right now, allow col landa to do his job. everybody saystheir farewells.
+
+COL LANDA: have you tried the strudel here? 
+SHOSANNA: no.
+COL LANDA: it's not so terrible. so how is it the young private and yourself came to be acquainted?
+COL LANDA: yes, two strudels, one for myself, and one for the mademoiselle. a cup of espresso, with a container of. steamed milk, on the side. for the mademoiselle, a glass of milk.
+COL LANDA: so mademoiselle, you were beginning to explain....?
+SHOSANNA: up untill a couple of days ago, i had no knowledge of private zoller, or his exploits. to me, the private was simply just a patron of my cinema.
+COL LANDA: - mademoiselle, let me interrupt you. this is a simple formality, no reason for you to feel anxious.
+
+COL LANDA: i apologize, i forgot to order the cream fresh. 
+WAITER: one moment.
+COL LANDA: wait for the cream.
+BUSINESS): so emmanuelle - may i call you emmanuelle?
+SHOSANNA: oui.
+COL LANDA: so emmanuelle, explain to me how does it happen, that a young lady such as your self, comes to own a cinema?
+COL LANDA: after you.
+
+.COL LANDA: like i said, not so terrible. 
+BUSINESS): so you were explaining the origin of your cinema ownership?
+
+SHOSANNA: the cinema originally belonged to my aunt and uncle - 
+COL LANDA: - what is there names?
+SHOSANNA: jean-pierre and ada mimieux.
+COL LANDA: where are they now?
+SHOSANNA: my uncle was killed during blitzkrieg.
+COL LANDA: pity... . continue.
+SHOSANNA: aunt ada passed away from fever last spring.'
+COL LANDA: regrettable.
+
+SHOSANNA: yes, he's a frenchman. his name is marcel. he worked with my aunt and uncle since they opened the cinema. he's the only other one who works with me. 
+COL LANDA: doing what?
+SHOSANNA: projectionist.
+COL LANDA: is he any good?
+SHOSANNA: the best.
+
+COL LANDA: actually one could see where that might be a good trade for them. 
+SHOSANNA: of course i can.
+COL LANDA: knowing the reich minister as i do, i'm quite positive he wouldn't want the success or failure of his illustrious evening, dependent on the prowess of a negro. so if it comes to pass we hold this event at your venue, talented no doubt, as your may be, you will operate the projectors. is that exceptable?
+SHOSANNA: oui.
+COL LANDA: so it would appear our young hero is quite smitten with you?
+SHOSANNA: private zollers feelings for me aren't of a romantic nature.
+COL LANDA: mademoiselle...?
+SHOSANNA: colonel, his feelings are not romantic. i remind him of his sister.
+COL LANDA: that doesn't mean his feelings aren't romantic.
+SHOSANNA: i remind him of his sister who raised him.
+
+COL LANDA: it's sounding more and more romantic by the minute. 
+COL LANDA: cigarette?
+SHOSANNA: no thank you.
+COL LANDA: do you smoke?
+SHOSANNA: yes.
+COL LANDA: then i insist, you must take one. there not french, there german. i hope your not nationalist about your tobacco, to me french cigarettes are a sin against nicotine.
+COL LANDA: i did have some thing else i wanted to ask you, but right now, for the life of me, i can't remember what it is. oh well, must not of been important.
+COL LANDA: till tonight.
+
+CU FRANCESCA: laughing at the comedy, hand covering her mouth. 
+CU TWO BLACK POODLES: pantingly watching the screen.
+CU MAJOR HELLSTROM: smiling, smoking a french cigarette.
+CU COL LANDA: smoking his calabash, amused.
+CU FREDRICK ZOLLER: truly enjoying himself.
+CU SHOSANNA: watching the screen.
+NARRATOR: while shosanna sits there pretending to be amused by the aryan antics of goebbels frank capra copy, "lucky kids", a thought suddenly comes to her.
+NARRATOR: what if tonight, accidently, the cinema burned down? the third reich would lose it's minister of propaganda, it's national hero, and it's top jew hunter, all in one fell swoop.
+SILVER SCREEN: "the end" card for "lucky kids" is projected.
+
+NARRATOR: the screening of "lucky kids" was a complete success. and heer goebbels conceded to have the venue changed to shosannas cinema. not only that, in a moment of inspiration, heer goebbels had a idea. 
+GOEBBELS: i must say, i appreciate the modesty of this auditorium. your cinema has real respect, almost church like. not to say we couldn't spruce the place up a bit. in versailles there's a crystal chandelier hanging in the banquet hall that is extraordinary. we're going to get it, and hang it from the very middle of auditorium roof. also i want to go to louvre, pick up a few greek nudes, and just scatter them about the lobby.
+
+NARRATOR: as they left the little french cinema that night, all the germans were very happy... 
+NARRATOR: none more so then private zoller.
+MARCEL: what the are we suppose to do?
+SHOSANNA: it looks like we're suppose to have a premier.
+MARCEL: like i said, what the are we suppose to do?
+SHOSANNA: well, i need to speak with you about that.
+MARCEL: about what?
+SHOSANNA: about these hun swine, commandeering our cinema.
+MARCEL: what about it?
+
+SHOSANNA: well, when i was watching the bosch 
+SHOSANNA: capra-corn abomination,
+SHOSANNA: i got a idea.
+MARCEL: i'm confused, what are we talking about?
+SHOSANNA: filling the cinema with nazi's and their whores, and burning it down to the ground.
+MARCEL: i'm not talking about that, your talking about that.
+SHOSANNA: no, we're talking about that, right now. if we can keep this place from burning down by ourselves, we can burn it down by ourselves.
+MARCEL: shosanna -
+SHOSANNA: no, marcel, just for sake of argument, if we wanted to burn down the cinema, for any number of reasons, you and i could physically accomplish that, no?
+MARCEL: oui shosanna, we could do that.
+SHOSANNA: and with madame mimieux's 350 nitrate film print collection, we wouldn't even need explosives, would we?
+MARCEL: you mean we wouldn't need any more explosives?
+SHOSANNA: oui, that's exactly what i mean.
+
+SHOSANNA: i am going to burn down the cinema on night. 
+SHOSANNA: and if i'm going to burn down the cinema, which i am, we both know, your not going to let me do it by myself.
+SHOSANNA: because you love me. and i love you. and your the only person on this earth i can trust.
+SHOSANNA: but that's not all we're going to do. does the filmmaking equipment it the attic still work? i know the film camera does. how about the sound recorder?
+MARCEL: quite well, actually. i recorded a new guitarist i met in a cafe last week. it works superb. why do we need filmmaking equipment?
+SHOSANNA: because marcel, my sweet, we're going to make a film. just for the nazi's.
+
+MILITARY ATTACHE: right this way, lieutenant. 
+LT. HICOX: lt. archie hicox, reporting sir.
+LT.HICOX: if you offered me a scotch and plane water, i could drink a scotch and plain water.
+
+GEN.FENECH: that a boy, lieutenant. make it yourself, like a good chap, will you? bars in the globe. 
+LT.HICOX: something for yourself, sir?
+GEN.FENECH: whiskey straight. no junk in it.
+GEN.FENECH: it says here you've run three undercover commando operations in germany, and german occupied territories? frankfaurt, holland, and norway to be exact?
+LT.HICOX: extraordinary people, the norwegian's.
+GEN.FENECH: it says here you speak german fluently?
+LT.HICOX: like a katzenjammer kid.
+GEN.FENECH: and your occupation before the war?
+LT. H I COX: i'm a film critic.
+GEN.FENECH: list your accomplishments?
+LT.HICOX: well sir, such as they are, i write reviews and articles, for a publication called; "films and filmmakers".
+
+GEN.FENECH: what's that called? 
+LT.HICOX: "flickers bi-monthly". and i've had two books published.
+GEN.FENECH: impressive. don't be modest lieutenant, what are their titles?
+LT. HI COX: the first book was called; "art of the eye's, the heart, and the mind:a study of german cinema in the twenties". and the second one was called; ...
+LT.HICOX: "twenty-four frame da vinci". it's a subtexual film criticism study of the work of german director g.w. pabst.
+LT. HI COX: what should we drink to, sir?
+GEN.FENECH: down with hitler.
+LT.HICOX: all the way down, sir.
+GEN.FENECH: are you familiar with german cinema under the third reich?
+LT. HI COX: yes. obviously i haven't seen any of the films made in the last three years, but i am familiar with it.
+GEN.FENECH: explain it to me.?
+
+LT.HICOX: pardon sir? 
+GEN.FENECH: this little escapade of ours, requires a knowledge of the german film industry under the third reich.
+LT.HICOX: goebbels considers the films he's making to be the beginning of a new era in german cinema. a alternative to what he considers the jewish german intellectual cinema of the twenties. and the jewish controlled dogma of hollywood.
+CHURCHELL: how's he doing?
+LT. H I COX: frightfully sorry sir, once again?
+CHURCHELL: you say he wants to take on the jews at their own game? compared to say .louis b.mayer...how's he doing?
+LT.HICOX: quite well, actually. since goebbels has taken over, film attendance has steadily risen in germany over the last eight years. but louis b.mayer wouldn't be goebbels proper opposite number. i believe goebbels see's himself closer to david o.selznick. gen.fenech looks to the prime minister.
+CHURCHELL: brief him.
+GEM.FENECH: lt.bicox, at this point in time i'd like to brief you on, operation kino. three days from now, joseph goebbels is throwing a gala premier of one of his new movies in paris -
+
+LT.HICOX: - what film sir? 
+GEN.FENECH: the motion pictures called; "nation's pride".
+LT.HICOX: oh, you mean the film about private zoller?
+GEN.FENECH: we don't have any intelligence, on exactly, what the film that night will be about.
+LT.HICOX: but it's called "nation's pride"?
+GEN.FENECH: yes.
+LT.HICOX: i can tell you what it's about, it's about private fredrick zoller. he's the german sgt.york.
+GEN.FENECH: in attendance at this joyous germatic occasion, will be goebbels, gerring, boorman, and most of the german high command, including all high ranking officers of both the s.s., and, the gestapo. as well as luminaries of the propaganda film industry.
+LT.HICOX: the master race at play, aye?
+GEN.FENECH: basically, we have all our rotten eggs in one basket. the objective of operation kino.... blow up the basket.
+LT.HICOX: "...and like the snows of yesteryear, gone from this earth". jolly good, sir.
+
+GEN.FENECH: an american secret service outfit, that lives deep behind enemy lines, will be your assist. the germans call them; "the basterds". 
+LT.HICOX: "the basterds", never heard of them.
+GEN.FENECH: whole point of the secret service, old boy, you not hearing of them. but the gerrys have heard of them, because these yanks have been them the devil. their leader is a chap named lt.aldo raine. the germans call him, "aldo the apache".
+LT.HICOX: why do they call him that?
+GEN.FENECH: best guess, is because he removes the scalps of the dead.
+LT.HICOX: scalps, sir?
+GEN.FENECH: the hair.
+GEN.FENECH: like a red injun.
+LT.HICOX: rather gruesome sounding little dicky bird, isn't he?
+GEN.FENECH: no doubt the whole lot, a bunch a nutters. but you've heard the expression, "it takes a thief".
+LT.HICOX: indeed.
+
+GEN.FENECH: you'll be dropped into france, about twenty four kilometers outside of paris. the basterds will be waiting for you. first thing, you go to a little village called, "nadine". apparently the gerrys never go there. in nadine, there's a tavern, called, "la louisiane", you'll rendez-vous with our double agent, and she'll take it from there. she's the one who's going to get you in the premiere. it will be you, her, and two german born members of the basterds. she's also made all the other arrangements your going to need. 
+LT.HICOX: how will i know her?
+GEN.FENECH: i suspect that won't be too much trouble for you. your contact is bridget von hammersmark.
+LT.HICOX: bridget von hammersmark? the german movie star is working for england?
+GEN.FENECH: for the last two years now. one could even say operation kino was her brainchild.
+CHURCHELL: extraordinary women.
+LT.BICOX: quite.
+GEN.FENECH: you'll go to the premiere as her escort, lucky devil. she'll also have the premiere tickets for the other two. got the gist?
+LT.HICOX: i think so, sir. paris when it sizzles.
+
+MARCEL: we need a sync mark. 
+SHOSANNA: what is a sync mark?
+MARCEL: a action and noise put together, so we can sync up the picture and sound.
+SHOSANNA: how do we do that?
+MARCEL: clap your hands.
+MARCEL: in frame imbecile.
+MARCEL: ready?
+SHOSANNA: ready.
+MARCEL: action.
+
+MARCEL: but how do we get it developed? only a suicidal like us would develop that footage. how do we get a35mm print with a soundtrack? 
+SHOSANNA: do you know one person who can do both things?
+MARCEL: of course gaspar, very nice man, took care of all the experimental filmmakers. but nobody in their right mind would strike a print of what your talking about. if the nazi's found out, their life wouldn't be worth this.
+SHOSANNA: in a wolf fight, you ether eat the wolf, or the wolf eats you. if we're going to obliterate the nazi's, we have to use their tactics.
+MARCEL: what does that mean?
+SHOSANNA: we find somebody who can develop and process a35mm print. and we make them do it, or we kill them. once we tell them what we want to do, if they refuse, we have to kill them anyway, or they'll turn us in.
+MARCEL: would you do that?
+SHOSANNA: like that.
+
+SHOSANNA: bring that over here! put his head down on that table. 
+SHOSANNA: you ether do what the we tell you to, or i'll bury this axe in your collaborating skull.
+GASPAR: i'm not a collaborator!
+SHOSANNA: then prove it! or does your manhood go no deeper, then standing to piss? marcel, does his wife, and children know you?
+MARCEL: oui.
+SHOSANNA: then after we kill this dog for germans, we'll go and silence them.
+SHOSANNA: prepare to die, collaborator fucker!
+
+NADINE, FRANCE": two shot lt.hicox and lt.aldo raine 
+LT.ALDO: you didn't say the rendez-vous was in a basement.
+LT.HICOX: i didn't know.
+LT.ALDO: you said it was in a tavern?
+LT.HICOX: it is a tavern.
+
+LT.ALDO: yeah, in a basement. you know, fightin in a basement offers a lot of difficulties, number one being, your fighting in a basement. 
+WICKI: what if we go in there, and she's not even there?
+LT.HICOX: we wait. don't worry, she's a british spy, she'll make the rendez-vous.
+LT.NICOX: stiglitz, right?
+STIGLITZ: that's right, sir.
+LT.HICOX: i hear your pretty good with that?
+LT.HICOX: you know, we're not looking for trouble, right now. we're simply making contact with our agent. should be uneventful. however, on the off chance i'm wrong, and things prove eventful. i need to know, we can all remain calm.
+
+STIGLITZ: i don't look calm to you? 
+LT.HICOX: well, now you put it like that, i guess you do. he turns his attention back to his blade.
+LT. HI COX: this gerry of yours, stiglitz? not exactly the loquacious type, is he?
+LT.ALDO: is that the kinds man you need, the loquacious type?
+LT.HICOX: fair point, lieutenant.
+LT.ALDO: so y'all git in trouble in there, what are we suppose to do?
+LT.HICOX: if we get into trouble, we can handle it. but if trouble does happen, we need you to make sure no germans, or french, for matter, escape from that basement. if frau von hammersmark's cover is compromised, the mission is kaput.
+SGT.DONOWITZ: speaking of frau von hammersmark, who's idea was it for the death trap redez-vous?
+LT.HICOX: she chose the spot.
+SGT.DONOWITZ: well isn't that just dandy?
+
+LT.HICOX: look, she's not a military strategist. 
+LT.ALDO: ya don't got to be stonewall jackson to know you don't want to fight in a basement.
+LT.HICOX: she wasn't picking a place to fight. she was picking a place, isolated, and without germans.
+PFC.HIRSCHBERG: lieutenant, i hate to be contrary, but i got me a on louisianna two-o'clock.
+LT.HICOX: 
+SGT.DONOWITZ: so what do you think your fraulein von hammer -
+LT.HICOX: - obviously, i don't know,sgt.
+STIGLITZ: if we're going, let's go.
+
+WINNETOU: .okay, i'm not german. am i american? 
+FEMALE SGT/BEETHOVEN: yes you arel
+EDGAR WALLACE: well, not really.
+SGT.POLA NEGRI: what do you mean, not really? of course he is.
+
+EDGAR WALLACE: well if he's so american, how come he's never been translated into english? he's not american. he's suppose to be american, but he's not a american creation. in fact, he's something very different. 
+WINNETOU: okay, i'm a fictional, literary character, from the past, i'm american, and that's controversial.
+
+WINNETOU: is my bloodbrother, old shatterhand? the table yes! 
+WINNETOU: did karl may write me? the table yes!
+
+BRIDGET: hello, my lovelies, i will join you in moments. i'm finishing up a game with my five new friends here. 
+LT.HICOX: no hurry, frau von hammersmark.
+BRIDGET: so who are you?
+WINNETOU: i am winnetou, chief of the apaches!
+MATA HARI: frau von hammersmark, when your friends came in, did you realize you did a double take, like in the movies?
+BRIDGET: really? no, i wasn't aware of that at all.
+MATA HARI: they must be second nature to you now? did they teach you how to do a double take in the movies?
+BRIDGET: well, yes they did, but it's not really that difficult.
+SGT.POLA NEGRI: do one for us. the tableheartily agrees.
+
+MATA HARI: my turn, i want to try. 
+EDGER WALLACE: i want to try. he does.
+
+BRIDGET: gengus khaun! i would never of gotten that. 
+LT.HICOX: i thought this place was suppose to have more french then germans?
+BRIDGET: normally that's true. the sgt over there's wife, just had a baby. his commanding officer gave him, and his mates the night off to celebrate.
+WICXI: we should leave.
+
+BRIDGET: no, we should stay. for one drink at least. i've been waiting for you in a bar, it would look strange if we left before we had a drink. 
+LT.HICOX: she's right, just be calm, and enjoy your booze.
+
+BRIDGET: there's been some new developments. 
+LT.HICOX: why?
+BRIDGET: no one knows. but that in itself shouldn't be a problem. the cinema it's been changed to is considerably smaller then the ritz. so whatever materials you brought for the ritz, should be doubly effective here. now this next piece of information is colossal, try not to over react. the fubrer, will be attending tomorrow. hugo stiglitz does a spit take.
+
+BRIDGET: .the films gone through many delays, and leni's heath is deteriorating, so if you have to speak... 
+SGT.POLA NEGRI: frau von hammersmark, i was just thinking, could you sign a autograph to my son on his birthday?
+BRIDGET: i'd love to wilhelm. this handsome happy sgt, just became a father today.
+SGT.POLA NEGRI: thank you, heil hitler.
+BRIDGET: so wilhelm, do you know the name of this progeny yet?
+
+SGT.POLA NEGRI: i most certainly do, fraulein. his name is maximilian. 
+STIGLITZ: wonderful name, sgt.
+SGT.POLA NEGRI: thank you, lieutenant. when he's old enough to ride a bicycle, i will buy him a blue one. and i will paint on the side "the blue max".
+BRIDGET: there you go. but wait, i'm not finished yet.
+BRIDGET: nothing but the best for little maximilian.
+SGT.POLA NEGRI: thank you fraulein, thank you. max may not know who you are now. but he will. i will show him all of your movies. he will grow up with your films, and this napkin on his wall.
+SGT.POLA NEGRI: i purpose a toast to the greatest actress in germany! there is no dietrich, there is no riefenstahl, only von hammersmark! the whole room toasts.
+SGT.POLA NEGRI: so, frau von hammersmark, what brings you to france?
+
+LT.HICOX: none of your business,sgt. you might not have worn out your welcome with the fraulein, with your drunken boorish behavior, but you have wore out your welcome with me. 
+LT.HICOX: might i remind you sgt.,your a enlisted man. this is a officers table. i suggest you stop pestering the fraulein, and rejoin your table.
+SGT.POLA NEGRI: excuse me cap't, but your accent is is very unusual.
+SGT.POLA NEGRI: where are you from?
+WICKI: sgt.! you must be ether drunk or mad, to speak to a superior officer with such impertinentness!
+STIGLITZ: i'm making you,...
+WINNETOU): .and you,.. .responsible, for him. i suggest you take hold of your friend, or he'll spend max's first birthday in jail for public drunkenness!
+
+WHEN...: a german voice rings out; 
+GERMAN VOICE: then might i inquire?
+MAJOR HELLSTROM: like the young newly christened father, i too have a acute ear for accents. and like him, i too find yours odd. from where do you hail, cap't?
+WICKI: major, this is highly inappr -
+MAJOR HELLSTROM: t wasn't speaking to you lt.saltzberg,
+MAJOR HELLSTROM: or you ether, lt.berlin.
+HICOX): i was speaking to cap't i--don't-know-what.
+LT.HICOX: i was born in the village that rests in the shadow of piz palu.
+MAJOR HELLSTROM: the mountain?
+LT.HICOX: yes. in that village we all speak like this. have you seen the riefenstahl film?
+MAJOR HELLSTROM: yes.
+
+LT. HICOX: then you saw me. you remember the skiing torch scene? 
+MAJOR HELLSTROM: yes i do.
+LT.HICOX: in that scene was myself, my father, my sister, and my two brothers. my brother is so handsome, the director pabst, gave him a close up.
+BRIDGET: major, if my word means anything, i can vouch for everything the young cap't has just said. he does hail from the bottom of piz palu, he was in the film, and his brother is far more handsome then he. the impostors laugh.
+MAJOR HELLSTROM: you should rejoin your friends.
+MAJOR HELLSTROM: may i join you?
+BRIDGET: by all means, major.
+MAJOR HELLSTROM: so that's the source of your bazaar accent? extraordinary. so what are you doing here cap't?
+LT.HICOX: aside from having a drink with the lovely fraulein?
+
+MAJOR HELLSTROM: well that pleasure requires no explanation. chuckle...chuckle 
+MAJOR HELLSTROM: i mean in country. your obviously not stationed in france, or i'd know who you are.
+LT ÃƒÂ¢Ã¢Â‚Â¬Ã‚Â¢ I'! I COX: you know every german in france?
+MAJOR BELLSTROM: worth knowing.
+LT.HICOX: well, there in lies the problem. we never claimed to be worth knowing.
+MAJOR HELLSTROM: all levity aside, what are you doing in france?
+LT.HICOX: attending goebbels film premiere as the frauleins escort.
+MAJOR HELLSTROM: your the frauleins escort?
+LT.HICOX: somebody has to carry the lighter.
+BRIDGET: the captain is my date, but all three are my guests. we're old friends major, who go back along time. longer then a actress would care to admit.
+MAJOR HELLSTROM: well, in that case, let me raise a glass to the three luckiest men in the room.
+BRIDGET: i'll drink to that.
+
+MAJOR HELLSTROM: i must say, that game their playing looks like a good bit of fun. i didn't join them, because your quite right cap't, officers and enlisted men shouldn't fraternize. but seeing as we're all officers here, 
+MAJOR HELLSTROM: .and sophisticated lady friends of officers. what say we play the game?
+BRIDGET: okay, one game.
+
+MAJOR HELLSTROM: so the object of the game, is to write the name of a famous person on your card. real or fictitious, doesn't matter. for instance, you could write confucius or fu manchu. 
+FINGERS): eric' more pens. and they must be famous. no aunt inga's. when you finish writing, put the card face down on the table, and move it to the person to your left. the person to your right, will move their card in front of you. you pick up the card without looking at it, lick the back, and stick it on your forehead like so.
+
+MAJOR HELLSTROM: and in ten yes or no questions, you must guess who you are... 
+MAJOR HELLSTROM: .so let's give it a try, shall we? everybody write your names. the five players write their names... then move their cards to the right...
+
+MAJ.KING KONG: i'll start, give you the idea. am i german? 
+BRIDGET: no.
+MAJ.KING KONG: am i a american?
+WICKI: wait a minute, he goes to
+
+BRIDGET: don't be ridiculous, obviously he wasn't born in america. 
+MAJ.KING KONG: so... . i visited america, aye?
+MAJ.KING KONG: was this vist...fortuitous?
+WICKI: not for you.
+MAJ.KING KONG: .bummm. my native land, is it what one would call, exotic?
+MAJ.KING KONG: hummmm. that could be ether a reference to the jungle, or the orient. i'm going to let my first instinct take over, and ask, am i from the jungle?
+MAJ.KING KONG: now gentlemen, around this time you could ask, weather your real or fictitious. i however, think that's too easy, so i won't ask that, yet. okay, my native land is the jungle? i visited america, but my visit was not fortuitous to me, but the implication is that it was to somebody else. when i went from the jungle to america,... .did i go by boat? "yes".
+MAJ.KING KONG: did i go against my will?
+MAJ.KING KONG: on this boat ride, ... . was i in chains?
+
+MAJ.KING KONG: when i arrived in america,...was i displayed in chains? 
+MAJ.KING KONG: am i the story of the in america?
+MAJ.KING KONG: well then i must be king kong. be throws the card on the table.
+MAJOR HELLSTROM: nov since i answered correctly, you all need to finnish your drinks.
+MAJOR HELLSTROM: now, who's next?
+LT.HICOX: major, i don't mean to be rude. but the four of us are very good friends. and the four of us haven't seen each other in quite a while. so...
+MAJOR HELLSTROM: i beg to differ cap't. it's only if the fraulein considers my presence a intrusion, that i become a intruder.
+BRIDGET: of course not, major.
+MAJOR HELLSTROM: i didn't think so. it's simply the young cap't is immune to my charms.
+MAJOR HELLSTROM: i'm just joking, of course i'm intruding.
+
+MAJOR HELLSTROM: allow me to refill your glasses gentlemen, and i will bid you and the fraulein adieu. eric has a bottle of thirty-three year old single malt scotch whisky from the scottish highlands. what do you say gentlemen? 
+LT.HICOX: your most gracious, sir.
+MAJOR HELLSTROM: eric, the thirty-three, and new glasses! you don't want to contaminate the thirty- three with the swill you were drinking.
+ERIC: how many glasses?
+LT.HICOX: five glasses.
+MAJOR HELLSTROM: not me. i like scotch, scotch doesn't like me.
+BRIDGET: nor i. i'll stay with bubbly.
+LT.HICOX: three glasses.
+MAJOR HELLSTROM: to a thousand year reich!
+MAJOR HELLSTROM: did you hear that? that's the sound of my luger pointed right at your testicles.
+
+LT.HICOX: why do you have a luger pointed at my testicles? 
+MAJOR HELLSTROM: because you've just given yourself away, cap't. your no more german then that scotch.
+LT.HICOX: well, -major -
+BRIDGET: - major -
+MAJOR HELLSTROM: - shut up slut. you were saying?
+LT.HICOX: i was saying that makes two of us. i've had a gun pointed at your since you sat down.
+SGT.STIGLITZ: that makes three of us.
+
+SGT.STIGLITZ: and at this range, i'm a real fredrick zoller. 
+MAJOR HELLSTROM: hummmmm ... looks like we have a bit of a sticky situation here.
+LT. H ICOX: what's going to happen, major, is your going to stand up, and walk out that door with us.
+MAJOR HELLSTROM: no no no no no no, i don't think so. i'm afraid you and i both know, no matter what happens to anybody else in this room, the two of us aren't going anywhere.
+
+MAJOR HELLSTROM: too bad about them though. they seem like a likeable you two will have to shoot them. 
+BRIDGET: then major, i implore you. for the sake of those german troops, will you please leave with us?
+MAJOR HELLSTROM: oh bridget, your concern for german troops, gets me .right here. you mean for the sake your legs, don't you? you can't afford to get any bullet holes in them, your not finished spreading them for all the hollywood jews.
+LT.HICOX: 'well, if this is it old boy, i hope you dont mind if i go out speaking the kings?
+MAJOR HELLSTROM: by all means, cap't.
+LT.HICOX: there's a special rung in reserved for people who waste good scotch. and seeing as i might be rapping on the door momentarily...
+LT.HICOX: to the
+MAJOR): i must say, good stuff, sir.
+
+LT.HICOX: now about this, "pickle", we find ourself's in. it would appear, there's only thing left for you to do. 
+MAJOR HELLSTROM: and what would that be?
+LT.HICOX: stiglitz.
+STIGLITZ: say, auf wiedersehen to your balls!
+STIGLITZ: fires into hellstrom's balls...
+HELLSTROM: fires into hicox's and knee caps.
+
+SGT.POLA NEGRI: comes the a chine gunn, 
+GERMAN SGT: you outside! who are you? british, american, what?
+ALDO'S VOICE: were american's 1 what are you?
+GERMAN SGT: i'm a german you
+ALDO'S VOICE: you speak english pretty good for a german!
+GERMAN SGT: i agree! so let's talk!
+ALDO'S VOICE: okay, talk!
+GERMAN SGT: i'm a father! my baby was born today in frankfurt! five hours ago! his name is max! we were in here drinking and celebrating! they're the ones that came in shooting and killing!
+
+ALDO'S VOICE: okay, okay, it wasn't your fault! 
+GERMAN SGT: wilhelm!
+ALDO'S VOICE: that's the same name as one of the guys you just killed!
+WILHELM: they attacked us!
+ALDO'S VOICE: okay wilhelm... .is anybody alive on our side?
+WILHELM: no!
+
+ALDO'S VOICE: who's that? 
+WILHELM: to bridget,
+LOW): make a sound whore, and i spit!
+ALDO'S VOICE: wilhelm, who is that?
+WILHELM: is the girl on your side?
+ALDO'S VOICE: which girl?
+
+WILHELM: 1 who do you think, von hammersmark! 
+ALDO'S VOICE: yeah, she's oar's!
+WILHELM: i thought so. so you run with the american's now, huh? now times are bad?
+ALDO'S VOICE: is she okay?
+WILHELM: you despicable traitor. she's been shot, but she's alive. for now.
+ALDO'S VOICE: okay wilhelm, what'd ya say we make a deal?
+WILHELM: what's your name?
+ALDO'S VOICE: aldo. wilhelm, can i call yap willi?
+WILHELM: yes.
+ALDO'S VOICE: so willi, you know we could lob three or four or five or six grenades down there, and your little war story ends here. but good fer you, bad fer her, you die, she dies. so what say we make a swap?
+WILLI: keep talking?
+
+ALDO'S VOICE: okay, willi here's my deal! you let me and one of my men come down to take the girl away! and we take the girl, and leave! that simple, willi! you go your way, we go ours! and little max, gets to grow up playing catch with his daddy! so what'ya say, willi, we got a deal? willi thinks... 
+WILLI: aldo?
+ALDO'S VOICE: i'm here willi!
+WILLI: i want to trust you.... but howcani?
+ALDO'S VOICE: what choice ya got?
+WILLI: i could kill the girl!
+ALDO'S VOICE: well now, willi, that's true enough. but something you need to know, so you don't get the wrong idea. ain't none of us give a bout that girl. but, admittedly, if you kill her, it would up our plans. but you'll be dead by then anyway, so what'd you care? and lets not forget that little gatzenjammer max, growin up without a pop. so in the spirit of gettin you home to him, we got a deal, willi?
+WILLI: okay aldo, i'm going to trust you! come down, no guns!
+
+ALDO: hey willi, what's with the machine gunny i thought we had a deal? 
+WILLI: we do have a deal, now git the girl and go.
+ALDO: not so fast, willi, we only have a deal, we trust each other. a mexican stand off ain't trust.
+WILLI: you need guns on me for it to be a mexican stand off.
+ALDO: you got guns on us, you decide to shoot, we're dead. up top, they got grenades, they drop 'em down here, your dead. that's a mexican stand off, and that wasn't the deal.
+WILLI: just take that traitor, and go! see? now your down here now you get tricky - t
+ALDO: - no tricks!- ain't nobody gittin tricky, willi; i swear to i'm too toget tricky. but
+
+WILLI: fine. take that traitor and get her out of my sight. 
+ALDO: danka, willi, danka. okay, hirschbeg, you grab her shoulder -
+
+ALDO: you i had a deal with that man! 
+BRIDGET: he was a enemy soldier, who knew who i was. he couldn't live.
+
+HIRSCHBERG: i ought'a beat your head in 
+ALDO: stop it. just pick her up, and get that outta here.
+HIRSCHBERG: aldo, she just-
+ALDO: - she's right.
+HIRSCHBERG: what?
+ALDO: i said, she's right. he was a soldier. if he lived, he would doomed the mission.
+
+SGT.DONOWITZ: doctor? are you a doctor? 
+SGT.DONOWITZ: andi amo...
+
+I: it's still a doctor. if he can get a bullet out of a cow, he can get a bullet outta you. 
+LT.ALDO: right now, we just need morphine.
+SGT.DONOWITZ: morphine! we need morphine!
+
+COL.LANDA: and that ones... 
+WICKI): .name is weiheim wicki. bets austrian born jew, who immigrated to the united states when things began turning sour for the israelites. they are the two german born members of the basterds. they've been known to don german uniforms, to ambush squads.
+
+COL LANDA: but that doesnt look like this. this is odd. looking down he see's something... 
+COL.LANDA: it would appear somebodies missing. somebody fashionable.
+SOLDIERS VOICE: col, this ones still alive!
+
+LT.ALDO: now 'fore we yank that slug outta ya, you need to answer a few questions 
+BRIDGET: few questions about what?
+LT.ALDO: about i got three men dead back there, and why don't you try tellin us what the happened?
+BRIDGET: the british officer blew his german act, and a gestapo major saw it.
+LT.ALDO: 'fore we get into who shot john, why did you invite my men to a rendez-vous in a basement with a bunch of nazis?
+BRIDGET: i can see, since you didn't see what happened inside, the nazi's being there must look odd.
+LT.ALDO: yeah, we gotta word for that kinda odd in english, it's called, suspicious.
+BRI DGET: don't let your imagination get the better of you, lieutenant. you met the sergeant, willi. he had a baby tonight. his commanding officer gave him and his friends the night off to celebrate. the germans being there was just a tragic coincidence.
+LT. ALDO: okay, i'll buy that. he was ether there with his men waiting for us, or he was there celebrating his sons birthday, he wasn't doin both.
+
+LT.ALDO: how did the shootin start? 
+BRIDGET: the english man, gave himself away.
+LT. ALDO: how did he do that?
+BRIDGET: he ordered three glasses.
+BRIDGET: we order, three glasses.
+BRIDGET: that's the german three. the other is odd. germans would, and did notice it.
+LT. ALDO: okay, let's pretend there were no germans, and everything went exactly the way it was suppose to. what would of been the next step?
+BRIDGET: tuxedos. to get them into the premiere, wearing military uniforms, with all the military there, would of been suicide. but going as members of the german film industry, they wear tuxedos, and blend in with everybody else. i arranged a tailor to fit three tuxedos tonight.
+LT.ALDO: how did you intend to get them into the premiere?
+BRIDGET: hand me my purse.
+BRIDGET: lt.hicox was going as my escort. the other two were going as a german cameraman and his assistant.
+
+LT. ALDO: can you still get us in that premiere? 
+BRIDGET: can you speak german better then your friends, no. have i been shot, yes. i don't see me tripping the light fantastique up the red carpet any time soon. least of all by tomorrow night.
+BRIDGET: however, there's something you don't know. there's been two recent developments regarding operation kino. one, the venue has been changed from the ritz, to a much smaller venue.
+LT.ALDO: enormous changes at the last minute? that's not very germatic. why the is goebbels doin stuff so peculiar?
+BRIDGET: it probably has something to do with the second development.
+LT. ALDO: which is?
+
+1 2 Z.: donny breaks the teams silence; 
+SGT.DONOWITZ: what?
+LT.ALDO: when the did this happen?
+BRIDGET: the venue change, two weeks ago. the fuhrer's attendance, four days ago.
+LT. ALDO: and how come london don't know nothing about that?
+BRIDGET: we need to get something straight, once and for all. everything london knows, it learned from me. if i don't know, london doesn't know. so now, this is me, informing you, hitler's coming to paris.
+
+BRIDGET: what are you thinking? 
+LT.ALDO: i'm thinking getting a wack at plantin ole uncle adolph makes this a horse of a different color.
+BRIDGET: what's that suppose to mean?
+LT.ALDO: it means, your gettin us in that premiere.
+BRIDGET: i'm going to probably end up losing this leg, bye bye acting career, fun while it lasted. how do you expect me to walk up a red carpet?
+
+LT.ALDO: the doggie docs gonna dig that slug outta your gam. then he's gonna wrap it up in a cast, and you gotta good how i broke my leg mountain climbing story. that's german, ain't it? y'all like climbin mountains, don'tch? 
+BRIDGET: i don't. i like smoking, drinking, and ordering in restaurants, but i see your point.
+LT. ALDO: we fill ya up with morphine, till it's comin out ya ears. then just limp your little up that rouge car-pet.
+BRIDGET: splendid. when the nazi's put me up against a wall, it won't hurt so much. i know this is a silly question before i ask it, but can you american's speak any other language then english?
+HIRSCHBERG: other then yiddish?
+BRIDGET: preferably.
+SGT.DONOWITZ: we both speak alittle italian.
+BRIDGET: with a atrocious accent, no doubt. but that doesn't exactly kill us in the crib. germans don't have a good ear for italian. so you mumble italian, and brazen through it, is that the plan?
+LT. ALDO: that's about it.
+
+BRIDGET: that sounds good. 
+LT. ALDO: it sounds like but what else we gonna do, go home?
+BRIDGET: no, it's good. if you don't blow it, with that, i can get you in the building. so, who does what?
+LT.ALDO: well i speak the most italian, so i'll be your escort. donowitz speaks the second most, so he'll be your italian cameraman. and hirschberg third most, so he'll be donnys assistant.
+HIRSCHBERG: i don't speak italian.
+LT. ALDO: like i said, third best. just keep your mouth shut. in fact why don't you start practising, right now.
+BRIDGET: what about the little one?
+UTIVICH: do you mean me?
+BRIDGET: i didn't mean any offence.
+UTIVICH: none taken you german
+LT.ALDO: utivich is the chauffeur.
+UTIVICH: i can't drive.
+BRIDGET: you americans are useless!
+
+UTIVICH: ivgimmie a break, i'm from manhattan. 
+LT.ALDO: no worries, son. we got over fourteen hours before the movie tomorrow. more then enough time for you to learn to drive.
+UTIVICH: no no no no, lieutenant, it's not!
+LT.ALDO: oh yes yes yes yes, private, it is. and yes yes yes yes, you will. look utivich, you and i both know, if we went to grade school together, you sure ain't copyin off of my test. well i lern't to drive in four hours on a tennessee mountain road. and i'm a for brains coal miner bootlegger. hirschberg, you know how to drive, right?
+HIRSCHBERG: yes.
+LT.ALDO: teach 'em.
+BRIDGET: but there is a problem. i'm a movie star. this is a movie premiere. i can't show up looking like i was just in a gun fight. now i have a dress for the premiere at my hotel. but sometime tomorrow, i have to get my hair done.
+LT. ALDO: sister, you must got wunderbar luck. guess who went to beauty school? the camera whip pans to sgt.donowitz.
+
+MARCEL: ooh lala, danielle darrieux, this is so exciting. pleased to meet you. 
+SHOSANNA: shut up fool.
+SHOSANNA: cheeky black bugger. i have to go down and socialize with these hun pigs. let's go over it again?
+MARCEL: reel one is on the first projector. reel two is on the second. three and four are ready to go.
+SHOSANNA: okay, the big sniper battle in the film begins around the middle of the third reel. our film, comes on in the forth reel, so somewhere towards the end of the third reel, go down and lock the doors of the auditorium. then take your place behind the screen, and wait for my cue, when i give it to you, burn it down!
+
+COL.LANDA: i want everybody out of this room! 
+COL.LANDA: that means now, goddamnit! they rush out.
+COL.LANDA: can you speak, sgt?
+
+COL.LANDA: tell me everything that happened in there? 
+CU COL.LANDA: smiles.
+COL.LANDA: fraulein von hammersmark, what has befallen germany's most elegant swan?
+BRIDGET: colonel landa, it's been years.
+COL.LANDA: flattery will get you everywhere, fraulein.
+COL.LANDA: so what's happened to your lovely leg, a by product of kicking in the german cinema, no doubt.
+BRIDGET: save your flattery, you old dog. i know too many of your former conquests, to fall into that honey pot.
+COL.LANDA: seriously, what happened?
+
+BRIDGET: well, i tried my hand, foolishly i might add, at mountain climbing. 
+COL.LANDA: mountain climbing? that's how you injured your leg, mountain climbing?
+BRIDGET: believe it or not, yes it is.
+
+COL.LANDA: forgive me, fraulein. i don't mean laugh at your misfortune. it's just .mountain climbing? i'm curious fraulein, what could of ever compelled you to undertake such a foolhardy endeavor? 
+BRIDGET: well, i chant be doing it again, i can tell you that.
+COL.LANDA: that cast looks as fresh as my old uncle gustave, when were you climbing this mountain, last night?
+BRIDGET: very good eye, colonel. it happened yesterday morning.
+COL.LANDA: hummm. and where exactly in paris is this mountain? this stops her for a seconded.
+
+COL.LANDA: i'm just teasing you, fraulein. you know me, i tease rough. so who are your three handsome escorts? 
+BRIDGET: i'm afraid neither three speak a word of german. their friends of mine from italy. this is a wonderful italian stuntman, antonio margheriti. a very talented cameraman, enzo gorlomi. and enzo's camera assistant, dominick decocco.
+BRIDGET: gentlemen, this is a old friend, col. sans landa of the s.s.
+
+COL.LANDA: margheriti...? 
+COL.LANDA: am i saying it correctly...?
+LT. ALDO: yes. correct.
+COL.LANDA: margheriti.... say it for me once please...?
+LT. ALDO: margheriti.
+
+COL.LANDA: i'm sorry, again...? 
+LT.ALDO: i4argheriti.
+COL.LANDA: once more... .?
+LT.ALDO: margheriti.
+COL.LANDA: nargheriti.
+COL.LANDA: it means daisies, i believe.
+COL.LANDA: what's your name again?
+SGT.DONOWITZ: enzo gorlomi.
+COL.LANDA: again... .?
+SGT.DONOWITZ: gorlomi.
+COL.LANDA: one more time, but let me really hear the music in it.
+SGT.DONOWITZ: gorlomi.
+COL.LANDA: and you?
+
+HIRSCHBERG: dominick decocco. 
+COL.LANDA: dominick decocco?
+HIRSCHBERG: dominick decocco.
+COL.LANDA: bravo... . bravo.
+BRIDGET: well, my two cameraman friends need to find there seats.
+COL.LANDA: not so fast, lets enjoy some champagne.
+COL.LANDA: - oh, mademoiselle mimieux, please join us, i have some friends i'd like you to meet.
+COL.LANDA: may i say mademoiselle, you look divine.
+SHOSANNA: merci'.
+COL.LANDA: this lovely young lady, is mademoiselle emmanuelle mimieux, this is her cinema, and she is our hostess for the evening.
+
+BRIDGET: bonjour. 
+SHOSANNA: bon jour.
+BRIDGET: i'm afraid my companions don't speak any french, there italian. this is antonino, enzo, and dominick.
+COL.LANDA: actually fraulein von hammersmarks italian associates, need help finding there seats. perhaps mademoiselle mimieux would be so kind to them?
+SHOSANNA: it would be my pleasure. let me see your tickets?
+
+GERMAN SOLDIER: take your seats! the show is about to begin! everybody take your seatsl 
+COL.LANDA: i must call the fuhrer. he doesn't want to make his entrance untill everybody seated. come with me frau von hammersmark. the fuhrer has heard your here, and he wishes to commend you personally.
+BRIDGET: me? why?
+COL.LANDA: don't be modest. everybody is quite taken with your resolve. a accident, like you've just experienced, and yet you still show up to to a important party event. the fuhrer was quite adamant in his gratitude. we'll use mademoiselle mimieux's office. i'm afraid i must rob you of your companion, but only for a moment.
+BRIDGET: yes, apparently the fuhrer wishes to commend me.
+
+COL.LANDA: have a seat fraulein. 
+COL.LANDA: let me see your foot.
+BRIDGET: i beg your pardon?
+
+1 31: patting his lap. 
+COL.LANDA: put your foot in my lap.
+BRIDGET: colonel, you embarrass me.
+COL.LANDA: i assure you fraulein, my intention is not to flirt. patting his lap more with more aggression.
+
+COL.LANDA: what's that american expression... "if the shoe fits...you must wear it". 
+BRIDGET: what now colonel?
+COL LANDA: do you admit you treachery?
+
+BRIDGET: the only thing i will admit to, is resisting you... 
+COL.LANDA: "resist to your last breath"?
+
+BANG?: she's dead. 
+TREMBLING...: he rises.
+
+COL.LANDA: inform the fuhrer the audience has taken there seats, and we're ready to begin. step one, in hans master plan, done. 
+INT - LOBBY - NIGHT: aldo in the lobby...
+WHEN...: .he's jumped by the six ushers...
+
+COL.LANDA'S VOICE: shut up! 
+COL.LANDA: as stanley said to livingston; lt.aldo raine, i presume?
+
+LT. ALDO: hans landa? 
+COL.LANDA: you've had a nice long run, aldo. alas, your now in the hands of the ss. my hands to be exact. and they've been waiting along time, to touch you.
+COL.LANDA: caught ya flinching.
+
+LT.ALDO: utivich? 
+UTIVICH: is that you lieutenant?
+LT. ALDO: yep.
+
+UTIVIC}I: do you know what happened to donny? 
+LT.ALDO: no i do not.
+UTIVICH: lieutenant, sorry i'm crying.
+LT. ALDO: nothin to be sorry about, son.
+UTIVICH: not exactly john wayne, am i?
+LT.ALDO: john waynes a pampered movie star. he burst into tears, if his cook, busts his yoke at breakfast. just try puttin a bag over his head, and hear what kinda sounds he makes.
+LT.ALDO: i just want you to know, son, i was real proud of you tonight. learnin how to drive overnight. driving in that limo line. you was in the hot seat, son, and you stood up real good. utivich cries louder.
+
+COL.LANDA: italian? really? 
+COL.LANDA: what could you have possibly been thinking?
+LT. ALDO: well, i speak alittle italian -
+COL.LANDA: i speak a little tagalog, but i wouldn't begin to presume i could pass for filipino. don't get me wrong, i understand you were in a pickle, what with you losing your germans. and i have nothing but admiration for improvisation. still.... chico marx is more convincing. if the three of you had shown up to the premiere dressed in womans attire, it would have been more convincing.
+COL.LANDA: you may leave us. but stay alert outside.
+
+COL.LANDA: so your aldo the apache? 
+LT. ALDO: so your the jew hunter?
+COL.LANDA: jew hunter, , i'm a detective. a good detective. finding people is my specialty. so naturally, i worked for the nazi's finding people. and yes, some of them were jews.
+UTIVICH: well you do hafts admit, it is catchy.
+COL.LANDA: do you control the nicknames, your enemies bestow on you? aldo the apache and the little man?
+UTIVICH: what do you mean, the little man?
+COL.LANDA: the germans nickname for you.
+UTIVICH: the germans nickname for me is, the little man?
+COL.LANDA: or "the little one, ether one means you. and as if to make my point, i'm a little surprised how tall you were in real life. i mean, your a little fellow. but not circus midget little, as your reputation would suggest.
+LT.ALDO: where is my men? where is bridget von hammersmark?
+COL.LANDA: bridget von hammersmark. oh i'm sure she's in whatever, big bubbling cesspool in hell, the devil reserves for traitors of her ilk.
+
+LT. ALDO: how do you know our names? 
+COL.LANDA: lt.aldo, if you don't think i wouldn't interrogate every single one of your marked survivors... .? we simply aren't operating on the level of mutual respect i assumed. now, back to the whereabouts of your two italian saboteurs. at this moment, both hirschberg, and donowitz, should be sitting in the very seats we left them in. seats, 0023 and 0024, if my memory serves. explosives, still around there ankle, still ready to explode. and your mission, some would call a terrorist plot, as of this moment, is still a go.
+LT. ALDO: that's a pretty exciting story.
+COL.LANDA: however, all i have to do, is pick pick up that phone right there. inform the cinema, and your plans kupet.
+LT. ALDO: if, their still there, and if their still alive, and that's one big if, there ain't no way, you gonna take them boys without settin off them bombs.
+
+M: i have no doubt, and yes, some germans will die., and yes, it will ruin the evening, and yes, goebbels will be very very very mad at you for what you've done to his big night. but you won't get hitler, you won't get goebbels, you won't get gering, and you won't get boorman. and you need all four to end the war. 
+M: but if i don't pick up that phone, right there, you may very well get all four. and if you get all four, you end the war...tonight.
+COL.LANDA: so gentlemen, lets discuss the prospect of ending the war-tonight. all three have their chianti filled glasses.
+COL.LANDA: so the way i see it, since hitlers death, or possible rescue, rests solely on my reaction...if i do nothing ...it's as if i'm causing his death, even more then yourselves.
+LT. ALDO: i guess so.
+COL.LANDA: how about you uitivich?
+UITIVICH: i guess so too.
+COL.LANDA: good, we more or less, all agree. gentlemen, i have no intention, of killing hitler, and killing goebbels, and killing gerring, and killing boorman, not to mention winning the war single handedly for the allies, only later, to find myself standing before a jewish tribunal.
+
+COL.LANDA: if you want to win the war, tonight, we have to make a deal. 
+LT.ALDO: what kinda deal?
+COL.LANDA: the kind you wouldn't have the authority to make. however, i'm sure this mission of yours, has a commanding officer? a general, i'm betting. for ..
+COL.LANDA: .o.s.s. would be my guess.
+COL.LANDA: oooh, that's a bingo. is that the way you say it, that's a bingo?
+LT.ALDO: you just say, bingo.
+COL.LANDA: bingo! how fun. but i digress, where were we? oh yes, make a deal. over there is a very capable two way radio. and sitting behind it, is a more then capable radio operator, named herrman. get me somebody on the other end of that radio with the power of the pen, to authorize my - let's call it, the terms of my conditional surrender, if that taste better going down.
+
+COL.LANDA: in fact, i want all the members of "operation kino" to receive the congregational medal of honor. full citizenship for myself - but that goes without saying. and i would like the united states of america to purchase property for me on nantuckett island, as a reward for all the countless lives i've saved by bringing the tyranny of the national socialist party to a swifter then imanged end. do you have all that, sir? 
+COL.LANDA: i look forward to seeing you face to face as well, sir.
+COL.LANDA: he's right here.
+LT.ALDO: yes, sir?
+
+RADIO VOICE: colonel landa will put you and private uitivich in a truck as prisoners. then he and his radio operator, will get in the truck, drive to our lines. upon crossing our lines, colonel landa and his man will surrender to you. you will then take over driving of the truck, a bring them straight to me for debriefing. is that clear, lieutenant? 
+LT.ALDO: yes, sir.
+
+COL.LANDA: so i suppose the only thing left to do is lift a glass, and toast to donowitz and hirschbergs success. you too herrman, come over here. 
+COL.LANDA: gentlemen, to history, and it's witnesses.
+
+SGT.DONOWITZ: i-a go-a toilet-a, set-ta boom-a. when-a i-a go-a, you-a set-ta boom-a. 
+HIRSCHBERG: what-a?
+
+HIRSCHBERG: affirm-ato, affirm-ato. 
+SGT.DONOWITZ: they-o look-o screen-a, not-o you-a.
+HIRSCHBERG: fantastic-o.
+
+SGT.DONOWITZ: after-teri, set-ta, five-o moment-o 
+SGT.DONOWITZ: you-a, pphisst.
+HIRSCHBERG: what-o?
+SGT.DONOWITZ: confuse-i, confuss-i, confuss-i. what-a, and-o what-o, same-o?
+HIRSCHBERG: oh-o, sorr-o, i-o ment-a "what-a".
+SGT.DONOWITZ: after-teri, you-a set-ta boom-a, five-o moment-o, you-a, fuck-o pphisst.
+HIRSCHBERG: affirm-ato, affirm-ato.
+SGT.DONOWITZ: good-a, luck-a.
+
+GOEBBELS: perfectly understandable, dear boy. you go now, and we'll see you after the show. 
+FREDRICK: are you the manager, of this cinema? i want my money back. that actor in the movie stinks.
+
+SHOSANNA: what are you doing here? 
+FREDRICK: i came to visit you.
+SHOSANNA: can't you see how busy i am?
+FREDRICK: then allow me to lend a assist.
+SHOSANNA: fredrick it's not funny, you can't be here. this is your premiere, you need to be out there with them.
+
+FREDRICK: normally, you would be.right. and for all the other films i do, i intend to endure evenings like tonight, in the proper sprit. however the fact remains, this film, is based on my military exploits. and in this case, my exploits consisted of me killing many men. consequently, the part of the film that's playing now,... .i don't like watching this part. 
+SHOSANNA: fredrick, i am sorry, but -
+FREDRICK: - so, i thought, i'd come up here and do what i do best, annoy you. and from the look on your face, it would appear i haven't lost my touch.
+
+FREDRICK: let me do it? 
+SHOSANNA: no.
+FREDRICK: oh please, it's been two years since i've done a reel change.
+SHOSANNA: i said, no.
+FREDRICK: come on, it's my premiere.
+SHOSANNA: are you so use to the nazi's kissing your ass, you've forgotten what the word,ãƒâ‚ã‚â°ãƒâ‚ã‚â°no" means? no fredrick, you can't come in here, now go away!
+SHOSANNA: fredrick, you hurt me.
+FREDRICK: well, it's nice to know you can feel something. even if it's just physical pain. fredrick steps forward...
+FREDRICK: i'm not a man you say, "go away" to. there's over three hundred dead bodies in russia, that if they could, would testify to that. after what i've done for you, you disrespect me at your peril.
+
+CU SWASTIKA FOREHEAD: seeing him get closer... 
+CU SWASTIKA FOREHEAD: seeing him closer still...
+CU SWASTIKA FOREHEAD: begins to notice...
+
+FREDRICK: what the was that? 
+ALIVE...: shosanna moves to him...
+BANG BANG: two bullets hit her point blank in the chest...
+
+SHOSANNAS GIANT FACE: i have a message for germany. i'm interrupting your propaganda horse to inform you despicable german swine, that your all going to die. hitler and goebbels react. 
+HIRSCHBERG: react.
+MARCEL: smiles.
+SHOSANNAS GIANT FACE: and i want you to look deep in the face of the jew who's going to do it.
+
+HERRMAN: these are the american lines, sir. 
+COL.LANDA: okay gentlemen, you can climb down.
+
+143: aldo and uitivich climb down from the truck. 
+COL.LANDA: herrman, hand them your weapon. he does.
+
+COL.LANDA: i am officially surrendering myself over to you, lt.raine. we are your prisoners. 
+LT.ALDO: thank you very much colonel. uitivich, cuff the colonel's hands behind his back.
+COL.LANDA: is that really necessary?
+
+LT.ALDO: i'm a slave to appearances. 
+COL.LANDA: are you mad? what have you done? i made a deal with your general for that mans life!
+LT. ALDO: yeah, they made that deal, but they don't give a about him, they need you.
+COL.LANDA: you'll be shot for this.
+
+LT.ALDO: raw i don't think so, more like i'll be chewed out. i've been chewed out before. you know, uitvich and myself, heard that deal you made with the brass. end the war tonight? i'd make that deal. how bout you uitivich, you make that deal? 
+UITIVICH: i'd make that deal.
+LT.ALDO: i don't blame ya. good deal. and that pretty little nest ya feathered for yourself. well, if your willing to barbecue the whole high command, i suppose that's worth certain considerations. now i don't care about you gettin pensions, merit badges, ticker tape parades, who gives a damn, let's all go home. but .1do have one question? when you go to your little place on nantuckett island, i image you gonna take off that handsome looking ss uniform of yours, ain't ya?
+LT.ALDO: that's what i thought. now that... .i can't abide. how bout you uitivich, can you abide it?
+UITIVICH: not one bit, sir.
+LT.ALDO: i mean if i had my way, you'd wear that uniform for the rest of your suckin life. but i'm aware that's ain't practical. i mean at some point ya gotta hafta take it off.
+LT.ALDO: so i'm gonna give you a little somethin you can't take off.
 

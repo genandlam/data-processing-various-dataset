@@ -1,806 +1,806 @@
-speaker1: starling's reaction time was 
-speaker2: damn, clarice, how'd you make me?
-speaker3: never cock. just squeeze.
-speaker1: what're you laughin' at, junior g- man? she got off four rounds to your two.
-
-speaker1: what'd i do? 
-speaker2: stay cool. just remember to call him "god."
-
-speaker1: starling, clarice m., good morning. 
-speaker2: good morning, mr. crawford.
-speaker1: your instructors tell me you're doing well. top quarter of the class.
-speaker2: i hope so. they haven't posted anything.
-speaker1: a job's come up and i thought about you. not really a job, more of - an interesting errand. walk me to my car, starling.
-speaker1: we're trying to interview all of the serial killers now in custody, for a psychobehavioral profile. could be a big help in unsolved cases. most of them have been happy to talk to us. they have a compulsion to boast, these people... do you spook easily, starling?
-speaker2: not yet.
-speaker1: you see, the one we want most refuses to cooperate. i want you to go after him again today, in the asylum.
-speaker2: who's the subject?
-speaker1: the psychiatrist - dr. hannibal lecter.
-speaker2: the cannibal...
-speaker2: yes, well... okay, right. i'm glad for the chance, sir, but - why me?
-speaker1: you're qualified and available. and frankly, i can't spare a real agent right now.
-speaker1: i don't expect him to talk to you, but i have to be able to say we tried... lecter was a brilliant psychiatrist, and he knows all the dodges. dossier on him, copy of our questionnaire, special id for you... if he won't talk, then i want straight reporting. how's he look, how's his cell look, what's he writing? the director himself will see your report, over your own signature - if i decide it's good enough. i want that by 0800 wednesday, and keep this to yourself.
-speaker1: now. i want your full attention, starling. are you listening to me?
-speaker2: yes sir.
-speaker1: be very careful with hannibal lecter. dr. chilton at the asylum will go over the physical procedures used with him. do not deviate from them, for any reason. you tell him nothing personal, starling. believe me, you don't want hannibal lecter inside your head... just do your job, but never forget what he is.
-speaker2: and what is that, sir?
-speaker3: oh, he's a monster. a pure psychopath...
-
-speaker1: it's so rare to capture one alive. from a research point of view, dr. lecter is our most prized asset... 
-speaker1: you know, we get a lot of detectives here, but i must say, i can't ever remember one so attractive...
-
-speaker1: will you be in baltimore overnight...? because this can be quite a fun town, if you have the right guide. 
-speaker2: i'm sure it's a great town, dr. chilton, but my instructions are to talk to lecter and report back this afternoon.
-speaker1: i see. let's make this quick, then. i'm busy.
-
-speaker1: lecter carved up nine people - that we're sure of - and cooked his favorite bits. we've tried to study him, of course - but he's much too sophisticated for the standard tests. and my, does he hate us! thinks i'm his nemesis... crawford's very clever, isn't he? using you. 
-speaker2: how do you mean, dr. chilton?
-speaker1: a pretty young woman, to turn him on? i don't believe lecter's ever seen a woman in eight years. and oh, are you ever his "taste" - so to speak.
-speaker2: i graduated magna from uva, doctor. it's not a charm school.
-speaker1: good. then you should be able to remember the rules.
-
-speaker1: do not reach through the bars, do not touch the bars. you pass him nothing but soft paper - no pens or pencils. no staples or paperclips in his paper. use the sliding food carrier, no exceptions. do not accept anything he attempts to hold out to you. do you understand me? 
-speaker2: i understand.
-speaker1: i'm going to show you why we insist on such precautions... on the afternoon of july 8, 1981, he complained of chest pains and was taken to the dispensary. his mouthpiece and restraints were removed for an ekg. when the nurse bent over him, he did this to her...
-speaker1: the doctors managed to re-set her jaw, more or less, and save one of her eyes. his pulse never got over eighty-five, even when he ate her tongue. i keep him in here.
-speaker2: dr. chilton - if lecter feels you're his enemy - as you've said - then maybe i'll have more luck by myself. what do you think?
-speaker1: you might have suggested that in my office, and saved me the time.
-speaker2: but then i would've missed the pleasure of your company.
-speaker1: when she's finished, bring her out.
-speaker3: hi, i'm barney. he told you, don't get near the bars?
-speaker2: clarice starling. yes, he did.
-speaker3: okay. past the others, it's the last cell. stay to the middle. i put out a chair for you.
-speaker3: i'm watching. you'll do fine.
-
-speaker1: dr. lecter... my name is clarice starling. may i talk with you? 
-speaker2: good morning.
-speaker3: as clarice comes a measured distance closer.
-speaker1: doctor, we have a hard problem in psychological profiling. i want to ask for your help with a questionnaire.
-speaker2: "we" being the behavioral science unit, at quantico. you're one of jack crawford's, i expect.
-speaker1: i am, yes.
-speaker2: may i see your credentials?
-speaker2: closer, please... clo-ser...
-speaker2: that expires in one week. you're not real fbi, are you?
-speaker1: i'm - still in training at the academy.
-speaker2: jack crawford sent a trainee to me?
-speaker1: we're talking about psychology, doctor, not the bureau. can you decide for yourself whether or not i'm qualified?
-speaker2: mmmmm... that's rather slippery of you, officer starling. sit. please.
-speaker2: now then. what did miggs say to you? "multiple miggs," in the next cell. he hissed at you. what did he say?
-speaker1: he said - "i can smell your cunt."
-speaker2: i see. i myself cannot. you use evyan skin cream, and sometimes you wear l'air du temps, but not today. you brought your best bag, though, didn't you?
-speaker1: yes.
-speaker2: it's much better than your shoes.
-speaker1: maybe they'll catch up.
-speaker2: i have no doubt of it.
-speaker1: did you do those drawings, doctor?
-speaker2: yes. that's the duomo, seen from the belvedere. do you know florence?
-speaker1: all that detail, just from memory...?
-speaker2: memory, officer starling, is what i have instead of view.
-speaker1: dr. lecter, if you'd please consider -
-speaker2: no, no, no. you were doing fine, you'd been courteous and receptive to courtesy, you'd established trust with the embarrassing truth about miggs, and now this ham-handed segue into your questionnaire. it won't do. it's stupid and boring.
-speaker1: i'm only asking you to look at this, doctor. either you will or you won't.
-speaker2: jack crawford must be very busy indeed if he's recruiting help from the student body. busy hunting that new one, buffalo bill... such a naughty boy! did crawford send you to ask for my advice on him?
-speaker1: no, i came because we need -
-speaker2: how many women has he used, our bill?
-speaker1: five... so far.
-speaker2: all flayed...?
-speaker1: partially, yes. but doctor, that's an active case, i'm not involved. if -
-speaker2: do you know why he's called buffalo bill? tell me. the newspapers won't say.
-speaker1: i'll tell you if you'll look at this form. it started as a bad joke in kansas city homicide. they said... this one likes to skin his humps.
-speaker2: witless and misleading. why do you think he takes their skins, officer starling? thrill me with your wisdom.
-speaker1: it excites him. most serial killers keep some sort of trophies.
-speaker2: i didn't.
-speaker1: no. you ate yours.
-speaker2: send that through.
-speaker2: oh, officer starling... do you think you can dissect me with this blunt little tool?
-speaker1: no. i only hoped that your knowledge -
-speaker2: you're sooo ambitious, aren't you...? you know what you look like to me, with your good bag and your cheap shoes? you look like a rube. a well- scrubbed, hustling rube with a little, taste... good nutrition has given you some length of bone, but you're not more than one generation from poor white trash, are you officer starling...? that accent you're trying so desperately to shed - pure west virginia. what was your father, dear? was he a coal miner? did he stink of the lamp...? and oh, how quickly the boys found you! all those tedious, sticky fumblings, in the back seats of cars, while you could only dream of getting out. getting anywhere - yes? getting all the way - to the
-
-speaker1: you see a lot, dr. lecter. but are you strong enough to point that high- powered perception at yourself? how about it...? look at yourself and write down the truth. or maybe you're afraid to. 
-speaker2: you're a tough one, aren't you?
-speaker1: reasonably so. yes.
-speaker2: and you'd hate to think you were common. my, wouldn't that sting! well you're far from common, officer starling. all you have is the fear of it. now please excuse me. good day.
-speaker1: and the questionnaire...?
-speaker2: a census taker once tried to test me. i ate his liver with some fava beans and a nice chianti... fly back to school, little starling.
-
-speaker1: i would not have had that happen to you. discourtesy is - unspeakably ugly to me. 
-speaker2: then please - do this test for me.
-speaker1: no. but i will make you happy... i'll give you a chance for what you love most, clarice starling.
-speaker2: what's that, dr. lecter?
-speaker1: advancement, of course. go to split city. see miss mofet, an old patient of mine. m-o-f-e-t... now go. go. i don't think miggs could manage again so soon, even if he is crazy - do you?
-
-speaker1: phone call, clarice. it's 
-speaker2: thanks, ardelia.
-
-speaker1: you missed fourth amendment law. unlawful seizure, real juicy stuff. where were you all afternoon? 
-speaker2: pleading with a crazy man, with come all over my face.
-speaker1: wish i had time for a social life.
-speaker2: mr. crawford?
-
-speaker1: it's all there, sir, practically verbatim. 
-speaker2: every word, starling? every gesture?
-speaker1: right down to the kleenex i used. sir, why? is something wrong?
-speaker2: he mentioned a name, at the very end. "mofet..." any followup on her?
-speaker1: i spent all evening on the mainframe. lecter altered or destroyed most of his patient histories, prior to capture. no record of anyone named mofet. but "split city" sounded like it might have have something to do with divorce. i tracked it down in the library's catalogue of national yellow pages. it's a mini-storage facility outside baltimore, where lecter had his practice.
-speaker2: well? why aren't you there right now?
-speaker1: sir, that's a field job. it's outside the scope of my assignment. and i've got a test tomorrow on -
-speaker2: do you recall my instructions to you, starling? what were they?
-speaker1: to complete and file my report by 0800 wednesday. but sir -
-speaker2: then do that, starling. do just exactly that.
-speaker1: sir, what is it? there's something you're not telling me.
-speaker2: miggs has been murdered.
-speaker1: murdered...? how?
-speaker2: the orderly heard lecter whispering to him, all afternoon, and miggs crying. they found him at bed check. he'd swallowed his own tongue... chilton is scared stiff the family will file a civil rights lawsuit, and he's trying to blame it on you. i told the little your conduct was flawless. starling...?
-speaker1: i'm here, sir, i just - i don't know how to feel about it.
-speaker2: you don't have to feel any way about it. lecter did it to amuse himself. why not, what can they do? take away his books for awhile, and no jello... i know it got ugly today. but this is your report, starling - take it as far as you can. on your own time, outside of class. now carry on.
-
-speaker1: not to my knowledge. privacy is a great concern to my customers. but, if you say this is an fbi matter... 
-speaker2: i won't disturb anything, mr. yow, i promise. be gone before you know it.
-speaker1: we could return tomorrow, with my son. or perhaps some workmen...?
-speaker2: would you hold these, please?
-
-speaker1: it smells like mice... i think i hear them, too - don't you? 
-speaker1: you're going in there?
-
-speaker1: mr. yow, if this door should fall down -ha ha! - or anything else - would you be kind enough to call this number? it's our baltimore field office. they know you're here with me... do you understand? 
-speaker2: might i suggest tucking your pants into your socks? to prevent mouse intrusion.
-speaker1: good idea.
-
-speaker1: okay, miss starling? 
-speaker2: okay, mr. yow...
-
-speaker1: you're playing a piano, miss starling? 
-speaker2: that wasn't me.
-speaker1: oh.
-
-speaker1: mr. yow? oh mr. yow...? it looks like somebody is sitting in this car. 
-speaker2: oh my! oh my... maybe you better come out now, miss starling.
-speaker1: not yet! - just wait for me. maybe in about two seconds.
-
-speaker1: it's an anagram, isn't it, doctor? 
-speaker1: hester mofet... "the rest of me." miss the-rest-of-me... meaning, you rented that place.
-
-speaker1: you put those - things in there. paid for it in advance, ten years ago... why, dr. lecter? 
-speaker1: thank you.
-speaker2: your bleeding has stopped.
-speaker1: how did - it's nothing. a scratch.
-speaker2: why don't you ask me about buffalo bill?
-speaker1: why? do you know something about him?
-speaker2: i might if i saw the case file. you could get that for me.
-speaker1: why don't you tell me about "miss mofet?" you wanted me to find him. or do i have to wait for the lab?
-speaker2: his real name is benjamin raspail. a former patient of mine, whose romantic attachments ran to, shall we say, the exotic...? i didn't kill him, merely tucked him away. very much as i found him, in that ridiculous car, in his own garage, after he's missed three appointments. you'd have him under "missing person" - which, in poor raspail's case, could hardly be more true.
-speaker1: if you didn't kill him, then who did?
-speaker2: who can say...? best thing for him, really. his therapy was going nowhere.
-speaker1: wouldn't it have been easier to just leave him for the police to find?
-speaker2: and have them clomping about in my life? oh dear, no... at that time i still had certain private amusements of my own. how did you feel when you saw him, clarice? may i call you clarice?
-speaker1: scared, at first. then - exhilarated.
-speaker2: ahhh... why?
-speaker1: because you weren't wasting my time.
-speaker2: do you have something you use, when you need to get up your courage? memories, tableaux... scenes from your early life?
-speaker1: i don't know. next time i'll have to check.
-speaker2: jack crawford is helping your career, isn't he? apparently he likes you. and you like him, too.
-speaker1: i never thought about it.
-speaker2: your first lie to me, clarice. how sad. tell me - do you think crawford wants you, sexually? true, he's much older, but - do you think he visualizes... scenarios, exchanges...? you?
-speaker1: that doesn't interest me, doctor. and it's the sort of thing miggs would ask.
-speaker2: not anymore. surely the odd confluence of events hasn't escaped you, clarice. crawford dangles you before me. then i give you a bit of help. do you think it's because i like to look at you, and imagine how good you would taste...?
-speaker1: i don't know. is it?
-speaker2: or doesn't this all begin to suggest to you a kind of... negotiation? there's something crawford can give me, and i want to trade for it. i even wrote to him, offering my help. but he hates me, so he won't deal directly.
-speaker2: punishment, you see. for miggs. just like that gospel program. when you leave, they'll turn the volume way up. chilton does enjoy his petty torments.
-speaker1: who killed raspail, doctor...? you know, don't you?
-speaker2: i've been in this room for eight years, clarice. i know they will never, ever let me out while i'm alive. what i want is a view. i want a window where i can see a tree, or even water. i want to be in a federal institution, away from chilton - and i want a view. i'll give good value for it. crawford could do that for me, but he won't. you persuade him.
-speaker1: who killed your patient?
-speaker2: oh, a very naughty boy. someone you and jack crawford are most anxious to meet.
-speaker1: buffalo bill...? bill killed him, all those years ago...? that's impossible.
-speaker2: who is he stalking right now, clarice? i wonder, don't you? how many more young women will have to die, before you trade with me...?
-
-speaker1: this stuff's givin' me the munchies. where's that bag of popcorn? 
-speaker2: left the groceries in the car.
-speaker1: 's okay, i'll go.
-
-speaker1: help you with that? 
-speaker2: would you? thanks.
-speaker2: let's slide it up, you mind?
-
-speaker1: are you about a size 14? 
-speaker2: what?
-speaker1: good.
-speaker1: good.
-speaker1: gooood...
-
-speaker1: electron microscopy reveals fiber "signatures" that are nearly as distinct as fingerprints... 
-speaker1: both of these blouses were worn by victims of buffalo bill. they were found in two different states, and four months apart. he always slits them up the back, like a funeral suit...
-
-speaker1: get your field gear, take stuff for overnight. you're goin' with crawford. 
-speaker2: where?
-speaker1: some fishermen in west virginia found an unidentified girl's body. it's a buffalo bill-type situation. been in the water about a week, and jack needs somebody that can print a floater. think you can handle it?
-speaker2: i'll need the big fingerprint kit... and the one-to-one polaroid, the cu- 5, with film packs and batteries.
-
-speaker1: jack's pretty tough on you, isn't he? impatient... 
-speaker2: sometimes.
-speaker1: he's got a lot on his mind besides buffalo bill... his wife, bella, is real sick. comatose... i'm tellin' you about it now, 'cause he may never.
-speaker1: you're goin' in the field, so you gotta have full kit. take this - it's my own...
-speaker1: wear it, don't ever leave it in your purse. dry fire it whenever you get the chance. and do your exercises.
-speaker2: i will... i promise.
-speaker1: listen, i hope you never need a thing i've taught you. but you've got something... jack sees it, i do too. if you ever need to, you can shoot.
-speaker1: bless you, starling...
-
-speaker1: why, we don't yet know... there's no evidence of or physical abuse prior to death. all the mutilation you see there is post-mortem. i'm hot, are you hot? bobby, it's too hot back here... 
-speaker1: so. three days. then he shoots them, skins them - usually just the torsos - and dumps them. each body in a different river, in a different state, downstream from an interstate highway. the water leaves us no fingerprints, fibers, dna fluids - no trace evidence at all. that's fredrica bimmel, the first one...
-
-speaker1: blue square for belvedere, ohio, where the bimmel girl was abducted. blue triangle where her body was found - down here in missouri. same marks for the other four girls, in different colors. this new one, today... washed up here. elk river, in west virginia, about six miles below u.s. 79. real boonies. 
-speaker2: there's no correlation at all between where they're kidnapped and where they're found...? what if - what if you trace the heaviest-traffic routes backwards from the dump sites? do they converge at all?
-speaker1: good idea, but he thought of it, too. we've run simulations, using different vectors and the best dates we can assign. you put it all in the computer, and smoke comes out. no, this one is different. this one has seen us coming...
-
-speaker1: talk about him, starling. tell me what you see. 
-speaker2: he's a white male... serial killers tend to hunt within their own ethnic group. and he's not a drifter - he's got his own house, somewhere. not an apartment.
-speaker1: why?
-speaker2: what he does with them - takes privacy... time, tools... he's in his 30's or 40's - he's got real physical strength, but combined with an older man's self-control. he's cautious, precise, never impulsive... this won't end in suicide, like they often do.
-speaker1: why not?
-speaker2: he's got a real taste for it now. and he's getting better at his work.
-speaker1: maybe you've got a knack for this... i guess we're about to find out.
-speaker2: like i have a "knack" for dr. lecter?
-speaker1: okay, starling. let's have it.
-speaker2: you haven't said a word today about that garage. or what i found there.
-speaker1: what should i say? you did fine work. we'll wait on the lab.
-speaker2: you knew. you knew from the start that lecter held the key to this... but you weren't up front with me. you sent me in to him naked.
-speaker1: are you finished?
-speaker2: he starts this - buzzing in me, in my head. he makes me feel violated... you used me, mr. crawford.
-speaker1: number one. maybe there's a connection, maybe not. lying and breathing are the same thing to lecter. number two. if i'd sent you in there with something to hide from him, he'd have known it, instantly. he'd never have trusted you. she starts to answer, then is silent. he is right.
-speaker1: number three, i didn't bring you along today just because you can do first-rate forensics. if lecter is becoming part of this case, you've got the most current read on him. and number four - you don't have to like me, or the way i do things. but you do have to keep a cool head. especially now... because from here on out, you'll know everything i do. are we straight on that?
-
-speaker1: you think about him long enough, you get a feel for him... then, if you're lucky, out of all the stuff you know, one little part of it tugs at you, tries to get your attention... you let me know when that happens, starling. live right behind your eyes, today. don't try to impose any patterns on this guy. just stay open and let him show you... one of the troopers, impassive in his sunglasses and hat, peers in through crawford's window. crawford nods to him, then turns back to clarice. 
-speaker1: school's out, starling.
-
-speaker1: sheriff perkins? jack crawford, fbi... this is officer starling. we appreciate your phoning us. 
-speaker2: i didn't call you. that was somebody from the state attorney's office... 'for you do a thing else, i'm gon' find out if this girl's local. it could just be somethin' that outside elements has dumped on us.
-speaker1: well sir, that's where we can help. if -
-speaker2: i don't even know you, mister... now we'll extend you ever courtesy, just soon as we can, but for right now -
-speaker1: sheriff, this, ah - this type of crime has some aspects i'd rather discuss just between the two of us. know what i mean?
-
-speaker1: wrongful death... she'll have to go to the state pathologist at claxton when you're done. i better - get on back for the rest of that service. lamar'll help you. lord almighty... 
-speaker2: what do you see, starling?
-speaker3: well, she's not local. her ears are pierced three times each, and she's wearing green glitter nail polish. looks like town to me...
-
-speaker1: she waxed her legs, i think... a big girl, just like the others - but she was careful about her appearance... 
-speaker2: as lamar joins them for a closer look.
-speaker1: two of the fingernails are broken off, and there's - dirt or grit under the others. she tried to claw her way through something... i'll scrape out samples after i've printed her.
-speaker3: them fishhooks are set too close together. no wonder the franklin boys was scared to say they found her.
-speaker1: think they were runnin' a trotline?
-speaker1: it's a fish and game violation. like poaching. there's a big fine.
-speaker3: right... are you from around here?
-speaker1: they do it lots of places.
-speaker4: get photos of her teeth. then we'll fax her fingerprints to washington, try to trace her through missing persons.
-
-speaker1: as clarice examines a developing print. 
-speaker2: she's got something in her throat.
-speaker3: when a body comes out of the water, alots of times there's like, leaves and things in the mouth.
-speaker4: what is it - some kind of seed pod?
-speaker3: nawsir, that's a bug cocoon. but how come that to get way down in there? 'less somebody shoved it in...
-speaker4: she'll be easier to print if we turn her over. lamar, will you give me a hand?
-speaker3: yessir, i will. clarice takes a jar from her kit, carefully drops the cocoon inside.
-speaker4: starling - what do you make of these?
-
-speaker1: as clarice looks at crawford. 
-speaker2: i don't know. i didn't see those on any of the other girls...
-speaker3: they weren't there. get close-ups.
-
-speaker1: thanks, i'm not thirsty. 
-speaker2: no, hold it under your chin, there, and on your temples. cold'll make you feel better. it does me.
-speaker3: when i told that sheriff we shouldn't talk in front of a woman, that really burned you, didn't it? that was just smoke, starling, i had to get rid of him. you did well in there.
-speaker1: it matters, mr. crawford... other cops know who you are. they look at you to see how to act... it matters.
-speaker3: point taken.
-speaker3: when we get back, i want you to run that bug by the smithsonian, see if they can identify it. maybe it's got some limited range, or it only breeds at certain times of year... you found it, starling, you deserve the credit.
-speaker1: i'm wondering if he's done that before - placed a cocoon, or an insect. it would be easy to miss in an autopsy, especially with a floater... can we check back on that?
-speaker3: the other girls are in the ground. exhumations are upsetting for the families. i'll do it if i have to, but -
-speaker1: then have the lab check raspail's head. dr. lecter's patient - have them probe his soft-palette tissues... they'll find another cocoon.
-speaker3: you seem pretty sure of that.
-speaker1: raspail was killed by the same man who's killing these girls. and lecter knows him. maybe even treated him... you think so, too, don't you? or you'd never have sent me to that asylum.
-speaker3: before we caught him, lecter had a big psychiatric practice in baltimore. but he traveled all over the country - teaching, consulting... christ, even testifying in murder trials. who knows how many potential psychos he turned loose, just for the fun of it...?
-
-speaker1: rub it in! or you'll get the hose again. 
-speaker1: yes, it will, precious, won't it? it will get the hose!
-
-speaker1: oh oh 
-speaker1: mister, if you let me go, i won't press charges, i promise. you've only had me here a couple days, and -
-speaker2: no. just one day...
-speaker1: is that all...? see - see, my mom is a real important woman... well, i guess you already know that. she'll pay you, no questions asked. whatever cause you represent - iran, palestine - she'll see that -
-
-speaker1: ...was listed at first simply as a missing person, but is now believed to have been kidnapped by the serial killer known only as "buffalo bill." 
-speaker1: memphis police sources indicate that the missing girl's blouse has been identified, sliced up the back, in what has become a kind of grim calling card. young catherine martin, as we've said, is the only daughter of u.s. senator ruth martin -
-
-speaker1: i'm speaking now to the person who is holding my daughter. her name is catherine... you have the power to let catherine go, unharmed. she's very gentle and kind - talk to her and you'll see. her name is catherine... 
-speaker2: boy, is that smart...
-speaker3: why does she keep repeating the name?
-speaker2: somebody's coaching her... they're trying to make him see catherine as a person - not just an object.
-
-speaker1: time, pilch! my move. 
-speaker2: no fair! you lured him with produce.
-
-speaker1: tough noogies! it's still my turn. 
-speaker2: if the beetle moves one of your men, does that count?
-speaker1: of course it counts. how do you play?
-speaker3: officer starling. welcome back.
-
-speaker1: where the did this one come from? it's practically mush. 
-speaker2: you really don't want to know.
-speaker3: your west virginia specimen gave us quite a bit of trouble, but i finally managed to narrow his species through chaetaxy - studying the skin.
-speaker1: i'm the one who found his perforating proboscis! are you wearing a gun, right now? ooh, cool! can i see it? can i?
-speaker3: just ignore him. he's not a ph.d.
-
-speaker1: what do you do when you're not detecting, officer starling? 
-speaker2: i try to be a student, dr. pilcher.
-speaker1: ever get out for cheeseburgers and beer? the amusing house wine...?
-speaker3: positive match!
-speaker2: you're sure?
-speaker3: west virginia... baltimore. officer starling, meet mister acherontia styx.
-
-speaker1: better known to his friends as the death's-head moth... 
-speaker2: the latin name comes from two rivers in hell. your man - he drops these girls into rivers, every time. didn't i read that?
-
-speaker1: and there's no way - no natural way - these could've wound up in the bodies? 
-speaker2: they live in malaysia. in this country, they'd have to be specially raised, from imported eggs.
-speaker1: dr. lecter...
-
-speaker1: but for catherine martin, it all comes down to you and lecter. you're the one he talks to. 
-speaker2: he's already offered to help... what would happen if we just showed our cards - asked him for bill?
-speaker1: he offered to help, starling, not to snitch. that wouldn't give him enough chance to show off. remember, lecter looks mainly for fun. never forget fun.
-speaker2: but if he knew we have so little time -
-speaker1: if we act too anxious, he'll make us wait. he'll let the senator keep hoping, day after day, until catherine finally washes up. that'd be the most fun of all.
-speaker2: i think he means it, this time. i think he'll deal.
-speaker1: what would it take?
-speaker2: transfer to a new prison. with a view of trees, he said, or even water... can we swing that?
-speaker1: state to federal jurisdiction... we can do it - eventually - but we'll never get all the clearances in time. can you convince him a deal's already in place?
-speaker2: you'll back me up with some paperwork? then i'll try. but wouldn't this have more weight coming from the senator herself?
-speaker1: she doesn't know what we're up to. and we can't afford to let her find out.
-speaker1: she's the mother, starling. she can't possibly comprehend what lecter is. she'd make the mistake of pleading with him. begging him... he'd feast on her pain till the last second of that girl's life...
-
-speaker1: we can't trust frederick chilton, either. he's greedy and ambitious. if he knew about lecter's link to bill, he's go straight to the newspapers... 
-speaker2: what you're doing, miss starling, is coming into my hospital to conduct an interview, and refusing to share information with me. for the third time!
-speaker3: dr. chilton, i told you - this is just routine follow-up on the raspail case.
-speaker2: he's my patient! i have rights! i'm not just some turnkey, miss starling. i shouldn't even be here this afternoon. i had a ticket to holiday on ice.
-speaker3: i'm acting on instruction, dr. chilton. this is the u.s. attorney's number. now please - either discuss this with him, or let me do my job.
-
-speaker1: wouldn't you say, clarice, that for a united states senator, you're an odd choice of messenger? 
-speaker2: i was your choice, dr. lecter. you chose to speak to me. would you prefer someone else now? or perhaps you don't think you can help us.
-speaker1: that is both impudent and untrue... tell me, how did you feel when you viewed our billy's latest effort? or should i say, his "next-to-latest"?
-speaker2: by the book, he's a sadist.
-speaker1: life's too slippery for books, clarice. typhoid and swans came from the same tell me, miss west virginia - was she a large girl?
-speaker2: yes.
-speaker1: big through the hips. roomy.
-speaker2: they all were.
-speaker1: mmm. and what else...?
-speaker2: she had an insect deliberately inserted in her throat. that hasn't been made public yet. we don't know what is means.
-speaker1: was it a butterfly?
-speaker2: a moth... how did you predict that?
-speaker1: i'm waiting for your offer, clarice. enchant me.
-speaker2: if you help us find buffalo bill in time to save catherine martin, the senator promises you a transfer to the v.a. hospital at oneida park, new york, with a view of the woods nearby. maximum security still applies, but you'd have reasonable access to books.
-speaker2: best of all, though - one week a year you'd get to leave the hospital and go here. plum island. every afternoon of that week you can walk on the beach or swim in the ocean for up to one hour. under swat team surveillance, of course...
-speaker2: copy of the buffalo bill case file, copy of senator martin's terms. her offer is final and non-negotiable. if catherine dies - you get nothing.
-speaker1: "plum island animal disease research center." sounds charming.
-speaker2: that's just part of the island. it has a very nice beach. terns nest there.
-speaker1: terns... if i help you, clarice, it will be "turns" with us, too. quid pro quo. i tell you things, you tell me things. not about this case, though - about yourself. yes or no? yes or no, clarice. catherine is waiting. tick-tock, tick-tock...
-speaker2: go, doctor.
-speaker1: what's your worst memory of childhood? quicker than that. i'm not interested in your worst invention.
-speaker2: the death of my father.
-speaker1: tell me. don't lie, or i'll know.
-speaker2: he was a town marshal... one night he surprised two burglars, coming out the back of a drugstore... they shot him.
-speaker1: killed outright?
-speaker2: no. he was strong, he lasted almost a month. my mother - died when i was very young, so my father had become - the whole world to me... after he left me, i had nobody. i was ten years old.
-speaker1: you're very frank, clarice. i think - it would be quite something to know you in private life.
-speaker2: quid pro quo, doctor.
-speaker1: the significance of the moth is change. caterpillar into cocoon into beauty... billy wants to change, too, clarice. but there's the problem of his size, you see. even if he were a woman, he'd have to be a big one...
-speaker2: dr. lecter, there's no correlation in the literature between transsexualism and violence. transsexuals are very passive.
-speaker1: clever girl. you're so close to the way you're going to catch him - do you realize that?
-speaker2: no. tell me why.
-speaker1: after your father's death, you were orphaned. what happened next? i don't imagine the answer's on those second-rate shoes, clarice.
-speaker2: i went to live with my mother's cousin and her husband in montana. they had a ranch.
-speaker1: a cattle ranch?
-speaker2: horses - and sheep...
-speaker1: how long did you live there?
-speaker2: two months.
-speaker1: why so briefly?
-speaker2: i - ran away...
-speaker1: why, clarice? did the rancher you?
-speaker2: no.
-speaker1: did he try to?
-speaker2: no...! quid pro quo, doctor.
-speaker1: billy's not a real transsexual, but he thinks he is. he tries to be. he's tried to be a lot of things, i expect.
-speaker2: you said - i was very close to the way we'd catch him.
-speaker1: there are three major centers for transsexual surgery: johns hopkins, the university of minnesota, and columbus medical center. i wouldn't be surprised if billy has applied for reassignment at one or all of them, and been rejected.
-speaker2: on what basis would they reject him?
-speaker1: the personality inventories would trip him up. rorschach, wechsler, house-tree-person... he wouldn't test like a real transsexual.
-speaker2: how would he test?
-speaker1: that's enough, i think. happy hunting. oh, and clarice - next time you will tell me why you ran away. shall i summarize?
-speaker2: yes, doctor. please.
-
-speaker1: among those who tried to conceal their past, look for severe childhood disturbances, associated with violence... possibly you'll find a childhood incarceration... then go to their personality tests... 
-speaker1: study their drawings, especially. billy's house drawings will show no happy future... no baby carriage, out in the yard. no pets, no toys, no flowers, no sun...
-speaker1: his females will be more crudely sketched than him males - but he'll compensate by adding exaggerated adornments... jewelry, big breasts... and his tree drawings - oh, his trees will be frightful...
-speaker1: billy hates his own identity, he always has - and he thinks that makes him a transsexual. but his pathology is a thousand times more savage... he wants to be reborn, clarice. he will be reborn...
-speaker2: pleeeeeeeease.....!
-
-speaker1: perhaps you should have been less specific about what kind. stand him by the toilet. then leave us. 
-speaker1: such a lot of correspondence! i can hardly wait to analyze it in more detail... but first things first.
-speaker1: i thought she might be looking for a civil rights violation in migg's death, so i bugged you... not a word to me in all these years, hannibal. then crawford sends his bit of fluff over here, and you just turn to jelly. it's too pathetic.
-
-speaker1: you still think you're going to walk on some beach, and see the birdies? i don't think so, hannibal... i called senator ruth martin, and she never heard of any deal with you. she never heard of clarice starling, either. they scammed you, hannibal... 
-speaker1: when crawford gets through milking you, he's giving you to baltimore homicide for the raspail murder. and they're preparing some special surprises for you right now, in my electroshock room.
-
-speaker1: the starling wants you to rot here, in this little box, till your teeth fall out and you're soiling diapers. you've seen the old ones, hannibal. they weep when their stewed peaches get cold. that'll be you, too. unless - you trade with me. 
-speaker2: as he sits chummily on the table.
-speaker1: there never was a deal with senator martin - but there is now. i've been on the phone for hours, hannibal, on your behalf. here's what you get: if you identify buffalo bill, and the girl is found in time, senator martin will have you transferred to brushy mountain state prison, in tennessee...
-
-speaker1: in exchange, i get your full cooperation in publishing a professional account of this - my successful interviews with you. you publish nothing. and i get exclusive access to any material from catherine martin... so. do you accept my demands? answer me, hannibal. 
-speaker1: you'll answer me now, or by you'll answer to baltimore homicide. who is buffalo bill?
-speaker2: i'll tell the senator herself. but only in tennessee...
-
-speaker1: i'm not having a witch hunt here, mr. crawford! our patients are decent, non-violent people with a real problem. 
-speaker2: dr. danielson, the man we want was never your patient. it would be someone you refused because he tries to conceal a record of criminal violence. please, doctor - time is eating us up. just show me the ones you've turned away.
-speaker1: examination and interview materials are confidential. we've never violated an applicant's trust, and we never will.
-speaker2: you want to see a violation? this is a violation...
-speaker2: her name is kimberly jane emberg, she was just id'd. i met her on a slab in west virginia. and sometime tomorrow, or tomorrow night, he's going to do the same thing to catherine martin.
-speaker1: that's a childish, bullying stunt, mr. crawford. i was a battlefield surgeon, so you can put away your picture.
-speaker3: phone, jack. director burke.
-speaker2: in a minute!
-speaker2: look... search your own records, if you prefer. you can do it a lot faster than us, anyway. if we find buffalo bill through your information, i'll suppress it. nobody has to know this hospital cooperated.
-speaker1: i doubt very much that the fbi or any other government agency can keep a secret, mr. crawford. truth will out... and then what? will you give johns hopkins a new identity? put a big pair of sunglasses on this building, and a funny nose?
-speaker2: oh, that's clever, dr. danielson. very humorous. you like the truth? try this. he kidnaps young women and kills them and rips their skin off. we don't want him to do that anymore. if you don't help me, just as fast as you can, then the justice department is going to ask publicly for a court order, we'll ask twice a day, just in time for the morning and evening news. and each one of our press conferences will focus on dr. danielson, over at johns hopkins, and how we're still hoping for his cooperation. and every time there's any news on the case - when catherine martin floats, when the next one floats, and the next one - why, we'll just issue another press release about good ol' dr. danielson, over at johns hopkins - complete with all his humorous remarks.
-speaker1: it may be that - i could confer with my colleagues on this. and get back to you.
-speaker2: would you, doctor? that would be so kind.
-
-speaker1: chilton has killed her, hasn't he? that slimy little bastard! we were so close with lecter - and now her last chance is gone. 
-speaker2: let's get some coffee and talk.
-
-speaker1: are you in trouble over this, mr. crawford? can senator martin do something to you? 
-speaker2: i'm 53, starling. if i found jimmy hoffa on national tv, i'd still have to retire in two years. it's not a consideration. but you are... you've done enough. if i keep you out of school any longer, you'll be recycled. cost you six months, at least. i can guarantee you readmission here, but that's about it. now's your chance, starling. go back to class. leave bill to me.
-speaker1: if you didn't want me chasing him, you shouldn't have taken me to that funeral home.
-speaker1: lecter is still the key, i know he is. whatever he told me about bill is just as good now as it was before.
-speaker2: or just as worthless. but i want you in memphis, close to him. maybe when he gets tired of toying with senator martin, he'll talk to you again. there's a plane waiting for you now at the airstrip.
-speaker1: i lied to lecter. i'll need some kind of peace offering... can i get the drawings from his cell?
-speaker2: good idea. meantime, try to get a feel for catherine martin. her apartment, her friends... how he might've stalked her. i'm going to the other two clinics, minnesota and ohio. now's the hardest part, starling. use your anger, don't let it keep you from thinking. just keep your eyes on catherine. we've got less than 30 hours.
-speaker1: mr. crawford... can those cops down there handle dr. lecter?
-speaker2: they'll use their best men. but they better be paying attention...
-
-speaker1: welcome to memphis, dr. lecter. i'm officer boyle, this is officer pembry. we aim to treat you just as nice as you treat us. act like a gentlemen, you'll get three hots and a cot. 
-speaker2: but we ain't pussy-footin' with you, buddy ruff. you get cute, try to bite somebody? - we'll tie your in a knot. you savvy?
-speaker3: oh yes, officer pembry. i certainly do.
-speaker2: he's just an ol' broke-dick. won't be no trouble as all if he don't flip out.
-speaker1: dr. chilton...?
-
-speaker1: if you'll please sign right here, sir, we'll have us a legal transfer. 
-speaker1: use mine.
-speaker2: here they come.
-
-speaker1: senator martin, meet dr. hannibal lecter. 
-speaker2: dr. lecter, i've brought an affidavit guaranteeing your new rights... you'll want to read it before i sign.
-speaker3: i won't waste your time and catherine's time bargaining for petty privileges. clarice starling and that awful jack crawford have wasted far too much already. i only pray they haven't doomed the poor girl... let me help you now, and i'll trust you when it's all over.
-speaker2: you have my word. paul?
-speaker3: buffalo bill's real name is william rubin. i met him just once. he was referred to me in april or may, 1980, by my patient benjamin raspail. they were lovers, but raspail had become very frightened. apparently rubin had murdered a transient, and - done things with the skin. he thought if i could cure billy, then billy'd be safe from the police, and he's be safe from billy... obviously, he was wrong.
-speaker4: we need his address, a physical descr-
-speaker3: did you nurse catherine?
-speaker2: what...?
-speaker3: did you breast-feed her?
-speaker4: you son-of-a -
-speaker2: yes... i did.
-speaker3: toughened your nipples, didn't it...? six foot one, strongly built, about 190 pounds. hair brown, eyes pale blue. he'd be about 35 now. he said he lived in philadelphia, but may have lied. that's really all i can remember, senator - but if i think of any more, i'll let you know.
-speaker2: let's go with it.
-speaker3: senator martin...! you can't trust jack crawford or clarice starling. it's such a game with these people. they're determined to get the arrest for themselves. the "collar," i think they say.
-speaker2: thank you, doctor. i'll keep it in mind.
-speaker3: oh, and senator...? love you suit.
-
-speaker1: who are you, please? i thought the police were through in here. 
-speaker2: i'm clarice starling, senator. fbi.
-speaker1: clarice starling... paul? would you come in here, please...?
-speaker1: miss starling, you may know the deputy attorney general, mr. krendler. paul, this is the trainee that jack crawford sent to lecter... she lied to him, pretending to have my authority, and thus jeopardized this entire investigation. now she has the further gall to invade my daughter's privacy, again without permission. if her little games have killed my baby...
-speaker3: you're out of line, starling, and you're off this case. back to quantico.
-speaker2: sir, mr. crawford instructed me -
-speaker3: your instructions are what i'm giving you now. jack crawford answers to the director, and the director answers to me. my crawford's losing it...! he shouldn't even be on this, with his wife sick as she is... how the did you get in here, anyway? he gave you - what? some kind of special id? let's have it.
-speaker2: i need the id to fly with my gun. the gun belongs in quantico.
-speaker3: gun. turn in the id as soon as you get back. the gun, too. be on the next plane, starling, there's one in 90 minutes.
-speaker2: mr. krendler... dr. lecter trusts me. or at least, he used to. if i could just -
-speaker3: lecter has already named buffalo bill.
-speaker3: he gave us a perfectly good description, and we're on it now, so we won't be needing your little novelty act any longer - or his, either. he's under close guard at the courthouse, pending a prison transfer. the next plane, officer.
-speaker2: sir, doesn't this "william rubin" strike you as - i don't know - kind of vague?
-speaker3: do you need a police escort, starling? or do you think you can find the airport by yourself?
-speaker2: yes sir. i can find it by myself.
-
-speaker1: are you with mr. krendler's people? 
-speaker2: i just left him.
-speaker1: access to lecter is strictly limited. we've been getting death threats. log in, and check your weapon.
-
-speaker1: every cop in tennessee wants a look at this guy. 'sit true what they're sayin' - he's some kinda vampire? 
-speaker2: i don't have a name for what he is.
-
-speaker1: you know the rules, ma'am? 
-speaker2: yes, officer pembry. i've questioned him before.
-
-speaker1: good afternoon, clarice. 
-speaker2: i thought you might want your drawings back... just until you get your view.
-speaker1: how very thoughtful... or did crawford send you here for one last wheedle - before you're both booted off the case?
-speaker2: nobody sent me. i came on my own.
-speaker1: people will say we're in love. pity you tried to fool me, isn't it? pity for poor catherine. tick-tock...
-
-speaker1: dr. lecter, you find out everything. you couldn't have talked with this "william rubin", even once, and come out knowing so little about him... you made him up, didn't you? 
-speaker2: clarice... you're hardly in a position to accuse me of lying.
-speaker1: i think you were telling me the truth in baltimore - or starting to. tell me the rest now.
-speaker2: i've studied the case file, have you...? everything you need to find him is right in these pages. whatever his name is.
-speaker1: then tell me how.
-speaker2: first principles, clarice. simplicity. read marcus aurelius. of each particular thing, ask: what is it, in itself, what is its nature...? what does he do, this man you seek?
-speaker1: he kills w-
-speaker2: no! that's incidental.
-speaker2: what is the first and principal thing he does, what need does he serve by killing?
-speaker1: anger, social resentment, sexual frus-
-speaker2: no, he covets. that's his nature. and how do we begin to covet, clarice? do we seek out things to covet? make an effort to answer.
-speaker1: no. we just -
-speaker2: no. precisely. we begin by coveting what we see every day. don't you feel eyes moving over your body, clarice? i hardly see how you couldn't. and don't your eyes move over the things you want?
-speaker1: all right, then tell me how -
-speaker2: no. it's your turn to tell me, clarice. you don't have any more vacations to sell, on anthrax island. why did you run away from that ranch?
-speaker1: dr. lecter, when there's time i'll -
-speaker2: we don't reckon time the same way, clarice. this is all the time you'll ever have.
-speaker1: later, listen, i'll -
-speaker2: i'll listen now. after your father's murder, you were orphaned. you were ten years old. you went to live with cousins, on a sheep and horse ranch in montana. and - ?
-speaker1: and - one morning i just - ran away...
-speaker2: not "just," clarice. what set you off? you started what time?
-speaker1: early. still dark.
-speaker2: then something woke you. what? did you dream...? what was it?
-
-speaker1: i heard a strange sound... 
-speaker2: what was it?
-
-speaker1: screaming! some kind of - screaming. like a child's voice... 
-speaker2: is terrified; she covers her ears.
-speaker3: what did you do?
-speaker1: got dressed without turning on the light. i went downstairs... outside...
-
-speaker1: and what did you see, clarice? 
-speaker2: is held down on a table by two ranch hands.
-speaker3: lambs. the lambs were screaming...
-
-speaker1: they were slaughtering the spring lambs? 
-speaker2: yes...! they were screaming.
-speaker1: so you ran away...
-speaker2: no. first i tried to free them... i opened the gate of their pen - but they wouldn't run. they just stood there, confused. they wouldn't run...
-speaker1: but you could. you did.
-speaker2: i took one lamb. and i ran away, as fast as i could...
-
-speaker1: where were you going? 
-speaker2: i don't know. i had no food or water. it was very cold. i thought - if i can even save just one... but he got so heavy. so heavy...
-speaker2: i didn't get more than a few miles before the sheriff's car found me. the rancher was so angry he sent me to live at the lutheran orphanage in bozeman. i never saw the ranch again...
-speaker1: but what became of your lamb? clarice...?
-
-speaker1: you still wake up sometimes, don't you? wake up in the dark, with the lambs screaming? 
-speaker2: yes...
-speaker1: do you think if you saved catherine, you could make them stop...? do you think, if catherine lives, you won't wake up in the dark, ever again, to the screaming of the lambs? do you...?
-speaker2: yes! i don't know...! i don't know.
-speaker1: thank you, clarice.
-speaker2: tell me his name, dr. lecter.
-speaker1: dr. chilton... i believe you know each other?
-
-speaker1: out. let's go. 
-speaker2: sorry, ma'a m - we've got orders to have you put on a place.
-speaker3: brave clarice. will you let me know if ever the lambs stop screaming?
-speaker4: yes. i'll tell you.
-speaker3: promise...? then why not take your case file? i won't be needing it anymore. he holds out the file, arm extended between the bars. she hesitates, then reaches to take it.
-
-speaker1: hello, dear! punctual as always. and what have you brought us today? 
-speaker1: oh, marvelous... you know, i always say you're the leonardo of leather.
-speaker2: oil.
-speaker1: pardon...?
-speaker2: you're leaving oil on the skin.
-speaker1: of course... you'll be wanting your -
-speaker1: i wish we had a dozen like him... sound upcut - glenn gould playing bach's goldberg variations...
-
-speaker1: just another minute, please! 
-speaker2: sumbitch demanded lamb chops for dinner, extra rare.
-speaker3: what you reckon he'll want for breakfast - some thing from the zoo?
-
-speaker1: okay, doc, grab some floor. same drill as lunchtime. 
-speaker2: i'm ready when you are, officer pembry.
-
-speaker1: what is this shit...? did somebody go up to five? call pembry, ask him what - 
-speaker1: cp, shots fired on five! repeat, shots fires on five! outside posts look sharp, we've got a... ho-ly
-speaker2: has begun to descend. down to 4, then past 4...
-
-speaker1: shut up...! guard mount, double up on your outside posts. bobby, get the vests. rainey, howard, cover that elevator if it comes all the way to - 
-speaker2: it stopped!
-
-speaker1: this one's alive! 
-speaker2: take ahold of him where he can feel your hands, son. talk to him.
-speaker1: what's his name, sarge?
-speaker2: it's pembry, now talk to him, dammit. boyle's dead, pembry's read bad. lecter is missing and armed - he took boyle's gun...
-speaker2: pembry got off one round - there's a chance lecter was hit. we heard a total of three shots fired, so he's got four left... he's got a knife, too.
-
-speaker1: you're just fine, pembry, lookin' good, buddy, you're gonna make it... 
-speaker2: downstairs - let's go!
-
-speaker1: i see him... there's a weapon by his hand. he's not moving... 
-speaker2: can you get the drop?
-speaker1: we got the drop.
-speaker2: one warning. then take him out.
-speaker1: quinn!! put your hands on your head!!
-speaker1: put one in his leg.
-
-speaker1: staring down the shaft, raises his mike again. 
-speaker1: no movement.
-speaker2: okay, johnny, hold your fire...
-
-speaker1: we're coming into the car, we're opening the hatch. watch his hands. any fire will come from us. affirm? 
-speaker2: got it.
-
-speaker1: he's comatose, but his vital signs are good. pressure's 130 over 90... yeah, 90! pulse 85... behind him, in slightly blurred focus, the figure sits slowly upright... 
-speaker1: his convulsions have stopped, but he's got so much loose skin on his face, it's hard to tell if -
-speaker2: in lecter's fist, flashes high in the air...
-
-speaker1: in the parking garage at memphis airport. the crew was dead. he killed a tourist, too. got his clothes, cash... by now he could be anywhere. 
-speaker2: no. he won't come after me.
-speaker1: why not?
-speaker2: it would be rude. and he wouldn't get to ask any more questions...
-speaker1: clarice - you did the best anybody could have for catherine martin. you stuck your neck out for her and you got your kicked for her and you tried. it's not your fault it ended this way.
-speaker2: the worst part - the thing that's making me crazy - is that bill is right in front of me. only i can't see him... lecter said, everything i need to catch him is right here, in these pages...
-speaker1: lecter said a lot of things.
-speaker2: he's here, ardelia. ardelia stares back at her.
-
-speaker1: "desperately random." what does he mean? 
-speaker2: not random at all, maybe. like there's some pattern here...?
-speaker1: but there is no pattern. there's no connection at all among these places, or the computers would've nailed it! they're even found in random order.
-speaker2: well, except for the one girl.
-speaker1: what girl?
-speaker2: the one that was weighted down. where is she...? fred something.
-speaker1: fredrica bimmel, from belvedere, ohio. the first girl taken, but the third body found... why?
-speaker2: 'cause she didn't drift. he weighted her down.
-speaker1: but why? he didn't weight the others. clarice moves, on fire, unable to keep still.
-speaker1: the first, what the did lecter say about... "first principles," he said. simplicity... what does this guy do, he "covets." how do we first start to covet? "we covet what we see -"
-speaker1: "- every day."
-speaker2: hot damn, clarice.
-speaker1: he knew her...!
-
-speaker1: maybe he lives in this, this belvedere, ohio, too! maybe he saw her every day, and killed her sort of spontaneously. maybe he just meant to... give her a 7-up and talk about the choir. but then - 
-speaker2: starling -
-speaker1: but then he had to cover up, make her seem just like all the rest of them. that's what lecter was hinting!
-speaker2: the market in lecter hints is way down, today, okay? i've got two good men dead in memphis, and three civilians. i've got -
-speaker3: who the hell's fault is -
-speaker2: - a u.s. senator who's half out of her head because her daughter's going to be murdered today! and all because of your mind games with lecter!
-speaker3: if you hadn't interfered, he'd still be in custody in baltimore!
-speaker4: jack -
-speaker2: you sent in a green recruit, with a phony offer -
-speaker3: you're just trying to cover your for letting him escape!
-speaker4: that's enough! all of you...
-speaker4: starling, i'm afraid i have no choice. you're suspended from the academy. not another word! this is pending a reevaluation of your fitness for the service. i promise you'll get a fair hearing. jack... you're ordered to take compassionate leave. you'll spend the rest of the day briefing the ag's office, then transfer command of the task force, effective by 1800 hours. i'm sorry, jack... go home. take care of bella. clarice and crawford stare back at him, drained. a long and very painful silence. not even krendler looks happy.
-
-speaker1: all his victims are women... his obsession is women, he lives to hunt women. but not one women is hunting him - except me. i can walk in a woman's room and know three times as much about her as a man would. i have to go to belvedere. 
-speaker2: you heard them. i don't have that authority anymore.
-speaker1: you do until six p.m.
-speaker2: ohio is cold ground. picked over, ten months ago. our people worked it, so did the locals.
-speaker1: but not from this angle. not thinking he knew her. you've got to send me!
-speaker2: i'm bureau for 28 years, starling. i won't disobey orders, not even now.
-speaker1: but i just became a private citizen. i can go anywhere i want to.
-speaker2: with id and a gun...? impersonating a federal agent is a felony.
-speaker1: he's going to kill her, mr. crawford. this morning, or maybe at noon, but today, and belvedere's our last chance. i'm flying there, right now, unless you stop me. you want my id? here - take it...
-speaker2: there's about $300 here... and a hotline code number. they'll patch you through to me, wherever i am.
-speaker1: thank you.
-
-speaker1: preeeeecious...! 
-speaker1: precious, come on precious! busy busy day today...
-speaker1: momma's gonna be sooo beautiful!
-speaker1: you come here this minute, you little scamp!
-speaker1: precious...?
-
-speaker1: sweetheart...? 
-speaker2: she'd down here you sack of
-
-speaker1: you shoot you better kill me quick or i'll break her neck, i swear to 
-speaker2: nooooooo!
-speaker1: back off, you son of a back off!
-
-speaker1: on catherine, as she maintains her grip. 
-speaker2: that's better... now get me a live telephone. get a long extension and lower is down here... and you better do it fast, too, 'cause i think her leg's broken. she's in pain, mister, she needs a vet.
-
-speaker1: i don't know nothin' new to tell ya. the police been back here so many times already... fredrica went into columbus on the bus to see about a job. she left the interview ok. she never come home. 
-speaker1: her room's how she left it. just shut the door when you're done.
-
-speaker1: who stares at them, starting to tremble. 
-speaker2: even if he were a woman, he'd have to be a big one...
-
-speaker1: as she jumps to her feet, with a fierce joy. 
-speaker2: sewing darts. you bastard.
-
-speaker1: he's making himself a "woman suit," mr. crawford - out of real women! and he can sew, this guy, he's really skilled. a dressmaker, or a tailor - 
-speaker2: starling -
-speaker1: that's why they're all so big - because he needs a lot of skin! he keeps them alive to starve them awhile - to loosen their skin, so that -
-speaker2: starling, we know who he is! and where he is. we're on our way now.
-speaker1: where?
-
-speaker1: sir, that's great news. but how - 
-speaker2: johns hopkins finally came up with a name for us. we fed him into known offenders, and he came up cherries. subject's name is "jamie gumb," aka "john grant." lecter's description was accurate, he just lied about the name.
-
-speaker1: sewing... 
-speaker2: take a bow. customs had some paper on his alias. they stopped a carton two years ago at lax - live caterpillars from surinam. the addressee was "john grant." calumet power and light's given us two possible residences under that alias. we're hitting one, chicago swat's taking the other.
-speaker1: chicago's only about 400 miles from here. i could be there in -
-speaker2: no, starling, there isn't time. and you've still got crucial work to do in ohio. we want him for murder, not kidnapping. i'm counting on you to link him to the bimmel girl, before he's indicted.
-speaker1: yes sir... i'll do my best.
-speaker2: starling - you've earned back your place in the academy. we never would've found him without you, and nobody's ever going to forget that. least of all me.
-speaker1: yes sir. thank you, sir...
-
-speaker1: somewhat embarrassed, crosses over to him. 
-speaker1: mr. bimmel... did fredrica ever mention a man named jamie gumb, from calumet city? or john grant? did she know any men that sew?
-speaker2: she sewed for everybody. stores, ladies, whatever. i don't know about men.
-speaker1: who was her best friend, mr. bimmel? who'd she hang out with?
-
-speaker1: they said she was just rags, like somebody - 
-speaker2: stacy, did fredrica ever mention a man named jamie gumb? or john grant? do you think she could've had a friend you didn't know about?
-speaker1: no way. she had a guy, i'da known, believe me. sewing was her life, she was really great at it. poor freddie.
-speaker2: did you ever work with her?
-speaker1: oh sure, me'n pam malavesi used to help her do alterations for old mrs. lippman. lots of people worked for her, she had the business from all these retail stores? but she was like, totally old, it was more'n she could handle.
-speaker2: where does mrs. lippman live? i'd like to talk to her.
-speaker1: she died. she went to florida to retire, like two years ago? she dies own there.
-speaker1: is that a pretty good job, fbi agent?
-speaker2: i think so.
-speaker1: you get to travel around and stuff? i mean, better places then this?
-speaker2: sometimes you do.
-speaker1: freddie was so happy for me when i got this job. this - toaster giveaways, and barry manilow on the speakers all day - she thought this was really hot what did she know, big dummy...
-
-speaker1: good afternoon... i wonder if you could help me. i'm looking for mrs. lippman's family? 
-speaker2: they don't live here anymore.
-
-speaker1: excuse me, but i really do need to talk to you. this was mrs. lippman's house. did you know her? 
-speaker2: just briefly. what's the problem, officer?
-
-speaker1: i'm investigating the death of fredrica bimmel. who are you, please? 
-speaker2: jack gordon.
-speaker1: mr. gordon, did you know fredrica when she worked for mrs. lippman?
-speaker2: no. wait... was she a great, fat person? i may have seen her, i'm not sure...
-
-speaker1: mrs. lippman had a son, maybe he could help you. i have his card somewhere. do you mind stepping inside, while i looks for it? 
-speaker2: thanks.
-
-speaker1: on his stricken face... 
-speaker2: clarice.
-
-speaker1: that horrible business, i shiver every time i think about it... 
-speaker1: are they close to catching somebody, do you think?
-speaker2: i think we may be, yes.
-speaker2: mr. gordon, did you take over this place after mrs. lippman died?
-speaker1: yes. i bought the house from her, two years ago.
-speaker2: did she leave any records here? tax or business records? maybe a list of employees?
-speaker3: as he continues his rummaging.
-speaker1: no, nothing at all. has the fbi learned something? because the police here don't seem to have the first clue...
-speaker1: do you have his description yet, or some fingerprints...?
-
-speaker1: tries to force more authority into her voice. 
-speaker1: okay... okay, mr. gumb, you're under arrest. down on the floor, hands and legs spread, move it.
-
-speaker1: fbi, catherine, you're safe. 
-speaker2: safe, he's got a gun! getmeout.
-
-speaker1: you're all right! where is he? 
-speaker2: get me out!
-speaker1: i'll get you out! just be quiet so i can hear. shut that dog up. is there a ladder? is there a rope?
-speaker2: i don't know! get me out!!
-speaker1: catherine. listen to me. i have to find a rope. i have to leave this room, just for a minute, but -
-speaker2: nooooo! you don't you leave me down here, don't you - you
-speaker1: shut up!
-
-speaker1: spins, almost shoots, before seeing - 
-speaker2: with its thermostat just switching on.
-
-speaker1: starling... your father sees you. 
-speaker2: congratulations! you are now officers of the federal bureau of investigation...
-
-speaker1: agent starling! telephone! 
-speaker2: agent mapp! thank you!
-speaker3: hel-lo, gorgeous! let's get down.
-speaker4: just ignore him. he's not a ph.d.
-
-speaker1: starling. 
-speaker2: well, clarice, have the lambs stopped screaming...?
-
-speaker1: don't bother with a trace, i won't be on long enough. 
-speaker2: turns back, gripping the phone more tightly.
-speaker2: where are you, dr. lecter?
-
-speaker1: your lambs are still for now, clarice, but not forever... you'll have to earn it again and again, this blessed silence. because it's the plight that drives you, and the plight will never end. 
-speaker2: dr. lecter -
-speaker1: i have no plans to call on you, clarice, the world being more interesting with you in it. be sure you extend me the same courtesy.
-speaker2: you know i can't make that promise.
-speaker1: goodbye, clarice... you looked - so very lovely today, in your blue suit.
+BRIGHAM: starling's reaction time was 
+ARDELIA: damn, clarice, how'd you make me?
+CLARICE: never cock. just squeeze.
+BRIGHAM: what're you laughin' at, junior g- man? she got off four rounds to your two.
+
+CLARICE: what'd i do? 
+ARDELIA: stay cool. just remember to call him "god."
+
+CRAWFORD: starling, clarice m., good morning. 
+CLARICE: good morning, mr. crawford.
+CRAWFORD: your instructors tell me you're doing well. top quarter of the class.
+CLARICE: i hope so. they haven't posted anything.
+CRAWFORD: a job's come up and i thought about you. not really a job, more of - an interesting errand. walk me to my car, starling.
+CRAWFORD: we're trying to interview all of the serial killers now in custody, for a psychobehavioral profile. could be a big help in unsolved cases. most of them have been happy to talk to us. they have a compulsion to boast, these people... do you spook easily, starling?
+CLARICE: not yet.
+CRAWFORD: you see, the one we want most refuses to cooperate. i want you to go after him again today, in the asylum.
+CLARICE: who's the subject?
+CRAWFORD: the psychiatrist - dr. hannibal lecter.
+CLARICE: the cannibal...
+CLARICE: yes, well... okay, right. i'm glad for the chance, sir, but - why me?
+CRAWFORD: you're qualified and available. and frankly, i can't spare a real agent right now.
+CRAWFORD: i don't expect him to talk to you, but i have to be able to say we tried... lecter was a brilliant psychiatrist, and he knows all the dodges. dossier on him, copy of our questionnaire, special id for you... if he won't talk, then i want straight reporting. how's he look, how's his cell look, what's he writing? the director himself will see your report, over your own signature - if i decide it's good enough. i want that by 0800 wednesday, and keep this to yourself.
+CRAWFORD: now. i want your full attention, starling. are you listening to me?
+CLARICE: yes sir.
+CRAWFORD: be very careful with hannibal lecter. dr. chilton at the asylum will go over the physical procedures used with him. do not deviate from them, for any reason. you tell him nothing personal, starling. believe me, you don't want hannibal lecter inside your head... just do your job, but never forget what he is.
+CLARICE: and what is that, sir?
+CHILTON: oh, he's a monster. a pure psychopath...
+
+CHILTON: it's so rare to capture one alive. from a research point of view, dr. lecter is our most prized asset... 
+CHILTON: you know, we get a lot of detectives here, but i must say, i can't ever remember one so attractive...
+
+CHILTON: will you be in baltimore overnight...? because this can be quite a fun town, if you have the right guide. 
+CLARICE: i'm sure it's a great town, dr. chilton, but my instructions are to talk to lecter and report back this afternoon.
+CHILTON: i see. let's make this quick, then. i'm busy.
+
+CHILTON: lecter carved up nine people - that we're sure of - and cooked his favorite bits. we've tried to study him, of course - but he's much too sophisticated for the standard tests. and my, does he hate us! thinks i'm his nemesis... crawford's very clever, isn't he? using you. 
+CLARICE: how do you mean, dr. chilton?
+CHILTON: a pretty young woman, to turn him on? i don't believe lecter's ever seen a woman in eight years. and oh, are you ever his "taste" - so to speak.
+CLARICE: i graduated magna from uva, doctor. it's not a charm school.
+CHILTON: good. then you should be able to remember the rules.
+
+CHILTON: do not reach through the bars, do not touch the bars. you pass him nothing but soft paper - no pens or pencils. no staples or paperclips in his paper. use the sliding food carrier, no exceptions. do not accept anything he attempts to hold out to you. do you understand me? 
+CLARICE: i understand.
+CHILTON: i'm going to show you why we insist on such precautions... on the afternoon of july 8, 1981, he complained of chest pains and was taken to the dispensary. his mouthpiece and restraints were removed for an ekg. when the nurse bent over him, he did this to her...
+CHILTON: the doctors managed to re-set her jaw, more or less, and save one of her eyes. his pulse never got over eighty-five, even when he ate her tongue. i keep him in here.
+CLARICE: dr. chilton - if lecter feels you're his enemy - as you've said - then maybe i'll have more luck by myself. what do you think?
+CHILTON: you might have suggested that in my office, and saved me the time.
+CLARICE: but then i would've missed the pleasure of your company.
+CHILTON: when she's finished, bring her out.
+BARNEY: hi, i'm barney. he told you, don't get near the bars?
+CLARICE: clarice starling. yes, he did.
+BARNEY: okay. past the others, it's the last cell. stay to the middle. i put out a chair for you.
+BARNEY: i'm watching. you'll do fine.
+
+CLARICE: dr. lecter... my name is clarice starling. may i talk with you? 
+DR. LECTER: good morning.
+CUTTING BETWEEN THEM: as clarice comes a measured distance closer.
+CLARICE: doctor, we have a hard problem in psychological profiling. i want to ask for your help with a questionnaire.
+DR. LECTER: "we" being the behavioral science unit, at quantico. you're one of jack crawford's, i expect.
+CLARICE: i am, yes.
+DR. LECTER: may i see your credentials?
+DR. LECTER: closer, please... clo-ser...
+DR. LECTER: that expires in one week. you're not real fbi, are you?
+CLARICE: i'm - still in training at the academy.
+DR. LECTER: jack crawford sent a trainee to me?
+CLARICE: we're talking about psychology, doctor, not the bureau. can you decide for yourself whether or not i'm qualified?
+DR. LECTER: mmmmm... that's rather slippery of you, officer starling. sit. please.
+DR. LECTER: now then. what did miggs say to you? "multiple miggs," in the next cell. he hissed at you. what did he say?
+CLARICE: he said - "i can smell your cunt."
+DR. LECTER: i see. i myself cannot. you use evyan skin cream, and sometimes you wear l'air du temps, but not today. you brought your best bag, though, didn't you?
+CLARICE: yes.
+DR. LECTER: it's much better than your shoes.
+CLARICE: maybe they'll catch up.
+DR. LECTER: i have no doubt of it.
+CLARICE: did you do those drawings, doctor?
+DR. LECTER: yes. that's the duomo, seen from the belvedere. do you know florence?
+CLARICE: all that detail, just from memory...?
+DR. LECTER: memory, officer starling, is what i have instead of view.
+CLARICE: dr. lecter, if you'd please consider -
+DR. LECTER: no, no, no. you were doing fine, you'd been courteous and receptive to courtesy, you'd established trust with the embarrassing truth about miggs, and now this ham-handed segue into your questionnaire. it won't do. it's stupid and boring.
+CLARICE: i'm only asking you to look at this, doctor. either you will or you won't.
+DR. LECTER: jack crawford must be very busy indeed if he's recruiting help from the student body. busy hunting that new one, buffalo bill... such a naughty boy! did crawford send you to ask for my advice on him?
+CLARICE: no, i came because we need -
+DR. LECTER: how many women has he used, our bill?
+CLARICE: five... so far.
+DR. LECTER: all flayed...?
+CLARICE: partially, yes. but doctor, that's an active case, i'm not involved. if -
+DR. LECTER: do you know why he's called buffalo bill? tell me. the newspapers won't say.
+CLARICE: i'll tell you if you'll look at this form. it started as a bad joke in kansas city homicide. they said... this one likes to skin his humps.
+DR. LECTER: witless and misleading. why do you think he takes their skins, officer starling? thrill me with your wisdom.
+CLARICE: it excites him. most serial killers keep some sort of trophies.
+DR. LECTER: i didn't.
+CLARICE: no. you ate yours.
+DR. LECTER: send that through.
+DR. LECTER: oh, officer starling... do you think you can dissect me with this blunt little tool?
+CLARICE: no. i only hoped that your knowledge -
+DR. LECTER: you're sooo ambitious, aren't you...? you know what you look like to me, with your good bag and your cheap shoes? you look like a rube. a well- scrubbed, hustling rube with a little, taste... good nutrition has given you some length of bone, but you're not more than one generation from poor white trash, are you officer starling...? that accent you're trying so desperately to shed - pure west virginia. what was your father, dear? was he a coal miner? did he stink of the lamp...? and oh, how quickly the boys found you! all those tedious, sticky fumblings, in the back seats of cars, while you could only dream of getting out. getting anywhere - yes? getting all the way - to the
+
+CLARICE: you see a lot, dr. lecter. but are you strong enough to point that high- powered perception at yourself? how about it...? look at yourself and write down the truth. or maybe you're afraid to. 
+DR. LECTER: you're a tough one, aren't you?
+CLARICE: reasonably so. yes.
+DR. LECTER: and you'd hate to think you were common. my, wouldn't that sting! well you're far from common, officer starling. all you have is the fear of it. now please excuse me. good day.
+CLARICE: and the questionnaire...?
+DR. LECTER: a census taker once tried to test me. i ate his liver with some fava beans and a nice chianti... fly back to school, little starling.
+
+DR. LECTER: i would not have had that happen to you. discourtesy is - unspeakably ugly to me. 
+CLARICE: then please - do this test for me.
+DR. LECTER: no. but i will make you happy... i'll give you a chance for what you love most, clarice starling.
+CLARICE: what's that, dr. lecter?
+DR. LECTER: advancement, of course. go to split city. see miss mofet, an old patient of mine. m-o-f-e-t... now go. go. i don't think miggs could manage again so soon, even if he is crazy - do you?
+
+ARDELIA: phone call, clarice. it's 
+CLARICE: thanks, ardelia.
+
+ARDELIA: you missed fourth amendment law. unlawful seizure, real juicy stuff. where were you all afternoon? 
+CLARICE: pleading with a crazy man, with come all over my face.
+ARDELIA: wish i had time for a social life.
+CLARICE: mr. crawford?
+
+CLARICE: it's all there, sir, practically verbatim. 
+CRAWFORD: every word, starling? every gesture?
+CLARICE: right down to the kleenex i used. sir, why? is something wrong?
+CRAWFORD: he mentioned a name, at the very end. "mofet..." any followup on her?
+CLARICE: i spent all evening on the mainframe. lecter altered or destroyed most of his patient histories, prior to capture. no record of anyone named mofet. but "split city" sounded like it might have have something to do with divorce. i tracked it down in the library's catalogue of national yellow pages. it's a mini-storage facility outside baltimore, where lecter had his practice.
+CRAWFORD: well? why aren't you there right now?
+CLARICE: sir, that's a field job. it's outside the scope of my assignment. and i've got a test tomorrow on -
+CRAWFORD: do you recall my instructions to you, starling? what were they?
+CLARICE: to complete and file my report by 0800 wednesday. but sir -
+CRAWFORD: then do that, starling. do just exactly that.
+CLARICE: sir, what is it? there's something you're not telling me.
+CRAWFORD: miggs has been murdered.
+CLARICE: murdered...? how?
+CRAWFORD: the orderly heard lecter whispering to him, all afternoon, and miggs crying. they found him at bed check. he'd swallowed his own tongue... chilton is scared stiff the family will file a civil rights lawsuit, and he's trying to blame it on you. i told the little your conduct was flawless. starling...?
+CLARICE: i'm here, sir, i just - i don't know how to feel about it.
+CRAWFORD: you don't have to feel any way about it. lecter did it to amuse himself. why not, what can they do? take away his books for awhile, and no jello... i know it got ugly today. but this is your report, starling - take it as far as you can. on your own time, outside of class. now carry on.
+
+MR. YOW: not to my knowledge. privacy is a great concern to my customers. but, if you say this is an fbi matter... 
+CLARICE: i won't disturb anything, mr. yow, i promise. be gone before you know it.
+MR. YOW: we could return tomorrow, with my son. or perhaps some workmen...?
+CLARICE: would you hold these, please?
+
+MR. YOW: it smells like mice... i think i hear them, too - don't you? 
+MR. YOW: you're going in there?
+
+CLARICE: mr. yow, if this door should fall down -ha ha! - or anything else - would you be kind enough to call this number? it's our baltimore field office. they know you're here with me... do you understand? 
+MR. YOW: might i suggest tucking your pants into your socks? to prevent mouse intrusion.
+CLARICE: good idea.
+
+MR. YOW: okay, miss starling? 
+CLARICE: okay, mr. yow...
+
+MR. YOW: you're playing a piano, miss starling? 
+CLARICE: that wasn't me.
+MR. YOW: oh.
+
+CLARICE: mr. yow? oh mr. yow...? it looks like somebody is sitting in this car. 
+MR. YOW: oh my! oh my... maybe you better come out now, miss starling.
+CLARICE: not yet! - just wait for me. maybe in about two seconds.
+
+CLARICE: it's an anagram, isn't it, doctor? 
+CLARICE: hester mofet... "the rest of me." miss the-rest-of-me... meaning, you rented that place.
+
+CLARICE: you put those - things in there. paid for it in advance, ten years ago... why, dr. lecter? 
+CLARICE: thank you.
+DR. LECTER: your bleeding has stopped.
+CLARICE: how did - it's nothing. a scratch.
+DR. LECTER: why don't you ask me about buffalo bill?
+CLARICE: why? do you know something about him?
+DR. LECTER: i might if i saw the case file. you could get that for me.
+CLARICE: why don't you tell me about "miss mofet?" you wanted me to find him. or do i have to wait for the lab?
+DR. LECTER: his real name is benjamin raspail. a former patient of mine, whose romantic attachments ran to, shall we say, the exotic...? i didn't kill him, merely tucked him away. very much as i found him, in that ridiculous car, in his own garage, after he's missed three appointments. you'd have him under "missing person" - which, in poor raspail's case, could hardly be more true.
+CLARICE: if you didn't kill him, then who did?
+DR. LECTER: who can say...? best thing for him, really. his therapy was going nowhere.
+CLARICE: wouldn't it have been easier to just leave him for the police to find?
+DR. LECTER: and have them clomping about in my life? oh dear, no... at that time i still had certain private amusements of my own. how did you feel when you saw him, clarice? may i call you clarice?
+CLARICE: scared, at first. then - exhilarated.
+DR. LECTER: ahhh... why?
+CLARICE: because you weren't wasting my time.
+DR. LECTER: do you have something you use, when you need to get up your courage? memories, tableaux... scenes from your early life?
+CLARICE: i don't know. next time i'll have to check.
+DR. LECTER: jack crawford is helping your career, isn't he? apparently he likes you. and you like him, too.
+CLARICE: i never thought about it.
+DR. LECTER: your first lie to me, clarice. how sad. tell me - do you think crawford wants you, sexually? true, he's much older, but - do you think he visualizes... scenarios, exchanges...? you?
+CLARICE: that doesn't interest me, doctor. and it's the sort of thing miggs would ask.
+DR. LECTER: not anymore. surely the odd confluence of events hasn't escaped you, clarice. crawford dangles you before me. then i give you a bit of help. do you think it's because i like to look at you, and imagine how good you would taste...?
+CLARICE: i don't know. is it?
+DR. LECTER: or doesn't this all begin to suggest to you a kind of... negotiation? there's something crawford can give me, and i want to trade for it. i even wrote to him, offering my help. but he hates me, so he won't deal directly.
+DR. LECTER: punishment, you see. for miggs. just like that gospel program. when you leave, they'll turn the volume way up. chilton does enjoy his petty torments.
+CLARICE: who killed raspail, doctor...? you know, don't you?
+DR. LECTER: i've been in this room for eight years, clarice. i know they will never, ever let me out while i'm alive. what i want is a view. i want a window where i can see a tree, or even water. i want to be in a federal institution, away from chilton - and i want a view. i'll give good value for it. crawford could do that for me, but he won't. you persuade him.
+CLARICE: who killed your patient?
+DR. LECTER: oh, a very naughty boy. someone you and jack crawford are most anxious to meet.
+CLARICE: buffalo bill...? bill killed him, all those years ago...? that's impossible.
+DR. LECTER: who is he stalking right now, clarice? i wonder, don't you? how many more young women will have to die, before you trade with me...?
+
+CATHERINE: this stuff's givin' me the munchies. where's that bag of popcorn? 
+CODY: left the groceries in the car.
+CATHERINE: 's okay, i'll go.
+
+CATHERINE: help you with that? 
+MAN: would you? thanks.
+MAN: let's slide it up, you mind?
+
+MAN: are you about a size 14? 
+CATHERINE: what?
+MAN: good.
+MAN: good.
+MAN: gooood...
+
+INSTRUCTOR: electron microscopy reveals fiber "signatures" that are nearly as distinct as fingerprints... 
+INSTRUCTOR: both of these blouses were worn by victims of buffalo bill. they were found in two different states, and four months apart. he always slits them up the back, like a funeral suit...
+
+BRIGHAM: get your field gear, take stuff for overnight. you're goin' with crawford. 
+CLARICE: where?
+BRIGHAM: some fishermen in west virginia found an unidentified girl's body. it's a buffalo bill-type situation. been in the water about a week, and jack needs somebody that can print a floater. think you can handle it?
+CLARICE: i'll need the big fingerprint kit... and the one-to-one polaroid, the cu- 5, with film packs and batteries.
+
+BRIGHAM: jack's pretty tough on you, isn't he? impatient... 
+CLARICE: sometimes.
+BRIGHAM: he's got a lot on his mind besides buffalo bill... his wife, bella, is real sick. comatose... i'm tellin' you about it now, 'cause he may never.
+BRIGHAM: you're goin' in the field, so you gotta have full kit. take this - it's my own...
+BRIGHAM: wear it, don't ever leave it in your purse. dry fire it whenever you get the chance. and do your exercises.
+CLARICE: i will... i promise.
+BRIGHAM: listen, i hope you never need a thing i've taught you. but you've got something... jack sees it, i do too. if you ever need to, you can shoot.
+BRIGHAM: bless you, starling...
+
+CRAWFORD: why, we don't yet know... there's no evidence of or physical abuse prior to death. all the mutilation you see there is post-mortem. i'm hot, are you hot? bobby, it's too hot back here... 
+CRAWFORD: so. three days. then he shoots them, skins them - usually just the torsos - and dumps them. each body in a different river, in a different state, downstream from an interstate highway. the water leaves us no fingerprints, fibers, dna fluids - no trace evidence at all. that's fredrica bimmel, the first one...
+
+CRAWFORD: blue square for belvedere, ohio, where the bimmel girl was abducted. blue triangle where her body was found - down here in missouri. same marks for the other four girls, in different colors. this new one, today... washed up here. elk river, in west virginia, about six miles below u.s. 79. real boonies. 
+CLARICE: there's no correlation at all between where they're kidnapped and where they're found...? what if - what if you trace the heaviest-traffic routes backwards from the dump sites? do they converge at all?
+CRAWFORD: good idea, but he thought of it, too. we've run simulations, using different vectors and the best dates we can assign. you put it all in the computer, and smoke comes out. no, this one is different. this one has seen us coming...
+
+CRAWFORD: talk about him, starling. tell me what you see. 
+CLARICE: he's a white male... serial killers tend to hunt within their own ethnic group. and he's not a drifter - he's got his own house, somewhere. not an apartment.
+CRAWFORD: why?
+CLARICE: what he does with them - takes privacy... time, tools... he's in his 30's or 40's - he's got real physical strength, but combined with an older man's self-control. he's cautious, precise, never impulsive... this won't end in suicide, like they often do.
+CRAWFORD: why not?
+CLARICE: he's got a real taste for it now. and he's getting better at his work.
+CRAWFORD: maybe you've got a knack for this... i guess we're about to find out.
+CLARICE: like i have a "knack" for dr. lecter?
+CRAWFORD: okay, starling. let's have it.
+CLARICE: you haven't said a word today about that garage. or what i found there.
+CRAWFORD: what should i say? you did fine work. we'll wait on the lab.
+CLARICE: you knew. you knew from the start that lecter held the key to this... but you weren't up front with me. you sent me in to him naked.
+CRAWFORD: are you finished?
+CLARICE: he starts this - buzzing in me, in my head. he makes me feel violated... you used me, mr. crawford.
+CRAWFORD: number one. maybe there's a connection, maybe not. lying and breathing are the same thing to lecter. number two. if i'd sent you in there with something to hide from him, he'd have known it, instantly. he'd never have trusted you. she starts to answer, then is silent. he is right.
+CRAWFORD: number three, i didn't bring you along today just because you can do first-rate forensics. if lecter is becoming part of this case, you've got the most current read on him. and number four - you don't have to like me, or the way i do things. but you do have to keep a cool head. especially now... because from here on out, you'll know everything i do. are we straight on that?
+
+CRAWFORD: you think about him long enough, you get a feel for him... then, if you're lucky, out of all the stuff you know, one little part of it tugs at you, tries to get your attention... you let me know when that happens, starling. live right behind your eyes, today. don't try to impose any patterns on this guy. just stay open and let him show you... one of the troopers, impassive in his sunglasses and hat, peers in through crawford's window. crawford nods to him, then turns back to clarice. 
+CRAWFORD: school's out, starling.
+
+CRAWFORD: sheriff perkins? jack crawford, fbi... this is officer starling. we appreciate your phoning us. 
+SHERIFF: i didn't call you. that was somebody from the state attorney's office... 'for you do a thing else, i'm gon' find out if this girl's local. it could just be somethin' that outside elements has dumped on us.
+CRAWFORD: well sir, that's where we can help. if -
+SHERIFF: i don't even know you, mister... now we'll extend you ever courtesy, just soon as we can, but for right now -
+CRAWFORD: sheriff, this, ah - this type of crime has some aspects i'd rather discuss just between the two of us. know what i mean?
+
+DR. AKIN: wrongful death... she'll have to go to the state pathologist at claxton when you're done. i better - get on back for the rest of that service. lamar'll help you. lord almighty... 
+CRAWFORD: what do you see, starling?
+CLARICE: well, she's not local. her ears are pierced three times each, and she's wearing green glitter nail polish. looks like town to me...
+
+CLARICE: she waxed her legs, i think... a big girl, just like the others - but she was careful about her appearance... 
+UPWARD ANGLE AGAIN: as lamar joins them for a closer look.
+CLARICE: two of the fingernails are broken off, and there's - dirt or grit under the others. she tried to claw her way through something... i'll scrape out samples after i've printed her.
+LAMAR: them fishhooks are set too close together. no wonder the franklin boys was scared to say they found her.
+CLARICE: think they were runnin' a trotline?
+CLARICE: it's a fish and game violation. like poaching. there's a big fine.
+LAMAR: right... are you from around here?
+CLARICE: they do it lots of places.
+CRAWFORD: get photos of her teeth. then we'll fax her fingerprints to washington, try to trace her through missing persons.
+
+NEW ANGLE - CHEST HIGH: as clarice examines a developing print. 
+CLARICE: she's got something in her throat.
+LAMAR: when a body comes out of the water, alots of times there's like, leaves and things in the mouth.
+CRAWFORD: what is it - some kind of seed pod?
+LAMAR: nawsir, that's a bug cocoon. but how come that to get way down in there? 'less somebody shoved it in...
+CRAWFORD: she'll be easier to print if we turn her over. lamar, will you give me a hand?
+LAMAR: yessir, i will. clarice takes a jar from her kit, carefully drops the cocoon inside.
+CRAWFORD: starling - what do you make of these?
+
+NEW ANGLE - TWO SHOT: as clarice looks at crawford. 
+CLARICE: i don't know. i didn't see those on any of the other girls...
+CRAWFORD: they weren't there. get close-ups.
+
+CLARICE: thanks, i'm not thirsty. 
+LAMAR: no, hold it under your chin, there, and on your temples. cold'll make you feel better. it does me.
+CRAWFORD: when i told that sheriff we shouldn't talk in front of a woman, that really burned you, didn't it? that was just smoke, starling, i had to get rid of him. you did well in there.
+CLARICE: it matters, mr. crawford... other cops know who you are. they look at you to see how to act... it matters.
+CRAWFORD: point taken.
+CRAWFORD: when we get back, i want you to run that bug by the smithsonian, see if they can identify it. maybe it's got some limited range, or it only breeds at certain times of year... you found it, starling, you deserve the credit.
+CLARICE: i'm wondering if he's done that before - placed a cocoon, or an insect. it would be easy to miss in an autopsy, especially with a floater... can we check back on that?
+CRAWFORD: the other girls are in the ground. exhumations are upsetting for the families. i'll do it if i have to, but -
+CLARICE: then have the lab check raspail's head. dr. lecter's patient - have them probe his soft-palette tissues... they'll find another cocoon.
+CRAWFORD: you seem pretty sure of that.
+CLARICE: raspail was killed by the same man who's killing these girls. and lecter knows him. maybe even treated him... you think so, too, don't you? or you'd never have sent me to that asylum.
+CRAWFORD: before we caught him, lecter had a big psychiatric practice in baltimore. but he traveled all over the country - teaching, consulting... christ, even testifying in murder trials. who knows how many potential psychos he turned loose, just for the fun of it...?
+
+MR. GUMB: rub it in! or you'll get the hose again. 
+MR. GUMB: yes, it will, precious, won't it? it will get the hose!
+
+CATHERINE: oh oh 
+CATHERINE: mister, if you let me go, i won't press charges, i promise. you've only had me here a couple days, and -
+MR. GUMB: no. just one day...
+CATHERINE: is that all...? see - see, my mom is a real important woman... well, i guess you already know that. she'll pay you, no questions asked. whatever cause you represent - iran, palestine - she'll see that -
+
+TV ANCHOR: ...was listed at first simply as a missing person, but is now believed to have been kidnapped by the serial killer known only as "buffalo bill." 
+TV ANCHOR: memphis police sources indicate that the missing girl's blouse has been identified, sliced up the back, in what has become a kind of grim calling card. young catherine martin, as we've said, is the only daughter of u.s. senator ruth martin -
+
+SEN. MARTIN: i'm speaking now to the person who is holding my daughter. her name is catherine... you have the power to let catherine go, unharmed. she's very gentle and kind - talk to her and you'll see. her name is catherine... 
+CLARICE: boy, is that smart...
+ARDELIA: why does she keep repeating the name?
+CLARICE: somebody's coaching her... they're trying to make him see catherine as a person - not just an object.
+
+RODEN: time, pilch! my move. 
+PILCHER: no fair! you lured him with produce.
+
+RODEN: tough noogies! it's still my turn. 
+CLARICE: if the beetle moves one of your men, does that count?
+RODEN: of course it counts. how do you play?
+PILCHER: officer starling. welcome back.
+
+RODEN: where the did this one come from? it's practically mush. 
+CLARICE: you really don't want to know.
+PILCHER: your west virginia specimen gave us quite a bit of trouble, but i finally managed to narrow his species through chaetaxy - studying the skin.
+RODEN: i'm the one who found his perforating proboscis! are you wearing a gun, right now? ooh, cool! can i see it? can i?
+PILCHER: just ignore him. he's not a ph.d.
+
+PILCHER: what do you do when you're not detecting, officer starling? 
+CLARICE: i try to be a student, dr. pilcher.
+PILCHER: ever get out for cheeseburgers and beer? the amusing house wine...?
+RODEN: positive match!
+CLARICE: you're sure?
+RODEN: west virginia... baltimore. officer starling, meet mister acherontia styx.
+
+RODEN: better known to his friends as the death's-head moth... 
+PILCHER: the latin name comes from two rivers in hell. your man - he drops these girls into rivers, every time. didn't i read that?
+
+CLARICE: and there's no way - no natural way - these could've wound up in the bodies? 
+PILCHER: they live in malaysia. in this country, they'd have to be specially raised, from imported eggs.
+CLARICE: dr. lecter...
+
+CRAWFORD: but for catherine martin, it all comes down to you and lecter. you're the one he talks to. 
+CLARICE: he's already offered to help... what would happen if we just showed our cards - asked him for bill?
+CRAWFORD: he offered to help, starling, not to snitch. that wouldn't give him enough chance to show off. remember, lecter looks mainly for fun. never forget fun.
+CLARICE: but if he knew we have so little time -
+CRAWFORD: if we act too anxious, he'll make us wait. he'll let the senator keep hoping, day after day, until catherine finally washes up. that'd be the most fun of all.
+CLARICE: i think he means it, this time. i think he'll deal.
+CRAWFORD: what would it take?
+CLARICE: transfer to a new prison. with a view of trees, he said, or even water... can we swing that?
+CRAWFORD: state to federal jurisdiction... we can do it - eventually - but we'll never get all the clearances in time. can you convince him a deal's already in place?
+CLARICE: you'll back me up with some paperwork? then i'll try. but wouldn't this have more weight coming from the senator herself?
+CRAWFORD: she doesn't know what we're up to. and we can't afford to let her find out.
+CRAWFORD: she's the mother, starling. she can't possibly comprehend what lecter is. she'd make the mistake of pleading with him. begging him... he'd feast on her pain till the last second of that girl's life...
+
+CRAWFORD: we can't trust frederick chilton, either. he's greedy and ambitious. if he knew about lecter's link to bill, he's go straight to the newspapers... 
+CHILTON: what you're doing, miss starling, is coming into my hospital to conduct an interview, and refusing to share information with me. for the third time!
+CLARICE: dr. chilton, i told you - this is just routine follow-up on the raspail case.
+CHILTON: he's my patient! i have rights! i'm not just some turnkey, miss starling. i shouldn't even be here this afternoon. i had a ticket to holiday on ice.
+CLARICE: i'm acting on instruction, dr. chilton. this is the u.s. attorney's number. now please - either discuss this with him, or let me do my job.
+
+DR. LECTER: wouldn't you say, clarice, that for a united states senator, you're an odd choice of messenger? 
+CLARICE: i was your choice, dr. lecter. you chose to speak to me. would you prefer someone else now? or perhaps you don't think you can help us.
+DR. LECTER: that is both impudent and untrue... tell me, how did you feel when you viewed our billy's latest effort? or should i say, his "next-to-latest"?
+CLARICE: by the book, he's a sadist.
+DR. LECTER: life's too slippery for books, clarice. typhoid and swans came from the same tell me, miss west virginia - was she a large girl?
+CLARICE: yes.
+DR. LECTER: big through the hips. roomy.
+CLARICE: they all were.
+DR. LECTER: mmm. and what else...?
+CLARICE: she had an insect deliberately inserted in her throat. that hasn't been made public yet. we don't know what is means.
+DR. LECTER: was it a butterfly?
+CLARICE: a moth... how did you predict that?
+DR. LECTER: i'm waiting for your offer, clarice. enchant me.
+CLARICE: if you help us find buffalo bill in time to save catherine martin, the senator promises you a transfer to the v.a. hospital at oneida park, new york, with a view of the woods nearby. maximum security still applies, but you'd have reasonable access to books.
+CLARICE: best of all, though - one week a year you'd get to leave the hospital and go here. plum island. every afternoon of that week you can walk on the beach or swim in the ocean for up to one hour. under swat team surveillance, of course...
+CLARICE: copy of the buffalo bill case file, copy of senator martin's terms. her offer is final and non-negotiable. if catherine dies - you get nothing.
+DR. LECTER: "plum island animal disease research center." sounds charming.
+CLARICE: that's just part of the island. it has a very nice beach. terns nest there.
+DR. LECTER: terns... if i help you, clarice, it will be "turns" with us, too. quid pro quo. i tell you things, you tell me things. not about this case, though - about yourself. yes or no? yes or no, clarice. catherine is waiting. tick-tock, tick-tock...
+CLARICE: go, doctor.
+DR. LECTER: what's your worst memory of childhood? quicker than that. i'm not interested in your worst invention.
+CLARICE: the death of my father.
+DR. LECTER: tell me. don't lie, or i'll know.
+CLARICE: he was a town marshal... one night he surprised two burglars, coming out the back of a drugstore... they shot him.
+DR. LECTER: killed outright?
+CLARICE: no. he was strong, he lasted almost a month. my mother - died when i was very young, so my father had become - the whole world to me... after he left me, i had nobody. i was ten years old.
+DR. LECTER: you're very frank, clarice. i think - it would be quite something to know you in private life.
+CLARICE: quid pro quo, doctor.
+DR. LECTER: the significance of the moth is change. caterpillar into cocoon into beauty... billy wants to change, too, clarice. but there's the problem of his size, you see. even if he were a woman, he'd have to be a big one...
+CLARICE: dr. lecter, there's no correlation in the literature between transsexualism and violence. transsexuals are very passive.
+DR. LECTER: clever girl. you're so close to the way you're going to catch him - do you realize that?
+CLARICE: no. tell me why.
+DR. LECTER: after your father's death, you were orphaned. what happened next? i don't imagine the answer's on those second-rate shoes, clarice.
+CLARICE: i went to live with my mother's cousin and her husband in montana. they had a ranch.
+DR. LECTER: a cattle ranch?
+CLARICE: horses - and sheep...
+DR. LECTER: how long did you live there?
+CLARICE: two months.
+DR. LECTER: why so briefly?
+CLARICE: i - ran away...
+DR. LECTER: why, clarice? did the rancher you?
+CLARICE: no.
+DR. LECTER: did he try to?
+CLARICE: no...! quid pro quo, doctor.
+DR. LECTER: billy's not a real transsexual, but he thinks he is. he tries to be. he's tried to be a lot of things, i expect.
+CLARICE: you said - i was very close to the way we'd catch him.
+DR. LECTER: there are three major centers for transsexual surgery: johns hopkins, the university of minnesota, and columbus medical center. i wouldn't be surprised if billy has applied for reassignment at one or all of them, and been rejected.
+CLARICE: on what basis would they reject him?
+DR. LECTER: the personality inventories would trip him up. rorschach, wechsler, house-tree-person... he wouldn't test like a real transsexual.
+CLARICE: how would he test?
+DR. LECTER: that's enough, i think. happy hunting. oh, and clarice - next time you will tell me why you ran away. shall i summarize?
+CLARICE: yes, doctor. please.
+
+DR. LECTER: among those who tried to conceal their past, look for severe childhood disturbances, associated with violence... possibly you'll find a childhood incarceration... then go to their personality tests... 
+DR. LECTER: study their drawings, especially. billy's house drawings will show no happy future... no baby carriage, out in the yard. no pets, no toys, no flowers, no sun...
+DR. LECTER: his females will be more crudely sketched than him males - but he'll compensate by adding exaggerated adornments... jewelry, big breasts... and his tree drawings - oh, his trees will be frightful...
+DR. LECTER: billy hates his own identity, he always has - and he thinks that makes him a transsexual. but his pathology is a thousand times more savage... he wants to be reborn, clarice. he will be reborn...
+CATHERINE: pleeeeeeeease.....!
+
+CHILTON: perhaps you should have been less specific about what kind. stand him by the toilet. then leave us. 
+CHILTON: such a lot of correspondence! i can hardly wait to analyze it in more detail... but first things first.
+CHILTON: i thought she might be looking for a civil rights violation in migg's death, so i bugged you... not a word to me in all these years, hannibal. then crawford sends his bit of fluff over here, and you just turn to jelly. it's too pathetic.
+
+CHILTON: you still think you're going to walk on some beach, and see the birdies? i don't think so, hannibal... i called senator ruth martin, and she never heard of any deal with you. she never heard of clarice starling, either. they scammed you, hannibal... 
+CHILTON: when crawford gets through milking you, he's giving you to baltimore homicide for the raspail murder. and they're preparing some special surprises for you right now, in my electroshock room.
+
+CHILTON: the starling wants you to rot here, in this little box, till your teeth fall out and you're soiling diapers. you've seen the old ones, hannibal. they weep when their stewed peaches get cold. that'll be you, too. unless - you trade with me. 
+FAVORING CHILTON: as he sits chummily on the table.
+CHILTON: there never was a deal with senator martin - but there is now. i've been on the phone for hours, hannibal, on your behalf. here's what you get: if you identify buffalo bill, and the girl is found in time, senator martin will have you transferred to brushy mountain state prison, in tennessee...
+
+CHILTON: in exchange, i get your full cooperation in publishing a professional account of this - my successful interviews with you. you publish nothing. and i get exclusive access to any material from catherine martin... so. do you accept my demands? answer me, hannibal. 
+CHILTON: you'll answer me now, or by you'll answer to baltimore homicide. who is buffalo bill?
+DR. LECTER: i'll tell the senator herself. but only in tennessee...
+
+DR. DANIELSON: i'm not having a witch hunt here, mr. crawford! our patients are decent, non-violent people with a real problem. 
+CRAWFORD: dr. danielson, the man we want was never your patient. it would be someone you refused because he tries to conceal a record of criminal violence. please, doctor - time is eating us up. just show me the ones you've turned away.
+DR. DANIELSON: examination and interview materials are confidential. we've never violated an applicant's trust, and we never will.
+CRAWFORD: you want to see a violation? this is a violation...
+CRAWFORD: her name is kimberly jane emberg, she was just id'd. i met her on a slab in west virginia. and sometime tomorrow, or tomorrow night, he's going to do the same thing to catherine martin.
+DR. DANIELSON: that's a childish, bullying stunt, mr. crawford. i was a battlefield surgeon, so you can put away your picture.
+BURROUGHS: phone, jack. director burke.
+CRAWFORD: in a minute!
+CRAWFORD: look... search your own records, if you prefer. you can do it a lot faster than us, anyway. if we find buffalo bill through your information, i'll suppress it. nobody has to know this hospital cooperated.
+DR. DANIELSON: i doubt very much that the fbi or any other government agency can keep a secret, mr. crawford. truth will out... and then what? will you give johns hopkins a new identity? put a big pair of sunglasses on this building, and a funny nose?
+CRAWFORD: oh, that's clever, dr. danielson. very humorous. you like the truth? try this. he kidnaps young women and kills them and rips their skin off. we don't want him to do that anymore. if you don't help me, just as fast as you can, then the justice department is going to ask publicly for a court order, we'll ask twice a day, just in time for the morning and evening news. and each one of our press conferences will focus on dr. danielson, over at johns hopkins, and how we're still hoping for his cooperation. and every time there's any news on the case - when catherine martin floats, when the next one floats, and the next one - why, we'll just issue another press release about good ol' dr. danielson, over at johns hopkins - complete with all his humorous remarks.
+DR. DANIELSON: it may be that - i could confer with my colleagues on this. and get back to you.
+CRAWFORD: would you, doctor? that would be so kind.
+
+CLARICE: chilton has killed her, hasn't he? that slimy little bastard! we were so close with lecter - and now her last chance is gone. 
+CRAWFORD: let's get some coffee and talk.
+
+CLARICE: are you in trouble over this, mr. crawford? can senator martin do something to you? 
+CRAWFORD: i'm 53, starling. if i found jimmy hoffa on national tv, i'd still have to retire in two years. it's not a consideration. but you are... you've done enough. if i keep you out of school any longer, you'll be recycled. cost you six months, at least. i can guarantee you readmission here, but that's about it. now's your chance, starling. go back to class. leave bill to me.
+CLARICE: if you didn't want me chasing him, you shouldn't have taken me to that funeral home.
+CLARICE: lecter is still the key, i know he is. whatever he told me about bill is just as good now as it was before.
+CRAWFORD: or just as worthless. but i want you in memphis, close to him. maybe when he gets tired of toying with senator martin, he'll talk to you again. there's a plane waiting for you now at the airstrip.
+CLARICE: i lied to lecter. i'll need some kind of peace offering... can i get the drawings from his cell?
+CRAWFORD: good idea. meantime, try to get a feel for catherine martin. her apartment, her friends... how he might've stalked her. i'm going to the other two clinics, minnesota and ohio. now's the hardest part, starling. use your anger, don't let it keep you from thinking. just keep your eyes on catherine. we've got less than 30 hours.
+CLARICE: mr. crawford... can those cops down there handle dr. lecter?
+CRAWFORD: they'll use their best men. but they better be paying attention...
+
+BOYLE: welcome to memphis, dr. lecter. i'm officer boyle, this is officer pembry. we aim to treat you just as nice as you treat us. act like a gentlemen, you'll get three hots and a cot. 
+PEMBRY: but we ain't pussy-footin' with you, buddy ruff. you get cute, try to bite somebody? - we'll tie your in a knot. you savvy?
+DR. LECTER: oh yes, officer pembry. i certainly do.
+PEMBRY: he's just an ol' broke-dick. won't be no trouble as all if he don't flip out.
+BOYLE: dr. chilton...?
+
+BOYLE: if you'll please sign right here, sir, we'll have us a legal transfer. 
+BOYLE: use mine.
+PEMBRY: here they come.
+
+CHILTON: senator martin, meet dr. hannibal lecter. 
+SEN. MARTIN: dr. lecter, i've brought an affidavit guaranteeing your new rights... you'll want to read it before i sign.
+DR. LECTER: i won't waste your time and catherine's time bargaining for petty privileges. clarice starling and that awful jack crawford have wasted far too much already. i only pray they haven't doomed the poor girl... let me help you now, and i'll trust you when it's all over.
+SEN. MARTIN: you have my word. paul?
+DR. LECTER: buffalo bill's real name is william rubin. i met him just once. he was referred to me in april or may, 1980, by my patient benjamin raspail. they were lovers, but raspail had become very frightened. apparently rubin had murdered a transient, and - done things with the skin. he thought if i could cure billy, then billy'd be safe from the police, and he's be safe from billy... obviously, he was wrong.
+KRENDLER: we need his address, a physical descr-
+DR. LECTER: did you nurse catherine?
+SEN. MARTIN: what...?
+DR. LECTER: did you breast-feed her?
+KRENDLER: you son-of-a -
+SEN. MARTIN: yes... i did.
+DR. LECTER: toughened your nipples, didn't it...? six foot one, strongly built, about 190 pounds. hair brown, eyes pale blue. he'd be about 35 now. he said he lived in philadelphia, but may have lied. that's really all i can remember, senator - but if i think of any more, i'll let you know.
+SEN. MARTIN: let's go with it.
+DR. LECTER: senator martin...! you can't trust jack crawford or clarice starling. it's such a game with these people. they're determined to get the arrest for themselves. the "collar," i think they say.
+SEN. MARTIN: thank you, doctor. i'll keep it in mind.
+DR. LECTER: oh, and senator...? love you suit.
+
+SEN. MARTIN: who are you, please? i thought the police were through in here. 
+CLARICE: i'm clarice starling, senator. fbi.
+SEN. MARTIN: clarice starling... paul? would you come in here, please...?
+SEN. MARTIN: miss starling, you may know the deputy attorney general, mr. krendler. paul, this is the trainee that jack crawford sent to lecter... she lied to him, pretending to have my authority, and thus jeopardized this entire investigation. now she has the further gall to invade my daughter's privacy, again without permission. if her little games have killed my baby...
+KRENDLER: you're out of line, starling, and you're off this case. back to quantico.
+CLARICE: sir, mr. crawford instructed me -
+KRENDLER: your instructions are what i'm giving you now. jack crawford answers to the director, and the director answers to me. my crawford's losing it...! he shouldn't even be on this, with his wife sick as she is... how the did you get in here, anyway? he gave you - what? some kind of special id? let's have it.
+CLARICE: i need the id to fly with my gun. the gun belongs in quantico.
+KRENDLER: gun. turn in the id as soon as you get back. the gun, too. be on the next plane, starling, there's one in 90 minutes.
+CLARICE: mr. krendler... dr. lecter trusts me. or at least, he used to. if i could just -
+KRENDLER: lecter has already named buffalo bill.
+KRENDLER: he gave us a perfectly good description, and we're on it now, so we won't be needing your little novelty act any longer - or his, either. he's under close guard at the courthouse, pending a prison transfer. the next plane, officer.
+CLARICE: sir, doesn't this "william rubin" strike you as - i don't know - kind of vague?
+KRENDLER: do you need a police escort, starling? or do you think you can find the airport by yourself?
+CLARICE: yes sir. i can find it by myself.
+
+SGT. TATE: are you with mr. krendler's people? 
+CLARICE: i just left him.
+SGT. TATE: access to lecter is strictly limited. we've been getting death threats. log in, and check your weapon.
+
+MURRAY: every cop in tennessee wants a look at this guy. 'sit true what they're sayin' - he's some kinda vampire? 
+CLARICE: i don't have a name for what he is.
+
+PEMBRY: you know the rules, ma'am? 
+CLARICE: yes, officer pembry. i've questioned him before.
+
+DR. LECTER: good afternoon, clarice. 
+CLARICE: i thought you might want your drawings back... just until you get your view.
+DR. LECTER: how very thoughtful... or did crawford send you here for one last wheedle - before you're both booted off the case?
+CLARICE: nobody sent me. i came on my own.
+DR. LECTER: people will say we're in love. pity you tried to fool me, isn't it? pity for poor catherine. tick-tock...
+
+CLARICE: dr. lecter, you find out everything. you couldn't have talked with this "william rubin", even once, and come out knowing so little about him... you made him up, didn't you? 
+DR. LECTER: clarice... you're hardly in a position to accuse me of lying.
+CLARICE: i think you were telling me the truth in baltimore - or starting to. tell me the rest now.
+DR. LECTER: i've studied the case file, have you...? everything you need to find him is right in these pages. whatever his name is.
+CLARICE: then tell me how.
+DR. LECTER: first principles, clarice. simplicity. read marcus aurelius. of each particular thing, ask: what is it, in itself, what is its nature...? what does he do, this man you seek?
+CLARICE: he kills w-
+DR. LECTER: no! that's incidental.
+DR. LECTER: what is the first and principal thing he does, what need does he serve by killing?
+CLARICE: anger, social resentment, sexual frus-
+DR. LECTER: no, he covets. that's his nature. and how do we begin to covet, clarice? do we seek out things to covet? make an effort to answer.
+CLARICE: no. we just -
+DR. LECTER: no. precisely. we begin by coveting what we see every day. don't you feel eyes moving over your body, clarice? i hardly see how you couldn't. and don't your eyes move over the things you want?
+CLARICE: all right, then tell me how -
+DR. LECTER: no. it's your turn to tell me, clarice. you don't have any more vacations to sell, on anthrax island. why did you run away from that ranch?
+CLARICE: dr. lecter, when there's time i'll -
+DR. LECTER: we don't reckon time the same way, clarice. this is all the time you'll ever have.
+CLARICE: later, listen, i'll -
+DR. LECTER: i'll listen now. after your father's murder, you were orphaned. you were ten years old. you went to live with cousins, on a sheep and horse ranch in montana. and - ?
+CLARICE: and - one morning i just - ran away...
+DR. LECTER: not "just," clarice. what set you off? you started what time?
+CLARICE: early. still dark.
+DR. LECTER: then something woke you. what? did you dream...? what was it?
+
+CLARICE: i heard a strange sound... 
+DR. LECTER: what was it?
+
+CLARICE: screaming! some kind of - screaming. like a child's voice... 
+THE LITTLE GIRL: is terrified; she covers her ears.
+DR. LECTER: what did you do?
+CLARICE: got dressed without turning on the light. i went downstairs... outside...
+
+DR. LECTER: and what did you see, clarice? 
+A SQUIRMING LAMB: is held down on a table by two ranch hands.
+CLARICE: lambs. the lambs were screaming...
+
+DR. LECTER: they were slaughtering the spring lambs? 
+CLARICE: yes...! they were screaming.
+DR. LECTER: so you ran away...
+CLARICE: no. first i tried to free them... i opened the gate of their pen - but they wouldn't run. they just stood there, confused. they wouldn't run...
+DR. LECTER: but you could. you did.
+CLARICE: i took one lamb. and i ran away, as fast as i could...
+
+DR. LECTER: where were you going? 
+CLARICE: i don't know. i had no food or water. it was very cold. i thought - if i can even save just one... but he got so heavy. so heavy...
+CLARICE: i didn't get more than a few miles before the sheriff's car found me. the rancher was so angry he sent me to live at the lutheran orphanage in bozeman. i never saw the ranch again...
+DR. LECTER: but what became of your lamb? clarice...?
+
+DR. LECTER: you still wake up sometimes, don't you? wake up in the dark, with the lambs screaming? 
+CLARICE: yes...
+DR. LECTER: do you think if you saved catherine, you could make them stop...? do you think, if catherine lives, you won't wake up in the dark, ever again, to the screaming of the lambs? do you...?
+CLARICE: yes! i don't know...! i don't know.
+DR. LECTER: thank you, clarice.
+CLARICE: tell me his name, dr. lecter.
+DR. LECTER: dr. chilton... i believe you know each other?
+
+CHILTON: out. let's go. 
+PEMBRY: sorry, ma'a m - we've got orders to have you put on a place.
+DR. LECTER: brave clarice. will you let me know if ever the lambs stop screaming?
+CLARICE: yes. i'll tell you.
+DR. LECTER: promise...? then why not take your case file? i won't be needing it anymore. he holds out the file, arm extended between the bars. she hesitates, then reaches to take it.
+
+FOREMAN: hello, dear! punctual as always. and what have you brought us today? 
+FOREMAN: oh, marvelous... you know, i always say you're the leonardo of leather.
+MR. GUMB: oil.
+FOREMAN: pardon...?
+MR. GUMB: you're leaving oil on the skin.
+FOREMAN: of course... you'll be wanting your -
+FOREMAN: i wish we had a dozen like him... sound upcut - glenn gould playing bach's goldberg variations...
+
+DR. LECTER: just another minute, please! 
+PEMBRY: sumbitch demanded lamb chops for dinner, extra rare.
+BOYLE: what you reckon he'll want for breakfast - some thing from the zoo?
+
+PEMBRY: okay, doc, grab some floor. same drill as lunchtime. 
+DR. LECTER: i'm ready when you are, officer pembry.
+
+SGT. TATE: what is this shit...? did somebody go up to five? call pembry, ask him what - 
+SGT. TATE: cp, shots fired on five! repeat, shots fires on five! outside posts look sharp, we've got a... ho-ly
+THE BRONZE ARROW: has begun to descend. down to 4, then past 4...
+
+SGT. TATE: shut up...! guard mount, double up on your outside posts. bobby, get the vests. rainey, howard, cover that elevator if it comes all the way to - 
+A COP: it stopped!
+
+MURRAY: this one's alive! 
+SGT. TATE: take ahold of him where he can feel your hands, son. talk to him.
+MURRAY: what's his name, sarge?
+SGT. TATE: it's pembry, now talk to him, dammit. boyle's dead, pembry's read bad. lecter is missing and armed - he took boyle's gun...
+SGT. TATE: pembry got off one round - there's a chance lecter was hit. we heard a total of three shots fired, so he's got four left... he's got a knife, too.
+
+MURRAY: you're just fine, pembry, lookin' good, buddy, you're gonna make it... 
+ORDERLY: downstairs - let's go!
+
+PETERSON: i see him... there's a weapon by his hand. he's not moving... 
+RADIO VOICE: can you get the drop?
+PETERSON: we got the drop.
+RADIO VOICE: one warning. then take him out.
+PETERSON: quinn!! put your hands on your head!!
+PETERSON: put one in his leg.
+
+PETERSON: staring down the shaft, raises his mike again. 
+PETERSON: no movement.
+RADIO VOICE: okay, johnny, hold your fire...
+
+SWAT COMMANDER: we're coming into the car, we're opening the hatch. watch his hands. any fire will come from us. affirm? 
+PETERSON'S VOICE: got it.
+
+ATTENDANT: he's comatose, but his vital signs are good. pressure's 130 over 90... yeah, 90! pulse 85... behind him, in slightly blurred focus, the figure sits slowly upright... 
+ATTENDANT: his convulsions have stopped, but he's got so much loose skin on his face, it's hard to tell if -
+THE POCKETKNIFE BLADE: in lecter's fist, flashes high in the air...
+
+ARDELIA: in the parking garage at memphis airport. the crew was dead. he killed a tourist, too. got his clothes, cash... by now he could be anywhere. 
+CLARICE: no. he won't come after me.
+ARDELIA: why not?
+CLARICE: it would be rude. and he wouldn't get to ask any more questions...
+ARDELIA: clarice - you did the best anybody could have for catherine martin. you stuck your neck out for her and you got your kicked for her and you tried. it's not your fault it ended this way.
+CLARICE: the worst part - the thing that's making me crazy - is that bill is right in front of me. only i can't see him... lecter said, everything i need to catch him is right here, in these pages...
+ARDELIA: lecter said a lot of things.
+CLARICE: he's here, ardelia. ardelia stares back at her.
+
+CLARICE: "desperately random." what does he mean? 
+ARDELIA: not random at all, maybe. like there's some pattern here...?
+CLARICE: but there is no pattern. there's no connection at all among these places, or the computers would've nailed it! they're even found in random order.
+ARDELIA: well, except for the one girl.
+CLARICE: what girl?
+ARDELIA: the one that was weighted down. where is she...? fred something.
+CLARICE: fredrica bimmel, from belvedere, ohio. the first girl taken, but the third body found... why?
+ARDELIA: 'cause she didn't drift. he weighted her down.
+CLARICE: but why? he didn't weight the others. clarice moves, on fire, unable to keep still.
+CLARICE: the first, what the did lecter say about... "first principles," he said. simplicity... what does this guy do, he "covets." how do we first start to covet? "we covet what we see -"
+CLARICE: "- every day."
+ARDELIA: hot damn, clarice.
+CLARICE: he knew her...!
+
+CLARICE: maybe he lives in this, this belvedere, ohio, too! maybe he saw her every day, and killed her sort of spontaneously. maybe he just meant to... give her a 7-up and talk about the choir. but then - 
+KRENDLER: starling -
+CLARICE: but then he had to cover up, make her seem just like all the rest of them. that's what lecter was hinting!
+KRENDLER: the market in lecter hints is way down, today, okay? i've got two good men dead in memphis, and three civilians. i've got -
+CRAWFORD: who the hell's fault is -
+KRENDLER: - a u.s. senator who's half out of her head because her daughter's going to be murdered today! and all because of your mind games with lecter!
+CRAWFORD: if you hadn't interfered, he'd still be in custody in baltimore!
+BURKE: jack -
+KRENDLER: you sent in a green recruit, with a phony offer -
+CRAWFORD: you're just trying to cover your for letting him escape!
+BURKE: that's enough! all of you...
+BURKE: starling, i'm afraid i have no choice. you're suspended from the academy. not another word! this is pending a reevaluation of your fitness for the service. i promise you'll get a fair hearing. jack... you're ordered to take compassionate leave. you'll spend the rest of the day briefing the ag's office, then transfer command of the task force, effective by 1800 hours. i'm sorry, jack... go home. take care of bella. clarice and crawford stare back at him, drained. a long and very painful silence. not even krendler looks happy.
+
+CLARICE: all his victims are women... his obsession is women, he lives to hunt women. but not one women is hunting him - except me. i can walk in a woman's room and know three times as much about her as a man would. i have to go to belvedere. 
+CRAWFORD: you heard them. i don't have that authority anymore.
+CLARICE: you do until six p.m.
+CRAWFORD: ohio is cold ground. picked over, ten months ago. our people worked it, so did the locals.
+CLARICE: but not from this angle. not thinking he knew her. you've got to send me!
+CRAWFORD: i'm bureau for 28 years, starling. i won't disobey orders, not even now.
+CLARICE: but i just became a private citizen. i can go anywhere i want to.
+CRAWFORD: with id and a gun...? impersonating a federal agent is a felony.
+CLARICE: he's going to kill her, mr. crawford. this morning, or maybe at noon, but today, and belvedere's our last chance. i'm flying there, right now, unless you stop me. you want my id? here - take it...
+CRAWFORD: there's about $300 here... and a hotline code number. they'll patch you through to me, wherever i am.
+CLARICE: thank you.
+
+MR. GUMB: preeeeecious...! 
+MR. GUMB: precious, come on precious! busy busy day today...
+MR. GUMB: momma's gonna be sooo beautiful!
+MR. GUMB: you come here this minute, you little scamp!
+MR. GUMB: precious...?
+
+MR. GUMB: sweetheart...? 
+CATHERINE: she'd down here you sack of
+
+CATHERINE: you shoot you better kill me quick or i'll break her neck, i swear to 
+MR. GUMB: nooooooo!
+CATHERINE: back off, you son of a back off!
+
+REVERSE ANGLE: on catherine, as she maintains her grip. 
+CATHERINE: that's better... now get me a live telephone. get a long extension and lower is down here... and you better do it fast, too, 'cause i think her leg's broken. she's in pain, mister, she needs a vet.
+
+MR. BIMMEL: i don't know nothin' new to tell ya. the police been back here so many times already... fredrica went into columbus on the bus to see about a job. she left the interview ok. she never come home. 
+MR. BIMMEL: her room's how she left it. just shut the door when you're done.
+
+CLARICE: who stares at them, starting to tremble. 
+DR. LECTER: even if he were a woman, he'd have to be a big one...
+
+CLOSE ON CLARICE: as she jumps to her feet, with a fierce joy. 
+CLARICE: sewing darts. you bastard.
+
+CLARICE: he's making himself a "woman suit," mr. crawford - out of real women! and he can sew, this guy, he's really skilled. a dressmaker, or a tailor - 
+CRAWFORD: starling -
+CLARICE: that's why they're all so big - because he needs a lot of skin! he keeps them alive to starve them awhile - to loosen their skin, so that -
+CRAWFORD: starling, we know who he is! and where he is. we're on our way now.
+CLARICE: where?
+
+CLARICE: sir, that's great news. but how - 
+CRAWFORD: johns hopkins finally came up with a name for us. we fed him into known offenders, and he came up cherries. subject's name is "jamie gumb," aka "john grant." lecter's description was accurate, he just lied about the name.
+
+CLARICE: sewing... 
+CRAWFORD: take a bow. customs had some paper on his alias. they stopped a carton two years ago at lax - live caterpillars from surinam. the addressee was "john grant." calumet power and light's given us two possible residences under that alias. we're hitting one, chicago swat's taking the other.
+CLARICE: chicago's only about 400 miles from here. i could be there in -
+CRAWFORD: no, starling, there isn't time. and you've still got crucial work to do in ohio. we want him for murder, not kidnapping. i'm counting on you to link him to the bimmel girl, before he's indicted.
+CLARICE: yes sir... i'll do my best.
+CRAWFORD: starling - you've earned back your place in the academy. we never would've found him without you, and nobody's ever going to forget that. least of all me.
+CLARICE: yes sir. thank you, sir...
+
+CLARICE: somewhat embarrassed, crosses over to him. 
+CLARICE: mr. bimmel... did fredrica ever mention a man named jamie gumb, from calumet city? or john grant? did she know any men that sew?
+MR. BIMMEL: she sewed for everybody. stores, ladies, whatever. i don't know about men.
+CLARICE: who was her best friend, mr. bimmel? who'd she hang out with?
+
+STACY: they said she was just rags, like somebody - 
+CLARICE: stacy, did fredrica ever mention a man named jamie gumb? or john grant? do you think she could've had a friend you didn't know about?
+STACY: no way. she had a guy, i'da known, believe me. sewing was her life, she was really great at it. poor freddie.
+CLARICE: did you ever work with her?
+STACY: oh sure, me'n pam malavesi used to help her do alterations for old mrs. lippman. lots of people worked for her, she had the business from all these retail stores? but she was like, totally old, it was more'n she could handle.
+CLARICE: where does mrs. lippman live? i'd like to talk to her.
+STACY: she died. she went to florida to retire, like two years ago? she dies own there.
+STACY: is that a pretty good job, fbi agent?
+CLARICE: i think so.
+STACY: you get to travel around and stuff? i mean, better places then this?
+CLARICE: sometimes you do.
+STACY: freddie was so happy for me when i got this job. this - toaster giveaways, and barry manilow on the speakers all day - she thought this was really hot what did she know, big dummy...
+
+CLARICE: good afternoon... i wonder if you could help me. i'm looking for mrs. lippman's family? 
+MR. GUMB: they don't live here anymore.
+
+CLARICE: excuse me, but i really do need to talk to you. this was mrs. lippman's house. did you know her? 
+MR. GUMB: just briefly. what's the problem, officer?
+
+CLARICE: i'm investigating the death of fredrica bimmel. who are you, please? 
+MR. GUMB: jack gordon.
+CLARICE: mr. gordon, did you know fredrica when she worked for mrs. lippman?
+MR. GUMB: no. wait... was she a great, fat person? i may have seen her, i'm not sure...
+
+MR. GUMB: mrs. lippman had a son, maybe he could help you. i have his card somewhere. do you mind stepping inside, while i looks for it? 
+CLARICE: thanks.
+
+CAMERA RUSHES VERY CLOSE: on his stricken face... 
+CRAWFORD: clarice.
+
+MR. GUMB: that horrible business, i shiver every time i think about it... 
+MR. GUMB: are they close to catching somebody, do you think?
+CLARICE: i think we may be, yes.
+CLARICE: mr. gordon, did you take over this place after mrs. lippman died?
+MR. GUMB: yes. i bought the house from her, two years ago.
+CLARICE: did she leave any records here? tax or business records? maybe a list of employees?
+CLOSE ON MR. GUMB'S BACK: as he continues his rummaging.
+MR. GUMB: no, nothing at all. has the fbi learned something? because the police here don't seem to have the first clue...
+MR. GUMB: do you have his description yet, or some fingerprints...?
+
+CLARICE: tries to force more authority into her voice. 
+CLARICE: okay... okay, mr. gumb, you're under arrest. down on the floor, hands and legs spread, move it.
+
+CLARICE: fbi, catherine, you're safe. 
+CATHERINE: safe, he's got a gun! getmeout.
+
+CLARICE: you're all right! where is he? 
+CATHERINE: get me out!
+CLARICE: i'll get you out! just be quiet so i can hear. shut that dog up. is there a ladder? is there a rope?
+CATHERINE: i don't know! get me out!!
+CLARICE: catherine. listen to me. i have to find a rope. i have to leave this room, just for a minute, but -
+CATHERINE: nooooo! you don't you leave me down here, don't you - you
+CLARICE: shut up!
+
+CLARICE: spins, almost shoots, before seeing - 
+A SMALL REFRIGERATOR: with its thermostat just switching on.
+
+CRAWFORD: starling... your father sees you. 
+DIRECTOR BURKE: congratulations! you are now officers of the federal bureau of investigation...
+
+ARDELIA: agent starling! telephone! 
+CLARICE: agent mapp! thank you!
+RODEN: hel-lo, gorgeous! let's get down.
+PILCHER: just ignore him. he's not a ph.d.
+
+CLARICE: starling. 
+DR. LECTER: well, clarice, have the lambs stopped screaming...?
+
+DR. LECTER: don't bother with a trace, i won't be on long enough. 
+CLARICE: turns back, gripping the phone more tightly.
+CLARICE: where are you, dr. lecter?
+
+DR. LECTER: your lambs are still for now, clarice, but not forever... you'll have to earn it again and again, this blessed silence. because it's the plight that drives you, and the plight will never end. 
+CLARICE: dr. lecter -
+DR. LECTER: i have no plans to call on you, clarice, the world being more interesting with you in it. be sure you extend me the same courtesy.
+CLARICE: you know i can't make that promise.
+DR. LECTER: goodbye, clarice... you looked - so very lovely today, in your blue suit.
 

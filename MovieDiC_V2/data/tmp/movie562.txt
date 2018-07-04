@@ -1,308 +1,308 @@
-speaker1: i say, this is outright rude of the man! 
-speaker2: he's undoubtedly been detained. that's all.
-speaker1: speak up -- what is it, woman?
-speaker3: well...are we or are we not invited to dinner? filby apparently we are. how long has he been gone? mrs. watchett i can't rightly say, sir. - several days...i hardly catch a glimpse of him lately. he never leaves the laboratory and comes out only to nibble at his meals...but he did tell me days ago about dinner tonight and left these instructions.
-speaker4: thank you, mrs. watchett.
-speaker4: nothing really. - george merely says that if he is not here by eight we're to begin without him.
-speaker5: dinner is served, gentlemen! bridewell first sensible thing i've heard all evening.
-speaker4: this is peculiar. he is usually very prompt, precise and punctual.
-speaker1: he's making fools of us by inviting us here and then not showing up.
-speaker6: to say nothing of the waste of time. dr. hillyer to say nothing of the waste of time.
+DR. HILLYER: i say, this is outright rude of the man! 
+FILBEY: he's undoubtedly been detained. that's all.
+DR. HILLYER: speak up -- what is it, woman?
+BRIDEWELL: well...are we or are we not invited to dinner? filby apparently we are. how long has he been gone? mrs. watchett i can't rightly say, sir. - several days...i hardly catch a glimpse of him lately. he never leaves the laboratory and comes out only to nibble at his meals...but he did tell me days ago about dinner tonight and left these instructions.
+FILBY: thank you, mrs. watchett.
+FILBY: nothing really. - george merely says that if he is not here by eight we're to begin without him.
+MRS. WATCHETT: dinner is served, gentlemen! bridewell first sensible thing i've heard all evening.
+FILBY: this is peculiar. he is usually very prompt, precise and punctual.
+DR. HILLYER: he's making fools of us by inviting us here and then not showing up.
+KEMP: to say nothing of the waste of time. dr. hillyer to say nothing of the waste of time.
 
-speaker1: good lord! - what's happened? 
-speaker2: i'm all right...just some food...a drink...
-speaker2: are you all right?
-speaker2: meat...i'm hungry for meat!
+FILBY: good lord! - what's happened? 
+TIME TRAVELLER: i'm all right...just some food...a drink...
+TIME TRAVELLER: are you all right?
+TIME TRAVELLER: meat...i'm hungry for meat!
 
-speaker1: well, can't you speak, man? what happened to you? aren't you going to tell us... 
-speaker2: leave him alone, can't you? time traveller it's all right. - i want to tell.
-speaker3: it will keep, george. eat, rest a little.
-speaker4: no! i must tell it now... while i still remember.
-speaker3: relax, try to relax a bit. you've all the time in the world.
-speaker4: you're right, david. that's exactly what i have. - all the time in the world!... ever since we were all together five days ago, the last day of eighteen hundred ninety nine.
+DR. HILLYER: well, can't you speak, man? what happened to you? aren't you going to tell us... 
+BRIDEWELL: leave him alone, can't you? time traveller it's all right. - i want to tell.
+FILBY: it will keep, george. eat, rest a little.
+TIME TRAVELLER: no! i must tell it now... while i still remember.
+FILBY: relax, try to relax a bit. you've all the time in the world.
+TIME TRAVELLER: you're right, david. that's exactly what i have. - all the time in the world!... ever since we were all together five days ago, the last day of eighteen hundred ninety nine.
 
-speaker1: there in that box rests the result of two years' labor. 
-speaker2: i wanted to finish the job before the new century began. - i barely made it.
-speaker3: marvelous. dr. hillyer what is it?
-speaker2: well, it has to do with time.
-speaker4: i've always maintained what this nation needs is a reliable timepiece. the navy needs one. the army needs one. - for the artillery you know. kemp couldn't do better, george. so that's why you've been in hiding. - clever of you, indeed! filby i don't believe george is referring to a new kind of timepiece.
-speaker2: when i speak of time, i'm referring to the fourth dimension.
-speaker5: go on, george.
-speaker2: now, as you know, the difficulty in explaining the fourth dimension is that it cannot be seen or felt - it must be thought of.
-speaker5: if you don't mind, george, would you refresh me on the first three dimensions.
-speaker4: really, filby, they must have taught you something at school! bridewell suppose you explain it, doctor.
-speaker4: certainly! when i move in a straight line, forward or backward, that's one dimension. - when i move to the left or right, two dimensions. - when i move up and down, three dimensions. for instance, this box has three dimensions: length, breadth, and height. bridewell well, then, what's the fourth dimension?
-speaker4: well, that's...that's mere theory! no one can really say what the fourth dimension is or even that it exists.
-speaker2: on the contrary, doctor! the fourth dimension is as true and as real a dimension as any of the other three. in fact, they couldn't exist without it. dr. hillyer how do you mean?
-speaker2: well, take that box. it has the first three dimensions, as you said. but what if it didn't exist in time?
-speaker4: no.
-speaker2: so - for an object to exist at all, it must exist in the fourth dimen- sion....and that fourth dimension is duration....time! dr. hillyer all right! but what's in that box?
-speaker2: i'm coming to that. but first, consider! why is it that we usually ignore the fourth dimension? because we have no freedom to move in it. we can move in the other three -- up, down, forward, backward, sideways. but when it comes to time, we are prisoners. do you follow me, anthony?
+TIME TRAVELLER'S VOICE: there in that box rests the result of two years' labor. 
+TIME TRAVELLER: i wanted to finish the job before the new century began. - i barely made it.
+BRIDEWELL: marvelous. dr. hillyer what is it?
+TIME TRAVELLER: well, it has to do with time.
+DR. HILLYER: i've always maintained what this nation needs is a reliable timepiece. the navy needs one. the army needs one. - for the artillery you know. kemp couldn't do better, george. so that's why you've been in hiding. - clever of you, indeed! filby i don't believe george is referring to a new kind of timepiece.
+TIME TRAVELLER: when i speak of time, i'm referring to the fourth dimension.
+FILBY: go on, george.
+TIME TRAVELLER: now, as you know, the difficulty in explaining the fourth dimension is that it cannot be seen or felt - it must be thought of.
+FILBY: if you don't mind, george, would you refresh me on the first three dimensions.
+DR. HILLYER: really, filby, they must have taught you something at school! bridewell suppose you explain it, doctor.
+DR. HILLYER: certainly! when i move in a straight line, forward or backward, that's one dimension. - when i move to the left or right, two dimensions. - when i move up and down, three dimensions. for instance, this box has three dimensions: length, breadth, and height. bridewell well, then, what's the fourth dimension?
+DR. HILLYER: well, that's...that's mere theory! no one can really say what the fourth dimension is or even that it exists.
+TIME TRAVELLER: on the contrary, doctor! the fourth dimension is as true and as real a dimension as any of the other three. in fact, they couldn't exist without it. dr. hillyer how do you mean?
+TIME TRAVELLER: well, take that box. it has the first three dimensions, as you said. but what if it didn't exist in time?
+DR. HILLYER: no.
+TIME TRAVELLER: so - for an object to exist at all, it must exist in the fourth dimen- sion....and that fourth dimension is duration....time! dr. hillyer all right! but what's in that box?
+TIME TRAVELLER: i'm coming to that. but first, consider! why is it that we usually ignore the fourth dimension? because we have no freedom to move in it. we can move in the other three -- up, down, forward, backward, sideways. but when it comes to time, we are prisoners. do you follow me, anthony?
 
-speaker1: george! you've given a most lucid explanation and all that! but i don't think i entirely understand. 
-speaker2: look! there are a lot of things in the world you don't understand, aren't there?
-speaker1: of course! quite a number.
-speaker2: but you don't refuse to believe in them because of that?
-speaker1: not if i can see the proof with my own eyes.
-speaker2: good! all i'm asking you to do now is to witness a demonstration of the possibility of movement in the fourth dimension. philip, will you please hand me that box?
+KEMP: george! you've given a most lucid explanation and all that! but i don't think i entirely understand. 
+TIME TRAVELLER: look! there are a lot of things in the world you don't understand, aren't there?
+KEMP: of course! quite a number.
+TIME TRAVELLER: but you don't refuse to believe in them because of that?
+KEMP: not if i can see the proof with my own eyes.
+TIME TRAVELLER: good! all i'm asking you to do now is to witness a demonstration of the possibility of movement in the fourth dimension. philip, will you please hand me that box?
 
-speaker1: i've told you. the larger model can carry a passenger on a journey through time. - not through space, mind you, but through time. 
-speaker2: oh, i say george! if you start floating around in the future, aren't you likely to mess things up for the rest of us?
-speaker3: the future is already there. it's irrevocable and cannot be changed.
-speaker1: that's the most important question to which i hope to find an answer. can man control his destiny? can he change the shape of things to come?
+TIME TRAVELLER: i've told you. the larger model can carry a passenger on a journey through time. - not through space, mind you, but through time. 
+BRIDEWELL: oh, i say george! if you start floating around in the future, aren't you likely to mess things up for the rest of us?
+DR. HILLYER: the future is already there. it's irrevocable and cannot be changed.
+TIME TRAVELLER: that's the most important question to which i hope to find an answer. can man control his destiny? can he change the shape of things to come?
 
-speaker1: imagine that this cigar is the time traveller. now, this lever in front of him controls movement. forward pressure sends the machine into the future, backward pressure into the past. and the harder the pressure the faster the machine travels. 
-speaker2: this experiment can be performed only once. if it succeeds, i lose my model forever. that is why i need witnesses.
-speaker3: go ahead.
-speaker2: you're ready then?
-speaker2: doctor hillyer, would you care to lend me your hand?
+TIME TRAVELLER'S VOICE: imagine that this cigar is the time traveller. now, this lever in front of him controls movement. forward pressure sends the machine into the future, backward pressure into the past. and the harder the pressure the faster the machine travels. 
+TIME TRAVELLER: this experiment can be performed only once. if it succeeds, i lose my model forever. that is why i need witnesses.
+KEMP: go ahead.
+TIME TRAVELLER: you're ready then?
+TIME TRAVELLER: doctor hillyer, would you care to lend me your hand?
 
-speaker1: where did it go? time traveller go? nowhere in the usual sense. it's still here. but it's no longer in the present. it's traveling through time - to the future, to be precise. 
-speaker1: do you seriously expect us to believe that?
-speaker2: certainly.
-speaker1: but you just said it hasn't really moved.
-speaker2: that's correct.
-speaker1: then why can't we see it?
-speaker2: because we're in this room on december 31st, 1899, while the model you saw is perhaps a hundred years away. this room, or even this house, may no longer exist a hundred years from now. but the time machine is occupying the same space it did a moment before it went off on its journey.
-speaker2: you must remember that the space you've just put your hand through is today's space. you can't put your hand into the space of tomorrow. dr. hillyer space is space! it doesn't change! the same space that is here now should be here a hundred or even a thousand years from now.
-speaker2: no! time changes space. this flat ground we're standing on now could have been at the bottom of the sea a million years ago. and a million years from now it could be the interior of a huge mountain.
-speaker3: suppose what you say is true. exactly what do you suggest we do with such a contraption?
-speaker2: for my part, i intend to take a journey into the future. - unless someone else prefers to volunteer. there is no response. bridewell i say, george. suppose you go off and get lost in the fiftieth century! how will you find your way back? time traveller that's a calculated risk i'm prepared to take.
-speaker1: now listen, george! i don't know what you take us for, but we're not fools. there are a number of ways of doing a disappearing trick! but a man of your ability should not bother with such nonsense.
-speaker1: now you're being sensible. i'll take care of it first thing in the new year.
-speaker1: well, time to go.
-speaker3: yes, we all have our plans for tonight.
-speaker2: of course, i am.
-speaker4: coming, bridewell?
+DR. HILLYER: where did it go? time traveller go? nowhere in the usual sense. it's still here. but it's no longer in the present. it's traveling through time - to the future, to be precise. 
+DR. HILLYER: do you seriously expect us to believe that?
+TIME TRAVELLER: certainly.
+DR. HILLYER: but you just said it hasn't really moved.
+TIME TRAVELLER: that's correct.
+DR. HILLYER: then why can't we see it?
+TIME TRAVELLER: because we're in this room on december 31st, 1899, while the model you saw is perhaps a hundred years away. this room, or even this house, may no longer exist a hundred years from now. but the time machine is occupying the same space it did a moment before it went off on its journey.
+TIME TRAVELLER: you must remember that the space you've just put your hand through is today's space. you can't put your hand into the space of tomorrow. dr. hillyer space is space! it doesn't change! the same space that is here now should be here a hundred or even a thousand years from now.
+TIME TRAVELLER: no! time changes space. this flat ground we're standing on now could have been at the bottom of the sea a million years ago. and a million years from now it could be the interior of a huge mountain.
+KEMP: suppose what you say is true. exactly what do you suggest we do with such a contraption?
+TIME TRAVELLER: for my part, i intend to take a journey into the future. - unless someone else prefers to volunteer. there is no response. bridewell i say, george. suppose you go off and get lost in the fiftieth century! how will you find your way back? time traveller that's a calculated risk i'm prepared to take.
+DR. HILLYER: now listen, george! i don't know what you take us for, but we're not fools. there are a number of ways of doing a disappearing trick! but a man of your ability should not bother with such nonsense.
+DR. HILLYER: now you're being sensible. i'll take care of it first thing in the new year.
+DR. HILLYER: well, time to go.
+KEMP: yes, we all have our plans for tonight.
+TIME TRAVELLER: of course, i am.
+DR. HILLYER'S VOICE: coming, bridewell?
 
-speaker1: thanks for coming. 
-speaker2: happy new year. - goodbye, george - happy twentieth century. - etc.
+TIME TRAVELLER: thanks for coming. 
+AD LIBS: happy new year. - goodbye, george - happy twentieth century. - etc.
 
-speaker1: i thought i'd better stay. 
-speaker2: you needn't have troubled yourself.
-speaker1: no you're not. - you've been behaving oddly for over a month now. i'm not leaving until you tell me what's on your mind.
+FILBY: i thought i'd better stay. 
+TIME TRAVELLER'S VOICE: you needn't have troubled yourself.
+FILBY: no you're not. - you've been behaving oddly for over a month now. i'm not leaving until you tell me what's on your mind.
 
-speaker1: i appreciate your gesture, david, but if you don't mind i'd rather you left me alone. 
-speaker2: you have changed, george.
-speaker1: i'm sorry. filby will you answer me one question honestly?
-speaker1: i'll try.
-speaker2: why this preoccupation with time? time traveller why not?
-speaker2: don't go simple on me, george! time traveller if you want to know the truth, i don't much care for the time i was born into. - it seems people aren't dying fast enough these days. they call upon science to invent new, more efficient weapons to depopulate the earth.
-speaker2: i quite agree with you. but here we are and we have to make the best of it.
-speaker1: you may have to. i don't. filby all right. take a journey on your contraption. what would you become?... a greek? a roman? one of the pharaohs?
-speaker1: i prefer the future.
-speaker2: you're not seriously saying you can do it?
-speaker1: you saw the experiment this afternoon, didn't you?
-speaker2: i saw a toy machine vanish. but i'm certain there are a number of ways of doing that trick. any magician at the hippodrome could probably do it. time traveller it was no trick! - would you care to see the full-scale model?
-speaker2: no, i would not! i have no desire to tempt the laws of providence and i don't think you should. it's not for man to trifle with.
-speaker1: now you sound like hillyer and kemp.
-speaker2: there is something in their common sense attitude to life. george, i speak to you as a friend. more, as a brother. if that machine can do what you say it can...destroy it. destroy it, george, before it destroys you.
-speaker1: you must have plans for new year's eve. don't let me keep you.
-speaker2: mary isn't well. we decided to stay home with the baby. but why don't you come home with me. you haven't seen little jaime for a long time.
-speaker1: i can't.
-speaker2: what's stopping you?
-speaker1: i just want to see the old century out by myself. filby have it your own way.
-speaker2: will you promise me that you won't leave the house tonight?
-speaker1: i promise you, i won't walk out of the door.
-speaker1: david! please don't think me un- friendly! - come over to dinner - next friday. won't you?
-speaker2: very well.
-speaker1: fine...and will you bring the others with you? filby whatever you say, george. - happy new year. time traveller and a very happy new year to you, david.
+TIME TRAVELLER: i appreciate your gesture, david, but if you don't mind i'd rather you left me alone. 
+FILBY: you have changed, george.
+TIME TRAVELLER: i'm sorry. filby will you answer me one question honestly?
+TIME TRAVELLER: i'll try.
+FILBY: why this preoccupation with time? time traveller why not?
+FILBY: don't go simple on me, george! time traveller if you want to know the truth, i don't much care for the time i was born into. - it seems people aren't dying fast enough these days. they call upon science to invent new, more efficient weapons to depopulate the earth.
+FILBY: i quite agree with you. but here we are and we have to make the best of it.
+TIME TRAVELLER: you may have to. i don't. filby all right. take a journey on your contraption. what would you become?... a greek? a roman? one of the pharaohs?
+TIME TRAVELLER: i prefer the future.
+FILBY: you're not seriously saying you can do it?
+TIME TRAVELLER: you saw the experiment this afternoon, didn't you?
+FILBY: i saw a toy machine vanish. but i'm certain there are a number of ways of doing that trick. any magician at the hippodrome could probably do it. time traveller it was no trick! - would you care to see the full-scale model?
+FILBY: no, i would not! i have no desire to tempt the laws of providence and i don't think you should. it's not for man to trifle with.
+TIME TRAVELLER: now you sound like hillyer and kemp.
+FILBY: there is something in their common sense attitude to life. george, i speak to you as a friend. more, as a brother. if that machine can do what you say it can...destroy it. destroy it, george, before it destroys you.
+TIME TRAVELLER: you must have plans for new year's eve. don't let me keep you.
+FILBY: mary isn't well. we decided to stay home with the baby. but why don't you come home with me. you haven't seen little jaime for a long time.
+TIME TRAVELLER: i can't.
+FILBY: what's stopping you?
+TIME TRAVELLER: i just want to see the old century out by myself. filby have it your own way.
+FILBY: will you promise me that you won't leave the house tonight?
+TIME TRAVELLER: i promise you, i won't walk out of the door.
+TIME TRAVELLER: david! please don't think me un- friendly! - come over to dinner - next friday. won't you?
+FILBY: very well.
+TIME TRAVELLER: fine...and will you bring the others with you? filby whatever you say, george. - happy new year. time traveller and a very happy new year to you, david.
 
-speaker1: will you be having supper in this evening, sir? time traveller i don't think so, mrs. watchett. why don't you take the evening off and celebrate. 
-speaker1: thank you, sir, but if you won't be needing me i think i'll turn in early and get some sleep... ...it i can. - goodnight, sir.
-speaker2: goodnight.
-speaker2: oh, mrs. watchett! i've invited mr. filby and the others to dinner next friday. happy new year, mrs. watchett.
-speaker1: happy new year, sir.
+MRS. WATCHETT: will you be having supper in this evening, sir? time traveller i don't think so, mrs. watchett. why don't you take the evening off and celebrate. 
+MRS. WATCHETT: thank you, sir, but if you won't be needing me i think i'll turn in early and get some sleep... ...it i can. - goodnight, sir.
+TIME TRAVELLER: goodnight.
+TIME TRAVELLER: oh, mrs. watchett! i've invited mr. filby and the others to dinner next friday. happy new year, mrs. watchett.
+MRS. WATCHETT: happy new year, sir.
 
-speaker1: ...arc in less than a minute... 
-speaker1: ....to see flowers closing their eyes for the night, changes that normally took hours, occuring in seconds, was beautiful.
-speaker1: and as yet i was travelling very slowly! what if i went faster?!
+TIME TRAVELLER'S VOICE: ...arc in less than a minute... 
+TIME TRAVELLER'S VOICE: ....to see flowers closing their eyes for the night, changes that normally took hours, occuring in seconds, was beautiful.
+TIME TRAVELLER'S VOICE: and as yet i was travelling very slowly! what if i went faster?!
 
-speaker1: filby! i expected more of an enthusiastic greeting from... filby i'm afraid you have me confused with my father, sir. there was a remarkable resemblance. - i'm james filby. 
-speaker1: was?
-speaker2: were you a friend of father's?
-speaker1: yes...yes...i've been away.
-speaker2: he was killed in the war...a year ago. time traveller no!...it can't be... i'm sorry to hear that. and the gentleman who used to live across the street?
-speaker2: oh, him. some inventor who disappeared around the turn of the century. - if you're interested in that house, forget it. you can't buy it or even go inside.
-speaker1: why is that?
-speaker2: my father was executor of the inventor's estate and he refused to liquidate it. i often chided him on that account, but he felt positive that the owner would return some day. - some people hereabouts think it's haunted. who are you, sir?
-speaker1: just a stranger who once knew your father.
-speaker2: i see. have you been at the front, sir?
-speaker1: front? what front?
-speaker2: why the war, of course.
-speaker1: what war?
-speaker2: great heavens, man, don't you know we've been at war with germany since nineteen fourteen? i thought perhaps you had seen action in france...or maybe... perhaps a cup of tea would make you feel better. won't you come in?
-speaker1: no...no, thank you.
-speaker2: you're sure you're alright, sir?
-speaker1: yes, i'm quite alright. james filby then...goodbye, sir.
-speaker1: goodbye, jaime.
+TIME TRAVELLER: filby! i expected more of an enthusiastic greeting from... filby i'm afraid you have me confused with my father, sir. there was a remarkable resemblance. - i'm james filby. 
+TIME TRAVELLER: was?
+JAMES FILBY: were you a friend of father's?
+TIME TRAVELLER: yes...yes...i've been away.
+JAMES FILBY: he was killed in the war...a year ago. time traveller no!...it can't be... i'm sorry to hear that. and the gentleman who used to live across the street?
+JAMES FILBY: oh, him. some inventor who disappeared around the turn of the century. - if you're interested in that house, forget it. you can't buy it or even go inside.
+TIME TRAVELLER: why is that?
+JAMES FILBY: my father was executor of the inventor's estate and he refused to liquidate it. i often chided him on that account, but he felt positive that the owner would return some day. - some people hereabouts think it's haunted. who are you, sir?
+TIME TRAVELLER: just a stranger who once knew your father.
+JAMES FILBY: i see. have you been at the front, sir?
+TIME TRAVELLER: front? what front?
+JAMES FILBY: why the war, of course.
+TIME TRAVELLER: what war?
+JAMES FILBY: great heavens, man, don't you know we've been at war with germany since nineteen fourteen? i thought perhaps you had seen action in france...or maybe... perhaps a cup of tea would make you feel better. won't you come in?
+TIME TRAVELLER: no...no, thank you.
+JAMES FILBY: you're sure you're alright, sir?
+TIME TRAVELLER: yes, i'm quite alright. james filby then...goodbye, sir.
+TIME TRAVELLER: goodbye, jaime.
 
-speaker1: suddenly, in nineteen forty i began to be buffeted from side to side. my first thought was that the machine had a mechanical defect or a part had worn out. 
-speaker1: the last time i had stopped was in nineteen seventeen, twenty three years ago. and the war with germany was still waging - now in the air with flying machines. it didn't seem possible they could go on fighting all these years and still have the means of fighting. then i realized the truth of the matter. this was a new war. there must have been an interval of peace in between these wars. yet they had learned nothing but to prepare even more effective means of destroying one another. i decided to push on into time and see the outcome.
+TIME TRAVELLER'S VOICE: suddenly, in nineteen forty i began to be buffeted from side to side. my first thought was that the machine had a mechanical defect or a part had worn out. 
+TIME TRAVELLER'S VOICE: the last time i had stopped was in nineteen seventeen, twenty three years ago. and the war with germany was still waging - now in the air with flying machines. it didn't seem possible they could go on fighting all these years and still have the means of fighting. then i realized the truth of the matter. this was a new war. there must have been an interval of peace in between these wars. yet they had learned nothing but to prepare even more effective means of destroying one another. i decided to push on into time and see the outcome.
 
-speaker1: i can't understand you. 
-speaker2: confounded radio in this thing.
-speaker1: filby!
-speaker2: my name is mister filby. - didn't you hear the air raid siren?
-speaker1: you mean that horrible screeching?
-speaker2: it wasn't constructed for its aesthetic values, you know, but to warn silly young fools like yourself to get down into the shelter. now go on.
-speaker1: but i'm perfectly comfortable and i find your store magnificent. what splendid achievements, what gigantic strides mankind has taken, what...
-speaker2: come on, young man. we'd better be going before the mushrooms start sprouting. you do look familiar. haven't we met somewhere before?
-speaker1: indeed we have. right here. many years ago.
-speaker2: i was sure of that, but the exact time escapes me.
-speaker1: it was two wars ago, i believe. nineteen seventeen. warden why now i recall. the chap who inquired about my father -- and the house that used to be across the way. but no...that's impossible. you haven't changed. you're not a day older. and your clothes...
-speaker1: i'm afraid it's going to take me a little time to explain... you see... there is an insistent, ear piecing siren. it lasts for three seconds.
-speaker2: the last alert...hurry!
+TIME TRAVELLER: i can't understand you. 
+WARDEN: confounded radio in this thing.
+TIME TRAVELLER: filby!
+WARDEN: my name is mister filby. - didn't you hear the air raid siren?
+TIME TRAVELLER: you mean that horrible screeching?
+WARDEN: it wasn't constructed for its aesthetic values, you know, but to warn silly young fools like yourself to get down into the shelter. now go on.
+TIME TRAVELLER: but i'm perfectly comfortable and i find your store magnificent. what splendid achievements, what gigantic strides mankind has taken, what...
+WARDEN: come on, young man. we'd better be going before the mushrooms start sprouting. you do look familiar. haven't we met somewhere before?
+TIME TRAVELLER: indeed we have. right here. many years ago.
+WARDEN: i was sure of that, but the exact time escapes me.
+TIME TRAVELLER: it was two wars ago, i believe. nineteen seventeen. warden why now i recall. the chap who inquired about my father -- and the house that used to be across the way. but no...that's impossible. you haven't changed. you're not a day older. and your clothes...
+TIME TRAVELLER: i'm afraid it's going to take me a little time to explain... you see... there is an insistent, ear piecing siren. it lasts for three seconds.
+WARDEN: the last alert...hurry!
 
-speaker1: listen to me! it's important. warden look! an atomic satellite zeroing in! that's important!! 
-speaker2: hurry! hide 'til the all clear!
-speaker1: all clear?
+TIME TRAVELLER: listen to me! it's important. warden look! an atomic satellite zeroing in! that's important!! 
+WARDEN: hurry! hide 'til the all clear!
+TIME TRAVELLER: all clear?
 
-speaker1: the labor of centuries gone in an instant. 
-speaker1: but then mother earth, aroused by man's violence, responded with volcanic violence or her own!
+TIME TRAVELLER'S VOICE: the labor of centuries gone in an instant. 
+TIME TRAVELLER'S VOICE: but then mother earth, aroused by man's violence, responded with volcanic violence or her own!
 
-speaker1: then i saw my own danger. i too was to be engulfed! 
-speaker1: but to go back was unthinkable.
+TIME TRAVELLER'S VOICE: then i saw my own danger. i too was to be engulfed! 
+TIME TRAVELLER'S VOICE: but to go back was unthinkable.
 
-speaker1: the molten rock cooled. 
-speaker1: darkness...darkness for centuries.
+TIME TRAVELLER'S VOICE: the molten rock cooled. 
+TIME TRAVELLER'S VOICE: darkness...darkness for centuries.
 
-speaker1: why did you? 
-speaker2: why did i what?
-speaker1: come after me. time traveller i did it to save your life, young lady, which i'm afraid doesn't hold much meaning for you or anyone else. the girl it doesn't.
-speaker2: must have been fifty of your friends watching you drown. not one of them so much as lifted a finger. - a curious attitude - in a curious world. aren't you the least bit interested in what i am...where i come from? the girl should i be? time traveller perhaps you'd better take me to someone a bit older i can talk to.
-speaker1: there is no one older.
-speaker2: doesn't anyone age in this land of yours?
-speaker2: what's your name?
-speaker1: weena.
-speaker2: how do you spell that?
-speaker3: spell?
-speaker2: write! - can't you write? look!
-speaker2: and what are your people called? weena eloi.
+THE GIRL: why did you? 
+TIME TRAVELLER: why did i what?
+THE GIRL: come after me. time traveller i did it to save your life, young lady, which i'm afraid doesn't hold much meaning for you or anyone else. the girl it doesn't.
+TIME TRAVELLER: must have been fifty of your friends watching you drown. not one of them so much as lifted a finger. - a curious attitude - in a curious world. aren't you the least bit interested in what i am...where i come from? the girl should i be? time traveller perhaps you'd better take me to someone a bit older i can talk to.
+THE GIRL: there is no one older.
+TIME TRAVELLER: doesn't anyone age in this land of yours?
+TIME TRAVELLER: what's your name?
+THE GIRL: weena.
+TIME TRAVELLER: how do you spell that?
+WEENA: spell?
+TIME TRAVELLER: write! - can't you write? look!
+TIME TRAVELLER: and what are your people called? weena eloi.
 
-speaker1: sir, perhaps curiosity has died. perhaps even courtesy has died, but i have come a long way and there are things i would like to know. young man why? 
-speaker1: because i shall return to my time and they will ask questions such as what kind of government rules your world.
-speaker2: we have no government. time traveller you must have a body of men who pass and enforce laws.
-speaker2: there are no laws. time traveller how do you get your food and clothing?
-speaker1: doesn't anyone work?
-speaker2: no. time traveller then where does this come from?
-speaker2: it grows. it always grows.
-speaker1: but it must be planted, cultivated, nurtured...unless... unless you have an economy so well organized that you can devote all your time to study and experimentation.
-speaker2: you ask many questions. time traveller yes! and i'm not ashamed of it. that is how man has learned and bettered himself. i must learn about you and your civilization. you have books, don't you? young man books. - books! yes, we have books. he rises and beckons. the time traveller's brow clears.
-speaker1: books will tell me what i want to know. books will tell me all about you.
+TIME TRAVELLER: sir, perhaps curiosity has died. perhaps even courtesy has died, but i have come a long way and there are things i would like to know. young man why? 
+TIME TRAVELLER: because i shall return to my time and they will ask questions such as what kind of government rules your world.
+MAN IN WHITE: we have no government. time traveller you must have a body of men who pass and enforce laws.
+MAN IN WHITE: there are no laws. time traveller how do you get your food and clothing?
+TIME TRAVELLER: doesn't anyone work?
+MAN IN WHITE: no. time traveller then where does this come from?
+MAN IN WHITE: it grows. it always grows.
+TIME TRAVELLER: but it must be planted, cultivated, nurtured...unless... unless you have an economy so well organized that you can devote all your time to study and experimentation.
+MAN IN WHITE: you ask many questions. time traveller yes! and i'm not ashamed of it. that is how man has learned and bettered himself. i must learn about you and your civilization. you have books, don't you? young man books. - books! yes, we have books. he rises and beckons. the time traveller's brow clears.
+TIME TRAVELLER: books will tell me what i want to know. books will tell me all about you.
 
-speaker1: yes...they do tell me all about you! 
-speaker1: what have you done? thousands of years of building and rebuilding creating and re-creating so that you can let it crumble to dust.
-speaker1: a million yesterdays of sensitive men dying for their dreams. for what? so you can swim and dance and play.
+TIME TRAVELLER: yes...they do tell me all about you! 
+TIME TRAVELLER: what have you done? thousands of years of building and rebuilding creating and re-creating so that you can let it crumble to dust.
+TIME TRAVELLER: a million yesterdays of sensitive men dying for their dreams. for what? so you can swim and dance and play.
 
-speaker1: i heard you pounding...i came to tell you... 
-speaker2: how do you open that panel?
-speaker1: no one opens it. only the morlocks.
-speaker2: morlocks? - who are the morlocks?
-speaker2: why are you afraid of the morlocks?
-speaker2: tell me.
-speaker1: when they call, we must go below.
-speaker2: do the morlocks live beneath the earth? why must you obey their command?
-speaker1: they give us the food we eat, the clothes we wear. we must do as they command.
-speaker2: what happens to your people when they go below? weena no one knows. no one has ever returned. time traveller it won't happen to you.
-speaker1: it is night.
-speaker2: only children are frightened by the dark. - but then you are a child, aren't you? i'll build a fire. weena let us go from here. time traveller i can't, child. my machine is inside there, i intend to wait here 'til morning, then find some way of getting inside. weena no, you must not. time traveller help me gather some wood.
+WEENA: i heard you pounding...i came to tell you... 
+TIME TRAVELLER: how do you open that panel?
+WEENA: no one opens it. only the morlocks.
+TIME TRAVELLER: morlocks? - who are the morlocks?
+TIME TRAVELLER: why are you afraid of the morlocks?
+TIME TRAVELLER: tell me.
+WEENA: when they call, we must go below.
+TIME TRAVELLER: do the morlocks live beneath the earth? why must you obey their command?
+WEENA: they give us the food we eat, the clothes we wear. we must do as they command.
+TIME TRAVELLER: what happens to your people when they go below? weena no one knows. no one has ever returned. time traveller it won't happen to you.
+WEENA: it is night.
+TIME TRAVELLER: only children are frightened by the dark. - but then you are a child, aren't you? i'll build a fire. weena let us go from here. time traveller i can't, child. my machine is inside there, i intend to wait here 'til morning, then find some way of getting inside. weena no, you must not. time traveller help me gather some wood.
 
-speaker1: where are you from? time traveller as a matter of fact, i'm from right here. there's where my house stood many thousands of years ago. here - to that monument, was my laboratory. about there was my library where i once sat talking with friends about my time machine. meanwhile, weena has seated herself near the bushes in the f.g. 
-speaker2: i hoped to learn a great deal. i hoped to take back the knowledge, the advancement, mankind made... instead what do i find? vegetables! meanwhile a pair of pale, hairy hands rise slowly from behind her.
+WEENA: where are you from? time traveller as a matter of fact, i'm from right here. there's where my house stood many thousands of years ago. here - to that monument, was my laboratory. about there was my library where i once sat talking with friends about my time machine. meanwhile, weena has seated herself near the bushes in the f.g. 
+TIME TRAVELLER'S VOICE: i hoped to learn a great deal. i hoped to take back the knowledge, the advancement, mankind made... instead what do i find? vegetables! meanwhile a pair of pale, hairy hands rise slowly from behind her.
 
-speaker1: i never saw it before. 
-speaker2: do you know that the first thing which separated man from the rest of the mammals was his knowledge of fire? no, i suppose you don't. the next great stride came with the discovery of the wheel. do you know what that is? i'm sorry i was angry with your people. i had no right to be. no more than if i had visited the island of bali in my own time. you were safe inside your great house, yet you came out into the night to warn me. the one characteristic which distinguished man from the animal kingdom was the spirit of self sacrifice. you have that quality, girl. i'm sure all of your people have it. all it requires is someone to reawaken it. i shall try if you'll let me. will you?
-speaker1: i do not understand you, but i believe you.
-speaker2: that's a good start. - now try to tell me...who or what are the morlocks? are they people or animals? what do you know about yourself? the past? don't your people ever speak of the past?
-speaker1: there is no past.
-speaker2: don't you ever wonder about the future?
-speaker1: there is no future.
+WEENA: i never saw it before. 
+TIME TRAVELLER: do you know that the first thing which separated man from the rest of the mammals was his knowledge of fire? no, i suppose you don't. the next great stride came with the discovery of the wheel. do you know what that is? i'm sorry i was angry with your people. i had no right to be. no more than if i had visited the island of bali in my own time. you were safe inside your great house, yet you came out into the night to warn me. the one characteristic which distinguished man from the animal kingdom was the spirit of self sacrifice. you have that quality, girl. i'm sure all of your people have it. all it requires is someone to reawaken it. i shall try if you'll let me. will you?
+WEENA: i do not understand you, but i believe you.
+TIME TRAVELLER: that's a good start. - now try to tell me...who or what are the morlocks? are they people or animals? what do you know about yourself? the past? don't your people ever speak of the past?
+WEENA: there is no past.
+TIME TRAVELLER: don't you ever wonder about the future?
+WEENA: there is no future.
 
-speaker1: listen! do you hear? weena yes. 
-speaker1: machines!
-speaker2: no...morlocks.
-speaker1: you mean those animals run machines?
-speaker2: they are morlocks.
-speaker1: i know, but have you seen the machines?
-speaker2: no, only heard of them.
-speaker1: who told you?
-speaker2: the talking rings.
-speaker1: what sort of rings?
-speaker2: rings that talk.
-speaker1: can you show me these rings?
+TIME TRAVELLER: listen! do you hear? weena yes. 
+TIME TRAVELLER: machines!
+WEENA: no...morlocks.
+TIME TRAVELLER: you mean those animals run machines?
+WEENA: they are morlocks.
+TIME TRAVELLER: i know, but have you seen the machines?
+WEENA: no, only heard of them.
+TIME TRAVELLER: who told you?
+WEENA: the talking rings.
+TIME TRAVELLER: what sort of rings?
+WEENA: rings that talk.
+TIME TRAVELLER: can you show me these rings?
 
-speaker1: are these the talking rings? 
-speaker2: yes.
-speaker1: they speak?
-speaker2: yes.
-speaker1: of what?
-speaker2: things no one here understands.
-speaker1: how do you get it to talk?
+TIME TRAVELLER: are these the talking rings? 
+WEENA: yes.
+TIME TRAVELLER: they speak?
+WEENA: yes.
+TIME TRAVELLER: of what?
+WEENA: things no one here understands.
+TIME TRAVELLER: how do you get it to talk?
 
-speaker1: you will not come back. 
-speaker2: i'll be back.
+WEENA: you will not come back. 
+TIME TRAVELLER: i'll be back.
 
-speaker1: what do you mean, all clear? man in white all clear! time traveller once....in the middle nineteen hundreds i heard a man... the falling bombs! that's over. gone. dead for hundreds of thousand of years. there are no more flying machines. 
-speaker2: yes, the rings have told us that story.
+TIME TRAVELLER: what do you mean, all clear? man in white all clear! time traveller once....in the middle nineteen hundreds i heard a man... the falling bombs! that's over. gone. dead for hundreds of thousand of years. there are no more flying machines. 
+MAN IN WHITE: yes, the rings have told us that story.
 
-speaker1: but you didn't listen. you didn't learn anything. all that is left is fear...a blind animal fear. ages ago men were taught to hide in the ground when the sirens blew... taught to run from a raining death... but those men are dead! and so are the men who slaughtered them. don't you understand? you are slaves of a dead past... you don't even own your souls. you're led to slaughter like sheep! man in white but there is nothing to fear now, it's all clear. 
-speaker1: what about those who went below?
-speaker2: they never come back. nobody can bring them back.
-speaker1: you can try. won't any of you even try? he sees that the situation is hopeless. time traveller well, someone has to try!
+TIME TRAVELLER: but you didn't listen. you didn't learn anything. all that is left is fear...a blind animal fear. ages ago men were taught to hide in the ground when the sirens blew... taught to run from a raining death... but those men are dead! and so are the men who slaughtered them. don't you understand? you are slaves of a dead past... you don't even own your souls. you're led to slaughter like sheep! man in white but there is nothing to fear now, it's all clear. 
+TIME TRAVELLER: what about those who went below?
+MAN IN WHITE: they never come back. nobody can bring them back.
+TIME TRAVELLER: you can try. won't any of you even try? he sees that the situation is hopeless. time traveller well, someone has to try!
 
-speaker1: weena! 
-speaker1: girl! come to your senses! all of you!
+T.T.: weena! 
+T.T.: girl! come to your senses! all of you!
 
-speaker1: eloi below him. 
-speaker2: weena! weena, get the torch!
+[PAGE 90 MISSING FROM HARD COPY]: eloi below him. 
+TIME TRAVELLER: weena! weena, get the torch!
 
-speaker1: from now on they would have to work to survive. and looking at their faces, i somehow knew that they could start over again. 
-speaker1: another night was coming, but this night no eloi needed to fear.
-speaker1: but what of me? - i was imprisoned in a world in which i did not belong.
+TIME TRAVELLER'S VOICE: from now on they would have to work to survive. and looking at their faces, i somehow knew that they could start over again. 
+TIME TRAVELLER'S VOICE: another night was coming, but this night no eloi needed to fear.
+TIME TRAVELLER'S VOICE: but what of me? - i was imprisoned in a world in which i did not belong.
 
-speaker1: are you sorry? he stops whistling, but the music continues. 
-speaker2: sorry? - sorry for what?
-speaker1: that you have to stay.
-speaker2: yes. - i am sorry because i could tell so much to the people of my own time... i could tell them about the happiness and sorrow the future has in store for them. they could learn from it...or would they?
-speaker1: you don't want to stay, do you?
-speaker2: it isn't that, but i don't fit here anymore than you would in my time.
-speaker1: i would like to see your time.
-speaker2: no, girl, you wouldn't be very happy there.
-speaker1: do you have someone like me - there?
-speaker2: no. no one like you. but there are friends who will miss me. - as a matter of fact, i'm probably late already.
-speaker1: women?
-speaker2: no, men. there is a woman too, of course! she looks after my house for me. she is sixty-two years old. - much older than you are. weena, relieved, starts to comb her wet hair into a new arrangement.
-speaker1: how do they wear their hair?
-speaker2: who?
-speaker1: the women in your time.
-speaker2: up!
-speaker1: up? - how?
-speaker2: like this.
-speaker1: show me.
+WEENA: are you sorry? he stops whistling, but the music continues. 
+TIME TRAVELLER: sorry? - sorry for what?
+WEENA: that you have to stay.
+TIME TRAVELLER: yes. - i am sorry because i could tell so much to the people of my own time... i could tell them about the happiness and sorrow the future has in store for them. they could learn from it...or would they?
+WEENA: you don't want to stay, do you?
+TIME TRAVELLER: it isn't that, but i don't fit here anymore than you would in my time.
+WEENA: i would like to see your time.
+TIME TRAVELLER: no, girl, you wouldn't be very happy there.
+WEENA: do you have someone like me - there?
+TIME TRAVELLER: no. no one like you. but there are friends who will miss me. - as a matter of fact, i'm probably late already.
+WEENA: women?
+TIME TRAVELLER: no, men. there is a woman too, of course! she looks after my house for me. she is sixty-two years old. - much older than you are. weena, relieved, starts to comb her wet hair into a new arrangement.
+WEENA: how do they wear their hair?
+TIME TRAVELLER: who?
+WEENA: the women in your time.
+TIME TRAVELLER: up!
+WEENA: up? - how?
+TIME TRAVELLER: like this.
+WEENA: show me.
 
-speaker1: would i be pretty? 
-speaker2: yes...you would be. more than pretty. i wish we could go back together, weena, back to my own time...or to times before that when the world was young. we could... excited voices o.s. interrupt this interlude. they both look in the direction of the voices.
+WEENA: would i be pretty? 
+TIME TRAVELLER: yes...you would be. more than pretty. i wish we could go back together, weena, back to my own time...or to times before that when the world was young. we could... excited voices o.s. interrupt this interlude. they both look in the direction of the voices.
 
-speaker1: it is ridiculous! simply preposterous! 
-speaker2: well, there's one thing i'll say for you, george. you always could tell a good story. best adventure yarn i've heard for years. you're a truly fine inventor, george! he alone starts to laugh at his 'joke', but a
-speaker3: i'll turn down your bed for you!
-speaker4: truthfully, where have you been for the past week?
-speaker2: now, we shouldn't ask such questions, walter. it's not hard for a man to lose a week now and then. time traveller i understand your doubt. take it as a lie if you wish. now that i'm back i scarcely believe it myself. except that... ...here are the flowers weena gave me. he places the blossoms on the table before filby. they are actually less than a day old and fairly fresh.
-speaker5: i don't think i can.
+DR. HILLYER: it is ridiculous! simply preposterous! 
+BRIDEWELL: well, there's one thing i'll say for you, george. you always could tell a good story. best adventure yarn i've heard for years. you're a truly fine inventor, george! he alone starts to laugh at his 'joke', but a
+MRS. WATCHETT: i'll turn down your bed for you!
+KEMP: truthfully, where have you been for the past week?
+BRIDEWELL: now, we shouldn't ask such questions, walter. it's not hard for a man to lose a week now and then. time traveller i understand your doubt. take it as a lie if you wish. now that i'm back i scarcely believe it myself. except that... ...here are the flowers weena gave me. he places the blossoms on the table before filby. they are actually less than a day old and fairly fresh.
+FILBY: i don't think i can.
 
-speaker1: are you coming, kemp. 
-speaker2: it's getting late and you look exhausted. you had better get some rest.
+DR. HILLYER: are you coming, kemp. 
+KEMP: it's getting late and you look exhausted. you had better get some rest.
 
-speaker1: goodnight, george. 
-speaker2: thank you, david, for being such a good friend - always.
+FILBY: goodnight, george. 
+TIME TRAVELLER: thank you, david, for being such a good friend - always.
 
-speaker1: what do you think, filby? filby one thing is certain. those flowers couldn't have possibly bloomed in the winter-time. hillyer you don't really think that story was true? 
-speaker2: look, you chaps go on. it's just a short walk home for me. hillyer go on, driver!
+KEMP: what do you think, filby? filby one thing is certain. those flowers couldn't have possibly bloomed in the winter-time. hillyer you don't really think that story was true? 
+FILBY: look, you chaps go on. it's just a short walk home for me. hillyer go on, driver!
 
-speaker1: but it isn't like george. - to return empty handed. to try to rebuild a civilization without a plan. he must have taken something with him. 
-speaker2: nothing.
-speaker2: nothing except three books.
-speaker1: which three books?
-speaker2: i don't know. -- is it important? filby no, i suppose not. - only...what three books would you have taken?
+FILBY: but it isn't like george. - to return empty handed. to try to rebuild a civilization without a plan. he must have taken something with him. 
+MRS. WATCHETT: nothing.
+MRS. WATCHETT: nothing except three books.
+FILBY: which three books?
+MRS. WATCHETT: i don't know. -- is it important? filby no, i suppose not. - only...what three books would you have taken?
 

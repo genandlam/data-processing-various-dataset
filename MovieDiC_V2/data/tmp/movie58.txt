@@ -1,684 +1,684 @@
-speaker1: my, what a darling picture! are you certain you only want the single? additional photos come in handy as gifts for grandma and grandpa or a wonderful remembrance for friends. 
-speaker2: that's all right, i'll just take the single.
-speaker3: uh-huh... yeah... done.
-speaker4: i saw you in another mall.
-speaker3: right... good for you.
-speaker4: you're not really santa. if you were santa you could do magic.
-speaker3: you want magic?
-speaker3: there, i just made you disappear.
-speaker3: ...that it?
-speaker3: ...thank christ.
+PHOTO ELF: my, what a darling picture! are you certain you only want the single? additional photos come in handy as gifts for grandma and grandpa or a wonderful remembrance for friends. 
+MOM: that's all right, i'll just take the single.
+SANTA: uh-huh... yeah... done.
+BRATTY KID: i saw you in another mall.
+SANTA: right... good for you.
+BRATTY KID: you're not really santa. if you were santa you could do magic.
+SANTA: you want magic?
+SANTA: there, i just made you disappear.
+SANTA: ...that it?
+SANTA: ...thank christ.
 
-speaker1: merry christmas, willie. 
-speaker2: up your ass.
-speaker1: have it your way, willie.
-speaker2: don't tell me which way to have it.
+SECURITY GUARD: merry christmas, willie. 
+SANTA: up your ass.
+SECURITY GUARD: have it your way, willie.
+SANTA: don't tell me which way to have it.
 
-speaker1: ready. 
-speaker2: 
+WILLIE: ready. 
+MARCUS: 
 
-speaker1: how's it goin'? 
-speaker2: i'm finished when i'm finished.
-speaker1: i'm goin' downstairs... i need a melon-bailer and a loofah.
-speaker2: got it.
-speaker1: the loofah, let's go.
+MARCUS: how's it goin'? 
+WILLIE: i'm finished when i'm finished.
+MARCUS: i'm goin' downstairs... i need a melon-bailer and a loofah.
+WILLIE: got it.
+MARCUS: the loofah, let's go.
 
-speaker1: marcus, did you get the loofah? 
-speaker2: drive.
+LOIS: marcus, did you get the loofah? 
+MARCUS: drive.
 
-speaker1: it! 
-speaker1: yeah baby!
+WILLIE: it! 
+WILLIE: yeah baby!
 
-speaker1: i got messages. go wash yourself. 
-speaker2: i'm a dancer, i sweat.
-speaker1: well you smell like a bum's nutsack.
-speaker2: you.
-speaker1: yeah, yeah.
-speaker3: mr. soke, this is andrew kaplan again from the collection agency -- boop!
-speaker4: willie, i don't care man, i'm not looking to blame anyone, but that diamond isn't a real stone, man. i took it to -- boop!
-speaker5: uh, hello, this is helen axelrod -- you ran into my car last week? well i called state farm but they have no record of any insurance policy for you and -- boop!
-speaker6: willie, it's marcus. it's that time of year again. pack your phoenix.
+WILLIE: i got messages. go wash yourself. 
+STRIPPER: i'm a dancer, i sweat.
+WILLIE: well you smell like a bum's nutsack.
+STRIPPER: you.
+WILLIE: yeah, yeah.
+VOICE: mr. soke, this is andrew kaplan again from the collection agency -- boop!
+ANOTHER VOICE: willie, i don't care man, i'm not looking to blame anyone, but that diamond isn't a real stone, man. i took it to -- boop!
+WOMAN'S VOICE: uh, hello, this is helen axelrod -- you ran into my car last week? well i called state farm but they have no record of any insurance policy for you and -- boop!
+MARCUS' VOICE: willie, it's marcus. it's that time of year again. pack your phoenix.
 
-speaker1: christ! can you maybe keep it together for just ten minutes?! 
-speaker1: for crying out loud, chew a few of these... you drunken, imbecile!
+MARCUS: christ! can you maybe keep it together for just ten minutes?! 
+MARCUS: for crying out loud, chew a few of these... you drunken, imbecile!
 
-speaker1: harrison, please i just let me explain. financially, the -- 
-speaker2: you get what you pay for, chipeska! five christmases i've given my heart -- my soul -- my love to these kids, and now what? now you flip me for some stranger who'll do it for peanuts and happens to work with a real midget! lemme tell you something: nobody cares! nobody comes here for the elf, santa's the attraction! i do burl ives songs; does this schmoe even play guitar?
-speaker1: harrison, it's not the money or the midget. believe me, if it was, i -- i don't think they like "midget". i think you're supposed to call them --
-speaker2: aw, forget it!
-speaker2: ...hacks!
-speaker1: hi. bob chipeska. i, please, i, uh -- please don't listen to him. great resume and photo by the way.
-speaker3: thanks... you know, we been at this a long time an' all, so we like to think we do a good job...
-speaker1: you two are the best men for the job. truly. so do not let his... unpleasantness affect your performance in any way.
-speaker3: oh no, we're fine, w --
-speaker4: performance?
-speaker1: yea. your performance... you know, the...
-speaker4: performance. like sexual?
-speaker1: excuse me?
-speaker3: willie no, he --
-speaker4: you saying there's something wrong with my gear?
-speaker3: willie...
-speaker1: i'm sorry. your gear?
-speaker4: you know... stick.
-speaker3: okay! we're gonna head upstairs now.
-speaker3: such a card.
-speaker1: he's not gonna say "fuck stick" in front of the children, is he?
-speaker3: no, no, no. joke. adult joke. for us. adults.
-speaker3: ...joke.
+CHIPESKA: harrison, please i just let me explain. financially, the -- 
+HARRISON: you get what you pay for, chipeska! five christmases i've given my heart -- my soul -- my love to these kids, and now what? now you flip me for some stranger who'll do it for peanuts and happens to work with a real midget! lemme tell you something: nobody cares! nobody comes here for the elf, santa's the attraction! i do burl ives songs; does this schmoe even play guitar?
+CHIPESKA: harrison, it's not the money or the midget. believe me, if it was, i -- i don't think they like "midget". i think you're supposed to call them --
+HARRISON: aw, forget it!
+HARRISON: ...hacks!
+CHIPESKA: hi. bob chipeska. i, please, i, uh -- please don't listen to him. great resume and photo by the way.
+MARCUS: thanks... you know, we been at this a long time an' all, so we like to think we do a good job...
+CHIPESKA: you two are the best men for the job. truly. so do not let his... unpleasantness affect your performance in any way.
+MARCUS: oh no, we're fine, w --
+WILLIE: performance?
+CHIPESKA: yea. your performance... you know, the...
+WILLIE: performance. like sexual?
+CHIPESKA: excuse me?
+MARCUS: willie no, he --
+WILLIE: you saying there's something wrong with my gear?
+MARCUS: willie...
+CHIPESKA: i'm sorry. your gear?
+WILLIE: you know... stick.
+MARCUS: okay! we're gonna head upstairs now.
+MARCUS: such a card.
+CHIPESKA: he's not gonna say "fuck stick" in front of the children, is he?
+MARCUS: no, no, no. joke. adult joke. for us. adults.
+MARCUS: ...joke.
 
-speaker1: merry christmas! santa's coming! 
-speaker1: what the you doing, "fuck stick" in front of the boss?
-speaker2: i don't like that guy.
-speaker1: you don't like any guy. you think i can't find another portly can run a water drill?
-speaker1: don't tempt my hand. you blow this and we're broke for the year. so stop acting like you know something because, pal of mine, you don't know squat. you're gum on my shoe.
-speaker2: yeah, yeah.
-speaker1: now put on your hat and get out there.
-speaker3: ...and try to act professional. for chrissake!
+MARCUS: merry christmas! santa's coming! 
+MARCUS: what the you doing, "fuck stick" in front of the boss?
+WILLIE: i don't like that guy.
+MARCUS: you don't like any guy. you think i can't find another portly can run a water drill?
+MARCUS: don't tempt my hand. you blow this and we're broke for the year. so stop acting like you know something because, pal of mine, you don't know squat. you're gum on my shoe.
+WILLIE: yeah, yeah.
+MARCUS: now put on your hat and get out there.
+MARCUS (CONT'D: ...and try to act professional. for chrissake!
 
-speaker1: all right, wuddya want? 
-speaker2: nintendo deer hunter 3.
-speaker1: fine. next.
-speaker1: yowwwch! watch the toenails willya?
-speaker1: ...wuddya want?
-speaker3: ...santa?
-speaker1: yeah, c'mon, c'mon, wuddya want?
-speaker3: um... barbie?
-speaker1: fine. next.
-speaker1: ...what do you want?
-speaker4: fraggle-stick car.
-speaker1: is that? fine, whatever, next.
-speaker1: ...next. next!
-speaker1: ...next, goddamnit! let's move it along -- this is not the dmv!
-speaker5: it's okay. c'mon.
-speaker5: what's your name?
-speaker5: ...you can tell me...
-speaker5: ...how about santa? if you don't tell him, you won't get a present.
-speaker5: ...that's right. let's tell santa.
-speaker1: what do you want? c'mon, wuddya want? a snot rag?
-speaker1: ...another mongoloid. marcus i get him outta here before he on me.
-speaker1: ...let it go, you little bastard.
-speaker6: it's not real.
-speaker1: it was real. the hair fell out when i got sick.
-speaker6: how'd you get sick?
-speaker1: i loved a woman who wasn't clean.
-speaker6: mrs. santa?
-speaker1: no, her sister. let the thing go.
-speaker6: what's it like at the north pole?
-speaker1: like the suburbs.
-speaker6: which one?
-speaker1: apache junction. what the do you care?
-speaker1: get the off my lap.
-speaker6: you are really santa, right?
-speaker1: no. no, i'm an accountant. i wear this as a fashion thing.
-speaker6: okay.
-speaker1: get that kid out of here, he's freaking me out.
+WILLIE: all right, wuddya want? 
+HEAVYSET BOY: nintendo deer hunter 3.
+WILLIE: fine. next.
+WILLIE: yowwwch! watch the toenails willya?
+WILLIE: ...wuddya want?
+LITTLE GIRL: ...santa?
+WILLIE: yeah, c'mon, c'mon, wuddya want?
+LITTLE GIRL: um... barbie?
+WILLIE: fine. next.
+WILLIE: ...what do you want?
+BOY: fraggle-stick car.
+WILLIE: is that? fine, whatever, next.
+WILLIE: ...next. next!
+WILLIE: ...next, goddamnit! let's move it along -- this is not the dmv!
+MARCUS: it's okay. c'mon.
+MARCUS: what's your name?
+MARCUS: ...you can tell me...
+MARCUS: ...how about santa? if you don't tell him, you won't get a present.
+MARCUS: ...that's right. let's tell santa.
+WILLIE: what do you want? c'mon, wuddya want? a snot rag?
+WILLIE: ...another mongoloid. marcus i get him outta here before he on me.
+WILLIE: ...let it go, you little bastard.
+KID: it's not real.
+WILLIE: it was real. the hair fell out when i got sick.
+KID: how'd you get sick?
+WILLIE: i loved a woman who wasn't clean.
+KID: mrs. santa?
+WILLIE: no, her sister. let the thing go.
+KID: what's it like at the north pole?
+WILLIE: like the suburbs.
+KID: which one?
+WILLIE: apache junction. what the do you care?
+WILLIE: get the off my lap.
+KID: you are really santa, right?
+WILLIE: no. no, i'm an accountant. i wear this as a fashion thing.
+KID: okay.
+WILLIE: get that kid out of here, he's freaking me out.
 
-speaker1: i gotta get a drink on. see ya tomorrow. 
-speaker2: just don't come in to work stinkin' of booze again.
-speaker1: don't worry about me. get going, you'll be late for your wizard of oz candy bar guild thing.
-speaker2: lollipop guild, two year olds flip me better'n you.
-speaker1: you tryin' to say something to me?
-speaker2: yeah. i'm gonna stick my whole fist up your ass.
+WILLIE: i gotta get a drink on. see ya tomorrow. 
+MARCUS: just don't come in to work stinkin' of booze again.
+WILLIE: don't worry about me. get going, you'll be late for your wizard of oz candy bar guild thing.
+MARCUS: lollipop guild, two year olds flip me better'n you.
+WILLIE: you tryin' to say something to me?
+MARCUS: yeah. i'm gonna stick my whole fist up your ass.
 
-speaker1: listen here buddy, let me make yourself perfectly clear. we don't like your kind coming around here in your red silk and satin clothes with your hunger for same-sex relationships. consider yourself warned. 
-speaker2: well fu-uck you!
-speaker1: i know that's what you'd like to do!
-speaker2: up yours, yufff -- a hand grabs his arm.
-speaker3: don't.
-speaker1: oh saved by a woman, mister no-pussy- please man!
-speaker4: he ain't worth it, sugar. he got hit on last week. didn't sit too well.
+TROUBLEMAKER: listen here buddy, let me make yourself perfectly clear. we don't like your kind coming around here in your red silk and satin clothes with your hunger for same-sex relationships. consider yourself warned. 
+WILLIE: well fu-uck you!
+TROUBLEMAKER: i know that's what you'd like to do!
+WILLIE: up yours, yufff -- a hand grabs his arm.
+VOICE: don't.
+TROUBLEMAKER: oh saved by a woman, mister no-pussy- please man!
+SUE: he ain't worth it, sugar. he got hit on last week. didn't sit too well.
 
-speaker1: ...this is not flagstaff! 
-speaker2: another grandad, santa?
-speaker3: yep.
-speaker2: got a name?
-speaker3: oh yeah. he pounds the drink.
-speaker2: what do you do? i mean, after the holidays?
-speaker3: nothing 'til march. then i'm the easter bunny.
-speaker2: ...another?
-speaker3: why not. buy you one?
-speaker2: why not. she pours two. they both pound them back.
-speaker2: ...not a big talker.
-speaker3: nah.
-speaker2: buy you one?
-speaker3: why not.
-speaker2: you're pretty regular, for a santa.
-speaker3: it's my job, no big deal. i'm an eating, drinking, shitting, santa claus.
-speaker2: prove it.
-speaker3: which?
+TROUBLEMAKER: ...this is not flagstaff! 
+SUE: another grandad, santa?
+WILLIE: yep.
+SUE: got a name?
+WILLIE: oh yeah. he pounds the drink.
+SUE: what do you do? i mean, after the holidays?
+WILLIE: nothing 'til march. then i'm the easter bunny.
+SUE: ...another?
+WILLIE: why not. buy you one?
+SUE: why not. she pours two. they both pound them back.
+SUE: ...not a big talker.
+WILLIE: nah.
+SUE: buy you one?
+WILLIE: why not.
+SUE: you're pretty regular, for a santa.
+WILLIE: it's my job, no big deal. i'm an eating, drinking, shitting, santa claus.
+SUE: prove it.
+WILLIE: which?
 
-speaker1: yes! yes! yes! 
-speaker2: me, santa! me, santa! the hat is slipping askew. he reaches for it.
-speaker1: at least lemme take off the hat!
+WILLIE: yes! yes! yes! 
+SUE: me, santa! me, santa! the hat is slipping askew. he reaches for it.
+WILLIE: at least lemme take off the hat!
 
-speaker1: i got a thing for santa claus, i don't know, i guess it's from early childhood. 
-speaker2: yeah, so's my thing for
-speaker1: maybe because my parents were jewish and never celebrated christmas. santa was sort of forbidden, you know?
-speaker1: i like you. most of the people around here are pretty uptight. my name is sue. here's my number.
-speaker1: ...don't mothball that suit!
+SUE: i got a thing for santa claus, i don't know, i guess it's from early childhood. 
+WILLIE: yeah, so's my thing for
+SUE: maybe because my parents were jewish and never celebrated christmas. santa was sort of forbidden, you know?
+SUE: i like you. most of the people around here are pretty uptight. my name is sue. here's my number.
+SUE: ...don't mothball that suit!
 
-speaker1: whoa-jesus! all right buddy, that's it... 
-speaker2: buddy? i said, i am not gay!
-speaker1: look, what's the problem pal, you go off your meds?
-speaker2: ...yes, but this isn't about that! you are queer as a ten dollar bill.
-speaker1: now you listen. my brother lost an arm fighting you people in vietnam, so i want you to take a good hard look at this face...
-speaker1: ...'cause it's the last thing you're gonna see before i knock your head off and sh --
-speaker2: who is the now, fat man?!
-speaker3: leave santa alone!
-speaker2: please little boy, i am doing this for all of us!
-speaker2: i think he has finished his cruising for tonight, hm?
-speaker1: you.
+WILLIE: whoa-jesus! all right buddy, that's it... 
+TROUBLEMAKER: buddy? i said, i am not gay!
+WILLIE: look, what's the problem pal, you go off your meds?
+TROUBLEMAKER: ...yes, but this isn't about that! you are queer as a ten dollar bill.
+WILLIE: now you listen. my brother lost an arm fighting you people in vietnam, so i want you to take a good hard look at this face...
+WILLIE: ...'cause it's the last thing you're gonna see before i knock your head off and sh --
+TROUBLEMAKER: who is the now, fat man?!
+PIPING VOICE: leave santa alone!
+TROUBLEMAKER: please little boy, i am doing this for all of us!
+TROUBLEMAKER: i think he has finished his cruising for tonight, hm?
+WILLIE: you.
 
-speaker1: this one time i take you home. 
-speaker2: uh-huh.
-speaker1: i'm not your dada.
-speaker2: uh-huh.
-speaker1: it's not as if you helped out with that nut-job.
-speaker2: uh-huh.
-speaker1: and you're right there to grab his balls.
-speaker2: uh-huh.
-speaker1: right height.
-speaker2: yeah.
-speaker1: twist 'em.
-speaker2: why do you need a car?
-speaker1: ...fuck you talkin' about?
-speaker2: this car.
-speaker1: whuh. which turn is it?
-speaker2: sage terrace. where's your sleigh?
-speaker1: repairs. in the shop.
-speaker2: where're the reindeer?
-speaker1: i stable 'em. is it gonna be left or right?
-speaker2: that way. where's the stable?
-speaker1: next to the shop.
-speaker2: how do they sleep?
-speaker1: who -- the reindeer? standing up.
-speaker2: but the noise, how do they sleep?
-speaker1: what noise?
-speaker2: from the shop.
-speaker1: they, uh, they only work during the day.
-speaker2: i thought it was always night at the north pole.
-speaker1: not now. now it's always day.
-speaker2: then how do they sleep?
-speaker1: well, they -- will you puh-leeez
-speaker1: ...what is it with you? somebody drop you on your head?
-speaker2: on my head?
-speaker1: what, are they gonna drop you on somebody else's head?
-speaker2: how can they drop me onto my own head?
-speaker1: not onto your own h -- are you
+WILLIE: this one time i take you home. 
+KID: uh-huh.
+WILLIE: i'm not your dada.
+KID: uh-huh.
+WILLIE: it's not as if you helped out with that nut-job.
+KID: uh-huh.
+WILLIE: and you're right there to grab his balls.
+KID: uh-huh.
+WILLIE: right height.
+KID: yeah.
+WILLIE: twist 'em.
+KID: why do you need a car?
+WILLIE: ...fuck you talkin' about?
+KID: this car.
+WILLIE: whuh. which turn is it?
+KID: sage terrace. where's your sleigh?
+WILLIE: repairs. in the shop.
+KID: where're the reindeer?
+WILLIE: i stable 'em. is it gonna be left or right?
+KID: that way. where's the stable?
+WILLIE: next to the shop.
+KID: how do they sleep?
+WILLIE: who -- the reindeer? standing up.
+KID: but the noise, how do they sleep?
+WILLIE: what noise?
+KID: from the shop.
+WILLIE: they, uh, they only work during the day.
+KID: i thought it was always night at the north pole.
+WILLIE: not now. now it's always day.
+KID: then how do they sleep?
+WILLIE: well, they -- will you puh-leeez
+WILLIE: ...what is it with you? somebody drop you on your head?
+KID: on my head?
+WILLIE: what, are they gonna drop you on somebody else's head?
+KID: how can they drop me onto my own head?
+WILLIE: not onto your own h -- are you
 
-speaker1: nice digs. daddy home? 
-speaker2: he's on a adventure 'sploring mountains. he been gone a long time.
-speaker1: exploring mountains? when's he coming back?
-speaker2: next year.
-speaker1: what about mommy?
-speaker2: she lives in house with and mary and the ghost and the long- eared donkey and joseph and the talking walnut.
-speaker1: who the takes care of you then?
-speaker2: granma.
-speaker1: really... what's her name?
-speaker2: granma.
-speaker1: uh-huh. is granny spry?
+WILLIE: nice digs. daddy home? 
+KID: he's on a adventure 'sploring mountains. he been gone a long time.
+WILLIE: exploring mountains? when's he coming back?
+KID: next year.
+WILLIE: what about mommy?
+KID: she lives in house with and mary and the ghost and the long- eared donkey and joseph and the talking walnut.
+WILLIE: who the takes care of you then?
+KID: granma.
+WILLIE: really... what's her name?
+KID: granma.
+WILLIE: uh-huh. is granny spry?
 
-speaker1: granma, santa's here. are you spry? 
-speaker2: roger! you're home. let me fix you some sandwiches.
-speaker3: so you're tellin' me no one else is here?
-speaker3: ...no aunts, no uncles, no cousins?
-speaker3: ...butler, security guard? nothin'?
-speaker1: nuh-uh.
-speaker3: daddy got a safe?
+KID: granma, santa's here. are you spry? 
+GRANDMA: roger! you're home. let me fix you some sandwiches.
+WILLIE: so you're tellin' me no one else is here?
+WILLIE: ...no aunts, no uncles, no cousins?
+WILLIE: ...butler, security guard? nothin'?
+KID: nuh-uh.
+WILLIE: daddy got a safe?
 
-speaker1: you need money to fix your sleigh? 
-speaker2: huh? yeah, whateverthefuck...
-speaker1: you want milk and cookies?
-speaker2: daddy got a car?
+KID: you need money to fix your sleigh? 
+WILLIE: huh? yeah, whateverthefuck...
+KID: you want milk and cookies?
+WILLIE: daddy got a car?
 
-speaker1: "fuck stick"? 
-speaker2: yes, i thought it was strange too, but you know, i, i, i, i, uh, i, his little friend promised he wouldn't say it in front of the children. which is fine because, you know, urn, there's an adult world and a child's world and that's okay. i'm not a censor.
-speaker1: little friend?
-speaker2: yes, a, a, a dwarf. or midget... a, a, i don't know what he's called exactly but... a little guy. little. billy barty. rest. but thin fingers. not the fat sausage fingers.
-speaker1: "little people," that's what they like.
-speaker2: ah, yes, right.
-speaker1: so "fuck stick," that's all?
-speaker2: well, no, there was something else...
+GIN: "fuck stick"? 
+CHIPESKA: yes, i thought it was strange too, but you know, i, i, i, i, uh, i, his little friend promised he wouldn't say it in front of the children. which is fine because, you know, urn, there's an adult world and a child's world and that's okay. i'm not a censor.
+GIN: little friend?
+CHIPESKA: yes, a, a, a dwarf. or midget... a, a, i don't know what he's called exactly but... a little guy. little. billy barty. rest. but thin fingers. not the fat sausage fingers.
+GIN: "little people," that's what they like.
+CHIPESKA: ah, yes, right.
+GIN: so "fuck stick," that's all?
+CHIPESKA: well, no, there was something else...
 
-speaker1: ...a couple of days ago i was in women's big and tall? -- a sign reads: "three times a lady". 
-speaker1: and i heard these, urn, you know, these... noises.
-speaker2: oh yeah! oh yeah!
-speaker3: yeah! yeah! you ain't gonna right for a week!
-speaker1: now don't get me wrong. i was against the clinton impeachment. what a man does with his -- oval office, women's big and tall -- it's not for the american people to say.
-speaker4: right.
-speaker1: but when you're dealing with children, a tender sensibility, a position of trust -- then perhaps, someone who has screaming with large women --
-speaker4: mm.
-speaker1: though i can't fire him for that.
-speaker4: no.
-speaker1: sizisra. they'd say.
-speaker4: sure.
-speaker1: not true. i am no siziat. but i can see the picket line now.
-speaker4: yeah, a big fat one.
-speaker1: they'd all say, if it had been a supermodel or, uh...
-speaker4: heeyeah. unfair practices. a lot of special pleading. broads.
-speaker1: but -- i can't help it -- the guy makes me uneasy.
-speaker4: well sure. santa someone in the ass.
-speaker1: so maybe there's something i could fire him for.
-speaker4: yeah. yeah. i getcha.
-speaker1: do you? do you think you could find something?
-speaker4: oh yeah. there's always something.
+CHIPESKA: ...a couple of days ago i was in women's big and tall? -- a sign reads: "three times a lady". 
+CHIPESKA: and i heard these, urn, you know, these... noises.
+FEMALE VOICE: oh yeah! oh yeah!
+WILLIE'S VOICE: yeah! yeah! you ain't gonna right for a week!
+CHIPESKA: now don't get me wrong. i was against the clinton impeachment. what a man does with his -- oval office, women's big and tall -- it's not for the american people to say.
+GIN: right.
+CHIPESKA: but when you're dealing with children, a tender sensibility, a position of trust -- then perhaps, someone who has screaming with large women --
+GIN: mm.
+CHIPESKA: though i can't fire him for that.
+GIN: no.
+CHIPESKA: sizisra. they'd say.
+GIN: sure.
+CHIPESKA: not true. i am no siziat. but i can see the picket line now.
+GIN: yeah, a big fat one.
+CHIPESKA: they'd all say, if it had been a supermodel or, uh...
+GIN: heeyeah. unfair practices. a lot of special pleading. broads.
+CHIPESKA: but -- i can't help it -- the guy makes me uneasy.
+GIN: well sure. santa someone in the ass.
+CHIPESKA: so maybe there's something i could fire him for.
+GIN: yeah. yeah. i getcha.
+CHIPESKA: do you? do you think you could find something?
+GIN: oh yeah. there's always something.
 
-speaker1: ...motherfucker... oh, you lousy motherfuck... 
-speaker1: that's just the kinda that's gonna get us pinched!
-speaker2: she said she was eighteen.
-speaker1: you promised no arcades! you said you'd only hustle big and tall!
-speaker2: ah, it's like shooting fish in a barrel -- there's no sport,
-speaker1: how many times, you "the bigger the store, the bigger the take." well, we can't work the big stores with your big train wrecks!
-speaker2: you got some nerve you little ya! you my mom now?! you shat me out your womb, is that it? you gotta take care of me!? well i can take care of myself and i don't need no lectures! i know how to keep a low profile!
-speaker1: what the is this?!
-speaker2: mind your own business.
-speaker1: you cocksucker!
+MARCUS: ...motherfucker... oh, you lousy motherfuck... 
+MARCUS: that's just the kinda that's gonna get us pinched!
+WILLIE: she said she was eighteen.
+MARCUS: you promised no arcades! you said you'd only hustle big and tall!
+WILLIE: ah, it's like shooting fish in a barrel -- there's no sport,
+MARCUS: how many times, you "the bigger the store, the bigger the take." well, we can't work the big stores with your big train wrecks!
+WILLIE: you got some nerve you little ya! you my mom now?! you shat me out your womb, is that it? you gotta take care of me!? well i can take care of myself and i don't need no lectures! i know how to keep a low profile!
+MARCUS: what the is this?!
+WILLIE: mind your own business.
+MARCUS: you cocksucker!
 
-speaker1: opal, come here. 
-speaker2: screw you, willie -- last time i didn't right for a week.
-speaker1: no, not that -- come here!
-speaker1: who the fuck's in my room, did you see someone go into my room?
-speaker2: yeah some guy askin' 'boutcha -- looked like a cop.
-speaker1: ah
-speaker3: what guy?! you get a look at him?
+WILLIE: opal, come here. 
+OPAL: screw you, willie -- last time i didn't right for a week.
+WILLIE: no, not that -- come here!
+WILLIE: who the fuck's in my room, did you see someone go into my room?
+OPAL: yeah some guy askin' 'boutcha -- looked like a cop.
+WILLIE: ah
+MARCUS: what guy?! you get a look at him?
 
-speaker1: no, i think it's a cop though. you think someone's onto us? 
-speaker2: is there anything in the room? anything professional?
-speaker1: no. clothes.
-speaker2: just ditch. you got anywhere to sack out for a while?
+WILLIE: no, i think it's a cop though. you think someone's onto us? 
+MARCUS: is there anything in the room? anything professional?
+WILLIE: no. clothes.
+MARCUS: just ditch. you got anywhere to sack out for a while?
 
-speaker1: santa! 
-speaker2: yeah.
-speaker1: you're bringing my present early?
+KID: santa! 
+WILLIE: yeah.
+KID: you're bringing my present early?
 
-speaker1: but i never told you what i wanted. 
-speaker2: i said i didn't bring it, dipshit.
-speaker1: okay. good. i want a stuffed elephant. a pink one.
-speaker2: yeah, well...
-speaker2: ...wish in one hand and in the other, see which fills up faster.
-speaker1: okay.
-speaker2: i'm gonna be staying here a while. things are all up at the north pole. mrs. santa, she... she walked in on me her sister. so i'm out on my ass. she's taking half of everything... this'll do.
+KID: but i never told you what i wanted. 
+WILLIE: i said i didn't bring it, dipshit.
+KID: okay. good. i want a stuffed elephant. a pink one.
+WILLIE: yeah, well...
+WILLIE: ...wish in one hand and in the other, see which fills up faster.
+KID: okay.
+WILLIE: i'm gonna be staying here a while. things are all up at the north pole. mrs. santa, she... she walked in on me her sister. so i'm out on my ass. she's taking half of everything... this'll do.
 
-speaker1: ...i'm gonna crash here. you and me, like, you know, bachelors. 
-speaker2: do you and mrs. santa have kids?
-speaker1: no. thank the christ.
-speaker2: what about the elves?
-speaker1: yeah, well, them. they stay with mrs. santa. i get 'em on weekends. run me a bath, will ya?
-speaker2: what about the reindeer?
-speaker1: don't start with the reindeer.
+WILLIE: ...i'm gonna crash here. you and me, like, you know, bachelors. 
+KID: do you and mrs. santa have kids?
+WILLIE: no. thank the christ.
+KID: what about the elves?
+WILLIE: yeah, well, them. they stay with mrs. santa. i get 'em on weekends. run me a bath, will ya?
+KID: what about the reindeer?
+WILLIE: don't start with the reindeer.
 
-speaker1: ...what're their names? 
-speaker2: ...who?
-speaker1: the elves.
-speaker2: oh, i -- i can't remember... sneezy, and dopey --
-speaker1: that's the seven dwarves.
-speaker2: is that not...? i just -- i don't know, i'll just say, hey, bub -- look, i...
+KID: ...what're their names? 
+WILLIE: ...who?
+KID: the elves.
+WILLIE: oh, i -- i can't remember... sneezy, and dopey --
+KID: that's the seven dwarves.
+WILLIE: is that not...? i just -- i don't know, i'll just say, hey, bub -- look, i...
 
-speaker1: you want cookies? 
-speaker2: no.
-speaker1: warm milk?
-speaker2: no.
-speaker1: should i fix you some sandwiches?
-speaker2: what is with the fixing sandwiches? no.
-speaker1: okay. you want anything else?
-speaker2: no. as soon as the bed stops moving i'm going to sleep...
-speaker1: okay.
-speaker2: ...wake me up... when the little hand is on the... a long beat.
-speaker1: okay.
+KID: you want cookies? 
+WILLIE: no.
+KID: warm milk?
+WILLIE: no.
+KID: should i fix you some sandwiches?
+WILLIE: what is with the fixing sandwiches? no.
+KID: okay. you want anything else?
+WILLIE: no. as soon as the bed stops moving i'm going to sleep...
+KID: okay.
+WILLIE: ...wake me up... when the little hand is on the... a long beat.
+KID: okay.
 
-speaker1: can i help you, ma'am? 
-speaker2: just looking.
+SALESWOMAN: can i help you, ma'am? 
+LOIS: just looking.
 
-speaker1: help you with anything, ma'am? 
-speaker2: just looking.
-speaker3: me? you!
-speaker4: you can't just take up with some kid! you don't know who's around, what they do!
-speaker3: you got some nerve you little ya. you my mom now?! you shat me out your --
-speaker4: you said that last night you stupid
-speaker3: ah, you!
-speaker4: you are by far the dumbest most pathetic piece of maggot-eaten that has ever slid from gilded ass! what if the kid has one of those play-dates they have now?
-speaker3: you shittin' me?! he doesn't have friends! not even an imaginary one! unless he got ditched by him! he's just a misfit! lives with his grandma who sits drooling in front of the tv! every once in a while she gets up to play soccer with her tits! what, she's gon' rat me out? she don't know her from last tuesday!
-speaker4: you her?
-speaker3: why is everything with you?
-speaker4: with me? i one person, i ain't out there serial fornicating, trying to float my liver! drinkin' myself silly 'cause i can't stand what a piece of i am!
-speaker3: what're you, sigmund sawed- off freud? the shrunken shrink?
-speaker4: yeah, that's right, shit-for-brains, talk about my height. make it about something safe. 'cause you're an emotional cripple. your soul is dog every single thing about you is ugly.
-speaker3: yeah? well... you.
-speaker4: i've seen warts more attractive than you.
-speaker5: oh, look who's here jimmy! it's santa! let's tell him what you want for christmas.
+SALESMAN: help you with anything, ma'am? 
+LOIS: just looking.
+WILLIE: me? you!
+MARCUS: you can't just take up with some kid! you don't know who's around, what they do!
+WILLIE: you got some nerve you little ya. you my mom now?! you shat me out your --
+MARCUS: you said that last night you stupid
+WILLIE: ah, you!
+MARCUS: you are by far the dumbest most pathetic piece of maggot-eaten that has ever slid from gilded ass! what if the kid has one of those play-dates they have now?
+WILLIE: you shittin' me?! he doesn't have friends! not even an imaginary one! unless he got ditched by him! he's just a misfit! lives with his grandma who sits drooling in front of the tv! every once in a while she gets up to play soccer with her tits! what, she's gon' rat me out? she don't know her from last tuesday!
+MARCUS: you her?
+WILLIE: why is everything with you?
+MARCUS: with me? i one person, i ain't out there serial fornicating, trying to float my liver! drinkin' myself silly 'cause i can't stand what a piece of i am!
+WILLIE: what're you, sigmund sawed- off freud? the shrunken shrink?
+MARCUS: yeah, that's right, shit-for-brains, talk about my height. make it about something safe. 'cause you're an emotional cripple. your soul is dog every single thing about you is ugly.
+WILLIE: yeah? well... you.
+MARCUS: i've seen warts more attractive than you.
+WOMAN: oh, look who's here jimmy! it's santa! let's tell him what you want for christmas.
 
-speaker1: are you insane?!! how dare you talk like that in front of a child! the management is going to hear about this... i'm going to have you fired! 
-speaker2: that's a threat? you think you can make my life any worse, you go ahead, be my guest!
+WOMAN: are you insane?!! how dare you talk like that in front of a child! the management is going to hear about this... i'm going to have you fired! 
+WILLIE: that's a threat? you think you can make my life any worse, you go ahead, be my guest!
 
-speaker1: refill? 
-speaker2: mm.
-speaker2: nice place you got. needs a bit of a woman's touch, but it's really nice.
-speaker1: it's okay. just renting.
-speaker2: thanks... so how long will you -- urn...
-speaker2: ...how long you gonna be here?
-speaker1: through the holidays.
-speaker2: so what's the thing, you like kids?
-speaker1: no! whaddya think i'm some kind of pervert?
-speaker2: wha? i'm talking about you being santa.
-speaker1: oh. no, see, the thing is... i'm not really santa.
-speaker2: oh. ...well -- still -- i gotta thing for you anyway -- c'mere...
+WILLIE: refill? 
+SUE: mm.
+SUE: nice place you got. needs a bit of a woman's touch, but it's really nice.
+WILLIE: it's okay. just renting.
+SUE: thanks... so how long will you -- urn...
+SUE: ...how long you gonna be here?
+WILLIE: through the holidays.
+SUE: so what's the thing, you like kids?
+WILLIE: no! whaddya think i'm some kind of pervert?
+SUE: wha? i'm talking about you being santa.
+WILLIE: oh. no, see, the thing is... i'm not really santa.
+SUE: oh. ...well -- still -- i gotta thing for you anyway -- c'mere...
 
-speaker1: so i'll see you soon i guess, right? 
-speaker2: yeah, i'm gonna send you some flowers. real good expensive ones.
+SUE: so i'll see you soon i guess, right? 
+WILLIE: yeah, i'm gonna send you some flowers. real good expensive ones.
 
-speaker1: whuh... 
-speaker2: roger! you're home! let me fix you some sandwiches.
-speaker1: what the...
-speaker1: what the did you do?
-speaker1: ...lemme look at it. what the happened?
-speaker3: ...i cut myself by mistake.
-speaker1: i forgot to tell ya, that'll sting. okay now!
-speaker1: ...well
-speaker1: ...don' t you want me to wrap it in a t-shirt or something?
+WILLIE: whuh... 
+GRANDMA: roger! you're home! let me fix you some sandwiches.
+WILLIE: what the...
+WILLIE: what the did you do?
+WILLIE: ...lemme look at it. what the happened?
+KID: ...i cut myself by mistake.
+WILLIE: i forgot to tell ya, that'll sting. okay now!
+WILLIE: ...well
+WILLIE: ...don' t you want me to wrap it in a t-shirt or something?
 
-speaker1: kids, lemmme tell ya... 
-speaker1: ...they'll run ya ragged.
+WILLIE: kids, lemmme tell ya... 
+WILLIE: ...they'll run ya ragged.
 
-speaker1: morning boys. 
-speaker2: morning jesse.
-speaker1: ho! ho! ho!
-speaker3: up your ass.
+JESSE: morning boys. 
+MARCUS: morning jesse.
+JESSE: ho! ho! ho!
+WILLIE: up your ass.
 
-speaker1:  
-speaker2: you tear your ball again?
-speaker1: no, it's okay.
-speaker2: let's do the other thing.
-speaker2: there.
+WILLIE:  
+MARCUS: you tear your ball again?
+WILLIE: no, it's okay.
+MARCUS: let's do the other thing.
+MARCUS: there.
 
-speaker1: who are you? 
-speaker2: your name roger merman?
-speaker1: yes, but --
-speaker2: doing three-to-six for embezzlement?
-speaker1: ...many accounting questions are not cut-and-dried --
-speaker2: you live at 41 sage terrace?
-speaker1: is it granma? is my son alright?
-speaker2: they're fine. do you have any house guests?
-speaker1: ...house guests?
-speaker2: thanks much for your time. bless.
-speaker1: ...who are you? who are you?
+PRISONER: who are you? 
+GIN: your name roger merman?
+PRISONER: yes, but --
+GIN: doing three-to-six for embezzlement?
+PRISONER: ...many accounting questions are not cut-and-dried --
+GIN: you live at 41 sage terrace?
+PRISONER: is it granma? is my son alright?
+GIN: they're fine. do you have any house guests?
+PRISONER: ...house guests?
+GIN: thanks much for your time. bless.
+PRISONER: ...who are you? who are you?
 
-speaker1: well, it's 
-speaker2: ...yeah?
-speaker1: yeah. frankly.
-speaker2: he's...
-speaker1: clean.
-speaker2: oh.
-speaker1: as a whistle.
-speaker2: nothing?
-speaker1: no. nothing. i mean, he curses, yeah. but never around children.
-speaker2: oh.
-speaker1: no criminal record, no parking tickets f'christ's sake, no bad habits, even. sex, yeah. but man is a sexual being.
-speaker2: yeah.
-speaker1: darwinian. can't do about that, jack.
+GIN: well, it's 
+CHIPESKA: ...yeah?
+GIN: yeah. frankly.
+CHIPESKA: he's...
+GIN: clean.
+CHIPESKA: oh.
+GIN: as a whistle.
+CHIPESKA: nothing?
+GIN: no. nothing. i mean, he curses, yeah. but never around children.
+CHIPESKA: oh.
+GIN: no criminal record, no parking tickets f'christ's sake, no bad habits, even. sex, yeah. but man is a sexual being.
+CHIPESKA: yeah.
+GIN: darwinian. can't do about that, jack.
 
-speaker1: wouldn't want to. 
-speaker2: yeah. no. of course not. i'm not advocating celibacy.
-speaker1: hope not. end of the human race.
-speaker2: yes.
-speaker1: large women. what can i say.
+GIN: wouldn't want to. 
+CHIPESKA: yeah. no. of course not. i'm not advocating celibacy.
+GIN: hope not. end of the human race.
+CHIPESKA: yes.
+GIN: large women. what can i say.
 
-speaker1: loser! dipshit! 
-speaker2: wedgie!
+VOICES: loser! dipshit! 
+VOICE: wedgie!
 
-speaker1: pokemon. 
-speaker2: done.
-speaker3: next!
-speaker4: santa here?
-speaker3: oh jeez.
-speaker2: is that your underwear?
-speaker4: part of it.
-speaker2: where's the rest? never mind. what do you want?
-speaker4: i was thinking i wanted a purple stuffed elephant, not pink, but now i changed my mind.
-speaker2: what.
-speaker4: now i don't want an elephant at all. i want a gorilla named davy for beating up the skateboard kids who pull on my underwear and he could take his orders from the talking walnut so it wouldn't be my bad thing.
-speaker2: ...you know when i was your age, i didn't need no gorilla, and i wasn't any bigger than you. one day i came crying home to dad because four kids had beat me up, and you know what he did?'
-speaker4: he make it all better?
-speaker2: no. he kicked my ass. you know why?
-speaker4: you went bathroom on mommy's dishes?
-speaker2: what the no.
-speaker4: he try to teach you not to cry and be a man.
-speaker2: nope, it was because he was a mean, drunk son of a when he wasn't busy busting my ass, he was puttin' out cigarettes on my neck.
-speaker4: uh-huh...
-speaker2: the world's unfair -- it don't give ya nothing. you can wish all you want but you gotta take what you need. stand up for yourself... stop being such a and kick those kids in the or something. or don't, i don't give a just leave me the out of it.
-speaker4: 'kay. thanks, santa.
-speaker2: okay, go ahead...
-speaker2: ...get the outta here...
-speaker4: 'kay...
-speaker3: what gives? where's the grandson?
-speaker5: open the rope there, marcus.
-speaker3: i know you?
-speaker5: not yet.
-speaker2: santa don't do grab-ass, cowboy.
-speaker5: act natural.
-speaker2: huh? what?
-speaker2: ...what the
-speaker5: you are willie tugboat soke and you are marcus "the prince" skidmore. on christmas eve, you're gonna rob this store blind. what say we go somewhere private?
-speaker5: research, that's how. i'm a department store detective sherlock, that's what i do. seven cities in seven years. pretty impressive. the stores change, your names change. you always get away clean. yeah, pretty darn impressive. but let's face facts -- you all are a couple of half-bucket small-timers. because of your physical attributes you've found a niche. i respect that. but you've also been caught. by me. so this is the way how we gonna do things. i don't want to take over, i don't even want to change your scam. whatever you guys do, it works. all i want is a taste. when the deed is done, we part ways. i buy a ranch in havasu, you take your little medicine show back on the road.
-speaker3: how much?
-speaker5: half.
-speaker2: now you listen here, you -- marcus pulls him off.
-speaker3: easy! easy! just back off, willie. i can handle this.
-speaker3: okay. thirty percent. there's three of us. thirty percent. that's fair.
-speaker5: half.
-speaker3: i meant thirty-three.
-speaker5: half.
-speaker3: and a third.
-speaker5: half.
-speaker3: thirty-five.
-speaker5: half.
-speaker3: forty.
-speaker5: half.
-speaker3: forty-two?
-speaker5: half.
-speaker3: forty-two five.
-speaker5: half.
-speaker3: fooooooorty... eight.
-speaker5: half.
-speaker3: forty-nine?
-speaker5: half.
-speaker3: well...
-speaker3: ...what's one point.
-speaker5: down the middle on the dough, and any merchandise you take i look over and cherry-pick.
-speaker3: no! money's one thing, but â—--
-speaker5: it ain't chinese menu, jagoff. i tell yea how the way it's gonna be. this is pricks ficks.
-speaker2: ...pricks ficks?
-speaker3: ah, he's a moron.
-speaker2: yeah, well i guess that's how you got the upper hand.
-speaker3: you.
-speaker2: negotiating.
-speaker3: you -- you don't like it, next year, off. i can always get another box jockey.
-speaker2: yeah, and i can get another midget.
-speaker3: yeah? where? you see us hangin' off of trees? like crab apples? and even if we did, you'd never front your own racket. 'cause you got no discipline and zero initiative. you'd fall apart without me. you're just too pathetic --
-speaker2: yeah, yeah.
-speaker3: -- too pathetic for words, you loser. and you know it.
+CHILD: pokemon. 
+WILLIE: done.
+MARCUS: next!
+KID: santa here?
+MARCUS: oh jeez.
+WILLIE: is that your underwear?
+KID: part of it.
+WILLIE: where's the rest? never mind. what do you want?
+KID: i was thinking i wanted a purple stuffed elephant, not pink, but now i changed my mind.
+WILLIE: what.
+KID: now i don't want an elephant at all. i want a gorilla named davy for beating up the skateboard kids who pull on my underwear and he could take his orders from the talking walnut so it wouldn't be my bad thing.
+WILLIE: ...you know when i was your age, i didn't need no gorilla, and i wasn't any bigger than you. one day i came crying home to dad because four kids had beat me up, and you know what he did?'
+KID: he make it all better?
+WILLIE: no. he kicked my ass. you know why?
+KID: you went bathroom on mommy's dishes?
+WILLIE: what the no.
+KID: he try to teach you not to cry and be a man.
+WILLIE: nope, it was because he was a mean, drunk son of a when he wasn't busy busting my ass, he was puttin' out cigarettes on my neck.
+KID: uh-huh...
+WILLIE: the world's unfair -- it don't give ya nothing. you can wish all you want but you gotta take what you need. stand up for yourself... stop being such a and kick those kids in the or something. or don't, i don't give a just leave me the out of it.
+KID: 'kay. thanks, santa.
+WILLIE: okay, go ahead...
+WILLIE: ...get the outta here...
+KID: 'kay...
+MARCUS: what gives? where's the grandson?
+GIN: open the rope there, marcus.
+MARCUS: i know you?
+GIN: not yet.
+WILLIE: santa don't do grab-ass, cowboy.
+GIN: act natural.
+WILLIE: huh? what?
+WILLIE: ...what the
+GIN: you are willie tugboat soke and you are marcus "the prince" skidmore. on christmas eve, you're gonna rob this store blind. what say we go somewhere private?
+GIN: research, that's how. i'm a department store detective sherlock, that's what i do. seven cities in seven years. pretty impressive. the stores change, your names change. you always get away clean. yeah, pretty darn impressive. but let's face facts -- you all are a couple of half-bucket small-timers. because of your physical attributes you've found a niche. i respect that. but you've also been caught. by me. so this is the way how we gonna do things. i don't want to take over, i don't even want to change your scam. whatever you guys do, it works. all i want is a taste. when the deed is done, we part ways. i buy a ranch in havasu, you take your little medicine show back on the road.
+MARCUS: how much?
+GIN: half.
+WILLIE: now you listen here, you -- marcus pulls him off.
+MARCUS: easy! easy! just back off, willie. i can handle this.
+MARCUS: okay. thirty percent. there's three of us. thirty percent. that's fair.
+GIN: half.
+MARCUS: i meant thirty-three.
+GIN: half.
+MARCUS: and a third.
+GIN: half.
+MARCUS: thirty-five.
+GIN: half.
+MARCUS: forty.
+GIN: half.
+MARCUS: forty-two?
+GIN: half.
+MARCUS: forty-two five.
+GIN: half.
+MARCUS: fooooooorty... eight.
+GIN: half.
+MARCUS: forty-nine?
+GIN: half.
+MARCUS: well...
+MARCUS: ...what's one point.
+GIN: down the middle on the dough, and any merchandise you take i look over and cherry-pick.
+MARCUS: no! money's one thing, but â—--
+GIN: it ain't chinese menu, jagoff. i tell yea how the way it's gonna be. this is pricks ficks.
+WILLIE: ...pricks ficks?
+MARCUS: ah, he's a moron.
+WILLIE: yeah, well i guess that's how you got the upper hand.
+MARCUS: you.
+WILLIE: negotiating.
+MARCUS: you -- you don't like it, next year, off. i can always get another box jockey.
+WILLIE: yeah, and i can get another midget.
+MARCUS: yeah? where? you see us hangin' off of trees? like crab apples? and even if we did, you'd never front your own racket. 'cause you got no discipline and zero initiative. you'd fall apart without me. you're just too pathetic --
+WILLIE: yeah, yeah.
+MARCUS: -- too pathetic for words, you loser. and you know it.
 
-speaker1: roger! you're home. let me fix you some sandwiches. 
-speaker2: ah, it.
+GRANDMA: roger! you're home. let me fix you some sandwiches. 
+WILLIE: ah, it.
 
-speaker1: ...santa? willie's eyes do not leave the spot in space: 
-speaker2: yeah.
-speaker1: what're you doing?
-speaker2: ah, nothin'.
-speaker1: you goin' to work today?
-speaker2: not really.
-speaker1: you just gonna sit there?
-speaker2: yeah. lemme alone.
-speaker2: -- kid.
-speaker1: yeah.
-speaker2: later today, when the paramedics come and bag up santa...
-speaker2: ...make sure the cops get this letter. it tells about all the bad things that -- that -- what the happened to your eye?
-speaker1: umm...
-speaker2: well goddamnit...
+KID: ...santa? willie's eyes do not leave the spot in space: 
+WILLIE: yeah.
+KID: what're you doing?
+WILLIE: ah, nothin'.
+KID: you goin' to work today?
+WILLIE: not really.
+KID: you just gonna sit there?
+WILLIE: yeah. lemme alone.
+WILLIE: -- kid.
+KID: yeah.
+WILLIE: later today, when the paramedics come and bag up santa...
+WILLIE: ...make sure the cops get this letter. it tells about all the bad things that -- that -- what the happened to your eye?
+KID: umm...
+WILLIE: well goddamnit...
 
-speaker1: i think i've turned a corner. 
-speaker2: yeah? you petites now?
-speaker1: no no. no; i beat the out of some kids today -- but, you know, for a purpose. it really made me feel pretty good about myself -- like i did something constructive for a change. accomplished somethin'.
-speaker2: ...you need many years of therapy. many, many, many, many, many... many years of therapy.
+WILLIE: i think i've turned a corner. 
+MARCUS: yeah? you petites now?
+WILLIE: no no. no; i beat the out of some kids today -- but, you know, for a purpose. it really made me feel pretty good about myself -- like i did something constructive for a change. accomplished somethin'.
+MARCUS: ...you need many years of therapy. many, many, many, many, many... many years of therapy.
 
-speaker1: ...hello? 
-speaker1: ...granma?
-speaker1: granma...
-speaker1: ...oh jeez.
-speaker2: oh my
-speaker3: roger!
-speaker3: ...you're home. let me fix you some sandwiches.
-speaker1: no thanks.
+WILLIE: ...hello? 
+WILLIE: ...granma?
+WILLIE: granma...
+WILLIE: ...oh jeez.
+SUE: oh my
+GRANDMA: roger!
+GRANDMA: ...you're home. let me fix you some sandwiches.
+WILLIE: no thanks.
 
-speaker1: hello little boy. 
-speaker2: hello. santa?
-speaker3: ...yes?
-speaker2: i know that christmas eve is in a couple days and you have to fly around and give presents to the world and after that you won't be around no more.
-speaker3: ...yes?
-speaker2: so i thought i'd give you your present now.
-speaker3: what the is it?
-speaker2: a wooden pickle.
-speaker3: why'd you paint it brown?
-speaker2: not paint. it's blood from when i cut my hand when i was making it for you.
-speaker3: ...thanks.
-speaker2: you're welcome. good night santa. good night mrs. santa's sister. he leaves.
-speaker1: that was very nice. he's really a nice kid, isn't he? she goes back to grabbing him passionately.
-speaker3: hold on a minute.
-speaker1: what?
-speaker3: nothin'... it's just... i'm... well... i'm sorta... fucking... touched.
-speaker3: ...i don't know if i can
-speaker1: that's okay. that's okay.
+SUE: hello little boy. 
+KID: hello. santa?
+WILLIE: ...yes?
+KID: i know that christmas eve is in a couple days and you have to fly around and give presents to the world and after that you won't be around no more.
+WILLIE: ...yes?
+KID: so i thought i'd give you your present now.
+WILLIE: what the is it?
+KID: a wooden pickle.
+WILLIE: why'd you paint it brown?
+KID: not paint. it's blood from when i cut my hand when i was making it for you.
+WILLIE: ...thanks.
+KID: you're welcome. good night santa. good night mrs. santa's sister. he leaves.
+SUE: that was very nice. he's really a nice kid, isn't he? she goes back to grabbing him passionately.
+WILLIE: hold on a minute.
+SUE: what?
+WILLIE: nothin'... it's just... i'm... well... i'm sorta... fucking... touched.
+WILLIE: ...i don't know if i can
+SUE: that's okay. that's okay.
 
-speaker1: you wanna see my report card? 
-speaker1: think i did good?
-speaker2: who the is thurman? this is you? your name's thurman?
-speaker1: yeah.
-speaker2: thurman merman?!
-speaker1: yeah.
-speaker2: 
-speaker1: you think i did good?
-speaker2: whaddya you care what i think, anyway? what do i know? better than i ever did. i never got any b's,
-speaker1: i thought maybe since at least i did good in school, you'll bring me a present this year. 'cause last christmas and the one before that you didn't bring no presents...
-speaker2: oh...
-speaker1: ...even though i'm a dipshit loser.
-speaker2: christ, kid! why do talk about yourself like that? what the is that about?! what's with you anyway? i ain't santa claus! look at me, i am living proof that there ain't no santa claus!
-speaker1: i know there's no santa. i just thought maybe you'd wanna give me a present 'cause we're friends.
-speaker2: oh...
-speaker2: look, kicking the out of those kids, that's as generous as i can get.
+KID: you wanna see my report card? 
+KID: think i did good?
+WILLIE: who the is thurman? this is you? your name's thurman?
+KID: yeah.
+WILLIE: thurman merman?!
+KID: yeah.
+WILLIE: 
+KID: you think i did good?
+WILLIE: whaddya you care what i think, anyway? what do i know? better than i ever did. i never got any b's,
+KID: i thought maybe since at least i did good in school, you'll bring me a present this year. 'cause last christmas and the one before that you didn't bring no presents...
+WILLIE: oh...
+KID: ...even though i'm a dipshit loser.
+WILLIE: christ, kid! why do talk about yourself like that? what the is that about?! what's with you anyway? i ain't santa claus! look at me, i am living proof that there ain't no santa claus!
+KID: i know there's no santa. i just thought maybe you'd wanna give me a present 'cause we're friends.
+WILLIE: oh...
+WILLIE: look, kicking the out of those kids, that's as generous as i can get.
 
-speaker1: no. 
-speaker2: you spic!
-speaker3: sweet jews for jesus...
-speaker1: holy motherfuck. what do you think you're doing?
-speaker2: i my pants!
-speaker1: you son of a
-speaker3: alright, let's get him out of here. i'll go smooth this over with chipeska. food poisoning, something.
-speaker1: what do you mean, get him out of here?
-speaker3: take him to his car.
-speaker1: in case you hadn't noticed, i'm a dwarf. so unless you got a forklift handy, maybe you should lend a hand.
-speaker3: that figures, you wantin' all kinds of set-asides and special treatment 'cause of your handicap. you're all the same.
-speaker1: special treatment? i'm three feet tall, -- it's a matter of physics! draw me a sketch how i get him to the car!
-speaker3: 
-speaker1: sketch it up, moron. leonardo da vinci.
-speaker3: what did you call me, thigh-high?
-speaker1: i called you a guinea homo. from the fifteenth century.
-speaker3: i could stick you up my ass, smallfry.
-speaker1: yeah? you sure it ain't too sore from last night?
-speaker3: you got some lip on you, midget.
-speaker1: well it was on your wife's last night. why don't you dust that thing once in a while.
+MARCUS: no. 
+WILLIE: you spic!
+GIN: sweet jews for jesus...
+MARCUS: holy motherfuck. what do you think you're doing?
+WILLIE: i my pants!
+MARCUS: you son of a
+GIN: alright, let's get him out of here. i'll go smooth this over with chipeska. food poisoning, something.
+MARCUS: what do you mean, get him out of here?
+GIN: take him to his car.
+MARCUS: in case you hadn't noticed, i'm a dwarf. so unless you got a forklift handy, maybe you should lend a hand.
+GIN: that figures, you wantin' all kinds of set-asides and special treatment 'cause of your handicap. you're all the same.
+MARCUS: special treatment? i'm three feet tall, -- it's a matter of physics! draw me a sketch how i get him to the car!
+GIN: 
+MARCUS: sketch it up, moron. leonardo da vinci.
+GIN: what did you call me, thigh-high?
+MARCUS: i called you a guinea homo. from the fifteenth century.
+GIN: i could stick you up my ass, smallfry.
+MARCUS: yeah? you sure it ain't too sore from last night?
+GIN: you got some lip on you, midget.
+MARCUS: well it was on your wife's last night. why don't you dust that thing once in a while.
 
-speaker1: mother mary and joseph! what in the name of the holy lord is the problem now? 
-speaker2: sorry, the van stalled. give us a jump will ya?
-speaker1: well, i'll be dipped in dogshit!... what am i, your auto mechanic now?
-speaker1: help yourself, small fry.
-speaker2: it's hard for me to reach...
-speaker1: christ, give me those!
-speaker2: thanks.
-speaker1: alright, try it!
+GIN: mother mary and joseph! what in the name of the holy lord is the problem now? 
+MARCUS: sorry, the van stalled. give us a jump will ya?
+GIN: well, i'll be dipped in dogshit!... what am i, your auto mechanic now?
+GIN: help yourself, small fry.
+MARCUS: it's hard for me to reach...
+GIN: christ, give me those!
+MARCUS: thanks.
+GIN: alright, try it!
 
-speaker1: oh my, what a terrible accident! 
-speaker2: is he dead?
-speaker1: no, but it looks like you broke most of his ribs.
-speaker1: i'd say maybe... fifty percent of them? or do you think thirty percent?
-speaker2: i needed more of a running start -- i couldn't build up any speed.
-speaker1: motherfuck!
-speaker1: 
-speaker1: put it in reverse.
+MARCUS: oh my, what a terrible accident! 
+LOIS: is he dead?
+MARCUS: no, but it looks like you broke most of his ribs.
+MARCUS: i'd say maybe... fifty percent of them? or do you think thirty percent?
+LOIS: i needed more of a running start -- i couldn't build up any speed.
+MARCUS: motherfuck!
+MARCUS: 
+MARCUS: put it in reverse.
 
-speaker1: 'tendo it is. 
-speaker1: ...everything i touch turns to and dies.
-speaker2: what are you, drinking sterno now? 'cause you're sounding like my aunt tilly right before she smeared her own on the bedroom walls and we had to lock her up and she spent the rest of her life with a shaved head and eating lunch through a tube up her nose...
-speaker2: ...you better be in shape by this evening, fat man. after tonight, i don't give a but this is the time to reach deep down and it up.
-speaker2: ...lovely boy.
+WILLIE: 'tendo it is. 
+WILLIE: ...everything i touch turns to and dies.
+MARCUS: what are you, drinking sterno now? 'cause you're sounding like my aunt tilly right before she smeared her own on the bedroom walls and we had to lock her up and she spent the rest of her life with a shaved head and eating lunch through a tube up her nose...
+MARCUS: ...you better be in shape by this evening, fat man. after tonight, i don't give a but this is the time to reach deep down and it up.
+MARCUS: ...lovely boy.
 
-speaker1: barbie it is... 
-speaker1: ...that it?
-speaker2: let's go.
-speaker2: ...oh christ.
-speaker1: let's do it.
+WILLIE: barbie it is... 
+WILLIE: ...that it?
+MARCUS: let's go.
+MARCUS: ...oh christ.
+WILLIE: let's do it.
 
-speaker1: merry christmas, willie. 
-speaker2: up your ass.
+JESSE: merry christmas, willie. 
+WILLIE: up your ass.
 
-speaker1: oh 
-speaker2: what? what-what-what-what?
-speaker1: it's a kitnerboy redoubt.
-speaker2: so?
-speaker1: ...you know andy pitts?
-speaker2: yeah, andy pizzarelli?
-speaker1: no, andy lapitski. andy pizzarelli is andy blue balls.
-speaker2: huh-uh, since he got married they call him an -- what's your
+WILLIE: oh 
+MARCUS: what? what-what-what-what?
+WILLIE: it's a kitnerboy redoubt.
+MARCUS: so?
+WILLIE: ...you know andy pitts?
+MARCUS: yeah, andy pizzarelli?
+WILLIE: no, andy lapitski. andy pizzarelli is andy blue balls.
+MARCUS: huh-uh, since he got married they call him an -- what's your
 
-speaker1: andy lapitski can get into anything. anything. they say he's been in margaret thatcher's pussy. 
-speaker2: yeah? yeah?
-speaker1: in the joint he told me that the kitnerboy...
-speaker1: ...cannot be cracked.
-speaker2: are you shittin' me?! are you tellin' me after i've propped you up and held you together and smiled for all those kids and danced for all those housewives in a lime-green velvet elf costume you cannot get in that
+WILLIE: andy lapitski can get into anything. anything. they say he's been in margaret thatcher's pussy. 
+MARCUS: yeah? yeah?
+WILLIE: in the joint he told me that the kitnerboy...
+WILLIE: ...cannot be cracked.
+MARCUS: are you shittin' me?! are you tellin' me after i've propped you up and held you together and smiled for all those kids and danced for all those housewives in a lime-green velvet elf costume you cannot get in that
 
-speaker1: piece of cake. 
-speaker1: ...i'll be right back. i gotta grab one thing.
+WILLIE: piece of cake. 
+WILLIE: ...i'll be right back. i gotta grab one thing.
 
-speaker1: which did he say? 
-speaker1: well, i don't think that store is gonna want this.
-speaker2: store don't want
-speaker1: wuddya mean, guy's greedier than...
-speaker1: ...greedier than
-speaker2: store dead. store don't want
-speaker2: ...fuck the store
-speaker1: dead, huh...
-speaker1: ...i didn't even know he was sick.
-speaker2: willie. this has been a long time comin'.
-speaker1: uh-huh.
-speaker2: every year you're worse. every year, less reliable. more booze. more more butt-fucking.
-speaker1: sure. the three b'a.
-speaker2: you gotta be able to rely, willie.
-speaker1: you're monsters.
-speaker2: believe me, willie: there's no joy in this for me.
-speaker1: oh, i don't mean layin' me out. i understand that. but just look at ya. all the grabbin' all this -- do you really need all this junk? ...this is christmas?
-speaker2: oh please. don't gimme that trite "commercialism" crap. this is what we do, willie. we get the christmas time, we get the because we are men. and lois. it is christmas, willie, and we are men, and lois.
-speaker3: ...wuddya waitin' for, honey? plug him.
-speaker2: good-bye, willie. he aims. willie squeezes his eyes shut.
-speaker4: drop the gun, munchkin!
-speaker2: huh? !
-speaker4: and you, santa! -- drop the elephant!
-speaker2: ...where did you come from?
-speaker5: tipped off.
-speaker1: 
-speaker6: willie slaps his forehead.
-speaker1: ...fuckin' kid!
-speaker5: all three of you are in so much it's almost unbelievable.
-speaker3: gevalt.
-speaker2: oh yeah? well come'n get us, coppers! ha-ha-ha-ha!
-speaker1: me...
-speaker1: ...fuck me me me... gunfire fills the air.
+WILLIE: which did he say? 
+WILLIE: well, i don't think that store is gonna want this.
+MARCUS: store don't want
+WILLIE: wuddya mean, guy's greedier than...
+WILLIE: ...greedier than
+MARCUS: store dead. store don't want
+MARCUS: ...fuck the store
+WILLIE: dead, huh...
+WILLIE: ...i didn't even know he was sick.
+MARCUS: willie. this has been a long time comin'.
+WILLIE: uh-huh.
+MARCUS: every year you're worse. every year, less reliable. more booze. more more butt-fucking.
+WILLIE: sure. the three b'a.
+MARCUS: you gotta be able to rely, willie.
+WILLIE: you're monsters.
+MARCUS: believe me, willie: there's no joy in this for me.
+WILLIE: oh, i don't mean layin' me out. i understand that. but just look at ya. all the grabbin' all this -- do you really need all this junk? ...this is christmas?
+MARCUS: oh please. don't gimme that trite "commercialism" crap. this is what we do, willie. we get the christmas time, we get the because we are men. and lois. it is christmas, willie, and we are men, and lois.
+LOIS: ...wuddya waitin' for, honey? plug him.
+MARCUS: good-bye, willie. he aims. willie squeezes his eyes shut.
+MEGAPHONE VOICE: drop the gun, munchkin!
+MARCUS: huh? !
+MEGAPHONE VOICE: and you, santa! -- drop the elephant!
+MARCUS: ...where did you come from?
+CHIEF: tipped off.
+WILLIE: 
+CAMERA TRACKS IN ON HIS FACE: willie slaps his forehead.
+WILLIE: ...fuckin' kid!
+CHIEF: all three of you are in so much it's almost unbelievable.
+LOIS: gevalt.
+MARCUS: oh yeah? well come'n get us, coppers! ha-ha-ha-ha!
+WILLIE: me...
+WILLIE: ...fuck me me me... gunfire fills the air.
 
-speaker1: halt, put your hands up! 
-speaker2: up your ass!
-speaker3: all right, boys -- nail him! a ripple of gunfire.
+MEGAPHONE VOICE: halt, put your hands up! 
+WILLIE: up your ass!
+POLICE VOICE: all right, boys -- nail him! a ripple of gunfire.
 
-speaker1: dear kid. i hope that you got my present and that there wasn't too much blood on it, although there was blood on the present you gave me which didn't keep me from enjoying it, so maybe the blood doesn't matter so much i guess. 
-speaker1: ...anyway, just in case they took it as evidence i am also sending you a t-shirt. i hope it's the right size. i am healing up good and they tell me that i will soon be one hundred percent even with eight bullets dug out of me because they didn't hit any vital organs, just my liver which is anyway, ha-ha-ha. anyways...
-speaker1: ...thank you for giving that letter to the cops. i forgot i asked you to do it but it's a good thing you did or santa's little helper would've plugged his ass. and now the cops know i wrote it, which is gonna keep my out of jail. that, plus everyone agreeing that the phoenix police department shooting an unarmed santa was even more fucked-up than rodney king. the cops are treating me like royalty now which is new in my experience. they are gonna make me a sensitivity counselor so that tragedies like this will never again embarrass the whole department. whatever.
-speaker1: ...as for my little helper, i am sorry to have to tell you that him and his prune-faced mail-order-wife are gonna be exploring mountains with your dad. i hope your dad doesn't go sucking from them like i did. meanwhile, i told the cops you had no one to take the care of you, so they set it up with mrs. santa's sister watching you till your dad gets back in one year and three months. they made her a guardian pro-temp or some such anyway, she makes better money than bartending and seems to like you and your house and jacuzzi.
-speaker1: ...so i'll be staying in phoenix now, telling the police how screwed- up they are which is not a bad job as jobs go. they're supposed to let me out of this hospital room soon so i'll see you when i come over to mrs. santa's sister in the jacuzzi. until then, don't take no from nobody. least of all yourself. anyways... see ya soon...
-speaker1: ...santa.
+WILLIE: dear kid. i hope that you got my present and that there wasn't too much blood on it, although there was blood on the present you gave me which didn't keep me from enjoying it, so maybe the blood doesn't matter so much i guess. 
+WILLIE: ...anyway, just in case they took it as evidence i am also sending you a t-shirt. i hope it's the right size. i am healing up good and they tell me that i will soon be one hundred percent even with eight bullets dug out of me because they didn't hit any vital organs, just my liver which is anyway, ha-ha-ha. anyways...
+WILLIE: ...thank you for giving that letter to the cops. i forgot i asked you to do it but it's a good thing you did or santa's little helper would've plugged his ass. and now the cops know i wrote it, which is gonna keep my out of jail. that, plus everyone agreeing that the phoenix police department shooting an unarmed santa was even more fucked-up than rodney king. the cops are treating me like royalty now which is new in my experience. they are gonna make me a sensitivity counselor so that tragedies like this will never again embarrass the whole department. whatever.
+WILLIE: ...as for my little helper, i am sorry to have to tell you that him and his prune-faced mail-order-wife are gonna be exploring mountains with your dad. i hope your dad doesn't go sucking from them like i did. meanwhile, i told the cops you had no one to take the care of you, so they set it up with mrs. santa's sister watching you till your dad gets back in one year and three months. they made her a guardian pro-temp or some such anyway, she makes better money than bartending and seems to like you and your house and jacuzzi.
+WILLIE: ...so i'll be staying in phoenix now, telling the police how screwed- up they are which is not a bad job as jobs go. they're supposed to let me out of this hospital room soon so i'll see you when i come over to mrs. santa's sister in the jacuzzi. until then, don't take no from nobody. least of all yourself. anyways... see ya soon...
+WILLIE: ...santa.
 

@@ -1,597 +1,597 @@
-speaker1: she's not breathing! 
-speaker2: intubate her!
-speaker3: blood-pressure's forty and falling --
-speaker2: her water's broken -- she's going into uterine contractions --
-
-speaker1: so where we going? 
-speaker2: it's a surprise.
-speaker1: i likes surprises.
-speaker2: what do you have down there, little man?
-speaker1: heat-seeker.
-speaker2: i'll bet.
-
-speaker1: where is deacon frost? 
-speaker1: got something in your throat.
-speaker2: you, day-walker, i ain't saying --
-speaker1: frost.
-speaker2: you won't stop him, blade. the tide's rising, the sleeper's gonna --
-speaker3: please don't --
-speaker4: scurries out from underfoot.
-
-speaker1: brought you a baked potato, nice and crispy. still warm, too. 
-speaker2: that's rank --
-speaker2: what's his story?
-speaker1: paramedics said he was still screaming when they found him. looks like some joker had stapled him to a wall.
-speaker2: pretty.
-
-speaker1: you took this off a doa? 
-speaker1: this isn't human blood.
-speaker2: then what is it?
-speaker1: i don't know -- look at this blood smear -- curtis takes a look for himself.
-speaker1: the red blood cells are biconvex, which is theoretically impossible. they're hypochromic, there's virtually no hemoglobin in them. look at the pmns, they're binucleated, they should be mononucleated.
-speaker2: what about the chemistry panel?
-speaker3: blood sugar level is three times the norm, phosphorous and uric acid are off the scales. like the woman said, impossible.
-speaker1: curtis, it's three in the morning. i'm really not in the mood for one of your practical jokes.
-speaker2: it's not a joke. i've got the stiff sitting in the morgue right now -- look, just come up and see him, okay? five minutes, that's all i ask.
-speaker1: i thought you promised to give me some distance?
-speaker2: this is purely professional curiosity, karen, i swear.
-speaker1: five minutes, not a second more. and i don't want to hear a word about "us".
-speaker2: no problem.
-
-speaker1: you haven't started in on the internal organs? 
-speaker2: just the blood sample from the pericardial sac.
-speaker2: that's weird --
-speaker1: what?
-speaker2: he looks different now, burns are less extreme, some of these wounds have closed up --
-speaker2: tell me something, honestly, you ever have second thoughts about us?
-speaker1: sometimes --
-speaker1: -- but then i remember what an ass-hole you were and i'm snapped back to reality.
-speaker2: karen, you're breaking my heart here --
-
-speaker1: rush into the morgue, weapons drawn -- 
-speaker2: hold it, ass-hole!
-speaker2: i said hold it!!!
-
-speaker1: whistler! 
-speaker2: are we bringing home strays now? abraham whistler
-speaker1: she's been bitten.
-speaker2: you should've killed her, then.
-speaker1: she hasn't turned yet. you can help her.
-speaker2: no promises. you watch her close. she starts to turn, you finish her off.
-speaker2: localized necrosis. she's borderline. another hour and she'd be well into the change.
-speaker2: can you hear me, woman?
-speaker3: what -- ?
-speaker2: you've been bitten by a vampire. we've got to try and burn out the venom, just like a rattlesnake bite --
-speaker2: hold her.
-
-speaker1: blade. once again, our interests have fallen victim to his ridiculous crusade. he must be destroyed. 
-speaker2: you're wrong, dragonetti.
-
-speaker1: the day walker represents a unique opportunity. we'd be fools to waste it by killing him. 
-speaker2: deacon frost. you refuse to speak our language, you insult the house of erebus by using the humans' gutter-tongue, have you no respect for tradition?
-speaker1: why should i respect something which has outlived its purpose?
-speaker2: i see. and what would you have us do with this "half-breed"?
-speaker1: study him. unlock the secrets of his dna. he's the key we've been looking for.
-speaker2: he is an abomination!
-speaker1: why should we spend our lives cringing from the daylight when his blood offers us an alternative? enough talk. it's time we stepped out of the shadows!
-speaker3: you're out of line, frost.
-speaker1: am i? or am i just the first to say out loud what we've all been thinking?
-speaker2: the shadows suit us, frost. we've existed this way for thousands of years. who are you to challenge our ways?
-speaker1: someone who's sick of living off scraps. the coming age belongs to us, not the humans! when the final war between our races comes, who do you want leading the charge?
-speaker1: some withered up fossil ready to snap like a brittle bone at the first sign of change?
-speaker2: get out!!!
-speaker1: careful, old fang. you might wake up one day and find yourself extinct.
-
-speaker1: you shouldn't be here. 
-speaker2: i'm sorry, i --
-speaker3: wandered off the beaten path, doctor?
-speaker2: who are you people?
-speaker3: my name is abraham whistler. this is blade. as for our little homunculus here --
-speaker1: -- he's a vampire.
-speaker2: you're joking --
-speaker3: not at all. you're looking at a prime specimen of the homines nocturna.
-speaker3: if blade hadn't brought you here, you would've wound up like him.
-speaker2: why did you help me?
-speaker1: stupidity.
-speaker3: maybe not. i did some checking, she's a hematologist. knowledge like that might come in handy.
-speaker1: it's not worth the risk. we can't trust her.
-speaker2: why?
-speaker1: because you're tainted. the venom's still inside you. you could still turn on us.
-speaker2: what happens then?
-speaker1: then i have to take you out, just like any other bloodsucker.
-
-speaker1: we hunt them, moving from one city to the next, tracking their migrations. they're hard to kill. they tend to regenerate. 
-speaker2: so what do you use, then? a stake?
-speaker3: -- and of course there's always sunlight, ultra-violet rays.
-speaker2: and you honestly expect me to believe all this?
-speaker1: i don't care what you believe. i saved your life once, i don't plan on making a habit of it. you want my advice, you'll be out of the city by nightfall. if you're stupid enough to stay, that's your business.
-speaker2: i can't just leave. i have a life here, a career --
-speaker1: not anymore. you've seen one of them. you won't be allowed to live after that.
-speaker3: there's a war going on out there. blade, myself, a few others -- we've tried to keep it from spilling over onto the streets. sometimes people like yourself get caught in the cross-fire.
-speaker2: i can go to the police. i have blood samples back at the hospital. i can show them.
-speaker1: do it. you'll be dead before you can file the complaint.
-speaker2: that's ridiculous! no one's that powerful.
-speaker3: you're talking about a brotherhood that predates the catholic church by thousands of years. their survival depends on their ability to blend in. chances are, you've encountered them and not even known it. on the subway, in a bar --
-speaker1: get in. youâ’re leaving.
-speaker3: wait.
-speaker3: consider it a parting gift. vampire mace -- silver nitrate, essence of garlic.
-speaker2: so that's it? you guys just patch me up and send me on my way?
-speaker3: there is one other thing. i'd buy yourself a gun if i were you. if you start becoming sensitive to the daylight, if you start becoming thirsty regardless of much you've had to drink -- then i suggest you take that gun and use it on yourself. better that, than the alternative. karen stares at whistler, horrified, as we --
-
-speaker1: what are you doing here? 
-speaker1: these archives are restricted to members of the house of erebus.
-speaker2: please. you and the other elders wouldn't know what to do with these texts if your lives depended on it. which, of course, they do.
-speaker1: you're wasting your time, frost. far greater scholars than you have tried to decipher these words. whatever secrets they hold have been lost.
-speaker2: perhaps.
-speaker1: what are you up to, frost?
-speaker3: wouldn't you like to know, old fang?
-
-speaker1: i need the police. this is an emergency -- 
-speaker1: hello? my name is karen jansen, i was with curtis webb at mid-town hospital last night -- that's right, i witnessed the attack -- 115 aurora, apartment 3g. yes, i'll wait here. please hurry.
-
-speaker1: sergeant gideon. i'm responding to a 911 call. 
-speaker2: yes, that was me, i'm karen jansen --
-speaker1: are you all right? i'm glad you called, ms. jansen, we've been anxious to get a hold of you. you disappeared on us for a while.
-speaker2: i know. listen -- do you have any idea what happened to curtis, the other doctor?
-speaker1: oh, he's dead. but i wouldn't worry about that if i were you.
-speaker2: why?
-speaker1: because you're dead too.
-speaker1: garlic?
-speaker2: he said it would work against vampires -- gideon bursts out laughing.
-speaker1: who said i was a vampire?
-speaker1: thanks for the laugh. you can shut your eyes if you want to.
-speaker3: you okay?
-speaker2: how did you know?
-speaker3: figured they'd send someone after you. thought i'd wait around and see who showed up.
-speaker2: you used me as bait?!
-speaker3: it worked, didn't it?
-speaker2: but, he could've --
-speaker3: he didn't. get over it.
-speaker2: but he's a policeman --
-speaker3: he's a familiar. a human who works for the vampires. see this mark?
-speaker3: that's a glyph, kind of like a vampire cattle brand. that means officer friendly here is someone's property. any of the other vampire's try to bleed him, they'll have to answer to friendly's owner -- this glyph belongs to deacon frost. we've been tracking him for a while now --
-speaker2: why in name would anyone want to work for them?
-speaker3: because they're vampire wanna-bes. if they're loyal, if they prove themselves, then their masters will turn them.
-speaker2: and that's a good thing?
-speaker3: for some. live forever, never get old. the ultimate high.
-speaker3: how 'bout you, officer? you a good little bloodhound?
-
-speaker1: looks like our friend was blood-running. where were you headed? 
-speaker2: mphuck you --
-speaker2: -- 1227 brookner -- holliston clinic --
-speaker3: what are you doing?!
-speaker1: preventive medicine.
-speaker3: you can't do this, he's human, it's murder.
-speaker1: it's war, now get the out of the way!
-
-speaker1: god-damnit!!! do you have any idea what you just did?! he'll warn them. they'll be waiting! 
-speaker2: you were going to kill him. what was i supposed to do?! shut my eyes and pretend i didn't see what i saw?
-
-speaker1: look, i know you're disappointed -- 
-speaker2: crestfallen.
-speaker1: blade was waiting for me. there wasn't anything i could do.
-speaker2: tell me something, gideon, what blood type are you?
-speaker1: i don't really know --
-speaker2: take a wild stab. a? b? o, perhaps? i'm interested in the antigens here, the agglutination reaction --
-speaker2: i'm going to guess ab positive.
-speaker2: ab positive. give the man a prize.
-
-speaker1: what the are you doing?! i could have killed you! 
-speaker2: i remembered the address. i followed you -- blade shakes his head, amazed.
-speaker1: do you have a death wish or are you just stupid?
-speaker2: look, if what you say is true, if there's a chance i could turn into one of them, then i've got no choice, do i? i have to work with you. i need to learn everything i can about them. it's the only way i'll be able to find a cure for myself.
-speaker1: there is no cure.
-speaker2: you don't know that.
-speaker2: what are you looking at?
-speaker1: what do you see here?
-speaker2: graffiti --
-speaker1: look closer.
-speaker1: this isn't a gang tag, it's a vampire marking. it means there's a safe-house nearby. a place they can go if dawn is coming.
-
-speaker1: i know this place -- it's a blood bank. 
-speaker2: owned by vampires. there's one of these in every major city, and just like domino's, they always deliver. you telling me you're ready to walk through that door?
-speaker2: all right, then, listen up, vampire anatomy 101. crosses and running water don't do dick, so forget what you've seen in the movies.
-speaker2: you use the stake, silver, or sunlight, got it?
-speaker2: know how to use one of these?
-speaker1: no.
-speaker2: safety's off, round's already chambered -- silver hollow-points filled with garlic. you aim for the heart or the head, anything else is a one-way ticket to a pine box.
-
-speaker1: get out. now. 
-speaker1: i know you're blood-running. who's your sponsor?
-speaker2: i don't know what you're --
-speaker3: what if you've made a mistake?
-speaker1: what's this? a birthmark?
-
-speaker1: still think we might be wrong? how much are you shipping? 
-speaker2: bite me!
-speaker1: i've got a message for your masters -- the night's no longer safe for their kind.
-
-speaker1: you let him go -- an hour ago you were ready to kill a man for less, this one didn't even talk. 
-speaker2: he will.
-
-speaker1: "you've reached a number that is no longer in service. please consult your operator and try again". 
-speaker2: it's tanaka, pin number sixteen-zero-zero-nine -- a "real" voice comes on the line:
-speaker3: yes?
-
-speaker1: get me pearl! 
-speaker2: pearl is feeding --
-speaker1: look, i'm not around here! that hunter frost has been talking about? he was just at the clinic. tore the place apart!
-
-speaker1: looks like we hit pay-dirt. this place is crawling with them. see the valets over there? they're vampires. so is the doorman. 
-speaker2: how can you tell?
-speaker1: the way they move, they way they smell --
-speaker1: the on the corner, she's one too. so are the two men standing under the streetlight.
-speaker2: so many of them -- i still can't believe they're real.
-speaker1: there are worse things than vampires out there.
-speaker2: like what?
-speaker1: like me.
-
-speaker1: where's the entrance?! 
-speaker2: i can't -- they'll kill me!
-speaker1: i got news for you, butt-boy. you're already dead.
-
-speaker1: what is this place? 
-speaker2: some kind of archive --
-speaker1: isn't this all a little high-tech? i thought vampires were more into cobwebs and coffins.
-speaker2: you've been watching too much tv. they've got their claws sunk into everything -- finance, real estate, politics. probably own half of downtown.
-speaker2: this must be where they keep their records --
-
-speaker1: he's here! 
-speaker2: congratulations, day-walker.
-speaker3: frost?
-
-speaker1: you're quick, blade, i'll give you that. in the space of an hour you've crossed my familiar, destroyed a blood bank -- now here you are in the heart of our archives, terrorizing our curator. 
-speaker2: he has a knife to my throat, frost! he --
-speaker1: you're history, pearl. have the good grace to die with some dignity. round one to you, blade.
-
-speaker1: what is that? 
-speaker2: a sun lamp. we're gonna play twenty questions. depending on your answers, you might get to have yourself a tanning session.
-speaker2: what were you in such a big hurry to delete just now?
-speaker1: it's an epistle, a letter frost has been translating -- it prophesizes lamagra's return.
-speaker2: and who is lamagra?
-speaker1: lamagra is the sleeper!!!
-speaker2: where's the original, pearl? you must have it around here somewhere.
-speaker1: the vault --
-speaker2: if he moves, cook him.
-speaker1: please, i'll give you the combination -- you'll damage the documents --
-speaker2: that's the point.
-speaker3: he moved.
-
-speaker1: you took my arm, blade. but that's okay, i'm growing a new one -- 
-speaker1: nice, huh? think i'll ever play the piano again? you can slice him, you can dice him, and the man just keeps on coming.
-speaker1: stay with me, sweetness, i'm not through with you yet.
-speaker1: teak. nice craftsmanship. now here's a man who takes his job just a little too seriously, don't you think? which reminds me, blade, think i owe you one --
-speaker1: actually, if you want to get technical, i owe you two.
-speaker1: what's so funny, bright eyes?
-speaker2: i'm expecting some company.
-speaker3: get down!
-
-speaker1: how did you find us?! 
-speaker2: we keep in radio contact.
-speaker1: you've been listening in the whole time?
-speaker2: you think i'd let him run loose without a chaperone? blade ferrets their rat-holes out, i map them. then we blow them all to kingdom come.
-speaker2: there's a subway line due east of here. we'd best make tracks.
-
-speaker1: whistler! 
-speaker2: go on, i'll be fine!
-speaker3: he can take care of himself! go!!!
-
-speaker1: you're hurt -- 
-speaker2: nothing that won't heal by dawn.
-speaker2: i need help with this --
-speaker1: what am i injecting you with?
-speaker1: you're one of them, aren't you?
-speaker2: not quite. i'm a hybrid. half-human, half-vampire.
-
-speaker1: is waiting for them, sitting at a workbench. 
-speaker1: what took you so long?
-speaker2: don't even start, old man.
-speaker3: why didn't you tell me the truth about him?
-speaker1: we weren't sure we could trust you.
-speaker1: blade's mother was attacked by a vampire while she was pregnant. ultimately, she died, but her unborn child lived. unfortunately, he'd undergone certain genetic changes while in the womb --
-speaker1: i found blade when he was thirteen. he'd been living on the streets, feeding off the homeless. apparently the thirst manifested itself at puberty -- i took him for one of them at first, almost killed him, too. but then i realized what he was.
-
-speaker1: he took my hand! again! 
-speaker2: you seem to be in the habit of losing them fairly often, quinn. maybe the amputee lifestyle just suits you.
-speaker1: we need to find him, tonight.
-speaker2: down, boy. blade's not going anywhere. i promise. right now, though, we've more pressing business -- it's time dragonetti paid the piper.
-
-speaker1: blade's unique, you know. a one in a billion anomaly. he can withstand sunlight, garlic, even silver. but he still has the thirst. 
-speaker2: what happens if he doesn't take the serum?
-speaker1: the thirst overcomes him, just like the others. it's not something he can control. the problem is, time's running out. his body's starting to reject the serum. and so far, all my efforts to find a cure have ended in failure --
-speaker2: no offense, whistler, but you're not exactly working with state of the art equipment here. you might have missed something.
-speaker1: this used to be mine, you know. it's been passed down through the centuries, from one hunter to the next --
-speaker2: why do you hunt them?
-speaker1: habit, mostly, just like this.
-speaker1: i had a family once -- a wife, three daughters. then a drifter named deacon frost came calling one evening --
-speaker2: he killed them?
-speaker1: eventually. he toyed with them first. he made me choose, do you understand? which order they would die in -- karen stares at whistler, horrified.
-speaker2: how did you escape?
-speaker1: i didn't. he was cruel enough to let me live. even gave me a souvenir to remember him by.
-speaker2: and now you're using blade to exact your revenge?
-speaker1: i wouldn't go in there if i were you. it's best to leave him alone when he's like this.
-speaker2: i'll take my chances.
-
-speaker1: blade? 
-speaker1: it's dark in here.
-speaker2: you get used to the darkness.
-speaker1: whistler told me about your mother.
-speaker2: i can't close my eyes without hearing her scream.
-speaker1: those aren't real memories. no one has that kind of recall.
-speaker2: i do. i remember from day one. people staring at me, sensing i was different. watching the fear grow in their eyes, knowing in their hearts i wasn't human.
-speaker1: if you're not human, then why do you bleed like us? i've seen vampire blood, you don't have it running through your veins.
-speaker2: just get out of here.
-speaker1: blade --
-speaker2: i said, get out!!!
-speaker3: rise and shine, little wing.
-
-speaker1: what is this? where am i?! 
-speaker2: when was the last time you stopped to appreciate a sunrise, dragonetti? three, four hundred years?
-speaker2: how do you like that? right on time.
-speaker1: don't you see, you fools?! he'll betray you too! he's planning on invoking lamagra himself!
-speaker2: the wheel turns, old fang. guess you just got a little too long in the tooth.
-speaker3: watch, impassive, protected by their masks --
-speaker2: dragonetti was right. you were fools to trust me.
-speaker4: rises in all its fiery glory.
-
-speaker1: going somewhere? 
-speaker2: china town. i need more serum. what's all this?
-speaker3: i made a trip to the hospital last night, borrowed some equipment.
-speaker2: for your miracle cure?
-speaker1: she's been making real progress, blade. show him --
-speaker3: this is sodium citrate. it's an anti-coagulant. we use it to treat blood-clots sometimes. vampire blood is thinner than humans, though. watch what happens when i introduce some into a sample --
-speaker4: vampire blood cells swirling about.
-speaker1: can you imagine what a dash of that would do on your sword?
-speaker3: before you go, i'd like to take a sample of your blood.
-speaker3: is he sick?
-speaker2: cancer.
-speaker3: you care about him, don't you?
-speaker2: we've got a good arrangement, that's all. whistler makes the weapons, i use them, the vampires die -- end of story.
-speaker3: my mother used to say that a cold heart is a dead heart.
-speaker2: your mother sounds like a hallmark greeting card.
-speaker2: i'd wish you luck, doc, but i never put much stock in optimism.
-
-speaker1: how's it going, kam? 
-speaker2: you're a week early.
-speaker1: i was in the neighborhood.
-
-speaker1: whistler says i'm building up a resistance to it. 
-speaker2: i was afraid that might happen.
-speaker1: maybe it's time to start exploring other alternatives.
-speaker2: there's only one alternative to the serum.
-speaker1: yeah. i know.
-speaker1: thanks, kam.
-speaker1: i found this in there archives. i need to find someone who can read their language.
-speaker2: i've heard about a woman named miracia. some say she's a mayombero, a santeria witch. supposedly she lives in that tent community down by the city dump. i'm told she only sees people at night.
-
-speaker1: afternoon, blade. 
-speaker2: easy.
-speaker2: wouldn't want our little friend here to wind up on the back of a milk carton, would we?
-speaker2: beautiful day, isn't it?
-speaker3: how can you be out here?
-speaker2: i dabble in pharmaceuticals, medical research. we've developed a type of sun-blocker using octyl salicylate, a few others things.
-speaker2: it's not very effective in direct sunlight, but it's a start. the goal, of course, is to be like you, "the day-walker".
-speaker3: i don't buy it.
-speaker2: why not? the future of our race runs through your bloodstream. you've got the best of both worlds, blade. all of our strengths and none of our weaknesses.
-speaker3: maybe i don't see it that way.
-speaker2: oh, so it's back to pretending we're human again, is it? spare me the uncle tom routine. you can't keep denying what you are. you're one of us, blade. you always have been.
-speaker3: you're wrong.
-speaker2: am i? you think the humans will ever accept a half-breed like you? they can't. they're afraid of you. the humans fear us because we're superior. they fear us because in their hearts they know their race has become obsolete.
-speaker2: look at them, just an endless stream of cattle in a mad race to the slaughterhouse.
-speaker2: the pause that refreshes -- care for some? smells good, doesn't it? pungent, with just an irrepressible hint of iron.
-speaker3: pass.
-speaker2: you sure now? i bled a newborn for this. you won't find a drink that's sweeter.
-speaker2: tell me honestly, do you really get the same rush from that pasteurized piss-serum of yours? you're surprised i know about your serum? you shouldn't be. i know everything about you.
-speaker2: you can't keep walking the razor's edge, blade. the day will come -- and soon, when you'll have to choose between our kind and their's. if i were you, i'd take care not to wind up on the wrong end of the fang.
-speaker2: love to continue this chat, but it appears i'm melting.
-speaker3: you're not going anywhere.
-speaker2: watch me.
-
-speaker1: any progress? 
-speaker2: some. it's been slow --
-speaker1: you don't look so good.
-speaker2: i'm just tired, that's all. we've been up all night.
-speaker2: excuse me.
-
-speaker1: it's started. 
-speaker1: you've got another day or two at most.
-speaker1: for what it's worth, i'm sorry.
-speaker2: you make it sound like i'm already dead.
-
-speaker1: extranjero. â¿quien es? 
-speaker2: i'm here to see miracia. kam sent me.
-speaker3: this way.
-
-speaker1: all right, let's start with the basics -- why do vampires need to drink blood? 
-speaker2: their own blood can't sustain hemoglobin.
-speaker1: then vampirism is a genetic defect, just like hemolytic anemia?
-speaker1: so what about gene therapy?
-speaker1: basically you'd have to re-write the victim's dna, alter it so that the dna will produce proteins capable of generating hemoglobin.
-speaker2: how?
-speaker1: with a retrovirus. it's injected into the bone marrow cells, it causes the host's dna to mutate. they've been using them to treat sickle-cell anemia.
-speaker2: you're serious? you actually think this could work?
-speaker1: on me, yes. on blade, i'm not so sure -- the problem is, blade didn't contract the vampire virus from a bite like i did. he was born with it. the irony is, i could probably cure every vampire but him.
-speaker2: then we're back to square one, aren't we? sooner or later, the thirst always wins.
-speaker1: what happened to the power?
-speaker2: i don't know, but the back-up generator should've kicked in.
-speaker2: uv floodlights are down too.
-
-speaker1: get it!!! 
-speaker1: understand this -- they are monsters. hesitate for even a moment, and you've lost.
-speaker2: words to live by, whistler.
-
-speaker1: is something wrong, my friend? 
-speaker2: you're blind --
-speaker1: there are other ways to see. sit.
-speaker1: perhaps you have brought me something -- an offering for the orishas?
-speaker1: hold out your hands.
-speaker2: i didn't come here to get my palms read. i need something translated.
-speaker1: show me.
-speaker1: sangre. written in blood.
-speaker1: this is an old tongue, from an old world. it concerns lamagra.
-speaker2: who is lamagra?
-speaker1: the vampire this speaks of his return. miracia's fingers search the parchment again.
-speaker1: "-- there will come a day walker." "his blood will call the sleeper from beyond the veil of tears." blade stares at miracia, shaken.
-speaker2: his blood -- ?
-speaker1: the day walker's blood is a disparador -- a trigger, you see? for lamagra's return. one need only consume it and the spirit of his ancestors will settle upon him. "and the sleeper will rise from the shadows anew, cleansing the world in a tide of blood."
-speaker2: "the blood tide".
-speaker1: yes. the vampire apocalypse. it is said that all who feel its taint will succumb to the thirst.
-speaker2: how do i stop it?
-speaker1: the great wheel turns, my friend. the dark is rising. how would you fight a shadow?
-speaker1: i am tired. dawn is coming.
-speaker2: but i just got here --
-speaker1: you've been here longer than you think.
-
-speaker1: whistler, what did they do to you? 
-speaker2: frost took her --
-speaker1: don't try to talk --
-speaker2: listen. you have to -- finish me off. you don't want me coming back.
-speaker1: no, we can treat the wounds -- but whistler is shaking his hand.
-speaker2: too far gone, you know that.
-speaker1: whistler, i can't.
-speaker2: yes you can. now get on with it.
-speaker1: whistler, i --
-speaker2: i know. just be quick about it, will you? do it right.
-
-speaker1: hello, blade. by the time you watch this, whistler will no doubt be winging his way to heaven, thanks to your capable hands. if it makes any difference to you, he put up quite a fight. 
-speaker1: now, i'm sure you're wondering about ms. jansen's well-being. she's alive and kicking -- "ambulatory", as they like to say in the trade. whether or not she remains so is entirely up to you. i'll make this as easy as possible for you, blade. you can find us at the edgewood towers. we'll be waiting with baited breath.
-
-speaker1: well, here we are, doctor. 
-speaker2: why haven't you killed me yet?
-speaker3: deacon likes to play with his food before he eats it.
-speaker2: how many of you are there?
-speaker1: a few thousand scattered about the globe. in the past, we've had to restrict our numbers for fear of discovery. that won't be necessary after tonight.
-speaker2: what happens then?
-speaker1: the blood tide. our long-prophesied holy war against the humans. there's a force, you see -- a spirit that exists in our blood. i've discovered a way to invoke it.
-speaker2: lamagra --
-speaker1: that's right. the answers were there all along, of course, scribbled down in the forgotten languages of my kind. waiting for someone with the patience to decipher them. my elders were foolish enough to dismiss them as wives tales. but i knew better. imagine my surprise when blade turned out to be the key which would set that force free.
-speaker1: lamagra isn't a physical being. he's a spirit, requiring a flesh and blood host in order to manifest himself.
-speaker2: you.
-speaker1: who better to usher in the blood tide?
-speaker2: there's no need for any of this. your condition can be treated. whistler and i were working on a cure when --
-speaker1: what makes you think we want to be cured? blood is only part of the equation. the hunt, the killing, that's what the thirst is really about.
-speaker2: but you use blood banks --
-speaker1: only as a last resort. preserved blood is inferior. there's no flavor left to it, no life. fortunately, i've found a way around that particular obstacle.
-
-speaker1: under these conditions i can keep a donor alive for years, producing anywhere from fifty to a hundred pints of blood. of course, this is just a pilot program, really. once the tide comes, we'll need to expand production. so many more mouths to feed -- karen turns away, overwhelmed by revulsion. 
-speaker2: you're a monster.
-speaker1: why? because we live at another species' expense? your people farm cattle and veal, don't they? fattening them up with steroids? it's called evolution, doctor. survival of the fittest.
-speaker1: i have a wake-up call for the human race. you're no longer at the top of the food chain.
-
-speaker1: you think i'm afraid of that toothpick of yours? 
-speaker2: you should be. i've made some improvements.
-
-speaker1: jason. 
-speaker2: mother -- ?!
-speaker1: i've missed you so much, jason. you have no idea what i've been through, how much i've wanted to see you --
-
-speaker1: but you -- died -- 
-speaker2: deacon brought me back.
-speaker1: fight him --
-speaker3: she can't. she's one of my thralls now. she has about as much free will as a puppet on a string. you love me, don't you, vanessa?
-speaker2: yes.
-speaker3: what do we have here? your precious serum? i don't think you'll be needing this anymore.
-speaker1: please --
-speaker2: listen to your father, jason. it's going to be a better world.
-speaker3: don't look so surprised, blade. you've spent your life looking for the vampire who fathered you. well you can rest easy now, you've found him. daddy's here.
-speaker3: it's true, blade. you've got my blood running through your veins. thirty years ago. a moonlit street, a woman on her way home alone. you were conceived the night i tore my fangs into your mother's flesh.
-
-speaker1: are you all right? 
-speaker2: i've been better --
-speaker2: how long have we been driving?
-speaker1: i don't know. i woke up just before you did --
-speaker1: is it bad?
-speaker1: it won't work on you.
-speaker2: what are you talking about?
-speaker1: your condition's congenital, the genetic mutations occurred in utero. all the other victims contracted vampirism after birth.
-speaker1: i can't cure you, blade. i can cure myself, but i can't cure you. i'm so sorry.
-
-speaker1: as above, so below. 
-speaker1: welcome to our hall of ancients, doctor. we call it the temple of night.
-speaker1: let's see this sword of his.
-speaker1: still quite sharp, i see.
-speaker2: blade --
-speaker1: you're wasting your breath, woman. he can't hear you now. it's the thirst, you see? it already has him in its grip.
-speaker1: how long has it been since you had your serum? twelve hours? more? you must be quite thirsty by now.
-speaker1: what does it feel like? is your blood on fire? are you burning up inside? give in to the thirst, blade. embrace your true nature.
-speaker3: -- go to --
-speaker1: i've got news for you, blade. we're already here.
-speaker1: take him to the sanctuary. it's time he was bled.
-speaker1: i'd let you watch the proceedings, doctor, but i'm afraid that privilege is reserved for members of my own race. don't worry, though, i've made alternate arrangements for you.
-
-speaker1: we call this the bone pit. it's where we keep our mistakes, the ones who couldn't successfully make the transition from human to vampire. 
-speaker1: they'll feed on anything, given the chance -- animals, corpses, even other vampires.
-
-speaker1: deacon watches from the lip of the pit, amused. 
-speaker2: of course, a strapping young woman like yourself -- well i think you just might be considered finger food.
-
-speaker1: approaches, still carrying blade's sword. 
-speaker1: it's been a long road, hasn't it? such a pity whistler led you so far astray.
-speaker1: i don't blame you, though. i want you to know that. even after all you've done. i understand, blade, i really do. it's the human side of you which has corrupted your reasoning, made you weak. but we'll take care of that, won't we?
-speaker2: i'd kill myself -- before i turned into something like you.
-speaker1: no you wouldn't. i'm going to bleed you dry, blade. all the poison that makes you human. when the tide comes, you'll be begging me put you through the change.
-speaker1: it's done. we should ready ourselves for the ritual of invocation.
-speaker3: there's no use fighting us, jason.
-
-speaker1: how could you be a part of this? 
-speaker2: these are my people now. i'm one of them.
-speaker1: you don't have to be.
-speaker2: you don't understand. i've killed, i've hunted, and i've enjoyed it.
-speaker2: i wish you could see the world as i do. deacon opened my eyes. there's no turning back from that.
-speaker1: i don't believe that.
-speaker2: you will. time is on our side. sooner or later, the thirst always wins.
-speaker1: mother!
-speaker2: your mother died the night you were born.
-
-speaker1: karreennnnnn. i never thought i'd see you againnnnn. 
-speaker2: curtis?!
-speaker3: tell, me, karennn -- ever have second thoughts -- about us?
-
-speaker1: it won't be long now, lover. 
-speaker2: we should finish him off.
-speaker1: no. deacon wants him turned.
-speaker2: waste, if you ask me.
-
-speaker1: get out of here -- 
-speaker2: i'm not leaving without you.
-speaker1: you don't understand. the thirst --
-speaker1: -- tearing me -- apart.
-speaker2: i know. take some of my blood.
-speaker1: no --
-speaker2: it's the only way. you know that. we'll never get out of here alive if you don't.
-speaker1: i can't -- i won't be able to stop --
-speaker2: yes you will. the human side of you is stronger. i know it is.
-
-speaker1: don't stop -- 
-speaker1: my --
-speaker1: are you -- all right?
-speaker2: never been better.
-
-speaker1: no longer. 
-speaker2: frost!!!
-
-speaker1: who dies first? 
-speaker2: take him.
-speaker3: grew another hand for you sweetmeat -- -- and now i'm gonna kill you with it.
-speaker1: let's see if you can grow a new one of these!
-speaker1: next?
-speaker4: have a taste of your own medicine!
-
-speaker1: you can't hurt me anymore. 
-speaker2: where are you?!
-speaker1: everywhere.
-
-speaker1: i was wrong about you, blade. you were never one of us. you're a traitor to your race. 
-speaker2: get away from him!
-speaker2: blade!
-
-speaker1: guess you're not quite as invulnerable as you thought. 
-speaker2: you're wrong -- a few minutes more, and my transition will be complete. even your sword won't be able to affect me then.
-speaker1: you don't have a few minutes, frost.
-speaker2: just as i thought. still chained to your mother's breast after all these years.
-speaker2: you're too human, blade.
-
-speaker1: i never imagined i'd be so happy to see the sun rise -- it's over, isn't it? 
-speaker2: for them. but for me --
-speaker2: i feel like it's finally beginning.
+NURSE #1: she's not breathing! 
+SENIOR RESIDENT: intubate her!
+RESIDENT: blood-pressure's forty and falling --
+SENIOR RESIDENT: her water's broken -- she's going into uterine contractions --
+
+DENNIS: so where we going? 
+RAQUEL: it's a surprise.
+DENNIS: i likes surprises.
+RAQUEL: what do you have down there, little man?
+DENNIS: heat-seeker.
+RAQUEL: i'll bet.
+
+BLADE: where is deacon frost? 
+BLADE: got something in your throat.
+QUINN: you, day-walker, i ain't saying --
+BLADE: frost.
+QUINN: you won't stop him, blade. the tide's rising, the sleeper's gonna --
+DENNIS: please don't --
+A COCKROACH: scurries out from underfoot.
+
+ASSISTANT: brought you a baked potato, nice and crispy. still warm, too. 
+CURTIS: that's rank --
+CURTIS: what's his story?
+ASSISTANT: paramedics said he was still screaming when they found him. looks like some joker had stapled him to a wall.
+CURTIS: pretty.
+
+KAREN: you took this off a doa? 
+KAREN: this isn't human blood.
+CURTIS: then what is it?
+KAREN: i don't know -- look at this blood smear -- curtis takes a look for himself.
+KAREN: the red blood cells are biconvex, which is theoretically impossible. they're hypochromic, there's virtually no hemoglobin in them. look at the pmns, they're binucleated, they should be mononucleated.
+CURTIS: what about the chemistry panel?
+JULIE: blood sugar level is three times the norm, phosphorous and uric acid are off the scales. like the woman said, impossible.
+KAREN: curtis, it's three in the morning. i'm really not in the mood for one of your practical jokes.
+CURTIS: it's not a joke. i've got the stiff sitting in the morgue right now -- look, just come up and see him, okay? five minutes, that's all i ask.
+KAREN: i thought you promised to give me some distance?
+CURTIS: this is purely professional curiosity, karen, i swear.
+KAREN: five minutes, not a second more. and i don't want to hear a word about "us".
+CURTIS: no problem.
+
+KAREN: you haven't started in on the internal organs? 
+CURTIS: just the blood sample from the pericardial sac.
+CURTIS: that's weird --
+KAREN: what?
+CURTIS: he looks different now, burns are less extreme, some of these wounds have closed up --
+CURTIS: tell me something, honestly, you ever have second thoughts about us?
+KAREN: sometimes --
+KAREN: -- but then i remember what an ass-hole you were and i'm snapped back to reality.
+CURTIS: karen, you're breaking my heart here --
+
+TWO POLICEMEN: rush into the morgue, weapons drawn -- 
+UNIFORM #1: hold it, ass-hole!
+UNIFORM #1: i said hold it!!!
+
+BLADE: whistler! 
+WHISTLER: are we bringing home strays now? abraham whistler
+BLADE: she's been bitten.
+WHISTLER: you should've killed her, then.
+BLADE: she hasn't turned yet. you can help her.
+WHISTLER: no promises. you watch her close. she starts to turn, you finish her off.
+WHISTLER: localized necrosis. she's borderline. another hour and she'd be well into the change.
+WHISTLER: can you hear me, woman?
+KAREN: what -- ?
+WHISTLER: you've been bitten by a vampire. we've got to try and burn out the venom, just like a rattlesnake bite --
+WHISTLER: hold her.
+
+DRAGONETTI: blade. once again, our interests have fallen victim to his ridiculous crusade. he must be destroyed. 
+FROST: you're wrong, dragonetti.
+
+FROST: the day walker represents a unique opportunity. we'd be fools to waste it by killing him. 
+DRAGONETTI: deacon frost. you refuse to speak our language, you insult the house of erebus by using the humans' gutter-tongue, have you no respect for tradition?
+FROST: why should i respect something which has outlived its purpose?
+DRAGONETTI: i see. and what would you have us do with this "half-breed"?
+FROST: study him. unlock the secrets of his dna. he's the key we've been looking for.
+DRAGONETTI: he is an abomination!
+FROST: why should we spend our lives cringing from the daylight when his blood offers us an alternative? enough talk. it's time we stepped out of the shadows!
+PALLINTINE: you're out of line, frost.
+FROST: am i? or am i just the first to say out loud what we've all been thinking?
+DRAGONETTI: the shadows suit us, frost. we've existed this way for thousands of years. who are you to challenge our ways?
+FROST: someone who's sick of living off scraps. the coming age belongs to us, not the humans! when the final war between our races comes, who do you want leading the charge?
+FROST: some withered up fossil ready to snap like a brittle bone at the first sign of change?
+DRAGONETTI: get out!!!
+FROST: careful, old fang. you might wake up one day and find yourself extinct.
+
+BLADE: you shouldn't be here. 
+KAREN: i'm sorry, i --
+WHISTLER: wandered off the beaten path, doctor?
+KAREN: who are you people?
+WHISTLER: my name is abraham whistler. this is blade. as for our little homunculus here --
+BLADE: -- he's a vampire.
+KAREN: you're joking --
+WHISTLER: not at all. you're looking at a prime specimen of the homines nocturna.
+WHISTLER: if blade hadn't brought you here, you would've wound up like him.
+KAREN: why did you help me?
+BLADE: stupidity.
+WHISTLER: maybe not. i did some checking, she's a hematologist. knowledge like that might come in handy.
+BLADE: it's not worth the risk. we can't trust her.
+KAREN: why?
+BLADE: because you're tainted. the venom's still inside you. you could still turn on us.
+KAREN: what happens then?
+BLADE: then i have to take you out, just like any other bloodsucker.
+
+BLADE: we hunt them, moving from one city to the next, tracking their migrations. they're hard to kill. they tend to regenerate. 
+KAREN: so what do you use, then? a stake?
+WHISTLER: -- and of course there's always sunlight, ultra-violet rays.
+KAREN: and you honestly expect me to believe all this?
+BLADE: i don't care what you believe. i saved your life once, i don't plan on making a habit of it. you want my advice, you'll be out of the city by nightfall. if you're stupid enough to stay, that's your business.
+KAREN: i can't just leave. i have a life here, a career --
+BLADE: not anymore. you've seen one of them. you won't be allowed to live after that.
+WHISTLER: there's a war going on out there. blade, myself, a few others -- we've tried to keep it from spilling over onto the streets. sometimes people like yourself get caught in the cross-fire.
+KAREN: i can go to the police. i have blood samples back at the hospital. i can show them.
+BLADE: do it. you'll be dead before you can file the complaint.
+KAREN: that's ridiculous! no one's that powerful.
+WHISTLER: you're talking about a brotherhood that predates the catholic church by thousands of years. their survival depends on their ability to blend in. chances are, you've encountered them and not even known it. on the subway, in a bar --
+BLADE: get in. youâ’re leaving.
+WHISTLER: wait.
+WHISTLER: consider it a parting gift. vampire mace -- silver nitrate, essence of garlic.
+KAREN: so that's it? you guys just patch me up and send me on my way?
+WHISTLER: there is one other thing. i'd buy yourself a gun if i were you. if you start becoming sensitive to the daylight, if you start becoming thirsty regardless of much you've had to drink -- then i suggest you take that gun and use it on yourself. better that, than the alternative. karen stares at whistler, horrified, as we --
+
+DRAGONETTI: what are you doing here? 
+DRAGONETTI: these archives are restricted to members of the house of erebus.
+FROST: please. you and the other elders wouldn't know what to do with these texts if your lives depended on it. which, of course, they do.
+DRAGONETTI: you're wasting your time, frost. far greater scholars than you have tried to decipher these words. whatever secrets they hold have been lost.
+FROST: perhaps.
+DRAGONETTI: what are you up to, frost?
+FROST'S VOICE: wouldn't you like to know, old fang?
+
+KAREN: i need the police. this is an emergency -- 
+KAREN: hello? my name is karen jansen, i was with curtis webb at mid-town hospital last night -- that's right, i witnessed the attack -- 115 aurora, apartment 3g. yes, i'll wait here. please hurry.
+
+GIDEON: sergeant gideon. i'm responding to a 911 call. 
+KAREN: yes, that was me, i'm karen jansen --
+GIDEON: are you all right? i'm glad you called, ms. jansen, we've been anxious to get a hold of you. you disappeared on us for a while.
+KAREN: i know. listen -- do you have any idea what happened to curtis, the other doctor?
+GIDEON: oh, he's dead. but i wouldn't worry about that if i were you.
+KAREN: why?
+GIDEON: because you're dead too.
+GIDEON: garlic?
+KAREN: he said it would work against vampires -- gideon bursts out laughing.
+GIDEON: who said i was a vampire?
+GIDEON: thanks for the laugh. you can shut your eyes if you want to.
+BLADE: you okay?
+KAREN: how did you know?
+BLADE: figured they'd send someone after you. thought i'd wait around and see who showed up.
+KAREN: you used me as bait?!
+BLADE: it worked, didn't it?
+KAREN: but, he could've --
+BLADE: he didn't. get over it.
+KAREN: but he's a policeman --
+BLADE: he's a familiar. a human who works for the vampires. see this mark?
+BLADE: that's a glyph, kind of like a vampire cattle brand. that means officer friendly here is someone's property. any of the other vampire's try to bleed him, they'll have to answer to friendly's owner -- this glyph belongs to deacon frost. we've been tracking him for a while now --
+KAREN: why in name would anyone want to work for them?
+BLADE: because they're vampire wanna-bes. if they're loyal, if they prove themselves, then their masters will turn them.
+KAREN: and that's a good thing?
+BLADE: for some. live forever, never get old. the ultimate high.
+BLADE: how 'bout you, officer? you a good little bloodhound?
+
+BLADE: looks like our friend was blood-running. where were you headed? 
+GIDEON: mphuck you --
+GIDEON: -- 1227 brookner -- holliston clinic --
+KAREN: what are you doing?!
+BLADE: preventive medicine.
+KAREN: you can't do this, he's human, it's murder.
+BLADE: it's war, now get the out of the way!
+
+BLADE: god-damnit!!! do you have any idea what you just did?! he'll warn them. they'll be waiting! 
+KAREN: you were going to kill him. what was i supposed to do?! shut my eyes and pretend i didn't see what i saw?
+
+GIDEON: look, i know you're disappointed -- 
+FROST: crestfallen.
+GIDEON: blade was waiting for me. there wasn't anything i could do.
+FROST: tell me something, gideon, what blood type are you?
+GIDEON: i don't really know --
+FROST: take a wild stab. a? b? o, perhaps? i'm interested in the antigens here, the agglutination reaction --
+FROST: i'm going to guess ab positive.
+FROST: ab positive. give the man a prize.
+
+BLADE: what the are you doing?! i could have killed you! 
+KAREN: i remembered the address. i followed you -- blade shakes his head, amazed.
+BLADE: do you have a death wish or are you just stupid?
+KAREN: look, if what you say is true, if there's a chance i could turn into one of them, then i've got no choice, do i? i have to work with you. i need to learn everything i can about them. it's the only way i'll be able to find a cure for myself.
+BLADE: there is no cure.
+KAREN: you don't know that.
+KAREN: what are you looking at?
+BLADE: what do you see here?
+KAREN: graffiti --
+BLADE: look closer.
+BLADE: this isn't a gang tag, it's a vampire marking. it means there's a safe-house nearby. a place they can go if dawn is coming.
+
+KAREN: i know this place -- it's a blood bank. 
+BLADE: owned by vampires. there's one of these in every major city, and just like domino's, they always deliver. you telling me you're ready to walk through that door?
+BLADE: all right, then, listen up, vampire anatomy 101. crosses and running water don't do dick, so forget what you've seen in the movies.
+BLADE: you use the stake, silver, or sunlight, got it?
+BLADE: know how to use one of these?
+KAREN: no.
+BLADE: safety's off, round's already chambered -- silver hollow-points filled with garlic. you aim for the heart or the head, anything else is a one-way ticket to a pine box.
+
+BLADE: get out. now. 
+BLADE: i know you're blood-running. who's your sponsor?
+TANAKA: i don't know what you're --
+KAREN: what if you've made a mistake?
+BLADE: what's this? a birthmark?
+
+BLADE: still think we might be wrong? how much are you shipping? 
+TANAKA: bite me!
+BLADE: i've got a message for your masters -- the night's no longer safe for their kind.
+
+KAREN: you let him go -- an hour ago you were ready to kill a man for less, this one didn't even talk. 
+BLADE: he will.
+
+AUTOMATED VOICE: "you've reached a number that is no longer in service. please consult your operator and try again". 
+TANAKA'S VOICE: it's tanaka, pin number sixteen-zero-zero-nine -- a "real" voice comes on the line:
+VOICE: yes?
+
+TANAKA: get me pearl! 
+VOICE: pearl is feeding --
+TANAKA: look, i'm not around here! that hunter frost has been talking about? he was just at the clinic. tore the place apart!
+
+BLADE: looks like we hit pay-dirt. this place is crawling with them. see the valets over there? they're vampires. so is the doorman. 
+KAREN: how can you tell?
+BLADE: the way they move, they way they smell --
+BLADE: the on the corner, she's one too. so are the two men standing under the streetlight.
+KAREN: so many of them -- i still can't believe they're real.
+BLADE: there are worse things than vampires out there.
+KAREN: like what?
+BLADE: like me.
+
+BLADE: where's the entrance?! 
+TANAKA: i can't -- they'll kill me!
+BLADE: i got news for you, butt-boy. you're already dead.
+
+KAREN: what is this place? 
+BLADE: some kind of archive --
+KAREN: isn't this all a little high-tech? i thought vampires were more into cobwebs and coffins.
+BLADE: you've been watching too much tv. they've got their claws sunk into everything -- finance, real estate, politics. probably own half of downtown.
+BLADE: this must be where they keep their records --
+
+PEARL: he's here! 
+FROST'S VOICE: congratulations, day-walker.
+BLADE: frost?
+
+FROST: you're quick, blade, i'll give you that. in the space of an hour you've crossed my familiar, destroyed a blood bank -- now here you are in the heart of our archives, terrorizing our curator. 
+PEARL'S VOICE: he has a knife to my throat, frost! he --
+FROST: you're history, pearl. have the good grace to die with some dignity. round one to you, blade.
+
+PEARL: what is that? 
+BLADE: a sun lamp. we're gonna play twenty questions. depending on your answers, you might get to have yourself a tanning session.
+BLADE: what were you in such a big hurry to delete just now?
+PEARL: it's an epistle, a letter frost has been translating -- it prophesizes lamagra's return.
+BLADE: and who is lamagra?
+PEARL: lamagra is the sleeper!!!
+BLADE: where's the original, pearl? you must have it around here somewhere.
+PEARL: the vault --
+BLADE: if he moves, cook him.
+PEARL: please, i'll give you the combination -- you'll damage the documents --
+BLADE: that's the point.
+KAREN: he moved.
+
+QUINN: you took my arm, blade. but that's okay, i'm growing a new one -- 
+QUINN: nice, huh? think i'll ever play the piano again? you can slice him, you can dice him, and the man just keeps on coming.
+QUINN: stay with me, sweetness, i'm not through with you yet.
+QUINN: teak. nice craftsmanship. now here's a man who takes his job just a little too seriously, don't you think? which reminds me, blade, think i owe you one --
+QUINN: actually, if you want to get technical, i owe you two.
+QUINN: what's so funny, bright eyes?
+BLADE: i'm expecting some company.
+VOICE: get down!
+
+KAREN: how did you find us?! 
+WHISTLER: we keep in radio contact.
+KAREN: you've been listening in the whole time?
+WHISTLER: you think i'd let him run loose without a chaperone? blade ferrets their rat-holes out, i map them. then we blow them all to kingdom come.
+WHISTLER: there's a subway line due east of here. we'd best make tracks.
+
+KAREN: whistler! 
+WHISTLER: go on, i'll be fine!
+BLADE: he can take care of himself! go!!!
+
+KAREN: you're hurt -- 
+BLADE: nothing that won't heal by dawn.
+BLADE: i need help with this --
+KAREN: what am i injecting you with?
+KAREN: you're one of them, aren't you?
+BLADE: not quite. i'm a hybrid. half-human, half-vampire.
+
+WHISTLER: is waiting for them, sitting at a workbench. 
+WHISTLER: what took you so long?
+BLADE: don't even start, old man.
+KAREN: why didn't you tell me the truth about him?
+WHISTLER: we weren't sure we could trust you.
+WHISTLER: blade's mother was attacked by a vampire while she was pregnant. ultimately, she died, but her unborn child lived. unfortunately, he'd undergone certain genetic changes while in the womb --
+WHISTLER: i found blade when he was thirteen. he'd been living on the streets, feeding off the homeless. apparently the thirst manifested itself at puberty -- i took him for one of them at first, almost killed him, too. but then i realized what he was.
+
+QUINN: he took my hand! again! 
+FROST: you seem to be in the habit of losing them fairly often, quinn. maybe the amputee lifestyle just suits you.
+QUINN: we need to find him, tonight.
+FROST: down, boy. blade's not going anywhere. i promise. right now, though, we've more pressing business -- it's time dragonetti paid the piper.
+
+WHISTLER: blade's unique, you know. a one in a billion anomaly. he can withstand sunlight, garlic, even silver. but he still has the thirst. 
+KAREN: what happens if he doesn't take the serum?
+WHISTLER: the thirst overcomes him, just like the others. it's not something he can control. the problem is, time's running out. his body's starting to reject the serum. and so far, all my efforts to find a cure have ended in failure --
+KAREN: no offense, whistler, but you're not exactly working with state of the art equipment here. you might have missed something.
+WHISTLER: this used to be mine, you know. it's been passed down through the centuries, from one hunter to the next --
+KAREN: why do you hunt them?
+WHISTLER: habit, mostly, just like this.
+WHISTLER: i had a family once -- a wife, three daughters. then a drifter named deacon frost came calling one evening --
+KAREN: he killed them?
+WHISTLER: eventually. he toyed with them first. he made me choose, do you understand? which order they would die in -- karen stares at whistler, horrified.
+KAREN: how did you escape?
+WHISTLER: i didn't. he was cruel enough to let me live. even gave me a souvenir to remember him by.
+KAREN: and now you're using blade to exact your revenge?
+WHISTLER: i wouldn't go in there if i were you. it's best to leave him alone when he's like this.
+KAREN: i'll take my chances.
+
+KAREN: blade? 
+KAREN: it's dark in here.
+BLADE: you get used to the darkness.
+KAREN: whistler told me about your mother.
+BLADE: i can't close my eyes without hearing her scream.
+KAREN: those aren't real memories. no one has that kind of recall.
+BLADE: i do. i remember from day one. people staring at me, sensing i was different. watching the fear grow in their eyes, knowing in their hearts i wasn't human.
+KAREN: if you're not human, then why do you bleed like us? i've seen vampire blood, you don't have it running through your veins.
+BLADE: just get out of here.
+KAREN: blade --
+BLADE: i said, get out!!!
+FROST'S VOICE: rise and shine, little wing.
+
+DRAGONETTI: what is this? where am i?! 
+FROST: when was the last time you stopped to appreciate a sunrise, dragonetti? three, four hundred years?
+FROST: how do you like that? right on time.
+DRAGONETTI: don't you see, you fools?! he'll betray you too! he's planning on invoking lamagra himself!
+FROST: the wheel turns, old fang. guess you just got a little too long in the tooth.
+THE VAMPIRE ELDERS: watch, impassive, protected by their masks --
+FROST: dragonetti was right. you were fools to trust me.
+THE RED SUN: rises in all its fiery glory.
+
+WHISTLER: going somewhere? 
+BLADE: china town. i need more serum. what's all this?
+KAREN: i made a trip to the hospital last night, borrowed some equipment.
+BLADE: for your miracle cure?
+WHISTLER: she's been making real progress, blade. show him --
+KAREN: this is sodium citrate. it's an anti-coagulant. we use it to treat blood-clots sometimes. vampire blood is thinner than humans, though. watch what happens when i introduce some into a sample --
+BLADE'S POV: vampire blood cells swirling about.
+WHISTLER: can you imagine what a dash of that would do on your sword?
+KAREN: before you go, i'd like to take a sample of your blood.
+KAREN: is he sick?
+BLADE: cancer.
+KAREN: you care about him, don't you?
+BLADE: we've got a good arrangement, that's all. whistler makes the weapons, i use them, the vampires die -- end of story.
+KAREN: my mother used to say that a cold heart is a dead heart.
+BLADE: your mother sounds like a hallmark greeting card.
+BLADE: i'd wish you luck, doc, but i never put much stock in optimism.
+
+BLADE: how's it going, kam? 
+KAM: you're a week early.
+BLADE: i was in the neighborhood.
+
+BLADE: whistler says i'm building up a resistance to it. 
+KAM: i was afraid that might happen.
+BLADE: maybe it's time to start exploring other alternatives.
+KAM: there's only one alternative to the serum.
+BLADE: yeah. i know.
+BLADE: thanks, kam.
+BLADE: i found this in there archives. i need to find someone who can read their language.
+KAM: i've heard about a woman named miracia. some say she's a mayombero, a santeria witch. supposedly she lives in that tent community down by the city dump. i'm told she only sees people at night.
+
+MAN: afternoon, blade. 
+FROST: easy.
+FROST: wouldn't want our little friend here to wind up on the back of a milk carton, would we?
+FROST: beautiful day, isn't it?
+BLADE: how can you be out here?
+FROST: i dabble in pharmaceuticals, medical research. we've developed a type of sun-blocker using octyl salicylate, a few others things.
+FROST: it's not very effective in direct sunlight, but it's a start. the goal, of course, is to be like you, "the day-walker".
+BLADE: i don't buy it.
+FROST: why not? the future of our race runs through your bloodstream. you've got the best of both worlds, blade. all of our strengths and none of our weaknesses.
+BLADE: maybe i don't see it that way.
+FROST: oh, so it's back to pretending we're human again, is it? spare me the uncle tom routine. you can't keep denying what you are. you're one of us, blade. you always have been.
+BLADE: you're wrong.
+FROST: am i? you think the humans will ever accept a half-breed like you? they can't. they're afraid of you. the humans fear us because we're superior. they fear us because in their hearts they know their race has become obsolete.
+FROST: look at them, just an endless stream of cattle in a mad race to the slaughterhouse.
+FROST: the pause that refreshes -- care for some? smells good, doesn't it? pungent, with just an irrepressible hint of iron.
+BLADE: pass.
+FROST: you sure now? i bled a newborn for this. you won't find a drink that's sweeter.
+FROST: tell me honestly, do you really get the same rush from that pasteurized piss-serum of yours? you're surprised i know about your serum? you shouldn't be. i know everything about you.
+FROST: you can't keep walking the razor's edge, blade. the day will come -- and soon, when you'll have to choose between our kind and their's. if i were you, i'd take care not to wind up on the wrong end of the fang.
+FROST: love to continue this chat, but it appears i'm melting.
+BLADE: you're not going anywhere.
+FROST: watch me.
+
+BLADE: any progress? 
+KAREN: some. it's been slow --
+BLADE: you don't look so good.
+KAREN: i'm just tired, that's all. we've been up all night.
+KAREN: excuse me.
+
+BLADE: it's started. 
+BLADE: you've got another day or two at most.
+BLADE: for what it's worth, i'm sorry.
+KAREN: you make it sound like i'm already dead.
+
+MAN: extranjero. â¿quien es? 
+BLADE: i'm here to see miracia. kam sent me.
+WOMAN: this way.
+
+KAREN: all right, let's start with the basics -- why do vampires need to drink blood? 
+WHISTLER: their own blood can't sustain hemoglobin.
+KAREN: then vampirism is a genetic defect, just like hemolytic anemia?
+KAREN: so what about gene therapy?
+KAREN: basically you'd have to re-write the victim's dna, alter it so that the dna will produce proteins capable of generating hemoglobin.
+WHISTLER: how?
+KAREN: with a retrovirus. it's injected into the bone marrow cells, it causes the host's dna to mutate. they've been using them to treat sickle-cell anemia.
+WHISTLER: you're serious? you actually think this could work?
+KAREN: on me, yes. on blade, i'm not so sure -- the problem is, blade didn't contract the vampire virus from a bite like i did. he was born with it. the irony is, i could probably cure every vampire but him.
+WHISTLER: then we're back to square one, aren't we? sooner or later, the thirst always wins.
+KAREN: what happened to the power?
+WHISTLER: i don't know, but the back-up generator should've kicked in.
+WHISTLER: uv floodlights are down too.
+
+WHISTLER: get it!!! 
+WHISTLER: understand this -- they are monsters. hesitate for even a moment, and you've lost.
+FROST: words to live by, whistler.
+
+MIRACIA: is something wrong, my friend? 
+BLADE: you're blind --
+MIRACIA: there are other ways to see. sit.
+MIRACIA: perhaps you have brought me something -- an offering for the orishas?
+MIRACIA: hold out your hands.
+BLADE: i didn't come here to get my palms read. i need something translated.
+MIRACIA: show me.
+MIRACIA: sangre. written in blood.
+MIRACIA: this is an old tongue, from an old world. it concerns lamagra.
+BLADE: who is lamagra?
+MIRACIA: the vampire this speaks of his return. miracia's fingers search the parchment again.
+MIRACIA: "-- there will come a day walker." "his blood will call the sleeper from beyond the veil of tears." blade stares at miracia, shaken.
+BLADE: his blood -- ?
+MIRACIA: the day walker's blood is a disparador -- a trigger, you see? for lamagra's return. one need only consume it and the spirit of his ancestors will settle upon him. "and the sleeper will rise from the shadows anew, cleansing the world in a tide of blood."
+BLADE: "the blood tide".
+MIRACIA: yes. the vampire apocalypse. it is said that all who feel its taint will succumb to the thirst.
+BLADE: how do i stop it?
+MIRACIA: the great wheel turns, my friend. the dark is rising. how would you fight a shadow?
+MIRACIA: i am tired. dawn is coming.
+BLADE: but i just got here --
+MIRACIA: you've been here longer than you think.
+
+BLADE: whistler, what did they do to you? 
+WHISTLER: frost took her --
+BLADE: don't try to talk --
+WHISTLER: listen. you have to -- finish me off. you don't want me coming back.
+BLADE: no, we can treat the wounds -- but whistler is shaking his hand.
+WHISTLER: too far gone, you know that.
+BLADE: whistler, i can't.
+WHISTLER: yes you can. now get on with it.
+BLADE: whistler, i --
+WHISTLER: i know. just be quick about it, will you? do it right.
+
+FROST: hello, blade. by the time you watch this, whistler will no doubt be winging his way to heaven, thanks to your capable hands. if it makes any difference to you, he put up quite a fight. 
+FROST: now, i'm sure you're wondering about ms. jansen's well-being. she's alive and kicking -- "ambulatory", as they like to say in the trade. whether or not she remains so is entirely up to you. i'll make this as easy as possible for you, blade. you can find us at the edgewood towers. we'll be waiting with baited breath.
+
+FROST: well, here we are, doctor. 
+KAREN: why haven't you killed me yet?
+MERCURY: deacon likes to play with his food before he eats it.
+KAREN: how many of you are there?
+FROST: a few thousand scattered about the globe. in the past, we've had to restrict our numbers for fear of discovery. that won't be necessary after tonight.
+KAREN: what happens then?
+FROST: the blood tide. our long-prophesied holy war against the humans. there's a force, you see -- a spirit that exists in our blood. i've discovered a way to invoke it.
+KAREN: lamagra --
+FROST: that's right. the answers were there all along, of course, scribbled down in the forgotten languages of my kind. waiting for someone with the patience to decipher them. my elders were foolish enough to dismiss them as wives tales. but i knew better. imagine my surprise when blade turned out to be the key which would set that force free.
+FROST: lamagra isn't a physical being. he's a spirit, requiring a flesh and blood host in order to manifest himself.
+KAREN: you.
+FROST: who better to usher in the blood tide?
+KAREN: there's no need for any of this. your condition can be treated. whistler and i were working on a cure when --
+FROST: what makes you think we want to be cured? blood is only part of the equation. the hunt, the killing, that's what the thirst is really about.
+KAREN: but you use blood banks --
+FROST: only as a last resort. preserved blood is inferior. there's no flavor left to it, no life. fortunately, i've found a way around that particular obstacle.
+
+FROST: under these conditions i can keep a donor alive for years, producing anywhere from fifty to a hundred pints of blood. of course, this is just a pilot program, really. once the tide comes, we'll need to expand production. so many more mouths to feed -- karen turns away, overwhelmed by revulsion. 
+KAREN: you're a monster.
+FROST: why? because we live at another species' expense? your people farm cattle and veal, don't they? fattening them up with steroids? it's called evolution, doctor. survival of the fittest.
+FROST: i have a wake-up call for the human race. you're no longer at the top of the food chain.
+
+VAMPIRE: you think i'm afraid of that toothpick of yours? 
+BLADE: you should be. i've made some improvements.
+
+VANESSA: jason. 
+BLADE: mother -- ?!
+VANESSA: i've missed you so much, jason. you have no idea what i've been through, how much i've wanted to see you --
+
+BLADE: but you -- died -- 
+VANESSA: deacon brought me back.
+BLADE: fight him --
+FROST: she can't. she's one of my thralls now. she has about as much free will as a puppet on a string. you love me, don't you, vanessa?
+VANESSA: yes.
+FROST: what do we have here? your precious serum? i don't think you'll be needing this anymore.
+BLADE: please --
+VANESSA: listen to your father, jason. it's going to be a better world.
+FROST: don't look so surprised, blade. you've spent your life looking for the vampire who fathered you. well you can rest easy now, you've found him. daddy's here.
+FROST: it's true, blade. you've got my blood running through your veins. thirty years ago. a moonlit street, a woman on her way home alone. you were conceived the night i tore my fangs into your mother's flesh.
+
+KAREN: are you all right? 
+BLADE: i've been better --
+BLADE: how long have we been driving?
+KAREN: i don't know. i woke up just before you did --
+KAREN: is it bad?
+KAREN: it won't work on you.
+BLADE: what are you talking about?
+KAREN: your condition's congenital, the genetic mutations occurred in utero. all the other victims contracted vampirism after birth.
+KAREN: i can't cure you, blade. i can cure myself, but i can't cure you. i'm so sorry.
+
+FROST: as above, so below. 
+FROST: welcome to our hall of ancients, doctor. we call it the temple of night.
+FROST: let's see this sword of his.
+FROST: still quite sharp, i see.
+KAREN: blade --
+FROST: you're wasting your breath, woman. he can't hear you now. it's the thirst, you see? it already has him in its grip.
+FROST: how long has it been since you had your serum? twelve hours? more? you must be quite thirsty by now.
+FROST: what does it feel like? is your blood on fire? are you burning up inside? give in to the thirst, blade. embrace your true nature.
+BLADE: -- go to --
+FROST: i've got news for you, blade. we're already here.
+FROST: take him to the sanctuary. it's time he was bled.
+FROST: i'd let you watch the proceedings, doctor, but i'm afraid that privilege is reserved for members of my own race. don't worry, though, i've made alternate arrangements for you.
+
+FROST: we call this the bone pit. it's where we keep our mistakes, the ones who couldn't successfully make the transition from human to vampire. 
+FROST: they'll feed on anything, given the chance -- animals, corpses, even other vampires.
+
+UP ABOVE,: deacon watches from the lip of the pit, amused. 
+FROST: of course, a strapping young woman like yourself -- well i think you just might be considered finger food.
+
+FROST: approaches, still carrying blade's sword. 
+FROST: it's been a long road, hasn't it? such a pity whistler led you so far astray.
+FROST: i don't blame you, though. i want you to know that. even after all you've done. i understand, blade, i really do. it's the human side of you which has corrupted your reasoning, made you weak. but we'll take care of that, won't we?
+BLADE: i'd kill myself -- before i turned into something like you.
+FROST: no you wouldn't. i'm going to bleed you dry, blade. all the poison that makes you human. when the tide comes, you'll be begging me put you through the change.
+FROST: it's done. we should ready ourselves for the ritual of invocation.
+VANESSA: there's no use fighting us, jason.
+
+BLADE: how could you be a part of this? 
+VANESSA: these are my people now. i'm one of them.
+BLADE: you don't have to be.
+VANESSA: you don't understand. i've killed, i've hunted, and i've enjoyed it.
+VANESSA: i wish you could see the world as i do. deacon opened my eyes. there's no turning back from that.
+BLADE: i don't believe that.
+VANESSA: you will. time is on our side. sooner or later, the thirst always wins.
+BLADE: mother!
+VANESSA: your mother died the night you were born.
+
+REVENANT: karreennnnnn. i never thought i'd see you againnnnn. 
+KAREN: curtis?!
+CURTIS REVENANT: tell, me, karennn -- ever have second thoughts -- about us?
+
+MERCURY: it won't be long now, lover. 
+QUINN: we should finish him off.
+MERCURY: no. deacon wants him turned.
+QUINN: waste, if you ask me.
+
+BLADE: get out of here -- 
+KAREN: i'm not leaving without you.
+BLADE: you don't understand. the thirst --
+BLADE: -- tearing me -- apart.
+KAREN: i know. take some of my blood.
+BLADE: no --
+KAREN: it's the only way. you know that. we'll never get out of here alive if you don't.
+BLADE: i can't -- i won't be able to stop --
+KAREN: yes you will. the human side of you is stronger. i know it is.
+
+KAREN: don't stop -- 
+KAREN: my --
+KAREN: are you -- all right?
+BLADE: never been better.
+
+FROST: no longer. 
+BLADE: frost!!!
+
+BLADE: who dies first? 
+FROST: take him.
+QUINN: grew another hand for you sweetmeat -- -- and now i'm gonna kill you with it.
+BLADE: let's see if you can grow a new one of these!
+BLADE: next?
+MERCURY: have a taste of your own medicine!
+
+FROST: you can't hurt me anymore. 
+BLADE: where are you?!
+FROST: everywhere.
+
+FROST: i was wrong about you, blade. you were never one of us. you're a traitor to your race. 
+KAREN: get away from him!
+KAREN: blade!
+
+BLADE: guess you're not quite as invulnerable as you thought. 
+FROST: you're wrong -- a few minutes more, and my transition will be complete. even your sword won't be able to affect me then.
+BLADE: you don't have a few minutes, frost.
+FROST: just as i thought. still chained to your mother's breast after all these years.
+FROST: you're too human, blade.
+
+KAREN: i never imagined i'd be so happy to see the sun rise -- it's over, isn't it? 
+BLADE: for them. but for me --
+BLADE: i feel like it's finally beginning.
 

@@ -1,875 +1,875 @@
-speaker1: hello. hello? 
-speaker2: hi!
-speaker1: martha?
-speaker2: yeah.
-speaker1: oh my where are you?
-speaker2: i'm not sure. upstate i think.
-speaker1: you're in new york?
-speaker2: i think. yeah.
-speaker1: when did you get back?
-
-speaker1: martha? what's wrong? what's happened? 
-speaker2: i don't know. i should go back.
-speaker1: go back where?
-speaker2: i have to go, i can't stay gone.
-speaker1: no, no, no. don't go. what are you talking about?
-speaker2: sorry for calling.
-speaker1: martha! don't hang up. please! do not hang up.
-speaker1: do you want me to come get you?
-speaker2: i can't wait that long.
-speaker1: what do you mean? tell me where you are and i'll come right now.
-speaker2: it's okay, you don't have to-
-speaker1: i want to see you martha. please.
-speaker1: martha!
-
-speaker1: the entrance bell rings. martha turns around and 
-speaker2: marcy may?
-speaker3: what are you doin'?
-speaker3: we were worried about you.
-speaker4: i'm fine.
-speaker3: patrick's worried about you.
-speaker4: i just wanted to come into town.
-speaker3: i could've brought you.
-speaker4: i wanted to walk.
-speaker3: through the woods?
-
-speaker1: you not gonna eat that? 
-speaker1: you ready to go?
-speaker1: come on!
-speaker2: not right now.
-speaker1: no?
-speaker1: i'll get this.
-
-speaker1: it's nice to see you. 
-speaker2: you too.
-speaker1: what's going on?
-speaker2: not much.
-speaker1: you alright?
-speaker2: yeah.
-speaker1: you sure?
-speaker2: yeah.
-speaker1: you were pretty upset on the phone.
-speaker2: sorry. i over reacted.
-
-speaker1: to what? 
-speaker1: what happened?
-speaker2: we had a fight.
-speaker1: who?
-speaker2: me and this guy.
-speaker1: who?
-speaker1: your boyfriend?
-speaker1: did he hurt you?
-speaker2: no!
-speaker1: are you sure?
-speaker2: no. i'm fine.
-speaker1: did you guys break up?
-speaker1: how long were you together?
-speaker2: a while.
-
-speaker1: how long? 
-speaker2: i don't know. maybe a year, maybe more or less.
-speaker1: and you were here the whole time?
-speaker1: you've been back in new york for over a year and you haven't called me?
-speaker2: i'm sorry.
-speaker1: well, i'm glad you're here now.
-
-speaker1: i made you some tea. 
-speaker2: thanks.
-speaker1: ted should be up from the city soon.
-speaker2: i'm pretty tired, is it okay if i just go to bed?
-speaker1: of course.
-speaker1: get some sleep, you'll be as good as new tomorrow.
-
-speaker1: well? 
-speaker2: she seems okay.
-speaker1: what did she say?
-speaker2: not much, she's pretty tired.
-speaker1: where's she been?
-speaker2: she had some boyfriend, they were living in the catskills.
-speaker1: what?
-speaker2: it's okay.
-speaker1: not really lucy.
-speaker2: it's fine. she's here now.
-speaker1: well, how long's she staying?
-speaker2: i don't know.
-
-speaker1: martha? why are you on the floor? 
-speaker2: i'm sorry.
-speaker1: it's okay, you were in a deep sleep. come have some breakfast.
-
-speaker1: martha! welcome! 
-speaker2: hi.
-
-speaker1: great to finally meet you. you sleep alright? 
-speaker2: yeah.
-speaker3: how do you like the house?
-speaker1: it's just a rental.
-speaker3: well i love it.
-speaker2: it's nice. i didn't know there was a lake.
-speaker3: yeah. do you still like to swim?
-speaker2: you don't live in the city anymore?
-speaker3: we do. this is for weekends and holidays.
-speaker3: ted's finishing a new building down town and when it's done we're taking one of the new apartments. you want to see pictures?
-speaker1: do you think she's excited to have you back?
-speaker3: this is the view, the interiors are obviously not finished. it's nice right?
-
-speaker1: we were supposed to move in the spring but construction halted, so, it'll just be a little while longer. 
-speaker2: yep, just a little while longer.
-speaker1: okay, sorry, no more work talk.
-speaker1: aren't you hungry?
-speaker3: not really, sorry.
-speaker2: well, you've got to eat.
-speaker1: it's okay, i can fix you something later.
-
-speaker1: where are we? 
-speaker2: connecticut.
-speaker1: how far are we?
-speaker2: from what?
-speaker1: yesterday.
-speaker2: you mean where i picked you up?
-speaker3: martha nods.
-speaker2: about 3 hours.
-speaker2: why?
-speaker1: just wondered.
-
-speaker1: put out your cigarette. 
-speaker2: why?
-speaker1: just do it.
-speaker2: is that him?
-speaker1: yeah.
-speaker1: hey!
-
-speaker1: is this martha? 
-speaker2: hi!
-speaker1: how're you doing?
-speaker2: great. you've got a really nice place here.
-speaker1: it's as much yours as it is mine.
-speaker1: i thought you quit?
-speaker3: i did.
-speaker1: it's disgusting.
-speaker3: i know. i'm sorry.
-speaker1: don't apologize to me, it's your body.
-speaker1: look after this girl properly zoe, she deserves some real care for once in her life.
-speaker3: i will.
-speaker2: she's been great, everyone's been great.
-speaker1: good.
-speaker1: you look like a marcy may.
-
-speaker1: marcy was my grandmothers name. 
-speaker2: well, there you go.
-speaker3: i'm going for a dip. anyone want to join?
-speaker1: sure.
-speaker1: you coming?
-
-speaker1: brilliant choice of swim wear. 
-speaker2: martha! what are you doing?
-speaker3: what?
-speaker2: would you put some clothes on, you can't swim naked.
-
-speaker1: why? 
-speaker2: you just can't. there are kids around and people come by.
-speaker1: so?
-speaker2: so you can't. we don't, just don't. i have a bathing suit you can borrow.
-
-speaker1: martha! 
-speaker1: i've been trying to wake you. you should get up or you won't sleep through the night. martha wakes up.
-speaker1: you should eat.
-speaker2: i will. i'm just going to sleep a little more first okay?
-speaker1: okay. i'm sorry i got frustrated with you before.
-speaker2: it's okay.
-
-speaker1: she's not coming? 
-speaker2: she's in a really deep sleep. i can't wake her.
-speaker1: she seems a bit off, no?
-speaker2: she's just really tired.
-speaker2: she's had a bad breakup. i want to give her a couple days to get situated, you know?
-speaker1: has she always been like this?
-speaker2: a pain in my ass, yes.
-
-speaker1: hey max. 
-speaker1: where do they go at night?
-speaker2: i don't know, i never get invited.
-speaker2: you want to have a drink with me?
-speaker2: they won't be back for a few hours.
-speaker1: i shouldn't. i'm not going to drink for awhile, i think it's a good idea for me.
-speaker2: alright.
-speaker1: patrick'll know.
-speaker2: it's cool, i'm good at hiding it.
-
-speaker1: we switch off jobs each day so we all know how to do different things. 
-speaker1: do you knit?
-
-speaker1: no. i can learn though. 
-speaker2: it's okay, you'll find your role. it takes time for people to find their role in a new family.
-speaker2: we sell blankets in town. we still need some money, but when the farm's up and running we'll be self sufficient and we'll never have to worry about it again.
-speaker1: when do you think that'll happen?
-speaker2: hopefully by the end of the summer but we'll see. it's hard to get machinery and live stock without cash.
-speaker1: that'll be nice.
-speaker2: shoot.
-
-speaker1: how's everything going so far marcy may? 
-speaker2: good.
-
-speaker1: you like it here? 
-speaker2: yeah, it's really nice.
-speaker1: i want you to feel at home.
-speaker2: i do. thanks.
-speaker1: people have abandoned you your whole life. i don't blame you for not trusting anyone.
-speaker2: what?
-speaker1: if you ever want to have a meaningful relationship, you need to let your guard down.
-speaker1: it's not your fault, but it's there. if you feel safe here, and i think you do, let us in. we just want to help you.
-speaker3: yeah, we think you're awesome.
-speaker1: if you're going to live here then really be apart of things.
-speaker4: good morning. how are you feeling today?
-speaker2: good.
-speaker4: there's this great juice shop in town, i got us a couple of juices.
-
-speaker1: this one is kale with ginseng. it gives me energy, so i thought it might help you. 
-speaker1: i got pineapple orange too if that's better.
-speaker2: maybe that's better. sorry, thanks.
-speaker1: i also got a box of these protein bars just in case you want to snack.
-speaker2: why is the house so big?
-speaker1: it's not that big.
-speaker2: for two people, it's huge.
-speaker1: we like to entertain. our friends come up for weekends and sometimes we have parties. it's just good to have space.
-speaker2: so no one else lives here?
-speaker1: of course no one else lives here.
-
-speaker1: you're married? 
-speaker2: yeah.
-
-speaker1: when? 
-speaker2: earlier this year, in the spring.
-speaker2: i tried to get in touch with you, apparently you got rid of your cell phone?
-speaker1: i lost it.
-speaker2: you never got a new one?
-speaker1: i got used to not having it.
-speaker3: cocktail anyone?
-speaker2: no thanks.
-speaker3: martha?
-speaker1: was it a big wedding?
-speaker2: no, about forty people. mostly his family.
-speaker1: did aunt dora come?
-speaker2: yeah.
-speaker1: did she smoke like chimney and complain about everything.
-speaker4: ted laughs.
-speaker2: she's not that bad.
-speaker1: you never had to live with her.
-speaker3: you lived with dora?
-speaker1: she lived with me after mom died.
-speaker3: where were you?
-speaker2: college.
-speaker2: well i'm sure she'd love to know you're okay.
-speaker1: she hates me.
-speaker2: she doesn't hate you.
-speaker2: look at me.
-speaker1: i hate her.
-speaker2: relax, i don't have any pictures of you.
-speaker2: you're gorgeous. it's annoying.
-speaker2: there you go!
-
-speaker1: don't shake it, that's a myth. 
-speaker2: is it true married people don't
-speaker1: what? no!
-
-speaker1: put this on. 
-speaker2: you're kidding.
-speaker1: your clothes are disgusting martha, just try it.
-speaker2: why does it matter?
-speaker1: it just feels good to put on something nice and comfortable.
-speaker1: it looks good you little
-speaker2: whatever makes you happy mama bear.
-speaker1: you're making fun of me and i think it looks really good.
-
-speaker1: it's no good? 
-speaker2: it's good, it's just, a bit dry.
-speaker1: it's not dry.
-speaker1: it just needs a little salt. what are you laughing about i cooked for you your whole life.
-speaker3: you microwaved chicken nuggets and fish sticks.
-speaker2: she seems better today.
-speaker1: yeah. i wish i didn't have to go tomorrow.
-speaker2: let me take you.
-speaker1: no, i don't want to leave her alone.
-speaker1: you'll be nice to her right?
-speaker2: i'm always nice.
-
-speaker1: i know you feel like something bad just happened marcy may, but you have to trust me, that was not bad, it was truly good. we've all been in this situation, and we wouldn't all still be here if what happened in that room was bad. we all love each other very much, we are all together on this, you have to trust us. 
-speaker1: do you believe me?
-
-speaker1: you're so lucky, i'd give anything to have my first time again. 
-speaker2: really?
-speaker1: yeah, it's so special.
-speaker2: i can't remember anything, i just woke up on the floor and felt this pain -
-speaker1: that's the cleansing. it's good. it means it's working if you can't remember things. you're cleansing yourself of the past and the toxins. martha is distant.
-speaker1: you need to share yourself, don't be so selfish.
-speaker2: i'm not.
-speaker1: so smile then, enjoy this amazing night. it only happens once.
-
-speaker1: well she, she's just a picture. who lives on my wall well she, she's just a picture and the reason, reason, reason it is so small. with a smile so inviting and a body so tall, she, she's just a picture just a picture 
-speaker2: well you stand there, stand there with the nightshade, her dripping ripping down your hands and you ask me, ask me about the
-
-speaker1: what are you doing? 
-speaker2: cleaning.
-speaker2: i thought i'd help out more.
-speaker1: alright. i'm going to take the boat out, do you want to come?
-
-speaker1: is lucy coming? 
-speaker2: she had to run to the city.
-speaker1: oh.
-speaker2: i'll teach you how to drive the boat, come on.
-speaker1: it's okay.
-speaker2: come on.
-
-speaker1: you want one? 
-speaker1: beautiful day.
-speaker2: yeah.
-speaker1: how have things been with you and lucy?
-speaker2: fine.
-
-speaker1: is it strange to spend time together? 
-speaker2: no. why?
-speaker1: it's been a long time.
-speaker2: i don't know, it's normal i guess. she hasn't changed much.
-speaker2: where is she?
-speaker1: at the doctor.
-speaker2: why?
-speaker1: she's getting a check up.
-speaker1: we're trying to have a baby.
-speaker1: what?
-speaker2: i can't imagine it lucy holding a child.
-speaker1: why?
-speaker2: she wouldn't know what to do with it.
-speaker2: do you want a baby?
-speaker1: i want what lucy wants.
-speaker1: if she's happy, i'm happy.
-
-speaker1: so you're unhappy! 
-speaker2: no. she's good. she's relieved to have you back. you had her worried.
-speaker1: why?
-speaker2: you disappeared. you haven't called in two years!
-speaker1: i lost track i guess.
-speaker2: it's good to let people know where you are martha. people worry.
-speaker1: i didn't think lucy would worry about me.
-speaker2: well, she did.
-speaker1: can i go swimming?
-speaker2: you don't need to ask.
-
-speaker1: you jump yet? 
-speaker2: no.
-speaker1: go on.
-speaker3: you ready?
-speaker2: i can't.
-speaker3: sure you can.
-
-speaker1: what? what? 
-speaker1: martha, what are you doing?
-speaker2: nothing!
-speaker1: you can't just come in like that.
-speaker2: sorry.
-speaker1: it, what's wrong?
-speaker2: it's been hard to sleep alone.
-speaker3: all you do is sleep.
-speaker4: martha goes to leave again.
-speaker1: stay, just stay.
-speaker1: why would you think it was okay to come in like that?
-speaker2: i don't know. it's a big bed, you guys were on the other side.
-speaker1: you can't come into our room when we're having sex, that's not normal! it's private.
-speaker2: sorry.
-speaker1: don't apologize, i just want you to understand why it's not okay.
-speaker2: okay.
-speaker1: do you?
-speaker2: yeah.
-speaker1: well?
-speaker2: because it's privte and it's not normal. lucy can see something is really wrong.
-speaker1: just lie down martha.
-
-speaker1: i'm sorry you slept out here. thanks for being patient. 
-speaker2: i don't have much choice do i?
-speaker1: i just want to make sure she's okay.
-speaker2: i get two weeks a year to come out here and try to relax before i have to go back to work!
-speaker1: i know.
-speaker2: i am under so much pressure right now-
-speaker1: i know you are.
-speaker2: i have a month to get this building up and running or the bank takes it.
-speaker1: that has nothing to do with martha.
-
-speaker1: my point is, i don't need the extra stress. 
-speaker2: i'm her only family. she needs to be able to depend on me right now.
-speaker2: it's complicated ted.
-speaker1: as complicated as it might be, we can't just keep ignoring the fact that her behavior is insane.
-
-speaker1: do you ever hear things hitting the roof at night? 
-speaker2: no. maybe it's the pine cones.
-speaker2: where did you pick up gardening?
-speaker1: we had a garden where i lived?
-speaker2: you're good.
-speaker1: i'm good at some things.
-speaker2: i know you are.
-speaker2: was he ever physical with you?
-speaker1: who?
-speaker2: your boyfriend.
-
-speaker1: what do you mean? 
-speaker2: did he ever, hit you?
-speaker1: no.
-speaker2: you had a bruised ear, and when you called me you were hysterical.
-speaker2: are you sure?
-speaker1: yes.
-speaker2: you can tell me.
-speaker1: he never hit me.
-speaker2: i wish you felt more comfortable talking to me.
-speaker1: i do.
-speaker2: so talk.
-speaker1: there's nothing to talk about. i had a boyfriend, he lied to me, i left. that's it, everything doesn't have to be a big
-
-speaker1: don't stare! 
-speaker2: you okay?
-speaker3: yeah. he's right. i don't know why i'm so weak.
-speaker2: you're not. you'll quit.
-speaker2: who's that?
-speaker1: her name's sarah i think.
-speaker1: you should handle her.
-speaker2: you think?
-speaker1: you're ready. zoe can help but you'll be great.
-speaker2: whose car was that?
-
-speaker1: i don't know. why? 
-speaker2: just curious.
-speaker1: there's a hiking trail, people leave their cars there all the time.
-
-speaker1: sorry. 
-speaker2: it's okay.
-speaker1: you're going to hurt someone.
-speaker1: can you go get me a large jug of water.
-speaker3: what's wrong with the tap?
-speaker1: i like bottled.
-speaker3: it's a waste.
-speaker1: will you get it or not?
-
-speaker1: did you know that guy? 
-speaker2: what guy?
-speaker1: the guy in the store.
-speaker2: the one you almost ran into? no.
-speaker1: he was looking at me like he knew me.
-speaker1: did you say something to him?
-speaker2: like what?
-speaker1: i don't know, you tell me.
-speaker2: what are you talking about?
-
-speaker1: if you don't want guys to drool all over you, then wear more clothes- 
-speaker2: just drive the car lucy.
-speaker1: what?
-speaker2: drive the car!
-
-speaker1: i don't think we should have the party. 
-speaker2: it's labor day, we always have it.
-speaker1: things are just too stressful right now.
-speaker2: i've already invited clients.
-speaker1: i'm sure people would understand-
-speaker2: they wouldn't.
-speaker1: i just think it would be best.
-speaker2: for who, martha?
-speaker1: for all of us.
-speaker2: it's not an option! we're having the party.
-speaker1: and that's the end of it, because you say so.
-
-speaker1: we share all of this, if it fits, you can wear it. 
-speaker2: cool.
-speaker1: this is where we sleep. you can take any bed that's open or you can sleep downstairs.
-speaker2: i'm hungry, can we eat?
-speaker1: we don't eat until the evening.
-speaker2: really?
-speaker1: you'll get used to it. your body doesn't need that much food. you're taught to overconsume. there is a baby asleep in the crib.
-speaker2: he's beautiful. whose the mother?
-speaker1: katie's, but we all help out.
-speaker2: is patrick the father?
-
-speaker1: uh huh. 
-speaker2: they look just like him.
-speaker2: all the kids here are boys?
-speaker1: he only has boys.
-speaker2: you're good with them.
-speaker1: you want to hold him?
-speaker2: no thanks.
-speaker2: i don't have to take care of them do i?
-speaker1: not if you don't want to. there are plenty of jobs to be done.
-speaker1: you'll find your role. it takes time for people to find their role in a new family.
-
-speaker1: i called my dad today to ask for money. 
-speaker2: does patrick know?
-speaker1: he asked me to. sometimes, if there's something we really need i'll call.
-speaker2: how was it?
-
-speaker1: fine, they're not bad people. 
-speaker2: did he give you the money?
-speaker1: yeah. he thinks i'm on drugs.
-speaker2: do you tell him you're not?
-speaker1: no, that's why he gives it to me. i guess he'd rather pay for it than think i'm sucking for it.
-speaker3: i've done drugs. not a lot but i've tried everything pretty much, except heroin.
-speaker1: it's good to try everything at least once. you find out who you are that way. what about drinking, do you drink?
-speaker3: i have, but i don't.
-speaker1: good, we don't drink. it just makes you angry and less focused.
-speaker2: don't get the wrong idea sarah. we don't talk to our old families.
-speaker3: i wouldn't call my dad anyway, no matter how much he paid me. patrick and watts walk out of the woods.
-speaker4: hey.
-speaker2: hi patrick, did you meet sarah yet?
-speaker4: sally, yeah.
-
-speaker1: that's enough. 
-speaker1: half is fine.
-
-speaker1: i'll do these if you want to go to bed. 
-speaker2: i don't mind.
-speaker1: get some sleep.
-speaker2: okay.
-
-speaker1: oh, hi. 
-speaker2: hi.
-speaker2: what do i have to do?
-speaker1: nothing you don't want to. drink this, it will help you relax.
-speaker1: it's herbal. it's the start of your cleansing.
-speaker1: we've all done it so you know there's nothing to worry about.
-speaker2: do i have to wear this robe?
-speaker1: i know it seems a bit silly, but it's a part of it.
-speaker1: you look amazing. it's your special night with him, enjoy it, you'll be great.
-speaker2: thanks.
-
-speaker1: shouldn't we start cooking? 
-speaker2: i just made some potato salad. ted's cooking the fish.
-speaker1: i thought we were going to cook.
-speaker2: we cooked last night.
-speaker1: oh, yeah.
-speaker1: do you ever have this thing where you can't tell if something's a memory or if it's something you've dreamed?
-speaker2: not really.
-speaker2: do you blame me for anything?
-speaker1: no.
-speaker1: like what?
-
-speaker1: i don't know. 
-speaker1: i'm just trying to figure out why we stopped talking.
-speaker2: i didn't think about it.
-speaker1: really?
-speaker2: we were far apart.
-speaker1: sometimes i wonder if, maybe i could have taken better care of you.
-speaker2: the past doesn't matter.
-speaker1: it does matter.
-speaker2: i took care of myself.
-speaker1: i know you did. i think i could have done more though.
-speaker2: stop it.
-speaker1: be honest with me, you never think about it?
-speaker2: no.
-speaker1: you're not angry at me?
-speaker2: i know you don't think much of me but i knew what i was doing then and i still do.
-
-speaker1: no, martha, i think the world of you, i'm just wondering if i should have come back and kept you in school and helped you go to college, you had so much potential. 
-speaker2: i don't need your guidance, i never did. i'm a teacher and a leader, you just never let me be that but now i know i am, i know who i am.
-speaker1: teacher and a leader? what are you talking about? i always encouraged you to do more, but you shut me out.
-
-speaker1: just because we're sisters doesn't mean we need to talk about everything that comes into your head. 
-speaker2: dinner's ready.
-speaker2: so what are your plans martha?
-speaker1: for what?
-speaker2: life.
-speaker1: i don't know.
-speaker2: are you thinking about what you can do for work?
-
-speaker1: no. 
-speaker2: you're at an age where you need to start thinking about a career.
-speaker1: why?
-speaker2: it's a part of adult life.
-speaker1: there are other ways to live.
-speaker2: really?
-speaker1: sure.
-speaker2: like what?
-speaker1: i don't know. people don't need careers, people should just exist. ted laughs.
-speaker3: he's just saying we should start talking about what you're interested in. maybe we can help you get some ideas together.
-speaker2: i have moments when i would love to move to france and just exist but it doesn't work that way.
-speaker1: you can do that if you want to.
-speaker2: it's not that simple.
-
-speaker1: lucy is floored by martha's response. 
-speaker2: and what do you think the right way to live is? being a hysterical mess and causing your family pain. you're eating my food and sleeping under my roof so watch your mouth. you're rude.
-speaker3: you don't know anything about it.
-
-speaker1: hello...hello. 
-speaker2: who's this?
-speaker1: who's this?
-speaker1: zoe?
-speaker2: she not there?
-speaker1: she's not.
-speaker2: where is she?
-speaker1: who is this?
-speaker2: who is this?
-speaker1: it's marlene lewis. who's this.
-
-speaker1: watts said i'm supposed to teach you how to defend yourselves but i think you're hopeless. 
-speaker2: i'm surprised your even knows how to load it.
-speaker1: please, i'm like doc holiday.
-speaker1: you are so hot when you shoot, makes my hard.
-speaker2: what happened doc? i should be teaching you.
-speaker3: alright, my turn.
-
-speaker1: i'm teaching her how to shoot. then you just squeeeeeeeeeze. 
-speaker2: focus. take a deep breath. think about someone who wronged you. feel it, feel how they made you feel in your stomach. take a deep breath, feel it all moving out into your hands. let it build. it's transferring to the gun, building in the gun. now release.
-speaker2: feels good right?
-speaker2: now try that.
-speaker3: what do you mean?
-speaker2: shoot it.
-speaker3: they're living animals.
-speaker2: so, shoot max then.
-speaker2: go on!
-
-speaker1: this. 
-speaker2: don't walk away from me max.
-speaker2: the cat has terminal cancer, it's in excruciating pain.
-speaker3: i can't.
-speaker2: max has no substance, he's just here to free load and be around the girls but you're a teacher and leader, you just don't see it because no one let you believe it before me. you're a leader a marcy, now prove it.
-speaker2: the cat reminds you of some fluffy thing you think you used to love. you're holding on to some false emotion that stops you from doing what's right.
-speaker2: i could spend my life being selfish, living alone, using this gift for me but i've sacrificed myself to be what you all need me to be. you need to trust me.
-speaker3: i trust you.
-speaker2: then you shouldn't need me to explain everything.
-speaker2: what did you do?
-
-speaker1: you said it was sick. 
-speaker2: one of them was sick, zoe knew which one it was! max tosses the gun and walks away.
-
-speaker1: you okay? 
-speaker2: i'm fine.
-speaker2: i'll probably leave this place soon anyways.
-speaker1: where are you going to go?
-speaker2: i got places. my cousin lives in bennington, he said i could go up there and make like, $500 a week selling weed.
-speaker1: you don't want to do that.
-speaker2: i don't care what i do. i'm sick of all these rules.
-speaker1: max, they're not rules. it's just common sense.
-speaker2: it feels like rules. they won't let me do anything. i can't even go on the house runs. i'd be great at taking
-speaker1: it's not about taking
-speaker2: sounds like it's about taking to me.
-
-speaker1: and that's why you don't get to come. you just don't get it. 
-speaker1: you need to quit drinking.
-speaker2: i'm not drinking.
-speaker1: you're still living with all the you carried out there. you're the only one, let it go.
-speaker2: i'll try.
-speaker1: no. you can't try. you have to stop. they love you, they just want you to be stronger.
-speaker2: i'm strong, they'll see.
-speaker1: you'll be okay.
-
-speaker1: christ you scared me. 
-speaker2: sorry.
-speaker1: did i wake you?
-speaker2: no. i can't sleep.
-speaker1: me neither. i was going to watch a movie.
-speaker1: you want to watch?
-speaker2: i should try to sleep.
-speaker1: it always helps me. it's better than lying in bed awake. he takes a couple of beers out of the fridge.
-
-speaker1: you want me to make some breakfast? 
-speaker1: hey!
-speaker1: what's wrong?
-speaker2: you can not be serious right now.
-speaker1: what?
-speaker1: lucy!
-
-speaker1: one minute you're going after martha at the dinner table, then you're curling up together on the couch? 
-speaker2: no one was curling up with anybody.
-speaker1: you really do think i'm stupid don't you?
-speaker2: i couldn't sleep, i was watching a movie, she came out and sat down and started watching with me. what am i supposed to do, tell her to leave? beat.
-speaker2: you're being ridiculous.
-speaker1: you can lose your temper at will but when i get off, i'm being crazy or ridiculous! i couldn't possibly be mad for a reason. lucy gets undressed and gets in the shower.
-speaker2: are you accusing me of something? because if you are, i'd like you to say it out loud so you can hear how absurd it sounds.
-speaker1: you. i just want you to think about how walking in on that might make me feel.
-speaker2: you ask me to make more of an effort. i try to do that and you get upset. i can't win.
-speaker1: you're unbelievable.
-
-speaker1: you shouldn't smoke. 
-speaker2: what? i don't smoke.
-
-speaker1: especially if you're trying to have a kid. 
-speaker2: maybe you should mind your own business. the phone rings. it startles martha.
-speaker2: i can't deal with talking to anyone right now. martha is frozen, watching the phone ring.
-
-speaker1: what's you name? 
-speaker2: i'm sorry?
-
-speaker1: what's your name? 
-speaker2: mike.
-speaker2: can i get you something?
-speaker1: i used to like this.
-speaker2: straight?
-speaker1: i thought you weren't supposed to drink mike.
-speaker2: i'm not drinking.
-speaker1: you think you're so smart.
-speaker3: hey, what happenind?
-speaker1: we all need to leave.
-speaker3: what?
-speaker1: he's a liar. we all need to leave.
-
-speaker1: what are you talking about? 
-speaker2: we have to leave. we all have to leave. i know him.
-speaker1: who?
-speaker1: what the is wrong with you?
-speaker2: you don't want to live with this lucy.
-speaker1: martha.
-speaker3: calm down.
-
-speaker1: what are you talking about? 
-speaker2: they're here.
-speaker1: breath.
-speaker2: don't touch me, you're not listening to me!
-
-speaker1: what the 
-speaker2: hey, we can go.
-speaker1: what do you want?
-speaker2: nothing.
-speaker2: no need for that, we are leaving. watts, zoe and martha walk to the front door. patrick appears behind the man.
-speaker3: calm down, if you calm down no one will get hurt.
-speaker1: what do you want?
-
-speaker1: we're not stealing, we don't want anything. 
-speaker2: just get out.
-speaker1: we're just looking at the house. it's nice.
-speaker1: we didn't realize you were home. we wouldn't have come in otherwise.
-speaker2: just leave.
-speaker1: i would but i can't be sure you won't call the police.
-speaker2: i won't. you didn't take anything so just go, i just want my family to be safe.
-speaker1: safe? why wouldn't anyone be safe. unless you call the police, everything will be fine.
-speaker2: okay, i won't. you have my word, please just go.
-speaker2: get the out of my house.
-
-speaker1: look at me. 
-speaker1: you okay?
-speaker2: uh huh.
-speaker1: you know that death is the most beautiful part of life, right? death is beautiful because everyone fears death. and fear is the greatest human emotion of all because it creates complete awareness. when you're scared it forces you to be completely aware of your surroundings and the moment you're in. it brings you to now and that makes you truly present. and when you are truly present, that's nirvana, that's pure love. so, death is pure love.
-
-speaker1: thanks mom. i'm sorry i ruined the party. 
-speaker2: everything was fine.
-speaker1: is it over?
-speaker2: yes, you slept through the night.
-speaker1: that's good.
-speaker2: are you going to drink the tea?
-speaker1: i don't want it.
-
-speaker1: we have to do something. 
-speaker2: he's fine. right max?
-speaker3: yeah, i'm cool.
-speaker1: watts!
-
-speaker1: there's nothing to do marcy, you need to get inside. max is strong, he'll be fine. right? 
-speaker2: yeah, i'm good marcy. stop.
-
-speaker1: how long do you think we'll be down here? 
-speaker2: it'll just be a few days. just to be safe.
-
-speaker1: do you feel alright? if you hit your head you shouldn't sleep. 
-speaker2: i'm fine.
-speaker1: do you know why we're down here?
-speaker2: no. do you?
-speaker1: what do you think it was?
-speaker2: i don't know. it doesn't matter.
-
-speaker1: do you still think about leaving? 
-speaker2: no. it's cool now, i don't really have anywhere to go. why, would you?
-speaker1: no. i just wanted to see about you.
-
-speaker1: hello? 
-speaker2: hi, is watts there?
-speaker1: who's this?
-speaker2: jane. is watts there?
-speaker1: can i help you?
-speaker2: who's this?
-
-speaker1: it's marlene lewis. what's your last name jane. 
-speaker2: heller, sorry, do i have the right number?
-speaker1: i don't know, do you?
-speaker1: it's a jane.
-speaker3: hey. how are you? sure, yeah, let's do it, i'll be around there on friday. no, that was my cousin marlene, yeah, i'll see you in a bit then. great, i'm glad you called.
-speaker3: hey.
-speaker4: nothing till they're done. you know better.
-speaker1: i know. sorry katie.
-speaker5: who's katie?
-
-speaker1: what? 
-speaker2: who's katie?
-speaker1: oh, nothing.
-speaker1: lucy?
-speaker2: yeah.
-speaker1: is this from the past or is this now?
-speaker2: what?
-speaker1: i don't remember waking up this morning.
-speaker2: why don't you go sit down, i'll finish up.
-speaker3: what's going on?
-speaker2: who the knows.
-speaker3: she needs to see someone.
-
-speaker1: i know. 
-speaker2: i'll start looking into places tomorrow. we can arrange for her to be somewhere by wednesday.
-speaker1: places?
-speaker2: i don't think she should stay with us anymore. we can't do anything for her when she's like this.
-speaker1: i don't want to talk about it anymore.
-
-speaker1: zoe? 
-speaker2: yeah.
-speaker1: i can't stop feeling terrible for that poor man.
-speaker2: i know. it happens though, we're never really dead or alive, we just exist, so he's still existing, but it's in a parallel time. just don't think about it, it's in the past.
-
-speaker1: martha, it's me, can i come in? 
-speaker2: haven't you learned anything?
-speaker3: i have.
-speaker2: i felt like we had a connection.
-speaker3: we do!
-speaker2: that's not what you're showing me.
-speaker2: maybe i asked too much from you too soon. you have potential but you're just not there yet. i'll expect less of you fro now on.
-speaker3: i'm sorry.
-speaker2: shhh. it's okay.
-speaker2: you're my favorite, i won't lose you.
-
-speaker1: are you alright? 
-speaker1: what the happened?
-speaker2: she kicked me down the stairs. christ, what's it going to take, lucy.
-speaker1: you could have killed him.
-speaker3: i was confused.
-speaker1: about what, what are you so confused about?
-speaker3: i thought he was someone else.
-
-speaker1: you thought he was someone else? what is wrong with you? 
-speaker1: i'm not doing this anymore, i'm not doing this anymore. i beat myself up over you for years and i'm sick of it, i'm sick of chasing you down and worrying about you. i need to move on.
-speaker2: i'm sorry.
-speaker1: you need help martha.
-speaker2: i know.
-speaker1: what happened to you?
-speaker1: what happened to you?
-speaker2: i don't know.
-speaker1: we're going to get you proper help.
-speaker2: are you going to send me away?
-speaker1: i don't know how to help you anymore.
-speaker2: please don't. please don't.
-speaker1: i can't help you.
-
-speaker1: please, i can't be alone, please. 
-speaker2: we're trying to start a family and i don't trust you to be here.
-speaker1: lucy?
-speaker2: what?
-speaker2: what?
-speaker1: you're going to be a terrible mother.
-speaker2: do you have any money left?
-speaker2: of course you don't.
-speaker2: we'll make sure everything is taken care of.
-
-speaker1: going swimming? 
-speaker2: yeah.
-speaker1: it's a bit chilly.
-speaker2: i don't mind.
-speaker1: i think we both said some things last night that we didn't mean.
-speaker2: yeah.
-speaker1: we scheduled an appointment for you tomorrow morning.
-speaker2: what's it like there?
-speaker1: it looks nice.
-speaker1: we're heading back to the city in about an hour. you'll be ready to go?
-speaker2: yep.
-
-speaker1: christ. 
-speaker2: are you okay?
-speaker1: yeah.
-speaker2: what was he doing?
-speaker3: she is frozen with fear, she thinks about saying
+LUCY: hello. hello? 
+MARTHA: hi!
+LUCY: martha?
+MARTHA: yeah.
+LUCY: oh my where are you?
+MARTHA: i'm not sure. upstate i think.
+LUCY: you're in new york?
+MARTHA: i think. yeah.
+LUCY: when did you get back?
+
+LUCY: martha? what's wrong? what's happened? 
+MARTHA: i don't know. i should go back.
+LUCY: go back where?
+MARTHA: i have to go, i can't stay gone.
+LUCY: no, no, no. don't go. what are you talking about?
+MARTHA: sorry for calling.
+LUCY: martha! don't hang up. please! do not hang up.
+LUCY: do you want me to come get you?
+MARTHA: i can't wait that long.
+LUCY: what do you mean? tell me where you are and i'll come right now.
+MARTHA: it's okay, you don't have to-
+LUCY: i want to see you martha. please.
+LUCY: martha!
+
+5.: the entrance bell rings. martha turns around and 
+MAN'S VOICE: marcy may?
+WATTS: what are you doin'?
+WATTS: we were worried about you.
+MARTHA: i'm fine.
+WATTS: patrick's worried about you.
+MARTHA: i just wanted to come into town.
+WATTS: i could've brought you.
+MARTHA: i wanted to walk.
+WATTS: through the woods?
+
+WATTS: you not gonna eat that? 
+WATTS: you ready to go?
+WATTS: come on!
+MARTHA: not right now.
+WATTS: no?
+WATTS: i'll get this.
+
+LUCY: it's nice to see you. 
+MARTHA: you too.
+LUCY: what's going on?
+MARTHA: not much.
+LUCY: you alright?
+MARTHA: yeah.
+LUCY: you sure?
+MARTHA: yeah.
+LUCY: you were pretty upset on the phone.
+MARTHA: sorry. i over reacted.
+
+LUCY: to what? 
+LUCY: what happened?
+MARTHA: we had a fight.
+LUCY: who?
+MARTHA: me and this guy.
+LUCY: who?
+LUCY: your boyfriend?
+LUCY: did he hurt you?
+MARTHA: no!
+LUCY: are you sure?
+MARTHA: no. i'm fine.
+LUCY: did you guys break up?
+LUCY: how long were you together?
+MARTHA: a while.
+
+LUCY: how long? 
+MARTHA: i don't know. maybe a year, maybe more or less.
+LUCY: and you were here the whole time?
+LUCY: you've been back in new york for over a year and you haven't called me?
+MARTHA: i'm sorry.
+LUCY: well, i'm glad you're here now.
+
+LUCY: i made you some tea. 
+MARTHA: thanks.
+LUCY: ted should be up from the city soon.
+MARTHA: i'm pretty tired, is it okay if i just go to bed?
+LUCY: of course.
+LUCY: get some sleep, you'll be as good as new tomorrow.
+
+TED: well? 
+LUCY: she seems okay.
+TED: what did she say?
+LUCY: not much, she's pretty tired.
+TED: where's she been?
+LUCY: she had some boyfriend, they were living in the catskills.
+TED: what?
+LUCY: it's okay.
+TED: not really lucy.
+LUCY: it's fine. she's here now.
+TED: well, how long's she staying?
+LUCY: i don't know.
+
+LUCY: martha? why are you on the floor? 
+MARTHA: i'm sorry.
+LUCY: it's okay, you were in a deep sleep. come have some breakfast.
+
+TED: martha! welcome! 
+MARTHA: hi.
+
+TED: great to finally meet you. you sleep alright? 
+MARTHA: yeah.
+LUCY: how do you like the house?
+TED: it's just a rental.
+LUCY: well i love it.
+MARTHA: it's nice. i didn't know there was a lake.
+LUCY: yeah. do you still like to swim?
+MARTHA: you don't live in the city anymore?
+LUCY: we do. this is for weekends and holidays.
+LUCY: ted's finishing a new building down town and when it's done we're taking one of the new apartments. you want to see pictures?
+TED: do you think she's excited to have you back?
+LUCY: this is the view, the interiors are obviously not finished. it's nice right?
+
+LUCY: we were supposed to move in the spring but construction halted, so, it'll just be a little while longer. 
+TED: yep, just a little while longer.
+LUCY: okay, sorry, no more work talk.
+LUCY: aren't you hungry?
+MARTHA: not really, sorry.
+TED: well, you've got to eat.
+LUCY: it's okay, i can fix you something later.
+
+MARTHA: where are we? 
+LUCY: connecticut.
+MARTHA: how far are we?
+LUCY: from what?
+MARTHA: yesterday.
+LUCY: you mean where i picked you up?
+14.: martha nods.
+LUCY: about 3 hours.
+LUCY: why?
+MARTHA: just wondered.
+
+ZOE: put out your cigarette. 
+MARTHA: why?
+ZOE: just do it.
+MARTHA: is that him?
+ZOE: yeah.
+ZOE: hey!
+
+PATRICK: is this martha? 
+MARTHA: hi!
+PATRICK: how're you doing?
+MARTHA: great. you've got a really nice place here.
+PATRICK: it's as much yours as it is mine.
+PATRICK: i thought you quit?
+ZOE: i did.
+PATRICK: it's disgusting.
+ZOE: i know. i'm sorry.
+PATRICK: don't apologize to me, it's your body.
+PATRICK: look after this girl properly zoe, she deserves some real care for once in her life.
+ZOE: i will.
+MARTHA: she's been great, everyone's been great.
+PATRICK: good.
+PATRICK: you look like a marcy may.
+
+MARTHA: marcy was my grandmothers name. 
+PATRICK: well, there you go.
+TED: i'm going for a dip. anyone want to join?
+MARTHA: sure.
+MARTHA: you coming?
+
+TED: brilliant choice of swim wear. 
+LUCY: martha! what are you doing?
+MARTHA: what?
+LUCY: would you put some clothes on, you can't swim naked.
+
+MARTHA: why? 
+LUCY: you just can't. there are kids around and people come by.
+MARTHA: so?
+LUCY: so you can't. we don't, just don't. i have a bathing suit you can borrow.
+
+LUCY: martha! 
+LUCY: i've been trying to wake you. you should get up or you won't sleep through the night. martha wakes up.
+LUCY: you should eat.
+MARTHA: i will. i'm just going to sleep a little more first okay?
+LUCY: okay. i'm sorry i got frustrated with you before.
+MARTHA: it's okay.
+
+TED: she's not coming? 
+LUCY: she's in a really deep sleep. i can't wake her.
+TED: she seems a bit off, no?
+LUCY: she's just really tired.
+LUCY: she's had a bad breakup. i want to give her a couple days to get situated, you know?
+TED: has she always been like this?
+LUCY: a pain in my ass, yes.
+
+MARTHA: hey max. 
+MARTHA: where do they go at night?
+MAX: i don't know, i never get invited.
+MAX: you want to have a drink with me?
+MAX: they won't be back for a few hours.
+MARTHA: i shouldn't. i'm not going to drink for awhile, i think it's a good idea for me.
+MAX: alright.
+MARTHA: patrick'll know.
+MAX: it's cool, i'm good at hiding it.
+
+KATIE: we switch off jobs each day so we all know how to do different things. 
+KATIE: do you knit?
+
+MARTHA: no. i can learn though. 
+KATIE: it's okay, you'll find your role. it takes time for people to find their role in a new family.
+KATIE: we sell blankets in town. we still need some money, but when the farm's up and running we'll be self sufficient and we'll never have to worry about it again.
+MARTHA: when do you think that'll happen?
+KATIE: hopefully by the end of the summer but we'll see. it's hard to get machinery and live stock without cash.
+MARTHA: that'll be nice.
+KATIE: shoot.
+
+PATRICK: how's everything going so far marcy may? 
+MARTHA: good.
+
+PATRICK: you like it here? 
+MARTHA: yeah, it's really nice.
+PATRICK: i want you to feel at home.
+MARTHA: i do. thanks.
+PATRICK: people have abandoned you your whole life. i don't blame you for not trusting anyone.
+MARTHA: what?
+PATRICK: if you ever want to have a meaningful relationship, you need to let your guard down.
+PATRICK: it's not your fault, but it's there. if you feel safe here, and i think you do, let us in. we just want to help you.
+ZOE: yeah, we think you're awesome.
+PATRICK: if you're going to live here then really be apart of things.
+LUCY: good morning. how are you feeling today?
+MARTHA: good.
+LUCY: there's this great juice shop in town, i got us a couple of juices.
+
+LUCY: this one is kale with ginseng. it gives me energy, so i thought it might help you. 
+LUCY: i got pineapple orange too if that's better.
+MARTHA: maybe that's better. sorry, thanks.
+LUCY: i also got a box of these protein bars just in case you want to snack.
+MARTHA: why is the house so big?
+LUCY: it's not that big.
+MARTHA: for two people, it's huge.
+LUCY: we like to entertain. our friends come up for weekends and sometimes we have parties. it's just good to have space.
+MARTHA: so no one else lives here?
+LUCY: of course no one else lives here.
+
+MARTHA: you're married? 
+LUCY: yeah.
+
+MARTHA: when? 
+LUCY: earlier this year, in the spring.
+LUCY: i tried to get in touch with you, apparently you got rid of your cell phone?
+MARTHA: i lost it.
+LUCY: you never got a new one?
+MARTHA: i got used to not having it.
+TED: cocktail anyone?
+LUCY: no thanks.
+TED: martha?
+MARTHA: was it a big wedding?
+LUCY: no, about forty people. mostly his family.
+MARTHA: did aunt dora come?
+LUCY: yeah.
+MARTHA: did she smoke like chimney and complain about everything.
+24.: ted laughs.
+LUCY: she's not that bad.
+MARTHA: you never had to live with her.
+TED: you lived with dora?
+MARTHA: she lived with me after mom died.
+TED: where were you?
+LUCY: college.
+LUCY: well i'm sure she'd love to know you're okay.
+MARTHA: she hates me.
+LUCY: she doesn't hate you.
+LUCY: look at me.
+MARTHA: i hate her.
+LUCY: relax, i don't have any pictures of you.
+LUCY: you're gorgeous. it's annoying.
+LUCY: there you go!
+
+LUCY: don't shake it, that's a myth. 
+MARTHA: is it true married people don't
+LUCY: what? no!
+
+LUCY: put this on. 
+MARTHA: you're kidding.
+LUCY: your clothes are disgusting martha, just try it.
+MARTHA: why does it matter?
+LUCY: it just feels good to put on something nice and comfortable.
+LUCY: it looks good you little
+MARTHA: whatever makes you happy mama bear.
+LUCY: you're making fun of me and i think it looks really good.
+
+LUCY: it's no good? 
+TED: it's good, it's just, a bit dry.
+LUCY: it's not dry.
+LUCY: it just needs a little salt. what are you laughing about i cooked for you your whole life.
+MARTHA: you microwaved chicken nuggets and fish sticks.
+TED: she seems better today.
+LUCY: yeah. i wish i didn't have to go tomorrow.
+TED: let me take you.
+LUCY: no, i don't want to leave her alone.
+LUCY: you'll be nice to her right?
+TED: i'm always nice.
+
+KATIE: i know you feel like something bad just happened marcy may, but you have to trust me, that was not bad, it was truly good. we've all been in this situation, and we wouldn't all still be here if what happened in that room was bad. we all love each other very much, we are all together on this, you have to trust us. 
+KATIE: do you believe me?
+
+ZOE: you're so lucky, i'd give anything to have my first time again. 
+MARTHA: really?
+ZOE: yeah, it's so special.
+MARTHA: i can't remember anything, i just woke up on the floor and felt this pain -
+ZOE: that's the cleansing. it's good. it means it's working if you can't remember things. you're cleansing yourself of the past and the toxins. martha is distant.
+ZOE: you need to share yourself, don't be so selfish.
+MARTHA: i'm not.
+ZOE: so smile then, enjoy this amazing night. it only happens once.
+
+PATRICK: well she, she's just a picture. who lives on my wall well she, she's just a picture and the reason, reason, reason it is so small. with a smile so inviting and a body so tall, she, she's just a picture just a picture 
+THAT'S ALL: well you stand there, stand there with the nightshade, her dripping ripping down your hands and you ask me, ask me about the
+
+TED: what are you doing? 
+MARTHA: cleaning.
+MARTHA: i thought i'd help out more.
+TED: alright. i'm going to take the boat out, do you want to come?
+
+MARTHA: is lucy coming? 
+TED: she had to run to the city.
+MARTHA: oh.
+TED: i'll teach you how to drive the boat, come on.
+MARTHA: it's okay.
+TED: come on.
+
+TED: you want one? 
+TED: beautiful day.
+MARTHA: yeah.
+TED: how have things been with you and lucy?
+MARTHA: fine.
+
+TED: is it strange to spend time together? 
+MARTHA: no. why?
+TED: it's been a long time.
+MARTHA: i don't know, it's normal i guess. she hasn't changed much.
+MARTHA: where is she?
+TED: at the doctor.
+MARTHA: why?
+TED: she's getting a check up.
+TED: we're trying to have a baby.
+TED: what?
+MARTHA: i can't imagine it lucy holding a child.
+TED: why?
+MARTHA: she wouldn't know what to do with it.
+MARTHA: do you want a baby?
+TED: i want what lucy wants.
+TED: if she's happy, i'm happy.
+
+MARTHA: so you're unhappy! 
+TED: no. she's good. she's relieved to have you back. you had her worried.
+MARTHA: why?
+TED: you disappeared. you haven't called in two years!
+MARTHA: i lost track i guess.
+TED: it's good to let people know where you are martha. people worry.
+MARTHA: i didn't think lucy would worry about me.
+TED: well, she did.
+MARTHA: can i go swimming?
+TED: you don't need to ask.
+
+PATRICK: you jump yet? 
+MARTHA: no.
+PATRICK: go on.
+WATTS: you ready?
+MARTHA: i can't.
+WATTS: sure you can.
+
+LUCY: what? what? 
+LUCY: martha, what are you doing?
+MARTHA: nothing!
+LUCY: you can't just come in like that.
+MARTHA: sorry.
+LUCY: it, what's wrong?
+MARTHA: it's been hard to sleep alone.
+TED: all you do is sleep.
+35.: martha goes to leave again.
+LUCY: stay, just stay.
+LUCY: why would you think it was okay to come in like that?
+MARTHA: i don't know. it's a big bed, you guys were on the other side.
+LUCY: you can't come into our room when we're having sex, that's not normal! it's private.
+MARTHA: sorry.
+LUCY: don't apologize, i just want you to understand why it's not okay.
+MARTHA: okay.
+LUCY: do you?
+MARTHA: yeah.
+LUCY: well?
+MARTHA: because it's privte and it's not normal. lucy can see something is really wrong.
+LUCY: just lie down martha.
+
+LUCY: i'm sorry you slept out here. thanks for being patient. 
+TED: i don't have much choice do i?
+LUCY: i just want to make sure she's okay.
+TED: i get two weeks a year to come out here and try to relax before i have to go back to work!
+LUCY: i know.
+TED: i am under so much pressure right now-
+LUCY: i know you are.
+TED: i have a month to get this building up and running or the bank takes it.
+LUCY: that has nothing to do with martha.
+
+TED: my point is, i don't need the extra stress. 
+LUCY: i'm her only family. she needs to be able to depend on me right now.
+LUCY: it's complicated ted.
+TED: as complicated as it might be, we can't just keep ignoring the fact that her behavior is insane.
+
+MARTHA: do you ever hear things hitting the roof at night? 
+LUCY: no. maybe it's the pine cones.
+LUCY: where did you pick up gardening?
+MARTHA: we had a garden where i lived?
+LUCY: you're good.
+MARTHA: i'm good at some things.
+LUCY: i know you are.
+LUCY: was he ever physical with you?
+MARTHA: who?
+LUCY: your boyfriend.
+
+MARTHA: what do you mean? 
+LUCY: did he ever, hit you?
+MARTHA: no.
+LUCY: you had a bruised ear, and when you called me you were hysterical.
+LUCY: are you sure?
+MARTHA: yes.
+LUCY: you can tell me.
+MARTHA: he never hit me.
+LUCY: i wish you felt more comfortable talking to me.
+MARTHA: i do.
+LUCY: so talk.
+MARTHA: there's nothing to talk about. i had a boyfriend, he lied to me, i left. that's it, everything doesn't have to be a big
+
+KATIE: don't stare! 
+MARTHA: you okay?
+ZOE: yeah. he's right. i don't know why i'm so weak.
+MARTHA: you're not. you'll quit.
+MARTHA: who's that?
+KATIE: her name's sarah i think.
+KATIE: you should handle her.
+MARTHA: you think?
+KATIE: you're ready. zoe can help but you'll be great.
+MARTHA: whose car was that?
+
+LUCY: i don't know. why? 
+MARTHA: just curious.
+LUCY: there's a hiking trail, people leave their cars there all the time.
+
+LUCY: sorry. 
+YOUNG MAN: it's okay.
+LUCY: you're going to hurt someone.
+LUCY: can you go get me a large jug of water.
+MARTHA: what's wrong with the tap?
+LUCY: i like bottled.
+MARTHA: it's a waste.
+LUCY: will you get it or not?
+
+MARTHA: did you know that guy? 
+LUCY: what guy?
+MARTHA: the guy in the store.
+LUCY: the one you almost ran into? no.
+MARTHA: he was looking at me like he knew me.
+MARTHA: did you say something to him?
+LUCY: like what?
+MARTHA: i don't know, you tell me.
+LUCY: what are you talking about?
+
+LUCY: if you don't want guys to drool all over you, then wear more clothes- 
+MARTHA: just drive the car lucy.
+LUCY: what?
+MARTHA: drive the car!
+
+LUCY: i don't think we should have the party. 
+TED: it's labor day, we always have it.
+LUCY: things are just too stressful right now.
+TED: i've already invited clients.
+LUCY: i'm sure people would understand-
+TED: they wouldn't.
+LUCY: i just think it would be best.
+TED: for who, martha?
+LUCY: for all of us.
+TED: it's not an option! we're having the party.
+LUCY: and that's the end of it, because you say so.
+
+MARTHA: we share all of this, if it fits, you can wear it. 
+SARAH: cool.
+MARTHA: this is where we sleep. you can take any bed that's open or you can sleep downstairs.
+SARAH: i'm hungry, can we eat?
+MARTHA: we don't eat until the evening.
+SARAH: really?
+MARTHA: you'll get used to it. your body doesn't need that much food. you're taught to overconsume. there is a baby asleep in the crib.
+SARAH: he's beautiful. whose the mother?
+MARTHA: katie's, but we all help out.
+SARAH: is patrick the father?
+
+MARTHA: uh huh. 
+SARAH: they look just like him.
+SARAH: all the kids here are boys?
+MARTHA: he only has boys.
+SARAH: you're good with them.
+MARTHA: you want to hold him?
+SARAH: no thanks.
+SARAH: i don't have to take care of them do i?
+MARTHA: not if you don't want to. there are plenty of jobs to be done.
+MARTHA: you'll find your role. it takes time for people to find their role in a new family.
+
+ZOE: i called my dad today to ask for money. 
+MARTHA: does patrick know?
+ZOE: he asked me to. sometimes, if there's something we really need i'll call.
+MARTHA: how was it?
+
+ZOE: fine, they're not bad people. 
+MARTHA: did he give you the money?
+ZOE: yeah. he thinks i'm on drugs.
+MARTHA: do you tell him you're not?
+ZOE: no, that's why he gives it to me. i guess he'd rather pay for it than think i'm sucking for it.
+SARAH: i've done drugs. not a lot but i've tried everything pretty much, except heroin.
+ZOE: it's good to try everything at least once. you find out who you are that way. what about drinking, do you drink?
+SARAH: i have, but i don't.
+ZOE: good, we don't drink. it just makes you angry and less focused.
+MARTHA: don't get the wrong idea sarah. we don't talk to our old families.
+SARAH: i wouldn't call my dad anyway, no matter how much he paid me. patrick and watts walk out of the woods.
+PATRICK: hey.
+MARTHA: hi patrick, did you meet sarah yet?
+PATRICK: sally, yeah.
+
+KATIE: that's enough. 
+KATIE: half is fine.
+
+LUCY: i'll do these if you want to go to bed. 
+MARTHA: i don't mind.
+LUCY: get some sleep.
+MARTHA: okay.
+
+MARTHA: oh, hi. 
+SARAH: hi.
+SARAH: what do i have to do?
+MARTHA: nothing you don't want to. drink this, it will help you relax.
+MARTHA: it's herbal. it's the start of your cleansing.
+MARTHA: we've all done it so you know there's nothing to worry about.
+SARAH: do i have to wear this robe?
+MARTHA: i know it seems a bit silly, but it's a part of it.
+MARTHA: you look amazing. it's your special night with him, enjoy it, you'll be great.
+SARAH: thanks.
+
+MARTHA: shouldn't we start cooking? 
+LUCY: i just made some potato salad. ted's cooking the fish.
+MARTHA: i thought we were going to cook.
+LUCY: we cooked last night.
+MARTHA: oh, yeah.
+MARTHA: do you ever have this thing where you can't tell if something's a memory or if it's something you've dreamed?
+LUCY: not really.
+LUCY: do you blame me for anything?
+MARTHA: no.
+MARTHA: like what?
+
+LUCY: i don't know. 
+LUCY: i'm just trying to figure out why we stopped talking.
+MARTHA: i didn't think about it.
+LUCY: really?
+MARTHA: we were far apart.
+LUCY: sometimes i wonder if, maybe i could have taken better care of you.
+MARTHA: the past doesn't matter.
+LUCY: it does matter.
+MARTHA: i took care of myself.
+LUCY: i know you did. i think i could have done more though.
+MARTHA: stop it.
+LUCY: be honest with me, you never think about it?
+MARTHA: no.
+LUCY: you're not angry at me?
+MARTHA: i know you don't think much of me but i knew what i was doing then and i still do.
+
+LUCY: no, martha, i think the world of you, i'm just wondering if i should have come back and kept you in school and helped you go to college, you had so much potential. 
+MARTHA: i don't need your guidance, i never did. i'm a teacher and a leader, you just never let me be that but now i know i am, i know who i am.
+LUCY: teacher and a leader? what are you talking about? i always encouraged you to do more, but you shut me out.
+
+MARTHA: just because we're sisters doesn't mean we need to talk about everything that comes into your head. 
+TED: dinner's ready.
+TED: so what are your plans martha?
+MARTHA: for what?
+TED: life.
+MARTHA: i don't know.
+TED: are you thinking about what you can do for work?
+
+MARTHA: no. 
+TED: you're at an age where you need to start thinking about a career.
+MARTHA: why?
+TED: it's a part of adult life.
+MARTHA: there are other ways to live.
+TED: really?
+MARTHA: sure.
+TED: like what?
+MARTHA: i don't know. people don't need careers, people should just exist. ted laughs.
+LUCY: he's just saying we should start talking about what you're interested in. maybe we can help you get some ideas together.
+TED: i have moments when i would love to move to france and just exist but it doesn't work that way.
+MARTHA: you can do that if you want to.
+TED: it's not that simple.
+
+52.: lucy is floored by martha's response. 
+TED: and what do you think the right way to live is? being a hysterical mess and causing your family pain. you're eating my food and sleeping under my roof so watch your mouth. you're rude.
+MARTHA: you don't know anything about it.
+
+WOMAN: hello...hello. 
+MARTHA: who's this?
+WOMAN: who's this?
+WOMAN: zoe?
+MARTHA: she not there?
+WOMAN: she's not.
+MARTHA: where is she?
+WOMAN: who is this?
+MARTHA: who is this?
+WOMAN: it's marlene lewis. who's this.
+
+MAX: watts said i'm supposed to teach you how to defend yourselves but i think you're hopeless. 
+ZOE: i'm surprised your even knows how to load it.
+MAX: please, i'm like doc holiday.
+MAX: you are so hot when you shoot, makes my hard.
+ZOE: what happened doc? i should be teaching you.
+MARTHA: alright, my turn.
+
+MAX: i'm teaching her how to shoot. then you just squeeeeeeeeeze. 
+PATRICK: focus. take a deep breath. think about someone who wronged you. feel it, feel how they made you feel in your stomach. take a deep breath, feel it all moving out into your hands. let it build. it's transferring to the gun, building in the gun. now release.
+PATRICK: feels good right?
+PATRICK: now try that.
+MARTHA: what do you mean?
+PATRICK: shoot it.
+MARTHA: they're living animals.
+PATRICK: so, shoot max then.
+PATRICK: go on!
+
+MAX: this. 
+PATRICK: don't walk away from me max.
+PATRICK: the cat has terminal cancer, it's in excruciating pain.
+MARTHA: i can't.
+PATRICK: max has no substance, he's just here to free load and be around the girls but you're a teacher and leader, you just don't see it because no one let you believe it before me. you're a leader a marcy, now prove it.
+PATRICK: the cat reminds you of some fluffy thing you think you used to love. you're holding on to some false emotion that stops you from doing what's right.
+PATRICK: i could spend my life being selfish, living alone, using this gift for me but i've sacrificed myself to be what you all need me to be. you need to trust me.
+MARTHA: i trust you.
+PATRICK: then you shouldn't need me to explain everything.
+PATRICK: what did you do?
+
+MAX: you said it was sick. 
+PATRICK: one of them was sick, zoe knew which one it was! max tosses the gun and walks away.
+
+MARTHA: you okay? 
+MAX: i'm fine.
+MAX: i'll probably leave this place soon anyways.
+MARTHA: where are you going to go?
+MAX: i got places. my cousin lives in bennington, he said i could go up there and make like, $500 a week selling weed.
+MARTHA: you don't want to do that.
+MAX: i don't care what i do. i'm sick of all these rules.
+MARTHA: max, they're not rules. it's just common sense.
+MAX: it feels like rules. they won't let me do anything. i can't even go on the house runs. i'd be great at taking
+MARTHA: it's not about taking
+MAX: sounds like it's about taking to me.
+
+MARTHA: and that's why you don't get to come. you just don't get it. 
+MARTHA: you need to quit drinking.
+MAX: i'm not drinking.
+MARTHA: you're still living with all the you carried out there. you're the only one, let it go.
+MAX: i'll try.
+MARTHA: no. you can't try. you have to stop. they love you, they just want you to be stronger.
+MAX: i'm strong, they'll see.
+MARTHA: you'll be okay.
+
+TED: christ you scared me. 
+MARTHA: sorry.
+TED: did i wake you?
+MARTHA: no. i can't sleep.
+TED: me neither. i was going to watch a movie.
+TED: you want to watch?
+MARTHA: i should try to sleep.
+TED: it always helps me. it's better than lying in bed awake. he takes a couple of beers out of the fridge.
+
+TED: you want me to make some breakfast? 
+TED: hey!
+TED: what's wrong?
+LUCY: you can not be serious right now.
+TED: what?
+TED: lucy!
+
+LUCY: one minute you're going after martha at the dinner table, then you're curling up together on the couch? 
+TED: no one was curling up with anybody.
+LUCY: you really do think i'm stupid don't you?
+TED: i couldn't sleep, i was watching a movie, she came out and sat down and started watching with me. what am i supposed to do, tell her to leave? beat.
+TED: you're being ridiculous.
+LUCY: you can lose your temper at will but when i get off, i'm being crazy or ridiculous! i couldn't possibly be mad for a reason. lucy gets undressed and gets in the shower.
+TED: are you accusing me of something? because if you are, i'd like you to say it out loud so you can hear how absurd it sounds.
+LUCY: you. i just want you to think about how walking in on that might make me feel.
+TED: you ask me to make more of an effort. i try to do that and you get upset. i can't win.
+LUCY: you're unbelievable.
+
+MARTHA: you shouldn't smoke. 
+LUCY: what? i don't smoke.
+
+MARTHA: especially if you're trying to have a kid. 
+LUCY: maybe you should mind your own business. the phone rings. it startles martha.
+LUCY: i can't deal with talking to anyone right now. martha is frozen, watching the phone ring.
+
+MARTHA: what's you name? 
+BARTENDER: i'm sorry?
+
+MARTHA: what's your name? 
+BARTENDER: mike.
+BARTENDER: can i get you something?
+MARTHA: i used to like this.
+BARTENDER: straight?
+MARTHA: i thought you weren't supposed to drink mike.
+BARTENDER: i'm not drinking.
+MARTHA: you think you're so smart.
+LUCY: hey, what happenind?
+MARTHA: we all need to leave.
+LUCY: what?
+MARTHA: he's a liar. we all need to leave.
+
+LUCY: what are you talking about? 
+MARTHA: we have to leave. we all have to leave. i know him.
+LUCY: who?
+LUCY: what the is wrong with you?
+MARTHA: you don't want to live with this lucy.
+LUCY: martha.
+TED: calm down.
+
+LUCY: what are you talking about? 
+MARTHA: they're here.
+LUCY: breath.
+MARTHA: don't touch me, you're not listening to me!
+
+MAN: what the 
+WATTS: hey, we can go.
+MAN: what do you want?
+WATTS: nothing.
+WATTS: no need for that, we are leaving. watts, zoe and martha walk to the front door. patrick appears behind the man.
+PATRICK: calm down, if you calm down no one will get hurt.
+MAN: what do you want?
+
+PATRICK: we're not stealing, we don't want anything. 
+MAN: just get out.
+PATRICK: we're just looking at the house. it's nice.
+PATRICK: we didn't realize you were home. we wouldn't have come in otherwise.
+MAN: just leave.
+PATRICK: i would but i can't be sure you won't call the police.
+MAN: i won't. you didn't take anything so just go, i just want my family to be safe.
+PATRICK: safe? why wouldn't anyone be safe. unless you call the police, everything will be fine.
+MAN: okay, i won't. you have my word, please just go.
+MAN: get the out of my house.
+
+PATRICK: look at me. 
+PATRICK: you okay?
+MARTHA: uh huh.
+PATRICK: you know that death is the most beautiful part of life, right? death is beautiful because everyone fears death. and fear is the greatest human emotion of all because it creates complete awareness. when you're scared it forces you to be completely aware of your surroundings and the moment you're in. it brings you to now and that makes you truly present. and when you are truly present, that's nirvana, that's pure love. so, death is pure love.
+
+MARTHA: thanks mom. i'm sorry i ruined the party. 
+LUCY: everything was fine.
+MARTHA: is it over?
+LUCY: yes, you slept through the night.
+MARTHA: that's good.
+LUCY: are you going to drink the tea?
+MARTHA: i don't want it.
+
+MARTHA: we have to do something. 
+WATTS: he's fine. right max?
+MAX: yeah, i'm cool.
+MARTHA: watts!
+
+WATTS: there's nothing to do marcy, you need to get inside. max is strong, he'll be fine. right? 
+MAX: yeah, i'm good marcy. stop.
+
+MARTHA: how long do you think we'll be down here? 
+ZOE: it'll just be a few days. just to be safe.
+
+MARTHA: do you feel alright? if you hit your head you shouldn't sleep. 
+MAX: i'm fine.
+MARTHA: do you know why we're down here?
+MAX: no. do you?
+MARTHA: what do you think it was?
+MAX: i don't know. it doesn't matter.
+
+MARTHA: do you still think about leaving? 
+MAX: no. it's cool now, i don't really have anywhere to go. why, would you?
+MARTHA: no. i just wanted to see about you.
+
+MARTHA: hello? 
+VOICE: hi, is watts there?
+MARTHA: who's this?
+VOICE: jane. is watts there?
+MARTHA: can i help you?
+VOICE: who's this?
+
+MARTHA: it's marlene lewis. what's your last name jane. 
+VOICE: heller, sorry, do i have the right number?
+MARTHA: i don't know, do you?
+MARTHA: it's a jane.
+WATTS: hey. how are you? sure, yeah, let's do it, i'll be around there on friday. no, that was my cousin marlene, yeah, i'll see you in a bit then. great, i'm glad you called.
+WATTS: hey.
+KATIE: nothing till they're done. you know better.
+MARTHA: i know. sorry katie.
+LUCY: who's katie?
+
+MARTHA: what? 
+LUCY: who's katie?
+MARTHA: oh, nothing.
+MARTHA: lucy?
+LUCY: yeah.
+MARTHA: is this from the past or is this now?
+LUCY: what?
+MARTHA: i don't remember waking up this morning.
+LUCY: why don't you go sit down, i'll finish up.
+TED: what's going on?
+LUCY: who the knows.
+TED: she needs to see someone.
+
+LUCY: i know. 
+TED: i'll start looking into places tomorrow. we can arrange for her to be somewhere by wednesday.
+LUCY: places?
+TED: i don't think she should stay with us anymore. we can't do anything for her when she's like this.
+LUCY: i don't want to talk about it anymore.
+
+MARTHA: zoe? 
+ZOE: yeah.
+MARTHA: i can't stop feeling terrible for that poor man.
+ZOE: i know. it happens though, we're never really dead or alive, we just exist, so he's still existing, but it's in a parallel time. just don't think about it, it's in the past.
+
+ZOE: martha, it's me, can i come in? 
+PATRICK: haven't you learned anything?
+MARTHA: i have.
+PATRICK: i felt like we had a connection.
+MARTHA: we do!
+PATRICK: that's not what you're showing me.
+PATRICK: maybe i asked too much from you too soon. you have potential but you're just not there yet. i'll expect less of you fro now on.
+MARTHA: i'm sorry.
+PATRICK: shhh. it's okay.
+PATRICK: you're my favorite, i won't lose you.
+
+LUCY: are you alright? 
+LUCY: what the happened?
+TED: she kicked me down the stairs. christ, what's it going to take, lucy.
+LUCY: you could have killed him.
+MARTHA: i was confused.
+LUCY: about what, what are you so confused about?
+MARTHA: i thought he was someone else.
+
+LUCY: you thought he was someone else? what is wrong with you? 
+LUCY: i'm not doing this anymore, i'm not doing this anymore. i beat myself up over you for years and i'm sick of it, i'm sick of chasing you down and worrying about you. i need to move on.
+MARTHA: i'm sorry.
+LUCY: you need help martha.
+MARTHA: i know.
+LUCY: what happened to you?
+LUCY: what happened to you?
+MARTHA: i don't know.
+LUCY: we're going to get you proper help.
+MARTHA: are you going to send me away?
+LUCY: i don't know how to help you anymore.
+MARTHA: please don't. please don't.
+LUCY: i can't help you.
+
+MARTHA: please, i can't be alone, please. 
+LUCY: we're trying to start a family and i don't trust you to be here.
+MARTHA: lucy?
+LUCY: what?
+LUCY: what?
+MARTHA: you're going to be a terrible mother.
+LUCY: do you have any money left?
+LUCY: of course you don't.
+LUCY: we'll make sure everything is taken care of.
+
+LUCY: going swimming? 
+MARTHA: yeah.
+LUCY: it's a bit chilly.
+MARTHA: i don't mind.
+LUCY: i think we both said some things last night that we didn't mean.
+MARTHA: yeah.
+LUCY: we scheduled an appointment for you tomorrow morning.
+MARTHA: what's it like there?
+LUCY: it looks nice.
+LUCY: we're heading back to the city in about an hour. you'll be ready to go?
+MARTHA: yep.
+
+TED: christ. 
+LUCY: are you okay?
+TED: yeah.
+LUCY: what was he doing?
+81.: she is frozen with fear, she thinks about saying
 

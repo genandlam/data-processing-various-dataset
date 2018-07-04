@@ -1,542 +1,542 @@
-speaker1: you make sure to get us as close as you can, okay? if it's a good trip, i'll give you a little extra. 
-speaker2: don't worry. i take you close. but not too close. you don't want them to eat you.
-speaker2: ready, amigos?
-speaker3: what was that?
-speaker3: ben!
-speaker1: unclip your line!
-
-speaker1: oh, actually, charlie, those two are herbivores. they wouldn't be interested in fighting each other. but these... see, these are carnivores. and this one here -- see its claws -- this one here uses its claws to gouge at the throat of its opponent 
-speaker2: uh, alan?
-speaker1: hmm?
-speaker2: he's three. why don't you wait till he's a little older?
-speaker1: oh, right. happy dinosaurs.
-speaker2: that must be mark. mark, weâ’re back here! ellie and grant turn to see --
-speaker2: good day?
-speaker3: keeping the world safe. here, let me take her.
-speaker2: mark, this is alan grant.
-speaker3: nice to meet you, alan. i've heard a lot about you.
-speaker4: daddy, this is a herbabore.
-
-speaker1: what's my name? come on, jack, say it. is my name alan? say my name. the bird doesn't respond. 
-speaker1: he used to know me.
-speaker2: sorry, alan it's been six years.
-speaker3: more coffee?
-speaker2: yes. great.
-speaker2: so, mark's working at the state department now.
-speaker1: really? what do you do there?
-speaker1: indeed.
-speaker2: so what are you working on now?
-speaker1: we have a new site in montana. at least until the money runs out.
-speaker2: anything good?
-speaker1: raptors, mostly.
-speaker2: my favorite.
-speaker1: you remember the sounds they made?
-speaker2: i try not to.
-speaker1: we've done cranial scans, and raptors actually had a quite sophisticated resonating chamber. i have a theory that their ability to vocalize is the key to their social intelligence. the way they can work together as a team.
-speaker2: you think they could talk to each other?
-speaker1: to a degree we never imagined.
-speaker4: 
-speaker2: you taught him that.
-
-speaker1: good luck with the fund raising. 
-speaker2: it was never easy, but before jurassic park, you could find money. somewhere. now fossils are out. everyone wants to see a real live dinosaur.
-speaker1: times change alan. but you're the still the best. i mean that.
-speaker2: the last of my breed.
-speaker2: i'd better get going.
-speaker1: let me know if i can help, alan. youâ’re bad about asking for help, but please ask me. anything, anytime.
-speaker2: okay. goodbye, ellie.
-speaker1: goodbye, alan.
-speaker1: when i met you, i thought that one day millions of years ago, all the dinosaurs became extinct. wiped out. but you told me otherwise. when conditions changed, dinosaurs changed. they became other things.
-speaker2: a well-accepted theory.
-
-speaker1: thank you very much dr. grant. now does anyone have a question? 
-speaker2: does anyone have a question that doesn't relate to jurassic park? quite a few hands go down. grant or the incident in san diego, which i'll remind you, i did not witness.
-
-speaker1: isn't paleontology itself in danger of extinction? 
-speaker2: no, and let me be perfectly clear on this point. dinosaurs lived 65 million years ago. what's left of them is fossilized in stone the actual scientists spend years to undercover.
-
-speaker1: billy? i don't think i'm doing this right. 
-speaker2: you need to go slowly. see, just take it little at a time. she's not listening, just watching his eyelashes.
-speaker1: i can never tell what's bone and what's rock.
-speaker2: technically, it's all rock. the calcium in the bones is replaced during fossilization. but you can feel the difference. see? rough, smooth. rough, smooth.
-speaker1: rough. ...and along his lips. cheryl smooth.
-speaker3: falls across them. billy looks up to see...
-speaker2: dr. grant!
-speaker4: mr. brennan.
-
-speaker1: how was your trip? profitable? 
-speaker2: we'll be broke in four weeks.
-speaker1: three weeks. i had to rent some equipment.
-speaker2: you rented an automated litter box.
-speaker1: it's a rapid prototyper. i feed in the scan data from the raptor skull, than the computer breaks it into thousands of slices which this thing prints, one layer on top of the other. it's the future of paleontology.
-speaker2: not if it can't dig.
-speaker1: i give you a raptor's resonating chamber.
-speaker2: absolutely not.
-speaker1: they're here.
-speaker2: what?
-speaker3: dr. grant?
-speaker2: yes?
-speaker3: paul kirby. kirby enterprises my card. paul kirby is a talkative optimist with no "off" switch. his wife amanda kirby, just as friendly, is harder to read. there seems to be exhaustion behind her eyes.
-speaker2: what can i do for you, mr. kirby?
-speaker4: well sir, i am a great admirer
-speaker2: you know, i've been traveling and i'm very tired. maybe some other time.
-speaker4: i guarantee it'll be worth your while.
-speaker2: it's be my pleasure.
-
-speaker1: first off let me say as a dinosaur enthusiasts, amanda and i have admired your work for years. 
-speaker2: it is truly, whatâ’s the word? inspiring.
-speaker3: thank you.
-speaker1: amanda and i, well, we just love the outdoors. heck we've been on pretty much any adventure tour they can come up with: galapagos, k2, the nile...
-speaker2: we even have two seats reserved aboard the first commercial moon flight. billy nudges grant.
-speaker3: hmmm.
-speaker1: now, for our wedding anniversary this year we wanted to do something really special, something... he places his hand on his wife's.
-speaker2: ...once-in-a-lifetime.
-speaker1: we've arranged for a private airplane to take us flying over isla sorna. and we want you to be our guide.
-speaker3: that's a very nice offer, mr. kirby, but i'm afraid i'm much to busy. if you like i can refer you to a number of highly qualified...
-speaker1: no, no, see dr. grant, you're the best. you've seen these animals in the flesh. no one else has come close to you.
-speaker3: i'm flattered, but i've taken this little adventure tour. and with the air restrictions they've imposed after the incident in san diego, you canâ’t fly low enough to see anything of interest.
-speaker2: you see, that's just the thing. paul and i have special permission to fly low.
-speaker4: how low?
-speaker1: well, i'm no aviation specialist. but i do know it's of a lot lower than anyone else.
-speaker2: from what i understand, it's pretty much whatever we want.
-speaker3: that's hard to believe.
-speaker1: let's just say that through my business -- imports/exports, emerging markets -- i've made some friends in high places. in this case, the costa rican government.
-speaker2: dr. grant, you don't know how important it is for us to have you come along. it would make all the difference.
-
-speaker1: even with what i pay you, you could get a better bag. 
-speaker2: no way. this is lucky. couple years ago some buddies and i went hang gliding off these cliffs in new zealand. updraft sent me right into the side. boom!
-speaker1: that does sound lucky.
-speaker2: it was this strap alone that saved my life. got caught on a rock as i was falling.
-speaker1: reverse-darwinism. survival of the most idiotic.
-speaker2: listen alan, i really appreciate you bringing me along.
-speaker1: the bones will be there when we get back. that's the nice thing about them. they never run away. and besides, you got me into this. i don't intend to be alone with these people.
-
-speaker1: so how do you know the kirby's? and we reveal... 
-speaker2: through our church.
-speaker1: what religion?
-speaker2: uh the one that worships and believes in being good.
-speaker3: the plane continues onward.
-
-speaker1: alan. we're almost there. 
-speaker2: clouds obscure the view, than parts reveal
-speaker3: rising majestically out of the water.
-
-speaker1: admit it. you're excited. grant will admit nothing. 
-speaker2: cooper! yell up if you see anything!
-speaker3: no, i thought i'd keep it to myself.
-speaker4: there. there! an apatosaur. look at the coloration.
-
-speaker1: mr. and mrs. kirby! if you look out the right you can see... 
-speaker2: south shore is clear. the rest is rock.
-speaker3: are we on?
-speaker2: we're on.
-
-speaker1: that's not the landing gear? 
-speaker1: what you're... you can't land.
-speaker2: dr. grant if you'd just sit tight, we'll explain this all in a jiffy.
-speaker1: this plane can not land!
-speaker3: it's going to be all right. just...
-
-speaker1: tell me we didn't land. 
-speaker2: i think they're looking for someone.
-
-speaker1: dr. grant, are you alright? i'm sorry we had to be so... 
-speaker2: what the is going on? what are they doing?
-speaker1: establishing a perimeter. making it safe. these guys are really good. one of them was a green...
-speaker2: mr. kirby, trust me, on this island, there is no such thing as safe. we have to get back in this plane...
-
-speaker1: and tell your wife to stop making so much noise! we're food to these animals. 
-speaker2: amanda, honey! dr. grant says it's a bad idea!
-speaker3: what?
-speaker2: he says it's a bad idea!
-speaker3: what's a bad idea?
-speaker2: what was that?
-speaker4: is it a rex?
-speaker1: i don't think so.
-speaker1: sounds bigger.
-speaker5: we gotta go, now!
-speaker2: what's the problem? can't you guys...?
-
-speaker1: we can't just... 
-speaker2: don't worry, honey. we'll circle around and come back. udesky closes the door.
-speaker3: what about the other guy?
-speaker4: coop's a professional. he can handle himself.
-
-speaker1: we're going! 
-speaker2: the plane starts down the runway.
-
-speaker1: coop, you know i can't do it pal. 
-speaker2: what are you doing? that's mr. cooper!
-
-speaker1: is anyone hurt? 
-speaker2: quiet! we're okay. let's everybody just stay put.
-speaker3: who's got the sat-phone?
-speaker4: right here!
-speaker5: he quickly shuts and latches the door.
-
-speaker1:  
-speaker2: what is it? what's the matter? amanda screams.
-speaker2: the plane lurches - and we hear a deep growl.
-
-speaker1: why did you bring us here? 
-speaker2: our son is on this island. we need your help to find him.
-speaker3: this is him. eric. heâ’s thirteen now. he's just about the greatest kid in the world.
-speaker2: he's with a man named ben hildebrand.
-speaker4: who's that?
-speaker3: her new boyfriend.
-speaker2: a friend. we were vacationing. eric wanted to see the island and the dinosaurs, so ben found a guy who would take them parasailing. they never came back.
-speaker3: we called everyone, did everything we could. because of all the controversy over this island, no one will step in. costa rica says it's a no-fly zone, it's their own fault. guys at the u.s embassy -- our u.s. embassy -- said we should "accept the inevitable." you believe that?
-speaker1: so you hired these mercenaries.
-speaker5: we prefer "recovery specialists." we do overseas custody issues and...
-speaker1: then you duped us into coming here.
-speaker3: we needed somebody who knew the lay of the
-speaker1: i have never been on this island!
-speaker3: sure you have. you wrote that book...
-speaker4: that was isla nublar. this is isla sorna. the second island.
-speaker3: i didn't know, there were two islands.
-speaker2: still, you have survived the dinosaurs before. you saved those kids.
-speaker1: a few of us survived. a lot more died. and we were better prepared and better armed. how many days have they been missing? a look between amanda and paul.
-speaker3: eight weeks.
-speaker1: after what you've seen today, you really think your son could be alive?
-speaker2: he's smart, dr. grant. and he knows so much about dinosaurs.
-speaker1: no, i'm sorry, but no. we'll savage what we can from the plane. then we head for the coast. there may be a boat left, something to get us off this island.
-speaker3: dr. grant, we're not leaving without our son.
-speaker1: you can stick with us, or you can go and look for him. either way you're probably not getting out of here alive.
-speaker6: they look to udesky.
-speaker3: what do we do?
-speaker5: well, i think we should start searching for your son. in the direction they're going.
-speaker3: excellent.
-
-speaker1: sorry. 
-speaker2: nothing you haven't seen before.
-speaker2: how much weight have you lost?
-speaker1: twenty, twenty-fire pounds. i've been swimming at the y.
-speaker2: you hate to swim.
-speaker1: people change.
-speaker1: you look good.
-speaker2: so do you.
-speaker3: how would you classify it?
-speaker4: obviously a superpredator. suchimimus. that snout.
-speaker3: they never got that big.
-speaker4: baryonyx?
-speaker3: not with that sail. spinosaurus aegypticus.
-speaker4: i don't remember that on ingen's list.
-speaker3: that's because it wasn't on their list. who knows what else they were up to?
-speaker4: so mr. kirby, tell me, when you climbed k2, did you base camp at 25- or 30,000 feet?
-speaker1: thirty-thousand, i think. closer to the top.
-speaker4: about a thousand feet above it, actually. most mountain-climbers remember how tall that mountains were. paul knows he's caught.
-speaker3: there is no kirby enterprises, is there?
-speaker1: there is. i own a place called kirby paint and title plus. we're out in the westgate shopping center in enid, oklahoma. the "plus" is for bathroom fixtures, fireplaces accessories, patio furniture. stuff like that.
-speaker4: i don't suppose that check you wrote us is any good.
-speaker5: he paid us half up front. cash.
-speaker1: mortgaged everything we had to do it. even the store. and if we make it off this island with my son, i swear, i'll make good on the money i owe you. i don't care if it takes me the rest of my life. grant and udesky exchange a dubious glance.
-speaker5: however long that is.
-
-speaker1: eric! 
-speaker2: quiet!
-speaker3: stop that. dr. grant says this is dangerous territory.
-speaker1: well we should split up or something. we can cover twice the area.
-speaker3: no, dr. grant says...
-speaker1: dr. grant says this, dr. grant says that...
-speaker3: well what's the use of hiring an expert if your not going to listen to him?
-speaker1: because "dr. grant" isn't looking for eric. dr. grant is looking for the coast.
-speaker3: fine...and when the tricyclatops comes after you, don't come crying to me.
-speaker1: oh, don't worry about that.
-speaker3: what?
-speaker1: nothing.
-speaker3: what did you say?
-speaker1: nothing.
-speaker3: what did you say!
-speaker1: just drop it paul!
-speaker4: if they split up, i'm going with you.
-
-speaker1: young adult. 
-speaker2: eric...
-speaker3: hey. got something here.
-speaker2: that's ben's!
-speaker3: here, give that to me.
-speaker4: it looks intact.
-speaker5: we should take it with us to signal any planes.
-speaker3: i think i've got it.
-speaker2: it works!
-speaker3: i don't know for how long.
-speaker1: that's him. thatâ’s eric!
-speaker2: i filmed this the morning they left.
-
-speaker1: ben! 
-speaker2: unclip the line!
-
-speaker1: hand on! hang on buddy! 
-speaker1: are you ok, buddy?
-speaker2: i don't know. i think so.
-speaker1: we're okay. it's going to be okay. here, get ready. i'm going to unhook you.
-speaker2: i'm all right
-speaker1: we're going to get out of this, pal. and on that, the power and picture fade away.
-speaker3: see? he's okay. he's alive! everything's going to be all right now.
-speaker4: it swings down directly at amanda. she screams.
-speaker3: amanda!
-
-speaker1: i'm sorry amanda. i am. and i'm sorry for the things i said about him. 
-speaker2: no, it's...
-speaker1: i know you liked ben. i had no right to...
-speaker2: i guess i was hoping that with ben around, there'd be someone to keep him safe.
-speaker3: dr. grant!
-speaker4: raptors.
-
-speaker1: whatâ’s a raptor? 
-speaker2: they don't look that big. i mean, comparatively.
-speaker3: if we came across one, we might live.
-speaker4: well that's good.
-speaker3: but you never came across just one.
-speaker1: wait! where's billy? they all stop. the only one not there is -- grant billy! billy!
-speaker1: i thought we weren't suppose to yell.
-speaker5: here!
-speaker5: i got some great pictures of the nest. you know this proves raptors raised their young in colonies.
-speaker5: this speaks to a larger social structure, the possibility of darwinian altruism. it changes everything. a beat. trying not to sound presumptuous --
-speaker5: we could co-write a paper.
-speaker3: ah yes, the first rule of academics. publish or perish.
-
-speaker1: eric! are you here? 
-speaker2: eric!
-speaker2: what the hell.
-
-speaker1: this is how you make dinosaurs? 
-speaker2: this is how you play
-speaker3: okay if i take pictures? grant nods.
-
-speaker1: floating in the one tank. 
-speaker2: lunges at her form behind the tank. she screams.
-speaker3: amanda!
-speaker4: back out! move!
-
-speaker1: push! 
-speaker2: she's calling for help.
-
-speaker1: emerges from the jungles, coming their way. 
-speaker2: head for the trees!
-
-speaker1: udesky. 
-speaker2: he's this way.
-
-speaker1: it's not safe. 
-speaker2: we have to help him.
-speaker3: he's right. a predator wouldn't leave a kill wounded.
-speaker2: he's not a kill, he's still alive.
-
-speaker1: they couldnâ’t climb up, so they were trying to get us to come down. 
-speaker2: they set a trap they actually set a trap.
-speaker1: where's grant?
-
-speaker1: you, billy. 
-speaker1: it means, "give us the egg," doesn't it? "we want the egg."
-
-speaker1: at the edge of the smoke 
-speaker2: come on! they'll be back!
-speaker3: grabs his, pulling him along.
-
-speaker1: eric... 
-speaker1: eric, your parents are both here.
-speaker2: in costa rica?
-speaker1: on the island.
-speaker2: they'll never make it. i mean, they can't manage when the cable goes out.
-speaker1: you'd be surprised what people can do when they have too.
-speaker2: you're alan grant, aren't you? i read both of your books.
-speaker1: which one do you prefer?
-speaker2: the first one. before you where on the island. you liked dinosaurs back then.
-speaker1: back then, they hadn't tried to eat me.
-speaker2: when ingen cleared out, they left a lot of stuff behind.
-speaker1: any weapons, radios?
-speaker2: found this, but the battery's dead.
-speaker1: it's a wonder you aren't. i'm amazed, eric. i barely lasted 30 hours. you lasted eight weeks.
-speaker2: is that all it's been? i thought it was longer.
-speaker1: did you read malcolm's book?
-speaker2: yeah.
-speaker1: what did you think?
-speaker2: i dunno. i mean, it was kind of preachy. chaos-this, chaos-that. and like, to me, the guy seemed kind of high on himself. grant smiles.
-speaker1: that's two things we have in common.
-
-speaker1: we can't just stop looking. eric and dr. grant are out there somewhere. 
-speaker2: i want to find them too, but we can't do a bit of good right now. for every scary thing we saw in the daylight, i'll bet there ten times more of 'em at night. am i right?
-speaker3: i donâ’t know.
-speaker2: i thought you were an expert.
-speaker3: dr. grant was.
-speaker1: well dr. grant isn't here, so we're going to have to figure out what to do ourselves.
-
-speaker1: i just want you know, amanda. it's not your fault what happened. 
-speaker2: well what?
-speaker1: well it. i don't speak ill of the dead. what i'm trying to say is, itâ’s was just a crazy accident. the exact same thing could have happened if he was with me. you can't go beating yourself up about it.
-speaker2: this wouldn't happen if he was with you. i mean, you drive five miles below the speed limit. i totaled three cars in fives years.
-speaker1: that one time was just the bumper.
-speaker2: he would have been, safe. completely, entirely, suffocatingly safe.
-speaker1: i'm not sorry at all.
-
-speaker1: know what this is? 
-speaker2: a raptor claw. i use to have one. a fossil.
-speaker1: mine's new. grant hands it back.
-speaker2: how much of this island have you explored?
-speaker1: i stayed pretty close to the compound,
-speaker2: we need to head for the coast.
-speaker1: are you sure?
-speaker2: why?
-speaker1: closer you get to the water, the bigger things get.
-
-speaker1: we need to stick to the plan. head for the coast. 
-speaker2: what about eric and dr. grant?
-speaker1: going to the coast was alan's idea. if he's alive, thatâ’s where he's headed.
-speaker2: what about eric?
-speaker1: sure.
-
-speaker1: my phone. 
-speaker2: you had the phone the whole time?
-speaker3: where is it?
-speaker1: i don't know. i don't have it with me.
-speaker2: when did you have it last?
-speaker1: i don't remember
-speaker2: think.
-speaker1: the plane. i got a call on the plane, put it in my coat pocket, and...
-speaker2: what?...what!?
-speaker1: i loaned it to nash. he must have had it on him when he...
-
-speaker1: mon! dad! 
-speaker2: sweetheart, you're okay. you're okay. you're okay.
-speaker3: never had a doubt. never did. us kirby men, we stick around, huh?
-speaker1: we do.
-speaker3: honey, there's not enough spit in the world for that.
-speaker4: we need to keep moving.
-speaker5: alan, i want to tell you that i'm so sorry about the...
-speaker4: billy, i can't talk to you now.
-speaker5: please, okay? just yell at me. call me an an stupid. tell me i screwed up because i know i did. grant doesn't respond.
-speaker5: i thought if we could get a raptor back to the mainland, we could get serious money for it. enough to fund the digging for 10 years. more. whatever it took.
-speaker5: you have to believe me. i did it with the best intentions.
-speaker4: some of the worst things imaginable have been done with the best intentions. you rushed in with no thought to the consequences, to yourself or anyone else. you're no better than the people who built this place.
-
-speaker1: we climb down to the barge and follow the river out to the ocean. with any luck, the costa rican coast guard will pick us up. 
-speaker2: then we go home?
-speaker3: then we go home.
-
-speaker1: you okay? 
-speaker2: how about if we try this way?
-speaker1: do you think it goes all the way across?
-speaker2: one way to find out.
-
-speaker1: dr. grant? 
-speaker2: come on over. one at a time.
-speaker3: eric, its okay. you'll be right behind me.
-speaker1: we're not going anywhere, i promise. as paul holds eric, and amanda shares a look. amanda we're all together now, eric.
-
-speaker1: okay! come on, eric! 
-speaker2: eric is next to go across. he's still tentative.
-speaker3: how 'bout if i...
-speaker4: no, i can do it.
-speaker3: that's it eric. nice and easy...
-
-speaker1: oh, my 
-speaker2: what is it?
-speaker1: a bird cage.
-
-speaker1: eric! 
-speaker2: it won't hold!
-
-speaker1: paul! where is he? can you see him? 
-speaker2: i'm trying! that thing took him down this way!
-speaker3: split up!
-
-speaker1: billy, look out! 
-speaker2: get back! get back!
-speaker1: billy!
-speaker3: it's no use, dr. grant. no use.
-
-speaker1: my own kid was right in front of me and i didn't do a thing. 
-speaker2: you couldn't have made that jump.
-speaker1: i should have tried. it should have been me on that beach back there, not billy.
-speaker2: how would you have helped eric? he needs you, paul. he needs us.
-speaker1: he could have died.
-speaker2: but he didn't. and neither did you. and i'm glad about that.
-
-speaker1: do you have any kids? 
-speaker2: no. although i've studied them in the wild. eric looks over, not sure what that means.
-
-speaker1: i want to be an astronaut. 
-speaker2: see, i was the opposite. i never understood why anyone would want to go into space. it's so dangerous. you do one thing wrong and you're dead. the astronomer -- or the paleontologist -- get to study these amazing things from a place of complete safety. and truthfully, everything you really need to learn, you can learn it from the ground.
-speaker1: but then you never get to go in space.
-speaker2: exactly. the difference between imagining how things might be and seeing how they really are. to be able to touch them. that's what billy wanted to do.
-
-speaker1: find it before it stops ringing! 
-speaker2: i've got something. i think i've got something!
-speaker3: i've got it! i've got it!
-speaker4: you too can own a time share in beautiful guadalajara. enjoy a meal in one of our four star restaurants, explore our coral reefs, or just walk on the beach...
-speaker2: can't help but be a little offended.
-
-speaker1: whatever you do, don't call the u.s. embassy. they won't do a thing. 
-speaker2: well, we don't exactly have a costa rican phone book here, so it will have to be somebody we know in the states. someone we can absolutely count on to send help.
-speaker1: stan.
-speaker3: i wouldn't trust stan with a snowball in a blizzard.
-speaker4: what's that?
-speaker5: passes beneath the boat.
-speaker2: bonitas.
-speaker4: something must've scared them.
-speaker2: get the motor going.
-speaker3: who are you calling?
-speaker2: pick up! pick up!
-
-speaker1: hewwo? 
-speaker2: recognizing who it must be...
-speaker3: charlie? charlie. get your mother. right away!
-speaker3: charlie? are you there?
-speaker1: hewwo?
-
-speaker1: charlie! it's the dinosaur man! go get mommy, okay? 
-speaker2: okay.
-
-speaker1: was somebody on the phone? 
-speaker2: dinosaur man.
-
-speaker1: alan? 
-speaker1: alan? alan!
-speaker2: and then the line goes dead.
-speaker3: raaaar!
-
-speaker1: up! up! 
-speaker2: where's dad?
-speaker3: just hold on.
-speaker1: jump! swim for the far shore!
-
-speaker1: we have to keep looking for dad. we have to. 
-speaker2: i know. i know. i want to look for him too.
-speaker1: then we should...
-speaker2: let me tell you a few things about you dad,
-speaker1: he loves you too.
-speaker2: okay. he loves us very very much. and i know that right now more than anything, your dad would want to know that we're safe. okay? eric nods.
-speaker2: we're going to get out of this, and
-speaker3: listen to your mother.
-speaker4: good thing i've been swimming, huh?
-
-speaker1: you remember when we went fishing last summer? and i was trying to put the boat in and the trailer sank? and then the tow truck came and tried to pull it out, but it got dragged in? and the truck driver threatened to knock your dad's lights out? so i said i was the governor and he believed me? 
-speaker2: yeah.
-speaker1: that was a fun day.
-speaker3: we should try fishing again.
-speaker1: you mean it?
-speaker3: i do. it's worth another shot. and who knows? things might turn out differently.
-speaker2: the lady you called, how do you know she can help us?
-speaker4: she's the one person i could always count on. and she's saved me more times than she realizes. i owe her everything. a long beat as they walk.
-speaker4: it's strikes me now i never told her that.
-speaker2: you should.
-speaker4: you're right.
-speaker4: eric, do you know what happened to the boat? that brought you here? why did it crash?
-speaker2: no. i couldn't see.
-speaker4: do me a favor. go back to your parents for a minute, would you? they look worried.
-
-speaker1: mom! dad! 
-speaker2: helicopters. helicopters!
-
-speaker1: we're safe! 
-speaker2: no we're not.
-
-speaker1: what do you think is going to happen with the dinosaurs? 
-speaker2: the population will stabilize eventually. they'll adapt to fit different roles.
-
-speaker1: either that, or the government will firebomb it back to the stone age. 
-speaker2: i would completely support that.
-speaker3: i hope they don't. i want to come back someday.
-speaker4: so do i.
+BEN: you make sure to get us as close as you can, okay? if it's a good trip, i'll give you a little extra. 
+ENRIQUE: don't worry. i take you close. but not too close. you don't want them to eat you.
+ENRIQUE: ready, amigos?
+ERIC: what was that?
+ERIC: ben!
+BEN: unclip your line!
+
+GRANT: oh, actually, charlie, those two are herbivores. they wouldn't be interested in fighting each other. but these... see, these are carnivores. and this one here -- see its claws -- this one here uses its claws to gouge at the throat of its opponent 
+ELLIE: uh, alan?
+GRANT: hmm?
+ELLIE: he's three. why don't you wait till he's a little older?
+GRANT: oh, right. happy dinosaurs.
+ELLIE: that must be mark. mark, weâ’re back here! ellie and grant turn to see --
+ELLIE: good day?
+MARK: keeping the world safe. here, let me take her.
+ELLIE: mark, this is alan grant.
+MARK: nice to meet you, alan. i've heard a lot about you.
+CHARLIE: daddy, this is a herbabore.
+
+GRANT: what's my name? come on, jack, say it. is my name alan? say my name. the bird doesn't respond. 
+GRANT: he used to know me.
+ELLIE: sorry, alan it's been six years.
+MARK: more coffee?
+ELLIE: yes. great.
+ELLIE: so, mark's working at the state department now.
+GRANT: really? what do you do there?
+GRANT: indeed.
+ELLIE: so what are you working on now?
+GRANT: we have a new site in montana. at least until the money runs out.
+ELLIE: anything good?
+GRANT: raptors, mostly.
+ELLIE: my favorite.
+GRANT: you remember the sounds they made?
+ELLIE: i try not to.
+GRANT: we've done cranial scans, and raptors actually had a quite sophisticated resonating chamber. i have a theory that their ability to vocalize is the key to their social intelligence. the way they can work together as a team.
+ELLIE: you think they could talk to each other?
+GRANT: to a degree we never imagined.
+JACK: 
+ELLIE: you taught him that.
+
+ELLIE: good luck with the fund raising. 
+GRANT: it was never easy, but before jurassic park, you could find money. somewhere. now fossils are out. everyone wants to see a real live dinosaur.
+ELLIE: times change alan. but you're the still the best. i mean that.
+GRANT: the last of my breed.
+GRANT: i'd better get going.
+ELLIE: let me know if i can help, alan. youâ’re bad about asking for help, but please ask me. anything, anytime.
+GRANT: okay. goodbye, ellie.
+ELLIE: goodbye, alan.
+ELLIE: when i met you, i thought that one day millions of years ago, all the dinosaurs became extinct. wiped out. but you told me otherwise. when conditions changed, dinosaurs changed. they became other things.
+GRANT: a well-accepted theory.
+
+SYMPOSTIUM LEADER: thank you very much dr. grant. now does anyone have a question? 
+GRANT: does anyone have a question that doesn't relate to jurassic park? quite a few hands go down. grant or the incident in san diego, which i'll remind you, i did not witness.
+
+TOO-CLEVER SCIENCE REPORTER: isn't paleontology itself in danger of extinction? 
+GRANT: no, and let me be perfectly clear on this point. dinosaurs lived 65 million years ago. what's left of them is fossilized in stone the actual scientists spend years to undercover.
+
+CHERYL: billy? i don't think i'm doing this right. 
+BILLY: you need to go slowly. see, just take it little at a time. she's not listening, just watching his eyelashes.
+CHERYL: i can never tell what's bone and what's rock.
+BILLY: technically, it's all rock. the calcium in the bones is replaced during fossilization. but you can feel the difference. see? rough, smooth. rough, smooth.
+CHERYL: rough. ...and along his lips. cheryl smooth.
+SHADOW: falls across them. billy looks up to see...
+BILLY: dr. grant!
+GRANT: mr. brennan.
+
+BILLY: how was your trip? profitable? 
+GRANT: we'll be broke in four weeks.
+BILLY: three weeks. i had to rent some equipment.
+GRANT: you rented an automated litter box.
+BILLY: it's a rapid prototyper. i feed in the scan data from the raptor skull, than the computer breaks it into thousands of slices which this thing prints, one layer on top of the other. it's the future of paleontology.
+GRANT: not if it can't dig.
+BILLY: i give you a raptor's resonating chamber.
+GRANT: absolutely not.
+BILLY: they're here.
+GRANT: what?
+MAN: dr. grant?
+GRANT: yes?
+MAN: paul kirby. kirby enterprises my card. paul kirby is a talkative optimist with no "off" switch. his wife amanda kirby, just as friendly, is harder to read. there seems to be exhaustion behind her eyes.
+GRANT: what can i do for you, mr. kirby?
+PAUL: well sir, i am a great admirer
+GRANT: you know, i've been traveling and i'm very tired. maybe some other time.
+PAUL: i guarantee it'll be worth your while.
+GRANT: it's be my pleasure.
+
+PAUL: first off let me say as a dinosaur enthusiasts, amanda and i have admired your work for years. 
+AMANDA: it is truly, whatâ’s the word? inspiring.
+GRANT: thank you.
+PAUL: amanda and i, well, we just love the outdoors. heck we've been on pretty much any adventure tour they can come up with: galapagos, k2, the nile...
+AMANDA: we even have two seats reserved aboard the first commercial moon flight. billy nudges grant.
+GRANT: hmmm.
+PAUL: now, for our wedding anniversary this year we wanted to do something really special, something... he places his hand on his wife's.
+AMANDA: ...once-in-a-lifetime.
+PAUL: we've arranged for a private airplane to take us flying over isla sorna. and we want you to be our guide.
+GRANT: that's a very nice offer, mr. kirby, but i'm afraid i'm much to busy. if you like i can refer you to a number of highly qualified...
+PAUL: no, no, see dr. grant, you're the best. you've seen these animals in the flesh. no one else has come close to you.
+GRANT: i'm flattered, but i've taken this little adventure tour. and with the air restrictions they've imposed after the incident in san diego, you canâ’t fly low enough to see anything of interest.
+AMANDA: you see, that's just the thing. paul and i have special permission to fly low.
+BILLY: how low?
+PAUL: well, i'm no aviation specialist. but i do know it's of a lot lower than anyone else.
+AMANDA: from what i understand, it's pretty much whatever we want.
+GRANT: that's hard to believe.
+PAUL: let's just say that through my business -- imports/exports, emerging markets -- i've made some friends in high places. in this case, the costa rican government.
+AMANDA: dr. grant, you don't know how important it is for us to have you come along. it would make all the difference.
+
+GRANT: even with what i pay you, you could get a better bag. 
+BILLY: no way. this is lucky. couple years ago some buddies and i went hang gliding off these cliffs in new zealand. updraft sent me right into the side. boom!
+GRANT: that does sound lucky.
+BILLY: it was this strap alone that saved my life. got caught on a rock as i was falling.
+GRANT: reverse-darwinism. survival of the most idiotic.
+BILLY: listen alan, i really appreciate you bringing me along.
+GRANT: the bones will be there when we get back. that's the nice thing about them. they never run away. and besides, you got me into this. i don't intend to be alone with these people.
+
+BILLY: so how do you know the kirby's? and we reveal... 
+COOPER: through our church.
+BILLY: what religion?
+COOPER: uh the one that worships and believes in being good.
+16 	EXT. SKY - DAY 							16: the plane continues onward.
+
+BILLY: alan. we're almost there. 
+THROUGH THE WINDOW.: clouds obscure the view, than parts reveal
+ISLA SORNA: rising majestically out of the water.
+
+BILLY: admit it. you're excited. grant will admit nothing. 
+UDESKY: cooper! yell up if you see anything!
+COOPER: no, i thought i'd keep it to myself.
+GRANT: there. there! an apatosaur. look at the coloration.
+
+GRANT: mr. and mrs. kirby! if you look out the right you can see... 
+UDESKY: south shore is clear. the rest is rock.
+NASH: are we on?
+UDESKY: we're on.
+
+GRANT: that's not the landing gear? 
+GRANT: what you're... you can't land.
+PAUL: dr. grant if you'd just sit tight, we'll explain this all in a jiffy.
+GRANT: this plane can not land!
+AMANDA: it's going to be all right. just...
+
+GRANT: tell me we didn't land. 
+BILLY: i think they're looking for someone.
+
+PAUL: dr. grant, are you alright? i'm sorry we had to be so... 
+GRANT: what the is going on? what are they doing?
+PAUL: establishing a perimeter. making it safe. these guys are really good. one of them was a green...
+GRANT: mr. kirby, trust me, on this island, there is no such thing as safe. we have to get back in this plane...
+
+GRANT: and tell your wife to stop making so much noise! we're food to these animals. 
+PAUL: amanda, honey! dr. grant says it's a bad idea!
+AMANDA: what?
+PAUL: he says it's a bad idea!
+AMANDA: what's a bad idea?
+PAUL: what was that?
+BILLY: is it a rex?
+GRANT: i don't think so.
+GRANT: sounds bigger.
+UDESKY: we gotta go, now!
+PAUL: what's the problem? can't you guys...?
+
+AMANDA: we can't just... 
+PAUL: don't worry, honey. we'll circle around and come back. udesky closes the door.
+BILLY: what about the other guy?
+UDESKY: coop's a professional. he can handle himself.
+
+NASH: we're going! 
+30	EXT. RUNAWAY - DAY						30: the plane starts down the runway.
+
+NASH: coop, you know i can't do it pal. 
+PAUL: what are you doing? that's mr. cooper!
+
+BILLY: is anyone hurt? 
+UDESKY: quiet! we're okay. let's everybody just stay put.
+NASH: who's got the sat-phone?
+PAUL: right here!
+THIRTY FEET BELOW.: he quickly shuts and latches the door.
+
+NASH:  
+PAUL: what is it? what's the matter? amanda screams.
+PAUL: the plane lurches - and we hear a deep growl.
+
+GRANT: why did you bring us here? 
+AMANDA: our son is on this island. we need your help to find him.
+PAUL: this is him. eric. heâ’s thirteen now. he's just about the greatest kid in the world.
+AMANDA: he's with a man named ben hildebrand.
+BILLY: who's that?
+PAUL: her new boyfriend.
+AMANDA: a friend. we were vacationing. eric wanted to see the island and the dinosaurs, so ben found a guy who would take them parasailing. they never came back.
+PAUL: we called everyone, did everything we could. because of all the controversy over this island, no one will step in. costa rica says it's a no-fly zone, it's their own fault. guys at the u.s embassy -- our u.s. embassy -- said we should "accept the inevitable." you believe that?
+GRANT: so you hired these mercenaries.
+UDESKY: we prefer "recovery specialists." we do overseas custody issues and...
+GRANT: then you duped us into coming here.
+PAUL: we needed somebody who knew the lay of the
+GRANT: i have never been on this island!
+PAUL: sure you have. you wrote that book...
+BILLY: that was isla nublar. this is isla sorna. the second island.
+PAUL: i didn't know, there were two islands.
+AMANDA: still, you have survived the dinosaurs before. you saved those kids.
+GRANT: a few of us survived. a lot more died. and we were better prepared and better armed. how many days have they been missing? a look between amanda and paul.
+PAUL: eight weeks.
+GRANT: after what you've seen today, you really think your son could be alive?
+AMANDA: he's smart, dr. grant. and he knows so much about dinosaurs.
+GRANT: no, i'm sorry, but no. we'll savage what we can from the plane. then we head for the coast. there may be a boat left, something to get us off this island.
+PAUL: dr. grant, we're not leaving without our son.
+GRANT: you can stick with us, or you can go and look for him. either way you're probably not getting out of here alive.
+BACK WITH PAUL AND AMANDA: they look to udesky.
+PAUL: what do we do?
+UDESKY: well, i think we should start searching for your son. in the direction they're going.
+PAUL: excellent.
+
+PAUL: sorry. 
+AMANDA: nothing you haven't seen before.
+AMANDA: how much weight have you lost?
+PAUL: twenty, twenty-fire pounds. i've been swimming at the y.
+AMANDA: you hate to swim.
+PAUL: people change.
+PAUL: you look good.
+AMANDA: so do you.
+GRANT: how would you classify it?
+BILLY: obviously a superpredator. suchimimus. that snout.
+GRANT: they never got that big.
+BILLY: baryonyx?
+GRANT: not with that sail. spinosaurus aegypticus.
+BILLY: i don't remember that on ingen's list.
+GRANT: that's because it wasn't on their list. who knows what else they were up to?
+BILLY: so mr. kirby, tell me, when you climbed k2, did you base camp at 25- or 30,000 feet?
+PAUL: thirty-thousand, i think. closer to the top.
+BILLY: about a thousand feet above it, actually. most mountain-climbers remember how tall that mountains were. paul knows he's caught.
+GRANT: there is no kirby enterprises, is there?
+PAUL: there is. i own a place called kirby paint and title plus. we're out in the westgate shopping center in enid, oklahoma. the "plus" is for bathroom fixtures, fireplaces accessories, patio furniture. stuff like that.
+BILLY: i don't suppose that check you wrote us is any good.
+UDESKY: he paid us half up front. cash.
+PAUL: mortgaged everything we had to do it. even the store. and if we make it off this island with my son, i swear, i'll make good on the money i owe you. i don't care if it takes me the rest of my life. grant and udesky exchange a dubious glance.
+UDESKY: however long that is.
+
+AMANDA: eric! 
+GRANT: quiet!
+PAUL: stop that. dr. grant says this is dangerous territory.
+AMANDA: well we should split up or something. we can cover twice the area.
+PAUL: no, dr. grant says...
+AMANDA: dr. grant says this, dr. grant says that...
+PAUL: well what's the use of hiring an expert if your not going to listen to him?
+AMANDA: because "dr. grant" isn't looking for eric. dr. grant is looking for the coast.
+PAUL: fine...and when the tricyclatops comes after you, don't come crying to me.
+AMANDA: oh, don't worry about that.
+PAUL: what?
+AMANDA: nothing.
+PAUL: what did you say?
+AMANDA: nothing.
+PAUL: what did you say!
+AMANDA: just drop it paul!
+UDESKY: if they split up, i'm going with you.
+
+PAUL: young adult. 
+AMANDA: eric...
+UDESKY: hey. got something here.
+AMANDA: that's ben's!
+UDESKY: here, give that to me.
+BILLY: it looks intact.
+GRANT: we should take it with us to signal any planes.
+UDESKY: i think i've got it.
+AMANDA: it works!
+UDESKY: i don't know for how long.
+PAUL: that's him. thatâ’s eric!
+AMANDA: i filmed this the morning they left.
+
+ERIC: ben! 
+BEN: unclip the line!
+
+BEN: hand on! hang on buddy! 
+BEN: are you ok, buddy?
+ERIC: i don't know. i think so.
+BEN: we're okay. it's going to be okay. here, get ready. i'm going to unhook you.
+ERIC: i'm all right
+BEN: we're going to get out of this, pal. and on that, the power and picture fade away.
+PAUL: see? he's okay. he's alive! everything's going to be all right now.
+A SKELETON.: it swings down directly at amanda. she screams.
+PAUL: amanda!
+
+PAUL: i'm sorry amanda. i am. and i'm sorry for the things i said about him. 
+AMANDA: no, it's...
+PAUL: i know you liked ben. i had no right to...
+AMANDA: i guess i was hoping that with ben around, there'd be someone to keep him safe.
+UDESKY: dr. grant!
+GRANT: raptors.
+
+AMANDA: whatâ’s a raptor? 
+UDESKY: they don't look that big. i mean, comparatively.
+GRANT: if we came across one, we might live.
+PAUL: well that's good.
+GRANT: but you never came across just one.
+AMANDA: wait! where's billy? they all stop. the only one not there is -- grant billy! billy!
+AMANDA: i thought we weren't suppose to yell.
+BILLY: here!
+BILLY: i got some great pictures of the nest. you know this proves raptors raised their young in colonies.
+BILLY: this speaks to a larger social structure, the possibility of darwinian altruism. it changes everything. a beat. trying not to sound presumptuous --
+BILLY: we could co-write a paper.
+GRANT: ah yes, the first rule of academics. publish or perish.
+
+PAUL: eric! are you here? 
+AMANDA: eric!
+AMANDA: what the hell.
+
+AMANDA: this is how you make dinosaurs? 
+GRANT: this is how you play
+BILLY: okay if i take pictures? grant nods.
+
+A GIGANTIC MANIFIED RAPTOR HEAD: floating in the one tank. 
+AN ACTUAL RAPTOR: lunges at her form behind the tank. she screams.
+PAUL: amanda!
+GRANT: back out! move!
+
+AMANDA: push! 
+GRANT: she's calling for help.
+
+A PACK OF RAPTORS: emerges from the jungles, coming their way. 
+GRANT: head for the trees!
+
+PAUL: udesky. 
+AMANDA: he's this way.
+
+PAUL: it's not safe. 
+AMANDA: we have to help him.
+BILLY: he's right. a predator wouldn't leave a kill wounded.
+AMANDA: he's not a kill, he's still alive.
+
+PAUL: they couldnâ’t climb up, so they were trying to get us to come down. 
+BILLY: they set a trap they actually set a trap.
+PAUL: where's grant?
+
+GRANT: you, billy. 
+GRANT: it means, "give us the egg," doesn't it? "we want the egg."
+
+A HUMAN SHAPE: at the edge of the smoke 
+VOICE: come on! they'll be back!
+A SMALL DIRTY HAND: grabs his, pulling him along.
+
+GRANT: eric... 
+GRANT: eric, your parents are both here.
+ERIC: in costa rica?
+GRANT: on the island.
+ERIC: they'll never make it. i mean, they can't manage when the cable goes out.
+GRANT: you'd be surprised what people can do when they have too.
+ERIC: you're alan grant, aren't you? i read both of your books.
+GRANT: which one do you prefer?
+ERIC: the first one. before you where on the island. you liked dinosaurs back then.
+GRANT: back then, they hadn't tried to eat me.
+ERIC: when ingen cleared out, they left a lot of stuff behind.
+GRANT: any weapons, radios?
+ERIC: found this, but the battery's dead.
+GRANT: it's a wonder you aren't. i'm amazed, eric. i barely lasted 30 hours. you lasted eight weeks.
+ERIC: is that all it's been? i thought it was longer.
+GRANT: did you read malcolm's book?
+ERIC: yeah.
+GRANT: what did you think?
+ERIC: i dunno. i mean, it was kind of preachy. chaos-this, chaos-that. and like, to me, the guy seemed kind of high on himself. grant smiles.
+GRANT: that's two things we have in common.
+
+AMANDA: we can't just stop looking. eric and dr. grant are out there somewhere. 
+PAUL: i want to find them too, but we can't do a bit of good right now. for every scary thing we saw in the daylight, i'll bet there ten times more of 'em at night. am i right?
+BILLY: i donâ’t know.
+PAUL: i thought you were an expert.
+BILLY: dr. grant was.
+AMANDA: well dr. grant isn't here, so we're going to have to figure out what to do ourselves.
+
+PAUL: i just want you know, amanda. it's not your fault what happened. 
+AMANDA: well what?
+PAUL: well it. i don't speak ill of the dead. what i'm trying to say is, itâ’s was just a crazy accident. the exact same thing could have happened if he was with me. you can't go beating yourself up about it.
+AMANDA: this wouldn't happen if he was with you. i mean, you drive five miles below the speed limit. i totaled three cars in fives years.
+PAUL: that one time was just the bumper.
+AMANDA: he would have been, safe. completely, entirely, suffocatingly safe.
+PAUL: i'm not sorry at all.
+
+ERIC: know what this is? 
+GRANT: a raptor claw. i use to have one. a fossil.
+ERIC: mine's new. grant hands it back.
+GRANT: how much of this island have you explored?
+ERIC: i stayed pretty close to the compound,
+GRANT: we need to head for the coast.
+ERIC: are you sure?
+GRANT: why?
+ERIC: closer you get to the water, the bigger things get.
+
+BILLY: we need to stick to the plan. head for the coast. 
+AMANDA: what about eric and dr. grant?
+BILLY: going to the coast was alan's idea. if he's alive, thatâ’s where he's headed.
+AMANDA: what about eric?
+BILLY: sure.
+
+PAUL: my phone. 
+AMANDA: you had the phone the whole time?
+BILLY: where is it?
+PAUL: i don't know. i don't have it with me.
+AMANDA: when did you have it last?
+PAUL: i don't remember
+AMANDA: think.
+PAUL: the plane. i got a call on the plane, put it in my coat pocket, and...
+AMANDA: what?...what!?
+PAUL: i loaned it to nash. he must have had it on him when he...
+
+ERIC: mon! dad! 
+AMANDA: sweetheart, you're okay. you're okay. you're okay.
+PAUL: never had a doubt. never did. us kirby men, we stick around, huh?
+ERIC: we do.
+PAUL: honey, there's not enough spit in the world for that.
+GRANT: we need to keep moving.
+BILLY: alan, i want to tell you that i'm so sorry about the...
+GRANT: billy, i can't talk to you now.
+BILLY: please, okay? just yell at me. call me an an stupid. tell me i screwed up because i know i did. grant doesn't respond.
+BILLY: i thought if we could get a raptor back to the mainland, we could get serious money for it. enough to fund the digging for 10 years. more. whatever it took.
+BILLY: you have to believe me. i did it with the best intentions.
+GRANT: some of the worst things imaginable have been done with the best intentions. you rushed in with no thought to the consequences, to yourself or anyone else. you're no better than the people who built this place.
+
+GRANT: we climb down to the barge and follow the river out to the ocean. with any luck, the costa rican coast guard will pick us up. 
+ERIC: then we go home?
+AMANDA: then we go home.
+
+AMANDA: you okay? 
+GRANT: how about if we try this way?
+AMANDA: do you think it goes all the way across?
+GRANT: one way to find out.
+
+PAUL: dr. grant? 
+GRANT: come on over. one at a time.
+AMANDA: eric, its okay. you'll be right behind me.
+PAUL: we're not going anywhere, i promise. as paul holds eric, and amanda shares a look. amanda we're all together now, eric.
+
+AMANDA: okay! come on, eric! 
+74	EXT. LANDING - DAY							74: eric is next to go across. he's still tentative.
+PAUL: how 'bout if i...
+ERIC: no, i can do it.
+PAUL: that's it eric. nice and easy...
+
+GRANT: oh, my 
+AMANDA: what is it?
+GRANT: a bird cage.
+
+PAUL: eric! 
+BILLY: it won't hold!
+
+AMANDA: paul! where is he? can you see him? 
+PAUL: i'm trying! that thing took him down this way!
+GRANT: split up!
+
+GRANT: billy, look out! 
+BILLY: get back! get back!
+GRANT: billy!
+PAUL: it's no use, dr. grant. no use.
+
+PAUL: my own kid was right in front of me and i didn't do a thing. 
+AMANDA: you couldn't have made that jump.
+PAUL: i should have tried. it should have been me on that beach back there, not billy.
+AMANDA: how would you have helped eric? he needs you, paul. he needs us.
+PAUL: he could have died.
+AMANDA: but he didn't. and neither did you. and i'm glad about that.
+
+ERIC: do you have any kids? 
+GRANT: no. although i've studied them in the wild. eric looks over, not sure what that means.
+
+ERIC: i want to be an astronaut. 
+GRANT: see, i was the opposite. i never understood why anyone would want to go into space. it's so dangerous. you do one thing wrong and you're dead. the astronomer -- or the paleontologist -- get to study these amazing things from a place of complete safety. and truthfully, everything you really need to learn, you can learn it from the ground.
+ERIC: but then you never get to go in space.
+GRANT: exactly. the difference between imagining how things might be and seeing how they really are. to be able to touch them. that's what billy wanted to do.
+
+GRANT: find it before it stops ringing! 
+PAUL: i've got something. i think i've got something!
+AMANDA: i've got it! i've got it!
+RECORDED VOICE: you too can own a time share in beautiful guadalajara. enjoy a meal in one of our four star restaurants, explore our coral reefs, or just walk on the beach...
+PAUL: can't help but be a little offended.
+
+PAUL: whatever you do, don't call the u.s. embassy. they won't do a thing. 
+GRANT: well, we don't exactly have a costa rican phone book here, so it will have to be somebody we know in the states. someone we can absolutely count on to send help.
+PAUL: stan.
+AMANDA: i wouldn't trust stan with a snowball in a blizzard.
+ERIC: what's that?
+A SHIMMERING WAVE OF SILVER: passes beneath the boat.
+GRANT: bonitas.
+ERIC: something must've scared them.
+GRANT: get the motor going.
+AMANDA: who are you calling?
+GRANT: pick up! pick up!
+
+CHARLIE: hewwo? 
+INTERCUT: recognizing who it must be...
+GRANT: charlie? charlie. get your mother. right away!
+GRANT: charlie? are you there?
+CHARLIE: hewwo?
+
+GRANT: charlie! it's the dinosaur man! go get mommy, okay? 
+CHARLIE: okay.
+
+ELLIE: was somebody on the phone? 
+CHARLIE: dinosaur man.
+
+ELLIE: alan? 
+ELLIE: alan? alan!
+SCREAMING.: and then the line goes dead.
+CHARLIE: raaaar!
+
+GRANT: up! up! 
+ERIC: where's dad?
+AMANDA: just hold on.
+GRANT: jump! swim for the far shore!
+
+ERIC: we have to keep looking for dad. we have to. 
+AMANDA: i know. i know. i want to look for him too.
+ERIC: then we should...
+AMANDA: let me tell you a few things about you dad,
+ERIC: he loves you too.
+AMANDA: okay. he loves us very very much. and i know that right now more than anything, your dad would want to know that we're safe. okay? eric nods.
+AMANDA: we're going to get out of this, and
+A VOICE: listen to your mother.
+PAUL: good thing i've been swimming, huh?
+
+PAUL: you remember when we went fishing last summer? and i was trying to put the boat in and the trailer sank? and then the tow truck came and tried to pull it out, but it got dragged in? and the truck driver threatened to knock your dad's lights out? so i said i was the governor and he believed me? 
+ERIC: yeah.
+PAUL: that was a fun day.
+AMANDA: we should try fishing again.
+PAUL: you mean it?
+AMANDA: i do. it's worth another shot. and who knows? things might turn out differently.
+ERIC: the lady you called, how do you know she can help us?
+GRANT: she's the one person i could always count on. and she's saved me more times than she realizes. i owe her everything. a long beat as they walk.
+GRANT: it's strikes me now i never told her that.
+ERIC: you should.
+GRANT: you're right.
+GRANT: eric, do you know what happened to the boat? that brought you here? why did it crash?
+ERIC: no. i couldn't see.
+GRANT: do me a favor. go back to your parents for a minute, would you? they look worried.
+
+ERIC: mom! dad! 
+PAUL: helicopters. helicopters!
+
+ERIC: we're safe! 
+GRANT: no we're not.
+
+ERIC: what do you think is going to happen with the dinosaurs? 
+GRANT: the population will stabilize eventually. they'll adapt to fit different roles.
+
+PAUL: either that, or the government will firebomb it back to the stone age. 
+AMANDA: i would completely support that.
+ERIC: i hope they don't. i want to come back someday.
+GRANT: so do i.
 

@@ -1,991 +1,991 @@
-speaker1: macleod. the second nods. 
-speaker2: my, but are you the picture.
-speaker3: it's a bit tight.
-speaker4: ah, conor, how you look a man.
-speaker2: have you time for some- thing to eat?
-speaker3: no, mother. they'll be here shortly.
-speaker4: your grandfather wore that in his service to the king, and i to fight for the duke.
-speaker2: must he go?
-speaker4: aye. it is his duty. all of ours.
-speaker2: but ian, he's still but a boy.
-speaker4: he's a macleod.
-speaker3: i'll be fine mother.
-
-speaker1: they march. 
-speaker2: is the boy among them?
-speaker1: aye.
-
-speaker1: is a bad day for this. 
-speaker2: the duke has been compro- mised. he will have his due.
-speaker1: by day's end he will have our heads.
-speaker2: we ride against the suther- lands. that is all that matters.
-speaker1: this makes no sense to me.
-
-speaker1: the fog is bad. we cannot even see the sides of our own ranks. 
-speaker1: is this your first?
-speaker2: aye.
-speaker1: it's begun.
-
-speaker1: kevin! get is a backup. 
-speaker2: i was merely walking by when-
-speaker1: don't move. the officer has his pistol out and leveled.
-speaker3: they're on their way.
-speaker3: christ.
-
-speaker1: ...libera domine animan servi tui sicut libertasi david de manu regis saul... 
-speaker1: ...in mamus tuas domine commendo spiritum meum...
-
-speaker1: has the boy died? 
-speaker2: he is having the last rites now. it should be over by morning.
-speaker1: never seen anybody cut as bad live so long. he should have died on the field.
-speaker2: tonight or tomorrow, it's all the same.
-speaker3: ...auditorium nostrum in nomine domini...
-speaker1: this has been a dark day.
-speaker3: ...requiescant in pace...
-
-speaker1: real clean. no sawing action at all. whatever it was did it in one swipe. like the other one. 
-speaker2: what about that?
-speaker1: hasn't any blood on it.
-speaker2: about the only thing that doesn't.
-speaker1: i'll give it a closer look when i get back.
-
-speaker1: come on brenna, you know better than that. 
-speaker2: i'm invited.
-speaker2: mr. levine...
-speaker3: hope this isn't past your bedtime.
-speaker2: doesn't have a head, does he?
-speaker3: this one came unassembled.
-speaker4: just show her what she came for, tom.
-speaker3: come on, this is more your line of work.
-speaker3: how's your uncle? i hardly ever see him anymore.
-speaker2: fine.
-speaker3: there you go.
-speaker3: didn't look like it came from "toys-are-us", that's why i called you.
-speaker2: didn't think it was my buddy over there.
-speaker3: figured you knew more about swords than i did.
-speaker2: claymore.
-speaker3: huh?
-speaker2: scottish claymore. take a french epee, add twenty pounds of ballast so it means business, and you've got a claymore.
-speaker3: you're the expert.
-speaker2: it's in good condition.
-
-speaker1: this your present address? 
-speaker2: yes.
-speaker1: mr.- taupin, what were you doing in that alley?
-speaker2: i was walking by when i heard a shout. your men came right after.
-speaker1: did you know the victim?
-speaker2: no.
-speaker1: his name was iman fasil if that jogs your memory.
-speaker2: it doesn't.
-speaker1: he was carrying a syrian passport and had been in the country less than a week.
-speaker1: two days ago a bulgarian national was murdered the same way. he'd also been in the country less than a week. what is your citizenship?
-speaker2: american.
-speaker1: do you make a habit of hanging out in that neigh- borhood at night?
-speaker2: what are you getting at?
-speaker1: let's just say that in my years with this department i've seen more than one well dressed business man look for a hand job on 14th street.
-speaker1: what were _you_ looking for?
-speaker2: that's none of your business.
-speaker1: you're wrong.
-speaker1: do you know what this is?
-speaker2: i presume it's a sword.
-speaker1: a claymore to be exact. you wouldn't know anything about it would you?
-speaker2: your murder weapon?
-speaker1: it was covered with mr. fasil's fingerprints, but none of his blood.
-speaker2: a mystery.
-speaker1: for the moment.
-speaker1: all right mr. taupin, we'll be in touch.
-
-speaker1: ah steven, it is good to see you. 
-speaker2: i only just heard of conor. i came up from catroch as soon as i could.
-speaker1: you're a kind man to be sure.
-speaker2: i thought it only proper to pay me last respects to the family.
-speaker1: steven, conor didn't die.
-speaker2: but i had heard his wounds were mortal.
-speaker1: they were steven, they were. it's been a miracle it has. he lasted right through and healed. no one in the village has ever seen anything like it. ever.
-
-speaker1: you're pretty today. 
-speaker1: i'm your future husband, remember?
-speaker2: i have no future husband.
-speaker1: i don't understand. not a week ago your father gave us his blessing.
-speaker2: my future husband died in battle against the sutherlands.
-speaker1: what are you saying? i'm standing here as real as you.
-speaker2: you cannot be real, conor. you had the last rites. no man has been cut half as bad and lived.
-speaker1: but i did live.
-speaker2: live? in less than a week you're prancing about the country like a squirrel.
-speaker1: so why the crazy talk? it's a miracle it is. saint andrew has smiled on me. on us.
-speaker2: some think not.
-speaker1: who?
-speaker2: there's rumor in the village.
-speaker1: that's mad. surely you don't take their word?
-speaker2: i don't know, conor. it's not natural. maybe something has touched you.
-speaker1: you're sounding like that mad woman, widow baggins.
-speaker2: me father has taken back my hand.
-speaker1: ah, lassie...
-speaker2: please not be touching me, conor.
-speaker1: i'll not take that kind of talk from you. from those others below, maybe. but not from you.
-speaker2: leave me alone, conor. please.
-speaker1: you're not talking sense, mara!
-speaker1: i'm sorry.
-speaker1: if you send me away now, mara, i'll not come looking for you.
-speaker2: do what you must.
-
-speaker1: do you play? 
-speaker2: yes.
-speaker1: very traditional.
-speaker2: miss cartwright, what is it i can do for you?
-speaker1: i'd like to ask you about the claymore.
-speaker2: it's not mine.
-speaker1: it's quite rare you know, some- thing so common in its time so well looked after all these years.
-speaker2: miss cartwright, unless you have come here to sell the sword, there's very little i can help you with. now if you will excuse me, i have a great deal of work to do.
-speaker1: byzantine?
-speaker2: basil the ii.
-speaker1: charming guy, basil. once after beating an army of serbians he blinded all but-
-speaker2: -all but one out of a hundred, i know. all left to be led like donkeys back home. now if you will please-
-speaker1: good reflexes.
-speaker2: good day, miss cartwright.
-
-speaker1: i don't believe him. 
-speaker2: why?
-speaker1: he's too cool. too sharp. i think he's got something to do with it.
-speaker3: oh, has your penetrating research on 9th century lithuanian suddenly made you an expert on the criminal mentality?
-speaker1: screw off, larry.
-speaker4: the cops bought it. they let him go.
-speaker1: what could they hold him for? i think they're just waiting for something concrete before they haul him in for real. we should look into it. he had to have gotten that sword from somewhere.
-speaker2: hang on a sec, you did your little favor for the boys downtown, i'm sure your uncle and the rest are perfectly capable of taking it from here.
-speaker1: i've seen nobleman swords that weren't as well preserved. it's just a hunk of peasant iron. why would he be carrying it around in an alley?
-speaker3: here we go. everytime there's a murder in town we have to put up with junior d.a.
-speaker4: must be genetic.
-speaker1: someone should check him out. maybe a collection somewhere got knocked over. he has one, he might have two.
-speaker2: you see that desk? _your_ desk? you see the piled up on it?
-speaker1: give it a rest ned, huh?
-speaker4: might be interesting to see what his family connections are. that's a of a piece to be just chuck- ing around in an alley.
-speaker2: i swear to brenna, between you and thompson's novels i'm going to get a ulcer.
-
-speaker1: evening, douglas. 
-speaker2: conor.
-speaker1: ale suits me.
-speaker3: we rather you not be sitting with us, conor.
-speaker4: we be drinking alone as well. the entire tavern spells the same sentiments.
-speaker1: what's wrong with you all? silence.
-speaker4: requiem acer'nam donaei-
-speaker1: what are you doing man?
-speaker4: -et lux perpetua-
-speaker1: you'll not be bringing the church into this.
-speaker4: -luceat ei- the weird display frightens conor.
-speaker1: be quiet.
-speaker4: -auditorium nostrum-
-speaker1: stop.
-speaker4: -in nomine sanctus esperitu-
-speaker1: stop! conor hurles his mug against the wall.
-
-speaker1: please take care of yourself. 
-speaker2: aye.
-speaker3: i wish there was some other way.
-speaker3: goodbye, conor.
-speaker2: goodbye.
-
-speaker1: this is against the rules. 
-speaker2: so's playing choo-choo with two high school cheerleaders in the middle of-
-speaker1: -okay okay.
-speaker2: you owe me. besides, i'm cute.
-speaker1: taupin, richard marshall. born march 16, 1945 in church hill, maryland. received first driver permit 1967 in philadelphia.
-speaker2: church hill, that's pretty close, isn't it?
-speaker1: anything in maryland is close.
-
-speaker1: where is he? 
-speaker1: where!
-speaker2: i don't know.
-speaker1: what name is he using?
-speaker2: smith. carl smith.
-speaker1: how many came?
-speaker2: the last four.
-speaker1: and the bulgarian?
-speaker2: he got him. he always does. eventually.
-speaker1: he knows i'm here. how?
-speaker2: none of this would be happening if you hadn't run...
-speaker1: _answer_ me.
-speaker2: we learned he'd found the immigration notaries in liverpool and traced them to new york. then he figured out the birth records in church hill...
-
-speaker1: 1945, that strains the memory. here we are, richard taupin. 
-speaker1: would you like more tea?
-speaker2: no thank you, i'm fine.
-speaker1: he was unsual.
-speaker2: why?
-speaker1: well, this is a small town, and it was even smaller then. most all the babies i delivered were from local families. richard's parents were just passing through when his mother's time came. i did it right here at the house.
-speaker2: then you didn't know richard later on.
-speaker1: no.
-speaker2: i've been trying to find somebody who knew him and any connections his family might have had with museums or historical societies.
-speaker1: don't know about any of that.
-speaker2: i don't follow you.
-speaker1: poor little tyke didn't have a chance. hopelessly premature. he died a few days after he was born.
-speaker2: the boy _died_?
-speaker1: mother too. sad case it was. the young lady just couldn't make it through labor. never even saw her son.
-speaker1: my brother worked for the town paper at the time. he took this picture of the funeral.
-speaker2: have you spoken to anyone else about this?
-speaker1: there was this one fella. asked a lot of questions. i was out of town but i heard he spent near a full day in the records office.
-speaker2: would you remember his name?
-speaker1: carl smith.
-speaker3: just tell us when you see the one.
-speaker4: forget it.
-speaker2: i'm just curious.
-speaker4: you're never "just curious". you've met my neice, brenna.
-speaker5: hi brenna.
-speaker3: number 5, lift your coat up more.
-speaker4: aren't you getting a little old for this? you flunked out of law school.
-speaker2: now there's a new topic.
-speaker4: don't they have enough for you to do at the castle?
-speaker4: forgers do it all the time. they take the birth certificate of some- one who died young and use it to get legit i.d. usually they carry it long enough to pass some bad checks then dump it.
-speaker2: thanks.
-speaker4: call your mother. you never call her.
-speaker3: well?
-speaker6: i don't know. i'd have to see his thing.
-
-speaker1: i can't figure out why he's doing it. he's been richard taupin at least since 1967. and the guys rich. you should see the stuff he has in that shop. 
-speaker2: maybe he's hiding from something.
-speaker1: some guy named smith was asking about him in church hill. i passed his name around with your buddies downtown but they drew a blank. so he isn't a cop. district anyway.
-speaker2: probably just some exec ducking an ex-wife.
-speaker1: dr. kidell had a picture in his file of the funeral. the father looked just like richard. even had a mark on his cheek.
-speaker2: how old is richard?
-speaker1: p.d. says 41, but he barely looks
-
-speaker1: find the father. that should clear things up. 
-speaker1: taupin, isn't that the guy moran picked up the other night?
-speaker2: yeah.
-speaker1: he'd want to know about all this.
-speaker2: mr. congeniality? let him find his own clues. there's a journal article in this somewhere.
-speaker1: uncle joey's little girl. can't get the taste out of her mouth.
-speaker1: well, the cream of society awaits. if you're ever in the neighborhood...
-speaker2: sure.
-
-speaker1: they found it. 
-speaker1: it was about fifty yards down- stream from the head.
-speaker1: both were cut real clean. like the other ones...
-
-speaker1: there's been another murder. 
-speaker2: my condolences.
-speaker1: where were you tuesday night?
-speaker2: home.
-speaker1: a neighbor saw your car leave.
-speaker2: he's mistaken.
-speaker1: look, i don't know what the you're up to, but i think i've got a pretty good idea.
-speaker2: do you?
-speaker1: all i need is time.
-speaker2: i've got all the time in the world. except right now. if you will excuse me, lieutenant.
-
-speaker1: the casket is empty. 
-speaker2: someone beat you.
-speaker3: have you taken to touring small town cemetaries, miss cartwright?
-speaker2: grave robbers?
-speaker3: probably.
-speaker2: who?
-speaker3: people like that rarely leave business cards.
-speaker2: does carl smith?
-speaker3: i don't know what you're talking about.
-speaker2: i think you do. better yet, i don't think anything was stolen because nothing was there in the first place. and i think mr. smith, whoever he is, now knows that.
-speaker3: you have an active imagination.
-speaker2: i've been to church hill.
-speaker3: miss cartwright, you are involving yourself in matters that do not concern you. i strongly suggest you return to washington and stay out of small town cemetaries.
-speaker2: i could find him.
-speaker2: i have friends.
-speaker3: i doubt that. good day, miss cartwright. he walks on.
-speaker2: what's wrong?
-speaker3: your help may be unneccessary. the air is still.
-speaker4: long time.
-speaker3: not so long.
-speaker3: you've been here from the start.
-speaker4: my quarry grows clever with age. and the others, incompetent.
-speaker4: friend of yours?
-speaker3: of sorts.
-speaker4: i do hope she enjoys a good show.
-speaker4: so now it ends.
-speaker4: generation upon generation. tens of thousands of miles.
-speaker4: you're the last, macleod. romirez, lacroux, neuvich, those fools that followed me, their heads all line my shelf. all but yours.
-speaker4: can you feel it, macleod? can you _feel_ it!
-speaker4: there can be but one. he raises his blade.
-speaker5: hey! what's going on here?
-speaker3: run! brenna is frozen in shock.
-speaker3: run!
-
-speaker1: christ. 
-speaker2: you'll be safe here. he won't kill in a church.
-speaker1: why not?
-speaker2: tradition.
-speaker1: what the is going on?
-
-speaker1: afternoon. 
-speaker2: your name is conor?
-speaker1: aye.
-speaker2: juan cid romirez. chief surveyor and alchemist.
-speaker1: you're not from these parts.
-speaker2: i am from spain. and i would like a moment of your time.
-
-speaker1: i haven't much to offer, mr. romirez from spain, but you're welcome to what's here. 
-speaker2: please go to no trouble.
-speaker2: your back, it would seem perhaps you were injured in battle?
-speaker1: five years past me clan fought another over some- thing i cannot even re- member.
-speaker2: your marks would suggest great injury.
-speaker1: i was nearly killed.
-speaker2: but you lived.
-speaker1: i did at that.
-speaker2: and but for a mark you are well as any man, no?
-speaker1: aye.
-speaker2: i should imagine that your recovery must have alarmed your fellow villagers, perhaps giving them reason to invent an explanation. and a solution. something isn't right.
-speaker1: i was driven out.
-speaker2: and now you live in a small village miles away from all you knew.
-speaker1: how can you know this?
-speaker2: first food, no? a good meal makes conversation so much easier.
-speaker2: hmm, que rico. what is it you call this?
-speaker1: pheasant.
-speaker2: you scots have a way with game. it still has life in it. spirit. back home the food is so...domestic.
-speaker1: why are you here?
-speaker2: i was sent by his majesty of spain to inverness as a con- sultant on matters of metal.
-speaker1: you're a long way from inverness.
-speaker2: in my travels i heard the story of the macleod boy struck down and brought from the hand of death by powers not of this earth.
-speaker1: you know me home. me name.
-speaker2: it was time for our paths to cross.
-speaker2: you see this?
-speaker2: when i was a boy a cart driven by a drunken fool crushed me. all thought i would die or be maimed for life. but i healed quickly. and like you i paid the price for being different.
-speaker1: you are the same?
-speaker2: do you ever feel a flow, as if some- thing were pushing against you?
-speaker1: yes. always.
-speaker2: does it change with me in the room?
-speaker1: it is less.
-speaker2: you feel you know me.
-speaker1: i don't know why.
-speaker2: we are brothers.
-
-speaker1: he told me there could be only one. 
-speaker2: some cling to sanity through time with the one continuity and trad0 ition their lives have known: the game. you and i conor, we are different from all others around us. you know this, you can feel it. we are flesh and bone like any man, but unlike our neighbors we are rather difficult to injure, permanently.
-speaker1: i don't understand.
-speaker2: you are still so very young.
-speaker1: i'm twenty-two.
-speaker2: not even a single lifetime.
-speaker2: conor, you and i, we cannot be killed.
-speaker1: what?
-speaker2: we are immortal.
-speaker1: no, that can't be.
-speaker2: it is as you are.
-speaker1: no!
-speaker2: listen to me. hear the words.
-speaker1: this is madness!
-speaker2: it is the truth.
-speaker1: no!
-
-speaker1: this is dr. wickland at gwu. your test came back today. you can call me here at the med center if you have any questions. click. 
-speaker2: brenna, where the are you? the place is full of cops asking weird questions. what's going on? i've got work stacking up. get in here right away.
-speaker3: brenna.
-speaker3: my quarrel is not with you. meet me.
-speaker3: we have much to talk of, you and i. answers for the young historian. o'reily's. tonight. i've grown to like taverns. click.
-speaker4: happy birthday to you, happy birth- day to you, happy birthday dear brenna, happy birthday to you.
-speaker5: hi brenna, it's mom. me and your neices just wanted to call and wish you a happy birthday. crissy made a real cute card for you, be sure to call her. will you be home for easter? call when you can. love you. click.
-
-speaker1: three days you've laid there. 
-speaker2: this can't be.
-speaker1: you are not dead, boy. accept it.
-speaker2: this is monstrous. i'll burn in for all eternity.
-speaker1: you'd have to die first. aqui.
-speaker2: what is to become of me? am i to wander the earth forever like a ghost?
-speaker1: you will live. survive.
-speaker2: then they were right. i am evil.
-speaker1: you have done nothing wrong conor macleod.
-speaker2: oh my oh my i'm lost.
-
-speaker1: why does he want to kill me? 
-speaker2: you recall how i spoke of the push you feel and how i make it less?
-speaker1: aye.
-speaker2: it is always less with my living. far or near. but if i were to die the push would become stronger than ever before. there is power in this. and as long as you and i live, the knight can never have it all.
-speaker1: but we cannot be killed.
-speaker2: there is an imperfection. for all your healing, if your head ever leaves your neck, you are dead. you can survive anything but steel against your threat. then it is over. the end.
-speaker1: how can i stop such a man?
-speaker2: hide. run to the ends of the earth till you learn. you must learn to defend yourself. in this i can help.
-speaker1: why?
-speaker2: we are brothers. and you are a defense- -of sorts.
-
-speaker1: when your father died i saw to it that the grounds were kept up. 
-speaker2: the money in the estate was enough to cover your costs?
-speaker1: oh yes, more than enough.
-speaker1: most of the furniture was put into protective storage. i'll have some boys come up and clean the place out for you.
-speaker1: you're one of william's kids, huh?
-speaker2: his only kid.
-speaker1: sure take after him. never seen a father and son look more alike.
-speaker2: we were very close.
-speaker1: the resemblance is amazing.
-speaker2: when may i expect the cleaners?
-speaker1: i'll send them right up.
-
-speaker1: that stuff'll put you away if you're not careful. 
-speaker2: there was a count. count dusan. he would invite the local peasants to his chateau, fill them full of wine, then slice their bellies so he could reuse it. the symmetry of that somehow always appealed to me.
-speaker1: you're very macabre.
-speaker2: it's my birthday.
-speaker1: happy birthday.
-speaker2: thanks.
-speaker2: buy a birthday girl a drink?
-
-speaker1: macleod. taupin is anxious, poised for attack. 
-speaker1: spare a chair?
-speaker2: kahn?
-speaker1: are you going to offer me a chair or leave me standing here all night?
-speaker2: sit.
-speaker2: how are you?
-speaker1: head still secure to the neck.
-speaker2: how did you find me?
-speaker1: how many places this side of the atlantic serve lager and lime?
-speaker1: old habits die hard. waitress! a round of nitzhic! peasant drool, i know. but it's the closest thing they stock to my side of the fence.
-speaker2: what are you doing here?
-speaker1: it is the gathering, my friend. the settling of old scores.
-speaker2: and have you something to settle with me?
-speaker1: not tonight. tonight i have a drink with an old friend.
-speaker2: it's good to see you, kahn.
-speaker1: come, toast with me the past. to old conquests, old loves, and to a time when we cared about either.
-speaker1: waitress!
-
-speaker1: i'll never forget the look on that papal commander's face when his "heretic stronghold" turned out to be a rock full of whores climbing all over neuvich. 
-speaker2: neuvich, the clown of the crusades.
-speaker1: but then rides up pope pius who calmly brushes the dust from his papal cross, climbs off his papal horse, draws his papal sword and asks just what the is going on. and what did neuvich, dear dear drunken neuvich do?
-speaker2: offered the pope one of his whores. they laugh.
-speaker2: had a great swing with his blade.
-speaker1: good times then. a man could stretch his legs without bring- ing half the world down around his ears. not like now.
-speaker2: he found us even there.
-speaker1: he always did.
-
-speaker1: i haven't drunk this much since- 
-speaker2: -since you last saw me.
-speaker2: come on.
-
-speaker1: i love zoos. ever since i was a kid. 
-speaker2: you were never a kid.
-speaker1: i knew his great-grandfather.
-speaker2: you're insane.
-speaker1: no, seriously. we used to shoot pool together in rangoon.
-speaker2: how do you do it, kahn? how do you live so full of life for so long?
-speaker1: tasting and enjoying life is the only thing of value we have. all else is just marking time. you're marking time.
-speaker2: i've had a few more concerns.
-speaker1: the pressure only comes when you let the taste slip into your mouth.
-speaker2: you're wrong.
-speaker1: you don't run as hard, macleod.
-
-speaker1: i apoligize for the lateness of the hour, but i'm sure you will all agree the quality of this year's collection is well worth the time. 
-speaker1: for this fine example of medieval religious art, let us open the bid at 4,000 dollars.
-speaker1: 10,500 once, 10,500 twice...
-
-speaker1: 11,000. a bid at 11,000. 
-speaker2: no, i-
-
-speaker1: mr. taupin? i have to talk to you. 
-speaker2: finished?
-speaker1: he tried to kill me last night.
-speaker2: where?
-speaker1: dupont circle.
-speaker1: who is he?
-speaker2: at the moment? carl smith.
-speaker1: and you?
-speaker1: what will you do now?
-speaker2: you needn't worry miss cartwright.
-speaker1: he called you "macleod".
-speaker2: not your concern.
-speaker1: i left a man dead in felton. but you don't really care, do you?
-speaker2: that bothers you?
-speaker1: he was innocent.
-speaker2: he's dead. whatever i may or may not feel means exceedingly little to him now.
-speaker1: what about me?
-speaker2: you?
-speaker1: i'm a witness to a murder. that seems to put me pretty high on your friend's chop list.
-speaker2: have you gone to the police?
-speaker1: no.
-speaker2: why not? i'm sure they'd love to hear your story.
-speaker1: i'd rather hear yours.
-speaker2: you are being foolish.
-speaker1: i'm a historian, mr. taupin. only once in a lifetime do you stare history in the face.
-speaker2: go home.
-speaker1: why does he want to kill you?
-speaker2: he sees me as a threat.
-speaker1: are you?
-
-speaker1: concentrate! 
-speaker1: harder. concentrate harder.
-speaker2: me arm hurts.
-speaker1: again. try again.
-speaker1: harder! you swing like an impotent cow!
-speaker2: go to hell.
-speaker1: oh, the boy has a mouth, now if only he had an arm.
-speaker2: impotent cow.
-speaker1: muy bien!
-speaker1: here my boy, from vineyards as sweet and smooth as a young girl's thigh.
-speaker1: it will take less effort as you learn.
-speaker2: it's like to kill me first.
-speaker1: you have a gift. one you must protect.
-speaker2: and what is this great gift that cannot be seen or smelt?
-speaker1: the fabric of life. the spark that allows the passing of existence from one generation to another.
-speaker2: if that was meant to be an ex- planation mr. romirez from spain, i'm afraid you've failed.
-speaker1: come. enough sword play for an afternoon.
-
-speaker1: you're no match for scot, mr. 
-speaker2: point conceeded, mr. macleod.
-speaker1: what is the fascinatioon? it is only a leaf.
-speaker2: all living things pay dues, conor. they must be respected for that.
-speaker2: as they age they contribute to a sum that is the kindling from which all future life comes. to feel it, to know it, is to be in touch with the will of every living thing.
-speaker1: i do not think i like the sound of that.
-speaker2: it does not feel nearly as frightening as it sounds. but the consequences of such feelings can be very frightening. for it gives you great strength. the strength of _knowledge_. the ability to stand between the giving of what has always been to what will always be.
-speaker1: i feel hardly nothing.
-speaker2: you have not been fully trained. but you will learn. and you will be good, i can feel that. you have apt- itude. this is why our friend is so concerned.
-speaker1: but why be so concerned about me?
-speaker2: this power is divided amongst you, me, and others like cuts in a pie. but the cuts are not equal. some, like you and he, have more. much more.
-speaker1: and you?
-speaker2: i am a small player. but if by helping you i can keep that monster from being the last, then perhaps my life has meant something.
-speaker1: i am not ready for this.
-speaker2: you must be. you have responsibilities. you must learn the rules. you can never attract attention to yourself, never show the side that will draw others to you. you will always know when you are in the presence of another. beware. but more importantly conor macleod, will be your battle against time. in the coming years you will see kingdoms rise then rot like wheat. people will become a transitory, pathetic lot. the only constant you will know will be the others and the tradition their greed and quest represent. but life without morality, without the ability to truly taste the sweetness of wine and love, is no life at all. that is how the others exist. nothing more than walking corpses living only to slaughter each other in an insane quest to be the last. keep your soul sewed to the earth. do not become one of them.
-speaker1: of course.
-speaker2: you are young, inexperienced. you do not know what time can do. how it can sap all pity, all love.
-speaker1: that is not me.
-speaker2: with the proper tools, conor, a naive man can be much more dangerous than an evil one.
-speaker3: conor!
-speaker1: yes, darin.
-speaker3: hate to be bothering you like this, but me mare threw a shoe.
-speaker2: go ahead, senor. i have my friend to keep me company.
-speaker1: i'll be back when i can.
-speaker4: romirez. what a surprise. romirez is struggling under the debris. the knight thrusts hard onto an exposed leg.
-speaker2: madonna!
-speaker4: bastard!
-speaker2: oh, santa maria!
-speaker4: why run?
-speaker2: demonio!
-speaker4: to with you.
-
-speaker1: come on brenna, your is already in a sling, don't drag me into it. 
-speaker2: all i need is for you to check the name.
-speaker1: you talked to your supervisor lately? he's burning up the place about you just dropping out of sight. that on top of the cops bugging him.
-speaker2: i'll take care of that corey, but i need this now.
-speaker2: corey, you _owe_ me.
-speaker1: it's that important?
-speaker2: yeah.
-
-speaker1: wilson know about this? 
-speaker2: i'm doing it on my own.
-speaker3: good way to lose your job.
-speaker2: some job. card filing and cabinet dusting. four years in this dump and i haven't written anything for wilson that a wounded yak couldn't do.
-speaker3: i liked the bit you did about baltic chastity belts.
-speaker2: it's everything. my job, the people i get involved with, i'm up to here with it.
-speaker3: you always were hard to impress.
-speaker2: who is it?
-speaker3: not who. what. worstick's a town in pennsylvania.
-
-speaker1: chris, have you seen my notebook? 
-speaker1: why, that son of a
-
-speaker1: what's wrong wilson, huh? not enough excitement in your own desk? what the were you looking for in mine? 
-speaker2: a murder.
-speaker1: you better have a warrant. that's my notebook, you've got no right to be sticking your fingers into it.
-speaker2: i've got a morgue filling up with bodies. that's my right.
-speaker1: what do you want from me?
-speaker2: well, the man of the hour that we all would like to talk to about now has apparently skipped town. and all of a sudden the smithsonian's ambulence chaser is an expert on missing persons.
-speaker1: i'm calling an attorney.
-speaker2: you and i should talk first.
-speaker1: we've got nothing to say.
-speaker2: what are you going to tell them? that you're protecting a man who's killed four people?
-speaker1: four?
-speaker2: all fashionably without heads.
-speaker1: spare me the details.
-speaker2: but there's more. wednesday someone played javelin with the cemetary curator in felton, delaware. some locals spotted two cars with d.c. plates and surprise surprise, they turn out to be registered to our own brenna cartwright and the ever popular richard taupin.
-speaker1: what are you getting at, moran?
-speaker2: you've been a busy little beaver. especially with that records mess up in church hill. your notes are very complete. naturally my feelings were crushed when you didn't rush right over and tell us what you knew. in fact, we're considering book- ing the ambulence chaser as an accessory to murder.
-speaker1: it'll never stick.
-speaker2: but we might just give it the 'ole college try. what with the court back ups, it could be days before you got an arraignment. but then, i'm sure the flunk-out neice of the d.a. knows all about that.
-speaker1: you're an asshole, moran.
-speaker2: i want taupin.
-speaker1: what makes you so sure he's the one?
-speaker2: just for laughs we raided wonder boy's house. there was a gallon of one of the corpse's blood in his carpet. i think it was about then i withdrew his name for humanitarian of the year.
-speaker1: what's all of this got to do with me?
-speaker2: what were you doing in felton?
-speaker1: research. if your pal was there i never saw him.
-speaker2: i have witnesses that can put the two of you together.
-speaker1: never take up poker, detective.
-speaker2: don't be stupid, lady. your neck can be sliced as fast as anyone else's. brenna reaches across and lifts her notebook.
-speaker1: why don't you wait until it comes out in paperback?
-
-speaker1: i warned you. 
-speaker2: go to hell.
-
-speaker1: you shouldn't have come. 
-speaker1: we're you followed?
-speaker2: no.
-speaker1: no one knows you're here?
-speaker2: no. i had to talk to you.
-speaker1: you had to do _nothing_!
-speaker2: you're wrong.
-speaker1: you're a fool.
-speaker2: maybe.
-speaker1: come inside.
-
-speaker1: is this what you killed them with? 
-speaker2: you've been listening to rumors.
-speaker1: our cars were seen together in felton. they're calling me an accessory to murder.
-speaker2: you are. now.
-speaker2: there's several bedrooms down the hall. take your pick.
-
-speaker1: no, that's the last place we saw her. okay, will do. 
-speaker2: well?
-speaker1: we keep looking.
-speaker2: wonderful.
-
-speaker1: what's all that? 
-speaker2: richard taupin has become cumbersome. it would be best if he just disappeared.
-speaker1: you did kill those men.
-speaker2: not all of them.
-speaker1: when you finish, what then?
-speaker2: i go my way and you can write all you want about the big bad mr. taupin.
-speaker1: you make it all sound so simple.
-speaker2: the only real difficulty comes in changing over the ownership of property i've aquired. that requires certain records and most importantly a personal appearance at the county seat in gettysburg. but that's where you come in.
-speaker1: you want me to front for you.
-speaker2: the less exposure i recieve around government buildings the better. you, as mrs. taupin, will attract considerably less attention than i.
-speaker2: not such a bad trade. the story of a lifetime for a few days work?
-
-speaker1: they lost her outside of thurmont. 
-speaker2: i want people in here to check over every piece of this stuff.
-speaker1: figure she's with him?
-speaker2: yeah.
-speaker1: we ran down that church hill info. she's right. there is no richard taupin.
-speaker2: any other i.d.s come up?
-speaker1: not yet. called fbi yesterday. thompson's going to try cia this afternoon. y'never know.
-speaker2: should have seen him the first night. son of a stood there with a quart of blood on his pant leg and didn't even blink.
-speaker1: you'd think he'd had practice.
-speaker2: i think he has.
-
-speaker1: the men are assembled, major. 
-speaker2: see that they are indeed ready, dupont.
-speaker3: yes general.
-
-speaker1: regiment ready for review, sir. 
-speaker2: stand straight, you are a soldier of the king.
-speaker3: yes sir.
-speaker2: where is your bayonet?
-speaker4: lost it sir.
-speaker2: where?
-speaker1: you heard the major! where!
-speaker5: whorehouse sir.
-speaker2: your rifle. hand it to me.
-speaker2: the flint is cracked. no spark will reach your powder. you will die tomorrow.
-speaker2: tomorrow you go to _battle_! and you look like children! the general has charged me with seeing that you are prepared, and prepared you will be! if necessary you stand here all night! sargeant!
-speaker6: yes sir.
-speaker2: see to it.
-speaker6: yes sir.
-speaker2: your name?
-speaker7: mulet.
-
-speaker1: ...and what a sight! that old mare just kept falling over her own guts till someone finally shot her. 
-speaker2: complete your inspection?
-speaker3: they're nothing but boys. it will be a slaughter tomorrow.
-speaker2: i doubt much can change that. the enemy has five brigades waiting for us.
-speaker3: we need more time.
-speaker2: won't get it. we are a sacrifice. a diversion.
-speaker2: eat up dupont. it will probably be your last.
-speaker3: not likely.
-speaker3: i thought i gave orders the regiment was to drill.
-speaker4: staff sargeant detailed me to prepare firewood for the break- fast cooking.
-speaker3: what is your position?
-speaker4: second musketeer.
-speaker3: i understand you joined up in bremen.
-speaker4: you seem to understand a great deal.
-speaker3: i am a major, private. you would do well remembering that when addressing me.
-speaker4: excuse me, "sir". i thought we spoke as equals.
-speaker3: equals?
-speaker4: if you wish to play games, major.
-speaker3: wait. i think we understand each other.
-speaker4: we have no understanding.
-speaker3: then it is time two of us did. you are very young. i was once young. i can help.
-speaker4: help? i've seen others "help". somehow a head always ended up on the counter.
-speaker3: it can be different. it must be.
-speaker4: it never changes, major.
-speaker3: we must talk.
-speaker4: stay out of it.
-speaker3: don't threaten me, private.
-speaker4: who do you think i am? one of your freckle faced children waiting to die tomorrow? "threaten you"? you and i just living will always be a threat. forever. look at your life, major. look at mine. nothing there but threat. threats and nothingness. it's what we live for. mulet turns his back on dupont.
-speaker3: do not turn your back on me.
-speaker4: you are really going to force this, aren't you?
-speaker3: either you are with me or against me.
-speaker4: have i a choice?
-speaker4: you see major? you are not so different. dupont cuts off mulet's head where he stands.
-
-speaker1: you see major? you are not so different... 
-speaker2: i had no choice.
-speaker2: who am i deceiving?
-speaker3: certainly not me.
-speaker3: you needn't look so flushed, major. you are quite safe in church.
-speaker3: state of grace and all that.
-speaker2: tradition.
-speaker3: it's all we have.
-speaker3: all this time and still a scared little boy.
-speaker2: not so scared.
-speaker3: perhaps not. you seem to have misplaced a private. no doubt by now his head is stranger to his neck.
-speaker2: no doubt.
-speaker3: you surprise me. eliminating a rival like that. such are the actions of a man of conquest. i was mistaken. 300 years have turned the boy's fear into ambit- ion.
-speaker2: you're wrong.
-speaker3: i know you very well, conor macleod. and i can see the truth beginning to make itself clear to you. mulet, romirez, they were fools without vision. it was destined that the board would be cleared for the real players.
-speaker2: romirez understood. not you.
-speaker3: romirez is dust.
-speaker3: finish your prayers?
-speaker2: finish yours?
-speaker3: our common heritage. i am your only real friend, you know. the only one who truly understands you. i look forward to the day we meet again. and i kill you.
-speaker2: so sure?
-speaker3: you can't stay in church forever.
-speaker3: good night, major. he exits.
-
-speaker1: morning mr. north 
-speaker2: same.
-speaker1: such a pretty day. if i live to be 90 i'll never tire of mornings like this. mind you i'm 74 now.
-speaker2: no.
-speaker1: yes sir. when you get older your priorities change. it's the simple things that count. without them growing old can be a very lonely thing.
-speaker2: i'm sure that's true.
-speaker2: here. the hook should go just below the head, where the meat is toughest.
-speaker3: thanks.
-speaker2: show you a trick.
-speaker2: fish are creatures of habit. they like their food where they're used to it. at the top, hiding in old leaves.
-speaker3: where did you learn that?
-speaker2: my father taught me.
-speaker3: your father must be smart.
-speaker2: yes, he was.
-
-speaker1: there was a man once. just a simple woodcarver. but he understood. more than anyone he could see to the heart of it. it never ends. today is the same as the first. tomorrow will be the same as today. so much time. and all of it wasted. you love history? 
-speaker2: yes.
-speaker1: i wish i could.
-
-speaker1: the estate stuff is pretty straight forward. just lots of forms and an appearance at the county seat. 
-speaker2: it will take some time for the forms to clear before you go to gettysburg.
-speaker2: second thoughts?
-speaker1: no. so what now? we just wait?
-speaker2: yes.
-speaker1: well, as long as we're stuck here.
-speaker1: it's some sort of party the town is throwing.
-speaker2: they do it each year.
-speaker1: i thought it might be a nice break from all of this.
-speaker2: maybe it would do us both good.
-speaker1: there's a catch. you're supposed to wear 19th century clothing.
-speaker2: my father was something of a junk collector.
-speaker2: here, try this. i suppose they're still making women the same as back then.
-speaker1: it's beautiful.
-speaker2: a little dusty.
-
-speaker1: do it again. 
-speaker2: all right.
-speaker2: a lion. katherine is delighted.
-speaker1: oh please. another one.
-speaker2: what would you like?
-speaker1: something pretty.
-speaker2: like you.
-speaker1: that's wonderful. where did you ever learn it?
-speaker2: far away.
-speaker1: kiss me.
-speaker3: you'll be leaving the girl alone.
-speaker1: david.
-speaker2: do you have cause to bothering us?
-speaker3: that's my girl.
-speaker1: david, we've already spoken of this.
-speaker3: he's not what he pretends to be.
-speaker2: you best leave, son.
-speaker3: you think you're so high and mighty, coming into town and taking a man's woman. well i know about you. i know about the things you do.
-speaker2: i said you best leave.
-speaker3: you'd like that, wouldn't you? ask him about his friends. the ones he meets in the town square. ask him about the blade he keeps beneath his bed.
-speaker2: leave. while you still can.
-speaker3: you don't frighten me.
-speaker2: i should.
-speaker1: no! leave him. please don't hurt him. please.
-speaker3: he's not what you think.
-speaker3: he's not what you think!
-speaker1: i don't care who you are or where you come from.
-speaker1: i love you.
-
-speaker1: mr. taupin! glad you could make it. best get some punch before it's gone. near the whole valley showed up. they go to the table. 
-speaker2: if i didn't know better i'd say william taupin.
-speaker3: his son. richard.
-speaker1: mr. taupin is up from washington to look over his father's estate.
-speaker2: your father died some years ago. this is your first visit?
-speaker3: of sorts.
-speaker2: i suppose a taupin had to show up eventually.
-speaker3: good evening, mrs. butler.
-speaker4: what was all that about?
-speaker1: sorry mr. taupin. that's not meant for you. just some didn't take much to your father.
-speaker4: why?
-speaker3: my father was never one for social whirls.
-speaker5: kept to himself for sure. then with all that business in '31.
-speaker4: what business?
-speaker1: family down the road from the taupin place was murdered. all cut up they were. horrible. two strangers were also found with the bodies. no one ever accused william, but with his reputation as a loner and the rumors about him and some of the wives in town, folks just never forgot. most were relieved when they heard he'd died. sorry mr. taupin.
-speaker3: nothing to be sorry about.
-speaker1: just your pappy scared some.
-speaker6: all right, the kids have had their fun. now it's time for a little more traditional dancing.
-speaker4: i don't know any of these. i'll make a fool of myself.
-speaker3: follow me.
-speaker4: william taupin seems to have left his mark.
-speaker3: yes.
-speaker4: and you are william taupin, aren't you?
-speaker3: yes.
-speaker4: you're using your son's name.
-speaker3: no. just the child of some lonely girl i gave a ride to. when they died i put them in a grave with my name on it. twenty years later i became the son.
-speaker3: more punch?
-speaker4: then you must be at least 70 years old.
-speaker3: at least.
-speaker4: that's impossible.
-
-speaker1: it's frightening sometimes the way you talk about other people's lives. 
-speaker2: a factor of age.
-speaker1: i hope i never get that old.
-speaker2: you won't.
-speaker1: i must be insane. leaving work, ditching cops. all to follow a murderer. a very old murderer, but a murderer just the same.
-speaker2: why are you here?
-speaker1: i've been telling myself it's the award winning journal article i'm going to write. but it's not. it's you.
-speaker2: i see.
-speaker1: i'm not even sure why.
-speaker2: hardly a reason to run off with a murderer.
-speaker1: my life has been chock full of people with complications and weak- nesses. i can't stand it. but you're different. it's in your hands. a clarity.
-speaker2: you are a very perceptive young woman.
-speaker1: just a little crazy.
-speaker2: miss cartwright, it's time i showed you something.
-
-speaker1: miss cartwright? 
-speaker2: my
-speaker1: i had this room built some time ago.
-speaker2: who are you?
-speaker1: that would be difficult to explain.
-speaker2: i'd like you to try.
-speaker1: i was born conor macleod in the village of ardvrek on the high- land plain of strathnaver in the clan of macleod under the king of scotland. on the eleventh of december, 1408.
-speaker1: i have served in the armies of twelve nations, married nine women, fathered thirty-eight children and buried them all.
-speaker1: i carried that rifle in world war i. this book is a 16th century policy report for the king of austria. the diploma is my con- ference of degree in latin from trinity college. class of 1672. it goes on.
-speaker2: that's why smith called you macleod.
-speaker1: yes.
-speaker2: he knows about you.
-speaker1: he is older than i.
-speaker2: what could possibly be worth all this murder and distruction.
-speaker1: sometimes i think it's just for something to do. a conquest to be the last. something to hold onto while everything else around you withers and blows away. some- thing to replace the love that can never work.
-speaker2: that's insane.
-speaker1: perhaps. there is something more.
-speaker2: of bodies.
-speaker1: i didn't kill the watchman.
-speaker2: you killed those other two.
-speaker1: not the same.
-speaker2: what about that family in '31?
-speaker1: sometimes innocents become involved.
-speaker2: you and your buddy make a real team, don't you? exchanging eloquent threats in iambic pen- tameter while hacking up all the innocents in between.
-speaker1: there are differences.
-speaker2: you kill with your left hand?
-speaker1: i haven't killed _you_.
-speaker2: is that a threat?
-speaker1: no.
-speaker2: don't.
-speaker1: come here, brenna.
-speaker2: you.
-
-speaker1: may commend into his kingdom the soul of our dear departed jason, son of katherine- the old woman. 
-speaker1: and brother to howard and james- the two middle aged sons.
-speaker2: watches the funeral quietly at a distance.
-
-speaker1: you. 
-speaker2: katherine.
-speaker1: what are you doing here?
-speaker2: i owe him this.
-speaker1: he never knew you.
-speaker3: is something wrong, mother?
-speaker1: howard. james. this is your father...
-
-speaker1: "brenna". in celtic is means "woman with raven hair". only chieftan's daughters were allowed it. 
-speaker2: what is it like? being you?
-speaker1: empty. and fear. fear of those that would kill you and fear of those that would love you. it can never last, and in the end you always end up destroying both.
-speaker2: but you're known so much.
-speaker1: it's all the same. half lives that never go away.
-speaker2: what is it you want?
-speaker1: all of it finished.
-
-speaker1: gettysburg's an hour's drive at most. you should be back by nightfall. 
-speaker2: will i see you again?
-speaker1: be careful. don't stay any longer than you have to.
-speaker1: good luck.
-
-speaker1: are you sure? 
-speaker2: won't know till the records department comes back with it this after- noon. looks good though. they found the receipt in his townhouse. it was pretty smeared but had taupin's father listed as a signatory.
-speaker1: round up who you can and put them on standby.
-speaker2: think we should call the local p.d. out there first?
-speaker1: no. i want this to be all ours.
-
-speaker1: o.k. mrs. taupin, that's all i need. 
-speaker1: just take this down the hall to the regis- trar. hurry up though, it's near closing time. most everyone's gone home already.
-
-speaker1: i'll be right back. 
-speaker2: do you have a drinking fountain?
-speaker3: around the corner.
-
-speaker1: tries the door handle. 
-speaker2: oh
-speaker2: go away! oh go away!
-
-speaker1: we have some unfinished business. 
-speaker2: are you here?
-speaker1: i want you to come to me.
-speaker2: and if i refuse?
-speaker1: give me an address where i can forward miss cart- wright's head.
-speaker1: yes laddie, i have her.
-speaker2: should i care?
-speaker3: you have three hours.
-
-speaker1: welcome. 
-speaker1: kahn sends his best.
-speaker2: let her go.
-speaker1: you disappoint me. i thought you'd finally gotten over that sort of thing.
-speaker2: leave her out of this.
-speaker1: as you wish.
-speaker1: you can do better than that.
-
-speaker1: it's from over near the memorial. 
-speaker1: 
-
-speaker1: moran. all right, get a patrol unit out there right away. i'll meet them. 
-speaker2: no. not now.
-
-speaker1: get up. 
-speaker2: what's the point?
-speaker1: this isn't done. get up.
-speaker2: what's the point! you have me, finish it!
-speaker1: i have waited forever for this. you will not cheapen it, little boy.
-speaker2: tradition.
-speaker1: it's all we have.
-speaker2: go to hell.
-speaker1: perhaps miss cartwright would like to play.
-speaker2: leave her alone.
-speaker1: get up.
-
-speaker1: you bastard! 
-speaker2: be silent.
-speaker1: leave him alone.
-speaker2: you will be silent!! the voice is thundering.
-speaker2: i do hope you're enjoying this as much as me.
-speaker3: stands in the entryway. the knight sees him.
-speaker2: get out. moran draws his pistol.
-speaker2: this is nothing that concerns you. moran levels his gun.
-speaker2: you will leave!
-speaker4: don't.
-speaker4: stop. you don't understand.
-speaker4: in mamus tuas domine commendo spiritum meum. auditorium nostrum in nomine domine.
-speaker4: requiescant in pace. and cuts the knight's head off. taupin drops his sword. his breathing quickens. a sensation sweeps over him.
-speaker1: my
-speaker1: conor. taupin is looking past her.
-speaker5: lies on the floor.
-speaker2: and now you know.
-
-speaker1: what's wrong? 
-speaker2: i can't stand it. oh i can't stand it!
-speaker2: the scream of your blood. the shriek of trees. stop it! stop it!
-speaker1: what is it?
-speaker2: i'm the last. oh christ, i'm the _last one_!
-speaker2: get out.
-speaker1: no!
-speaker2: i'll destroy you. i've destroyed everything i've ever touched! oh
-speaker1: conor...
-speaker2: _get out_!
-
-speaker1: what are we supposed to say? 
-speaker2: the emptyness. the years and years of void. nothingness. bordered only by the quest for ultimate nothingness.
-speaker1: the inheritance.
-speaker2: not power. not control.
-speaker2: life. it is the gift and the under- standing of life.
-speaker1: you have lived forever.
-speaker2: life is only life when it is bounded by death. the inheritance is death. the gift is the finality of life. to be part of the fabric. the inside. i love you brenna.
-speaker2: it will be horrible. the future. i may die tomorrow or 10,000 tomorrows. i can promise you nothing. nothing but a moment. maybe two. but a moment of love, is that not worth a lifetime?
-speaker1: yes.
-speaker2: it's taken me so long. so very long.
+FIRST MAN: macleod. the second nods. 
+MOTHER: my, but are you the picture.
+CONOR: it's a bit tight.
+FATHER: ah, conor, how you look a man.
+MOTHER: have you time for some- thing to eat?
+CONOR: no, mother. they'll be here shortly.
+FATHER: your grandfather wore that in his service to the king, and i to fight for the duke.
+MOTHER: must he go?
+FATHER: aye. it is his duty. all of ours.
+MOTHER: but ian, he's still but a boy.
+FATHER: he's a macleod.
+CONOR: i'll be fine mother.
+
+CLANSMAN: they march. 
+KNIGHT: is the boy among them?
+CLANSMAN: aye.
+
+VASSAL #1: is a bad day for this. 
+VASSAL #2: the duke has been compro- mised. he will have his due.
+VASSAL #1: by day's end he will have our heads.
+VASSAL #2: we ride against the suther- lands. that is all that matters.
+VASSAL #1: this makes no sense to me.
+
+FRIEND: the fog is bad. we cannot even see the sides of our own ranks. 
+FRIEND: is this your first?
+CONOR: aye.
+FRIEND: it's begun.
+
+OFFICER #1: kevin! get is a backup. 
+TAUPIN: i was merely walking by when-
+OFFICER #1: don't move. the officer has his pistol out and leveled.
+OFFICER #2: they're on their way.
+OFFICER #2: christ.
+
+PRIEST: ...libera domine animan servi tui sicut libertasi david de manu regis saul... 
+PRIEST: ...in mamus tuas domine commendo spiritum meum...
+
+VASSAL #1: has the boy died? 
+CLANSMAN: he is having the last rites now. it should be over by morning.
+VASSAL #1: never seen anybody cut as bad live so long. he should have died on the field.
+CLANSMAN: tonight or tomorrow, it's all the same.
+PRIEST: ...auditorium nostrum in nomine domini...
+VASSAL #1: this has been a dark day.
+PRIEST: ...requiescant in pace...
+
+EXAMINER: real clean. no sawing action at all. whatever it was did it in one swipe. like the other one. 
+MORAN: what about that?
+EXAMINER: hasn't any blood on it.
+MORAN: about the only thing that doesn't.
+EXAMINER: i'll give it a closer look when i get back.
+
+OFFICER #3: come on brenna, you know better than that. 
+BRENNA: i'm invited.
+BRENNA: mr. levine...
+EXAMINER: hope this isn't past your bedtime.
+BRENNA: doesn't have a head, does he?
+EXAMINER: this one came unassembled.
+MORAN: just show her what she came for, tom.
+EXAMINER: come on, this is more your line of work.
+EXAMINER: how's your uncle? i hardly ever see him anymore.
+BRENNA: fine.
+EXAMINER: there you go.
+EXAMINER: didn't look like it came from "toys-are-us", that's why i called you.
+BRENNA: didn't think it was my buddy over there.
+EXAMINER: figured you knew more about swords than i did.
+BRENNA: claymore.
+EXAMINER: huh?
+BRENNA: scottish claymore. take a french epee, add twenty pounds of ballast so it means business, and you've got a claymore.
+EXAMINER: you're the expert.
+BRENNA: it's in good condition.
+
+MORAN: this your present address? 
+TAUPIN: yes.
+MORAN: mr.- taupin, what were you doing in that alley?
+TAUPIN: i was walking by when i heard a shout. your men came right after.
+MORAN: did you know the victim?
+TAUPIN: no.
+MORAN: his name was iman fasil if that jogs your memory.
+TAUPIN: it doesn't.
+MORAN: he was carrying a syrian passport and had been in the country less than a week.
+MORAN: two days ago a bulgarian national was murdered the same way. he'd also been in the country less than a week. what is your citizenship?
+TAUPIN: american.
+MORAN: do you make a habit of hanging out in that neigh- borhood at night?
+TAUPIN: what are you getting at?
+MORAN: let's just say that in my years with this department i've seen more than one well dressed business man look for a hand job on 14th street.
+MORAN: what were _you_ looking for?
+TAUPIN: that's none of your business.
+MORAN: you're wrong.
+MORAN: do you know what this is?
+TAUPIN: i presume it's a sword.
+MORAN: a claymore to be exact. you wouldn't know anything about it would you?
+TAUPIN: your murder weapon?
+MORAN: it was covered with mr. fasil's fingerprints, but none of his blood.
+TAUPIN: a mystery.
+MORAN: for the moment.
+MORAN: all right mr. taupin, we'll be in touch.
+
+MOTHER: ah steven, it is good to see you. 
+TRAVELLER: i only just heard of conor. i came up from catroch as soon as i could.
+MOTHER: you're a kind man to be sure.
+TRAVELLER: i thought it only proper to pay me last respects to the family.
+MOTHER: steven, conor didn't die.
+TRAVELLER: but i had heard his wounds were mortal.
+MOTHER: they were steven, they were. it's been a miracle it has. he lasted right through and healed. no one in the village has ever seen anything like it. ever.
+
+CONOR: you're pretty today. 
+CONOR: i'm your future husband, remember?
+MARA: i have no future husband.
+CONOR: i don't understand. not a week ago your father gave us his blessing.
+MARA: my future husband died in battle against the sutherlands.
+CONOR: what are you saying? i'm standing here as real as you.
+MARA: you cannot be real, conor. you had the last rites. no man has been cut half as bad and lived.
+CONOR: but i did live.
+MARA: live? in less than a week you're prancing about the country like a squirrel.
+CONOR: so why the crazy talk? it's a miracle it is. saint andrew has smiled on me. on us.
+MARA: some think not.
+CONOR: who?
+MARA: there's rumor in the village.
+CONOR: that's mad. surely you don't take their word?
+MARA: i don't know, conor. it's not natural. maybe something has touched you.
+CONOR: you're sounding like that mad woman, widow baggins.
+MARA: me father has taken back my hand.
+CONOR: ah, lassie...
+MARA: please not be touching me, conor.
+CONOR: i'll not take that kind of talk from you. from those others below, maybe. but not from you.
+MARA: leave me alone, conor. please.
+CONOR: you're not talking sense, mara!
+CONOR: i'm sorry.
+CONOR: if you send me away now, mara, i'll not come looking for you.
+MARA: do what you must.
+
+BRENNA: do you play? 
+TAUPIN: yes.
+BRENNA: very traditional.
+TAUPIN: miss cartwright, what is it i can do for you?
+BRENNA: i'd like to ask you about the claymore.
+TAUPIN: it's not mine.
+BRENNA: it's quite rare you know, some- thing so common in its time so well looked after all these years.
+TAUPIN: miss cartwright, unless you have come here to sell the sword, there's very little i can help you with. now if you will excuse me, i have a great deal of work to do.
+BRENNA: byzantine?
+TAUPIN: basil the ii.
+BRENNA: charming guy, basil. once after beating an army of serbians he blinded all but-
+TAUPIN: -all but one out of a hundred, i know. all left to be led like donkeys back home. now if you will please-
+BRENNA: good reflexes.
+TAUPIN: good day, miss cartwright.
+
+BRENNA: i don't believe him. 
+SUPERVISOR: why?
+BRENNA: he's too cool. too sharp. i think he's got something to do with it.
+RESEARCHER #1: oh, has your penetrating research on 9th century lithuanian suddenly made you an expert on the criminal mentality?
+BRENNA: screw off, larry.
+RESEARCHER #2: the cops bought it. they let him go.
+BRENNA: what could they hold him for? i think they're just waiting for something concrete before they haul him in for real. we should look into it. he had to have gotten that sword from somewhere.
+SUPERVISOR: hang on a sec, you did your little favor for the boys downtown, i'm sure your uncle and the rest are perfectly capable of taking it from here.
+BRENNA: i've seen nobleman swords that weren't as well preserved. it's just a hunk of peasant iron. why would he be carrying it around in an alley?
+RESEARCHER #1: here we go. everytime there's a murder in town we have to put up with junior d.a.
+RESEARCHER #2: must be genetic.
+BRENNA: someone should check him out. maybe a collection somewhere got knocked over. he has one, he might have two.
+SUPERVISOR: you see that desk? _your_ desk? you see the piled up on it?
+BRENNA: give it a rest ned, huh?
+RESEARCHER #2: might be interesting to see what his family connections are. that's a of a piece to be just chuck- ing around in an alley.
+SUPERVISOR: i swear to brenna, between you and thompson's novels i'm going to get a ulcer.
+
+CONOR: evening, douglas. 
+DOUGLAS: conor.
+CONOR: ale suits me.
+TAVERN MAN #1: we rather you not be sitting with us, conor.
+TAVERN MAN #2: we be drinking alone as well. the entire tavern spells the same sentiments.
+CONOR: what's wrong with you all? silence.
+TAVERN MAN #2: requiem acer'nam donaei-
+CONOR: what are you doing man?
+TAVERN MAN #2: -et lux perpetua-
+CONOR: you'll not be bringing the church into this.
+TAVERN MAN #2: -luceat ei- the weird display frightens conor.
+CONOR: be quiet.
+TAVERN MAN #2: -auditorium nostrum-
+CONOR: stop.
+TAVERN MAN #2: -in nomine sanctus esperitu-
+CONOR: stop! conor hurles his mug against the wall.
+
+MOTHER: please take care of yourself. 
+CONOR: aye.
+FATHER: i wish there was some other way.
+FATHER: goodbye, conor.
+CONOR: goodbye.
+
+DESK OFFICER: this is against the rules. 
+BRENNA: so's playing choo-choo with two high school cheerleaders in the middle of-
+DESK OFFICER: -okay okay.
+BRENNA: you owe me. besides, i'm cute.
+DESK OFFICER: taupin, richard marshall. born march 16, 1945 in church hill, maryland. received first driver permit 1967 in philadelphia.
+BRENNA: church hill, that's pretty close, isn't it?
+DESK OFFICER: anything in maryland is close.
+
+TAUPIN: where is he? 
+TAUPIN: where!
+INTRUDER: i don't know.
+TAUPIN: what name is he using?
+INTRUDER: smith. carl smith.
+TAUPIN: how many came?
+INTRUDER: the last four.
+TAUPIN: and the bulgarian?
+INTRUDER: he got him. he always does. eventually.
+TAUPIN: he knows i'm here. how?
+INTRUDER: none of this would be happening if you hadn't run...
+TAUPIN: _answer_ me.
+INTRUDER: we learned he'd found the immigration notaries in liverpool and traced them to new york. then he figured out the birth records in church hill...
+
+KIDELL: 1945, that strains the memory. here we are, richard taupin. 
+KIDELL: would you like more tea?
+BRENNA: no thank you, i'm fine.
+KIDELL: he was unsual.
+BRENNA: why?
+KIDELL: well, this is a small town, and it was even smaller then. most all the babies i delivered were from local families. richard's parents were just passing through when his mother's time came. i did it right here at the house.
+BRENNA: then you didn't know richard later on.
+KIDELL: no.
+BRENNA: i've been trying to find somebody who knew him and any connections his family might have had with museums or historical societies.
+KIDELL: don't know about any of that.
+BRENNA: i don't follow you.
+KIDELL: poor little tyke didn't have a chance. hopelessly premature. he died a few days after he was born.
+BRENNA: the boy _died_?
+KIDELL: mother too. sad case it was. the young lady just couldn't make it through labor. never even saw her son.
+KIDELL: my brother worked for the town paper at the time. he took this picture of the funeral.
+BRENNA: have you spoken to anyone else about this?
+KIDELL: there was this one fella. asked a lot of questions. i was out of town but i heard he spent near a full day in the records office.
+BRENNA: would you remember his name?
+KIDELL: carl smith.
+OFFICER: just tell us when you see the one.
+UNCLE JOE: forget it.
+BRENNA: i'm just curious.
+UNCLE JOE: you're never "just curious". you've met my neice, brenna.
+ASSISTANT: hi brenna.
+OFFICER: number 5, lift your coat up more.
+UNCLE JOE: aren't you getting a little old for this? you flunked out of law school.
+BRENNA: now there's a new topic.
+UNCLE JOE: don't they have enough for you to do at the castle?
+UNCLE JOE: forgers do it all the time. they take the birth certificate of some- one who died young and use it to get legit i.d. usually they carry it long enough to pass some bad checks then dump it.
+BRENNA: thanks.
+UNCLE JOE: call your mother. you never call her.
+OFFICER: well?
+OLD LADY: i don't know. i'd have to see his thing.
+
+BRENNA: i can't figure out why he's doing it. he's been richard taupin at least since 1967. and the guys rich. you should see the stuff he has in that shop. 
+DENNIS: maybe he's hiding from something.
+BRENNA: some guy named smith was asking about him in church hill. i passed his name around with your buddies downtown but they drew a blank. so he isn't a cop. district anyway.
+DENNIS: probably just some exec ducking an ex-wife.
+BRENNA: dr. kidell had a picture in his file of the funeral. the father looked just like richard. even had a mark on his cheek.
+DENNIS: how old is richard?
+BRENNA: p.d. says 41, but he barely looks
+
+DENNIS: find the father. that should clear things up. 
+DENNIS: taupin, isn't that the guy moran picked up the other night?
+BRENNA: yeah.
+DENNIS: he'd want to know about all this.
+BRENNA: mr. congeniality? let him find his own clues. there's a journal article in this somewhere.
+DENNIS: uncle joey's little girl. can't get the taste out of her mouth.
+DENNIS: well, the cream of society awaits. if you're ever in the neighborhood...
+BRENNA: sure.
+
+OFFICER: they found it. 
+OFFICER: it was about fifty yards down- stream from the head.
+OFFICER: both were cut real clean. like the other ones...
+
+MORAN: there's been another murder. 
+TAUPIN: my condolences.
+MORAN: where were you tuesday night?
+TAUPIN: home.
+MORAN: a neighbor saw your car leave.
+TAUPIN: he's mistaken.
+MORAN: look, i don't know what the you're up to, but i think i've got a pretty good idea.
+TAUPIN: do you?
+MORAN: all i need is time.
+TAUPIN: i've got all the time in the world. except right now. if you will excuse me, lieutenant.
+
+MICHAEL TAUPIN".: the casket is empty. 
+BRENNA: someone beat you.
+TAUPIN: have you taken to touring small town cemetaries, miss cartwright?
+BRENNA: grave robbers?
+TAUPIN: probably.
+BRENNA: who?
+TAUPIN: people like that rarely leave business cards.
+BRENNA: does carl smith?
+TAUPIN: i don't know what you're talking about.
+BRENNA: i think you do. better yet, i don't think anything was stolen because nothing was there in the first place. and i think mr. smith, whoever he is, now knows that.
+TAUPIN: you have an active imagination.
+BRENNA: i've been to church hill.
+TAUPIN: miss cartwright, you are involving yourself in matters that do not concern you. i strongly suggest you return to washington and stay out of small town cemetaries.
+BRENNA: i could find him.
+BRENNA: i have friends.
+TAUPIN: i doubt that. good day, miss cartwright. he walks on.
+BRENNA: what's wrong?
+TAUPIN: your help may be unneccessary. the air is still.
+KNIGHT: long time.
+TAUPIN: not so long.
+TAUPIN: you've been here from the start.
+KNIGHT: my quarry grows clever with age. and the others, incompetent.
+KNIGHT: friend of yours?
+TAUPIN: of sorts.
+KNIGHT: i do hope she enjoys a good show.
+KNIGHT: so now it ends.
+KNIGHT: generation upon generation. tens of thousands of miles.
+KNIGHT: you're the last, macleod. romirez, lacroux, neuvich, those fools that followed me, their heads all line my shelf. all but yours.
+KNIGHT: can you feel it, macleod? can you _feel_ it!
+KNIGHT: there can be but one. he raises his blade.
+WATCHMAN: hey! what's going on here?
+TAUPIN: run! brenna is frozen in shock.
+TAUPIN: run!
+
+BRENNA: christ. 
+TAUPIN: you'll be safe here. he won't kill in a church.
+BRENNA: why not?
+TAUPIN: tradition.
+BRENNA: what the is going on?
+
+CONOR: afternoon. 
+ROMIREZ: your name is conor?
+CONOR: aye.
+ROMIREZ: juan cid romirez. chief surveyor and alchemist.
+CONOR: you're not from these parts.
+ROMIREZ: i am from spain. and i would like a moment of your time.
+
+CONOR: i haven't much to offer, mr. romirez from spain, but you're welcome to what's here. 
+ROMIREZ: please go to no trouble.
+ROMIREZ: your back, it would seem perhaps you were injured in battle?
+CONOR: five years past me clan fought another over some- thing i cannot even re- member.
+ROMIREZ: your marks would suggest great injury.
+CONOR: i was nearly killed.
+ROMIREZ: but you lived.
+CONOR: i did at that.
+ROMIREZ: and but for a mark you are well as any man, no?
+CONOR: aye.
+ROMIREZ: i should imagine that your recovery must have alarmed your fellow villagers, perhaps giving them reason to invent an explanation. and a solution. something isn't right.
+CONOR: i was driven out.
+ROMIREZ: and now you live in a small village miles away from all you knew.
+CONOR: how can you know this?
+ROMIREZ: first food, no? a good meal makes conversation so much easier.
+ROMIREZ: hmm, que rico. what is it you call this?
+CONOR: pheasant.
+ROMIREZ: you scots have a way with game. it still has life in it. spirit. back home the food is so...domestic.
+CONOR: why are you here?
+ROMIREZ: i was sent by his majesty of spain to inverness as a con- sultant on matters of metal.
+CONOR: you're a long way from inverness.
+ROMIREZ: in my travels i heard the story of the macleod boy struck down and brought from the hand of death by powers not of this earth.
+CONOR: you know me home. me name.
+ROMIREZ: it was time for our paths to cross.
+ROMIREZ: you see this?
+ROMIREZ: when i was a boy a cart driven by a drunken fool crushed me. all thought i would die or be maimed for life. but i healed quickly. and like you i paid the price for being different.
+CONOR: you are the same?
+ROMIREZ: do you ever feel a flow, as if some- thing were pushing against you?
+CONOR: yes. always.
+ROMIREZ: does it change with me in the room?
+CONOR: it is less.
+ROMIREZ: you feel you know me.
+CONOR: i don't know why.
+ROMIREZ: we are brothers.
+
+CONOR: he told me there could be only one. 
+ROMIREZ: some cling to sanity through time with the one continuity and trad0 ition their lives have known: the game. you and i conor, we are different from all others around us. you know this, you can feel it. we are flesh and bone like any man, but unlike our neighbors we are rather difficult to injure, permanently.
+CONOR: i don't understand.
+ROMIREZ: you are still so very young.
+CONOR: i'm twenty-two.
+ROMIREZ: not even a single lifetime.
+ROMIREZ: conor, you and i, we cannot be killed.
+CONOR: what?
+ROMIREZ: we are immortal.
+CONOR: no, that can't be.
+ROMIREZ: it is as you are.
+CONOR: no!
+ROMIREZ: listen to me. hear the words.
+CONOR: this is madness!
+ROMIREZ: it is the truth.
+CONOR: no!
+
+MALE VOICE: this is dr. wickland at gwu. your test came back today. you can call me here at the med center if you have any questions. click. 
+SUPERVISOR'S VOICE: brenna, where the are you? the place is full of cops asking weird questions. what's going on? i've got work stacking up. get in here right away.
+KNIGHT'S VOICE: brenna.
+KNIGHT'S VOICE: my quarrel is not with you. meet me.
+KNIGHT'S VOICE: we have much to talk of, you and i. answers for the young historian. o'reily's. tonight. i've grown to like taverns. click.
+SEVERAL LITTLE GIRLS: happy birthday to you, happy birth- day to you, happy birthday dear brenna, happy birthday to you.
+MOTHER'S VOICE: hi brenna, it's mom. me and your neices just wanted to call and wish you a happy birthday. crissy made a real cute card for you, be sure to call her. will you be home for easter? call when you can. love you. click.
+
+ROMIREZ: three days you've laid there. 
+CONOR: this can't be.
+ROMIREZ: you are not dead, boy. accept it.
+CONOR: this is monstrous. i'll burn in for all eternity.
+ROMIREZ: you'd have to die first. aqui.
+CONOR: what is to become of me? am i to wander the earth forever like a ghost?
+ROMIREZ: you will live. survive.
+CONOR: then they were right. i am evil.
+ROMIREZ: you have done nothing wrong conor macleod.
+CONOR: oh my oh my i'm lost.
+
+CONOR: why does he want to kill me? 
+ROMIREZ: you recall how i spoke of the push you feel and how i make it less?
+CONOR: aye.
+ROMIREZ: it is always less with my living. far or near. but if i were to die the push would become stronger than ever before. there is power in this. and as long as you and i live, the knight can never have it all.
+CONOR: but we cannot be killed.
+ROMIREZ: there is an imperfection. for all your healing, if your head ever leaves your neck, you are dead. you can survive anything but steel against your threat. then it is over. the end.
+CONOR: how can i stop such a man?
+ROMIREZ: hide. run to the ends of the earth till you learn. you must learn to defend yourself. in this i can help.
+CONOR: why?
+ROMIREZ: we are brothers. and you are a defense- -of sorts.
+
+MR. NORTH: when your father died i saw to it that the grounds were kept up. 
+TAUPIN: the money in the estate was enough to cover your costs?
+MR. NORTH: oh yes, more than enough.
+MR. NORTH: most of the furniture was put into protective storage. i'll have some boys come up and clean the place out for you.
+MR. NORTH: you're one of william's kids, huh?
+TAUPIN: his only kid.
+MR. NORTH: sure take after him. never seen a father and son look more alike.
+TAUPIN: we were very close.
+MR. NORTH: the resemblance is amazing.
+TAUPIN: when may i expect the cleaners?
+MR. NORTH: i'll send them right up.
+
+MAN: that stuff'll put you away if you're not careful. 
+BRENNA: there was a count. count dusan. he would invite the local peasants to his chateau, fill them full of wine, then slice their bellies so he could reuse it. the symmetry of that somehow always appealed to me.
+MAN: you're very macabre.
+BRENNA: it's my birthday.
+MAN: happy birthday.
+BRENNA: thanks.
+BRENNA: buy a birthday girl a drink?
+
+KAHN: macleod. taupin is anxious, poised for attack. 
+KAHN: spare a chair?
+TAUPIN: kahn?
+KAHN: are you going to offer me a chair or leave me standing here all night?
+TAUPIN: sit.
+TAUPIN: how are you?
+KAHN: head still secure to the neck.
+TAUPIN: how did you find me?
+KAHN: how many places this side of the atlantic serve lager and lime?
+KAHN: old habits die hard. waitress! a round of nitzhic! peasant drool, i know. but it's the closest thing they stock to my side of the fence.
+TAUPIN: what are you doing here?
+KAHN: it is the gathering, my friend. the settling of old scores.
+TAUPIN: and have you something to settle with me?
+KAHN: not tonight. tonight i have a drink with an old friend.
+TAUPIN: it's good to see you, kahn.
+KAHN: come, toast with me the past. to old conquests, old loves, and to a time when we cared about either.
+KAHN: waitress!
+
+KAHN: i'll never forget the look on that papal commander's face when his "heretic stronghold" turned out to be a rock full of whores climbing all over neuvich. 
+TAUPIN: neuvich, the clown of the crusades.
+KAHN: but then rides up pope pius who calmly brushes the dust from his papal cross, climbs off his papal horse, draws his papal sword and asks just what the is going on. and what did neuvich, dear dear drunken neuvich do?
+TAUPIN: offered the pope one of his whores. they laugh.
+TAUPIN: had a great swing with his blade.
+KAHN: good times then. a man could stretch his legs without bring- ing half the world down around his ears. not like now.
+TAUPIN: he found us even there.
+KAHN: he always did.
+
+TAUPIN: i haven't drunk this much since- 
+KAHN: -since you last saw me.
+KAHN: come on.
+
+KAHN: i love zoos. ever since i was a kid. 
+TAUPIN: you were never a kid.
+KAHN: i knew his great-grandfather.
+TAUPIN: you're insane.
+KAHN: no, seriously. we used to shoot pool together in rangoon.
+TAUPIN: how do you do it, kahn? how do you live so full of life for so long?
+KAHN: tasting and enjoying life is the only thing of value we have. all else is just marking time. you're marking time.
+TAUPIN: i've had a few more concerns.
+KAHN: the pressure only comes when you let the taste slip into your mouth.
+TAUPIN: you're wrong.
+KAHN: you don't run as hard, macleod.
+
+AUCTIONEER: i apoligize for the lateness of the hour, but i'm sure you will all agree the quality of this year's collection is well worth the time. 
+AUCTIONEER: for this fine example of medieval religious art, let us open the bid at 4,000 dollars.
+AUCTIONEER: 10,500 once, 10,500 twice...
+
+AUCTIONEER: 11,000. a bid at 11,000. 
+BRENNA: no, i-
+
+BRENNA: mr. taupin? i have to talk to you. 
+TAUPIN: finished?
+BRENNA: he tried to kill me last night.
+TAUPIN: where?
+BRENNA: dupont circle.
+BRENNA: who is he?
+TAUPIN: at the moment? carl smith.
+BRENNA: and you?
+BRENNA: what will you do now?
+TAUPIN: you needn't worry miss cartwright.
+BRENNA: he called you "macleod".
+TAUPIN: not your concern.
+BRENNA: i left a man dead in felton. but you don't really care, do you?
+TAUPIN: that bothers you?
+BRENNA: he was innocent.
+TAUPIN: he's dead. whatever i may or may not feel means exceedingly little to him now.
+BRENNA: what about me?
+TAUPIN: you?
+BRENNA: i'm a witness to a murder. that seems to put me pretty high on your friend's chop list.
+TAUPIN: have you gone to the police?
+BRENNA: no.
+TAUPIN: why not? i'm sure they'd love to hear your story.
+BRENNA: i'd rather hear yours.
+TAUPIN: you are being foolish.
+BRENNA: i'm a historian, mr. taupin. only once in a lifetime do you stare history in the face.
+TAUPIN: go home.
+BRENNA: why does he want to kill you?
+TAUPIN: he sees me as a threat.
+BRENNA: are you?
+
+ROMIREZ: concentrate! 
+ROMIREZ: harder. concentrate harder.
+CONOR: me arm hurts.
+ROMIREZ: again. try again.
+ROMIREZ: harder! you swing like an impotent cow!
+CONOR: go to hell.
+ROMIREZ: oh, the boy has a mouth, now if only he had an arm.
+CONOR: impotent cow.
+ROMIREZ: muy bien!
+ROMIREZ: here my boy, from vineyards as sweet and smooth as a young girl's thigh.
+ROMIREZ: it will take less effort as you learn.
+CONOR: it's like to kill me first.
+ROMIREZ: you have a gift. one you must protect.
+CONOR: and what is this great gift that cannot be seen or smelt?
+ROMIREZ: the fabric of life. the spark that allows the passing of existence from one generation to another.
+CONOR: if that was meant to be an ex- planation mr. romirez from spain, i'm afraid you've failed.
+ROMIREZ: come. enough sword play for an afternoon.
+
+CONOR: you're no match for scot, mr. 
+ROMIREZ: point conceeded, mr. macleod.
+CONOR: what is the fascinatioon? it is only a leaf.
+ROMIREZ: all living things pay dues, conor. they must be respected for that.
+ROMIREZ: as they age they contribute to a sum that is the kindling from which all future life comes. to feel it, to know it, is to be in touch with the will of every living thing.
+CONOR: i do not think i like the sound of that.
+ROMIREZ: it does not feel nearly as frightening as it sounds. but the consequences of such feelings can be very frightening. for it gives you great strength. the strength of _knowledge_. the ability to stand between the giving of what has always been to what will always be.
+CONOR: i feel hardly nothing.
+ROMIREZ: you have not been fully trained. but you will learn. and you will be good, i can feel that. you have apt- itude. this is why our friend is so concerned.
+CONOR: but why be so concerned about me?
+ROMIREZ: this power is divided amongst you, me, and others like cuts in a pie. but the cuts are not equal. some, like you and he, have more. much more.
+CONOR: and you?
+ROMIREZ: i am a small player. but if by helping you i can keep that monster from being the last, then perhaps my life has meant something.
+CONOR: i am not ready for this.
+ROMIREZ: you must be. you have responsibilities. you must learn the rules. you can never attract attention to yourself, never show the side that will draw others to you. you will always know when you are in the presence of another. beware. but more importantly conor macleod, will be your battle against time. in the coming years you will see kingdoms rise then rot like wheat. people will become a transitory, pathetic lot. the only constant you will know will be the others and the tradition their greed and quest represent. but life without morality, without the ability to truly taste the sweetness of wine and love, is no life at all. that is how the others exist. nothing more than walking corpses living only to slaughter each other in an insane quest to be the last. keep your soul sewed to the earth. do not become one of them.
+CONOR: of course.
+ROMIREZ: you are young, inexperienced. you do not know what time can do. how it can sap all pity, all love.
+CONOR: that is not me.
+ROMIREZ: with the proper tools, conor, a naive man can be much more dangerous than an evil one.
+VILLAGER: conor!
+CONOR: yes, darin.
+VILLAGER: hate to be bothering you like this, but me mare threw a shoe.
+ROMIREZ: go ahead, senor. i have my friend to keep me company.
+CONOR: i'll be back when i can.
+KNIGHT: romirez. what a surprise. romirez is struggling under the debris. the knight thrusts hard onto an exposed leg.
+ROMIREZ: madonna!
+KNIGHT: bastard!
+ROMIREZ: oh, santa maria!
+KNIGHT: why run?
+ROMIREZ: demonio!
+KNIGHT: to with you.
+
+LIBRARIAN: come on brenna, your is already in a sling, don't drag me into it. 
+BRENNA: all i need is for you to check the name.
+LIBRARIAN: you talked to your supervisor lately? he's burning up the place about you just dropping out of sight. that on top of the cops bugging him.
+BRENNA: i'll take care of that corey, but i need this now.
+BRENNA: corey, you _owe_ me.
+LIBRARIAN: it's that important?
+BRENNA: yeah.
+
+RESEARCHER: wilson know about this? 
+BRENNA: i'm doing it on my own.
+LIBRARIAN: good way to lose your job.
+BRENNA: some job. card filing and cabinet dusting. four years in this dump and i haven't written anything for wilson that a wounded yak couldn't do.
+LIBRARIAN: i liked the bit you did about baltic chastity belts.
+BRENNA: it's everything. my job, the people i get involved with, i'm up to here with it.
+LIBRARIAN: you always were hard to impress.
+BRENNA: who is it?
+LIBRARIAN: not who. what. worstick's a town in pennsylvania.
+
+BRENNA: chris, have you seen my notebook? 
+BRENNA: why, that son of a
+
+BRENNA: what's wrong wilson, huh? not enough excitement in your own desk? what the were you looking for in mine? 
+MORAN: a murder.
+BRENNA: you better have a warrant. that's my notebook, you've got no right to be sticking your fingers into it.
+MORAN: i've got a morgue filling up with bodies. that's my right.
+BRENNA: what do you want from me?
+MORAN: well, the man of the hour that we all would like to talk to about now has apparently skipped town. and all of a sudden the smithsonian's ambulence chaser is an expert on missing persons.
+BRENNA: i'm calling an attorney.
+MORAN: you and i should talk first.
+BRENNA: we've got nothing to say.
+MORAN: what are you going to tell them? that you're protecting a man who's killed four people?
+BRENNA: four?
+MORAN: all fashionably without heads.
+BRENNA: spare me the details.
+MORAN: but there's more. wednesday someone played javelin with the cemetary curator in felton, delaware. some locals spotted two cars with d.c. plates and surprise surprise, they turn out to be registered to our own brenna cartwright and the ever popular richard taupin.
+BRENNA: what are you getting at, moran?
+MORAN: you've been a busy little beaver. especially with that records mess up in church hill. your notes are very complete. naturally my feelings were crushed when you didn't rush right over and tell us what you knew. in fact, we're considering book- ing the ambulence chaser as an accessory to murder.
+BRENNA: it'll never stick.
+MORAN: but we might just give it the 'ole college try. what with the court back ups, it could be days before you got an arraignment. but then, i'm sure the flunk-out neice of the d.a. knows all about that.
+BRENNA: you're an asshole, moran.
+MORAN: i want taupin.
+BRENNA: what makes you so sure he's the one?
+MORAN: just for laughs we raided wonder boy's house. there was a gallon of one of the corpse's blood in his carpet. i think it was about then i withdrew his name for humanitarian of the year.
+BRENNA: what's all of this got to do with me?
+MORAN: what were you doing in felton?
+BRENNA: research. if your pal was there i never saw him.
+MORAN: i have witnesses that can put the two of you together.
+BRENNA: never take up poker, detective.
+MORAN: don't be stupid, lady. your neck can be sliced as fast as anyone else's. brenna reaches across and lifts her notebook.
+BRENNA: why don't you wait until it comes out in paperback?
+
+DENNIS: i warned you. 
+BRENNA: go to hell.
+
+TAUPIN: you shouldn't have come. 
+TAUPIN: we're you followed?
+BRENNA: no.
+TAUPIN: no one knows you're here?
+BRENNA: no. i had to talk to you.
+TAUPIN: you had to do _nothing_!
+BRENNA: you're wrong.
+TAUPIN: you're a fool.
+BRENNA: maybe.
+TAUPIN: come inside.
+
+BRENNA: is this what you killed them with? 
+TAUPIN: you've been listening to rumors.
+BRENNA: our cars were seen together in felton. they're calling me an accessory to murder.
+TAUPIN: you are. now.
+TAUPIN: there's several bedrooms down the hall. take your pick.
+
+OFFICER: no, that's the last place we saw her. okay, will do. 
+PARTNER: well?
+OFFICER: we keep looking.
+PARTNER: wonderful.
+
+BRENNA: what's all that? 
+TAUPIN: richard taupin has become cumbersome. it would be best if he just disappeared.
+BRENNA: you did kill those men.
+TAUPIN: not all of them.
+BRENNA: when you finish, what then?
+TAUPIN: i go my way and you can write all you want about the big bad mr. taupin.
+BRENNA: you make it all sound so simple.
+TAUPIN: the only real difficulty comes in changing over the ownership of property i've aquired. that requires certain records and most importantly a personal appearance at the county seat in gettysburg. but that's where you come in.
+BRENNA: you want me to front for you.
+TAUPIN: the less exposure i recieve around government buildings the better. you, as mrs. taupin, will attract considerably less attention than i.
+TAUPIN: not such a bad trade. the story of a lifetime for a few days work?
+
+INSPECTOR: they lost her outside of thurmont. 
+MORAN: i want people in here to check over every piece of this stuff.
+INSPECTOR: figure she's with him?
+MORAN: yeah.
+INSPECTOR: we ran down that church hill info. she's right. there is no richard taupin.
+MORAN: any other i.d.s come up?
+INSPECTOR: not yet. called fbi yesterday. thompson's going to try cia this afternoon. y'never know.
+MORAN: should have seen him the first night. son of a stood there with a quart of blood on his pant leg and didn't even blink.
+INSPECTOR: you'd think he'd had practice.
+MORAN: i think he has.
+
+AIDE: the men are assembled, major. 
+GENERAL: see that they are indeed ready, dupont.
+DUPONT: yes general.
+
+STAFF SARGEANT: regiment ready for review, sir. 
+DUPONT: stand straight, you are a soldier of the king.
+SOLDIER #1: yes sir.
+DUPONT: where is your bayonet?
+SOLIDER #3: lost it sir.
+DUPONT: where?
+STAFF SARGEANT: you heard the major! where!
+SOLDIER #3: whorehouse sir.
+DUPONT: your rifle. hand it to me.
+DUPONT: the flint is cracked. no spark will reach your powder. you will die tomorrow.
+DUPONT: tomorrow you go to _battle_! and you look like children! the general has charged me with seeing that you are prepared, and prepared you will be! if necessary you stand here all night! sargeant!
+SARGEANT: yes sir.
+DUPONT: see to it.
+SARGEANT: yes sir.
+DUPONT: your name?
+MULET: mulet.
+
+CAPTAIN: ...and what a sight! that old mare just kept falling over her own guts till someone finally shot her. 
+MAJOR: complete your inspection?
+DUPONT: they're nothing but boys. it will be a slaughter tomorrow.
+MAJOR: i doubt much can change that. the enemy has five brigades waiting for us.
+DUPONT: we need more time.
+MAJOR: won't get it. we are a sacrifice. a diversion.
+MAJOR: eat up dupont. it will probably be your last.
+DUPONT: not likely.
+DUPONT: i thought i gave orders the regiment was to drill.
+MULET: staff sargeant detailed me to prepare firewood for the break- fast cooking.
+DUPONT: what is your position?
+MULET: second musketeer.
+DUPONT: i understand you joined up in bremen.
+MULET: you seem to understand a great deal.
+DUPONT: i am a major, private. you would do well remembering that when addressing me.
+MULET: excuse me, "sir". i thought we spoke as equals.
+DUPONT: equals?
+MULET: if you wish to play games, major.
+DUPONT: wait. i think we understand each other.
+MULET: we have no understanding.
+DUPONT: then it is time two of us did. you are very young. i was once young. i can help.
+MULET: help? i've seen others "help". somehow a head always ended up on the counter.
+DUPONT: it can be different. it must be.
+MULET: it never changes, major.
+DUPONT: we must talk.
+MULET: stay out of it.
+DUPONT: don't threaten me, private.
+MULET: who do you think i am? one of your freckle faced children waiting to die tomorrow? "threaten you"? you and i just living will always be a threat. forever. look at your life, major. look at mine. nothing there but threat. threats and nothingness. it's what we live for. mulet turns his back on dupont.
+DUPONT: do not turn your back on me.
+MULET: you are really going to force this, aren't you?
+DUPONT: either you are with me or against me.
+MULET: have i a choice?
+MULET: you see major? you are not so different. dupont cuts off mulet's head where he stands.
+
+MULET: you see major? you are not so different... 
+DUPONT: i had no choice.
+DUPONT: who am i deceiving?
+KNIGHT: certainly not me.
+KNIGHT: you needn't look so flushed, major. you are quite safe in church.
+KNIGHT: state of grace and all that.
+DUPONT: tradition.
+KNIGHT: it's all we have.
+KNIGHT: all this time and still a scared little boy.
+DUPONT: not so scared.
+KNIGHT: perhaps not. you seem to have misplaced a private. no doubt by now his head is stranger to his neck.
+DUPONT: no doubt.
+KNIGHT: you surprise me. eliminating a rival like that. such are the actions of a man of conquest. i was mistaken. 300 years have turned the boy's fear into ambit- ion.
+DUPONT: you're wrong.
+KNIGHT: i know you very well, conor macleod. and i can see the truth beginning to make itself clear to you. mulet, romirez, they were fools without vision. it was destined that the board would be cleared for the real players.
+DUPONT: romirez understood. not you.
+KNIGHT: romirez is dust.
+KNIGHT: finish your prayers?
+DUPONT: finish yours?
+KNIGHT: our common heritage. i am your only real friend, you know. the only one who truly understands you. i look forward to the day we meet again. and i kill you.
+DUPONT: so sure?
+KNIGHT: you can't stay in church forever.
+KNIGHT: good night, major. he exits.
+
+MR. NORTH: morning mr. north 
+TAUPIN: same.
+MR. NORTH: such a pretty day. if i live to be 90 i'll never tire of mornings like this. mind you i'm 74 now.
+TAUPIN: no.
+MR. NORTH: yes sir. when you get older your priorities change. it's the simple things that count. without them growing old can be a very lonely thing.
+TAUPIN: i'm sure that's true.
+TAUPIN: here. the hook should go just below the head, where the meat is toughest.
+GRANDSON: thanks.
+TAUPIN: show you a trick.
+TAUPIN: fish are creatures of habit. they like their food where they're used to it. at the top, hiding in old leaves.
+GRANDSON: where did you learn that?
+TAUPIN: my father taught me.
+GRANDSON: your father must be smart.
+TAUPIN: yes, he was.
+
+TAUPIN: there was a man once. just a simple woodcarver. but he understood. more than anyone he could see to the heart of it. it never ends. today is the same as the first. tomorrow will be the same as today. so much time. and all of it wasted. you love history? 
+BRENNA: yes.
+TAUPIN: i wish i could.
+
+BRENNA: the estate stuff is pretty straight forward. just lots of forms and an appearance at the county seat. 
+TAUPIN: it will take some time for the forms to clear before you go to gettysburg.
+TAUPIN: second thoughts?
+BRENNA: no. so what now? we just wait?
+TAUPIN: yes.
+BRENNA: well, as long as we're stuck here.
+BRENNA: it's some sort of party the town is throwing.
+TAUPIN: they do it each year.
+BRENNA: i thought it might be a nice break from all of this.
+TAUPIN: maybe it would do us both good.
+BRENNA: there's a catch. you're supposed to wear 19th century clothing.
+TAUPIN: my father was something of a junk collector.
+TAUPIN: here, try this. i suppose they're still making women the same as back then.
+BRENNA: it's beautiful.
+TAUPIN: a little dusty.
+
+KATHERINE: do it again. 
+CONOR: all right.
+CONOR: a lion. katherine is delighted.
+KATHERINE: oh please. another one.
+CONOR: what would you like?
+KATHERINE: something pretty.
+CONOR: like you.
+KATHERINE: that's wonderful. where did you ever learn it?
+CONOR: far away.
+KATHERINE: kiss me.
+YOUNG MAN: you'll be leaving the girl alone.
+KATHERINE: david.
+CONOR: do you have cause to bothering us?
+YOUNG MAN: that's my girl.
+KATHERINE: david, we've already spoken of this.
+YOUNG MAN: he's not what he pretends to be.
+CONOR: you best leave, son.
+YOUNG MAN: you think you're so high and mighty, coming into town and taking a man's woman. well i know about you. i know about the things you do.
+CONOR: i said you best leave.
+YOUNG MAN: you'd like that, wouldn't you? ask him about his friends. the ones he meets in the town square. ask him about the blade he keeps beneath his bed.
+CONOR: leave. while you still can.
+YOUNG MAN: you don't frighten me.
+CONOR: i should.
+KATHERINE: no! leave him. please don't hurt him. please.
+YOUNG MAN: he's not what you think.
+YOUNG MAN: he's not what you think!
+KATHERINE: i don't care who you are or where you come from.
+KATHERINE: i love you.
+
+MR. NORTH: mr. taupin! glad you could make it. best get some punch before it's gone. near the whole valley showed up. they go to the table. 
+WOMAN: if i didn't know better i'd say william taupin.
+TAUPIN: his son. richard.
+MR. NORTH: mr. taupin is up from washington to look over his father's estate.
+WOMAN: your father died some years ago. this is your first visit?
+TAUPIN: of sorts.
+WOMAN: i suppose a taupin had to show up eventually.
+TAUPIN: good evening, mrs. butler.
+BRENNA: what was all that about?
+MR. NORTH: sorry mr. taupin. that's not meant for you. just some didn't take much to your father.
+BRENNA: why?
+TAUPIN: my father was never one for social whirls.
+MR. TAUPIN: kept to himself for sure. then with all that business in '31.
+BRENNA: what business?
+MR. NORTH: family down the road from the taupin place was murdered. all cut up they were. horrible. two strangers were also found with the bodies. no one ever accused william, but with his reputation as a loner and the rumors about him and some of the wives in town, folks just never forgot. most were relieved when they heard he'd died. sorry mr. taupin.
+TAUPIN: nothing to be sorry about.
+MR. NORTH: just your pappy scared some.
+PORTLY: all right, the kids have had their fun. now it's time for a little more traditional dancing.
+BRENNA: i don't know any of these. i'll make a fool of myself.
+TAUPIN: follow me.
+BRENNA: william taupin seems to have left his mark.
+TAUPIN: yes.
+BRENNA: and you are william taupin, aren't you?
+TAUPIN: yes.
+BRENNA: you're using your son's name.
+TAUPIN: no. just the child of some lonely girl i gave a ride to. when they died i put them in a grave with my name on it. twenty years later i became the son.
+TAUPIN: more punch?
+BRENNA: then you must be at least 70 years old.
+TAUPIN: at least.
+BRENNA: that's impossible.
+
+BRENNA: it's frightening sometimes the way you talk about other people's lives. 
+TAUPIN: a factor of age.
+BRENNA: i hope i never get that old.
+TAUPIN: you won't.
+BRENNA: i must be insane. leaving work, ditching cops. all to follow a murderer. a very old murderer, but a murderer just the same.
+TAUPIN: why are you here?
+BRENNA: i've been telling myself it's the award winning journal article i'm going to write. but it's not. it's you.
+TAUPIN: i see.
+BRENNA: i'm not even sure why.
+TAUPIN: hardly a reason to run off with a murderer.
+BRENNA: my life has been chock full of people with complications and weak- nesses. i can't stand it. but you're different. it's in your hands. a clarity.
+TAUPIN: you are a very perceptive young woman.
+BRENNA: just a little crazy.
+TAUPIN: miss cartwright, it's time i showed you something.
+
+TAUPIN: miss cartwright? 
+BRENNA: my
+TAUPIN: i had this room built some time ago.
+BRENNA: who are you?
+TAUPIN: that would be difficult to explain.
+BRENNA: i'd like you to try.
+TAUPIN: i was born conor macleod in the village of ardvrek on the high- land plain of strathnaver in the clan of macleod under the king of scotland. on the eleventh of december, 1408.
+TAUPIN: i have served in the armies of twelve nations, married nine women, fathered thirty-eight children and buried them all.
+TAUPIN: i carried that rifle in world war i. this book is a 16th century policy report for the king of austria. the diploma is my con- ference of degree in latin from trinity college. class of 1672. it goes on.
+BRENNA: that's why smith called you macleod.
+TAUPIN: yes.
+BRENNA: he knows about you.
+TAUPIN: he is older than i.
+BRENNA: what could possibly be worth all this murder and distruction.
+TAUPIN: sometimes i think it's just for something to do. a conquest to be the last. something to hold onto while everything else around you withers and blows away. some- thing to replace the love that can never work.
+BRENNA: that's insane.
+TAUPIN: perhaps. there is something more.
+BRENNA: of bodies.
+TAUPIN: i didn't kill the watchman.
+BRENNA: you killed those other two.
+TAUPIN: not the same.
+BRENNA: what about that family in '31?
+TAUPIN: sometimes innocents become involved.
+BRENNA: you and your buddy make a real team, don't you? exchanging eloquent threats in iambic pen- tameter while hacking up all the innocents in between.
+TAUPIN: there are differences.
+BRENNA: you kill with your left hand?
+TAUPIN: i haven't killed _you_.
+BRENNA: is that a threat?
+TAUPIN: no.
+BRENNA: don't.
+TAUPIN: come here, brenna.
+BRENNA: you.
+
+MINISTER: may commend into his kingdom the soul of our dear departed jason, son of katherine- the old woman. 
+MINISTER: and brother to howard and james- the two middle aged sons.
+CONOR: watches the funeral quietly at a distance.
+
+OLD WOMAN: you. 
+CONOR: katherine.
+OLD WOMAN: what are you doing here?
+CONOR: i owe him this.
+OLD WOMAN: he never knew you.
+SON #1: is something wrong, mother?
+OLD WOMAN: howard. james. this is your father...
+
+TAUPIN: "brenna". in celtic is means "woman with raven hair". only chieftan's daughters were allowed it. 
+BRENNA: what is it like? being you?
+TAUPIN: empty. and fear. fear of those that would kill you and fear of those that would love you. it can never last, and in the end you always end up destroying both.
+BRENNA: but you're known so much.
+TAUPIN: it's all the same. half lives that never go away.
+BRENNA: what is it you want?
+TAUPIN: all of it finished.
+
+TAUPIN: gettysburg's an hour's drive at most. you should be back by nightfall. 
+BRENNA: will i see you again?
+TAUPIN: be careful. don't stay any longer than you have to.
+TAUPIN: good luck.
+
+MORAN: are you sure? 
+INSPECTOR: won't know till the records department comes back with it this after- noon. looks good though. they found the receipt in his townhouse. it was pretty smeared but had taupin's father listed as a signatory.
+MORAN: round up who you can and put them on standby.
+INSPECTOR: think we should call the local p.d. out there first?
+MORAN: no. i want this to be all ours.
+
+CLERK: o.k. mrs. taupin, that's all i need. 
+CLERK: just take this down the hall to the regis- trar. hurry up though, it's near closing time. most everyone's gone home already.
+
+CLERK #2: i'll be right back. 
+BRENNA: do you have a drinking fountain?
+CLERK #3: around the corner.
+
+THE KNIGHT: tries the door handle. 
+BRENNA: oh
+BRENNA: go away! oh go away!
+
+KNIGHT'S VOICE: we have some unfinished business. 
+TAUPIN: are you here?
+KNIGHT'S VOICE: i want you to come to me.
+TAUPIN: and if i refuse?
+KNIGHT'S VOICE: give me an address where i can forward miss cart- wright's head.
+KNIGHT'S VOICE: yes laddie, i have her.
+TAUPIN: should i care?
+KNIGHT: you have three hours.
+
+KNIGHT: welcome. 
+KNIGHT: kahn sends his best.
+TAUPIN: let her go.
+KNIGHT: you disappoint me. i thought you'd finally gotten over that sort of thing.
+TAUPIN: leave her out of this.
+KNIGHT: as you wish.
+KNIGHT: you can do better than that.
+
+BOY: it's from over near the memorial. 
+BOY: 
+
+MORAN: moran. all right, get a patrol unit out there right away. i'll meet them. 
+KNIGHT: no. not now.
+
+KNIGHT: get up. 
+TAUPIN: what's the point?
+KNIGHT: this isn't done. get up.
+TAUPIN: what's the point! you have me, finish it!
+KNIGHT: i have waited forever for this. you will not cheapen it, little boy.
+TAUPIN: tradition.
+KNIGHT: it's all we have.
+TAUPIN: go to hell.
+KNIGHT: perhaps miss cartwright would like to play.
+TAUPIN: leave her alone.
+KNIGHT: get up.
+
+BRENNA: you bastard! 
+KNIGHT: be silent.
+BRENNA: leave him alone.
+KNIGHT: you will be silent!! the voice is thundering.
+KNIGHT: i do hope you're enjoying this as much as me.
+MORAN: stands in the entryway. the knight sees him.
+KNIGHT: get out. moran draws his pistol.
+KNIGHT: this is nothing that concerns you. moran levels his gun.
+KNIGHT: you will leave!
+TAUPIN: don't.
+TAUPIN: stop. you don't understand.
+TAUPIN: in mamus tuas domine commendo spiritum meum. auditorium nostrum in nomine domine.
+TAUPIN: requiescant in pace. and cuts the knight's head off. taupin drops his sword. his breathing quickens. a sensation sweeps over him.
+BRENNA: my
+BRENNA: conor. taupin is looking past her.
+THE KNIGHT'S HEAD: lies on the floor.
+KNIGHT: and now you know.
+
+BRENNA: what's wrong? 
+TAUPIN: i can't stand it. oh i can't stand it!
+TAUPIN: the scream of your blood. the shriek of trees. stop it! stop it!
+BRENNA: what is it?
+TAUPIN: i'm the last. oh christ, i'm the _last one_!
+TAUPIN: get out.
+BRENNA: no!
+TAUPIN: i'll destroy you. i've destroyed everything i've ever touched! oh
+BRENNA: conor...
+TAUPIN: _get out_!
+
+BRENNA: what are we supposed to say? 
+TAUPIN: the emptyness. the years and years of void. nothingness. bordered only by the quest for ultimate nothingness.
+BRENNA: the inheritance.
+TAUPIN: not power. not control.
+TAUPIN: life. it is the gift and the under- standing of life.
+BRENNA: you have lived forever.
+TAUPIN: life is only life when it is bounded by death. the inheritance is death. the gift is the finality of life. to be part of the fabric. the inside. i love you brenna.
+TAUPIN: it will be horrible. the future. i may die tomorrow or 10,000 tomorrows. i can promise you nothing. nothing but a moment. maybe two. but a moment of love, is that not worth a lifetime?
+BRENNA: yes.
+TAUPIN: it's taken me so long. so very long.
 

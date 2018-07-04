@@ -1,1017 +1,1017 @@
-speaker1: is that them? 
-speaker1: christ.
-speaker2: yeah.
-speaker1: me.
-speaker3: have you guys ever seen this before?
-speaker1: no.
-speaker3: best to just ignore it. keep your head down and get back to work... and don't watch.
-
-speaker1: timothy singh? 
-speaker2: yes.
-speaker1: i'm afraid we have to speak with you.
-speaker3: excuse me?
-speaker1: eric dale?
-speaker3: no.
-speaker1: sorry?
-speaker3: i'm not eric dale.
-speaker1: oh. i'm so sorry.
-speaker3: he's my boss, he's down that hall.
-
-speaker1: mr. dale? 
-speaker2: yes.
-speaker1: this way.
-
-speaker1: well... mr. dale i'm obviously sorry that we are here today but these are extra ordinary times as you very well must know. 
-speaker2: i run risk management... it just doesn't seem like a natural place to start cutting.
-speaker3: i hope you understand that this is in no way personal. a majority of this floor is being let go today.
-
-speaker1: mr. dale the firm is offering you six months severance at half your salary. you will keep all unvested options that you currently hold. health will be extended through that period. you have till tomorrow at... she looks at her watch. lauren bratberg 4:47 to either take the offer or it will be revoked. do you understand? 
-speaker2: yes.
-speaker1: now, unfortunately mr. dale due to the highly sensitive nature of your work here the firm has to take certain precautions for security purposes that may seem punitive in nature. i hope considering your...
-speaker2: i'm sorry??
-speaker3: she's apologizing for what's about to happen.
-speaker1: your company email, access to the server, access to the building, and your mobile data and phone service will all be severed as of this meeting. this gentleman...
-
-speaker1: what about my current ongoing work? i'm right in the... 
-speaker2: the firm has worked out its transition plan and is prepared to move forward, but we appreciate your concern.
-speaker3: we understand that this is very difficult and here is my card. please contact me over the next few weeks if there is anything that i can do to help you through this transition in your life.
-speaker4: sir?
-
-speaker1: hey. 
-speaker2: will.
-speaker1: i'm very sorry.
-speaker2: are you still alive?
-speaker1: for now.
-
-speaker1: congratulations. 
-speaker2: it's a total bloodbath.
-speaker1: i heard.
-speaker2: if there was anything i coulda done, you know i woulda done it.
-speaker1: i know.
-speaker2: well...
-speaker1: one more thing... who was it?
-speaker2: eric...
-speaker1: was it rogers?
-speaker2: you know me. i'm not gonna say...
-speaker1: robertson?
-speaker2: look it wasn't anyone. it's just bad luck. right....?
-speaker1: yeah.
-speaker2: good luck.
-
-speaker1: will? 
-speaker2: yeah.
-speaker1: you know i was just in the middle of a bunch of here that someone should really take a look at.
-speaker2: eric, they are telling us that everyone has got to get out of here and leave everything behind. while we appreciate your concern, this is not your problem anymore. alright? good luck.
-
-speaker1: eric, i am very sorry. 
-speaker2: yeah. did they say what was going to happen with us?
-speaker1: seth.
-speaker2: what?
-speaker3: no, it will be ugly around here for a while but you guys will be fine...
-speaker2: well, take care, eric.
-speaker3: well, i'll be seeing you around.
-
-speaker1: i just wanted to say thank you. 
-speaker2: that's not necessary.
-speaker1: well it is... you were the person around here that i...
-speaker2: i know.
-
-speaker1: it's gonna get worse before it gets better. 
-speaker2: really?
-speaker1: much.
-speaker2: got any nicorettes? i'm out of nicorettes, which means i'm gonna kill someone in about 10 minutes... you alright?
-speaker1: my dog is dying.
-speaker2: i'm sorry?
-speaker1: just spoke to the vet, it's some tumor on her liver. i'm paying almost a thousand bucks a day to keep her alive.
-speaker2: really?
-speaker1: yeah... and i don't have a clue what to do about it.
-speaker2: well they're all gone.
-speaker1: how many do we have left?
-speaker2: thirty-three.
-speaker1: make sure everyone is out there, i need to say something.
-speaker2: they are ready for you.
-
-speaker1: robertson! sarah does not respond. eric sarah robertson! 
-speaker2: eric... i didn't do anything.
-speaker1: you.
-
-speaker1: you ok? 
-speaker2: yeah. just a little freaked out.
-speaker1: you want to get a drink?
-speaker2: nah, i need to clean up a few things around here.
-speaker1: everyone is going out... come on.
-
-speaker1: nah, i'm fine. 
-speaker2: well, give me a call if you change your mind.
-speaker1: i will.
-speaker2: come on.
-speaker1: where are you going?
-speaker2: the grand.
-speaker1: i'll call you when i'm done.
-speaker2: be glad, you're still alive.
-speaker1: i am.
-
-speaker1: come on, come on. 
-speaker2: the number you have called has been disconnected and is no longer in service.
-speaker1: 
-
-speaker1: hello. 
-speaker2: i can't hear you.
-speaker1: what.
-speaker2: go outside, i can't hear you.
-speaker1: wait... give me a sec... ok.
-
-speaker1: lugo. 
-speaker2: are you with will?
-speaker1: emerson?
-speaker2: yes.
-speaker1: i think he's still here. why?
-speaker2: you have to go get him, and get back up here.
-speaker1: where?
-speaker2: the office.
-speaker1: what!
-speaker2: i'm serious.
-speaker1: you want me to get our boss's boss out of a club and bring him back to the office at 10:00 on a thursday night?
-speaker2: our boss just got axed, so technically he is our boss, and yes.
-speaker1: why?
-speaker2: just do it seth.
-speaker1: alright, we'll be there in ten.
-
-speaker1: hey, look who it is, burning the candle at both ends. there aren't anymore cuts planned though, so you can stop kissing my ass, honestly i don't even understand what you guys do. 
-speaker2: will, i am so sorry to call you back but i really think..
-speaker1: don't worry about it.
-speaker3: hey.
-speaker2: look at this. seth comes around and sits at peter's desk. peter eric gave me this file before he left.
-speaker3: eric?
-speaker2: dale. and he told me he couldn't quite figure it out, then the last thing he says as the doors on the elevator close is `be careful'.
-speaker1: be careful?
-speaker2: so i'm obviously a little curious. so i get into it a bit and i realize that all he was missing was...well it's not good.
-
-speaker1: what is he doing here? 
-speaker2: go to model four, and it makes more sense.
-speaker1: oh.
-speaker3: what is this?
-speaker2: this is basically everything that we have on our books at any given time. but what eric was trying to do here is work it for levels of volatility that fall outside the limits of our standard var model.
-speaker3: what are those levels.
-speaker2: well it's a fairly complicated...
-speaker3: simplify.
-speaker2: the volatility boundaries are basically set using historic patterns then stretching them out another 10-15%...
-speaker3: so what's happening?
-speaker1: we are starting to test those historic patterns.
-speaker3: when?
-
-speaker1: today. 
-speaker2: tuesday.
-speaker1: monday, last friday, last wednesday and monday.
-speaker2: two fridays ago.
-speaker3: i get it.
-speaker2: me... once this thing gets going in the wrong direction...
-speaker1: yeah...
-speaker2: it's huge.
-speaker3: how huge?
-speaker2: the losses are greater than the current value of the company...?
-speaker1: projected losses... projected...
-speaker2: me.
-speaker1: yeah.
-speaker3: wait, and this is just our floor?
-speaker1: yeah...
-speaker3: where the is eric dale?
-
-speaker1: i can't find him, they cut off his phone. 
-speaker2: what?
-speaker1: they turned off everyone's phone who they axed today.
-speaker2: ruthless. and he's got no other cell?
-speaker1: no.
-speaker2: how does he not have his own cellphone?
-speaker1: i tried, it's been turned off.
-
-speaker1: i think i have his home number. 
-speaker2: you're going to call his house?
-speaker1: yes... do we even know if he's right?
-speaker2: it seems pretty right to me.
-speaker3: it does.
-speaker1: hello, mrs. dale?... this is will emerson calling... i'm fine, thanks. i was wondering if eric was there?... yes, we tried but his cell doesn't seem to be working...
-
-speaker1: doesn't he have like three kids? 
-speaker2: so?
-speaker1: i'm just saying, would you go home?
-speaker2: i know where he is. you two need to go get him.
-speaker3: now?
-speaker2: yes.
-speaker3: what are you going to do?
-speaker2: i'm calling sam.
-speaker3: me.
-speaker2: go.
-
-speaker1: i know i'm sorry. i wouldn't have called... 
-speaker2: what's the problem?
-speaker1: i think you need to get down here.
-speaker2: what?
-speaker1: sam...
-speaker2: it's 11:00 o'clock.
-speaker1: i am well aware of the time, sam. but you need to see this.
-speaker2: see what?
-speaker1: well...
-speaker2: email it to me.
-speaker1: i don't think that is a good idea.
-speaker2: i'm on my way.
-
-speaker1: you want one? 
-speaker2: no.
-speaker1: what, we got them on our way to meet you at the office... we didn't know what the you wanted to talk about... ... thought you might've gotten some chick pregnant or something.
-speaker2: i haven't gotten laid in so long that's not possible at this point.
-speaker1: i guess that's true.
-speaker2: look at these people.
-speaker1: what?
-speaker2: we are in here stressing our heads off that the world as we know it is ending, and they've got no idea what's coming.
-speaker1: i try not to let work get to me.
-
-speaker1: i've noticed that about you actually. 
-speaker2: look, we are twenty three years old...
-speaker1: twenty-seven.
-speaker2: whatever, same thing, i made almost a quarter of a million dollars last year... for what... pushing some numbers around on a computer screen, so a bunch of glorified crack addicts could take that information and pretend to understand it, and then make a bet against some other jock half way around the world who if he wasn't doing this would probably be in some otb somewhere putting it all on number seven. and at the end of the day one guy loses and the other guy wins.
-speaker1: you do know it's a little more complicated than that?
-speaker2: it's will... he wants to know if we've found him? what do i tell him.
-speaker1: tell him that we haven't found him.
-
-speaker1: hey. 
-speaker2: so?
-speaker1: eric dale...
-speaker2: oh jesus...
-speaker1: before he was escorted out of the building by security...
-speaker2: i had nothing to do with that.
-speaker1: i know.
-speaker2: i'm sorry, go on.
-speaker1: so as he was leaving the building he hands a disk to peter sullivan...
-speaker2: who's peter sullivan again?
-speaker1: one of eric's guys.
-speaker2: right.
-speaker1: ...and tells him that he was almost on to something but hasn't been able to figure it out. so he gives him the disk and says give it a try... but the last thing he says as the doors to the elevator close is `be careful'...
-speaker2: be careful?
-
-speaker1: yeah. 
-speaker2: be careful?
-speaker1: yes.
-speaker2: why?
-speaker1: well... take a look.
-speaker2: speak, you know i can't read those things they put together.
-speaker1: basically the kid dives right into the thing after your little pep talk, nice job by the way, and he seems to have nailed it.
-speaker2: nailed it?
-speaker1: the kid figured out what eric was missing. and...
-speaker2: and?
-speaker1: ...it isn't good.
-speaker2: how ugly?
-
-speaker1: real ugly. 
-speaker2: and how close to those limits have we gotten?
-speaker1: oh we're beyond close... we broke through five or six days over the last two weeks, but we've managed to stay on the upside of it... for now...
-speaker2: for now?
-speaker1: well look what happens here when we get on the wrong side of it.
-speaker2: what am i looking at?
-speaker1: and that wouldn't even be that bad a day for us... historically speaking.
-speaker2: is this right?
-speaker1: i don't know.
-speaker2: where is eric?
-speaker1: we shut his phone off.
-speaker2: of course we did.
-speaker1: and he hasn't come home yet, i spoke to his wife.
-speaker2: he's probably crying in a beer somewhere.
-
-speaker1: or worse. 
-speaker2: where's the kid who did this?
-speaker1: out looking for eric.
-speaker2: do we think he knows what he's doing?
-speaker1: i don't know. what do i know?
-speaker2: well get him back here.
-
-speaker1: what now? 
-speaker2: we should probably tell will he's not here.
-speaker1: yeah.
-speaker2: what do you think this girl makes in a night?
-speaker1: seth.
-
-speaker1: he's freaking out. we need to get down there. 
-speaker2: i have no idea?
-speaker1: come on, play along.
-speaker2: i don't know what year?
-speaker1: last year.
-speaker2: three quarters of a million bucks?
-speaker1: come on.
-speaker2: what?
-
-speaker1: not even close. 
-speaker2: more?
-speaker1: yes.
-speaker2: a million?
-speaker1: will emerson made two and half million bucks last year.
-speaker2: you. seth looks at him showing he is serious. peter you!
-speaker1: he did.
-speaker2: how do you know that?
-speaker1: he told me.
-speaker2: he just told you that?
-speaker1: well i asked him.
-speaker2: do you think that's true.
-speaker1: probably.
-speaker2: that's up.
-speaker1: why?
-speaker2: does that seem right to you?
-
-speaker1: right? 
-speaker2: 
-speaker1: so what do you think that means rogers puts away?
-speaker2: i have no idea.
-
-speaker1: gentlemen? 
-speaker2: you're coming with us.
-speaker3: will. mr. rogers.
-speaker1: sam this is seth bregman and this is peter sullivan.
-speaker3: sir.
-
-speaker1: will? 
-speaker2: yes?
-speaker1: where are we going?
-speaker3: going to get a second opinion on your work peter.
-
-speaker1: slight hellos, etc. 
-speaker2: all present look down at him.
-speaker3: so sam, what do you have for us?
-
-speaker1: well... it should be here in a minute. finding someone in the copy room at this hour was a little bit of a challenge. 
-speaker2: well why don't we start by introducing everyone then.
-
-speaker1: this is sarah robertson who you know, our chief risk management officer, ramesh shah from upstairs, and david horn one of the firm's in house counsel. 
-speaker2: nice to meet you all. this is will emerson my head of trading, and this is...
-speaker3: peter sullivan, and seth bregman. they work in our risk department.
-speaker1: where is eric dale?
-speaker2: he was let go today.
-speaker1: so who's left in your risk department?
-speaker3: as of today that would be peter and our junior analyst seth...?
-speaker1: really?
-speaker4: will emerson?
-
-speaker1: here. please just give one to everyone, thanks. 
-speaker2: so apparently eric had been working on this for some time but was unable to finish it, as he was leaving the building today he gave the program to peter here, and told him to see what he thought. peter figured a few things out that eric seemed to be missing and this is what came out.
-speaker3: where is eric dale now?
-speaker2: he's been unreachable since he left the office.
-speaker4: peter this is your work?
-speaker5: mainly mr. dale's...
-speaker4: but this draft is yours?
-speaker5: yes. again, derived from mr. dale's original model. but yes.
-speaker4: and what is your background?
-speaker5: background?
-speaker4: your cv.
-
-speaker1: i have been with the firm for two years working with eric that whole time... but i hold a doctorate in engineering, specialist in propulsion, from mit, with a bachelors from penn. 
-speaker2: what's a specialty in propulsion?
-speaker1: well... in laymen terms my thesis was a study in the way that friction ratios effect steering outcomes in aeronautical use under reduced gravity loads.
-speaker2: so you are a rocket scientist?
-speaker1: um... i was... yes.
-speaker2: how did you end up here?
-speaker1: well it's all just numbers really, you're just changing what you're adding up... and if i may speak freely the money is considerably more attractive here.
-speaker2: what time is it?
-speaker3: it's 2:15.
-speaker2: what do you have in exposure right now, tonight?
-speaker4: i don't know... between 900 and 1.3...
-
-speaker1: if mr. sullivan's numbers are correct... 
-speaker2: 1.215 trillion.
-speaker1: yes.
-speaker3: me... me... and i'm guessing by the fact that you two haven't said anything that the math checks out?
-speaker4: look we'd need a little more time to go over this, but mr. sullivan here seems to know what he's doing. and i don't have to tell you that this is a problem.
-speaker3: thank you for that. what time is it?
-
-speaker1: me! 
-speaker2: what?
-speaker1: the 1.2 trillion.
-speaker2: all of it?
-
-speaker1: yes. 
-speaker2: i don't know, a couple weeks?
-speaker1: weeks?
-speaker2: yes. but as you certainly know our business is selling and buying. it doesn't work for very long without both components. if we suddenly stop buying for a day or two that just doesn't hide under the rug, it gets out and this whole this thing comes to a end... and right quick.
-speaker1: i understand.
-speaker2: do you?
-speaker1: how many traders do we have left between your floor and petersen's?
-speaker2: i don't know, sixty.
-speaker3: jared i've just been looking here a little closer, and it's these var numbers that are really setting this thing off.
-speaker1: excuse me, i need to make a quick call.
-
-speaker1: i was just saying, and just speaking completely off the record here, it won't be long before someone else starts putting these in and sees the exact same thing we are looking at here. if they haven't already. 
-speaker2: understood... and sarah, what value would you allow to be placed on those assets that might be left on the books, if they had to be?
-speaker3: why would they still be on the books?
-speaker4: because suddenly no one wants to buy them.
-speaker2: oh you sam... give me a break, all at once?
-speaker3: without an active market, it could take weeks, months for me to value them correctly. you'd have to go block by block.
-speaker4: it's a very simple business jared. you and i talked about this last year... jared turns around suddenly and cuts him off.
-speaker2: sam.... will, peter, and..??
-speaker5: seth.
-speaker2: seth, could you please excuse us for a few minutes. they stand up and start to exit the room. jared cohen oh and peter? who else has seen this?
-
-speaker1: no one... besides us here. 
-speaker2: and mr. dale.
-speaker1: yes.
-speaker2: and can it really be that we don't know where eric dale is?
-speaker3: i'm afraid so. his wife tells us he hasn't come home yet...and the firm shut off his phone today.
-speaker2: perfect. well, i need to know where he is.
-
-speaker1: christ! who is that guy? 
-speaker2: he's sam's boss.
-speaker1: he looks like he's fifteen years old. how old is he?
-speaker2: he's like forty.
-speaker3: how does that happen?
-speaker2: oh it happens all the time. except to me. kid's a killer.
-speaker3: what are they talking about?
-
-speaker1: it ain't pretty. 
-speaker2: what ain't pretty?
-speaker1: if people suddenly stop buying the we're selling.... they all look out the window. long pause. will emerson you guys smoke? well, you should.
-
-speaker1: jared you can't do what you are thinking about doing. 
-speaker2: what if we don't have a choice?
-speaker1: what does that mean? you... you don't have a choice.
-speaker2: me? have you looked at these numbers sam??
-speaker1: yes, but what the do i know.
-speaker2: well, mr. shah tell me if i'm wrong but to me these numbers don't add up.
-speaker3: if i may i'd like to take some time before we...
-speaker4: jared we can't answer that yet.
-speaker2: are you kidding me... this is exactly what we've...
-
-speaker1: we need a little time before we can give you our conclusion. 
-speaker2: ok. we meet in 45 minutes.
-speaker3: sam, do you have this file?
-speaker4: yes, here it is.
-speaker2: and sam we need eric dale, it's making me very uneasy knowing he is out there right now wanting to put a knife in our backs while he's not even aware he's holding the knife in his hand.
-
-speaker1: what are you going to do? 
-speaker2: not sure.
-speaker1: are you going to call him?
-speaker2: i already did.
-
-speaker1: wow. 
-speaker2: yeah.
-speaker3: that's a long way down.
-speaker2: yeah, it is.
-
-speaker1: is this really where you want to be taking this at this point? 
-speaker2: i'm sorry?
-speaker1: we don't even know if he's right.
-speaker2: how long should this take you to confirm?
-speaker1: not long.
-
-speaker1: careful. 
-speaker2: man.
-speaker3: did you know the fear most people feel when they stand on the edge like this is not actually a fear that they will fall but instead it's the subconscious fearing that they might jump? ....it's a fear of losing faith.
-speaker2: well that's a little deep and depressing, thank you.
-speaker3: yeah well, i can get a little dark sometimes.
-speaker2: will, come on. get down.
-speaker3: not today! so it looks like they are gonna have us dump this
-speaker2: what?
-speaker3: yeah, you watch.
-speaker2: how?
-speaker1: a trillion bucks??
-speaker3: i'm just saying.
-speaker1: how would they even do that?
-
-speaker1: you can't... it's impossible. but they'll figure out a way. i've been at this place for ten years and i've seen some things that you wouldn't believe... and when all is said and done... they don't lose money. they don't care if everyone else does, but they won't. long silence. 
-speaker2: will?
-speaker1: yeah?
-speaker2: did you really make two and half million bucks last year?
-speaker1: yeah... i did.
-speaker3: what do you do with all that money?
-speaker1: i don't know really. it goes pretty quick. you learn to spend what's in your pocket.
-speaker2: two and a half million goes quickly?
-speaker1: well the tax man takes half of it up front. so now you got what... million and a quarter. mortgage grabs another 300k, i gave 150 to my parents to live off, so now you got what??
-speaker3: eight hundred.
-speaker1: i bought a car last year for 150. probably another 100 eating... 25 on clothes, put 400 away for a rainy day...
-speaker2: smart.
-
-speaker1: and what's that? 
-speaker2: 125 left.
-speaker1: i spent 76,520 dollars on booze, dancers, and whores.
-
-speaker1: jesus... 
-speaker2: this is a very... very bad dream.
-speaker1: i don't know, seems like we actually may have just finally woken up.
-speaker3: hello.
-speaker2: come in.
-speaker1: how do we look? her look says it all. sam rogers i should go.
-speaker3: no, you should stay.
-speaker2: so?
-speaker2: what do you mean?
-speaker3: it's broken.
-speaker2: there are eight trillion dollars of paper around the world relying on that equation??
-
-speaker1: we were wrong. 
-speaker2: you mean you were wrong.
-speaker1: don't even start.... this was discussed.
-speaker3: i'm heading to the conference room.
-speaker1: no.
-speaker2: i'd like you to hear this.
-speaker3: no... i don't want to hear this. sam stares at them both. sam rogers how do you think i've stuck around this place so long.
-speaker2: i've called tuld.
-speaker1: is there a contingency plan here?
-speaker2: a contingency plan?
-speaker1: yes.
-speaker2: we went all in on this one.
-speaker1: so we've got ourselves quite exposed here... haven't we?
-speaker2: to tuld or the market?
-speaker1: both.
-
-speaker1: we were just grabbing a cigarette on the roof and a very spiffy looking helicopter dive-bombed us and then landed. 
-speaker2: i know. come with us. where's sam.
-speaker1: i don't know. do you want all of us>
-speaker2: yes.
-
-speaker1: mr. cohen? 
-speaker2: yes.
-speaker1: this way. they are already in there waiting for you.
-
-speaker1: well, mr. tuld as i mentioned earlier if you look here at the top page of this printout... he cuts him off. 
-speaker2: jared, it's a little early for all that, how bout in english? ... actually i'd like to hear from the guy who put this thing together... mr. sullivan is it? does he speak english?
-speaker1: sir?
-speaker2: i'd like to speak to the analyst who seems to have stumbled across this mess.
-speaker1: well, that's peter sullivan here.
-speaker3: sir.
-speaker2: ah, there he is.
-speaker3: yes sir.
-speaker2: how old are you mr. sullivan?
-speaker3: i'm twenty-seven sir.
-speaker2: please call me john.
-speaker3: yes sir.
-
-speaker1: so mr. sullivan why don't you tell me what you think is going on here, and please speak as you might to a young child or a golden retriever, i didn't get here on my brains i can assure you of that. 
-speaker2: well, sir. as i guess you may or may not know i work for mr. rogers here as an associate in the risk assessment and management office at mbs
-speaker1: now you lost me at m...
-speaker2: sorry...
-speaker1: i was joking mr. sullivan.
-speaker2: yes... well as you probably know over the last 36-40 months the firm has begun packaging new mbs products that combine several different traunches of rating classification in one tradable security. this has been very profitable as i imagine you noticed.
-speaker1: i have.
-speaker2: well the firm is currently doing a considerable amount of this business every day. the problem, which is i guess why we are here tonight, is that it takes us... the firm... almost a month to layer these products correctly thereby posing a challenge from a risk management standpoint.
-speaker1: and mr. sullivan that challenge is?
-speaker2: we have to hold these assets on our books longer than we might ideally like to.
-
-speaker1: yes. 
-speaker2: but the key factor is these are essentially just mortgages, so that has allowed us to push the leverage considerably beyond what you might be willing, or allowed to do in any other circumstance, thereby pushing the risk profile without raising any red flags.
-speaker1: and how far have we pushed that profile tonight mr. sullivan?
-speaker2: we have pushed it to 1.215 trillion dollars... at mbs alone.
-speaker1: give or take.
-speaker2: give or take.
-speaker1: now mr. sullivan what i am guessing, and give me a little rope here, what i am guessing that your report here says is that considering the, shall we say bumpy road, we've been on the last week or so that the numbers that your brilliant co- workers up the line ahead of you had come up with in the past don't seem to make much sense anymore considering what's taking place today?
-speaker2: actually not taking place today but what's already taken place over the last two weeks.
-speaker1: so what you're saying is it's already happened?
-speaker2: sort of.
-speaker1: and mr. sullivan what does your model say that means for us here?
-
-speaker1: well, that's where it becomes a projection. but... 
-speaker2: you're speaking with me mr. sullivan.
-speaker1: well... sir... if those assets were to decrease by just 25 percent, and remain on our books... well... that loss would be greater than the current market capitalization of this company.
-speaker2: so what you're telling me mr. sullivan is that the music appears to be about to stop and we are going to be holding the biggest bag of stinking ever assembled in the history of capitalism? everyone looks back at peter. john tuld mr. sullivan?
-speaker1: well sir, i'm not sure i'd put it that way but let me clarify using your analogy, what this model shows is the music, so to speak, just slowing, if the music were to stop, as you put it, then this model would not be even close to that scenario. it would be considerably worse.
-speaker2: well let me tell you something mr. sullivan. do you want to know why i'm sitting here in this chair with you all, why i get the big bucks, so to speak?
-speaker1: yes.
-speaker2: i'm here for one reason and one reason only.
-
-speaker1: sell it all today... 
-speaker2: is that even possible sam?
-
-speaker1: it is, but at what cost? 
-speaker2: i'll pay.
-speaker1: really?
-speaker2: i think so.
-speaker1: almost a trillion bucks of paper?
-speaker2: where does it come back to us?
-speaker1: everywhere.
-speaker2: sam, i don't think you seem to understand what your boy down here just said... if i made you... how would you do it?
-speaker1: you bring the traders in for their normal 6:30 meeting and you be honest with them, they're gonna know it's the end either way, so you'd have to throw them a bone, and a pretty big one. you'd have to come out of the gate storming... 40 percent done by 10:15 and 70 percent of your positions need to be gone by eleven, cause by lunch the word will be out. no swaps, no nothing, and by two o'clock you'll be getting 65 cents on the dollar, if you're lucky, and the feds will be in here looking up your and trying to slow us down.
-speaker2: ramesh?
-
-speaker1: they'll slow you down but it's yours to sell. they can't stop you. 
-speaker2: john... let's just say we pull that off, which is saying something... the real question is... who are we selling this to?
-speaker3: the same people you've been selling this to for the last two years... and whoever else will buy it.
-speaker2: if you do this you've killed that market for years. it's over.
-speaker2: and you are selling something you know has no value.
-speaker3: we are selling to willing buyers at the current fair market price, so that we may survive, sam.
-speaker2: you'll never sell a thing to any one of them again.
-speaker3: i understand.
-speaker2: do you?
-speaker3: do you!!! this is it, sam, this is it!
-
-speaker1: eric dale. 
-speaker2: where is eric dale?
-speaker3: as of today he is no longer with the firm.
-speaker4: we have been trying to locate him.
-speaker2: so he is just out there with this information?
-speaker2: carmelo?
-speaker5: yes.
-speaker2: get me eric dale here by 6:30.
-speaker5: done.
-speaker2: ok, meet back here in an hour. everyone stands up and begins to scatter. john tuld sam... let's talk.
-
-speaker1: of a town isn't it? 
-speaker2: never really did it for me actually.
-speaker1: really?
-speaker2: always been kinda a grass and tree guy.
-speaker1: i've always loved this place. ever since i arrived. everything about it.
-speaker2: i can't say i feel that about anyplace actually.
-speaker1: are you going to be able to come on board here sam? they look at each other.
-speaker2: i'm not sure john. this is really ugly.
-speaker1: you and i are salesmen sam, we sell.
-speaker2: exactly. and you well know that you don't make a sale unless you think the guy is gonna come back for more, and tomorrow we are done.
-speaker1: this is it sam.
-speaker2: you keep saying that, what is that supposed to mean?
-speaker1: it's the big one. most of us aren't gonna make it out of this one.
-
-speaker1: us? 
-speaker2: the street.
-speaker1: what are you talking about?
-speaker2: this won't be the last `situation' i will be having this week. it's just the start.
-speaker1: it's only the start because we are starting it.
-speaker2: maybe. but i don't think that's true, not this time. the numbers just don't add up anymore.
-speaker1: well i agree with you there, i've been saying that for years.
-speaker2: i mean if this kid can come up with this...?
-speaker1: i don't think i can go in knowing what i know and put the hammer down on these guys like this.
-speaker2: oh please, when did you become so soft.
-speaker1: you soft, you're panicking.
-speaker2: if you're the first one out the door sam, it's not called panicking john tuld stares aggressively at sam.
-speaker1: look, i obviously don't have all the information that you do. but i think this could destroy this firm.
-
-speaker1: how'd that go? 
-speaker2: this is a show.
-speaker1: they are going to do it?
-speaker2: probably.
-speaker1: 
-speaker2: remember this day boys, remember this day.
-speaker3: gentlemen, there is some breakfast down the hall if you guys are hungry.
-speaker1: seth, someone is going to have to get breakfast. and let's face it, it's you.
-
-speaker1: so what's the strategy here? 
-speaker2: that's where i'm headed right now, downstairs to work on it with my guys.
-speaker1: no, you and i... with tuld.
-speaker2: i'm not sure we need one, sarah. that's not the way i've ever done this.
-speaker1: please.
-speaker2: he knows where we both have stood on this all along. there's nothing more to do. this pushes a button with her.
-speaker1: that's exactly my point, and knowing what was discussed by both you and i with him, i don't see how that can possibly you with anything but a false sense of comfort.
-speaker2: i'm not looking for a sense of comfort here, sarah. i don't think there is one to be found.
-speaker1: so again, what's the strategy here?
-speaker2: on this particular front, i'm just not sure there's much left to do.
-
-speaker1: it's very simple. don't even think of me on this one, because if we are going down... you well know its going to be together. 
-speaker2: no, i'm not sure i do know that.
-
-speaker1: what do you think tuld made last year? 
-speaker2: would you shut the up.
-speaker3: 86 mil. in salary and bonus.
-speaker2: really?
-speaker3: yeah, it's public record.
-speaker1: that's a lot of money.
-speaker3: he was worth a billion.
-speaker2: was?
-speaker3: before today.
-speaker1: really?
-speaker3: you'll see.
-
-speaker1: ....i think i'm going to go get a coffee, does anyone need anything. 
-speaker1: i need a little real air.
-speaker2: probably a good idea.
-speaker1: will, is that alright?
-speaker3: alright?
-speaker1: if i get out of here for a minute?
-speaker3: yeah. are you kidding? it's not a prison. do you want me to hold your hand?
-speaker4: what?
-speaker3: that was eric's wife. he's alive, he's home. he doesn't want to talk to us. and he doesn't know she called me.
-speaker4: where's he live?
-speaker3: the heights.
-
-speaker1: may i come in? 
-speaker2: please, sit.
-speaker1: so... we are going to do this thing.
-
-speaker1: it's going to be tight. 
-speaker2: is sam on board?
-speaker1: not yet. tuld pauses. john tuld sarah, i need a head to feed to these traders... and the board... this morning.
-
-speaker1: is it me or cohen? 
-speaker2: it's you.
-speaker1: of course you are well aware i filtered several warnings for you and cohen over a year ago on this?
-speaker2: i'm not sure that's the best path for you to be taking at this point... you're going to be taken care of here...
-speaker2: obviously it's quite complicated.
-speaker1: john i was told that in no uncertain terms...
-speaker2: it was all a very grey area.
-speaker1: it was actually made very clear at the time, by you and i and cohen.
-speaker2: i'd really prefer that you didn't fight me on this... tuld pauses, they look at each other. john tuld we all this one up pretty good...
-speaker1: yes.
-speaker2: we need you to stay here till this is all done and the markets close.
-speaker1: i understand.
-
-speaker1: ah it's jared. he's coming this way. 
-speaker2: what does wonderboy want?
-speaker3: do you have a minute?
-speaker2: we're heading to get eric dale.
-speaker3: i know. i just need a second.
-speaker2: what is it?
-speaker3: tuld and i have concerns that sam may not be willing to step up and do the right thing here.
-speaker2: i don't think that's ever been a problem.
-speaker3: of course it hasn't, but during acute situations, such as this, often what is right can take on multiple interpretations.
-
-speaker1: sam will step up. 
-speaker2: i know he will...but if he doesn't...
-speaker1: that i will what?
-speaker2: step up.
-speaker1: i have no doubt sam will make the right choice. and if it makes you feel any better he and i have always had the same interpretation of what's right...no matter how acute the situation.
-
-speaker1: there he is. 
-speaker2: john.
-speaker1: cohen has done a nice job. it can work.
-speaker2: what does that mean?
-speaker1: it means, as you very well know, that you are a very important piece of this puzzle. they look directly at each other. john tuld here.
-speaker2: that's very generous.
-
-speaker1: it's not a gift. i need to know you are with me on this. 
-speaker2: i'm with the firm john.
-speaker1: i won't get what i need out of your boys today unless they believe you... unless they believe in you completely. he stares at sam. john tuld are you in?
-speaker2: i told you i have my reservations.
-speaker1: well you can't have any reservations. they both stare at each other. john tuld and i need to know now.
-speaker2: i'm with the firm completely john, as i always have been. excuse me.
-
-speaker1: one fifty. 
-speaker2: thank you.
-speaker3: hey...
-speaker2: hi. it's really good to see you.
-speaker3: you too. you look tired.
-speaker2: i am.
-speaker3: what are you doing here?
-speaker2: i never left work. just had to get out for a walk.
-speaker3: you're still working there?
-speaker2: yes, of course...
-speaker3: oh. i thought...
-speaker2: how are you? are you happy? you look happy.
-speaker3: i am.
-
-speaker1: well, i should get back... how's your father? 
-speaker2: he's good. thanks for asking.
-speaker1: ok. be safe.
-speaker2: hey... you got any inside tips for him?
-speaker1: sell.
-
-speaker1: he just bought it. 
-speaker2: i hope it was with cash.
-speaker1: you are such a prick, and it wasn't.
-speaker2: i think i should stay here.
-speaker1: get out of the car.
-speaker2: i just don't think it would be appropriate.
-speaker1: appropriate? get the out of the car.
-speaker2: really?
-speaker1: you're probably right... and don't touch any of the buttons.
-
-speaker1: what are you doing here? 
-speaker2: peter finished that model you were working on.
-speaker1: really?
-speaker2: it's created a bit of a storm.
-speaker1: yeah, i bet.
-speaker2: do you want to see it... the model?
-
-speaker1: no. 
-speaker2: really?
-speaker1: no. but i'm pretty sure what it says.
-speaker2: do you think he's right?
-speaker1: i'm sure he's right.
-speaker2: jared cohen called an emergency meeting of the partners tonight. john tuld has decided to liquidate our entire position. eric looks over at will will emerson today.
-speaker1: well, i am very sorry to hear that.
-speaker2: they want me to get you back there, they are worried about you being out here.
-speaker1: please.
-speaker2: i'm just saying.
-speaker1: not a chance.
-speaker2: this is serious eric.
-
-speaker1: you don't think i know that. i've been warning that robertson about this since last march. 
-speaker2: well...
-speaker1: her... her.
-speaker2: look...
-speaker1: i signed my papers man, i'm out. they've got nothing on me anymore.
-speaker2: they'll pay...
-speaker1: i've already been paid enough by them. eric looks back out onto the empty street. eric did you know i built a bridge once?
-speaker2: i'm sorry?
-speaker1: a bridge.
-speaker2: no, i didn't.
-speaker1: i was an engineer by trade.
-speaker2: well...
-speaker1: it goes from dilles bottom, ohio to moundsville west virginia. it spans 912 feet over the ohio river. steel through arch design. 12,100 people a day use the thing.
-
-speaker1:  
-speaker2: one thousand, five hundred, thirty-one years...
-speaker1: 
-speaker2: that's what i did. look... you better get back over there.
-speaker1: yeah.
-speaker2: crazy
-speaker1: true. dumping the whole motherload in one day. up. well...
-speaker2: thanks for stopping by.
-
-speaker1: no problem. 
-speaker2: who the is this?
-speaker1: i'd guess it's the firm's people.
-speaker2: what?
-speaker1: tuld doesn't want any loose ends.
-speaker2: they fired me will. em... em.
-speaker1: just come back with them, take the bonus, and you're home tonight by five. either that or they are going to fight you on everything, the package, the options... eric drops his head.
-speaker2: well that's always been true.
-speaker1: yes it has.
-speaker2: see ya.
-speaker1: the house looks great by the way.
-speaker2: thanks.
-
-speaker1: and eric...don't beat yourself up too bad over this 
-speaker2: yeah.
-speaker1: who the knows. eric nods. will emerson some people like driving the long way home.
-
-speaker1: so, am i getting fired? 
-speaker2: i don't know.
-speaker1: are you?
-speaker2: no.
-speaker1: oh.
-speaker2: it's not personal, you're just in the wrong place at the wrong time, the young guys are always the first to go. nothing i say is gonna make you feel any better.
-
-speaker1: i get it. 
-speaker2: the first time i made 36 million dollars for the firm in the last eleven minutes of the trading day.
-speaker1: me.
-speaker2: it was a perfect trade...i saw it coming from three days away. i took my time. i was in, i was out...pish posh...and it was beautiful.
-speaker1: how did you learn to do that?
-speaker2: i'm not sure, and whatever it is it could be gone tomorrow. will looks out again at the city then to seth. will emerson look man i'm sorry about this.
-speaker1: don't be, you're not doing it to me.
-speaker2: i know...but i'm still sorry. at least you'll have some decent cash to walk away with.
-speaker1: only if we can get this done, right?
-speaker2: we'll get it done.
-speaker1: how?
-
-speaker1: i'm trying to figure that out right now. 
-speaker2: there aren't really enough willing buyers out there right now.
-speaker1: i'm trying to think of every last one of them i can and then i'll make them willing.
-speaker2: are you ok with that?
-speaker1: i'm about to completely guys i've been doing business with for fifteen years so no i'm not exactly ok with it. but look, every last one of them would do the same thing to me in a second...so it is what it is.
-speaker2: i guess. and what about everyone else?
-speaker1: everyone else?
-speaker2: normal people.
-speaker1: what are you a socialist? me seth.
-
-speaker1: are we gonna be wrong on this one? 
-speaker2: no...they're all gonna get
-
-speaker1: hello. 
-speaker2: peter. you want one?
-
-speaker1: i don't smoke. 
-speaker2: that's good. i don't much either.
-speaker1: it's kinda beautiful out right now.
-speaker2: yeah, i guess it is... i've never really liked this town much.
-speaker1: how long have you been here?
-speaker2: forty years.
-speaker1: i think it's beautiful. the whole place. forty years, that's something... are you tired?
-speaker2: of what?... remember i don't work as hard as you do.
-speaker1: that's not true.
-speaker2: no it is, actually.
-speaker1: are we all getting fired after today?
-speaker2: probably.
-speaker1: they're going to fire you?
-
-speaker1: that's not what they'll call it,... it'll be a mercy killing really. sam looks at peter. sam rogers you don't have to stand out here for me. 
-speaker2: i don't really want to go back in there just yet.
-speaker1: i understand that.
-speaker2: i think i know your son.
-speaker1: really?
-speaker2: yeah. not well... but, he always seemed like a nice person.
-speaker1: he is a nice person. a taxi honks and flies by. sam rogers i guess you could say alot worse about a guy.
-speaker2: have you told him what's about to happen?
-speaker1: what do you mean?
-speaker2: this whole thing.
-speaker1: no... i hadn't even thought of it.
-speaker2: i guess it's illegal anyway?
-
-speaker1: yeah... who the knows anymore.... and even if it was you'd sure as never get caught. 
-speaker2: he's already pretty rich anyway though right? he doesn't need the help.
-speaker1: that's very true.
-speaker2: he works with a friend of mine.
-speaker1: he's a of alot richer than me, i know that much.
-speaker2: but you are taller.
-speaker1: that's true. it's not much... but it's something... what did your father do?
-speaker2: he's a doctor.
-speaker1: really?
-speaker2: eyes.
-speaker1: now that's something.
-speaker2: yeah... it is.
-speaker1: did he want you to do that?
-speaker2: no, never.
-speaker1: oh.
-
-speaker1: he was always a pretty miserable guy actually... 
-speaker2: yes they are.
-speaker1: have you ever done anything like this before?
-speaker2: no... never.... not even close.
-speaker1: oh...
-speaker2: yeah.
-speaker1: do you really think this is the only...
-speaker2: for who?
-speaker1: i'm not sure.
-speaker2: i'm not either.
-speaker1: so this is gonna make a pretty big mess of it, then?
-speaker2: i don't even want to think about it.
-
-speaker1: yeah. 
-speaker2: just doesn't quite seem...
-speaker1: i know.
-speaker1: well. i guess we should get back.
-speaker2: yeah.
-
-speaker1: well good luck, you know, in the future... seems like you'll probably be just fine. 
-speaker2: thank you.
-
-speaker1: you alright? 
-speaker2: you just fired me.
-speaker1: i'm sorry...
-speaker2: this is all i've ever wanted to do.
-speaker1: really?
-speaker2: yes...
-speaker1: i am sorry.
-
-speaker1: you as well? 
-speaker2: yes.
-speaker1: 
-speaker2: yeah.
-speaker1: i'm sorry.
-speaker2: thank you... sam and the rest of your floor are gone after today as well.
-speaker1: really... and cohen?
-speaker2: no... still here.
-speaker1: of course...
-speaker2: no.
-speaker1: he was very tall.
-
-speaker1: i did pass on your concerns last year... just so you know. 
-speaker2: it doesn't matter.
-speaker1: it does.
-speaker2: have they taken all the phones out of this room? sarah nods yes. eric paranoid fucks.
-speaker1: yeah... i didn't think they were going to be able to get you back here. eric stands up and goes over to the window.
-speaker2: they told me they were going to drag me through on everything from my options to healthcare over the next two years or i come back and make... $176,471.00 an hour to sit in this room quietly... it wasn't much of choice.
-speaker1: it never is. eric goes back and sits in the chair. sarah robertson obviously looking back, the point was expressed with insufficient urgency...
-
-speaker1: eric. 
-speaker2: i understand, there was nothing you could do. now sarah questions herself.
-speaker1: i guess... at the time... it didn't seem like there was much of a choice.
-speaker2: it never does.
-speaker1: you have kids, yeah?
-speaker2: what is your package going to look like?
-speaker1: i don't know, that's what i'm waiting for now.
-speaker2: should be pretty good, no?
-speaker1: it better be.
-
-speaker1: alright, hey.... 
-speaker2: thank you all for coming in a little
-
-speaker1: well done. 
-speaker2: they did alright.
-speaker1: i wanted to give you a heads up. they are going to start sending some people home out here.
-speaker2: now?
-speaker1: sorry. no loose ends.
-speaker2: of course.
-speaker1: for what it's worth, you're good... guess somebody upstairs must really like you.
-
-speaker1: sam, please sit. congratulations are clearly in order. 
-speaker2: our guys did what they could.
-
-speaker1: you did a of a job today, and i thank you for it. sit, excuse me for eating but it's been a long day. can i get you anything? 
-speaker2: no, no thanks.
-speaker3: so what can i do for you?
-speaker2: i want out.
-speaker3: i'm sorry?
-speaker2: i'm done, i want out.
-speaker3: it's been a very difficult day, for everyone.
-speaker2: i need you to release my options, that is if they're still worth anything after today, and i need the bonus. i'm out.
-speaker3: you'll get the bonus, the options, and
-
-speaker1: that's true, and if i had been at least there'd be some holes in the ground to show for it. i'm just not quite sure how we this thing up so badly. 
-speaker2: when did you start feeling so sorry for yourself, it's unbearable... what, you think we may have helped put some people out of business today? that it's all just for naught? well you've been doing that everyday for almost forty years sam. and if all this is for naught then so is everything else out there. it's just money, it's made up, a piece of paper with some pictures on it so we don't all kill each other trying to get something to eat. but it's not wrong and it's certainly not any different today than it's ever been. ever. 1637, 1797,
-speaker1: i'll do it john, but not because of your little speech, but because i need the money. i'm not sure how it could possibly be after all these years, but i need the money.
-
-speaker1: hello! ... i've called the police. 
-speaker2: mary.
-speaker1: sam?
-speaker2: yup.
-speaker1: what are you doing?
-
-speaker1: ella died. 
-speaker2: oh
-speaker1: tumor on her liver. it was horrible.
-speaker2: well i'm very sorry.
-speaker1: yeah... i really loved that dog
-speaker2: i know, but sam you don't live here anymore.
-speaker1: i was driving home from the vet and this is the only place i could think to bury her. this is where she belongs... she looks at him deeply.
-speaker2: well. you should have called.
-speaker1: i know.
-speaker2: are you alright? you look terrible.
-speaker1: yeah. tough day all around.
-speaker2: i heard, sammy called.
-speaker1: is he alright?
-
-speaker1: he said they got hammered, but got out alive. 
-speaker2: good, i was going to call him this morning... but...
-speaker1: well, i am going to go back in to bed. the alarm is on so don't try to break in. well, you take care of yourself.
-speaker2: is it alright if i finish up here?
-speaker1: yes.
+SETH: is that them? 
+SETH: christ.
+PETER: yeah.
+SETH: me.
+WILL EMERSON: have you guys ever seen this before?
+SETH: no.
+WILL EMERSON: best to just ignore it. keep your head down and get back to work... and don't watch.
+
+HEATHER: timothy singh? 
+TIMOTHY: yes.
+HEATHER: i'm afraid we have to speak with you.
+PETER: excuse me?
+HEATHER: eric dale?
+PETER: no.
+HEATHER: sorry?
+PETER: i'm not eric dale.
+HEATHER: oh. i'm so sorry.
+PETER: he's my boss, he's down that hall.
+
+HEATHER: mr. dale? 
+ERIC: yes.
+HEATHER: this way.
+
+LAUREN BRATBERG: well... mr. dale i'm obviously sorry that we are here today but these are extra ordinary times as you very well must know. 
+ERIC: i run risk management... it just doesn't seem like a natural place to start cutting.
+HEATHER: i hope you understand that this is in no way personal. a majority of this floor is being let go today.
+
+LAUREN BRATBERG: mr. dale the firm is offering you six months severance at half your salary. you will keep all unvested options that you currently hold. health will be extended through that period. you have till tomorrow at... she looks at her watch. lauren bratberg 4:47 to either take the offer or it will be revoked. do you understand? 
+ERIC: yes.
+LAUREN BRATBERG: now, unfortunately mr. dale due to the highly sensitive nature of your work here the firm has to take certain precautions for security purposes that may seem punitive in nature. i hope considering your...
+ERIC: i'm sorry??
+HEATHER: she's apologizing for what's about to happen.
+LAUREN BRATBERG: your company email, access to the server, access to the building, and your mobile data and phone service will all be severed as of this meeting. this gentleman...
+
+ERIC: what about my current ongoing work? i'm right in the... 
+LAUREN BRATBERG: the firm has worked out its transition plan and is prepared to move forward, but we appreciate your concern.
+HEATHER: we understand that this is very difficult and here is my card. please contact me over the next few weeks if there is anything that i can do to help you through this transition in your life.
+SECURITY GUARD: sir?
+
+WILL EMERSON: hey. 
+ERIC: will.
+WILL EMERSON: i'm very sorry.
+ERIC: are you still alive?
+WILL EMERSON: for now.
+
+ERIC: congratulations. 
+WILL EMERSON: it's a total bloodbath.
+ERIC: i heard.
+WILL EMERSON: if there was anything i coulda done, you know i woulda done it.
+ERIC: i know.
+WILL EMERSON: well...
+ERIC: one more thing... who was it?
+WILL EMERSON: eric...
+ERIC: was it rogers?
+WILL EMERSON: you know me. i'm not gonna say...
+ERIC: robertson?
+WILL EMERSON: look it wasn't anyone. it's just bad luck. right....?
+ERIC: yeah.
+WILL EMERSON: good luck.
+
+ERIC: will? 
+WILL EMERSON: yeah.
+ERIC: you know i was just in the middle of a bunch of here that someone should really take a look at.
+WILL EMERSON: eric, they are telling us that everyone has got to get out of here and leave everything behind. while we appreciate your concern, this is not your problem anymore. alright? good luck.
+
+PETER: eric, i am very sorry. 
+SETH: yeah. did they say what was going to happen with us?
+PETER: seth.
+SETH: what?
+ERIC: no, it will be ugly around here for a while but you guys will be fine...
+SETH: well, take care, eric.
+ERIC: well, i'll be seeing you around.
+
+PETER: i just wanted to say thank you. 
+ERIC: that's not necessary.
+PETER: well it is... you were the person around here that i...
+ERIC: i know.
+
+SAM ROGERS: it's gonna get worse before it gets better. 
+WILL EMERSON: really?
+SAM ROGERS: much.
+WILL EMERSON: got any nicorettes? i'm out of nicorettes, which means i'm gonna kill someone in about 10 minutes... you alright?
+SAM ROGERS: my dog is dying.
+WILL EMERSON: i'm sorry?
+SAM ROGERS: just spoke to the vet, it's some tumor on her liver. i'm paying almost a thousand bucks a day to keep her alive.
+WILL EMERSON: really?
+SAM ROGERS: yeah... and i don't have a clue what to do about it.
+WILL EMERSON: well they're all gone.
+SAM ROGERS: how many do we have left?
+WILL EMERSON: thirty-three.
+SAM ROGERS: make sure everyone is out there, i need to say something.
+WILL EMERSON: they are ready for you.
+
+ERIC: robertson! sarah does not respond. eric sarah robertson! 
+SARAH ROBERTSON: eric... i didn't do anything.
+ERIC: you.
+
+SETH: you ok? 
+PETER: yeah. just a little freaked out.
+SETH: you want to get a drink?
+PETER: nah, i need to clean up a few things around here.
+SETH: everyone is going out... come on.
+
+PETER: nah, i'm fine. 
+SETH: well, give me a call if you change your mind.
+PETER: i will.
+SETH: come on.
+PETER: where are you going?
+SETH: the grand.
+PETER: i'll call you when i'm done.
+SETH: be glad, you're still alive.
+PETER: i am.
+
+PETER: come on, come on. 
+OPERATOR RECORDING: the number you have called has been disconnected and is no longer in service.
+PETER: 
+
+SETH: hello. 
+PETER: i can't hear you.
+SETH: what.
+PETER: go outside, i can't hear you.
+SETH: wait... give me a sec... ok.
+
+SETH: lugo. 
+PETER: are you with will?
+SETH: emerson?
+PETER: yes.
+SETH: i think he's still here. why?
+PETER: you have to go get him, and get back up here.
+SETH: where?
+PETER: the office.
+SETH: what!
+PETER: i'm serious.
+SETH: you want me to get our boss's boss out of a club and bring him back to the office at 10:00 on a thursday night?
+PETER: our boss just got axed, so technically he is our boss, and yes.
+SETH: why?
+PETER: just do it seth.
+SETH: alright, we'll be there in ten.
+
+WILL EMERSON: hey, look who it is, burning the candle at both ends. there aren't anymore cuts planned though, so you can stop kissing my ass, honestly i don't even understand what you guys do. 
+PETER: will, i am so sorry to call you back but i really think..
+WILL EMERSON: don't worry about it.
+SETH: hey.
+PETER: look at this. seth comes around and sits at peter's desk. peter eric gave me this file before he left.
+SETH: eric?
+PETER: dale. and he told me he couldn't quite figure it out, then the last thing he says as the doors on the elevator close is `be careful'.
+WILL EMERSON: be careful?
+PETER: so i'm obviously a little curious. so i get into it a bit and i realize that all he was missing was...well it's not good.
+
+SETH: what is he doing here? 
+PETER: go to model four, and it makes more sense.
+SETH: oh.
+WILL EMERSON: what is this?
+PETER: this is basically everything that we have on our books at any given time. but what eric was trying to do here is work it for levels of volatility that fall outside the limits of our standard var model.
+WILL EMERSON: what are those levels.
+PETER: well it's a fairly complicated...
+WILL EMERSON: simplify.
+PETER: the volatility boundaries are basically set using historic patterns then stretching them out another 10-15%...
+WILL EMERSON: so what's happening?
+SETH: we are starting to test those historic patterns.
+WILL EMERSON: when?
+
+PETER: today. 
+SETH: tuesday.
+PETER: monday, last friday, last wednesday and monday.
+SETH: two fridays ago.
+WILL EMERSON: i get it.
+SETH: me... once this thing gets going in the wrong direction...
+PETER: yeah...
+SETH: it's huge.
+WILL EMERSON: how huge?
+SETH: the losses are greater than the current value of the company...?
+PETER: projected losses... projected...
+SETH: me.
+PETER: yeah.
+WILL EMERSON: wait, and this is just our floor?
+PETER: yeah...
+WILL EMERSON: where the is eric dale?
+
+PETER: i can't find him, they cut off his phone. 
+WILL EMERSON: what?
+PETER: they turned off everyone's phone who they axed today.
+WILL EMERSON: ruthless. and he's got no other cell?
+PETER: no.
+WILL EMERSON: how does he not have his own cellphone?
+PETER: i tried, it's been turned off.
+
+WILL EMERSON: i think i have his home number. 
+PETER: you're going to call his house?
+WILL EMERSON: yes... do we even know if he's right?
+PETER: it seems pretty right to me.
+SETH: it does.
+WILL EMERSON: hello, mrs. dale?... this is will emerson calling... i'm fine, thanks. i was wondering if eric was there?... yes, we tried but his cell doesn't seem to be working...
+
+SETH: doesn't he have like three kids? 
+WILL EMERSON: so?
+SETH: i'm just saying, would you go home?
+WILL EMERSON: i know where he is. you two need to go get him.
+PETER: now?
+WILL EMERSON: yes.
+PETER: what are you going to do?
+WILL EMERSON: i'm calling sam.
+PETER: me.
+WILL EMERSON: go.
+
+WILL EMERSON: i know i'm sorry. i wouldn't have called... 
+SAM ROGERS: what's the problem?
+WILL EMERSON: i think you need to get down here.
+SAM ROGERS: what?
+WILL EMERSON: sam...
+SAM ROGERS: it's 11:00 o'clock.
+WILL EMERSON: i am well aware of the time, sam. but you need to see this.
+SAM ROGERS: see what?
+WILL EMERSON: well...
+SAM ROGERS: email it to me.
+WILL EMERSON: i don't think that is a good idea.
+SAM ROGERS: i'm on my way.
+
+SETH: you want one? 
+PETER: no.
+SETH: what, we got them on our way to meet you at the office... we didn't know what the you wanted to talk about... ... thought you might've gotten some chick pregnant or something.
+PETER: i haven't gotten laid in so long that's not possible at this point.
+SETH: i guess that's true.
+PETER: look at these people.
+SETH: what?
+PETER: we are in here stressing our heads off that the world as we know it is ending, and they've got no idea what's coming.
+SETH: i try not to let work get to me.
+
+PETER: i've noticed that about you actually. 
+SETH: look, we are twenty three years old...
+PETER: twenty-seven.
+SETH: whatever, same thing, i made almost a quarter of a million dollars last year... for what... pushing some numbers around on a computer screen, so a bunch of glorified crack addicts could take that information and pretend to understand it, and then make a bet against some other jock half way around the world who if he wasn't doing this would probably be in some otb somewhere putting it all on number seven. and at the end of the day one guy loses and the other guy wins.
+PETER: you do know it's a little more complicated than that?
+SETH: it's will... he wants to know if we've found him? what do i tell him.
+PETER: tell him that we haven't found him.
+
+WILL EMERSON: hey. 
+SAM ROGERS: so?
+WILL EMERSON: eric dale...
+SAM ROGERS: oh jesus...
+WILL EMERSON: before he was escorted out of the building by security...
+SAM ROGERS: i had nothing to do with that.
+WILL EMERSON: i know.
+SAM ROGERS: i'm sorry, go on.
+WILL EMERSON: so as he was leaving the building he hands a disk to peter sullivan...
+SAM ROGERS: who's peter sullivan again?
+WILL EMERSON: one of eric's guys.
+SAM ROGERS: right.
+WILL EMERSON: ...and tells him that he was almost on to something but hasn't been able to figure it out. so he gives him the disk and says give it a try... but the last thing he says as the doors to the elevator close is `be careful'...
+SAM ROGERS: be careful?
+
+WILL EMERSON: yeah. 
+SAM ROGERS: be careful?
+WILL EMERSON: yes.
+SAM ROGERS: why?
+WILL EMERSON: well... take a look.
+SAM ROGERS: speak, you know i can't read those things they put together.
+WILL EMERSON: basically the kid dives right into the thing after your little pep talk, nice job by the way, and he seems to have nailed it.
+SAM ROGERS: nailed it?
+WILL EMERSON: the kid figured out what eric was missing. and...
+SAM ROGERS: and?
+WILL EMERSON: ...it isn't good.
+SAM ROGERS: how ugly?
+
+WILL EMERSON: real ugly. 
+SAM ROGERS: and how close to those limits have we gotten?
+WILL EMERSON: oh we're beyond close... we broke through five or six days over the last two weeks, but we've managed to stay on the upside of it... for now...
+SAM ROGERS: for now?
+WILL EMERSON: well look what happens here when we get on the wrong side of it.
+SAM ROGERS: what am i looking at?
+WILL EMERSON: and that wouldn't even be that bad a day for us... historically speaking.
+SAM ROGERS: is this right?
+WILL EMERSON: i don't know.
+SAM ROGERS: where is eric?
+WILL EMERSON: we shut his phone off.
+SAM ROGERS: of course we did.
+WILL EMERSON: and he hasn't come home yet, i spoke to his wife.
+SAM ROGERS: he's probably crying in a beer somewhere.
+
+WILL EMERSON: or worse. 
+SAM ROGERS: where's the kid who did this?
+WILL EMERSON: out looking for eric.
+SAM ROGERS: do we think he knows what he's doing?
+WILL EMERSON: i don't know. what do i know?
+SAM ROGERS: well get him back here.
+
+PETER: what now? 
+SETH: we should probably tell will he's not here.
+PETER: yeah.
+SETH: what do you think this girl makes in a night?
+PETER: seth.
+
+SETH: he's freaking out. we need to get down there. 
+PETER: i have no idea?
+SETH: come on, play along.
+PETER: i don't know what year?
+SETH: last year.
+PETER: three quarters of a million bucks?
+SETH: come on.
+PETER: what?
+
+SETH: not even close. 
+PETER: more?
+SETH: yes.
+PETER: a million?
+SETH: will emerson made two and half million bucks last year.
+PETER: you. seth looks at him showing he is serious. peter you!
+SETH: he did.
+PETER: how do you know that?
+SETH: he told me.
+PETER: he just told you that?
+SETH: well i asked him.
+PETER: do you think that's true.
+SETH: probably.
+PETER: that's up.
+SETH: why?
+PETER: does that seem right to you?
+
+SETH: right? 
+PETER: 
+SETH: so what do you think that means rogers puts away?
+PETER: i have no idea.
+
+WILL EMERSON: gentlemen? 
+SAM ROGERS: you're coming with us.
+SETH: will. mr. rogers.
+WILL EMERSON: sam this is seth bregman and this is peter sullivan.
+SETH: sir.
+
+PETER: will? 
+WILL EMERSON: yes?
+PETER: where are we going?
+SAM ROGERS: going to get a second opinion on your work peter.
+
+ALL PRESENT: slight hellos, etc. 
+SETH COUGHS.: all present look down at him.
+JARED COHEN: so sam, what do you have for us?
+
+SAM ROGERS: well... it should be here in a minute. finding someone in the copy room at this hour was a little bit of a challenge. 
+JARED COHEN: well why don't we start by introducing everyone then.
+
+JARED COHEN: this is sarah robertson who you know, our chief risk management officer, ramesh shah from upstairs, and david horn one of the firm's in house counsel. 
+SAM ROGERS: nice to meet you all. this is will emerson my head of trading, and this is...
+WILL EMERSON: peter sullivan, and seth bregman. they work in our risk department.
+JARED COHEN: where is eric dale?
+SAM ROGERS: he was let go today.
+JARED COHEN: so who's left in your risk department?
+WILL EMERSON: as of today that would be peter and our junior analyst seth...?
+JARED COHEN: really?
+COPY ROOM GUY: will emerson?
+
+WILL EMERSON: here. please just give one to everyone, thanks. 
+SAM ROGERS: so apparently eric had been working on this for some time but was unable to finish it, as he was leaving the building today he gave the program to peter here, and told him to see what he thought. peter figured a few things out that eric seemed to be missing and this is what came out.
+JARED COHEN: where is eric dale now?
+SAM ROGERS: he's been unreachable since he left the office.
+SARAH ROBERTSON: peter this is your work?
+PETER: mainly mr. dale's...
+SARAH ROBERTSON: but this draft is yours?
+PETER: yes. again, derived from mr. dale's original model. but yes.
+SARAH ROBERTSON: and what is your background?
+PETER: background?
+SARAH ROBERTSON: your cv.
+
+PETER: i have been with the firm for two years working with eric that whole time... but i hold a doctorate in engineering, specialist in propulsion, from mit, with a bachelors from penn. 
+JARED COHEN: what's a specialty in propulsion?
+PETER: well... in laymen terms my thesis was a study in the way that friction ratios effect steering outcomes in aeronautical use under reduced gravity loads.
+JARED COHEN: so you are a rocket scientist?
+PETER: um... i was... yes.
+JARED COHEN: how did you end up here?
+PETER: well it's all just numbers really, you're just changing what you're adding up... and if i may speak freely the money is considerably more attractive here.
+JARED COHEN: what time is it?
+RAMESH: it's 2:15.
+JARED COHEN: what do you have in exposure right now, tonight?
+SAM ROGERS: i don't know... between 900 and 1.3...
+
+RAMESH: if mr. sullivan's numbers are correct... 
+PETER: 1.215 trillion.
+RAMESH: yes.
+JARED COHEN: me... me... and i'm guessing by the fact that you two haven't said anything that the math checks out?
+SARAH ROBERTSON: look we'd need a little more time to go over this, but mr. sullivan here seems to know what he's doing. and i don't have to tell you that this is a problem.
+JARED COHEN: thank you for that. what time is it?
+
+JARED COHEN: me! 
+SAM ROGERS: what?
+JARED COHEN: the 1.2 trillion.
+SAM ROGERS: all of it?
+
+JARED COHEN: yes. 
+SAM ROGERS: i don't know, a couple weeks?
+JARED COHEN: weeks?
+SAM ROGERS: yes. but as you certainly know our business is selling and buying. it doesn't work for very long without both components. if we suddenly stop buying for a day or two that just doesn't hide under the rug, it gets out and this whole this thing comes to a end... and right quick.
+JARED COHEN: i understand.
+SAM ROGERS: do you?
+JARED COHEN: how many traders do we have left between your floor and petersen's?
+SAM ROGERS: i don't know, sixty.
+RAMESH: jared i've just been looking here a little closer, and it's these var numbers that are really setting this thing off.
+JARED COHEN: excuse me, i need to make a quick call.
+
+RAMESH: i was just saying, and just speaking completely off the record here, it won't be long before someone else starts putting these in and sees the exact same thing we are looking at here. if they haven't already. 
+JARED COHEN: understood... and sarah, what value would you allow to be placed on those assets that might be left on the books, if they had to be?
+SARAH ROBERTSON: why would they still be on the books?
+SAM ROGERS: because suddenly no one wants to buy them.
+JARED COHEN: oh you sam... give me a break, all at once?
+SARAH ROBERTSON: without an active market, it could take weeks, months for me to value them correctly. you'd have to go block by block.
+SAM ROGERS: it's a very simple business jared. you and i talked about this last year... jared turns around suddenly and cuts him off.
+JARED COHEN: sam.... will, peter, and..??
+SETH: seth.
+JARED COHEN: seth, could you please excuse us for a few minutes. they stand up and start to exit the room. jared cohen oh and peter? who else has seen this?
+
+PETER: no one... besides us here. 
+JARED COHEN: and mr. dale.
+PETER: yes.
+JARED COHEN: and can it really be that we don't know where eric dale is?
+WILL EMERSON: i'm afraid so. his wife tells us he hasn't come home yet...and the firm shut off his phone today.
+JARED COHEN: perfect. well, i need to know where he is.
+
+SETH: christ! who is that guy? 
+WILL EMERSON: he's sam's boss.
+SETH: he looks like he's fifteen years old. how old is he?
+WILL EMERSON: he's like forty.
+PETER: how does that happen?
+WILL EMERSON: oh it happens all the time. except to me. kid's a killer.
+PETER: what are they talking about?
+
+WILL EMERSON: it ain't pretty. 
+SETH: what ain't pretty?
+WILL EMERSON: if people suddenly stop buying the we're selling.... they all look out the window. long pause. will emerson you guys smoke? well, you should.
+
+SAM ROGERS: jared you can't do what you are thinking about doing. 
+JARED COHEN: what if we don't have a choice?
+SAM ROGERS: what does that mean? you... you don't have a choice.
+JARED COHEN: me? have you looked at these numbers sam??
+SAM ROGERS: yes, but what the do i know.
+JARED COHEN: well, mr. shah tell me if i'm wrong but to me these numbers don't add up.
+RAMESH: if i may i'd like to take some time before we...
+SARAH ROBERTSON: jared we can't answer that yet.
+JARED COHEN: are you kidding me... this is exactly what we've...
+
+SARAH ROBERTSON: we need a little time before we can give you our conclusion. 
+JARED COHEN: ok. we meet in 45 minutes.
+RAMESH: sam, do you have this file?
+SAM ROGERS: yes, here it is.
+JARED COHEN: and sam we need eric dale, it's making me very uneasy knowing he is out there right now wanting to put a knife in our backs while he's not even aware he's holding the knife in his hand.
+
+SAM ROGERS: what are you going to do? 
+JARED COHEN: not sure.
+SAM ROGERS: are you going to call him?
+JARED COHEN: i already did.
+
+PETER: wow. 
+WILL EMERSON: yeah.
+SETH: that's a long way down.
+WILL EMERSON: yeah, it is.
+
+SARAH ROBERTSON: is this really where you want to be taking this at this point? 
+JARED COHEN: i'm sorry?
+SARAH ROBERTSON: we don't even know if he's right.
+JARED COHEN: how long should this take you to confirm?
+SARAH ROBERTSON: not long.
+
+PETER: careful. 
+SETH: man.
+WILL EMERSON: did you know the fear most people feel when they stand on the edge like this is not actually a fear that they will fall but instead it's the subconscious fearing that they might jump? ....it's a fear of losing faith.
+SETH: well that's a little deep and depressing, thank you.
+WILL EMERSON: yeah well, i can get a little dark sometimes.
+SETH: will, come on. get down.
+WILL EMERSON: not today! so it looks like they are gonna have us dump this
+SETH: what?
+WILL EMERSON: yeah, you watch.
+SETH: how?
+PETER: a trillion bucks??
+WILL EMERSON: i'm just saying.
+PETER: how would they even do that?
+
+WILL EMERSON: you can't... it's impossible. but they'll figure out a way. i've been at this place for ten years and i've seen some things that you wouldn't believe... and when all is said and done... they don't lose money. they don't care if everyone else does, but they won't. long silence. 
+SETH: will?
+WILL EMERSON: yeah?
+SETH: did you really make two and half million bucks last year?
+WILL EMERSON: yeah... i did.
+PETER: what do you do with all that money?
+WILL EMERSON: i don't know really. it goes pretty quick. you learn to spend what's in your pocket.
+SETH: two and a half million goes quickly?
+WILL EMERSON: well the tax man takes half of it up front. so now you got what... million and a quarter. mortgage grabs another 300k, i gave 150 to my parents to live off, so now you got what??
+PETER: eight hundred.
+WILL EMERSON: i bought a car last year for 150. probably another 100 eating... 25 on clothes, put 400 away for a rainy day...
+SETH: smart.
+
+WILL EMERSON: and what's that? 
+PETER: 125 left.
+WILL EMERSON: i spent 76,520 dollars on booze, dancers, and whores.
+
+SAM ROGERS: jesus... 
+JARED COHEN: this is a very... very bad dream.
+SAM ROGERS: i don't know, seems like we actually may have just finally woken up.
+SARAH ROBERTSON: hello.
+JARED COHEN: come in.
+SAM ROGERS: how do we look? her look says it all. sam rogers i should go.
+SARAH ROBERTSON: no, you should stay.
+JARED COHEN: so?
+JARED COHEN: what do you mean?
+SARAH ROBERTSON: it's broken.
+JARED COHEN: there are eight trillion dollars of paper around the world relying on that equation??
+
+SARAH ROBERTSON: we were wrong. 
+JARED COHEN: you mean you were wrong.
+SARAH ROBERTSON: don't even start.... this was discussed.
+SAM ROGERS: i'm heading to the conference room.
+SARAH ROBERTSON: no.
+JARED COHEN: i'd like you to hear this.
+SAM ROGERS: no... i don't want to hear this. sam stares at them both. sam rogers how do you think i've stuck around this place so long.
+JARED COHEN: i've called tuld.
+SARAH ROBERTSON: is there a contingency plan here?
+JARED COHEN: a contingency plan?
+SARAH ROBERTSON: yes.
+JARED COHEN: we went all in on this one.
+SARAH ROBERTSON: so we've got ourselves quite exposed here... haven't we?
+JARED COHEN: to tuld or the market?
+SARAH ROBERTSON: both.
+
+WILL EMERSON: we were just grabbing a cigarette on the roof and a very spiffy looking helicopter dive-bombed us and then landed. 
+JARED COHEN: i know. come with us. where's sam.
+WILL EMERSON: i don't know. do you want all of us>
+JARED COHEN: yes.
+
+ASSISTANT: mr. cohen? 
+JARED COHEN: yes.
+ASSISTANT: this way. they are already in there waiting for you.
+
+JARED COHEN: well, mr. tuld as i mentioned earlier if you look here at the top page of this printout... he cuts him off. 
+JOHN TULD: jared, it's a little early for all that, how bout in english? ... actually i'd like to hear from the guy who put this thing together... mr. sullivan is it? does he speak english?
+JARED COHEN: sir?
+JOHN TULD: i'd like to speak to the analyst who seems to have stumbled across this mess.
+JARED COHEN: well, that's peter sullivan here.
+PETER: sir.
+JOHN TULD: ah, there he is.
+PETER: yes sir.
+JOHN TULD: how old are you mr. sullivan?
+PETER: i'm twenty-seven sir.
+JOHN TULD: please call me john.
+PETER: yes sir.
+
+JOHN TULD: so mr. sullivan why don't you tell me what you think is going on here, and please speak as you might to a young child or a golden retriever, i didn't get here on my brains i can assure you of that. 
+PETER: well, sir. as i guess you may or may not know i work for mr. rogers here as an associate in the risk assessment and management office at mbs
+JOHN TULD: now you lost me at m...
+PETER: sorry...
+JOHN TULD: i was joking mr. sullivan.
+PETER: yes... well as you probably know over the last 36-40 months the firm has begun packaging new mbs products that combine several different traunches of rating classification in one tradable security. this has been very profitable as i imagine you noticed.
+JOHN TULD: i have.
+PETER: well the firm is currently doing a considerable amount of this business every day. the problem, which is i guess why we are here tonight, is that it takes us... the firm... almost a month to layer these products correctly thereby posing a challenge from a risk management standpoint.
+JOHN TULD: and mr. sullivan that challenge is?
+PETER: we have to hold these assets on our books longer than we might ideally like to.
+
+JOHN TULD: yes. 
+PETER: but the key factor is these are essentially just mortgages, so that has allowed us to push the leverage considerably beyond what you might be willing, or allowed to do in any other circumstance, thereby pushing the risk profile without raising any red flags.
+JOHN TULD: and how far have we pushed that profile tonight mr. sullivan?
+PETER: we have pushed it to 1.215 trillion dollars... at mbs alone.
+JOHN TULD: give or take.
+PETER: give or take.
+JOHN TULD: now mr. sullivan what i am guessing, and give me a little rope here, what i am guessing that your report here says is that considering the, shall we say bumpy road, we've been on the last week or so that the numbers that your brilliant co- workers up the line ahead of you had come up with in the past don't seem to make much sense anymore considering what's taking place today?
+PETER: actually not taking place today but what's already taken place over the last two weeks.
+JOHN TULD: so what you're saying is it's already happened?
+PETER: sort of.
+JOHN TULD: and mr. sullivan what does your model say that means for us here?
+
+PETER: well, that's where it becomes a projection. but... 
+JOHN TULD: you're speaking with me mr. sullivan.
+PETER: well... sir... if those assets were to decrease by just 25 percent, and remain on our books... well... that loss would be greater than the current market capitalization of this company.
+JOHN TULD: so what you're telling me mr. sullivan is that the music appears to be about to stop and we are going to be holding the biggest bag of stinking ever assembled in the history of capitalism? everyone looks back at peter. john tuld mr. sullivan?
+PETER: well sir, i'm not sure i'd put it that way but let me clarify using your analogy, what this model shows is the music, so to speak, just slowing, if the music were to stop, as you put it, then this model would not be even close to that scenario. it would be considerably worse.
+JOHN TULD: well let me tell you something mr. sullivan. do you want to know why i'm sitting here in this chair with you all, why i get the big bucks, so to speak?
+PETER: yes.
+JOHN TULD: i'm here for one reason and one reason only.
+
+JARED COHEN: sell it all today... 
+JOHN TULD: is that even possible sam?
+
+SAM ROGERS: it is, but at what cost? 
+JOHN TULD: i'll pay.
+SAM ROGERS: really?
+JOHN TULD: i think so.
+SAM ROGERS: almost a trillion bucks of paper?
+JOHN TULD: where does it come back to us?
+SAM ROGERS: everywhere.
+JOHN TULD: sam, i don't think you seem to understand what your boy down here just said... if i made you... how would you do it?
+SAM ROGERS: you bring the traders in for their normal 6:30 meeting and you be honest with them, they're gonna know it's the end either way, so you'd have to throw them a bone, and a pretty big one. you'd have to come out of the gate storming... 40 percent done by 10:15 and 70 percent of your positions need to be gone by eleven, cause by lunch the word will be out. no swaps, no nothing, and by two o'clock you'll be getting 65 cents on the dollar, if you're lucky, and the feds will be in here looking up your and trying to slow us down.
+JOHN TULD: ramesh?
+
+RAMESH: they'll slow you down but it's yours to sell. they can't stop you. 
+SAM ROGERS: john... let's just say we pull that off, which is saying something... the real question is... who are we selling this to?
+JOHN TULD: the same people you've been selling this to for the last two years... and whoever else will buy it.
+SAM ROGERS: if you do this you've killed that market for years. it's over.
+SAM ROGERS: and you are selling something you know has no value.
+JOHN TULD: we are selling to willing buyers at the current fair market price, so that we may survive, sam.
+SAM ROGERS: you'll never sell a thing to any one of them again.
+JOHN TULD: i understand.
+SAM ROGERS: do you?
+JOHN TULD: do you!!! this is it, sam, this is it!
+
+PETER: eric dale. 
+JOHN TULD: where is eric dale?
+SARAH ROBERTSON: as of today he is no longer with the firm.
+JARED COHEN: we have been trying to locate him.
+JOHN TULD: so he is just out there with this information?
+JOHN TULD: carmelo?
+LOUIS CARMELO: yes.
+JOHN TULD: get me eric dale here by 6:30.
+LOUIS CARMELO: done.
+JOHN TULD: ok, meet back here in an hour. everyone stands up and begins to scatter. john tuld sam... let's talk.
+
+JOHN TULD: of a town isn't it? 
+SAM ROGERS: never really did it for me actually.
+JOHN TULD: really?
+SAM ROGERS: always been kinda a grass and tree guy.
+JOHN TULD: i've always loved this place. ever since i arrived. everything about it.
+SAM ROGERS: i can't say i feel that about anyplace actually.
+JOHN TULD: are you going to be able to come on board here sam? they look at each other.
+SAM ROGERS: i'm not sure john. this is really ugly.
+JOHN TULD: you and i are salesmen sam, we sell.
+SAM ROGERS: exactly. and you well know that you don't make a sale unless you think the guy is gonna come back for more, and tomorrow we are done.
+JOHN TULD: this is it sam.
+SAM ROGERS: you keep saying that, what is that supposed to mean?
+JOHN TULD: it's the big one. most of us aren't gonna make it out of this one.
+
+SAM ROGERS: us? 
+JOHN TULD: the street.
+SAM ROGERS: what are you talking about?
+JOHN TULD: this won't be the last `situation' i will be having this week. it's just the start.
+SAM ROGERS: it's only the start because we are starting it.
+JOHN TULD: maybe. but i don't think that's true, not this time. the numbers just don't add up anymore.
+SAM ROGERS: well i agree with you there, i've been saying that for years.
+JOHN TULD: i mean if this kid can come up with this...?
+SAM ROGERS: i don't think i can go in knowing what i know and put the hammer down on these guys like this.
+JOHN TULD: oh please, when did you become so soft.
+SAM ROGERS: you soft, you're panicking.
+JOHN TULD: if you're the first one out the door sam, it's not called panicking john tuld stares aggressively at sam.
+SAM ROGERS: look, i obviously don't have all the information that you do. but i think this could destroy this firm.
+
+WILL EMERSON: how'd that go? 
+SAM ROGERS: this is a show.
+WILL EMERSON: they are going to do it?
+SAM ROGERS: probably.
+WILL EMERSON: 
+SAM ROGERS: remember this day boys, remember this day.
+ASSISTANT: gentlemen, there is some breakfast down the hall if you guys are hungry.
+WILL EMERSON: seth, someone is going to have to get breakfast. and let's face it, it's you.
+
+SARAH ROBERTSON: so what's the strategy here? 
+JARED COHEN: that's where i'm headed right now, downstairs to work on it with my guys.
+SARAH ROBERTSON: no, you and i... with tuld.
+JARED COHEN: i'm not sure we need one, sarah. that's not the way i've ever done this.
+SARAH ROBERTSON: please.
+JARED COHEN: he knows where we both have stood on this all along. there's nothing more to do. this pushes a button with her.
+SARAH ROBERTSON: that's exactly my point, and knowing what was discussed by both you and i with him, i don't see how that can possibly you with anything but a false sense of comfort.
+JARED COHEN: i'm not looking for a sense of comfort here, sarah. i don't think there is one to be found.
+SARAH ROBERTSON: so again, what's the strategy here?
+JARED COHEN: on this particular front, i'm just not sure there's much left to do.
+
+SARAH ROBERTSON: it's very simple. don't even think of me on this one, because if we are going down... you well know its going to be together. 
+JARED COHEN: no, i'm not sure i do know that.
+
+SETH: what do you think tuld made last year? 
+PETER: would you shut the up.
+WILL EMERSON: 86 mil. in salary and bonus.
+PETER: really?
+WILL EMERSON: yeah, it's public record.
+SETH: that's a lot of money.
+WILL EMERSON: he was worth a billion.
+PETER: was?
+WILL EMERSON: before today.
+SETH: really?
+WILL EMERSON: you'll see.
+
+PETER: ....i think i'm going to go get a coffee, does anyone need anything. 
+PETER: i need a little real air.
+SETH: probably a good idea.
+PETER: will, is that alright?
+WILL EMERSON: alright?
+PETER: if i get out of here for a minute?
+WILL EMERSON: yeah. are you kidding? it's not a prison. do you want me to hold your hand?
+SAM ROGERS: what?
+WILL EMERSON: that was eric's wife. he's alive, he's home. he doesn't want to talk to us. and he doesn't know she called me.
+SAM ROGERS: where's he live?
+WILL EMERSON: the heights.
+
+JOHN TULD: may i come in? 
+SARAH ROBERTSON: please, sit.
+JOHN TULD: so... we are going to do this thing.
+
+JOHN TULD: it's going to be tight. 
+SARAH ROBERTSON: is sam on board?
+JOHN TULD: not yet. tuld pauses. john tuld sarah, i need a head to feed to these traders... and the board... this morning.
+
+SARAH ROBERTSON: is it me or cohen? 
+JOHN TULD: it's you.
+SARAH ROBERTSON: of course you are well aware i filtered several warnings for you and cohen over a year ago on this?
+JOHN TULD: i'm not sure that's the best path for you to be taking at this point... you're going to be taken care of here...
+JOHN TULD: obviously it's quite complicated.
+SARAH ROBERTSON: john i was told that in no uncertain terms...
+JOHN TULD: it was all a very grey area.
+SARAH ROBERTSON: it was actually made very clear at the time, by you and i and cohen.
+JOHN TULD: i'd really prefer that you didn't fight me on this... tuld pauses, they look at each other. john tuld we all this one up pretty good...
+SARAH ROBERTSON: yes.
+JOHN TULD: we need you to stay here till this is all done and the markets close.
+SARAH ROBERTSON: i understand.
+
+SETH: ah it's jared. he's coming this way. 
+WILL: what does wonderboy want?
+JARED COHEN: do you have a minute?
+WILL: we're heading to get eric dale.
+JARED COHEN: i know. i just need a second.
+WILL: what is it?
+JARED COHEN: tuld and i have concerns that sam may not be willing to step up and do the right thing here.
+WILL: i don't think that's ever been a problem.
+JARED COHEN: of course it hasn't, but during acute situations, such as this, often what is right can take on multiple interpretations.
+
+WILL: sam will step up. 
+JARED COHEN: i know he will...but if he doesn't...
+WILL: that i will what?
+JARED COHEN: step up.
+WILL: i have no doubt sam will make the right choice. and if it makes you feel any better he and i have always had the same interpretation of what's right...no matter how acute the situation.
+
+JOHN TULD: there he is. 
+SAM ROGERS: john.
+JOHN TULD: cohen has done a nice job. it can work.
+SAM ROGERS: what does that mean?
+JOHN TULD: it means, as you very well know, that you are a very important piece of this puzzle. they look directly at each other. john tuld here.
+SAM ROGERS: that's very generous.
+
+JOHN TULD: it's not a gift. i need to know you are with me on this. 
+SAM ROGERS: i'm with the firm john.
+JOHN TULD: i won't get what i need out of your boys today unless they believe you... unless they believe in you completely. he stares at sam. john tuld are you in?
+SAM ROGERS: i told you i have my reservations.
+JOHN TULD: well you can't have any reservations. they both stare at each other. john tuld and i need to know now.
+SAM ROGERS: i'm with the firm completely john, as i always have been. excuse me.
+
+COFFEE GUY: one fifty. 
+PETER: thank you.
+LUCY: hey...
+PETER: hi. it's really good to see you.
+LUCY: you too. you look tired.
+PETER: i am.
+LUCY: what are you doing here?
+PETER: i never left work. just had to get out for a walk.
+LUCY: you're still working there?
+PETER: yes, of course...
+LUCY: oh. i thought...
+PETER: how are you? are you happy? you look happy.
+LUCY: i am.
+
+PETER: well, i should get back... how's your father? 
+LUCY: he's good. thanks for asking.
+PETER: ok. be safe.
+LUCY: hey... you got any inside tips for him?
+PETER: sell.
+
+WILL EMERSON: he just bought it. 
+SETH: i hope it was with cash.
+WILL EMERSON: you are such a prick, and it wasn't.
+SETH: i think i should stay here.
+WILL EMERSON: get out of the car.
+SETH: i just don't think it would be appropriate.
+WILL EMERSON: appropriate? get the out of the car.
+SETH: really?
+WILL EMERSON: you're probably right... and don't touch any of the buttons.
+
+ERIC: what are you doing here? 
+WILL EMERSON: peter finished that model you were working on.
+ERIC: really?
+WILL EMERSON: it's created a bit of a storm.
+ERIC: yeah, i bet.
+WILL EMERSON: do you want to see it... the model?
+
+ERIC: no. 
+WILL EMERSON: really?
+ERIC: no. but i'm pretty sure what it says.
+WILL EMERSON: do you think he's right?
+ERIC: i'm sure he's right.
+WILL EMERSON: jared cohen called an emergency meeting of the partners tonight. john tuld has decided to liquidate our entire position. eric looks over at will will emerson today.
+ERIC: well, i am very sorry to hear that.
+WILL EMERSON: they want me to get you back there, they are worried about you being out here.
+ERIC: please.
+WILL EMERSON: i'm just saying.
+ERIC: not a chance.
+WILL EMERSON: this is serious eric.
+
+ERIC: you don't think i know that. i've been warning that robertson about this since last march. 
+WILL EMERSON: well...
+ERIC: her... her.
+WILL EMERSON: look...
+ERIC: i signed my papers man, i'm out. they've got nothing on me anymore.
+WILL EMERSON: they'll pay...
+ERIC: i've already been paid enough by them. eric looks back out onto the empty street. eric did you know i built a bridge once?
+WILL EMERSON: i'm sorry?
+ERIC: a bridge.
+WILL EMERSON: no, i didn't.
+ERIC: i was an engineer by trade.
+WILL EMERSON: well...
+ERIC: it goes from dilles bottom, ohio to moundsville west virginia. it spans 912 feet over the ohio river. steel through arch design. 12,100 people a day use the thing.
+
+WILL EMERSON:  
+ERIC: one thousand, five hundred, thirty-one years...
+WILL EMERSON: 
+ERIC: that's what i did. look... you better get back over there.
+WILL EMERSON: yeah.
+ERIC: crazy
+WILL EMERSON: true. dumping the whole motherload in one day. up. well...
+ERIC: thanks for stopping by.
+
+WILL EMERSON: no problem. 
+ERIC: who the is this?
+WILL EMERSON: i'd guess it's the firm's people.
+ERIC: what?
+WILL EMERSON: tuld doesn't want any loose ends.
+ERIC: they fired me will. em... em.
+WILL EMERSON: just come back with them, take the bonus, and you're home tonight by five. either that or they are going to fight you on everything, the package, the options... eric drops his head.
+ERIC: well that's always been true.
+WILL EMERSON: yes it has.
+ERIC: see ya.
+WILL EMERSON: the house looks great by the way.
+ERIC: thanks.
+
+WILL EMERSON: and eric...don't beat yourself up too bad over this 
+ERIC: yeah.
+WILL EMERSON: who the knows. eric nods. will emerson some people like driving the long way home.
+
+SETH: so, am i getting fired? 
+WILL EMERSON: i don't know.
+SETH: are you?
+WILL EMERSON: no.
+SETH: oh.
+WILL EMERSON: it's not personal, you're just in the wrong place at the wrong time, the young guys are always the first to go. nothing i say is gonna make you feel any better.
+
+SETH: i get it. 
+WILL EMERSON: the first time i made 36 million dollars for the firm in the last eleven minutes of the trading day.
+SETH: me.
+WILL EMERSON: it was a perfect trade...i saw it coming from three days away. i took my time. i was in, i was out...pish posh...and it was beautiful.
+SETH: how did you learn to do that?
+WILL EMERSON: i'm not sure, and whatever it is it could be gone tomorrow. will looks out again at the city then to seth. will emerson look man i'm sorry about this.
+SETH: don't be, you're not doing it to me.
+WILL EMERSON: i know...but i'm still sorry. at least you'll have some decent cash to walk away with.
+SETH: only if we can get this done, right?
+WILL EMERSON: we'll get it done.
+SETH: how?
+
+WILL EMERSON: i'm trying to figure that out right now. 
+SETH: there aren't really enough willing buyers out there right now.
+WILL EMERSON: i'm trying to think of every last one of them i can and then i'll make them willing.
+SETH: are you ok with that?
+WILL EMERSON: i'm about to completely guys i've been doing business with for fifteen years so no i'm not exactly ok with it. but look, every last one of them would do the same thing to me in a second...so it is what it is.
+SETH: i guess. and what about everyone else?
+WILL EMERSON: everyone else?
+SETH: normal people.
+WILL EMERSON: what are you a socialist? me seth.
+
+SETH: are we gonna be wrong on this one? 
+WILL: no...they're all gonna get
+
+PETER: hello. 
+SAM ROGERS: peter. you want one?
+
+PETER: i don't smoke. 
+SAM ROGERS: that's good. i don't much either.
+PETER: it's kinda beautiful out right now.
+SAM ROGERS: yeah, i guess it is... i've never really liked this town much.
+PETER: how long have you been here?
+SAM ROGERS: forty years.
+PETER: i think it's beautiful. the whole place. forty years, that's something... are you tired?
+SAM ROGERS: of what?... remember i don't work as hard as you do.
+PETER: that's not true.
+SAM ROGERS: no it is, actually.
+PETER: are we all getting fired after today?
+SAM ROGERS: probably.
+PETER: they're going to fire you?
+
+SAM ROGERS: that's not what they'll call it,... it'll be a mercy killing really. sam looks at peter. sam rogers you don't have to stand out here for me. 
+PETER: i don't really want to go back in there just yet.
+SAM ROGERS: i understand that.
+PETER: i think i know your son.
+SAM ROGERS: really?
+PETER: yeah. not well... but, he always seemed like a nice person.
+SAM ROGERS: he is a nice person. a taxi honks and flies by. sam rogers i guess you could say alot worse about a guy.
+PETER: have you told him what's about to happen?
+SAM ROGERS: what do you mean?
+PETER: this whole thing.
+SAM ROGERS: no... i hadn't even thought of it.
+PETER: i guess it's illegal anyway?
+
+SAM ROGERS: yeah... who the knows anymore.... and even if it was you'd sure as never get caught. 
+PETER: he's already pretty rich anyway though right? he doesn't need the help.
+SAM ROGERS: that's very true.
+PETER: he works with a friend of mine.
+SAM ROGERS: he's a of alot richer than me, i know that much.
+PETER: but you are taller.
+SAM ROGERS: that's true. it's not much... but it's something... what did your father do?
+PETER: he's a doctor.
+SAM ROGERS: really?
+PETER: eyes.
+SAM ROGERS: now that's something.
+PETER: yeah... it is.
+SAM ROGERS: did he want you to do that?
+PETER: no, never.
+SAM ROGERS: oh.
+
+PETER: he was always a pretty miserable guy actually... 
+SAM ROGERS: yes they are.
+PETER: have you ever done anything like this before?
+SAM ROGERS: no... never.... not even close.
+PETER: oh...
+SAM ROGERS: yeah.
+PETER: do you really think this is the only...
+SAM ROGERS: for who?
+PETER: i'm not sure.
+SAM ROGERS: i'm not either.
+PETER: so this is gonna make a pretty big mess of it, then?
+SAM ROGERS: i don't even want to think about it.
+
+PETER: yeah. 
+SAM ROGERS: just doesn't quite seem...
+PETER: i know.
+PETER: well. i guess we should get back.
+SAM ROGERS: yeah.
+
+SAM ROGERS: well good luck, you know, in the future... seems like you'll probably be just fine. 
+PETER: thank you.
+
+JARED COHEN: you alright? 
+SETH: you just fired me.
+JARED COHEN: i'm sorry...
+SETH: this is all i've ever wanted to do.
+JARED COHEN: really?
+SETH: yes...
+JARED COHEN: i am sorry.
+
+ERIC: you as well? 
+SARAH ROBERTSON: yes.
+ERIC: 
+SARAH ROBERTSON: yeah.
+ERIC: i'm sorry.
+SARAH ROBERTSON: thank you... sam and the rest of your floor are gone after today as well.
+ERIC: really... and cohen?
+SARAH ROBERTSON: no... still here.
+ERIC: of course...
+SARAH ROBERTSON: no.
+ERIC: he was very tall.
+
+SARAH ROBERTSON: i did pass on your concerns last year... just so you know. 
+ERIC: it doesn't matter.
+SARAH ROBERTSON: it does.
+ERIC: have they taken all the phones out of this room? sarah nods yes. eric paranoid fucks.
+SARAH ROBERTSON: yeah... i didn't think they were going to be able to get you back here. eric stands up and goes over to the window.
+ERIC: they told me they were going to drag me through on everything from my options to healthcare over the next two years or i come back and make... $176,471.00 an hour to sit in this room quietly... it wasn't much of choice.
+SARAH ROBERTSON: it never is. eric goes back and sits in the chair. sarah robertson obviously looking back, the point was expressed with insufficient urgency...
+
+SARAH ROBERTSON: eric. 
+ERIC: i understand, there was nothing you could do. now sarah questions herself.
+SARAH ROBERTSON: i guess... at the time... it didn't seem like there was much of a choice.
+ERIC: it never does.
+SARAH ROBERTSON: you have kids, yeah?
+ERIC: what is your package going to look like?
+SARAH ROBERTSON: i don't know, that's what i'm waiting for now.
+ERIC: should be pretty good, no?
+SARAH ROBERTSON: it better be.
+
+WILL EMERSON: alright, hey.... 
+SAM ROGERS: thank you all for coming in a little
+
+JARED COHEN: well done. 
+SAM ROGERS: they did alright.
+JARED COHEN: i wanted to give you a heads up. they are going to start sending some people home out here.
+SAM ROGERS: now?
+JARED COHEN: sorry. no loose ends.
+SAM ROGERS: of course.
+JARED COHEN: for what it's worth, you're good... guess somebody upstairs must really like you.
+
+JOHN TULD: sam, please sit. congratulations are clearly in order. 
+SAM ROGERS: our guys did what they could.
+
+JOHN TULD: you did a of a job today, and i thank you for it. sit, excuse me for eating but it's been a long day. can i get you anything? 
+SAM ROGERS: no, no thanks.
+TULD: so what can i do for you?
+SAM ROGERS: i want out.
+TULD: i'm sorry?
+SAM ROGERS: i'm done, i want out.
+TULD: it's been a very difficult day, for everyone.
+SAM ROGERS: i need you to release my options, that is if they're still worth anything after today, and i need the bonus. i'm out.
+TULD: you'll get the bonus, the options, and
+
+SAM ROGERS: that's true, and if i had been at least there'd be some holes in the ground to show for it. i'm just not quite sure how we this thing up so badly. 
+TULD: when did you start feeling so sorry for yourself, it's unbearable... what, you think we may have helped put some people out of business today? that it's all just for naught? well you've been doing that everyday for almost forty years sam. and if all this is for naught then so is everything else out there. it's just money, it's made up, a piece of paper with some pictures on it so we don't all kill each other trying to get something to eat. but it's not wrong and it's certainly not any different today than it's ever been. ever. 1637, 1797,
+SAM ROGERS: i'll do it john, but not because of your little speech, but because i need the money. i'm not sure how it could possibly be after all these years, but i need the money.
+
+MARY ROGERS: hello! ... i've called the police. 
+SAM ROGERS: mary.
+MARY ROGERS: sam?
+SAM ROGERS: yup.
+MARY ROGERS: what are you doing?
+
+SAM ROGERS: ella died. 
+MARY ROGERS: oh
+SAM ROGERS: tumor on her liver. it was horrible.
+MARY ROGERS: well i'm very sorry.
+SAM ROGERS: yeah... i really loved that dog
+MARY ROGERS: i know, but sam you don't live here anymore.
+SAM ROGERS: i was driving home from the vet and this is the only place i could think to bury her. this is where she belongs... she looks at him deeply.
+MARY ROGERS: well. you should have called.
+SAM ROGERS: i know.
+MARY ROGERS: are you alright? you look terrible.
+SAM ROGERS: yeah. tough day all around.
+MARY ROGERS: i heard, sammy called.
+SAM ROGERS: is he alright?
+
+MARY ROGERS: he said they got hammered, but got out alive. 
+SAM ROGERS: good, i was going to call him this morning... but...
+MARY ROGERS: well, i am going to go back in to bed. the alarm is on so don't try to break in. well, you take care of yourself.
+SAM ROGERS: is it alright if i finish up here?
+MARY ROGERS: yes.
 

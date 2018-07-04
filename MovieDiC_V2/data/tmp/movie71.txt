@@ -1,1069 +1,1069 @@
-speaker1: ... evening, chance. 
-speaker2: ... good evening, louise.
-speaker1: ... the old man is getting weaker, chance.
-speaker2: i see.
-speaker1: i'm afraid he's slippin' a bit with every hour that goes by...
-speaker1: ... back up those stairs - that man's needin' me more and more just before he never needs me again...
-speaker2: is his back feeling better?
-speaker1: ... gobbledegook... you and your gobbledegook. you're gonna be the death of me yet, chance... ... unless those stairs are... the good lord's liable to up two unwillin' souls at the same time if i keep on trampin' up those stairs... i don't want none of that...
-
-speaker1: good morning, louise. 
-speaker2: he's dead, chance! the old man's dead!
-speaker1: ... i see.
-speaker2: must of happened durin' the night, i don't know... lord, he wasn't breathin' and as cold as a fish. i touched him, just to see, and you believe me, chance - that's doin' more than i get paid to do... then i just covered him up, pulled the sheet over his head...
-speaker1: yes. i've seen that done.
-speaker2: then i got the out of that room and called the doctor and i think i woke him probably, he wasn't any too alert. he just said, 'yeah, he's been expectin' it and said he'd send somebody over...' lord, what a mornin'!
-speaker1: ... yes, louise, it's snowing in the garden today. have you looked outside and seen the snow? it's very white.
-speaker2: dammit, boy! is that all you got to say? more gobbledegook? that old man's layin' up there dead as and it just don't make any difference to you!
-speaker1: yes, louise. i have seen it often.
-speaker2: well, ain't that the truth...
-speaker1: yes. it is.
-speaker2: oh, lord, chance - i don't know what i was expectin' from you... i'm sorry for yellin' like i did... no sir, i just don't know what i was expectin' ... ... i 'spose i'd better gather up some breakfast for you...
-speaker1: yes, i'm very hungry.
-speaker2: well, no more stewin' those prunes every mornin', that's somethin', i guess... ... what are you goin' to do now, chance?
-speaker1: i'm going to work in the garden.
-speaker2: ... i'll get you some eggs.
-
-speaker1: ... well, ain't you the gentleman this mornin'... ... gotta go now, chance... 
-speaker2: yes.
-speaker1: you're gonna need somebody, someone's gotta be around for you, boy... ... you oughta find yourself a lady, chance... but i guess it oughta be an old lady, 'cause you ain't gonna do a young one any good, not with that little thing of yours... ... you're always gonna be a little boy, ain't you? ... goodbye, chance...
-speaker2: goodbye, louise.
-
-speaker1: ... he used to be a big man... 'spose he wasted away to about nothin'... ... i guess i'll be goin' off to find me some folks, old man... i'm not batty enough to stay around this neighborhood any longer... 
-speaker1: wait up! i'm goin' out that door first.
-
-speaker1: ... this is another world, tom - i never would have believed it... 
-speaker2: yeah... he and my father used to ride together back in the thirties... fox hunting... before i was born...
-speaker1: ... would you take me on a tour?
-speaker2: gladly... ... the safe is in mr. jennings' bedroom, that'll be stop number one.
-
-speaker1: ... why... hello, we thought we heard something... i'm thomas franklin. 
-speaker2: hello, thomas... i'm chance, the gardener.
-speaker1: ... the gardener? ... yes, of course... mr. chance, this is ms. hayes.
-speaker3: mr. chance, i'm very pleased to meet you.
-speaker2: yes.
-speaker1: ... we're with franklin, jennings and roberts, the law firm handling the estate.
-speaker2: yes, thomas - i understand.
-speaker1: ... are you waiting for someone? an appointment?
-speaker2: yes. i'm waiting for my lunch.
-speaker1: your lunch? you have a luncheon appointment here?
-speaker2: yes. louise will bring me lunch.
-speaker1: louise?... the maid?... but she should have left earlier today...
-speaker2: i see...
-speaker1: ... you've quite a sense of humor, mr. chance - but all kidding aside, may i ask just what you are doing here?
-speaker2: i live here.
-speaker1: you live here? ... we don't have any record of that.
-speaker2: yes. it's very cold outside today, isn't it, thomas?
-speaker1: ... how long have you been living here?
-speaker2: ever since i can remember, since i was a child.
-speaker1: since you were a child?
-speaker2: yes, thomas. i have always been here. i have always worked in the garden.
-speaker3: ... then you really are a gardener?
-speaker2: yes.
-speaker3: your appearance doesn't suggest that at all, mr. chance.
-speaker2: oh. thank you.
-speaker1: do you have any proof of your employment, mr. chance - any checks from the deceased, any contracts or documents?
-speaker2: no.
-speaker1: how were you compensated for these duties you say you performed?
-speaker2: compensated...?
-speaker1: how were you paid?
-speaker2: i was given meals, and a home...
-speaker3: what about money?
-speaker2: i never needed money.
-speaker1: mr. chance, perhaps you could show us some identification with your address -- a driver's license, a credit card, checkbook?
-speaker2: no, i do not have any of those.
-speaker1: then how about medical records? could you give us the name of your doctor, or your dentist?
-speaker2: i have no need for a doctor or dentist. i have never been ill. i have never been allowed outside of this house, and, except for joe, i have never had any visitors.
-speaker1: ... joe? who's joe?
-speaker2: joe saracini. he was a mason that did some repairs on the brickwork at the rear of the house. that was in 1952.
-
-speaker1: yes. i remember when he came. he was very fat and had short hair and showed me some pictures from a funny little book. 
-speaker2: some pictures...?
-speaker1: yes. of men and women.
-speaker2: ... oh.
-speaker3: mr. chance, that was twenty-seven years ago.
-speaker1: yes and the old man used to come to my garden. he would read and rest there.
-speaker3: come now, mr. jennings had been bedridden for thirty-five years, since he fractured his spine.
-speaker1: yes, thomas, that is correct. then he stopped visiting my garden.
-speaker3: ... we shall need some proof of your having resided here, mr.
-speaker1: you have me, i am here. what more proof do you need?
-
-speaker1: have you served in the army? 
-speaker2: no, thomas. but i have seen the army on television.
-speaker3: how about taxes, mr. chance, surely you must have paid taxes?
-speaker2: no.
-
-speaker1: those trees were very young when i first arrived. 
-speaker2: are you related to the deceased, mr. chance?
-speaker1: no, i don't think so. and i have planted and shaped all the hedges, and in the springtime you will be able to see my flowers.
-speaker3: might you have a birth certificate, mr. chance?
-speaker1: no. that's where joe fixed the bricks.
-
-speaker1: ... do you drive this, mr. chance? 
-speaker2: no, thomas. i have never been in an automobile.
-speaker3: you never been in a car?
-speaker2: ... well... from time to time i did sit in it... just in here... it hasn't been outside since the old man hurt himself. i live in here.
-
-speaker1: the old man gave me nice television sets, this one has remote control. he has one just like it. 
-speaker2: mr. chance, the fact remains that we have no information of your having any connection with the deceased.
-speaker1: yes, i understand.
-speaker1: i am allowed to go to the attic and select any of the old man's suits. they all fit me very well. i can also take his shirts, shoes and coats.
-speaker3: it is quite amazing how those clothes have come back into style.
-speaker1: yes. i have seen styles on television.
-speaker2: what are your plans now, mr.
-speaker1: i would like to stay and work in my garden.
-speaker2: ... what do you make of all this?
-speaker3: i really don't know, tom - he seems so honest and simple... in a way, he's quite charming...
-speaker2: ... yeah...
-speaker3: ... it's very bizarre - i don't know what to think...
-speaker2: well... he's either very, very bright or very, very dense - he's hard to figure... ... let's just keep everything legal.
-speaker2: mr. chance, assuming what you say is the truth, i would like to know what sort of claim you are planning to make against the deceased's estate.
-speaker1: i'm fine, thomas. the garden is a healthy one. there is no need for a claim.
-speaker2: good. that's good. then if you would please sign a paper to that effect.
-speaker1: no, thomas. i don't know how to sign.
-speaker2: come now, mr. chance.
-speaker1: i have no claim, thomas.
-speaker2: but you won't sign, correct?
-speaker1: correct.
-speaker2: very well, mr. chance - if you insist on dragging this matter on... but i must inform you this house will be closed tomorrow at noon. if indeed, you do reside here, you will have to move out.
-speaker1: move out? i don't understand, thomas.
-speaker2: i think you do, mr. chance. however, i will reiterate, this house is closed and you must leave... call me if you change your mind about signing. c'mon, sally - let's grab a bite...
-speaker3: good day, mr. chance.
-speaker1: good day, sally.
-
-speaker1: ... excuse me, would you please tell me where i could find a garden to work in? they turn to him as one, silent, amazed that this white trespasser would intrude on their jiving. 
-speaker1: ... there is much to be done during the winter, i must start the seeds for the spring, i must work the soil...
-speaker2: what you growin', man?
-speaker3: ... what you doin' here, boy?
-speaker1: i had to leave my garden. i want to find another.
-speaker3: who sent you here, boy? did that chickenshit raphael send you here, boy?
-speaker1: no. thomas franklin told me that i had to leave the old man's house, he's dead now, you know...
-speaker3: dead, my ass! now get this, honkie - you go tell raphael that i ain't takin' no jive from no western union messenger! you tell that asshole, if he got somethin' to tell me to get his here himself! you got that, boy?
-speaker1: yes. i understand. if i see raphael i will tell him.
-speaker3: now, move, honkie! before i cut your white ass!
-speaker1: yes. of course. good day.
-
-speaker1: excuse me... ... that tree is very sick. it should be cared for. 
-speaker2: yes sir. i'll report it right away.
-speaker1: yes. that would be a good thing to do. good day.
-speaker2: good day.
-
-speaker1: i'm very sorry, sir... i... 
-speaker2: ... i can't move... my leg...
-speaker1: ... my lord...
-speaker3: this is terrible, sir - i hope you're not badly injured...
-speaker2: no. i'm not badly injured. but my leg is very sore.
-speaker3: can you walk? it's not broken, is it?
-speaker2: it's very sore.
-speaker1: perhaps i should call an ambulance.
-speaker4: somebody ought to call the police!
-speaker2: there's no need for police, it's just my leg.
-speaker3: i don't think we should call anyone just yet, it may not even be all that serious.
-speaker2: i agree.
-speaker3: let's have a look, do you mind?
-speaker2: of course. i would like to look.
-speaker3: it's starting to swell, is it painful?
-speaker2: yes.
-speaker5: ... won't you let us do something for you? your leg should be examined, we could take you to a hospital.
-speaker2: there's no need for a hospital.
-speaker5: why, there certainly is. you must see a doctor, i insist on it. please, let us take you.
-speaker1: i'm terribly sorry, mrs. rand, i never saw the man.
-speaker5: oh, i don't think it was anyone's fault, david.
-speaker1: thank you, ma'am.
-speaker3: please, sir.
-speaker2: i've never ridden in an automobile.
-speaker3: i assure you, sir, david is a very careful driver. please, won't you let us take you?
-speaker2: ... yes. you can take me.
-speaker3: very good.
-speaker2: ... my suitcase.
-speaker3: yes sir. i'll take care of that.
-
-speaker1: i hope you're comfortable. 
-speaker2: yes. i am.
-speaker1: these can be such trying situations everyone seems to make such a to-do over a simple little accident. of course, they can be very frightening, and i must apologize for david, he's never had an accident before.
-speaker2: yes. he's a very careful driver.
-speaker1: ... why, yes, he is... is your leg feeling any better?
-speaker2: it's feeling better, but it's still very sore.
-speaker1: i see. ... say, would you mind seeing our family doctor?
-speaker2: your family doctor?
-speaker1: yes. my husband has been very ill. his doctor and nurses are staying with us. those hospitals can be so impersonal - why, it might be hours before you are treated...
-speaker2: i agree.
-speaker1: fine, it will save a lot of unnecessary fuss and it will be so much more pleasant for you... david, we'll just go on home. jeffrey, would you call and let them know?
-speaker3: yes ma'am.
-speaker1: would you care for a drink?
-speaker2: yes. thank you.
-speaker2: i would like to watch television.
-speaker1: oh? certainly... she hands chance the cognac, turns on the tv.
-speaker1: oh, by the way - i'm eve rand.
-speaker2: hello, eve.
-speaker1: may i ask your name?
-speaker2: my name is chance.
-speaker1: pardon me, was that mr. chance?
-speaker2: no. i'm a gardener.
-speaker1: oh... mr. gardiner... mr. chauncey gardiner... you're not related to basil and perdita gardiner are you?
-speaker2: no, eve. i'm not related to basil and perdita.
-speaker1: oh. well, they're just a wonderful couple, we've been friends for years. we visit their island quite often.
-speaker1: did you lose something?
-speaker2: yes. i lost my remote control.
-speaker1: oh... well, i'm very sorry...
-speaker1: ... i'll feel so relieved after dr. allenby examines your leg. after that, david can run you on home, or to your office or wherever you'd prefer... ... is there anything special you would like to watch?
-speaker2: i like to watch. this is fine.
-
-speaker1: i can see that it must be very important for you to stay informed of all the latest events. 
-speaker2: yes.
-speaker1: i admire that in a person. as for myself, i find there is so much to assimilate that it can become quite muddling at times...
-
-speaker1: good evening, mrs. rand. 
-speaker2: good evening, wilson.
-speaker1: i shall take the gentleman to the third floor guest suite, ma'am. dr.
-speaker2: thank you, wilson. that will be fine.
-
-speaker1: thank you, greta. i'll be with mr. rand if i'm needed. 
-speaker2: yes, ma'am.
-speaker1: i'll see you after the doctor has a look at your leg, mr. gardiner.
-speaker3: yes, i think he should examine my leg.
-
-speaker1: ... i've never been in one of these. 
-speaker2: it's one of mr. rand's. since he's been ill...
-speaker1: does it have a television?
-speaker2: no - but mr. rand does have one with an electric motor, that way he can get around by himself.
-speaker1: i see.
-speaker1: how long do we stay in here?
-speaker2: how long? i don't know, see what the doctor says ...
-
-speaker1: good evening, mrs. rand. 
-speaker2: good evening, constance.
-speaker3: ... eve...
-speaker2: oh, ben - i miss you so when i'm out... how are you feeling?
-speaker3: tired... and i'm getting tired of being so tired. other than that, i'm doing very well.
-speaker2: no headaches?
-speaker3: no, it's been a good day - better than yours, from what i've been told.
-speaker2: you heard?
-speaker3: i may be a shut-in, but i do not lack for news. i'm sorry you had to go through all that.
-speaker2: oh, it wasn't all that bad, darling. we were fortunate that mr. gardiner turned out to be so reasonable.
-speaker3: reasonable? good, i'd like to meet a reasonable man. why don't you ask this gardiner to join us for dinner?
-speaker2: do you feel well enough for that?
-speaker3: constance! i want new blood tonight, i'm getting up for dinner.
-speaker1: but, mr. rand...
-speaker3: don't argue, tell robert i want new blood! ... ask him to dinner.
-
-speaker1: the injection will ease the pain and swelling, mr. gardiner. 
-speaker2: i understand. i've seen it done before.
-speaker1: now, you'll barely feel this. it won't hurt at all.
-speaker2: you were wrong, it did hurt.
-speaker1: but not for long...
-speaker1: it's good that there was no apparent damage to the bone.
-speaker2: yes. i think so, too.
-speaker1: however, with injuries such as this, i have run into minor hemorrhaging, which really isn't too serious at the time, but can cause secondary problems if not looked after.
-speaker2: i see.
-speaker1: you can pull your trousers up, now.
-speaker2: oh, fine.
-speaker1: just to take the proper precautions, mr. gardiner, i'd recommend we take you downstairs and x-ray your leg. ... by the way, mr. gardiner, i would like to ask you something straight out.
-speaker2: ... straight out?
-speaker1: yes. are you planning on making any sort of claim against the rand's?
-speaker2: claim...? ... oh, claim, that's what thomas asked me.
-speaker1: thomas? who's thomas?
-speaker2: thomas franklin, an attorney.
-speaker1: an attorney?
-speaker2: yes.
-speaker1: then you wish to handle this matter through your attorneys?
-speaker2: there's no need for a claim, the garden is a healthy one.
-speaker1: oh, i see... ... well, then... you're a very funny man, mr. gardiner. you caught me off guard, i must admit...
-speaker2: thank you.
-speaker1: good, keep your weight off that leg, mr. gardiner. in fact, it would be best if you could stay here for a day or two, if that would be would be possible. since benjamin became ill we have our own hospital downstairs. i can promise you the finest in care, unless, of course, you would prefer to go elsewhere.
-speaker2: yes, i could stay here. thank you.
-speaker1: fine. would you like me to speak to your personal physician?
-speaker2: no.
-speaker1: i'll send wilson up to take you for x-rays, mr. gardiner. feel free to use the telephone, and please let me know if you have any discomfort.
-speaker2: yes, i will.
-
-speaker1: good eve - you'll freeze out here. 
-speaker2: i wanted some fresh air, robert.
-speaker1: a rather large contusion, but i don't feel there is any serious damage. i'd like to keep an eye on him, though - i suggested that he stay here for a couple of days.
-speaker2: stay here? is that necessary?
-speaker1: not necessary, but preferable. i don't think he'll be a bother, he seems like a most refreshing sort of man.
-speaker2: yes, he is different... not the kind of person one usually meets in washington.
-speaker1: how true. mr. gardiner may be a welcome change of pace.
-speaker2: he's very intense, and internal, don't you think?
-speaker1: at times, yes. but that's not an uncommon reaction to such an accident. actually, i found him to have quite a sense of humor.
-speaker2: good. it might be pleasant for a couple of days. ... robert... is there any improvement...?
-speaker1: no, eve... i'm sorry.
-speaker2: ... sometimes when i see ben i could swear that he's getting stronger... something that he might say, the way he moves, or a look in his eyes - makes me feel that this is all a nightmare and that he'll be better soon... it's just so hard to believe what's really happening...
-
-speaker1: ... that is a very small room. 
-speaker2: yes sir, i guess that's true smallest room in the house.
-speaker1: yes. it seems to be.
-
-speaker1: welcome to rand memorial hospital, mr. gardiner. 
-speaker2: ... i see.
-speaker2: i feel very good in here.
-speaker1: sure you do. this ward is air tight, i have a little extra oxygen pumped in, keeps my spirits up.
-speaker2: yes. i like that very much.
-speaker3: this won't take long, mr. gardiner. please hold still when i ask.
-speaker2: do you know raphael?
-speaker3: no sir, i don't believe i do.
-speaker2: oh. i have a message for him.
-speaker3: yes, sir.
-speaker2: a black man gave me the message.
-speaker3: well, i still don't believe i know the man, mr. gardiner. now, hold still.
-speaker1: aplastic anemia, mr. gardiner - aplastic anemia.
-speaker1: failure of the bone marrow to produce red blood cells... not a thing they can do about it. oh, they can make me comfortable, prolong my life with steroid therapy and transfusions... and what makes my blood boil, what little i have left, that is, mr. gardiner - is that it's generally a young person's disease... here i am, getting on in years and about to die of a young person's disease...
-speaker2: yes. you look very sick.
-speaker3: hold still, please, mr. gardiner.
-speaker1: i am very sick, and, as you can see by all this paraphernalia, i am very wealthy. i think i would rather be wealthy and sick than poor and sick.
-speaker2: i understand. i've never seen anything like this on television.
-speaker3: please, hold still, mr. gardiner.
-speaker4: you too, mr. rand, you must stay quiet.
-speaker1: ... we're prisoners, mr. gardiner - we're prisoners of tubes and technology.
-speaker2: i agree.
-speaker1: ... you will join us for dinner, won't you, mr. gardiner?
-speaker2: yes. i am very hungry.
-speaker1: ... so am i, my boy - so am i.
-
-speaker1: i know exactly what you mean. today the businessman is at the mercy of kid-lawyers from the sec. all they want to do is regulate our natural growth! it's happening across the country! 
-speaker2: to everyone, i'm afraid. the government controls are so restricting that the medical profession, as we know it, is being legislated out of existence.
-speaker1: of course! by kid-lawyers!
-speaker3: won't your injury prevent you from attending to business, mr.
-speaker4: no. it won't do that.
-speaker3: ... would you like us to notify anyone for you?
-speaker4: no. the old man died and louise left.
-speaker3: oh. i'm very sorry. well, if you have any need for any of our facilities, please do not hesitate to ask.
-speaker1: do you need a secretary?
-speaker4: no, thank you. my house has been closed.
-speaker1: oh. when you say 'your house has been closed', you mean to say that your business was shut down?
-speaker4: yes. shut down and locked by the attorneys.
-speaker1: what'd i tell you? kid-lawyers! the s.e.c.! them!
-speaker3: i hope that staying here won't be an inconvenience for you.
-speaker4: no. i like it here.
-speaker1: that's good, mr. gardiner. or may i call you chauncey?
-speaker4: yes. chauncey is fine.
-speaker1: and i'm ben.
-speaker2: ... and please call me robert.
-speaker4: yes, robert. i will.
-speaker1: so tell me, chauncey, what are your plans now?
-speaker4: does this house have a garden?
-speaker1: do we have a garden? hah! tomorrow, chauncey, you will see our gardens.
-speaker4: i see. i would like to work in your garden.
-speaker3: oh, i know exactly what you mean. i sometimes enjoy puttering around myself, such a pleasant way to forget one's troubles.
-speaker4: i am a very good gardener.
-speaker1: a gardener! well put, chauncey excellent! isn't that what a businessman is? a gardener? a person that makes flinty soil productive with the labor of his own hands, who waters it with the sweat from his own brow, and who creates a place of value for his family and community? yes, chauncey, what a brilliant metaphor -- yes, indeed, a productive businessman is a laborer in his own vineyard.
-speaker4: thank you, ben. the garden that i left was such a place. everything which grew there was with the labor of my own hands. i planted seeds and watered them and watched everything grow.
-speaker1: bravo!
-speaker4: but i don't have that any more... ... all that's left for me now is the room upstairs.
-speaker1: now, wait a minute, chauncey you are young, you are healthy, for sake don't give up on yourself! you have to fight! you can't let those keep you down! i don't want to hear any more from you about the 'room upstairs'. that's where i'm going soon.
-speaker4: it's a very pleasant room, ben.
-speaker1: yes, i'm sure it is. that's what they say, anyway. another period of silence. the servants bustle around the room as allenby studies chance.
-
-speaker1: ... i don't know what you've heard about me, chauncey, but i'm sure you know everything there is to know. cigar? 
-speaker2: yes, thank you. no ben. i don't know everything about you.
-speaker1: ... no, of course you don't. excuse me for being so presumptuous. no man knows everything about another man - however, very few are honest enough to admit it.
-speaker3: that is so true. you're different, chauncey... quite different than most men.
-speaker2: thank you, robert.
-speaker1: ... you know, chauncey, there are thousands of american businessmen, large and small, that share your plight. i've been concerned with the situation for some time now.
-speaker1: so i've been thinking about beginning a financial assistance program, chauncey, to help out american businessmen that have been harassed by inflation, excessive taxation, unions and other indecencies...
-speaker1: ... i'd like to offer the decent 'gardeners' of the business community a helping hand. after all, they are our strongest defense against the pollutants who so threaten our basic freedoms and the well-being of our middle class. tell me, would you have any thoughts on such a program?
-speaker2: no, ben.
-speaker1: reluctant to speak, eh, chauncey? well, i can understand that. when a man loses everything, anger has a tendency to block out reason for a time. just give it some thought, work with the idea, i'm sure you'll have plenty to say in a few days.
-speaker2: i could give it some thought, ben, but my leg is very sore.
-speaker1: ... oh? robert, take a look, would you?
-speaker3: some pain is to be expected... ... and i think what would be best for the two of you is a good night's rest. ... it's late, i'm afraid it's time for my patients to prepare for bed.
-speaker1: we have common foes, chauncey - kid lawyers and our physician!
-speaker2: i agree.
-
-speaker1: ... sorry, sir - i just couldn't contain myself... i knew you were going to come out with another one of your jests about the elevator... excuse me, sir... 
-speaker2: ... hmmm... elevator.
-speaker1: ... yes sir - elevator!
-speaker3: chauncey, i wanted to tell you how dreadful i feel about the accident today, but that i'm delighted that you are staying with us.
-speaker2: thank you, eve - i like this house very much.
-speaker3: ... and ben is just mad about you - you've lifted his spirits so - it's just... well, it's just a real pleasure having you with us.
-speaker2: ben is very ill, eve - i've seen that before.
-speaker3: yes... i know, chauncey.
-speaker2: i like ben very much... he reminds me of the old man...
-speaker3: he does...?
-speaker2: yes. are you going to leave and close the house when he dies?
-speaker3: ... why... no, i don't think so...
-speaker2: that's good.
-speaker3: ... good night, chauncey.
-speaker2: good night, eve.
-
-speaker1: did you want a car, sir? 
-speaker2: yes. i would like a car.
-speaker1: yes, sir.
-speaker3: chauncey, there you are. what are you doing on that leg?
-speaker2: it's fine today, robert.
-speaker3: shame on you, chauncey - you should let me be the judge of that. please, sit in the chair.
-speaker3: i swear, chauncey, between you and benjamin, i've got my hands full... ... say, that is coming along, the swelling has gone down considerably... ... any pain here?
-speaker2: yes, robert. but it's not bad.
-speaker3: ... benjamin has been hounding me to allow him to address the annual meeting of his financial institute today, but obviously, the strain would be impossible... how about here, chauncey, any soreness?
-speaker2: hardly any, robert.
-speaker1: your limousine, sir.
-speaker2: oh, thank you.
-speaker3: ... were you going somewhere?
-speaker2: no, robert.
-speaker3: ... oh. ... my i only wish that benjamin had your recuperative powers... anyway, the president offered to sit in for ben at the meeting, quite a nice gesture, i felt. he's due here soon, i believe.
-speaker2: yes, robert. i know about the president.
-speaker3: ... oh? you've heard?
-speaker2: yes. ben called me. he wants me to meet the president.
-speaker3: he does, does he?
-speaker2: yes, ben told me to be in his room at ten o'clock.
-speaker3: why, that's terrific, chauncey.
-speaker2: how do i know when it's ten o'clock?
-speaker3: ... it's five of, you'd best get on in there.
-speaker2: thank you, robert.
-speaker2: i would like to walk today.
-speaker3: yes - walk. you're meeting the president, aren't you?
-speaker2: oh, really?
-
-speaker1: may i help you, mr. gardiner? 
-speaker2: yes. i would like to go to rand memorial hospital.
-speaker1: ... sir?
-speaker2: yes.
-speaker1: ... did you wish to see someone, sir?
-speaker2: yes, i would like to see ben.
-speaker1: oh, mr. rand, of course. right this way, sir.
-
-speaker1: chauncey, up and around this morning, are you? 
-speaker2: yes, ben. my leg is not very sore.
-speaker1: well, that's good news, my boy.
-speaker2: you're looking much better today, ben.
-speaker1: hah! it's all make-up, chauncey... i asked nurse teresa to fix me up, i didn't want the president to think i was going to die during our talk.
-speaker2: i understand.
-speaker1: no one likes a dying man, my boy - because few know what death is. all we know is the terror of it. but you're an exception, chauncey - that's what i admire in you, your marvelous balance. you don't stagger back and forth between fear and hope - you're a truly peaceful man.
-speaker2: thank you, ben. ... the nurse did a very good job, ben.
-
-speaker1: good morning, mr. wilson. 
-speaker2: good morning, mr. woltz, nice to see you again.
-speaker1: thank you. how have you been?
-speaker2: fine, thank you. we have an additional guest with us today, mr. chauncey gardiner.
-speaker1: i see... okay, let's go to work.
-
-speaker1: yes, when i was younger i had thoughts about public office... but i found, chauncey - that i was able to contribute more as a private citizen... of course, my wealth provided me with considerable influence, but i've tried, believe me, not to misuse that power... it's extremely important, chauncey, when one is in a position of eminence, that he does not allow himself to become blinded to the needs of the country... the temptations are strong, and i've been labeled a 'kingmaker' by many, but i have tried to stay open to voices of the people... i have tried to remain honest to myself... 
-speaker2: i see, ben.
-speaker1: ... maybe one day you shall find yourself in a similar position, chauncey... maybe one day...
-
-speaker1: yes... oh, very good, lewis, thank you. mrs. aubrey hangs up, picks up another phone, pushes a button. 
-speaker2: he's here. yes, mrs. aubrey? fine. show the president to the library, we'll be along in a few minutes.
-speaker2: it's an old habit that goes along with power -- keep them waiting...
-speaker2: not now, teresa. i'm seeing the president on my own two feet.
-speaker3: but, mr. rand...
-speaker2: shall we go, chauncey?
-speaker4: yes, ben. that's a good idea.
-
-speaker1: mrs. aubrey, have you received the papers on the caracas agreement? 
-speaker2: yes, sir. they're ready for you to sign.
-speaker1: excellent. a good woman, mrs. aubrey.
-speaker3: i agree, ben.
-
-speaker1: good morning, mr. rand. 
-speaker2: woltz, how have you been?
-speaker1: just fine, thank you, sir. and you must be mr. gardiner.
-speaker3: yes.
-speaker1: just a formality, mr. gardiner.
-speaker3: thank you very much.
-
-speaker1: ben! 
-speaker2: ... mr. president, how good to see you.
-speaker1: it's so good to see you too, ben, you look terrific!
-speaker2: i'm not convinced of that, mr. president, but your visit has raised my spirits...
-speaker1: well, i'm delighted to be here, my friend. i've missed you. here, sit down, get off your feet.
-speaker3: good morning, mr. president.
-speaker1: ... hello.
-speaker2: mr. president, i'd like you to meet my dear friend, mr. chauncey gardiner.
-speaker1: mr. gardiner, my pleasure.
-speaker3: you look much taller on television, mr. president.
-speaker1: ... oh, really...
-speaker2: you will find that my house guest does not bandy words, mr. president.
-speaker1: well, mr. gardiner, that's just fine with me - i'm a man that appreciates a frank discussion...
-speaker3: yes, i will.
-speaker1: now, ben, did you happen to get a chance to...
-speaker3: yes?
-speaker1: i just wondered if you had gone over my speech, ben.
-speaker2: yes, i did.
-speaker1: ... well?
-speaker2: overall - pretty good. but, mr. president, i think it's very dangerous to resort to temporary measures at this stage of the game.
-speaker1: well, ben... i...
-speaker2: i sympathize with your position, mr. president, i know how difficult it is to be straightforward, the reaction to such a speech could be chaos.
-speaker1: that's too big a risk, i can't take the chance.
-speaker3: yes?
-
-speaker1: oh... hello. 
-speaker2: good morning. i'm riff, secret service.
-speaker1: ... yes. of course.
-
-speaker1: ... there is no longer any margin for inflation, it has gone as far as it can, you've reached your limits on taxation, dependence on foreign energy has reached a crisis, and, from where i see it, mr. president, the free enterprise system has reached the breaking point. we are on the brink of another crash from which recovery might not be possible. 
-speaker2: it's that serious, huh?
-speaker1: i'm afraid so.
-speaker2: do you agree with ben, mr. gardiner? are we finished? or do you think we can stimulate growth through temporary incentives?
-speaker3: as long as the roots are not severed, all is well and all will be well in the garden.
-speaker2: ... in the garden?
-speaker3: that is correct. in a garden, growth has its season. there is spring and summer, but there is also fall and winter. and then spring and summer again...
-speaker2: ... spring and summer... yes, i see... fall and winter. yes, indeed... could you go through that one more time, please, mr. gardiner?
-speaker1: i think what my most insightful friend is saying, mr. president, is that we welcome the inevitable seasons of nature, yet we are upset by the seasons of our economy.
-speaker3: yes. that is correct.
-speaker2: ...well, mr. gardiner, i must admit, that is one of the most refreshing and optimistic statements i've heard in a very, very long time.
-speaker2: ... many of us forget that nature and society are one! yes, though we have tried to cut ourselves off from nature, we are still a part of it! like nature, our economic system remains, in the long run, stable and rational. and that is why we must not fear to be at its mercy! ... i envy your good, solid sense, mr. gardiner - that is precisely what we lack on capitol hill. i must be going. mr. gardiner, this visit has been enlightening... chance rises and shakes the president's hand.
-speaker3: yes. it has.
-speaker2: ... you will honor me and my family with a visit, won't you?
-speaker3: yes. i will.
-speaker2: wonderful, we'll all look forward to seeing you. is eve around? i'd like to say hello.
-speaker1: no, she flew up to boston for another charity event. she'll be sorry to have missed you.
-speaker2: i'm sorry, too. well, nancy wanted me to send along her best to the two of you - and, ben, i want to thank you for your time and thoughts.
-speaker1: nonsense, mr. president - i thank you for coming to spend time with a dying man.
-speaker2: now, ben, i won't have any of that. why don't you listen to your good friend chauncey this is a time to think of life!
-speaker1: you're right, mr. president i don't like feeling sorry for myself.
-speaker2: take care of yourself, ben.
-speaker1: you take care too, bobby.
-speaker2: mr. gardiner...
-speaker1: he's a decent fellow, the president, isn't he?
-speaker3: yes, ben - he is.
-speaker1: he was quite impressed with your comments, chauncey - he hears my sort of analysis from everyone, but yours, unfortunately - seldom if ever at all.
-speaker3: i'm glad he came, ben. it was nice talking to the president.
-
-speaker1: kaufman, i'm going to need information on mr. chauncey gardiner's background. 
-speaker2: gardiner, yes, sir.
-speaker1: and put it through on a code red - i want it as soon as possible.
-speaker2: no problem, chief.
-
-speaker1: ... you know, chauncey, there's something about you... you're direct, you grasp things quickly and you state them plainly. you don't play games with words to protect yourself. i feel i can speak to you frankly... you know what i was talking to you about last night? 
-speaker2: no, ben.
-speaker1: oh, sure you do, the financial assistance program. i think you might be just the man to take charge of such an undertaking. i'd like you to meet with the members of the board, we'll be able to discuss the matter at greater length at that time.
-speaker2: i understand.
-speaker1: and, please, chauncey - don't rush your decision. i know you're not a man to act on the spur of the moment.
-speaker2: thank you, ben.
-speaker1: and now, chauncey, i'm afraid you must excuse me - i'm very tired all of a sudden.
-speaker2: i'm sorry that you are so sick, ben.
-
-speaker1: chauncey! 
-speaker2: hello, eve.
-speaker1: your leg must be getting better.
-speaker2: yes. it's feeling much better now.
-speaker1: good. i'm glad to hear that. ... how did you like meeting the president?
-speaker2: fine. he's very nice.
-speaker1: yes, he is. i'm sorry i didn't get to see him.
-speaker1: ... chauncey... last night you mentioned an old man, that died.
-speaker2: yes.
-speaker1: was he a relative? or an intimate friend?
-speaker2: he was a very wealthy man, he looked after me since i was young.
-speaker1: oh, i see... your mentor, perhaps?
-speaker2: ... mentor...?
-speaker1: forgive me, chauncey - i didn't mean to pry. you must have been very close to him.
-speaker2: yes. i was.
-speaker1: i'm sorry... ... and what about louise? you mentioned that she had gone, were you close to her also?
-speaker2: yes. i liked louise very much. she was his maid.
-speaker1: oh, his maid!... stupid me, i thought perhaps she was someone that you may have been romantically involved with.
-speaker2: oh, no. she brought me my meals.
-speaker1: of course.
-speaker2: what is that?
-speaker1: our greenhouse.
-speaker2: oh, i like that very much.
-speaker1: yes, so do we.
-
-speaker1: ... and there are so many of you that have proclaimed that we are on the brink of the worst financial crisis in this nation's history. and there are so many of you demanding that we put into effect drastic measures to alter its course. well, let me tell you, gentlemen, i have been conducting multiple-level consultations with members of the cabinet, house and senate. i have conducted meetings with prominent business leaders throughout the country. and this very morning i had an in-depth discussion with your founder and chairman-of-the-board, mr. benjamin turnbull rand and his close friend and advisor mr. chauncey gardiner... 
-speaker1: ... well, gentlemen, i found this to be a most rewarding conference... to quote mr. gardiner, a most intuitive man, 'as long as the roots of industry remain firmly planted in the national soil, the economic prospects are undoubtedly sunny.'
-speaker2: excuse us, please.
-speaker1: gentlemen, let us not fear the inevitable chill and storms of autumn and winter, instead, let us anticipate the rapid growth of springtime, let us await the rewards of summer. as in a garden of the earth, let us learn to accept and appreciate the times when the trees are bare as well as the times when we pick the fruit.
-
-speaker1: ... i'm... ... i'm very grateful that you're here, chauncey... ... with us ... 
-speaker2: so am i, eve.
-speaker3: ... eve - this has been an exhausting day for ben...
-speaker1: ... but he's...?
-speaker3: he's resting comfortably now. there's no cause for alarm, yet...
-speaker4: mr. gardiner, i have a telephone call for you. sidney courtney, the financial editor of the washington post.
-speaker2: thank you.
-speaker4: would you care to take it, sir?
-speaker2: yes.
-speaker1: i'll be all right, chauncey you go ahead with mrs. aubrey...
-speaker1: ... he's such a sensitive man, so considerate...
-
-speaker1: hello, sid. 
-speaker2: i'm sorry to disturb you, mr. gardiner, i know you must be very busy.
-speaker1: no. i'm not busy.
-speaker2: then, i'll be brief. i covered the president's speech at the financial institute today, and since the post would like to be as exact as possible, we would appreciate your comments on the meeting that took place between mr. rand, the president and yourself.
-speaker1: the president is a nice person. i enjoyed it very much.
-speaker2: good, sir. and so, it seems, did the president - but we would like to have some facts; such as, uh... what exactly is the relationship between yourself and that of the first american financial corporation?
-speaker1: i think you should ask mr. rand that.
-speaker2: of course. but since he is ill i'm taking the liberty of asking you.
-speaker1: yes, that is correct. i think you should ask mr. rand that.
-speaker2: i see. then one more quick question, mr. gardiner; since we at the post would like to, uh - update our profile on you - what exactly is your business?
-speaker1: i have nothing more to say.
-speaker2: typical - no wonder he's so close to rand...
-
-speaker1: why, hello, mr. gardiner - are you looking for someone? 
-speaker2: no.
-
-speaker1: i can't find mr. gardiner anywhere. 
-speaker2: he's in the basement.
-speaker1: what's he doing in the basement?
-speaker2: i don't know, mrs. aubrey.
-
-speaker1: oh, mr. gardiner, i've been looking all over. 
-speaker2: oh, yes.
-speaker1: morton hull, the producer of 'this evening' just called.
-speaker2: yes, i have seen that show on television.
-speaker1: of course. they would like you to appear on the show tonight. the vice president was scheduled, but he had to cancel, and they asked if you would be interested.
-speaker2: yes. i would like to be on that show.
-speaker1: fine. they felt that since you had such close ties with the president, you would be a splendid choice. ... can i help you? are you looking for something?
-speaker2: no. i like this attic very much.
-
-speaker1: ... gentlemen, i quoted this man on national television today he is obviously a financial sophisticate of some reknown. 
-speaker2: yes, sir - we are aware of all that, but still, we haven't been able to...
-speaker1: he's an advisor and close personal friend of rand's! for christ sakes, they have volumes of data on benjamin!
-speaker2: yes, mr. president, we attempted to contact mr. rand, but he was too ill to...
-speaker1: i do not want benjamin rand disturbed! you have other ways of gathering information than to trouble a dying man. use whatever agencies are necessary to put together a detailed history of chauncey gardiner, if you run into problems, alert honeycutt. i'll be in the office at seven in the morning and i would like to have it at that time. i've got to take a leak.
-speaker2: right, chief.
-
-speaker1: i believe these garments will be quite appropriate, mr. gardiner. 
-speaker2: yes. they are fine.
-speaker1: excuse me, sir.
-speaker3: chauncey...
-speaker2: hello, eve.
-speaker3: chauncey, i just wanted to wish you well. i know you'll be smashing.
-speaker2: thank you, eve.
-speaker3: and benjamin sends along his best wishes.
-speaker2: how is ben feeling?
-speaker3: he's tired, chauncey - but he's going to watch you tonight. we'll both be watching.
-speaker2: that's good. i like to watch, too.
-speaker3: i know you do - you and your television... ... good luck, chauncey.
-
-speaker1: ... gardiner is laconic, matter-of fact. the scuttlebutt is that he's a strong candidate for one of the vacant seats on the board of first american. but before we can do any sort of a piece on the man, we're going to need facts on his background... ... kinney, what did you come up with? 
-speaker2: ... nothing.
-speaker1: ... skip the levity, kinney - what have you got?
-speaker2: ... i realize this sounds banal but there is no information of any sort on gardiner. we have no material on him - zilch... the room is quiet except for the tapping of courtney's pencil.
-
-speaker1: mr. gardiner, i'm morton hull, the producer of 'this evening.' 
-speaker2: hello, morton.
-
-speaker1: of course, mr. gardiner, the fact that you occupy such a position in the world of finance makes you ideally suited to provide our millions of viewers with an explanation of this nation's economic crisis. 
-speaker2: i see.
-speaker1: do you realize, mr. gardiner, that more people will be watching you tonight than all those who have seen theater plays in the last forty years?
-speaker2: yes. it's a very good show.
-speaker1: i'm glad you like it, mr. gardiner.
-
-speaker1: here you go, mr. gardiner. 
-speaker2: thank you. i'm very thirsty.
-speaker1: yes, sir - it's hot under those lights.
-speaker3: now, if the host wants to ask you a question, he'll raise his left forefinger to his left eyebrow. then you'll stop, and he'll say something, and then you'll answer.
-speaker4: ladies and gentlemen, our very distinguished quest, mr. chauncey gardiner!
-speaker4: mr. gardiner, how very nice to have you with us this evening.
-speaker2: yes.
-speaker4: i'd like to thank you for filling in on such short notice for the vice president.
-speaker2: you're welcome.
-speaker4: i always find it surprising, mr. gardiner, to find men like yourself, who are working so intimately with the president, yet manage to remain relatively unknown.
-speaker2: yes. that is surprising.
-speaker4: ... well, your anonymity will be a thing of the past from now on.
-speaker2: i hope so.
-speaker4: yes... of course, you know, mr. gardiner, that i always prefer an open and frank conversation with my guests, i hope you don't object to that.
-speaker2: no. i don't object.
-speaker4: fine, then let's get started. the current state of our country is of vital interest to us all, and i would like to know if you agree with the president's view of the economy?
-speaker2: which view?
-speaker4: come now, mr. gardiner, before his speech at the financial institute the president consulted with you and benjamin rand, did he not?
-speaker2: yes. i was there with ben.
-speaker4: i know that, mr. gardiner.
-speaker2: yes.
-speaker4: well, let me rephrase the question; the president compared the economy of this country to a garden, and stated that after a period of decline a time of growth would naturally follow. do you go along with this belief?
-speaker2: yes, i know the garden very well. i have worked in it all my life. it is a good garden and a healthy one; its trees are healthy and so are its shrubs and flowers, as long as they are trimmed and watered in the right seasons. the garden needs a lot of care. i do agree with the president; everything in it will grow strong, and there is plenty of room in it for new trees and new flowers of all kinds.
-
-speaker1: gloomy predictions? that insolent son of a 
-speaker2: let's make it clear, mr. gardiner, it's your view that the collapse of the stock market, the dramatic increase in unemployment, you feel that this is just another season, so to speak, in the garden? the first lady cuddles close the president, ruffles his hair, tries to cheer him up.
-speaker3: in a garden, things grow - but first some things must wither; some trees lose their leaves before they grow new leaves...
-
-speaker1: ... and if you give your garden a lot of love, and if you work very hard and have a lot of patience, in the proper season you will see it grow to be very beautiful... 
-speaker2: it's that gardener!
-speaker3: yes, chauncey gardiner.
-speaker2: no! he's a real gardener!
-speaker3: he does talk like one, but i think he's brilliant.
-speaker4: i think your metaphors are quite interesting, mr. gardiner, but, haven't we seen seasons that have been devastating to certain countries?
-speaker4: such as disasterous winters, prolonged droughts that have wiped out crops, hurricanes that have all but swept away island communities? doesn't a country need to have someone in charge that can see it through such crises?
-speaker5: ... that bastard...
-
-speaker1: don't we need a leader capable of guiding us through the seasons? the bad as well as the good? 
-speaker2: yes. we need a very good gardener.
-speaker1: do you feel that we have a 'very good gardener' in office at this time, mr. gardiner?
-speaker2: i understand.
-speaker1: i realize that might be a difficult question for you, mr. gardiner - but there are a lot of us around the country that would like to hear your thoughts on the matter.
-speaker2: oh, yes. it is possible for one side of the garden to be flooded, and the other side to be dry...
-
-speaker1: ... it is the gardener's responsibility to take water from the flooded area and run it to the area that is dry. it is the gardener's responsibility not to plant a sun-loving flower in the shade of a high wall... during the preceding speech, louise, the maid from the old man's house, chatters. 
-speaker2: gobbledegook! all the time he talked gobbledegook! an' it's for sure a white man's world in america, hell, i raised that boy since he was the size of a pissant an' i'll say right now he never learned to read an' write - no sir! had no brains at all, was stuffed with rice puddin' between the ears! shortchanged by the lord and as a an' look at him now! yes, sir - all you gotta be is white in america an' you get whatever you want! just listen to that boy - gobbledegook! there is a chorus of "amens" as she finishes.
-speaker1: ... it is the responsibility of the gardener to adjust to the bad seasons as well as enjoy the good ones. if the gardener does his job, everything will be fine.
-
-speaker1: splendid. just splendid... 
-speaker1: damn, constance, get in here! you shouldn't miss any of this!
-speaker1: i'm becoming quite attached to chauncey - quite attached... ... and so are you, aren't you, eve.
-speaker2: ... yes, i am, ben.
-speaker1: that's good... that's good.
-speaker3: well, mr. gardiner, from the sound of our audience, i'd say that your words are a most welcome respite from what we've been hearing from others...
-speaker4: thank you.
-speaker3: i'm sorry to say that our time is running short, but before we close, i'd like to ask one final question. what sort of gardener, sir, would you be?
-speaker4: i am a very serious gardener.
-speaker5: oh, jesus...
-
-speaker1: okay, i'll see you in twenty minutes. 
-speaker2: ... business, going out in the middle of the night to meet that in a bar...
-speaker1: sally hayes is not a - she's a fine attorney! i've got to talk to her about this gardiner...
-speaker2: good night.
-speaker1: look, johanna...
-speaker2: i said good night!
-
-speaker1: ... darling... what's wrong? 
-speaker2: ... i can't... i just can't right now... i'm sorry, dearest... i just can't...
-
-speaker1: ... it didn't make any sense to me at all. i didn't know what the he was talking about... 
-speaker2: he wasn't making a speech to us, tom - he was talking to the masses. he was very clever, keeping it at a third grade level - that's what they understand...
-speaker1: yeah? well, i don't understand what was up his sleeve when he pulled that stunt with us? what was he doing? and why?
-speaker2: who knows...? maybe the government had something to do with it.
-speaker1: you know, sally - i really feel like i've been had, and you know what that means, don't you?... it means that any political future i had is right down the toilet!
-speaker1: ... the thought of spending the rest of my life as an attorney, that is really a downer... and, christ, sally, i almost forgot johanna is starting to think something's going on between...
-speaker3: ... sid, be reasonable - i've been everywhere, there's no place left to check!
-speaker4: try again.
-speaker3: sure, try again - where? there's nothing, it's like he never existed!
-speaker4: try again.
-speaker3: sid, it's useless!
-speaker4: i said - try again.
-speaker3: up yours, sid. you try again, i quit!
-
-speaker1: an outstanding speech, sir. 
-speaker2: may i take your coat, mr. gardiner?
-speaker3: yes. thank you, perkins.
-
-speaker1: ... you possess a great gift, chauncey, of being natural. and that, my boy, is a rare talent, the true mark of a leader. you were strong and brave, yet did not moralize. i hope the entire country was watching you tonight, the entire country... 
-speaker2: and you, benjamin, must be strong and brave for me. turn over, please.
-speaker1: in a minute, robert - in a minute... chauncey, i would like to ask a favor of you...
-speaker3: certainly, ben.
-speaker1: senator rowley's widow, sophie, is hosting an evening reception tomorrow evening honoring ambassador skrapinov of the soviet union... i think it's rather obvious that robert won't allow me to attend, so - would you go in my place, and eve?
-speaker3: yes. i would like to eve.
-speaker1: good. together, the two of you should create quite a stir - i can already hear the gossip.
-speaker4: ... ben, really...
-speaker1: ... thank you, chauncey... thank you very much. ... all right, robert, i'm all yours.
-
-speaker1: ... you don't happen to have a tuxedo in your suitcase, do you? 
-speaker2: no, thank you.
-speaker1: oh. well, we can fix up one of ben's for you tomorrow night.
-speaker2: i see.
-speaker1: ... i have very few friends, chauncey... and benjamin's friends are all quite a bit older...
-speaker1: ... good night, chauncey.
-speaker2: good night, eve.
-
-speaker1: good morning, gentlemen. 
-speaker2: good morning, sir.
-
-speaker1: this is not what i requested. 
-speaker2: no, sir.
-speaker1: this information goes back three days. i want the standard file, you know that.
-speaker2: right, chief.
-speaker1: so...? where the is it?
-speaker2: we... uh, have been unable to come up with any information before the man appeared at mr. rand's home ...
-speaker1: what the are you talking about, kaufman?
-speaker2: well, we do have data from honeycutt's sources, chief - but it isn't pertinent.
-speaker1: i'd like to hear that data, kaufman.
-speaker2: yes, sir.
-speaker2: suits hand-made by a tailor in chicago in 1918. the tailor went out of business in 1929, then took his own life. ... his shoes were hand-made in 1928. the cobbler has long since been dead. underwear, all of the finest cloth, factory destroyed by fire in 1938. the man carries no identification; no wallet, no driver's license, no credit cards. ... he carries one item along with him, a fine swiss pocket-watch crafted at the turn of the century; so far they have been unable to ascertain where or when purchase was made. ... he has never dyed his hair. ... computers have analyzed gardiner's vocal characteristics; it is impossible to determine his ethnic background, they feel his accent may be northeastern, but they will not commit to that. ... fingerprint check proved negative, no identification possible. ... that's it, mr. president. the president stares at kaufman for a beat, then speaks into his intercom.
-speaker1: miss davis - i'd like my eggs poached this morning, please.
-speaker1: ... so what does all that add up to?
-speaker2: well, sir - it occurred to us that he might be an agent of a foreign power. but, we ruled that out, as they invariably are provided with too much documentation, too much american identity... we, uh...don't quite know what to make of it yet, sir... but we'll keep on top of it, mr. president - we'll come up with the answer.
-speaker1: i would appreciate that.
-
-speaker1: come in! 
-speaker2: chauncey! have you seen the papers?
-speaker1: no, eve. i don't read the papers.
-speaker2: well, it seems you've been described as one of the architects of the president's speech. and your own comments from the 'this evening' show are quoted side by side with the president's.
-speaker1: i like the president. he is a very nice man.
-speaker2: i know... ... so are you, chauncey ... ... do you mind my being here, like this?
-speaker1: no, eve. i like you to be here.
-speaker2: ... you know, chauncey... i want us to be... i want us... you and i to become... close... i want us to become very close, you know...?
-speaker1: yes, eve. i know that.
-speaker2: ... i'm grateful to you, chauncey... i would have opened to you with a touch, and you know that... ... but you're so strong - i can trust myself with you. i'm glad, chauncey - i'm glad that you showed so much restraint...
-speaker1: yes, eve. i'm very glad that you didn't open.
-speaker2: i know you are, chauncey... ... you conquer a woman from within herself, you infuse in her the need and desire and the longing for your love.
-speaker1: yes. that could be true.
-speaker2: ... i guess i may as well be honest about my feelings, chauncey, as i know you are i am in love with you... i love you and i want you... and i know that you know it and i'm grateful that you've decided to wait until... until... eve cannot bring herself to finish the sentence. she rises, straightens her robe and moves toward the door.
-speaker2: ... i do love you, chauncey.
-speaker2: oh, come in, maggie.
-speaker3: yes, ma'am.
-speaker2: chauncey, maggie will alter ben's tuxedo for you now.
-speaker1: fine.
-
-speaker1: mr. gardiner, what did you think of the post's editorial on the president's speech? 
-speaker2: i didn't read it.
-speaker3: but air - you must have at least glanced at it.
-speaker2: no. i did not glance at it.
-speaker4: mr. gardiner, the new york times spoke of your 'peculiar brand of optimism,' what was your reaction to that?
-speaker2: i did not read that either.
-speaker4: well, how do you feel about that phrase, 'peculiar brand of optimism?'
-speaker2: i do not know what it means.
-speaker3: sorry to persist, air, but it would be of great interest to me to know what newspapers you do read.
-speaker2: i do not read any newspapers. i watch tv.
-speaker5: ... do you mean, mr. gardiner, that you find television's coverage of the news superior to that of the newspapers?
-speaker2: i like to watch tv.
-speaker2: you're welcome.
-speaker6: i've never seen anyone handle the media as well as you, chauncey. you're so cool and detached - almost as if you were born to it.
-speaker2: thank you, eve.
-
-speaker1: mrs. rand, how good to see you. 
-speaker2: mr. watson.
-speaker1: and you must be mr. gardiner, correct?
-speaker3: yes.
-speaker2: chauncey, this is mr. dennis watson of the state department.
-speaker3: hello, dennis.
-speaker1: a pleasure to meet you, sir.
-speaker3: yes. it is.
-speaker4: eve, child! how nice of you to come.
-speaker2: hello, sophie.
-speaker4: and look who you brought with!
-speaker2: sophie, this is chauncey gardiner...
-speaker4: oh, i've been just dying to meet you, mr. gardiner!
-speaker2: chauncey, this is mrs. sophia rowley.
-speaker3: hello, sophia.
-speaker4: sophie, please - call me sophie!
-speaker4: you just have to let me introduce you to some of the exciting people here... why, pat boone and his daughter may drop by later!
-
-speaker1: ... how are the kids getting along? 
-speaker2: oh. well, i just talked to cindy this morning. she loves california, but to quote her, she says, 'the secret service is getting to be a drag.' i guess she wants her privacy...
-speaker1: huh... i'm glad they're along with her, if you know what i mean... how about jack?
-speaker2: well, i think jack needs some time alone with you, darling... he's getting to that age, you know... he really misses you...
-speaker1: yeah... i'll have a talk with him as soon as... a knock at the door interrupts the president.
-speaker1: ... yes, come in!
-speaker3: sorry to disturb you, chief but we have new developments.
-speaker1: oh? what?
-speaker3: we have word that the soviets have put out a top priority alert for information on gardiner's background. so far, they haven't come up with a thing - what's more, as a result of their eagerness, one of their ablest agents blew his cover, we have him in custody at this time.
-speaker1: good. anything else?
-speaker3: yes, chief - eight other foreign powers have put gardiner under surveillance. we're around-the clock now, sir - i'll keep you posted.
-
-speaker1: mrs. rand. how delightful. 
-speaker2: it seems like ages, mr. ambassador. mrs. skrapinov.
-speaker3: mr. gardiner, let me introduce you to our guest of honor, his excellency vladimar skrapinov, ambassador of the soviet union.
-speaker4: hello... his... his...
-speaker3: ambassador skrapinov, this is mr.
-speaker1: delighted. delighted.
-speaker3: and this is mrs. skrapinov.
-speaker1: you must sit with us, my friend, we have much to discuss.
-speaker4: i agree.
-speaker1: how is my dear friend benjamin feeling?
-speaker2: he's doing as well as could be expected, mr. ambassador. he still speaks of the stimulating discussions he's had with you.
-speaker1: ah, yes. please give him my regards.
-speaker2: of course.
-speaker3: come on, eve. let's let the men talk, there are so many people that have been asking about you.
-speaker2: would you two excuse me for a moment?
-speaker1: regretfully, mrs. rand - i shall yield the pleasure of your company to others.
-speaker4: yes, eve. i shall yield too.
-speaker2: i'll be back soon...
-speaker1: i'm sorry we haven't met sooner, mr. gardiner. i had the pleasure of seeing you on television last night and i listened with great interest to your down-to-earth philosophy. i'm not surprised that it was so quickly endorsed by the president. ... tell me, mr. gardiner, just how serious is benjamin's illness? i did not want to upset mrs. rand by discussing it in detail.
-speaker4: ben is very ill.
-speaker1: yes, so i've heard, a shame... as you know, we in the soviet union have the keenest interest in developments of the first american financial corporation... we are pleased to hear that you may fill benjamin's place should he fail to recover. be seated, please, mr. gardiner.
-speaker1: ... mr. gardiner, i wish to be quite candid - considering the gravity of your economic situation, shouldn't we, the diplomats, and you, the businessman - get together more often?
-speaker4: yes, i agree, i think so too.
-speaker1: to exchange our thoughts - what does a russian know about business? on the other hand, what does an american know about diplomacy?
-speaker4: yes, i understand.
-speaker1: and i have noticed in you a certain reticence regarding political issues - so why not a coming together? an interchange of opinion? we may find, my friend, that we are not so far from each other, not so far!
-speaker4: we are not far... ... our chairs almost touch.
-speaker1: bravo! bravo! our chairs are indeed almost touching! and we want to remain seated on them, correct? we don't want them snatched from under us, am i right? because if one goes, the other goes, and then - boom! boom! and we are both down before our time, you see? and neither of us wants that, do you agree?
-speaker4: i certainly do.
-speaker1: yes. tell me, mr. gardiner - do you by any chance enjoy krylov's fables? i ask this because there is something... there is something krylovian about you.
-speaker4: do you think so? do you think so?
-speaker1: so you know krylov!
-speaker1: so you know your krylov in russian, do you? mr. gardiner, i must confess i had suspected as much all along - i know an educated man when i meet one!
-speaker4: oh, good.
-speaker1: yes, it is very good!
-speaker4: yes, it is. would you tell me your name again, please?
-speaker1: ho! ho! a dash of american humor!
-speaker4: yes. i like that name very much.
-speaker1: and yours, sir - chauncey gardiner! how poetic! chauncey, a name of uncertain meaning! and gardiner, a bit of the french, a suggestion of a stroll through the flowers! a beautiful name, my friend!
-speaker1: mrs. rand! you have returned to us!
-speaker2: only to steal mr. gardiner away, if i might. everyone wants to meet you.
-speaker4: yes, eve. that would be good.
-speaker1: we must speak again, mr. gardiner, many times!
-speaker4: thank you.
-speaker1: yes? what have you found?
-speaker5: we have nothing on him, ambassador skrapinov.
-speaker1: quietly, please. mr. gardiner, for one, understands our language.
-speaker5: sorry, comrade ambassador.
-speaker1: what do you mean there is nothing?
-speaker5: there is no information available on the man before he moved into benjamin rand's. it has proven to be such a difficult task that it has resulted in the loss of one of our agents to the united states government.
-speaker1: but... where was this man gardiner before last week?
-speaker5: apparently the white house shares our curiosity - they have also launched an investigation, and, according to our sources, neither the f.b.i. nor the c.i.a. has met with success.
-speaker1: i see. clearly, such interest on their part is of great political significance.
-speaker5: clearly, yes comrade.
-speaker1: hmmm... take this down. i want this quote included in the tass coverage; 'chauncey gardiner, in an intimate discussion with ambassador skrapinov, noted that "unless the leaders of the opposing political systems move the chairs on which they sit closer to each other, all of their seats will be pulled from under them by rapid social and political changes."'
-speaker5: very good, your excellency.
-
-speaker1: ... it's strictly rumor at this stage, lyman - just something in the wind... 
-speaker2: something rather big in the wind, i'd say. so whose files were destroyed? the cia's or the fbi's?
-speaker1: i don't know. like i said, it's just rumor so far, but we should start nosing around, see if we can talk to some people...
-speaker2: ... but why? the question is why? why would they destroy gardiner's files? what is it about his past they are trying to cover up? ... a criminal record? a membership in a subversive organization? homosexual, perhaps?
-speaker3: ... and he told us that he had been living there since he was a child, working as a gardener. he showed us a room in the garage, where he said he stayed, and i... well, i didn't really believe him, of course - but why the act?
-speaker4: i have no idea...
-speaker3: another thing that baffles me, doctor - what was his connection with the deceased? major financial dealings, obviously - but our firm has no record of any such transactions.
-speaker4: hmmm. you say he showed you his garden?
-speaker3: well, he said it was his, he walked us through it.
-speaker4: i see. mr. franklin, i must ask you and miss hayes to keep this incident with mr. gardiner to yourselves. there's no telling what he was involved in, and the matter may be extremely confidential. so please, not a word.
-speaker3: of course, doctor, i understand.
-speaker4: fine. thank you, mr. franklin.
-speaker3: certainly, glad to be of help.
-
-speaker1: mr. gardiner, i'm ronald stiegler, of harvard books. 
-speaker2: hello, ronald.
-speaker1: mr. gardiner, my editors and i have been wondering if you'd consider writing a book for us? something on your political philosophy. what do you say?
-speaker2: i can't write.
-speaker1: of course, who can nowadays? i have trouble writing a post card to my children! look, we could give you a six figure advance, provide you with the very best ghostwriter, research assistants, proof readers...
-speaker2: i can't read.
-speaker1: of course not! no one has the time to read! one glances at things, watches television...
-speaker2: yes. i like to watch.
-speaker1: sure you do! no one reads!... listen, book publishing isn't exactly a bed of roses these days...
-speaker2: what sort of bed is it?
-
-speaker1: everything. i said everything and that's exactly what i mean. 
-speaker2: but, mr. rand, the holdings are so extensive, i would like to be more precise in...
-speaker1: what could be more precise than everything...?
-speaker2: everything to mrs. rand.
-speaker3: right - everything.
-speaker1: you two don't have to lecture me on the complexities of the situation, no one knows that better than myself... but you must understand that i have an endless faith in mrs. rand's abilities - i know that she will select the right person for guidance when she has the need... she has shared my life, gentlemen, she has given me far more pleasure than any of my so called assets... life has suddenly become very simple for me now - i may be older than my years, and you might think me to be somewhat feeble... but i am still in love, gentlemen, thank for that...
-
-speaker1: we could do it now, we can go upstairs. ... please, it's time for us. come upstairs. 
-speaker2: i like to watch.
-speaker1: watch? you mean just watch me?
-speaker2: yes. i like to watch very much.
-speaker1: well, if that's what you want, then i want it too. we can go this way.
-speaker2: i want to tell eve.
-speaker1: tell eve? you mean mrs. rand?
-speaker2: yes.
-speaker1: oh, you can tell her later. she'll never miss you in this crowd.
-
-speaker1: ... maybe you should talk to somebody, darling. 
-speaker2: no, that won't do any good.
-speaker1: ... is it me? is there something i've done?
-speaker2: oh, no, sweetheart - it's not you...
-speaker1: it's your job. it never happened when you were a senator...
-speaker2: it's not that, i just...
-speaker2: yeah, kaufman - what is it?
-speaker3: chief, we have a break in the case. our man at the washington post says they are working on a story that either the cia or the fbi destroyed gardiner's files before anyone could get to them.
-speaker2: what? why?
-speaker3: i can't say at this time - neither agency will admit to a thing.
-speaker2: okay, get both directors over here, i'll be right down.
-
-speaker1: can you see well? 
-speaker2: yes, very well, thank you.
-speaker1: do you like it?
-speaker2: yes. it's very tiny, but it's good.
-speaker1: ... are you sure you like it?
-speaker2: yes, i do, it's very good.
-speaker1: really? really!!!
-speaker2: do you need a doctor? i could call robert...
-speaker1: i don't want robert.
-speaker2: i see.
-speaker1: your foot! give me your foot!!
-speaker2: are you sure you're not ill?
-
-speaker1: the rank-and-file in the fbi feel he is fbi, but others feel he is a cia man who knows how to destroy fbi files. 
-speaker2: that could be possible...
-speaker1: but we are quite certain, comrade, that this man gardiner is a leading member of an american elitist faction planning a coup d'etat.
-speaker2: a coup d'etat! of course, that was foreseen by lenin himself!
-speaker1: that is correct, comrade skrapinov. we have ascertained that gardiner heads a big-business power group that will soon be taking over the american government.
-speaker2: big business. i could work with that faction quite nicely, colonel novogrod.
-speaker1: you have proven that already, comrade skrapinov, you are to be congratulated for recognizing the importance of this man and establishing an early friendship.
-speaker2: thank you, colonel.
-speaker1: let us toast to the success of the coup.
-speaker3: na zdorov'e!
-
-speaker1: chauncey, where have you been? i was afraid you got bored and left, or that you were with some mysterious woman. 
-speaker2: no. i was with a man. we went upstairs.
-speaker1: upstairs? chauncey, you're always involved in some sort of discussion...
-speaker2: he was very ill, i stayed with him for a while.
-speaker1: it must be the punch, and it is stuffy in here -- i feel it a little myself. you're an angel, my dear - thank there are still men like you around to give aid and comfort.
-
-speaker1: i never gave such a directive, mr. 
-speaker2: nor i, sir - it would be out of the question.
-speaker3: gentlemen, i didn't call you here at such an hour to make accusations, i just want to explore the possibilities. now, i have three questions; is the man a foreign agent? or, have we suddenly found that our methods of gathering data are grossly inefficient? or, thirdly, have the man's files been destroyed? now, i'd like some answers.
-speaker2: gardiner is not a foreign agent, there are now sixteen countries investigating the man. we can rule that out.
-speaker3: very well... can we rule out inefficiency...?
-speaker3: i see. what about question three? is it possible to erase all traces of a man?
-speaker1: highly unlikely, sir... in fact, the boys around the bureau feel that the only person capable of pulling it off would be an ex f.b.i. man.
-speaker2: i don't think that's entirely true, grover.
-speaker3: and what do the boys around intelligence think?
-speaker2: well, mr. president... they don't quite know what to think.
-speaker3: gentlemen, needless to say, there is going to be a full congressional investigation of your respective operations. good night.
-speaker4: i feel so close to you, so safe with you, chauncey... ... and benjamin understands that, dearest... he understands and accepts my feelings for you...
-speaker5: yes, eve. ben is very wise.
-speaker4: ... come in, chauncey - please come in...
-speaker5: thank you.
-
-speaker1: i can sense that you've been through a lot, chauncey. but one day, when you feel like it, you'll tell me all about your life... ... but, even if you tell me nothing, even if it's too painful for you to reveal your past... 
-speaker1: ... you don't want me, chauncey... you don't feel anything for me... nothing at all...
-speaker1: i just don't excite you at all... i don't know what you want... i don't know what you like...
-speaker2: i like to watch.
-speaker1: to watch...? to watch me...?
-speaker2: yes. i like to watch.
-speaker1: ... is that all you want...? ... to watch me...?
-speaker2: yes. it's very good, eve.
-speaker1: ... but i've never done... ... you mean...? when... when... when i do it? ... when i touch myself...?
-speaker1: oh, chauncey...
-speaker1: one of those little things you don't know about me yet, darling - i'm a little shy.
-speaker2: good night, eve.
-
-speaker1: no more, robert... no more needles... 
-speaker2: it's not good, ben - i'm sure you can feel it.
-speaker1: i know, robert... but, strangely enough, i don't feel too bad about now... i feel all right... i guess it's easier... knowing chauncey is here... to take care of things...
-speaker1: no, i don't want any of that... please... please, just get me mr. gardiner, teresa - please... he'll head it up...
-
-speaker1: ... and i feel so free now, chauncey. until i met you, i never felt acknowledged by a man... ... i always had the feeling that i was just a vessel for a man, someone that he could take hold of, pierce, and pollute. i was merely an aspect of somebody's lovemaking. do you know what i mean? 
-speaker1: dearest, you uncoil my wants; desire flows within me, and when you watch me my passion dissolves it. you set me free. i reveal myself to myself and i am drenched and purged.
-speaker2: that's very interesting, eve.
-speaker3: mr. gardiner. mr. rand would like to see you.
-speaker2: yes. i would like to see ben.
-
-speaker1: ... chauncey... chauncey... 
-speaker2: yes, ben - are you going to die now?
-speaker1: ... i'm about to surrender the horn of plenty for the horn of gabriel, my boy...
-speaker2: oh, i see.
-speaker1: let me feel the strength in your hand, chauncey... let me feel your strength... yes, that's good... i hope, chauncey - i hope that you'll stay with eve... take care of her, watch over her, she's a delicate flower, chauncey...
-speaker2: a flower...
-speaker1: she cares for you and she needs your help, chauncey... there's much to be looked after...
-speaker2: yes. i would like to do that.
-speaker1: ... i've worked very hard and enjoyed my life... i've known success... and i've felt love... my associates, chauncey - i've talked with them about you... they're eager to meet you... very eager to meet you... i'm very fond of you, chauncey... and i understand eve... tell her that... tell her i'm madly in love with her...
-speaker3: ... he's gone, chauncey.
-speaker2: yes, robert. i have seen it before.
-speaker3: yes, i suppose that's true.
-speaker2: will you be leaving now, robert?
-speaker3: in a day or two, yes.
-speaker2: eve is going to stay. the house will not be closed.
-speaker3: ... you've become quite a close friend of eve's - haven't you mr... ... chance...?
-speaker2: yes. i love eve very much.
-speaker3: i see... ... and you are really a gardener, aren't you?
-speaker2: yes, robert - i am. i'll go tell eve about ben now, robert.
-
-speaker1: ... millions of people across the world have heard of the passing of benjamin rand; but, unfortunately, only relatively few will feel the pain and sadness at such a loss. to most, benjamin rand was a legend; to those of us gathered here today, benjamin was a beloved friend. my personal association with benjamin dates back many years, and my memories of our friendship will stay with me forever. 
-speaker1: i initially came in contact with the rand name in 1943. 1 was a young lieutenant in the air corps, a navigator flying missions over europe. that plane that i learned to know so well was manufactured by the rand aeronautics corporation. benjamin rand was an industrial giant, known to be powerful and uncompromising, and yet, on a personal level, we have all felt his warmth and humor... ... i would like to share with you a few quotes, and a few feelings from our dear friend. ... 'i do not regret having political differences with men that i respect; i do regret, however, that our philosophies kept us apart.' ... 'i have no use for those on welfare, no patience whatsoever... but, if i am to be honest with myself, i must admit that they have no use for me, either.' ... 'i was born into a position of extreme wealth, i have spent many sleepless nights thinking about extreme poverty - i do not know the feelings of being poor, and that is not to know the feelings of the majority of people in this world. for a man in my position, that is inexcusable.' 'life is a state of mind.' ... 'when i was a boy, i was told that the lord fashioned us from his own image. that's when i decided to manufacture mirrors.'
-
-speaker1: but what do we know of the man? nothing! we have no inkling of his past! 
-speaker2: correct, and that is an asset. a man's past can cripple him, his background turns into a swamp and invites scrutiny.
-speaker3: to this time, he hasn't said anything that could be used against him.
-speaker4: well, i'm certainly open to the thought - it would be sheer lunacy to support the president for another term.
-speaker2: no one will go along with that... look at the facts, gentlemen, the response from his appearance on 'this evening' was overwhelming; he has excited and awakened the people of this country at a time of despair.
-speaker5: he's personable, elusive, yet seemingly honest. he's riding a crest of popularity that builds with every statement. as far as his thinking goes, he appears to be one of us. i firmly believe, gentlemen, that he is our only chance - mr.
-
-speaker1: it was very moving, bobby - thank you so much... 
-speaker2: we're all going to miss him, eve... ... where's mr. gardiner?
-speaker3: ... he walked off...
-speaker1: chauncey is so sensitive... he was overcome with grief...
-speaker2: i can certainly understand that...
-speaker4: of course... i'm so sorry for you, eve...
-speaker1: thank you, nancy.
-speaker4: i'll call you soon.
-
-speaker1: ... do you think we should look for him? 
-speaker2: i don't think so, he should be along soon...
-speaker1: i wish he were here...
-
-speaker1: we have to find him, robert - he could be lost, something may have happened, we can't leave him! 
-speaker2: you really care for him, don't you, eve?
-speaker1: i do - we do - both of us, ben and i feel so much for chauncey...
-speaker2: i think we'd better go look for him. david!
-
-speaker1: look! 
-speaker2: there he is! chauncey!
-
-speaker1: chauncey! chauncey! 
-speaker2: hello, eve.
-speaker1: oh, chauncey...!
-speaker1: oh, chauncey, darling... where have you been? we thought we'd lost you - we've been looking all over!
-speaker2: yes. i've been looking for you, too, eve.
+LOUISE: ... evening, chance. 
+CHANCE: ... good evening, louise.
+LOUISE: ... the old man is getting weaker, chance.
+CHANCE: i see.
+LOUISE: i'm afraid he's slippin' a bit with every hour that goes by...
+LOUISE: ... back up those stairs - that man's needin' me more and more just before he never needs me again...
+CHANCE: is his back feeling better?
+LOUISE: ... gobbledegook... you and your gobbledegook. you're gonna be the death of me yet, chance... ... unless those stairs are... the good lord's liable to up two unwillin' souls at the same time if i keep on trampin' up those stairs... i don't want none of that...
+
+CHANCE: good morning, louise. 
+LOUISE: he's dead, chance! the old man's dead!
+CHANCE: ... i see.
+LOUISE: must of happened durin' the night, i don't know... lord, he wasn't breathin' and as cold as a fish. i touched him, just to see, and you believe me, chance - that's doin' more than i get paid to do... then i just covered him up, pulled the sheet over his head...
+CHANCE: yes. i've seen that done.
+LOUISE: then i got the out of that room and called the doctor and i think i woke him probably, he wasn't any too alert. he just said, 'yeah, he's been expectin' it and said he'd send somebody over...' lord, what a mornin'!
+CHANCE: ... yes, louise, it's snowing in the garden today. have you looked outside and seen the snow? it's very white.
+LOUISE: dammit, boy! is that all you got to say? more gobbledegook? that old man's layin' up there dead as and it just don't make any difference to you!
+CHANCE: yes, louise. i have seen it often.
+LOUISE: well, ain't that the truth...
+CHANCE: yes. it is.
+LOUISE: oh, lord, chance - i don't know what i was expectin' from you... i'm sorry for yellin' like i did... no sir, i just don't know what i was expectin' ... ... i 'spose i'd better gather up some breakfast for you...
+CHANCE: yes, i'm very hungry.
+LOUISE: well, no more stewin' those prunes every mornin', that's somethin', i guess... ... what are you goin' to do now, chance?
+CHANCE: i'm going to work in the garden.
+LOUISE: ... i'll get you some eggs.
+
+LOUISE: ... well, ain't you the gentleman this mornin'... ... gotta go now, chance... 
+CHANCE: yes.
+LOUISE: you're gonna need somebody, someone's gotta be around for you, boy... ... you oughta find yourself a lady, chance... but i guess it oughta be an old lady, 'cause you ain't gonna do a young one any good, not with that little thing of yours... ... you're always gonna be a little boy, ain't you? ... goodbye, chance...
+CHANCE: goodbye, louise.
+
+LOUISE: ... he used to be a big man... 'spose he wasted away to about nothin'... ... i guess i'll be goin' off to find me some folks, old man... i'm not batty enough to stay around this neighborhood any longer... 
+LOUISE: wait up! i'm goin' out that door first.
+
+HAYES: ... this is another world, tom - i never would have believed it... 
+FRANKLIN: yeah... he and my father used to ride together back in the thirties... fox hunting... before i was born...
+HAYES: ... would you take me on a tour?
+FRANKLIN: gladly... ... the safe is in mr. jennings' bedroom, that'll be stop number one.
+
+FRANKLIN: ... why... hello, we thought we heard something... i'm thomas franklin. 
+CHANCE: hello, thomas... i'm chance, the gardener.
+FRANKLIN: ... the gardener? ... yes, of course... mr. chance, this is ms. hayes.
+HAYES: mr. chance, i'm very pleased to meet you.
+CHANCE: yes.
+FRANKLIN: ... we're with franklin, jennings and roberts, the law firm handling the estate.
+CHANCE: yes, thomas - i understand.
+FRANKLIN: ... are you waiting for someone? an appointment?
+CHANCE: yes. i'm waiting for my lunch.
+FRANKLIN: your lunch? you have a luncheon appointment here?
+CHANCE: yes. louise will bring me lunch.
+FRANKLIN: louise?... the maid?... but she should have left earlier today...
+CHANCE: i see...
+FRANKLIN: ... you've quite a sense of humor, mr. chance - but all kidding aside, may i ask just what you are doing here?
+CHANCE: i live here.
+FRANKLIN: you live here? ... we don't have any record of that.
+CHANCE: yes. it's very cold outside today, isn't it, thomas?
+FRANKLIN: ... how long have you been living here?
+CHANCE: ever since i can remember, since i was a child.
+FRANKLIN: since you were a child?
+CHANCE: yes, thomas. i have always been here. i have always worked in the garden.
+HAYES: ... then you really are a gardener?
+CHANCE: yes.
+HAYES: your appearance doesn't suggest that at all, mr. chance.
+CHANCE: oh. thank you.
+FRANKLIN: do you have any proof of your employment, mr. chance - any checks from the deceased, any contracts or documents?
+CHANCE: no.
+FRANKLIN: how were you compensated for these duties you say you performed?
+CHANCE: compensated...?
+FRANKLIN: how were you paid?
+CHANCE: i was given meals, and a home...
+HAYES: what about money?
+CHANCE: i never needed money.
+FRANKLIN: mr. chance, perhaps you could show us some identification with your address -- a driver's license, a credit card, checkbook?
+CHANCE: no, i do not have any of those.
+FRANKLIN: then how about medical records? could you give us the name of your doctor, or your dentist?
+CHANCE: i have no need for a doctor or dentist. i have never been ill. i have never been allowed outside of this house, and, except for joe, i have never had any visitors.
+FRANKLIN: ... joe? who's joe?
+CHANCE: joe saracini. he was a mason that did some repairs on the brickwork at the rear of the house. that was in 1952.
+
+CHANCE: yes. i remember when he came. he was very fat and had short hair and showed me some pictures from a funny little book. 
+HAYES: some pictures...?
+CHANCE: yes. of men and women.
+HAYES: ... oh.
+FRANKLIN: mr. chance, that was twenty-seven years ago.
+CHANCE: yes and the old man used to come to my garden. he would read and rest there.
+FRANKLIN: come now, mr. jennings had been bedridden for thirty-five years, since he fractured his spine.
+CHANCE: yes, thomas, that is correct. then he stopped visiting my garden.
+FRANKLIN: ... we shall need some proof of your having resided here, mr.
+CHANCE: you have me, i am here. what more proof do you need?
+
+FRANKLIN: have you served in the army? 
+CHANCE: no, thomas. but i have seen the army on television.
+HAYES: how about taxes, mr. chance, surely you must have paid taxes?
+CHANCE: no.
+
+CHANCE: those trees were very young when i first arrived. 
+FRANKLIN: are you related to the deceased, mr. chance?
+CHANCE: no, i don't think so. and i have planted and shaped all the hedges, and in the springtime you will be able to see my flowers.
+HAYES: might you have a birth certificate, mr. chance?
+CHANCE: no. that's where joe fixed the bricks.
+
+FRANKLIN: ... do you drive this, mr. chance? 
+CHANCE: no, thomas. i have never been in an automobile.
+HAYES: you never been in a car?
+CHANCE: ... well... from time to time i did sit in it... just in here... it hasn't been outside since the old man hurt himself. i live in here.
+
+CHANCE: the old man gave me nice television sets, this one has remote control. he has one just like it. 
+FRANKLIN: mr. chance, the fact remains that we have no information of your having any connection with the deceased.
+CHANCE: yes, i understand.
+CHANCE: i am allowed to go to the attic and select any of the old man's suits. they all fit me very well. i can also take his shirts, shoes and coats.
+HAYES: it is quite amazing how those clothes have come back into style.
+CHANCE: yes. i have seen styles on television.
+FRANKLIN: what are your plans now, mr.
+CHANCE: i would like to stay and work in my garden.
+FRANKLIN: ... what do you make of all this?
+HAYES: i really don't know, tom - he seems so honest and simple... in a way, he's quite charming...
+FRANKLIN: ... yeah...
+HAYES: ... it's very bizarre - i don't know what to think...
+FRANKLIN: well... he's either very, very bright or very, very dense - he's hard to figure... ... let's just keep everything legal.
+FRANKLIN: mr. chance, assuming what you say is the truth, i would like to know what sort of claim you are planning to make against the deceased's estate.
+CHANCE: i'm fine, thomas. the garden is a healthy one. there is no need for a claim.
+FRANKLIN: good. that's good. then if you would please sign a paper to that effect.
+CHANCE: no, thomas. i don't know how to sign.
+FRANKLIN: come now, mr. chance.
+CHANCE: i have no claim, thomas.
+FRANKLIN: but you won't sign, correct?
+CHANCE: correct.
+FRANKLIN: very well, mr. chance - if you insist on dragging this matter on... but i must inform you this house will be closed tomorrow at noon. if indeed, you do reside here, you will have to move out.
+CHANCE: move out? i don't understand, thomas.
+FRANKLIN: i think you do, mr. chance. however, i will reiterate, this house is closed and you must leave... call me if you change your mind about signing. c'mon, sally - let's grab a bite...
+HAYES: good day, mr. chance.
+CHANCE: good day, sally.
+
+CHANCE: ... excuse me, would you please tell me where i could find a garden to work in? they turn to him as one, silent, amazed that this white trespasser would intrude on their jiving. 
+CHANCE: ... there is much to be done during the winter, i must start the seeds for the spring, i must work the soil...
+LOLO: what you growin', man?
+ABBAZ: ... what you doin' here, boy?
+CHANCE: i had to leave my garden. i want to find another.
+ABBAZ: who sent you here, boy? did that chickenshit raphael send you here, boy?
+CHANCE: no. thomas franklin told me that i had to leave the old man's house, he's dead now, you know...
+ABBAZ: dead, my ass! now get this, honkie - you go tell raphael that i ain't takin' no jive from no western union messenger! you tell that asshole, if he got somethin' to tell me to get his here himself! you got that, boy?
+CHANCE: yes. i understand. if i see raphael i will tell him.
+ABBAZ: now, move, honkie! before i cut your white ass!
+CHANCE: yes. of course. good day.
+
+CHANCE: excuse me... ... that tree is very sick. it should be cared for. 
+POLICEMAN: yes sir. i'll report it right away.
+CHANCE: yes. that would be a good thing to do. good day.
+POLICEMAN: good day.
+
+DAVID: i'm very sorry, sir... i... 
+CHANCE: ... i can't move... my leg...
+DAVID: ... my lord...
+JEFFREY: this is terrible, sir - i hope you're not badly injured...
+CHANCE: no. i'm not badly injured. but my leg is very sore.
+JEFFREY: can you walk? it's not broken, is it?
+CHANCE: it's very sore.
+DAVID: perhaps i should call an ambulance.
+BYSTANDER: somebody ought to call the police!
+CHANCE: there's no need for police, it's just my leg.
+JEFFREY: i don't think we should call anyone just yet, it may not even be all that serious.
+CHANCE: i agree.
+JEFFREY: let's have a look, do you mind?
+CHANCE: of course. i would like to look.
+JEFFREY: it's starting to swell, is it painful?
+CHANCE: yes.
+EVE: ... won't you let us do something for you? your leg should be examined, we could take you to a hospital.
+CHANCE: there's no need for a hospital.
+EVE: why, there certainly is. you must see a doctor, i insist on it. please, let us take you.
+DAVID: i'm terribly sorry, mrs. rand, i never saw the man.
+EVE: oh, i don't think it was anyone's fault, david.
+DAVID: thank you, ma'am.
+JEFFREY: please, sir.
+CHANCE: i've never ridden in an automobile.
+JEFFREY: i assure you, sir, david is a very careful driver. please, won't you let us take you?
+CHANCE: ... yes. you can take me.
+JEFFREY: very good.
+CHANCE: ... my suitcase.
+JEFFREY: yes sir. i'll take care of that.
+
+EVE: i hope you're comfortable. 
+CHANCE: yes. i am.
+EVE: these can be such trying situations everyone seems to make such a to-do over a simple little accident. of course, they can be very frightening, and i must apologize for david, he's never had an accident before.
+CHANCE: yes. he's a very careful driver.
+EVE: ... why, yes, he is... is your leg feeling any better?
+CHANCE: it's feeling better, but it's still very sore.
+EVE: i see. ... say, would you mind seeing our family doctor?
+CHANCE: your family doctor?
+EVE: yes. my husband has been very ill. his doctor and nurses are staying with us. those hospitals can be so impersonal - why, it might be hours before you are treated...
+CHANCE: i agree.
+EVE: fine, it will save a lot of unnecessary fuss and it will be so much more pleasant for you... david, we'll just go on home. jeffrey, would you call and let them know?
+JEFFREY: yes ma'am.
+EVE: would you care for a drink?
+CHANCE: yes. thank you.
+CHANCE: i would like to watch television.
+EVE: oh? certainly... she hands chance the cognac, turns on the tv.
+EVE: oh, by the way - i'm eve rand.
+CHANCE: hello, eve.
+EVE: may i ask your name?
+CHANCE: my name is chance.
+EVE: pardon me, was that mr. chance?
+CHANCE: no. i'm a gardener.
+EVE: oh... mr. gardiner... mr. chauncey gardiner... you're not related to basil and perdita gardiner are you?
+CHANCE: no, eve. i'm not related to basil and perdita.
+EVE: oh. well, they're just a wonderful couple, we've been friends for years. we visit their island quite often.
+EVE: did you lose something?
+CHANCE: yes. i lost my remote control.
+EVE: oh... well, i'm very sorry...
+EVE: ... i'll feel so relieved after dr. allenby examines your leg. after that, david can run you on home, or to your office or wherever you'd prefer... ... is there anything special you would like to watch?
+CHANCE: i like to watch. this is fine.
+
+EVE: i can see that it must be very important for you to stay informed of all the latest events. 
+CHANCE: yes.
+EVE: i admire that in a person. as for myself, i find there is so much to assimilate that it can become quite muddling at times...
+
+WILSON: good evening, mrs. rand. 
+EVE: good evening, wilson.
+WILSON: i shall take the gentleman to the third floor guest suite, ma'am. dr.
+EVE: thank you, wilson. that will be fine.
+
+EVE: thank you, greta. i'll be with mr. rand if i'm needed. 
+WILSON: yes, ma'am.
+EVE: i'll see you after the doctor has a look at your leg, mr. gardiner.
+CHANCE: yes, i think he should examine my leg.
+
+CHANCE: ... i've never been in one of these. 
+WILSON: it's one of mr. rand's. since he's been ill...
+CHANCE: does it have a television?
+WILSON: no - but mr. rand does have one with an electric motor, that way he can get around by himself.
+CHANCE: i see.
+CHANCE: how long do we stay in here?
+WILSON: how long? i don't know, see what the doctor says ...
+
+CONSTANCE: good evening, mrs. rand. 
+EVE: good evening, constance.
+RAND: ... eve...
+EVE: oh, ben - i miss you so when i'm out... how are you feeling?
+RAND: tired... and i'm getting tired of being so tired. other than that, i'm doing very well.
+EVE: no headaches?
+RAND: no, it's been a good day - better than yours, from what i've been told.
+EVE: you heard?
+RAND: i may be a shut-in, but i do not lack for news. i'm sorry you had to go through all that.
+EVE: oh, it wasn't all that bad, darling. we were fortunate that mr. gardiner turned out to be so reasonable.
+RAND: reasonable? good, i'd like to meet a reasonable man. why don't you ask this gardiner to join us for dinner?
+EVE: do you feel well enough for that?
+RAND: constance! i want new blood tonight, i'm getting up for dinner.
+CONSTANCE: but, mr. rand...
+RAND: don't argue, tell robert i want new blood! ... ask him to dinner.
+
+ALLENBY: the injection will ease the pain and swelling, mr. gardiner. 
+CHANCE: i understand. i've seen it done before.
+ALLENBY: now, you'll barely feel this. it won't hurt at all.
+CHANCE: you were wrong, it did hurt.
+ALLENBY: but not for long...
+ALLENBY: it's good that there was no apparent damage to the bone.
+CHANCE: yes. i think so, too.
+ALLENBY: however, with injuries such as this, i have run into minor hemorrhaging, which really isn't too serious at the time, but can cause secondary problems if not looked after.
+CHANCE: i see.
+ALLENBY: you can pull your trousers up, now.
+CHANCE: oh, fine.
+ALLENBY: just to take the proper precautions, mr. gardiner, i'd recommend we take you downstairs and x-ray your leg. ... by the way, mr. gardiner, i would like to ask you something straight out.
+CHANCE: ... straight out?
+ALLENBY: yes. are you planning on making any sort of claim against the rand's?
+CHANCE: claim...? ... oh, claim, that's what thomas asked me.
+ALLENBY: thomas? who's thomas?
+CHANCE: thomas franklin, an attorney.
+ALLENBY: an attorney?
+CHANCE: yes.
+ALLENBY: then you wish to handle this matter through your attorneys?
+CHANCE: there's no need for a claim, the garden is a healthy one.
+ALLENBY: oh, i see... ... well, then... you're a very funny man, mr. gardiner. you caught me off guard, i must admit...
+CHANCE: thank you.
+ALLENBY: good, keep your weight off that leg, mr. gardiner. in fact, it would be best if you could stay here for a day or two, if that would be would be possible. since benjamin became ill we have our own hospital downstairs. i can promise you the finest in care, unless, of course, you would prefer to go elsewhere.
+CHANCE: yes, i could stay here. thank you.
+ALLENBY: fine. would you like me to speak to your personal physician?
+CHANCE: no.
+ALLENBY: i'll send wilson up to take you for x-rays, mr. gardiner. feel free to use the telephone, and please let me know if you have any discomfort.
+CHANCE: yes, i will.
+
+ALLENBY: good eve - you'll freeze out here. 
+EVE: i wanted some fresh air, robert.
+ALLENBY: a rather large contusion, but i don't feel there is any serious damage. i'd like to keep an eye on him, though - i suggested that he stay here for a couple of days.
+EVE: stay here? is that necessary?
+ALLENBY: not necessary, but preferable. i don't think he'll be a bother, he seems like a most refreshing sort of man.
+EVE: yes, he is different... not the kind of person one usually meets in washington.
+ALLENBY: how true. mr. gardiner may be a welcome change of pace.
+EVE: he's very intense, and internal, don't you think?
+ALLENBY: at times, yes. but that's not an uncommon reaction to such an accident. actually, i found him to have quite a sense of humor.
+EVE: good. it might be pleasant for a couple of days. ... robert... is there any improvement...?
+ALLENBY: no, eve... i'm sorry.
+EVE: ... sometimes when i see ben i could swear that he's getting stronger... something that he might say, the way he moves, or a look in his eyes - makes me feel that this is all a nightmare and that he'll be better soon... it's just so hard to believe what's really happening...
+
+CHANCE: ... that is a very small room. 
+WILSON: yes sir, i guess that's true smallest room in the house.
+CHANCE: yes. it seems to be.
+
+RAND: welcome to rand memorial hospital, mr. gardiner. 
+CHANCE: ... i see.
+CHANCE: i feel very good in here.
+RAND: sure you do. this ward is air tight, i have a little extra oxygen pumped in, keeps my spirits up.
+CHANCE: yes. i like that very much.
+BILLINGS: this won't take long, mr. gardiner. please hold still when i ask.
+CHANCE: do you know raphael?
+BILLINGS: no sir, i don't believe i do.
+CHANCE: oh. i have a message for him.
+BILLINGS: yes, sir.
+CHANCE: a black man gave me the message.
+BILLINGS: well, i still don't believe i know the man, mr. gardiner. now, hold still.
+RAND: aplastic anemia, mr. gardiner - aplastic anemia.
+RAND: failure of the bone marrow to produce red blood cells... not a thing they can do about it. oh, they can make me comfortable, prolong my life with steroid therapy and transfusions... and what makes my blood boil, what little i have left, that is, mr. gardiner - is that it's generally a young person's disease... here i am, getting on in years and about to die of a young person's disease...
+CHANCE: yes. you look very sick.
+BILLINGS: hold still, please, mr. gardiner.
+RAND: i am very sick, and, as you can see by all this paraphernalia, i am very wealthy. i think i would rather be wealthy and sick than poor and sick.
+CHANCE: i understand. i've never seen anything like this on television.
+BILLINGS: please, hold still, mr. gardiner.
+CONSTANCE: you too, mr. rand, you must stay quiet.
+RAND: ... we're prisoners, mr. gardiner - we're prisoners of tubes and technology.
+CHANCE: i agree.
+RAND: ... you will join us for dinner, won't you, mr. gardiner?
+CHANCE: yes. i am very hungry.
+RAND: ... so am i, my boy - so am i.
+
+RAND: i know exactly what you mean. today the businessman is at the mercy of kid-lawyers from the sec. all they want to do is regulate our natural growth! it's happening across the country! 
+ALLENBY: to everyone, i'm afraid. the government controls are so restricting that the medical profession, as we know it, is being legislated out of existence.
+RAND: of course! by kid-lawyers!
+EVE: won't your injury prevent you from attending to business, mr.
+CHANCE: no. it won't do that.
+EVE: ... would you like us to notify anyone for you?
+CHANCE: no. the old man died and louise left.
+EVE: oh. i'm very sorry. well, if you have any need for any of our facilities, please do not hesitate to ask.
+RAND: do you need a secretary?
+CHANCE: no, thank you. my house has been closed.
+RAND: oh. when you say 'your house has been closed', you mean to say that your business was shut down?
+CHANCE: yes. shut down and locked by the attorneys.
+RAND: what'd i tell you? kid-lawyers! the s.e.c.! them!
+EVE: i hope that staying here won't be an inconvenience for you.
+CHANCE: no. i like it here.
+RAND: that's good, mr. gardiner. or may i call you chauncey?
+CHANCE: yes. chauncey is fine.
+RAND: and i'm ben.
+ALLENBY: ... and please call me robert.
+CHANCE: yes, robert. i will.
+RAND: so tell me, chauncey, what are your plans now?
+CHANCE: does this house have a garden?
+RAND: do we have a garden? hah! tomorrow, chauncey, you will see our gardens.
+CHANCE: i see. i would like to work in your garden.
+EVE: oh, i know exactly what you mean. i sometimes enjoy puttering around myself, such a pleasant way to forget one's troubles.
+CHANCE: i am a very good gardener.
+RAND: a gardener! well put, chauncey excellent! isn't that what a businessman is? a gardener? a person that makes flinty soil productive with the labor of his own hands, who waters it with the sweat from his own brow, and who creates a place of value for his family and community? yes, chauncey, what a brilliant metaphor -- yes, indeed, a productive businessman is a laborer in his own vineyard.
+CHANCE: thank you, ben. the garden that i left was such a place. everything which grew there was with the labor of my own hands. i planted seeds and watered them and watched everything grow.
+RAND: bravo!
+CHANCE: but i don't have that any more... ... all that's left for me now is the room upstairs.
+RAND: now, wait a minute, chauncey you are young, you are healthy, for sake don't give up on yourself! you have to fight! you can't let those keep you down! i don't want to hear any more from you about the 'room upstairs'. that's where i'm going soon.
+CHANCE: it's a very pleasant room, ben.
+RAND: yes, i'm sure it is. that's what they say, anyway. another period of silence. the servants bustle around the room as allenby studies chance.
+
+RAND: ... i don't know what you've heard about me, chauncey, but i'm sure you know everything there is to know. cigar? 
+CHANCE: yes, thank you. no ben. i don't know everything about you.
+RAND: ... no, of course you don't. excuse me for being so presumptuous. no man knows everything about another man - however, very few are honest enough to admit it.
+ALLENBY: that is so true. you're different, chauncey... quite different than most men.
+CHANCE: thank you, robert.
+RAND: ... you know, chauncey, there are thousands of american businessmen, large and small, that share your plight. i've been concerned with the situation for some time now.
+RAND: so i've been thinking about beginning a financial assistance program, chauncey, to help out american businessmen that have been harassed by inflation, excessive taxation, unions and other indecencies...
+RAND: ... i'd like to offer the decent 'gardeners' of the business community a helping hand. after all, they are our strongest defense against the pollutants who so threaten our basic freedoms and the well-being of our middle class. tell me, would you have any thoughts on such a program?
+CHANCE: no, ben.
+RAND: reluctant to speak, eh, chauncey? well, i can understand that. when a man loses everything, anger has a tendency to block out reason for a time. just give it some thought, work with the idea, i'm sure you'll have plenty to say in a few days.
+CHANCE: i could give it some thought, ben, but my leg is very sore.
+RAND: ... oh? robert, take a look, would you?
+ALLENBY: some pain is to be expected... ... and i think what would be best for the two of you is a good night's rest. ... it's late, i'm afraid it's time for my patients to prepare for bed.
+RAND: we have common foes, chauncey - kid lawyers and our physician!
+CHANCE: i agree.
+
+WILSON: ... sorry, sir - i just couldn't contain myself... i knew you were going to come out with another one of your jests about the elevator... excuse me, sir... 
+CHANCE: ... hmmm... elevator.
+WILSON: ... yes sir - elevator!
+EVE: chauncey, i wanted to tell you how dreadful i feel about the accident today, but that i'm delighted that you are staying with us.
+CHANCE: thank you, eve - i like this house very much.
+EVE: ... and ben is just mad about you - you've lifted his spirits so - it's just... well, it's just a real pleasure having you with us.
+CHANCE: ben is very ill, eve - i've seen that before.
+EVE: yes... i know, chauncey.
+CHANCE: i like ben very much... he reminds me of the old man...
+EVE: he does...?
+CHANCE: yes. are you going to leave and close the house when he dies?
+EVE: ... why... no, i don't think so...
+CHANCE: that's good.
+EVE: ... good night, chauncey.
+CHANCE: good night, eve.
+
+LEWIS: did you want a car, sir? 
+CHANCE: yes. i would like a car.
+LEWIS: yes, sir.
+ALLENBY: chauncey, there you are. what are you doing on that leg?
+CHANCE: it's fine today, robert.
+ALLENBY: shame on you, chauncey - you should let me be the judge of that. please, sit in the chair.
+ALLENBY: i swear, chauncey, between you and benjamin, i've got my hands full... ... say, that is coming along, the swelling has gone down considerably... ... any pain here?
+CHANCE: yes, robert. but it's not bad.
+ALLENBY: ... benjamin has been hounding me to allow him to address the annual meeting of his financial institute today, but obviously, the strain would be impossible... how about here, chauncey, any soreness?
+CHANCE: hardly any, robert.
+LEWIS: your limousine, sir.
+CHANCE: oh, thank you.
+ALLENBY: ... were you going somewhere?
+CHANCE: no, robert.
+ALLENBY: ... oh. ... my i only wish that benjamin had your recuperative powers... anyway, the president offered to sit in for ben at the meeting, quite a nice gesture, i felt. he's due here soon, i believe.
+CHANCE: yes, robert. i know about the president.
+ALLENBY: ... oh? you've heard?
+CHANCE: yes. ben called me. he wants me to meet the president.
+ALLENBY: he does, does he?
+CHANCE: yes, ben told me to be in his room at ten o'clock.
+ALLENBY: why, that's terrific, chauncey.
+CHANCE: how do i know when it's ten o'clock?
+ALLENBY: ... it's five of, you'd best get on in there.
+CHANCE: thank you, robert.
+CHANCE: i would like to walk today.
+ALLENBY: yes - walk. you're meeting the president, aren't you?
+CHANCE: oh, really?
+
+SMYTHE: may i help you, mr. gardiner? 
+CHANCE: yes. i would like to go to rand memorial hospital.
+SMYTHE: ... sir?
+CHANCE: yes.
+SMYTHE: ... did you wish to see someone, sir?
+CHANCE: yes, i would like to see ben.
+SMYTHE: oh, mr. rand, of course. right this way, sir.
+
+RAND: chauncey, up and around this morning, are you? 
+CHANCE: yes, ben. my leg is not very sore.
+RAND: well, that's good news, my boy.
+CHANCE: you're looking much better today, ben.
+RAND: hah! it's all make-up, chauncey... i asked nurse teresa to fix me up, i didn't want the president to think i was going to die during our talk.
+CHANCE: i understand.
+RAND: no one likes a dying man, my boy - because few know what death is. all we know is the terror of it. but you're an exception, chauncey - that's what i admire in you, your marvelous balance. you don't stagger back and forth between fear and hope - you're a truly peaceful man.
+CHANCE: thank you, ben. ... the nurse did a very good job, ben.
+
+WOLTZ: good morning, mr. wilson. 
+WILSON: good morning, mr. woltz, nice to see you again.
+WOLTZ: thank you. how have you been?
+WILSON: fine, thank you. we have an additional guest with us today, mr. chauncey gardiner.
+WOLTZ: i see... okay, let's go to work.
+
+RAND: yes, when i was younger i had thoughts about public office... but i found, chauncey - that i was able to contribute more as a private citizen... of course, my wealth provided me with considerable influence, but i've tried, believe me, not to misuse that power... it's extremely important, chauncey, when one is in a position of eminence, that he does not allow himself to become blinded to the needs of the country... the temptations are strong, and i've been labeled a 'kingmaker' by many, but i have tried to stay open to voices of the people... i have tried to remain honest to myself... 
+CHANCE: i see, ben.
+RAND: ... maybe one day you shall find yourself in a similar position, chauncey... maybe one day...
+
+MRS. AUBREY: yes... oh, very good, lewis, thank you. mrs. aubrey hangs up, picks up another phone, pushes a button. 
+RAND: he's here. yes, mrs. aubrey? fine. show the president to the library, we'll be along in a few minutes.
+RAND: it's an old habit that goes along with power -- keep them waiting...
+RAND: not now, teresa. i'm seeing the president on my own two feet.
+TERESA: but, mr. rand...
+RAND: shall we go, chauncey?
+CHANCE: yes, ben. that's a good idea.
+
+RAND: mrs. aubrey, have you received the papers on the caracas agreement? 
+MRS. AUBREY: yes, sir. they're ready for you to sign.
+RAND: excellent. a good woman, mrs. aubrey.
+CHANCE: i agree, ben.
+
+WOLTZ: good morning, mr. rand. 
+RAND: woltz, how have you been?
+WOLTZ: just fine, thank you, sir. and you must be mr. gardiner.
+CHANCE: yes.
+WOLTZ: just a formality, mr. gardiner.
+CHANCE: thank you very much.
+
+PRESIDENT: ben! 
+RAND: ... mr. president, how good to see you.
+PRESIDENT: it's so good to see you too, ben, you look terrific!
+RAND: i'm not convinced of that, mr. president, but your visit has raised my spirits...
+PRESIDENT: well, i'm delighted to be here, my friend. i've missed you. here, sit down, get off your feet.
+CHANCE: good morning, mr. president.
+PRESIDENT: ... hello.
+RAND: mr. president, i'd like you to meet my dear friend, mr. chauncey gardiner.
+PRESIDENT: mr. gardiner, my pleasure.
+CHANCE: you look much taller on television, mr. president.
+PRESIDENT: ... oh, really...
+RAND: you will find that my house guest does not bandy words, mr. president.
+PRESIDENT: well, mr. gardiner, that's just fine with me - i'm a man that appreciates a frank discussion...
+CHANCE: yes, i will.
+PRESIDENT: now, ben, did you happen to get a chance to...
+CHANCE: yes?
+PRESIDENT: i just wondered if you had gone over my speech, ben.
+RAND: yes, i did.
+PRESIDENT: ... well?
+RAND: overall - pretty good. but, mr. president, i think it's very dangerous to resort to temporary measures at this stage of the game.
+PRESIDENT: well, ben... i...
+RAND: i sympathize with your position, mr. president, i know how difficult it is to be straightforward, the reaction to such a speech could be chaos.
+PRESIDENT: that's too big a risk, i can't take the chance.
+CHANCE: yes?
+
+ALLENBY: oh... hello. 
+RIFF: good morning. i'm riff, secret service.
+ALLENBY: ... yes. of course.
+
+RAND: ... there is no longer any margin for inflation, it has gone as far as it can, you've reached your limits on taxation, dependence on foreign energy has reached a crisis, and, from where i see it, mr. president, the free enterprise system has reached the breaking point. we are on the brink of another crash from which recovery might not be possible. 
+PRESIDENT: it's that serious, huh?
+RAND: i'm afraid so.
+PRESIDENT: do you agree with ben, mr. gardiner? are we finished? or do you think we can stimulate growth through temporary incentives?
+CHANCE: as long as the roots are not severed, all is well and all will be well in the garden.
+PRESIDENT: ... in the garden?
+CHANCE: that is correct. in a garden, growth has its season. there is spring and summer, but there is also fall and winter. and then spring and summer again...
+PRESIDENT: ... spring and summer... yes, i see... fall and winter. yes, indeed... could you go through that one more time, please, mr. gardiner?
+RAND: i think what my most insightful friend is saying, mr. president, is that we welcome the inevitable seasons of nature, yet we are upset by the seasons of our economy.
+CHANCE: yes. that is correct.
+PRESIDENT: ...well, mr. gardiner, i must admit, that is one of the most refreshing and optimistic statements i've heard in a very, very long time.
+PRESIDENT: ... many of us forget that nature and society are one! yes, though we have tried to cut ourselves off from nature, we are still a part of it! like nature, our economic system remains, in the long run, stable and rational. and that is why we must not fear to be at its mercy! ... i envy your good, solid sense, mr. gardiner - that is precisely what we lack on capitol hill. i must be going. mr. gardiner, this visit has been enlightening... chance rises and shakes the president's hand.
+CHANCE: yes. it has.
+PRESIDENT: ... you will honor me and my family with a visit, won't you?
+CHANCE: yes. i will.
+PRESIDENT: wonderful, we'll all look forward to seeing you. is eve around? i'd like to say hello.
+RAND: no, she flew up to boston for another charity event. she'll be sorry to have missed you.
+PRESIDENT: i'm sorry, too. well, nancy wanted me to send along her best to the two of you - and, ben, i want to thank you for your time and thoughts.
+RAND: nonsense, mr. president - i thank you for coming to spend time with a dying man.
+PRESIDENT: now, ben, i won't have any of that. why don't you listen to your good friend chauncey this is a time to think of life!
+RAND: you're right, mr. president i don't like feeling sorry for myself.
+PRESIDENT: take care of yourself, ben.
+RAND: you take care too, bobby.
+PRESIDENT: mr. gardiner...
+RAND: he's a decent fellow, the president, isn't he?
+CHANCE: yes, ben - he is.
+RAND: he was quite impressed with your comments, chauncey - he hears my sort of analysis from everyone, but yours, unfortunately - seldom if ever at all.
+CHANCE: i'm glad he came, ben. it was nice talking to the president.
+
+PRESIDENT: kaufman, i'm going to need information on mr. chauncey gardiner's background. 
+KAUFMAN: gardiner, yes, sir.
+PRESIDENT: and put it through on a code red - i want it as soon as possible.
+KAUFMAN: no problem, chief.
+
+RAND: ... you know, chauncey, there's something about you... you're direct, you grasp things quickly and you state them plainly. you don't play games with words to protect yourself. i feel i can speak to you frankly... you know what i was talking to you about last night? 
+CHANCE: no, ben.
+RAND: oh, sure you do, the financial assistance program. i think you might be just the man to take charge of such an undertaking. i'd like you to meet with the members of the board, we'll be able to discuss the matter at greater length at that time.
+CHANCE: i understand.
+RAND: and, please, chauncey - don't rush your decision. i know you're not a man to act on the spur of the moment.
+CHANCE: thank you, ben.
+RAND: and now, chauncey, i'm afraid you must excuse me - i'm very tired all of a sudden.
+CHANCE: i'm sorry that you are so sick, ben.
+
+EVE: chauncey! 
+CHANCE: hello, eve.
+EVE: your leg must be getting better.
+CHANCE: yes. it's feeling much better now.
+EVE: good. i'm glad to hear that. ... how did you like meeting the president?
+CHANCE: fine. he's very nice.
+EVE: yes, he is. i'm sorry i didn't get to see him.
+EVE: ... chauncey... last night you mentioned an old man, that died.
+CHANCE: yes.
+EVE: was he a relative? or an intimate friend?
+CHANCE: he was a very wealthy man, he looked after me since i was young.
+EVE: oh, i see... your mentor, perhaps?
+CHANCE: ... mentor...?
+EVE: forgive me, chauncey - i didn't mean to pry. you must have been very close to him.
+CHANCE: yes. i was.
+EVE: i'm sorry... ... and what about louise? you mentioned that she had gone, were you close to her also?
+CHANCE: yes. i liked louise very much. she was his maid.
+EVE: oh, his maid!... stupid me, i thought perhaps she was someone that you may have been romantically involved with.
+CHANCE: oh, no. she brought me my meals.
+EVE: of course.
+CHANCE: what is that?
+EVE: our greenhouse.
+CHANCE: oh, i like that very much.
+EVE: yes, so do we.
+
+PRESIDENT'S VOICE: ... and there are so many of you that have proclaimed that we are on the brink of the worst financial crisis in this nation's history. and there are so many of you demanding that we put into effect drastic measures to alter its course. well, let me tell you, gentlemen, i have been conducting multiple-level consultations with members of the cabinet, house and senate. i have conducted meetings with prominent business leaders throughout the country. and this very morning i had an in-depth discussion with your founder and chairman-of-the-board, mr. benjamin turnbull rand and his close friend and advisor mr. chauncey gardiner... 
+PRESIDENT'S VOICE: ... well, gentlemen, i found this to be a most rewarding conference... to quote mr. gardiner, a most intuitive man, 'as long as the roots of industry remain firmly planted in the national soil, the economic prospects are undoubtedly sunny.'
+ALLENBY: excuse us, please.
+PRESIDENT'S VOICE: gentlemen, let us not fear the inevitable chill and storms of autumn and winter, instead, let us anticipate the rapid growth of springtime, let us await the rewards of summer. as in a garden of the earth, let us learn to accept and appreciate the times when the trees are bare as well as the times when we pick the fruit.
+
+EVE: ... i'm... ... i'm very grateful that you're here, chauncey... ... with us ... 
+CHANCE: so am i, eve.
+ALLENBY: ... eve - this has been an exhausting day for ben...
+EVE: ... but he's...?
+ALLENBY: he's resting comfortably now. there's no cause for alarm, yet...
+MRS. AUBREY: mr. gardiner, i have a telephone call for you. sidney courtney, the financial editor of the washington post.
+CHANCE: thank you.
+MRS. AUBREY: would you care to take it, sir?
+CHANCE: yes.
+EVE: i'll be all right, chauncey you go ahead with mrs. aubrey...
+EVE: ... he's such a sensitive man, so considerate...
+
+CHANCE: hello, sid. 
+COURTNEY: i'm sorry to disturb you, mr. gardiner, i know you must be very busy.
+CHANCE: no. i'm not busy.
+COURTNEY: then, i'll be brief. i covered the president's speech at the financial institute today, and since the post would like to be as exact as possible, we would appreciate your comments on the meeting that took place between mr. rand, the president and yourself.
+CHANCE: the president is a nice person. i enjoyed it very much.
+COURTNEY: good, sir. and so, it seems, did the president - but we would like to have some facts; such as, uh... what exactly is the relationship between yourself and that of the first american financial corporation?
+CHANCE: i think you should ask mr. rand that.
+COURTNEY: of course. but since he is ill i'm taking the liberty of asking you.
+CHANCE: yes, that is correct. i think you should ask mr. rand that.
+COURTNEY: i see. then one more quick question, mr. gardiner; since we at the post would like to, uh - update our profile on you - what exactly is your business?
+CHANCE: i have nothing more to say.
+COURTNEY: typical - no wonder he's so close to rand...
+
+JENNIFER: why, hello, mr. gardiner - are you looking for someone? 
+CHANCE: no.
+
+MRS. AUBREY: i can't find mr. gardiner anywhere. 
+JENNIFER: he's in the basement.
+MRS. AUBREY: what's he doing in the basement?
+JENNIFER: i don't know, mrs. aubrey.
+
+MRS. AUBREY: oh, mr. gardiner, i've been looking all over. 
+CHANCE: oh, yes.
+MRS. AUBREY: morton hull, the producer of 'this evening' just called.
+CHANCE: yes, i have seen that show on television.
+MRS. AUBREY: of course. they would like you to appear on the show tonight. the vice president was scheduled, but he had to cancel, and they asked if you would be interested.
+CHANCE: yes. i would like to be on that show.
+MRS. AUBREY: fine. they felt that since you had such close ties with the president, you would be a splendid choice. ... can i help you? are you looking for something?
+CHANCE: no. i like this attic very much.
+
+PRESIDENT: ... gentlemen, i quoted this man on national television today he is obviously a financial sophisticate of some reknown. 
+KAUFMAN: yes, sir - we are aware of all that, but still, we haven't been able to...
+PRESIDENT: he's an advisor and close personal friend of rand's! for christ sakes, they have volumes of data on benjamin!
+KAUFMAN: yes, mr. president, we attempted to contact mr. rand, but he was too ill to...
+PRESIDENT: i do not want benjamin rand disturbed! you have other ways of gathering information than to trouble a dying man. use whatever agencies are necessary to put together a detailed history of chauncey gardiner, if you run into problems, alert honeycutt. i'll be in the office at seven in the morning and i would like to have it at that time. i've got to take a leak.
+KAUFMAN: right, chief.
+
+PERKINS: i believe these garments will be quite appropriate, mr. gardiner. 
+CHANCE: yes. they are fine.
+PERKINS: excuse me, sir.
+EVE: chauncey...
+CHANCE: hello, eve.
+EVE: chauncey, i just wanted to wish you well. i know you'll be smashing.
+CHANCE: thank you, eve.
+EVE: and benjamin sends along his best wishes.
+CHANCE: how is ben feeling?
+EVE: he's tired, chauncey - but he's going to watch you tonight. we'll both be watching.
+CHANCE: that's good. i like to watch, too.
+EVE: i know you do - you and your television... ... good luck, chauncey.
+
+COURTNEY: ... gardiner is laconic, matter-of fact. the scuttlebutt is that he's a strong candidate for one of the vacant seats on the board of first american. but before we can do any sort of a piece on the man, we're going to need facts on his background... ... kinney, what did you come up with? 
+KINNEY: ... nothing.
+COURTNEY: ... skip the levity, kinney - what have you got?
+KINNEY: ... i realize this sounds banal but there is no information of any sort on gardiner. we have no material on him - zilch... the room is quiet except for the tapping of courtney's pencil.
+
+HULL: mr. gardiner, i'm morton hull, the producer of 'this evening.' 
+CHANCE: hello, morton.
+
+HULL: of course, mr. gardiner, the fact that you occupy such a position in the world of finance makes you ideally suited to provide our millions of viewers with an explanation of this nation's economic crisis. 
+CHANCE: i see.
+HULL: do you realize, mr. gardiner, that more people will be watching you tonight than all those who have seen theater plays in the last forty years?
+CHANCE: yes. it's a very good show.
+HULL: i'm glad you like it, mr. gardiner.
+
+COLSON: here you go, mr. gardiner. 
+CHANCE: thank you. i'm very thirsty.
+COLSON: yes, sir - it's hot under those lights.
+HULL: now, if the host wants to ask you a question, he'll raise his left forefinger to his left eyebrow. then you'll stop, and he'll say something, and then you'll answer.
+DUPONT: ladies and gentlemen, our very distinguished quest, mr. chauncey gardiner!
+DUPONT: mr. gardiner, how very nice to have you with us this evening.
+CHANCE: yes.
+DUPONT: i'd like to thank you for filling in on such short notice for the vice president.
+CHANCE: you're welcome.
+DUPONT: i always find it surprising, mr. gardiner, to find men like yourself, who are working so intimately with the president, yet manage to remain relatively unknown.
+CHANCE: yes. that is surprising.
+DUPONT: ... well, your anonymity will be a thing of the past from now on.
+CHANCE: i hope so.
+DUPONT: yes... of course, you know, mr. gardiner, that i always prefer an open and frank conversation with my guests, i hope you don't object to that.
+CHANCE: no. i don't object.
+DUPONT: fine, then let's get started. the current state of our country is of vital interest to us all, and i would like to know if you agree with the president's view of the economy?
+CHANCE: which view?
+DUPONT: come now, mr. gardiner, before his speech at the financial institute the president consulted with you and benjamin rand, did he not?
+CHANCE: yes. i was there with ben.
+DUPONT: i know that, mr. gardiner.
+CHANCE: yes.
+DUPONT: well, let me rephrase the question; the president compared the economy of this country to a garden, and stated that after a period of decline a time of growth would naturally follow. do you go along with this belief?
+CHANCE: yes, i know the garden very well. i have worked in it all my life. it is a good garden and a healthy one; its trees are healthy and so are its shrubs and flowers, as long as they are trimmed and watered in the right seasons. the garden needs a lot of care. i do agree with the president; everything in it will grow strong, and there is plenty of room in it for new trees and new flowers of all kinds.
+
+PRESIDENT: gloomy predictions? that insolent son of a 
+DUPONT: let's make it clear, mr. gardiner, it's your view that the collapse of the stock market, the dramatic increase in unemployment, you feel that this is just another season, so to speak, in the garden? the first lady cuddles close the president, ruffles his hair, tries to cheer him up.
+CHANCE: in a garden, things grow - but first some things must wither; some trees lose their leaves before they grow new leaves...
+
+CHANCE: ... and if you give your garden a lot of love, and if you work very hard and have a lot of patience, in the proper season you will see it grow to be very beautiful... 
+FRANKLIN: it's that gardener!
+JOHANNA: yes, chauncey gardiner.
+FRANKLIN: no! he's a real gardener!
+JOHANNA: he does talk like one, but i think he's brilliant.
+DUPONT: i think your metaphors are quite interesting, mr. gardiner, but, haven't we seen seasons that have been devastating to certain countries?
+DUPONT: such as disasterous winters, prolonged droughts that have wiped out crops, hurricanes that have all but swept away island communities? doesn't a country need to have someone in charge that can see it through such crises?
+PRESIDENT: ... that bastard...
+
+DUPONT: don't we need a leader capable of guiding us through the seasons? the bad as well as the good? 
+CHANCE: yes. we need a very good gardener.
+DUPONT: do you feel that we have a 'very good gardener' in office at this time, mr. gardiner?
+CHANCE: i understand.
+DUPONT: i realize that might be a difficult question for you, mr. gardiner - but there are a lot of us around the country that would like to hear your thoughts on the matter.
+CHANCE: oh, yes. it is possible for one side of the garden to be flooded, and the other side to be dry...
+
+CHANCE: ... it is the gardener's responsibility to take water from the flooded area and run it to the area that is dry. it is the gardener's responsibility not to plant a sun-loving flower in the shade of a high wall... during the preceding speech, louise, the maid from the old man's house, chatters. 
+LOUISE: gobbledegook! all the time he talked gobbledegook! an' it's for sure a white man's world in america, hell, i raised that boy since he was the size of a pissant an' i'll say right now he never learned to read an' write - no sir! had no brains at all, was stuffed with rice puddin' between the ears! shortchanged by the lord and as a an' look at him now! yes, sir - all you gotta be is white in america an' you get whatever you want! just listen to that boy - gobbledegook! there is a chorus of "amens" as she finishes.
+CHANCE: ... it is the responsibility of the gardener to adjust to the bad seasons as well as enjoy the good ones. if the gardener does his job, everything will be fine.
+
+RAND: splendid. just splendid... 
+RAND: damn, constance, get in here! you shouldn't miss any of this!
+RAND: i'm becoming quite attached to chauncey - quite attached... ... and so are you, aren't you, eve.
+EVE: ... yes, i am, ben.
+RAND: that's good... that's good.
+DUPONT: well, mr. gardiner, from the sound of our audience, i'd say that your words are a most welcome respite from what we've been hearing from others...
+CHANCE: thank you.
+DUPONT: i'm sorry to say that our time is running short, but before we close, i'd like to ask one final question. what sort of gardener, sir, would you be?
+CHANCE: i am a very serious gardener.
+PRESIDENT: oh, jesus...
+
+FRANKLIN: okay, i'll see you in twenty minutes. 
+JOHANNA: ... business, going out in the middle of the night to meet that in a bar...
+FRANKLIN: sally hayes is not a - she's a fine attorney! i've got to talk to her about this gardiner...
+JOHANNA: good night.
+FRANKLIN: look, johanna...
+JOHANNA: i said good night!
+
+FIRST LADY: ... darling... what's wrong? 
+PRESIDENT,: ... i can't... i just can't right now... i'm sorry, dearest... i just can't...
+
+FRANKLIN: ... it didn't make any sense to me at all. i didn't know what the he was talking about... 
+SALLY: he wasn't making a speech to us, tom - he was talking to the masses. he was very clever, keeping it at a third grade level - that's what they understand...
+FRANKLIN: yeah? well, i don't understand what was up his sleeve when he pulled that stunt with us? what was he doing? and why?
+SALLY: who knows...? maybe the government had something to do with it.
+FRANKLIN: you know, sally - i really feel like i've been had, and you know what that means, don't you?... it means that any political future i had is right down the toilet!
+FRANKLIN: ... the thought of spending the rest of my life as an attorney, that is really a downer... and, christ, sally, i almost forgot johanna is starting to think something's going on between...
+KINNEY: ... sid, be reasonable - i've been everywhere, there's no place left to check!
+COURTNEY: try again.
+KINNEY: sure, try again - where? there's nothing, it's like he never existed!
+COURTNEY: try again.
+KINNEY: sid, it's useless!
+COURTNEY: i said - try again.
+KINNEY: up yours, sid. you try again, i quit!
+
+WILSON: an outstanding speech, sir. 
+PERKINS: may i take your coat, mr. gardiner?
+CHANCE: yes. thank you, perkins.
+
+RAND: ... you possess a great gift, chauncey, of being natural. and that, my boy, is a rare talent, the true mark of a leader. you were strong and brave, yet did not moralize. i hope the entire country was watching you tonight, the entire country... 
+ALLENBY: and you, benjamin, must be strong and brave for me. turn over, please.
+RAND: in a minute, robert - in a minute... chauncey, i would like to ask a favor of you...
+CHANCE: certainly, ben.
+RAND: senator rowley's widow, sophie, is hosting an evening reception tomorrow evening honoring ambassador skrapinov of the soviet union... i think it's rather obvious that robert won't allow me to attend, so - would you go in my place, and eve?
+CHANCE: yes. i would like to eve.
+RAND: good. together, the two of you should create quite a stir - i can already hear the gossip.
+EVE: ... ben, really...
+RAND: ... thank you, chauncey... thank you very much. ... all right, robert, i'm all yours.
+
+EVE: ... you don't happen to have a tuxedo in your suitcase, do you? 
+CHANCE: no, thank you.
+EVE: oh. well, we can fix up one of ben's for you tomorrow night.
+CHANCE: i see.
+EVE: ... i have very few friends, chauncey... and benjamin's friends are all quite a bit older...
+EVE: ... good night, chauncey.
+CHANCE: good night, eve.
+
+PRESIDENT: good morning, gentlemen. 
+AIDES: good morning, sir.
+
+PRESIDENT: this is not what i requested. 
+KAUFMAN: no, sir.
+PRESIDENT: this information goes back three days. i want the standard file, you know that.
+KAUFMAN: right, chief.
+PRESIDENT: so...? where the is it?
+KAUFMAN: we... uh, have been unable to come up with any information before the man appeared at mr. rand's home ...
+PRESIDENT: what the are you talking about, kaufman?
+KAUFMAN: well, we do have data from honeycutt's sources, chief - but it isn't pertinent.
+PRESIDENT: i'd like to hear that data, kaufman.
+KAUFMAN: yes, sir.
+KAUFMAN: suits hand-made by a tailor in chicago in 1918. the tailor went out of business in 1929, then took his own life. ... his shoes were hand-made in 1928. the cobbler has long since been dead. underwear, all of the finest cloth, factory destroyed by fire in 1938. the man carries no identification; no wallet, no driver's license, no credit cards. ... he carries one item along with him, a fine swiss pocket-watch crafted at the turn of the century; so far they have been unable to ascertain where or when purchase was made. ... he has never dyed his hair. ... computers have analyzed gardiner's vocal characteristics; it is impossible to determine his ethnic background, they feel his accent may be northeastern, but they will not commit to that. ... fingerprint check proved negative, no identification possible. ... that's it, mr. president. the president stares at kaufman for a beat, then speaks into his intercom.
+PRESIDENT: miss davis - i'd like my eggs poached this morning, please.
+PRESIDENT: ... so what does all that add up to?
+KAUFMAN: well, sir - it occurred to us that he might be an agent of a foreign power. but, we ruled that out, as they invariably are provided with too much documentation, too much american identity... we, uh...don't quite know what to make of it yet, sir... but we'll keep on top of it, mr. president - we'll come up with the answer.
+PRESIDENT: i would appreciate that.
+
+CHANCE: come in! 
+EVE: chauncey! have you seen the papers?
+CHANCE: no, eve. i don't read the papers.
+EVE: well, it seems you've been described as one of the architects of the president's speech. and your own comments from the 'this evening' show are quoted side by side with the president's.
+CHANCE: i like the president. he is a very nice man.
+EVE: i know... ... so are you, chauncey ... ... do you mind my being here, like this?
+CHANCE: no, eve. i like you to be here.
+EVE: ... you know, chauncey... i want us to be... i want us... you and i to become... close... i want us to become very close, you know...?
+CHANCE: yes, eve. i know that.
+EVE: ... i'm grateful to you, chauncey... i would have opened to you with a touch, and you know that... ... but you're so strong - i can trust myself with you. i'm glad, chauncey - i'm glad that you showed so much restraint...
+CHANCE: yes, eve. i'm very glad that you didn't open.
+EVE: i know you are, chauncey... ... you conquer a woman from within herself, you infuse in her the need and desire and the longing for your love.
+CHANCE: yes. that could be true.
+EVE: ... i guess i may as well be honest about my feelings, chauncey, as i know you are i am in love with you... i love you and i want you... and i know that you know it and i'm grateful that you've decided to wait until... until... eve cannot bring herself to finish the sentence. she rises, straightens her robe and moves toward the door.
+EVE: ... i do love you, chauncey.
+EVE: oh, come in, maggie.
+MAGGIE: yes, ma'am.
+EVE: chauncey, maggie will alter ben's tuxedo for you now.
+CHANCE: fine.
+
+REPORTER #1: mr. gardiner, what did you think of the post's editorial on the president's speech? 
+CHANCE: i didn't read it.
+REPORTER #2: but air - you must have at least glanced at it.
+CHANCE: no. i did not glance at it.
+REPORTER #3: mr. gardiner, the new york times spoke of your 'peculiar brand of optimism,' what was your reaction to that?
+CHANCE: i did not read that either.
+REPORTER #3: well, how do you feel about that phrase, 'peculiar brand of optimism?'
+CHANCE: i do not know what it means.
+REPORTER #2: sorry to persist, air, but it would be of great interest to me to know what newspapers you do read.
+CHANCE: i do not read any newspapers. i watch tv.
+TV REPORTER: ... do you mean, mr. gardiner, that you find television's coverage of the news superior to that of the newspapers?
+CHANCE: i like to watch tv.
+CHANCE: you're welcome.
+EVE: i've never seen anyone handle the media as well as you, chauncey. you're so cool and detached - almost as if you were born to it.
+CHANCE: thank you, eve.
+
+WATSON: mrs. rand, how good to see you. 
+EVE: mr. watson.
+WATSON: and you must be mr. gardiner, correct?
+CHANCE: yes.
+EVE: chauncey, this is mr. dennis watson of the state department.
+CHANCE: hello, dennis.
+WATSON: a pleasure to meet you, sir.
+CHANCE: yes. it is.
+SOPHIE: eve, child! how nice of you to come.
+EVE: hello, sophie.
+SOPHIE: and look who you brought with!
+EVE: sophie, this is chauncey gardiner...
+SOPHIE: oh, i've been just dying to meet you, mr. gardiner!
+EVE: chauncey, this is mrs. sophia rowley.
+CHANCE: hello, sophia.
+SOPHIE: sophie, please - call me sophie!
+SOPHIE: you just have to let me introduce you to some of the exciting people here... why, pat boone and his daughter may drop by later!
+
+PRESIDENT: ... how are the kids getting along? 
+FIRST LADY: oh. well, i just talked to cindy this morning. she loves california, but to quote her, she says, 'the secret service is getting to be a drag.' i guess she wants her privacy...
+PRESIDENT: huh... i'm glad they're along with her, if you know what i mean... how about jack?
+FIRST LADY: well, i think jack needs some time alone with you, darling... he's getting to that age, you know... he really misses you...
+PRESIDENT: yeah... i'll have a talk with him as soon as... a knock at the door interrupts the president.
+PRESIDENT: ... yes, come in!
+KAUFMAN: sorry to disturb you, chief but we have new developments.
+PRESIDENT: oh? what?
+KAUFMAN: we have word that the soviets have put out a top priority alert for information on gardiner's background. so far, they haven't come up with a thing - what's more, as a result of their eagerness, one of their ablest agents blew his cover, we have him in custody at this time.
+PRESIDENT: good. anything else?
+KAUFMAN: yes, chief - eight other foreign powers have put gardiner under surveillance. we're around-the clock now, sir - i'll keep you posted.
+
+SKRAPINOV: mrs. rand. how delightful. 
+EVE: it seems like ages, mr. ambassador. mrs. skrapinov.
+SOPHIE: mr. gardiner, let me introduce you to our guest of honor, his excellency vladimar skrapinov, ambassador of the soviet union.
+CHANCE: hello... his... his...
+SOPHIE: ambassador skrapinov, this is mr.
+SKRAPINOV: delighted. delighted.
+SOPHIE: and this is mrs. skrapinov.
+SKRAPINOV: you must sit with us, my friend, we have much to discuss.
+CHANCE: i agree.
+SKRAPINOV: how is my dear friend benjamin feeling?
+EVE: he's doing as well as could be expected, mr. ambassador. he still speaks of the stimulating discussions he's had with you.
+SKRAPINOV: ah, yes. please give him my regards.
+EVE: of course.
+SOPHIE: come on, eve. let's let the men talk, there are so many people that have been asking about you.
+EVE: would you two excuse me for a moment?
+SKRAPINOV: regretfully, mrs. rand - i shall yield the pleasure of your company to others.
+CHANCE: yes, eve. i shall yield too.
+EVE: i'll be back soon...
+SKRAPINOV: i'm sorry we haven't met sooner, mr. gardiner. i had the pleasure of seeing you on television last night and i listened with great interest to your down-to-earth philosophy. i'm not surprised that it was so quickly endorsed by the president. ... tell me, mr. gardiner, just how serious is benjamin's illness? i did not want to upset mrs. rand by discussing it in detail.
+CHANCE: ben is very ill.
+SKRAPINOV: yes, so i've heard, a shame... as you know, we in the soviet union have the keenest interest in developments of the first american financial corporation... we are pleased to hear that you may fill benjamin's place should he fail to recover. be seated, please, mr. gardiner.
+SKRAPINOV: ... mr. gardiner, i wish to be quite candid - considering the gravity of your economic situation, shouldn't we, the diplomats, and you, the businessman - get together more often?
+CHANCE: yes, i agree, i think so too.
+SKRAPINOV: to exchange our thoughts - what does a russian know about business? on the other hand, what does an american know about diplomacy?
+CHANCE: yes, i understand.
+SKRAPINOV: and i have noticed in you a certain reticence regarding political issues - so why not a coming together? an interchange of opinion? we may find, my friend, that we are not so far from each other, not so far!
+CHANCE: we are not far... ... our chairs almost touch.
+SKRAPINOV: bravo! bravo! our chairs are indeed almost touching! and we want to remain seated on them, correct? we don't want them snatched from under us, am i right? because if one goes, the other goes, and then - boom! boom! and we are both down before our time, you see? and neither of us wants that, do you agree?
+CHANCE: i certainly do.
+SKRAPINOV: yes. tell me, mr. gardiner - do you by any chance enjoy krylov's fables? i ask this because there is something... there is something krylovian about you.
+CHANCE: do you think so? do you think so?
+SKRAPINOV: so you know krylov!
+SKRAPINOV: so you know your krylov in russian, do you? mr. gardiner, i must confess i had suspected as much all along - i know an educated man when i meet one!
+CHANCE: oh, good.
+SKRAPINOV: yes, it is very good!
+CHANCE: yes, it is. would you tell me your name again, please?
+SKRAPINOV: ho! ho! a dash of american humor!
+CHANCE: yes. i like that name very much.
+SKRAPINOV: and yours, sir - chauncey gardiner! how poetic! chauncey, a name of uncertain meaning! and gardiner, a bit of the french, a suggestion of a stroll through the flowers! a beautiful name, my friend!
+SKRAPINOV: mrs. rand! you have returned to us!
+EVE: only to steal mr. gardiner away, if i might. everyone wants to meet you.
+CHANCE: yes, eve. that would be good.
+SKRAPINOV: we must speak again, mr. gardiner, many times!
+CHANCE: thank you.
+SKRAPINOV: yes? what have you found?
+KARPATOV: we have nothing on him, ambassador skrapinov.
+SKRAPINOV: quietly, please. mr. gardiner, for one, understands our language.
+KARPATOV: sorry, comrade ambassador.
+SKRAPINOV: what do you mean there is nothing?
+KARPATOV: there is no information available on the man before he moved into benjamin rand's. it has proven to be such a difficult task that it has resulted in the loss of one of our agents to the united states government.
+SKRAPINOV: but... where was this man gardiner before last week?
+KARPATOV: apparently the white house shares our curiosity - they have also launched an investigation, and, according to our sources, neither the f.b.i. nor the c.i.a. has met with success.
+SKRAPINOV: i see. clearly, such interest on their part is of great political significance.
+KARPATOV: clearly, yes comrade.
+SKRAPINOV: hmmm... take this down. i want this quote included in the tass coverage; 'chauncey gardiner, in an intimate discussion with ambassador skrapinov, noted that "unless the leaders of the opposing political systems move the chairs on which they sit closer to each other, all of their seats will be pulled from under them by rapid social and political changes."'
+KARPATOV: very good, your excellency.
+
+COURTNEY: ... it's strictly rumor at this stage, lyman - just something in the wind... 
+STUART: something rather big in the wind, i'd say. so whose files were destroyed? the cia's or the fbi's?
+COURTNEY: i don't know. like i said, it's just rumor so far, but we should start nosing around, see if we can talk to some people...
+STUART: ... but why? the question is why? why would they destroy gardiner's files? what is it about his past they are trying to cover up? ... a criminal record? a membership in a subversive organization? homosexual, perhaps?
+FRANKLIN: ... and he told us that he had been living there since he was a child, working as a gardener. he showed us a room in the garage, where he said he stayed, and i... well, i didn't really believe him, of course - but why the act?
+ALLENBY: i have no idea...
+FRANKLIN: another thing that baffles me, doctor - what was his connection with the deceased? major financial dealings, obviously - but our firm has no record of any such transactions.
+ALLENBY: hmmm. you say he showed you his garden?
+FRANKLIN: well, he said it was his, he walked us through it.
+ALLENBY: i see. mr. franklin, i must ask you and miss hayes to keep this incident with mr. gardiner to yourselves. there's no telling what he was involved in, and the matter may be extremely confidential. so please, not a word.
+FRANKLIN: of course, doctor, i understand.
+ALLENBY: fine. thank you, mr. franklin.
+FRANKLIN: certainly, glad to be of help.
+
+STIEGLER: mr. gardiner, i'm ronald stiegler, of harvard books. 
+CHANCE: hello, ronald.
+STIEGLER: mr. gardiner, my editors and i have been wondering if you'd consider writing a book for us? something on your political philosophy. what do you say?
+CHANCE: i can't write.
+STIEGLER: of course, who can nowadays? i have trouble writing a post card to my children! look, we could give you a six figure advance, provide you with the very best ghostwriter, research assistants, proof readers...
+CHANCE: i can't read.
+STIEGLER: of course not! no one has the time to read! one glances at things, watches television...
+CHANCE: yes. i like to watch.
+STIEGLER: sure you do! no one reads!... listen, book publishing isn't exactly a bed of roses these days...
+CHANCE: what sort of bed is it?
+
+RAND: everything. i said everything and that's exactly what i mean. 
+MONROE: but, mr. rand, the holdings are so extensive, i would like to be more precise in...
+RAND: what could be more precise than everything...?
+MONROE: everything to mrs. rand.
+TOWNSEND: right - everything.
+RAND: you two don't have to lecture me on the complexities of the situation, no one knows that better than myself... but you must understand that i have an endless faith in mrs. rand's abilities - i know that she will select the right person for guidance when she has the need... she has shared my life, gentlemen, she has given me far more pleasure than any of my so called assets... life has suddenly become very simple for me now - i may be older than my years, and you might think me to be somewhat feeble... but i am still in love, gentlemen, thank for that...
+
+DENNIS: we could do it now, we can go upstairs. ... please, it's time for us. come upstairs. 
+CHANCE: i like to watch.
+DENNIS: watch? you mean just watch me?
+CHANCE: yes. i like to watch very much.
+DENNIS: well, if that's what you want, then i want it too. we can go this way.
+CHANCE: i want to tell eve.
+DENNIS: tell eve? you mean mrs. rand?
+CHANCE: yes.
+DENNIS: oh, you can tell her later. she'll never miss you in this crowd.
+
+FIRST LADY: ... maybe you should talk to somebody, darling. 
+PRESIDENT: no, that won't do any good.
+FIRST LADY: ... is it me? is there something i've done?
+PRESIDENT: oh, no, sweetheart - it's not you...
+FIRST LADY: it's your job. it never happened when you were a senator...
+PRESIDENT: it's not that, i just...
+PRESIDENT: yeah, kaufman - what is it?
+KAUFMAN'S VOICE: chief, we have a break in the case. our man at the washington post says they are working on a story that either the cia or the fbi destroyed gardiner's files before anyone could get to them.
+PRESIDENT: what? why?
+KAUFMAN'S VOICE: i can't say at this time - neither agency will admit to a thing.
+PRESIDENT: okay, get both directors over here, i'll be right down.
+
+DENNIS' VOICE: can you see well? 
+CHANCE: yes, very well, thank you.
+DENNIS' VOICE: do you like it?
+CHANCE: yes. it's very tiny, but it's good.
+DENNIS' VOICE: ... are you sure you like it?
+CHANCE: yes, i do, it's very good.
+DENNIS' VOICE: really? really!!!
+CHANCE: do you need a doctor? i could call robert...
+DENNIS' VOICE: i don't want robert.
+CHANCE: i see.
+DENNIS' VOICE: your foot! give me your foot!!
+CHANCE: are you sure you're not ill?
+
+NOVOGROD: the rank-and-file in the fbi feel he is fbi, but others feel he is a cia man who knows how to destroy fbi files. 
+SKRAPINOV: that could be possible...
+NOVOGROD: but we are quite certain, comrade, that this man gardiner is a leading member of an american elitist faction planning a coup d'etat.
+SKRAPINOV: a coup d'etat! of course, that was foreseen by lenin himself!
+NOVOGROD: that is correct, comrade skrapinov. we have ascertained that gardiner heads a big-business power group that will soon be taking over the american government.
+SKRAPINOV: big business. i could work with that faction quite nicely, colonel novogrod.
+NOVOGROD: you have proven that already, comrade skrapinov, you are to be congratulated for recognizing the importance of this man and establishing an early friendship.
+SKRAPINOV: thank you, colonel.
+NOVOGROD: let us toast to the success of the coup.
+GROUP TOAST: na zdorov'e!
+
+EVE: chauncey, where have you been? i was afraid you got bored and left, or that you were with some mysterious woman. 
+CHANCE: no. i was with a man. we went upstairs.
+EVE: upstairs? chauncey, you're always involved in some sort of discussion...
+CHANCE: he was very ill, i stayed with him for a while.
+EVE: it must be the punch, and it is stuffy in here -- i feel it a little myself. you're an angel, my dear - thank there are still men like you around to give aid and comfort.
+
+HONEYCUTT: i never gave such a directive, mr. 
+BALDWIN: nor i, sir - it would be out of the question.
+PRESIDENT: gentlemen, i didn't call you here at such an hour to make accusations, i just want to explore the possibilities. now, i have three questions; is the man a foreign agent? or, have we suddenly found that our methods of gathering data are grossly inefficient? or, thirdly, have the man's files been destroyed? now, i'd like some answers.
+BALDWIN: gardiner is not a foreign agent, there are now sixteen countries investigating the man. we can rule that out.
+PRESIDENT: very well... can we rule out inefficiency...?
+PRESIDENT: i see. what about question three? is it possible to erase all traces of a man?
+HONEYCUTT: highly unlikely, sir... in fact, the boys around the bureau feel that the only person capable of pulling it off would be an ex f.b.i. man.
+BALDWIN: i don't think that's entirely true, grover.
+PRESIDENT: and what do the boys around intelligence think?
+BALDWIN: well, mr. president... they don't quite know what to think.
+PRESIDENT: gentlemen, needless to say, there is going to be a full congressional investigation of your respective operations. good night.
+EVE: i feel so close to you, so safe with you, chauncey... ... and benjamin understands that, dearest... he understands and accepts my feelings for you...
+CHANCE: yes, eve. ben is very wise.
+EVE: ... come in, chauncey - please come in...
+CHANCE: thank you.
+
+EVE: i can sense that you've been through a lot, chauncey. but one day, when you feel like it, you'll tell me all about your life... ... but, even if you tell me nothing, even if it's too painful for you to reveal your past... 
+EVE: ... you don't want me, chauncey... you don't feel anything for me... nothing at all...
+EVE: i just don't excite you at all... i don't know what you want... i don't know what you like...
+CHANCE: i like to watch.
+EVE: to watch...? to watch me...?
+CHANCE: yes. i like to watch.
+EVE: ... is that all you want...? ... to watch me...?
+CHANCE: yes. it's very good, eve.
+EVE: ... but i've never done... ... you mean...? when... when... when i do it? ... when i touch myself...?
+EVE: oh, chauncey...
+EVE: one of those little things you don't know about me yet, darling - i'm a little shy.
+CHANCE: good night, eve.
+
+RAND: no more, robert... no more needles... 
+ALLENBY: it's not good, ben - i'm sure you can feel it.
+RAND: i know, robert... but, strangely enough, i don't feel too bad about now... i feel all right... i guess it's easier... knowing chauncey is here... to take care of things...
+RAND: no, i don't want any of that... please... please, just get me mr. gardiner, teresa - please... he'll head it up...
+
+EVE: ... and i feel so free now, chauncey. until i met you, i never felt acknowledged by a man... ... i always had the feeling that i was just a vessel for a man, someone that he could take hold of, pierce, and pollute. i was merely an aspect of somebody's lovemaking. do you know what i mean? 
+EVE: dearest, you uncoil my wants; desire flows within me, and when you watch me my passion dissolves it. you set me free. i reveal myself to myself and i am drenched and purged.
+CHANCE: that's very interesting, eve.
+TERESA: mr. gardiner. mr. rand would like to see you.
+CHANCE: yes. i would like to see ben.
+
+RAND: ... chauncey... chauncey... 
+CHANCE: yes, ben - are you going to die now?
+RAND: ... i'm about to surrender the horn of plenty for the horn of gabriel, my boy...
+CHANCE: oh, i see.
+RAND: let me feel the strength in your hand, chauncey... let me feel your strength... yes, that's good... i hope, chauncey - i hope that you'll stay with eve... take care of her, watch over her, she's a delicate flower, chauncey...
+CHANCE: a flower...
+RAND: she cares for you and she needs your help, chauncey... there's much to be looked after...
+CHANCE: yes. i would like to do that.
+RAND: ... i've worked very hard and enjoyed my life... i've known success... and i've felt love... my associates, chauncey - i've talked with them about you... they're eager to meet you... very eager to meet you... i'm very fond of you, chauncey... and i understand eve... tell her that... tell her i'm madly in love with her...
+ALLENBY: ... he's gone, chauncey.
+CHANCE: yes, robert. i have seen it before.
+ALLENBY: yes, i suppose that's true.
+CHANCE: will you be leaving now, robert?
+ALLENBY: in a day or two, yes.
+CHANCE: eve is going to stay. the house will not be closed.
+ALLENBY: ... you've become quite a close friend of eve's - haven't you mr... ... chance...?
+CHANCE: yes. i love eve very much.
+ALLENBY: i see... ... and you are really a gardener, aren't you?
+CHANCE: yes, robert - i am. i'll go tell eve about ben now, robert.
+
+PRESIDENT: ... millions of people across the world have heard of the passing of benjamin rand; but, unfortunately, only relatively few will feel the pain and sadness at such a loss. to most, benjamin rand was a legend; to those of us gathered here today, benjamin was a beloved friend. my personal association with benjamin dates back many years, and my memories of our friendship will stay with me forever. 
+PRESIDENT: i initially came in contact with the rand name in 1943. 1 was a young lieutenant in the air corps, a navigator flying missions over europe. that plane that i learned to know so well was manufactured by the rand aeronautics corporation. benjamin rand was an industrial giant, known to be powerful and uncompromising, and yet, on a personal level, we have all felt his warmth and humor... ... i would like to share with you a few quotes, and a few feelings from our dear friend. ... 'i do not regret having political differences with men that i respect; i do regret, however, that our philosophies kept us apart.' ... 'i have no use for those on welfare, no patience whatsoever... but, if i am to be honest with myself, i must admit that they have no use for me, either.' ... 'i was born into a position of extreme wealth, i have spent many sleepless nights thinking about extreme poverty - i do not know the feelings of being poor, and that is not to know the feelings of the majority of people in this world. for a man in my position, that is inexcusable.' 'life is a state of mind.' ... 'when i was a boy, i was told that the lord fashioned us from his own image. that's when i decided to manufacture mirrors.'
+
+DUDLEY: but what do we know of the man? nothing! we have no inkling of his past! 
+NELSON: correct, and that is an asset. a man's past can cripple him, his background turns into a swamp and invites scrutiny.
+CALDWELL: to this time, he hasn't said anything that could be used against him.
+BENNET: well, i'm certainly open to the thought - it would be sheer lunacy to support the president for another term.
+NELSON: no one will go along with that... look at the facts, gentlemen, the response from his appearance on 'this evening' was overwhelming; he has excited and awakened the people of this country at a time of despair.
+MURRAY: he's personable, elusive, yet seemingly honest. he's riding a crest of popularity that builds with every statement. as far as his thinking goes, he appears to be one of us. i firmly believe, gentlemen, that he is our only chance - mr.
+
+EVE: it was very moving, bobby - thank you so much... 
+PRESIDENT: we're all going to miss him, eve... ... where's mr. gardiner?
+ALLENBY: ... he walked off...
+EVE: chauncey is so sensitive... he was overcome with grief...
+PRESIDENT: i can certainly understand that...
+FIRST LADY: of course... i'm so sorry for you, eve...
+EVE: thank you, nancy.
+FIRST LADY: i'll call you soon.
+
+EVE: ... do you think we should look for him? 
+ALLENBY: i don't think so, he should be along soon...
+EVE: i wish he were here...
+
+EVE: we have to find him, robert - he could be lost, something may have happened, we can't leave him! 
+ALLENBY: you really care for him, don't you, eve?
+EVE: i do - we do - both of us, ben and i feel so much for chauncey...
+ALLENBY: i think we'd better go look for him. david!
+
+JEFFREY: look! 
+EVE: there he is! chauncey!
+
+EVE: chauncey! chauncey! 
+CHANCE: hello, eve.
+EVE: oh, chauncey...!
+EVE: oh, chauncey, darling... where have you been? we thought we'd lost you - we've been looking all over!
+CHANCE: yes. i've been looking for you, too, eve.
 

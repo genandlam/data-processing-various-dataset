@@ -1,1013 +1,1013 @@
-speaker1: watches his watering, then looks up. 
-speaker2: the water hits the grass and mats it down.
-speaker3: moves the hose over a bush and gets a kink in it.
-speaker4: loud hissing noise.
-
-speaker1: gregg. billy's waiting for his teddy. 
-speaker1: gregg! billy's waiting for his teddy, honey.
-
-speaker1: thanks for keeping me waiting so long. 
-speaker2: i'm sorry, louise.
-
-speaker1: can't you come to the airport? 
-speaker2: jeffrey. i can't. i really can't. i have to go to that class tonight. i can't get out of it. i really can't. i love you, jeffrey. i'll miss you.
-speaker1: alright. i'll call you in a couple of days, you know. i'll let you know how things are.
-speaker2: okay. i'll be here. you better git-going. i gotta go too sweetie. i hope your father's okay. i love you. i'm sorry, jeffrey.
-speaker1: i love you too, louise. it. i'll see you. they kiss.
-
-speaker1: hi mom. hi aunt barbara. 
-speaker2: where's all your things, jeffrey?
-speaker1: this is it.
-speaker1: i sent a trunk home yesterday. this is all i have.
-speaker3: you look good, jeffrey. did you have a nice flight?
-speaker1: yeah. how's dad?
-speaker2: he's alright. we'll tell you on the way home.
-
-speaker1: he had a cerebral hemorrhage and they think there's some sort of clot, or tumor, or something in there. they're doing all sorts of tests. on the surface, he looks pretty good, but there are problems. they think he may have to stay in two weeks now, at least. you can go see him though tomorrow, jeffrey. 
-speaker2: they tore down the a and p, jeffrey. did you see that?
-speaker3: aunt barbara that was 5 years ago.
-
-speaker1: mrs. beaumont is calling upstairs to jeffrey. 
-speaker2: jeffrey, breakfast is ready.
-speaker3: be right down.
-speaker4: this is marvelous jam. are you going this morning?
-speaker2: i think jeffrey would like to see his father alone.
-speaker3: what time are visiting hours?
-speaker2: i've made arrangements with dr. gynde for 10:30. but jeffrey, you'll have to walk over; i need the car this morning.
-speaker3: well. okay.
-speaker2: jeffrey, when you see your father.
-speaker3: yeah?
-speaker2: he doesn't know you're out of school. he thinks it's a vacation for you.
-speaker3: what?
-speaker2: it would be too much for him. so please let him think as he does, that you're home just to see him.
-speaker3: thanks a lot, mom.
-speaker2: .jeffrey!. nobody wanted you to leave school and go to work in the store. maybe going back to school will be an option one day. i hope so.
-speaker4: i think it's important not to get depressed. depression is a terrible thing. they say it can bring on illness.
-speaker3: aunt barbara. i'll try not to get depressed.
-
-speaker1: please wait outside while dr. gynde prepares him to see you. 
-speaker2: prepares him?
-
-speaker1: hello jeffrey. 
-speaker2: hello, doctor gynde. how is he?
-speaker1: he's fighting hard. jeffrey. it's very important that your father doesn't try to move. he's been immobilized. it would be very painful for him. sit close. you do the talking and moving. he knows you're here. he became very emotional. i don't think he likes the idea of you seeing him like this.
-speaker2: hi dad.
-speaker3: hey jeff.
-speaker2: looks like they've got you strapped in pretty good.
-speaker3: uh uh.
-speaker2: are you feeling okay?
-speaker3: uh uh.
-speaker3: good to see you, son.
-speaker2: it's good to see you, dad.
-
-speaker1: hello. could you tell me if detective williams is still working here? 
-speaker2: he's up in room 221. right up the stairs.
-
-speaker1: are you detective williams? 
-speaker2: yes.
-speaker1: my name is jeffrey beaumont - i live near you. i believe you know my father, tom beaumont - beaumont's hardware store?
-speaker2: sure i do. i understand he's in the hospital. how is he?
-speaker1: he's alright, i guess. i hope. they're doing tests, that's why i'm home from school. i was over at the hospital this morning and i was going home and in the field behind our neighborhood. there behind vista, i found an ear.
-speaker2: you did? a human ear?
-speaker1: yeah. i've got it here in this bag. i thought i should bring it to you.
-speaker2: yep, that's right. let's take a look at it.
-speaker2: that sure looks like a human ear, doesn't it?. let's run it down to the coroner's office and see what they make of it. then, i want you to show me exactly where you found it.
-
-speaker1: the tests will take awhile. meanwhile, we'll check the morgue records. i don't recall anything coming in minus an ear. 
-speaker1: now if you'd found a jaw or let's say, a heart, or even an arm, we would assume that there was a corpse, however, a finger or an ear. the person may very well be alive somewhere.
-speaker2: what can you tell about the person from the ear?
-speaker1: well. when the tests are done, quite a lot . sex, blood type, whether or not the ear came off a dead person. right now, i know what you know. it's a real human ear. the human was, or is, caucasian. . also. it looks like the ear was cut off with scissors.
-
-speaker1: by the way, jeffrey, this story isn't going to the press and i'm going to ask you to consider all you've heard strictly confidential. do not discuss this business with anyone, but me, or other police personnel. got it? 
-speaker2: got it. thanks for letting me in on as much as you did.
-speaker1: come on. i'll drive you home. it's on my way.
-
-speaker1: i'm going out for awhile. 
-speaker2: do you want the car?
-speaker1: no, i'm just gonna walk around.
-speaker2: alright.
-speaker3: jeffrey. you're not going down by lincoln, are you?
-speaker1: no. i'm just going to walk around the neighborhood. don't worry.
-
-speaker1: hello. uh. my name is jeffrey beaumont. is detective williams in? 
-speaker2: oh, yes, jeffrey. come in. he'll be back any minute now. you're welcome to wait. is it urgent?
-
-speaker1: i just wanted to ask him a few questions, that's all. maybe i better go. 
-speaker2: really, he'll be home soon, would you like a cup of coffee?
-speaker1: alright.
-
-speaker1: i was sorry to hear about your father. i know your mother from church. it's such a shame. 
-speaker2: yeah, i know.
-speaker1: would you like a piece of cake?
-speaker2: no. no thank you.
-speaker1: it's a real good chocolate cake. duncan hines' devil's food. real good.
-speaker2: yeah. okay.
-
-speaker1: sandy?. 
-speaker1: jeffery, this is my daughter, sandy, and. her boyfriend, mike.
-speaker2: mike's gotta go. nice to meet you.
-speaker3: yeah, nice meetin' yuh.
-speaker4: yeah. it was nice meeting you too.
-speaker1: he comes over to study.
-speaker4: yeah.
-speaker5: pam?
-speaker1: in the kitchen, john!
-speaker5: oh. hello, jeffrey. what's up?
-speaker5: come into the study a minute.
-speaker4: excuse me, mrs. williams.
-speaker1: certainly.
-
-speaker1: shut the door. 
-speaker1: detective williams here. yeah. tell him to go to sergeant milton. yeah, copy. well, jeffrey, you found something which is very interesting to us. very interesting. i know you must be curious to know more. but. i'm afraid i'm going to have to ask you not only not to tell anyone about your find, but also not to ask more about the case. one day. when it's all sewed up, i'll let you know all the details. right now, though. i can't.
-speaker2: i understand. i'm just real curious like you said.
-speaker1: i was the same way when i was you age. i guess that's what got me into this business.
-speaker2: it must be great.
-speaker1: and it's horrible too. i'm sorry jeffrey. that's the way it has to be. anyway. i'm sure you do understand.
-
-speaker1: mrs. williams? thanks for the cake. 
-speaker2: oh, you're welcome. nice to finally meet you, jeffrey.
-speaker1: say "goodnight" to sandy.
-speaker3: we will. good night.
-
-speaker1: are you the one that found the ear. 
-speaker2: yeah, how did you know?
-speaker1: i just know, that's all. i remember you from central.
-speaker3: they slowly walk down the street together.
-speaker2: oh yeah?
-speaker1: you were pretty popular. didn't you run for some office?
-speaker2: yeah i did. treasurer. shouldn't you be studying or something.
-speaker1: am i bothering you?
-speaker2: no. you're not bothering me. you a senior?
-speaker1: yes.
-speaker2: how is central these days?
-speaker1: terrible. boring.
-speaker2: what else is new?. right?
-speaker1: yeah. what are you doing now?
-speaker2: i'm home from school. my father's in the hospital.
-speaker1: that's too bad.
-speaker2: what do you know about the ear?. anything?
-speaker1: didn't my father tell you not to talk about it?
-speaker2: come on. you brought it up. do you know anything?
-speaker1: i don't really know much but bits and pieces . i hear things. my room is right above my father's office. the ear. there's no corpse in the morgue missing an ear, and it did come off a living person. that's direct from the coroner's office. the person is unknown. there are a couple of cases i get mixed up on, but i think there are some people who were brought in for questioning on a murder case that could have something to do with the ear. i heard some of the same names.
-speaker2: do you know who was brought in for questioning?
-speaker1: there were at least three, maybe four. but a name that keeps coming up is this woman who lives in an apartment building very close to your house and also close to the field where you found the ear. there's also a business man over by the franklin factory district that was questioned. and a musician. and some others.
-speaker2: were all these people questioned this afternoon?
-speaker1: no. this has been going on for some time . several months. about six months ago some parts of bodies were found down by the river. they were from people who were reported missing. they never found one complete body. only parts.
-speaker2: the ear is from a missing person maybe?
-speaker1: maybe so.
-speaker2: it's a strange world isn't it? do you know what building the woman lives in?
-speaker1: yeah. it's close by. that's what's creepy. they've had her under surveillance for a couple of months, except i don't know what they've found out because my father isn't in charge of her.
-speaker2: i guess you have to get back home soon?
-speaker1: not really, why? you want to see the building?. come on, i'll show you.
-
-speaker1: that's the building. she lives on the seventh floor. don't stop to look long . the police are watching. 
-speaker2: where are they?
-speaker1: i don't know. you're not supposed to see them. they're supposed to see you.
-speaker2: did they find out anything when they questioned her?
-speaker1: i don't know. like i said, she's not my father's case.
-speaker2: oh yeah. what about those other people?
-speaker1: my father is watching the businessman. the businessman had a partner who disappeared. left his whole business and family, his wife and two kids. they think he's been murdered.
-speaker2: you really do hear a lot, don't you?
-speaker1: yeah, i guess so. what are you going to do now that you're home?
-speaker2: i have to help out in my father's hardware store. they're giving me sort of my own hours for a while. which is nice.
-speaker1: still, it must be kinda rough.
-speaker2: it's not bad. but it's bad enough. it's a lot worse for my father. i used to know a kid who lived there and who had the biggest tongue in the world. jeffrey and sandy both laugh.
-speaker1: what happened to him?
-speaker2: i don't know. he moved away.
-
-speaker1: they arrive back at sandy's home. 
-speaker2: in front of sandy's home.
-speaker3: i've gotta go in.
-speaker4: thanks for the tour. it was nice talking to you.
-speaker4: i guess i'll see you sometime.
-speaker3: i guess so. like you said. it's a strange world.
-speaker4: yeah. good bye.
-
-speaker1: you hungry or thirsty, or both? 
-speaker2: i don't know.
-speaker1: i'd like to talk to you about something.
-speaker2: just a minute. pull over and wait a minute.
-speaker2: please, don't say anything to mike. promise?
-speaker1: i don't want to cause any trouble.
-speaker2: i'm here, aren't i?
-speaker1: i guess mike's got some sort of sports practice in the afternoon.
-speaker2: ooooo, you are smart. just don't get too smart.
-
-speaker1: alright, now tell me. what is it? 
-speaker2: there are opportunities in life for gaining knowledge and experience. sometimes, in some cases. it's necessary to take a risk. i got to thinking. i'll bet a person could learn a lot by getting into that woman's apartment. you know. sneak in and hide and observe.
-speaker1: you said it was a strange world. and you're the strangest part of it. are you crazy.she is possibly involved in murder. this gives me the creeps.
-speaker2: settle down. i have a plan which i think will work. there is very little for you to do, but i do need your help. .aren't you curious about my plan?
-speaker1: it wouldn't hurt to hear the plan, i guess.
-speaker2: alright. the first thing is to get into her apartment and open a window that i could crawl into later.
-speaker1: now, how are you going to do that?
-speaker2: right out in the car i happen to have some old overalls and a bug spraying rig. i will go to her apartment and be the pest control man. i will spray her apartment. after a few minutes you will knock on her door, drawing her attention away from me and i will then jimmy a window.
-speaker1: what will i say when she comes to the door?
-speaker2: you will be a jehovah's witness. i have a few "awake" magazines for you. you don't have to keep her very long. a few seconds is all i'll need. whatiya think?
-speaker1: i don't know. it sounds like a good daydream, . but actually doing it is too weird. too dangerous.
-speaker2: let's just try the first part. if that goes well, we'll see about the rest. no one will suspect us, because no one would believe two people like us would be crazy enough to do something like this.
-speaker1: you've got a point there.
-
-speaker1: now. we'll walk over so there's no license plates and you give me at least three minutes. i can stall if it's more, but i need time to find a good window .alright? 
-speaker2: alright.
-speaker1: let's go.
-
-speaker1: okay, i'm going ahead. wait a minute, what's her name? 
-speaker2: oh bother. dorothy vallens, seventh floor. look on the mailbox for her number, bright boy.
-speaker1: thanks. dorothy vallens. okay. good luck . three minutes, no sooner.
-speaker2: alright. good luck, yourself.
-
-speaker1: well, it's about time you came. 
-speaker2: that's a good sign.
-speaker3: yes? what is it?
-speaker2: pest control. gotta do your apartment.
-speaker3: oh that stuff stinks.
-speaker2: nope. it's new stuff. no smell.
-speaker3: oh yeah, that's good.
-
-speaker1: what is this. grand central station? 
-speaker2: that oughta do it.
-speaker1: yeah.
-
-speaker1: are you alright? 
-speaker2: yeah. let's get outta here. what happened?
-speaker1: i was just about to go to the door, when that man did my job for me. was it alright?
-speaker2: yes and no. did you recognize him?
-speaker1: no. i only saw his back. he went down another stairwell at the end of the hall.
-speaker2: i didn't get a good look at him either, but he sure looked at me. i didn't have time to get a window, but i found this key. pretty nifty, huh?
-speaker1: yeah, if it opens the door.
-speaker2: yeah.
-speaker2: you go first.
-
-speaker1: so. what's next? 
-speaker2: pretty clever. are you game for more?
-speaker1: i owe you. since i goofed up this one.
-speaker2: you didn't goof it up, but. you still owe me one. i want to sneak in tonight. it's friday. do you have a date tonight?
-speaker1: yes. i do.
-speaker2: well, it's friday night and you're a beautiful girl. i guess you would have a date. that does that.
-speaker1: you really want to do this, don't you?
-speaker2: i don't want you to get involved, really, i mean, i do, but if something went wrong i mean, like you said, they may be involved in murder. they pull up in front of sandy's house.
-speaker1: i'll tell mike i'm sick. there's a game tonight anyway and he'll never miss me. afterwards he can go out with the guys. just so the record is kept straight though, i love mike. what do want me to do?
-speaker2: first of all, we'll have a nice dinner.
-speaker1: i already know. the "slow club." it's on route 7.
-speaker2: great. i'll pick you up around eight o'clock. is that good?
-speaker1: yeah, but don't pick me up. my father may think it's strange. i'll walk over to your house. i'll be there at eight o'clock.
-speaker2: okay. you better get out before someone sees us.
-speaker2: see ya!
-
-speaker1: that will take care of you, frances, for another week. i don't want you to overdo things either. take it very easy. 
-speaker2: i'll see to it, bill.
-speaker1: good.
-speaker3: i feel fine.
-speaker1: that's not the point. you're under a great deal of stress. don't overdo it. don't be foolish. jeffrey enters the room - to say goodnight.
-speaker4: doctor gynde. my whole family's sick.
-speaker2: i'm not sick.
-speaker2: we'll see who stays in my will.
-speaker4: can i use the car tonight?
-speaker3: of course, jeffrey.
-
-speaker1: what's the plan. 
-speaker2: first of all, we're going to the slow club to see dorothy vallens. we'll watch her for awhile. i'd like to hear her sing anyway, and then also we'll know she is there and not in her apartment.
-speaker1: brilliant.
-speaker2: then we'll drive back to her apartment and i will plant myself there.
-speaker1: this is not my usual friday night!
-
-speaker1: good evening. two? 
-speaker2: yeah. could we get a small table in the back?
-speaker3: surely, come this way.
-speaker4: may i get you something to drink?
-speaker2: i'd like an ice-cold heineken.
-speaker5: that sounds good.
-speaker2: two.
-speaker4: two heinekens, thank you. the maitre d' leaves.
-speaker2: when does dorothy vallens come on?
-speaker6: i don't know. pretty soon. who knows.
-speaker5: that guy was filled with information.
-speaker2: here's to. an interesting experience.
-speaker5: i'll drink to that.
-
-speaker1: jeffrey, i don't think you ought to do it. 
-speaker2: why not?
-speaker1: it's crazy and dangerous. my i shouldn't have told you.
-speaker2: it'll be okay. i don't think you should wait out here though. i think you should go home. can you drive this car?
-speaker1: yeah. but.
-speaker2: leave it in the front of your house for me. okay?
-
-speaker1: could you wait a little while. this key may not fit. 
-speaker2: . i wish you wouldn't do this. it doesn't make any sense. let's go somewhere and have some coffee.
-speaker1: i'm going in, sandy. i'll see you tomorrow and tell you how it went.
-speaker2: i. i don't want to see you tomorrow.
-speaker1: oh, okay. can i call?
-speaker2: okay. yeah, call.
-speaker1: look. it can wait till sunday.
-speaker2: call tomorrow. it's okay. good luck. i hope you can sneak out okay. you're going to wait until she's asleep?
-speaker1: yeah.
-speaker2: i'm going to wait here until she comes.
-speaker1: are you sure?
-speaker2: i'll honk four times so you'll hear it and know she's on her way up. okay? jeffrey nods.
-speaker1: okay. thanks.
-speaker2: i don't know if you're a detective or a pervert.
-speaker1: that's for me to know and for you to find out. i'll see you. i mean call you. okay?
-speaker2: okay, okay. bye.
-
-speaker1: thanks jimmy, see you tomorrow. you want a drink, or something? 
-speaker2: i better get back. thanks anyway.
-speaker1: goodnight.
-speaker2: goodnight now.
-speaker1: hello. yes. yes sir, frank. let me talk to him. please frank, sir. i like to sing blue velvet. don? it's okay. don't worry. don??. can you hear me? is little donny ok? is he there? don? you mean meadow lane? frank?! what's the matter with him? i know. when? okay. in an hour. i'll be sweet. momma loves you. okay frank, sir.
-
-speaker1: jeffrey. 
-speaker2: jeffrey. jeffrey what?
-speaker1: jeffrey nothing.
-speaker2: you tell me!! let me see that wallet. jeffrey beaumont. what're you doing in my apartment, jeffrey beaumont?
-speaker1: i wanted to see you.
-speaker2: what? are you kidding me? who sent you here?
-speaker1: nobody.
-speaker2: you better tell me something.
-speaker1: i was. an experiment. just to see if i could do it.
-speaker2: an experiment? hey, i've seen you before.
-speaker1: i sprayed your apartment. i took your key. i really didn't mean to do anything but see you.
-speaker2: tell me what you saw tonight. tell me.
-speaker1: . i saw you come in, talk on the phone.
-speaker2: the phone. what did you hear on the phone . tell me. word for word.
-speaker1: you said hello. to frank. you wanted to talk to someone?. don?. and little donny. you said something about momma loves you. and something about a meadow lane. something in an hour. i don't remember any more.
-speaker2: that's right. that's what i said. you have a good memory. then what?
-speaker1: well.
-
-speaker1: then you got undressed. 
-speaker2: how many times have you sneaked into girls' apartments and watched them undress?
-speaker1: never before this.
-speaker2: how'd you like it if someone sneaked into your house and watched you. get undressed. i want to see you.
-speaker1: no. come on.
-speaker2: no, you come on. take off your pants. i want to see you.
-speaker1: look. i'm sorry. just let me leave.
-speaker2: no way.
-speaker2: get undressed. i want to see you.
-
-speaker1: he does. 
-speaker2: come closer.
-speaker2: what do you want from me?
-speaker3: i . i don't know.
-speaker2: what do you want?
-speaker2: don't move. don't look at me.
-speaker2: do you like that?
-speaker3: yes.
-speaker2: don't move or i'll kill you.
-speaker2: do you like talk like that?
-speaker3: no.
-speaker2: lie down on the bed. he lies down. he looks frightened.
-speaker2: hello, baby.
-speaker4: shut up. it's daddy. shithead.
-speaker2: hello, daddy.
-speaker4: . my bourbon.
-speaker4: . sit down. get your chair.
-speaker4: . spread your legs.
-speaker4: wider.
-speaker4: . mommy.
-
-speaker1: . mommy's here. 
-speaker2: baby wants to
-
-speaker1: baby wants blue velvet. 
-speaker2: okay. frank slowly moves
-speaker1: don't look at me!
-speaker1: don't look at me!!! daddy's home.
-speaker1: stay alive baby. see you next christmas!
-speaker3: why don't you come lie down. come on, i'll help you.
-speaker2: don't. i don't like that. what do you want?
-speaker3: nothing. are you alright?
-speaker2: sure i'm alright.
-speaker3: i'll go then.
-speaker2: don?
-speaker3: no.
-speaker2: don. hold me. i'm scared. hold me. please.
-speaker2: thank you. honey.
-speaker3: it's okay. it's okay.
-speaker2: do you like the way i feel?
-speaker3: yes.
-speaker2: see my breasts? . see?
-speaker3: yes.
-speaker2: see my nipples?
-speaker3: yes.
-speaker2: go ahead. i don't mind.
-speaker2: feel me.
-speaker2: you can hit me, if you want to.
-speaker3: no. please. i won't.
-speaker3: stop it!
-speaker2: do you like me?
-speaker3: yes, i like you.
-speaker3: what's the matter?
-speaker2: get off me.
-
-speaker1: i made it go down the toilet. 
-speaker2: what?
-speaker1: i made it go down the toilet.
-
-speaker1: next christmas. is he santa claus who has left a present for dorothy? what was it? an ear? another ear?!! what was it? 
-speaker2: do you know?
-speaker1: no.
-speaker2: you don't?
-speaker1: no. what is happening?
-speaker2: maybe you don't know. i know you though. you're jeffrey beaumont and i know where you live and i know ways to get you and i know ways to kill you.
-speaker1: please don't talk like that. you're upset. i'm not helping you. i'm sorry for what i did. i better go.
-speaker2: go then. i can't let you put it in me now but i want you. i like you.
-
-speaker1: then don't talk about killing. 
-speaker2: did i say that?. i didn't mean it. or did i? sometimes i think it would be fun. go ahead, you better leave now. i can't open myself to you now. i'll tell you a little secret. i want to die.
-speaker1: don't say that.
-speaker2: it's a secret so don't tell anyone. some day i'll show you where. i've gotta go to sleep now.
-
-speaker1: i'm leaving now. 
-speaker2: help me. help me. please help me.
-
-speaker1: you scared me. 
-speaker2: is something wrong? what's happened to your face?
-speaker1: nothing. i'm fine.
-speaker2: you can't just stay out half the night and carry on, jeffrey. there's got to be some order, jeffrey. i thought it would have been nice to call your father when you got home but now it is much too late.
-
-speaker1: how can i help her? i can't tell her to go to detective williams. she'll think i'm a policeman. she has my address. she can go there. if she has to. i'll tell her. and her. and she thinks i'm don. her husband? where the is don? - maybe he died. 
-speaker1: hello?. mrs. williams?. this is jeffrey beaumont. fine. okay. is sandy there? okay. hi sandy. can you talk? he is?. well, i guess i'll talk to you later on. it went okay. i'll tell you about it. dinner?. tomorrow night? seven o'clock, yeah, sounds good. okay. he's still in the hospital. okay, yeah. see you tomorrow. thanks.
-speaker2: the searching, mysterious music plays over while,
-speaker1: this is what my father's disease looks like?
-speaker3: yes.
-
-speaker1: a table in back, please. 
-speaker2: certainly
-speaker1: i'll have an ice-cold heineken.
-speaker2: one heineken, certainly, sir.
-
-speaker1: the mysterious music plays. 
-speaker2: dark, low music now.
-
-speaker1: . and runs through the vacant lot. 
-speaker2: . to dorothy's building.
-
-speaker1: hi. can i come in? 
-speaker2: yeah. hurry up though.
-
-speaker1: are you alright? 
-speaker2: no. i'm not.
-speaker2: why are you here. whatiya want?
-speaker1: . i. uh.
-speaker2: i looked for you in my closet tonight. it's crazy, i don't know where you came from but. i like you.
-speaker1: that's not crazy. i like you too.
-speaker2: i liked being with you last night.
-speaker1: . same here.
-speaker2: oh
-speaker1: frank? .can you stand up?
-speaker2: i'm alright. go hide. this won't take long. be quiet.
-speaker3: frank gone?
-speaker2: yeah. but get outta here. he's comin' back.
-speaker3: bull.
-speaker2: alright, suit yourself.
-speaker3: he's comin' back?. what for?
-speaker2: 'cause he's comin' back, that's what for.
-speaker3: yeah, maybe so. frank's got me. and you. and really it's all thanks to don. isn't it. remember that. your husband was the one who started my mind with drugs.
-speaker2: oh he forced you, huh?
-speaker3: he's the reformed dealer though who wanted to turn himself in. he's the one that caused frank to come and frank's us real good. i just feel so horny. i'm supposed to be here watching you why can't i be here you. listen. i know his cock's the size of a pin - let me give you the real thing. let me wet my whistle, baby.
-speaker2: no way. get out. i'm gonna tell frank.
-speaker3: okay, i'm goin'. you'll see. i'll get you.
-speaker1: nice guy. who's he?
-speaker2: who's it, you mean.
-speaker2: oh don!!! why can't i just die.
-speaker1: there you go again. stop saying that.
-speaker2: i can't. i can't. you think you know so much.
-speaker1: take it easy. what's goin' on anyway?. why are you in so much trouble?
-speaker2: i. don't. okay. just don't. just be with me. oh come with me. who are you. come up here.
-
-speaker1: look. 
-speaker2: no.
-speaker1: falling.
-speaker2: no. please, dorothy. why are you in so much trouble?
-speaker2: who is don?
-speaker1: don?. are you in with them?
-speaker2: no. but you're in very big trouble.
-speaker1: why are you so interested? why do you keep asking me?
-speaker2: i came back to help you. you said do i let girls sneak into my house. you know where i live. if you need to. come to where i live. o.k.?
-speaker1: who are you? maybe i'll need to. you like me, huh?
-speaker2: yes.
-speaker1: . or do you just want me? i'm going to let you enter me now.
-speaker2: no. i should go.
-speaker1: please. please stay.
-speaker2: why dorothy?
-speaker1: don? i have to make it hurt. i want there to be nothing again. don!!!
-
-speaker1: will you tell mom when she gets home from the hospital that i've gone to dinner at sandy williams' house? 
-speaker2: okay honey. that sounds nice. jeffrey.
-speaker1: oh yeah?. have you seen any?
-speaker2: i've seen a few.
-speaker1: well, i haven't seen any. i wouldn't worry about it. look. i better go.
-speaker2: okay honey.
-
-speaker1: we thank you in the name of the father, the son, and the holy ghost. amen. they start passing food around. 
-speaker2: like i was saying. if you toss the ball like this, with your fingers just down here, that thing'll spin like a beauty. real straight.
-speaker3: yeah? then how come nobody caught anything last week?.
-speaker2: 'cause we had a bad day.
-speaker3: you play any sports, jeffrey?
-speaker4: no.
-speaker2: looks like you'd make a good runner.
-speaker4: well.
-speaker2: i mean, you don't exactly have the build for a football. i mean. no offense.
-speaker4: no. you're right.
-speaker2: i mean. some guys play anyway but they usually get slaughtered.
-speaker4: yeah, well i never wanted to get slaughtered much.
-speaker2: well, most guys don't. i mean that's the point. you all mind if i take my vitamins?
-speaker5: no, mike. but there are vitamins in the food, you know.
-speaker2: yeah, but i gotta supplement that. i gotta take a bunch of zinc too. the body is like a machine. everything has got to stay in perfect tune for perfect health. that's what i'm interested in. sandy looks at mike.
-speaker2: oh yeah. and a few other things.
-speaker1: we've got some heinekens.
-speaker3: yeah. i like bud myself.
-speaker1: i'll get it. mike, whatiya want?
-speaker2: i guess another glass of water.
-
-speaker1: who wants dessert? it's blueberry pie. and ice cream. 
-speaker2: none for me, thanks.
-speaker2: what are watchin' this junk for?
-speaker3: you can change it if you want to.
-speaker2: i don't know why we have to watch t.v.
-speaker3: mike. we don't have to watch it. come on.
-speaker1: here you are. would anyone like coffee?
-speaker4: that sounds great!
-speaker1: anyone else?. alright jeffrey, just a minute.
-speaker2: i'll be right back.
-speaker3: well, how did it go?. what happened?
-speaker4: well. i've found out some things. nothing really for certain. there are some strange people involved.
-speaker3: what did you see?
-speaker4: well.
-speaker1: mike?. are you alright?
-speaker2: yes.
-speaker2: sandy?. could i talk to you a minute?
-speaker3: sure. just a sec. excuse me.
-speaker2: come on out a minute, okay?
-speaker3: okay.
-speaker5: downstairs mrs. williams picks up some dishes.
-speaker1: please excuse me a moment, jeffrey, and i'll get to the dishes.
-speaker4: sure thing. please don't worry about me. can i help you with the dishes?
-speaker1: nice of you to offer, jeffrey, but certainly not. just relax and enjoy your coffee. i'm sure sandy will be back soon.
-speaker6: jeffrey?
-speaker4: yes?
-speaker6: if you want to come up a minute, i'll show you some pictures.
-speaker4: these are beautiful. how's the case coming?
-speaker6: okay.
-speaker4: anything you can tell me?
-speaker6: the criminals are winning.
-speaker4: is that why you say it's horrible?
-speaker6: yes.
-speaker4: i guess you've seen some bad things.
-speaker6: yes i have - so bad i wouldn't poison your mind by telling you.
-speaker4: why do you do it?
-speaker6: i won't let the get me up against the wall. it's an act of defiance.
-speaker4: yeah. i get it.
-speaker4: what is this? what color is it?
-speaker6: blue. it's blue velvet.
-speaker3: can i use the car for a while?
-speaker6: sure. what's up?
-speaker3: i want to buy jeffrey a dairy queen.
-speaker4: a dairy queen? oh yeah? sure, that sounds great.
-
-speaker1: what's with mike? 
-speaker2: he got a little jealous.
-speaker1: i'm sorry, i didn't.
-speaker2: it's okay. don't worry about it. the car glides along.
-speaker2: you want a dairy queen?
-speaker1: no way. i'm about to blow up.
-
-speaker1: you want to tell me about it? 
-speaker2: . ok. it's a strange world, sandy. this is what i have found out. what i think i have found out. dorothy vallens is married to a man named don. they have a son. i think the son and the husband have been kidnapped by a man named frank who has now cut off both of don's ears. i think he is holding them to make her do things for him. i think she wants to die. the ears were for her a warning to stay alive. there is another man involved. i call him the "yellow man". you saw his back the other day in the hall at her door. i don't know what he does but i think he's on drugs supplied by frank. frank is a very dangerous man.
-speaker1: wow. should you tell my father?
-speaker2: i don't see how i can. and i can't prove any of this. i got all this information illegally. also it could get you in trouble.
-speaker1: you saw a lot in one night.
-speaker2: . actually. i've been in twice.
-speaker1: twice. without her sensing anything?
-speaker2: yes.
-speaker1: did you see her undressed?
-speaker2: yeah. i mean. a little, . you know.
-speaker1: yeah?
-speaker2: that doesn't bother you, does it?
-speaker1: who, me? why should it?
-speaker2: that's what i thought.
-speaker1: you're sure right. it is a strange world.
-speaker2: why are there people like frank. why is there so much trouble in this world.?
-speaker1: i don't know. i had a dream. in fact. the night i met you. . in the dream the world was dark because there weren't any robins. you know, birds. robins stood for love. and all of a sudden thousands of robins flew down and brought this blinding light of love. and it felt like that love would be the only thing that would make any difference. i guess. until the robins come there is trouble.
-speaker2: yeah i guess so. you're a neat girl.
-speaker1: so are you. i mean you're a neat guy. we better get back.
-speaker2: i guess so. you want to help me watch frank?. i'm going to stake out frank's place tomorrow. with a camera.
-
-speaker1: no, silly - i'm still in school you know. but i'll meet you after school and you can tell me what you've learned. you better be careful, jeffrey. 
-speaker2: i will. i'll pick you up on the same corner at three thirty-five, okay?
-speaker1: okay. be careful.
-speaker2: okay, sandy.
-
-speaker1: can i give you a kiss good night? 
-speaker2: you better not, jeffrey.
-speaker1: okay. okay.
-speaker2: goodnight.
-speaker1: see ya tomorrow.
-
-speaker1: hello? frank speak to me 
-speaker1: stupid!! so stupid. now she might be in even more trouble with frank. i hope not. i hope not. tomorrow i have to find out more about frank.
-
-speaker1: fifteen more minutes. 
-speaker2: they drive through town.
-
-speaker1: what happened? 
-speaker2: he was blown away man. can't you see?
-speaker3: that cracker was the biggest dealer in this section of the city, brother. the police are going to find more drugs in there than you can believe. it's a speedball heaven in there.
-speaker1: oh yeah? what about the woman?
-speaker2: probably just a he happened to be with at the time.
-speaker1: man oh brother.
-speaker2: this is the way the world is my man. take a good look.
-
-speaker1: oh great. 
-speaker1: you were late.
-speaker2: i'm really sorry.
-speaker1: what am i going to do?
-speaker2: you want to go talk to him?
-speaker1: yeah, but. i don't think it's going to do much good. let's go. i'll try to talk to him later.
-
-speaker1: you know, that cheese is practically all chemicals. 
-speaker2: that's what makes it so good. you wanta hear what i saw today?
-speaker1: shoot.
-speaker2: number one. i saw the yellow man go into frank's building, laughing with frank. now. the only trouble is. what does this prove?
-speaker1: nothing really, but it's interesting. they know each other. they seem to like each other.
-speaker2: maybe. but i think the yellow man is on drugs. i think frank supplies him.
-speaker1: oh yeah?
-speaker2: number two. i saw the yellow man come out. this time with a well-dressed man with an alligator briefcase. they drove down this factory building and stood on a staircase looking at something in the distance. number three. now get this. in the distance was a murder. a drug dealer shot to death and a woman with her legs broken.
-speaker1: jeffrey!!
-speaker2: then these guys told me the police will find a huge amount of drugs inside the dead man's place.
-speaker1: i can't believe what you are finding out. are you going to continue with this. are you going back to her apartment?
-speaker2: yeah.
-speaker1: jeffrey?. why?
-speaker2: i'm seeing something that was always hidden. i'm involved in a mystery. i'm learning. and it's all secret.
-speaker1: you like mysteries that much?
-speaker2: yeah. you're a mystery. i like you. very much.
-speaker1: oh yeah?
-speaker1: don't. please, jeffrey.
-speaker2: you worry about me really?
-speaker1: yes. is that so surprising?. yeah i worry. a lot. i got you into this.
-
-speaker1: come in. 
-speaker2: hello.
-speaker3: dorothy closes the door. she chains it.
-speaker1: it used to make me laugh .but.
-speaker2: i'm sorry .maybe i better go dorothy.
-speaker1: yes. frank-
-speaker2: frank is coming?
-speaker1: no. how could he?. don't go. you think i'm crazy, don't you? i want you to stay. . don't hate me.
-speaker2: i sure don't hate you.
-speaker1: i'm not crazy. i know the difference between right and wrong.
-speaker2: that's good.
-speaker1: do you like my body?
-speaker2: sure i do.
-speaker1: i'm a statue. you can feel me.you can do anything you want.
-
-speaker1: what do you want to do? 
-speaker2: i'm doing it.
-speaker1: are you a bad boy?
-speaker2: whatiya mean?
-speaker1: do you want to do bad things? anything. anything.
-speaker2: what do you want?
-speaker1: i want you to hurt me.
-speaker2: no. i told you. i don't want to hurt you. i want to help you. i think i know some of what is happening to you. . dorothy? frank has your husband and son. dorothy? doesn't he? you have to do something dorothy. go to the police.
-speaker1: no police!!!. no police!!
-speaker1: you like to open me. don't you?
-speaker2: yes.
-speaker1: what if i told frank that you opened me?
-speaker2: that wouldn't be too good, would it?
-speaker1: frank would open you.
-speaker2: okay. i know you've been scared. now you want to scare someone.
-speaker1: does that scare you?
-speaker2: shut up.
-speaker1: beeeee careful.
-speaker2: come on dorothy.
-speaker1: what if frank came over here and found us?
-speaker2: look, snap out of it, will ya?
-speaker1: kiss me.
-speaker1: do you love me?
-speaker2: do you love me?
-speaker1: i asked first.
-speaker2: sometimes i think i do.
-speaker1: and sometimes you think you don't?! well, get away then! she bolts up.
-speaker2: wait a minute. wait. whatiya want? for cryin' out loud!
-speaker1: just get outta my bed.
-speaker2: oh are you alright.
-speaker1: see. see how you hurt me? now. open me. enter me. jeffrey moves on top of her in the darkness.
-speaker1: i love you don with all my heart.
-speaker2: no. it's not don.
-speaker1: come inside me. oh yes, oh yes, oh yes. oh yes, oh yes, oh yes.
-speaker2: i didn't mean to hurt you.
-speaker1: shhhhhh. now i have your disease.
-speaker2: you. what?
-speaker1: you put your disease in me. your semen.
-speaker2: there's no disease, i can tell you.
-speaker1: men are crazy. then they put their craziness into me. then it makes me crazy. then they aren't so crazy for awhile. then they put their craziness in me again. . it's burning me. but i love you. i do, i do. did you know that? did you know that i love you?
-speaker2: i'm glad you do.
-speaker1: there's so much i want to tell you. i'm in so much darkness though with things moving. there is darkness sucking me. it's kissing me and darkness is entering me. in every hole. it's opening me to a death.
-speaker2: dorothy. no!
-speaker1: if i die, then they'll be free. it's getting late, isn't it? i can tell. it's a cold feeling when it's late. it's warm then it gets cold. jeffrey. i feel it getting cold.
-speaker2: you called me jeffrey.
-speaker1: i did. are you?
-speaker2: yes.
-speaker1: why are you here? hmmmmmmmm!!!! ok.
-speaker2: no. not really. but also because i really want you to be alright.
-speaker1: you do .you really do.
-speaker1: jeffrey. jeffrey. jeffrey.
-speaker2: i guess i should go.
-speaker1: i want you to stay with me.
-speaker2: i think i better go.
-
-speaker1: you're my special friend, aren't you? i have you inside of me still. it helps me. i need you. 
-speaker2: i'll call you.
-speaker1: okay. soon? do you think i'm too fat?
-speaker2: what?
-speaker1: i'm getting a little bit fat. i hate that.
-speaker2: you look beautiful to me.
-speaker1: right in here. fat, fat, fat.
-speaker2: oh no.
-speaker1: no. hi baby.
-speaker3: who's this
-speaker1: he's a friend. from the neighborhood.
-speaker3: from the neighborhood? shut the up. you like telephones? huh?. you wanta go for a ride?
-speaker2: no thanks.
-speaker3: no thanks. what does that mean?
-speaker2: i don't want to go.
-speaker3: go where?
-speaker2: on a ride.
-speaker3: a ride?. hell, that's a good idea. okay, let's go. hey, let's go. frank grabs jeffrey and pulls him along.
-speaker3: come on. we're goin' for a joy ride.
-
-speaker1: come on. i wancha to meet a frienda mine. raymond, get enough beer for ben too. 
-speaker2: okay frank.
-speaker1: what kinda beer do you like?
-speaker3: heineken.
-
-speaker1: what color is it? 
-speaker2: it's blue. blue velvet.
-
-speaker1: hey frank i'm sorry buddy. 
-speaker2: yeah?. get ready for a love letter. when you least expect it.
-speaker1: frank. please man.
-speaker2: a big love letter.
-
-speaker1: hey ben. open up. it's frank. 
-speaker2: frank. come in.
-speaker1: hey, i brought some friends. and some beer.
-speaker2: fine. welcome. come sit down.
-
-speaker1: suave. goddam are you suave, you 
-speaker2: certainly frank. darling, get some glasses. we'll have some beer with frank. won't you sit down?
-speaker1: ben! how the are ya?
-speaker2: fine frank. fine. how are you?
-speaker1: good, real good. you know
-speaker2: darling, where are the glasses?. oh. here they are.
-speaker1: raymond! where's the beer?
-speaker3: right here frank. you want me to pour it?
-speaker1: no, i want ya to it. yes.
-speaker3: there ya go.
-speaker1: good, let's drink up.
-speaker2: to your health, frank.
-speaker1: let's drink to something else. let's drink to fuckin'. say here's to your frank.
-speaker2: if you like frank. here's to your cheers.
-speaker1: cheers. suave man. you're so suave. we love ben! here's to ben!.
-speaker1: hey neighbor. here's to ben.
-speaker4: here's to ben.
-speaker1: do you see, ben?. i can make him do anything i please.
-speaker2: thank you neighbor. let me see your face. did he hurt you?
-speaker2: oh. my.
-speaker2: is that any better?
-speaker2: frank, i have something for you. excuse us everyone.
-speaker1: excuse us por favor! hey. let see her kid.
-speaker5: donny, oh my donny.
-speaker6: mommy!
-
-speaker1: mommy. you left me. you stopped loving me. 
-speaker2: okay. let's hit the road. we're givin' our neighbor a joy ride. let's get on with it. bye, ben. ya wanna go on a joy ride with us, anyone? you?
-speaker2: no smile for frank? no? okay, it. let's go. oh you wanna come with raymond?
-speaker3: see you tuesday, frank.
-speaker2: right ben. let's go i'll anything that moves.
-speaker4: they leave and pile back into the car.
-
-speaker1: hey? . you like to walk. 
-speaker2: what?
-speaker1: let's take our neighbor out. let him walk back.
-speaker3: where are we going, frank?
-speaker1: hey. i'm taking your neighbor to the country. maybe something for you too.
-speaker3: frank?
-speaker1: you want to see him too, right?
-speaker3: yes, but.
-speaker1: then, shut up!
-speaker1: hey. what's this got to do with anything.
-
-speaker1: what are you lookin' at? 
-speaker2: nothing.
-speaker1: don't look at me, i shoot when i see the whites of the eyes. you like me?.
-speaker1: look at these. what are these?
-speaker3: come on, frank. let's go. please.
-speaker1: don't say please, fuckhead. what are
-
-speaker1: those are my breasts. 
-speaker2: can i feel 'em?
-speaker1: if you want to.
-speaker2: baby wants to pinch 'em.
-speaker3: hey. leave her alone.
-speaker2: next! . out of the car help him
-
-speaker1: frank. he didn't mean it. leave him alone. come on. he didn't mean it. 
-speaker2: shut up. gimme your lipstick. . hey, pretty, pretty.
-
-speaker1: don't be a good neighbor to her or i'm gonna send you a love letter. straight from my heart, you know what a love letter is? it's a bullet. straight from my gun, once you get a love letter from me, you're forever. 
-speaker2: yes.
-speaker1: i'll send you straight to hell,
-speaker1: you feel good. feel my muscles.
-speaker1: you like that? hold him tight for me.
-
-speaker1: i don't want to talk about it. everything's okay now. i don't want to talk about it. 
-speaker2: sometimes it helps to talk things over. for instance, many marriages are saved by.
-speaker1: aunt barbara. i love you, but you're not gonna get it.
-
-speaker1: jeffrey dials the phone. 
-speaker2: mrs. williams? hi, this is jeffrey beaumont. fine and you? good. is sandy there? good, thanks. sandy?. can you talk? good. i'm through with this business. i'll explain, but it got a little out of hand. i'm lucky to be able to call you. anyway. i promise i'll tell you everything .how are you?
-
-speaker1: sandy on her phone. 
-speaker2: we broke up. no. it's okay. it's okay. jeffrey?. jeffrey?. hey, jeffrey?. do you want to go to a party with me friday night?. he won't be there, don't worry. it'll be real nice. this friday. you don't dance? well, i'll teach you, silly.
-
-speaker1: jeffrey on his phone. 
-speaker2: great. hey. i've got a bit of a problem. i know some things. that could help your father but you might get into trouble.
-
-speaker1: jeffrey! come on in. 
-speaker2: hi. hi sandy. i'm sorry to bother you, but i've got to talk to you.
-speaker1: okay. come on in. looks like you had a bad face lift.
-speaker2: yeah.
-
-speaker1: okay? 
-speaker2: okay. i gotta tell you. i've. discovered some things. .anyway i have to show you some pictures and tell you some things about them. the first picture is this.
-speaker2: and that man came out with a third man - this well-dressed guy. here's the photo. i think a girl named dorothy vallens is in trouble with these people. i think frank has taken her husband and her son.
-speaker2: i have no hard proof of any of this. her address is also on the photos. i think these people are involved with drugs. and murder. i think frank is killing drug dealers and. . and somehow frank is getting all their drugs. i had to tell you i got slightly more involved in this than you wanted me to, but it's over now for sure. .i had to tell you about these things in case it could help.
-speaker1: well now jeffrey, how did you come to get so involved?
-speaker2: i can't tell you the whole story. i. i took it upon myself. i can't say more.
-speaker1: is sandy part of this?
-speaker2: no. not at all.
-speaker1: who knows you have these?
-speaker2: only you. and the photo lab.
-speaker1: you're all through with this now?
-speaker2: yes sir. i sure am.
-speaker1: for now. alright. you better be. and sandy better not be involved with this, i can tell you. be prepared to come in for further interrogation on this later.
-speaker2: yes sir.
-speaker3: everything okay?
-speaker2: yeah. i think so. i just had to tell him some of what i knew. is friday still on?
-speaker3: you didn't tell him about me?
-speaker2: no.
-speaker3: i should never had gotten you going on this. yes jeffrey. friday's on!
-speaker2: okay. great!
-
-speaker1: jeffrey is driving over to sandy's. 
-speaker2: hello, jeffrey. come in.
-speaker3: you all set?
-speaker4: hey john - get a move on!!
-speaker5: easy does it jeffrey. behave yourself. don't blow it.
-speaker4: come on john, get it in gear pal!
-speaker5: so long jeffrey. you two have a nice night, okay?
-speaker3: okay.
-speaker6: what is it?
-speaker3: just some fatherly advice.
-speaker5: that's right.
-speaker6: goodnight mom. goodnight tom.
-speaker7: goodnight, sandy.
-
-speaker1: what was that all about? 
-speaker2: nothing. really! it's good to see you.
-speaker1: it's good to see you.
-speaker2: where to?
-speaker1: just go over to gelford and up to vista. it's not far. can you tell me any more about what you learned?
-speaker2: i'd rather not talk about it. i'll tell you about it sometime.
-speaker1: it's okay.
-speaker2: ... you look beautiful.
-speaker1: thank you. whatiya say we just enjoy the evening?
-speaker2: i like that idea. that's a real good idea.
-
-speaker1: you want to dance? 
-speaker2: i can't dance fast.
-speaker1: really?
-speaker2: really. you want to dance with someone else?
-
-speaker1: let's wait for some slow one. 
-speaker2: just a minute.
-speaker2: don't worry. i took care of it. you want something to drink?
-speaker1: you want to dance?
-speaker2: okay.
-speaker2: i love you, jeffrey.
-speaker1: i really do love you.
-
-speaker1: oh my what's wrong? 
-speaker2: frank!!
-speaker2: come on. move it!
-speaker2: i can't outrun this guy.
-speaker2: my father has a gun at home.
-speaker1: no.
-speaker2: sandy. this guy is a killer!! i promise you.
-speaker1: try to get to my house. then my father can.
-
-speaker1: no!! 
-speaker2: it's mike! it's mike!
-
-speaker1: hey come here, you stole my girl, you bastard. i'm gonna kick your ass, right in front of your stupid house. 
-speaker2: ... stop it mike.
-speaker1: you shut up. nobody's talkin' to you. hey who's that jeffrey? your mother?
-speaker3: dorothy! ... dorothy!
-speaker2: dorothy vallens?
-speaker3: yes.
-speaker1: hey, you ivy league come here!
-speaker3: later mike. i gotta take care of someone who's hurt here, in case you haven't noticed.
-speaker2: mike, go home.
-speaker1: hey, i'm sorry. hey.
-speaker3: yeah. okay, mike.
-speaker2: take her to my house. my dad can get an ambulance faster than anyone. do you have anything to put around her?
-speaker3: no. is detective gordon going to be at your house?
-speaker2: probably not. no. why?
-speaker3: ok. let's get her over to your father's.
-speaker2: right. watch out for mike, there.
-speaker3: here we go.
-
-speaker1: oh jeffrey is that you? 
-speaker2: yeah, it's me.
-speaker1: oh jeffrey. is that you? oh
-
-speaker1: is dad home? 
-speaker2: no.
-speaker1: you better call him and get an ambulance too.
-speaker3: where have you been? oh they hurt him, jeffrey. jeffrey, jeffrey, jeffrey, hold me. hold me. oh
-speaker4: it's okay. it's okay.
-speaker3: my secret lover.
-speaker2: the ambulance will be here in a minute. i left word for john. the police are on their way.
-speaker3: don't get the police. oh ...jeffrey
-
-speaker1: she looks up at mrs. williams. 
-speaker2: i opened myself to him. he put his disease in me.
-speaker3: sandy? ...sandy, please.
-speaker4: i'll get a coat for her.
-speaker5: jeffrey? .what's going on?
-speaker3: shh. i'll tell you.
-speaker2: they hurt his head.
-speaker3: who, dorothy?
-speaker2: don. help him. help him!! donny!!!! a huge, roaring wind sound comes up.
-
-speaker1: i should go with her, sandy. 
-speaker2: go ahead.
-speaker1: ... sandy?.
-speaker2: go ahead!
-
-speaker1: hold me, don. 
-speaker2: don?. where is he?
-speaker1: help him!! promise me you'll help him!
-speaker2: i promise, dorothy. i promise.
-speaker1: hold me. i'm falling!
-
-speaker1: sandy with red eyes in a darkened room. 
-speaker2: i forgive you. i just couldn't watch. i love you jeffrey. i love you. is she okay?. how horrible. what?
-
-speaker1: please get to your father and send him and the police to dorothy's apartment right away. be sure your father comes. something is happening over there. they're hurting someone. the guy she loves. tell them to hurry. i'm going over right now. 
-speaker2: no jeffrey!!
-speaker1: yes i'm going. i have to. i love you. i will, believe me.
-
-speaker1: get back and stay down. 
-speaker2: . it's apartment eight.
-speaker2: i'm sending jack and pete to the roof.
-speaker1: hey.
-speaker1: he's shooting. from the second window.
-speaker3: stay in place.
-speaker2: jack. get up there quick. can return fire?.
-speaker3: i think he's alone. but return fire to second window only. many shots.
-
-speaker1: he hasn't fired a shot for six minutes. maybe we got him. get on the radio. get detective williams. ask him if we can rush the son of a 
-speaker2: it's in the works already. we're in there. they're goin' down the back stairs now. it won't be long. and they'll have us rush 'em from here. one whistle and we go.
-speaker1: that's it. let's go.
-
-speaker1: so. frank escaped. 
-speaker1: what happened that day?.
-
-speaker1: detective williams!! detective williams!! 
-speaker2: detective williams here. is that you, jeffrey?
-speaker1: yes it's me!!! frank is on his way up to dorothy's apartment. oh no. frank has a radio and is hearing everything we say!! detective williams. hurry. i'm in the apartment. hurry. i'm hiding in the back bedroom.
-speaker2: we're ten minutes away and moving as fast as we can.
-
-speaker1: because of your information i alerted internal affairs to check out detective gordon. i had to keep on with him as if nothing was different. he slipped off on his own when he found out we were going to raid frank's place. 
-speaker2: does dorothy know her husband is dead?
-speaker1: not yet.
-speaker2: oh my is her son ok?
-speaker3: we're looking for him. in your opinion, why did frank kidnap dorothy's son and husband?
-speaker2: he became obsessed with her. she hated him. he had to have her. he kidnapped them to control her. to make her do things. then she wanted to commit suicide so he started cutting off ears as a warning to her to stay alive. i'm not kidding. frank loved blue. blue velvet. he had to have dorothy cause her whole life was blue.
-speaker3: you seemed to see some very interesting things on your little escapade with dorothy vallens.
-speaker2: yeah. i guess i did. what's going to happen to me?
-speaker3: we're going to leave that up to detective williams. i'll tell you though. you're okay. you shot a real son of a
-speaker2: yeah. i sure know that. yeah, but how many more are out there?
-
-speaker1: jeffrey. lunch is ready. 
-speaker2: okay. i'll be right in.
-speaker2: how ya doin' dad?
-speaker3: hey jeff. i'm feelin' so much better.
-speaker2: good deal dad.
-
-speaker1: look jeffrey. 
-speaker2: yeah. i just saw him outside. maybe the robins are here.
-speaker3: i don't see how they do it. i could never eat a bug.
-speaker4: it's a strange world, isn't it?
+CLOSE - MR. BEAUMONT: watches his watering, then looks up. 
+CLOSEUP - WATER ON GRASS: the water hits the grass and mats it down.
+WIDER - MR. BEAUMONT: moves the hose over a bush and gets a kink in it.
+CLOSEUP - KINK IN HOSE: loud hissing noise.
+
+GREGG'S MOTHER: gregg. billy's waiting for his teddy. 
+GREGG'S MOTHER: gregg! billy's waiting for his teddy, honey.
+
+LOUISE: thanks for keeping me waiting so long. 
+JEFFREY: i'm sorry, louise.
+
+JEFFREY: can't you come to the airport? 
+LOUISE: jeffrey. i can't. i really can't. i have to go to that class tonight. i can't get out of it. i really can't. i love you, jeffrey. i'll miss you.
+JEFFREY: alright. i'll call you in a couple of days, you know. i'll let you know how things are.
+LOUISE: okay. i'll be here. you better git-going. i gotta go too sweetie. i hope your father's okay. i love you. i'm sorry, jeffrey.
+JEFFREY: i love you too, louise. it. i'll see you. they kiss.
+
+JEFFREY: hi mom. hi aunt barbara. 
+MRS. BEAUMONT: where's all your things, jeffrey?
+JEFFREY: this is it.
+JEFFREY: i sent a trunk home yesterday. this is all i have.
+AUNT BARBARA: you look good, jeffrey. did you have a nice flight?
+JEFFREY: yeah. how's dad?
+MRS. BEAUMONT: he's alright. we'll tell you on the way home.
+
+MRS. BEAUMONT: he had a cerebral hemorrhage and they think there's some sort of clot, or tumor, or something in there. they're doing all sorts of tests. on the surface, he looks pretty good, but there are problems. they think he may have to stay in two weeks now, at least. you can go see him though tomorrow, jeffrey. 
+AUNT BARBARA: they tore down the a and p, jeffrey. did you see that?
+JEFFREY: aunt barbara that was 5 years ago.
+
+31. INT. BEAUMONTS' KITCHEN/HALLWAY - DAY: mrs. beaumont is calling upstairs to jeffrey. 
+MRS. BEAUMONT: jeffrey, breakfast is ready.
+JEFFREY: be right down.
+AUNT BARBARA: this is marvelous jam. are you going this morning?
+MRS. BEAUMONT: i think jeffrey would like to see his father alone.
+JEFFREY: what time are visiting hours?
+MRS. BEAUMONT: i've made arrangements with dr. gynde for 10:30. but jeffrey, you'll have to walk over; i need the car this morning.
+JEFFREY: well. okay.
+MRS. BEAUMONT: jeffrey, when you see your father.
+JEFFREY: yeah?
+MRS. BEAUMONT: he doesn't know you're out of school. he thinks it's a vacation for you.
+JEFFREY: what?
+MRS. BEAUMONT: it would be too much for him. so please let him think as he does, that you're home just to see him.
+JEFFREY: thanks a lot, mom.
+MRS. BEAUMONT: .jeffrey!. nobody wanted you to leave school and go to work in the store. maybe going back to school will be an option one day. i hope so.
+AUNT BARBARA: i think it's important not to get depressed. depression is a terrible thing. they say it can bring on illness.
+JEFFREY: aunt barbara. i'll try not to get depressed.
+
+NURSE CINDY: please wait outside while dr. gynde prepares him to see you. 
+JEFFREY: prepares him?
+
+DR. GYNDE: hello jeffrey. 
+JEFFREY: hello, doctor gynde. how is he?
+DR. GYNDE: he's fighting hard. jeffrey. it's very important that your father doesn't try to move. he's been immobilized. it would be very painful for him. sit close. you do the talking and moving. he knows you're here. he became very emotional. i don't think he likes the idea of you seeing him like this.
+JEFFREY: hi dad.
+MR. BEAUMONT: hey jeff.
+JEFFREY: looks like they've got you strapped in pretty good.
+MR. BEAUMONT: uh uh.
+JEFFREY: are you feeling okay?
+MR. BEAUMONT: uh uh.
+MR. BEAUMONT: good to see you, son.
+JEFFREY: it's good to see you, dad.
+
+JEFFREY: hello. could you tell me if detective williams is still working here? 
+POLICE OFFICER: he's up in room 221. right up the stairs.
+
+JEFFREY: are you detective williams? 
+DETECTIVE WILLIAMS: yes.
+JEFFREY: my name is jeffrey beaumont - i live near you. i believe you know my father, tom beaumont - beaumont's hardware store?
+DETECTIVE WILLIAMS: sure i do. i understand he's in the hospital. how is he?
+JEFFREY: he's alright, i guess. i hope. they're doing tests, that's why i'm home from school. i was over at the hospital this morning and i was going home and in the field behind our neighborhood. there behind vista, i found an ear.
+DETECTIVE WILLIAMS: you did? a human ear?
+JEFFREY: yeah. i've got it here in this bag. i thought i should bring it to you.
+DETECTIVE WILLIAMS: yep, that's right. let's take a look at it.
+DETECTIVE WILLIAMS: that sure looks like a human ear, doesn't it?. let's run it down to the coroner's office and see what they make of it. then, i want you to show me exactly where you found it.
+
+CORONER'S OFFICER: the tests will take awhile. meanwhile, we'll check the morgue records. i don't recall anything coming in minus an ear. 
+CORONER'S OFFICER: now if you'd found a jaw or let's say, a heart, or even an arm, we would assume that there was a corpse, however, a finger or an ear. the person may very well be alive somewhere.
+JEFFREY: what can you tell about the person from the ear?
+CORONER'S OFFICER: well. when the tests are done, quite a lot . sex, blood type, whether or not the ear came off a dead person. right now, i know what you know. it's a real human ear. the human was, or is, caucasian. . also. it looks like the ear was cut off with scissors.
+
+DETECTIVE WILLIAMS: by the way, jeffrey, this story isn't going to the press and i'm going to ask you to consider all you've heard strictly confidential. do not discuss this business with anyone, but me, or other police personnel. got it? 
+JEFFREY: got it. thanks for letting me in on as much as you did.
+DETECTIVE WILLIAMS: come on. i'll drive you home. it's on my way.
+
+JEFFREY: i'm going out for awhile. 
+MRS. BEAUMONT: do you want the car?
+JEFFREY: no, i'm just gonna walk around.
+MRS. BEAUMONT: alright.
+AUNT BARBARA: jeffrey. you're not going down by lincoln, are you?
+JEFFREY: no. i'm just going to walk around the neighborhood. don't worry.
+
+JEFFREY: hello. uh. my name is jeffrey beaumont. is detective williams in? 
+MRS. WILLIAMS: oh, yes, jeffrey. come in. he'll be back any minute now. you're welcome to wait. is it urgent?
+
+JEFFREY: i just wanted to ask him a few questions, that's all. maybe i better go. 
+MRS. WILLIAMS: really, he'll be home soon, would you like a cup of coffee?
+JEFFREY: alright.
+
+MRS. WILLIAMS: i was sorry to hear about your father. i know your mother from church. it's such a shame. 
+JEFFREY: yeah, i know.
+MRS. WILLIAMS: would you like a piece of cake?
+JEFFREY: no. no thank you.
+MRS. WILLIAMS: it's a real good chocolate cake. duncan hines' devil's food. real good.
+JEFFREY: yeah. okay.
+
+MRS. WILLIAMS: sandy?. 
+MRS. WILLIAMS: jeffery, this is my daughter, sandy, and. her boyfriend, mike.
+SANDY: mike's gotta go. nice to meet you.
+MIKE: yeah, nice meetin' yuh.
+JEFFREY: yeah. it was nice meeting you too.
+MRS. WILLIAMS: he comes over to study.
+JEFFREY: yeah.
+DETECTIVE WILLIAMS: pam?
+MRS. WILLIAMS: in the kitchen, john!
+DETECTIVE WILLIAMS: oh. hello, jeffrey. what's up?
+DETECTIVE WILLIAMS: come into the study a minute.
+JEFFREY: excuse me, mrs. williams.
+MRS. WILLIAMS: certainly.
+
+DETECTIVE WILLIAMS: shut the door. 
+DETECTIVE WILLIAMS: detective williams here. yeah. tell him to go to sergeant milton. yeah, copy. well, jeffrey, you found something which is very interesting to us. very interesting. i know you must be curious to know more. but. i'm afraid i'm going to have to ask you not only not to tell anyone about your find, but also not to ask more about the case. one day. when it's all sewed up, i'll let you know all the details. right now, though. i can't.
+JEFFREY: i understand. i'm just real curious like you said.
+DETECTIVE WILLIAMS: i was the same way when i was you age. i guess that's what got me into this business.
+JEFFREY: it must be great.
+DETECTIVE WILLIAMS: and it's horrible too. i'm sorry jeffrey. that's the way it has to be. anyway. i'm sure you do understand.
+
+JEFFREY: mrs. williams? thanks for the cake. 
+MRS. WILLIAMS: oh, you're welcome. nice to finally meet you, jeffrey.
+JEFFREY: say "goodnight" to sandy.
+DETECTIVE WILLIAMS: we will. good night.
+
+SANDY: are you the one that found the ear. 
+JEFFREY: yeah, how did you know?
+SANDY: i just know, that's all. i remember you from central.
+54. EXT. NEIGHBORHOOD STREET - NIGHT: they slowly walk down the street together.
+JEFFREY: oh yeah?
+SANDY: you were pretty popular. didn't you run for some office?
+JEFFREY: yeah i did. treasurer. shouldn't you be studying or something.
+SANDY: am i bothering you?
+JEFFREY: no. you're not bothering me. you a senior?
+SANDY: yes.
+JEFFREY: how is central these days?
+SANDY: terrible. boring.
+JEFFREY: what else is new?. right?
+SANDY: yeah. what are you doing now?
+JEFFREY: i'm home from school. my father's in the hospital.
+SANDY: that's too bad.
+JEFFREY: what do you know about the ear?. anything?
+SANDY: didn't my father tell you not to talk about it?
+JEFFREY: come on. you brought it up. do you know anything?
+SANDY: i don't really know much but bits and pieces . i hear things. my room is right above my father's office. the ear. there's no corpse in the morgue missing an ear, and it did come off a living person. that's direct from the coroner's office. the person is unknown. there are a couple of cases i get mixed up on, but i think there are some people who were brought in for questioning on a murder case that could have something to do with the ear. i heard some of the same names.
+JEFFREY: do you know who was brought in for questioning?
+SANDY: there were at least three, maybe four. but a name that keeps coming up is this woman who lives in an apartment building very close to your house and also close to the field where you found the ear. there's also a business man over by the franklin factory district that was questioned. and a musician. and some others.
+JEFFREY: were all these people questioned this afternoon?
+SANDY: no. this has been going on for some time . several months. about six months ago some parts of bodies were found down by the river. they were from people who were reported missing. they never found one complete body. only parts.
+JEFFREY: the ear is from a missing person maybe?
+SANDY: maybe so.
+JEFFREY: it's a strange world isn't it? do you know what building the woman lives in?
+SANDY: yeah. it's close by. that's what's creepy. they've had her under surveillance for a couple of months, except i don't know what they've found out because my father isn't in charge of her.
+JEFFREY: i guess you have to get back home soon?
+SANDY: not really, why? you want to see the building?. come on, i'll show you.
+
+SANDY: that's the building. she lives on the seventh floor. don't stop to look long . the police are watching. 
+JEFFREY: where are they?
+SANDY: i don't know. you're not supposed to see them. they're supposed to see you.
+JEFFREY: did they find out anything when they questioned her?
+SANDY: i don't know. like i said, she's not my father's case.
+JEFFREY: oh yeah. what about those other people?
+SANDY: my father is watching the businessman. the businessman had a partner who disappeared. left his whole business and family, his wife and two kids. they think he's been murdered.
+JEFFREY: you really do hear a lot, don't you?
+SANDY: yeah, i guess so. what are you going to do now that you're home?
+JEFFREY: i have to help out in my father's hardware store. they're giving me sort of my own hours for a while. which is nice.
+SANDY: still, it must be kinda rough.
+JEFFREY: it's not bad. but it's bad enough. it's a lot worse for my father. i used to know a kid who lived there and who had the biggest tongue in the world. jeffrey and sandy both laugh.
+SANDY: what happened to him?
+JEFFREY: i don't know. he moved away.
+
+57. EXT. WILLIAMS HOME - NIGHT: they arrive back at sandy's home. 
+CLOSER ON JEFFREY AND SANDY: in front of sandy's home.
+SANDY: i've gotta go in.
+JEFFREY: thanks for the tour. it was nice talking to you.
+JEFFREY: i guess i'll see you sometime.
+SANDY: i guess so. like you said. it's a strange world.
+JEFFREY: yeah. good bye.
+
+JEFFREY: you hungry or thirsty, or both? 
+SANDY: i don't know.
+JEFFREY: i'd like to talk to you about something.
+SANDY: just a minute. pull over and wait a minute.
+SANDY: please, don't say anything to mike. promise?
+JEFFREY: i don't want to cause any trouble.
+SANDY: i'm here, aren't i?
+JEFFREY: i guess mike's got some sort of sports practice in the afternoon.
+SANDY: ooooo, you are smart. just don't get too smart.
+
+SANDY: alright, now tell me. what is it? 
+JEFFREY: there are opportunities in life for gaining knowledge and experience. sometimes, in some cases. it's necessary to take a risk. i got to thinking. i'll bet a person could learn a lot by getting into that woman's apartment. you know. sneak in and hide and observe.
+SANDY: you said it was a strange world. and you're the strangest part of it. are you crazy.she is possibly involved in murder. this gives me the creeps.
+JEFFREY: settle down. i have a plan which i think will work. there is very little for you to do, but i do need your help. .aren't you curious about my plan?
+SANDY: it wouldn't hurt to hear the plan, i guess.
+JEFFREY: alright. the first thing is to get into her apartment and open a window that i could crawl into later.
+SANDY: now, how are you going to do that?
+JEFFREY: right out in the car i happen to have some old overalls and a bug spraying rig. i will go to her apartment and be the pest control man. i will spray her apartment. after a few minutes you will knock on her door, drawing her attention away from me and i will then jimmy a window.
+SANDY: what will i say when she comes to the door?
+JEFFREY: you will be a jehovah's witness. i have a few "awake" magazines for you. you don't have to keep her very long. a few seconds is all i'll need. whatiya think?
+SANDY: i don't know. it sounds like a good daydream, . but actually doing it is too weird. too dangerous.
+JEFFREY: let's just try the first part. if that goes well, we'll see about the rest. no one will suspect us, because no one would believe two people like us would be crazy enough to do something like this.
+SANDY: you've got a point there.
+
+JEFFREY: now. we'll walk over so there's no license plates and you give me at least three minutes. i can stall if it's more, but i need time to find a good window .alright? 
+SANDY: alright.
+JEFFREY: let's go.
+
+JEFFREY: okay, i'm going ahead. wait a minute, what's her name? 
+SANDY: oh bother. dorothy vallens, seventh floor. look on the mailbox for her number, bright boy.
+JEFFREY: thanks. dorothy vallens. okay. good luck . three minutes, no sooner.
+SANDY: alright. good luck, yourself.
+
+OLD LADY: well, it's about time you came. 
+JEFFREY: that's a good sign.
+DOROTHY: yes? what is it?
+JEFFREY: pest control. gotta do your apartment.
+DOROTHY: oh that stuff stinks.
+JEFFREY: nope. it's new stuff. no smell.
+DOROTHY: oh yeah, that's good.
+
+DOROTHY: what is this. grand central station? 
+JEFFREY: that oughta do it.
+DOROTHY: yeah.
+
+SANDY: are you alright? 
+JEFFREY: yeah. let's get outta here. what happened?
+SANDY: i was just about to go to the door, when that man did my job for me. was it alright?
+JEFFREY: yes and no. did you recognize him?
+SANDY: no. i only saw his back. he went down another stairwell at the end of the hall.
+JEFFREY: i didn't get a good look at him either, but he sure looked at me. i didn't have time to get a window, but i found this key. pretty nifty, huh?
+SANDY: yeah, if it opens the door.
+JEFFREY: yeah.
+JEFFREY: you go first.
+
+SANDY: so. what's next? 
+JEFFREY: pretty clever. are you game for more?
+SANDY: i owe you. since i goofed up this one.
+JEFFREY: you didn't goof it up, but. you still owe me one. i want to sneak in tonight. it's friday. do you have a date tonight?
+SANDY: yes. i do.
+JEFFREY: well, it's friday night and you're a beautiful girl. i guess you would have a date. that does that.
+SANDY: you really want to do this, don't you?
+JEFFREY: i don't want you to get involved, really, i mean, i do, but if something went wrong i mean, like you said, they may be involved in murder. they pull up in front of sandy's house.
+SANDY: i'll tell mike i'm sick. there's a game tonight anyway and he'll never miss me. afterwards he can go out with the guys. just so the record is kept straight though, i love mike. what do want me to do?
+JEFFREY: first of all, we'll have a nice dinner.
+SANDY: i already know. the "slow club." it's on route 7.
+JEFFREY: great. i'll pick you up around eight o'clock. is that good?
+SANDY: yeah, but don't pick me up. my father may think it's strange. i'll walk over to your house. i'll be there at eight o'clock.
+JEFFREY: okay. you better get out before someone sees us.
+JEFFREY: see ya!
+
+DR. GYNDE: that will take care of you, frances, for another week. i don't want you to overdo things either. take it very easy. 
+AUNT BARBARA: i'll see to it, bill.
+DR. GYNDE: good.
+MRS. BEAUMONT: i feel fine.
+DR. GYNDE: that's not the point. you're under a great deal of stress. don't overdo it. don't be foolish. jeffrey enters the room - to say goodnight.
+JEFFREY: doctor gynde. my whole family's sick.
+AUNT BARBARA: i'm not sick.
+AUNT BARBARA: we'll see who stays in my will.
+JEFFREY: can i use the car tonight?
+MRS. BEAUMONT: of course, jeffrey.
+
+SANDY: what's the plan. 
+JEFFREY: first of all, we're going to the slow club to see dorothy vallens. we'll watch her for awhile. i'd like to hear her sing anyway, and then also we'll know she is there and not in her apartment.
+SANDY: brilliant.
+JEFFREY: then we'll drive back to her apartment and i will plant myself there.
+SANDY: this is not my usual friday night!
+
+SLEAZY MAITRE D': good evening. two? 
+JEFFREY: yeah. could we get a small table in the back?
+SLEZY MAITRE D': surely, come this way.
+MAITRE D': may i get you something to drink?
+JEFFREY: i'd like an ice-cold heineken.
+SANDY: that sounds good.
+JEFFREY: two.
+MAITRE D': two heinekens, thank you. the maitre d' leaves.
+JEFFREY: when does dorothy vallens come on?
+WAITER: i don't know. pretty soon. who knows.
+SANDY: that guy was filled with information.
+JEFFREY: here's to. an interesting experience.
+SANDY: i'll drink to that.
+
+SANDY: jeffrey, i don't think you ought to do it. 
+JEFFREY: why not?
+SANDY: it's crazy and dangerous. my i shouldn't have told you.
+JEFFREY: it'll be okay. i don't think you should wait out here though. i think you should go home. can you drive this car?
+SANDY: yeah. but.
+JEFFREY: leave it in the front of your house for me. okay?
+
+JEFFREY: could you wait a little while. this key may not fit. 
+SANDY: . i wish you wouldn't do this. it doesn't make any sense. let's go somewhere and have some coffee.
+JEFFREY: i'm going in, sandy. i'll see you tomorrow and tell you how it went.
+SANDY: i. i don't want to see you tomorrow.
+JEFFREY: oh, okay. can i call?
+SANDY: okay. yeah, call.
+JEFFREY: look. it can wait till sunday.
+SANDY: call tomorrow. it's okay. good luck. i hope you can sneak out okay. you're going to wait until she's asleep?
+JEFFREY: yeah.
+SANDY: i'm going to wait here until she comes.
+JEFFREY: are you sure?
+SANDY: i'll honk four times so you'll hear it and know she's on her way up. okay? jeffrey nods.
+JEFFREY: okay. thanks.
+SANDY: i don't know if you're a detective or a pervert.
+JEFFREY: that's for me to know and for you to find out. i'll see you. i mean call you. okay?
+SANDY: okay, okay. bye.
+
+DOROTHY: thanks jimmy, see you tomorrow. you want a drink, or something? 
+JIMMY: i better get back. thanks anyway.
+DOROTHY: goodnight.
+JIMMY: goodnight now.
+DOROTHY: hello. yes. yes sir, frank. let me talk to him. please frank, sir. i like to sing blue velvet. don? it's okay. don't worry. don??. can you hear me? is little donny ok? is he there? don? you mean meadow lane? frank?! what's the matter with him? i know. when? okay. in an hour. i'll be sweet. momma loves you. okay frank, sir.
+
+JEFFREY: jeffrey. 
+DOROTHY: jeffrey. jeffrey what?
+JEFFREY: jeffrey nothing.
+DOROTHY: you tell me!! let me see that wallet. jeffrey beaumont. what're you doing in my apartment, jeffrey beaumont?
+JEFFREY: i wanted to see you.
+DOROTHY: what? are you kidding me? who sent you here?
+JEFFREY: nobody.
+DOROTHY: you better tell me something.
+JEFFREY: i was. an experiment. just to see if i could do it.
+DOROTHY: an experiment? hey, i've seen you before.
+JEFFREY: i sprayed your apartment. i took your key. i really didn't mean to do anything but see you.
+DOROTHY: tell me what you saw tonight. tell me.
+JEFFREY: . i saw you come in, talk on the phone.
+DOROTHY: the phone. what did you hear on the phone . tell me. word for word.
+JEFFREY: you said hello. to frank. you wanted to talk to someone?. don?. and little donny. you said something about momma loves you. and something about a meadow lane. something in an hour. i don't remember any more.
+DOROTHY: that's right. that's what i said. you have a good memory. then what?
+JEFFREY: well.
+
+JEFFREY: then you got undressed. 
+DOROTHY: how many times have you sneaked into girls' apartments and watched them undress?
+JEFFREY: never before this.
+DOROTHY: how'd you like it if someone sneaked into your house and watched you. get undressed. i want to see you.
+JEFFREY: no. come on.
+DOROTHY: no, you come on. take off your pants. i want to see you.
+JEFFREY: look. i'm sorry. just let me leave.
+DOROTHY: no way.
+DOROTHY: get undressed. i want to see you.
+
+STAND UP.: he does. 
+DOROTHY: come closer.
+DOROTHY: what do you want from me?
+JEFFREY: i . i don't know.
+DOROTHY: what do you want?
+DOROTHY: don't move. don't look at me.
+DOROTHY: do you like that?
+JEFFREY: yes.
+DOROTHY: don't move or i'll kill you.
+DOROTHY: do you like talk like that?
+JEFFREY: no.
+DOROTHY: lie down on the bed. he lies down. he looks frightened.
+DOROTHY: hello, baby.
+FRANK: shut up. it's daddy. shithead.
+DOROTHY: hello, daddy.
+FRANK: . my bourbon.
+FRANK: . sit down. get your chair.
+FRANK: . spread your legs.
+FRANK: wider.
+FRANK: . mommy.
+
+DOROTHY: . mommy's here. 
+FRANK: baby wants to
+
+FRANK: baby wants blue velvet. 
+DOROTHY: okay. frank slowly moves
+FRANK: don't look at me!
+FRANK: don't look at me!!! daddy's home.
+FRANK: stay alive baby. see you next christmas!
+JEFFREY: why don't you come lie down. come on, i'll help you.
+DOROTHY: don't. i don't like that. what do you want?
+JEFFREY: nothing. are you alright?
+DOROTHY: sure i'm alright.
+JEFFREY: i'll go then.
+DOROTHY: don?
+JEFFREY: no.
+DOROTHY: don. hold me. i'm scared. hold me. please.
+DOROTHY: thank you. honey.
+JEFFREY: it's okay. it's okay.
+DOROTHY: do you like the way i feel?
+JEFFREY: yes.
+DOROTHY: see my breasts? . see?
+JEFFREY: yes.
+DOROTHY: see my nipples?
+JEFFREY: yes.
+DOROTHY: go ahead. i don't mind.
+DOROTHY: feel me.
+DOROTHY: you can hit me, if you want to.
+JEFFREY: no. please. i won't.
+JEFFREY: stop it!
+DOROTHY: do you like me?
+JEFFREY: yes, i like you.
+JEFFREY: what's the matter?
+DOROTHY: get off me.
+
+DOROTHY: i made it go down the toilet. 
+JEFFREY: what?
+DOROTHY: i made it go down the toilet.
+
+JEFFREY: next christmas. is he santa claus who has left a present for dorothy? what was it? an ear? another ear?!! what was it? 
+DOROTHY: do you know?
+JEFFREY: no.
+DOROTHY: you don't?
+JEFFREY: no. what is happening?
+DOROTHY: maybe you don't know. i know you though. you're jeffrey beaumont and i know where you live and i know ways to get you and i know ways to kill you.
+JEFFREY: please don't talk like that. you're upset. i'm not helping you. i'm sorry for what i did. i better go.
+DOROTHY: go then. i can't let you put it in me now but i want you. i like you.
+
+JEFFREY: then don't talk about killing. 
+DOROTHY: did i say that?. i didn't mean it. or did i? sometimes i think it would be fun. go ahead, you better leave now. i can't open myself to you now. i'll tell you a little secret. i want to die.
+JEFFREY: don't say that.
+DOROTHY: it's a secret so don't tell anyone. some day i'll show you where. i've gotta go to sleep now.
+
+JEFFREY: i'm leaving now. 
+DOROTHY: help me. help me. please help me.
+
+JEFFREY: you scared me. 
+MRS. BEAUMONT: is something wrong? what's happened to your face?
+JEFFREY: nothing. i'm fine.
+MRS. BEAUMONT: you can't just stay out half the night and carry on, jeffrey. there's got to be some order, jeffrey. i thought it would have been nice to call your father when you got home but now it is much too late.
+
+JEFFREY: how can i help her? i can't tell her to go to detective williams. she'll think i'm a policeman. she has my address. she can go there. if she has to. i'll tell her. and her. and she thinks i'm don. her husband? where the is don? - maybe he died. 
+JEFFREY: hello?. mrs. williams?. this is jeffrey beaumont. fine. okay. is sandy there? okay. hi sandy. can you talk? he is?. well, i guess i'll talk to you later on. it went okay. i'll tell you about it. dinner?. tomorrow night? seven o'clock, yeah, sounds good. okay. he's still in the hospital. okay, yeah. see you tomorrow. thanks.
+102. INT. HOSPITAL LABORATORY - DAY: the searching, mysterious music plays over while,
+JEFFREY: this is what my father's disease looks like?
+DR. GYNDE: yes.
+
+JEFFREY: a table in back, please. 
+MAITRE D': certainly
+JEFFREY: i'll have an ice-cold heineken.
+MAITRE D': one heineken, certainly, sir.
+
+107. EXT. CITY STREETS - NIGHT: the mysterious music plays. 
+108. EXT. FRONT STREET - NIGHT: dark, low music now.
+
+115. EXT. VACANT FIELD - NIGHT: . and runs through the vacant lot. 
+116. EXT. APARTMENT BUILDING - NIGHT: . to dorothy's building.
+
+JEFFREY: hi. can i come in? 
+DOROTHY: yeah. hurry up though.
+
+JEFFREY: are you alright? 
+DOROTHY: no. i'm not.
+DOROTHY: why are you here. whatiya want?
+JEFFREY: . i. uh.
+DOROTHY: i looked for you in my closet tonight. it's crazy, i don't know where you came from but. i like you.
+JEFFREY: that's not crazy. i like you too.
+DOROTHY: i liked being with you last night.
+JEFFREY: . same here.
+DOROTHY: oh
+JEFFREY: frank? .can you stand up?
+DOROTHY: i'm alright. go hide. this won't take long. be quiet.
+YELLOW MAN: frank gone?
+DOROTHY: yeah. but get outta here. he's comin' back.
+YELLOW MAN: bull.
+DOROTHY: alright, suit yourself.
+YELLOW MAN: he's comin' back?. what for?
+DOROTHY: 'cause he's comin' back, that's what for.
+YELLOW MAN: yeah, maybe so. frank's got me. and you. and really it's all thanks to don. isn't it. remember that. your husband was the one who started my mind with drugs.
+DOROTHY: oh he forced you, huh?
+YELLOW MAN: he's the reformed dealer though who wanted to turn himself in. he's the one that caused frank to come and frank's us real good. i just feel so horny. i'm supposed to be here watching you why can't i be here you. listen. i know his cock's the size of a pin - let me give you the real thing. let me wet my whistle, baby.
+DOROTHY: no way. get out. i'm gonna tell frank.
+YELLOW MAN: okay, i'm goin'. you'll see. i'll get you.
+JEFFREY: nice guy. who's he?
+DOROTHY: who's it, you mean.
+DOROTHY: oh don!!! why can't i just die.
+JEFFREY: there you go again. stop saying that.
+DOROTHY: i can't. i can't. you think you know so much.
+JEFFREY: take it easy. what's goin' on anyway?. why are you in so much trouble?
+DOROTHY: i. don't. okay. just don't. just be with me. oh come with me. who are you. come up here.
+
+DOROTHY: look. 
+JEFFREY: no.
+DOROTHY: falling.
+JEFFREY: no. please, dorothy. why are you in so much trouble?
+JEFFREY: who is don?
+DOROTHY: don?. are you in with them?
+JEFFREY: no. but you're in very big trouble.
+DOROTHY: why are you so interested? why do you keep asking me?
+JEFFREY: i came back to help you. you said do i let girls sneak into my house. you know where i live. if you need to. come to where i live. o.k.?
+DOROTHY: who are you? maybe i'll need to. you like me, huh?
+JEFFREY: yes.
+DOROTHY: . or do you just want me? i'm going to let you enter me now.
+JEFFREY: no. i should go.
+DOROTHY: please. please stay.
+JEFFREY: why dorothy?
+DOROTHY: don? i have to make it hurt. i want there to be nothing again. don!!!
+
+JEFFREY: will you tell mom when she gets home from the hospital that i've gone to dinner at sandy williams' house? 
+AUNT BARBARA: okay honey. that sounds nice. jeffrey.
+JEFFREY: oh yeah?. have you seen any?
+AUNT BARBARA: i've seen a few.
+JEFFREY: well, i haven't seen any. i wouldn't worry about it. look. i better go.
+AUNT BARBARA: okay honey.
+
+SANDY: we thank you in the name of the father, the son, and the holy ghost. amen. they start passing food around. 
+MIKE: like i was saying. if you toss the ball like this, with your fingers just down here, that thing'll spin like a beauty. real straight.
+DETECTIVE WILLIAMS: yeah? then how come nobody caught anything last week?.
+MIKE: 'cause we had a bad day.
+DETECTIVE WILLIAMS: you play any sports, jeffrey?
+JEFFREY: no.
+MIKE: looks like you'd make a good runner.
+JEFFREY: well.
+MIKE: i mean, you don't exactly have the build for a football. i mean. no offense.
+JEFFREY: no. you're right.
+MIKE: i mean. some guys play anyway but they usually get slaughtered.
+JEFFREY: yeah, well i never wanted to get slaughtered much.
+MIKE: well, most guys don't. i mean that's the point. you all mind if i take my vitamins?
+MRS. WILLIAMS: no, mike. but there are vitamins in the food, you know.
+MIKE: yeah, but i gotta supplement that. i gotta take a bunch of zinc too. the body is like a machine. everything has got to stay in perfect tune for perfect health. that's what i'm interested in. sandy looks at mike.
+MIKE: oh yeah. and a few other things.
+SANDY: we've got some heinekens.
+DETECTIVE WILLIAMS: yeah. i like bud myself.
+SANDY: i'll get it. mike, whatiya want?
+MIKE: i guess another glass of water.
+
+MRS. WILLIAMS: who wants dessert? it's blueberry pie. and ice cream. 
+MIKE: none for me, thanks.
+MIKE: what are watchin' this junk for?
+SANDY: you can change it if you want to.
+MIKE: i don't know why we have to watch t.v.
+SANDY: mike. we don't have to watch it. come on.
+MRS. WILLIAMS: here you are. would anyone like coffee?
+JEFFREY: that sounds great!
+MRS. WILLIAMS: anyone else?. alright jeffrey, just a minute.
+MIKE: i'll be right back.
+SANDY: well, how did it go?. what happened?
+JEFFREY: well. i've found out some things. nothing really for certain. there are some strange people involved.
+SANDY: what did you see?
+JEFFREY: well.
+MRS. WILLIAMS: mike?. are you alright?
+MIKE: yes.
+MIKE: sandy?. could i talk to you a minute?
+SANDY: sure. just a sec. excuse me.
+MIKE: come on out a minute, okay?
+SANDY: okay.
+125A. INT. WILLIAMS' BASEMENT - NIGHT: downstairs mrs. williams picks up some dishes.
+MRS. WILLIAMS: please excuse me a moment, jeffrey, and i'll get to the dishes.
+JEFFREY: sure thing. please don't worry about me. can i help you with the dishes?
+MRS. WILLIAMS: nice of you to offer, jeffrey, but certainly not. just relax and enjoy your coffee. i'm sure sandy will be back soon.
+DETECTIVE WILLIAMS: jeffrey?
+JEFFREY: yes?
+DETECTIVE WILLIAMS: if you want to come up a minute, i'll show you some pictures.
+JEFFREY: these are beautiful. how's the case coming?
+DETECTIVE WILLIAMS: okay.
+JEFFREY: anything you can tell me?
+DETECTIVE WILLIAMS: the criminals are winning.
+JEFFREY: is that why you say it's horrible?
+DETECTIVE WILLIAMS: yes.
+JEFFREY: i guess you've seen some bad things.
+DETECTIVE WILLIAMS: yes i have - so bad i wouldn't poison your mind by telling you.
+JEFFREY: why do you do it?
+DETECTIVE WILLIAMS: i won't let the get me up against the wall. it's an act of defiance.
+JEFFREY: yeah. i get it.
+JEFFREY: what is this? what color is it?
+DETECTIVE WILLIAMS: blue. it's blue velvet.
+SANDY: can i use the car for a while?
+DETECTIVE WILLIAMS: sure. what's up?
+SANDY: i want to buy jeffrey a dairy queen.
+JEFFREY: a dairy queen? oh yeah? sure, that sounds great.
+
+JEFFREY: what's with mike? 
+SANDY: he got a little jealous.
+JEFFREY: i'm sorry, i didn't.
+SANDY: it's okay. don't worry about it. the car glides along.
+SANDY: you want a dairy queen?
+JEFFREY: no way. i'm about to blow up.
+
+SANDY: you want to tell me about it? 
+JEFFREY: . ok. it's a strange world, sandy. this is what i have found out. what i think i have found out. dorothy vallens is married to a man named don. they have a son. i think the son and the husband have been kidnapped by a man named frank who has now cut off both of don's ears. i think he is holding them to make her do things for him. i think she wants to die. the ears were for her a warning to stay alive. there is another man involved. i call him the "yellow man". you saw his back the other day in the hall at her door. i don't know what he does but i think he's on drugs supplied by frank. frank is a very dangerous man.
+SANDY: wow. should you tell my father?
+JEFFREY: i don't see how i can. and i can't prove any of this. i got all this information illegally. also it could get you in trouble.
+SANDY: you saw a lot in one night.
+JEFFREY: . actually. i've been in twice.
+SANDY: twice. without her sensing anything?
+JEFFREY: yes.
+SANDY: did you see her undressed?
+JEFFREY: yeah. i mean. a little, . you know.
+SANDY: yeah?
+JEFFREY: that doesn't bother you, does it?
+SANDY: who, me? why should it?
+JEFFREY: that's what i thought.
+SANDY: you're sure right. it is a strange world.
+JEFFREY: why are there people like frank. why is there so much trouble in this world.?
+SANDY: i don't know. i had a dream. in fact. the night i met you. . in the dream the world was dark because there weren't any robins. you know, birds. robins stood for love. and all of a sudden thousands of robins flew down and brought this blinding light of love. and it felt like that love would be the only thing that would make any difference. i guess. until the robins come there is trouble.
+JEFFREY: yeah i guess so. you're a neat girl.
+SANDY: so are you. i mean you're a neat guy. we better get back.
+JEFFREY: i guess so. you want to help me watch frank?. i'm going to stake out frank's place tomorrow. with a camera.
+
+SANDY: no, silly - i'm still in school you know. but i'll meet you after school and you can tell me what you've learned. you better be careful, jeffrey. 
+JEFFREY: i will. i'll pick you up on the same corner at three thirty-five, okay?
+SANDY: okay. be careful.
+JEFFREY: okay, sandy.
+
+JEFFREY: can i give you a kiss good night? 
+SANDY: you better not, jeffrey.
+JEFFREY: okay. okay.
+SANDY: goodnight.
+JEFFREY: see ya tomorrow.
+
+JEFFREY: hello? frank speak to me 
+JEFFREY: stupid!! so stupid. now she might be in even more trouble with frank. i hope not. i hope not. tomorrow i have to find out more about frank.
+
+JEFFREY: fifteen more minutes. 
+136. EXT. CITY STREET - DAY: they drive through town.
+
+JEFFREY: what happened? 
+GUY #1: he was blown away man. can't you see?
+GUY #2: that cracker was the biggest dealer in this section of the city, brother. the police are going to find more drugs in there than you can believe. it's a speedball heaven in there.
+JEFFREY: oh yeah? what about the woman?
+GUY #1: probably just a he happened to be with at the time.
+JEFFREY: man oh brother.
+GUY #1: this is the way the world is my man. take a good look.
+
+SANDY: oh great. 
+SANDY: you were late.
+JEFFREY: i'm really sorry.
+SANDY: what am i going to do?
+JEFFREY: you want to go talk to him?
+SANDY: yeah, but. i don't think it's going to do much good. let's go. i'll try to talk to him later.
+
+SANDY: you know, that cheese is practically all chemicals. 
+JEFFREY: that's what makes it so good. you wanta hear what i saw today?
+SANDY: shoot.
+JEFFREY: number one. i saw the yellow man go into frank's building, laughing with frank. now. the only trouble is. what does this prove?
+SANDY: nothing really, but it's interesting. they know each other. they seem to like each other.
+JEFFREY: maybe. but i think the yellow man is on drugs. i think frank supplies him.
+SANDY: oh yeah?
+JEFFREY: number two. i saw the yellow man come out. this time with a well-dressed man with an alligator briefcase. they drove down this factory building and stood on a staircase looking at something in the distance. number three. now get this. in the distance was a murder. a drug dealer shot to death and a woman with her legs broken.
+SANDY: jeffrey!!
+JEFFREY: then these guys told me the police will find a huge amount of drugs inside the dead man's place.
+SANDY: i can't believe what you are finding out. are you going to continue with this. are you going back to her apartment?
+JEFFREY: yeah.
+SANDY: jeffrey?. why?
+JEFFREY: i'm seeing something that was always hidden. i'm involved in a mystery. i'm learning. and it's all secret.
+SANDY: you like mysteries that much?
+JEFFREY: yeah. you're a mystery. i like you. very much.
+SANDY: oh yeah?
+SANDY: don't. please, jeffrey.
+JEFFREY: you worry about me really?
+SANDY: yes. is that so surprising?. yeah i worry. a lot. i got you into this.
+
+DOROTHY: come in. 
+JEFFREY: hello.
+144. INT. DOROTHY'S APARTMENT - NIGHT: dorothy closes the door. she chains it.
+DOROTHY: it used to make me laugh .but.
+JEFFREY: i'm sorry .maybe i better go dorothy.
+DOROTHY: yes. frank-
+JEFFREY: frank is coming?
+DOROTHY: no. how could he?. don't go. you think i'm crazy, don't you? i want you to stay. . don't hate me.
+JEFFREY: i sure don't hate you.
+DOROTHY: i'm not crazy. i know the difference between right and wrong.
+JEFFREY: that's good.
+DOROTHY: do you like my body?
+JEFFREY: sure i do.
+DOROTHY: i'm a statue. you can feel me.you can do anything you want.
+
+DOROTHY: what do you want to do? 
+JEFFREY: i'm doing it.
+DOROTHY: are you a bad boy?
+JEFFREY: whatiya mean?
+DOROTHY: do you want to do bad things? anything. anything.
+JEFFREY: what do you want?
+DOROTHY: i want you to hurt me.
+JEFFREY: no. i told you. i don't want to hurt you. i want to help you. i think i know some of what is happening to you. . dorothy? frank has your husband and son. dorothy? doesn't he? you have to do something dorothy. go to the police.
+DOROTHY: no police!!!. no police!!
+DOROTHY: you like to open me. don't you?
+JEFFREY: yes.
+DOROTHY: what if i told frank that you opened me?
+JEFFREY: that wouldn't be too good, would it?
+DOROTHY: frank would open you.
+JEFFREY: okay. i know you've been scared. now you want to scare someone.
+DOROTHY: does that scare you?
+JEFFREY: shut up.
+DOROTHY: beeeee careful.
+JEFFREY: come on dorothy.
+DOROTHY: what if frank came over here and found us?
+JEFFREY: look, snap out of it, will ya?
+DOROTHY: kiss me.
+DOROTHY: do you love me?
+JEFFREY: do you love me?
+DOROTHY: i asked first.
+JEFFREY: sometimes i think i do.
+DOROTHY: and sometimes you think you don't?! well, get away then! she bolts up.
+JEFFREY: wait a minute. wait. whatiya want? for cryin' out loud!
+DOROTHY: just get outta my bed.
+JEFFREY: oh are you alright.
+DOROTHY: see. see how you hurt me? now. open me. enter me. jeffrey moves on top of her in the darkness.
+DOROTHY: i love you don with all my heart.
+JEFFREY: no. it's not don.
+DOROTHY: come inside me. oh yes, oh yes, oh yes. oh yes, oh yes, oh yes.
+JEFFREY: i didn't mean to hurt you.
+DOROTHY: shhhhhh. now i have your disease.
+JEFFREY: you. what?
+DOROTHY: you put your disease in me. your semen.
+JEFFREY: there's no disease, i can tell you.
+DOROTHY: men are crazy. then they put their craziness into me. then it makes me crazy. then they aren't so crazy for awhile. then they put their craziness in me again. . it's burning me. but i love you. i do, i do. did you know that? did you know that i love you?
+JEFFREY: i'm glad you do.
+DOROTHY: there's so much i want to tell you. i'm in so much darkness though with things moving. there is darkness sucking me. it's kissing me and darkness is entering me. in every hole. it's opening me to a death.
+JEFFREY: dorothy. no!
+DOROTHY: if i die, then they'll be free. it's getting late, isn't it? i can tell. it's a cold feeling when it's late. it's warm then it gets cold. jeffrey. i feel it getting cold.
+JEFFREY: you called me jeffrey.
+DOROTHY: i did. are you?
+JEFFREY: yes.
+DOROTHY: why are you here? hmmmmmmmm!!!! ok.
+JEFFREY: no. not really. but also because i really want you to be alright.
+DOROTHY: you do .you really do.
+DOROTHY: jeffrey. jeffrey. jeffrey.
+JEFFREY: i guess i should go.
+DOROTHY: i want you to stay with me.
+JEFFREY: i think i better go.
+
+DOROTHY: you're my special friend, aren't you? i have you inside of me still. it helps me. i need you. 
+JEFFREY: i'll call you.
+DOROTHY: okay. soon? do you think i'm too fat?
+JEFFREY: what?
+DOROTHY: i'm getting a little bit fat. i hate that.
+JEFFREY: you look beautiful to me.
+DOROTHY: right in here. fat, fat, fat.
+JEFFREY: oh no.
+DOROTHY: no. hi baby.
+FRANK: who's this
+DOROTHY: he's a friend. from the neighborhood.
+FRANK: from the neighborhood? shut the up. you like telephones? huh?. you wanta go for a ride?
+JEFFREY: no thanks.
+FRANK: no thanks. what does that mean?
+JEFFREY: i don't want to go.
+FRANK: go where?
+JEFFREY: on a ride.
+FRANK: a ride?. hell, that's a good idea. okay, let's go. hey, let's go. frank grabs jeffrey and pulls him along.
+FRANK: come on. we're goin' for a joy ride.
+
+FRANK: come on. i wancha to meet a frienda mine. raymond, get enough beer for ben too. 
+RAYMOND: okay frank.
+FRANK: what kinda beer do you like?
+JEFFREY: heineken.
+
+JEFFREY: what color is it? 
+DETECTIVE WILLIAMS: it's blue. blue velvet.
+
+WILLARD: hey frank i'm sorry buddy. 
+FRANK: yeah?. get ready for a love letter. when you least expect it.
+WILLARD: frank. please man.
+FRANK: a big love letter.
+
+FRANK: hey ben. open up. it's frank. 
+BEN: frank. come in.
+FRANK: hey, i brought some friends. and some beer.
+BEN: fine. welcome. come sit down.
+
+FRANK: suave. goddam are you suave, you 
+BEN: certainly frank. darling, get some glasses. we'll have some beer with frank. won't you sit down?
+FRANK: ben! how the are ya?
+BEN: fine frank. fine. how are you?
+FRANK: good, real good. you know
+BEN: darling, where are the glasses?. oh. here they are.
+FRANK: raymond! where's the beer?
+RAYMOND: right here frank. you want me to pour it?
+FRANK: no, i want ya to it. yes.
+RAYMOND: there ya go.
+FRANK: good, let's drink up.
+BEN: to your health, frank.
+FRANK: let's drink to something else. let's drink to fuckin'. say here's to your frank.
+BEN: if you like frank. here's to your cheers.
+FRANK: cheers. suave man. you're so suave. we love ben! here's to ben!.
+FRANK: hey neighbor. here's to ben.
+JEFFREY: here's to ben.
+FRANK: do you see, ben?. i can make him do anything i please.
+BEN: thank you neighbor. let me see your face. did he hurt you?
+BEN: oh. my.
+BEN: is that any better?
+BEN: frank, i have something for you. excuse us everyone.
+FRANK: excuse us por favor! hey. let see her kid.
+DOROTHY: donny, oh my donny.
+DONNY: mommy!
+
+DONNY: mommy. you left me. you stopped loving me. 
+FRANK: okay. let's hit the road. we're givin' our neighbor a joy ride. let's get on with it. bye, ben. ya wanna go on a joy ride with us, anyone? you?
+FRANK: no smile for frank? no? okay, it. let's go. oh you wanna come with raymond?
+BEN: see you tuesday, frank.
+FRANK: right ben. let's go i'll anything that moves.
+156. EXT. "BARBARY COAST" - NIGHT: they leave and pile back into the car.
+
+FRANK: hey? . you like to walk. 
+JEFFREY: what?
+FRANK: let's take our neighbor out. let him walk back.
+DOROTHY: where are we going, frank?
+FRANK: hey. i'm taking your neighbor to the country. maybe something for you too.
+DOROTHY: frank?
+FRANK: you want to see him too, right?
+DOROTHY: yes, but.
+FRANK: then, shut up!
+FRANK: hey. what's this got to do with anything.
+
+FRANK: what are you lookin' at? 
+JEFFREY: nothing.
+FRANK: don't look at me, i shoot when i see the whites of the eyes. you like me?.
+FRANK: look at these. what are these?
+DOROTHY: come on, frank. let's go. please.
+FRANK: don't say please, fuckhead. what are
+
+DOROTHY: those are my breasts. 
+FRANK: can i feel 'em?
+DOROTHY: if you want to.
+FRANK: baby wants to pinch 'em.
+JEFFREY: hey. leave her alone.
+FRANK: next! . out of the car help him
+
+DOROTHY: frank. he didn't mean it. leave him alone. come on. he didn't mean it. 
+FRANK: shut up. gimme your lipstick. . hey, pretty, pretty.
+
+FRANK: don't be a good neighbor to her or i'm gonna send you a love letter. straight from my heart, you know what a love letter is? it's a bullet. straight from my gun, once you get a love letter from me, you're forever. 
+JEFFREY: yes.
+FRANK: i'll send you straight to hell,
+FRANK: you feel good. feel my muscles.
+FRANK: you like that? hold him tight for me.
+
+JEFFREY: i don't want to talk about it. everything's okay now. i don't want to talk about it. 
+AUNT BARBARA: sometimes it helps to talk things over. for instance, many marriages are saved by.
+JEFFREY: aunt barbara. i love you, but you're not gonna get it.
+
+170. JEFFREY'S ROOM - DAY: jeffrey dials the phone. 
+JEFFREY: mrs. williams? hi, this is jeffrey beaumont. fine and you? good. is sandy there? good, thanks. sandy?. can you talk? good. i'm through with this business. i'll explain, but it got a little out of hand. i'm lucky to be able to call you. anyway. i promise i'll tell you everything .how are you?
+
+171. INT. SANDY'S BEDROOM - DAY: sandy on her phone. 
+SANDY: we broke up. no. it's okay. it's okay. jeffrey?. jeffrey?. hey, jeffrey?. do you want to go to a party with me friday night?. he won't be there, don't worry. it'll be real nice. this friday. you don't dance? well, i'll teach you, silly.
+
+172. INT. JEFFREY'S ROOM - DAY: jeffrey on his phone. 
+JEFFREY: great. hey. i've got a bit of a problem. i know some things. that could help your father but you might get into trouble.
+
+DETECTIVE WILLIAMS: jeffrey! come on in. 
+JEFFREY: hi. hi sandy. i'm sorry to bother you, but i've got to talk to you.
+DETECTIVE WILLIAMS: okay. come on in. looks like you had a bad face lift.
+JEFFREY: yeah.
+
+DETECTIVE WILLIAMS: okay? 
+JEFFREY: okay. i gotta tell you. i've. discovered some things. .anyway i have to show you some pictures and tell you some things about them. the first picture is this.
+JEFFREY: and that man came out with a third man - this well-dressed guy. here's the photo. i think a girl named dorothy vallens is in trouble with these people. i think frank has taken her husband and her son.
+JEFFREY: i have no hard proof of any of this. her address is also on the photos. i think these people are involved with drugs. and murder. i think frank is killing drug dealers and. . and somehow frank is getting all their drugs. i had to tell you i got slightly more involved in this than you wanted me to, but it's over now for sure. .i had to tell you about these things in case it could help.
+DETECTIVE WILLIAMS: well now jeffrey, how did you come to get so involved?
+JEFFREY: i can't tell you the whole story. i. i took it upon myself. i can't say more.
+DETECTIVE WILLIAMS: is sandy part of this?
+JEFFREY: no. not at all.
+DETECTIVE WILLIAMS: who knows you have these?
+JEFFREY: only you. and the photo lab.
+DETECTIVE WILLIAMS: you're all through with this now?
+JEFFREY: yes sir. i sure am.
+DETECTIVE WILLIAMS: for now. alright. you better be. and sandy better not be involved with this, i can tell you. be prepared to come in for further interrogation on this later.
+JEFFREY: yes sir.
+SANDY: everything okay?
+JEFFREY: yeah. i think so. i just had to tell him some of what i knew. is friday still on?
+SANDY: you didn't tell him about me?
+JEFFREY: no.
+SANDY: i should never had gotten you going on this. yes jeffrey. friday's on!
+JEFFREY: okay. great!
+
+186. EXT. WILLIAMS HOME - NIGHT: jeffrey is driving over to sandy's. 
+MRS. WILLIAMS: hello, jeffrey. come in.
+JEFFREY: you all set?
+YELLOW MAN: hey john - get a move on!!
+DETECTIVE WILLIAMS: easy does it jeffrey. behave yourself. don't blow it.
+YELLOW MAN: come on john, get it in gear pal!
+DETECTIVE WILLIAMS: so long jeffrey. you two have a nice night, okay?
+JEFFREY: okay.
+SANDY: what is it?
+JEFFREY: just some fatherly advice.
+DETECTIVE WILLIAMS: that's right.
+SANDY: goodnight mom. goodnight tom.
+T.R. GORDON-YELLOW MAN: goodnight, sandy.
+
+SANDY: what was that all about? 
+JEFFREY: nothing. really! it's good to see you.
+SANDY: it's good to see you.
+JEFFREY: where to?
+SANDY: just go over to gelford and up to vista. it's not far. can you tell me any more about what you learned?
+JEFFREY: i'd rather not talk about it. i'll tell you about it sometime.
+SANDY: it's okay.
+JEFFREY: ... you look beautiful.
+SANDY: thank you. whatiya say we just enjoy the evening?
+JEFFREY: i like that idea. that's a real good idea.
+
+SANDY: you want to dance? 
+JEFFREY: i can't dance fast.
+SANDY: really?
+JEFFREY: really. you want to dance with someone else?
+
+JEFFREY: let's wait for some slow one. 
+SANDY: just a minute.
+SANDY: don't worry. i took care of it. you want something to drink?
+JEFFREY: you want to dance?
+SANDY: okay.
+SANDY: i love you, jeffrey.
+JEFFREY: i really do love you.
+
+SANDY: oh my what's wrong? 
+JEFFREY: frank!!
+JEFFREY: come on. move it!
+JEFFREY: i can't outrun this guy.
+JEFFREY: my father has a gun at home.
+SANDY: no.
+JEFFREY: sandy. this guy is a killer!! i promise you.
+SANDY: try to get to my house. then my father can.
+
+JEFFREY: no!! 
+SANDY: it's mike! it's mike!
+
+MIKE: hey come here, you stole my girl, you bastard. i'm gonna kick your ass, right in front of your stupid house. 
+SANDY: ... stop it mike.
+MIKE: you shut up. nobody's talkin' to you. hey who's that jeffrey? your mother?
+JEFFREY: dorothy! ... dorothy!
+SANDY: dorothy vallens?
+JEFFREY: yes.
+MIKE: hey, you ivy league come here!
+JEFFREY: later mike. i gotta take care of someone who's hurt here, in case you haven't noticed.
+SANDY: mike, go home.
+MIKE: hey, i'm sorry. hey.
+JEFFREY: yeah. okay, mike.
+SANDY: take her to my house. my dad can get an ambulance faster than anyone. do you have anything to put around her?
+JEFFREY: no. is detective gordon going to be at your house?
+SANDY: probably not. no. why?
+JEFFREY: ok. let's get her over to your father's.
+SANDY: right. watch out for mike, there.
+JEFFREY: here we go.
+
+DOROTHY: oh jeffrey is that you? 
+JEFFREY: yeah, it's me.
+DOROTHY: oh jeffrey. is that you? oh
+
+SANDY: is dad home? 
+MRS. WILLIAMS: no.
+SANDY: you better call him and get an ambulance too.
+DOROTHY: where have you been? oh they hurt him, jeffrey. jeffrey, jeffrey, jeffrey, hold me. hold me. oh
+JEFFREY: it's okay. it's okay.
+DOROTHY: my secret lover.
+MRS. WILLIAMS: the ambulance will be here in a minute. i left word for john. the police are on their way.
+DOROTHY: don't get the police. oh ...jeffrey
+
+LOVE ME,: she looks up at mrs. williams. 
+DOROTHY: i opened myself to him. he put his disease in me.
+JEFFREY: sandy? ...sandy, please.
+MRS. WILLIAMS: i'll get a coat for her.
+SANDY: jeffrey? .what's going on?
+JEFFREY: shh. i'll tell you.
+DOROTHY: they hurt his head.
+JEFFREY: who, dorothy?
+DOROTHY: don. help him. help him!! donny!!!! a huge, roaring wind sound comes up.
+
+JEFFREY: i should go with her, sandy. 
+SANDY: go ahead.
+JEFFREY: ... sandy?.
+SANDY: go ahead!
+
+DOROTHY: hold me, don. 
+JEFFREY: don?. where is he?
+DOROTHY: help him!! promise me you'll help him!
+JEFFREY: i promise, dorothy. i promise.
+DOROTHY: hold me. i'm falling!
+
+206. 	INT. SANDY'S ROOM - NIGHT: sandy with red eyes in a darkened room. 
+SANDY: i forgive you. i just couldn't watch. i love you jeffrey. i love you. is she okay?. how horrible. what?
+
+JEFFREY: please get to your father and send him and the police to dorothy's apartment right away. be sure your father comes. something is happening over there. they're hurting someone. the guy she loves. tell them to hurry. i'm going over right now. 
+SANDY: no jeffrey!!
+JEFFREY: yes i'm going. i have to. i love you. i will, believe me.
+
+RADIO VOICE #1: get back and stay down. 
+RADIO VOICE #2: . it's apartment eight.
+RADIO VOICE #2: i'm sending jack and pete to the roof.
+RADIO VOICE #1: hey.
+RADIO VOICE #1: he's shooting. from the second window.
+RADIO VOICE #3: stay in place.
+RADIO VOICE #2: jack. get up there quick. can return fire?.
+RADIO VOICE #3: i think he's alone. but return fire to second window only. many shots.
+
+POLICEMAN #1: he hasn't fired a shot for six minutes. maybe we got him. get on the radio. get detective williams. ask him if we can rush the son of a 
+POLICEMAN #2: it's in the works already. we're in there. they're goin' down the back stairs now. it won't be long. and they'll have us rush 'em from here. one whistle and we go.
+POLICEMAN #1: that's it. let's go.
+
+JEFFREY: so. frank escaped. 
+JEFFREY: what happened that day?.
+
+JEFFREY: detective williams!! detective williams!! 
+DETECTIVE WILLIAMS: detective williams here. is that you, jeffrey?
+JEFFREY: yes it's me!!! frank is on his way up to dorothy's apartment. oh no. frank has a radio and is hearing everything we say!! detective williams. hurry. i'm in the apartment. hurry. i'm hiding in the back bedroom.
+DETECTIVE WILLIAMS: we're ten minutes away and moving as fast as we can.
+
+DETECTIVE WILLIAMS: because of your information i alerted internal affairs to check out detective gordon. i had to keep on with him as if nothing was different. he slipped off on his own when he found out we were going to raid frank's place. 
+JEFFREY: does dorothy know her husband is dead?
+DETECTIVE WILLIAMS: not yet.
+JEFFREY: oh my is her son ok?
+F.B.I. MAN: we're looking for him. in your opinion, why did frank kidnap dorothy's son and husband?
+JEFFREY: he became obsessed with her. she hated him. he had to have her. he kidnapped them to control her. to make her do things. then she wanted to commit suicide so he started cutting off ears as a warning to her to stay alive. i'm not kidding. frank loved blue. blue velvet. he had to have dorothy cause her whole life was blue.
+F.B.I. MAN: you seemed to see some very interesting things on your little escapade with dorothy vallens.
+JEFFREY: yeah. i guess i did. what's going to happen to me?
+F.B.I. MAN: we're going to leave that up to detective williams. i'll tell you though. you're okay. you shot a real son of a
+JEFFREY: yeah. i sure know that. yeah, but how many more are out there?
+
+SANDY: jeffrey. lunch is ready. 
+JEFFREY: okay. i'll be right in.
+JEFFREY: how ya doin' dad?
+MR. BEAUMONT: hey jeff. i'm feelin' so much better.
+JEFFREY: good deal dad.
+
+SANDY: look jeffrey. 
+JEFFREY: yeah. i just saw him outside. maybe the robins are here.
+AUNT BARBARA: i don't see how they do it. i could never eat a bug.
+JEFFREY AND SANDY: it's a strange world, isn't it?
 

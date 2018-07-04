@@ -1,762 +1,762 @@
-speaker1: this is your stepfather who came to visit you? 
-speaker2: my stepfather? no. he's dead. i killed him.
-speaker1: that's the first time you admit it.
-speaker2: so? there's a first time for everything.
-speaker1: it means you're finally past the denial stage. this is good, chloe.
-speaker2: i never killed anyone who didn't deserve it.
-speaker1: you only killed your stepfather as far as i know.
-speaker2: i should've taken care of my mother. she knew all along. you remind me of her.
-
-speaker1: i remind you of your mother? 
-speaker2: always so put together. like you iron your underwear. like your is the apricot of the promised land and the bread of the --
-speaker1: let's get back to your visitor last night.
-speaker2: the devil.
-speaker1: alright, the devil. why would the devil visit you? it's already in here, what would he have to gain?
-speaker2: he came to an angel. i'm his dirty angel.
-speaker2: he grabbed me by the hair while i sucked him and usually i love that, i just do -- maybe you can tell me why i love it so much -- but not this time, he was just too rough --
-speaker1: that's it until monday. try and get some sleep tonight, okay?
-speaker2: sure, doctor. crazy people hear messages from not the devil. you know that, right?
-
-speaker1: i didn't say you were crazy. 
-speaker2: you don't have to say it.
-
-speaker1: dr. grey. 
-speaker2: dr. graham.
-speaker1: power went out again in our wing.
-speaker2: same here.
-speaker1: it's not shrink-appropriate to be afraid of the dark, you know?
-speaker2: you're not shrink appropriate and you're about to get promoted.
-speaker1: what am i afraid of?
-speaker2: yourself. at least you should be.
-
-speaker1: write a little country music, decline invites to grand social events, drink myself to sleep -- the usual. you? 
-speaker2: doug wants to look at some real estate up at willow's creek.
-speaker1: again?
-speaker2: he thinks it's fun.
-speaker1: so is golfing, i'm told. who was your six o'clock?
-speaker2: chloe mcgrath -- talk about trying to empty the ocean with a tea cup.
-speaker1: i hear manhattan's full of them.
-speaker2: don't start with that. i already turned down the job. we're staying.
-speaker1: good girl.
-speaker3: miranda, my wife keeps wanting to set that dinner with you and doug.
-speaker2: he's stuck at a school board meeting.
-
-speaker1: you've been here a year already, dorothy's starting to take this personal. how's next wednesday? 
-speaker2: next wednesday it is, phil.
-
-speaker1: anybody hurt, sheriff? 
-speaker2: nah, telephone post just decided to fall. it'll take us a while to clear this up so i'm afraid you're gonna have to take the long way home, miranda.
-speaker1: if you say so.
-speaker2: and tell your husband he owes me a phone call.
-speaker1: will do. wouldn't want him in trouble with the authorities.
-
-speaker1: hello? are you hurt? hello? 
-speaker1: were you in an accident? were you attacked? it's okay, i'm a doctor. my name is miranda grey...
-speaker1: you're in shock right now, that's perfectly natural. i'm going to get you to the hospital. okay?
-speaker1: don't be scared. it's going to be fine.
-speaker1: hands off me, okay? tell me your name, do you remember your name?
-
-speaker1: peter, what the is going on? 
-speaker2: how do you feel?
-speaker1: how do you think i feel? is this a joke?
-
-speaker1: what are you doing? 
-speaker2: giving you something to calm down.
-speaker1: i don't need to calm down. what i need is an explanation
-speaker2: just take this and we can sit down and chat.
-speaker1: why here, why not in my office?
-speaker1: i don't want an anticonvulsant, at least give me valium.
-speaker2: fifty milligrams.
-speaker1: christ, you're gonna knock me out? ten milligrams.
-speaker2: twenty.
-speaker1: how would you feel if you woke up in a cell, dressed like this?
-speaker2: we can discuss it at length after you take your meds.
-
-speaker1: miranda, this is very awkward. technically i shouldn't even be treating you but the court has granted us a waiver until you're transferred. so whatever is said here won't leave this room. i won't tell parsons, i won't tell anyone. 
-speaker2: i want to talk to my husband.
-speaker1: you can't to that. sit down, please. try to relax.
-speaker2: why would i pretend to be in any way relaxed?
-speaker1: i understand you're upset. but we need to put some things in order.
-speaker2: two massive understatements.
-speaker1: how long have you been here?
-speaker2: what is this? why are you doing this to me?
-speaker1: just answer the question. humor me.
-
-speaker1: hi, my name is miranda grey. i'm a psychiatrist. i transferred here to the woodward forensic institute a little over a year ago. my job entails dealing with a ward of schizophrenic women between the ages of eighteen and fifty-fife -- 
-speaker2: i don't mean how long you've worked here, i mean how long you've been staying here.
-speaker1: i'm a doctor, yes? or was medical school just an elaborate dream?
-speaker2: of course you're a doctor. a great doctor in fact.
-speaker1: pete, how long have i been here?
-speaker2: five days.
-speaker1: what?
-speaker2: you were admitted to the neurosurgical unit seizing violently. that lasted three days. scans revealed left-sided weakness, numbness and severe fontal lobe deficits.
-speaker3: miranda seizing violently from her pov: doctors struggling to contain her. arms thrashing, legs.
-
-speaker1: you were tied down for a day and a half so you wouldn't hurt yourself and then you went into a state of, well -- you've been pretty much catatonic. this is the first time you speak. 
-speaker2: doug must be worried sick. i need to call him -- pete shakes his head emphatically.
-speaker1: you're the most logical person i know, bar none. plus you have a photographic memory -- unconfirmed, but you do remember events and phrases more accurately than anyone around. why am i telling you this?
-speaker2: you're establishing my personality as fairly intellectual, you don't consider me impulsive or emotional.
-speaker1: and that's a fair assessment, no?
-speaker2: yes, that's fair. and following this pattern of analysis, we're about to discuss a traumatic event that rendered this psychological profile useless, correct?
-
-speaker1: two hundred percent. 
-speaker2: you think i'm in denial. that i'm putting on a brave show -- that this is a 'cover' for some unbearable emotion i'm hiding.
-speaker1: don't analyze yourself, just focus on remembering.
-speaker2: i remember friday night after work, if you say that was five days ago -- anyway, i asked you what you were doing for the weekend and you said the usual and you made a joke about writing country songs and drinking yourself to sleep and i told you i was going to look at some real estate in willows creek with doug.
-speaker1: and then what?
-speaker2: then i drove home.
-speaker1: and then what?
-speaker2: i got home, i guess, and had dinner by myself because -- because doug had an alumni meeting at his school and he was going to get a ride back. he's the principal now, as you well know.
-
-speaker1: but wait -- there was an accident before that, wasn't there? a girl -- she had been beaten. i took her to the hospital, right? 
-speaker2: there was indeed an accident, you were detoured by the cops. but there's no report of any girl.
-speaker1: no, the cops weren't there. they were back on main road. a knocked-down telephone post, correct?
-speaker1: i saw the girl after that. she was bleeding.
-
-speaker1: excuse me? 
-speaker2: what's the last memory you have of him that night?
-speaker1: my last -- ? tell me nothing happened to doug.
-speaker2: let's backtrack a second. you left your office, you were driving home, you got detoured by the police -- did you call someone on the phone that night?
-speaker1: i don't know. i might have.
-speaker2: who would you call?
-speaker1: i might have called doug to tell him something. or checked my answering service.
-speaker2: were you seeing someone else that night?
-speaker1: i beg your pardon?
-speaker2: there was some trouble in your marriage, wasn't there?
-speaker1: of course not.
-
-speaker1: no. there was no trouble in my marriage, i don't know what -- there is no trouble in my marriage. you just used the past tense; why? 
-speaker1: did something happen to doug?
-speaker2: you don't remember anything else. anything at all?
-speaker1: this is preposterous. what's wrong with doug?
-speaker2: he's dead.
-speaker1: no, he's not. don't tell me that. don't tell me that. are you -- sure?
-speaker2: i'm positive. you killed him.
-
-speaker1: is that number three? 
-speaker2: yes, mr. principal. special occasion -- i'm celebrating how proud i am of my husband tonight.
-
-speaker1: i'm sorry. the fact is i'm married and i -- this is not me, this is a mistake. 
-speaker2: your marriage is the mistake and you know it.
-speaker1: don't.
-speaker2: i'm sorry. that was out of line. i feel like a school kid hiding from the principal.
-speaker1: we are hiding from the principal.
-speaker2: i would just like to spend some time together.
-speaker1: we spend time together every day.
-speaker2: i meant minus the schizophrenic women.
-speaker1: i have to go. i need time to think.
-
-speaker1: don't be too hard on yourself, dr. grey. you haven't done anything wrong. 
-speaker2: not yet. but i want to.
-
-speaker1: can i get some assistance here? hello?! 
-speaker1: irene?! anybody!?
-speaker1: wake up, wake up... you're dreaming. it's not real. an anxiety dream, that's all. that's all. this is dream logic. if it was real, they would have heard you scream. there are twenty employees on the night shift. fact. at least twenty.
-speaker1: i'm just dreaming.
-
-speaker1: i'm dreaming, i'm dreaming, i'm dreaming, i'm dreaming. 
-speaker2: rise and shine, ladies!
-
-speaker1: that means you, honey. up -- ! 
-speaker1: rise and shine now. wake up.
-speaker1: easy now, it's okay.
-speaker2: i need to see peter graham.
-speaker1: and you have a session scheduled this afternoon --
-speaker2: right now.
-
-speaker1: he's not even in yet, now let go my arm, honey. 
-speaker2: doctor grey, if you don't mind.
-speaker1: actually i do mind. i start calling you 'doctor' and everybody else wants to be called 'doctor' --
-speaker2: please. it's a bit different, wouldn't you say -- ?
-speaker2: what do you think you're doing? i want to speak to my lawyer -- wait, what are you doing?
-speaker1: my job. irene shoves the meds into miranda's mouth --
-speaker2: c'mon, irene, don't do this. i'm calm now, look -- i'm calm -- !
-
-speaker1: modalina? isn't that a band? 
-speaker2: trade name for triflupoerazine. look it up.
-speaker2: moditen, molindone, moltipress, motival. that's it for the 'm's.
-speaker1: not bad. high potency neuroleptics starting with 'j.'
-speaker2: trick question. there's only jatroneural.
-speaker1: what do you wanna bet?
-speaker2: bet you a soda.
-speaker1: right on the money, cowgirl. twenty points and a soda.
-speaker3: hi there, doc.
-speaker3: i never got shrinked by you but all i hear is nothing gets past you, i mean, that's just hearsay and i don't pay much attention to hearsay because now they say you hacked your husband with an axe but i say maybe it just slipped, right?
-
-speaker1: they put your picture in the paper. 
-speaker2: how did you get this?
-speaker1: chloe did. who knows how? not me. around here i'm on a need to know basis about stuff and most stuff i don't need to know. my point is about people talking behind other people's backs. like before i was here, everything i did i thought, 'this'll get them,' wanting their approval, wanting them to say good things behind my back. but now i'm more anonymous, more myself. i'm shelley.
-speaker1: you're not like, undercover here, are you? they pulled that at spring grove, had a bunch of doctors pretend they were patients, see if they could handle it. most quit after day one.
-speaker2: no, shelley. i'm not undercover.
-speaker1: because if you were, i'm like the fort knox of secrets. ask anybody.
-speaker2: that's good to know. but i'm not.
-
-speaker1: say no more. i understand perfectly. 
-speaker1: drawing is a great cover. good luck to you.
-
-speaker1: i don't -- i think i'm alright. 
-speaker2: you go in last because you're special. it's not a mexican prison, toots. everybody here minds their own business.
-speaker1: if it's all the same, i'd rather --
-speaker2: state law says we keep you ladies clean. and i'm a stickler for the law. now come on. if you go downtown, you gotta dance.
-
-speaker1: it isn't real. it isn't real. opens her eyes. five letters are written in blood. n-o-t-a-l. shaking, nauseous, she looks down at her feet and the drain, too scared to look back up. 
-speaker1: it isn't real. you're hallucinating.
-
-speaker1: shelley? 
-speaker2: and pick up those cigarette butts. tv is --
-speaker1: shelley, can you do me a favor??
-speaker2: the housewives will find something better to do.
-speaker1: can you go in the shower and tell me if you see anything on the wall?
-
-speaker1: enough privacy for you? 
-speaker2: yes. thank you, irene.
-speaker1: what did you do?
-speaker2: nothing. it's nothing --
-speaker1: what the did you do to yourself?!
-
-speaker1: i looked away for a second. it's unacceptable, won't happen again. 
-speaker2: not your fault. patients always find a way to hurt themselves if that's what they want.
-speaker1: i just didn't peg her for a cutter, that's all.
-
-speaker1: you saw it? 
-speaker2: listen, doctor. some people, they have a gift. and in here, because they categorize us as a bunch of schizos, they refuse to acknowledge that. it's like that hubble telescope that sees things a trillion miles away but what it's seeing is just reflected light of a star that died a thousand years ago? it's like that. doesn't mean you're crazy. it only means your eyes open in a different way.
-speaker1: what did it say?
-speaker2: on the telescope?
-speaker1: did you see anything, shelley?
-speaker2: that's not tile that wall is made out of . it's a holographic screen. all part of your mission, isn't it?
-speaker1: thanks anyway.
-speaker2: this is all we have. the rest is dust.
-
-speaker1: it was you i called that night. 
-speaker2: yes.
-speaker1: did you mention that to the cops?
-speaker2: no.
-speaker1: why?
-speaker2: i didn't think it would help you.
-speaker1: what does that mean?
-speaker2: it means they wouldn't have let me treat you if they thought i had any kind of involvement in what happened.
-speaker1: and did you?
-speaker2: did i what?
-speaker1: did i make it to your place? did i see you that night?
-speaker2: no. we got disconnected and i couldn't get through to you. i sat there waiting all night.
-speaker1: why didn't you tell me this before?
-speaker2: because the only way you'll be able to accept these events is if you remember them on your own. my job is to assist you in processing that information because you're not in a frame of mind to do it by yourself.
-
-speaker1: you're changing the subject. 
-speaker2: the subject is you don't trust me.
-speaker1: right now i don't trust anyone.
-speaker2: you want to talk about today?
-speaker1: i want to talk to my lawyer.
-speaker2: i think that's premature.
-speaker1: i can't help what you think.
-
-speaker1: you a marlboro girl? 
-speaker2: i don't smoke, thanks.
-
-speaker1: all we have is our health, cupcake. what i do is quit constantly, start again. drives them all crazy. one day i quit three times. 
-speaker2: huh.
-speaker1: they allow me one match at a time and pretend they're not watching. check it out: salivating goon number one at three o'clock, oh- so-inconspicuous goon number two at five o'clock.
-speaker2: what did you set on fire to wind up here?
-speaker1: very perceptive, doc. i burnt down the building where i worked. i found a baby at the doorstep, called the cops -- of course the bottom feeding pricks never showed. it's beside the point, really.
-speaker2: phil.
-speaker2: phil!
-
-speaker1: hello, miranda. 
-speaker2: i wonder if i could talk to you.
-speaker1: of course. well, actually, i'm about to...
-speaker2: your staff meeting's done and thursdays you don't schedule sessions until the afternoon. this will just take one minute. promise.
-speaker1: true. but the sheriff wants to ask me some questions. she follows his look to the parking lot where sheriff ryan emerges from his patrol car. miranda nods.
-speaker2: it's about pete.
-speaker1: what about him?
-speaker2: perhaps he's not the most qualified person to be treating me.
-speaker1: are you complaining about his methods or are you referring to the nature of your past relationship with him?
-
-speaker1: what did he tell you? 
-speaker2: he explained there might be a conflict of interest because he has feelings for you. you two engaged in a kiss at one point.
-speaker1: yes.
-speaker2: i told him we're all grownups here and the fact is he's the best doctor on my staff. as such, and given the severity of the charges you face, i consider him the most qualified person to assist your recovery. now, if you'll excuse me, sheriff ryan is not a patient man.
-speaker3: hey! chloe!
-speaker4: you cow giving me the evil eye, huh? you, you voodoo witch -- !
-speaker5: is okay, she's okay -- she don't mean nothing.
-speaker4: you bet your fat i mean it, you're a witch -- !!
-
-speaker1: mcgrath, that's enough! 
-speaker2: take your voodoo back to cuba --
-speaker1: i said that's enough.
-speaker3: irene, she's okay. pobrecita, la infeliz. it's a misunderstanding. pobrecita. i was only trying to help her --
-speaker2: you wanna help me? you pity me? me.
-
-speaker1: how are we feeling today? 
-speaker2: 'we'?
-speaker1: sorry i asked.
-speaker2: doesn't seem like the best choice of words when treating schizophrenics.
-speaker1: fitting right in, aren't you?
-
-speaker1: miranda. 
-speaker2: hi.
-speaker3: she's due back in the rec room in twenty, counselor.
-speaker1: thank you kindly.
-
-speaker1: teddy, i know you knew doug well and this is an extremely -- 
-speaker2: i'm here as your lawyer. so whatever my relationship was with doug is no longer of consequence. first things first, how are they treating you?
-speaker1: like i'm crazy.
-speaker2: you know this place better than anyone. anything out of the ordinary?
-speaker1: other than me being crazy? no.
-speaker2: the da is pushing for a hearing as soon as next week. they're eager to resolve this situation because -- well, crimes like this don't happen that often around here. doug was a hometown boy who'd done good, beloved high school principal, a role model. our best shot -- scratch that, our only shot -- is to claim temporary insanity.
-speaker1: wait, wait, wait -- teddy, you know me. i wouldn't raise a hand at my husband for the life of me. not even in self-defense. isn't it remotely possible a burglar broke in or some crazed high school student attacked doug and i went into shock?
-speaker1: you're telling me there's no other suspects in anyone's mind?
-
-speaker1: frankly, no. neighbors heard screams. they have you at the scene, they have the murder weapon and they have your prints everywhere. the only thing they don't have is motive. she keeps absently playing with the bandage. the 
-speaker2: because there is no motive.
-speaker1: and that's what's confusing them. the fact that you're a brilliant psychiatrist doesn't help either. it fills their heads with ideas. they figure if you were to plan a murder you might know how to fake insanity to get out of it.
-speaker2: i'm not faking anything.
-speaker1: good. i pass no judgment either way. the point is --
-speaker2: the point is i'm the only person who doesn't believe i killed my husband. i never thought i'd say this, but i feel like i'm in the middle of a conspiracy. do you believe i'm crazy?
-
-speaker1: it doesn't matter what i believe. 
-speaker2: forget it. forget i asked.
-
-speaker1: i can't help you if you don't talk to me. 
-speaker1: i can stand here all day. all week. you're the one running out of time.
-speaker1: what does it mean?
-speaker2: i didn't write this.
-speaker1: then who?
-speaker1: you're going to have to trust me.
-speaker2: why?
-speaker1: because no matter what's going through your mind right now, i haven't done anything wrong.
-
-speaker1: then you know exactly how i feel. 
-speaker2: you admit you're having a hard time differentiating what's reality from what's hallucination, right? so isn't it at least possible that --
-speaker1: as a doctor i agree with you. maybe -- and this is a big maybe -- all of this is just a deep epilepsy that extends to the limbic structures, but i'm telling you --
-speaker2: how about this moment right now?
-speaker1: what about it?
-speaker2: is this a hallucination?
-speaker1: you tell me. but i do know what i sound like. paranoia is the ultimate awareness, right?
-speaker2: which is why i suggest we simply increase your dose until --
-speaker1: no! goddamnit! no!
-speaker1: i'm sorry. is there any way we can pretend that didn't just happen?
-
-speaker1: alright. let's say you didn't write this -- 
-speaker2: number one: i'm right-handed. number two: i would have had to bring an x-acto knife into the shower to do this, wouldn't i?
-speaker1: i think it's time you look at these.
-
-speaker1: you wrote that. any idea why? 
-speaker2: no, i didn't. no, i didn't!
-
-speaker1: how much does she remember? 
-speaker2: it all came flooding back last night.
-speaker1: guilt?
-speaker2: more like an uncontrollable reminiscence. intense, over- cathected. she's not feeling guilty of her actions, not exactly. sounds to me like last night she actually re-lived them in great detail.
-speaker1: hypermnesis following amnesia. could a specific epileptic element be involved?
-speaker2: that's exactly what she suggested. even in her present state, her instincts remain impeccable.
-speaker1: i'd like to talk to her.
-
-speaker1: standard procedure. 
-speaker2: i didn't say a word.
-
-speaker1: yes, dear. me too. 
-speaker1: i'm so sorry about this, miranda.
-speaker1: has pete told you about the hearing?
-speaker2: teddy already filled her in.
-speaker1: teddy howard is top notch. he's going to do everything in his power -- and he's quite resourceful -- to prove you're not fit to stand trial. miranda, i know you have no family left, so we're your family now and we're all going down to the wire to protect you and help you in any way we --
-
-speaker1: who is that? 
-speaker2: excuse me?
-speaker1: the girl in the picture.
-speaker2: my daughter.
-speaker1: she's the girl i saw.
-speaker2: you're obviously mistaken.
-speaker1: i'm positive. she was hurt, bleeding. is she all right?
-speaker3: miranda, you've seen that photograph at least a dozen times, every time you've been in this office. you're just confused --
-speaker1: not about this. is she all right?
-speaker2: no, she's not... all right. rachel committed suicide six years ago.
-speaker1: how?
-
-speaker1: miranda, that's none of your -- 
-speaker2: that's okay. rachel was a very troubled girl. handicapped since birth. she was born mute. my wife and i tried everything to help her fit in but... but she ran away from home more than once, wanting to end her life. and she finally succeeded. jumped off ashley bridge. she was only seventeen years old. ashley bridge. mute. ghost? miranda hesitates here. she is not the type to believe in ghosts, and knows full well what even her suggestion of it will sound like.
-speaker3: i'm -- i'm terribly sorry, phil.
-speaker2: peter, can i speak to you?
-speaker1: ... textbook psychotic pattern...
-speaker2: ... much she knows about rachel?
-speaker1: i'm telling you she doesn't...
-speaker2: i'm trusting you... crawling with cops.
-
-speaker1: this is not going to work. i'm sick of being watched, and i know this place well and it doesn't smell this bad. 
-speaker1: i'm awake, i'm not dreaming. i'm alive -- this is not some afterlife mumbo jumbo. so-called paranormal activity can be debunked a million different ways. so whatever you are, whatever it is i'm making up here -- i'm letting you go, i'm setting you free. i'm the wrong person. and i need to sleep. i'm not afraid and i don't believe and i'm fully aware that this is all in my mind -- fiction -- a concocted alternate reality -- and i acknowledge it. and now i'm done with it. i'm going to sleep now. the moment is as brave as it is ridiculous. she has
-
-speaker1: besides, if you really were the ghost of rachel parsons, you would let me out of this cell. a beat. and now we hear the sound of the deadbolt slide open. the door opens quietly. push into miranda's face. 
-speaker1: holy
-
-speaker1: we've transferred her to a higher security room on the fifth floor. that's my final concession to any type of special treatment. 
-speaker2: and the night staff?
-speaker3: they insist her room was properly locked, what else could they say?
-
-speaker1: could there be any truth to her claim? 
-speaker2: peter, we have one hundred and forty employees. thirty-five work maintenance. they all wear yellow shirts, it's their uniform. i'm holding a very discreet inquiry, sure -- but i don't want a news van parked outside day and night. it makes much more sense that she tried to escape and got caught, doesn't it?
-speaker1: i perused miranda's files on chloe mcgrath -- they're comprehensive. maybe she was a bit obsessed with her.
-speaker2: the scariest gift gave us is our minds. and a bright person like miranda -- she's grasping at straws here -- who knows what her brain is telling her, now that it's snapped.
-
-speaker1: did you live here when rachel killed herself? 
-speaker2: yes. as a matter of fact, i was part of the search party that found the body.
-speaker1: phil must have been a wreck.
-
-speaker1: you can imagine. actually, phil was in houston undergoing triple bypass surgery when it happened. 
-speaker2: and this is confirmed. there are hospital records and so forth?
-speaker1: i'm sure there are. can we get back on track now?
-speaker2: what about these other dates, was phil here when the other girls went missing and found dead?
-speaker1: where are you going with this? first i'm a suspect in doug's death, now what, phil parsons murdered his own daughter?
-speaker2: rachel parsons disappeared six years ago. a week later she's a suicide. andrew white, four years ago, same m.o., and jenny dixon, two years ago. don't you find that unusual? he regards her. maybe parsons is right: she's
-speaker1: what same m.o.? one jumped off a bridge, one hung herself and one crashed her car. who gave you this?
-speaker2: not one left a suicide note. in fact, how is anybody sure these were suicides?
-
-speaker1: you heard phil, his daughter had tried several times before -- 
-speaker2: that's his story. i need to talk to the reporter who wrote that.
-speaker1: well, you can't.
-speaker2: i beg to differ. i know my visitation rights.
-speaker1: you can't because... he died.
-speaker2: you're telling me the one local investigative reporter who connected three highly-suspicious deaths, just happens to have conveniently died?
-speaker1: frank albright was an eighty-year- old retired sociology professor. this is a fluff piece about teenage depression and the breakdown of the nuclear family. you can find one in any local paper, anywhere, any other week!
-speaker2: don't be smug, pete. that's one thing you've never been. rachel is somehow connected to what i'm going through. i don't know how -- like you said, i'm not in a frame of mind to process the information without assistance.
-speaker1: listen to me. you are not well. i had hoped once you remembered the murder we could deal with your feelings about it but these fixations:
-
-speaker1: i know this lecture like the back of my hand! 
-speaker2: good. saves me the trouble.
-
-speaker1: get off me, you dog -- 
-speaker2: hell, don't go all bubbly with joy or anything.
-speaker1: you can't be in here and you know it. nap in your car.
-
-speaker1: now get out before we get busted. 
-speaker2: you slay me, claire. honest.
-speaker1: sure i do, boy scout.
-
-speaker1: hold it, simon! 
-speaker1: what do you think i am, laundry service?
-speaker2: won't happen again, ma'am. she turns and exits. the doors slide shut. meet our rapist.
-
-speaker1: ... she'd get high on glue and make me help her try on my bras. is that the strangest you've heard? 
-speaker2: heard stranger. but she's a case.
-speaker1: and she always put on a happy face. man, what an optometrist.
-speaker2: you narced her out, didn't you? boo-hoo. bet you were a little buzzed yourself.
-speaker1: all work, that woman. work, work, work.
-speaker2: what are you talking about?
-speaker1: she's like an alcoholic. but with work.
-speaker2: what work?
-speaker1: not safe to tell you. wish i could.
-
-speaker1: i saw what happened. i'm sorry. 
-speaker1: have you told anyone? chloe?
-speaker1: look, chloe -- the person who did this to you is not the devil. and if you can identify him, i'll make sure the is arrested.
-speaker2: doctor, did you just say 'motherfucker'?
-speaker1: do you know his name? maybe you saw a nametag on his uniform? think. chloe simply stares. finally shakes her head.
-speaker2: man, you must really hate me.
-speaker1: what? i don't hate you.
-speaker2: you hate me because now you're just the same as me. you must feel so embarrassed.
-speaker1: i don't hate you. and i don't feel embarrassed.
-speaker2: that's just a pat answer you have because you're new at this. trust me, i know what i'm talking about.
-
-speaker1: forget it, alright? forget we had this conversation. 
-speaker2: you know what happens next?
-speaker1: i get the distinct feeling you're going to tell me.
-speaker2: the shock wears off and the guilt kicks in. and that guilt is the real motherfucker. you'll be watched 24/seven, because they're afraid you'll kill yourself. dr. graham will question every harmless gesture, every innocent comment, ever twitch you make and eventually -- and it's a tedious 'eventually' -- you'll stop hating yourself for what you did. but what replaces that hatred is this unbearable sadness. and you don't lose that as long as you live.
-
-speaker1: leave me alone. go away. 
-speaker1: i've lost my mind. happy now?
-
-speaker1: no. 
-speaker1: why are you doing this to me?
-
-speaker1: what do you want from me? 
-speaker1: what is it you want me to do?!!
-
-speaker1: bear with me, i'm just parking it out of the way so it won't look suspicious in the middle of the road -- okay. 
-speaker1: not alone. what happened to you happened to other girls. i understand. and i'm sorry. but there is nothing i can do about it now. it has nothing to do with me.
-
-speaker1: is there anybody here? hello? 
-speaker1: go away! off!
-speaker1: c'mon, c'mon, c'mon --
-speaker1: wake up, tracy, wake up --
-
-speaker1: parked in front of the house. a police officer 
-speaker2: howdy there.
-speaker2: everything okay?
-speaker3: y-yes.
-speaker2: that your vehicle, ma'am?
-speaker3: yes -- i -- i just pulled over. i was -- looking for a bathroom.
-speaker2: congratulations. but i'm afraid this is private property -- you can't just waltz on in. you understand that.
-speaker3: i'll be on my merry way now. my husband will never forgive me if i get a ticket for trespassing.
-
-speaker1: holy lady, stay right where you are. 
-speaker1: hands up where i can see them.
-speaker1: nice and slow, start talking to me. and make it good. tell me just exactly who that is.
-
-speaker1: mr. howard -- let me simply list the events your client was involved in last night. first she drugs a janitor, steals his car and escapes a mental institution -- 
-speaker2: hold on, there isn't even any substantial evidence --
-
-speaker1: mr. howard -- there isn't evidence because the overdosed janitor hasn't woken up, that's why -- and when your client was questioned on the matter she admitted to injecting a full syringe of -- 
-speaker2: you had no right to question my client without my presence --
-speaker1: mr. howard, this is not a courtroom. your client was read her rights and she still insisted --
-speaker2: -- let me ask you this, sheriff: what exactly was a janitor doing with several vials of sedatives inside my client's cell? and is it not possible he had taken some drugs himself before my client --
-
-speaker1: i'm not a drug expert. i'm simply stating the frigging facts. 
-speaker1: phil, thank -- this guy's driving me nuts!
-speaker2: what happened?
-
-speaker1: an 'incident' -- for lack of a better frigging word -- involving miss grey and a teenage girl who's been tortured and is in critical condition and chances are slim she'll even utter another word. 
-speaker2: who's the girl?
-speaker1: a runaway from portland, tracy marie seaver. reported missing a couple weeks ago. we found miss grey in some barn off willows creek with the girl all messed up. i'm just now waiting for the surgeon to give me an update. notice, counselor, how i'm not even mentioning her trespassing or lying to a police officer.
-speaker1: christ, the woman's got the entire hospital busy --
-speaker1: why are you harassing my deputies?
-speaker3: i'm only asking him where he got the coffee -- ?
-speaker1: he's not at liberty to answer that. you've had enough coffee already.
-speaker2: we need to get miranda back to the institute. she needs psychiatric care, not a prison cell.
-
-speaker1: phil, how well does your wife know the suspect? 
-speaker2: why do you ask?
-speaker1: because she's at the station right now, demanding to speak with her.
-
-speaker1: how are you? 
-speaker1: i needed to see you, but i'm not sure where to begin. i don't know you well, i certainly have nothing but fond feelings for you. phil always keeps me posted on his colleagues and his work and -- in any case, i have always thought of you as a very bright, very perceptive doctor. even though i don't know you well.
-speaker1: my point is, my point being -- when rachel died i had, um, i suffered through these spells, these recurring dreams.
-
-speaker1: the past few days i have been having the same dream. a nightmare. 
-speaker2: that word. nightmare. welcome to my life.
-speaker1: this nightmare involves rachel but it also involves you. in the nightmare rachel holds a box in her left hand. a small box. and she repeats a series of numbers. now, rachel never spoke, from the time she was born -- she had a condition -- i often asked why he punished this child in such a way -- she couldn't speak, but she was extremely bright. she wasn't autistic as the doctors claimed -- dorothy parsons starts to cry. a moment passes like
-speaker2: mrs. parsons, you need a therapist. normally i would encourage you to schedule a session with me but as you can see --
-speaker1: every night the same box in her hand and the same numbers. i wrote them down.
-
-speaker1: a long beat. 
-speaker2: it's a message. it's a code for something. i don't know what. but she wants you to have it.
-speaker3: october 22nd, 2001. it's my wedding date.
-speaker3: that code belongs to a safety deposit box my husband kept in a bank up in newcastle, that's where his parents live. dorothy, i need you to drive up there and open it.
-
-speaker1: we can take those off now. 
-speaker2: don't push it, doctor. she's cuffed until your people secure her in a cell.
-
-speaker1: are you alright? 
-speaker2: i was wrong. it wasn't phil parsons. it was doug.
-speaker1: can we talk about this later? thanks, sheriff.
-speaker3: tomorrow morning first thing my deputies are here.
-speaker1: i know, i know. we'll see you then.
-speaker3: and my offer still stands if you need added security.
-speaker1: thank you. she won't go anywhere. i guarantee it.
-speaker2: that's why rachel picked me. it was doug. i'm so stupid.
-speaker1: inside, okay?
-
-speaker1: what is this? 
-speaker2: she's a hero. little red riding hood put the big bad wolf in a coma.
-speaker3: they're not gonna start something, are they?
-speaker2: you ain't scared of a bunch of women now, are you, officer?
-speaker4: we'll be right outside, doctor.
-
-speaker1: i pulled a lot of strings to get you transferred back. the best case scenario you're looking at right now is five years here. 
-speaker1: but you know that the brain is fully capable of tricking you into seeing all sorts of things. the simplest chemical deficiencies can --
-speaker2: chemical deficiencies can't get inside of you and make you do terrible things you don't remember doing!
-speaker1: i'm a very open-minded person, but as a doctor --
-speaker2: no, you're not. you're a close- minded academic, just like me. you told me once that i was the most logical person you knew, remember? well, everything that's happened has an explanation but it has nothing to do with psychiatry or science. rachel parsons was abducted and she was murdered six years ago -- tossed off the ashley bridge by my husband. my harmless, righteous 'community leader' husband -- that's how pathetically blind i've been.
-
-speaker1: here's doug's interest in real estate, pete. 
-speaker1: rachel parsons is a pissed-off ghost with an agenda, furious at her parents for giving up on her -- she's been trying to communicate with them for years but they're too logical to pay attention -- and she picked me, she sought me out that night and sent me home to fix her problem. made sure i killed doug because he was going to do the same thing to tracy seaver as he did to her. and she will get rid of anyone who stands in her way.
-speaker2: is that a threat?
-speaker1: to whom?
-speaker2: to me.
-
-speaker1: to you? i'm telling you she nearly electrocuted me when i tried to leave town and she led me to that barn and if i don't do what she wants -- she's going to kill me. 
-speaker1: i need you to at least consider the possibility that i'm not insane. not as a doctor. as the only person i trust in this world.
-
-speaker1: i'm not doing it for miranda, i'm doing this for rachel. 
-speaker2: you're making a complete fool of yourself. do you realize what you sound like?
-speaker1: what do i sound like, phil? like one of your patients? well, it's probably because that's exactly how you treat me. and i've had enough of this deafening silence between us, this exemplary mourning in front of the community, tiptoeing around our lives with you pretending rachel never existed.
-
-speaker1: how are we doing today? 
-speaker2: just fine, thank you.
-speaker1: the spirit is not fine. she's very unhappy.
-speaker2: how -- how do you know?
-speaker1: but she's only a girl. do you know her name?
-speaker2: yes. rachel.
-speaker1: have you talked to her?
-speaker2: yes, i -- you could say that.
-speaker1: she's very, very angry. and she's not finished with you yet.
-speaker2: i'm sure that's meant to sound comforting but --
-speaker1: she wants to show you something.
-speaker2: that may be so, but i want her to go away.
-speaker1: then you need to protect yourself.
-
-speaker1: and how exactly would i do that? 
-speaker2: mira, first i'm gonna bring you some cascarilla, it's a powder, you get it anyplace, it comes from eggs -- you pour it all over you -- like this --
-speaker1: look -- consuelo, i appreciate what you're trying to do, but i honestly don't think this ghost will go away if i pour some egg powder on myself -- consuelo holds up a finger, hushing miranda. she's receiving something here. shudders.
-speaker2: she made you do things. bad things, didn't she?
-speaker1: yes.
-speaker2: and you carried this out for her. she used you as a vessel...
-
-speaker1: you were possessed by her. 
-speaker2: yes.
-speaker1: ay, probrecita. you're both in terrible danger. she's scared too but she can't step back into the light until she finishes what she started here. and now you're the only person who can help her find the way back.
-speaker2: i don't know how to do that -- i'm not qualified for it. you do it.
-speaker1: despair is the only unforgivable sin. you'll be in my prayers, miranda.
-
-speaker1: this proves that her story is true: my daughter appeared to her in some form and guided her through all this, putting things right. 
-speaker2: come on, phil, you of all people --
-speaker1: i of all people hold logic, reason and facts above everything else. and seek the truth through proof and proof only. and what do you call that?
-speaker2: has it occurred to you that maybe she knew what her husband was doing to those girls?
-speaker1: no. frankly, it hasn't.
-speaker2: maybe she couldn't stand the guilt and cooked up this far-fetched tale to tug at everybody's heartstrings. the fact remains she hacked her husband to pieces.
-speaker1: the fact remains my daughter was murdered and miranda stopped the killer. a killer who was loose under your incompetent nose for over six years. we don't know how many future victims were spared, but we do know she saved that girl in the barn's life. and that's more than you or i can say -- !
-speaker2: calm down. for the record, that girl is on a ventilator. the doctors don't think she'll make it through tonight.
-
-speaker1: help you? 
-speaker2: we're here on miranda grey detail.
-speaker1: sixth floor. you can get a couple chairs from the nurses up there.
-speaker2: thanks, guys.
-speaker1: although why the sheriff is making you fellas waste your time is beside me. we got her right here.
-
-speaker1: looks perfectly harmless, doesn't she? 
-speaker2: don't they all, officer, don't they all?
-speaker2: there goes the card game.
-
-speaker1: no. no. what do you want -- ? 
-speaker1: i've done everything you've asked me to. my life is ruined. i can't take this anymore. i can't... you have to step into the light, rachel. you don't belong here -- you don't belong...
-speaker1: into the light -- can somebody come in here? i need help. somebody, please!
-
-speaker1: officer turlington, ma'am. we're supposed to sit outside miranda grey's cell all night. 
-speaker2: knock yourself out. next floor up. it's only a power outage, ladies -- let's call it an early night.
-speaker3: please don't. why are you doing this? it's over. over and done!
-
-speaker1: sheriff? i have miss grey right here. 
-speaker2: sorry, we thought you might have made a run for it.
-speaker3: page irene asap. this patient needs her meds.
-speaker4: you're gonna get that pulitzer after all.
-speaker3: shh, shh, just rest.
-speaker4: i told you i could keep a secret.
-
-speaker1: you have really disappointed me tonight, jenna -- 
-speaker2: give me a break. you wouldn't respect me if i hadn't tried --
-speaker3: everybody accounted for?
-speaker4: we're doing the final count. now they can't find the sheriff.
-speaker4: are you alright, miranda?
-speaker5: fine, phil. thanks for asking.
-speaker3: what's going on, officer?
-speaker6: one of your patients is holding the sheriff at gunpoint. she's in the cafeteria.
-speaker5: chloe.
-speaker4: i think doctor grey should be the one to talk to her.
-
-speaker1: young lady, i don't know how you think you can get out of here, but -- 
-speaker2: you're very polite for a piggy. now take off your uniform.
-speaker2: do it quick. i won't make fun of you.
-speaker2: nobody better move up there or i'll blow this piggy's head off!
-speaker2: that means you, fucko. up on your feet or i'll start by shooting his ear off.
-speaker2: tell junior the grownups are talking now and he's not allowed in here. do it.
-speaker1: turlington, it's alright. i can -- i'm just going to --
-speaker2: the grownups are talking. don't paraphrase me.
-speaker1: the grownups are -- are talking now. just leave.
-
-speaker1: chloe? can i talk to you? 
-speaker2: dreadful timing, i'm real busy.
-speaker1: you have to let him go. i'm sorry.
-speaker2: look -- let's not confuse things. i like you. but this is my only chance. now take off that uniform before i get really pissed.
-speaker1: what are you going to do? put on his uniform and walk out of here? think about it, chloe. they know you have him. the place is crawling with cops.
-speaker2: what are my options? to grow old in this place? it's clear they will never let me go. never. ever.
-speaker1: that's not true. you have less than a year left here.
-speaker2: that's a lie! i'll never stop being sick, they'll just find something new that's wrong with me. no wonder you doctors can't help anyone -- all you have are deficit columns and stupid tests designed to point out what part of the puzzle you think we're missing!
-
-speaker1: you're right, doctors never concentrate on the things patients are actually capable of. but i know you, chloe, you've been through things that most people don't survive. and you have a wonderful future in front of you if you choose it. it's up to you. 
-speaker1: no more guilt, no more hatred, no more unbearable sadness. you have no use for any of that anymore.
-speaker2: i'm so tired. so tired --
-
-speaker1: it was you, wasn't it? 
-speaker2: what are you talking about?
-
-speaker1: 'not alone.' that's what rachel has been trying to tell me all along. doug was not alone. you were with him. this whole time it's been you. you covered up their deaths to look like suicides. 
-speaker2: you've lost your mind.
-speaker1: don't move.
-speaker3: miranda, don't do it!
-speaker2: and just exactly who would believe you? no proof, no living witness. everybody knows you're crazy.
-speaker2: i want that woman in custody. she has a judge to face in the morning.
-
-speaker1: i'll call your lawyer and -- ! 
-speaker2: sir, not now --
-speaker1: i'll meet you at the station!
-speaker2: sir, please --
-speaker1: what?
-speaker3: the girl in the hospital.
-
-speaker1: her condition remains the same. basically that ventilator is keeping her alive. we have no reason to think she'll ever wake up. i'm sorry. 
-speaker2: you mind if i stay here tonight?
-speaker1: hey, it's a big place. the more the merrier. if i can just ask you to wait outside.
-
-speaker1: v-tach. 
-speaker2: clear!
-
-speaker1: how did you know? 
-speaker2: you tell me.
-speaker1: this isn't one of your word association games, doctor. did douglas tell you that night?
-speaker2: why wait this long if he had?
-speaker1: maybe it's your amnesia. maybe you blocked it out.
-speaker2: maybe. but it seems to me that it's vital you know for sure.
-speaker1: you think me and doug are monsters. that this was all a carefully laid out plan with those girls. but it wasn't that at all. you do things sometimes and you're not sure why you did them. then you realize you can live with them and so can everyone else. life goes on.
-speaker2: if you're looking for forgiveness, you came to the wrong place.
-speaker1: one thing about fear is it makes people say the dumbest things.
-
-speaker1: be that as it may, you're afraid too -- because you know killing me won't solve your problems. 
-speaker2: my only problem is you.
-speaker1: what about parsons? and peter? they know. and that girl in the hospital will never forget your face. you miscalculated, now you pay.
-speaker2: i hate a bad bluffer.
-speaker1: i sure hope that felt good because you can't afford too many more signs of struggle. can you?
-speaker2: go ahead, hit me back. it's what you want.
-speaker1: no, that's what you want me to do.
-speaker2: back to profiling, huh? your thought process is completely transparent.
-speaker1: so we're even. you left that door open so i'd try and run, it's what you get off on, isn't it?
-speaker2: i guess we'll find out.
-
-speaker1: and yet you have to make me look like a suicide. with what, your belt? how would i get access to a belt? 
-speaker2: trust me, prisoners hang themselves with just about anything.
-speaker1: i don't think that's going to satisfy you. you won't be able to do this clean. you have too much guilt inside.
-speaker1: you're losing grasp of the situation. it was different with those girls. i bet all they did was cry and scream.
-speaker2: don't worry, you'll scream. take off your shirt.
-speaker1: aren't i a little old for you?
-speaker2: take it off.
-speaker1: that's for show. you know you can't shoot me.
-speaker2: but i can smash your teeth out and make it look like you bashed your head against the wall. now shut up, take off your shirt and pull off your bra.
-
-speaker1: rachel, where are you when i need you? 
-speaker2: those other girls -- make no mistake -- they knew what they were getting into.
-speaker2: i'm not saying they knew they were going to die, but truth is, doug and i didn't know it was going to end that way. it was just the natural extension of that moment. so yeah, we them and we killed them. and we knew it was wrong. sure we did.
-
-speaker1: it wasn't some satanic pact, society didn't make us do it. but i believe given the proper circumstances a person is capable of anything -- certainly in my line of work you see it day in, day out. tell you what, keep the shirt. the bra will do. 
-speaker1: chin up, doctor. you wanted to get to the bottom of this and you did. you followed it all the way through. this is how it ends.
-speaker1: doug settled down once you two got married. new start and all that. wanted nothing to do with this runaway i'd found, tracy seaver --
-speaker1: or so he claimed. because the truth, doc -- is people never change. the son of a couldn't resist. i asked him to dump the body and instead he went found some barn to work her out of his system some more. go figure.
-
-speaker1: you can't count on anyone, even friends you've had your whole life. 
-speaker1: the only soul you can ever count on is yourself --
-speaker1: why, doctor. that was unexpected.
-speaker1: you sure about this?
-speaker1: you need me alive for your story to stick. be logical now. you know you can't kill me.
-speaker2: logic is overrated.
-
-speaker1: anybody in here -- ? 
-speaker2: hello -- ?
-
-speaker1: sheriff ryan? 
-speaker1: sheriff?
-
-speaker1: i'm sorry, but nobody is allowed to visit at this hour -- 
-speaker2: is the sheriff here or isn't he?
-speaker3: help you, gentlemen?
-speaker2: we're here to see miranda grey.
-speaker3: you know full well you're not allowed to see --
-speaker4: that's straight from judge wilkinson. take us to her cell.
-speaker1: better get the sheriff out here.
-speaker3: sheriff ryan isn't here. his car is gone too.
-speaker5: officer, unlock the door to miranda's cell or i'll break it down myself.
-
-speaker1: thank you for everything, dr. graham. i'll never forget all you've done for me. 
-speaker2: it's been my pleasure, miss mcgrath. good luck out there.
-speaker1: well, i guess this is it. i hope not to see you again unless it's for coffee or something.
-speaker2: hey, you never know. it's a small world, unless you have to clean it.
-speaker1: you don't have to tell me if you don't want to, but -- have you ever heard anything from -- ?
-
-speaker1: dear pete. hope this finds you on both feet, preferably having been promoted to director after phil's retirement. not that you had much competition, but a big hug to you anyway... i was as surprised as anyone to read about sheriff ryan's suicide and the startling discovery that it was he who murdered my late husband. i wish i could personally thank certain people for their convincing testimonies in the case. 
-speaker2: fly at us under her v.o.:
-speaker1: as for myself, i have a new name now and a job working with teenage girls at a runaway shelter, trying to keep an open mind at the horrors they tell me...
+MIRANDA: this is your stepfather who came to visit you? 
+CHLOE: my stepfather? no. he's dead. i killed him.
+MIRANDA: that's the first time you admit it.
+CHLOE: so? there's a first time for everything.
+MIRANDA: it means you're finally past the denial stage. this is good, chloe.
+CHLOE: i never killed anyone who didn't deserve it.
+MIRANDA: you only killed your stepfather as far as i know.
+CHLOE: i should've taken care of my mother. she knew all along. you remind me of her.
+
+MIRANDA: i remind you of your mother? 
+CHLOE: always so put together. like you iron your underwear. like your is the apricot of the promised land and the bread of the --
+MIRANDA: let's get back to your visitor last night.
+CHLOE: the devil.
+MIRANDA: alright, the devil. why would the devil visit you? it's already in here, what would he have to gain?
+CHLOE: he came to an angel. i'm his dirty angel.
+CHLOE: he grabbed me by the hair while i sucked him and usually i love that, i just do -- maybe you can tell me why i love it so much -- but not this time, he was just too rough --
+MIRANDA: that's it until monday. try and get some sleep tonight, okay?
+CHLOE: sure, doctor. crazy people hear messages from not the devil. you know that, right?
+
+MIRANDA: i didn't say you were crazy. 
+CHLOE: you don't have to say it.
+
+PETE: dr. grey. 
+MIRANDA: dr. graham.
+PETE: power went out again in our wing.
+MIRANDA: same here.
+PETE: it's not shrink-appropriate to be afraid of the dark, you know?
+MIRANDA: you're not shrink appropriate and you're about to get promoted.
+PETE: what am i afraid of?
+MIRANDA: yourself. at least you should be.
+
+PETE: write a little country music, decline invites to grand social events, drink myself to sleep -- the usual. you? 
+MIRANDA: doug wants to look at some real estate up at willow's creek.
+PETE: again?
+MIRANDA: he thinks it's fun.
+PETE: so is golfing, i'm told. who was your six o'clock?
+MIRANDA: chloe mcgrath -- talk about trying to empty the ocean with a tea cup.
+PETE: i hear manhattan's full of them.
+MIRANDA: don't start with that. i already turned down the job. we're staying.
+PETE: good girl.
+PARSONS: miranda, my wife keeps wanting to set that dinner with you and doug.
+MIRANDA: he's stuck at a school board meeting.
+
+PARSONS: you've been here a year already, dorothy's starting to take this personal. how's next wednesday? 
+MIRANDA: next wednesday it is, phil.
+
+MIRANDA: anybody hurt, sheriff? 
+SHERIFF RYAN: nah, telephone post just decided to fall. it'll take us a while to clear this up so i'm afraid you're gonna have to take the long way home, miranda.
+MIRANDA: if you say so.
+SHERIFF RYAN: and tell your husband he owes me a phone call.
+MIRANDA: will do. wouldn't want him in trouble with the authorities.
+
+MIRANDA: hello? are you hurt? hello? 
+MIRANDA: were you in an accident? were you attacked? it's okay, i'm a doctor. my name is miranda grey...
+MIRANDA: you're in shock right now, that's perfectly natural. i'm going to get you to the hospital. okay?
+MIRANDA: don't be scared. it's going to be fine.
+MIRANDA: hands off me, okay? tell me your name, do you remember your name?
+
+MIRANDA: peter, what the is going on? 
+PETE: how do you feel?
+MIRANDA: how do you think i feel? is this a joke?
+
+MIRANDA: what are you doing? 
+PETE: giving you something to calm down.
+MIRANDA: i don't need to calm down. what i need is an explanation
+PETE: just take this and we can sit down and chat.
+MIRANDA: why here, why not in my office?
+MIRANDA: i don't want an anticonvulsant, at least give me valium.
+PETE: fifty milligrams.
+MIRANDA: christ, you're gonna knock me out? ten milligrams.
+PETE: twenty.
+MIRANDA: how would you feel if you woke up in a cell, dressed like this?
+PETE: we can discuss it at length after you take your meds.
+
+PETE: miranda, this is very awkward. technically i shouldn't even be treating you but the court has granted us a waiver until you're transferred. so whatever is said here won't leave this room. i won't tell parsons, i won't tell anyone. 
+MIRANDA: i want to talk to my husband.
+PETE: you can't to that. sit down, please. try to relax.
+MIRANDA: why would i pretend to be in any way relaxed?
+PETE: i understand you're upset. but we need to put some things in order.
+MIRANDA: two massive understatements.
+PETE: how long have you been here?
+MIRANDA: what is this? why are you doing this to me?
+PETE: just answer the question. humor me.
+
+MIRANDA: hi, my name is miranda grey. i'm a psychiatrist. i transferred here to the woodward forensic institute a little over a year ago. my job entails dealing with a ward of schizophrenic women between the ages of eighteen and fifty-fife -- 
+PETE: i don't mean how long you've worked here, i mean how long you've been staying here.
+MIRANDA: i'm a doctor, yes? or was medical school just an elaborate dream?
+PETE: of course you're a doctor. a great doctor in fact.
+MIRANDA: pete, how long have i been here?
+PETE: five days.
+MIRANDA: what?
+PETE: you were admitted to the neurosurgical unit seizing violently. that lasted three days. scans revealed left-sided weakness, numbness and severe fontal lobe deficits.
+FLASHBACK - INT. NEUROSURGICAL UNIT: miranda seizing violently from her pov: doctors struggling to contain her. arms thrashing, legs.
+
+PETE: you were tied down for a day and a half so you wouldn't hurt yourself and then you went into a state of, well -- you've been pretty much catatonic. this is the first time you speak. 
+MIRANDA: doug must be worried sick. i need to call him -- pete shakes his head emphatically.
+PETE: you're the most logical person i know, bar none. plus you have a photographic memory -- unconfirmed, but you do remember events and phrases more accurately than anyone around. why am i telling you this?
+MIRANDA: you're establishing my personality as fairly intellectual, you don't consider me impulsive or emotional.
+PETE: and that's a fair assessment, no?
+MIRANDA: yes, that's fair. and following this pattern of analysis, we're about to discuss a traumatic event that rendered this psychological profile useless, correct?
+
+PETE: two hundred percent. 
+MIRANDA: you think i'm in denial. that i'm putting on a brave show -- that this is a 'cover' for some unbearable emotion i'm hiding.
+PETE: don't analyze yourself, just focus on remembering.
+MIRANDA: i remember friday night after work, if you say that was five days ago -- anyway, i asked you what you were doing for the weekend and you said the usual and you made a joke about writing country songs and drinking yourself to sleep and i told you i was going to look at some real estate in willows creek with doug.
+PETE: and then what?
+MIRANDA: then i drove home.
+PETE: and then what?
+MIRANDA: i got home, i guess, and had dinner by myself because -- because doug had an alumni meeting at his school and he was going to get a ride back. he's the principal now, as you well know.
+
+MIRANDA: but wait -- there was an accident before that, wasn't there? a girl -- she had been beaten. i took her to the hospital, right? 
+PETE: there was indeed an accident, you were detoured by the cops. but there's no report of any girl.
+MIRANDA: no, the cops weren't there. they were back on main road. a knocked-down telephone post, correct?
+MIRANDA: i saw the girl after that. she was bleeding.
+
+MIRANDA: excuse me? 
+PETE: what's the last memory you have of him that night?
+MIRANDA: my last -- ? tell me nothing happened to doug.
+PETE: let's backtrack a second. you left your office, you were driving home, you got detoured by the police -- did you call someone on the phone that night?
+MIRANDA: i don't know. i might have.
+PETE: who would you call?
+MIRANDA: i might have called doug to tell him something. or checked my answering service.
+PETE: were you seeing someone else that night?
+MIRANDA: i beg your pardon?
+PETE: there was some trouble in your marriage, wasn't there?
+MIRANDA: of course not.
+
+MIRANDA: no. there was no trouble in my marriage, i don't know what -- there is no trouble in my marriage. you just used the past tense; why? 
+MIRANDA: did something happen to doug?
+PETE: you don't remember anything else. anything at all?
+MIRANDA: this is preposterous. what's wrong with doug?
+PETE: he's dead.
+MIRANDA: no, he's not. don't tell me that. don't tell me that. are you -- sure?
+PETE: i'm positive. you killed him.
+
+DOUG: is that number three? 
+MIRANDA: yes, mr. principal. special occasion -- i'm celebrating how proud i am of my husband tonight.
+
+MIRANDA: i'm sorry. the fact is i'm married and i -- this is not me, this is a mistake. 
+PETE: your marriage is the mistake and you know it.
+MIRANDA: don't.
+PETE: i'm sorry. that was out of line. i feel like a school kid hiding from the principal.
+MIRANDA: we are hiding from the principal.
+PETE: i would just like to spend some time together.
+MIRANDA: we spend time together every day.
+PETE: i meant minus the schizophrenic women.
+MIRANDA: i have to go. i need time to think.
+
+PETE: don't be too hard on yourself, dr. grey. you haven't done anything wrong. 
+MIRANDA: not yet. but i want to.
+
+MIRANDA: can i get some assistance here? hello?! 
+MIRANDA: irene?! anybody!?
+MIRANDA: wake up, wake up... you're dreaming. it's not real. an anxiety dream, that's all. that's all. this is dream logic. if it was real, they would have heard you scream. there are twenty employees on the night shift. fact. at least twenty.
+MIRANDA: i'm just dreaming.
+
+MIRANDA: i'm dreaming, i'm dreaming, i'm dreaming, i'm dreaming. 
+IRENE: rise and shine, ladies!
+
+IRENE: that means you, honey. up -- ! 
+IRENE: rise and shine now. wake up.
+IRENE: easy now, it's okay.
+MIRANDA: i need to see peter graham.
+IRENE: and you have a session scheduled this afternoon --
+MIRANDA: right now.
+
+IRENE: he's not even in yet, now let go my arm, honey. 
+MIRANDA: doctor grey, if you don't mind.
+IRENE: actually i do mind. i start calling you 'doctor' and everybody else wants to be called 'doctor' --
+MIRANDA: please. it's a bit different, wouldn't you say -- ?
+MIRANDA: what do you think you're doing? i want to speak to my lawyer -- wait, what are you doing?
+IRENE: my job. irene shoves the meds into miranda's mouth --
+MIRANDA: c'mon, irene, don't do this. i'm calm now, look -- i'm calm -- !
+
+CHLOE: modalina? isn't that a band? 
+JENNA: trade name for triflupoerazine. look it up.
+JENNA: moditen, molindone, moltipress, motival. that's it for the 'm's.
+CHLOE: not bad. high potency neuroleptics starting with 'j.'
+JENNA: trick question. there's only jatroneural.
+CHLOE: what do you wanna bet?
+JENNA: bet you a soda.
+CHLOE: right on the money, cowgirl. twenty points and a soda.
+SHELLEY: hi there, doc.
+SHELLEY: i never got shrinked by you but all i hear is nothing gets past you, i mean, that's just hearsay and i don't pay much attention to hearsay because now they say you hacked your husband with an axe but i say maybe it just slipped, right?
+
+SHELLEY: they put your picture in the paper. 
+MIRANDA: how did you get this?
+SHELLEY: chloe did. who knows how? not me. around here i'm on a need to know basis about stuff and most stuff i don't need to know. my point is about people talking behind other people's backs. like before i was here, everything i did i thought, 'this'll get them,' wanting their approval, wanting them to say good things behind my back. but now i'm more anonymous, more myself. i'm shelley.
+SHELLEY: you're not like, undercover here, are you? they pulled that at spring grove, had a bunch of doctors pretend they were patients, see if they could handle it. most quit after day one.
+MIRANDA: no, shelley. i'm not undercover.
+SHELLEY: because if you were, i'm like the fort knox of secrets. ask anybody.
+MIRANDA: that's good to know. but i'm not.
+
+SHELLEY: say no more. i understand perfectly. 
+SHELLEY: drawing is a great cover. good luck to you.
+
+MIRANDA: i don't -- i think i'm alright. 
+IRENE: you go in last because you're special. it's not a mexican prison, toots. everybody here minds their own business.
+MIRANDA: if it's all the same, i'd rather --
+IRENE: state law says we keep you ladies clean. and i'm a stickler for the law. now come on. if you go downtown, you gotta dance.
+
+MIRANDA: it isn't real. it isn't real. opens her eyes. five letters are written in blood. n-o-t-a-l. shaking, nauseous, she looks down at her feet and the drain, too scared to look back up. 
+MIRANDA: it isn't real. you're hallucinating.
+
+MIRANDA: shelley? 
+SHELLEY: and pick up those cigarette butts. tv is --
+MIRANDA: shelley, can you do me a favor??
+SHELLEY: the housewives will find something better to do.
+MIRANDA: can you go in the shower and tell me if you see anything on the wall?
+
+IRENE: enough privacy for you? 
+MIRANDA: yes. thank you, irene.
+IRENE: what did you do?
+MIRANDA: nothing. it's nothing --
+IRENE: what the did you do to yourself?!
+
+IRENE: i looked away for a second. it's unacceptable, won't happen again. 
+PARSONS: not your fault. patients always find a way to hurt themselves if that's what they want.
+IRENE: i just didn't peg her for a cutter, that's all.
+
+MIRANDA: you saw it? 
+SHELLEY: listen, doctor. some people, they have a gift. and in here, because they categorize us as a bunch of schizos, they refuse to acknowledge that. it's like that hubble telescope that sees things a trillion miles away but what it's seeing is just reflected light of a star that died a thousand years ago? it's like that. doesn't mean you're crazy. it only means your eyes open in a different way.
+MIRANDA: what did it say?
+SHELLEY: on the telescope?
+MIRANDA: did you see anything, shelley?
+SHELLEY: that's not tile that wall is made out of . it's a holographic screen. all part of your mission, isn't it?
+MIRANDA: thanks anyway.
+SHELLEY: this is all we have. the rest is dust.
+
+MIRANDA: it was you i called that night. 
+PETE: yes.
+MIRANDA: did you mention that to the cops?
+PETE: no.
+MIRANDA: why?
+PETE: i didn't think it would help you.
+MIRANDA: what does that mean?
+PETE: it means they wouldn't have let me treat you if they thought i had any kind of involvement in what happened.
+MIRANDA: and did you?
+PETE: did i what?
+MIRANDA: did i make it to your place? did i see you that night?
+PETE: no. we got disconnected and i couldn't get through to you. i sat there waiting all night.
+MIRANDA: why didn't you tell me this before?
+PETE: because the only way you'll be able to accept these events is if you remember them on your own. my job is to assist you in processing that information because you're not in a frame of mind to do it by yourself.
+
+MIRANDA: you're changing the subject. 
+PETE: the subject is you don't trust me.
+MIRANDA: right now i don't trust anyone.
+PETE: you want to talk about today?
+MIRANDA: i want to talk to my lawyer.
+PETE: i think that's premature.
+MIRANDA: i can't help what you think.
+
+JENNA: you a marlboro girl? 
+MIRANDA: i don't smoke, thanks.
+
+JENNA: all we have is our health, cupcake. what i do is quit constantly, start again. drives them all crazy. one day i quit three times. 
+MIRANDA: huh.
+JENNA: they allow me one match at a time and pretend they're not watching. check it out: salivating goon number one at three o'clock, oh- so-inconspicuous goon number two at five o'clock.
+MIRANDA: what did you set on fire to wind up here?
+JENNA: very perceptive, doc. i burnt down the building where i worked. i found a baby at the doorstep, called the cops -- of course the bottom feeding pricks never showed. it's beside the point, really.
+MIRANDA: phil.
+MIRANDA: phil!
+
+PARSONS: hello, miranda. 
+MIRANDA: i wonder if i could talk to you.
+PARSONS: of course. well, actually, i'm about to...
+MIRANDA: your staff meeting's done and thursdays you don't schedule sessions until the afternoon. this will just take one minute. promise.
+PARSONS: true. but the sheriff wants to ask me some questions. she follows his look to the parking lot where sheriff ryan emerges from his patrol car. miranda nods.
+MIRANDA: it's about pete.
+PARSONS: what about him?
+MIRANDA: perhaps he's not the most qualified person to be treating me.
+PARSONS: are you complaining about his methods or are you referring to the nature of your past relationship with him?
+
+MIRANDA: what did he tell you? 
+PARSONS: he explained there might be a conflict of interest because he has feelings for you. you two engaged in a kiss at one point.
+MIRANDA: yes.
+PARSONS: i told him we're all grownups here and the fact is he's the best doctor on my staff. as such, and given the severity of the charges you face, i consider him the most qualified person to assist your recovery. now, if you'll excuse me, sheriff ryan is not a patient man.
+IRENE: hey! chloe!
+CHLOE: you cow giving me the evil eye, huh? you, you voodoo witch -- !
+CONSUELO: is okay, she's okay -- she don't mean nothing.
+CHLOE: you bet your fat i mean it, you're a witch -- !!
+
+IRENE: mcgrath, that's enough! 
+CHLOE: take your voodoo back to cuba --
+IRENE: i said that's enough.
+CONSUELO: irene, she's okay. pobrecita, la infeliz. it's a misunderstanding. pobrecita. i was only trying to help her --
+CHLOE: you wanna help me? you pity me? me.
+
+IRENE: how are we feeling today? 
+MIRANDA: 'we'?
+IRENE: sorry i asked.
+MIRANDA: doesn't seem like the best choice of words when treating schizophrenics.
+IRENE: fitting right in, aren't you?
+
+TEDDY HOWARD: miranda. 
+MIRANDA: hi.
+IRENE: she's due back in the rec room in twenty, counselor.
+TEDDY HOWARD: thank you kindly.
+
+MIRANDA: teddy, i know you knew doug well and this is an extremely -- 
+TEDDY HOWARD: i'm here as your lawyer. so whatever my relationship was with doug is no longer of consequence. first things first, how are they treating you?
+MIRANDA: like i'm crazy.
+TEDDY HOWARD: you know this place better than anyone. anything out of the ordinary?
+MIRANDA: other than me being crazy? no.
+TEDDY HOWARD: the da is pushing for a hearing as soon as next week. they're eager to resolve this situation because -- well, crimes like this don't happen that often around here. doug was a hometown boy who'd done good, beloved high school principal, a role model. our best shot -- scratch that, our only shot -- is to claim temporary insanity.
+MIRANDA: wait, wait, wait -- teddy, you know me. i wouldn't raise a hand at my husband for the life of me. not even in self-defense. isn't it remotely possible a burglar broke in or some crazed high school student attacked doug and i went into shock?
+MIRANDA: you're telling me there's no other suspects in anyone's mind?
+
+TEDDY HOWARD: frankly, no. neighbors heard screams. they have you at the scene, they have the murder weapon and they have your prints everywhere. the only thing they don't have is motive. she keeps absently playing with the bandage. the 
+MIRANDA: because there is no motive.
+TEDDY HOWARD: and that's what's confusing them. the fact that you're a brilliant psychiatrist doesn't help either. it fills their heads with ideas. they figure if you were to plan a murder you might know how to fake insanity to get out of it.
+MIRANDA: i'm not faking anything.
+TEDDY HOWARD: good. i pass no judgment either way. the point is --
+MIRANDA: the point is i'm the only person who doesn't believe i killed my husband. i never thought i'd say this, but i feel like i'm in the middle of a conspiracy. do you believe i'm crazy?
+
+TEDDY HOWARD: it doesn't matter what i believe. 
+MIRANDA: forget it. forget i asked.
+
+PETE: i can't help you if you don't talk to me. 
+PETE: i can stand here all day. all week. you're the one running out of time.
+PETE: what does it mean?
+MIRANDA: i didn't write this.
+PETE: then who?
+PETE: you're going to have to trust me.
+MIRANDA: why?
+PETE: because no matter what's going through your mind right now, i haven't done anything wrong.
+
+MIRANDA: then you know exactly how i feel. 
+PETE: you admit you're having a hard time differentiating what's reality from what's hallucination, right? so isn't it at least possible that --
+MIRANDA: as a doctor i agree with you. maybe -- and this is a big maybe -- all of this is just a deep epilepsy that extends to the limbic structures, but i'm telling you --
+PETE: how about this moment right now?
+MIRANDA: what about it?
+PETE: is this a hallucination?
+MIRANDA: you tell me. but i do know what i sound like. paranoia is the ultimate awareness, right?
+PETE: which is why i suggest we simply increase your dose until --
+MIRANDA: no! goddamnit! no!
+MIRANDA: i'm sorry. is there any way we can pretend that didn't just happen?
+
+PETE: alright. let's say you didn't write this -- 
+MIRANDA: number one: i'm right-handed. number two: i would have had to bring an x-acto knife into the shower to do this, wouldn't i?
+PETE: i think it's time you look at these.
+
+PETE: you wrote that. any idea why? 
+MIRANDA: no, i didn't. no, i didn't!
+
+PARSONS: how much does she remember? 
+PETE: it all came flooding back last night.
+PARSONS: guilt?
+PETE: more like an uncontrollable reminiscence. intense, over- cathected. she's not feeling guilty of her actions, not exactly. sounds to me like last night she actually re-lived them in great detail.
+PARSONS: hypermnesis following amnesia. could a specific epileptic element be involved?
+PETE: that's exactly what she suggested. even in her present state, her instincts remain impeccable.
+PARSONS: i'd like to talk to her.
+
+PETE: standard procedure. 
+MIRANDA: i didn't say a word.
+
+PARSONS: yes, dear. me too. 
+PARSONS: i'm so sorry about this, miranda.
+PARSONS: has pete told you about the hearing?
+PETE: teddy already filled her in.
+PARSONS: teddy howard is top notch. he's going to do everything in his power -- and he's quite resourceful -- to prove you're not fit to stand trial. miranda, i know you have no family left, so we're your family now and we're all going down to the wire to protect you and help you in any way we --
+
+MIRANDA: who is that? 
+PARSONS: excuse me?
+MIRANDA: the girl in the picture.
+PARSONS: my daughter.
+MIRANDA: she's the girl i saw.
+PARSONS: you're obviously mistaken.
+MIRANDA: i'm positive. she was hurt, bleeding. is she all right?
+PETE: miranda, you've seen that photograph at least a dozen times, every time you've been in this office. you're just confused --
+MIRANDA: not about this. is she all right?
+PARSONS: no, she's not... all right. rachel committed suicide six years ago.
+MIRANDA: how?
+
+PETE: miranda, that's none of your -- 
+PARSONS: that's okay. rachel was a very troubled girl. handicapped since birth. she was born mute. my wife and i tried everything to help her fit in but... but she ran away from home more than once, wanting to end her life. and she finally succeeded. jumped off ashley bridge. she was only seventeen years old. ashley bridge. mute. ghost? miranda hesitates here. she is not the type to believe in ghosts, and knows full well what even her suggestion of it will sound like.
+MIRANDA: i'm -- i'm terribly sorry, phil.
+PARSONS: peter, can i speak to you?
+PETE: ... textbook psychotic pattern...
+PARSONS: ... much she knows about rachel?
+PETE: i'm telling you she doesn't...
+PARSONS: i'm trusting you... crawling with cops.
+
+MIRANDA: this is not going to work. i'm sick of being watched, and i know this place well and it doesn't smell this bad. 
+MIRANDA: i'm awake, i'm not dreaming. i'm alive -- this is not some afterlife mumbo jumbo. so-called paranormal activity can be debunked a million different ways. so whatever you are, whatever it is i'm making up here -- i'm letting you go, i'm setting you free. i'm the wrong person. and i need to sleep. i'm not afraid and i don't believe and i'm fully aware that this is all in my mind -- fiction -- a concocted alternate reality -- and i acknowledge it. and now i'm done with it. i'm going to sleep now. the moment is as brave as it is ridiculous. she has
+
+MIRANDA: besides, if you really were the ghost of rachel parsons, you would let me out of this cell. a beat. and now we hear the sound of the deadbolt slide open. the door opens quietly. push into miranda's face. 
+MIRANDA: holy
+
+PARSONS: we've transferred her to a higher security room on the fifth floor. that's my final concession to any type of special treatment. 
+PETE: and the night staff?
+IRENE: they insist her room was properly locked, what else could they say?
+
+PETE: could there be any truth to her claim? 
+PARSONS: peter, we have one hundred and forty employees. thirty-five work maintenance. they all wear yellow shirts, it's their uniform. i'm holding a very discreet inquiry, sure -- but i don't want a news van parked outside day and night. it makes much more sense that she tried to escape and got caught, doesn't it?
+PETE: i perused miranda's files on chloe mcgrath -- they're comprehensive. maybe she was a bit obsessed with her.
+PARSONS: the scariest gift gave us is our minds. and a bright person like miranda -- she's grasping at straws here -- who knows what her brain is telling her, now that it's snapped.
+
+MIRANDA: did you live here when rachel killed herself? 
+PETE: yes. as a matter of fact, i was part of the search party that found the body.
+MIRANDA: phil must have been a wreck.
+
+PETE: you can imagine. actually, phil was in houston undergoing triple bypass surgery when it happened. 
+MIRANDA: and this is confirmed. there are hospital records and so forth?
+PETE: i'm sure there are. can we get back on track now?
+MIRANDA: what about these other dates, was phil here when the other girls went missing and found dead?
+PETE: where are you going with this? first i'm a suspect in doug's death, now what, phil parsons murdered his own daughter?
+MIRANDA: rachel parsons disappeared six years ago. a week later she's a suicide. andrew white, four years ago, same m.o., and jenny dixon, two years ago. don't you find that unusual? he regards her. maybe parsons is right: she's
+PETE: what same m.o.? one jumped off a bridge, one hung herself and one crashed her car. who gave you this?
+MIRANDA: not one left a suicide note. in fact, how is anybody sure these were suicides?
+
+PETE: you heard phil, his daughter had tried several times before -- 
+MIRANDA: that's his story. i need to talk to the reporter who wrote that.
+PETE: well, you can't.
+MIRANDA: i beg to differ. i know my visitation rights.
+PETE: you can't because... he died.
+MIRANDA: you're telling me the one local investigative reporter who connected three highly-suspicious deaths, just happens to have conveniently died?
+PETE: frank albright was an eighty-year- old retired sociology professor. this is a fluff piece about teenage depression and the breakdown of the nuclear family. you can find one in any local paper, anywhere, any other week!
+MIRANDA: don't be smug, pete. that's one thing you've never been. rachel is somehow connected to what i'm going through. i don't know how -- like you said, i'm not in a frame of mind to process the information without assistance.
+PETE: listen to me. you are not well. i had hoped once you remembered the murder we could deal with your feelings about it but these fixations:
+
+MIRANDA: i know this lecture like the back of my hand! 
+PETE: good. saves me the trouble.
+
+CLAIRE: get off me, you dog -- 
+SIMON: hell, don't go all bubbly with joy or anything.
+CLAIRE: you can't be in here and you know it. nap in your car.
+
+CLAIRE: now get out before we get busted. 
+SIMON: you slay me, claire. honest.
+CLAIRE: sure i do, boy scout.
+
+CLAIRE: hold it, simon! 
+CLAIRE: what do you think i am, laundry service?
+SIMON: won't happen again, ma'am. she turns and exits. the doors slide shut. meet our rapist.
+
+SHELLEY: ... she'd get high on glue and make me help her try on my bras. is that the strangest you've heard? 
+JENNA: heard stranger. but she's a case.
+SHELLEY: and she always put on a happy face. man, what an optometrist.
+JENNA: you narced her out, didn't you? boo-hoo. bet you were a little buzzed yourself.
+SHELLEY: all work, that woman. work, work, work.
+JENNA: what are you talking about?
+SHELLEY: she's like an alcoholic. but with work.
+JENNA: what work?
+SHELLEY: not safe to tell you. wish i could.
+
+MIRANDA: i saw what happened. i'm sorry. 
+MIRANDA: have you told anyone? chloe?
+MIRANDA: look, chloe -- the person who did this to you is not the devil. and if you can identify him, i'll make sure the is arrested.
+CHLOE: doctor, did you just say 'motherfucker'?
+MIRANDA: do you know his name? maybe you saw a nametag on his uniform? think. chloe simply stares. finally shakes her head.
+CHLOE: man, you must really hate me.
+MIRANDA: what? i don't hate you.
+CHLOE: you hate me because now you're just the same as me. you must feel so embarrassed.
+MIRANDA: i don't hate you. and i don't feel embarrassed.
+CHLOE: that's just a pat answer you have because you're new at this. trust me, i know what i'm talking about.
+
+MIRANDA: forget it, alright? forget we had this conversation. 
+CHLOE: you know what happens next?
+MIRANDA: i get the distinct feeling you're going to tell me.
+CHLOE: the shock wears off and the guilt kicks in. and that guilt is the real motherfucker. you'll be watched 24/seven, because they're afraid you'll kill yourself. dr. graham will question every harmless gesture, every innocent comment, ever twitch you make and eventually -- and it's a tedious 'eventually' -- you'll stop hating yourself for what you did. but what replaces that hatred is this unbearable sadness. and you don't lose that as long as you live.
+
+MIRANDA: leave me alone. go away. 
+MIRANDA: i've lost my mind. happy now?
+
+MIRANDA: no. 
+MIRANDA: why are you doing this to me?
+
+MIRANDA: what do you want from me? 
+MIRANDA: what is it you want me to do?!!
+
+MIRANDA: bear with me, i'm just parking it out of the way so it won't look suspicious in the middle of the road -- okay. 
+MIRANDA: not alone. what happened to you happened to other girls. i understand. and i'm sorry. but there is nothing i can do about it now. it has nothing to do with me.
+
+MIRANDA: is there anybody here? hello? 
+MIRANDA: go away! off!
+MIRANDA: c'mon, c'mon, c'mon --
+MIRANDA: wake up, tracy, wake up --
+
+THE PATROL CAR: parked in front of the house. a police officer 
+OFFICER TURLINGTON: howdy there.
+OFFICER TURLINGTON: everything okay?
+MIRANDA: y-yes.
+OFFICER TURLINGTON: that your vehicle, ma'am?
+MIRANDA: yes -- i -- i just pulled over. i was -- looking for a bathroom.
+OFFICER TURLINGTON: congratulations. but i'm afraid this is private property -- you can't just waltz on in. you understand that.
+MIRANDA: i'll be on my merry way now. my husband will never forgive me if i get a ticket for trespassing.
+
+OFFICER TURLINGTON: holy lady, stay right where you are. 
+OFFICER TURLINGTON: hands up where i can see them.
+OFFICER TURLINGTON: nice and slow, start talking to me. and make it good. tell me just exactly who that is.
+
+SHERIFF RYAN: mr. howard -- let me simply list the events your client was involved in last night. first she drugs a janitor, steals his car and escapes a mental institution -- 
+TEDDY HOWARD: hold on, there isn't even any substantial evidence --
+
+SHERIFF RYAN: mr. howard -- there isn't evidence because the overdosed janitor hasn't woken up, that's why -- and when your client was questioned on the matter she admitted to injecting a full syringe of -- 
+TEDDY HOWARD: you had no right to question my client without my presence --
+SHERIFF RYAN: mr. howard, this is not a courtroom. your client was read her rights and she still insisted --
+TEDDY HOWARD: -- let me ask you this, sheriff: what exactly was a janitor doing with several vials of sedatives inside my client's cell? and is it not possible he had taken some drugs himself before my client --
+
+SHERIFF RYAN: i'm not a drug expert. i'm simply stating the frigging facts. 
+SHERIFF RYAN: phil, thank -- this guy's driving me nuts!
+PARSONS: what happened?
+
+SHERIFF RYAN: an 'incident' -- for lack of a better frigging word -- involving miss grey and a teenage girl who's been tortured and is in critical condition and chances are slim she'll even utter another word. 
+PETE: who's the girl?
+SHERIFF RYAN: a runaway from portland, tracy marie seaver. reported missing a couple weeks ago. we found miss grey in some barn off willows creek with the girl all messed up. i'm just now waiting for the surgeon to give me an update. notice, counselor, how i'm not even mentioning her trespassing or lying to a police officer.
+SHERIFF RYAN: christ, the woman's got the entire hospital busy --
+SHERIFF RYAN: why are you harassing my deputies?
+TEDDY HOWARD: i'm only asking him where he got the coffee -- ?
+SHERIFF RYAN: he's not at liberty to answer that. you've had enough coffee already.
+PETE: we need to get miranda back to the institute. she needs psychiatric care, not a prison cell.
+
+SHERIFF RYAN: phil, how well does your wife know the suspect? 
+PARSONS: why do you ask?
+SHERIFF RYAN: because she's at the station right now, demanding to speak with her.
+
+DOROTHY: how are you? 
+DOROTHY: i needed to see you, but i'm not sure where to begin. i don't know you well, i certainly have nothing but fond feelings for you. phil always keeps me posted on his colleagues and his work and -- in any case, i have always thought of you as a very bright, very perceptive doctor. even though i don't know you well.
+DOROTHY: my point is, my point being -- when rachel died i had, um, i suffered through these spells, these recurring dreams.
+
+DOROTHY: the past few days i have been having the same dream. a nightmare. 
+MIRANDA: that word. nightmare. welcome to my life.
+DOROTHY: this nightmare involves rachel but it also involves you. in the nightmare rachel holds a box in her left hand. a small box. and she repeats a series of numbers. now, rachel never spoke, from the time she was born -- she had a condition -- i often asked why he punished this child in such a way -- she couldn't speak, but she was extremely bright. she wasn't autistic as the doctors claimed -- dorothy parsons starts to cry. a moment passes like
+MIRANDA: mrs. parsons, you need a therapist. normally i would encourage you to schedule a session with me but as you can see --
+DOROTHY: every night the same box in her hand and the same numbers. i wrote them down.
+
+1-0-2-2-0-1.: a long beat. 
+DOROTHY: it's a message. it's a code for something. i don't know what. but she wants you to have it.
+MIRANDA: october 22nd, 2001. it's my wedding date.
+MIRANDA: that code belongs to a safety deposit box my husband kept in a bank up in newcastle, that's where his parents live. dorothy, i need you to drive up there and open it.
+
+PETE: we can take those off now. 
+SHERIFF RYAN: don't push it, doctor. she's cuffed until your people secure her in a cell.
+
+PETE: are you alright? 
+MIRANDA: i was wrong. it wasn't phil parsons. it was doug.
+PETE: can we talk about this later? thanks, sheriff.
+SHERIFF RYAN: tomorrow morning first thing my deputies are here.
+PETE: i know, i know. we'll see you then.
+SHERIFF RYAN: and my offer still stands if you need added security.
+PETE: thank you. she won't go anywhere. i guarantee it.
+MIRANDA: that's why rachel picked me. it was doug. i'm so stupid.
+PETE: inside, okay?
+
+PETE: what is this? 
+IRENE: she's a hero. little red riding hood put the big bad wolf in a coma.
+OFFICER #1: they're not gonna start something, are they?
+IRENE: you ain't scared of a bunch of women now, are you, officer?
+ORDERLY #1: we'll be right outside, doctor.
+
+PETE: i pulled a lot of strings to get you transferred back. the best case scenario you're looking at right now is five years here. 
+PETE: but you know that the brain is fully capable of tricking you into seeing all sorts of things. the simplest chemical deficiencies can --
+MIRANDA: chemical deficiencies can't get inside of you and make you do terrible things you don't remember doing!
+PETE: i'm a very open-minded person, but as a doctor --
+MIRANDA: no, you're not. you're a close- minded academic, just like me. you told me once that i was the most logical person you knew, remember? well, everything that's happened has an explanation but it has nothing to do with psychiatry or science. rachel parsons was abducted and she was murdered six years ago -- tossed off the ashley bridge by my husband. my harmless, righteous 'community leader' husband -- that's how pathetically blind i've been.
+
+MIRANDA: here's doug's interest in real estate, pete. 
+MIRANDA: rachel parsons is a pissed-off ghost with an agenda, furious at her parents for giving up on her -- she's been trying to communicate with them for years but they're too logical to pay attention -- and she picked me, she sought me out that night and sent me home to fix her problem. made sure i killed doug because he was going to do the same thing to tracy seaver as he did to her. and she will get rid of anyone who stands in her way.
+PETE: is that a threat?
+MIRANDA: to whom?
+PETE: to me.
+
+MIRANDA: to you? i'm telling you she nearly electrocuted me when i tried to leave town and she led me to that barn and if i don't do what she wants -- she's going to kill me. 
+MIRANDA: i need you to at least consider the possibility that i'm not insane. not as a doctor. as the only person i trust in this world.
+
+DOROTHY: i'm not doing it for miranda, i'm doing this for rachel. 
+PARSONS: you're making a complete fool of yourself. do you realize what you sound like?
+DOROTHY: what do i sound like, phil? like one of your patients? well, it's probably because that's exactly how you treat me. and i've had enough of this deafening silence between us, this exemplary mourning in front of the community, tiptoeing around our lives with you pretending rachel never existed.
+
+CONSUELO: how are we doing today? 
+MIRANDA: just fine, thank you.
+CONSUELO: the spirit is not fine. she's very unhappy.
+MIRANDA: how -- how do you know?
+CONSUELO: but she's only a girl. do you know her name?
+MIRANDA: yes. rachel.
+CONSUELO: have you talked to her?
+MIRANDA: yes, i -- you could say that.
+CONSUELO: she's very, very angry. and she's not finished with you yet.
+MIRANDA: i'm sure that's meant to sound comforting but --
+CONSUELO: she wants to show you something.
+MIRANDA: that may be so, but i want her to go away.
+CONSUELO: then you need to protect yourself.
+
+MIRANDA: and how exactly would i do that? 
+CONSUELO: mira, first i'm gonna bring you some cascarilla, it's a powder, you get it anyplace, it comes from eggs -- you pour it all over you -- like this --
+MIRANDA: look -- consuelo, i appreciate what you're trying to do, but i honestly don't think this ghost will go away if i pour some egg powder on myself -- consuelo holds up a finger, hushing miranda. she's receiving something here. shudders.
+CONSUELO: she made you do things. bad things, didn't she?
+MIRANDA: yes.
+CONSUELO: and you carried this out for her. she used you as a vessel...
+
+CONSUELO: you were possessed by her. 
+MIRANDA: yes.
+CONSUELO: ay, probrecita. you're both in terrible danger. she's scared too but she can't step back into the light until she finishes what she started here. and now you're the only person who can help her find the way back.
+MIRANDA: i don't know how to do that -- i'm not qualified for it. you do it.
+CONSUELO: despair is the only unforgivable sin. you'll be in my prayers, miranda.
+
+PARSONS: this proves that her story is true: my daughter appeared to her in some form and guided her through all this, putting things right. 
+SHERIFF RYAN: come on, phil, you of all people --
+PARSONS: i of all people hold logic, reason and facts above everything else. and seek the truth through proof and proof only. and what do you call that?
+SHERIFF RYAN: has it occurred to you that maybe she knew what her husband was doing to those girls?
+PARSONS: no. frankly, it hasn't.
+SHERIFF RYAN: maybe she couldn't stand the guilt and cooked up this far-fetched tale to tug at everybody's heartstrings. the fact remains she hacked her husband to pieces.
+PARSONS: the fact remains my daughter was murdered and miranda stopped the killer. a killer who was loose under your incompetent nose for over six years. we don't know how many future victims were spared, but we do know she saved that girl in the barn's life. and that's more than you or i can say -- !
+SHERIFF RYAN: calm down. for the record, that girl is on a ventilator. the doctors don't think she'll make it through tonight.
+
+GUARD #1: help you? 
+OFFICER TURLINGTON: we're here on miranda grey detail.
+GUARD #1: sixth floor. you can get a couple chairs from the nurses up there.
+OFFICER TURLINGTON: thanks, guys.
+GUARD #1: although why the sheriff is making you fellas waste your time is beside me. we got her right here.
+
+OFFICER TURLINGTON: looks perfectly harmless, doesn't she? 
+GUARD #1: don't they all, officer, don't they all?
+GUARD #1: there goes the card game.
+
+MIRANDA: no. no. what do you want -- ? 
+MIRANDA: i've done everything you've asked me to. my life is ruined. i can't take this anymore. i can't... you have to step into the light, rachel. you don't belong here -- you don't belong...
+MIRANDA: into the light -- can somebody come in here? i need help. somebody, please!
+
+OFFICER TURLINGTON: officer turlington, ma'am. we're supposed to sit outside miranda grey's cell all night. 
+IRENE: knock yourself out. next floor up. it's only a power outage, ladies -- let's call it an early night.
+MIRANDA: please don't. why are you doing this? it's over. over and done!
+
+OFFICER: sheriff? i have miss grey right here. 
+OFFICER TURLINGTON: sorry, we thought you might have made a run for it.
+MIRANDA: page irene asap. this patient needs her meds.
+SHELLEY: you're gonna get that pulitzer after all.
+MIRANDA: shh, shh, just rest.
+SHELLEY: i told you i could keep a secret.
+
+IRENE: you have really disappointed me tonight, jenna -- 
+JENNA: give me a break. you wouldn't respect me if i hadn't tried --
+PETE: everybody accounted for?
+PARSONS: we're doing the final count. now they can't find the sheriff.
+PARSONS: are you alright, miranda?
+MIRANDA: fine, phil. thanks for asking.
+PETE: what's going on, officer?
+OFFICER TURLINGTON: one of your patients is holding the sheriff at gunpoint. she's in the cafeteria.
+MIRANDA: chloe.
+PARSONS: i think doctor grey should be the one to talk to her.
+
+SHERIFF RYAN: young lady, i don't know how you think you can get out of here, but -- 
+CHLOE: you're very polite for a piggy. now take off your uniform.
+CHLOE: do it quick. i won't make fun of you.
+CHLOE: nobody better move up there or i'll blow this piggy's head off!
+CHLOE: that means you, fucko. up on your feet or i'll start by shooting his ear off.
+CHLOE: tell junior the grownups are talking now and he's not allowed in here. do it.
+SHERIFF RYAN: turlington, it's alright. i can -- i'm just going to --
+CHLOE: the grownups are talking. don't paraphrase me.
+SHERIFF RYAN: the grownups are -- are talking now. just leave.
+
+MIRANDA: chloe? can i talk to you? 
+CHLOE: dreadful timing, i'm real busy.
+MIRANDA: you have to let him go. i'm sorry.
+CHLOE: look -- let's not confuse things. i like you. but this is my only chance. now take off that uniform before i get really pissed.
+MIRANDA: what are you going to do? put on his uniform and walk out of here? think about it, chloe. they know you have him. the place is crawling with cops.
+CHLOE: what are my options? to grow old in this place? it's clear they will never let me go. never. ever.
+MIRANDA: that's not true. you have less than a year left here.
+CHLOE: that's a lie! i'll never stop being sick, they'll just find something new that's wrong with me. no wonder you doctors can't help anyone -- all you have are deficit columns and stupid tests designed to point out what part of the puzzle you think we're missing!
+
+MIRANDA: you're right, doctors never concentrate on the things patients are actually capable of. but i know you, chloe, you've been through things that most people don't survive. and you have a wonderful future in front of you if you choose it. it's up to you. 
+MIRANDA: no more guilt, no more hatred, no more unbearable sadness. you have no use for any of that anymore.
+CHLOE: i'm so tired. so tired --
+
+MIRANDA: it was you, wasn't it? 
+SHERIFF RYAN: what are you talking about?
+
+MIRANDA: 'not alone.' that's what rachel has been trying to tell me all along. doug was not alone. you were with him. this whole time it's been you. you covered up their deaths to look like suicides. 
+SHERIFF RYAN: you've lost your mind.
+MIRANDA: don't move.
+PETE: miranda, don't do it!
+SHERIFF RYAN: and just exactly who would believe you? no proof, no living witness. everybody knows you're crazy.
+SHERIFF RYAN: i want that woman in custody. she has a judge to face in the morning.
+
+PETE: i'll call your lawyer and -- ! 
+OFFICER TURLINGTON: sir, not now --
+PETE: i'll meet you at the station!
+OFFICER TURLINGTON: sir, please --
+PETE: what?
+MIRANDA: the girl in the hospital.
+
+DOCTOR: her condition remains the same. basically that ventilator is keeping her alive. we have no reason to think she'll ever wake up. i'm sorry. 
+PETE: you mind if i stay here tonight?
+DOCTOR: hey, it's a big place. the more the merrier. if i can just ask you to wait outside.
+
+NURSE #1: v-tach. 
+DOCTOR: clear!
+
+SHERIFF RYAN: how did you know? 
+MIRANDA: you tell me.
+SHERIFF RYAN: this isn't one of your word association games, doctor. did douglas tell you that night?
+MIRANDA: why wait this long if he had?
+SHERIFF RYAN: maybe it's your amnesia. maybe you blocked it out.
+MIRANDA: maybe. but it seems to me that it's vital you know for sure.
+SHERIFF RYAN: you think me and doug are monsters. that this was all a carefully laid out plan with those girls. but it wasn't that at all. you do things sometimes and you're not sure why you did them. then you realize you can live with them and so can everyone else. life goes on.
+MIRANDA: if you're looking for forgiveness, you came to the wrong place.
+SHERIFF RYAN: one thing about fear is it makes people say the dumbest things.
+
+MIRANDA: be that as it may, you're afraid too -- because you know killing me won't solve your problems. 
+SHERIFF RYAN: my only problem is you.
+MIRANDA: what about parsons? and peter? they know. and that girl in the hospital will never forget your face. you miscalculated, now you pay.
+SHERIFF RYAN: i hate a bad bluffer.
+MIRANDA: i sure hope that felt good because you can't afford too many more signs of struggle. can you?
+SHERIFF RYAN: go ahead, hit me back. it's what you want.
+MIRANDA: no, that's what you want me to do.
+SHERIFF RYAN: back to profiling, huh? your thought process is completely transparent.
+MIRANDA: so we're even. you left that door open so i'd try and run, it's what you get off on, isn't it?
+SHERIFF RYAN: i guess we'll find out.
+
+MIRANDA: and yet you have to make me look like a suicide. with what, your belt? how would i get access to a belt? 
+SHERIFF RYAN: trust me, prisoners hang themselves with just about anything.
+MIRANDA: i don't think that's going to satisfy you. you won't be able to do this clean. you have too much guilt inside.
+MIRANDA: you're losing grasp of the situation. it was different with those girls. i bet all they did was cry and scream.
+SHERIFF RYAN: don't worry, you'll scream. take off your shirt.
+MIRANDA: aren't i a little old for you?
+SHERIFF RYAN: take it off.
+MIRANDA: that's for show. you know you can't shoot me.
+SHERIFF RYAN: but i can smash your teeth out and make it look like you bashed your head against the wall. now shut up, take off your shirt and pull off your bra.
+
+MIRANDA: rachel, where are you when i need you? 
+SHERIFF RYAN: those other girls -- make no mistake -- they knew what they were getting into.
+SHERIFF RYAN: i'm not saying they knew they were going to die, but truth is, doug and i didn't know it was going to end that way. it was just the natural extension of that moment. so yeah, we them and we killed them. and we knew it was wrong. sure we did.
+
+SHERIFF RYAN: it wasn't some satanic pact, society didn't make us do it. but i believe given the proper circumstances a person is capable of anything -- certainly in my line of work you see it day in, day out. tell you what, keep the shirt. the bra will do. 
+SHERIFF RYAN: chin up, doctor. you wanted to get to the bottom of this and you did. you followed it all the way through. this is how it ends.
+SHERIFF RYAN: doug settled down once you two got married. new start and all that. wanted nothing to do with this runaway i'd found, tracy seaver --
+SHERIFF RYAN: or so he claimed. because the truth, doc -- is people never change. the son of a couldn't resist. i asked him to dump the body and instead he went found some barn to work her out of his system some more. go figure.
+
+SHERIFF RYAN: you can't count on anyone, even friends you've had your whole life. 
+SHERIFF RYAN: the only soul you can ever count on is yourself --
+SHERIFF RYAN: why, doctor. that was unexpected.
+SHERIFF RYAN: you sure about this?
+SHERIFF RYAN: you need me alive for your story to stick. be logical now. you know you can't kill me.
+MIRANDA: logic is overrated.
+
+PETE: anybody in here -- ? 
+TRACY SEAVER: hello -- ?
+
+OFFICER TURLINGTON: sheriff ryan? 
+OFFICER TURLINGTON: sheriff?
+
+FRONT DESK OFFICER: i'm sorry, but nobody is allowed to visit at this hour -- 
+PETE: is the sheriff here or isn't he?
+OFFICER TURLINGTON: help you, gentlemen?
+PETE: we're here to see miranda grey.
+OFFICER TURLINGTON: you know full well you're not allowed to see --
+TEDDY HOWARD: that's straight from judge wilkinson. take us to her cell.
+FRONT DESK OFFICER: better get the sheriff out here.
+OFFICER TURLINGTON: sheriff ryan isn't here. his car is gone too.
+PARSONS: officer, unlock the door to miranda's cell or i'll break it down myself.
+
+CHLOE: thank you for everything, dr. graham. i'll never forget all you've done for me. 
+PETE: it's been my pleasure, miss mcgrath. good luck out there.
+CHLOE: well, i guess this is it. i hope not to see you again unless it's for coffee or something.
+PETE: hey, you never know. it's a small world, unless you have to clean it.
+CHLOE: you don't have to tell me if you don't want to, but -- have you ever heard anything from -- ?
+
+MIRANDA: dear pete. hope this finds you on both feet, preferably having been promoted to director after phil's retirement. not that you had much competition, but a big hug to you anyway... i was as surprised as anyone to read about sheriff ryan's suicide and the startling discovery that it was he who murdered my late husband. i wish i could personally thank certain people for their convincing testimonies in the case. 
+NEWSPAPER HEADLINES: fly at us under her v.o.:
+MIRANDA: as for myself, i have a new name now and a job working with teenage girls at a runaway shelter, trying to keep an open mind at the horrors they tell me...
 

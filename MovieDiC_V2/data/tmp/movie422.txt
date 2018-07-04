@@ -1,1135 +1,1135 @@
-speaker1: mcmurphy! this is doctor shankle, from the infirmary. can you hear me? 
-speaker2: can you hear me, mcmurphy?
-speaker2: mcmurphy! i have the warden's promise. if you come down, nobody will hurt you! you'll be in my custody! i promise!
-
-speaker1: where you goin', chief? 
-speaker2: you goin' t'see the big white fathuh?
-speaker3: he goin' t'see the big white muthuh...
-speaker3: haw, look at 'im, big 'nough to eat apples off my head an' he mine me like a baby...
-speaker4: mornin', miss ratched...
-speaker5: good morning, boys.
-
-speaker1: good morning, miss ratched. it's a beautiful day, isn't it? 
-speaker2: mean old monday, miss pilbow, mean old monday... good morning, boys. rise and shine.
-
-speaker1: good morning, mister sefelt... good morning, mister fredrickson. good morning, billy, i spoke to your mother last night and she sends her love... good morning, mister harding... good morning, mister cheswick. mister scanlon... 
-speaker1: oh, mister bromden... mister washington!
-speaker2: yes, miss ratched?
-speaker1: mister washington, why don't we get a good head start on the day by shaving mister bromden and see if we can't avoid a disturbance.
-speaker2: yes, miss ratched...
-speaker2: warren!
-speaker2: get your black in here!
-speaker3: tha's it... be right back!
-
-speaker1: eighty-two, miss pilbow speaking... yes... ... new admission, miss ratched... 
-speaker1: mister washington! mister warren!
-
-speaker1: okay, let's go. 
-speaker1: let's move it...
-
-speaker1: okay, this is it! 
-speaker1: you're crazy, mcmurphy.
-speaker2: yeah, ain't that the truth.
-speaker3: he's all yours, miss.
-speaker4: thank you, officer...
-speaker2: so long, fellas...
-speaker2: yes, sir, it's a mighty nice fall day...
-speaker4: this way, mister mcmurphy.
-speaker2: yes, ma'am...
-
-speaker1: i tell ya, these goons showered me at the courthouse this morning, last night at the jail, and i swear they'd have swabbed my ears out on the way over if they could've found the facilities... 
-speaker1: hey, how ya doin', cutie?
-speaker2: okay. how you doing?
-speaker1: just great! see ya around!
-speaker1: yes, sir, i sure am gonna enjoy my stay here.
-speaker3: i'm sure you will.
-speaker1: ya know, i ain't never been in an institution of psychology before.
-speaker3: oh...
-speaker1: yeah, i'm here on a ninety-day observation period. short-timer, like they say...
-speaker3: of course. mister mcmurphy.
-speaker1: after you, ma'am.
-speaker3: thank you.
-speaker1: man, there sure is an awful lot of poontang around here.
-speaker4: hold it!
-speaker4: good morning, boys.
-speaker5: mornin', doctor spivey.
-speaker4: great day for fishing.
-speaker5: yes, sir!
-
-speaker1: oh, what's that? 
-speaker2: why, i'll betcha there must be a million albacore and tuna running of the coast right this minute.
-speaker1: oh, do you do much fishing?
-speaker2: fish! hell, doc, i'd like to have a nickel for every fish i landed between point conception and the alaska coast...
-speaker1: is that so?
-speaker2: yup! worked right outta depoe bay for just about every season since i was able to haul my own weight.
-speaker1: my, my... ah, who are you?
-speaker2: mcmurphy, doc. r.p. mcmurphy.
-speaker3: mister mcmurphy is a new admission.
-speaker1: ah, yes. well, we must talk soon, mister mcmurphy.
-speaker2: you bet, doc.
-speaker1: good morning, jim. how are you feeling?
-speaker4: doc, my gungs hurt me.
-speaker3: this way, mister mcmurphy.
-speaker1: have you been taking your dilantin, jim?
-speaker4: uh-huh...
-speaker1: well, we'll send you over to the dentist and see what he can do.
-speaker4: okay, doc! mcmurphy and nurse pilbow reach the day room.
-speaker5: make yourself at home, mister mcmurphy...
-speaker2: thank you, ma'am,
-
-speaker1: another notice reads: 
-speaker2: hi.
-speaker3: hi.
-
-speaker1: how ya doin', buddy? 
-speaker2: poorly, thank you.
-speaker1: oh, yeah? what's ailing ya?
-speaker2: i got the fever.
-speaker1: well, that's too bad...
-speaker1: yeah, buddy?
-speaker3: are you a doctor?
-speaker1: no, 'fraid not... taber walks away.
-speaker1: yeah, buddy?
-speaker4: can you borrow me a dime?
-speaker1: sorry, buddy, i'm clean outta change...
-speaker5: got a cigarette?
-speaker1: sure...
-speaker4: me too! me too!
-speaker1: hey, how's it look up there, big boy?
-speaker5: he can't hear you. he's just a deaf and indian!
-speaker1: that right?
-speaker6: martini, it's your turn!
-speaker6: martini!
-speaker1: your buddy is callin' ya.
-speaker1: what's troubling ya, buddy?
-speaker3: i want you to write me a letter to my brother for a hundred dollars to bury me.
-speaker1: you look pretty healthy to me.
-speaker3: i'm the next one.
-speaker1: how do ya know that?
-speaker3: because i quit breathing.
-speaker1: you're breathin' right now. taber walks away. mcmurphy watches him go.
-speaker1: what's that, pop?
-speaker1: can't hear ya, old-timer.
-speaker7: ain't this a pisser?
-speaker1: hell, compared to where i just come from, this is a country club.
-speaker1: whatcha boys playin'?
-speaker8: h-h-hearts.
-speaker1: shoot! no wonder you don't care nothin' 'bout showin' your hand.
-speaker1: what's your name, buddy?
-speaker8: b-b-billy.
-speaker1: well, put 'er there, billy boy, my name's mcmurphy.
-speaker1: what i wanna know is who's the top loony around here?
-speaker8: y-y-you m-mean th-the pr-president of the p-p-patients c-council?
-speaker1: yeah, that'll do for openers!
-speaker8: h-h-harding, the m-m-man w-wants to t-talk to you, y-you're the pr-pr pr...
-speaker6: does he have an appointment?
-speaker9: yeah, do you have an appointment?
-speaker1: what for?
-speaker9: what for?
-speaker6: i'm a busy man!
-speaker9: he's a busy man!
-speaker1: i can wait...
-speaker6: what are you doing?
-speaker1: i'm seeing what a busy man does.
-speaker6: your turn, martini!
-speaker6: martini, throw a card!
-speaker6: no, throw a club!
-speaker9: yeah, throw a club!
-speaker6: don't you have any clubs?
-speaker4: no!
-speaker6: let me see your hand!
-speaker4: no!
-speaker1: yessir, that's why i came to this establishment for, to bring you birds fun and entertainment 'round the gamin' table...
-speaker1: easy now, don't smudge 'em, we got lots of games ahead of us...
-speaker10: mister mcmurphy!
-speaker1: yes, ma'am...
-speaker10: will you come with me, please.
-speaker1: hold the fort down, will ya, fellas!
-speaker8: sure, mack!
-speaker10: my name is miss ratched. i'm the head nurse here. you've already met miss pilbow and aides washington and warren.
-speaker1: yes, ma'am.
-speaker10: mister miller, this is mister mcmurphy, who'll be staying with us. greetings are exchanged as they pass through.
-speaker10: we do appreciate the way you have taken it upon yourself to meet the other patients.
-speaker1: thank you, ma'am...
-speaker10: this is your bed. you may leave your things in that cabinet.
-speaker1: yes, ma'am...
-speaker10: please use your time to familiarize yourself with your new home and if there is anything you need to know, don't hesitate to ask us.
-speaker1: now that you mention it, i sure would like to call my aunt up in portland and tell 'er where i am so she can come visit me.
-speaker10: all in good time, mister mcmurphy.
-speaker1: yes, ma'am.
-speaker10: good. now if you'll just go along with mister washington, he'll see that you're properly oriented.
-speaker10: is there anything else?
-speaker1: just that i'm glad to be here, miss ratched. i really am.
-speaker10: good. i'm sure we'll be friends.
-speaker1: yeah, you ain't half so bad looking for a head nurse.
-speaker10: yes. now go along, mister mcmurphy.
-speaker1: yes, ma'am. lead the way, sam. they cross out of the men's dorm.
-speaker11: what other work have you done?
-
-speaker1: hell, doc, i've been everything from a hoopla man with a two-bit carny show to a top mechanic and bull goose catskinner for every gypo loggin' operation in the northwest till the army taught me what my natural bent was. 
-speaker2: oh, what was that?
-speaker1: poker!
-speaker2: i see.
-speaker1: yeah, but you know how society persecutes a dedicated man.
-speaker2: in what way?
-speaker1: they say i'm a habitual hassler. like i fight some. sheeut. they didn't mind so much when i was a logger and got into a hassle. that's a hardworkin' feller blowing off steam, they say. but if you're a gambler, all you have to do is spit slantwise and you're a criminal.
-speaker2: i see...
-speaker1: to tell the truth, ever since i found my natural callin' i done time in so many small-time jails i could write a brochure...
-speaker2: yes... ah, do you know why you're here?
-speaker1: well, ya know, doc... doesn't it say so there?
-speaker2: well, according to the warden at pendleton, you were a disturbing influence on others. 'it appears that there is a potential in him for instigating a revolt among the other inmates.' what do you think of that report?
-speaker1: i don't, doc...
-speaker2: arrested on an assault charge five times...
-speaker1: that's correct, doc ...
-speaker2: the doctor at the prison states: 'don't overlook the possibility that this man may be faking psychosis to escape the drudgery of the work farm...' what do you say to that?
-speaker1: doc, what can i tell ya?
-speaker2: ah, it seems you have no other psychiatric history, mister murphy?
-speaker1: no, this is my first trip, doc.
-speaker2: well, you're here for a ninety-day observation period, mister mcmurphy. i'd like you to understand you are here on a court order and we are responsible to the state. so, i'd like your cooperation!
-speaker1: you bet, doc!
-speaker2: good. good.
-
-speaker1: i'm tired. whew. o lord. oh, i'm awful tired... 
-speaker2: somebody please see to mister bancini, so we can start the meeting.
-speaker3: t-t-t-take it e-e-easy, p-p-p pete...
-speaker1: awful tired...
-speaker2: at the close of friday's meeting, we were discussing mister harding's problem, concerning his wife... mister harding stated that his wife made him uneasy because she drew stares from men on the street. is that correct, mister harding?
-speaker4: yes, that's perfectly correct.
-speaker2: mister mcmurphy, this ward is a democratic community run by the patients and their votes, so you should feel at ease in your new surroundings to the extent you can freely discuss emotional problems in front of the patients and staff. however, the cardinal rule, and i must emphasize this: everyone keeps their seat during the meeting!
-speaker5: yeah, well, it just pains me somethin' awful to see a full growed man sloshing around in his own water...
-speaker2: yes... we were discussing mister harding's problem with his wife. now, who will start? billy.
-speaker3: m-m-m-ma'am?
-speaker2: would you like to start?
-speaker3: n-n-n-n-n-no, ma'am.
-speaker2: mister sefelt?
-speaker2: mister fredrickson?
-speaker2: mister taber?
-speaker2: mister martini?
-speaker6: no!
-speaker2: mister scanlon?
-speaker2: mister cheswick?
-speaker2: am i to take it that there isn't a man among you who has an opinion concerning this matter? mister harding, you've stated on more than one occasion that you suspected your wife of seeing other men.
-speaker4: yes, miss ratched, this is correct.
-speaker2: but you have no proof.
-speaker4: no, miss ratched...
-speaker2: and yet you suspect her.
-speaker4: yes, that is correct.
-speaker2: why?
-speaker4: i can only speculate as to the reasons why.
-speaker2: have you ever speculated, mister harding, that you are impatient with your wife because she does not meet your mental requirements?
-speaker4: miss ratched. given all the conditions of that sublime relationship, coupled with the subsequent annihilation of all that i held to be sacred, mentally, physically and emotionally, the only thing that i can speculate on, at this late date, is how i will justify the very existence of my life, with or without my dear wife.
-speaker7: what's he talkin' about?
-speaker8: yeah, harding, why don't you knockoff the and get to the point.
-speaker4: the point is, i will carry on until i fully understand what the function of that relationship is regardless of form or content.
-speaker2: yes, billy?
-speaker3: i-i-i-i-i d-d-don't s-s-see how anyone could lu-lu-lu-love a man who t-t-t-talks the way he does.
-speaker8: yeah, harding, you're so i can't believe it.
-speaker4: that's a matter of opinion.
-speaker7: yeah, harding, where do you breathe anyway?
-speaker9: through the ass.
-speaker4: is that your sense of humor or are you trying to say something?
-speaker9: now what would i be trying to say?
-speaker4: i don't know. i don't know, but it makes me feel very peculiar when you throw in something like that.
-speaker9: peculiar?
-speaker7: why?
-speaker8: yeah, why?
-speaker10: yeah, tell us why.
-speaker4: i hesitate to go on.
-speaker2: no secrets, mister harding. let's get it all out in the open...
-speaker4: i mean, the other day you made an allusion to my wife and the possible sexual problems we might be having. i know that to be the case, but the way in which you broached it, if that's your idea of teaching me something...
-speaker4: ... or making me aware of a condition in my life, then i say, categorically speaking, the with you, taber! i don't have to justify the condition of my life to you or any of you. no matter what i will carry on until i fully understand what that function is regardless of the form or content. regardless of the fact we must try to understand the function of our capacity to obtain, to personify the condition, the condition of our existence, our existence...
-speaker8: you know what, harding? i think you're some kind of morbid or something. you've been talking about your wife evere since i can remember. you know, she's on your mind and blah, blah, blah and on and on and when are you going to wise up and turn her loose!
-speaker9: yeah, wise up, harding.
-speaker7: yeah, turn her loose!
-speaker11: yeah, who do you think you are anyway?... he thinks he's almighty... he's a snob... he's a schmuck... dumbbell... creep... cretin... idiot... get rid of him... ship him upstairs...
-speaker12: ffffffuck da wife...
-speaker1: tired... awful tired...
-speaker11: zap him... give 'im lobotomy... cut his nuts off... he doesn't have any... fag... pervert.
-speaker1: i'm tired!
-speaker2: somebody see to mister bancini.
-speaker1: tired. tired. oh i'm tired...
-speaker13: you a good boy, mistah bancini...
-speaker1: you see... it's a lotta baloney...
-speaker14: yes, yes, mister bancini, now if you'll just be calm...
-speaker1: that's all it is, just a lotta baloney. ya see, i can't help it, can't...
-speaker14: yes, i know, i know...
-speaker1: ... don't ya see. i was born dead. not you. you wasn't born dead. ahhh, it's been so hard... tired... i'm tired... aw-ful tired... mcmurphy looks around at the others.
-
-speaker1: catch it! catch it! 
-speaker2: martini, there ain't nobody there, ya goon! go get the ball!
-speaker1: no!
-speaker1: i get it! i get it!
-speaker3: well, say, buddy, is that the usual pro-cedure for those group ther'py shindigs? bunch of chickens at a peckin' party?
-speaker4: a pecking party?
-speaker3: that's right, buddy. and you want to know who pecks the first peck?
-speaker5: who? who?
-speaker3: ah, come off it! it's that big nurse, that's who...
-speaker4: it's as simple as that. you've been on our ward six hours and have already simplified the work of freud, jung and maxwell jones in one grand analogy: it's a pecking party.
-speaker3: i'm not talking about fred yoong or maxwell jones, buddy, what i'm talkin' about is that crummy meeting and what that nurse did to you!
-speaker4: did to me?
-speaker3: did to you and all the rest of you guys.
-speaker6: y-y-yes! yes! y-y-y-you s-s-saw wh wh-what she c-c-can do to us!
-speaker3: what did i see 'cept a grown man gettin' whipped so bad he can't laugh anymore.
-speaker7: it's the questions she asks.
-speaker3: tell 'er to go straight to hell!
-speaker4: miss ratched is a competent psychiatric nurse, not some, some kind of monster pecking out our eyes!
-speaker3: she ain't peckin' at your eyes, buddy.
-speaker3: she's peckin' at your balls, buddy, at your ever-lovin' balls.
-speaker8: that kind of behavior will get you a p.a. rating, my friend.
-speaker3: p.a. what the is that?
-speaker8: potential assaultive.
-speaker7: which gets you shipped up to disturbed for a nice little zap job.
-speaker3: huh?
-speaker4: electro-shock therapy, my friend. five cents' worth of electricity and you are out of everybody's hair.
-speaker3: tell 'er to go to anyway!
-speaker4: and if you persist in your ways, they can always ship you over to medical surgery.
-speaker3: what for?
-speaker4: lobotomy!
-speaker3: lobotomy?
-speaker4: that!
-
-speaker1: is that your sense of humor or are you tryin' to say somethin'? 
-speaker2: now, what would i be trying to say?
-speaker3: gimme the ball!
-speaker4: no. me! me!
-speaker5: pass the ball, mcmurphy.
-speaker1: pass it to me, martini.
-speaker1: c'mon, i'll give it back!
-speaker1: atta boy, martini.
-speaker1: back and forth, that's it. shoot, man, we'll be takin' on the new york knicks before we're through...
-speaker1: hey-ya, hey-ya, come on, come on, i'm waitin' on you suckers, you hit or you sit...
-
-speaker1: hit me! 
-speaker2: hit, you say? well well well and with a king up, the boy wants a hit. whadaya know. so comin' at you and too bad, a little lady for the lad and he's over the wall and down the road, up the hill and dropped his load.
-speaker1: boogered!
-speaker2: 'kay, place your bets.
-speaker3: what's this?
-speaker2: that's a dime, martini.
-speaker3: bet a nickel!
-speaker2: whadaya bet, cheswick?
-speaker4: she won't give me any more cigarettes!
-speaker2: that okay. i'll take your marker.
-speaker4: lend me twenty.
-speaker2: 'kay, all bets are down, let's wheel 'em an' deal 'em.
-speaker2: big king... little deuce... another king... a lovely lady... big ten... and a trey... hey, hey, whadaya say? ya hit or sit, martini?
-speaker3: hit me.
-speaker2: that's twenty up, martini. hey, taber, who's pitching the opening game?
-speaker3: hit me!
-speaker2: wait a minute, martini, i can't hear a thing. what?
-speaker5: koufax against ford!
-speaker6: medication time! medication time!
-speaker3: hit me!
-
-speaker1: pardon me miss, but would you mind turning... 
-speaker2: stay back! patients aren't allowed to enter the... oh, stay back!
-speaker1: all i'm askin' is...
-speaker2: oh, stay back, i'm a catholic!
-speaker3: mister mcmurphy. patients aren't allowed in here.
-speaker1: sorry, ma'am.
-
-speaker1: pardon me, ma'am, can i ask you somethin'? 
-speaker2: yes, mister mcmurphy?
-speaker1: how 'bout turning off that music for a while so a man can hear himself think?
-speaker2: that music is for everyone, mister mcmurphy.
-speaker1: well, say, how 'bout easin' it down a bit so a man don't have to shout!
-speaker2: mister mcmurphy, there are old men here who couldn't hear the music at all if it were lower. that music is all they have, and i wish you wouldn't lean against the glass there, your hands are staining the window.
-speaker1: sorry, ma'am... sorry 'bout that...
-speaker1: sorry to have bothered you.
-speaker2: not at all, mister mcmurphy...
-speaker3: your medicine, mister mcmurphy.
-speaker1: what's the horse pill for, honey?
-speaker3: it's just medication, mister mcmurphy, good for you. now down it goes...
-speaker1: look, miss, i don't like swallowing something without knowing what it is!
-speaker3: don't get upset, mister mcmurphy...
-speaker1: i'm not upset. all i wanna know, for the lovva jesus...
-speaker2: that's all right, miss pilbow, if mister mcmurphy does not wish to take his medication orally, he may...
-speaker1: no, that's okay, ma'am. down it goes.
-speaker4: why didn't you tell her to go to hell, lover boy?
-speaker5: yeah, whattsa matter, mack, she too much for ya?
-speaker1: you boys seem to think you've got a champ in there, huh?
-speaker4: i don't see you scoring any points, buddy. and you're just the man for the job, right?
-speaker1: hell, i couldn't get it up over old hatchet-face if ya paid me!
-speaker4: she's not all that homely, mister mcmurphy. in fact, she must have been a rather beautiful young lady. the men look at big nurse.
-speaker6: big nurse is busy at her work.
-
-speaker1: yeah, an' i'm tellin' ya, she's just an icy-hearted over-the-hump gal who never got enough of the old wham-bam to straighten 'er out... 
-speaker2: me. hit me!
-
-speaker1: le's get back to bed, mistah bromden... 
-speaker2: chief? i wanna ask ya somethin'. oh, does the spearmint lose its flavor on the bedpost overnight? when you chew it in the morning, will it be too hard to bite? this question's got me goin', won't somebody set me right; does the spearmint lose its flavor on the bedpost overnight? mcmurphy holds the last note, reaches over and rustles through his nightstand.
-speaker2: here ya go, chief...
-
-speaker1: time to got up! come on now, it's a beautiful day! let's not straggle! everybody up, up, up! 
-speaker2: le's go, chief. le's go get ourselves all nice and clean... you too, mistah mack-murphy! washington goes off with bromden.
-speaker3: what the... who the stole my cigarettes!
-speaker1: good morning, mister sefelt, are your teeth any better?... good morning, mister fredrickson... good morning, mister harding; my, my, you've been biting your fingernails again...
-speaker1: mister mcmurphy, patients are not permitted to run around in towels.
-speaker3: i wanna report a robbery!
-speaker1: on this ward?
-speaker3: yeah, some creep stole my cigarettes!
-speaker1: oh, i had them removed.
-speaker3: what for?
-speaker1: patients are rationed to one pack of cigarettes a day.
-speaker1: mister washington!
-speaker2: yes, miss ratched?
-speaker1: please see to mister bromden.
-speaker2: yes, miss ratched...
-speaker1: now you boys hurry along and wash up for breakfast... you too, mister mcmurphy.
-speaker3: well, say. how 'bout springing a pack of cigarettes loose?
-speaker1: after breakfast, mister mcmurphy, after breakfast.
-speaker3: you sure run a tight-assed ship 'round here, don't ya!
-speaker1: yes. now run along like a good boy and see that you wash up properly.
-
-speaker1: 'kay, let's go brush our teeth, fellas... 
-speaker1: oh, lulu had a baby, his name was sunny jim, she put 'im in a pot, to teach 'im how to swim. oh, he swam to the bottom, he swam to the top, lulu got excited, an' pulled 'im by his... cock-tail ginger-ale, five cents a glass, an' if ya don't like it ya can shove it up your... ask me no more questions, i'll tell ya no more lies.
-
-speaker1: what's wrong with you guys? 
-speaker1: why, if i'd have known how soft this place was gonna be, i'd have arranged for my transfer sooner... look at this here, real orange juice! hooee, that's good. why, you couldn't pay me to leave this place! all this place lacks is a couple of sweet gals to liven things up...
-speaker1: stand aside, sam, nature's callin'.
-speaker2: nobody leaves here till seven thirty.
-
-speaker1: don't know if i can hold it that long, sam. 
-speaker2: tha's your problem.
-speaker1: who do you like in the opening game, sam?
-speaker2: huh?
-speaker1: mcmurphy turns and walks away.
-speaker3: i wanna know about my cigarettes!
-
-speaker1: sit down, mister cheswick. 
-speaker2: no, i ain't no kid to have my cigarettes keep from me like cookies! ain't that right, mack! mack???
-speaker1: sit down, mister cheswick!
-speaker1: you should have thought about that before you gambled all your cigarettes away. is that clear?
-speaker1: mister cheswick, is that clear!
-speaker3: yeah...
-speaker1: good... now, as i recall, we were making quite a bit of headway, last time, with mister harding's problem. so, does anyone care to begin?
-speaker1: yes, mister mcmurphy.
-speaker4: right... i've been givin' some serious consideration to what you told me about the democratic something of this therapeutic community of ours, an' i got a few things i wanna get off my chest, before we get back to harding's problem.
-speaker1: certainly, mister mcmurphy.
-speaker4: right!
-speaker4: 'kay... item one... i've been thinkin' 'bout the age problem we got on this ward. you know, the young an' old livin' together, an' i was thinkin' what a great thing it would be if the music was turned up louder. louder so the old fellas could hear better... doctor spivey nods with approval. big nurse doesn't.
-speaker4: but then i got to thinkin', the music is so loud already, it makes it difficult for the young fellas to hold a decent conversation...
-speaker4: well, i was turnin' this dilemma over in my head, when i happened to hit on that old tub room out there, an' i said to myself, mcmurphy, i said, that place would make a great second day room. a sort of game room for the young fellas. whadaya think, doc?
-speaker5: it is worth considering... miss ratched?
-speaker1: the point is well taken, doctor, but do we have the necessary personnel to cover a second day room?
-speaker5: well, since it will be largely the chronics who remain here, one aide and one nurse should easily be able to handle any situation that might occur. what do you think, men, is it workable?
-speaker3: right, doc. it's workable.
-speaker5: fine!
-speaker1: good. good. yes, yes, i think we should give it a trial period. so! may we get back to mister harding's problem... yes, mister mcmurphy?
-speaker4: i'm not finished yet.
-speaker1: go on...
-speaker4: 'kay, item two. tomorrow, and listen carefully to me, you ding-a lings. tomorrow is the opening game of the world series an' what i want is to take a vote on switchin' the group meetin' to later on in the day, so we can watch the ballgame.
-speaker1: just a minute, mister mcmurphy!
-speaker4: yeah?
-speaker1: please understand, the schedule has been set up for a delicately balanced reason that would be thrown into turmoil by a switch of routines.
-speaker4: the with the schedule, you can get back to the schedule next week when the series is over. what i want is a vote on it right now!
-speaker3: i second the motion!
-speaker4: atta boy, cheswick!
-speaker1: very well! all those in favor, please raise your hands.
-speaker4: okay, raise your hands.
-speaker4: come on', what is this crap? who wants to watch the world series? martini and scanlon's hands go up. several acutes look at them. scanlon and martini's hands go down.
-speaker1: i count only two, including you, mister mcmurphy. certainly not enough to change ward policy.
-speaker1: yes. now was there anything else you wanted to discuss, mister mcmurphy?
-speaker4: no way.
-speaker3: no way.
-speaker1: then i suggest we turn our attention back to mister harding's problem. would anybody care to begin? she looks around. mcmurphy is slouched in his chair.
-speaker1: yes, mister harding?
-speaker6: yes, thank you, miss ratched. since our last meeting i have been reflecting, quite seriously, on the nature of my problem. naturally, i'm referring to the capacity to obtain the necessary results in order to obtain... no, no. to personify the very existence of that relationship regardless of the function... regardless of the function, we will confront the question of... yes. yes. the question of... existence... relationship... function... confront... yes, confronting us in the moment of deepest crisis... yes, the crisis of our souls. of our souls, which i am trying to fully understand the problem... the problem. not to shut ourselves off, but somehow... somehow to understand fully our capacity... to obtain... to personify... the question... existence depends... depends on the question... to reflect... to reflect...
-speaker6: to reflect...
-
-speaker1: you need four houses on every lot of the same color, martini. now let's go, for christsakes. 
-speaker2: hold it a minute.
-speaker3: let's go, for christsakes...
-speaker1: it's your dirty roll, cheswick.
-speaker1: snake eyes! hoooeee, that puts you on my marvin gardens, which means you owe me three hundred and fifty dollars.
-speaker2: what's thum other things? hold it a minute. what's thum other things all over the board?
-speaker3: how can a man concentrate with you sitting there hallucinating a mile a minute...
-speaker1: you just come on with that three fifty and martini will take care of himself... your dice, scanlon.
-speaker4: gimme those dice. i'll blow this board to pieces. here we go... lebenty leben, count me over eleven, martini...
-speaker4: not that one, you crazy bastard, that's my house...
-speaker1: break it up, ain't i got enough troubles without you guys messin' around... can't depend on nobody.
-speaker5: some of us ha-ha-have b-b-been here a long t-t-time, randle, and will b b-be here long after this wo-wo world series of yours is oh-oh-oh, what's the use anyway...
-speaker1: what's the use! hooee! it'd do you birds some good just to get a little exercise lifting your arms to vote!
-speaker6: a baseball game isn't worth the risk, my friend.
-speaker1: it is to me! an' if i hafta bust way outta this place to see it, i will!
-speaker3: right!
-speaker7: oh, yeah?
-speaker1: yeah!
-speaker8: big man!
-speaker1: yeah, how much you wanna bet?
-speaker8: on what?
-speaker1: that me an' my buddy, cheswick, we'll be downtown tomorrow watchin' the ballgame while you suckers are sittin' around this nursery!
-speaker6: and how do you propose to accomplish that little feat, my friend?
-speaker1: that's between me an' myself. so why don't you boys just shove off. i got some planning to do.
-speaker8: maybe he'll just show miss ratched his big thing an' she'll open the door for him. sefelt and frederickson smile at each other. bromden slides along the wall toward the door.
-speaker1: maybe i'll just use that thick skull of yours as a batterin' ram, sefelt.
-speaker8: why, my head would just squash like an eggplant, mcmurphy.
-speaker1: you think it's funny, huh?
-speaker9: yeah, you don't know how to get outta this place!
-speaker1: put your money where your mouth is, taber.
-speaker9: yeah, yeah, you're a phony, mcmurphy!
-speaker1: you want me to show ya! you want me to show ya how!
-speaker9: yeah, yeah, show me. show me how!
-speaker1: all right!
-speaker1: with this thing! i'm gonna put this thing right through the window, that's how!
-speaker6: you mean you're going to try to pick that thing up and shove it through the window?
-speaker1: you're a-right, i am!
-speaker6: with your own two hands?
-speaker1: you heard me the first time!
-speaker9: i'll bet a buck you don't do it!
-speaker1: you're on!
-speaker5: m-m-mack, y-y-y-you c-c-can't l-l lift that thing!
-speaker1: stand aside, son. any more takers?
-speaker8: i'll bet a dollar.
-speaker7: me, too...
-speaker1: right!
-speaker2: a nickel.
-speaker4: a dime.
-speaker1: okay. who else?
-speaker6: twenty-five dollars.
-speaker1: okay, harding, you're on.
-speaker6: okay,
-speaker1: yeah... okay, stand aside, you guys! you're usin' up my oxygen!
-speaker6: giving up?
-speaker1: just warmin' up.
-speaker1: but i tried. goddammit, i sure as did that much. didn't i?
-
-speaker1: m-m-mack... 
-speaker1: m-m-mack, i-i-i'm sorry!
-speaker2: leave him alone, he's pouting.
-speaker1: y-y-y-you leave him alone!
-speaker3: that's okay, kid...
-speaker1: th-th-then y-y-you're n-n-not m-m mad?
-speaker3: no, kid, it was my own stupidity, that's what me off.
-speaker1: o-o-o-oh...
-speaker3: what we're gonna have to do is pull this ballclub together for our next play. 'kay!
-speaker1: 'k-k-kay, mack!
-
-speaker1: try, billy, try... billy tries, but can't talk. the other acutes are bored, restive, waiting. 
-speaker1: was it your idea to visit her on sunday?
-speaker2: y-y-y-yes...
-speaker1: tell us about it...
-speaker2: i-i-i-i c-c-c-came over s-s-s sunday m-m-m-morning after ch-ch-ch church and br-br-brought her s-s some flowers, and i s-s-said, i said, 'c-c-c-celia, will you muh muh-muh-muh-muh...' till the girl broke out l-l-laughing.
-speaker1: what was it about her that disturbed you so, billy?
-speaker2: i was in luh-love with her.
-speaker1: billy, were you afraid of her, or of her love?
-speaker1: that was the first time you attempted to commit suicide, wasn't it? you must try to talk about it, billy.
-speaker3: christ, the man doesn't want to talk, so get off his back an' let's get on to some new business.
-speaker1: mister mcmurphy, the purpose of this meeting is therapy. group therapy.
-speaker3: yeah, yeah, the with that crap! the world series is goin' on right' now an' that's therapy also!
-speaker1: let me pose a question to the group: do any of you feel that mister mcmurphy is perhaps imposing his personal desires on you too much?
-speaker3: what the does that have to do with it? this is an important event and i want a vote on it!
-speaker4: yeah, let's vote on it!
-speaker1: will one more vote satisfy you?
-speaker3: yeah, it'll satisfy me.
-speaker1: very well. what is it you're proposing, mister mcmurphy?
-speaker3: i'm proposing a re-vote on watchin' the ballgame!
-speaker1: a vote is before the group.
-speaker3: okay, i wanna see the hands. i wanna see which of you birds has any guts.
-speaker1: everyone in favor of changing the schedule raise his hand.
-speaker3: that's it! we made it!
-speaker1: i'm sorry, mister mcmurphy, i count only eight.
-speaker3: so do i!
-speaker1: but there are eighteen patients on the ward, mister mcmurphy.
-speaker3: you mean to tell me you're gonna count those old birds over there?
-speaker1: i'm sorry, mister mcmurphy, but you must have a majority to change ward policy.
-speaker3: well, i'll be a
-speaker2: b-but, m-m-miss r-ratched, y-you n never c-c-counted th-their votes before!
-speaker1: you mean you don't want their votes to count, billy!
-
-speaker1: well, screw that noise! 
-speaker2: sit down, mister mcmurphy!
-speaker2: i want you to turn the television off and return to your place!
-speaker1: hoo-wee! man, all i need me now is a can of beer and a red-hot.
-speaker2: sit down, mister cheswick.
-speaker3: mack...
-
-speaker1: a hit! it's a hit! he's rounding first, heading for second. here comes the throw. he's sliding... and... he's safe! he's safe! hoo-wee! whatta game! whatta game! come on, koufax! strike 'em out! 
-speaker2: mister mcmurphy, you are deliberately violating the rules!...
-speaker1: he's into his wind-up. here comes the pitch. strike on the inside corner!
-speaker2: you men remain seated!
-speaker1: he's into his wind-up. here's the next pitch... and it's a hit! it's a hit!
-speaker3: i saw thum! i saw thum!
-speaker4: me, too! me, too!
-speaker5: yes, i see it! i see it!
-speaker1: ya-hoo, let's'play ball!
-speaker6: ya-hoo! it's a hit! a triple! it's a home run! a double! he's out! whadaya blind? he's safe by a mile!
-
-speaker1: you boys, stop this and go to your assignments! mister mcmurphy, i want you to set an example... 
-speaker2: 'kay, it's two outs, bases loaded as koufax steps up to the mound... checks the runners... goes into his wind-up... here comes the three-two pitch... and it's a fly ball into deep center. mantle is going back. he's going back! back! his back is up against the wall... and... he catches it! he catches it!
-speaker3: you men stop this! mister washington! miller! warren!
-
-speaker1: how are you feeling? 
-speaker2: just fine, doc... in fact, i think i might've put on a couple of pounds since i got here.
-speaker1: good, good, and how are you getting along on the ward?
-speaker2: come on, doc, you know as well as i do what's been comin' down in that loony bin.
-speaker1: yes, well, miss ratched feels that you're a disturbing influence on the other patients.
-speaker2: shoot, doc, the only one i'm disturbing is that old nurse and her fixed ways. that's all.
-speaker1: yes, that may be so, but in making a careful study of your past record, along with your behavior since you arrived here, my feeling is that you are not mentally ill and it is going to be my recommendation that you be returned to pendleton where they are better equipped to handle your case.
-speaker2: come on, doc, you must be kiddin'.
-speaker1: i'm afraid not.
-speaker2: that old nurse sure wants my in a sling, don't she!
-speaker1: no, mister mcmurphy, it's just that we cannot offer you the guidance and assistance that you would receive at pendleton.
-speaker2: guidance and assistance! that's insane! doc, ya gotta help me.
-speaker1: i'm sorry, but i can't keep you here.
-speaker2: when?
-speaker1: we'll let you know.
-
-speaker1: okay, chief. this is your spot! i don't want you to move from this spot! never!... 'kay, now, take the ball! raise your hands, like this... 
-speaker1: that's good! that's a good boy, chief! now jump and put it in!
-speaker2: he can't hear you!
-speaker1: i know, goddammit! you don't have ta tell me that!
-speaker2: so why are you talking to him?
-speaker1: i'm not talkin' to him! i'm talkin' to myself! it helps me think!
-speaker2: it doesn't help him.
-speaker1: well, it doesn't hurt him either! does it, chief! see, it doesn't hurt him. jump! an' put it in!
-speaker2: well, i think you're just confusing him...
-speaker1: ha! did ya see that! hey, cheswick!
-speaker3: yeah, mack?
-speaker1: come here!
-speaker3: yeah, mack?
-speaker1: let me get on your shoulders.
-speaker3: sure, mack...
-speaker1: 'kay, wheel me around to the basket... 'kay, easy, easy. hold it! 'kay, now. hey, chief, come back!
-speaker1: cheswick, go get 'im!
-speaker1: now, wheel me to the basket.
-
-speaker1: wait here, chief. heh, heh, i'll show 'em who's crazy. 
-speaker1: hey, cheswick! wake up!
-speaker2: yeah, mack, what is it?
-speaker1: i'm leaving. goodbye!
-speaker2: where ya goin', mac?
-speaker1: shhh...
-speaker1: hey, billy. billy boy, wake up and say goodbye to your ol' buddy.
-speaker3: w-w-w-what is it, m-m-mac?
-speaker1: so long, kid.
-speaker3: wh-wh-wh-wh...
-speaker1: shhh...
-speaker1: psst! hey, martini, wake up!
-speaker4: yeah, mac?
-speaker1: bye-bye.
-speaker1: scanlon! hey, scanlon, wake up!
-speaker5: yeah, what's up?
-speaker1: shhhh. see ya around the ball park.
-speaker6: what? what?
-speaker1: so long, freddy. don't take any wooden nickles.
-speaker6: what?
-speaker1: shhh...
-speaker1: bye-bye, cat.
-speaker1: up an' at 'em, taber.
-speaker7: what's going on?
-speaker1: shhhh. time to say goodbye.
-speaker1: hey, hard-on. wake up, dumbo. harding opens his eyes and looks at mcmurphy.
-speaker1: ya owe me twenty-five bucks.
-speaker8: what for?
-speaker1: i'm busting outta this place.
-speaker8: that's nice. send me a post card.
-speaker1: so long suckers.
-speaker3: wh-wh-where ya going, m-m-mac?
-speaker2: how ya gettin' out, mac?
-speaker1: shhh... that's for me to know an' you to find out.
-speaker7: you ain't got no way out!
-speaker1: oh, yeah?
-speaker7: yeah!
-speaker1: how much ya wanna bet?
-speaker7: ten bucks.
-speaker1: you're on. let's go! an' keep it quiet.
-
-speaker1: wh-wh-what's d-d-down th-there, m-m mac? 
-speaker2: where's it go?
-speaker3: out. it's the way out. so just keep it in your minds if ya ever wanna make use of it.
-speaker2: i don't believe it...
-speaker4: neither do i...
-speaker5: me too...
-speaker6: i wanna see it...
-speaker7: me too! me too!
-speaker1: y-y-yeah, p-p-prove it, m-m-mac!
-speaker8: yeah, show us, mac!
-speaker3: shhh. wait a minute. you guys are gonna screw up my plans. so just gone on back to bed like nothin' happened.
-speaker6: no! i wanna go!
-speaker7: me too! me too!
-speaker3: shhh. hold it down! i'll take you guys down, but ya gotta come right back up! 'kay?
-speaker9: 'kay, mac!
-speaker3: shhh... remember this is a privilege, so i don't want none of you goons up. kay?
-speaker9: 'kay, mac!
-speaker3: 'kay, let's see... cheswick first ... then billy... martini... scanlon... sefelt... fredrickson... taber an' the chief... 'kay
-speaker9: 'kay!
-speaker3: shhh!
-
-speaker1: where's martini and scanlon? 
-speaker2: they went that way.
-speaker1: charlie, ya can't ever let those goons outta ya sight! understand!
-speaker2: right, mack!
-speaker3: there they are!
-speaker1: hey, martini! psst! scanlon! ya goons, come back here! come on, let's get 'em!
-speaker4: somebody's coming!
-speaker1: shhh! this way!
-speaker5: i-i-i th-th-think we sh-sh-should go back!
-speaker3: yeah, my feet are gettin' cold.
-speaker6: mine, too!
-speaker1: we'll go back just as soon as we find those guys! 'kay?
-speaker7: 'kay, mack!
-speaker1: they must be up there!
-speaker2: yeah!
-speaker5: l-l-let-'s go b-back!
-speaker1: come on, don't out on me now.
-speaker5: i-i d-d-don't know! m-m-miss r ratched g-g-g-g...
-speaker1: miss ratched! mcmurphy crosses out and up the stairs.
-speaker1: wow! look at this!
-speaker1: hey, you guys, come on up here and take a gander at this!
-
-speaker1: there they are! 
-speaker2: hey, what's that?
-speaker3: what? where?
-speaker2: over there!
-speaker4: i don't know...
-speaker5: i-i-it's a b-b-bus!
-speaker2: a bus?
-speaker5: y-y-yes, a b-b-bus!
-speaker2: well, shoot, man! whadaya say we take ourselves a little spin around the place.
-speaker6: we'll get in trouble...
-speaker1: yeah, maybe we ought to go back, mac...
-speaker7: yeah, my feet are cold...
-speaker4: my feet hurt...
-speaker5: i-i-i'm w-w-wet...
-speaker2: go ahead! go back!
-speaker5: h-h-how d-d-do we g-g-get b-back?
-speaker6: yeah, take us back to the dumbwaiter, mac.
-speaker2: i'm not going back in there. i told ya this was a one way trip. now stand aside.
-speaker2: get on assholes!
-
-speaker1: your horses are hungry, that's what she did say, come sit down beside me, an' feed them some hay. my horses ain't hungry, they wontt eat your hay-ay-aeee... 
-speaker2: h-hey, m-mack.
-speaker1: yeah, kid?
-speaker2: w-w-where we g-g-going?
-speaker3: yeah, where we going?
-speaker1: i dunno. where do ya wanna go?
-speaker4: i wanna go home!
-speaker5: yeah, it's cold!
-speaker4: i'm hungry.
-speaker6: yeah, we'll miss breakfast!
-speaker1: breakfast! hell, i know just the place where we can chow down an' thaw out before we shoot back on home. 'kay?
-speaker2: 'k-kay, m-mack!
-speaker1: soo, fare-the-weel, darlin'. i'm gone on my way, my wagons are loaded, my whip's in my hand...
-
-speaker1: come on in an' warm up. you can put some of that gear on to keep warm. an' there's beer an' coke in the cooler an' some food over here... 
-speaker1: come on, don't be shy now, you're among friends.
-speaker1: why don't one of you boys help ol' chief there get warmed up?
-speaker2: when do you think we'll be going back, mack?
-speaker1: come here a minute, cheswick. you, too, sefelt. hey, all you guys, come over here, i wanna show you somethin'.
-speaker3: oh, look at the pretty boat.
-
-speaker1: h-h-help! 
-speaker2: ease up on the star drag, keep the tie up, up and work outta that fella.
-speaker3: my turn.
-speaker4: no.
-speaker2: up, i told you! keep that tip up... up! you had you one big silver there.
-speaker5: oh, my i see something!
-
-speaker1:  
-speaker2: what is it?
-speaker3: we'll never get that on the boat.
-speaker4: m-m-mack! m-m-mack!
-speaker5: what is it, kid?
-speaker4: c-c-come here and l-look at th this!
-speaker5: he's a big flounder. could weigh two, three hundred. you got to lift him in with a winch.
-speaker3: does that mean we have to cut him loose?
-speaker5: like we will! we got the muscle standing right here. all we need is a couple gaffin' hooks and some rope.
-speaker4: i-i-i'll get them.
-speaker2: me, too.
-speaker1: me, too.
-speaker5: steady does it, sefelt!
-speaker6: the massive fish is closer to the surface.
-
-speaker1: here they are, miss ratched. safe and sound! 
-speaker2: good. well, boys, did you enjoy yourselves?
-speaker3: show her the one you caught, jim.
-speaker2: my, my...
-speaker4: yeah, ya should've come along with us, miss ratched, an' gotten a little sun on your cheeks and maybe caught a fish or two.
-speaker2: mr. mcmurphy, you had no right to take these men out with you!
-speaker4: yeah, that's kind of crazy, ain't it!
-speaker2: no, it was irresponsible!
-speaker2: that's quite a catch, jim. whaat are you going to do with it?
-speaker5: gimme a cigarette!
-speaker6: i thought i might donate it to the mess hall.
-speaker4: i don't have any.
-speaker2: that's an excellent idea. now, why don't you boys place your fish on the gurney and we'll see to it that everyone enjoys a fresh fish dinner.
-speaker2: thank you, boys. now if you'll just go along with mister washington to the showers, supper is in half an hour.
-speaker5: gimme a cigarette!
-speaker7: no!
-speaker5: why not?
-speaker7: i'm not running a charity ward...
-speaker5: all gone! all gone! don't hit! don't hit!
-
-speaker1: i'm sure sorry, ma'am. gawd, but i am. that window glass was so clean i didn't even see it... 
-speaker1: you guys want cigarettes! here's the cigarettes!
-speaker2: warren! miller!
-
-speaker1: wait over there... 
-speaker1: come on, joey... this isn't going to hurt you... good for you... make you feel better...
-
-speaker1: thank you. 
-speaker2: say it again.
-speaker1: thank you.
-speaker2: say... bless america!
-speaker1: bless america.
-speaker2: goddammit, you sly
-speaker1: no.
-speaker2: this is too much! chief, i tell you we're gonna bust outta this place an' make it all the way to canada before they know what bit 'em.
-speaker1: ca-na-da...
-speaker2: ya like that, chief, huh?
-speaker1: yeah...
-speaker2: yeah, well, well, well. 'bout time the rest of the world got a gander at big chief bromden cuttin' down the boulevard, stopping just long enough for virgins... oh, man, i tell you, i tell you, you'll have women trippin' you and beating you to the floor...
-speaker1: ca-na-da...
-speaker2: shhh, chief, don't talk. never talk! remember, this is just between you an' me. do ya understand?
-speaker3: mister mcmurphy.
-speaker2: hey, how ya doin'?
-speaker3: fine, thank you. here, please take these.
-speaker2: what are they?
-speaker3: to help you relax... please...
-speaker3: please take off your shoes.
-speaker3: please follow me.
-speaker2: you an' me, chief.
-speaker2: you know, i never got your name.
-speaker3: miss itsu. in here, please.
-speaker2: you comin' in to hold my hand?
-speaker3: no...
-speaker2: yeah... well, see ya around, itsu.
-speaker2: yeah...
-
-speaker1: hi... 
-speaker1: you boys can take a cigarette break now...
-speaker2: that's all right, mister mcmurphy, just climb on the bed and lie down...
-speaker1: whatever you say, doc...
-speaker2: this won't hurt you at all...
-speaker1: uh, uh...
-speaker1: what's that for?
-speaker3: conductant.
-speaker1: surely, goodness and mercy will follow this, eh, honey?
-
-speaker1: it's been brought to my attention that you're giving mister fredrickson your medication, aren't you, mister sefelt? 
-speaker2: it's the dilantin that makes my gums soft!
-speaker1: now, jim, you must be honest with yourself.
-speaker1: yes, mister fredrickson?
-speaker3: i wanna know why the dorm has to be locked in the daytime and on weekends?
-speaker4: yeah, why can't a fellow even have the weekends to himself?
-speaker5: yeah, whadabout our cigarettes?
-speaker1: sit down, mister cheswick, and wait your turn!
-speaker1: if the dorms were left open, you would just return to bed after breakfast...
-speaker3: so what? is it a mortal sin? i mean, normal people get to sleep late on weekends...
-speaker1: with few exceptions, time spent in the company of others is therapeutic, while every minute spent brooding alone only increases separation.
-speaker5: mack!
-speaker6: i got ten thousand watts and hot to trot. first woman takes me on is gonna light up like a pinball machine an' pay off in silver dollars...
-speaker7: h-h-how's it g-g-going, mack?
-speaker6: just fine, billy boy, just fine. full of an' vinegar! they checked my plugs and cleaned my points...
-speaker1: mister mcmurphy.
-speaker6: yes, ma'am?
-speaker1: welcome back.
-speaker6: thank you, ma'am.
-speaker1: i hope everything is settled.
-speaker6: ma'am, i'm as gentle as a puppy dog. why, i haven't licked the tar out of an aide for two weeks! hi ya, doc!
-speaker1: good. why don't you join us?
-speaker6: why, thank you, ma'am... whew. man, i tell you, that place up there is somethin' else! well, ya boys been practicin' up for the big game? i figured as much...
-speaker7: w-w-we h-heard y-you w-were n-never c-c-coming back!
-speaker6: yeah, well, let me tell ya somethin'... while i was up there gettin' in-lightened, i came up with one hellava plan...
-speaker7: wh-wh-what p-plan, m-mack!
-speaker8: what's your plan, mack?
-speaker6: plan?... oh, yeah, the plan... yeah...
-
-speaker1: thank you, boys. 
-speaker2: miss ratched, would you please save a space for my aunt? she's comin' down from portland.
-speaker3: certainly, mister mcmurphy, with pleasure.
-speaker2: thank you, ma'am...
-speaker2: gotta go now, ma'am...
-speaker3: yes. good luck, mister mcmurphy.
-speaker2: thank you, ma'am.
-
-speaker1: hey, sam, bet ya two bucks ya lose. 
-speaker2: man, tha' ain't even worth considerin'.
-speaker1: how 'bout twenty?
-speaker2: now you talkin'.
-speaker1: bet!
-speaker2: bet you ass...
-speaker1: you're a witness, doc!
-speaker3: me? i didn't hear a thing! let's play ball!
-speaker1: pass the ball, harding... don't hang onto it... pass it, goddammit!
-speaker1: harding, here, over here!
-speaker1: ya deaf! i said pass the ball!
-speaker4: what are you talking about??? everybody was covered!!! everybody was covered!!!
-speaker1: i was open! come on, let's play ball!
-speaker2: gimme tha' ball!
-speaker1: what kind of is that???
-speaker2: jus' playin' the game, sucker...
-speaker1: get down there where ya belong, martini. you, too, scanlon. you take it out, harding! harding takes the ball and passes it in to mcmurphy, who turns and dribbles down court exactly like harding did.
-speaker4: pass the ball! pass it! pass it! pass it! i'm open, mcmurphy, pass the ball!
-speaker1: harding, get back here!
-speaker1: candy. candy, over here. hey, doc, time out.
-speaker3: time out!
-speaker5: mack, you you ol' fucker, how've you been?
-speaker1: terrific, baby, terrific! hi ya doin', rose?
-speaker6: okay, mack! whoowe, candy girl, are we in an insane asylum or ain't we?
-speaker1: come on, girls, we're holding up the game!
-speaker1: miss ratched, this is my aunt candy and her friend rose...
-speaker1: miss ratched was kind enough to save you ladies a seat...
-speaker1: talk to ya at half time!
-speaker5: sock it to 'em, kid!
-speaker6: are they all crazies?
-speaker7: no.
-speaker6: oh, just those guys dressed in white?
-speaker7: no, miss, it's the other way around.
-speaker6: well, you could've fooled me.
-speaker1: whadaya doin', there's no one there!
-speaker8: i saw 'em! i saw 'em.
-speaker4: mack, get back here!
-speaker8: gimme the ball!
-speaker1: time out!
-speaker3: time out!
-speaker1: time in! hold it! time out! i said harding out!
-speaker4: i refuse!
-speaker1: i said out!
-speaker4: no!
-speaker1: i'm the coach!
-speaker4: i just started!
-speaker1: you can come back later!
-speaker4: i don't trust you!
-speaker1: scanlon out!
-speaker9: no!
-speaker1: martini out!
-speaker8: no!
-speaker10: i-i-i-i-i'll g-g-g-go, m-m-mack...
-speaker1: good boy, thank you, billy.
-speaker4: mcmurphy, pass the ball!
-speaker1: harding, pass the ball!
-speaker5: atta boy, mack! what's he in for?
-speaker7: who?
-speaker5: mack!
-speaker7: miss, it's a complicated case. it would take too long to explain.
-speaker5: yeah, well, he looks like hell!
-speaker7: billy, it's not polite to stare!
-speaker10: miss!
-speaker10: hi!
-speaker5: hi...
-speaker1: run, chief, run!
-speaker1: run, chief, run!
-speaker3: foul!
-speaker1: ya coon, you're not on the ward now!
-speaker2: take you han's offa me!
-speaker3: break it up, boys! point counts. one free throw!
-speaker11: great shot, chief! ya okay? you're doin' great!
-speaker1: we got your black now, washington, wanna bet another twenty?
-speaker2: no way...
-
-speaker1: what you boys doin' up at this ungodly time o' the night? 
-speaker2: prayin', brother. prayin'.
-speaker1: well, you boys finish it up an' climb back into your beds. 'kay?
-speaker2: 'kay...
-speaker2: there they are, chief!
-speaker2: where are they goin'?
-
-speaker1: i thought i told you boys to go to bed! 
-speaker2: our prayers have been answered, turkle! our prayers have been answered! mcmurphy's pov as we see the girls coming.
-
-speaker1: oh yeah... 
-speaker2: i tell ya, there's an angel of mercy standing out there, turkle.
-speaker1: hallelujah, brother, now get back in bed!
-speaker2: come an' see.
-speaker1: that angel of mercy, he ain't a she, is he?
-speaker2: you's better believe it, brother!
-speaker3: as turkle turns to mcmurphy.
-speaker1: ah believe ya, brother. ah believe ya!
-speaker2: now, wouldn't you pray for twenty bucks, a bottle booze an' a piece of that angel cake?
-speaker1: ah'm on my knees, brother, ah'm on my knees.
-speaker4: hiya, mack.
-speaker2: hiya, girls...
-speaker1: shhh...
-speaker5: whew! made it!
-speaker2: man, you look good 'nough to eat!
-speaker5: yeah, well you look like warmed over...
-speaker6: hey, pssst! whadda 'bout me?
-speaker1: hey, mac! gimme a hand, will ya!
-speaker6: whew! hiya, boys!
-speaker1: shhh... let's move it away from the window...
-speaker2: come here, sugar...
-speaker1: what happened?
-speaker6: what's that?
-speaker1: what?
-speaker6: that!
-speaker1: oh, that. that ain't nothin' to be afraid of, ma'am. just ol chief bromden. that's all...
-speaker6: is he one of the loonies?
-speaker2: he's a patient, rose...
-speaker6: oh, yeah...
-speaker2: yeah...
-speaker6: hi ya, big boy? how's it goin'?
-speaker2: he can't hear you, rose. he's just a big deaf an' indian...
-speaker5: pssst! hey rose! there they are!
-speaker6: what? where?
-speaker5: in there.
-speaker6: wow! they're so quiet.
-speaker1: they're sleeping, miss. they're sleeping. an' we gotta keep it down so we don't disturb their sleep.
-speaker6: are they dangerous when they're awake?
-speaker1: oh, no, miss. not these loonies.
-speaker5: what's that smell?
-speaker1: what smell?
-speaker5: smells weird. smells like pneumonia.
-speaker1: ammonia, miss...
-speaker6: smells like piss. is this real, candy? is this really real? i mean we are in an insane asylum, an' i wanna know how we got ourselves into this scene.
-speaker1: shhh, please, miss. keep it down...
-speaker6: who is he?
-speaker2: he's in charge.
-speaker6: are you a doctor?
-speaker1: not exactly, miss. not exactly.
-speaker6: yeah, well, i'll tell ya somethin'. i'll tell ya somethin'. i had this boyfriend, chuck. ya know him, mac. ya remember, chuck.
-speaker2: sure, i know chuck. i know him.
-speaker6: well, listen to this. he got mad at me one day. boy, did he get mad at me. he took the light bulb, ya know. i thought he was going to cram it right up me, ya know. but he ate it. he ate the whole light bulb. now, tell me! is he crazy? tell me!
-speaker1: well, miss... i would say... i would say, yes. yes, he's crazy.
-speaker6: i thought so.
-speaker1: is he in an asylum?
-speaker6: he's dead.
-speaker1: oh, i see. he was a very sick man.
-speaker6: that's what i told his mother. and she said i was crazy. her son ate the whole light bulb and she said i was crazy.
-speaker1: i don't know anything about that, miss. i would have to examine you first...
-speaker6: you ol' fucker!
-speaker1: well, i'm running a risk by letting you in, miss. you know i'm runnin' a risk of gettin' my black fired. if you understand what i mean...
-speaker2: sure, she understands what you mean. she's not dumb. why do you think rose came to visit us? rose is very interested in hospitals and hospital facilities. aren't you, rose?
-speaker6: what?
-speaker1: i'll be very glad to show you around, miss...
-speaker2: yeah, that's a good idea, turkle. why don't ya take rose on a little tour of our facilities...
-speaker6: wait a minute...
-speaker5: it's okay, rose. you can go with him.
-speaker6: oh yeah! well if ya don't mind, i'll decide on my own date!
-speaker5: rose! what's there to decide?
-speaker6: whaddaya talkin' about? there's at least twenty guys in there. let's wake 'em up and get this party on the road.
-speaker1: now, miss. what do you want with twenty zombies when you got a twenty gun salute looking you right in the face.
-speaker6: oh, yeah...
-speaker1: you better believe it, you sweet little thing. you better believe it...
-speaker6: don't you sweet talk me you ol' spook, you!
-speaker1: oh, i'm all through talkin'. now, let's just you an' me trip on down that hall.
-speaker5: go with him, rose. go with him.
-speaker6: well, okay, but i just want to look at the facilities. that's all.
-speaker1: that's all i'm going to show you. mcmurphy's pov - turkle and rose
-speaker2: 'kay, lets get under way.
-speaker2: down the ol' hatch, chief.
-
-speaker1: who knows what evil lurks in the hearts of men... 
-speaker1: medication time! medication time! rise and shine! rise and shine! time to say goodbye... everybody up, up, up!
-speaker2: up and at 'em, boys.
-speaker3: h-h-hi, candy...
-speaker2: hi, billy.
-
-speaker1: it's the soo-per-visor come to fire my black ass. 
-speaker1: stay in there! stay in there!
-
-speaker1: oh, there you are, mister turkle. 
-speaker2: evenin', ma'am.
-speaker1: is everything all right?
-speaker2: why, sure, ma'am...
-speaker1: the lights were flashing on and off, mister turkle.
-speaker2: jus' cleanin' up, ma'am.
-speaker1: at this hour?
-speaker2: cleanliness is a twenty-four-hour job, ma'am...
-speaker1: what are these men doing up wandering around?
-speaker2: ah guess the natives are restless, ma'am...
-speaker1: you've been drinking on the job again, haven't you, mister turkle!
-speaker2: ah, no, ma'am... well, yes, ma'am... a man get awful lonely at night, if ya know what ah mean, ma'am...
-speaker1: i want those men put back to bed, mister turkle!
-speaker2: yes, ma'am...
-speaker1: and you haven't heard the last of this!
-speaker2: yes, ma'am...
-speaker2: night, night.
-speaker2: be right back, honey...
-
-speaker1: christ, they even got my first grade report card here... 
-speaker2: lemme see...
-speaker2: they're terrible grades, fred...
-
-speaker1: don't scream, honey... 
-speaker1: ellis ain't gonna hurt you... ellis is nice... nice ellis... see the nice lady...
-speaker1: there, see, nice lady touch ellis... rose reaches out and touches ellis.
-
-speaker1: it's time to hit the road, mack... 
-speaker2: don't worry 'bout the road! we'll hit the road! it'll be there when we're ready! ain't that right, fellas?
-speaker2: i jus' want you guys to have a good time... are ya havin' a good time? you... you... good... good... lez have some fun...
-speaker2: whatsa matter with ya... billy turns away and mcmurphy crosses to him.
-speaker2: ain'tcha havin' a good time... whadaya want? ya wanna drink? a cigarette...
-speaker2: whatsamatter, kid, what's botherin' you...?
-speaker3: ah-ah-ah-are y-y-y-you g-g-g-going t-t-t-to muh-muh-muh-marry her?
-speaker2: marry who?
-speaker3: c-c-c-c-candy!
-speaker2: candy? no, billy, she's just a good friend, that's all...
-speaker3: wu-wu-wu i-i-i-i th-th-think sh-sh sh-she's th-th-th-the ma-ma-ma-most bu-bu-bu-beautiful wu-wu-wu-woman in th-th-the whole world!
-speaker2: why don't ya go tell 'er...
-speaker2: go on, son, now's your chance...
-speaker3: c-c-candy, wu-wu-will y-y-you mu-mu marry me!
-speaker1: ah, billy...
-
-speaker1: in ya go... 
-speaker2: m-m-m-mack?
-speaker1: it's okay, kid. everything it going to be okay... i'll come back an' getcha in a while... 'kay...
-
-speaker1: hey, harding, wake me in an hour. 
-speaker2: sure, mack...
-
-speaker1: bibbit? where's bill bibbit, ya goons? 
-speaker1: come on, get over there!
-speaker2: thank you, mister washington! mister mcmurphy, do you know where billy is?
-speaker2: mister harding, have you seen billy?
-speaker2: mister sefelt...
-
-speaker1: m-m-m-miss ratched! 
-speaker1: p-p-p-please du-du-don't t-t-t-tell m-m-my muh-muh-muh-mummy!
-speaker1: p-p-p-please du-du-du-don't t-t tell her, p-p-please...
-speaker2: you should have thought about that before you brought that woman in here!
-speaker1: n-n-n-n-no, no, i du-du-du-didn't, i didn't!
-speaker2: i don't want your mother to believe something like this but what am i to think?
-speaker1: sh-sh-sh-she m-m-made m-m-me do it!
-speaker2: billy, that girl couldn't have pulled you in there forcibly...
-speaker1: sh-sh-she did! everybody did!
-speaker2: who? tell me!
-speaker1: m-m-muh-muh-mcmurphy!
-speaker3: ahhh, billy...
-speaker1: p-p-p-please duh-duh-duh-duh t-t tell, m-m-m-miss r-r-ratched, y-y you don't need to!
-speaker2: get up, billy.
-speaker1: no! no! no!
-speaker1: n-n-n-n-duh-duh-duh-pl-pl-pl-pl-muh muh-muh...
-speaker2: mister washington.
-speaker3: hey, billy, stop cryin'. you don't have to cry... you ain't got nothin' to be ashamed of. she ain't gonna tell you mother... stop crying...
-speaker4: yes, miss ratched!
-speaker2: put him in doctor spivey's office!
-speaker4: yes, miss ratched...
-speaker3: let's go!
-speaker3: let's go, chief...
-
-speaker1: 'kay, let's have the keys an' nobody get hurt! 
-speaker2: come on, come on, let's go!
-
-speaker1: billy, oh, billy boy... 
-speaker2: get away from him! don't you dare touch him!
-
-speaker1: did everything go well, mister sefelt? 
-speaker1: that's very nice. now, doesn't that make you feel better, mister sefelt?
-speaker2: yes, ma'am...
-speaker1: good...
-speaker3: big ace... a lovely lady... another ace... an' a little trey, hey, hey, whadaya say... hit or sit?
-speaker4: hit!
-speaker2: ya know what, fred?
-speaker5: what?
-speaker3: big king, too bad...
-speaker2: just wait till you hear...
-speaker3: hear what?
-speaker2: mcmurphy killed two attendants and escaped...
-speaker3: when?
-speaker2: yesterday...
-speaker3: who told you that?
-speaker2: gary blinker...
-speaker4: gary blinker's fulla
-speaker6: he's not!
-speaker4: he is!
-speaker1: yes, mister harding?
-speaker3: is it true mcmurphy killed two attendants and escaped yesterday?
-speaker1: no. mister harding, that is not true.
-
-speaker1: thank you... 
-speaker2: yes, ma'am...
-speaker3: lobotomy...
-speaker4: yeah...
-speaker5: yeah, that gary blinker is fulla
+MAN: mcmurphy! this is doctor shankle, from the infirmary. can you hear me? 
+SHANKLE: can you hear me, mcmurphy?
+SHANKLE: mcmurphy! i have the warden's promise. if you come down, nobody will hurt you! you'll be in my custody! i promise!
+
+MILLER: where you goin', chief? 
+WARREN: you goin' t'see the big white fathuh?
+WASHINGTON: he goin' t'see the big white muthuh...
+WASHINGTON: haw, look at 'im, big 'nough to eat apples off my head an' he mine me like a baby...
+THREE ATTENDANTS: mornin', miss ratched...
+BIG NURSE: good morning, boys.
+
+MISS PILBOW: good morning, miss ratched. it's a beautiful day, isn't it? 
+BIG NURSE: mean old monday, miss pilbow, mean old monday... good morning, boys. rise and shine.
+
+BIG NURSE: good morning, mister sefelt... good morning, mister fredrickson. good morning, billy, i spoke to your mother last night and she sends her love... good morning, mister harding... good morning, mister cheswick. mister scanlon... 
+BIG NURSE: oh, mister bromden... mister washington!
+WASHINGTON: yes, miss ratched?
+BIG NURSE: mister washington, why don't we get a good head start on the day by shaving mister bromden and see if we can't avoid a disturbance.
+WASHINGTON: yes, miss ratched...
+WASHINGTON: warren!
+WASHINGTON: get your black in here!
+WARREN: tha's it... be right back!
+
+MISS PILBOW: eighty-two, miss pilbow speaking... yes... ... new admission, miss ratched... 
+MISS PILBOW: mister washington! mister warren!
+
+DEPUTY SHERIFF: okay, let's go. 
+DEPUTY SHERIFF: let's move it...
+
+SECOND DEPUTY: okay, this is it! 
+SECOND DEPUTY: you're crazy, mcmurphy.
+MCMURPHY: yeah, ain't that the truth.
+DEPUTY SHERIFF: he's all yours, miss.
+MISS PILBOW: thank you, officer...
+MCMURPHY: so long, fellas...
+MCMURPHY: yes, sir, it's a mighty nice fall day...
+MISS PILBOW: this way, mister mcmurphy.
+MCMURPHY: yes, ma'am...
+
+MCMURPHY: i tell ya, these goons showered me at the courthouse this morning, last night at the jail, and i swear they'd have swabbed my ears out on the way over if they could've found the facilities... 
+MCMURPHY: hey, how ya doin', cutie?
+NURSE ITSU: okay. how you doing?
+MCMURPHY: just great! see ya around!
+MCMURPHY: yes, sir, i sure am gonna enjoy my stay here.
+MISS PILBOW: i'm sure you will.
+MCMURPHY: ya know, i ain't never been in an institution of psychology before.
+MISS PILBOW: oh...
+MCMURPHY: yeah, i'm here on a ninety-day observation period. short-timer, like they say...
+MISS PILBOW: of course. mister mcmurphy.
+MCMURPHY: after you, ma'am.
+MISS PILBOW: thank you.
+MCMURPHY: man, there sure is an awful lot of poontang around here.
+SPIVEY: hold it!
+SPIVEY: good morning, boys.
+WASHINGTON AND WARREN: mornin', doctor spivey.
+SPIVEY: great day for fishing.
+WASHINGTON AND WARREN: yes, sir!
+
+SPIVEY: oh, what's that? 
+MCMURPHY: why, i'll betcha there must be a million albacore and tuna running of the coast right this minute.
+SPIVEY: oh, do you do much fishing?
+MCMURPHY: fish! hell, doc, i'd like to have a nickel for every fish i landed between point conception and the alaska coast...
+SPIVEY: is that so?
+MCMURPHY: yup! worked right outta depoe bay for just about every season since i was able to haul my own weight.
+SPIVEY: my, my... ah, who are you?
+MCMURPHY: mcmurphy, doc. r.p. mcmurphy.
+NURSE PILBOW: mister mcmurphy is a new admission.
+SPIVEY: ah, yes. well, we must talk soon, mister mcmurphy.
+MCMURPHY: you bet, doc.
+SPIVEY: good morning, jim. how are you feeling?
+SEFELT: doc, my gungs hurt me.
+NURSE PILBOW: this way, mister mcmurphy.
+SPIVEY: have you been taking your dilantin, jim?
+SEFELT: uh-huh...
+SPIVEY: well, we'll send you over to the dentist and see what he can do.
+SEFELT: okay, doc! mcmurphy and nurse pilbow reach the day room.
+MISS PILBOW: make yourself at home, mister mcmurphy...
+MCMURPHY: thank you, ma'am,
+
+THE NEXT HOLIDAY IS HALLOWEEN.: another notice reads: 
+MCMURPHY: hi.
+SEFELT: hi.
+
+MCMURPHY: how ya doin', buddy? 
+PATIENT: poorly, thank you.
+MCMURPHY: oh, yeah? what's ailing ya?
+PATIENT: i got the fever.
+MCMURPHY: well, that's too bad...
+MCMURPHY: yeah, buddy?
+TABER: are you a doctor?
+MCMURPHY: no, 'fraid not... taber walks away.
+MCMURPHY: yeah, buddy?
+MARTINI: can you borrow me a dime?
+MCMURPHY: sorry, buddy, i'm clean outta change...
+SCANLON: got a cigarette?
+MCMURPHY: sure...
+MARTINI: me too! me too!
+MCMURPHY: hey, how's it look up there, big boy?
+SCANLON: he can't hear you. he's just a deaf and indian!
+MCMURPHY: that right?
+HARDING: martini, it's your turn!
+HARDING: martini!
+MCMURPHY: your buddy is callin' ya.
+MCMURPHY: what's troubling ya, buddy?
+TABER: i want you to write me a letter to my brother for a hundred dollars to bury me.
+MCMURPHY: you look pretty healthy to me.
+TABER: i'm the next one.
+MCMURPHY: how do ya know that?
+TABER: because i quit breathing.
+MCMURPHY: you're breathin' right now. taber walks away. mcmurphy watches him go.
+MCMURPHY: what's that, pop?
+MCMURPHY: can't hear ya, old-timer.
+OLD VEGETABLE: ain't this a pisser?
+MCMURPHY: hell, compared to where i just come from, this is a country club.
+MCMURPHY: whatcha boys playin'?
+BILLY: h-h-hearts.
+MCMURPHY: shoot! no wonder you don't care nothin' 'bout showin' your hand.
+MCMURPHY: what's your name, buddy?
+BILLY: b-b-billy.
+MCMURPHY: well, put 'er there, billy boy, my name's mcmurphy.
+MCMURPHY: what i wanna know is who's the top loony around here?
+BILLY: y-y-you m-mean th-the pr-president of the p-p-patients c-council?
+MCMURPHY: yeah, that'll do for openers!
+BILLY: h-h-harding, the m-m-man w-wants to t-talk to you, y-you're the pr-pr pr...
+HARDING: does he have an appointment?
+CHESWICK: yeah, do you have an appointment?
+MCMURPHY: what for?
+CHESWICK: what for?
+HARDING: i'm a busy man!
+CHESWICK: he's a busy man!
+MCMURPHY: i can wait...
+HARDING: what are you doing?
+MCMURPHY: i'm seeing what a busy man does.
+HARDING: your turn, martini!
+HARDING: martini, throw a card!
+HARDING: no, throw a club!
+CHESWICK: yeah, throw a club!
+HARDING: don't you have any clubs?
+MARTINI: no!
+HARDING: let me see your hand!
+MARTINI: no!
+MCMURPHY: yessir, that's why i came to this establishment for, to bring you birds fun and entertainment 'round the gamin' table...
+MCMURPHY: easy now, don't smudge 'em, we got lots of games ahead of us...
+BIG NURSE: mister mcmurphy!
+MCMURPHY: yes, ma'am...
+BIG NURSE: will you come with me, please.
+MCMURPHY: hold the fort down, will ya, fellas!
+BILLY: sure, mack!
+BIG NURSE: my name is miss ratched. i'm the head nurse here. you've already met miss pilbow and aides washington and warren.
+MCMURPHY: yes, ma'am.
+BIG NURSE: mister miller, this is mister mcmurphy, who'll be staying with us. greetings are exchanged as they pass through.
+BIG NURSE: we do appreciate the way you have taken it upon yourself to meet the other patients.
+MCMURPHY: thank you, ma'am...
+BIG NURSE: this is your bed. you may leave your things in that cabinet.
+MCMURPHY: yes, ma'am...
+BIG NURSE: please use your time to familiarize yourself with your new home and if there is anything you need to know, don't hesitate to ask us.
+MCMURPHY: now that you mention it, i sure would like to call my aunt up in portland and tell 'er where i am so she can come visit me.
+BIG NURSE: all in good time, mister mcmurphy.
+MCMURPHY: yes, ma'am.
+BIG NURSE: good. now if you'll just go along with mister washington, he'll see that you're properly oriented.
+BIG NURSE: is there anything else?
+MCMURPHY: just that i'm glad to be here, miss ratched. i really am.
+BIG NURSE: good. i'm sure we'll be friends.
+MCMURPHY: yeah, you ain't half so bad looking for a head nurse.
+BIG NURSE: yes. now go along, mister mcmurphy.
+MCMURPHY: yes, ma'am. lead the way, sam. they cross out of the men's dorm.
+SPIVEY: what other work have you done?
+
+MCMURPHY: hell, doc, i've been everything from a hoopla man with a two-bit carny show to a top mechanic and bull goose catskinner for every gypo loggin' operation in the northwest till the army taught me what my natural bent was. 
+SPIVEY: oh, what was that?
+MCMURPHY: poker!
+SPIVEY: i see.
+MCMURPHY: yeah, but you know how society persecutes a dedicated man.
+SPIVEY: in what way?
+MCMURPHY: they say i'm a habitual hassler. like i fight some. sheeut. they didn't mind so much when i was a logger and got into a hassle. that's a hardworkin' feller blowing off steam, they say. but if you're a gambler, all you have to do is spit slantwise and you're a criminal.
+SPIVEY: i see...
+MCMURPHY: to tell the truth, ever since i found my natural callin' i done time in so many small-time jails i could write a brochure...
+SPIVEY: yes... ah, do you know why you're here?
+MCMURPHY: well, ya know, doc... doesn't it say so there?
+SPIVEY: well, according to the warden at pendleton, you were a disturbing influence on others. 'it appears that there is a potential in him for instigating a revolt among the other inmates.' what do you think of that report?
+MCMURPHY: i don't, doc...
+SPIVEY: arrested on an assault charge five times...
+MCMURPHY: that's correct, doc ...
+SPIVEY: the doctor at the prison states: 'don't overlook the possibility that this man may be faking psychosis to escape the drudgery of the work farm...' what do you say to that?
+MCMURPHY: doc, what can i tell ya?
+SPIVEY: ah, it seems you have no other psychiatric history, mister murphy?
+MCMURPHY: no, this is my first trip, doc.
+SPIVEY: well, you're here for a ninety-day observation period, mister mcmurphy. i'd like you to understand you are here on a court order and we are responsible to the state. so, i'd like your cooperation!
+MCMURPHY: you bet, doc!
+SPIVEY: good. good.
+
+BANCINI: i'm tired. whew. o lord. oh, i'm awful tired... 
+BIG NURSE: somebody please see to mister bancini, so we can start the meeting.
+BILLY: t-t-t-take it e-e-easy, p-p-p pete...
+BANCINI: awful tired...
+BIG NURSE: at the close of friday's meeting, we were discussing mister harding's problem, concerning his wife... mister harding stated that his wife made him uneasy because she drew stares from men on the street. is that correct, mister harding?
+HARDING: yes, that's perfectly correct.
+BIG NURSE: mister mcmurphy, this ward is a democratic community run by the patients and their votes, so you should feel at ease in your new surroundings to the extent you can freely discuss emotional problems in front of the patients and staff. however, the cardinal rule, and i must emphasize this: everyone keeps their seat during the meeting!
+MCMURPHY: yeah, well, it just pains me somethin' awful to see a full growed man sloshing around in his own water...
+BIG NURSE: yes... we were discussing mister harding's problem with his wife. now, who will start? billy.
+BILLY: m-m-m-ma'am?
+BIG NURSE: would you like to start?
+BILLY: n-n-n-n-n-no, ma'am.
+BIG NURSE: mister sefelt?
+BIG NURSE: mister fredrickson?
+BIG NURSE: mister taber?
+BIG NURSE: mister martini?
+MARTINI: no!
+BIG NURSE: mister scanlon?
+BIG NURSE: mister cheswick?
+BIG NURSE: am i to take it that there isn't a man among you who has an opinion concerning this matter? mister harding, you've stated on more than one occasion that you suspected your wife of seeing other men.
+HARDING: yes, miss ratched, this is correct.
+BIG NURSE: but you have no proof.
+HARDING: no, miss ratched...
+BIG NURSE: and yet you suspect her.
+HARDING: yes, that is correct.
+BIG NURSE: why?
+HARDING: i can only speculate as to the reasons why.
+BIG NURSE: have you ever speculated, mister harding, that you are impatient with your wife because she does not meet your mental requirements?
+HARDING: miss ratched. given all the conditions of that sublime relationship, coupled with the subsequent annihilation of all that i held to be sacred, mentally, physically and emotionally, the only thing that i can speculate on, at this late date, is how i will justify the very existence of my life, with or without my dear wife.
+SEFELT: what's he talkin' about?
+TABER: yeah, harding, why don't you knockoff the and get to the point.
+HARDING: the point is, i will carry on until i fully understand what the function of that relationship is regardless of form or content.
+BIG NURSE: yes, billy?
+BILLY: i-i-i-i-i d-d-don't s-s-see how anyone could lu-lu-lu-love a man who t-t-t-talks the way he does.
+TABER: yeah, harding, you're so i can't believe it.
+HARDING: that's a matter of opinion.
+SEFELT: yeah, harding, where do you breathe anyway?
+FREDRICKSON: through the ass.
+HARDING: is that your sense of humor or are you trying to say something?
+FREDRICKSON: now what would i be trying to say?
+HARDING: i don't know. i don't know, but it makes me feel very peculiar when you throw in something like that.
+FREDRICKSON: peculiar?
+SEFELT: why?
+TABER: yeah, why?
+SCANLON: yeah, tell us why.
+HARDING: i hesitate to go on.
+BIG NURSE: no secrets, mister harding. let's get it all out in the open...
+HARDING: i mean, the other day you made an allusion to my wife and the possible sexual problems we might be having. i know that to be the case, but the way in which you broached it, if that's your idea of teaching me something...
+HARDING: ... or making me aware of a condition in my life, then i say, categorically speaking, the with you, taber! i don't have to justify the condition of my life to you or any of you. no matter what i will carry on until i fully understand what that function is regardless of the form or content. regardless of the fact we must try to understand the function of our capacity to obtain, to personify the condition, the condition of our existence, our existence...
+TABER: you know what, harding? i think you're some kind of morbid or something. you've been talking about your wife evere since i can remember. you know, she's on your mind and blah, blah, blah and on and on and when are you going to wise up and turn her loose!
+FREDRICKSON: yeah, wise up, harding.
+SEFELT: yeah, turn her loose!
+ACUTES: yeah, who do you think you are anyway?... he thinks he's almighty... he's a snob... he's a schmuck... dumbbell... creep... cretin... idiot... get rid of him... ship him upstairs...
+RUCKLY: ffffffuck da wife...
+BANCINI: tired... awful tired...
+ACUTES: zap him... give 'im lobotomy... cut his nuts off... he doesn't have any... fag... pervert.
+BANCINI: i'm tired!
+BIG NURSE: somebody see to mister bancini.
+BANCINI: tired. tired. oh i'm tired...
+WASHINGTON: you a good boy, mistah bancini...
+BANCINI: you see... it's a lotta baloney...
+NURSE PILBOW: yes, yes, mister bancini, now if you'll just be calm...
+BANCINI: that's all it is, just a lotta baloney. ya see, i can't help it, can't...
+NURSE PILBOW: yes, i know, i know...
+BANCINI: ... don't ya see. i was born dead. not you. you wasn't born dead. ahhh, it's been so hard... tired... i'm tired... aw-ful tired... mcmurphy looks around at the others.
+
+MARTINI: catch it! catch it! 
+WASHINGTON: martini, there ain't nobody there, ya goon! go get the ball!
+MARTINI: no!
+MARTINI: i get it! i get it!
+MCMURPHY: well, say, buddy, is that the usual pro-cedure for those group ther'py shindigs? bunch of chickens at a peckin' party?
+HARDING: a pecking party?
+MCMURPHY: that's right, buddy. and you want to know who pecks the first peck?
+HARDING AND CHESWICK: who? who?
+MCMURPHY: ah, come off it! it's that big nurse, that's who...
+HARDING: it's as simple as that. you've been on our ward six hours and have already simplified the work of freud, jung and maxwell jones in one grand analogy: it's a pecking party.
+MCMURPHY: i'm not talking about fred yoong or maxwell jones, buddy, what i'm talkin' about is that crummy meeting and what that nurse did to you!
+HARDING: did to me?
+MCMURPHY: did to you and all the rest of you guys.
+BILLY: y-y-yes! yes! y-y-y-you s-s-saw wh wh-what she c-c-can do to us!
+MCMURPHY: what did i see 'cept a grown man gettin' whipped so bad he can't laugh anymore.
+FREDRICKSON: it's the questions she asks.
+MCMURPHY: tell 'er to go straight to hell!
+HARDING: miss ratched is a competent psychiatric nurse, not some, some kind of monster pecking out our eyes!
+MCMURPHY: she ain't peckin' at your eyes, buddy.
+MCMURPHY: she's peckin' at your balls, buddy, at your ever-lovin' balls.
+SEFELT: that kind of behavior will get you a p.a. rating, my friend.
+MCMURPHY: p.a. what the is that?
+SEFELT: potential assaultive.
+FREDRICKSON: which gets you shipped up to disturbed for a nice little zap job.
+MCMURPHY: huh?
+HARDING: electro-shock therapy, my friend. five cents' worth of electricity and you are out of everybody's hair.
+MCMURPHY: tell 'er to go to anyway!
+HARDING: and if you persist in your ways, they can always ship you over to medical surgery.
+MCMURPHY: what for?
+HARDING: lobotomy!
+MCMURPHY: lobotomy?
+HARDING: that!
+
+MCMURPHY: is that your sense of humor or are you tryin' to say somethin'? 
+HARDING: now, what would i be trying to say?
+SCANLON: gimme the ball!
+MARTINI: no. me! me!
+WASHINGTON: pass the ball, mcmurphy.
+MCMURPHY: pass it to me, martini.
+MCMURPHY: c'mon, i'll give it back!
+MCMURPHY: atta boy, martini.
+MCMURPHY: back and forth, that's it. shoot, man, we'll be takin' on the new york knicks before we're through...
+MCMURPHY: hey-ya, hey-ya, come on, come on, i'm waitin' on you suckers, you hit or you sit...
+
+SEFELT: hit me! 
+MCMURPHY: hit, you say? well well well and with a king up, the boy wants a hit. whadaya know. so comin' at you and too bad, a little lady for the lad and he's over the wall and down the road, up the hill and dropped his load.
+SEFELT: boogered!
+MCMURPHY: 'kay, place your bets.
+MARTINI: what's this?
+MCMURPHY: that's a dime, martini.
+MARTINI: bet a nickel!
+MCMURPHY: whadaya bet, cheswick?
+CHESWICK: she won't give me any more cigarettes!
+MCMURPHY: that okay. i'll take your marker.
+CHESWICK: lend me twenty.
+MCMURPHY: 'kay, all bets are down, let's wheel 'em an' deal 'em.
+MCMURPHY: big king... little deuce... another king... a lovely lady... big ten... and a trey... hey, hey, whadaya say? ya hit or sit, martini?
+MARTINI: hit me.
+MCMURPHY: that's twenty up, martini. hey, taber, who's pitching the opening game?
+MARTINI: hit me!
+MCMURPHY: wait a minute, martini, i can't hear a thing. what?
+TABER: koufax against ford!
+MISS PILBOW: medication time! medication time!
+MARTINI: hit me!
+
+MCMURPHY: pardon me miss, but would you mind turning... 
+NURSE PILBOW: stay back! patients aren't allowed to enter the... oh, stay back!
+MCMURPHY: all i'm askin' is...
+NURSE PILBOW: oh, stay back, i'm a catholic!
+BIG NURSE: mister mcmurphy. patients aren't allowed in here.
+MCMURPHY: sorry, ma'am.
+
+MCMURPHY: pardon me, ma'am, can i ask you somethin'? 
+BIG NURSE: yes, mister mcmurphy?
+MCMURPHY: how 'bout turning off that music for a while so a man can hear himself think?
+BIG NURSE: that music is for everyone, mister mcmurphy.
+MCMURPHY: well, say, how 'bout easin' it down a bit so a man don't have to shout!
+BIG NURSE: mister mcmurphy, there are old men here who couldn't hear the music at all if it were lower. that music is all they have, and i wish you wouldn't lean against the glass there, your hands are staining the window.
+MCMURPHY: sorry, ma'am... sorry 'bout that...
+MCMURPHY: sorry to have bothered you.
+BIG NURSE: not at all, mister mcmurphy...
+NURSE PILBOW: your medicine, mister mcmurphy.
+MCMURPHY: what's the horse pill for, honey?
+NURSE PILBOW: it's just medication, mister mcmurphy, good for you. now down it goes...
+MCMURPHY: look, miss, i don't like swallowing something without knowing what it is!
+NURSE PILBOW: don't get upset, mister mcmurphy...
+MCMURPHY: i'm not upset. all i wanna know, for the lovva jesus...
+BIG NURSE: that's all right, miss pilbow, if mister mcmurphy does not wish to take his medication orally, he may...
+MCMURPHY: no, that's okay, ma'am. down it goes.
+HARDING: why didn't you tell her to go to hell, lover boy?
+TABER: yeah, whattsa matter, mack, she too much for ya?
+MCMURPHY: you boys seem to think you've got a champ in there, huh?
+HARDING: i don't see you scoring any points, buddy. and you're just the man for the job, right?
+MCMURPHY: hell, i couldn't get it up over old hatchet-face if ya paid me!
+HARDING: she's not all that homely, mister mcmurphy. in fact, she must have been a rather beautiful young lady. the men look at big nurse.
+PATIENTS' POV: big nurse is busy at her work.
+
+MCMURPHY: yeah, an' i'm tellin' ya, she's just an icy-hearted over-the-hump gal who never got enough of the old wham-bam to straighten 'er out... 
+MARTINI: me. hit me!
+
+TURKLE: le's get back to bed, mistah bromden... 
+MCMURPHY: chief? i wanna ask ya somethin'. oh, does the spearmint lose its flavor on the bedpost overnight? when you chew it in the morning, will it be too hard to bite? this question's got me goin', won't somebody set me right; does the spearmint lose its flavor on the bedpost overnight? mcmurphy holds the last note, reaches over and rustles through his nightstand.
+MCMURPHY: here ya go, chief...
+
+BIG NURSE: time to got up! come on now, it's a beautiful day! let's not straggle! everybody up, up, up! 
+WASHINGTON: le's go, chief. le's go get ourselves all nice and clean... you too, mistah mack-murphy! washington goes off with bromden.
+MCMURPHY: what the... who the stole my cigarettes!
+BIG NURSE: good morning, mister sefelt, are your teeth any better?... good morning, mister fredrickson... good morning, mister harding; my, my, you've been biting your fingernails again...
+BIG NURSE: mister mcmurphy, patients are not permitted to run around in towels.
+MCMURPHY: i wanna report a robbery!
+BIG NURSE: on this ward?
+MCMURPHY: yeah, some creep stole my cigarettes!
+BIG NURSE: oh, i had them removed.
+MCMURPHY: what for?
+BIG NURSE: patients are rationed to one pack of cigarettes a day.
+BIG NURSE: mister washington!
+WASHINGTON: yes, miss ratched?
+BIG NURSE: please see to mister bromden.
+WASHINGTON: yes, miss ratched...
+BIG NURSE: now you boys hurry along and wash up for breakfast... you too, mister mcmurphy.
+MCMURPHY: well, say. how 'bout springing a pack of cigarettes loose?
+BIG NURSE: after breakfast, mister mcmurphy, after breakfast.
+MCMURPHY: you sure run a tight-assed ship 'round here, don't ya!
+BIG NURSE: yes. now run along like a good boy and see that you wash up properly.
+
+MCMURPHY: 'kay, let's go brush our teeth, fellas... 
+MCMURPHY: oh, lulu had a baby, his name was sunny jim, she put 'im in a pot, to teach 'im how to swim. oh, he swam to the bottom, he swam to the top, lulu got excited, an' pulled 'im by his... cock-tail ginger-ale, five cents a glass, an' if ya don't like it ya can shove it up your... ask me no more questions, i'll tell ya no more lies.
+
+MCMURPHY: what's wrong with you guys? 
+MCMURPHY: why, if i'd have known how soft this place was gonna be, i'd have arranged for my transfer sooner... look at this here, real orange juice! hooee, that's good. why, you couldn't pay me to leave this place! all this place lacks is a couple of sweet gals to liven things up...
+MCMURPHY: stand aside, sam, nature's callin'.
+WASHINGTON: nobody leaves here till seven thirty.
+
+MCMURPHY: don't know if i can hold it that long, sam. 
+WASHINGTON: tha's your problem.
+MCMURPHY: who do you like in the opening game, sam?
+WASHINGTON: huh?
+MCMURPHY: mcmurphy turns and walks away.
+CHESWICK: i wanna know about my cigarettes!
+
+BIG NURSE: sit down, mister cheswick. 
+CHESWTCK: no, i ain't no kid to have my cigarettes keep from me like cookies! ain't that right, mack! mack???
+BIG NURSE: sit down, mister cheswick!
+BIG NURSE: you should have thought about that before you gambled all your cigarettes away. is that clear?
+BIG NURSE: mister cheswick, is that clear!
+CHESWICK: yeah...
+BIG NURSE: good... now, as i recall, we were making quite a bit of headway, last time, with mister harding's problem. so, does anyone care to begin?
+BIG NURSE: yes, mister mcmurphy.
+MCMURPHY: right... i've been givin' some serious consideration to what you told me about the democratic something of this therapeutic community of ours, an' i got a few things i wanna get off my chest, before we get back to harding's problem.
+BIG NURSE: certainly, mister mcmurphy.
+MCMURPHY: right!
+MCMURPHY: 'kay... item one... i've been thinkin' 'bout the age problem we got on this ward. you know, the young an' old livin' together, an' i was thinkin' what a great thing it would be if the music was turned up louder. louder so the old fellas could hear better... doctor spivey nods with approval. big nurse doesn't.
+MCMURPHY: but then i got to thinkin', the music is so loud already, it makes it difficult for the young fellas to hold a decent conversation...
+MCMURPHY: well, i was turnin' this dilemma over in my head, when i happened to hit on that old tub room out there, an' i said to myself, mcmurphy, i said, that place would make a great second day room. a sort of game room for the young fellas. whadaya think, doc?
+SPIVEY: it is worth considering... miss ratched?
+BIG NURSE: the point is well taken, doctor, but do we have the necessary personnel to cover a second day room?
+SPIVEY: well, since it will be largely the chronics who remain here, one aide and one nurse should easily be able to handle any situation that might occur. what do you think, men, is it workable?
+CHESWICK: right, doc. it's workable.
+SPIVEY: fine!
+BIG NURSE: good. good. yes, yes, i think we should give it a trial period. so! may we get back to mister harding's problem... yes, mister mcmurphy?
+MCMURPHY: i'm not finished yet.
+BIG NURSE: go on...
+MCMURPHY: 'kay, item two. tomorrow, and listen carefully to me, you ding-a lings. tomorrow is the opening game of the world series an' what i want is to take a vote on switchin' the group meetin' to later on in the day, so we can watch the ballgame.
+BIG NURSE: just a minute, mister mcmurphy!
+MCMURPHY: yeah?
+BIG NURSE: please understand, the schedule has been set up for a delicately balanced reason that would be thrown into turmoil by a switch of routines.
+MCMURPHY: the with the schedule, you can get back to the schedule next week when the series is over. what i want is a vote on it right now!
+CHESWICK: i second the motion!
+MCMURPHY: atta boy, cheswick!
+BIG NURSE: very well! all those in favor, please raise your hands.
+MCMURPHY: okay, raise your hands.
+MCMURPHY: come on', what is this crap? who wants to watch the world series? martini and scanlon's hands go up. several acutes look at them. scanlon and martini's hands go down.
+BIG NURSE: i count only two, including you, mister mcmurphy. certainly not enough to change ward policy.
+BIG NURSE: yes. now was there anything else you wanted to discuss, mister mcmurphy?
+MCMURPHY: no way.
+CHESWICK: no way.
+BIG NURSE: then i suggest we turn our attention back to mister harding's problem. would anybody care to begin? she looks around. mcmurphy is slouched in his chair.
+BIG NURSE: yes, mister harding?
+HARDING: yes, thank you, miss ratched. since our last meeting i have been reflecting, quite seriously, on the nature of my problem. naturally, i'm referring to the capacity to obtain the necessary results in order to obtain... no, no. to personify the very existence of that relationship regardless of the function... regardless of the function, we will confront the question of... yes. yes. the question of... existence... relationship... function... confront... yes, confronting us in the moment of deepest crisis... yes, the crisis of our souls. of our souls, which i am trying to fully understand the problem... the problem. not to shut ourselves off, but somehow... somehow to understand fully our capacity... to obtain... to personify... the question... existence depends... depends on the question... to reflect... to reflect...
+HARDING: to reflect...
+
+MCMURPHY: you need four houses on every lot of the same color, martini. now let's go, for christsakes. 
+MARTINI: hold it a minute.
+CHESWICK: let's go, for christsakes...
+MCMURPHY: it's your dirty roll, cheswick.
+MCMURPHY: snake eyes! hoooeee, that puts you on my marvin gardens, which means you owe me three hundred and fifty dollars.
+MARTINI: what's thum other things? hold it a minute. what's thum other things all over the board?
+CHESWICK: how can a man concentrate with you sitting there hallucinating a mile a minute...
+MCMURPHY: you just come on with that three fifty and martini will take care of himself... your dice, scanlon.
+SCANLON: gimme those dice. i'll blow this board to pieces. here we go... lebenty leben, count me over eleven, martini...
+SCANLON: not that one, you crazy bastard, that's my house...
+MCMURPHY: break it up, ain't i got enough troubles without you guys messin' around... can't depend on nobody.
+BILLY: some of us ha-ha-have b-b-been here a long t-t-time, randle, and will b b-be here long after this wo-wo world series of yours is oh-oh-oh, what's the use anyway...
+MCMURPHY: what's the use! hooee! it'd do you birds some good just to get a little exercise lifting your arms to vote!
+HARDING: a baseball game isn't worth the risk, my friend.
+MCMURPHY: it is to me! an' if i hafta bust way outta this place to see it, i will!
+CHESWICK: right!
+FREDRICKSON: oh, yeah?
+MCMURPHY: yeah!
+SEFELT: big man!
+MCMURPHY: yeah, how much you wanna bet?
+SEFELT: on what?
+MCMURPHY: that me an' my buddy, cheswick, we'll be downtown tomorrow watchin' the ballgame while you suckers are sittin' around this nursery!
+HARDING: and how do you propose to accomplish that little feat, my friend?
+MCMURPHY: that's between me an' myself. so why don't you boys just shove off. i got some planning to do.
+SEFELT: maybe he'll just show miss ratched his big thing an' she'll open the door for him. sefelt and frederickson smile at each other. bromden slides along the wall toward the door.
+MCMURPHY: maybe i'll just use that thick skull of yours as a batterin' ram, sefelt.
+SEFELT: why, my head would just squash like an eggplant, mcmurphy.
+MCMURPHY: you think it's funny, huh?
+TABER: yeah, you don't know how to get outta this place!
+MCMURPHY: put your money where your mouth is, taber.
+TABER: yeah, yeah, you're a phony, mcmurphy!
+MCMURPHY: you want me to show ya! you want me to show ya how!
+TABER: yeah, yeah, show me. show me how!
+MCMURPHY: all right!
+MCMURPHY: with this thing! i'm gonna put this thing right through the window, that's how!
+HARDING: you mean you're going to try to pick that thing up and shove it through the window?
+MCMURPHY: you're a-right, i am!
+HARDING: with your own two hands?
+MCMURPHY: you heard me the first time!
+TABER: i'll bet a buck you don't do it!
+MCMURPHY: you're on!
+BILLY: m-m-mack, y-y-y-you c-c-can't l-l lift that thing!
+MCMURPHY: stand aside, son. any more takers?
+SEFELT: i'll bet a dollar.
+FREDRICKSON: me, too...
+MCMURPHY: right!
+MARTINI: a nickel.
+SCANLON: a dime.
+MCMURPHY: okay. who else?
+HARDING: twenty-five dollars.
+MCMURPHY: okay, harding, you're on.
+HARDING: okay,
+MCMURPHY: yeah... okay, stand aside, you guys! you're usin' up my oxygen!
+HARDING: giving up?
+MCMURPHY: just warmin' up.
+MCMURPHY: but i tried. goddammit, i sure as did that much. didn't i?
+
+BILLY: m-m-mack... 
+BILLY: m-m-mack, i-i-i'm sorry!
+HARDING: leave him alone, he's pouting.
+BILLY: y-y-y-you leave him alone!
+MCMURPHY: that's okay, kid...
+BILLY: th-th-then y-y-you're n-n-not m-m mad?
+MCMURPHY: no, kid, it was my own stupidity, that's what me off.
+BILLY: o-o-o-oh...
+MCMURPHY: what we're gonna have to do is pull this ballclub together for our next play. 'kay!
+BILLY: 'k-k-kay, mack!
+
+BIG NURSE: try, billy, try... billy tries, but can't talk. the other acutes are bored, restive, waiting. 
+BIG NURSE: was it your idea to visit her on sunday?
+BILLY: y-y-y-yes...
+BIG NURSE: tell us about it...
+BILLY: i-i-i-i c-c-c-came over s-s-s sunday m-m-m-morning after ch-ch-ch church and br-br-brought her s-s some flowers, and i s-s-said, i said, 'c-c-c-celia, will you muh muh-muh-muh-muh...' till the girl broke out l-l-laughing.
+BIG NURSE: what was it about her that disturbed you so, billy?
+BILLY: i was in luh-love with her.
+BIG NURSE: billy, were you afraid of her, or of her love?
+BIG NURSE: that was the first time you attempted to commit suicide, wasn't it? you must try to talk about it, billy.
+MCMURPHY: christ, the man doesn't want to talk, so get off his back an' let's get on to some new business.
+BIG NURSE: mister mcmurphy, the purpose of this meeting is therapy. group therapy.
+MCMURPHY: yeah, yeah, the with that crap! the world series is goin' on right' now an' that's therapy also!
+BIG NURSE: let me pose a question to the group: do any of you feel that mister mcmurphy is perhaps imposing his personal desires on you too much?
+MCMURPHY: what the does that have to do with it? this is an important event and i want a vote on it!
+CHESWICK: yeah, let's vote on it!
+BIG NURSE: will one more vote satisfy you?
+MCMURPHY: yeah, it'll satisfy me.
+BIG NURSE: very well. what is it you're proposing, mister mcmurphy?
+MCMURPHY: i'm proposing a re-vote on watchin' the ballgame!
+BIG NURSE: a vote is before the group.
+MCMURPHY: okay, i wanna see the hands. i wanna see which of you birds has any guts.
+BIG NURSE: everyone in favor of changing the schedule raise his hand.
+MCMURPHY: that's it! we made it!
+BIG NURSE: i'm sorry, mister mcmurphy, i count only eight.
+MCMURPHY: so do i!
+BIG NURSE: but there are eighteen patients on the ward, mister mcmurphy.
+MCMURPHY: you mean to tell me you're gonna count those old birds over there?
+BIG NURSE: i'm sorry, mister mcmurphy, but you must have a majority to change ward policy.
+MCMURPHY: well, i'll be a
+BILLY: b-but, m-m-miss r-ratched, y-you n never c-c-counted th-their votes before!
+BIG NURSE: you mean you don't want their votes to count, billy!
+
+MCMURPHY: well, screw that noise! 
+BIG NURSE: sit down, mister mcmurphy!
+BIG NURSE: i want you to turn the television off and return to your place!
+MCMURPHY: hoo-wee! man, all i need me now is a can of beer and a red-hot.
+BIG NURSE: sit down, mister cheswick.
+CHESWICK: mack...
+
+MCMURPHY: a hit! it's a hit! he's rounding first, heading for second. here comes the throw. he's sliding... and... he's safe! he's safe! hoo-wee! whatta game! whatta game! come on, koufax! strike 'em out! 
+BIG NURSE: mister mcmurphy, you are deliberately violating the rules!...
+MCMURPHY: he's into his wind-up. here comes the pitch. strike on the inside corner!
+BIG NURSE: you men remain seated!
+MCMURPHY: he's into his wind-up. here's the next pitch... and it's a hit! it's a hit!
+MARTINI: i saw thum! i saw thum!
+SCANLON: me, too! me, too!
+SEFELT: yes, i see it! i see it!
+MCMURPHY: ya-hoo, let's'play ball!
+ACUTES: ya-hoo! it's a hit! a triple! it's a home run! a double! he's out! whadaya blind? he's safe by a mile!
+
+BIG NURSE: you boys, stop this and go to your assignments! mister mcmurphy, i want you to set an example... 
+MCMURPHY: 'kay, it's two outs, bases loaded as koufax steps up to the mound... checks the runners... goes into his wind-up... here comes the three-two pitch... and it's a fly ball into deep center. mantle is going back. he's going back! back! his back is up against the wall... and... he catches it! he catches it!
+BIG NURSE'S VOICE: you men stop this! mister washington! miller! warren!
+
+SPIVEY: how are you feeling? 
+MCMURPHY: just fine, doc... in fact, i think i might've put on a couple of pounds since i got here.
+SPIVEY: good, good, and how are you getting along on the ward?
+MCMURPHY: come on, doc, you know as well as i do what's been comin' down in that loony bin.
+SPIVEY: yes, well, miss ratched feels that you're a disturbing influence on the other patients.
+MCMURPHY: shoot, doc, the only one i'm disturbing is that old nurse and her fixed ways. that's all.
+SPIVEY: yes, that may be so, but in making a careful study of your past record, along with your behavior since you arrived here, my feeling is that you are not mentally ill and it is going to be my recommendation that you be returned to pendleton where they are better equipped to handle your case.
+MCMURPHY: come on, doc, you must be kiddin'.
+SPIVEY: i'm afraid not.
+MCMURPHY: that old nurse sure wants my in a sling, don't she!
+SPIVEY: no, mister mcmurphy, it's just that we cannot offer you the guidance and assistance that you would receive at pendleton.
+MCMURPHY: guidance and assistance! that's insane! doc, ya gotta help me.
+SPIVEY: i'm sorry, but i can't keep you here.
+MCMURPHY: when?
+SPIVEY: we'll let you know.
+
+MCMURPHY: okay, chief. this is your spot! i don't want you to move from this spot! never!... 'kay, now, take the ball! raise your hands, like this... 
+MCMURPHY: that's good! that's a good boy, chief! now jump and put it in!
+HARDING: he can't hear you!
+MCMURPHY: i know, goddammit! you don't have ta tell me that!
+HARDING: so why are you talking to him?
+MCMURPHY: i'm not talkin' to him! i'm talkin' to myself! it helps me think!
+HARDING: it doesn't help him.
+MCMURPHY: well, it doesn't hurt him either! does it, chief! see, it doesn't hurt him. jump! an' put it in!
+HARDING: well, i think you're just confusing him...
+MCMURPHY: ha! did ya see that! hey, cheswick!
+CHESWICK: yeah, mack?
+MCMURPHY: come here!
+CHESWICK: yeah, mack?
+MCMURPHY: let me get on your shoulders.
+CHESWICK: sure, mack...
+MCMURPHY: 'kay, wheel me around to the basket... 'kay, easy, easy. hold it! 'kay, now. hey, chief, come back!
+MCMURPHY: cheswick, go get 'im!
+MCMURPHY: now, wheel me to the basket.
+
+MCMURPHY: wait here, chief. heh, heh, i'll show 'em who's crazy. 
+MCMURPHY: hey, cheswick! wake up!
+CHESWICK: yeah, mack, what is it?
+MCMURPHY: i'm leaving. goodbye!
+CHESWICK: where ya goin', mac?
+MCMURPHY: shhh...
+MCMURPHY: hey, billy. billy boy, wake up and say goodbye to your ol' buddy.
+BILLY: w-w-w-what is it, m-m-mac?
+MCMURPHY: so long, kid.
+BILLY: wh-wh-wh-wh...
+MCMURPHY: shhh...
+MCMURPHY: psst! hey, martini, wake up!
+MARTINI: yeah, mac?
+MCMURPHY: bye-bye.
+MCMURPHY: scanlon! hey, scanlon, wake up!
+SCANLON: yeah, what's up?
+MCMURPHY: shhhh. see ya around the ball park.
+FREDRICKSON: what? what?
+MCMURPHY: so long, freddy. don't take any wooden nickles.
+FREDRICKSON: what?
+MCMURPHY: shhh...
+MCMURPHY: bye-bye, cat.
+MCMURPHY: up an' at 'em, taber.
+TABER: what's going on?
+MCMURPHY: shhhh. time to say goodbye.
+MCMURPHY: hey, hard-on. wake up, dumbo. harding opens his eyes and looks at mcmurphy.
+MCMURPHY: ya owe me twenty-five bucks.
+HARDING: what for?
+MCMURPHY: i'm busting outta this place.
+HARDING: that's nice. send me a post card.
+MCMURPHY: so long suckers.
+BILLY: wh-wh-where ya going, m-m-mac?
+CHESWICK: how ya gettin' out, mac?
+MCMURPHY: shhh... that's for me to know an' you to find out.
+TABER: you ain't got no way out!
+MCMURPHY: oh, yeah?
+TABER: yeah!
+MCMURPHY: how much ya wanna bet?
+TABER: ten bucks.
+MCMURPHY: you're on. let's go! an' keep it quiet.
+
+BILLY: wh-wh-what's d-d-down th-there, m-m mac? 
+TABER: where's it go?
+MCMURPHY: out. it's the way out. so just keep it in your minds if ya ever wanna make use of it.
+TABER: i don't believe it...
+FREDRICKSON: neither do i...
+SEFELT: me too...
+MARTINI: i wanna see it...
+SCANLON: me too! me too!
+BILLY: y-y-yeah, p-p-prove it, m-m-mac!
+CHESWICK: yeah, show us, mac!
+MCMURPHY: shhh. wait a minute. you guys are gonna screw up my plans. so just gone on back to bed like nothin' happened.
+MARTINI: no! i wanna go!
+SCANLON: me too! me too!
+MCMURPHY: shhh. hold it down! i'll take you guys down, but ya gotta come right back up! 'kay?
+PATIENTS: 'kay, mac!
+MCMURPHY: shhh... remember this is a privilege, so i don't want none of you goons up. kay?
+PATIENTS: 'kay, mac!
+MCMURPHY: 'kay, let's see... cheswick first ... then billy... martini... scanlon... sefelt... fredrickson... taber an' the chief... 'kay
+PATIENTS: 'kay!
+MCMURPHY: shhh!
+
+MCMURPHY: where's martini and scanlon? 
+CHESWICK: they went that way.
+MCMURPHY: charlie, ya can't ever let those goons outta ya sight! understand!
+CHESWICK: right, mack!
+SEFELT: there they are!
+MCMURPHY: hey, martini! psst! scanlon! ya goons, come back here! come on, let's get 'em!
+TABER: somebody's coming!
+MCMURPHY: shhh! this way!
+BILLY: i-i-i th-th-think we sh-sh-should go back!
+SEFELT: yeah, my feet are gettin' cold.
+FREDRICKSON: mine, too!
+MCMURPHY: we'll go back just as soon as we find those guys! 'kay?
+ACUTES: 'kay, mack!
+MCMURPHY: they must be up there!
+CHESWICK: yeah!
+BILLY: l-l-let-'s go b-back!
+MCMURPHY: come on, don't out on me now.
+BILLY: i-i d-d-don't know! m-m-miss r ratched g-g-g-g...
+MCMURPHY: miss ratched! mcmurphy crosses out and up the stairs.
+MCMURPHY: wow! look at this!
+MCMURPHY: hey, you guys, come on up here and take a gander at this!
+
+CHESWICK: there they are! 
+MCMURPHY: hey, what's that?
+SEVERAL ACUTES: what? where?
+MCMURPHY: over there!
+SEFELT: i don't know...
+BILLY: i-i-it's a b-b-bus!
+MCMURPHY: a bus?
+BILLY: y-y-yes, a b-b-bus!
+MCMURPHY: well, shoot, man! whadaya say we take ourselves a little spin around the place.
+TABER: we'll get in trouble...
+CHESWICK: yeah, maybe we ought to go back, mac...
+FREDRICKSON: yeah, my feet are cold...
+SEFELT: my feet hurt...
+BILLY: i-i-i'm w-w-wet...
+MCMURPHY: go ahead! go back!
+BILLY: h-h-how d-d-do we g-g-get b-back?
+TABER: yeah, take us back to the dumbwaiter, mac.
+MCMURPHY: i'm not going back in there. i told ya this was a one way trip. now stand aside.
+MCMURPHY: get on assholes!
+
+MCMURPHY: your horses are hungry, that's what she did say, come sit down beside me, an' feed them some hay. my horses ain't hungry, they wontt eat your hay-ay-aeee... 
+BILLY: h-hey, m-mack.
+MCMURPHY: yeah, kid?
+BILLY: w-w-where we g-g-going?
+CHESWICK: yeah, where we going?
+MCMURPHY: i dunno. where do ya wanna go?
+MARTINI: i wanna go home!
+SCANLON: yeah, it's cold!
+MARTINI: i'm hungry.
+TABER: yeah, we'll miss breakfast!
+MCMURPHY: breakfast! hell, i know just the place where we can chow down an' thaw out before we shoot back on home. 'kay?
+BILLY: 'k-kay, m-mack!
+MCMURPHY: soo, fare-the-weel, darlin'. i'm gone on my way, my wagons are loaded, my whip's in my hand...
+
+MCMURPHY: come on in an' warm up. you can put some of that gear on to keep warm. an' there's beer an' coke in the cooler an' some food over here... 
+MCMURPHY: come on, don't be shy now, you're among friends.
+MCMURPHY: why don't one of you boys help ol' chief there get warmed up?
+CHESWICK: when do you think we'll be going back, mack?
+MCMURPHY: come here a minute, cheswick. you, too, sefelt. hey, all you guys, come over here, i wanna show you somethin'.
+MARTINI: oh, look at the pretty boat.
+
+BILLY: h-h-help! 
+MCMURPHY: ease up on the star drag, keep the tie up, up and work outta that fella.
+SCANLON: my turn.
+MARTINI: no.
+MCMURPHY: up, i told you! keep that tip up... up! you had you one big silver there.
+SEFELT: oh, my i see something!
+
+SCANLON:  
+MARTINI: what is it?
+FREDRICKSON: we'll never get that on the boat.
+BILLY: m-m-mack! m-m-mack!
+MCMURPHY: what is it, kid?
+BILLY: c-c-come here and l-look at th this!
+MCMURPHY: he's a big flounder. could weigh two, three hundred. you got to lift him in with a winch.
+FREDRICKSON: does that mean we have to cut him loose?
+MCMURPHY: like we will! we got the muscle standing right here. all we need is a couple gaffin' hooks and some rope.
+BILLY: i-i-i'll get them.
+MARTINI: me, too.
+SCANLON: me, too.
+MCMURPHY: steady does it, sefelt!
+SEFELT'S POV: the massive fish is closer to the surface.
+
+SPIVEY: here they are, miss ratched. safe and sound! 
+BIG NURSE: good. well, boys, did you enjoy yourselves?
+FREDRICKSON: show her the one you caught, jim.
+BIG NURSE: my, my...
+MCMURPHY: yeah, ya should've come along with us, miss ratched, an' gotten a little sun on your cheeks and maybe caught a fish or two.
+BIG NURSE: mr. mcmurphy, you had no right to take these men out with you!
+MCMURPHY: yeah, that's kind of crazy, ain't it!
+BIG NURSE: no, it was irresponsible!
+BIG NURSE: that's quite a catch, jim. whaat are you going to do with it?
+MARTINI: gimme a cigarette!
+SEFELT: i thought i might donate it to the mess hall.
+MCMURPHY: i don't have any.
+BIG NURSE: that's an excellent idea. now, why don't you boys place your fish on the gurney and we'll see to it that everyone enjoys a fresh fish dinner.
+BIG NURSE: thank you, boys. now if you'll just go along with mister washington to the showers, supper is in half an hour.
+MARTINI: gimme a cigarette!
+HARDING: no!
+MARTINI: why not?
+HARDING: i'm not running a charity ward...
+MARTINI: all gone! all gone! don't hit! don't hit!
+
+MCMURPHY: i'm sure sorry, ma'am. gawd, but i am. that window glass was so clean i didn't even see it... 
+MCMURPHY: you guys want cigarettes! here's the cigarettes!
+WASHINGTON: warren! miller!
+
+AIDE: wait over there... 
+AIDE: come on, joey... this isn't going to hurt you... good for you... make you feel better...
+
+BROMDEN: thank you. 
+MCMURPHY: say it again.
+BROMDEN: thank you.
+MCMURPHY: say... bless america!
+BROMDEN: bless america.
+MCMURPHY: goddammit, you sly
+BROMDEN: no.
+MCMURPHY: this is too much! chief, i tell you we're gonna bust outta this place an' make it all the way to canada before they know what bit 'em.
+BROMDEN: ca-na-da...
+MCMURPHY: ya like that, chief, huh?
+BROMDEN: yeah...
+MCMURPHY: yeah, well, well, well. 'bout time the rest of the world got a gander at big chief bromden cuttin' down the boulevard, stopping just long enough for virgins... oh, man, i tell you, i tell you, you'll have women trippin' you and beating you to the floor...
+BROMDEN: ca-na-da...
+MCMURPHY: shhh, chief, don't talk. never talk! remember, this is just between you an' me. do ya understand?
+NURSE ITSU: mister mcmurphy.
+MCMURPHY: hey, how ya doin'?
+NURSE ITSU: fine, thank you. here, please take these.
+MCMURPHY: what are they?
+NURSE ITSU: to help you relax... please...
+NURSE ITSU: please take off your shoes.
+NURSE ITSU: please follow me.
+MCMURPHY: you an' me, chief.
+MCMURPHY: you know, i never got your name.
+NURSE ITSU: miss itsu. in here, please.
+MCMURPHY: you comin' in to hold my hand?
+NURSE ITSU: no...
+MCMURPHY: yeah... well, see ya around, itsu.
+MCMURPHY: yeah...
+
+MCMURPHY: hi... 
+MCMURPHY: you boys can take a cigarette break now...
+DOCTOR: that's all right, mister mcmurphy, just climb on the bed and lie down...
+MCMURPHY: whatever you say, doc...
+DOCTOR: this won't hurt you at all...
+MCMURPHY: uh, uh...
+MCMURPHY: what's that for?
+NURSE: conductant.
+MCMURPHY: surely, goodness and mercy will follow this, eh, honey?
+
+BIG NURSE: it's been brought to my attention that you're giving mister fredrickson your medication, aren't you, mister sefelt? 
+SEFELT: it's the dilantin that makes my gums soft!
+BIG NURSE: now, jim, you must be honest with yourself.
+BIG NURSE: yes, mister fredrickson?
+FREDRICKSON: i wanna know why the dorm has to be locked in the daytime and on weekends?
+TABER: yeah, why can't a fellow even have the weekends to himself?
+CHESWICK: yeah, whadabout our cigarettes?
+BIG NURSE: sit down, mister cheswick, and wait your turn!
+BIG NURSE: if the dorms were left open, you would just return to bed after breakfast...
+FREDRICKSON: so what? is it a mortal sin? i mean, normal people get to sleep late on weekends...
+BIG NURSE: with few exceptions, time spent in the company of others is therapeutic, while every minute spent brooding alone only increases separation.
+CHESWICK: mack!
+MCMURPHY: i got ten thousand watts and hot to trot. first woman takes me on is gonna light up like a pinball machine an' pay off in silver dollars...
+BILLY: h-h-how's it g-g-going, mack?
+MCMURPHY: just fine, billy boy, just fine. full of an' vinegar! they checked my plugs and cleaned my points...
+BIG NURSE: mister mcmurphy.
+MCMURPHY: yes, ma'am?
+BIG NURSE: welcome back.
+MCMURPHY: thank you, ma'am.
+BIG NURSE: i hope everything is settled.
+MCMURPHY: ma'am, i'm as gentle as a puppy dog. why, i haven't licked the tar out of an aide for two weeks! hi ya, doc!
+BIG NURSE: good. why don't you join us?
+MCMURPHY: why, thank you, ma'am... whew. man, i tell you, that place up there is somethin' else! well, ya boys been practicin' up for the big game? i figured as much...
+BILLY: w-w-we h-heard y-you w-were n-never c-c-coming back!
+MCMURPHY: yeah, well, let me tell ya somethin'... while i was up there gettin' in-lightened, i came up with one hellava plan...
+BILLY: wh-wh-what p-plan, m-mack!
+HARDING: what's your plan, mack?
+MCMURPHY: plan?... oh, yeah, the plan... yeah...
+
+PHOTOGRAPHER: thank you, boys. 
+MCMURPHY: miss ratched, would you please save a space for my aunt? she's comin' down from portland.
+BIG NURSE: certainly, mister mcmurphy, with pleasure.
+MCMURPHY: thank you, ma'am...
+MCMURPHY: gotta go now, ma'am...
+BIG NURSE: yes. good luck, mister mcmurphy.
+MCMURPHY: thank you, ma'am.
+
+MCMURPHY: hey, sam, bet ya two bucks ya lose. 
+WASHINGTON: man, tha' ain't even worth considerin'.
+MCMURPHY: how 'bout twenty?
+WASHINGTON: now you talkin'.
+MCMURPHY: bet!
+WASHINGTON: bet you ass...
+MCMURPHY: you're a witness, doc!
+SPIVEY: me? i didn't hear a thing! let's play ball!
+MCMURPHY: pass the ball, harding... don't hang onto it... pass it, goddammit!
+MCMURPHY: harding, here, over here!
+MCMURPHY: ya deaf! i said pass the ball!
+HARDING: what are you talking about??? everybody was covered!!! everybody was covered!!!
+MCMURPHY: i was open! come on, let's play ball!
+WASHINGTON: gimme tha' ball!
+MCMURPHY: what kind of is that???
+WASHINGTON: jus' playin' the game, sucker...
+MCMURPHY: get down there where ya belong, martini. you, too, scanlon. you take it out, harding! harding takes the ball and passes it in to mcmurphy, who turns and dribbles down court exactly like harding did.
+HARDING: pass the ball! pass it! pass it! pass it! i'm open, mcmurphy, pass the ball!
+MCMURPHY: harding, get back here!
+MCMURPHY: candy. candy, over here. hey, doc, time out.
+SPIVEY: time out!
+CANDY: mack, you you ol' fucker, how've you been?
+MCMURPHY: terrific, baby, terrific! hi ya doin', rose?
+ROSE: okay, mack! whoowe, candy girl, are we in an insane asylum or ain't we?
+MCMURPHY: come on, girls, we're holding up the game!
+MCMURPHY: miss ratched, this is my aunt candy and her friend rose...
+MCMURPHY: miss ratched was kind enough to save you ladies a seat...
+MCMURPHY: talk to ya at half time!
+CANDY: sock it to 'em, kid!
+ROSE: are they all crazies?
+BIG NURSE: no.
+ROSE: oh, just those guys dressed in white?
+BIG NURSE: no, miss, it's the other way around.
+ROSE: well, you could've fooled me.
+MCMURPHY: whadaya doin', there's no one there!
+MARTINI: i saw 'em! i saw 'em.
+HARDING: mack, get back here!
+MARTINI: gimme the ball!
+MCMURPHY: time out!
+SPIVEY: time out!
+MCMURPHY: time in! hold it! time out! i said harding out!
+HARDING: i refuse!
+MCMURPHY: i said out!
+HARDING: no!
+MCMURPHY: i'm the coach!
+HARDING: i just started!
+MCMURPHY: you can come back later!
+HARDING: i don't trust you!
+MCMURPHY: scanlon out!
+SCANLON: no!
+MCMURPHY: martini out!
+MARTINI: no!
+BILLY: i-i-i-i-i'll g-g-g-go, m-m-mack...
+MCMURPHY: good boy, thank you, billy.
+HARDING: mcmurphy, pass the ball!
+MCMURPHY: harding, pass the ball!
+CANDY: atta boy, mack! what's he in for?
+BIG NURSE: who?
+CANDY: mack!
+BIG NURSE: miss, it's a complicated case. it would take too long to explain.
+CANDY: yeah, well, he looks like hell!
+BIG NURSE: billy, it's not polite to stare!
+BILLY: miss!
+BILLY: hi!
+CANDY: hi...
+MCMURPHY: run, chief, run!
+MCMURPHY: run, chief, run!
+SPIVEY: foul!
+MCMURPHY: ya coon, you're not on the ward now!
+WASHINGTON: take you han's offa me!
+SPIVEY: break it up, boys! point counts. one free throw!
+MARTINI AND SCANLON: great shot, chief! ya okay? you're doin' great!
+MCMURPHY: we got your black now, washington, wanna bet another twenty?
+WASHINGTON: no way...
+
+TURKLE: what you boys doin' up at this ungodly time o' the night? 
+MCMURPHY: prayin', brother. prayin'.
+TURKLE: well, you boys finish it up an' climb back into your beds. 'kay?
+MCMURPHY: 'kay...
+MCMURPHY: there they are, chief!
+MCMURPHY: where are they goin'?
+
+TURKLE: i thought i told you boys to go to bed! 
+MCMURPHY: our prayers have been answered, turkle! our prayers have been answered! mcmurphy's pov as we see the girls coming.
+
+TURKLE: oh yeah... 
+MCMURPHY: i tell ya, there's an angel of mercy standing out there, turkle.
+TURKLE: hallelujah, brother, now get back in bed!
+MCMURPHY: come an' see.
+TURKLE: that angel of mercy, he ain't a she, is he?
+MCMURPHY: you's better believe it, brother!
+BACK TO SCENE: as turkle turns to mcmurphy.
+TURKLE: ah believe ya, brother. ah believe ya!
+MCMURPHY: now, wouldn't you pray for twenty bucks, a bottle booze an' a piece of that angel cake?
+TURKLE: ah'm on my knees, brother, ah'm on my knees.
+CANDY AND ROSE: hiya, mack.
+MCMURPHY: hiya, girls...
+TURKLE: shhh...
+CANDY: whew! made it!
+MCMURPHY: man, you look good 'nough to eat!
+CANDY: yeah, well you look like warmed over...
+ROSE: hey, pssst! whadda 'bout me?
+TURKLE: hey, mac! gimme a hand, will ya!
+ROSE: whew! hiya, boys!
+TURKLE: shhh... let's move it away from the window...
+MCMURPHY: come here, sugar...
+TURKLE: what happened?
+ROSE: what's that?
+TURKLE: what?
+ROSE: that!
+TURKLE: oh, that. that ain't nothin' to be afraid of, ma'am. just ol chief bromden. that's all...
+ROSE: is he one of the loonies?
+MCMURPHY: he's a patient, rose...
+ROSE: oh, yeah...
+MCMURPHY: yeah...
+ROSE: hi ya, big boy? how's it goin'?
+MCMURPHY: he can't hear you, rose. he's just a big deaf an' indian...
+CANDY: pssst! hey rose! there they are!
+ROSE: what? where?
+CANDY: in there.
+ROSE: wow! they're so quiet.
+TURKLE: they're sleeping, miss. they're sleeping. an' we gotta keep it down so we don't disturb their sleep.
+ROSE: are they dangerous when they're awake?
+TURKLE: oh, no, miss. not these loonies.
+CANDY: what's that smell?
+TURKLE: what smell?
+CANDY: smells weird. smells like pneumonia.
+TURKLE: ammonia, miss...
+ROSE: smells like piss. is this real, candy? is this really real? i mean we are in an insane asylum, an' i wanna know how we got ourselves into this scene.
+TURKLE: shhh, please, miss. keep it down...
+ROSE: who is he?
+MCMURPHY: he's in charge.
+ROSE: are you a doctor?
+TURKLE: not exactly, miss. not exactly.
+ROSE: yeah, well, i'll tell ya somethin'. i'll tell ya somethin'. i had this boyfriend, chuck. ya know him, mac. ya remember, chuck.
+MCMURPHY: sure, i know chuck. i know him.
+ROSE: well, listen to this. he got mad at me one day. boy, did he get mad at me. he took the light bulb, ya know. i thought he was going to cram it right up me, ya know. but he ate it. he ate the whole light bulb. now, tell me! is he crazy? tell me!
+TURKLE: well, miss... i would say... i would say, yes. yes, he's crazy.
+ROSE: i thought so.
+TURKLE: is he in an asylum?
+ROSE: he's dead.
+TURKLE: oh, i see. he was a very sick man.
+ROSE: that's what i told his mother. and she said i was crazy. her son ate the whole light bulb and she said i was crazy.
+TURKLE: i don't know anything about that, miss. i would have to examine you first...
+ROSE: you ol' fucker!
+TURKLE: well, i'm running a risk by letting you in, miss. you know i'm runnin' a risk of gettin' my black fired. if you understand what i mean...
+MCMURPHY: sure, she understands what you mean. she's not dumb. why do you think rose came to visit us? rose is very interested in hospitals and hospital facilities. aren't you, rose?
+ROSE: what?
+TURKLE: i'll be very glad to show you around, miss...
+MCMURPHY: yeah, that's a good idea, turkle. why don't ya take rose on a little tour of our facilities...
+ROSE: wait a minute...
+CANDY: it's okay, rose. you can go with him.
+ROSE: oh yeah! well if ya don't mind, i'll decide on my own date!
+CANDY: rose! what's there to decide?
+ROSE: whaddaya talkin' about? there's at least twenty guys in there. let's wake 'em up and get this party on the road.
+TURKLE: now, miss. what do you want with twenty zombies when you got a twenty gun salute looking you right in the face.
+ROSE: oh, yeah...
+TURKLE: you better believe it, you sweet little thing. you better believe it...
+ROSE: don't you sweet talk me you ol' spook, you!
+TURKLE: oh, i'm all through talkin'. now, let's just you an' me trip on down that hall.
+CANDY: go with him, rose. go with him.
+ROSE: well, okay, but i just want to look at the facilities. that's all.
+TURKLE: that's all i'm going to show you. mcmurphy's pov - turkle and rose
+MCMURPHY: 'kay, lets get under way.
+MCMURPHY: down the ol' hatch, chief.
+
+MCMURPHY: who knows what evil lurks in the hearts of men... 
+MCMURPHY: medication time! medication time! rise and shine! rise and shine! time to say goodbye... everybody up, up, up!
+CANDY: up and at 'em, boys.
+BILLY: h-h-hi, candy...
+CANDY: hi, billy.
+
+TURKLE: it's the soo-per-visor come to fire my black ass. 
+TURKLE: stay in there! stay in there!
+
+NIGHT SUPERVISOR: oh, there you are, mister turkle. 
+TURKLE: evenin', ma'am.
+NIGHT SUPERVISOR: is everything all right?
+TURKLE: why, sure, ma'am...
+NIGHT SUPERVISOR: the lights were flashing on and off, mister turkle.
+TURKLE: jus' cleanin' up, ma'am.
+NIGHT SUPERVISOR: at this hour?
+TURKLE: cleanliness is a twenty-four-hour job, ma'am...
+NIGHT SUPERVISOR: what are these men doing up wandering around?
+TURKLE: ah guess the natives are restless, ma'am...
+NIGHT SUPERVISOR: you've been drinking on the job again, haven't you, mister turkle!
+TURKLE: ah, no, ma'am... well, yes, ma'am... a man get awful lonely at night, if ya know what ah mean, ma'am...
+NIGHT SUPERVISOR: i want those men put back to bed, mister turkle!
+TURKLE: yes, ma'am...
+NIGHT SUPERVISOR: and you haven't heard the last of this!
+TURKLE: yes, ma'am...
+TURKLE: night, night.
+TURKLE: be right back, honey...
+
+FREDRICKSON: christ, they even got my first grade report card here... 
+SEFELT: lemme see...
+SEFELT: they're terrible grades, fred...
+
+MCMURPHY: don't scream, honey... 
+MCMURPHY: ellis ain't gonna hurt you... ellis is nice... nice ellis... see the nice lady...
+MCMURPHY: there, see, nice lady touch ellis... rose reaches out and touches ellis.
+
+CANDY: it's time to hit the road, mack... 
+MCMURPHY: don't worry 'bout the road! we'll hit the road! it'll be there when we're ready! ain't that right, fellas?
+MCMURPHY: i jus' want you guys to have a good time... are ya havin' a good time? you... you... good... good... lez have some fun...
+MCMURPHY: whatsa matter with ya... billy turns away and mcmurphy crosses to him.
+MCMURPHY: ain'tcha havin' a good time... whadaya want? ya wanna drink? a cigarette...
+MCMURPHY: whatsamatter, kid, what's botherin' you...?
+BILLY: ah-ah-ah-are y-y-y-you g-g-g-going t-t-t-to muh-muh-muh-marry her?
+MCMURPHY: marry who?
+BILLY: c-c-c-c-candy!
+MCMURPHY: candy? no, billy, she's just a good friend, that's all...
+BILLY: wu-wu-wu i-i-i-i th-th-think sh-sh sh-she's th-th-th-the ma-ma-ma-most bu-bu-bu-beautiful wu-wu-wu-woman in th-th-the whole world!
+MCMURPHY: why don't ya go tell 'er...
+MCMURPHY: go on, son, now's your chance...
+BILLY: c-c-candy, wu-wu-will y-y-you mu-mu marry me!
+CANDY: ah, billy...
+
+MCMURPHY: in ya go... 
+BILLY: m-m-m-mack?
+MCMURPHY: it's okay, kid. everything it going to be okay... i'll come back an' getcha in a while... 'kay...
+
+MCMURPHY: hey, harding, wake me in an hour. 
+HARDING: sure, mack...
+
+WASHINGTON: bibbit? where's bill bibbit, ya goons? 
+WASHINGTON: come on, get over there!
+BIG NURSE: thank you, mister washington! mister mcmurphy, do you know where billy is?
+BIG NURSE: mister harding, have you seen billy?
+BIG NURSE: mister sefelt...
+
+BILLY: m-m-m-miss ratched! 
+BILLY: p-p-p-please du-du-don't t-t-t-tell m-m-my muh-muh-muh-mummy!
+BILLY: p-p-p-please du-du-du-don't t-t tell her, p-p-please...
+BIG NURSE: you should have thought about that before you brought that woman in here!
+BILLY: n-n-n-n-no, no, i du-du-du-didn't, i didn't!
+BIG NURSE: i don't want your mother to believe something like this but what am i to think?
+BILLY: sh-sh-sh-she m-m-made m-m-me do it!
+BIG NURSE: billy, that girl couldn't have pulled you in there forcibly...
+BILLY: sh-sh-she did! everybody did!
+BIG NURSE: who? tell me!
+BILLY: m-m-muh-muh-mcmurphy!
+MCMURPHY: ahhh, billy...
+BILLY: p-p-p-please duh-duh-duh-duh t-t tell, m-m-m-miss r-r-ratched, y-y you don't need to!
+BIG NURSE: get up, billy.
+BILLY: no! no! no!
+BILLY: n-n-n-n-duh-duh-duh-pl-pl-pl-pl-muh muh-muh...
+BIG NURSE: mister washington.
+MCMURPHY: hey, billy, stop cryin'. you don't have to cry... you ain't got nothin' to be ashamed of. she ain't gonna tell you mother... stop crying...
+WASHINGTON: yes, miss ratched!
+BIG NURSE: put him in doctor spivey's office!
+WASHINGTON: yes, miss ratched...
+MCMURPHY: let's go!
+MCMURPHY: let's go, chief...
+
+WASHINGTON: 'kay, let's have the keys an' nobody get hurt! 
+CANDY: come on, come on, let's go!
+
+MCMURPHY: billy, oh, billy boy... 
+BIG NURSE: get away from him! don't you dare touch him!
+
+BIG NURSE: did everything go well, mister sefelt? 
+BIG NURSE: that's very nice. now, doesn't that make you feel better, mister sefelt?
+SEFELT: yes, ma'am...
+BIG NURSE: good...
+HARDING: big ace... a lovely lady... another ace... an' a little trey, hey, hey, whadaya say... hit or sit?
+SCANLON: hit!
+SEFELT: ya know what, fred?
+FREDRICKSON: what?
+HARDING: big king, too bad...
+SEFELT: just wait till you hear...
+HARDING: hear what?
+SEFELT: mcmurphy killed two attendants and escaped...
+HARDING: when?
+SEFELT: yesterday...
+HARDING: who told you that?
+SEFELT: gary blinker...
+SCANLON: gary blinker's fulla
+MARTINI: he's not!
+SCANLON: he is!
+BIG NURSE: yes, mister harding?
+HARDING: is it true mcmurphy killed two attendants and escaped yesterday?
+BIG NURSE: no. mister harding, that is not true.
+
+BIG NURSE: thank you... 
+ATTENDANT: yes, ma'am...
+FREDRICKSON: lobotomy...
+HARDING: yeah...
+SCANLON: yeah, that gary blinker is fulla
 

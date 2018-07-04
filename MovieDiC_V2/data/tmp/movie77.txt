@@ -1,611 +1,611 @@
-speaker1: hello. 
-speaker1: hello, hello. hello...
-speaker1: i don't believe in perfect love. you know, love that comes out of the sky like a thunderbolt and uh... this is ridiculous.
-speaker1: no. no no no. nope.
+JOHN: hello. 
+JOHN: hello, hello. hello...
+JOHN: i don't believe in perfect love. you know, love that comes out of the sky like a thunderbolt and uh... this is ridiculous.
+JOHN: no. no no no. nope.
 
-speaker1: we all have someone in our past who uh... one skeleton, if you like. we've all got at least one person, as it were, under the patio. not literally of course. i suppose i only say this because i always thought people who did this sort of thing were... i had an image that they were losers. not losers. a bit sad. but i think this is the modern world. and i think really it's quite a brave move. quite a brave, reasonable thing to do. 
-speaker1: sorry can we start again?
+JOHN: we all have someone in our past who uh... one skeleton, if you like. we've all got at least one person, as it were, under the patio. not literally of course. i suppose i only say this because i always thought people who did this sort of thing were... i had an image that they were losers. not losers. a bit sad. but i think this is the modern world. and i think really it's quite a brave move. quite a brave, reasonable thing to do. 
+JOHN: sorry can we start again?
 
-speaker1: nadia? 
-speaker1: i'm john.
-speaker1: welcome.
-speaker1: is that everything?
-speaker2: yes.
-speaker1: right. okay. good.
+JOHN: nadia? 
+JOHN: i'm john.
+JOHN: welcome.
+JOHN: is that everything?
+NADIA: yes.
+JOHN: right. okay. good.
 
-speaker1: it's about forty miles from here. i don't know if you've looked at a map, it's close to london but it's a city in itself. a roman city. it's a nice house. i'm having a problem with ants. i uh... it's the warmer weather. i can't seem to find the nest. sorry, do you understand "ants"? 
-speaker2: yes.
-speaker1: i just can't find a nest. the root of the problem. i've looked everywhere. what's the russian for ant? sorry that's a stupid... sorry. this is strange isn't it.
-speaker2: yes.
-speaker1: i'm pretty nervous. are you?
-speaker2: yes.
-speaker1: i mean... "ants." "i've got a problem with ants." he shakes his head.
-speaker1: i had this...
-speaker1: as a joke but uh... he tosses it onto the back seat.
-speaker1: so. is it different to how you imagined it?
-speaker2: yes.
-speaker1: i bet. what about me? am i how you imagined?
-speaker2: yes.
-speaker1: and how was the flight. sorry, am i speaking too fast for you?
-speaker2: yes.
-speaker1: do uh... sorry. can you follow me? do you understand what i'm saying?
-speaker2: yes.
-speaker1: good. or should i speak slower?
-speaker2: yes.
-speaker1: do you follow or should i speak slower?
-speaker2: yes.
-speaker1: uh... are you a giraffe?
-speaker2: yes.
-speaker1: oh
-speaker1: oh
+JOHN: it's about forty miles from here. i don't know if you've looked at a map, it's close to london but it's a city in itself. a roman city. it's a nice house. i'm having a problem with ants. i uh... it's the warmer weather. i can't seem to find the nest. sorry, do you understand "ants"? 
+NADIA: yes.
+JOHN: i just can't find a nest. the root of the problem. i've looked everywhere. what's the russian for ant? sorry that's a stupid... sorry. this is strange isn't it.
+NADIA: yes.
+JOHN: i'm pretty nervous. are you?
+NADIA: yes.
+JOHN: i mean... "ants." "i've got a problem with ants." he shakes his head.
+JOHN: i had this...
+JOHN: as a joke but uh... he tosses it onto the back seat.
+JOHN: so. is it different to how you imagined it?
+NADIA: yes.
+JOHN: i bet. what about me? am i how you imagined?
+NADIA: yes.
+JOHN: and how was the flight. sorry, am i speaking too fast for you?
+NADIA: yes.
+JOHN: do uh... sorry. can you follow me? do you understand what i'm saying?
+NADIA: yes.
+JOHN: good. or should i speak slower?
+NADIA: yes.
+JOHN: do you follow or should i speak slower?
+NADIA: yes.
+JOHN: uh... are you a giraffe?
+NADIA: yes.
+JOHN: oh
+JOHN: oh
 
-speaker1: lounge. 
-speaker1: kitchen.
+JOHN: lounge. 
+JOHN: kitchen.
 
-speaker1: bathroom. 
-speaker1: bedroom.
+JOHN: bathroom. 
+JOHN: bedroom.
 
-speaker1: the uh... the other bedroom... 
-speaker1: i'll get an ashtray.
+JOHN: the uh... the other bedroom... 
+JOHN: i'll get an ashtray.
 
-speaker1: you have reached from russia with love. our office reopens on monday. if you are interested in our services... thank you. 
-speaker2: this is john buckingham from st albans. i need to speak to you urgently. there's a critical problem. it's... call me back as soon as possible. it's critical.
+ANSWER MACHINE: you have reached from russia with love. our office reopens on monday. if you are interested in our services... thank you. 
+JOHN: this is john buckingham from st albans. i need to speak to you urgently. there's a critical problem. it's... call me back as soon as possible. it's critical.
 
-speaker1: i don't know what to say. your letters were in english. good english. you said you'd studied english. 
-speaker1: i can't take this.
-speaker1: i can't take it. i'm not really a ring guy.
-speaker1: okay. no big deal. thank you. yes thanks. thank you.
+JOHN: i don't know what to say. your letters were in english. good english. you said you'd studied english. 
+JOHN: i can't take this.
+JOHN: i can't take it. i'm not really a ring guy.
+JOHN: okay. no big deal. thank you. yes thanks. thank you.
 
-speaker1: nadia. this isn't going to work. i'm sorry. it's been a terrible mistake. you must go. 
-speaker1: i'm booking a flight for tomorrow. i'm sorry.
+JOHN: nadia. this isn't going to work. i'm sorry. it's been a terrible mistake. you must go. 
+JOHN: i'm booking a flight for tomorrow. i'm sorry.
 
-speaker1: problem solving. john identifies most problems within appropriate time frames... 
-speaker1: most of the time he develops several alternative solutions to problems...
-speaker1: he usually resolves or minimises most problems before they grow into larger problems...
+VOICE OVER: problem solving. john identifies most problems within appropriate time frames... 
+VOICE OVER: most of the time he develops several alternative solutions to problems...
+VOICE OVER: he usually resolves or minimises most problems before they grow into larger problems...
 
-speaker1: good weekend? 
-speaker2: uh. yeah. pretty good.
-speaker1: do anything special?
-speaker2: uh. no.
-speaker3: communications. john listens and comprehends well.
+CLARE: good weekend? 
+JOHN: uh. yeah. pretty good.
+CLARE: do anything special?
+JOHN: uh. no.
+VOICE OVER: communications. john listens and comprehends well.
 
-speaker1: when communicating he is good at selecting the most efficient methods and displays effective verbal communication skills... 
-speaker1: on one occasion john showed first class communication skills in a delicate customer situation.
+BRANCH MANAGER: when communicating he is good at selecting the most efficient methods and displays effective verbal communication skills... 
+BRANCH MANAGER: on one occasion john showed first class communication skills in a delicate customer situation.
 
-speaker1: he is adequate at resolving difficult or emotional customer situations... 
-speaker1: he usually fulfills commitments made to customers within expected time frames.
+BRANCH MANAGER: he is adequate at resolving difficult or emotional customer situations... 
+BRANCH MANAGER: he usually fulfills commitments made to customers within expected time frames.
 
-speaker1: customer service. john shows a high degree of respect for customers... 
-speaker1: john still has some reluctance to / or has problems in, carving out new relationships face to face.
-speaker1: judgment -- john makes able decisions in most areas of his job.
+BRANCH MANAGER: customer service. john shows a high degree of respect for customers... 
+BRANCH MANAGER: john still has some reluctance to / or has problems in, carving out new relationships face to face.
+BRANCH MANAGER: judgment -- john makes able decisions in most areas of his job.
 
-speaker1: good. again. 
-speaker1: very good. how does that feel john?
-speaker2: it feels good. weird.
-speaker1: it's called trust and letting go.
-speaker1: trust and letting go.
+TRAINER: good. again. 
+TRAINER: very good. how does that feel john?
+JOHN: it feels good. weird.
+TRAINER: it's called trust and letting go.
+TRAINER: trust and letting go.
 
-speaker1: are you o.k.? 
-speaker2: today is bath day.
-speaker1: sorry?
-speaker2: today is bath day.
-speaker1: bath day?
-speaker1: i don't understand.
-speaker2: happy bath day.
-speaker1: today?
-speaker1: syevodnya?
-speaker2: syevodnya
-speaker1: happy birthday. happy birthday.
-speaker2: party. party. syevodnya.
-speaker1: yes. party. party syevodnya.
-speaker1: ...it might just be a twenty-four hour bug...
-speaker3: well you just get better. i'll tell beaky. you just get some rest, ok?
+JOHN: are you o.k.? 
+NADIA: today is bath day.
+JOHN: sorry?
+NADIA: today is bath day.
+JOHN: bath day?
+JOHN: i don't understand.
+NADIA: happy bath day.
+JOHN: today?
+JOHN: syevodnya?
+NADIA: syevodnya
+JOHN: happy birthday. happy birthday.
+NADIA: party. party. syevodnya.
+JOHN: yes. party. party syevodnya.
+JOHN: ...it might just be a twenty-four hour bug...
+CLARE: well you just get better. i'll tell beaky. you just get some rest, ok?
 
-speaker1: you must be john. you seem very nice. excuse me. 
-speaker1: how's that? we can't drink our can we?
-speaker2: hang on hang on, sorry, but like, who are you?
-speaker1: you must find some glasses, small, for the toast, and some plates.
-speaker2: what are you doing here?
-speaker1: sorry. you've lost me...
-speaker2: i'm asking what you're here for.
-speaker1: what?
-speaker3: "frenzy".
-speaker2: yes i know.
-speaker1: yuri. alexei. alexei and yuri.
-speaker2: what did he say?
-speaker1: he says he feels safe here.
-speaker1: she says she wanted to tell you but her english is and no one speaks russian, it's very hard for her. the light please.
-speaker2: i need to know who you are first please.
-speaker1: oh. we are russian.
-speaker2: yes. i know.
-speaker1: good.
-speaker2: and...
-speaker1: and what? you mean from the beginning? can i uh okay, as we say in russia can i cut a long story short. okay. nadia is my little cousin. except she's not. but we say cousin. this is for you.
-speaker2: hold on.
-speaker1: toast first then we talk seriously, i can see you are serious about us.
-speaker1: just kidding.
-speaker2: so hang on. you're both nadia's cousins?
-speaker1: of course not. alexei, he's is my problem.
-speaker2: right.
-speaker1: we better watch him. he's crazy.
-speaker2: right.
-speaker1: i am actor, he is actor, although he is an actor stroke musician. i just noodle along, i'm not so good. he makes me look like a -- he smokes me. i don't mean he smokes me.
-speaker1: i mean he smokes me. do you say "smoke" in u.k.?
-speaker2: no.
-speaker1: right. so i can say he smokes me. so.
-speaker2: so?
-speaker1: so i come to england with other actors to make shows, i meet this freak from novgorod i tell him of you and chicken and the birthday here we are.
-speaker2: what was that?
-speaker1: i asked her if you were happy to see us. i find it hard to tell with you.
-speaker2: yes it's okay. thank you for the food.
-speaker1: she says you are a little shy. i think i know this.
-speaker2: so how long will you be in england?
-speaker1: plans are for the architects, politicians and so forth.
-speaker2: you must have a visa or something...
-speaker1: you're asking for my documents?
-speaker2: no, no...
-speaker1: we are all europeans here. europe, tony blair and maggie thatcher!
-speaker1: so. you have nothing to say to your fiancee? maybe to wife of forty years it's understandable. come on. you speak and i will translate.
-speaker2: hello.
-speaker1: she says 'hello' to you. go for it john!
-speaker2: uh. do you like england?
-speaker1: classic! thank she says 'yes!'
-speaker2: uh...
-speaker2: i can't think of anything. hang on.
-speaker1: she says she has a secret to tell.
-speaker2: what?
-speaker1: she says she watched you at the airport.
-speaker2: when?
-speaker1: "i saw you waiting there, by the gate."
+YURI: you must be john. you seem very nice. excuse me. 
+YURI: how's that? we can't drink our can we?
+JOHN: hang on hang on, sorry, but like, who are you?
+YURI: you must find some glasses, small, for the toast, and some plates.
+JOHN: what are you doing here?
+YURI: sorry. you've lost me...
+JOHN: i'm asking what you're here for.
+YURI: what?
+NADIA: "frenzy".
+JOHN: yes i know.
+YURI: yuri. alexei. alexei and yuri.
+JOHN: what did he say?
+YURI: he says he feels safe here.
+YURI: she says she wanted to tell you but her english is and no one speaks russian, it's very hard for her. the light please.
+JOHN: i need to know who you are first please.
+YURI: oh. we are russian.
+JOHN: yes. i know.
+YURI: good.
+JOHN: and...
+YURI: and what? you mean from the beginning? can i uh okay, as we say in russia can i cut a long story short. okay. nadia is my little cousin. except she's not. but we say cousin. this is for you.
+JOHN: hold on.
+YURI: toast first then we talk seriously, i can see you are serious about us.
+YURI: just kidding.
+JOHN: so hang on. you're both nadia's cousins?
+YURI: of course not. alexei, he's is my problem.
+JOHN: right.
+YURI: we better watch him. he's crazy.
+JOHN: right.
+YURI: i am actor, he is actor, although he is an actor stroke musician. i just noodle along, i'm not so good. he makes me look like a -- he smokes me. i don't mean he smokes me.
+YURI: i mean he smokes me. do you say "smoke" in u.k.?
+JOHN: no.
+YURI: right. so i can say he smokes me. so.
+JOHN: so?
+YURI: so i come to england with other actors to make shows, i meet this freak from novgorod i tell him of you and chicken and the birthday here we are.
+JOHN: what was that?
+YURI: i asked her if you were happy to see us. i find it hard to tell with you.
+JOHN: yes it's okay. thank you for the food.
+YURI: she says you are a little shy. i think i know this.
+JOHN: so how long will you be in england?
+YURI: plans are for the architects, politicians and so forth.
+JOHN: you must have a visa or something...
+YURI: you're asking for my documents?
+JOHN: no, no...
+YURI: we are all europeans here. europe, tony blair and maggie thatcher!
+YURI: so. you have nothing to say to your fiancee? maybe to wife of forty years it's understandable. come on. you speak and i will translate.
+JOHN: hello.
+YURI: she says 'hello' to you. go for it john!
+JOHN: uh. do you like england?
+YURI: classic! thank she says 'yes!'
+JOHN: uh...
+JOHN: i can't think of anything. hang on.
+YURI: she says she has a secret to tell.
+JOHN: what?
+YURI: she says she watched you at the airport.
+JOHN: when?
+YURI: "i saw you waiting there, by the gate."
 
-speaker1: "i have these uh..." she explains to you... "when i was a little girl my father had these beautiful old glasses." like... i don't know the word. like for watching uh... for watching the birds. 
-speaker2: binoculars.
-speaker1: binoculars. he had these binoculars he has kept from the war.
+YURI: "i have these uh..." she explains to you... "when i was a little girl my father had these beautiful old glasses." like... i don't know the word. like for watching uh... for watching the birds. 
+JOHN: binoculars.
+YURI: binoculars. he had these binoculars he has kept from the war.
 
-speaker1: i would run around with them taking pictures of things i liked with my mind. if i saw something beautiful i would take a picture. with the binoculars pressed to her face, she spies 
-speaker1: the day before i left russia my father gave me the old binoculars. he said that when i saw you i was to stand far away and look at you with these, and to examine your face closely. and if you were a bad person i could run away.
-speaker1: she says she took a picture.
-speaker2: nasyekski.
+YURI: i would run around with them taking pictures of things i liked with my mind. if i saw something beautiful i would take a picture. with the binoculars pressed to her face, she spies 
+YURI: the day before i left russia my father gave me the old binoculars. he said that when i saw you i was to stand far away and look at you with these, and to examine your face closely. and if you were a bad person i could run away.
+YURI: she says she took a picture.
+ALEXEI: nasyekski.
 
-speaker1: what was that? 
-speaker2: oh nothing.
-speaker1: tell me.
-speaker2: no. it is too judgmental.
-speaker1: tell me what he said.
-speaker2: he says why did you send to russia for a wife.
-speaker2: you are not ashamed of it? it's no surprise to want to love.
-speaker1: no. it's not that.
-speaker2: do you believe in love?
-speaker1: i suppose it's... i mean define your terms.
-speaker2: it's very strange. how many people are truly themselves with their love? it is the greatest human disaster and it is never in the newspapers. there are no marches against heartache, no ministries against loneliness, no concerts against disappointment. we look away. and still we know in secret that nothing is more important to us. the one thing we all share but don't say. look john i will show you something.
-speaker2: here look, something beautiful from russia. here is life, there, take it.
-speaker2: here is bread. khylep. this is work. we all need this, here eat.
-speaker2: good. but we cannot survive with just work, so here is meat and blood. myasa. this is family and country, flesh, strength, eat.
-speaker2: but again this is not life. here is joy and pain. chyesnok. without these life has no flavour, is too serious. eat.
-speaker2: but this vodka.
-speaker2: this is a love song, a soldier's song to his beloved -- alexei, he's afghanstya, a veteran of afghanistan. he saw terrible things.
+JOHN: what was that? 
+YURI: oh nothing.
+JOHN: tell me.
+YURI: no. it is too judgmental.
+JOHN: tell me what he said.
+YURI: he says why did you send to russia for a wife.
+YURI: you are not ashamed of it? it's no surprise to want to love.
+JOHN: no. it's not that.
+YURI: do you believe in love?
+JOHN: i suppose it's... i mean define your terms.
+YURI: it's very strange. how many people are truly themselves with their love? it is the greatest human disaster and it is never in the newspapers. there are no marches against heartache, no ministries against loneliness, no concerts against disappointment. we look away. and still we know in secret that nothing is more important to us. the one thing we all share but don't say. look john i will show you something.
+YURI: here look, something beautiful from russia. here is life, there, take it.
+YURI: here is bread. khylep. this is work. we all need this, here eat.
+YURI: good. but we cannot survive with just work, so here is meat and blood. myasa. this is family and country, flesh, strength, eat.
+YURI: but again this is not life. here is joy and pain. chyesnok. without these life has no flavour, is too serious. eat.
+YURI: but this vodka.
+YURI: this is a love song, a soldier's song to his beloved -- alexei, he's afghanstya, a veteran of afghanistan. he saw terrible things.
 
-speaker1: quick word john? 
-speaker1: this is sensitive. your car. lovely car. doesn't necessarily give the right impression.
-speaker2: ch...
-speaker1: to customers approaching the bank from the rear
-speaker2: right.
-speaker1: you can see why it's sensitive?
-speaker2: uh... yes.
-speaker1: i'll leave it on your desk.
+BRANCH MANAGER: quick word john? 
+BRANCH MANAGER: this is sensitive. your car. lovely car. doesn't necessarily give the right impression.
+JOHN: ch...
+BRANCH MANAGER: to customers approaching the bank from the rear
+JOHN: right.
+BRANCH MANAGER: you can see why it's sensitive?
+JOHN: uh... yes.
+BRANCH MANAGER: i'll leave it on your desk.
 
-speaker1: how is bank? 
-speaker2: fine. i thought you were leaving today.
-speaker1: to be indoors on such a day. it's crime.
+YURI: how is bank? 
+JOHN: fine. i thought you were leaving today.
+YURI: to be indoors on such a day. it's crime.
 
-speaker1: hey. 
-speaker2: he's just having fun. he's maybe too strong you know...
+JOHN: hey. 
+YURI: he's just having fun. he's maybe too strong you know...
 
-speaker1: they go. john. they go. 
-speaker2: what's wrong?
-speaker1: they go.
-speaker2: of course. they go. yes. yes.
-speaker1: they go.
-speaker3: i understand. i'm so sorry
-speaker2: you can stay tonight.
-speaker3: i have brought you trouble. maybe i should have come alone.
-speaker2: good night.
+NADIA: they go. john. they go. 
+JOHN: what's wrong?
+NADIA: they go.
+JOHN: of course. they go. yes. yes.
+NADIA: they go.
+YURI: i understand. i'm so sorry
+JOHN: you can stay tonight.
+YURI: i have brought you trouble. maybe i should have come alone.
+JOHN: good night.
 
-speaker1: what are you doing? 
-speaker2: john, i'm sorry. it's my fault.
-speaker1: what's he doing? what the are you doing? leave her alone.
-speaker2: he says sit down. or he'll cut her.
-speaker2: sit down please.
-speaker1: tell him to stop and let her go, and we'll talk.
-speaker1: put the kettle down.
-speaker2: john.
-speaker1: put the kettle down. tell, yuri, tell him put it down or i'm going to make him.
-speaker2: he says you scare him so much he must go to the toilet in his trousers. john, he is a soldier. a trained killer. we must do what he says.
-speaker1: what? what does he want?
-speaker1: what did he say? tell me!
-speaker2: he says you are very sad ridiculous man. i don't agree of course. and that you must pay someone to have like a prostitute. nadia is a prostitute. i'm sorry.
-speaker1: what does he want. the russian shithead. what do you want ?
-speaker2: he wants money.
-speaker1: tell him to put the kettle down and i'll give him money.
-speaker2: he wants a lot of money.
-speaker1: i'll give him money. tell him to put the...
-speaker2: he wants the money from your bank.
-speaker1: i'll give it to him! we'll go down there.
-speaker2: you don't understand. he wants all the money that is in your bank.
-speaker1: i've got eight hundred pounds. oh
-speaker1: oh
-speaker2: he is sure you can do this. of course you can not.
-speaker1: oh of course i can't.
-speaker1: just leave her alone.
-speaker2: i'm so sorry.
-speaker1: leave her alone.
+JOHN: what are you doing? 
+YURI: john, i'm sorry. it's my fault.
+JOHN: what's he doing? what the are you doing? leave her alone.
+YURI: he says sit down. or he'll cut her.
+YURI: sit down please.
+JOHN: tell him to stop and let her go, and we'll talk.
+JOHN: put the kettle down.
+YURI: john.
+JOHN: put the kettle down. tell, yuri, tell him put it down or i'm going to make him.
+YURI: he says you scare him so much he must go to the toilet in his trousers. john, he is a soldier. a trained killer. we must do what he says.
+JOHN: what? what does he want?
+JOHN: what did he say? tell me!
+YURI: he says you are very sad ridiculous man. i don't agree of course. and that you must pay someone to have like a prostitute. nadia is a prostitute. i'm sorry.
+JOHN: what does he want. the russian shithead. what do you want ?
+YURI: he wants money.
+JOHN: tell him to put the kettle down and i'll give him money.
+YURI: he wants a lot of money.
+JOHN: i'll give him money. tell him to put the...
+YURI: he wants the money from your bank.
+JOHN: i'll give it to him! we'll go down there.
+YURI: you don't understand. he wants all the money that is in your bank.
+JOHN: i've got eight hundred pounds. oh
+JOHN: oh
+YURI: he is sure you can do this. of course you can not.
+JOHN: oh of course i can't.
+JOHN: just leave her alone.
+YURI: i'm so sorry.
+JOHN: leave her alone.
 
-speaker1: ah john. this is robert moseley, head of south east new business. robert, this is john buckingham. 
-speaker2: hello john.
-speaker3: hello.
-speaker1: i thought you could give us the tour this morning. sort of be our indian guide.
-speaker3: right.
-speaker2: do you play?
-speaker3: yes. i do.
-speaker4: that's john. he's always surprising you with hidden talents.
-speaker2: i used to be in a band. keyboards. sort of like very loud, uh -- very loud marillion.
-speaker4: well, maestro, give us a tune.
-speaker3: i'll give you a tune later.
-speaker1: take the ball and run with it john.
+BRANCH MANAGER: ah john. this is robert moseley, head of south east new business. robert, this is john buckingham. 
+MOSELEY: hello john.
+JOHN: hello.
+BRANCH MANAGER: i thought you could give us the tour this morning. sort of be our indian guide.
+JOHN: right.
+MOSELEY: do you play?
+JOHN: yes. i do.
+CLARE: that's john. he's always surprising you with hidden talents.
+MOSELEY: i used to be in a band. keyboards. sort of like very loud, uh -- very loud marillion.
+CLARE: well, maestro, give us a tune.
+JOHN: i'll give you a tune later.
+BRANCH MANAGER: take the ball and run with it john.
 
-speaker1: this is uh... this is the uh... 
-speaker2: morning john. give us a tune.
-speaker1: i'll give you a tune later.
-speaker1: this is where we're doing trust and uh... trust and letting go.
-speaker3: we're not doing this till the fourth quarter -- has it, uh -- any results, has it been been beneficial?
-speaker1: yes.
-speaker4: it's weird at first. sort of exciting and frightening at the same time. wouldn't you say john?
-speaker1: yes.
-speaker5: we're starting to see results. this is karen, who's uh... taking uh... it.
-speaker1: excuse me.
+JOHN: this is uh... this is the uh... 
+PASSING COLLEAGUE: morning john. give us a tune.
+JOHN: i'll give you a tune later.
+JOHN: this is where we're doing trust and uh... trust and letting go.
+MOSELEY: we're not doing this till the fourth quarter -- has it, uh -- any results, has it been been beneficial?
+JOHN: yes.
+CLARE: it's weird at first. sort of exciting and frightening at the same time. wouldn't you say john?
+JOHN: yes.
+BRANCH MANAGER: we're starting to see results. this is karen, who's uh... taking uh... it.
+JOHN: excuse me.
 
-speaker1: morning john. hey, moseley's here. 
-speaker2: i'll give you a tune later.
+COLLEAGUE: morning john. hey, moseley's here. 
+JOHN: i'll give you a tune later.
 
-speaker1: so? 
-speaker2: you first.
-speaker3: fifty thousand. almost exactly.
-speaker1: sixty four thousand, eight hundred.
-speaker2: there's over eighty thousand here.
-speaker3: sweet jesus...
-speaker2: put it in the cases. split it up. and don't forget you owe me â£150.
-speaker3: what for?
-speaker2: you know what for.
-speaker3: no i don't.
-speaker2: i got you those trousers from paul smith.
-speaker3: i've been buying you stuff all week. i've been buying him stuff all week.
-speaker2: such as?
-speaker3: when we went to the hard rock cafe. who paid? when we went to see 'cats'. who paid?
-speaker2: those aren't presents. that's normal friendship stuff
-speaker3: i paid for those guitar cases.
-speaker1: what was 'cats' like?
-speaker3: it was alright.
-speaker2: yeah it was okay.
-speaker3: yeah. it was quite good actually. some bits i really liked.
-speaker2: the sets were good.
-speaker3: the sets were excellent. everything was big, you know, all the rubbish, coke cans, sweet wrappers, dustbins, so when you were watching it you felt cat size. it was really clever.
-speaker2: so. how many times did you have to him?
+NADIA: so? 
+ALEXEI: you first.
+YURI: fifty thousand. almost exactly.
+NADIA: sixty four thousand, eight hundred.
+ALEXEI: there's over eighty thousand here.
+YURI: sweet jesus...
+ALEXEI: put it in the cases. split it up. and don't forget you owe me â£150.
+YURI: what for?
+ALEXEI: you know what for.
+YURI: no i don't.
+ALEXEI: i got you those trousers from paul smith.
+YURI: i've been buying you stuff all week. i've been buying him stuff all week.
+ALEXEI: such as?
+YURI: when we went to the hard rock cafe. who paid? when we went to see 'cats'. who paid?
+ALEXEI: those aren't presents. that's normal friendship stuff
+YURI: i paid for those guitar cases.
+NADIA: what was 'cats' like?
+YURI: it was alright.
+ALEXEI: yeah it was okay.
+YURI: yeah. it was quite good actually. some bits i really liked.
+ALEXEI: the sets were good.
+YURI: the sets were excellent. everything was big, you know, all the rubbish, coke cans, sweet wrappers, dustbins, so when you were watching it you felt cat size. it was really clever.
+ALEXEI: so. how many times did you have to him?
 
-speaker1: how you doing? 
-speaker1: i'll show you something. it should make all this easier i think.
-speaker1: not all these were like you, believe me. you should not too feel bad.
+YURI: how you doing? 
+YURI: i'll show you something. it should make all this easier i think.
+YURI: not all these were like you, believe me. you should not too feel bad.
 
-speaker1: it's enough isn't it? 
-speaker2: what do you mean?
-speaker1: you know what i mean babe, it's enough. we can stop.
-speaker2: do you want to stop?
-speaker1: yes.
-speaker2: we'll stop then.
-speaker2: what's this?
-speaker1: it's nothing. i burnt myself.
-speaker2: that's not a burn.
-speaker1: it is. i did it cooking.
-speaker2: on both wrists?
-speaker1: what? i did it cooking.
-speaker1: what?
-speaker1: listen, i made you something.
-speaker1: put it on.
-speaker1: it's taken me weeks. i want to see you in it.
-speaker1: do you like it?
-speaker2: yeah.
-speaker1: say thank you.
-speaker2: thank you.
-speaker1: we're going to have a baby.
-speaker2: what?
-speaker1: you heard what i said. i'm pregnant. i've been throwing up for weeks.
-speaker1: we're having a baby.
-speaker2: a baby? what are we supposed to do with a baby?
-speaker1: name it.
+NADIA: it's enough isn't it? 
+ALEXEI: what do you mean?
+NADIA: you know what i mean babe, it's enough. we can stop.
+ALEXEI: do you want to stop?
+NADIA: yes.
+ALEXEI: we'll stop then.
+ALEXEI: what's this?
+NADIA: it's nothing. i burnt myself.
+ALEXEI: that's not a burn.
+NADIA: it is. i did it cooking.
+ALEXEI: on both wrists?
+NADIA: what? i did it cooking.
+NADIA: what?
+NADIA: listen, i made you something.
+NADIA: put it on.
+NADIA: it's taken me weeks. i want to see you in it.
+NADIA: do you like it?
+ALEXEI: yeah.
+NADIA: say thank you.
+ALEXEI: thank you.
+NADIA: we're going to have a baby.
+ALEXEI: what?
+NADIA: you heard what i said. i'm pregnant. i've been throwing up for weeks.
+NADIA: we're having a baby.
+ALEXEI: a baby? what are we supposed to do with a baby?
+NADIA: name it.
 
-speaker1: good morning. what can i get you? 
-speaker2: i'll have an espresso, with a small pastry, a croissant or something.
-speaker1: we only do a croissant with the continental breakfast.
-speaker2: just get me a coffee.
-speaker1: one coffee. and for you sir ?
-speaker2: he'll have a coffee.
-speaker3: you can't smoke in here.
+WAITRESS: good morning. what can i get you? 
+NADIA: i'll have an espresso, with a small pastry, a croissant or something.
+WAITRESS: we only do a croissant with the continental breakfast.
+NADIA: just get me a coffee.
+WAITRESS: one coffee. and for you sir ?
+NADIA: he'll have a coffee.
+JOHN: you can't smoke in here.
 
-speaker1: i don't expect you to understand. 
-speaker2: oh, i don't know. in my job as deputy assistant of new business at the bank would have to listen to the problems of a great many individuals. this took a lot of understanding and sympathy, to try to work out solutions to their problems. but, you see, i'm not in that line of work anymore. nowadays i'm a bank robber.
-speaker1: you don't understand anything.
-speaker2: i think that about covers it. i think i have grasped the part about you being dumped though. that's got to hurt, i imagine. that's got to smart a bit. i mean strictly in my observer's capacity it seemed you two were getting on pretty famously.
-speaker2: unless. unless this is part of the routine. you get tied up, stick around, distract me, they both bust in and steal my cup of coffee.
-speaker1: it's makes it easier. okay.
-speaker2: i don't want to know.
-speaker1: it makes it faster. if i don't speak to the men, they fall faster. it's pretty obvious why.
-speaker2: that's a relief. it's nice to know i'm a regular guy.
-speaker1: so what are you going to do?
-speaker2: i'm going to drink my coffee. then, we're going to the police station. where there will be lawyers, loss of job, house, humiliation, gutter press, and probably prison.
-speaker1: they don't blame you. when a bank employee does this they understand. you get your life back. anyway i bet you hated that bank.
-speaker2: even so i always felt the decision to burst in and rob it very much remained with me.
-speaker1: why else would you send off for me? if you just wanted just go to a prostitute.
-speaker2: well as it turns out i did.
-speaker3: more coffee?
-speaker2: yes please.
-speaker1: no.
-speaker2: splendid. thank you.
-speaker3: pleasure.
-speaker1: john, i need your help.
-speaker2: you must think... i'm the biggest pillock... in the world.
-speaker1: no i don't.
-speaker2: in the world.
-speaker1: i know you just want to punish me --
-speaker2: i do. i want to very badly.
-speaker1: so you're just going to be vindictive
-speaker2: in every sense. if at all possible.
-speaker1: you can't hurt me more than i'm hurt already.
-speaker2: well, nadia, it it's all the same to you, i'd like to give it a bash.
-speaker1: my name isn't nadia.
+NADIA: i don't expect you to understand. 
+JOHN: oh, i don't know. in my job as deputy assistant of new business at the bank would have to listen to the problems of a great many individuals. this took a lot of understanding and sympathy, to try to work out solutions to their problems. but, you see, i'm not in that line of work anymore. nowadays i'm a bank robber.
+NADIA: you don't understand anything.
+JOHN: i think that about covers it. i think i have grasped the part about you being dumped though. that's got to hurt, i imagine. that's got to smart a bit. i mean strictly in my observer's capacity it seemed you two were getting on pretty famously.
+JOHN: unless. unless this is part of the routine. you get tied up, stick around, distract me, they both bust in and steal my cup of coffee.
+NADIA: it's makes it easier. okay.
+JOHN: i don't want to know.
+NADIA: it makes it faster. if i don't speak to the men, they fall faster. it's pretty obvious why.
+JOHN: that's a relief. it's nice to know i'm a regular guy.
+NADIA: so what are you going to do?
+JOHN: i'm going to drink my coffee. then, we're going to the police station. where there will be lawyers, loss of job, house, humiliation, gutter press, and probably prison.
+NADIA: they don't blame you. when a bank employee does this they understand. you get your life back. anyway i bet you hated that bank.
+JOHN: even so i always felt the decision to burst in and rob it very much remained with me.
+NADIA: why else would you send off for me? if you just wanted just go to a prostitute.
+JOHN: well as it turns out i did.
+WAITRESS: more coffee?
+JOHN: yes please.
+NADIA: no.
+JOHN: splendid. thank you.
+WAITRESS: pleasure.
+NADIA: john, i need your help.
+JOHN: you must think... i'm the biggest pillock... in the world.
+NADIA: no i don't.
+JOHN: in the world.
+NADIA: i know you just want to punish me --
+JOHN: i do. i want to very badly.
+NADIA: so you're just going to be vindictive
+JOHN: in every sense. if at all possible.
+NADIA: you can't hurt me more than i'm hurt already.
+JOHN: well, nadia, it it's all the same to you, i'd like to give it a bash.
+NADIA: my name isn't nadia.
 
-speaker1: where's the restroom? 
-speaker2: what?
-speaker1: i'm going to be sick. where's the...
-speaker2: what? no you're not..
-speaker1: i'm going... i am... i'm going to be sick.
-speaker2: no you're not. how... nice one. how do you think i am ?
-speaker1: where's the restroom?
-speaker3: the what, love?
-speaker1: the toilet. where's...
-speaker3: down there on the left.
+NADIA: where's the restroom? 
+JOHN: what?
+NADIA: i'm going to be sick. where's the...
+JOHN: what? no you're not..
+NADIA: i'm going... i am... i'm going to be sick.
+JOHN: no you're not. how... nice one. how do you think i am ?
+NADIA: where's the restroom?
+SERGEANT: the what, love?
+NADIA: the toilet. where's...
+SERGEANT: down there on the left.
 
-speaker1: can i help you? 
-speaker1: sir? can i help you?
-speaker2: no.
+POLICEMAN: can i help you? 
+POLICEMAN: sir? can i help you?
+JOHN: no.
 
-speaker1: what are you doing? 
-speaker2: get in the car.
+NADIA: what are you doing? 
+JOHN: get in the car.
 
-speaker1: plenty of women have babies in prison. 
-speaker1: you don't have to do this. i can look after myself.
-speaker2: have you got your passport?
-speaker1: what?
-speaker2: shut up. have you got your passport?
-speaker1: yes.
-speaker2: we've got to get off this motor-way.
+NADIA: plenty of women have babies in prison. 
+NADIA: you don't have to do this. i can look after myself.
+JOHN: have you got your passport?
+NADIA: what?
+JOHN: shut up. have you got your passport?
+NADIA: yes.
+JOHN: we've got to get off this motor-way.
 
-speaker1: give me some money. 
-speaker2: i don't have any money.
-speaker1: what?
-speaker2: i said i don't have any.
-speaker1: give me your sunglasses.
+JOHN: give me some money. 
+NADIA: i don't have any money.
+JOHN: what?
+NADIA: i said i don't have any.
+JOHN: give me your sunglasses.
 
-speaker1: so, uh, alexei, which i know isn't his name... 
-speaker2: i don't want to talk about him.
-speaker1: fine.
-speaker2: it's none of your business.
-speaker1: fine. absolutely. must be disappointing though. must come as a of a shock.
-speaker1: so uh...
-speaker2: look, if you want to know is he better in bed than you then yes he is.
-speaker1: oh
-speaker2: if what you want to know is does he have a bigger than you, then yes he does.
-speaker1: of course. of course. of course he does. of course. thank you. thanks.
-speaker2: but, you know, so what?
-speaker1: it's his baby i take it.
-speaker1: not the kids type then is he? not that broody. you must be pretty miffed.
-speaker2: he will come back.
-speaker1: excuse me?
-speaker2: he left me my passport and ticket. it's pretty clear he wants to see me again.
-speaker1: yeah. i tend to tie up and abandon women i really want to see again too.
-speaker2: no. but you tend to tie them up.
-speaker1: off.
-speaker1: off. you started it.
-speaker1: i don't want to talk about it.
-speaker2: why not?
-speaker1: shut up. i'm not listening.
-speaker2: you don't want to talk about it.
-speaker1: no.
-speaker2: okay we won't talk about it.
-speaker2: we'll pretend it never happened.
-speaker1: so. what's it like having to men you hate?
-speaker2: i don't hate you.
-speaker1: okay. let's... okay. okay. you have had with people you don't like haven't you? for money. to make money.
-speaker2: and? what are you saying?
-speaker1: and. it's wrong.
-speaker2: and who says what is wrong.
-speaker1: and that would be morals. that would be one's own moral sense of decency.
-speaker2: what's a moral john? tell me how it feels exactly.
-speaker1: so. what then? you just detach from everything..
-speaker2: whereas "wet 'n' wild" is an emotional journey. "tied and tethered". it's pretty moving huh? like anna karenina.
-speaker1: listen. i didn't go rooting around in your private stuff.
-speaker2: funny. usually it's the first thing they do.
-speaker1: so what? do you just switch off in your head or do you imagine you're with him, or what?
-speaker2: sometimes.
-speaker1: sometimes which?
-speaker2: sometimes neither.
-speaker1: some... what does that mean?
-speaker2: there's nothing wrong in liking sex, john.
-speaker1: i don't like sex. i don't think i'll be having ever again.
-speaker2: why?
-speaker1: well, it's just that the thought trying to charm up an erection in front of a woman, or alone for that matter, makes me want to die.
-speaker2: so now you hate all women?
-speaker1: i think it's my safest bet, don't you?
-speaker2: oh. i think you will recover okay. i think you got what you paid for.
-speaker1: what?
-speaker2: you...
-speaker1: i got what i paid for.
-speaker2: you didn't mind too much.
-speaker1: it wasn't what i wanted.
-speaker2: so what did you want? i think we understand each other, no?
-speaker1: you don't understand me.
-speaker2: you don't understand you either.
-speaker2: it's no big thing. you are the same as most men. you are a man so you are a savage. not a monster, but half animal. you put on a tie and you go to the bank, but really you are a beast. but also you are from woman so you have a soul. half beast, half soul. but you hide your beast in the bottom of the wardrobe. it's not so healthy. it's you up, no?
-speaker1: get out.
-speaker2: excuse me?
-speaker1: get out
-speaker2: you are throwing me out.
-speaker1: get out.
-speaker2: you prefer your women mute.
-speaker2: car trouble?
+JOHN: so, uh, alexei, which i know isn't his name... 
+NADIA: i don't want to talk about him.
+JOHN: fine.
+NADIA: it's none of your business.
+JOHN: fine. absolutely. must be disappointing though. must come as a of a shock.
+JOHN: so uh...
+NADIA: look, if you want to know is he better in bed than you then yes he is.
+JOHN: oh
+NADIA: if what you want to know is does he have a bigger than you, then yes he does.
+JOHN: of course. of course. of course he does. of course. thank you. thanks.
+NADIA: but, you know, so what?
+JOHN: it's his baby i take it.
+JOHN: not the kids type then is he? not that broody. you must be pretty miffed.
+NADIA: he will come back.
+JOHN: excuse me?
+NADIA: he left me my passport and ticket. it's pretty clear he wants to see me again.
+JOHN: yeah. i tend to tie up and abandon women i really want to see again too.
+NADIA: no. but you tend to tie them up.
+JOHN: off.
+JOHN: off. you started it.
+JOHN: i don't want to talk about it.
+NADIA: why not?
+JOHN: shut up. i'm not listening.
+NADIA: you don't want to talk about it.
+JOHN: no.
+NADIA: okay we won't talk about it.
+NADIA: we'll pretend it never happened.
+JOHN: so. what's it like having to men you hate?
+NADIA: i don't hate you.
+JOHN: okay. let's... okay. okay. you have had with people you don't like haven't you? for money. to make money.
+NADIA: and? what are you saying?
+JOHN: and. it's wrong.
+NADIA: and who says what is wrong.
+JOHN: and that would be morals. that would be one's own moral sense of decency.
+NADIA: what's a moral john? tell me how it feels exactly.
+JOHN: so. what then? you just detach from everything..
+NADIA: whereas "wet 'n' wild" is an emotional journey. "tied and tethered". it's pretty moving huh? like anna karenina.
+JOHN: listen. i didn't go rooting around in your private stuff.
+NADIA: funny. usually it's the first thing they do.
+JOHN: so what? do you just switch off in your head or do you imagine you're with him, or what?
+NADIA: sometimes.
+JOHN: sometimes which?
+NADIA: sometimes neither.
+JOHN: some... what does that mean?
+NADIA: there's nothing wrong in liking sex, john.
+JOHN: i don't like sex. i don't think i'll be having ever again.
+NADIA: why?
+JOHN: well, it's just that the thought trying to charm up an erection in front of a woman, or alone for that matter, makes me want to die.
+NADIA: so now you hate all women?
+JOHN: i think it's my safest bet, don't you?
+NADIA: oh. i think you will recover okay. i think you got what you paid for.
+JOHN: what?
+NADIA: you...
+JOHN: i got what i paid for.
+NADIA: you didn't mind too much.
+JOHN: it wasn't what i wanted.
+NADIA: so what did you want? i think we understand each other, no?
+JOHN: you don't understand me.
+NADIA: you don't understand you either.
+NADIA: it's no big thing. you are the same as most men. you are a man so you are a savage. not a monster, but half animal. you put on a tie and you go to the bank, but really you are a beast. but also you are from woman so you have a soul. half beast, half soul. but you hide your beast in the bottom of the wardrobe. it's not so healthy. it's you up, no?
+JOHN: get out.
+NADIA: excuse me?
+JOHN: get out
+NADIA: you are throwing me out.
+JOHN: get out.
+NADIA: you prefer your women mute.
+NADIA: car trouble?
 
-speaker1: it's another twenty miles. it's going dark. 
-speaker1: what now?
-speaker2: you weren't even on the plane.
+NADIA: it's another twenty miles. it's going dark. 
+NADIA: what now?
+JOHN: you weren't even on the plane.
 
-speaker1: you know, in russia, there's no work for women. it's a different world. 
-speaker2: you don't have to say anything
-speaker1: what? i... i wasn't saying...
-speaker2: please, there's no... oh.
-speaker1: i wasn't saying anything.
-speaker2: then okay. so how old were you when you met him?
-speaker1: fifteen. you don't know him. he was very kind and strong.
-speaker2: yeah. he's a smashing bloke.
-speaker1: the rest of the world, john, it's not all like st. albans.
-speaker2: thank christ for that.
-speaker1: you are pretty naive if you think it is.
-speaker2: i'm pretty naive? look at you. you have to do all this, and what have you got to show for it? nothing.
-speaker1: i don't have nothing.
-speaker2: well what have you got?
-speaker1: i have my baby.
-speaker2: do you know if it's a boy or a girl?
-speaker1: no.
-speaker2: have you had any before?
-speaker1: no.
-speaker2: are you scared?
-speaker1: not really. maybe a little.
-speaker1: listen. i think it's a fox.
-speaker1: it sounds close.
-speaker1: i can't see anything. it's too dark.
-speaker1: what happened between you and the blonde?
-speaker2: what?
-speaker1: the thin... the girl with small eyes. the one in your cupboard.
-speaker2: it's none of your business. she didn't have small eyes.
-speaker1: did she leave you? come on. it's nothing to be ashamed of. who did she leave you for? your best friend? her boss? a woman? did she leave you for a woman, john?
-speaker2: she's dead.
-speaker1: i'm sorry. i didn't mean to hurt you. i'm sorry. that's awful. forgive me.
-speaker1: i'm sorry.
-speaker2: i don't know why i said that. she's not dead at all.
-speaker1: what?
-speaker2: i don't know why i said it. i'm sorry.
-speaker1: she's alive?
-speaker1: she's alive!! she is not dead?
-speaker2: laugh it up.
-speaker2: you should stop smoking. you're pregnant. you smoke like a lab dog.
-speaker1: i'm trying to quit.
-speaker2: i've got news for you. it's not working.
-speaker1: i smoke more these days. i smoke more when i'm unhappy.
-speaker2: nobody's that unhappy.
-speaker1: maybe i want to die. don't you want me to die?
-speaker2: i don't want anyone to die.
-speaker1: except for small eyes.
-speaker2: except for small eyes.
-speaker1: so why did it end?
-speaker2: i don't know.
-speaker1: what was her name?
-speaker2: what's your name?
-speaker1: listen. it's definitely a fox. now i'm scared.
-speaker1: you know you can come under the blanket.
-speaker2: it's alright.
+NADIA: you know, in russia, there's no work for women. it's a different world. 
+JOHN: you don't have to say anything
+NADIA: what? i... i wasn't saying...
+JOHN: please, there's no... oh.
+NADIA: i wasn't saying anything.
+JOHN: then okay. so how old were you when you met him?
+NADIA: fifteen. you don't know him. he was very kind and strong.
+JOHN: yeah. he's a smashing bloke.
+NADIA: the rest of the world, john, it's not all like st. albans.
+JOHN: thank christ for that.
+NADIA: you are pretty naive if you think it is.
+JOHN: i'm pretty naive? look at you. you have to do all this, and what have you got to show for it? nothing.
+NADIA: i don't have nothing.
+JOHN: well what have you got?
+NADIA: i have my baby.
+JOHN: do you know if it's a boy or a girl?
+NADIA: no.
+JOHN: have you had any before?
+NADIA: no.
+JOHN: are you scared?
+NADIA: not really. maybe a little.
+NADIA: listen. i think it's a fox.
+NADIA: it sounds close.
+NADIA: i can't see anything. it's too dark.
+NADIA: what happened between you and the blonde?
+JOHN: what?
+NADIA: the thin... the girl with small eyes. the one in your cupboard.
+JOHN: it's none of your business. she didn't have small eyes.
+NADIA: did she leave you? come on. it's nothing to be ashamed of. who did she leave you for? your best friend? her boss? a woman? did she leave you for a woman, john?
+JOHN: she's dead.
+NADIA: i'm sorry. i didn't mean to hurt you. i'm sorry. that's awful. forgive me.
+NADIA: i'm sorry.
+JOHN: i don't know why i said that. she's not dead at all.
+NADIA: what?
+JOHN: i don't know why i said it. i'm sorry.
+NADIA: she's alive?
+NADIA: she's alive!! she is not dead?
+JOHN: laugh it up.
+JOHN: you should stop smoking. you're pregnant. you smoke like a lab dog.
+NADIA: i'm trying to quit.
+JOHN: i've got news for you. it's not working.
+NADIA: i smoke more these days. i smoke more when i'm unhappy.
+JOHN: nobody's that unhappy.
+NADIA: maybe i want to die. don't you want me to die?
+JOHN: i don't want anyone to die.
+NADIA: except for small eyes.
+JOHN: except for small eyes.
+NADIA: so why did it end?
+JOHN: i don't know.
+NADIA: what was her name?
+JOHN: what's your name?
+NADIA: listen. it's definitely a fox. now i'm scared.
+NADIA: you know you can come under the blanket.
+JOHN: it's alright.
 
-speaker1: i've got an hour. can i buy you a coffee? 
-speaker2: no. i think i better just go.
-speaker1: okay. thank you.
-speaker2: whatever.
-speaker1: john. these are for you.
-speaker2: yeah. no thanks.
-speaker1: please. why not?
-speaker2: because it was a lie.
-speaker1: no it wasn't.
-speaker1: goodbye.
+NADIA: i've got an hour. can i buy you a coffee? 
+JOHN: no. i think i better just go.
+NADIA: okay. thank you.
+JOHN: whatever.
+NADIA: john. these are for you.
+JOHN: yeah. no thanks.
+NADIA: please. why not?
+JOHN: because it was a lie.
+NADIA: no it wasn't.
+NADIA: goodbye.
 
-speaker1: i love you. i don't need to tell you that. 
-speaker1: i wouldn't leave my child would i? you know that. i was confused. that's all.
+ALEXEI: i love you. i don't need to tell you that. 
+ALEXEI: i wouldn't leave my child would i? you know that. i was confused. that's all.
 
-speaker1: you still love me? eh? of course you do. come here. yuri won't be here for a while. come on babe. 
-speaker2: what are you doing here?
-speaker1: what the is he doing here?
-speaker1: that's that cigarette lighter i gave you isn't it?
-speaker2: stop.
-speaker1: what? what are you doing?
-speaker2: what are you doing here?
-speaker2: stop it!
-speaker1: what. you're what? you're with this creep now.
-speaker2: leave him!
-speaker1: you have. you've actually fallen for this prick.
-speaker2: no i haven't.
-speaker1: babe it's me. i won't let you get away.
-speaker2: i'll kill you if you try.
+ALEXEI: you still love me? eh? of course you do. come here. yuri won't be here for a while. come on babe. 
+NADIA: what are you doing here?
+ALEXEI: what the is he doing here?
+ALEXEI: that's that cigarette lighter i gave you isn't it?
+NADIA: stop.
+ALEXEI: what? what are you doing?
+NADIA: what are you doing here?
+NADIA: stop it!
+ALEXEI: what. you're what? you're with this creep now.
+NADIA: leave him!
+ALEXEI: you have. you've actually fallen for this prick.
+NADIA: no i haven't.
+ALEXEI: babe it's me. i won't let you get away.
+NADIA: i'll kill you if you try.
 
-speaker1: get their passports. 
-speaker2: don't do this.
-speaker1: get your money.
+NADIA: get their passports. 
+ALEXEI: don't do this.
+NADIA: get your money.
 
-speaker1: are you okay? 
-speaker1: okay. goodbye.
-speaker2: goodbye.
-speaker1: what will you do now?
-speaker2: something else.
-speaker1: okay. promise?
-speaker2: promise.
-speaker1: you can probably buy them on the flight.
-speaker2: i'm quitting. this will be my last one. so. goodbye.
-speaker1: goodbye.
-speaker2: you didn't deserve me john buckingham.
-speaker1: whatever.
-speaker2: i'm sorry.
-speaker1: please.
-speaker2: you prefer your women...
-speaker3: gate closing for flight 1311 to moscow. please have your tickets ready.
-speaker2: it's not mine.
-speaker1: it's not mine either.
-speaker2: it's what you came back for.
-speaker2: you're a big surprise, you know.
-speaker1: yeah, you see when i said i didn't speak russian i wasn't actually just making it up.
-speaker1: why?
-speaker2: i'm not asking you to marry me.
-speaker1: no. what? no. i know.
-speaker2: it's more like a date.
-speaker1: it's a long way to go for a date.
-speaker2: tell me about it.
-speaker2: all that matters is to try...
-speaker2: we can only try. say it.
-speaker1: what does it mean?
-speaker2: maybe you will find out.
-speaker2: hurry. i'll wait for you here.
-speaker1: right.
+JOHN: are you okay? 
+JOHN: okay. goodbye.
+NADIA: goodbye.
+JOHN: what will you do now?
+NADIA: something else.
+JOHN: okay. promise?
+NADIA: promise.
+JOHN: you can probably buy them on the flight.
+NADIA: i'm quitting. this will be my last one. so. goodbye.
+JOHN: goodbye.
+NADIA: you didn't deserve me john buckingham.
+JOHN: whatever.
+NADIA: i'm sorry.
+JOHN: please.
+NADIA: you prefer your women...
+ANNOUNCEMENT: gate closing for flight 1311 to moscow. please have your tickets ready.
+NADIA: it's not mine.
+JOHN: it's not mine either.
+NADIA: it's what you came back for.
+NADIA: you're a big surprise, you know.
+JOHN: yeah, you see when i said i didn't speak russian i wasn't actually just making it up.
+JOHN: why?
+NADIA: i'm not asking you to marry me.
+JOHN: no. what? no. i know.
+NADIA: it's more like a date.
+JOHN: it's a long way to go for a date.
+NADIA: tell me about it.
+NADIA: all that matters is to try...
+NADIA: we can only try. say it.
+JOHN: what does it mean?
+NADIA: maybe you will find out.
+NADIA: hurry. i'll wait for you here.
+JOHN: right.
 
-speaker1: is the flight full? 
-speaker2: i'm sorry sir. i believe the flight is closed.
-speaker1: please check. is it full? please could you check.
+JOHN: is the flight full? 
+OFFICIAL: i'm sorry sir. i believe the flight is closed.
+JOHN: please check. is it full? please could you check.
 
-speaker1: you have excellent english. 
-speaker2: thanks.
-speaker1: how do you want to pay?
-speaker2: cash.
+OFFICIAL: you have excellent english. 
+JOHN: thanks.
+OFFICIAL: how do you want to pay?
+JOHN: cash.
 
-speaker1: excuse me sir... 
-speaker2: okay. come with us now.
-speaker1: he doesn't speak english. he's epileptic or something.
-speaker2: can he walk? can you walk?
+POLICE 1: excuse me sir... 
+POLICE 2: okay. come with us now.
+POLICE 1: he doesn't speak english. he's epileptic or something.
+POLICE 2: can he walk? can you walk?
 
-speaker1: my name's sophia. 
-speaker2: sophia. hello sophia. mine's still john.
-speaker3: hello john.
+NADIA: my name's sophia. 
+JOHN: sophia. hello sophia. mine's still john.
+SOPHIA: hello john.
 
-speaker1: nadia! 
-speaker1: nadia!
+WOMAN'S VOICE: nadia! 
+WOMAN'S VOICE: nadia!
 

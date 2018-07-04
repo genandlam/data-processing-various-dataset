@@ -1,809 +1,809 @@
-speaker1: hotel mondial. 
-speaker2: le mondial. tres bien.
-speaker2: avec cette pluie ca risque de prendre un moment. l'autoroute est ferme. a cause du 14 juillet. he drives for a while.
-speaker2: [do you mind the radio?]
-speaker2: [do you want me to turn the radio off?]
-speaker1: i don't speak french.
-speaker2: ah. american?
-speaker1: that's right.
-speaker2: that's good because i speak a little english.
-speaker2: i asked if you mind the radio. music. you know.
-speaker2: super cool.
-speaker1: what time is it?
-speaker2: time, time, time. i don't know. daytime.
-speaker2: are you in town for business?
-speaker1: yes.
-speaker2: it's a nice hotel. your hotel. very big rooms. he looks at zed in the rear view mirror.
-speaker2: do you know paris?
-speaker1: i've been here once before. when i was younger.
-speaker2: those were the days.
-speaker2: married?
-speaker1: i beg your pardon?
-speaker2: do you have a wife?
-speaker1: no. why?
-speaker2: well, if you need a wife for the night... une escorte. pour vous faire visiter. for business. i give you my number. very nice girl. french. like when you were young.
-speaker2: know what i mean?
-speaker2: speaks the language of love. take you to heaven and back. you just tell me and i set it up. zed shakes his head and laughs.
-speaker2: what you laughing at? you let moises set it up. she treat you right. she treat you fine.
+ZED: hotel mondial. 
+CAB DRIVER: le mondial. tres bien.
+CAB DRIVER: avec cette pluie ca risque de prendre un moment. l'autoroute est ferme. a cause du 14 juillet. he drives for a while.
+CAB DRIVER: [do you mind the radio?]
+CAB DRIVER: [do you want me to turn the radio off?]
+ZED: i don't speak french.
+CAB DRIVER: ah. american?
+ZED: that's right.
+CAB DRIVER: that's good because i speak a little english.
+CAB DRIVER: i asked if you mind the radio. music. you know.
+CAB DRIVER: super cool.
+ZED: what time is it?
+CAB DRIVER: time, time, time. i don't know. daytime.
+CAB DRIVER: are you in town for business?
+ZED: yes.
+CAB DRIVER: it's a nice hotel. your hotel. very big rooms. he looks at zed in the rear view mirror.
+CAB DRIVER: do you know paris?
+ZED: i've been here once before. when i was younger.
+CAB DRIVER: those were the days.
+CAB DRIVER: married?
+ZED: i beg your pardon?
+CAB DRIVER: do you have a wife?
+ZED: no. why?
+CAB DRIVER: well, if you need a wife for the night... une escorte. pour vous faire visiter. for business. i give you my number. very nice girl. french. like when you were young.
+CAB DRIVER: know what i mean?
+CAB DRIVER: speaks the language of love. take you to heaven and back. you just tell me and i set it up. zed shakes his head and laughs.
+CAB DRIVER: what you laughing at? you let moises set it up. she treat you right. she treat you fine.
 
-speaker1: your package...it arrived in the last night of before last night. 
-speaker1: ah...telephone, for the room service.
-speaker1: the toilet.
-speaker1: to hang the clothes.
-speaker1: from here you can operate the television. then he pauses at the door before he goes out.
-speaker1: merci.
-speaker2: oh, wait.
-speaker2: what time is it?
-speaker1: what time is it?
-speaker2: time.
-speaker1: ah. yes. il est presque huit heures moins dix.
+BELLBOY: your package...it arrived in the last night of before last night. 
+BELLBOY: ah...telephone, for the room service.
+BELLBOY: the toilet.
+BELLBOY: to hang the clothes.
+BELLBOY: from here you can operate the television. then he pauses at the door before he goes out.
+BELLBOY: merci.
+ZED: oh, wait.
+ZED: what time is it?
+BELLBOY: what time is it?
+ZED: time.
+BELLBOY: ah. yes. il est presque huit heures moins dix.
 
-speaker1: bonjour. 
-speaker2: bonjour.
-speaker1: wow. vous avez une belle chambre. je ne suis jamais venue dans cet hotel.
-speaker1: ca sera 150 francs de l'heure. toute la nuit pour 700. d'avance. et faudra porter un--
-speaker2: i...don't speak french.
-speaker1: it's okay.
-speaker1: it will be one thousand francs for all night. in advance.
-speaker1: we can do it now if you want.
-speaker2: well, let me just dry up.
-speaker1: okay, but it's not necessary.
-speaker2: what's your name?
-speaker1: zoe or zoey. which ever you like.
-speaker2: my name's zed.
-speaker2: what was that?
-speaker1: you can take those off. the pants.
-speaker2: i'd rather watch you get undressed first.
-speaker1: alright.
-speaker2: slower. he lays down on the bed.
-speaker1: alright mister america. zed.
-speaker1: slow enough for you?
-speaker1: c'etait formidable.
-speaker1: i'm cold.
-speaker1: zed?
-speaker2: yes?
-speaker1: moises told me you were in town for business.
-speaker2: yes.
-speaker1: what kind of business?
-speaker2: why?
-speaker1: i don't know. i'm just curious.
-speaker2: do you ask all your clients questions?
-speaker1: no. just the ones i like.
-speaker2: so you like me?
-speaker1: yes.
-speaker2: why?
-speaker1: because you're...a good person. i run into some real creeps. you know.
-speaker2: how do you know i'm a good person?
-speaker1: body language. we fit together.
-speaker2: all men and women fit together. hell, even some men fit together.
-speaker1: no, but you know, we clicked. you made me orgasm. do you know how often i with a man moises sets me up with?
-speaker2: no i don't.
-speaker1: usually never. they're almost always fat like pigs. zed laughs at this.
-speaker1: and you make me feel safe. that's something more important than the orgasm. an integral part maybe of the orgasm.
-speaker2: i never really thought of it like that.
-speaker1: well, it's true.
-speaker1: turn off the television.
-speaker1: so i mean it when i tell you zed, i like you very much.
-speaker2: well, i like you too zoe.
-speaker1: honest?
-speaker1: why? for the same reason? any man can orgasm. even with his own hand.
-speaker2: well, i like your honesty. you're open. unlike most prostitutes i've been with.
-speaker1: i am not a prostitute!
-speaker2: really? can i have my francs back then?
-speaker1: i'm a student. and to pay for the classes i became an escort. it's my choice to sleep with you.
-speaker2: i see.
-speaker1: what? you don't understand.
-speaker2: no, i do.
-speaker1: hey, it's not easy.
-speaker2: i didn't say it was.
-speaker1: i'm here because i want to.
-speaker2: okay, okay relax. what school do you go to?
-speaker1: the centre du art, paris.
-speaker2: that's really interesting. what kind of art do you study?
-speaker1: not any of the old
-speaker2: oh.
-speaker1: i have a day job too. three times a week.
-speaker1: but someday there will be only my art.
-speaker2: what kind of things do you paint?
-speaker1: i don't paint. i make things. objects. not like sculpture. like life...but with no narrative. i want when someone looks at one of my objects for there to be no reference to the world. void of feeling, emotion...void of destiny. those are left for me. they belong only to me. if someone else can see into it...then it is no longer mine. i have failed. and i would destroy it. i don't care how much cash they would offer me. it would be i can't tell you how many objects of mine have been destroyed. they told too much about me. and if someone wants to know something about me...i'll tell them myself. the way i'm telling you.
-speaker1: what i do i do only for the objects.
-speaker2: i'd like to see one of these.
-speaker1: what? so you could see the work of a whore?
-speaker2: zoey. i'm sorry for calling you a prostitute. i didn't understand the difference.
-speaker1: the difference is a prostitute would have lied to you about her orgasm. he gives her a kiss.
-speaker2: if these things you make are as true as you are...i'm sure they're as indescribable. perhaps, someday, you'll make one...about me.
-speaker1: if i do...you'll never know which one it is. because i'll be the only one who understands. i'll be the only one who can look into it and see where in my life it came from.
+ZOEY: bonjour. 
+ZED: bonjour.
+ZOEY: wow. vous avez une belle chambre. je ne suis jamais venue dans cet hotel.
+ZOEY: ca sera 150 francs de l'heure. toute la nuit pour 700. d'avance. et faudra porter un--
+ZED: i...don't speak french.
+ZOEY: it's okay.
+ZOEY: it will be one thousand francs for all night. in advance.
+ZOEY: we can do it now if you want.
+ZED: well, let me just dry up.
+ZOEY: okay, but it's not necessary.
+ZED: what's your name?
+ZOEY: zoe or zoey. which ever you like.
+ZED: my name's zed.
+ZED: what was that?
+ZOEY: you can take those off. the pants.
+ZED: i'd rather watch you get undressed first.
+ZOEY: alright.
+ZED: slower. he lays down on the bed.
+ZOEY: alright mister america. zed.
+ZOEY: slow enough for you?
+ZOEY: c'etait formidable.
+ZOEY: i'm cold.
+ZOEY: zed?
+ZED: yes?
+ZOEY: moises told me you were in town for business.
+ZED: yes.
+ZOEY: what kind of business?
+ZED: why?
+ZOEY: i don't know. i'm just curious.
+ZED: do you ask all your clients questions?
+ZOEY: no. just the ones i like.
+ZED: so you like me?
+ZOEY: yes.
+ZED: why?
+ZOEY: because you're...a good person. i run into some real creeps. you know.
+ZED: how do you know i'm a good person?
+ZOEY: body language. we fit together.
+ZED: all men and women fit together. hell, even some men fit together.
+ZOEY: no, but you know, we clicked. you made me orgasm. do you know how often i with a man moises sets me up with?
+ZED: no i don't.
+ZOEY: usually never. they're almost always fat like pigs. zed laughs at this.
+ZOEY: and you make me feel safe. that's something more important than the orgasm. an integral part maybe of the orgasm.
+ZED: i never really thought of it like that.
+ZOEY: well, it's true.
+ZOEY: turn off the television.
+ZOEY: so i mean it when i tell you zed, i like you very much.
+ZED: well, i like you too zoe.
+ZOEY: honest?
+ZOEY: why? for the same reason? any man can orgasm. even with his own hand.
+ZED: well, i like your honesty. you're open. unlike most prostitutes i've been with.
+ZOEY: i am not a prostitute!
+ZED: really? can i have my francs back then?
+ZOEY: i'm a student. and to pay for the classes i became an escort. it's my choice to sleep with you.
+ZED: i see.
+ZOEY: what? you don't understand.
+ZED: no, i do.
+ZOEY: hey, it's not easy.
+ZED: i didn't say it was.
+ZOEY: i'm here because i want to.
+ZED: okay, okay relax. what school do you go to?
+ZOEY: the centre du art, paris.
+ZED: that's really interesting. what kind of art do you study?
+ZOEY: not any of the old
+ZED: oh.
+ZOEY: i have a day job too. three times a week.
+ZOEY: but someday there will be only my art.
+ZED: what kind of things do you paint?
+ZOEY: i don't paint. i make things. objects. not like sculpture. like life...but with no narrative. i want when someone looks at one of my objects for there to be no reference to the world. void of feeling, emotion...void of destiny. those are left for me. they belong only to me. if someone else can see into it...then it is no longer mine. i have failed. and i would destroy it. i don't care how much cash they would offer me. it would be i can't tell you how many objects of mine have been destroyed. they told too much about me. and if someone wants to know something about me...i'll tell them myself. the way i'm telling you.
+ZOEY: what i do i do only for the objects.
+ZED: i'd like to see one of these.
+ZOEY: what? so you could see the work of a whore?
+ZED: zoey. i'm sorry for calling you a prostitute. i didn't understand the difference.
+ZOEY: the difference is a prostitute would have lied to you about her orgasm. he gives her a kiss.
+ZED: if these things you make are as true as you are...i'm sure they're as indescribable. perhaps, someday, you'll make one...about me.
+ZOEY: if i do...you'll never know which one it is. because i'll be the only one who understands. i'll be the only one who can look into it and see where in my life it came from.
 
-speaker1: what time is it? 
-speaker2: i have no idea. night time.
-speaker1: i'm going to take a shower.
-speaker3: hey you madman!
-speaker2: eric. come in.
-speaker3: what happened to you? i thought you were going to call.
-speaker3: oh i see. you have been busy.
-speaker2: sorry, i asked the hotel to give me a wake up call.
-speaker3: that's good, but now i am here. so let's go. we have a lot to talk about.
-speaker2: what about the girl?
-speaker3: is she your girlfriend?
-speaker2: no.
-speaker3: her.
-speaker3: she's a dishrag whore. kick her out.
-speaker2: i'll let her stay here tonight.
-speaker3: don't be silly. it's dangerous.
+ZOEY: what time is it? 
+ZED: i have no idea. night time.
+ZOEY: i'm going to take a shower.
+ERIC: hey you madman!
+ZED: eric. come in.
+ERIC: what happened to you? i thought you were going to call.
+ERIC: oh i see. you have been busy.
+ZED: sorry, i asked the hotel to give me a wake up call.
+ERIC: that's good, but now i am here. so let's go. we have a lot to talk about.
+ZED: what about the girl?
+ERIC: is she your girlfriend?
+ZED: no.
+ERIC: her.
+ERIC: she's a dishrag whore. kick her out.
+ZED: i'll let her stay here tonight.
+ERIC: don't be silly. it's dangerous.
 
-speaker1: [okay. get out of the shower. it's time for you to leave.] 
-speaker2: [fuck you.]
-speaker1: [no. come on you slut!] she shrieks.
-speaker2: [let go of me you shit!!]
-speaker3: eric.
-speaker1: don't worry about her. [why don't you just go back to your pimp and his black dick!] she bites his hand. he yells in pain.
-speaker1: it!
-speaker1: [get the out of here you whore!]
-speaker2: [give me my clothes you asshole!]
-speaker1: it. look at my hand.
-speaker3: eric.
-speaker2: ouvres! je veux mes habits!
-speaker1: oh her clothes.
-speaker2: tu te prends pour qui espece de connard!?
-speaker1: la ferme! he slams the door shut.
-speaker1: so tell me, what have you been up to?
-speaker2: allez vous faire enculer tous le deux!
-speaker3: eric, i liked that girl.
-speaker1: oh. well, then why didn't you stop me.
-speaker3: because you were on a rampage.
-speaker1: look, your whole life you've done nothing but whores. a girl like that will give you aids. why don't you find a nice girl in the suburbs?
-speaker3: because when you need to get off you don't want to have to date for months to do it.
-speaker1: just use your hand like me.
-speaker3: sometimes you just need honesty...and security.
-speaker1: i don't understand. anyway, it's too late. get dressed, let's go out and meet the boys.
-speaker3: okay, let me take a shower.
-speaker1: no, in paris it's good to smell like you've been it will make them respect you.
-speaker3: oh.
-speaker1: just put on a shirt and a sport coat.
+ERIC: [okay. get out of the shower. it's time for you to leave.] 
+ZOEY: [fuck you.]
+ERIC: [no. come on you slut!] she shrieks.
+ZOEY: [let go of me you shit!!]
+ZED: eric.
+ERIC: don't worry about her. [why don't you just go back to your pimp and his black dick!] she bites his hand. he yells in pain.
+ERIC: it!
+ERIC: [get the out of here you whore!]
+ZOEY: [give me my clothes you asshole!]
+ERIC: it. look at my hand.
+ZED: eric.
+ZOEY: ouvres! je veux mes habits!
+ERIC: oh her clothes.
+ZOEY: tu te prends pour qui espece de connard!?
+ERIC: la ferme! he slams the door shut.
+ERIC: so tell me, what have you been up to?
+ZOEY: allez vous faire enculer tous le deux!
+ZED: eric, i liked that girl.
+ERIC: oh. well, then why didn't you stop me.
+ZED: because you were on a rampage.
+ERIC: look, your whole life you've done nothing but whores. a girl like that will give you aids. why don't you find a nice girl in the suburbs?
+ZED: because when you need to get off you don't want to have to date for months to do it.
+ERIC: just use your hand like me.
+ZED: sometimes you just need honesty...and security.
+ERIC: i don't understand. anyway, it's too late. get dressed, let's go out and meet the boys.
+ZED: okay, let me take a shower.
+ERIC: no, in paris it's good to smell like you've been it will make them respect you.
+ZED: oh.
+ERIC: just put on a shirt and a sport coat.
 
-speaker1: i'm glad you came. how long has it been? 
-speaker2: years.
-speaker1: it's amazing, you know? here you are. one day in america. now here.
-speaker2: well, to be honest there really wasn't much happening for me in the states.
-speaker1: but in paris your old friend eric has a job for you, so you came. that's good.
-speaker2: how could i resist your invitation?
-speaker1: you would have been stupid to.
-speaker2: so what have you been doing here?
-speaker1: after school i spent some time in algeria studying african philosophy. and then i bummed around. you know. for fun. for a while i worked at le figaro. the newspaper.
-speaker2: really?
-speaker1: yes. with an assumed masters degree. and lately we have just been bombing fascists here in paris. you know, like terrorists.
-speaker1: it's fun.
+ERIC: i'm glad you came. how long has it been? 
+ZED: years.
+ERIC: it's amazing, you know? here you are. one day in america. now here.
+ZED: well, to be honest there really wasn't much happening for me in the states.
+ERIC: but in paris your old friend eric has a job for you, so you came. that's good.
+ZED: how could i resist your invitation?
+ERIC: you would have been stupid to.
+ZED: so what have you been doing here?
+ERIC: after school i spent some time in algeria studying african philosophy. and then i bummed around. you know. for fun. for a while i worked at le figaro. the newspaper.
+ZED: really?
+ERIC: yes. with an assumed masters degree. and lately we have just been bombing fascists here in paris. you know, like terrorists.
+ERIC: it's fun.
 
-speaker1: the people next door are on holiday. we took their phone. if you want to make a long distance call, go ahead. 
-speaker2: is that cat dead?
-speaker1: i don't know. i think it's asleep but it's been there for days.
-speaker1: i guess it is dead.
+ERIC: the people next door are on holiday. we took their phone. if you want to make a long distance call, go ahead. 
+ZED: is that cat dead?
+ERIC: i don't know. i think it's asleep but it's been there for days.
+ERIC: i guess it is dead.
 
-speaker1: hello. 
-speaker1: okay. this is francois, ricardo, jean, oliver, and claude. got it?
-speaker2: i will.
-speaker1: they all know who you are. ne soyez pa salauds. offrez une biere au plus grand perceur de coffres.
-speaker3: zed, would you like a beer?
-speaker2: thanks.
-speaker3: don't think of it.
-speaker4: come. sit down.
+ERIC: hello. 
+ERIC: okay. this is francois, ricardo, jean, oliver, and claude. got it?
+ZED: i will.
+ERIC: they all know who you are. ne soyez pa salauds. offrez une biere au plus grand perceur de coffres.
+OLIVER: zed, would you like a beer?
+ZED: thanks.
+OLIVER: don't think of it.
+CLAUDE: come. sit down.
 
-speaker1: let me introduce you properly. this is enrique. 
-speaker1: he likes to be called chim chim, but we don't always get what we like...do we? again, the hideous creature screeches.
-speaker1: tais-toi! do you like hash?
-speaker2: don't sit next to that junkie.
-speaker1: ahhhhhh!
-speaker3: here you go mate.
-speaker4: thanks.
+CLAUDE: let me introduce you properly. this is enrique. 
+CLAUDE: he likes to be called chim chim, but we don't always get what we like...do we? again, the hideous creature screeches.
+CLAUDE: tais-toi! do you like hash?
+ERIC: don't sit next to that junkie.
+CLAUDE: ahhhhhh!
+OLIVER: here you go mate.
+ZED: thanks.
 
-speaker1: don't ask me where we got this. 
-speaker2: okay.
-speaker1: on bastille day, all the banks are closed.
-speaker1: but this one. bip. the banque internationale de paris. and for being greedy capitalists perhaps they will remain closed next bastille day. yes?
-speaker1: we will go in and shut the bank down. now, look at this.
-speaker1: as you can see, only one person can start the alarm. the concierge, at this desk. we will take care of him. then we can close the bank. no one will know the difference since every other bank will be closed.
-speaker2: are you sure he won't push the alarm?
-speaker1: ahhh! he's right next to the door. we'd have to be totally incompetent not to stop him. don't worry about that. he points to the main floor vault.
-speaker1: here. this is where they keep the days reserve cash. okay that.
-speaker1: there are many vaults downstairs, but this is the vault we must get into. this is where the real prize is.
-speaker2: what kind of vault is that?
-speaker1: ah...swiss made. a caliber.
-speaker2: caliber? it'll take three hours.
-speaker1: no, that's too long.
-speaker2: that's how long it'll take.
-speaker1: well it's too long. we have to be in and out. like that. or there will be suspicion. a little time is okay...but too long and...
-speaker2: well hold on a second. what's this?
-speaker1: another vault.
-speaker2: no this.
-speaker1: i don't know...it connects the two vaults.
-speaker2: well, what kind of vault is this other one?
-speaker1: also swiss, but this one is a poseidon.
-speaker2: why would those two vaults be connected?
-speaker1: i don't know.
-speaker2: because i can get into this vault in half an hour. maybe less.
-speaker1: but this entry way is too small to get the platen out. we have a lot of merchandise in there.
-speaker2: no, don't you see? we get in through this secondary vault and take this passage to the other main vault. from the inside i could open the caliber vault in five minutes.
-speaker1: you could open it in five minutes?
-speaker2: from the inside it's easy.
-speaker1: hot that is our answer.
-speaker2: okay. when is bastille day?
-speaker1: tomorrow.
-speaker2: tomorrow!? we're doing this tomorrow?
-speaker1: but of course.
-speaker2: it's impossible.
-speaker1: it's not impossible. everyone knows what to do.
-speaker2: i don't know what to do.
-speaker1: you don't need to know just get into the vault and we'll do the rest.
-speaker2: i haven't even seen the bank.
-speaker1: the bank. before we do a job we live life. it's better that way. okay?
-speaker2: okay.
-speaker1: good. now we do heroin!
+ERIC: don't ask me where we got this. 
+ZED: okay.
+ERIC: on bastille day, all the banks are closed.
+ERIC: but this one. bip. the banque internationale de paris. and for being greedy capitalists perhaps they will remain closed next bastille day. yes?
+ERIC: we will go in and shut the bank down. now, look at this.
+ERIC: as you can see, only one person can start the alarm. the concierge, at this desk. we will take care of him. then we can close the bank. no one will know the difference since every other bank will be closed.
+ZED: are you sure he won't push the alarm?
+ERIC: ahhh! he's right next to the door. we'd have to be totally incompetent not to stop him. don't worry about that. he points to the main floor vault.
+ERIC: here. this is where they keep the days reserve cash. okay that.
+ERIC: there are many vaults downstairs, but this is the vault we must get into. this is where the real prize is.
+ZED: what kind of vault is that?
+ERIC: ah...swiss made. a caliber.
+ZED: caliber? it'll take three hours.
+ERIC: no, that's too long.
+ZED: that's how long it'll take.
+ERIC: well it's too long. we have to be in and out. like that. or there will be suspicion. a little time is okay...but too long and...
+ZED: well hold on a second. what's this?
+ERIC: another vault.
+ZED: no this.
+ERIC: i don't know...it connects the two vaults.
+ZED: well, what kind of vault is this other one?
+ERIC: also swiss, but this one is a poseidon.
+ZED: why would those two vaults be connected?
+ERIC: i don't know.
+ZED: because i can get into this vault in half an hour. maybe less.
+ERIC: but this entry way is too small to get the platen out. we have a lot of merchandise in there.
+ZED: no, don't you see? we get in through this secondary vault and take this passage to the other main vault. from the inside i could open the caliber vault in five minutes.
+ERIC: you could open it in five minutes?
+ZED: from the inside it's easy.
+ERIC: hot that is our answer.
+ZED: okay. when is bastille day?
+ERIC: tomorrow.
+ZED: tomorrow!? we're doing this tomorrow?
+ERIC: but of course.
+ZED: it's impossible.
+ERIC: it's not impossible. everyone knows what to do.
+ZED: i don't know what to do.
+ERIC: you don't need to know just get into the vault and we'll do the rest.
+ZED: i haven't even seen the bank.
+ERIC: the bank. before we do a job we live life. it's better that way. okay?
+ZED: okay.
+ERIC: good. now we do heroin!
 
-speaker1: you have to look at the starship enterprise as a metaphor for the human brain. no one is really listening to oliver. eric takes out a lighter and cooks it to a boil. 
-speaker1: spock is the right hemisphere of the brain, all logic and intellect. mc coy is the left hemisphere, stricktly emotional. and kirk is the unseen observer. he drifts between the two. back and forth, as it might be, caught between the two thought processes.
-speaker2: [cotton.] ricardo hands him a cotton ball.
-speaker1: it's really quite brilliant you know. that's why star trek is and always will be a hit show.
-speaker2: [don't want to get air bubbles in my veins.] they all laugh at this.
+OLIVER: you have to look at the starship enterprise as a metaphor for the human brain. no one is really listening to oliver. eric takes out a lighter and cooks it to a boil. 
+OLIVER: spock is the right hemisphere of the brain, all logic and intellect. mc coy is the left hemisphere, stricktly emotional. and kirk is the unseen observer. he drifts between the two. back and forth, as it might be, caught between the two thought processes.
+ERIC: [cotton.] ricardo hands him a cotton ball.
+OLIVER: it's really quite brilliant you know. that's why star trek is and always will be a hit show.
+ERIC: [don't want to get air bubbles in my veins.] they all laugh at this.
 
-speaker1: do you want heroin? 
-speaker2: no, i want to be sharp for tomorrow.
-speaker1: no. a little bit of heroin, some hash, a beer...and you're just right. jean snorts a line.
-speaker3: okay.
-speaker1: that's good.
-speaker4: [hold my arm.] my vein is like a rock.
-speaker1: try some. it's called chasing the dragon. the chinese have been doing it for centuries.
-speaker2: i don't think so.
-speaker1: oh, but you must. it will make you feel as though the rest of the world is in a bubble of glass and that you're rubbing up against it like a bad windshield wiper.
+JEAN: do you want heroin? 
+ZED: no, i want to be sharp for tomorrow.
+JEAN: no. a little bit of heroin, some hash, a beer...and you're just right. jean snorts a line.
+CLAUDE: okay.
+JEAN: that's good.
+ERIC: [hold my arm.] my vein is like a rock.
+JEAN: try some. it's called chasing the dragon. the chinese have been doing it for centuries.
+ZED: i don't think so.
+JEAN: oh, but you must. it will make you feel as though the rest of the world is in a bubble of glass and that you're rubbing up against it like a bad windshield wiper.
 
-speaker1: there. that's notre dame. 
-speaker2: do you like french cars?
-speaker3: yes.
-speaker2: i like the cadillac. fifty-two to seventy-five. very nice.
-speaker1: up here you can see the eiffel tower.
-speaker3: is tomorrow really bastille day?
-speaker1: yes, tomorrow we pull the biggest job in french history. and spend the rest of our lives in monte carlo.
+ERIC: there. that's notre dame. 
+RICARDO: do you like french cars?
+ZED: yes.
+RICARDO: i like the cadillac. fifty-two to seventy-five. very nice.
+ERIC: up here you can see the eiffel tower.
+ZED: is tomorrow really bastille day?
+ERIC: yes, tomorrow we pull the biggest job in french history. and spend the rest of our lives in monte carlo.
 
-speaker1: [shit! that bastard.] 
-speaker2: watch it! don't crash my car.
-speaker2: over here is where the male prostitutes sell themselves. do you see? no, zed doesn't see.
-speaker3: fags!
-speaker2: suce ma bite?!
-speaker1: perverts d'homosexuels!
-speaker2: this is good to have you here. we could not do this without you.
-speaker2: everyone has agreed to give you double shares. that's good.
-speaker2: you know i have aids. from the needle.
-speaker4: really?
-speaker2: okay, up here is the arc de triomphe.
+RICARDO: [shit! that bastard.] 
+ERIC: watch it! don't crash my car.
+ERIC: over here is where the male prostitutes sell themselves. do you see? no, zed doesn't see.
+OLIVER: fags!
+ERIC: suce ma bite?!
+RICARDO: perverts d'homosexuels!
+ERIC: this is good to have you here. we could not do this without you.
+ERIC: everyone has agreed to give you double shares. that's good.
+ERIC: you know i have aids. from the needle.
+ZED: really?
+ERIC: okay, up here is the arc de triomphe.
 
-speaker1: so, how long have you known eric? 
-speaker2: well, eric's mother is american.
-speaker1: yeah, and his dad's french.
-speaker2: they're divorced. and she and his father had some kind of six month split plan set up. so every six months he would come back to the states. we were best friends. eventually he and his mother had a falling out and he stayed here. it's been...years.
-speaker1: well, it's good to have you here. eric speaks fairly highly of you. say, he says you're a big fan of viking films.
-speaker2: well...i suppose. i used to be, when i was young.
-speaker1: oh they're the best. helmets with horns on them. that's genius. he starts laughing.
-speaker1: how 'bout toy jazz? you like it?
-speaker2: yeah...i guess.
-speaker1: i love it. it's really good, you know? like real music. it has a heart and culture all it's own. it's, like, jazz for dwarves...or guys in leiderhosen. total purity of essence.
-speaker2: yeah.
-speaker1: hungry cannibals'd like it.
-speaker3: here, you must drink some of this wine, it's good. he pours zed a glass. oliver passes on the wine.
-speaker1: non merci, c'est de la merde.
-speaker3: la ferme. c'est du bon vin. the english.
+OLIVER: so, how long have you known eric? 
+ZED: well, eric's mother is american.
+OLIVER: yeah, and his dad's french.
+ZED: they're divorced. and she and his father had some kind of six month split plan set up. so every six months he would come back to the states. we were best friends. eventually he and his mother had a falling out and he stayed here. it's been...years.
+OLIVER: well, it's good to have you here. eric speaks fairly highly of you. say, he says you're a big fan of viking films.
+ZED: well...i suppose. i used to be, when i was young.
+OLIVER: oh they're the best. helmets with horns on them. that's genius. he starts laughing.
+OLIVER: how 'bout toy jazz? you like it?
+ZED: yeah...i guess.
+OLIVER: i love it. it's really good, you know? like real music. it has a heart and culture all it's own. it's, like, jazz for dwarves...or guys in leiderhosen. total purity of essence.
+ZED: yeah.
+OLIVER: hungry cannibals'd like it.
+CLAUDE: here, you must drink some of this wine, it's good. he pours zed a glass. oliver passes on the wine.
+OLIVER: non merci, c'est de la merde.
+CLAUDE: la ferme. c'est du bon vin. the english.
 
-speaker1: zed blinks but it's true. 
-speaker2: look at him. he's crazy.
+ZED'S TABLE: zed blinks but it's true. 
+OLIVER: look at him. he's crazy.
 
-speaker1: i'm glad you came. how long has it been? 
-speaker2: years.
-speaker1: it's amazing, you know? here you are. one day in america. now here.
-speaker2: well, to be honest there really wasn't much happening for me in the states.
-speaker1: but in paris your old friend eric has a job for you, so you came. that's good.
-speaker2: how could i resist your invitation?
-speaker1: you would have been stupid to.
-speaker2: so what have you been doing here?
-speaker1: after school i spent some time in algeria studying african philosophy. and then i bummed around. you know. for fun. for a while i worked at le figaro. the newspaper.
-speaker2: really?
-speaker1: yes. with an assumed masters degree. and lately we have just been bombing fascists here in paris. you know, like terrorists.
-speaker1: it's fun.
+ERIC: i'm glad you came. how long has it been? 
+ZED: years.
+ERIC: it's amazing, you know? here you are. one day in america. now here.
+ZED: well, to be honest there really wasn't much happening for me in the states.
+ERIC: but in paris your old friend eric has a job for you, so you came. that's good.
+ZED: how could i resist your invitation?
+ERIC: you would have been stupid to.
+ZED: so what have you been doing here?
+ERIC: after school i spent some time in algeria studying african philosophy. and then i bummed around. you know. for fun. for a while i worked at le figaro. the newspaper.
+ZED: really?
+ERIC: yes. with an assumed masters degree. and lately we have just been bombing fascists here in paris. you know, like terrorists.
+ERIC: it's fun.
 
-speaker1: the people next door are on holiday. we took their phone. if you want to make a long distance call, go ahead. 
-speaker2: is that cat dead?
-speaker1: i don't know. i think it's asleep but it's been there for days.
-speaker1: i guess it is dead.
+ERIC: the people next door are on holiday. we took their phone. if you want to make a long distance call, go ahead. 
+ZED: is that cat dead?
+ERIC: i don't know. i think it's asleep but it's been there for days.
+ERIC: i guess it is dead.
 
-speaker1: hello. 
-speaker1: okay. this is francois, ricardo, jean, oliver, and claude. got it?
-speaker2: i will.
-speaker1: they all know who you are. ne soyez pa salauds. offrez une biere au plus grand perceur de coffres.
-speaker3: zed, would you like a beer?
-speaker2: thanks.
-speaker3: don't think of it.
-speaker4: come. sit down.
+ERIC: hello. 
+ERIC: okay. this is francois, ricardo, jean, oliver, and claude. got it?
+ZED: i will.
+ERIC: they all know who you are. ne soyez pa salauds. offrez une biere au plus grand perceur de coffres.
+OLIVER: zed, would you like a beer?
+ZED: thanks.
+OLIVER: don't think of it.
+CLAUDE: come. sit down.
 
-speaker1: let me introduce you properly. this is enrique. 
-speaker1: he likes to be called chim chim, but we don't always get what we like...do we? again, the hideous creature screeches.
-speaker1: tais-toi! do you like hash?
-speaker2: don't sit next to that junkie.
-speaker1: ahhhhhh!
-speaker3: here you go mate.
-speaker4: thanks.
+CLAUDE: let me introduce you properly. this is enrique. 
+CLAUDE: he likes to be called chim chim, but we don't always get what we like...do we? again, the hideous creature screeches.
+CLAUDE: tais-toi! do you like hash?
+ERIC: don't sit next to that junkie.
+CLAUDE: ahhhhhh!
+OLIVER: here you go mate.
+ZED: thanks.
 
-speaker1: don't ask me where we got this. 
-speaker2: okay.
-speaker1: on bastille day, all the banks are closed.
-speaker1: but this one. bip. the banque internationale de paris. and for being greedy capitalists perhaps they will remain closed next bastille day. yes?
-speaker1: we will go in and shut the bank down. now, look at this.
-speaker1: as you can see, only one person can start the alarm. the concierge, at this desk. we will take care of him. then we can close the bank. no one will know the difference since every other bank will be closed.
-speaker2: are you sure he won't push the alarm?
-speaker1: ahhh! he's right next to the door. we'd have to be totally incompetent not to stop him. don't worry about that. he points to the main floor vault.
-speaker1: here. this is where they keep the days reserve cash. okay that.
-speaker1: there are many vaults downstairs, but this is the vault we must get into. this is where the real prize is.
-speaker2: what kind of vault is that?
-speaker1: ah...swiss made. a caliber.
-speaker2: caliber? it'll take three hours.
-speaker1: no, that's too long.
-speaker2: that's how long it'll take.
-speaker1: well it's too long. we have to be in and out. like that. or there will be suspicion. a little time is okay...but too long and...
-speaker2: well hold on a second. what's this?
-speaker1: another vault.
-speaker2: no this.
-speaker1: i don't know...it connects the two vaults.
-speaker2: well, what kind of vault is this other one?
-speaker1: also swiss, but this one is a poseidon.
-speaker2: why would those two vaults be connected?
-speaker1: i don't know.
-speaker2: because i can get into this vault in half an hour. maybe less.
-speaker1: but this entry way is too small to get the platen out. we have a lot of merchandise in there.
-speaker2: no, don't you see? we get in through this secondary vault and take this passage to the other main vault. from the inside i could open the caliber vault in five minutes.
-speaker1: you could open it in five minutes?
-speaker2: from the inside it's easy.
-speaker1: hot that is our answer.
-speaker2: okay. when is bastille day?
-speaker1: tomorrow.
-speaker2: tomorrow!? we're doing this tomorrow?
-speaker1: but of course.
-speaker2: it's impossible.
-speaker1: it's not impossible. everyone knows what to do.
-speaker2: i don't know what to do.
-speaker1: you don't need to know just get into the vault and we'll do the rest.
-speaker2: i haven't even seen the bank.
-speaker1: the bank. before we do a job we live life. it's better that way. okay?
-speaker2: okay.
-speaker1: good. now we do heroin!
+ERIC: don't ask me where we got this. 
+ZED: okay.
+ERIC: on bastille day, all the banks are closed.
+ERIC: but this one. bip. the banque internationale de paris. and for being greedy capitalists perhaps they will remain closed next bastille day. yes?
+ERIC: we will go in and shut the bank down. now, look at this.
+ERIC: as you can see, only one person can start the alarm. the concierge, at this desk. we will take care of him. then we can close the bank. no one will know the difference since every other bank will be closed.
+ZED: are you sure he won't push the alarm?
+ERIC: ahhh! he's right next to the door. we'd have to be totally incompetent not to stop him. don't worry about that. he points to the main floor vault.
+ERIC: here. this is where they keep the days reserve cash. okay that.
+ERIC: there are many vaults downstairs, but this is the vault we must get into. this is where the real prize is.
+ZED: what kind of vault is that?
+ERIC: ah...swiss made. a caliber.
+ZED: caliber? it'll take three hours.
+ERIC: no, that's too long.
+ZED: that's how long it'll take.
+ERIC: well it's too long. we have to be in and out. like that. or there will be suspicion. a little time is okay...but too long and...
+ZED: well hold on a second. what's this?
+ERIC: another vault.
+ZED: no this.
+ERIC: i don't know...it connects the two vaults.
+ZED: well, what kind of vault is this other one?
+ERIC: also swiss, but this one is a poseidon.
+ZED: why would those two vaults be connected?
+ERIC: i don't know.
+ZED: because i can get into this vault in half an hour. maybe less.
+ERIC: but this entry way is too small to get the platen out. we have a lot of merchandise in there.
+ZED: no, don't you see? we get in through this secondary vault and take this passage to the other main vault. from the inside i could open the caliber vault in five minutes.
+ERIC: you could open it in five minutes?
+ZED: from the inside it's easy.
+ERIC: hot that is our answer.
+ZED: okay. when is bastille day?
+ERIC: tomorrow.
+ZED: tomorrow!? we're doing this tomorrow?
+ERIC: but of course.
+ZED: it's impossible.
+ERIC: it's not impossible. everyone knows what to do.
+ZED: i don't know what to do.
+ERIC: you don't need to know just get into the vault and we'll do the rest.
+ZED: i haven't even seen the bank.
+ERIC: the bank. before we do a job we live life. it's better that way. okay?
+ZED: okay.
+ERIC: good. now we do heroin!
 
-speaker1: you have to look at the starship enterprise as a metaphor for the human brain. no one is really listening to oliver. eric takes out a lighter and cooks it to a boil. 
-speaker1: spock is the right hemisphere of the brain, all logic and intellect. mc coy is the left hemisphere, stricktly emotional. and kirk is the unseen observer. he drifts between the two. back and forth, as it might be, caught between the two thought processes.
-speaker2: [cotton.] ricardo hands him a cotton ball.
-speaker1: it's really quite brilliant you know. that's why star trek is and always will be a hit show.
-speaker2: [don't want to get air bubbles in my veins.] they all laugh at this.
+OLIVER: you have to look at the starship enterprise as a metaphor for the human brain. no one is really listening to oliver. eric takes out a lighter and cooks it to a boil. 
+OLIVER: spock is the right hemisphere of the brain, all logic and intellect. mc coy is the left hemisphere, stricktly emotional. and kirk is the unseen observer. he drifts between the two. back and forth, as it might be, caught between the two thought processes.
+ERIC: [cotton.] ricardo hands him a cotton ball.
+OLIVER: it's really quite brilliant you know. that's why star trek is and always will be a hit show.
+ERIC: [don't want to get air bubbles in my veins.] they all laugh at this.
 
-speaker1: do you want heroin? 
-speaker2: no, i want to be sharp for tomorrow.
-speaker1: no. a little bit of heroin, some hash, a beer...and you're just right. jean snorts a line.
-speaker3: okay.
-speaker1: that's good.
-speaker4: [hold my arm.] my vein is like a rock.
-speaker1: try some. it's called chasing the dragon. the chinese have been doing it for centuries.
-speaker2: i don't think so.
-speaker1: oh, but you must. it will make you feel as though the rest of the world is in a bubble of glass and that you're rubbing up against it like a bad windshield wiper.
+JEAN: do you want heroin? 
+ZED: no, i want to be sharp for tomorrow.
+JEAN: no. a little bit of heroin, some hash, a beer...and you're just right. jean snorts a line.
+CLAUDE: okay.
+JEAN: that's good.
+ERIC: [hold my arm.] my vein is like a rock.
+JEAN: try some. it's called chasing the dragon. the chinese have been doing it for centuries.
+ZED: i don't think so.
+JEAN: oh, but you must. it will make you feel as though the rest of the world is in a bubble of glass and that you're rubbing up against it like a bad windshield wiper.
 
-speaker1: there. that's notre dame. 
-speaker2: do you like french cars?
-speaker3: yes.
-speaker2: i like the cadillac. fifty-two to seventy-five. very nice.
-speaker1: up here you can see the eiffel tower.
-speaker3: is tomorrow really bastille day?
-speaker1: yes, tomorrow we pull the biggest job in french history. and spend the rest of our lives in monte carlo.
+ERIC: there. that's notre dame. 
+RICARDO: do you like french cars?
+ZED: yes.
+RICARDO: i like the cadillac. fifty-two to seventy-five. very nice.
+ERIC: up here you can see the eiffel tower.
+ZED: is tomorrow really bastille day?
+ERIC: yes, tomorrow we pull the biggest job in french history. and spend the rest of our lives in monte carlo.
 
-speaker1: [shit! that bastard.] 
-speaker2: watch it! don't crash my car.
-speaker2: over here is where the male prostitutes sell themselves. do you see? no, zed doesn't see.
-speaker3: fags!
-speaker2: suce ma bite?!
-speaker1: perverts d'homosexuels!
-speaker2: this is good to have you here. we could not do this without you.
-speaker2: everyone has agreed to give you double shares. that's good.
-speaker2: you know i have aids. from the needle.
-speaker4: really?
-speaker2: okay, up here is the arc de triomphe.
+RICARDO: [shit! that bastard.] 
+ERIC: watch it! don't crash my car.
+ERIC: over here is where the male prostitutes sell themselves. do you see? no, zed doesn't see.
+OLIVER: fags!
+ERIC: suce ma bite?!
+RICARDO: perverts d'homosexuels!
+ERIC: this is good to have you here. we could not do this without you.
+ERIC: everyone has agreed to give you double shares. that's good.
+ERIC: you know i have aids. from the needle.
+ZED: really?
+ERIC: okay, up here is the arc de triomphe.
 
-speaker1: so, how long have you known eric? 
-speaker2: well, eric's mother is american.
-speaker1: yeah, and his dad's french.
-speaker2: they're divorced. and she and his father had some kind of six month split plan set up. so every six months he would come back to the states. we were best friends. eventually he and his mother had a falling out and he stayed here. it's been...years.
-speaker1: well, it's good to have you here. eric speaks fairly highly of you. say, he says you're a big fan of viking films.
-speaker2: well...i suppose. i used to be, when i was young.
-speaker1: oh they're the best. helmets with horns on them. that's genius. he starts laughing.
-speaker1: how 'bout toy jazz? you like it?
-speaker2: yeah...i guess.
-speaker1: i love it. it's really good, you know? like real music. it has a heart and culture all it's own. it's, like, jazz for dwarves...or guys in leiderhosen. total purity of essence.
-speaker2: yeah.
-speaker1: hungry cannibals'd like it.
-speaker3: here, you must drink some of this wine, it's good. he pours zed a glass. oliver passes on the wine.
-speaker1: non merci, c'est de la merde.
-speaker3: la ferme. c'est du bon vin. the english.
+OLIVER: so, how long have you known eric? 
+ZED: well, eric's mother is american.
+OLIVER: yeah, and his dad's french.
+ZED: they're divorced. and she and his father had some kind of six month split plan set up. so every six months he would come back to the states. we were best friends. eventually he and his mother had a falling out and he stayed here. it's been...years.
+OLIVER: well, it's good to have you here. eric speaks fairly highly of you. say, he says you're a big fan of viking films.
+ZED: well...i suppose. i used to be, when i was young.
+OLIVER: oh they're the best. helmets with horns on them. that's genius. he starts laughing.
+OLIVER: how 'bout toy jazz? you like it?
+ZED: yeah...i guess.
+OLIVER: i love it. it's really good, you know? like real music. it has a heart and culture all it's own. it's, like, jazz for dwarves...or guys in leiderhosen. total purity of essence.
+ZED: yeah.
+OLIVER: hungry cannibals'd like it.
+CLAUDE: here, you must drink some of this wine, it's good. he pours zed a glass. oliver passes on the wine.
+OLIVER: non merci, c'est de la merde.
+CLAUDE: la ferme. c'est du bon vin. the english.
 
-speaker1: zed blinks but it's true. 
-speaker2: look at him. he's crazy.
+ZED'S TABLE: zed blinks but it's true. 
+OLIVER: look at him. he's crazy.
 
-speaker1: [do the phones work?] 
-speaker2: [they went dead.]
-speaker1: merde!
+SUB LOBBY TELLER: [do the phones work?] 
+SUB LOBBY ASSISTANT: [they went dead.]
+SUB LOBBY TELLER: merde!
 
-speaker1: [drop the gun!] he doesn't. 
-speaker1: [drop your gun now and nobody dies!]
-speaker1: [good boy.]
+ERIC: [drop the gun!] he doesn't. 
+ERIC: [drop your gun now and nobody dies!]
+ERIC: [good boy.]
 
-speaker1: [i'm going to check things out downstairs.] 
-speaker2: [now! on the ground! face down!] then, for effect, he kicks a man.
+CLAUDE: [i'm going to check things out downstairs.] 
+RICARDO: [now! on the ground! face down!] then, for effect, he kicks a man.
 
-speaker1: [all clear down here?] everyone turns. 
-speaker2: [take these two upstairs. and chain the gate to the sub lobby shut.]
-speaker1: [the phones and video are down! we're locked up tight!] we did it! he takes the two upstairs.
-speaker2: [any others i should worry about?]
-speaker3: [no.]
-speaker4: [freeze motherfucker!] eric walks up, gun in hand.
-speaker2: [who the are you?]
-speaker5: [please don't shoot me!]
-speaker4: [on the ground!] he does.
-speaker2: [making a deposit i hope.] [bring him with us.]
-speaker3: [vault locked?]
-speaker6: [yes.]
-speaker2: [shut your mouths!]
+CLAUDE: [all clear down here?] everyone turns. 
+ERIC: [take these two upstairs. and chain the gate to the sub lobby shut.]
+CLAUDE: [the phones and video are down! we're locked up tight!] we did it! he takes the two upstairs.
+ERIC: [any others i should worry about?]
+BANK MANAGER: [no.]
+OLIVER: [freeze motherfucker!] eric walks up, gun in hand.
+ERIC: [who the are you?]
+STODGY CUSTOMER: [please don't shoot me!]
+OLIVER: [on the ground!] he does.
+ERIC: [making a deposit i hope.] [bring him with us.]
+BANK MANAGER: [vault locked?]
+SUB LOBBY TELLER: [yes.]
+ERIC: [shut your mouths!]
 
-speaker1: [you think we're amateurs? you think we're stupid? i've got news for you...we planned ahead my friend!] eric pushes them infront of the calibre vault door. 
-speaker1: [now save us a lot of time and just open the vault.]
-speaker2: [no.]
-speaker1: [okay.]
-speaker1: [open the vault.] the teller's eyes widen.
-speaker2: [i cannot.]
-speaker1: [oh.] [can you?]
-speaker2: [no. once closed only i can open it.]
-speaker1: [then open it.]
-speaker2: [i cannot.]
-speaker1: [do you understand that i'll kill her if you don't open this vault?]
-speaker2: [do you understand that this is an international reserve bank? robbing it is punishable by life imprisonment.]
-speaker3: christ!
-speaker1: [open the vault door or i'll kill this man next.]
-speaker2: [i still cannot open the vault.]
-speaker1: [come on. it's only things in there. this man is flesh and blood.]
-speaker2: [i will not open the vault.]
-speaker3: eric no! i can open the vault!
-speaker1: shut the up! [you're a customer in this bank and this is how they treat you. do you have a family?] he nods his head "yes".
-speaker1: [would you like to see them again?] he nods his head again.
-speaker1: [this man has a family he would like to have bastille day dinner with tonight. so save us some time and open the vault.] after losing about a pound of sweat...
-speaker2: [no.]
-speaker1: [you seem like a nice man. tonight at dinner think about how lucky you are and how much you love your family.] he starts nodding his head.
-speaker4: oui.
-speaker1: [take him upstairs.]
-speaker1: don't you ever conflict with me during work again! do you hear!?
-speaker3: you didn't have to shoot any of them!
-speaker1: oh, i'm sorry. i didn't realize you were in charge now. nobody told me. if he had opened the vault it would have saved us a hour.
-speaker3: eric. it's just that we've gone from being thieves to murderers.
-speaker1: oh it doesn't matter! here you get the death penalty just for robbing a federal bank.
-speaker3: i thought the death penalty was abolished in 1980?
-speaker1: ohhhh! that's what they tell you! but who cares? i need to take a piss.
-speaker1: why don't you open the vault?
+ERIC: [you think we're amateurs? you think we're stupid? i've got news for you...we planned ahead my friend!] eric pushes them infront of the calibre vault door. 
+ERIC: [now save us a lot of time and just open the vault.]
+BANK MANAGER: [no.]
+ERIC: [okay.]
+ERIC: [open the vault.] the teller's eyes widen.
+BANK MANAGER: [i cannot.]
+ERIC: [oh.] [can you?]
+BANK MANAGER: [no. once closed only i can open it.]
+ERIC: [then open it.]
+BANK MANAGER: [i cannot.]
+ERIC: [do you understand that i'll kill her if you don't open this vault?]
+BANK MANAGER: [do you understand that this is an international reserve bank? robbing it is punishable by life imprisonment.]
+ZED: christ!
+ERIC: [open the vault door or i'll kill this man next.]
+BANK MANAGER: [i still cannot open the vault.]
+ERIC: [come on. it's only things in there. this man is flesh and blood.]
+BANK MANAGER: [i will not open the vault.]
+ZED: eric no! i can open the vault!
+ERIC: shut the up! [you're a customer in this bank and this is how they treat you. do you have a family?] he nods his head "yes".
+ERIC: [would you like to see them again?] he nods his head again.
+ERIC: [this man has a family he would like to have bastille day dinner with tonight. so save us some time and open the vault.] after losing about a pound of sweat...
+BANK MANAGER: [no.]
+ERIC: [you seem like a nice man. tonight at dinner think about how lucky you are and how much you love your family.] he starts nodding his head.
+STODGY CUSTOMER: oui.
+ERIC: [take him upstairs.]
+ERIC: don't you ever conflict with me during work again! do you hear!?
+ZED: you didn't have to shoot any of them!
+ERIC: oh, i'm sorry. i didn't realize you were in charge now. nobody told me. if he had opened the vault it would have saved us a hour.
+ZED: eric. it's just that we've gone from being thieves to murderers.
+ERIC: oh it doesn't matter! here you get the death penalty just for robbing a federal bank.
+ZED: i thought the death penalty was abolished in 1980?
+ERIC: ohhhh! that's what they tell you! but who cares? i need to take a piss.
+ERIC: why don't you open the vault?
 
-speaker1: [looks clear.] 
-speaker2: [what do you mean you're not sure if the alarm went off or not?]
-speaker3: [i mean i'm not sure.]
-speaker2: [well, either it did or it didn't.]
-speaker3: [and i'm not sure.]
-speaker2: [well, do you think it did?]
-speaker3: [i just told you, i don't know.]
-speaker2: [take a guess.]
-speaker3: [it didn't.]
-speaker2: [you're sure?]
-speaker3: [no. it's just a guess.]
-speaker2: [well what kind of a guess is that? you're saying it could have.]
-speaker3: [yes.]
-speaker2: [well that's great. why didn't you just kill that to begin with. i knew i should have been the one to kill him. you're always so slow.]
-speaker3: [shit these masks are really hot.]
-speaker4: [i know, i've got sweat stinging my eyes.]
+FRANCOIS: [looks clear.] 
+JEAN: [what do you mean you're not sure if the alarm went off or not?]
+RICARDO: [i mean i'm not sure.]
+JEAN: [well, either it did or it didn't.]
+RICARDO: [and i'm not sure.]
+JEAN: [well, do you think it did?]
+RICARDO: [i just told you, i don't know.]
+JEAN: [take a guess.]
+RICARDO: [it didn't.]
+JEAN: [you're sure?]
+RICARDO: [no. it's just a guess.]
+JEAN: [well what kind of a guess is that? you're saying it could have.]
+RICARDO: [yes.]
+JEAN: [well that's great. why didn't you just kill that to begin with. i knew i should have been the one to kill him. you're always so slow.]
+RICARDO: [shit these masks are really hot.]
+CLAUDE: [i know, i've got sweat stinging my eyes.]
 
-speaker1: [do you know one?] 
-speaker2: [let's see. okay. an unfortunate fellow was locked up in prison doing five to ten for armed robbery. all he could think of the whole time was eating pussy.] zoey looks up at them telling the joke.
-speaker2: [the day finally came for his release. he walked out of the prison with a new suit and fifty francs the officials had given him, and made a bee-line for the whorehouse in the nearest town. slamming his fifty francs on the front desk, he said, "i wanna eat some pussy."] jean is already laughing.
-speaker2: [i'm not done. listen. "where've you been," said the greasy fellow behind the desk, "fifty francs won't get you a close look these days."]
-speaker2: ["listen buddy," said the ex-convict, pulling him out of his chair by the shirt collar, "i wanna eat some pussy, and i want it now!"]
-speaker2: ["okay, okay," gasped the proprietor, "i'll see what i can do." so the ex-con followed him through to the very back of the warehouse through some stained, tattered red curtains, and into a grimy little room where a bedraggled looking lay spreadeagled on a filthy bed. "she's yours for fifty francs," said the proprietor, and the fellow went at it.]
-speaker2: [after a little while, he came across a piece of egg. "that's funny," he thought to himself, "i don't think i had egg for breakfast." but he spat it out and kept eating away. next he found a piece of chipped beef wedged between his front teeth. "i'm sure i haven't eaten chipped beef this week," he thought, but kept on. then he came across the corn. "what is this?" he said, "i think i'm going to be sick."]
-speaker2: ["ya know," says the whore, "that's what the last guy said."]
-speaker3: [no one moves!]
-speaker1: [shit! what happened!?]
+JEAN: [do you know one?] 
+RICARDO: [let's see. okay. an unfortunate fellow was locked up in prison doing five to ten for armed robbery. all he could think of the whole time was eating pussy.] zoey looks up at them telling the joke.
+RICARDO: [the day finally came for his release. he walked out of the prison with a new suit and fifty francs the officials had given him, and made a bee-line for the whorehouse in the nearest town. slamming his fifty francs on the front desk, he said, "i wanna eat some pussy."] jean is already laughing.
+RICARDO: [i'm not done. listen. "where've you been," said the greasy fellow behind the desk, "fifty francs won't get you a close look these days."]
+RICARDO: ["listen buddy," said the ex-convict, pulling him out of his chair by the shirt collar, "i wanna eat some pussy, and i want it now!"]
+RICARDO: ["okay, okay," gasped the proprietor, "i'll see what i can do." so the ex-con followed him through to the very back of the warehouse through some stained, tattered red curtains, and into a grimy little room where a bedraggled looking lay spreadeagled on a filthy bed. "she's yours for fifty francs," said the proprietor, and the fellow went at it.]
+RICARDO: [after a little while, he came across a piece of egg. "that's funny," he thought to himself, "i don't think i had egg for breakfast." but he spat it out and kept eating away. next he found a piece of chipped beef wedged between his front teeth. "i'm sure i haven't eaten chipped beef this week," he thought, but kept on. then he came across the corn. "what is this?" he said, "i think i'm going to be sick."]
+RICARDO: ["ya know," says the whore, "that's what the last guy said."]
+CLAUDE: [no one moves!]
+JEAN: [shit! what happened!?]
 
-speaker1: what is it? what's going on? 
-speaker2: i don't know.
-speaker1: no! you stay here.
+ERIC: what is it? what's going on? 
+ZED: i don't know.
+ERIC: no! you stay here.
 
-speaker1: [nobody moves! nobody moves!] claude motions to the dead security guard. 
-speaker2: [the gun! somebody get it!]
-speaker3: [don't with me! don't with me!]
-speaker4: [what the is going on!?] zoey notices eric, she remembers him.
-speaker3: [this crazy shot ricardo!]
-speaker1: [eric, your mask.]
-speaker4: oh
-speaker3: who gives a if they see us or not anyway! i can't see a think in this!
-speaker4: [is this what happens? is this what happens when i walk away for five minutes?]
-speaker2: [he had a hidden gun.]
-speaker4: [he had a hidden gun.] [i don't care!]
-speaker5: this is insane! i am a u.s. citizen! you must let me go!
-speaker5: i'm an american! american! i'm just here exchanging dollars. if it wasn't for my country you'd all be speaking german!
-speaker1: [eric, i'm sorry. things got out of hand. but we're in control now.]
-speaker4: [good. let's try to keep it that way. what a mess.]
-speaker2: eric
-speaker4: [what the is it now!? you want me to hold your hand as you take a piss?]
-speaker2: [i have a question.]
-speaker4: [what?]
-speaker2: [do we know if the alarm went off or not?]
-speaker4: [yes.]
-speaker2: [we do?]
-speaker4: [yes. it didn't go off. if it had the police would be here and our whole plan would be but they're not here, and our plan isn't so if there aren't any more stupid questions i'll go downstairs and see if we're in yet. is that okay with you?] claude nods. then, the phone rings.
-speaker4: [i thought the phones were dead.] it rings again.
-speaker3: the phones are dead.
-speaker4: [answer it!] she is crying too hard.
-speaker4: [answer it or you will die.] she slowly picks up the phone.
-speaker6: banque internationale de paris.
-speaker6: [it's for you.]
-speaker4: [hello.] [who is this?] eric motions to oliver to check the windows.
-speaker3: oh my the police!
-speaker4: [what do you want?] eric looks around at the dead bodies.
-speaker4: [we're all fine in here.]
-speaker4: [no. i'll tell you what, you go yourself you pig. you send anyone near this building and i'll kill the first person i lay my hands on. i've got plenty hostages here to kill so don't even think of coming in.] [just stay put. we'll call you when we're ready. in the mean time, have a nice day.] eric hangs up the phone, and then leaves it off the hook.
-speaker2: [the silent alarm must have gone off after all!]
-speaker4: [shut the up! the alarm didn't do for all we know your shooting brought them here. anyhow it doesn't matter. nothing has changed.]
-speaker1: [my the police! what are we going to do?]
-speaker4: [nothing. we don't have to do anything. the plan stays the same, just slightly different.]
-speaker4: [if the police decide to come in...kill them. and if you don't mind, stack those bodies somewhere else. this place is a mess and it's bad for morale.]
+JEAN: [nobody moves! nobody moves!] claude motions to the dead security guard. 
+CLAUDE: [the gun! somebody get it!]
+OLIVER: [don't with me! don't with me!]
+ERIC: [what the is going on!?] zoey notices eric, she remembers him.
+OLIVER: [this crazy shot ricardo!]
+JEAN: [eric, your mask.]
+ERIC: oh
+OLIVER: who gives a if they see us or not anyway! i can't see a think in this!
+ERIC: [is this what happens? is this what happens when i walk away for five minutes?]
+CLAUDE: [he had a hidden gun.]
+ERIC: [he had a hidden gun.] [i don't care!]
+MALE TOURIST: this is insane! i am a u.s. citizen! you must let me go!
+MALE TOURIST: i'm an american! american! i'm just here exchanging dollars. if it wasn't for my country you'd all be speaking german!
+JEAN: [eric, i'm sorry. things got out of hand. but we're in control now.]
+ERIC: [good. let's try to keep it that way. what a mess.]
+CLAUDE: eric
+ERIC: [what the is it now!? you want me to hold your hand as you take a piss?]
+CLAUDE: [i have a question.]
+ERIC: [what?]
+CLAUDE: [do we know if the alarm went off or not?]
+ERIC: [yes.]
+CLAUDE: [we do?]
+ERIC: [yes. it didn't go off. if it had the police would be here and our whole plan would be but they're not here, and our plan isn't so if there aren't any more stupid questions i'll go downstairs and see if we're in yet. is that okay with you?] claude nods. then, the phone rings.
+ERIC: [i thought the phones were dead.] it rings again.
+OLIVER: the phones are dead.
+ERIC: [answer it!] she is crying too hard.
+ERIC: [answer it or you will die.] she slowly picks up the phone.
+WOMAN TELLER: banque internationale de paris.
+WOMAN TELLER: [it's for you.]
+ERIC: [hello.] [who is this?] eric motions to oliver to check the windows.
+OLIVER: oh my the police!
+ERIC: [what do you want?] eric looks around at the dead bodies.
+ERIC: [we're all fine in here.]
+ERIC: [no. i'll tell you what, you go yourself you pig. you send anyone near this building and i'll kill the first person i lay my hands on. i've got plenty hostages here to kill so don't even think of coming in.] [just stay put. we'll call you when we're ready. in the mean time, have a nice day.] eric hangs up the phone, and then leaves it off the hook.
+CLAUDE: [the silent alarm must have gone off after all!]
+ERIC: [shut the up! the alarm didn't do for all we know your shooting brought them here. anyhow it doesn't matter. nothing has changed.]
+JEAN: [my the police! what are we going to do?]
+ERIC: [nothing. we don't have to do anything. the plan stays the same, just slightly different.]
+ERIC: [if the police decide to come in...kill them. and if you don't mind, stack those bodies somewhere else. this place is a mess and it's bad for morale.]
 
-speaker1: what's going on? 
-speaker2: nothing. they were just scaring them.
-speaker1: well, did you tell them to stay quiet?
-speaker2: yes. they're assholes. just having fun. zed looks into the hole.
-speaker1: up my drill bit.
-speaker2: it's okay. you can buy another one.
-speaker1: cross your fingers. eric does.
-speaker1: perfect.
-speaker2: excellent. what next?
-speaker1: we find the fuse box. it'll probably be upstairs. zed gets up.
-speaker2: it's okay. i'll find it for you.
-speaker1: no. i need to see it myself.
-speaker2: i think it would be better if i looked for you. i could--
+ZED: what's going on? 
+ERIC: nothing. they were just scaring them.
+ZED: well, did you tell them to stay quiet?
+ERIC: yes. they're assholes. just having fun. zed looks into the hole.
+ZED: up my drill bit.
+ERIC: it's okay. you can buy another one.
+ZED: cross your fingers. eric does.
+ZED: perfect.
+ERIC: excellent. what next?
+ZED: we find the fuse box. it'll probably be upstairs. zed gets up.
+ERIC: it's okay. i'll find it for you.
+ZED: no. i need to see it myself.
+ERIC: i think it would be better if i looked for you. i could--
 
-speaker1: hold on. here she is. eric is a bit relieved. 
-speaker1: let's see.
-speaker1: okay, you throw this fuse switch off and then back on when i call to you. any other switch may set off the alarm. eric smirks.
-speaker2: oh, i wouldn't want to do that.
-speaker1: got it?
-speaker2: got it.
+ZED: hold on. here she is. eric is a bit relieved. 
+ZED: let's see.
+ZED: okay, you throw this fuse switch off and then back on when i call to you. any other switch may set off the alarm. eric smirks.
+ERIC: oh, i wouldn't want to do that.
+ZED: got it?
+ERIC: got it.
 
-speaker1: come on sweetie don't fail me now. 
-speaker1: ready?!
-speaker2: ready!
-speaker1: now!
-speaker1: open seasame.
-speaker2: it worked!
-speaker2: oh my it worked!
-speaker1: i can get through that lock in a minute.
-speaker2: then do it. we don't have all day.
+ZED: come on sweetie don't fail me now. 
+ZED: ready?!
+ERIC: ready!
+ZED: now!
+ZED: open seasame.
+ERIC: it worked!
+ERIC: oh my it worked!
+ZED: i can get through that lock in a minute.
+ERIC: then do it. we don't have all day.
 
-speaker1: dime store brand. three minutes max. 
-speaker2: good.
-speaker1: 
-speaker2: merde! then there's another gunshot.
-speaker1: christ!
-speaker1: another security guard?
-speaker2: must be.
-speaker1: i think i stained my pants.
-speaker2: me too.
-speaker3: what is it?! i came down to see how things were going and heard shots!
-speaker2: some in the vault.
-speaker3: we've got guns. why don't we just storm in and blast his ass! it's three against one! let's give it the old--
-speaker2: quiet!
-speaker3: i'm just trying to be helpful.
-speaker2: just let me think.
-speaker3: you don't have to snap at me.
-speaker2: [hey you. nice shooting. play time's over. why don't you throw out your gun?]
-speaker4: no! oliver and eric look at each other and smile.
-speaker2: [come on. we don't want to kill you.]
-speaker4: [you'll have to!]
-speaker2: what is this guys problem? [come on! you're making me impatient. i don't have all day.]
-speaker4: [look, don't take it personally. this is my job.]
-speaker2: [then take a paid vacation. we won't tell if you won't.]
-speaker1: what the are you doing? have you gone mad?
-speaker4: [sorry. i can't.]
-speaker2: [well, look, we're going to give you fifteen minutes to change your mind. okay?]
-speaker4: [okay.]
-speaker1: that's too much. it's dangerous.
-speaker2: i like danger. [changed your mind yet?]
-speaker4: [no. and i'm not going to. why don't you just take the money from the other vaults?--]
+ZED: dime store brand. three minutes max. 
+ERIC: good.
+ZED: 
+ERIC: merde! then there's another gunshot.
+ZED: christ!
+ZED: another security guard?
+ERIC: must be.
+ZED: i think i stained my pants.
+ERIC: me too.
+OLIVER: what is it?! i came down to see how things were going and heard shots!
+ERIC: some in the vault.
+OLIVER: we've got guns. why don't we just storm in and blast his ass! it's three against one! let's give it the old--
+ERIC: quiet!
+OLIVER: i'm just trying to be helpful.
+ERIC: just let me think.
+OLIVER: you don't have to snap at me.
+ERIC: [hey you. nice shooting. play time's over. why don't you throw out your gun?]
+VAULT GUARD #1: no! oliver and eric look at each other and smile.
+ERIC: [come on. we don't want to kill you.]
+VAULT GUARD #1: [you'll have to!]
+ERIC: what is this guys problem? [come on! you're making me impatient. i don't have all day.]
+VAULT GUARD #1: [look, don't take it personally. this is my job.]
+ERIC: [then take a paid vacation. we won't tell if you won't.]
+ZED: what the are you doing? have you gone mad?
+VAULT GUARD #1: [sorry. i can't.]
+ERIC: [well, look, we're going to give you fifteen minutes to change your mind. okay?]
+VAULT GUARD #1: [okay.]
+ZED: that's too much. it's dangerous.
+ERIC: i like danger. [changed your mind yet?]
+VAULT GUARD #1: [no. and i'm not going to. why don't you just take the money from the other vaults?--]
 
-speaker1: [should we see if they're okay?] 
-speaker2: [no. they're just blasting the vault open.]
-speaker3: [what does it matter now? we're surrounded by police.]
+FRANCOIS: [should we see if they're okay?] 
+JEAN: [no. they're just blasting the vault open.]
+CLAUDE: [what does it matter now? we're surrounded by police.]
 
-speaker1: you asshole! you could have killed us all. 
-speaker2: but i didn't! let's go check out the damage. eric gets up and walks into the poseidon vault.
-speaker2: zed look!
-speaker2: i beat you! i opened it in under three minutes.
-speaker1: go around and wait at the main vault door. when i tell you, open it up.
-speaker3: right. when you tell me, i'll open it up.
-speaker1: right.
-speaker3: right.
-speaker3: i'll be at the other vault waiting for you to call to me.
+ZED: you asshole! you could have killed us all. 
+ERIC: but i didn't! let's go check out the damage. eric gets up and walks into the poseidon vault.
+ERIC: zed look!
+ERIC: i beat you! i opened it in under three minutes.
+ZED: go around and wait at the main vault door. when i tell you, open it up.
+OLIVER: right. when you tell me, i'll open it up.
+ZED: right.
+OLIVER: right.
+OLIVER: i'll be at the other vault waiting for you to call to me.
 
-speaker1: look at it! we're all rich! 
-speaker1: we're rich!
-speaker1: we're rich!
-speaker2: we're not out of here yet.
-speaker1: yes but we're rich!
-speaker1: i'm going to show the others.
+ERIC: look at it! we're all rich! 
+ERIC: we're rich!
+ERIC: we're rich!
+ZED: we're not out of here yet.
+ERIC: yes but we're rich!
+ERIC: i'm going to show the others.
 
-speaker1: [what? you think we may actually get out of this? you're fooling yourself.] 
-speaker2: [why are you such a pessimist?]
-speaker1: [are you kidding me? look at this mess.] jean surveys the mess, the crying people.
-speaker1: [this is nothing. imagine the police outside. we're dead men.]
-speaker3: [jean, francois, claude...look at this.] they see the gold.
-speaker2: [you did it! you got in!]
-speaker3: [zed is opening the vault now. this is a taste.]
-speaker3: [look at this and tell me i'm not brilliant.]
-speaker4: [you're a monster! and you'll never leave this place alive!] eric shoots her with his uzi.
-speaker3: [none of you are worth half of this single bar. remember that.] francois, jean, and claude look at each other.
-speaker1: [eric...can i speak with you?]
-speaker3: [of course.]
-speaker1: [in private.]
-speaker3: [there's no need. i have nothing to hide. what is it claude?]
-speaker1: [well...we're surrounded by the police and we have no way out. what are we going to do?] eric slaps him across the face.
-speaker3: [what are you doing claude? talking of all this false doubt. what do you think we're going to do?]
-speaker1: [i don't know...not the original plan.]
-speaker3: [obviously, since ricardo us up and didn't kill the concierge fast enough. and killing all these assholes--
-speaker5: [--isn't going to do us a bit of good now, is it?]
-speaker1: no.
-speaker3: [no. because we'll need them as hostages when we get on the plane.]
-speaker1: [we're going on a plane?] eric pats his shoulder.
-speaker3: [claude, you are a mental giant. leave the plans up to me and just kill people if they get out of line, okay?]
-speaker1: [okay.]
-speaker3: [i'm going to see how things are going.]
+CLAUDE: [what? you think we may actually get out of this? you're fooling yourself.] 
+JEAN: [why are you such a pessimist?]
+CLAUDE: [are you kidding me? look at this mess.] jean surveys the mess, the crying people.
+CLAUDE: [this is nothing. imagine the police outside. we're dead men.]
+ERIC: [jean, francois, claude...look at this.] they see the gold.
+JEAN: [you did it! you got in!]
+ERIC: [zed is opening the vault now. this is a taste.]
+ERIC: [look at this and tell me i'm not brilliant.]
+WOMAN CUSTOMER: [you're a monster! and you'll never leave this place alive!] eric shoots her with his uzi.
+ERIC: [none of you are worth half of this single bar. remember that.] francois, jean, and claude look at each other.
+CLAUDE: [eric...can i speak with you?]
+ERIC: [of course.]
+CLAUDE: [in private.]
+ERIC: [there's no need. i have nothing to hide. what is it claude?]
+CLAUDE: [well...we're surrounded by the police and we have no way out. what are we going to do?] eric slaps him across the face.
+ERIC: [what are you doing claude? talking of all this false doubt. what do you think we're going to do?]
+CLAUDE: [i don't know...not the original plan.]
+ERIC: [obviously, since ricardo us up and didn't kill the concierge fast enough. and killing all these assholes--
+]: [--isn't going to do us a bit of good now, is it?]
+CLAUDE: no.
+ERIC: [no. because we'll need them as hostages when we get on the plane.]
+CLAUDE: [we're going on a plane?] eric pats his shoulder.
+ERIC: [claude, you are a mental giant. leave the plans up to me and just kill people if they get out of line, okay?]
+CLAUDE: [okay.]
+ERIC: [i'm going to see how things are going.]
 
-speaker1: [they want to with me!? they want to with me!?] he puts the phone on the hook. it instantly rings. 
-speaker1: [you want to with me!? i'll show you what happens to people who with me!]
-speaker1: [the moment of truth my love. you knew it would come.] he grabs zoey and lifts her to her feet.
-speaker2: no!
-speaker3: [no! what ever it is you're going to do have mercy!] eric suddenly calms down.
-speaker1: [have mercy?]
-speaker3: [yes.]
-speaker1: [with her.]
-speaker3: [yes.]
-speaker1: [that's sweet.] [you have quite a reach my lovely. is he one of your clients?] he pushes zoey to the ground.
-speaker1: [it's a deal.]
-speaker3: [thank you.]
-speaker1: [don't mention it.]
-speaker4: [eric! what are you doing?]
-speaker1: [clearing up the "how full of am i" question the cops are asking themselves right now.]
-speaker1: [hello.] [yes. i'll hold.] [i'm holding.]
-speaker1: [hello.] [you don't know the half of it. so just shut the up and listen. try any more stunts and i'll really go crazy.] [well that's good because if you cops even think of it i'll kill some more people. hear?] [no. none of that. we won't trade. that never works. not in the movies, not in real life. understand? we're going to get into our van, with a couple of people, go to the airport, and fly out of this hole city. and you're not going to follow us.] [who do you think is going to supply the plane? us? no, you imbecile, the french taxpayers would be a good second guess for you. you're really me off. you think i'm a amature?] he covers the mouth piece.
-speaker1: [i hate cops.]
+ERIC: [they want to with me!? they want to with me!?] he puts the phone on the hook. it instantly rings. 
+ERIC: [you want to with me!? i'll show you what happens to people who with me!]
+ERIC: [the moment of truth my love. you knew it would come.] he grabs zoey and lifts her to her feet.
+ZOEY: no!
+ASSISTANT MANAGER: [no! what ever it is you're going to do have mercy!] eric suddenly calms down.
+ERIC: [have mercy?]
+ASSISTANT MANAGER: [yes.]
+ERIC: [with her.]
+ASSISTANT MANAGER: [yes.]
+ERIC: [that's sweet.] [you have quite a reach my lovely. is he one of your clients?] he pushes zoey to the ground.
+ERIC: [it's a deal.]
+ASSISTANT MANAGER: [thank you.]
+ERIC: [don't mention it.]
+CLAUDE: [eric! what are you doing?]
+ERIC: [clearing up the "how full of am i" question the cops are asking themselves right now.]
+ERIC: [hello.] [yes. i'll hold.] [i'm holding.]
+ERIC: [hello.] [you don't know the half of it. so just shut the up and listen. try any more stunts and i'll really go crazy.] [well that's good because if you cops even think of it i'll kill some more people. hear?] [no. none of that. we won't trade. that never works. not in the movies, not in real life. understand? we're going to get into our van, with a couple of people, go to the airport, and fly out of this hole city. and you're not going to follow us.] [who do you think is going to supply the plane? us? no, you imbecile, the french taxpayers would be a good second guess for you. you're really me off. you think i'm a amature?] he covers the mouth piece.
+ERIC: [i hate cops.]
 
-speaker1: [i'm going to die...] zed can't believe what he's seeing. 
-speaker1: [i'm going to die...please hold my...hand. i don't...want to die...alone.]
-speaker2: are you still there? nothing.
+VAULT GUARD #1: [i'm going to die...] zed can't believe what he's seeing. 
+VAULT GUARD #1: [i'm going to die...please hold my...hand. i don't...want to die...alone.]
+ZED: are you still there? nothing.
 
-speaker1: oliver, now! open the vault! 
-speaker1: open seasame.
-speaker1: do you want to give me a hand?
-speaker2: sure.
+ZED: oliver, now! open the vault! 
+ZED: open seasame.
+ZED: do you want to give me a hand?
+OLIVER: sure.
 
-speaker1: holy mother. 
-speaker2: here, help me with this.
+OLIVER: holy mother. 
+ZED: here, help me with this.
 
-speaker1: [that's what you get!] claude puts his hand on eric's shoulder. 
-speaker2: eric.
-speaker1: [the police won't budge. i kill a man and they don't care. they say they don't make deals with terrorists. it really up my plan.]
-speaker2: [and what if we gave up?] eric can't believe this.
-speaker1: [claude, look around you. we're not talking prison here. you know. the cops will give in. you start killing women...they give in. they're all so much in love with women!] then he looks at zoey.
-speaker1: [what are you looking at you whore?]
-speaker1: [are you afraid i'll tell these people that this is only a day job for you?] she shakes her head "no".
-speaker1: [what? so they know that you're a--] the sub lobby assistant speaks up.
-speaker3: [leave her alone.]
-speaker1: [shut up!]
-speaker1: [my only mistake was not to make an example of a woman to begin with.]
+ERIC: [that's what you get!] claude puts his hand on eric's shoulder. 
+CLAUDE: eric.
+ERIC: [the police won't budge. i kill a man and they don't care. they say they don't make deals with terrorists. it really up my plan.]
+CLAUDE: [and what if we gave up?] eric can't believe this.
+ERIC: [claude, look around you. we're not talking prison here. you know. the cops will give in. you start killing women...they give in. they're all so much in love with women!] then he looks at zoey.
+ERIC: [what are you looking at you whore?]
+ERIC: [are you afraid i'll tell these people that this is only a day job for you?] she shakes her head "no".
+ERIC: [what? so they know that you're a--] the sub lobby assistant speaks up.
+SUB LOBBY ASSISTANT: [leave her alone.]
+ERIC: [shut up!]
+ERIC: [my only mistake was not to make an example of a woman to begin with.]
 
-speaker1: this is unbelievable. look at all of this. it's wonderful to touch. 
-speaker2: just help me steer this out.
+OLIVER: this is unbelievable. look at all of this. it's wonderful to touch. 
+ZED: just help me steer this out.
 
-speaker1: do you think we should get some cash also? 
-speaker2: what for?
-speaker1: well, you never know.
-speaker2: money is too easily traceable. you'd never be able to spend it. and forget about exchanging it.
-speaker1: that's true.
-speaker2: no sir. your best bet is to get these bars melted down in tunisia or korea.
-speaker1: eric knows someone in portugal.
-speaker2: or portugal.
+OLIVER: do you think we should get some cash also? 
+ZED: what for?
+OLIVER: well, you never know.
+ZED: money is too easily traceable. you'd never be able to spend it. and forget about exchanging it.
+OLIVER: that's true.
+ZED: no sir. your best bet is to get these bars melted down in tunisia or korea.
+OLIVER: eric knows someone in portugal.
+ZED: or portugal.
 
-speaker1: do we have a covering of some kind? 
-speaker2: a what?
-speaker1: you know. something to cover this with. it'll look kind of conspicuous leaving the bank with a platten of gold.
-speaker2: oh, it won't matter. the police know what we're up too.
-speaker1: police?! what do you mean they know what we're up too?
-speaker2: you don't know? we've been discovered. but eric has them under control.
-speaker1: no i didn't know! how many police?
-speaker2: the building is surrounded.
+ZED: do we have a covering of some kind? 
+OLIVER: a what?
+ZED: you know. something to cover this with. it'll look kind of conspicuous leaving the bank with a platten of gold.
+OLIVER: oh, it won't matter. the police know what we're up too.
+ZED: police?! what do you mean they know what we're up too?
+OLIVER: you don't know? we've been discovered. but eric has them under control.
+ZED: no i didn't know! how many police?
+OLIVER: the building is surrounded.
 
-speaker1: [they're trying to smoke us out eric!] 
-speaker2: [what do we do!?]
-speaker3: do you really love your girlfriend that much? she's really with your mind.
-speaker4: eric...what are you talking about?
-speaker3: look at it. it's all for us. the smoke. the attention. they have no idea of who they're dealing with. they have no idea what kind of men we are.
-speaker4: what kind of men are we?
-speaker3: you can no longer be in our club. you forfeit your cut of the pie.
-speaker4: what about our friendship?
-speaker3: zed. i haven't seen you in years. you hardly know me.
-speaker3: never let a girl come between two men.
-speaker3: now let's try to get out of here.
-speaker2: [the police! they're entering the building!]
-speaker3: [smoother and more giving than the most selfless human being. you're beautiful.] francois runs in.
-speaker2: [eric!]
-speaker3: [jesus, what now?]
-speaker2: [the police are coming in! we're doomed!]
-speaker3: [get a hostage.]
-speaker2: [they don't give a about the hostages!]
+CLAUDE: [they're trying to smoke us out eric!] 
+FRANCOIS: [what do we do!?]
+ERIC: do you really love your girlfriend that much? she's really with your mind.
+ZED: eric...what are you talking about?
+ERIC: look at it. it's all for us. the smoke. the attention. they have no idea of who they're dealing with. they have no idea what kind of men we are.
+ZED: what kind of men are we?
+ERIC: you can no longer be in our club. you forfeit your cut of the pie.
+ZED: what about our friendship?
+ERIC: zed. i haven't seen you in years. you hardly know me.
+ERIC: never let a girl come between two men.
+ERIC: now let's try to get out of here.
+FRANCOIS: [the police! they're entering the building!]
+ERIC: [smoother and more giving than the most selfless human being. you're beautiful.] francois runs in.
+FRANCOIS: [eric!]
+ERIC: [jesus, what now?]
+FRANCOIS: [the police are coming in! we're doomed!]
+ERIC: [get a hostage.]
+FRANCOIS: [they don't give a about the hostages!]
 
-speaker1: zoe... 
-speaker2: my zed. they've hurt you.
-speaker2: you're going to be okay. in many countries scars on the face are a symbol of heroism. to proudly display a flaw like a badge...is to wear a badge of truth.
-speaker1: be serious zoe...i can stick my tongue through my cheek.
+ZED: zoe... 
+ZOE: my zed. they've hurt you.
+ZOE: you're going to be okay. in many countries scars on the face are a symbol of heroism. to proudly display a flaw like a badge...is to wear a badge of truth.
+ZED: be serious zoe...i can stick my tongue through my cheek.
 
-speaker1: oliver! let's get a hostage! 
-speaker2: this is the end! francois is ripped into by machine gun fire.
+FRANCOIS: oliver! let's get a hostage! 
+OLIVER: this is the end! francois is ripped into by machine gun fire.
 
-speaker1: merde! the vault has been closed. 
-speaker2: what about the others?
-speaker1: listen...there's no gunfire.
+ZOE: merde! the vault has been closed. 
+ZED: what about the others?
+ZOE: listen...there's no gunfire.
 
-speaker1: motherfuckers! 
-speaker1: you wanna with me? you wanna with me? i'll show you who you're with! he starts blasting away.
-speaker2: c'mon, we'll be safer in here.
+OLIVER: motherfuckers! 
+OLIVER: you wanna with me? you wanna with me? i'll show you who you're with! he starts blasting away.
+ZOEY: c'mon, we'll be safer in here.
 
-speaker1: [think!] 
-speaker1: zed.
-speaker1: what's your girlfriends name?
-speaker2: zoe.
-speaker1: zoe. [zoe, come here to me.] zoey spits at him.
-speaker1: [killing you would just be gravy, so don't with me.]
-speaker3: [go ahead you slob. shave my ass!]
-speaker1: zed no. i'll kill you. it means nothing to me, our friendship.
-speaker2: eric...there's no way out of here!
-speaker1: oh but you're wrong. this is my way out. this dime store couge with her motor driven ass. you find your own.
-speaker1: come zed...i'm going to cut you like a sausage.
-speaker2: zoey, get out of here! she scrambles away. he swipes at zed.
-speaker1: did you see how she ran? did you see how she ran? she doesn't care about you. only cares about pussy. look out for number one. what do you say zed? he swipes again.
-speaker1: i will kill you. and once i kill you zed, i'll get out of here. i'll your up the and give her aids...if she doesn't already have it. what do you say to that zed?
-speaker1: 
-speaker4: ox! where is thy yoke!?
-speaker1: both of you. then he notices the lack of gunfire upstairs. eric turns back to them.
-speaker1: au revoir.
-speaker3: no!
-speaker5: [stop!] eric stops. it becomes quiet.
-speaker1: i give you little kiss. ciao.
+ERIC: [think!] 
+ERIC: zed.
+ERIC: what's your girlfriends name?
+ZED: zoe.
+ERIC: zoe. [zoe, come here to me.] zoey spits at him.
+ERIC: [killing you would just be gravy, so don't with me.]
+ZOEY: [go ahead you slob. shave my ass!]
+ERIC: zed no. i'll kill you. it means nothing to me, our friendship.
+ZED: eric...there's no way out of here!
+ERIC: oh but you're wrong. this is my way out. this dime store couge with her motor driven ass. you find your own.
+ERIC: come zed...i'm going to cut you like a sausage.
+ZED: zoey, get out of here! she scrambles away. he swipes at zed.
+ERIC: did you see how she ran? did you see how she ran? she doesn't care about you. only cares about pussy. look out for number one. what do you say zed? he swipes again.
+ERIC: i will kill you. and once i kill you zed, i'll get out of here. i'll your up the and give her aids...if she doesn't already have it. what do you say to that zed?
+ERIC: 
+OLIVER: ox! where is thy yoke!?
+ERIC: both of you. then he notices the lack of gunfire upstairs. eric turns back to them.
+ERIC: au revoir.
+ZOEY: no!
+FRENCH POLICEMAN #1: [stop!] eric stops. it becomes quiet.
+ERIC: i give you little kiss. ciao.
 
-speaker1: [i work here. this man is a customer...he needs medical help.] 
-speaker2: [how bad do you think his wounds are?]
-speaker3: [are you alright?] zoey starts to cry.
+ZOEY: [i work here. this man is a customer...he needs medical help.] 
+FRENCH POLICEMAN #2: [how bad do you think his wounds are?]
+FRENCH POLICEMAN #1: [are you alright?] zoey starts to cry.
 
-speaker1: [there's an ambulance outside.] [my what a bastille day.] 
-speaker2: [this one's the ringmaster. we need an
+FRENCH POLICEMAN #1: [there's an ambulance outside.] [my what a bastille day.] 
+FRENCH POLICEMAN #3: [this one's the ringmaster. we need an
 
-speaker1: the hospital? 
-speaker2: no.
-speaker1: come on. i have a car.
+ZOEY: the hospital? 
+ZED: no.
+ZOEY: come on. i have a car.
 
-speaker1: i'm so tired. 
-speaker2: we'll go to my flat. you can rest there. do you feel pain?
-speaker1: no...it was mostly his blood.
-speaker2: i have a shower. you can clean up there.
-speaker1: thank you zoe.
-speaker2: my name is not zoe. not any more.
-speaker2: you'll get well. then i'll show you the real paris. they drive away.
+ZED: i'm so tired. 
+ZOEY: we'll go to my flat. you can rest there. do you feel pain?
+ZED: no...it was mostly his blood.
+ZOEY: i have a shower. you can clean up there.
+ZED: thank you zoe.
+ZOEY: my name is not zoe. not any more.
+ZOEY: you'll get well. then i'll show you the real paris. they drive away.
 

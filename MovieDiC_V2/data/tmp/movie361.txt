@@ -1,1029 +1,1029 @@
-speaker1: hell. and we're going to send them back screaming. 
-speaker1: last one to kill a bad guy buys the beer.
-
-speaker1: i can hear her. oh, yes, oh yes. she's gonna sing. 
-speaker2: target lock.
-speaker3: imminent collision.
-
-speaker1: the attack ship is right behind him. 
-speaker2: weapons are off line. jettisoning main drive core.
-
-speaker1: warning. failure in redundant drive systems. jeb-pov. the surface of mars is rushing up fast. 
-speaker1: impact on in 90 seconds.
-speaker2: mars control. . .
-speaker3: jeb's ship is barreling toward the planet.
-speaker2: . . .this is ranger one.
-speaker4: ...engines will not respond. require assistance. repeat...
-speaker5: ranger one this is grissom base.
-speaker6: three small rescue craft race skyward.
-
-speaker1: grissom, this is eagle one. those pugs will never reach him in time. 
-speaker2: eagle one clear this frequency and return to base.
-speaker1: this is eagle one. i'm going after him.
-speaker2: negative eagle one, your craft is not equipped west hits his thrusters.
-
-speaker1: mars is coming up fast. 
-speaker2: impact in 30 seconds.
-speaker3: jeb, do you have navigational thrusters?
-speaker4: don?
-speaker3: it's a yes or no question.
-speaker4: marginal. but in the green.
-speaker2: impact in 15 seconds.
-speaker3: head towards the canals.
-speaker4: what are you doing?
-speaker3: saving your ass. read towards the canals. now!
-
-speaker1: west is accelerating toward jeb. 
-speaker2: major west, your ship is not equipped for rescue. you are not authorized to jeopardize this asset. that is a direct order. acknowledge!
-speaker3: never liked that station, anyway.
-
-speaker1: the canal floor is rushing up fast. 
-speaker2: impact in five seconds.
-
-speaker1: warning. proximity alert. 
-speaker2: jeb, i'm going to give you a little kiss. don't take it the wrong way.
-speaker3: west angles his ship directly under jeb.
-
-speaker1: don, abort. abort. 
-speaker2: jeb's fighter is visible overhead.
-
-speaker1: does this mean we're going steady? 
-speaker2: west shoots up and out towards the dark of space.
-speaker3: you weren't getting out of buying those beers that easy.
-
-speaker1: imagine an end to world hunger. what if ample food and clean drinking water were the birthright of all our planet's children? 
-speaker1: this man, professor john robinson, inventor of the faster than light hyperdrive can make that timeless dream a reality.
-speaker1: john robinson and his family have been extensively trained to take a ten year journey across the galaxy in the world's most advanced spacecraft, the jupiter.
-speaker1: from a distant world, the robinsons, will bring back a miracle...
-speaker1: dimondium can turn even worthless sand to fertile soil. earth will be a garden. what kind of - future can our children look forward to?
-speaker2: a future without hunger. a future without suffering. heaven on earth.
-speaker2: this mission sponsored by the us army and the coca-cola corporation.
-
-speaker1: he hacked our main power grid to run his experiment. the school was in chaos. we didn't even have lights. 
-speaker1: this is no laughing matter, mrs. robinson. will is terribly gifted. his little time machines, though pure fancy, are the products of a truly brilliant mind.
-speaker2: the changing shape of education.
-speaker3: no more monkey business.
-speaker1: the boy is starved for attention. was there no way his father could have attended the science fair?
-
-speaker1: once we have landed on alpha prime our on board robot will begin construction of a hypergate. 
-speaker1: by then, technicians here on earth will have completed a companion hypergate in our planet's orbit.
-speaker1: once both gates are complete, ships will be able to pass instantaneously between them. the jupiter can bring the dimondium back to earth without the ten year delay of a return trip.
-speaker2: why can't you just use the jupiter's hyperengine to zap straight to alpha prime?
-speaker1: as you know, hyperspace exists beneath normal space. if you try to enter hyperspace without a gate
-speaker1: your exit vector is random. there's no telling where you'd come out.
-speaker2: professor, how is captain daniels recovering from the flu? will we still be able to pilot the mission?
-speaker3: ladies and gentlemen, you came to get a look at the jupiter one. don't you think you've waited long enough?
-
-speaker1: professor, how does your family feel about leaving the earth behind.... 
-speaker2: they couldn't be more excited.
-
-speaker1: i don't want to stay home for dinner. i want to see my friends for the last time. 
-speaker1: ... on the eve before she is torn from her friends, kidnapped, hurled into deep space against her will, what thoughts fill the mind of the young space captive....
-
-speaker1: will there be boys on alpha centuri? 
-speaker2: when we wake up in ten years the video journals of penny robinson, space captive, will be devoured by millions. i will be world famous. you on the other hand, will have been totally forgotten.
-speaker2: the space captive has decided to wear ribbons of support for fellow sufferers as she is dragged into deep space, green for the ecological issues, white for human rights
-speaker1: you'd probably gag if i described the secondary infections loss of circulation can cause.
-speaker1: what are you grinning at?
-speaker2: i just found an upside to this mission. the thought of jettisoning your body into deep space.
-speaker1: dad says don't bring them. like anything i do matters to him.
-speaker2: he never showed, huh?
-speaker1: maybe if i had actually broken the time barrier he would have paid attention.
-speaker2: don't let him get to you, kiddo. he just gets busy with work is all.
-speaker1: so, that's a no to family dinner?
-speaker2: let's see, do i spend my last night on earth watching mom and dad pretend not to be fighting again or get in ten years of making-out at the mall ...
-speaker1: mom's gonna go thermal.
-speaker2: what's she gonna do. ground me?
-
-speaker1: john and the general walk the metal passageway. 
-speaker2: we're lucky they didn't press on daniels, condition.
-speaker3: i figured a chance to look at the ship would keep the dogs at bay.
-speaker2: ben, i'm worried about jamming in a replacement pilot at the last second. my family' a on this mission. i need someone who's more than just spit and polish.
-speaker3: i've got your man. he just doesn't know it yet.
-
-speaker1: at ease, major. 
-speaker2: sir, why was i pulled off active duty? i salvaged my craft and jeb's. i'll fight a court martial, general.
-speaker1: do you know professor robinson?
-speaker2: by reputation only. your father's battle strategies were required reading at the academy.
-speaker1: how much do you know about the jupiter mission, major?
-speaker2: the jupiter is fully automated. the pilot flies the ship out of the solar system and lands on alpha prime. it's a baby sitting job, sir.
-speaker1: major, you are aware earth's resources are severely limited.
-speaker2: every schoolchild knows our recycling technologies will save the environment. sending a family across the galaxy is a publicity stunt to sell soda to people of all ages.
-speaker1: what i am about to tell you is classified. every schoolchild has been lied to. the recycling technologies have failed. in less than two decades earth will be unable to support human life.
-speaker1: we spun the ad campaign to give the mission a friendly face, keep people from panicking in the streets. we partnered with coke because the 900 billion this mission cost would have bankrupted the government. the sinojordanian alliance knows the truth as well as we do. they hope to reach alpha prime first - and if they do, i guarantee you, they will not share the dimondium with western demons like us. our crops will wither. we will be left to die.
-speaker2: ...captain daniels doesn't have the flu, does he sir?
-speaker1: daniels was murdered in his apartment last night. the flu story is a cover we fed the press.
-speaker2: dan was a good pilot. a good man.
-speaker1: your rescue stunt over mars was foolhardy. explain yourself, major.
-speaker2: i had a friend in trouble.
-speaker1: you endangered a one billion dollar spacecraft, disobeyed a direct order because of a friend?
-speaker2: yes sir. and i'd do it again. sir.
-speaker3: he'll do.
-speaker1: congratulations major, you're the new pilot of the jupiter mission.
-
-speaker1: perhaps a brief jaunt down memory lane is required. i was contracted to provide daniels, apartment code. 
-speaker2: they found a replacement pilot, the mission is going ahead on schedule.
-speaker1: how tragic. for you.
-speaker2: we require more direct intervention.
-speaker1: i see. well, that will cost you. and, i'm afraid my price has just become ... astronomical.
-
-speaker1: control hasn't received the results of your final pre-flight exams, doctor smith. 
-speaker2: the robinsons are checked out at one hundred percent. they are in perfect condition and ready to fly.
-speaker2: wish them good luck for me.
-
-speaker1: the mission protocols are simple. professor robinson is in command unless you encounter a military emergency. in that case, major west, you will assume command. 
-speaker2: welcome aboard, major.
-
-speaker1: some of this technology might be new to you. i'll be happy to explain. 
-speaker2: cold fusion drive rambler-krey life sciences stations.
-speaker2: holographic navigational interface.
-speaker2: cryosleep array. fully monitored.
-speaker2: sick bay, remote ops, engineering and living quarters are below decks. hyperengine should be in here.
-speaker1: if you have to baby sit, it's not such a bad nursery, wouldn't you agree, major?
-speaker3: the cryosleep systems are running at ninety five percent.
-speaker4: doctor smith approved the specs-
-speaker3: doctor smith is base physician. i am responsible once this ship is in flight. these tubes have to keep the crew in suspended animation for ten years. they will be perfect or this ship will not launch. is that clear?
-speaker4: absolutely, doctor.
-speaker1: judy, i'd like you to meet major west. he's taking mike's place.
-speaker3: he's heavier than mike. we'll have to re-calibrate.
-speaker2: i'd be more than happy to discuss my dimensions perhaps over dinner?
-speaker3: west - i've read about you. something of a war hero, aren't you?
-speaker2: well, yes, actually.
-speaker3: those who can't think, fight. well, nice to have met you.
-speaker2: that's one cold fish i'd love to thaw.
-speaker5: i'm not going to make it home for dinner, dad.
-speaker2: it's going to be a long flight.
-speaker6: lights burn in the windows.
-
-speaker1: he won first prize again. he practically brought down his entire school. but he won first prize. 
-speaker2: a non-working prototype for his time machine. sharp stuff for a midget.
-speaker2: i'm sorry about dinner. i had to work late. the new pilot-.
-speaker1: what you had to do was prioritize your family over the mission
-speaker2: maureen. this mission is about our family. so we can stay together
-speaker1: the perfect nuclear family. the most stable social unit, ideally suited for the isolation of a long journey into space. it's all just pr, john. you're never home. judy is becoming a ghost just like you. penny can't see past her own navel and will has to black out-his school, just to get his father's attention. the perfect nuclear family in ruin.
-speaker2: i know, maureen. i'm scared too.
-
-speaker1: anything else? 
-speaker2: i'm showing a late shipment from mission medical. smith's authorization. here it is now.
-
-speaker1: you'll forgive me if i forgo the kiss, my sleeping behemoth. 
-speaker1: but the time has come to awake.
-speaker2: robot is on-line. reviewing primary directives. one, preserve the robinson family. two, maintain ship systems. three
-speaker1: spare me the chatter.
-speaker1: what noble charges my steely centurion. sadly i fear you have far more dire deeds in store for you.
-speaker2: robot is on-line. reviewing primary directives. two hours into mission destroy robinson family. destroy all systems.
-speaker1: now that's more like it. farewell my tin-plated pal. give my regards to oblivion.
-
-speaker1: i told you never to call me here. 
-speaker2: i see you have completed your mission on schedule good work, doctor. and goodbye. the businessman smiles. smith-close. puzzled.
-
-speaker1: the giant dome shines in the early sun. 
-speaker2: don't, mom. vogue says this will be the style in ten years.
-speaker3: will she wake up less annoying?
-speaker2: does he have to wake up at all?
-speaker4: alright you two, enough.
-speaker4: you get a c in paternal expression, professor. but an a for effort.
-speaker4: you always get an a in that.
-speaker5: don't let me shatter this unbridled display of affection, but we are running behind.
-speaker6: major, she's all yours.
-speaker7: i'll try to give you a smooth ride.
-speaker5: mission control this is dr. robinson.
-speaker8: roger, doctor, you are go to initiate cryostasis.
-speaker7: one question, doctor. in there room in these tubes for two?
-speaker5: barely enough for you and your ego, major. drive carefully. initializing cryostasis tubes.
-speaker7: mission control, this is jupiter one. the robinsons are asleep. we are ready to fly.
-
-speaker1: jupiter two this is mission control. you are at t-minus two minutes and counting. we're opening the dome. 
-speaker2: giant gantries retract. fueling lines disengage.
-
-speaker1: roger, houston. 
-speaker1: we're outta here.
-
-speaker1: houston, diverting all spacecraft controls to the main computer. eight years of flight training. 
-speaker1: navigational holographics on line. fifty combat missions.
-speaker1: course confirmed for slingshot exit of the solar system. just so i can take the family camper on an interstellar picnic.
-speaker1: ten world series. my, nephews' high school and college graduations. a decade's worth of sports illustrated swimsuit editions. noah, ten years in a lifetime.
-
-speaker1: no. 
-speaker1: disable program.
-speaker2: robot is on line. implementing prime command directives.
-speaker2: robinson family, destroy.
-speaker1: no. cease. desist.
-speaker2: all operating systems, destroy.
-speaker2: jupiter two, destroy.
-
-speaker1: robinson family, destroy. 
-speaker2: mechanical moron. you'll kill us all.
-
-speaker1: this mission's over. wake them up. 
-speaker2: no response, sir. i'm sorry.
-
-speaker1: the robot is rolling toward the com. 
-speaker2: wake up, you. i can't stop this infernal contraption on my own.
-speaker2: hurry up. hurry up.
-speaker3: maureen. the children.
-speaker3: disengage safety.
-speaker4: voiceprint confirmed.
-speaker5: dad!
-speaker6: will, wait.
-speaker6: look away, baby.
-speaker5: robot. return to your docking bay and power down.
-speaker7: command accepted.
-speaker5: if the family won't come to the science fair, bring the science fair to the family.
-speaker8: mom, look, it's doctor smith.
-speaker6: pulse, respiration and bleeding-
-speaker8: basic triage, lock down and stabilize. i know the drill.
-speaker9: next picnic, no robots.
-speaker9: communications links are down.
-speaker6: life support is at ten percent. trying to bring secondary systems on line. it's not working.
-speaker8: explosions rock the ship. danger is everywhere, 'yet the space captive is fearless as she...
-speaker8: i want to go home now.
-speaker9: rerouting power from the secondary couplings. try it again.
-speaker6: finding a power tap....
-speaker6: life support is back on line.
-speaker9: i can't get the blast shields open. we're flying blind.
-speaker8: i've got life signs. boy, somebody could use a breath mint.
-speaker9: try the emergency back-ups.
-speaker9: smith, what the hell-
-speaker2: i was making a last minute check ... someone hit me from behind.
-speaker9: sino-jordanian technology. you're a spy. you did this.
-speaker2: stop. what are you doing?
-speaker9: dropping some extra weight.
-speaker6: help, somebody. please.
-
-speaker1: the thawing engine in broken. can't get her out. she's dying. 
-speaker2: touch me and the girl dies.
-speaker2: your mission physician is indisposed. i can save her life. but only if you spare mine.
-speaker3: i don't deal with dead men.
-speaker2: kill me, i kill the girl. how much is your revenge worth, major? i will, of course, need your word as an officer that you will let me live.
-speaker3: help her.
-speaker4: i've got a com signal.
-speaker5: ...is mission control. do you read?
-speaker4: emergency power's on line. i think i can get these blast shields open.
-speaker3: uh-oh.
-speaker6: noah stands over the com. the room is a madhouse.
-speaker7: give me a telemetry projection.
-speaker8: john and don stand over the com.
-speaker7: you're way off course. we show you in the sun's gravitational pull.
-speaker3: how long do we have?
-speaker7: we count seven minutes before your outer hull begins to melt.
-speaker3: i'm going to try for the mercury mines.
-speaker2: i will need dr. robinson's portable gurney. i believe it is stored in-
-speaker9: i'm on it.
-speaker1: we trusted you. you tried to kill us all.
-speaker2: existence offers us nothing if not the opportunity for an endless series of betrayals. there's a world behind the world, professor robinson. lie once, cheat twice and everything becomes clear. do not mistake my deception for a character flaw. it is philosophical choice, a profound understanding of the universe. it is a way of life.
-speaker1: you're a monster.
-speaker2: perhaps. but i am also the only one who can save your daughter's life.
-speaker1: where's will?
-speaker9: he's futzing with that robot.
-speaker2: alright, penny dear, i need you to short the power on my command.
-speaker9: does he have to call me dear?
-speaker2: professor, if you will assist me in lowering the body.
-speaker2: penny, dear. now.
-speaker1: she's dying.
-speaker2: sickbay. move.
-speaker3: unable to re-route to mercury. the sun's pull is too strong. noah, i need options.
-
-speaker1: no cardio-pulmonary or respiratory functions. 
-speaker2: body temp at 68 fahrenheit.
-speaker1: get her flight suit off.
-speaker1: clear.
-speaker1: again. clear.
-speaker1: power's down.
-speaker2: we're losing her.
-
-speaker1: i've re-routed all secondary systems to the main drive. 
-speaker2: she won't budge. shortest baby sitting mission i've ever done.
-speaker1: my family's not going die in space.
-speaker2: i'm open to suggestions.
-speaker3: outer hull breach in 30 seconds.
-speaker4: smith begins pumping judy's chest by hand.
-speaker5: come on, child. fight. put a little heart in it.
-speaker5: the life.. . i save ... may be my own.
-speaker6: judy? baby?
-speaker7: you should try to look less worried. it has a tendency to spook the patients.
-speaker6: thank you.
-speaker5: you are a good woman, maureen. any man could see that. i hope i have proven the well-being of your family is of great importance to me. perhaps, if you convinced your husband to trust me...
-speaker6: stabilize her, smith. because you only breathe as long as she does.
-
-speaker1: heat seal breach in 20 seconds. 
-speaker2: there's got to be some way to get through this.
-speaker3: that's it.
-speaker2: what's it?
-speaker3: we can't get away from the sun. so we have to go through it.
-speaker2: engage the hyperdrive without a gate, we could be thrown anywhere in the galaxy
-speaker3: anywhere but here.
-
-speaker1: we're getting resident radiation distortions from the space craft. she must be breaking up. 
-speaker2: let me see those numbers, annie.
-speaker2: son of a he's powering up the hyperdrive.
-
-speaker1: hyperengines coming on line. 
-speaker2: warning. heat shield breach.
-speaker3: hyperdrive at 100 percent. major, you have the com.
-speaker1: zero to 20 million miles a second in under a minute. let's see what this baby can do.
-
-speaker1: we can't keep a fix on her, sir. she's starting to disappear. 
-speaker2: godspeed.
-
-speaker1: is everyone okay? 
-speaker2: all in one piece. although major west has the most puzzling definition of a smooth ride.
-speaker1: judy? where's judy?
-speaker3: boy either i cut down on the coffee or sew in a flap. it's getting in and out of this thing.
-speaker1: are you-
-speaker3: vitals are normal. pulse and respiration seem to be-
-speaker1: baby, are you okay?
-speaker3: i'm fine daddy really.
-speaker4: will every disaster be an excuse for familial sentiment? please tell me now so i may gather up a liberal supply of space sickness bags.
-speaker2: what happened, john? where are we?
-
-speaker1: you had me worried, doc. nice to see you thawed. 
-speaker2: smart maneuver with the hyper-drive.
-speaker1: a fighter who thinks, what do you know? you're just in time for the show.
-speaker1: computer, map our current location.
-speaker3: see anything familiar?
-speaker4: searching for recognizable constellations. unable to locate.
-speaker3: this computer has star maps of the entire known galaxy.
-speaker5: we're lost, aren't we?
-speaker1: what the is that?
-speaker3: any effect on the ship?
-speaker1: no.
-speaker3: all the planets have moved.
-speaker1: and where did that come from?
-
-speaker1: it's gone. 
-speaker2: no. go back in front of it.
-
-speaker1: it's a hole in space. a doorway. 
-speaker2: a doorway to where?
-speaker1: if we want to reach that ship, we're going to have to find out.
-
-speaker1: the giant, silver ship looms in the windscreen. 
-speaker2: no apparent effects on the ship.
-speaker3: i'm hailing on all frequencies. no response.
-speaker4: there are some markings on the starboard side. can you throw some light on her?
-speaker3: don't know if the exterior spots are working.- there we go.
-speaker3: if this in all a dream, why can't there be more girls?
-speaker3: i've never seen a design like this.
-speaker4: how could earth launch a ship this massive and neither of us know about it? ... it just doesn't make sense.
-speaker3: these scanners are damaged, i'm getting inconsistent life signs but they may be sensor ghosts.
-speaker4: maybe her computer's still up. i'm trying standard remote access codes.
-speaker3: what do you know?
-speaker5: the jupiter two heads towards the giant ship.
-
-speaker1: can you give me some light on the secondary docking ring? 
-speaker2: what do you make of that?
-speaker3: boys, i think we're having a close encounter.
-
-speaker1: crush. 
-speaker1: crush! kill! destroy!
-speaker2: crush. kill. destroy.
-speaker1: crush! kill! destroy!
-speaker2: i hacked into his cpu, bypassed his main operating system and accessed his sub-routines. he's basically running on remote control.
-speaker3: show off.
-
-speaker1: and so the space captive finds herself helping the robinsons by guarding the traitor. and she finds- 
-speaker1: she finds that out here, in the dark and cold, she's scared, and she's kind of glad they're all together.
-speaker1: identify yourself, soldier.
-speaker2: west, major, united space force, requesting permission to see the prisoner.
-speaker1: proceed major west.
-speaker1: ouch. could he be cuter? i don't think so.
-
-speaker1: these quarters are totally unacceptable. i demand- 
-speaker2: we're going to check out the probe ship. maybe we can figure out how they got here. and how to get home.
-speaker1: ta-ta. have a wonderful trip.
-speaker2: you're coming with us.
-speaker1: out of the question. i'm a doctor not a space explorer. you and- but don is in his face in a heartbeat.
-speaker2: what you are is a murderous saboteur and i am not leaving you on this ship so you can do more harm than you've already caused.
-speaker1: i absolutely refuse-
-speaker2: give me an excuse to kill you. please.
-speaker1: silver always was my color.
-
-speaker1: when boarding a mysterious spacecraft, it always pays to look your best. 
-speaker2: deactivate safety.
-speaker3: voiceprint confirmed. rifle is active.
-speaker2: you did a good job up there son. you saved us all.
-speaker1: thanks.
-speaker2: i know i haven't around much these days.that we haven't had time to-
-speaker4: professor, we're ready.
-speaker2: will, you're the most important thing in the world to me. i hope one day you'll be able to see that.
-speaker1: take care of my dad, okay robot?
-
-speaker1: the air is stale. old. 
-speaker2: that's the smell of ghosts.
-speaker3: i'm interfacing with the on board computer... odd.
-speaker4: not working?
-speaker3: no, it's just, i don't know, too fast. most of the systems are down.
-speaker1: motion sensors are still working.
-speaker3: what do you make of this?
-speaker4: some kind of hieroglyphics.
-
-speaker1: if i didn't know better i'd say this is blood. 
-speaker2: i know an omen when i see one. i suggest a hasty retreat.
-speaker3: just imagine we're retreating in the opposite direction. now, move it.
-
-speaker1: ... hear something? 
-speaker2: like the drip, drip, drip of blood..
-speaker3: you really need to shut up.
-speaker4: here.
-speaker5: that material appears biological.
-speaker2: nothing good will come of this.
-speaker3: what makes you such an expert?
-speaker2: trust me, major. evil knows evil.
-speaker4: let's find the bridge. maybe we can get some answers. they head off. hold on the dripping membrane.
-
-speaker1: try it now, mom. 
-speaker1: 
-
-speaker1: what the happened in here? 
-speaker2: some kind of fire fight. look at this technology. i've seen some of this before. on the drawing boards.
-speaker3: can you bring up the captain's log?
-speaker2: the data has degraded. i'm going try and gather any fragments i can. there isn't much, but ... here we go.
-speaker2: jeb.
-speaker4: the hyperspace tracker seems to be functioning... no sign of the jupiter two...
-speaker4: have exceeded our mission timetable by two... i'm not willing to give up. don would keep looking for me.
-speaker2: that's it. the rest of the data is totally corrupted.
-speaker2: this doesn't make sense. how could they launch a rescue mission for us when we've only been lost a day?
-speaker1: i've got something here.
-speaker1: they brought it up from the planet's surface. it's seems to be some sort of egg sack.
-speaker2: smith, step away from there.
-speaker5: happy to oblige, major. although i don't think it's me you should be worrying about. but rather this.
-
-speaker1: i'm detecting motion. behind you... 
-speaker2: a towering shadow shoots past the open doorway.
-speaker3: after it. move. bring smith.
-
-speaker1: a jungle. john and judy arrive behind don. 
-speaker2: this explains where all the plants came from.
-speaker3: growth like this would take decades.
-speaker4: unhand me, you mechanical moron.
-speaker2: don't move.
-speaker4: i am sick of your terrorism. if you are going to kill me, be done with it. otherwise i will insist you treat me with the respect and-
-speaker2: i said don't move.
-speaker5: will is watching through the robot's eyes.
-speaker6: neat.
-
-speaker1: well, who do we have here? 
-speaker2: easy there, little buddy. no one's going to hurt you.
-speaker3: how do you know it won't hurt us?
-speaker1: looks like you've made a friend. you have a good bedside manner, major.
-speaker2: i'm going to let that one go.
-speaker3: how charming. doctor dolittle of outer space.
-speaker1: where do you think it came from?
-speaker4: it's possible this is one of the creatures represented in the hieroglyphs we saw on the wall. it must have been their ship attached to the other docking ring.
-speaker2: it looks like a child.
-speaker3: if so, my dear major, what do you suppose happened to its parents?
-speaker4: let's get back to the bridge.
-
-speaker1: penny is still hanging overhead. 
-speaker2: i think i've got it.
-speaker3: that's strange.
-speaker2: those scales are giving off heat.
-speaker4: john is at the com.
-speaker5: i've tapped into the internal sensor array. besides us, this ship is totally deserted.
-speaker6: a ghost ship.
-speaker7: and the flavor of the day is ... banana/beef. who thinks up these combinations?
-speaker7: mm. good.
-speaker6: major west, i highly recommend you never breed. that by the way is my medical opinion.
-speaker7: little thing was hungry.
-speaker6: good lord, who will - spare us the tyranny of the sentimental?
-speaker2: do you hear something?
-speaker6: get this infernal creature off me.
-speaker7: this can't be good.
-speaker6: you have a remarkably keen sense of the obvious.
-
-speaker1: they eat their wounded. 
-speaker2: which way?
-
-speaker1: turn left. 
-speaker2: now right.
-speaker3: got to seal the bulkhead.
-speaker4: the door control is at the other and of the corridor.
-speaker5: the fire sensor.
-
-speaker1: open, you. 
-speaker2: it's cycling a vacuum check. there is no way to speed up the protocols.
-speaker1: fools. i warned you not to come aboard this cursed craft. you've killed us. you've killed us all.
-speaker3: shut up.
-speaker2: now that's a bedside manner.
-
-speaker1: seal it. now! 
-speaker2: the inner airlock door opens. the crew tumble in.
-speaker1: get us out of here.
-speaker3: get this cloying gargoyle off of me.
-speaker1: get me an external view.
-speaker1: prepare to disengage.
-speaker4: get it off me. get it off.
-speaker5: initiating separation.
-speaker4: it's okay. everything's going to be alright.
-speaker5: we're clear. everybody hang on.
-
-speaker1: alarms sound. 
-speaker2: i think those things were using the probe ship as a way to trap food.
-speaker3: that i s probably what happened to the monkey's parents. we were going to be desert.
-speaker4: but what happened to the crew?
-speaker5: nothing good.
-speaker3: we're not out of the woods yet.
-speaker3: let's see how these monsters like a hundred thousand volts.
-
-speaker1: and the crowd goes wild. 
-speaker2: recall your nightmares from childhood, major. monsters are rarely so easily dissuaded. a thunk. then another. a third.
-speaker1: persistent bastards.
-speaker3: can you hit them again?
-speaker1: every time i electrify the hull, i'm draining our systems. once or twice more and we're going to be dead in space.
-speaker2: a fate i fear may be inevitable one way or another.
-speaker3: that's the same expression you had when my mother came to stay with us.
-speaker4: dna extrapolation - coming up. silicone based. admantium shell and lack of respiratory system suggest an ability to live in deep space. tiny front brain implies communal relationships. more like bees.
-speaker1: there are thousands of those things maureen is working the computer.
-speaker4: they may be attracted to heat and light.
-speaker1: with the right command codes, i can light up the probe ship from here.
-speaker1: no response.
-
-speaker1: but they won't work until the next fleet of ships are built. that's at least two years away. 
-speaker2: just do it. don begins entering command codes.
-speaker1: how did you know?
-speaker2: think about it, don. the ships's advanced technology. your friend looking old. what if that ship is from our future?
-speaker3: warning. outer hull has been compromised.
-speaker4: it's not working.
-speaker2: can you get the fusion drive on line?
-
-speaker1: warning. inner hull breach in twenty seconds. 
-speaker2: give them a little encouragement.
-speaker3: electrifying outer hull ... now.
-
-speaker1: get us out of here. fast. 
-speaker1: what are you doing?
-speaker2: never leave an enemy stronghold intact. one of your father's first rules of engagement.
-speaker1: don, stop. that's a direct order. we might need to salvage-
-speaker2: this is a military emergency. that means i'm in command.
-speaker1: don, no. i'm ordering you-
-speaker2: i hate spiders.
-speaker2: hang on, it i a gonna be a bumpy ride.
-
-speaker1: the ship is buffeted by the shock wave. 
-speaker2: i can't hold her.
-
-speaker1: don is struggling to keep control. 
-speaker2: we're going down.
-
-speaker1: the windscreen is filled with a rushing blizzard. 
-speaker2: can't get the stabilizers on line.
-speaker3: pull up. pull up.
-speaker2: really? no kidding? thanks.
-speaker4: don banks the controls.
-
-speaker1: the surface is coming up fast. 
-speaker2: got to slow us down.
-
-speaker1: everybody, by the numbers. 
-speaker2: life sciences, still breathing.
-speaker3: mission medical, i'm alive.
-speaker4: me too. robotics, i mean.
-speaker5: video mechanics, okay.
-speaker6: i'm alive, major west's poor excuse for piloting skills not withstanding.
-speaker7: let's take a look.
-speaker5: i don't think we're in kansas anymore.
-
-speaker1: about half the core material is burned out. we'll never generate enough power to break orbit. 
-speaker2: i told you not to blow that ship's reactors and you did it anyway.
-speaker1: come on, professor, give it a rest. i was technically still in command.
-speaker2: don't hand me that. i'm commander of this mission.
-speaker1: look, no offense, but you're an egghead with an honorary rank. no one ever intended you to handle combat situations. you're spouting some nonsense about- time travel while those spiders posed a continuing threat. i made a judgement call and if i have to i'll make it again. hell, you of all people should understand that. if your father were here-
-speaker2: my father is not here. my father is dead, killed in one of his combat missions you so admire. my family is on this ship and you're going to follow my orders. whether you agree with them or not. is that clear, major?
-speaker1: save the speeches. i like you. but the fate of the earth is at stake here. i'm going to do whatever i think it takes to ensure the success of this mission. with or without your help. is that clear, professor?
-speaker3: am i interrupting something?
-speaker3: no. really. i think you two should go ahead and slug it out. i mean, here we are stranded on an alien world and you boys want to get into a contest. so please, go for it. i'll have judy down here in a heartbeat to declare you both unfit and i'll take over this mission. now i don't want to hear another word from you two until you can play nice. is that clear?
-speaker4: maureen- listen-
-speaker3: not another word. better. now if you've finished hosing down the decks with testosterone, i suggest you come with me. i may have found a way to get us off this planet.
-speaker1: wow.
-speaker2: tell me about it. they head after her.
-
-speaker1: can you hear me? robot? 
-speaker2: systems error. robot unable to register neural net outputs. unable to locate motor controls. unable-
-speaker1: calm down. your body was destroyed in the conflict with the space spiders.
-speaker2: affirmative.
-speaker1: but i downloaded your neural net.
-speaker2: robot tried to destroy the robinson family. why would will robinson save robot's personality? your actions do not compute.
-speaker1: i guess sometimes friendship means acting with your heart, not your head.
-speaker2: logic error. friendship does not compute.
-speaker1: don't worry, robot. im going to build you a new body. i promise.
-speaker1: mom always said i should try to make new friends.
-
-speaker1: the atmosphere here can sustain human life. i've located 500 rads radioactive material a mile north. 
-speaker2: that's at least what we'd need to get the core functioning again.
-speaker2: we'll set off at daybreak. it'll be safer. those are my orders, major.
-speaker3: i agree with your recommendation, professor.
-speaker1: dâžtente is a beautiful thing.
-
-speaker1: what's the diagnosis, doc? is it cowboy or ballerina on halloween? 
-speaker2: right now she's a girl. but i think your little pal here is from a self-replicating species. at different stages of life she, or he, probably alternates sexes.
-speaker1: imagine the savings on dating outfits alone.
-speaker1: can i keep her?
-speaker2: penny, you've never taken care of a thing in your life besides yourself.
-speaker1: please. she's all alone. i promise i'll look after her. she needs me.
-speaker2: ...the moment you misplace her, or forget to feed her, we leave her on this planet where she can live in the wild. i'm not kidding penny.
-speaker1: we're both a long way from home, aren't we little one?
-speaker1: that's what we'll call you. blip.
-speaker1: you like that?
-speaker1: nice girl. pretty girl. nice.
-
-speaker1: remove that lock this instant. i shall not be caged like some animal 
-speaker2: i gave my word i'd let you live. i never said for how long.
-speaker1: these quarters will be fine.
-speaker1: tell me, major west. are you really confident in robinson's ability to guide us? if i were set free, i would support your right to command. with minimal force, we could take this ship and assure this mission continues under your leadership.
-speaker2: ...my smith, you're right. how could i have been so blind? i'll just run and get you a gun so we can hijack the ship. okay?
-speaker1: sarcasm is the recourse of a weak mind.
-speaker2: i'm hiding the pain. really. and with that west leaves.
-speaker1: i assure you, major west. your pain has just begun.
-
-speaker1: star light, star bright... 
-speaker2: a million strange stars and only one wish. i wish we were home.
-speaker2: i never thought a sky could look so alien. ...we really are lost.
-speaker1: when the first sailors circled the globe and saw a brand new sky, they thought they had sailed off the edge of the earth. but they were really just around the corner.
-speaker2: we just billow our sails and let the wind blow us home, is that it major?
-speaker1: so those sailors found familiar shapes in the stars to make the skies more friendly, to help them find their way.
-speaker1: that's how constellations were born.
-speaker1: porky the wise and mighty pig.
-speaker2: the great bucktoothed bunny... bugs.
-speaker1: so, my quarters or yours?
-speaker2: excuse me?
-speaker1: we are the only single man and woman of consenting age in the galaxy. how much more of a set up do you need?
-speaker2: so you figure just dispense with the pleasantries, get down to business?
-speaker1: you have a way with words, doctor.
-speaker2: right here? on this console?
-speaker1: here would be fine. judy smiles sweetly.
-speaker2: next time, fly slower.
-
-speaker1: what was i thinking, bringing us all out here into space? 
-speaker2: the world needed saving. you were the right man for the job.
-speaker1: but solving the world's problems doesn't leave much time for the people you love, does it?
-speaker2: did you get any time with will?
-speaker1: now he's decided he can rebuild the robot. wants to show me his designs.
-speaker2: funny creatures, men. you try so hard not to be your fathers, end up making the same mistakes. will adores you.
-speaker1: we can't get off this planet much less back on course. i don't have time to...
-speaker2: john, just listen to him. it doesn't matter what he's saying. just listen. sometimes, at least in the eyes of their fathers, little boys have to come first.
-speaker1: as soon as we get back into space, we're going to spend some real time together. i promise.
-speaker1: what?
-speaker2: it's nice to have our family under one roof. even if we had to go half way across the galaxy to manage it.
-speaker1: how would you feel about a little late night tutorial, professor?
-speaker2: mm. that's new. what are you doing?
-speaker1: going for extra credit.
-speaker3: the ship sits on the alien landscape.
-speaker2: good night john.
-speaker1: good night maureen.
-speaker4: good night judy.
-speaker5: good night will.
-speaker6: good night penny.
-speaker7: you guys have got to be kidding.
-
-speaker1: what are those rumblings? they've been happening all morning. 
-speaker2: how can half the landscape have grown up overnight?
-speaker3: okay, let's get settled. maureen?
-speaker4: it's impossible. but this planet's geothermic plates don't match up.
-speaker3: i was afraid of this.
-speaker3: i think these tremors are the result of opening and closing doorways.
-speaker1: doorways to where?
-speaker3: the future.
-speaker5: perhaps the professor was hit on the head when we landed.
-speaker3: remember the portal that lead us to the probe ship? what if we crossed a into a time years after earth sent a rescue mission.
-speaker6: you're not serious? time travel is impossible.
-speaker7: no it's not. it's just improbable. like hyperdrive was a hundred years ago. nothing's really impossible.
-speaker3: this world could be riddled with doorways to the future.
-speaker7: so if we walk into that forest outside, we're really just walking into this crater years from now.
-speaker4: geological plates from different times wouldn't fit together. that would explain the tectonic mismatch.
-speaker3: if these portals are opening and closing, part of some cascading, natural phenomenon, they could be tearing this planet apart
-speaker7: these portals are exactly what i predicted my time machine would do. what if the doorways aren't natural? a machine that bends space, like our hyperdrive, could be modified to bend time as well. what if someone on this world has built a device?
-speaker3: son, i appreciate your input but now isn't the time for flights of fancy.
-speaker7: you never listen to me. not ever.
-speaker3: there's no telling how long before this planet breaks up entirely. . don and i are going to locate the radioactive material for the core. get the ship ready to go. we may have very little time.
-
-speaker1: aren't you coming out to say goodbye? 
-speaker2: you're always leaving. what if...
-speaker2: what if one time you don't come home...
-speaker1: whenever your grandfather went away on a mission, held leave these with me. for safe keeping. and when he got home i d always be waiting to give them back.
-speaker1: i'm coming back will. i promise.
-
-speaker1: i've got a fix on the radioactive material. it's through the portal. 
-speaker2: we'll just have to hope the doorways remain stable.
-speaker3: these crater walls are disabling the com-links. you won't be able to communicate with the ship. the ground shakes again. maureen come home to me, professor.
-speaker2: i love you, wife.
-speaker3: i'm going to regret saying this, but try to get back in one piece.
-speaker1: this is kind of a kiss for luck occasion, wouldn't you agree, doc?
-speaker3: see. i'm regretting it already. kisses have to be earned. say goodbye, blip.
-speaker4: nice girl. pretty girl. nice.
-speaker2: you take care of her, penny. take care of you too, baby.
-speaker5: smith stares out the cabin window. push in as
-
-speaker1: yes, enjoy your moments of trite familial bonding. 
-speaker1: because they will be your last.
-
-speaker1: that's everything even close to nonessential. even my bellybutton ring. 
-speaker2: thanks, pen.
-speaker1: you want to come on a land survey?
-speaker1: look, what does dad know? maybe someone did build a time machine.
-speaker3: robot is on line.
-speaker2: it sounds like old morse code.
-
-speaker1: you said someone is in danger. 
-speaker2: we all are. you are wise to arm yourself.
-speaker1: this gun is set to fire for me only so don't try anything funny.
-speaker2: william, you misjudge me. i only want to help you.
-speaker1: help us? you tried to kill us all.
-speaker2: but now our fates are intertwined. if your father and that west fail, i will have no chance of getting home. it is in my best interests they succeed. and i always follow my best interests.
-speaker2: what monsters roam these alien wilds? fools. to set off blindly across this savage land. much as i hate to admit it, it will be harder to manage without them.
-speaker1: what are you talking about? they'll be back. they'll be okay.
-speaker1: someone should go after them.
-speaker2: will, i forbid it. you're a boy. a clever one, certainly, but a child nonetheless. this planet is likely full of predators. even if you found them, what if they're hurt, ravaged, dying, what good could you do?
-speaker1: but you're a doctor.
-
-speaker1: it's impossible. 
-speaker2: not really. geologists have speculated that dimondium might be naturally occurring in many older worlds. part of a biosphere's way of rejuvenating itself.
-speaker1: this one is ten times more powerful then that on alpha prime. there's enough here to save earth.
-speaker3: after much deliberation, the space captive has decided to accept her new role as member of the crew. the robinsons, after all, can obviously use her help...
-speaker3: now look what you've done. stop hanging all over me.
-speaker3: blip. wait. i'm sorry.
-
-speaker1: i've got a fix on dad's suit beacon. 
-speaker1: wow, that's mom's favorite color.
-speaker2: how droll.
-speaker2: run, child, run.
-speaker2: will? will?
-speaker1: wow!
-speaker2: william, wait!
-speaker1: see, over here i'm in the future. here i'm in the past. don't worry. if my theories are correct, these doorways should remain stable, for a while anyway.
-speaker2: i can barely contain my glee. why aren't you aging like the plants?
-speaker1: that's just an effect of the portals forming. once they stabilize you can cross from one time to another just like stepping between two rooms. dad's signal is this way. come on, doctor smith.
-speaker1: what did you find?
-speaker2: come, come, son, no time for distractions. let's move on.
-
-speaker1:  
-speaker2: damn? is not good.
-speaker1: the radiation signature we've been tracking. it's a ghost. a reflection from the jupiter two bouncing off the ore in these walls. there's no core material here.
-speaker1: the ship's back that way. we have to go through.
-speaker3: penny is pushing through the forest.
-speaker4: blip? i'm sorry. blip?
-speaker4: blip, wait.
-
-speaker1: blip, you can't run off like that. what the-? 
-speaker1: some kind of fight, in space. it almost looks like the probe ship major west blew up.
-speaker1: that could be the jupiter two crash landing.
-speaker1: blip, no!
-speaker2: nice girl. pretty girl. nice.
-
-speaker1: we should be able to see the ship. 
-speaker2: could these be from the probe?
-speaker1: corroded. this metal is decades old.
-speaker2: it's not possible.
-speaker2: what kind of nightmare is this?
-speaker1: no, major, when the are we?
-
-speaker1: i feel like we got turned around. 
-speaker2: just follow your father's signal, young william.
-speaker1: oh
-speaker2: a boy of your intelligence shouldn't swear.
-speaker1: look.
-speaker2: oh. indeed.
-
-speaker1: well, well. all things really do come to he who waits. 
-speaker2: what is this place?
-speaker3: why professor, the shock must have scrambled your brain. look around you. don't you recognize the spot?
-speaker2: this can't be...
-speaker2: what have you done to the ship.
-speaker3: your family is dead. dead and in the ground.
-speaker2: no!
-speaker3: what fickle consort in memory. time dims certain images while others shine clear and bright as yesterday.
-speaker3: i'll never forget that morning. twenty years ago. what was it you said? i'll be back. i promise. but i knew better. you never came home.
-speaker3: without you, your family never had a chance. a few spidersv survived the destruction of the probe ship. they reached the planet and attacked. i can still hear the women scream.
-speaker2: who are you?
-speaker3: don't you recognize me, dad? it's me. i'm your son. will.
-
-speaker1: penny? penny? 
-speaker2: penny? baby, are you alright?
-speaker3: it's okay, mom. they're not going to hurt us. it's like they think i'm their princess or something.
-
-speaker1: best as i can tell this whole clan was spawned by this single creature. we've been a busy girl haven't we? 
-speaker2: speak, doctor.
-speaker1: each creature seems to have unique corpuscular patterns on their palms. as individual an fingerprints, no two alike. except...
-speaker2: except the prints on this giant creature and our little blip match exactly. don't they?
-speaker1: how did you know?
-speaker2: because, i think blip and our friend here are actually one and the same.
-
-speaker1: . . .ouch. who ordered me that last drink? what the is going on? 
-speaker2: i think we crossed into our own future. we've come back to the jupiter two decades after we left.
-speaker3: look father, what my flights of fancy have wrought. i used your hypergate to build my time machine.
-speaker3: over the years i have struggled in vain to harness the awesome power of time. all my experiments at creating a stable doorway have been futile. until now. today you will witness my ultimate triumph.
-speaker1: the core material. if we could get that back to our jupiter two...
-speaker2: the doorways in time that led us here must be a side effect of his machine coming on line. like streams running into the ocean....
-speaker3: once this core material in fully introduced into the control console, i will open a doorway stable enough for one person to take one trip through time and space as well. today, i will change history.
-speaker3: i will return home, to the very day you took us on this cursed mission. i'll stop us from taking off. i'll do what you never could. i'll save the family. i'll save us all.
-speaker2: look around. your machine is ripping this planet apart. what if the force wave you ride home has the same effect on earth? what if, in getting home, you destroy earth in the process? a beat. then will turns away, goes back to work.
-speaker3: i'm going home. i'm going to save the family.
-speaker2: will, i'm your father. you've got to listen to me-.
-speaker3: let me tell you about my father. my father was a walking ghost. never there when i needed him. he dragged his family into deep dark space and lost them there. my father is not coming to the rescue.
-speaker4: we've got to go inside.
-speaker5: slow down, now. we can't know what waits inside that ravaged craft. but we can be confidant it is nothing good. and i for one am frightened.
-speaker4: but dad's in there.
-speaker5: will, listen to me. i have crossed this world with you, found your father as promised. but i can't let you go in there unarmed.
-speaker4: but i've got a gun.
-speaker5: if we go forward, the barer of that weapon must be ready to kill. murder is a skill, one which i have developed and, luckily dear boy, you have not. look inside your heart, will. are you truly capable of taking a life? if not, then i ask you now, put your faith in me. give me your trust. give me that gun.
-speaker4: enable gun for all users.
-speaker6: voiceprint confirmed.
-speaker5: finally.
-speaker5: a brief lesson in survival on this world or any other. never trust anyone. remember it into your old age, should you have one. now move!
-
-speaker1: we can go back across the portals to the past, to the functioning jupiter two, where your mother and sisters are still alive. we can use this core material to escape together. 
-speaker2: and then what? all of us lost in space. don't you see? i can do what you never could. i can save us all.
-speaker3: i'm afraid not. through the doorway comes young will, smith walking behind him, hand on his shoulder, gun to his head.
-speaker3: never fear. smith is here.
-speaker1: will, i. . .
-speaker3: don't move, professor robinson or this rather peculiar family reunion will be tragically brief. i'll ask you to step away from that console, major.
-speaker3: well, well, some of us just don't know when to stay dead.
-speaker3: i borrowed this from the probe ship in hopes of taking over the helm once we were in flight. but i seem to have found a better use instead.
-speaker3: let's try this dance again. you are the puppet. i am the puppeteer. do get it right this time.
-speaker3: robot, enable electric disrupters.
-speaker3: now that's a good gargantuan.
-speaker3: say goodbye to your past. you're future lies with me. i'm going home in your place.
-speaker4: you did it. just like i imagined. re-routed the hypercore. but the natural power source, the delivery system. i never thought of those.
-speaker2: you will. the future is never what it looks like when you're ten.
-speaker3: heartwarming. nauseatingly sentimental but heartwarming.
-speaker3: we certainly could have aged better, i must say now, show me how your little time machine works.
-speaker3: an odd moment for mirth, don't you think? what are you grinning at?
-speaker2: look around you, doctor. at this hostile world. do you really think a boy could have survived all alone?
-speaker5: never fear, smith is here.
-speaker6: hello, doctor, how nice to see me again after all these years.
-speaker6: the spider's sting had some unexpected side effects.
-speaker6: but my unique gifts gave me an advantage in this quarrelsome world.
-speaker6: after the women were savaged, i became the father will never had.
-speaker6: but you, doctor. your crude ambition fills me with self-loathing. you see i have looked within me and what i see is you.
-speaker6: i never liked me, anyway.
-speaker6: kill them all.
-speaker2: no.
-speaker6: but my dear boy, once the doorway in time stabilizes, this planet is going to come apart at the seams.
-speaker6: i am willing to perish here on this world for the sake of your most noble mission. but your selfish father will only try to stop you.
-speaker6: once your mission is complete, none of this will have happened anyway. so why not just dispose of them?
-speaker6: very well. robot, take them inside the ship and keep them there. if they move, then kill them.
-
-speaker1: we've got to get to the ship. penny? 
-speaker1: where is she, girl?
-
-speaker1: well, it would seem the time is upon us. off we go, william. 
-speaker2: will, it's a trick. smith's carrying an egg sack. if he's willing to stay on this world and die, why is he about to spawn? he's going through the portal himself.
-speaker3: proceed to the ship or be destroyed.
-speaker1: hurry, boy. time waits for no man.
-
-speaker1: it's almost time. i really am a word-smith. 
-speaker2: once the core cylinder is fully injected, the planet will begin to come apart and the time doorway will stabilize. then i jump in.
-speaker1: a leap of faith. how fitting.
-speaker2: tell me again, old monster, how did the girls die?
-speaker1: we've been over this before, son.
-speaker2: in all the years since, the spiders have never re-surfaced. why?
-speaker1: let's forget the past.
-speaker1: what are you doing?
-speaker2: focusing the aperture. remember, the energy around the portal will rip a man to pieces.
-speaker1: isn't the doorway too small?
-speaker2: not for me. but then i'm not going, am i? the spiders didn't kill the girls. it was you. i just never let myself see it. you kept me alive because you needed me. because i could build this for you. you killed my family. destroyed this world. and i helped. you became mad as the spiders.
-speaker1: poor, poor boy. did you really think i would let you go home? let all that i have become vanish? look at me. i am no mere man. i am a
-speaker1: your father was right. within me roil the growing needs of a master race. we will descend upon helpless earth. an entire planet to rule.
-speaker1: an entire planet on which to feed.
-
-speaker1: i'll run, draw his fire. you may have time to get away with will. 
-speaker2: halt or robot will destroy.
-speaker3: do you remember what i taught you. a long time ago. about friendship?
-speaker2: friendship means acting with your heart not your head.
-speaker3: that's why i rebuilt you. because i wanted us to be friends.
-speaker2: logic error. friendship does not compute.
-speaker3: forget logic. act with your heart.
-speaker2: robot has no heart. robot is powered by a fusion pulse generator
-speaker3: every living thing has a heart.
-speaker2: any attempts to override command protocols may result in fused processors in my neural net.
-speaker3: please, robot, if you don't let us go, we're all going to die. i'm asking you now, will you help us? will you be my friend?
-speaker2: robot attempting to deactivate control bolt-commands overriddenattempting to reroute-dangercircuitry overloadattempting to escape-kill them, kill them...
-speaker3: you did it.
-speaker2: robot will save ... i will save will robinson. i will save my friend.
-
-speaker1: penny? penny? 
-speaker1: where did you go?
-speaker2: i came through the forest. i had a promise i had to keep.
-speaker3: inside. fast.
-
-speaker1: you've got find your way back to the ship. the portals may still be stable. i'll try to meet you there. 
-speaker2: what do you mean?
-speaker1: i'm going to get that core material.
-speaker2: i'll stay. the family needs their father
-speaker1: the crew needs their pilot. no matter what happens, when the planet starts to break up you take off.
-speaker2: without the core we'll never have enough power to make orbit.
-speaker1: you've got to try. promise me, don.
-speaker2: good luck. commander.
-speaker1: will. son. i want you to know-
-speaker3: you'll tell me when you get back to the ship. now there just isn't time.
-speaker1: i could use a weapon.
-speaker4: professor, i have a plan.
-speaker5: time to die, son.
-speaker6: i'm not your son.
-speaker5: goodbye.
-
-speaker1: look. 
-speaker2: he's still breathing.
-speaker1: the time machine must be near full power. the portals are collapsing.
-speaker2: which one leads us home?
-speaker1: there.
-speaker1: we can't just leave him here.
-speaker2: sure we can. it. smith. wake up. smith.
-speaker3: oh, the pain, the pain.
-speaker4: danger. will robinson. danger.
-speaker2: jump!
-
-speaker1: mom, the forest. 
-speaker2: where's john?
-speaker3: the portal closed behind us. it was his only way back.
-speaker3: we've got to try and lift off.
-speaker2: we've already begun the pre-flight countdown. you have the com. i'm going to save as many lives as i can, major. now strap in. int.-jupiter two-engine room control platform-future
-speaker4: not so fast.
-
-speaker1: you sabotaged our mission. you killed my family you stole my son. it's payback time. 
-speaker2: spare me the fury of the righteous.
-speaker2: i think there's time for a snack before my trip.
-speaker2: oh, the pain. the pain.
-speaker1: you ain't seen nothing yet.
-speaker1: remember the probe ship? these monsters eat their wounded.
-speaker2: no. stop. no!
-speaker1: take all the time you want to die.
-speaker3: the landscape is a sudden inferno.
-
-speaker1: i kept hoping somehow he'd appear. 
-speaker1: let's go, major.
-speaker1: goodbye, my love.
-
-speaker1: come on, son. wake up. 
-speaker2: dad?
-speaker1: i thought i lost you.
-speaker2: the core.
-speaker2: you could have taken the core and left before it was too late. you saved me instead.
-speaker1: there wasn't any choice. i couldn't let you fall.you're my boy.
-speaker2: look. they made it.
-speaker3: the ship is shaking madly.
-speaker4: we're not getting any altitude.
-
-speaker1: i'm reading a power build up. markers in the red- 
-speaker2: she's dead.
-
-speaker1: i couldn't save them. 
-speaker2: so many years ago and i can still feel it. our sun. our earth. it's all i've thought about. going home.
-speaker2: a long time ago, you told a small boy that one day he'd understand how precious he was, how much his father loved him. today is that day.
-speaker2: all i could see was your need to go forward at any cost. what you never showed me was your love. i lost that. robbed by time. i could never see how much you cared. until now.
-speaker2: father, take my hand.
-
-speaker1: i kept hoping somehow he'd appear. 
-speaker1: let's go, major.
-speaker1: goodbye my love.
-speaker2: look.
-
-speaker1: come with us. 
-speaker2: i can't. there was only enough power for one person, one trip, remember?
-speaker3: will?
-speaker2: it's good to see you again, mom. it's good to see you alive. sorry about all the monkey business.
-speaker1: he sacrificed everything for his family.
-speaker3: he had a good example.
-speaker4: dad?
-speaker4: i'm glad you came back.
-speaker1: i just want you to know i love you son. i love you very much.
-speaker5: the planet is breaking up around us.
-speaker5: nice of you to drop in.
-speaker1: status?
-
-speaker1: we're doomed. we're doomed. 
-speaker2: boy, that felt good.
-speaker3: get us airborne.
-
-speaker1: i'm going to try to reach escape velocity. maybe we can break the gravitational pull. 
-speaker2: no. we don't have the core material.
-speaker1: we might-
-speaker2: we won't make it. trust me. i know.
-speaker1: what?
-speaker2: through the planet as she breaks up.
-speaker1: that's insane.
-speaker2: i don't have time to argue. i'm giving you a direct order, major.
-speaker1: yes sir.
-
-speaker1: there. 
-speaker2: i see it.
-
-speaker1: nice work, flyboy. 
-speaker2: so, i earn that kiss yet?
-speaker1: you earned that.
-speaker1: this one is on credit.
-speaker1: cold fish, huh?
-speaker3: poor thing. she's lost her whole family. penny, why are you looking at me like that. penny?
-speaker4: i promised judy i'd take care of her. i couldn't leave her all alone. well i am their princess, after all. you can come out mow.
-speaker5: dimondium. now if we could only find our way back to earth.
-speaker6: if i may, professor.
-speaker6: your son's star charts.
-speaker7: it's a map home.
-speaker2: the planet's gravity field in collapsing.
-speaker3: we'll be sucked in.
-speaker5: there's no way to get clear in time.
-speaker1: the hyperdrive.
-speaker3: everybody hang on.
-speaker4: here we go again.
-speaker7: cool.
+WEST: hell. and we're going to send them back screaming. 
+WEST: last one to kill a bad guy buys the beer.
+
+WEST: i can hear her. oh, yes, oh yes. she's gonna sing. 
+COMPUTER: target lock.
+EXT.-SPACE: imminent collision.
+
+INT.-JEB'S CRAFT: the attack ship is right behind him. 
+JEB: weapons are off line. jettisoning main drive core.
+
+COMPUTER: warning. failure in redundant drive systems. jeb-pov. the surface of mars is rushing up fast. 
+COMPUTER: impact on in 90 seconds.
+JEB: mars control. . .
+EXT.-SPACE: jeb's ship is barreling toward the planet.
+JEB: . . .this is ranger one.
+INT.-WEST'S FIGHTER: ...engines will not respond. require assistance. repeat...
+BASE: ranger one this is grissom base.
+EXT.- MARS MINING COLONY: three small rescue craft race skyward.
+
+WEST: grissom, this is eagle one. those pugs will never reach him in time. 
+BASE: eagle one clear this frequency and return to base.
+WEST: this is eagle one. i'm going after him.
+BASE: negative eagle one, your craft is not equipped west hits his thrusters.
+
+INT.-JEB'S FIGHTER: mars is coming up fast. 
+COMPUTER: impact in 30 seconds.
+WEST: jeb, do you have navigational thrusters?
+JEB: don?
+WEST: it's a yes or no question.
+JEB: marginal. but in the green.
+COMPUTER: impact in 15 seconds.
+WEST: head towards the canals.
+JEB: what are you doing?
+WEST: saving your ass. read towards the canals. now!
+
+INT.-WEST'S SHIP: west is accelerating toward jeb. 
+BASE: major west, your ship is not equipped for rescue. you are not authorized to jeopardize this asset. that is a direct order. acknowledge!
+WEST: never liked that station, anyway.
+
+INT.-3EB'S FIGHTER: the canal floor is rushing up fast. 
+COMPUTER: impact in five seconds.
+
+COMPUTER: warning. proximity alert. 
+WEST: jeb, i'm going to give you a little kiss. don't take it the wrong way.
+EXT.-MARTIAN CANAL: west angles his ship directly under jeb.
+
+JEB: don, abort. abort. 
+INT.-WEST'S FIGHTER: jeb's fighter is visible overhead.
+
+INT.-WEST'S FIGHTER: does this mean we're going steady? 
+EXT.-MARTIAN CANAL: west shoots up and out towards the dark of space.
+WEST: you weren't getting out of buying those beers that easy.
+
+VO: imagine an end to world hunger. what if ample food and clean drinking water were the birthright of all our planet's children? 
+VO: this man, professor john robinson, inventor of the faster than light hyperdrive can make that timeless dream a reality.
+VO: john robinson and his family have been extensively trained to take a ten year journey across the galaxy in the world's most advanced spacecraft, the jupiter.
+VO: from a distant world, the robinsons, will bring back a miracle...
+VO: dimondium can turn even worthless sand to fertile soil. earth will be a garden. what kind of - future can our children look forward to?
+V0: a future without hunger. a future without suffering. heaven on earth.
+V0: this mission sponsored by the us army and the coca-cola corporation.
+
+PRINCIPAL: he hacked our main power grid to run his experiment. the school was in chaos. we didn't even have lights. 
+PRINCIPAL: this is no laughing matter, mrs. robinson. will is terribly gifted. his little time machines, though pure fancy, are the products of a truly brilliant mind.
+WILL: the changing shape of education.
+MAUREEN: no more monkey business.
+PRINCIPAL: the boy is starved for attention. was there no way his father could have attended the science fair?
+
+JOHN: once we have landed on alpha prime our on board robot will begin construction of a hypergate. 
+JOHN: by then, technicians here on earth will have completed a companion hypergate in our planet's orbit.
+JOHN: once both gates are complete, ships will be able to pass instantaneously between them. the jupiter can bring the dimondium back to earth without the ten year delay of a return trip.
+REPORTER: why can't you just use the jupiter's hyperengine to zap straight to alpha prime?
+JOHN: as you know, hyperspace exists beneath normal space. if you try to enter hyperspace without a gate
+JOHN: your exit vector is random. there's no telling where you'd come out.
+REPORTER: professor, how is captain daniels recovering from the flu? will we still be able to pilot the mission?
+GENERAL: ladies and gentlemen, you came to get a look at the jupiter one. don't you think you've waited long enough?
+
+REPORTER: professor, how does your family feel about leaving the earth behind.... 
+JOHN: they couldn't be more excited.
+
+PENNY: i don't want to stay home for dinner. i want to see my friends for the last time. 
+PENNY: ... on the eve before she is torn from her friends, kidnapped, hurled into deep space against her will, what thoughts fill the mind of the young space captive....
+
+WILL: will there be boys on alpha centuri? 
+PENNY: when we wake up in ten years the video journals of penny robinson, space captive, will be devoured by millions. i will be world famous. you on the other hand, will have been totally forgotten.
+PENNY: the space captive has decided to wear ribbons of support for fellow sufferers as she is dragged into deep space, green for the ecological issues, white for human rights
+WILL: you'd probably gag if i described the secondary infections loss of circulation can cause.
+WILL: what are you grinning at?
+PENNY: i just found an upside to this mission. the thought of jettisoning your body into deep space.
+WILL: dad says don't bring them. like anything i do matters to him.
+PENNY: he never showed, huh?
+WILL: maybe if i had actually broken the time barrier he would have paid attention.
+PENNY: don't let him get to you, kiddo. he just gets busy with work is all.
+WILL: so, that's a no to family dinner?
+PENNY: let's see, do i spend my last night on earth watching mom and dad pretend not to be fighting again or get in ten years of making-out at the mall ...
+WILL: mom's gonna go thermal.
+PENNY: what's she gonna do. ground me?
+
+INT.-SPACE COMMAND-CORRIDOR: john and the general walk the metal passageway. 
+JOHN: we're lucky they didn't press on daniels, condition.
+GENERAL: i figured a chance to look at the ship would keep the dogs at bay.
+JOHN: ben, i'm worried about jamming in a replacement pilot at the last second. my family' a on this mission. i need someone who's more than just spit and polish.
+GENERAL: i've got your man. he just doesn't know it yet.
+
+GENERAL: at ease, major. 
+WEST: sir, why was i pulled off active duty? i salvaged my craft and jeb's. i'll fight a court martial, general.
+GENERAL: do you know professor robinson?
+WEST: by reputation only. your father's battle strategies were required reading at the academy.
+GENERAL: how much do you know about the jupiter mission, major?
+WEST: the jupiter is fully automated. the pilot flies the ship out of the solar system and lands on alpha prime. it's a baby sitting job, sir.
+GENERAL: major, you are aware earth's resources are severely limited.
+WEST: every schoolchild knows our recycling technologies will save the environment. sending a family across the galaxy is a publicity stunt to sell soda to people of all ages.
+GENERAL: what i am about to tell you is classified. every schoolchild has been lied to. the recycling technologies have failed. in less than two decades earth will be unable to support human life.
+GENERAL: we spun the ad campaign to give the mission a friendly face, keep people from panicking in the streets. we partnered with coke because the 900 billion this mission cost would have bankrupted the government. the sinojordanian alliance knows the truth as well as we do. they hope to reach alpha prime first - and if they do, i guarantee you, they will not share the dimondium with western demons like us. our crops will wither. we will be left to die.
+WEST: ...captain daniels doesn't have the flu, does he sir?
+GENERAL: daniels was murdered in his apartment last night. the flu story is a cover we fed the press.
+WEST: dan was a good pilot. a good man.
+GENERAL: your rescue stunt over mars was foolhardy. explain yourself, major.
+WEST: i had a friend in trouble.
+GENERAL: you endangered a one billion dollar spacecraft, disobeyed a direct order because of a friend?
+WEST: yes sir. and i'd do it again. sir.
+JOHN: he'll do.
+GENERAL: congratulations major, you're the new pilot of the jupiter mission.
+
+MAN: perhaps a brief jaunt down memory lane is required. i was contracted to provide daniels, apartment code. 
+BUSINESSMAN: they found a replacement pilot, the mission is going ahead on schedule.
+MAN: how tragic. for you.
+BUSINESSMAN: we require more direct intervention.
+MAN: i see. well, that will cost you. and, i'm afraid my price has just become ... astronomical.
+
+TECHNICIAN: control hasn't received the results of your final pre-flight exams, doctor smith. 
+SMITH: the robinsons are checked out at one hundred percent. they are in perfect condition and ready to fly.
+SMITH: wish them good luck for me.
+
+GENERAL: the mission protocols are simple. professor robinson is in command unless you encounter a military emergency. in that case, major west, you will assume command. 
+JOHN: welcome aboard, major.
+
+JOHN: some of this technology might be new to you. i'll be happy to explain. 
+WEST: cold fusion drive rambler-krey life sciences stations.
+WEST: holographic navigational interface.
+WEST: cryosleep array. fully monitored.
+WEST: sick bay, remote ops, engineering and living quarters are below decks. hyperengine should be in here.
+JOHN: if you have to baby sit, it's not such a bad nursery, wouldn't you agree, major?
+DOCTOR: the cryosleep systems are running at ninety five percent.
+GENERAL: doctor smith approved the specs-
+DOCTOR: doctor smith is base physician. i am responsible once this ship is in flight. these tubes have to keep the crew in suspended animation for ten years. they will be perfect or this ship will not launch. is that clear?
+GENERAL: absolutely, doctor.
+JOHN: judy, i'd like you to meet major west. he's taking mike's place.
+DOCTOR: he's heavier than mike. we'll have to re-calibrate.
+WEST: i'd be more than happy to discuss my dimensions perhaps over dinner?
+DOCTOR: west - i've read about you. something of a war hero, aren't you?
+WEST: well, yes, actually.
+DOCTOR: those who can't think, fight. well, nice to have met you.
+WEST: that's one cold fish i'd love to thaw.
+JUDY: i'm not going to make it home for dinner, dad.
+WEST: it's going to be a long flight.
+EXT.-ROBINSON HOME-NIGHT: lights burn in the windows.
+
+MAUREEN: he won first prize again. he practically brought down his entire school. but he won first prize. 
+JOHN: a non-working prototype for his time machine. sharp stuff for a midget.
+JOHN: i'm sorry about dinner. i had to work late. the new pilot-.
+MAUREEN: what you had to do was prioritize your family over the mission
+JOHN: maureen. this mission is about our family. so we can stay together
+MAUREEN: the perfect nuclear family. the most stable social unit, ideally suited for the isolation of a long journey into space. it's all just pr, john. you're never home. judy is becoming a ghost just like you. penny can't see past her own navel and will has to black out-his school, just to get his father's attention. the perfect nuclear family in ruin.
+JOHN: i know, maureen. i'm scared too.
+
+LOADING TECHNICIAN: anything else? 
+LOADING TECHNICIAN #2: i'm showing a late shipment from mission medical. smith's authorization. here it is now.
+
+SMITH: you'll forgive me if i forgo the kiss, my sleeping behemoth. 
+SMITH: but the time has come to awake.
+ROBOT: robot is on-line. reviewing primary directives. one, preserve the robinson family. two, maintain ship systems. three
+SMITH: spare me the chatter.
+SMITH: what noble charges my steely centurion. sadly i fear you have far more dire deeds in store for you.
+ROBOT: robot is on-line. reviewing primary directives. two hours into mission destroy robinson family. destroy all systems.
+SMITH: now that's more like it. farewell my tin-plated pal. give my regards to oblivion.
+
+SMITH: i told you never to call me here. 
+BUSINESSMAN: i see you have completed your mission on schedule good work, doctor. and goodbye. the businessman smiles. smith-close. puzzled.
+
+EXT.-SPACE COMMAND-MORNING: the giant dome shines in the early sun. 
+PENNY: don't, mom. vogue says this will be the style in ten years.
+WILL: will she wake up less annoying?
+PENNY: does he have to wake up at all?
+MAUREEN: alright you two, enough.
+MAUREEN: you get a c in paternal expression, professor. but an a for effort.
+MAUREEN: you always get an a in that.
+JUDY: don't let me shatter this unbridled display of affection, but we are running behind.
+JOHN: major, she's all yours.
+WEST: i'll try to give you a smooth ride.
+JUDY: mission control this is dr. robinson.
+MISSION CONTROL: roger, doctor, you are go to initiate cryostasis.
+WEST: one question, doctor. in there room in these tubes for two?
+JUDY: barely enough for you and your ego, major. drive carefully. initializing cryostasis tubes.
+WEST: mission control, this is jupiter one. the robinsons are asleep. we are ready to fly.
+
+NOAH: jupiter two this is mission control. you are at t-minus two minutes and counting. we're opening the dome. 
+EXT.-JUPITER ONE: giant gantries retract. fueling lines disengage.
+
+WEST: roger, houston. 
+WEST: we're outta here.
+
+WEST: houston, diverting all spacecraft controls to the main computer. eight years of flight training. 
+WEST: navigational holographics on line. fifty combat missions.
+WEST: course confirmed for slingshot exit of the solar system. just so i can take the family camper on an interstellar picnic.
+WEST: ten world series. my, nephews' high school and college graduations. a decade's worth of sports illustrated swimsuit editions. noah, ten years in a lifetime.
+
+SMITH: no. 
+SMITH: disable program.
+ROBOT: robot is on line. implementing prime command directives.
+ROBOT: robinson family, destroy.
+SMITH: no. cease. desist.
+ROBOT: all operating systems, destroy.
+ROBOT: jupiter two, destroy.
+
+ROBOT: robinson family, destroy. 
+SMITH: mechanical moron. you'll kill us all.
+
+NOAH: this mission's over. wake them up. 
+ANNIE: no response, sir. i'm sorry.
+
+INT.JUPITER TWO: the robot is rolling toward the com. 
+SMITH: wake up, you. i can't stop this infernal contraption on my own.
+SMITH: hurry up. hurry up.
+JOHN: maureen. the children.
+JOHN: disengage safety.
+GUN: voiceprint confirmed.
+WILL: dad!
+MAUREEN: will, wait.
+MAUREEN: look away, baby.
+WILL: robot. return to your docking bay and power down.
+ROBOT: command accepted.
+WILL: if the family won't come to the science fair, bring the science fair to the family.
+PENNY: mom, look, it's doctor smith.
+MAUREEN: pulse, respiration and bleeding-
+PENNY: basic triage, lock down and stabilize. i know the drill.
+WEST: next picnic, no robots.
+WEST: communications links are down.
+MAUREEN: life support is at ten percent. trying to bring secondary systems on line. it's not working.
+PENNY: explosions rock the ship. danger is everywhere, 'yet the space captive is fearless as she...
+PENNY: i want to go home now.
+WEST: rerouting power from the secondary couplings. try it again.
+MAUREEN: finding a power tap....
+MAUREEN: life support is back on line.
+WEST: i can't get the blast shields open. we're flying blind.
+PENNY: i've got life signs. boy, somebody could use a breath mint.
+WEST: try the emergency back-ups.
+WEST: smith, what the hell-
+SMITH: i was making a last minute check ... someone hit me from behind.
+WEST: sino-jordanian technology. you're a spy. you did this.
+SMITH: stop. what are you doing?
+WEST: dropping some extra weight.
+MAUREEN: help, somebody. please.
+
+MAUREEN: the thawing engine in broken. can't get her out. she's dying. 
+SMITH: touch me and the girl dies.
+SMITH: your mission physician is indisposed. i can save her life. but only if you spare mine.
+WEST: i don't deal with dead men.
+SMITH: kill me, i kill the girl. how much is your revenge worth, major? i will, of course, need your word as an officer that you will let me live.
+WEST: help her.
+JOHN: i've got a com signal.
+RADIO: ...is mission control. do you read?
+JOHN: emergency power's on line. i think i can get these blast shields open.
+WEST: uh-oh.
+INT.-MISSION CONTROL: noah stands over the com. the room is a madhouse.
+NOAH: give me a telemetry projection.
+INT.-JUPITER TWO: john and don stand over the com.
+NOAH: you're way off course. we show you in the sun's gravitational pull.
+WEST: how long do we have?
+NOAH: we count seven minutes before your outer hull begins to melt.
+WEST: i'm going to try for the mercury mines.
+SMITH: i will need dr. robinson's portable gurney. i believe it is stored in-
+PENNY: i'm on it.
+MAUREEN: we trusted you. you tried to kill us all.
+SMITH: existence offers us nothing if not the opportunity for an endless series of betrayals. there's a world behind the world, professor robinson. lie once, cheat twice and everything becomes clear. do not mistake my deception for a character flaw. it is philosophical choice, a profound understanding of the universe. it is a way of life.
+MAUREEN: you're a monster.
+SMITH: perhaps. but i am also the only one who can save your daughter's life.
+MAUREEN: where's will?
+PENNY: he's futzing with that robot.
+SMITH: alright, penny dear, i need you to short the power on my command.
+PENNY: does he have to call me dear?
+SMITH: professor, if you will assist me in lowering the body.
+SMITH: penny, dear. now.
+MAUREEN: she's dying.
+SMITH: sickbay. move.
+WEST: unable to re-route to mercury. the sun's pull is too strong. noah, i need options.
+
+SMITH: no cardio-pulmonary or respiratory functions. 
+MAUREEN: body temp at 68 fahrenheit.
+SMITH: get her flight suit off.
+SMITH: clear.
+SMITH: again. clear.
+SMITH: power's down.
+MAUREEN: we're losing her.
+
+JOHN: i've re-routed all secondary systems to the main drive. 
+WEST: she won't budge. shortest baby sitting mission i've ever done.
+JOHN: my family's not going die in space.
+WEST: i'm open to suggestions.
+COMPUTER: outer hull breach in 30 seconds.
+INT.-SICKBAY: smith begins pumping judy's chest by hand.
+SMITH: come on, child. fight. put a little heart in it.
+SMITH: the life.. . i save ... may be my own.
+MAUREEN: judy? baby?
+JUDY: you should try to look less worried. it has a tendency to spook the patients.
+MAUREEN: thank you.
+SMITH: you are a good woman, maureen. any man could see that. i hope i have proven the well-being of your family is of great importance to me. perhaps, if you convinced your husband to trust me...
+MAUREEN: stabilize her, smith. because you only breathe as long as she does.
+
+COMPUTER: heat seal breach in 20 seconds. 
+JOHN: there's got to be some way to get through this.
+WEST: that's it.
+JOHN: what's it?
+WEST: we can't get away from the sun. so we have to go through it.
+JOHN: engage the hyperdrive without a gate, we could be thrown anywhere in the galaxy
+WEST: anywhere but here.
+
+ANNIE: we're getting resident radiation distortions from the space craft. she must be breaking up. 
+NOAH: let me see those numbers, annie.
+NOAH: son of a he's powering up the hyperdrive.
+
+WEST: hyperengines coming on line. 
+COMPUTER: warning. heat shield breach.
+JOHN: hyperdrive at 100 percent. major, you have the com.
+WEST: zero to 20 million miles a second in under a minute. let's see what this baby can do.
+
+ANNIE: we can't keep a fix on her, sir. she's starting to disappear. 
+NOAH: godspeed.
+
+JOHN: is everyone okay? 
+MAUREEN: all in one piece. although major west has the most puzzling definition of a smooth ride.
+JOHN: judy? where's judy?
+JUDY: boy either i cut down on the coffee or sew in a flap. it's getting in and out of this thing.
+JOHN: are you-
+JUDY: vitals are normal. pulse and respiration seem to be-
+JOHN: baby, are you okay?
+JUDY: i'm fine daddy really.
+SMITH: will every disaster be an excuse for familial sentiment? please tell me now so i may gather up a liberal supply of space sickness bags.
+MAUREEN: what happened, john? where are we?
+
+WEST: you had me worried, doc. nice to see you thawed. 
+JUDY: smart maneuver with the hyper-drive.
+WEST: a fighter who thinks, what do you know? you're just in time for the show.
+WEST: computer, map our current location.
+JOHN: see anything familiar?
+COMPUTER: searching for recognizable constellations. unable to locate.
+JOHN: this computer has star maps of the entire known galaxy.
+PENNY: we're lost, aren't we?
+WEST: what the is that?
+JOHN: any effect on the ship?
+WEST: no.
+JOHN: all the planets have moved.
+WEST: and where did that come from?
+
+WEST: it's gone. 
+JOHN: no. go back in front of it.
+
+JOHN: it's a hole in space. a doorway. 
+WEST: a doorway to where?
+JOHN: if we want to reach that ship, we're going to have to find out.
+
+INT.-JUPITER TWO: the giant, silver ship looms in the windscreen. 
+MAUREEN: no apparent effects on the ship.
+WEST: i'm hailing on all frequencies. no response.
+JOHN: there are some markings on the starboard side. can you throw some light on her?
+WEST: don't know if the exterior spots are working.- there we go.
+WEST: if this in all a dream, why can't there be more girls?
+WEST: i've never seen a design like this.
+JOHN: how could earth launch a ship this massive and neither of us know about it? ... it just doesn't make sense.
+WEST: these scanners are damaged, i'm getting inconsistent life signs but they may be sensor ghosts.
+JOHN: maybe her computer's still up. i'm trying standard remote access codes.
+WEST: what do you know?
+EXT.-SPACE: the jupiter two heads towards the giant ship.
+
+JOHN: can you give me some light on the secondary docking ring? 
+WEST: what do you make of that?
+MAUREEN: boys, i think we're having a close encounter.
+
+ROBOT: crush. 
+ROBOT: crush! kill! destroy!
+WILL: crush. kill. destroy.
+ROBOT: crush! kill! destroy!
+WILL: i hacked into his cpu, bypassed his main operating system and accessed his sub-routines. he's basically running on remote control.
+PENNY: show off.
+
+PENNY: and so the space captive finds herself helping the robinsons by guarding the traitor. and she finds- 
+PENNY: she finds that out here, in the dark and cold, she's scared, and she's kind of glad they're all together.
+PENNY: identify yourself, soldier.
+WEST: west, major, united space force, requesting permission to see the prisoner.
+PENNY: proceed major west.
+PENNY: ouch. could he be cuter? i don't think so.
+
+SMITH: these quarters are totally unacceptable. i demand- 
+WEST: we're going to check out the probe ship. maybe we can figure out how they got here. and how to get home.
+SMITH: ta-ta. have a wonderful trip.
+WEST: you're coming with us.
+SMITH: out of the question. i'm a doctor not a space explorer. you and- but don is in his face in a heartbeat.
+WEST: what you are is a murderous saboteur and i am not leaving you on this ship so you can do more harm than you've already caused.
+SMITH: i absolutely refuse-
+WEST: give me an excuse to kill you. please.
+SMITH: silver always was my color.
+
+WILL: when boarding a mysterious spacecraft, it always pays to look your best. 
+JOHN: deactivate safety.
+GUN: voiceprint confirmed. rifle is active.
+JOHN: you did a good job up there son. you saved us all.
+WILL: thanks.
+JOHN: i know i haven't around much these days.that we haven't had time to-
+WEST: professor, we're ready.
+JOHN: will, you're the most important thing in the world to me. i hope one day you'll be able to see that.
+WILL: take care of my dad, okay robot?
+
+JUDY: the air is stale. old. 
+SMITH: that's the smell of ghosts.
+WEST: i'm interfacing with the on board computer... odd.
+JOHN: not working?
+WEST: no, it's just, i don't know, too fast. most of the systems are down.
+JUDY: motion sensors are still working.
+WEST: what do you make of this?
+JOHN: some kind of hieroglyphics.
+
+JUDY: if i didn't know better i'd say this is blood. 
+SMITH: i know an omen when i see one. i suggest a hasty retreat.
+WEST: just imagine we're retreating in the opposite direction. now, move it.
+
+ROBOT: ... hear something? 
+SMITH: like the drip, drip, drip of blood..
+WEST: you really need to shut up.
+JOHN: here.
+JUDY: that material appears biological.
+SMITH: nothing good will come of this.
+WEST: what makes you such an expert?
+SMITH: trust me, major. evil knows evil.
+JOHN: let's find the bridge. maybe we can get some answers. they head off. hold on the dripping membrane.
+
+PENNY: try it now, mom. 
+PENNY: 
+
+JUDY: what the happened in here? 
+WEST: some kind of fire fight. look at this technology. i've seen some of this before. on the drawing boards.
+JOHN: can you bring up the captain's log?
+WEST: the data has degraded. i'm going try and gather any fragments i can. there isn't much, but ... here we go.
+WEST: jeb.
+JEB: the hyperspace tracker seems to be functioning... no sign of the jupiter two...
+JEB: have exceeded our mission timetable by two... i'm not willing to give up. don would keep looking for me.
+WEST: that's it. the rest of the data is totally corrupted.
+WEST: this doesn't make sense. how could they launch a rescue mission for us when we've only been lost a day?
+JUDY: i've got something here.
+JUDY: they brought it up from the planet's surface. it's seems to be some sort of egg sack.
+WEST: smith, step away from there.
+SMITH: happy to oblige, major. although i don't think it's me you should be worrying about. but rather this.
+
+WILL: i'm detecting motion. behind you... 
+INT.-PROBE SHIP BRIDGE: a towering shadow shoots past the open doorway.
+JOHN: after it. move. bring smith.
+
+INT.-HYDROPONICS LAB: a jungle. john and judy arrive behind don. 
+WEST: this explains where all the plants came from.
+JUDY: growth like this would take decades.
+SMITH: unhand me, you mechanical moron.
+WEST: don't move.
+SMITH: i am sick of your terrorism. if you are going to kill me, be done with it. otherwise i will insist you treat me with the respect and-
+WEST: i said don't move.
+INT.-JUPITER TWO: will is watching through the robot's eyes.
+WILL: neat.
+
+JUDY: well, who do we have here? 
+WEST: easy there, little buddy. no one's going to hurt you.
+SMITH: how do you know it won't hurt us?
+JUDY: looks like you've made a friend. you have a good bedside manner, major.
+WEST: i'm going to let that one go.
+SMITH: how charming. doctor dolittle of outer space.
+JUDY: where do you think it came from?
+JOHN: it's possible this is one of the creatures represented in the hieroglyphs we saw on the wall. it must have been their ship attached to the other docking ring.
+WEST: it looks like a child.
+SMITH: if so, my dear major, what do you suppose happened to its parents?
+JOHN: let's get back to the bridge.
+
+INT.-JUPITER TWO: penny is still hanging overhead. 
+PENNY: i think i've got it.
+MAUREEN: that's strange.
+PENNY: those scales are giving off heat.
+INT.-PROBE SHIP-BRIDGE: john is at the com.
+JOHN: i've tapped into the internal sensor array. besides us, this ship is totally deserted.
+SMITH: a ghost ship.
+WEST: and the flavor of the day is ... banana/beef. who thinks up these combinations?
+WEST: mm. good.
+SMITH: major west, i highly recommend you never breed. that by the way is my medical opinion.
+WEST: little thing was hungry.
+SMITH: good lord, who will - spare us the tyranny of the sentimental?
+PENNY: do you hear something?
+SMITH: get this infernal creature off me.
+WEST: this can't be good.
+SMITH: you have a remarkably keen sense of the obvious.
+
+JUDY: they eat their wounded. 
+JOHN: which way?
+
+WILL: turn left. 
+ROBOT: now right.
+JOHN: got to seal the bulkhead.
+WEST: the door control is at the other and of the corridor.
+JUDY: the fire sensor.
+
+SMITH: open, you. 
+WEST: it's cycling a vacuum check. there is no way to speed up the protocols.
+SMITH: fools. i warned you not to come aboard this cursed craft. you've killed us. you've killed us all.
+JUDY: shut up.
+WEST: now that's a bedside manner.
+
+JOHN: seal it. now! 
+INT.-JUPITER TWO: the inner airlock door opens. the crew tumble in.
+JOHN: get us out of here.
+SMITH: get this cloying gargoyle off of me.
+JOHN: get me an external view.
+JOHN: prepare to disengage.
+PENNY: get it off me. get it off.
+WEST: initiating separation.
+PENNY: it's okay. everything's going to be alright.
+WEST: we're clear. everybody hang on.
+
+INT.-JUPITER TWO: alarms sound. 
+JUDY: i think those things were using the probe ship as a way to trap food.
+WEST: that i s probably what happened to the monkey's parents. we were going to be desert.
+MAUREEN: but what happened to the crew?
+JOHN: nothing good.
+WEST: we're not out of the woods yet.
+WEST: let's see how these monsters like a hundred thousand volts.
+
+WEST: and the crowd goes wild. 
+SMITH: recall your nightmares from childhood, major. monsters are rarely so easily dissuaded. a thunk. then another. a third.
+WEST: persistent bastards.
+JOHN: can you hit them again?
+WEST: every time i electrify the hull, i'm draining our systems. once or twice more and we're going to be dead in space.
+SMITH: a fate i fear may be inevitable one way or another.
+JOHN: that's the same expression you had when my mother came to stay with us.
+MAUREEN: dna extrapolation - coming up. silicone based. admantium shell and lack of respiratory system suggest an ability to live in deep space. tiny front brain implies communal relationships. more like bees.
+WEST: there are thousands of those things maureen is working the computer.
+MAUREEN: they may be attracted to heat and light.
+WEST: with the right command codes, i can light up the probe ship from here.
+WEST: no response.
+
+WEST: but they won't work until the next fleet of ships are built. that's at least two years away. 
+JOHN: just do it. don begins entering command codes.
+WEST: how did you know?
+JOHN: think about it, don. the ships's advanced technology. your friend looking old. what if that ship is from our future?
+COMPUTER: warning. outer hull has been compromised.
+MAUREEN: it's not working.
+JOHN: can you get the fusion drive on line?
+
+INT.-JUPITER TWO: warning. inner hull breach in twenty seconds. 
+JOHN: give them a little encouragement.
+WEST: electrifying outer hull ... now.
+
+JOHN: get us out of here. fast. 
+JOHN: what are you doing?
+WEST: never leave an enemy stronghold intact. one of your father's first rules of engagement.
+JOHN: don, stop. that's a direct order. we might need to salvage-
+WEST: this is a military emergency. that means i'm in command.
+JOHN: don, no. i'm ordering you-
+WEST: i hate spiders.
+WEST: hang on, it i a gonna be a bumpy ride.
+
+INT.-JUPITER TWO: the ship is buffeted by the shock wave. 
+WEST: i can't hold her.
+
+INT.-JUPITER TWO: don is struggling to keep control. 
+WEST: we're going down.
+
+INT.-JUPITER TWO: the windscreen is filled with a rushing blizzard. 
+WEST: can't get the stabilizers on line.
+JOHN: pull up. pull up.
+WEST: really? no kidding? thanks.
+GIANT SNOW COVERED MOUNTAIN RANGE.: don banks the controls.
+
+INT.-JUPITER TWO: the surface is coming up fast. 
+WEST: got to slow us down.
+
+JOHN: everybody, by the numbers. 
+MAUREEN: life sciences, still breathing.
+JUDY: mission medical, i'm alive.
+WILL: me too. robotics, i mean.
+PENNY: video mechanics, okay.
+SMITH: i'm alive, major west's poor excuse for piloting skills not withstanding.
+WEST: let's take a look.
+PENNY: i don't think we're in kansas anymore.
+
+WEST: about half the core material is burned out. we'll never generate enough power to break orbit. 
+JOHN: i told you not to blow that ship's reactors and you did it anyway.
+WEST: come on, professor, give it a rest. i was technically still in command.
+JOHN: don't hand me that. i'm commander of this mission.
+WEST: look, no offense, but you're an egghead with an honorary rank. no one ever intended you to handle combat situations. you're spouting some nonsense about- time travel while those spiders posed a continuing threat. i made a judgement call and if i have to i'll make it again. hell, you of all people should understand that. if your father were here-
+JOHN: my father is not here. my father is dead, killed in one of his combat missions you so admire. my family is on this ship and you're going to follow my orders. whether you agree with them or not. is that clear, major?
+WEST: save the speeches. i like you. but the fate of the earth is at stake here. i'm going to do whatever i think it takes to ensure the success of this mission. with or without your help. is that clear, professor?
+MAUREEN: am i interrupting something?
+MAUREEN: no. really. i think you two should go ahead and slug it out. i mean, here we are stranded on an alien world and you boys want to get into a contest. so please, go for it. i'll have judy down here in a heartbeat to declare you both unfit and i'll take over this mission. now i don't want to hear another word from you two until you can play nice. is that clear?
+JOHN WEST: maureen- listen-
+MAUREEN: not another word. better. now if you've finished hosing down the decks with testosterone, i suggest you come with me. i may have found a way to get us off this planet.
+WEST: wow.
+JOHN: tell me about it. they head after her.
+
+WILL: can you hear me? robot? 
+ROBOT: systems error. robot unable to register neural net outputs. unable to locate motor controls. unable-
+WILL: calm down. your body was destroyed in the conflict with the space spiders.
+ROBOT: affirmative.
+WILL: but i downloaded your neural net.
+ROBOT: robot tried to destroy the robinson family. why would will robinson save robot's personality? your actions do not compute.
+WILL: i guess sometimes friendship means acting with your heart, not your head.
+ROBOT: logic error. friendship does not compute.
+WILL: don't worry, robot. im going to build you a new body. i promise.
+WILL: mom always said i should try to make new friends.
+
+MAUREEN: the atmosphere here can sustain human life. i've located 500 rads radioactive material a mile north. 
+JOHN: that's at least what we'd need to get the core functioning again.
+JOHN: we'll set off at daybreak. it'll be safer. those are my orders, major.
+WEST: i agree with your recommendation, professor.
+MAUREEN: dâžtente is a beautiful thing.
+
+PENNY: what's the diagnosis, doc? is it cowboy or ballerina on halloween? 
+JUDY: right now she's a girl. but i think your little pal here is from a self-replicating species. at different stages of life she, or he, probably alternates sexes.
+PENNY: imagine the savings on dating outfits alone.
+PENNY: can i keep her?
+JUDY: penny, you've never taken care of a thing in your life besides yourself.
+PENNY: please. she's all alone. i promise i'll look after her. she needs me.
+JUDY: ...the moment you misplace her, or forget to feed her, we leave her on this planet where she can live in the wild. i'm not kidding penny.
+PENNY: we're both a long way from home, aren't we little one?
+PENNY: that's what we'll call you. blip.
+PENNY: you like that?
+PENNY: nice girl. pretty girl. nice.
+
+SMITH: remove that lock this instant. i shall not be caged like some animal 
+WEST: i gave my word i'd let you live. i never said for how long.
+SMITH: these quarters will be fine.
+SMITH: tell me, major west. are you really confident in robinson's ability to guide us? if i were set free, i would support your right to command. with minimal force, we could take this ship and assure this mission continues under your leadership.
+WEST: ...my smith, you're right. how could i have been so blind? i'll just run and get you a gun so we can hijack the ship. okay?
+SMITH: sarcasm is the recourse of a weak mind.
+WEST: i'm hiding the pain. really. and with that west leaves.
+SMITH: i assure you, major west. your pain has just begun.
+
+WEST: star light, star bright... 
+JUDY: a million strange stars and only one wish. i wish we were home.
+JUDY: i never thought a sky could look so alien. ...we really are lost.
+WEST: when the first sailors circled the globe and saw a brand new sky, they thought they had sailed off the edge of the earth. but they were really just around the corner.
+JUDY: we just billow our sails and let the wind blow us home, is that it major?
+WEST: so those sailors found familiar shapes in the stars to make the skies more friendly, to help them find their way.
+WEST: that's how constellations were born.
+WEST: porky the wise and mighty pig.
+JUDY: the great bucktoothed bunny... bugs.
+WEST: so, my quarters or yours?
+JUDY: excuse me?
+WEST: we are the only single man and woman of consenting age in the galaxy. how much more of a set up do you need?
+JUDY: so you figure just dispense with the pleasantries, get down to business?
+WEST: you have a way with words, doctor.
+JUDY: right here? on this console?
+WEST: here would be fine. judy smiles sweetly.
+JUDY: next time, fly slower.
+
+JOHN: what was i thinking, bringing us all out here into space? 
+MAUREEN: the world needed saving. you were the right man for the job.
+JOHN: but solving the world's problems doesn't leave much time for the people you love, does it?
+MAUREEN: did you get any time with will?
+JOHN: now he's decided he can rebuild the robot. wants to show me his designs.
+MAUREEN: funny creatures, men. you try so hard not to be your fathers, end up making the same mistakes. will adores you.
+JOHN: we can't get off this planet much less back on course. i don't have time to...
+MAUREEN: john, just listen to him. it doesn't matter what he's saying. just listen. sometimes, at least in the eyes of their fathers, little boys have to come first.
+JOHN: as soon as we get back into space, we're going to spend some real time together. i promise.
+JOHN: what?
+MAUREEN: it's nice to have our family under one roof. even if we had to go half way across the galaxy to manage it.
+JOHN: how would you feel about a little late night tutorial, professor?
+MAUREEN: mm. that's new. what are you doing?
+JOHN: going for extra credit.
+EXT.-JUPITER TWO-NIGHT: the ship sits on the alien landscape.
+MAUREEN: good night john.
+JOHN: good night maureen.
+WILL: good night judy.
+PENNY: good night will.
+JUDY: good night penny.
+WEST: you guys have got to be kidding.
+
+PENNY: what are those rumblings? they've been happening all morning. 
+JUDY: how can half the landscape have grown up overnight?
+JOHN: okay, let's get settled. maureen?
+MAUREEN: it's impossible. but this planet's geothermic plates don't match up.
+JOHN: i was afraid of this.
+JOHN: i think these tremors are the result of opening and closing doorways.
+PENNY: doorways to where?
+JOHN: the future.
+SMITH: perhaps the professor was hit on the head when we landed.
+JOHN: remember the portal that lead us to the probe ship? what if we crossed a into a time years after earth sent a rescue mission.
+WEST: you're not serious? time travel is impossible.
+WILL: no it's not. it's just improbable. like hyperdrive was a hundred years ago. nothing's really impossible.
+JOHN: this world could be riddled with doorways to the future.
+WILL: so if we walk into that forest outside, we're really just walking into this crater years from now.
+MAUREEN: geological plates from different times wouldn't fit together. that would explain the tectonic mismatch.
+JOHN: if these portals are opening and closing, part of some cascading, natural phenomenon, they could be tearing this planet apart
+WILL: these portals are exactly what i predicted my time machine would do. what if the doorways aren't natural? a machine that bends space, like our hyperdrive, could be modified to bend time as well. what if someone on this world has built a device?
+JOHN: son, i appreciate your input but now isn't the time for flights of fancy.
+WILL: you never listen to me. not ever.
+JOHN: there's no telling how long before this planet breaks up entirely. . don and i are going to locate the radioactive material for the core. get the ship ready to go. we may have very little time.
+
+JOHN: aren't you coming out to say goodbye? 
+WILL: you're always leaving. what if...
+WILL: what if one time you don't come home...
+JOHN: whenever your grandfather went away on a mission, held leave these with me. for safe keeping. and when he got home i d always be waiting to give them back.
+JOHN: i'm coming back will. i promise.
+
+WEST: i've got a fix on the radioactive material. it's through the portal. 
+JOHN: we'll just have to hope the doorways remain stable.
+JUDY: these crater walls are disabling the com-links. you won't be able to communicate with the ship. the ground shakes again. maureen come home to me, professor.
+JOHN: i love you, wife.
+JUDY: i'm going to regret saying this, but try to get back in one piece.
+WEST: this is kind of a kiss for luck occasion, wouldn't you agree, doc?
+JUDY: see. i'm regretting it already. kisses have to be earned. say goodbye, blip.
+BLIP: nice girl. pretty girl. nice.
+JOHN: you take care of her, penny. take care of you too, baby.
+PULL BACK TO REVEAL: smith stares out the cabin window. push in as
+
+SMITH: yes, enjoy your moments of trite familial bonding. 
+SMITH: because they will be your last.
+
+PENNY: that's everything even close to nonessential. even my bellybutton ring. 
+WILL: thanks, pen.
+PENNY: you want to come on a land survey?
+PENNY: look, what does dad know? maybe someone did build a time machine.
+ROBOT: robot is on line.
+WILL: it sounds like old morse code.
+
+WILL: you said someone is in danger. 
+SMITH: we all are. you are wise to arm yourself.
+WILL: this gun is set to fire for me only so don't try anything funny.
+SMITH: william, you misjudge me. i only want to help you.
+WILL: help us? you tried to kill us all.
+SMITH: but now our fates are intertwined. if your father and that west fail, i will have no chance of getting home. it is in my best interests they succeed. and i always follow my best interests.
+SMITH: what monsters roam these alien wilds? fools. to set off blindly across this savage land. much as i hate to admit it, it will be harder to manage without them.
+WILL: what are you talking about? they'll be back. they'll be okay.
+WILL: someone should go after them.
+SMITH: will, i forbid it. you're a boy. a clever one, certainly, but a child nonetheless. this planet is likely full of predators. even if you found them, what if they're hurt, ravaged, dying, what good could you do?
+WILL: but you're a doctor.
+
+JUDY: it's impossible. 
+MAUREEN: not really. geologists have speculated that dimondium might be naturally occurring in many older worlds. part of a biosphere's way of rejuvenating itself.
+JUDY: this one is ten times more powerful then that on alpha prime. there's enough here to save earth.
+PENNY: after much deliberation, the space captive has decided to accept her new role as member of the crew. the robinsons, after all, can obviously use her help...
+PENNY: now look what you've done. stop hanging all over me.
+PENNY: blip. wait. i'm sorry.
+
+WILL: i've got a fix on dad's suit beacon. 
+WILL: wow, that's mom's favorite color.
+SMITH: how droll.
+SMITH: run, child, run.
+SMITH: will? will?
+WILL: wow!
+SMITH: william, wait!
+WILL: see, over here i'm in the future. here i'm in the past. don't worry. if my theories are correct, these doorways should remain stable, for a while anyway.
+SMITH: i can barely contain my glee. why aren't you aging like the plants?
+WILL: that's just an effect of the portals forming. once they stabilize you can cross from one time to another just like stepping between two rooms. dad's signal is this way. come on, doctor smith.
+WILL: what did you find?
+SMITH: come, come, son, no time for distractions. let's move on.
+
+JOHN:  
+WEST: damn? is not good.
+JOHN: the radiation signature we've been tracking. it's a ghost. a reflection from the jupiter two bouncing off the ore in these walls. there's no core material here.
+JOHN: the ship's back that way. we have to go through.
+EXT.-BRUSH-DAY-PRESENT: penny is pushing through the forest.
+PENNY: blip? i'm sorry. blip?
+PENNY: blip, wait.
+
+PENNY: blip, you can't run off like that. what the-? 
+PENNY: some kind of fight, in space. it almost looks like the probe ship major west blew up.
+PENNY: that could be the jupiter two crash landing.
+PENNY: blip, no!
+GIANT BLIP: nice girl. pretty girl. nice.
+
+JOHN: we should be able to see the ship. 
+WEST: could these be from the probe?
+JOHN: corroded. this metal is decades old.
+WEST: it's not possible.
+WEST: what kind of nightmare is this?
+JOHN: no, major, when the are we?
+
+WILL: i feel like we got turned around. 
+SMITH: just follow your father's signal, young william.
+WILL: oh
+SMITH: a boy of your intelligence shouldn't swear.
+WILL: look.
+SMITH: oh. indeed.
+
+VOICE: well, well. all things really do come to he who waits. 
+JOHN: what is this place?
+FIGURE: why professor, the shock must have scrambled your brain. look around you. don't you recognize the spot?
+JOHN: this can't be...
+JOHN: what have you done to the ship.
+FIGURE: your family is dead. dead and in the ground.
+JOHN: no!
+FIGURE: what fickle consort in memory. time dims certain images while others shine clear and bright as yesterday.
+FIGURE: i'll never forget that morning. twenty years ago. what was it you said? i'll be back. i promise. but i knew better. you never came home.
+FIGURE: without you, your family never had a chance. a few spidersv survived the destruction of the probe ship. they reached the planet and attacked. i can still hear the women scream.
+JOHN: who are you?
+FIGURE: don't you recognize me, dad? it's me. i'm your son. will.
+
+JUDY: penny? penny? 
+MAUREEN: penny? baby, are you alright?
+PENNY: it's okay, mom. they're not going to hurt us. it's like they think i'm their princess or something.
+
+JUDY: best as i can tell this whole clan was spawned by this single creature. we've been a busy girl haven't we? 
+MAUREEN: speak, doctor.
+JUDY: each creature seems to have unique corpuscular patterns on their palms. as individual an fingerprints, no two alike. except...
+MAUREEN: except the prints on this giant creature and our little blip match exactly. don't they?
+JUDY: how did you know?
+MAUREEN: because, i think blip and our friend here are actually one and the same.
+
+WEST: . . .ouch. who ordered me that last drink? what the is going on? 
+JOHN: i think we crossed into our own future. we've come back to the jupiter two decades after we left.
+OLDER WILL: look father, what my flights of fancy have wrought. i used your hypergate to build my time machine.
+OLDER WILL: over the years i have struggled in vain to harness the awesome power of time. all my experiments at creating a stable doorway have been futile. until now. today you will witness my ultimate triumph.
+WEST: the core material. if we could get that back to our jupiter two...
+JOHN: the doorways in time that led us here must be a side effect of his machine coming on line. like streams running into the ocean....
+OLDER WILL: once this core material in fully introduced into the control console, i will open a doorway stable enough for one person to take one trip through time and space as well. today, i will change history.
+OLDER WILL: i will return home, to the very day you took us on this cursed mission. i'll stop us from taking off. i'll do what you never could. i'll save the family. i'll save us all.
+JOHN: look around. your machine is ripping this planet apart. what if the force wave you ride home has the same effect on earth? what if, in getting home, you destroy earth in the process? a beat. then will turns away, goes back to work.
+OLDER WILL: i'm going home. i'm going to save the family.
+JOHN: will, i'm your father. you've got to listen to me-.
+OLDER WILL: let me tell you about my father. my father was a walking ghost. never there when i needed him. he dragged his family into deep dark space and lost them there. my father is not coming to the rescue.
+WILL: we've got to go inside.
+SMITH: slow down, now. we can't know what waits inside that ravaged craft. but we can be confidant it is nothing good. and i for one am frightened.
+WILL: but dad's in there.
+SMITH: will, listen to me. i have crossed this world with you, found your father as promised. but i can't let you go in there unarmed.
+WILL: but i've got a gun.
+SMITH: if we go forward, the barer of that weapon must be ready to kill. murder is a skill, one which i have developed and, luckily dear boy, you have not. look inside your heart, will. are you truly capable of taking a life? if not, then i ask you now, put your faith in me. give me your trust. give me that gun.
+WILL: enable gun for all users.
+GUN: voiceprint confirmed.
+SMITH: finally.
+SMITH: a brief lesson in survival on this world or any other. never trust anyone. remember it into your old age, should you have one. now move!
+
+JOHN: we can go back across the portals to the past, to the functioning jupiter two, where your mother and sisters are still alive. we can use this core material to escape together. 
+OLDER WILL: and then what? all of us lost in space. don't you see? i can do what you never could. i can save us all.
+SMITH: i'm afraid not. through the doorway comes young will, smith walking behind him, hand on his shoulder, gun to his head.
+SMITH: never fear. smith is here.
+JOHN: will, i. . .
+SMITH: don't move, professor robinson or this rather peculiar family reunion will be tragically brief. i'll ask you to step away from that console, major.
+SMITH: well, well, some of us just don't know when to stay dead.
+SMITH: i borrowed this from the probe ship in hopes of taking over the helm once we were in flight. but i seem to have found a better use instead.
+SMITH: let's try this dance again. you are the puppet. i am the puppeteer. do get it right this time.
+SMITH: robot, enable electric disrupters.
+SMITH: now that's a good gargantuan.
+SMITH: say goodbye to your past. you're future lies with me. i'm going home in your place.
+WILL: you did it. just like i imagined. re-routed the hypercore. but the natural power source, the delivery system. i never thought of those.
+OLDER WILL: you will. the future is never what it looks like when you're ten.
+SMITH: heartwarming. nauseatingly sentimental but heartwarming.
+SMITH: we certainly could have aged better, i must say now, show me how your little time machine works.
+SMITH: an odd moment for mirth, don't you think? what are you grinning at?
+OLDER WILL: look around you, doctor. at this hostile world. do you really think a boy could have survived all alone?
+VOICE: never fear, smith is here.
+SPIDER SMITH: hello, doctor, how nice to see me again after all these years.
+SPIDER SMITH: the spider's sting had some unexpected side effects.
+SPIDER SMITH: but my unique gifts gave me an advantage in this quarrelsome world.
+SPIDER SMITH: after the women were savaged, i became the father will never had.
+SPIDER SMITH: but you, doctor. your crude ambition fills me with self-loathing. you see i have looked within me and what i see is you.
+SPIDER SMITH: i never liked me, anyway.
+SPIDER SMITH: kill them all.
+OLDER WILL: no.
+SPIDER SMITH: but my dear boy, once the doorway in time stabilizes, this planet is going to come apart at the seams.
+SPIDER SMITH: i am willing to perish here on this world for the sake of your most noble mission. but your selfish father will only try to stop you.
+SPIDER SMITH: once your mission is complete, none of this will have happened anyway. so why not just dispose of them?
+SPIDER SMITH: very well. robot, take them inside the ship and keep them there. if they move, then kill them.
+
+MAUREEN: we've got to get to the ship. penny? 
+MAUREEN: where is she, girl?
+
+SPIDER SMITH: well, it would seem the time is upon us. off we go, william. 
+JOHN: will, it's a trick. smith's carrying an egg sack. if he's willing to stay on this world and die, why is he about to spawn? he's going through the portal himself.
+ROBOT: proceed to the ship or be destroyed.
+SPIDER SMITH: hurry, boy. time waits for no man.
+
+SPIDER SMITH: it's almost time. i really am a word-smith. 
+OLDER WILL: once the core cylinder is fully injected, the planet will begin to come apart and the time doorway will stabilize. then i jump in.
+SPIDER SMITH: a leap of faith. how fitting.
+OLDER WILL: tell me again, old monster, how did the girls die?
+SPIDER SMITH: we've been over this before, son.
+OLDER WILL: in all the years since, the spiders have never re-surfaced. why?
+SPIDER SMITH: let's forget the past.
+SPIDER SMITH: what are you doing?
+OLDER WILL: focusing the aperture. remember, the energy around the portal will rip a man to pieces.
+SPIDER SMITH: isn't the doorway too small?
+OLDER WILL: not for me. but then i'm not going, am i? the spiders didn't kill the girls. it was you. i just never let myself see it. you kept me alive because you needed me. because i could build this for you. you killed my family. destroyed this world. and i helped. you became mad as the spiders.
+SPIDER SMITH: poor, poor boy. did you really think i would let you go home? let all that i have become vanish? look at me. i am no mere man. i am a
+SPIDER SMITH: your father was right. within me roil the growing needs of a master race. we will descend upon helpless earth. an entire planet to rule.
+SPIDER SMITH: an entire planet on which to feed.
+
+WEST: i'll run, draw his fire. you may have time to get away with will. 
+ROBOT: halt or robot will destroy.
+WILL: do you remember what i taught you. a long time ago. about friendship?
+ROBOT: friendship means acting with your heart not your head.
+WILL: that's why i rebuilt you. because i wanted us to be friends.
+ROBOT: logic error. friendship does not compute.
+WILL: forget logic. act with your heart.
+ROBOT: robot has no heart. robot is powered by a fusion pulse generator
+WILL: every living thing has a heart.
+ROBOT: any attempts to override command protocols may result in fused processors in my neural net.
+WILL: please, robot, if you don't let us go, we're all going to die. i'm asking you now, will you help us? will you be my friend?
+ROBOT: robot attempting to deactivate control bolt-commands overriddenattempting to reroute-dangercircuitry overloadattempting to escape-kill them, kill them...
+WILL: you did it.
+ROBOT: robot will save ... i will save will robinson. i will save my friend.
+
+MAUREEN: penny? penny? 
+MAUREEN: where did you go?
+PENNY: i came through the forest. i had a promise i had to keep.
+JUDY: inside. fast.
+
+JOHN: you've got find your way back to the ship. the portals may still be stable. i'll try to meet you there. 
+WEST: what do you mean?
+JOHN: i'm going to get that core material.
+WEST: i'll stay. the family needs their father
+JOHN: the crew needs their pilot. no matter what happens, when the planet starts to break up you take off.
+WEST: without the core we'll never have enough power to make orbit.
+JOHN: you've got to try. promise me, don.
+WEST: good luck. commander.
+JOHN: will. son. i want you to know-
+WILL: you'll tell me when you get back to the ship. now there just isn't time.
+JOHN: i could use a weapon.
+ROBOT: professor, i have a plan.
+SPIDER SMITH: time to die, son.
+OLDER WILL: i'm not your son.
+SPIDER SMITH: goodbye.
+
+WILL: look. 
+WEST: he's still breathing.
+WILL: the time machine must be near full power. the portals are collapsing.
+WEST: which one leads us home?
+WILL: there.
+WILL: we can't just leave him here.
+WEST: sure we can. it. smith. wake up. smith.
+SMITH: oh, the pain, the pain.
+ROBOT: danger. will robinson. danger.
+WEST: jump!
+
+PENNY: mom, the forest. 
+MAUREEN: where's john?
+WEST: the portal closed behind us. it was his only way back.
+WEST: we've got to try and lift off.
+MAUREEN: we've already begun the pre-flight countdown. you have the com. i'm going to save as many lives as i can, major. now strap in. int.-jupiter two-engine room control platform-future
+JOHN: not so fast.
+
+JOHN: you sabotaged our mission. you killed my family you stole my son. it's payback time. 
+SPIDER SMITH: spare me the fury of the righteous.
+SPIDER SMITH: i think there's time for a snack before my trip.
+SPIDER SMITH: oh, the pain. the pain.
+JOHN: you ain't seen nothing yet.
+JOHN: remember the probe ship? these monsters eat their wounded.
+SPIDER SMITH: no. stop. no!
+JOHN: take all the time you want to die.
+EXT.-JUPITER TWO-DAY-PRESENT: the landscape is a sudden inferno.
+
+MAUREEN: i kept hoping somehow he'd appear. 
+MAUREEN: let's go, major.
+MAUREEN: goodbye, my love.
+
+JOHN: come on, son. wake up. 
+OLDER WILL: dad?
+JOHN: i thought i lost you.
+OLDER WILL: the core.
+OLDER WILL: you could have taken the core and left before it was too late. you saved me instead.
+JOHN: there wasn't any choice. i couldn't let you fall.you're my boy.
+OLDER WILL: look. they made it.
+INT.JUPITER TWO-PRESENT: the ship is shaking madly.
+WEST: we're not getting any altitude.
+
+JUDY: i'm reading a power build up. markers in the red- 
+PENNY: she's dead.
+
+JOHN: i couldn't save them. 
+OLDER WILL: so many years ago and i can still feel it. our sun. our earth. it's all i've thought about. going home.
+OLDER WILL: a long time ago, you told a small boy that one day he'd understand how precious he was, how much his father loved him. today is that day.
+OLDER WILL: all i could see was your need to go forward at any cost. what you never showed me was your love. i lost that. robbed by time. i could never see how much you cared. until now.
+OLDER WILL: father, take my hand.
+
+MAUREEN: i kept hoping somehow he'd appear. 
+MAUREEN: let's go, major.
+MAUREEN: goodbye my love.
+PENNY: look.
+
+JOHN: come with us. 
+OLDER WILL: i can't. there was only enough power for one person, one trip, remember?
+MAUREEN: will?
+OLDER WILL: it's good to see you again, mom. it's good to see you alive. sorry about all the monkey business.
+JOHN: he sacrificed everything for his family.
+MAUREEN: he had a good example.
+WILL: dad?
+WILL: i'm glad you came back.
+JOHN: i just want you to know i love you son. i love you very much.
+WEST: the planet is breaking up around us.
+WEST: nice of you to drop in.
+JOHN: status?
+
+SMITH: we're doomed. we're doomed. 
+WEST: boy, that felt good.
+JOHN: get us airborne.
+
+WEST: i'm going to try to reach escape velocity. maybe we can break the gravitational pull. 
+JOHN: no. we don't have the core material.
+WEST: we might-
+JOHN: we won't make it. trust me. i know.
+WEST: what?
+JOHN: through the planet as she breaks up.
+WEST: that's insane.
+JOHN: i don't have time to argue. i'm giving you a direct order, major.
+WEST: yes sir.
+
+JOHN: there. 
+WEST: i see it.
+
+JUDY: nice work, flyboy. 
+WEST: so, i earn that kiss yet?
+JUDY: you earned that.
+JUDY: this one is on credit.
+JUDY: cold fish, huh?
+MAUREEN: poor thing. she's lost her whole family. penny, why are you looking at me like that. penny?
+PENNY: i promised judy i'd take care of her. i couldn't leave her all alone. well i am their princess, after all. you can come out mow.
+JOHN: dimondium. now if we could only find our way back to earth.
+ROBOT: if i may, professor.
+ROBOT: your son's star charts.
+WILL: it's a map home.
+WEST: the planet's gravity field in collapsing.
+MAUREEN: we'll be sucked in.
+JOHN: there's no way to get clear in time.
+JUDY: the hyperdrive.
+MAUREEN: everybody hang on.
+PENNY: here we go again.
+WILL: cool.
 

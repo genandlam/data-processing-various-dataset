@@ -1,736 +1,736 @@
-speaker1: man. they look woebegone and far away. 
-speaker2: i'll only be here twenty-four hours.
-speaker1: in a place like this, it could be a lifetime. good luck, mr. macreedy.
-speaker3: you for black rock?
-speaker2: that's right.
-speaker3: there must be some mistake. i'm hastings, the telegraph agent. nobody told me the train was stopping.
-speaker2: they didn't?
-speaker3: i just said they didn't, and they ought to. what i -- want to know, why didn't they?
-speaker2: probably didn't think it was important.
-speaker3: important?! it's the first time the streamliner stopped here in four years. you being met? you visiting folks or something? i mean, whatd'ya want?
-speaker2: i want to go to adobe flat. any cabs available?
-speaker3: adobe flat?! no cabs.
-speaker2: where's the hotel?
-speaker2: i asked where's the hotel?
-speaker2: thanks.
-speaker3: hello, pete? now, listen...
+CONDUCTOR: man. they look woebegone and far away. 
+MACREEDY: i'll only be here twenty-four hours.
+CONDUCTOR: in a place like this, it could be a lifetime. good luck, mr. macreedy.
+HASTINGS: you for black rock?
+MACREEDY: that's right.
+HASTINGS: there must be some mistake. i'm hastings, the telegraph agent. nobody told me the train was stopping.
+MACREEDY: they didn't?
+HASTINGS: i just said they didn't, and they ought to. what i -- want to know, why didn't they?
+MACREEDY: probably didn't think it was important.
+HASTINGS: important?! it's the first time the streamliner stopped here in four years. you being met? you visiting folks or something? i mean, whatd'ya want?
+MACREEDY: i want to go to adobe flat. any cabs available?
+HASTINGS: adobe flat?! no cabs.
+MACREEDY: where's the hotel?
+MACREEDY: i asked where's the hotel?
+MACREEDY: thanks.
+HASTINGS: hello, pete? now, listen...
 
-speaker1: as she follows the man's movement. 
-speaker2: sequence omitted from original script.
+CLOSE SHOT - LIZ: as she follows the man's movement. 
+OUT: sequence omitted from original script.
 
-speaker1: 'afternoon. 
-speaker2: anything i can do for you?
-speaker1: you run this hotel?
-speaker2: no.
-speaker1: then there's nothing you can do for me.
-speaker3: find smith!
-speaker4: sequence omitted from original script.
+MACREEDY: 'afternoon. 
+COLEY: anything i can do for you?
+MACREEDY: you run this hotel?
+COLEY: no.
+MACREEDY: then there's nothing you can do for me.
+HECTOR: find smith!
+OUT: sequence omitted from original script.
 
-speaker1: i'd like a room. 
-speaker2: all filled up.
-speaker1: got any idea where i might --
-speaker2: this is 1945, mister. there's been a war on.
-speaker1: i thought it ended a couple of months ago.
-speaker2: yeah, but the o.p.a. lingers on.
-speaker2: you don't know about the o.p.a...
-speaker1: tell me.
-speaker2: well, for establishments with less'n fifty rooms hotel keepers got to report regularly about...
-speaker2: ...about tenants and... and... registration... there are penalties imposed...
-speaker1: you seem to have lots of vacancies.
-speaker2: well... as i said...
-speaker1: lots of vacancies.
-speaker2: they're everyone of 'em locked up. some are show rooms...
-speaker1: yes...?
-speaker2: ...for cattle buyers, feed salesmen. the others -- they're spoken for, rented to cowboys, ranch hands... they pay by the month. for when they come into town. we provide for their every wish and comfort. you understand...?
-speaker1: not really. but while i'm pondering it, get a room ready. just for tonight. this one.
-speaker3: glowering at pete.
-speaker4: as macreedy signs the ledger.
-speaker1: sure could use a bath. where is it?
-speaker2: head of the stairs.
-speaker1: i don't know just why you're interested -- but the name's macreedy. i'm... it's all in the ledger.
-speaker5: you look like you need a hand.
-speaker5: john j. macreedy. from los angeles. i wanna know everything he does, pete. check every call -- any mail.
-speaker2: and in the meantime...?
-speaker5: in the meantime, i'll crowd him a little... ...see if he's got any iron in his blood...
+MACREEDY: i'd like a room. 
+PETE: all filled up.
+MACREEDY: got any idea where i might --
+PETE: this is 1945, mister. there's been a war on.
+MACREEDY: i thought it ended a couple of months ago.
+PETE: yeah, but the o.p.a. lingers on.
+PETE: you don't know about the o.p.a...
+MACREEDY: tell me.
+PETE: well, for establishments with less'n fifty rooms hotel keepers got to report regularly about...
+PETE: ...about tenants and... and... registration... there are penalties imposed...
+MACREEDY: you seem to have lots of vacancies.
+PETE: well... as i said...
+MACREEDY: lots of vacancies.
+PETE: they're everyone of 'em locked up. some are show rooms...
+MACREEDY: yes...?
+PETE: ...for cattle buyers, feed salesmen. the others -- they're spoken for, rented to cowboys, ranch hands... they pay by the month. for when they come into town. we provide for their every wish and comfort. you understand...?
+MACREEDY: not really. but while i'm pondering it, get a room ready. just for tonight. this one.
+CLOSE SHOT - HECTOR: glowering at pete.
+TWO SHOT - MACREEDY AND PETE: as macreedy signs the ledger.
+MACREEDY: sure could use a bath. where is it?
+PETE: head of the stairs.
+MACREEDY: i don't know just why you're interested -- but the name's macreedy. i'm... it's all in the ledger.
+HECTOR: you look like you need a hand.
+HECTOR: john j. macreedy. from los angeles. i wanna know everything he does, pete. check every call -- any mail.
+PETE: and in the meantime...?
+HECTOR: in the meantime, i'll crowd him a little... ...see if he's got any iron in his blood...
 
-speaker1: i think you have the wrong room. 
-speaker2: you think so?
-speaker2: what else you got on your mind?
-speaker1: nothing, i guess.
-speaker2: if you had a mind, boy, you'd of heard what pete downstairs said. he said these here rooms are for us cowboys. for our every wish and comfort.
-speaker1: and this, i guess, is yours?
-speaker2: when i'm in town. and i'm in town, as any fool can see. you see that, don't you, boy?
-speaker1: i guess i do. would you mind very much if i sort of... ...clean up this mess and get another room?
-speaker2: not at all. but if you want this room real bad... ...we could maybe settle your claim without all this talk. if a man don't claim what's rightfully his'n, he's nuthin'. what do you think?
-speaker1: i guess so.
-speaker2: you guess so. but still you ain't claimin' this room?
-speaker1: i guess not.
-speaker2: you're all the time guessin', boy. don't you ever know anything?
-speaker1: one thing i know. since i got off the train, i've been needled. why?
-speaker2: i guess i don't rightly know.
+MACREEDY: i think you have the wrong room. 
+HECTOR: you think so?
+HECTOR: what else you got on your mind?
+MACREEDY: nothing, i guess.
+HECTOR: if you had a mind, boy, you'd of heard what pete downstairs said. he said these here rooms are for us cowboys. for our every wish and comfort.
+MACREEDY: and this, i guess, is yours?
+HECTOR: when i'm in town. and i'm in town, as any fool can see. you see that, don't you, boy?
+MACREEDY: i guess i do. would you mind very much if i sort of... ...clean up this mess and get another room?
+HECTOR: not at all. but if you want this room real bad... ...we could maybe settle your claim without all this talk. if a man don't claim what's rightfully his'n, he's nuthin'. what do you think?
+MACREEDY: i guess so.
+HECTOR: you guess so. but still you ain't claimin' this room?
+MACREEDY: i guess not.
+HECTOR: you're all the time guessin', boy. don't you ever know anything?
+MACREEDY: one thing i know. since i got off the train, i've been needled. why?
+HECTOR: i guess i don't rightly know.
 
-speaker1: who? 
-speaker2: you know who! what do you think, doc?
-speaker1: why ask me? he's no salesman, that's sure. unless he's peddling dynamite.
-speaker2: maybe he's a cop, or something...
-speaker1: ever see a cop with a stiff arm?
-speaker2: maybe his arm's all right. maybe he's just holding tight to something in his pocket...
-speaker1: like what? a pistol? a stick of t-n-
-speaker3: to blow up this whole mangy, miserable town! why are you so interested, sam?
-speaker2: who, me?
-speaker1: i mean, if i was that interested... ...i'd ask him.
+DOC: who? 
+SAM: you know who! what do you think, doc?
+DOC: why ask me? he's no salesman, that's sure. unless he's peddling dynamite.
+SAM: maybe he's a cop, or something...
+DOC: ever see a cop with a stiff arm?
+SAM: maybe his arm's all right. maybe he's just holding tight to something in his pocket...
+DOC: like what? a pistol? a stick of t-n-
+T?: to blow up this whole mangy, miserable town! why are you so interested, sam?
+SAM: who, me?
+DOC: i mean, if i was that interested... ...i'd ask him.
 
-speaker1: hey! hold it! 
-speaker1: got any cigarettes?
-speaker2: this is all.
-speaker2: how long you staying?
-speaker1: in my new room, you mean? i'm staying.
-speaker2: i mean, in the hotel.
-speaker1: just about twenty-four hours. why?
-speaker2: i... i was just askin'.
-speaker1: why? you expecting a convention?
-speaker2: i was just askin'.
-speaker1: stale.
-speaker1: where can i rent a car?
-speaker2: i don't know.
-speaker1: let's put it this way -- if i had a car and if i wanted to put gas in it, where would i go?
-speaker2: but you don't have a car.
-speaker1: thanks.
+MACREEDY: hey! hold it! 
+MACREEDY: got any cigarettes?
+PETE: this is all.
+PETE: how long you staying?
+MACREEDY: in my new room, you mean? i'm staying.
+PETE: i mean, in the hotel.
+MACREEDY: just about twenty-four hours. why?
+PETE: i... i was just askin'.
+MACREEDY: why? you expecting a convention?
+PETE: i was just askin'.
+MACREEDY: stale.
+MACREEDY: where can i rent a car?
+PETE: i don't know.
+MACREEDY: let's put it this way -- if i had a car and if i wanted to put gas in it, where would i go?
+PETE: but you don't have a car.
+MACREEDY: thanks.
 
-speaker1: that's all i know about him, mr. smith. 
-speaker2: sit down.
-speaker3: i was only...
-speaker2: sit down.
-speaker4: pretty cool guy.
-speaker2: doesn't push easy?
-speaker4: that's it -- that's just it. he pushes too easy. maybe we oughtta...
-speaker2: what do you want, doc?
-speaker5: nothing. i was just wondering what all you people were worrying about. not that i have the slightest idea.
-speaker2: you wonder too much, and you talk too much. it's a bad parlay, doc.
-speaker5: i hold no truck with silence. i got nothing to hide.
-speaker4: what're you tryin' to say?
-speaker5: nothing, man. it's just, you worry about the stranger only if you look at him... ...from a certain aspect.
-speaker2: how do you look at him, doc?
-speaker5: with the innocence of a fresh-laid egg.
-speaker2: keep it up, doc. be funny. make bad jokes. and some day i'll have coley wash out your mouth with lye.
+PETE: that's all i know about him, mr. smith. 
+SMITH: sit down.
+COLEY: i was only...
+SMITH: sit down.
+HECTOR: pretty cool guy.
+SMITH: doesn't push easy?
+HECTOR: that's it -- that's just it. he pushes too easy. maybe we oughtta...
+SMITH: what do you want, doc?
+DOC: nothing. i was just wondering what all you people were worrying about. not that i have the slightest idea.
+SMITH: you wonder too much, and you talk too much. it's a bad parlay, doc.
+DOC: i hold no truck with silence. i got nothing to hide.
+HECTOR: what're you tryin' to say?
+DOC: nothing, man. it's just, you worry about the stranger only if you look at him... ...from a certain aspect.
+SMITH: how do you look at him, doc?
+DOC: with the innocence of a fresh-laid egg.
+SMITH: keep it up, doc. be funny. make bad jokes. and some day i'll have coley wash out your mouth with lye.
 
-speaker1: hi, t.j. 
-speaker1: this your garage?
-speaker2: nope.
-speaker1: where's the man it belongs to?
-speaker2: ain't a man.
-speaker2: lady runs this garage.
-speaker2: she's not here.
-speaker1: where'd she go?
-speaker2: i dunno. somewhere.
-speaker1: when will she be back?
-speaker2: i dunno. sometime.
-speaker2: in about ten minutes.
-speaker1: thanks.
+MACREEDY: hi, t.j. 
+MACREEDY: this your garage?
+T.J.: nope.
+MACREEDY: where's the man it belongs to?
+T.J.: ain't a man.
+T.J.: lady runs this garage.
+T.J.: she's not here.
+MACREEDY: where'd she go?
+T.J.: i dunno. somewhere.
+MACREEDY: when will she be back?
+T.J.: i dunno. sometime.
+T.J.: in about ten minutes.
+MACREEDY: thanks.
 
-speaker1: as the excited telegraph agent speaks. 
-speaker2: i called the circle t. he ain't got business there -- not if they don't know him. right, mr. smith?
-speaker3: send a wire to nick gandi in los angeles. tell him to find out all he can about john j. macreedy. tell him i want to know fast. sign my name.
-speaker2: what was that?
-speaker3: nick gandi. g-a-n-d-i. care of the blake hotel.
-speaker4: who's gandi?
-speaker3: he's a private detective. i drive to l.a. now and then.
-speaker5: he'll get us the dope?
-speaker3: he'll get us anything, for twenty bucks a day and expenses. hector, you worry too fast and too easy.
-speaker5: it's just, i don't like it.
-speaker4: maybe he's just passing through.
-speaker5: don't bet on it. he can only mean trouble.
-speaker3: hector, you're jumpy as a stall horse.
-speaker5: we oughtta see him... talk to him.
-speaker3: about what? what'll we talk to him about? the birds, the bees? the weather? the crops? you tried -- where'd it get you?
-speaker5: i only thought...
-speaker3: sure. you only thought.
-speaker4: what do we do?
-speaker3: what do you do? you wait. like pete here. right, pete?
-speaker3: that's all you do. but while you wait... i talk to him.
-speaker6: hey!
+ANGLE FAVORING SMITH AND HASTINGS: as the excited telegraph agent speaks. 
+HASTINGS: i called the circle t. he ain't got business there -- not if they don't know him. right, mr. smith?
+SMITH: send a wire to nick gandi in los angeles. tell him to find out all he can about john j. macreedy. tell him i want to know fast. sign my name.
+HASTINGS: what was that?
+SMITH: nick gandi. g-a-n-d-i. care of the blake hotel.
+COLEY: who's gandi?
+SMITH: he's a private detective. i drive to l.a. now and then.
+HECTOR: he'll get us the dope?
+SMITH: he'll get us anything, for twenty bucks a day and expenses. hector, you worry too fast and too easy.
+HECTOR: it's just, i don't like it.
+COLEY: maybe he's just passing through.
+HECTOR: don't bet on it. he can only mean trouble.
+SMITH: hector, you're jumpy as a stall horse.
+HECTOR: we oughtta see him... talk to him.
+SMITH: about what? what'll we talk to him about? the birds, the bees? the weather? the crops? you tried -- where'd it get you?
+HECTOR: i only thought...
+SMITH: sure. you only thought.
+COLEY: what do we do?
+SMITH: what do you do? you wait. like pete here. right, pete?
+SMITH: that's all you do. but while you wait... i talk to him.
+DOC: hey!
 
-speaker1: hold it, friend. 
-speaker1: i ain't hankerin' to get locked in my own jail.
-speaker2: sorry. i thought you were a guest.
-speaker1: as it happens, i'm the host.
+TIM: hold it, friend. 
+TIM: i ain't hankerin' to get locked in my own jail.
+MACREEDY: sorry. i thought you were a guest.
+TIM: as it happens, i'm the host.
 
-speaker1: snort? 
-speaker2: no, thanks.
-speaker1: don't blame you. it's awful.
-speaker1: what're you lookin' at?
-speaker2: you tell me.
-speaker1: i ain't always this bad -- just that last night me and my pal doc velie, we did a little celebratin'. at least i did.
-speaker2: what were you celebrating?
-speaker1: you name it. what do you want?
-speaker2: my name's macreedy. i came in on the streamliner.
-speaker1: you what?
-speaker2: i said i came in...
-speaker1: you ain't from around here. up tucson way -- phoenix? mesa? you ain't sellin' cattle nor seed nor nothin' like that?
-speaker2: no. all i want from you is a little information. i've got to get to a place called adobe flat.
-speaker1: this ain't no information bureau.
-speaker2: one thing about black rock -- everybody's polite. makes for gracious living.
-speaker1: nobody asked you here.
-speaker2: how do you know?
-speaker1: what about adobe flat?
-speaker2: i'm looking for a man named komako.
-speaker2: almost a disaster.
-speaker1: a fate worse'n death. you move fast for a crip... for a big man.
-speaker2: what about komako?
+TIM: snort? 
+MACREEDY: no, thanks.
+TIM: don't blame you. it's awful.
+TIM: what're you lookin' at?
+MACREEDY: you tell me.
+TIM: i ain't always this bad -- just that last night me and my pal doc velie, we did a little celebratin'. at least i did.
+MACREEDY: what were you celebrating?
+TIM: you name it. what do you want?
+MACREEDY: my name's macreedy. i came in on the streamliner.
+TIM: you what?
+MACREEDY: i said i came in...
+TIM: you ain't from around here. up tucson way -- phoenix? mesa? you ain't sellin' cattle nor seed nor nothin' like that?
+MACREEDY: no. all i want from you is a little information. i've got to get to a place called adobe flat.
+TIM: this ain't no information bureau.
+MACREEDY: one thing about black rock -- everybody's polite. makes for gracious living.
+TIM: nobody asked you here.
+MACREEDY: how do you know?
+TIM: what about adobe flat?
+MACREEDY: i'm looking for a man named komako.
+MACREEDY: almost a disaster.
+TIM: a fate worse'n death. you move fast for a crip... for a big man.
+MACREEDY: what about komako?
 
-speaker1: mr. macreedy. 
-speaker2: that's the friendliest word i've heard since i got here.
-speaker1: my name is smith. i own the triple- bar ranch. i want to apologize for some of the folks in town.
-speaker2: they act like they're sitting on a keg.
-speaker1: a keg...? of what?
-speaker2: i don't know. maybe diamonds. maybe gunpowder.
-speaker1: no. nothing like that. we're a little suspicious of strangers is all. hangover from the old days. the old west.
-speaker2: i thought the tradition of the old west was hospitality.
-speaker1: i'm trying to be hospitable, mr. macreedy. going to be around for a while?
-speaker2: could be.
-speaker1: how would you like to go hunting tomorrow? i'd be proud to have you as my guest.
-speaker2: thanks, but i'm afraid not.
-speaker1: you mean, because of your arm? i knew a man once, lost an arm in a threshing accident. used to hunt all the time. but he was quite a man. he... i'm sorry. i... what i mean is -- if there's anything i can do while you're around...
-speaker2: i'm looking for... never mind. thanks, anyway.
-speaker1: you're looking for what, mr. macreedy?
-speaker2: a man named komako.
-speaker1: komako -- sure, i remember him -- japanese farmer. never had a chance.
-speaker2: no?
-speaker1: he got here in '41 -- just before pearl harbor. three months later he was shipped to one of those relocation centers. tough.
-speaker2: which one did he go to?
-speaker1: who knows?
-speaker2: you think maybe if i wrote him, the letter would be forwarded?
-speaker1: i'm sure it would. write your letter. i'll see it gets out tonight.
-speaker2: it wouldn't be too much trouble?
-speaker1: no trouble at all.
-speaker2: funny. because i think it would be a great deal of trouble for you. it's been a great deal of trouble for me.
+SMITH: mr. macreedy. 
+MACREEDY: that's the friendliest word i've heard since i got here.
+SMITH: my name is smith. i own the triple- bar ranch. i want to apologize for some of the folks in town.
+MACREEDY: they act like they're sitting on a keg.
+SMITH: a keg...? of what?
+MACREEDY: i don't know. maybe diamonds. maybe gunpowder.
+SMITH: no. nothing like that. we're a little suspicious of strangers is all. hangover from the old days. the old west.
+MACREEDY: i thought the tradition of the old west was hospitality.
+SMITH: i'm trying to be hospitable, mr. macreedy. going to be around for a while?
+MACREEDY: could be.
+SMITH: how would you like to go hunting tomorrow? i'd be proud to have you as my guest.
+MACREEDY: thanks, but i'm afraid not.
+SMITH: you mean, because of your arm? i knew a man once, lost an arm in a threshing accident. used to hunt all the time. but he was quite a man. he... i'm sorry. i... what i mean is -- if there's anything i can do while you're around...
+MACREEDY: i'm looking for... never mind. thanks, anyway.
+SMITH: you're looking for what, mr. macreedy?
+MACREEDY: a man named komako.
+SMITH: komako -- sure, i remember him -- japanese farmer. never had a chance.
+MACREEDY: no?
+SMITH: he got here in '41 -- just before pearl harbor. three months later he was shipped to one of those relocation centers. tough.
+MACREEDY: which one did he go to?
+SMITH: who knows?
+MACREEDY: you think maybe if i wrote him, the letter would be forwarded?
+SMITH: i'm sure it would. write your letter. i'll see it gets out tonight.
+MACREEDY: it wouldn't be too much trouble?
+SMITH: no trouble at all.
+MACREEDY: funny. because i think it would be a great deal of trouble for you. it's been a great deal of trouble for me.
 
-speaker1: i wrote these letters to komako. they weren't forwarded. they were returned -- address unknown. so i guess there's nothing you can do for me, after all. 
-speaker1: need a little help?
-speaker2: i can manage.
-speaker1: well, i need a little help. i'd like to rent your jeep.
-speaker2: it'll be two dollars an hour, gas extra, and ten dollars for my time.
-speaker3: aren't you going to ask him where he wants to go?
-speaker3: he wants to go to adobe flat.
-speaker1: the road's marked?
-speaker2: yeah. it's about six -- seven miles down...
-speaker1: then i won't need your time.
-speaker2: i thought you might... need a little help.
-speaker1: i can manage.
-speaker3: liz. do you have a license to rent cars? you could get into trouble.
-speaker1: it's all right. i won't mention it to the sheriff.
-speaker4: smith turns his attention to the girl...
-speaker3: you shouldn't have done that.
-speaker2: i thought it would be better if he went out there and got done with it. i mean, what could he find out?
+MACREEDY: i wrote these letters to komako. they weren't forwarded. they were returned -- address unknown. so i guess there's nothing you can do for me, after all. 
+MACREEDY: need a little help?
+LIZ: i can manage.
+MACREEDY: well, i need a little help. i'd like to rent your jeep.
+LIZ: it'll be two dollars an hour, gas extra, and ten dollars for my time.
+SMITH: aren't you going to ask him where he wants to go?
+SMITH: he wants to go to adobe flat.
+MACREEDY: the road's marked?
+LIZ: yeah. it's about six -- seven miles down...
+MACREEDY: then i won't need your time.
+LIZ: i thought you might... need a little help.
+MACREEDY: i can manage.
+SMITH: liz. do you have a license to rent cars? you could get into trouble.
+MACREEDY: it's all right. i won't mention it to the sheriff.
+MED. SHOT - SMITH AND LIZ: smith turns his attention to the girl...
+SMITH: you shouldn't have done that.
+LIZ: i thought it would be better if he went out there and got done with it. i mean, what could he find out?
 
-speaker1: what did he want -- the stranger? 
-speaker2: he asked about komako. you think he'll kick up a storm?
-speaker1: a storm? about what?
-speaker2: i don't know. all i know, i don't want trouble around here. never again.
-speaker1: trouble? you don't know anything about komako, now do you, tim?
-speaker2: i do not. that's the point.
-speaker1: the point is, what you don't know can't hurt you.
-speaker2: maybe there's something i ought to know. maybe i ought to ask you... before the stranger comes back and starts breathing down my neck.
-speaker1: tim, you're a lost ball in the high weeds. i told you a long time ago, nothing happened for you to worry about.
-speaker2: thing is, i do worry. maybe i ain't much else, but i'm sure a worrier. and i'm still the law.
-speaker1: then do your job, tim.
-speaker2: what is my job, mr. smith? maybe i'd better find out before macreedy does it for me.
-speaker1: macreedy'll do nothing, tim. and neither will you.
-speaker2: suppose i decide to try?
-speaker1: that would be dangerous. you got the body of a hippo, tim, but the brain of a rabbit. don't overtax it.
-speaker2: yes, mr. smith.
+SMITH: what did he want -- the stranger? 
+TIM: he asked about komako. you think he'll kick up a storm?
+SMITH: a storm? about what?
+TIM: i don't know. all i know, i don't want trouble around here. never again.
+SMITH: trouble? you don't know anything about komako, now do you, tim?
+TIM: i do not. that's the point.
+SMITH: the point is, what you don't know can't hurt you.
+TIM: maybe there's something i ought to know. maybe i ought to ask you... before the stranger comes back and starts breathing down my neck.
+SMITH: tim, you're a lost ball in the high weeds. i told you a long time ago, nothing happened for you to worry about.
+TIM: thing is, i do worry. maybe i ain't much else, but i'm sure a worrier. and i'm still the law.
+SMITH: then do your job, tim.
+TIM: what is my job, mr. smith? maybe i'd better find out before macreedy does it for me.
+SMITH: macreedy'll do nothing, tim. and neither will you.
+TIM: suppose i decide to try?
+SMITH: that would be dangerous. you got the body of a hippo, tim, but the brain of a rabbit. don't overtax it.
+TIM: yes, mr. smith.
 
-speaker1: from l.a.? 
-speaker2: yeah! from that private detective!
-speaker1: what does he say? who is this guy?
-speaker2: never heard of him, that's what he says! he checked and there's no john j. macreedy. no listing -- no record -- no information. nothing.
-speaker3: where does that leave us?
-speaker4: i'll tell you where...
-speaker5: shut up!
+HECTOR: from l.a.? 
+HASTINGS: yeah! from that private detective!
+HECTOR: what does he say? who is this guy?
+HASTINGS: never heard of him, that's what he says! he checked and there's no john j. macreedy. no listing -- no record -- no information. nothing.
+PETE: where does that leave us?
+COLEY: i'll tell you where...
+SMITH: shut up!
 
-speaker1: now, coley...? 
-speaker2: i think macreedy's a nothing. a nobody.
-speaker1: is he?
-speaker2: so there's nothing to worry about.
-speaker1: isn't there? you got brains, you have.
-speaker2: but what can he find out? that komako was...? suppose he finds out?
-speaker1: a nobody like macreedy can raise a pretty big stink. the point is... who would miss a nobody like macreedy if he just, say, disappeared? who, coley?
-speaker1: coley!
-speaker2: huh?
-speaker3: why don't we wait...
-speaker1: wait for what?
-speaker3: i mean, maybe he won't find anything. maybe he'll just go away.
-speaker1: not macreedy. i know those maimed guys. their minds get twisted. they put on hair shirts and act like martyrs. they're all of 'em do- gooders, trouble makers, freaks.
-speaker3: but there's no danger yet. let's wait and see.
-speaker1: no danger, he says. this guy's like a carrier of small pox. since he arrives, there's been a fever in this town, an infection. and it's spreading. hastings has been in a sick sweat, running around, shooting off his face. doc, for the first time in four years, gets snotty with me. liz... ...your own sister -- acts like a fool.
-speaker3: she's just a kid.
-speaker1: kid! she must have strained every muscle in her head to get so stupid! renting him a jeep! and tim -- tim, the rum-dum. tim suddenly decides he's gotta act like a sheriff. and he says what's the danger.
-speaker1: of course, if you want to take the chance...
-speaker2: not me.
-speaker1: all right, then...
-speaker3: it's not all right! you're so mighty quick to kill -- he's not an animal!
-speaker1: well, listen to little spitfire... you sniveling toad! i'm saving your neck! if i don't, who will?
-speaker3: all i said...
-speaker1: who will?! doc? tim? your sister, with the rocks in her head?
-speaker1: one thing about your sister -- she's got twice the guts you have. you're only fit for running away.
-speaker2: it's too late for that. he's in this, and he ain't running no place.
-speaker1: all right, then...
+SMITH: now, coley...? 
+COLEY: i think macreedy's a nothing. a nobody.
+SMITH: is he?
+COLEY: so there's nothing to worry about.
+SMITH: isn't there? you got brains, you have.
+COLEY: but what can he find out? that komako was...? suppose he finds out?
+SMITH: a nobody like macreedy can raise a pretty big stink. the point is... who would miss a nobody like macreedy if he just, say, disappeared? who, coley?
+SMITH: coley!
+COLEY: huh?
+PETE: why don't we wait...
+SMITH: wait for what?
+PETE: i mean, maybe he won't find anything. maybe he'll just go away.
+SMITH: not macreedy. i know those maimed guys. their minds get twisted. they put on hair shirts and act like martyrs. they're all of 'em do- gooders, trouble makers, freaks.
+PETE: but there's no danger yet. let's wait and see.
+SMITH: no danger, he says. this guy's like a carrier of small pox. since he arrives, there's been a fever in this town, an infection. and it's spreading. hastings has been in a sick sweat, running around, shooting off his face. doc, for the first time in four years, gets snotty with me. liz... ...your own sister -- acts like a fool.
+PETE: she's just a kid.
+SMITH: kid! she must have strained every muscle in her head to get so stupid! renting him a jeep! and tim -- tim, the rum-dum. tim suddenly decides he's gotta act like a sheriff. and he says what's the danger.
+SMITH: of course, if you want to take the chance...
+COLEY: not me.
+SMITH: all right, then...
+PETE: it's not all right! you're so mighty quick to kill -- he's not an animal!
+SMITH: well, listen to little spitfire... you sniveling toad! i'm saving your neck! if i don't, who will?
+PETE: all i said...
+SMITH: who will?! doc? tim? your sister, with the rocks in her head?
+SMITH: one thing about your sister -- she's got twice the guts you have. you're only fit for running away.
+COLEY: it's too late for that. he's in this, and he ain't running no place.
+SMITH: all right, then...
 
-speaker1: let smith find himself a new boy. i can't take it another day. if you're a sheriff, they gotta respect you, otherwise you can't do your job. they just laugh. 
-speaker2: i don't laugh, tim.
-speaker1: why don't you?
-speaker2: cut it out, tim.
-speaker1: you should!
-speaker2: in the name of well-adjusted manhood, snap out of it. you're going to get a complex or something.
-speaker1: four years ago if i'd of done my job... if i'd of checked up and found out what happened. but i didn't! just like smith figured.
-speaker2: what could you have found out? they told you a story. you had to believe it.
-speaker1: do you believe it?
-speaker1: do you know what happened?
-speaker2: i don't know. i lead a quiet, contemplative life.
-speaker1: me, i didn't even try to find out. don't you understand? when you wear that badge, you're the law. and when something happens, against the law, you're supposed to do something about it. it's your job. me... i did nothin'. and that's what's eatin' me. what kind of prescription you got for that?
-speaker2: i don't know. i've never been able to find one for myself.
-speaker2: only one thing -- don't quit, tim.
-speaker1: why not?
-speaker2: maybe this feller macreedy has the prescription.
-speaker3: sequence omitted from original script.
+TIM: let smith find himself a new boy. i can't take it another day. if you're a sheriff, they gotta respect you, otherwise you can't do your job. they just laugh. 
+DOC: i don't laugh, tim.
+TIM: why don't you?
+DOC: cut it out, tim.
+TIM: you should!
+DOC: in the name of well-adjusted manhood, snap out of it. you're going to get a complex or something.
+TIM: four years ago if i'd of done my job... if i'd of checked up and found out what happened. but i didn't! just like smith figured.
+DOC: what could you have found out? they told you a story. you had to believe it.
+TIM: do you believe it?
+TIM: do you know what happened?
+DOC: i don't know. i lead a quiet, contemplative life.
+TIM: me, i didn't even try to find out. don't you understand? when you wear that badge, you're the law. and when something happens, against the law, you're supposed to do something about it. it's your job. me... i did nothin'. and that's what's eatin' me. what kind of prescription you got for that?
+DOC: i don't know. i've never been able to find one for myself.
+DOC: only one thing -- don't quit, tim.
+TIM: why not?
+DOC: maybe this feller macreedy has the prescription.
+OUT: sequence omitted from original script.
 
-speaker1: well, if it's not macreedy - the world's champion road hog. 
-speaker2: yeah. it's a small world.
-speaker1: but such an unfriendly one. now why did you want to crowd me off the road?
-speaker2: i'm kind of sorry if i've incurred your displeasure.
-speaker1: look what you did to my car.
-speaker2: if there's anything i can do to make up for it...
-speaker1: you ought to be careful, man -- all that one-arm driving.
-speaker2: i'd be glad to pay the damages.
-speaker1: it's a threat to life and limb.
-speaker2: fortunately no one was hurt.
-speaker1: you could get yourself killed that way -- nosin' all over the countryside.
-speaker2: that's the real danger, i can see that.
-speaker1: why that's pretty smart of you. how long you intend to keep it up?
-speaker2: i'm getting out of here, right now.
+COLEY: well, if it's not macreedy - the world's champion road hog. 
+MACREEDY: yeah. it's a small world.
+COLEY: but such an unfriendly one. now why did you want to crowd me off the road?
+MACREEDY: i'm kind of sorry if i've incurred your displeasure.
+COLEY: look what you did to my car.
+MACREEDY: if there's anything i can do to make up for it...
+COLEY: you ought to be careful, man -- all that one-arm driving.
+MACREEDY: i'd be glad to pay the damages.
+COLEY: it's a threat to life and limb.
+MACREEDY: fortunately no one was hurt.
+COLEY: you could get yourself killed that way -- nosin' all over the countryside.
+MACREEDY: that's the real danger, i can see that.
+COLEY: why that's pretty smart of you. how long you intend to keep it up?
+MACREEDY: i'm getting out of here, right now.
 
-speaker1: still expecting that convention? 
-speaker2: what...?
-speaker1: if you're expecting any extra cowboys, my room is available.
-speaker2: you're checking out?
-speaker1: is there a train through here tonight?
-speaker2: nothing till tomorrow morning. the streamliner.
-speaker1: i know that. how about freights? milk train?
-speaker2: tomorrow. after the streamliner.
-speaker1: busses?
-speaker2: closest stop is sand city -- thirty- two miles away. you're in such a hurry, you should have never got off here.
-speaker1: i'm inclined to agree with you.
-speaker3: sequence omitted from original script.
+MACREEDY: still expecting that convention? 
+PETE: what...?
+MACREEDY: if you're expecting any extra cowboys, my room is available.
+PETE: you're checking out?
+MACREEDY: is there a train through here tonight?
+PETE: nothing till tomorrow morning. the streamliner.
+MACREEDY: i know that. how about freights? milk train?
+PETE: tomorrow. after the streamliner.
+MACREEDY: busses?
+PETE: closest stop is sand city -- thirty- two miles away. you're in such a hurry, you should have never got off here.
+MACREEDY: i'm inclined to agree with you.
+OUT: sequence omitted from original script.
 
-speaker1: anybody home? 
-speaker2: sequence omitted from original script.
+MACREEDY: anybody home? 
+OUT: sequence omitted from original script.
 
-speaker1: ...it's not there... 
-speaker2: in that case, where do you suggest i look?
-speaker1: the jeep's not for rent.
-speaker2: it was, just a few hours ago.
-speaker1: things change.
-speaker2: sure. and smith is the kid who changes 'em.
-speaker2: miss brooks. what's the matter with this town of yours?
-speaker1: nothing. it's none of your concern.
-speaker2: then why are they all so concerned about me?
-speaker1: am i concerned?
-speaker2: no, you're not. but...
-speaker1: but what?
-speaker2: but it strikes me you're a little too unconcerned. so unconcerned you won't even rent me a jeep.
-speaker1: i don't run a taxi service. i don't have a license.
-speaker2: i wish others in this town were as scrupulously devoted to law and order as you are.
-speaker1: why don't you lay off! if you don't like it here, go back where you came from!
-speaker2: funny thing. they try to kill me, and you feel persecuted.
-speaker1: i don't want to get involved.
-speaker2: involved in what?
-speaker1: whatever you're up to. whatever happens, i've got to go on living here. these people are my neighbors, my friends.
-speaker2: all of them?
-speaker1: this is my town, mr. macreedy, like it or not. whatever happened here, it was long ago, now it's... it's...
-speaker2: dead and buried? whatever did happen, you don't seem to like it. why do you stick around?
-speaker1: because of my brother. pete. he'd never leave.
-speaker2: didn't you ever think of going without him. you're sort of independent and he's... he's...
-speaker1: weak. i know. that's why i couldn't leave him.
-speaker2: what did your brother do?
-speaker1: he... i... what do you care? what do you care about black rock?
-speaker2: nothing much. only, there're not many places like this in america -- but even one is too many. because i think something sort of bad happened here. something i can't find the handle to...
-speaker1: you just think so. you don't know.
-speaker2: this much i know -- the rule of law has been suspended in this town. the gorillas have taken over.
-speaker1: you're a fine one to talk! you come in here, sneaking around, trying to steal the key to my jeep.
-speaker2: i kind of had a notion that was the only way i could get it.
+LIZ: ...it's not there... 
+MACREEDY: in that case, where do you suggest i look?
+LIZ: the jeep's not for rent.
+MACREEDY: it was, just a few hours ago.
+LIZ: things change.
+MACREEDY: sure. and smith is the kid who changes 'em.
+MACREEDY: miss brooks. what's the matter with this town of yours?
+LIZ: nothing. it's none of your concern.
+MACREEDY: then why are they all so concerned about me?
+LIZ: am i concerned?
+MACREEDY: no, you're not. but...
+LIZ: but what?
+MACREEDY: but it strikes me you're a little too unconcerned. so unconcerned you won't even rent me a jeep.
+LIZ: i don't run a taxi service. i don't have a license.
+MACREEDY: i wish others in this town were as scrupulously devoted to law and order as you are.
+LIZ: why don't you lay off! if you don't like it here, go back where you came from!
+MACREEDY: funny thing. they try to kill me, and you feel persecuted.
+LIZ: i don't want to get involved.
+MACREEDY: involved in what?
+LIZ: whatever you're up to. whatever happens, i've got to go on living here. these people are my neighbors, my friends.
+MACREEDY: all of them?
+LIZ: this is my town, mr. macreedy, like it or not. whatever happened here, it was long ago, now it's... it's...
+MACREEDY: dead and buried? whatever did happen, you don't seem to like it. why do you stick around?
+LIZ: because of my brother. pete. he'd never leave.
+MACREEDY: didn't you ever think of going without him. you're sort of independent and he's... he's...
+LIZ: weak. i know. that's why i couldn't leave him.
+MACREEDY: what did your brother do?
+LIZ: he... i... what do you care? what do you care about black rock?
+MACREEDY: nothing much. only, there're not many places like this in america -- but even one is too many. because i think something sort of bad happened here. something i can't find the handle to...
+LIZ: you just think so. you don't know.
+MACREEDY: this much i know -- the rule of law has been suspended in this town. the gorillas have taken over.
+LIZ: you're a fine one to talk! you come in here, sneaking around, trying to steal the key to my jeep.
+MACREEDY: i kind of had a notion that was the only way i could get it.
 
-speaker1: mr. macreedy. i'd like to ask you a few questions... as long as you're around... 
-speaker2: i'm around all right.
-speaker2: you probably know that miss brooks is no longer in the car rental business?
-speaker1: good. i wouldn't want to see that girl get into trouble...
-speaker2: you wouldn't?
-speaker1: ...what with rental permits, gas rationing... you know what i mean.
-speaker2: sure. i admire your sturdy sense of responsibility.
-speaker1: it's just, a girl like that has a future.
-speaker2: let's talk about my future.
-speaker1: do you have the time?
-speaker2: i don't seem to be going any place.
-speaker1: i hear you handle a jeep real well.
-speaker2: i have a way with jeeps. a certain familiarity.
-speaker1: i think i understand. you're an army man. where'd you get it?
-speaker2: italy.
-speaker1: tough. i tried to get in myself, the day after those rats bombed pearl harbor.
-speaker2: what stopped you?
-speaker1: the physical. they wouldn't take me. the morning after pearl, i was the first man in line at marine recruiting in sand city. and they wouldn't take me.
-speaker2: tough.
-speaker1: what do you do in los angeles, mr. macreedy?
-speaker2: i'm retired.
-speaker1: you're a pretty young man...
-speaker2: you might say i was forced into retirement.
-speaker1: what were you looking for in adobe flat?
-speaker2: komako, like i told you. like you told me, he wasn't there.
-speaker2: what's so funny?
-speaker1: nothing. it's just -- i don't believe you. i believe a man is as big as what he seeks. i believe you're a big man, mr. macreedy.
-speaker2: flattery will get you nowhere.
-speaker1: why would a man like you be looking for a lousy farmer?
-speaker2: maybe i'm not so big.
-speaker1: yes, you are. i believe that a man is as big as the things that make him mad. nobody around here has been big enough to make you mad.
-speaker2: what makes you mad, mr. smith?
-speaker1: me...? nothing in particular.
-speaker2: i see. you're a big man, too. only... ...the japanese make you mad...
-speaker1: that's different. after the sneak attack on pearl harbor... after bataan...
-speaker2: ...and komako made you mad.
-speaker1: it's the same thing. loyal japanese-americans -- that's a laugh. they're mad dogs. look at corregidor, the death march.
-speaker2: what did komako have to do with corregidor?
-speaker1: wasn't he a jap? look, macreedy, there's a law in this county against shooting dogs. but if i see a mad dog loose, i don't wait for him to bite me. i swear, you're beginning to make me mad.
-speaker2: all strangers do.
-speaker1: not all. some of 'em. when they come here snooping.
-speaker2: snooping for what?
-speaker1: i mean, outsiders coming around, looking for something.
-speaker2: for what?
-speaker1: i don't know. people are always looking for something in this part of the west. to the historian, it's the "old west." to the book writers, it's the "wild west." to the businessmen, it's the "undeveloped west." they all say we're backward and poor, and i guess we are. we don't even have enough water. but this place, to us, is our west. i just wish they'd leave us alone.
-speaker2: leave you alone to do what?
-speaker1: i don't know what you mean.
-speaker2: what happened to komako?
-speaker1: he went away, i told you. shortly after he left, a bunch of kids got fooling around out his place. they burned it down. it was one of those things -- you know how kids are.
-speaker1: what's funny?
-speaker2: nothing. only -- i don't believe you. any more than i believed you about the letters.
-speaker1: you don't seem to believe anything i say.
-speaker2: yes, i do -- about businessmen, for instance. i think a businessman would be interested in adobe flat.
-speaker1: why?
-speaker2: all that land lying fallow. could be put to some use. like a graveyard. a historian might be interested, too. because of the strange customs around here, such as burying cattle...
-speaker1: burying cattle...?
-speaker2: see these wild flowers? that means a grave. i've seen it overseas. i figure it isn't a man's grave or someone would have marked it. sort of a mystery, isn't it?
-speaker1: sort of. maybe you can figure it out.
-speaker2: maybe.
-speaker1: why not give it a whirl? it'll help you pass the time... ...for a while.
-speaker2: not interested. i got other things to do.
+SMITH: mr. macreedy. i'd like to ask you a few questions... as long as you're around... 
+MACREEDY: i'm around all right.
+MACREEDY: you probably know that miss brooks is no longer in the car rental business?
+SMITH: good. i wouldn't want to see that girl get into trouble...
+MACREEDY: you wouldn't?
+SMITH: ...what with rental permits, gas rationing... you know what i mean.
+MACREEDY: sure. i admire your sturdy sense of responsibility.
+SMITH: it's just, a girl like that has a future.
+MACREEDY: let's talk about my future.
+SMITH: do you have the time?
+MACREEDY: i don't seem to be going any place.
+SMITH: i hear you handle a jeep real well.
+MACREEDY: i have a way with jeeps. a certain familiarity.
+SMITH: i think i understand. you're an army man. where'd you get it?
+MACREEDY: italy.
+SMITH: tough. i tried to get in myself, the day after those rats bombed pearl harbor.
+MACREEDY: what stopped you?
+SMITH: the physical. they wouldn't take me. the morning after pearl, i was the first man in line at marine recruiting in sand city. and they wouldn't take me.
+MACREEDY: tough.
+SMITH: what do you do in los angeles, mr. macreedy?
+MACREEDY: i'm retired.
+SMITH: you're a pretty young man...
+MACREEDY: you might say i was forced into retirement.
+SMITH: what were you looking for in adobe flat?
+MACREEDY: komako, like i told you. like you told me, he wasn't there.
+MACREEDY: what's so funny?
+SMITH: nothing. it's just -- i don't believe you. i believe a man is as big as what he seeks. i believe you're a big man, mr. macreedy.
+MACREEDY: flattery will get you nowhere.
+SMITH: why would a man like you be looking for a lousy farmer?
+MACREEDY: maybe i'm not so big.
+SMITH: yes, you are. i believe that a man is as big as the things that make him mad. nobody around here has been big enough to make you mad.
+MACREEDY: what makes you mad, mr. smith?
+SMITH: me...? nothing in particular.
+MACREEDY: i see. you're a big man, too. only... ...the japanese make you mad...
+SMITH: that's different. after the sneak attack on pearl harbor... after bataan...
+MACREEDY: ...and komako made you mad.
+SMITH: it's the same thing. loyal japanese-americans -- that's a laugh. they're mad dogs. look at corregidor, the death march.
+MACREEDY: what did komako have to do with corregidor?
+SMITH: wasn't he a jap? look, macreedy, there's a law in this county against shooting dogs. but if i see a mad dog loose, i don't wait for him to bite me. i swear, you're beginning to make me mad.
+MACREEDY: all strangers do.
+SMITH: not all. some of 'em. when they come here snooping.
+MACREEDY: snooping for what?
+SMITH: i mean, outsiders coming around, looking for something.
+MACREEDY: for what?
+SMITH: i don't know. people are always looking for something in this part of the west. to the historian, it's the "old west." to the book writers, it's the "wild west." to the businessmen, it's the "undeveloped west." they all say we're backward and poor, and i guess we are. we don't even have enough water. but this place, to us, is our west. i just wish they'd leave us alone.
+MACREEDY: leave you alone to do what?
+SMITH: i don't know what you mean.
+MACREEDY: what happened to komako?
+SMITH: he went away, i told you. shortly after he left, a bunch of kids got fooling around out his place. they burned it down. it was one of those things -- you know how kids are.
+SMITH: what's funny?
+MACREEDY: nothing. only -- i don't believe you. any more than i believed you about the letters.
+SMITH: you don't seem to believe anything i say.
+MACREEDY: yes, i do -- about businessmen, for instance. i think a businessman would be interested in adobe flat.
+SMITH: why?
+MACREEDY: all that land lying fallow. could be put to some use. like a graveyard. a historian might be interested, too. because of the strange customs around here, such as burying cattle...
+SMITH: burying cattle...?
+MACREEDY: see these wild flowers? that means a grave. i've seen it overseas. i figure it isn't a man's grave or someone would have marked it. sort of a mystery, isn't it?
+SMITH: sort of. maybe you can figure it out.
+MACREEDY: maybe.
+SMITH: why not give it a whirl? it'll help you pass the time... ...for a while.
+MACREEDY: not interested. i got other things to do.
 
-speaker1: hi. pull up a chair. 
-speaker2: can i use your phone?
-speaker1: help yourself. you know, you're one of the few people who's ever been back here i can say that to.
-speaker1: it's 4-2-4.
-speaker2: what's 4-2-4?
-speaker1: if i've got you pegged -- and i think i have -- you're calling the state police. but if i was you -- and i'm purely glad i'm not -- i'd look it up myself. i wouldn't trust anybody around here, including me.
-speaker2: thanks.
+DOC: hi. pull up a chair. 
+MACREEDY: can i use your phone?
+DOC: help yourself. you know, you're one of the few people who's ever been back here i can say that to.
+DOC: it's 4-2-4.
+MACREEDY: what's 4-2-4?
+DOC: if i've got you pegged -- and i think i have -- you're calling the state police. but if i was you -- and i'm purely glad i'm not -- i'd look it up myself. i wouldn't trust anybody around here, including me.
+MACREEDY: thanks.
 
-speaker1: i know -- don't tell me -- lines all busy. they'll be busy all day. 
-speaker2: don't look at me like that.
-speaker1: like what?
-speaker2: like i'm a potential customer.
-speaker1: everybody is -- and i get 'em coming and going.
-speaker1: first i sell 'em a piece of land. think they farm it? nope. they dig for gold.
-speaker1: they rip off the top soil of ten winding hills. they sprint in here, fog-heaved with excitement, lugging nuggets, big and bright and shiny.
-speaker1: is it gold?
-speaker1: it is not! do they quit? they do not!
-speaker1: then they decide to farm. farm! in country so dry you have to prime a man before he can spit, and before you can say "fat sam" they're stalled, stranded and starving. they get weevil- brained and buttsprung...
-speaker1: so i bury 'em. but why should i bore you with my triumphs?
-speaker2: yeah. i've got a problem of my own.
-speaker1: they're going to kill you with no hard feelings.
-speaker2: and you'll just sit on your hands and let them.
-speaker1: don't get waspish with me, young feller.
-speaker2: sorry.
-speaker1: i feel for you, but i'm consumed with apathy. why should i mix in?
-speaker2: to save a life.
-speaker1: i got enough trouble saving my own. i try to live right and drink my orange juice every day. but mostly i try to mind my own business. which is something i'd advise you to do.
-speaker2: it's a little late for that...
-speaker1: you can still get out of town. and you'd better get out like a whisper.
-speaker2: how can i?
-speaker1: i got sort of a limousine at your disposal.
-speaker2: where is it?
-speaker1: out back.
+DOC: i know -- don't tell me -- lines all busy. they'll be busy all day. 
+MACREEDY: don't look at me like that.
+DOC: like what?
+MACREEDY: like i'm a potential customer.
+DOC: everybody is -- and i get 'em coming and going.
+DOC: first i sell 'em a piece of land. think they farm it? nope. they dig for gold.
+DOC: they rip off the top soil of ten winding hills. they sprint in here, fog-heaved with excitement, lugging nuggets, big and bright and shiny.
+DOC: is it gold?
+DOC: it is not! do they quit? they do not!
+DOC: then they decide to farm. farm! in country so dry you have to prime a man before he can spit, and before you can say "fat sam" they're stalled, stranded and starving. they get weevil- brained and buttsprung...
+DOC: so i bury 'em. but why should i bore you with my triumphs?
+MACREEDY: yeah. i've got a problem of my own.
+DOC: they're going to kill you with no hard feelings.
+MACREEDY: and you'll just sit on your hands and let them.
+DOC: don't get waspish with me, young feller.
+MACREEDY: sorry.
+DOC: i feel for you, but i'm consumed with apathy. why should i mix in?
+MACREEDY: to save a life.
+DOC: i got enough trouble saving my own. i try to live right and drink my orange juice every day. but mostly i try to mind my own business. which is something i'd advise you to do.
+MACREEDY: it's a little late for that...
+DOC: you can still get out of town. and you'd better get out like a whisper.
+MACREEDY: how can i?
+DOC: i got sort of a limousine at your disposal.
+MACREEDY: where is it?
+DOC: out back.
 
-speaker1: won't start. 
-speaker2: something wrong?
-speaker1: just won't start...
-speaker3: could be the wirin'. why don't you look under the hood?
-speaker1: for that i thank you. how much time you think i've got before...?
-speaker2: they'll wait at least till dark. they'd be afraid to see each other's faces.
-speaker1: well, so long, doc. i can't say it's been charming but...
-speaker2: where are you going?
-speaker1: i don't know. but i'm going on foot.
-speaker2: that's no good. you stray ten yards off main street, and you'll be stone, cold dead. that's the situation, in a nut.
-speaker4: focal point: a hopeless snarl of ignition wires.
+MACREEDY: won't start. 
+DOC: something wrong?
+MACREEDY: just won't start...
+HECTOR: could be the wirin'. why don't you look under the hood?
+MACREEDY: for that i thank you. how much time you think i've got before...?
+DOC: they'll wait at least till dark. they'd be afraid to see each other's faces.
+MACREEDY: well, so long, doc. i can't say it's been charming but...
+DOC: where are you going?
+MACREEDY: i don't know. but i'm going on foot.
+DOC: that's no good. you stray ten yards off main street, and you'll be stone, cold dead. that's the situation, in a nut.
+INSERT - THE ENGINE: focal point: a hopeless snarl of ignition wires.
 
-speaker1: it's the wirin', like i said. now wasn't that a good guess? 
-speaker2: it can be fixed.
-speaker1: easy. unless, of course, this here wire... ...got broke or something.
-speaker3: do the nice little things, like keep your big fat nose out of my business.
-speaker1: yep. it's the wirin'.
-speaker3: i'm sorry, son. you got to admit, i tried.
-speaker2: maybe...
-speaker3: maybe what?
-speaker2: if i can't get out of town, maybe i can get the state cops in.
-speaker3: you tried the phone, didn't you? you know what happened, don't you?
-speaker2: there's another way. i'll be seeing you, doc.
-speaker3: i hope you'll be seeing me.
+HECTOR: it's the wirin', like i said. now wasn't that a good guess? 
+MACREEDY: it can be fixed.
+HECTOR: easy. unless, of course, this here wire... ...got broke or something.
+DOC: do the nice little things, like keep your big fat nose out of my business.
+HECTOR: yep. it's the wirin'.
+DOC: i'm sorry, son. you got to admit, i tried.
+MACREEDY: maybe...
+DOC: maybe what?
+MACREEDY: if i can't get out of town, maybe i can get the state cops in.
+DOC: you tried the phone, didn't you? you know what happened, don't you?
+MACREEDY: there's another way. i'll be seeing you, doc.
+DOC: i hope you'll be seeing me.
 
-speaker1: you notifyin' the state po-lice? 
-speaker2: that's what it says.
-speaker1: lemonade?
-speaker1: it's hot as billy-be-durned.
-speaker1: don't you like lemonade?
-speaker2: i never thought much about it.
-speaker1: it don't have the muzzle velocity of some other drinks drunk around here, but it's good for what ails you.
-speaker2: what ails you, mr. hastings?
-speaker1: me...?
-speaker2: why are you so upset about... ...this wire?
-speaker1: me...?
-speaker2: are you afraid, mr. hastings?
-speaker1: me...? i guess i am. but what's the use talkin'...? you don't know what it's like, being scared.
-speaker2: you want me to describe the symptoms? right this minute i'm scared half to death.
-speaker1: you should be.
-speaker2: yeah. but not of the state police.
-speaker1: neither am i.
-speaker2: then what are you afraid of? the grave at adobe flat? a grave nobody marked, nobody knows anything about.
-speaker1: that ain't it, either.
-speaker2: is it smith? is it?!
-speaker1: look, mr. macreedy. i'm just a good neighbor...
-speaker2: to smith you are. how about to komako?
-speaker1: i never seen komako in my life. honest.
-speaker2: then send that wire, and bring me the answer. you'll do that, won't you?
-speaker1: yes, sir.
+HASTINGS: you notifyin' the state po-lice? 
+MACREEDY: that's what it says.
+HASTINGS: lemonade?
+HASTINGS: it's hot as billy-be-durned.
+HASTINGS: don't you like lemonade?
+MACREEDY: i never thought much about it.
+HASTINGS: it don't have the muzzle velocity of some other drinks drunk around here, but it's good for what ails you.
+MACREEDY: what ails you, mr. hastings?
+HASTINGS: me...?
+MACREEDY: why are you so upset about... ...this wire?
+HASTINGS: me...?
+MACREEDY: are you afraid, mr. hastings?
+HASTINGS: me...? i guess i am. but what's the use talkin'...? you don't know what it's like, being scared.
+MACREEDY: you want me to describe the symptoms? right this minute i'm scared half to death.
+HASTINGS: you should be.
+MACREEDY: yeah. but not of the state police.
+HASTINGS: neither am i.
+MACREEDY: then what are you afraid of? the grave at adobe flat? a grave nobody marked, nobody knows anything about.
+HASTINGS: that ain't it, either.
+MACREEDY: is it smith? is it?!
+HASTINGS: look, mr. macreedy. i'm just a good neighbor...
+MACREEDY: to smith you are. how about to komako?
+HASTINGS: i never seen komako in my life. honest.
+MACREEDY: then send that wire, and bring me the answer. you'll do that, won't you?
+HASTINGS: yes, sir.
 
-speaker1: i tell you, i won't have anything to do with it. 
-speaker2: live and let live, that's what i say.
-speaker3: i don't know. i just don't know.
-speaker4: you gonna brood about it? or you want another beer?
-speaker3: a beer, i guess. only...
+KROOL: i tell you, i won't have anything to do with it. 
+MURTRY: live and let live, that's what i say.
+BENTHAM: i don't know. i just don't know.
+LENARD: you gonna brood about it? or you want another beer?
+BENTHAM: a beer, i guess. only...
 
-speaker1: what'll you have? 
-speaker2: what have you got?
-speaker1: chili wit' beans.
-speaker2: anything else?
-speaker1: chili wit'out beans.
-speaker1: you don't like the taste, that's what they make ketchup for.
-speaker2: in that case, i'll have it. and a cup of coffee.
-speaker3: you still around? i thought you didn't like this place.
-speaker2: going to, or coming from?
-speaker3: staying put.
-speaker2: no comment.
-speaker3: no comment, he says. no comment, and all the time he's got my chair.
-speaker2: i always seem to be taking somebody's place around here.
-speaker3: this seat ain't comfortable.
-speaker2: i was afraid of that.
-speaker3: i think i'd like the seat you're on.
-speaker4: he's as changeable as a prairie fire.
-speaker3: i hope that ain't too much.
-speaker2: your friend's a very [...] fellow.
-speaker4: sort of unpredictable, too. got a temper like a rattlesnake.
-speaker3: that's me all over. i'm half hoss, half alligator. mess with me, i'll kick a lung outta you. what do you think of that?
-speaker2: no comment.
-speaker3: talking to you is like pulling teeth. you wear me out. you're a yellow-bellied lover. am i right or wrong?
-speaker2: you're not only wrong -- you're wrong at the top of your voice.
-speaker3: you don't like my voice?
-speaker2: i think your friend's trying to start something.
-speaker4: now why-ever would he want to do that?
-speaker2: i don't know. maybe he figures, needle me enough and i'll crack. maybe i'll even fight back. then he or hector -- your other ape -- would beat me to death and cop a plea of self-defense.
-speaker4: i don't think that'll be necessary. you're so scared now you'll probably drown in your own sweat.
-speaker3: before that happens, couldn't i pick a fight with you if i tied one hand behind me...?
-speaker3: if i tied both hands...?
-speaker4: you're still in trouble.
-speaker2: so are you. whatever happens -- you're lost.
-speaker4: you got things a bit twisted...
-speaker2: you killed komako. sooner or later you'll go up for it. not because you killed him -- in this town you probably could have gotten away with it -- but because you didn't even have the guts to do it alone. you put your trust in guys like him... ...and hector -- they're not the most dependable of creatures. sooner or later they'll get the idea you're playing them for saps. what'll you do then -- peel them off, one by one? and in the meantime if any one of them breaks, you'll go down hard. because they got something on you. something to use when things get tough.
-speaker2: and they're getting tougher every minute.
-speaker5: man... man-oh-man.
+SAM: what'll you have? 
+MACREEDY: what have you got?
+SAM: chili wit' beans.
+MACREEDY: anything else?
+SAM: chili wit'out beans.
+SAM: you don't like the taste, that's what they make ketchup for.
+MACREEDY: in that case, i'll have it. and a cup of coffee.
+COLEY: you still around? i thought you didn't like this place.
+MACREEDY: going to, or coming from?
+COLEY: staying put.
+MACREEDY: no comment.
+COLEY: no comment, he says. no comment, and all the time he's got my chair.
+MACREEDY: i always seem to be taking somebody's place around here.
+COLEY: this seat ain't comfortable.
+MACREEDY: i was afraid of that.
+COLEY: i think i'd like the seat you're on.
+SMITH: he's as changeable as a prairie fire.
+COLEY: i hope that ain't too much.
+MACREEDY: your friend's a very [...] fellow.
+SMITH: sort of unpredictable, too. got a temper like a rattlesnake.
+COLEY: that's me all over. i'm half hoss, half alligator. mess with me, i'll kick a lung outta you. what do you think of that?
+MACREEDY: no comment.
+COLEY: talking to you is like pulling teeth. you wear me out. you're a yellow-bellied lover. am i right or wrong?
+MACREEDY: you're not only wrong -- you're wrong at the top of your voice.
+COLEY: you don't like my voice?
+MACREEDY: i think your friend's trying to start something.
+SMITH: now why-ever would he want to do that?
+MACREEDY: i don't know. maybe he figures, needle me enough and i'll crack. maybe i'll even fight back. then he or hector -- your other ape -- would beat me to death and cop a plea of self-defense.
+SMITH: i don't think that'll be necessary. you're so scared now you'll probably drown in your own sweat.
+COLEY: before that happens, couldn't i pick a fight with you if i tied one hand behind me...?
+COLEY: if i tied both hands...?
+SMITH: you're still in trouble.
+MACREEDY: so are you. whatever happens -- you're lost.
+SMITH: you got things a bit twisted...
+MACREEDY: you killed komako. sooner or later you'll go up for it. not because you killed him -- in this town you probably could have gotten away with it -- but because you didn't even have the guts to do it alone. you put your trust in guys like him... ...and hector -- they're not the most dependable of creatures. sooner or later they'll get the idea you're playing them for saps. what'll you do then -- peel them off, one by one? and in the meantime if any one of them breaks, you'll go down hard. because they got something on you. something to use when things get tough.
+MACREEDY: and they're getting tougher every minute.
+DOC: man... man-oh-man.
 
-speaker1: anything for me? 
-speaker2: nothing.
-speaker1: any message -- a telegram?
-speaker2: nothing.
-speaker3: in case you're interested, coley'll live. i'm truly sorry to say.
-speaker4: your friend's pretty tough.
-speaker3: yeah. he's wicked. he defends himself when he's attacked.
-speaker3: well...? you going to just sit here and let time run out?
-speaker1: i'm waiting for a wire. from the state cops.
-speaker3: you sent it through hastings? just don't expect an answer, if that's the way you sent it.
-speaker1: no?
-speaker1: i think that's for me. where's the answer?
-speaker5: you expect an answer -- to a wire that's never sent?
-speaker5: what's so funny?
-speaker1: nothing. just a thought -- -- a thought dazzling in its purity...
-speaker1: you're in a jam, hastings. you gave my telegram to smith.
-speaker3: you warty wretch! that's a federal offense!
-speaker1: you're in deep, too. like i said, it's getting tougher and tougher. sheriff, you'd better do something about this.
-speaker6: i reckon that's right, mr. smith...
-speaker4: don't be a jerk, tim.
-speaker6: divulging information -- there's a law...
-speaker5: tim, you're pathetic.
-speaker6: could be. but i'm still sheriff.
-speaker5: that's the point. you're not sheriff any more. you just lost a job, you're so pathetic.
-speaker5: all right, sheriff. take over.
-speaker3: you can't do that!
-speaker5: can't i? i put him in office. now i take him out.
-speaker4: now. you want to register a complaint?
-speaker4: to register a complaint, boy, you've got to have evidence. you got evidence?
-speaker4: you got a big mouth, boy, makin' accusations, disturbin' the peace. there's laws in this county protectin' innocent folks from big mouths. why, i'd just hate to...
-speaker5: hector... come on, hector.
-speaker3: it's all right, tim. we're not licked yet.
-speaker6: ain't we? i am.
-speaker3: there comes a time, tim, when a man's just got to do something.
-speaker6: not me. i'm useless, and i know it.
-speaker3: i'm your friend, tim.
-speaker6: then let me alone.
-speaker3: he's going to need you before the night is over.
-speaker6: lemme alone, i tell ya!
-speaker3: i can't let you alone! i can't let myself alone! don't you understand that? four years ago something terrible happened here. we did nothing about it. nothing. the whole town fell into a sort of settled melancholy, and the people in it closed their eyes and held their tongues and failed the test with a whimper. self-consciously pete has backed off until now he leans
-speaker3: now something terrible is going to happen again, and in a way we're lucky because we've been given a second chance. and this time i won't close my eyes, i won't hold my tongue, and if i'm needed i won't fail. and neither will you!
-speaker6: i got such a headache, i'm bewildered. i hurt all over.
-speaker1: i know -- -- pain is bewildering. i came here bewildered, full of self-pity, afraid to fight back. and then your friend smith tried to kill me. funny, how a man clings to the earth when he feels there's a chance he may never see it again.
-speaker3: there's a difference between clinging to the earth... ...and crawling on it. you going to stand by and watch forever?
-speaker6: i ain't gonna watch, and i ain't gonna get into it, either.
-speaker6: i'm gettin' out. i'm sorry, mr. macreedy.
-speaker2: you'd be smart to get out, too.
-speaker3: there's too many smart guys around here. i'm glad i'm a dummy.
-speaker2: you're a troublesome dummy. you're liable to end up on your own slab...
-speaker3: i expect to be in a lot more trouble before i die...
-speaker2: go home, doc. he's all washed up.
-speaker1: you think so?
-speaker1: i was washed up when i got off that train...
-speaker2: you shouldn' of got off.
-speaker1: had to. i had one last duty to perform before i resigned from the human race.
-speaker3: i thought you were going to los angeles, that hot-bed of pomp and vanity. is that resigning from the human race?
-speaker1: l.a.'s a good jumping off place -- for the islands, for mexico, central america.
-speaker3: why?
-speaker1: i don't know. i was looking for a place to get lost, i guess.
-speaker3: why?
-speaker1: because of this. i thought i'd never be able to function again. thanks to your friend smith, i found i was wrong.
-speaker2: sure. you're a man of action.
-speaker1: i know your problem. you'd like me to die quickly, without wasting too much of your time... ...or silently, without making you feel too uncomfortable... or thankfully, without making your memories of the occasion too unpleasant. for a moment pete stares at macreedy, terribly disturbed by the incisiveness of macreedy's analysis. then...
-speaker1: what happened, pete?
-speaker3: are you going to tell him -- or you want me to? smith owns adobe flat. he leased it to komako -- thought he had cheated him, thought komako could never even run stock without water. there was never any water on adobe flat. komako dug a well, by hand. he must have went down one hundred and fifty feet.
-speaker2: he got water, plenty. smith was pretty sore. he didn't like japs anyway.
-speaker3: that's an understatement.
-speaker2: the day after pearl harbor, smith went to sand city.
-speaker1: i know. to enlist. he was turned down.
-speaker2: he was sore when he got back. about ten o'clock he started drinking.
-speaker1: ten o'clock in the morning.
-speaker2: yeah. hector joined him, and coley. then sam, and about nine p.m. -- me. we were all drunk -- patriotic drunk. we went out to komako's for a little fun, i guess -- scare him a little.
-speaker1: did you know him?
-speaker2: we'd seen him around some, but none of us knew him. when he heard us coming, he locked the door. smith started a fire. the came running out. his clothes were burning. smith shot him. i didn't even know smith had a gun.
-speaker1: then you all got scared, buried him, kept quiet.
-speaker1: did komako have any family besides his son joe?
-speaker3: his son...? nobody around here knew he had a son.
-speaker1: he had one. but he's dead, too. he's buried in italy.
-speaker3: what are you doing here, mr. macreedy?
-speaker1: joe komako died in italy, saving my life. they gave him a medal. i came here to give it to his father.
-speaker2: forgive me...
-speaker1: ...and it will never help -- not
-speaker1: but maybe i'm wrong. go on -- drink. what else is left for you?! you're as dead as komako, only you don't know it! you also don't know that it's not enough to feel guilty. it's not enough to confess. it's not enough to say, "forgive me, i've done wrong."
-speaker3: take it easy, macreedy. sit down.
-speaker1: sit down?! or would you rather have me kneel, to beg his pardon for raising a touchy subject?
-speaker2: you don't have to remind me. i've never forgotten...
-speaker1: well, that's mighty noble of you. you feel ashamed -- that's noble, too. and four years from now you'll probably be sitting here telling somebody else you haven't forgotten me. that's progress -- you'll still be ashamed but i'll be dead.
-speaker1: go on, have your drink. you need it.
-speaker3: what are you doing?
-speaker2: hello, liz. now listen... i... 'm getting macreedy out of town...
+MACREEDY: anything for me? 
+PETE: nothing.
+MACREEDY: any message -- a telegram?
+PETE: nothing.
+DOC: in case you're interested, coley'll live. i'm truly sorry to say.
+HECTOR: your friend's pretty tough.
+DOC: yeah. he's wicked. he defends himself when he's attacked.
+DOC: well...? you going to just sit here and let time run out?
+MACREEDY: i'm waiting for a wire. from the state cops.
+DOC: you sent it through hastings? just don't expect an answer, if that's the way you sent it.
+MACREEDY: no?
+MACREEDY: i think that's for me. where's the answer?
+SMITH: you expect an answer -- to a wire that's never sent?
+SMITH: what's so funny?
+MACREEDY: nothing. just a thought -- -- a thought dazzling in its purity...
+MACREEDY: you're in a jam, hastings. you gave my telegram to smith.
+DOC: you warty wretch! that's a federal offense!
+MACREEDY: you're in deep, too. like i said, it's getting tougher and tougher. sheriff, you'd better do something about this.
+TIM: i reckon that's right, mr. smith...
+HECTOR: don't be a jerk, tim.
+TIM: divulging information -- there's a law...
+SMITH: tim, you're pathetic.
+TIM: could be. but i'm still sheriff.
+SMITH: that's the point. you're not sheriff any more. you just lost a job, you're so pathetic.
+SMITH: all right, sheriff. take over.
+DOC: you can't do that!
+SMITH: can't i? i put him in office. now i take him out.
+HECTOR: now. you want to register a complaint?
+HECTOR: to register a complaint, boy, you've got to have evidence. you got evidence?
+HECTOR: you got a big mouth, boy, makin' accusations, disturbin' the peace. there's laws in this county protectin' innocent folks from big mouths. why, i'd just hate to...
+SMITH: hector... come on, hector.
+DOC: it's all right, tim. we're not licked yet.
+TIM: ain't we? i am.
+DOC: there comes a time, tim, when a man's just got to do something.
+TIM: not me. i'm useless, and i know it.
+DOC: i'm your friend, tim.
+TIM: then let me alone.
+DOC: he's going to need you before the night is over.
+TIM: lemme alone, i tell ya!
+DOC: i can't let you alone! i can't let myself alone! don't you understand that? four years ago something terrible happened here. we did nothing about it. nothing. the whole town fell into a sort of settled melancholy, and the people in it closed their eyes and held their tongues and failed the test with a whimper. self-consciously pete has backed off until now he leans
+DOC: now something terrible is going to happen again, and in a way we're lucky because we've been given a second chance. and this time i won't close my eyes, i won't hold my tongue, and if i'm needed i won't fail. and neither will you!
+TIM: i got such a headache, i'm bewildered. i hurt all over.
+MACREEDY: i know -- -- pain is bewildering. i came here bewildered, full of self-pity, afraid to fight back. and then your friend smith tried to kill me. funny, how a man clings to the earth when he feels there's a chance he may never see it again.
+DOC: there's a difference between clinging to the earth... ...and crawling on it. you going to stand by and watch forever?
+TIM: i ain't gonna watch, and i ain't gonna get into it, either.
+TIM: i'm gettin' out. i'm sorry, mr. macreedy.
+PETE: you'd be smart to get out, too.
+DOC: there's too many smart guys around here. i'm glad i'm a dummy.
+PETE: you're a troublesome dummy. you're liable to end up on your own slab...
+DOC: i expect to be in a lot more trouble before i die...
+PETE: go home, doc. he's all washed up.
+MACREEDY: you think so?
+MACREEDY: i was washed up when i got off that train...
+PETE: you shouldn' of got off.
+MACREEDY: had to. i had one last duty to perform before i resigned from the human race.
+DOC: i thought you were going to los angeles, that hot-bed of pomp and vanity. is that resigning from the human race?
+MACREEDY: l.a.'s a good jumping off place -- for the islands, for mexico, central america.
+DOC: why?
+MACREEDY: i don't know. i was looking for a place to get lost, i guess.
+DOC: why?
+MACREEDY: because of this. i thought i'd never be able to function again. thanks to your friend smith, i found i was wrong.
+PETE: sure. you're a man of action.
+MACREEDY: i know your problem. you'd like me to die quickly, without wasting too much of your time... ...or silently, without making you feel too uncomfortable... or thankfully, without making your memories of the occasion too unpleasant. for a moment pete stares at macreedy, terribly disturbed by the incisiveness of macreedy's analysis. then...
+MACREEDY: what happened, pete?
+DOC: are you going to tell him -- or you want me to? smith owns adobe flat. he leased it to komako -- thought he had cheated him, thought komako could never even run stock without water. there was never any water on adobe flat. komako dug a well, by hand. he must have went down one hundred and fifty feet.
+PETE: he got water, plenty. smith was pretty sore. he didn't like japs anyway.
+DOC: that's an understatement.
+PETE: the day after pearl harbor, smith went to sand city.
+MACREEDY: i know. to enlist. he was turned down.
+PETE: he was sore when he got back. about ten o'clock he started drinking.
+MACREEDY: ten o'clock in the morning.
+PETE: yeah. hector joined him, and coley. then sam, and about nine p.m. -- me. we were all drunk -- patriotic drunk. we went out to komako's for a little fun, i guess -- scare him a little.
+MACREEDY: did you know him?
+PETE: we'd seen him around some, but none of us knew him. when he heard us coming, he locked the door. smith started a fire. the came running out. his clothes were burning. smith shot him. i didn't even know smith had a gun.
+MACREEDY: then you all got scared, buried him, kept quiet.
+MACREEDY: did komako have any family besides his son joe?
+DOC: his son...? nobody around here knew he had a son.
+MACREEDY: he had one. but he's dead, too. he's buried in italy.
+DOC: what are you doing here, mr. macreedy?
+MACREEDY: joe komako died in italy, saving my life. they gave him a medal. i came here to give it to his father.
+PETE: forgive me...
+MACREEDY: ...and it will never help -- not
+MACREEDY: but maybe i'm wrong. go on -- drink. what else is left for you?! you're as dead as komako, only you don't know it! you also don't know that it's not enough to feel guilty. it's not enough to confess. it's not enough to say, "forgive me, i've done wrong."
+DOC: take it easy, macreedy. sit down.
+MACREEDY: sit down?! or would you rather have me kneel, to beg his pardon for raising a touchy subject?
+PETE: you don't have to remind me. i've never forgotten...
+MACREEDY: well, that's mighty noble of you. you feel ashamed -- that's noble, too. and four years from now you'll probably be sitting here telling somebody else you haven't forgotten me. that's progress -- you'll still be ashamed but i'll be dead.
+MACREEDY: go on, have your drink. you need it.
+DOC: what are you doing?
+PETE: hello, liz. now listen... i... 'm getting macreedy out of town...
 
-speaker1: he cuts liz short... 
-speaker2: i don't care about smith! let him try to kill me -- i might as well be dead as...
-speaker2: liz, liz... there's not much of me left any more, but however little it is i won't waste it! i'm telling you because we need your help. ...no matter about the past -- you've got to do this! you'd be saving two lives, liz. macreedy's, and mine. all right. yeah... i've told him everything. slowly he replaces the phone on the switch-board. he comes around from behind the desk, joining macreedy and doc.
-speaker2: she'll be here in five minutes.
-speaker3: thanks, pete. thanks very much.
+WIDER ANGLE - FAVORING PETE: he cuts liz short... 
+PETE: i don't care about smith! let him try to kill me -- i might as well be dead as...
+PETE: liz, liz... there's not much of me left any more, but however little it is i won't waste it! i'm telling you because we need your help. ...no matter about the past -- you've got to do this! you'd be saving two lives, liz. macreedy's, and mine. all right. yeah... i've told him everything. slowly he replaces the phone on the switch-board. he comes around from behind the desk, joining macreedy and doc.
+PETE: she'll be here in five minutes.
+MACREEDY: thanks, pete. thanks very much.
 
-speaker1: hector! 
-speaker2: hmmmm?
+PETE: hector! 
+HECTOR: hmmmm?
 
-speaker1: what you want? 
-speaker2: he's still in his room. macreedy, i mean.
-speaker1: so...? you want me to tuck him in?
-speaker2: i thought maybe you wanted to tell smith.
-speaker1: smith said he'd be here at midnight. he don't want to be disturbed.
-speaker1: you got a match?
-speaker2: come on. i got some in the lobby.
-speaker1: i thought you didn't have a match.
+HECTOR: what you want? 
+PETE: he's still in his room. macreedy, i mean.
+HECTOR: so...? you want me to tuck him in?
+PETE: i thought maybe you wanted to tell smith.
+HECTOR: smith said he'd be here at midnight. he don't want to be disturbed.
+HECTOR: you got a match?
+PETE: come on. i got some in the lobby.
+HECTOR: i thought you didn't have a match.
 
-speaker1: sorry i can't get more out of this heap. 
-speaker1: we could make better time with a dog team.
-speaker2: you're doing the best you can. aren't you, liz?
-speaker1: don't expect too much from me.
-speaker2: don't worry, i won't.
-speaker1: i mean, people have always expected things from me. you know why? because i'm pretty. well, that's not enough.
+LIZ: sorry i can't get more out of this heap. 
+LIZ: we could make better time with a dog team.
+MACREEDY: you're doing the best you can. aren't you, liz?
+LIZ: don't expect too much from me.
+MACREEDY: don't worry, i won't.
+LIZ: i mean, people have always expected things from me. you know why? because i'm pretty. well, that's not enough.
 
-speaker1: maybe i could have been something -- a model, or something. you don't believe that. 
-speaker2: yes i do.
-speaker1: well, i don't, really. i'm a dime a dozen.
-speaker2: that i don't believe.
-speaker1: i'm too little and too late.
-speaker2: it's never too late.
-speaker1: i lack the muscle.
-speaker2: why is muscle so important?
-speaker1: oh, you're the brainy type. did it take brains to rough up coley? whatever you did to hector, you didn't do it with brains. how'd you get pete to change his mind?
-speaker2: not with muscle.
-speaker1: and not with brains, either. he's a pushover for a muscle man.
-speaker2: i'm beginning' to think it runs in the family. you think strength is in the width of a man's shoulders.
-speaker1: i'd sure have liked to see you tangle with reno smith.
-speaker2: he wasn't around when i left... maybe i will yet.
-speaker3: sequence omitted from original script.
+LIZ: maybe i could have been something -- a model, or something. you don't believe that. 
+MACREEDY: yes i do.
+LIZ: well, i don't, really. i'm a dime a dozen.
+MACREEDY: that i don't believe.
+LIZ: i'm too little and too late.
+MACREEDY: it's never too late.
+LIZ: i lack the muscle.
+MACREEDY: why is muscle so important?
+LIZ: oh, you're the brainy type. did it take brains to rough up coley? whatever you did to hector, you didn't do it with brains. how'd you get pete to change his mind?
+MACREEDY: not with muscle.
+LIZ: and not with brains, either. he's a pushover for a muscle man.
+MACREEDY: i'm beginning' to think it runs in the family. you think strength is in the width of a man's shoulders.
+LIZ: i'd sure have liked to see you tangle with reno smith.
+MACREEDY: he wasn't around when i left... maybe i will yet.
+OUT: sequence omitted from original script.
 
-speaker1: what's this? 
-speaker2: we need water... ...radiator's overheating.
-speaker2: leggo! leggo of me!
+MACREEDY: what's this? 
+LIZ: we need water... ...radiator's overheating.
+LIZ: leggo! leggo of me!
 
-speaker1: smitty! smitty! 
-speaker2: i'm here, honey. just head for the car.
-speaker1: so long, macreedy.
+LIZ: smitty! smitty! 
+SMITH'S VOICE: i'm here, honey. just head for the car.
+LIZ: so long, macreedy.
 
-speaker1: get him! get him now! 
-speaker2: first things first, honey.
-speaker1: help me up, smitty.
-speaker2: you were going to help me, liz. i still need your help.
-speaker1: i did what you said...
-speaker2: you two started out in a car. that's the way you'll end up. over a cliff, burning. you can blame that on macreedy, too. he said i had too many witnesses.
-speaker1: but why me? why start with me?
-speaker2: i got to start with somebody.
-speaker1: macreedy! macreedy!
-speaker1: you shouldn't have done that...
+LIZ: get him! get him now! 
+SMITH: first things first, honey.
+LIZ: help me up, smitty.
+SMITH: you were going to help me, liz. i still need your help.
+LIZ: i did what you said...
+SMITH: you two started out in a car. that's the way you'll end up. over a cliff, burning. you can blame that on macreedy, too. he said i had too many witnesses.
+LIZ: but why me? why start with me?
+SMITH: i got to start with somebody.
+LIZ: macreedy! macreedy!
+LIZ: you shouldn't have done that...
 
-speaker1: go ahead -- kill me. now. 
-speaker2: i'd like to kill you now, but you caused too much pain to die quickly. you'll be tried in a court of law. you'll be convicted by a jury. then you'll die.
+SMITH: go ahead -- kill me. now. 
+MACREEDY: i'd like to kill you now, but you caused too much pain to die quickly. you'll be tried in a court of law. you'll be convicted by a jury. then you'll die.
 
-speaker1: am i going to have trouble with you? 
-speaker2: nope. but i sure thought the situation was going to be like reversed. i thought i was going to have trouble... ...with him. i'll take care of him.
-speaker1: just as you took care of his buddies?
-speaker2: just as i took care of his buddies. me, an' doc, and pete...
-speaker3: it's all right, macreedy...
-speaker3: old tim here's got his badge back.
+MACREEDY: am i going to have trouble with you? 
+TIM: nope. but i sure thought the situation was going to be like reversed. i thought i was going to have trouble... ...with him. i'll take care of him.
+MACREEDY: just as you took care of his buddies?
+TIM: just as i took care of his buddies. me, an' doc, and pete...
+DOC: it's all right, macreedy...
+DOC: old tim here's got his badge back.
 
-speaker1: well. the gang is all here. 
-speaker2: i thought i'd take one last whack at my job. even if smith killed me for it.
-speaker1: put him in with hastings.
-speaker1: your sister's outside, pete.
-speaker1: she's dead.
+MACREEDY: well. the gang is all here. 
+TIM: i thought i'd take one last whack at my job. even if smith killed me for it.
+MACREEDY: put him in with hastings.
+MACREEDY: your sister's outside, pete.
+MACREEDY: she's dead.
 
-speaker1: tim knows where to find me if i'm needed. 
-speaker1: what's on your mind, doc?
-speaker2: nothing. only... about that medal. can we have it?
-speaker1: "we...?" can who have it?
-speaker2: we. us.
-speaker1: why?
-speaker2: well, we need it, i guess. it's something we can maybe build on. this town is wrecked, just as bad as if it was bombed out. maybe it can come back...
-speaker1: some towns come back. some don't. it depends on the people.
+MACREEDY: tim knows where to find me if i'm needed. 
+MACREEDY: what's on your mind, doc?
+DOC: nothing. only... about that medal. can we have it?
+MACREEDY: "we...?" can who have it?
+DOC: we. us.
+MACREEDY: why?
+DOC: well, we need it, i guess. it's something we can maybe build on. this town is wrecked, just as bad as if it was bombed out. maybe it can come back...
+MACREEDY: some towns come back. some don't. it depends on the people.
 
-speaker1: that medal would help. 
-speaker1: thanks, macreedy. thanks for everything.
+DOC: that medal would help. 
+DOC: thanks, macreedy. thanks for everything.
 
-speaker1: what's the excitement? what happened? 
-speaker2: a shooting.
-speaker1: i knew it was something. first time a streamliner stopped here in four years.
-speaker2: second time.
+CONDUCTOR: what's the excitement? what happened? 
+MACREEDY: a shooting.
+CONDUCTOR: i knew it was something. first time a streamliner stopped here in four years.
+MACREEDY: second time.
 

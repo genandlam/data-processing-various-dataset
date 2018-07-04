@@ -1,580 +1,580 @@
-speaker1: master li is here! 
-speaker2: shu lien!
+WORKER: master li is here! 
+AUNT WU: shu lien!
 
-speaker1: how's everything? 
-speaker2: fine. please come in.
-speaker3: mu bai...it's been too long.
-speaker1: it has. how's business?
-speaker3: good. and how are you?
-speaker1: fine.
-speaker3: monk zheng said you were at wudan mountain. he said you were practicing deep meditation.
-speaker1: yes.
-speaker3: the mountain must be so peaceful... i envy you. my work keeps me so busy, i hardly get any rest.
-speaker1: i left the training early.
-speaker3: why? you're a wudan fighter.
-speaker1: during my meditation training... i came to a place of deep silence... i was surrounded by light... time and space disappeared. i had come to a place my master had never told me about.
-speaker3: you were enlightened?
-speaker1: no. i didn't feel the bliss of enlightenment. instead... i was surrounded by an endless sorrow. i couldn't bear it. i broke off my meditation. i couldn't go on. there was something... pulling me back.
-speaker3: what was it?
-speaker1: something i can't let go of. you are leaving soon?
-speaker3: we're preparing a convoy for a delivery to peking.
-speaker1: perhaps i could ask you to deliver something to sir te for me.
-speaker3: the green destiny sword? you're giving it to sir te?
-speaker1: i am. he has always been our greatest protector.
-speaker3: i don't understand. how can you part with it? it has always been with you.
-speaker1: too many men have died at its edge. it only looks pure because blood washes so easily from its blade.
-speaker3: you use it justly, you're worthy of it.
-speaker1: it's time for me to leave it behind.
-speaker3: so what will you do now?
-speaker3: come with me to peking. you can give the sword to sir te yourself.
-speaker1: first i must visit my master's grave. it's been many years since jade fox murdered him. i have yet to avenge his death. and yet i'm thinking of quitting. i must pray for his forgiveness.
-speaker3: join me once you have finished. i can wait for you in peking.
-speaker1: perhaps.
+LI: how's everything? 
+AUNT WU: fine. please come in.
+YU: mu bai...it's been too long.
+LI: it has. how's business?
+YU: good. and how are you?
+LI: fine.
+YU: monk zheng said you were at wudan mountain. he said you were practicing deep meditation.
+LI: yes.
+YU: the mountain must be so peaceful... i envy you. my work keeps me so busy, i hardly get any rest.
+LI: i left the training early.
+YU: why? you're a wudan fighter.
+LI: during my meditation training... i came to a place of deep silence... i was surrounded by light... time and space disappeared. i had come to a place my master had never told me about.
+YU: you were enlightened?
+LI: no. i didn't feel the bliss of enlightenment. instead... i was surrounded by an endless sorrow. i couldn't bear it. i broke off my meditation. i couldn't go on. there was something... pulling me back.
+YU: what was it?
+LI: something i can't let go of. you are leaving soon?
+YU: we're preparing a convoy for a delivery to peking.
+LI: perhaps i could ask you to deliver something to sir te for me.
+YU: the green destiny sword? you're giving it to sir te?
+LI: i am. he has always been our greatest protector.
+YU: i don't understand. how can you part with it? it has always been with you.
+LI: too many men have died at its edge. it only looks pure because blood washes so easily from its blade.
+YU: you use it justly, you're worthy of it.
+LI: it's time for me to leave it behind.
+YU: so what will you do now?
+YU: come with me to peking. you can give the sword to sir te yourself.
+LI: first i must visit my master's grave. it's been many years since jade fox murdered him. i have yet to avenge his death. and yet i'm thinking of quitting. i must pray for his forgiveness.
+YU: join me once you have finished. i can wait for you in peking.
+LI: perhaps.
 
-speaker1: ok. pass. 
-speaker2: thanks. let's go into the city.
+GUARDS: ok. pass. 
+YU: thanks. let's go into the city.
 
-speaker1: everything got here safely. i'm much obliged. 
-speaker2: just doing my job.
-speaker1: sun security has been the best since your father started it.
-speaker2: thank you.
-speaker1: i mean it.
+GIAO: everything got here safely. i'm much obliged. 
+YU: just doing my job.
+GIAO: sun security has been the best since your father started it.
+YU: thank you.
+GIAO: i mean it.
 
-speaker1: this is li's personal sword, a great hero's weapon! he is the only one in the world worthy of carrying it. it's too fine a gift. 
-speaker2: sir te! it has brought him as much trouble as glory. help him to leave these troubles behind. otherwise, he'll never be able to start anew.
-speaker1: all right. i'll act as the sword's custodian.
-speaker3: governor yu has arrived.
-speaker1: i must change.
-speaker2: you've always been so good to li mu bai and me. please accept our thanks.
-speaker1: please do not be such a stranger. you'll stay the night as my guest. now, shu lien... tell me something. and forgive me for prying. your father was a great friend to me, and i think of you as my own daughter.
-speaker2: please, sir te, what is it?
-speaker1: li mu bai giving up his sword and his warrior days... maybe he's trying to tell you something?
-speaker2: i don't know...
-speaker1: don't be coy. i've always known about your feelings for each other. all these years, it's a shame... neither of you is brave enough to admit the truth to the other.
-speaker2: i beg your pardon. li mu bai and i aren't cowards.
-speaker1: when it comes to emotions, even great heroes can be idiots. tell me if li mu bai is not more open the next time you see him. i'll give him an earful!
-speaker3: sir te said to leave the sword in here.
-speaker3: who are you?
-speaker4: i'm your guest today. i am governor yu's daughter.
-speaker3: this is sir te's study. you are here to...
-speaker4: i was looking for a quiet corner.
-speaker3: i am sir te's head servant. and this is another of our guests.
+SIR TE: this is li's personal sword, a great hero's weapon! he is the only one in the world worthy of carrying it. it's too fine a gift. 
+YU: sir te! it has brought him as much trouble as glory. help him to leave these troubles behind. otherwise, he'll never be able to start anew.
+SIR TE: all right. i'll act as the sword's custodian.
+DE LU: governor yu has arrived.
+SIR TE: i must change.
+YU: you've always been so good to li mu bai and me. please accept our thanks.
+SIR TE: please do not be such a stranger. you'll stay the night as my guest. now, shu lien... tell me something. and forgive me for prying. your father was a great friend to me, and i think of you as my own daughter.
+YU: please, sir te, what is it?
+SIR TE: li mu bai giving up his sword and his warrior days... maybe he's trying to tell you something?
+YU: i don't know...
+SIR TE: don't be coy. i've always known about your feelings for each other. all these years, it's a shame... neither of you is brave enough to admit the truth to the other.
+YU: i beg your pardon. li mu bai and i aren't cowards.
+SIR TE: when it comes to emotions, even great heroes can be idiots. tell me if li mu bai is not more open the next time you see him. i'll give him an earful!
+DE LU: sir te said to leave the sword in here.
+DE LU: who are you?
+JEN: i'm your guest today. i am governor yu's daughter.
+DE LU: this is sir te's study. you are here to...
+JEN: i was looking for a quiet corner.
+DE LU: i am sir te's head servant. and this is another of our guests.
 
-speaker1: it's heavy for such a thin piece of metal! 
-speaker2: the handle is heavy. and the blade is no ordinary metal. still, the sword is the lightest of weapons.
-speaker1: but i have had much practice. as a child in the west, a platoon lived with us. they'd let me play with their weapons. the scabbard is so beautiful.
-speaker2: beautiful but dangerous. once you see it tainted with blood, its beauty is hard to admire. it's 400 years old.
-speaker1: exquisite! you said it belongs to...
-speaker2: my friend li mu bai. he's given it to sir te as a gift.
-speaker1: li mu bai! the famous warrior? why would he give his sword to sir te?
-speaker2: you're too young to understand.
-speaker1: you're a sword fighter too?
-speaker2: yes, i am. but i prefer the machete. certain moves, however, call for a sword.
-speaker1: really?
-speaker1: it must be exciting to be a fighter, to be totally free!
-speaker2: fighters have rules too: friendship, trust, integrity... without rules, we wouldn't survive for long.
-speaker1: i've read all about people like you. roaming wild, beating up anyone who gets in your way!
-speaker2: writers wouldn't sell many books if they told how it really is.
-speaker1: but you're just like the characters in the stories.
-speaker2: sure. no place to bathe for days, sleeping in flea-infested beds... they tell you all about that in those books?
-speaker1: you know what i mean. i'm getting married soon, but i haven't lived the life i want.
-speaker2: so i heard. congratulations. it's the most important step in a woman's life, isn't it?
-speaker1: you're not married, are you?
-speaker2: what do you think?
-speaker1: no! you couldn't roam around freely if you were.
-speaker2: you're probably right.
+JEN: it's heavy for such a thin piece of metal! 
+YU: the handle is heavy. and the blade is no ordinary metal. still, the sword is the lightest of weapons.
+JEN: but i have had much practice. as a child in the west, a platoon lived with us. they'd let me play with their weapons. the scabbard is so beautiful.
+YU: beautiful but dangerous. once you see it tainted with blood, its beauty is hard to admire. it's 400 years old.
+JEN: exquisite! you said it belongs to...
+YU: my friend li mu bai. he's given it to sir te as a gift.
+JEN: li mu bai! the famous warrior? why would he give his sword to sir te?
+YU: you're too young to understand.
+JEN: you're a sword fighter too?
+YU: yes, i am. but i prefer the machete. certain moves, however, call for a sword.
+JEN: really?
+JEN: it must be exciting to be a fighter, to be totally free!
+YU: fighters have rules too: friendship, trust, integrity... without rules, we wouldn't survive for long.
+JEN: i've read all about people like you. roaming wild, beating up anyone who gets in your way!
+YU: writers wouldn't sell many books if they told how it really is.
+JEN: but you're just like the characters in the stories.
+YU: sure. no place to bathe for days, sleeping in flea-infested beds... they tell you all about that in those books?
+JEN: you know what i mean. i'm getting married soon, but i haven't lived the life i want.
+YU: so i heard. congratulations. it's the most important step in a woman's life, isn't it?
+JEN: you're not married, are you?
+YU: what do you think?
+JEN: no! you couldn't roam around freely if you were.
+YU: you're probably right.
 
-speaker1: go ahead, governor yu. 
-speaker1: two feet 9 inches long. 1 inch wide. the handle is 1 inch deep, 2.6 inches wide. seven-tenths of an inch thick. with seven rubies missing from the hilt. you can tell the design dates back to before the chin era. engraved with a technique lost by the time of the han dynasty.
-speaker2: your knowledge is remarkable, sir te.
-speaker1: a sword by itself rules nothing. it comes alive only through skillful manipulation.
-speaker2: i see your point. please continue.
-speaker1: the imperial court isn't the problem. with royalty and officials everywhere, the royal guard keeps security tight. but peking is not like the west. here, you'll find all sorts of characters. proceed with caution in your quest for law and order. don't depend only on the court. contacts in the giang hu underworld can ensure your position. be strong, yet supple.
+SIR TE: go ahead, governor yu. 
+SIR TE: two feet 9 inches long. 1 inch wide. the handle is 1 inch deep, 2.6 inches wide. seven-tenths of an inch thick. with seven rubies missing from the hilt. you can tell the design dates back to before the chin era. engraved with a technique lost by the time of the han dynasty.
+GOVERNOR YU: your knowledge is remarkable, sir te.
+SIR TE: a sword by itself rules nothing. it comes alive only through skillful manipulation.
+GOVERNOR YU: i see your point. please continue.
+SIR TE: the imperial court isn't the problem. with royalty and officials everywhere, the royal guard keeps security tight. but peking is not like the west. here, you'll find all sorts of characters. proceed with caution in your quest for law and order. don't depend only on the court. contacts in the giang hu underworld can ensure your position. be strong, yet supple.
 
-speaker1: governess... 
-speaker2: let me do it.
-speaker3: please sit.
-speaker2: i've made you silk pajamas. do you want to change into them?
-speaker3: put them down.
-speaker2: i heard you met shu lien today.
-speaker3: do you know her?
-speaker2: she's one of those. your mother would not want you consorting with her kind.
-speaker3: i'll socialize with whomever i please.
-speaker2: don't invite danger into your father's house.
-speaker3: i'm tired now.
-speaker2: go to bed then. miss has grown up, and is getting married soon. knows what the future will bring.
-speaker3: it will be just the same. enough!
-speaker2: autumn is coming. i'll shut the windows for you.
+MAID: governess... 
+GOVERNESS: let me do it.
+JEN: please sit.
+GOVERNESS: i've made you silk pajamas. do you want to change into them?
+JEN: put them down.
+GOVERNESS: i heard you met shu lien today.
+JEN: do you know her?
+GOVERNESS: she's one of those. your mother would not want you consorting with her kind.
+JEN: i'll socialize with whomever i please.
+GOVERNESS: don't invite danger into your father's house.
+JEN: i'm tired now.
+GOVERNESS: go to bed then. miss has grown up, and is getting married soon. knows what the future will bring.
+JEN: it will be just the same. enough!
+GOVERNESS: autumn is coming. i'll shut the windows for you.
 
-speaker1: chilly, eh? 
-speaker2: yes, master bo.
+MASTER BO: chilly, eh? 
+NIGHTMAN: yes, master bo.
 
-speaker1: it's jade fox! 
-speaker2: we must avenge mother!
-speaker3: do something! he's getting away!
+TSAI: it's jade fox! 
+MAY: we must avenge mother!
+BO: do something! he's getting away!
 
-speaker1: return the sword, and i'll let you go. 
-speaker1: you've been trained at wudan?
+YU: return the sword, and i'll let you go. 
+YU: you've been trained at wudan?
 
-speaker1: you're mistaken. we're just street performers. we were rehearsing. 
-speaker2: father!
-speaker3: you were rehearsing? who are you trying to fool?
-speaker3: where did that thief go?
-speaker3: governor yu's house!
-speaker4: get down here! give back the sword!
+TSAI: you're mistaken. we're just street performers. we were rehearsing. 
+MAY: father!
+BO: you were rehearsing? who are you trying to fool?
+BO: where did that thief go?
+BO: governor yu's house!
+YU: get down here! give back the sword!
 
-speaker1: i'm sure the thief is in the yu household. 
-speaker2: how dare you imply?
-speaker1: but i say --
-speaker2: -- enough.
-speaker3: has governor yu ever seen the sword?
-speaker2: yes, though i doubt he's involved in this.
-speaker3: but the sword could be in his compound.
-speaker2: then someone's trying to set him up.
+BO: i'm sure the thief is in the yu household. 
+SIR TE: how dare you imply?
+BO: but i say --
+SIR TE: -- enough.
+YU: has governor yu ever seen the sword?
+SIR TE: yes, though i doubt he's involved in this.
+YU: but the sword could be in his compound.
+SIR TE: then someone's trying to set him up.
 
-speaker1: what is it? 
-speaker2: madam yu, someone's put up posters.
-speaker1: let me see.
-speaker3: someone is after jade fox.
+MADAM YU: what is it? 
+MAID: madam yu, someone's put up posters.
+MADAM YU: let me see.
+GOVERNESS: someone is after jade fox.
 
-speaker1: where are they? 
-speaker2: i don't know. i haven't seen them in two days.
+BO: where are they? 
+HOMELESS MAN: i don't know. i haven't seen them in two days.
 
-speaker1: there is a miss shu lien here to see you. 
-speaker2: miss is busy right now.
-speaker1: i'll tell her.
-speaker3: show her in.
-speaker2: this spells trouble.
-speaker3: i have a guest.
-speaker1: this way please.
-speaker3: i've missed you.
-speaker4: how so?
-speaker3: i'm bored.
-speaker4: you're doing calligraphy?
-speaker3: i'll write your name. just for fun.
-speaker4: i never realized my name looks like "sword." jen freezes slightly.
-speaker4: you write gracefully. calligraphy is so similar to fencing.
-speaker3: maybe it is. i wouldn't know.
-speaker3: please.
-speaker4: thank you for seeing me. i hear your wedding day is near. you must be overwhelmed by the preparations.
-speaker3: i'm hardly doing a thing. the less i think of it the better. my parents are arranging everything. the gous are a very powerful family. my marrying one will be good for my father's career.
-speaker4: you are fornuate to marry into such a noble family.
-speaker3: am i? i wish i were like the heroes in the books i read. like you and li mu bai. i guess i'm happy to be marrying. but to be free to live my own life, to choose whom i love... that is true happiness.
-speaker4: do you think so? let me tell you a story.
-speaker3: about you and li mu bai?
-speaker4: yes. did you know i was once engaged to be married?
-speaker3: no, really?
-speaker4: his name was meng si zhao. he was a brother to li mu bai by oath. one day, while in battle, he was killed by the sword of li mu bai's enemy. after, li mu bai and i went through a lot together. our feelings for each other grew stronger. but how could we dishonor meng's memory? so the freedom you talk about, i too desire it. but i have never tasted it.
-speaker3: too bad for meng, but it's not your fault, or li mu bai's.
-speaker4: i am not an aristocrat, as you are... but i must still respect a woman's duties.
-speaker3: don't distance us. from now on, let's be like sisters.
-speaker4: then as a sister, let me wish you happiness in your marriage.
+MAID: there is a miss shu lien here to see you. 
+GOVERNESS: miss is busy right now.
+MAID: i'll tell her.
+JEN: show her in.
+GOVERNESS: this spells trouble.
+JEN: i have a guest.
+MAID: this way please.
+JEN: i've missed you.
+YU: how so?
+JEN: i'm bored.
+YU: you're doing calligraphy?
+JEN: i'll write your name. just for fun.
+YU: i never realized my name looks like "sword." jen freezes slightly.
+YU: you write gracefully. calligraphy is so similar to fencing.
+JEN: maybe it is. i wouldn't know.
+JEN: please.
+YU: thank you for seeing me. i hear your wedding day is near. you must be overwhelmed by the preparations.
+JEN: i'm hardly doing a thing. the less i think of it the better. my parents are arranging everything. the gous are a very powerful family. my marrying one will be good for my father's career.
+YU: you are fornuate to marry into such a noble family.
+JEN: am i? i wish i were like the heroes in the books i read. like you and li mu bai. i guess i'm happy to be marrying. but to be free to live my own life, to choose whom i love... that is true happiness.
+YU: do you think so? let me tell you a story.
+JEN: about you and li mu bai?
+YU: yes. did you know i was once engaged to be married?
+JEN: no, really?
+YU: his name was meng si zhao. he was a brother to li mu bai by oath. one day, while in battle, he was killed by the sword of li mu bai's enemy. after, li mu bai and i went through a lot together. our feelings for each other grew stronger. but how could we dishonor meng's memory? so the freedom you talk about, i too desire it. but i have never tasted it.
+JEN: too bad for meng, but it's not your fault, or li mu bai's.
+YU: i am not an aristocrat, as you are... but i must still respect a woman's duties.
+JEN: don't distance us. from now on, let's be like sisters.
+YU: then as a sister, let me wish you happiness in your marriage.
 
-speaker1: who are you? 
-speaker2: wait! i'm a friend!
+TSAI: who are you? 
+BO: wait! i'm a friend!
 
-speaker1: i don't care about your sword. 
-speaker2: why were you spying on the yus?
-speaker1: i'm looking for someone. jade fox. i'm a police inspector from shaan xi, gen su district. jade fox is a master criminal. i hear she infiltrated the yus. she must have come with them when they transferred here. but with yu's reputation, i can't just go in and accuse her.
-speaker2: this jade fox is a woman?
-speaker1: yes.
-speaker2: then leave her to me.
-speaker1: pardon me, but i doubt you can handle her. my wife was quite a martial arts expert. jade fox killed her. so you see, this is personal. leave her to me.
-speaker3: it's ready!
-speaker2: i'm ready for anything!
-speaker3: father gets first dip.
-speaker1: they're gone.
-speaker3: what does it say?
-speaker1: "we'll settle this at midnight on yellow hill." good, the fox is out of her hole.
+TSAI: i don't care about your sword. 
+BO: why were you spying on the yus?
+TSAI: i'm looking for someone. jade fox. i'm a police inspector from shaan xi, gen su district. jade fox is a master criminal. i hear she infiltrated the yus. she must have come with them when they transferred here. but with yu's reputation, i can't just go in and accuse her.
+BO: this jade fox is a woman?
+TSAI: yes.
+BO: then leave her to me.
+TSAI: pardon me, but i doubt you can handle her. my wife was quite a martial arts expert. jade fox killed her. so you see, this is personal. leave her to me.
+MAY: it's ready!
+BO: i'm ready for anything!
+MAY: father gets first dip.
+TSAI: they're gone.
+MAY: what does it say?
+TSAI: "we'll settle this at midnight on yellow hill." good, the fox is out of her hole.
 
-speaker1: shu lien, look who's here. 
-speaker2: sir te believes it's a ploy cast suspicion on governor yu.
-speaker3: but something is going on at the yu household.
-speaker2: what have you discovered?
-speaker2: jade fox? impossible.
-speaker3: you always suspected she'd fled to the west.
-speaker2: i didn't think she'd dare come back to peking!
-speaker3: is there any place safer than under the nose of governor yu?
-speaker2: so i shall avenge my master's death after all.
-speaker3: be careful. sir te requires discretion. official business is difficult enough. don't let personal feelings make it worse. and i don't know... even this poster... could be some sort of trap.
-speaker2: did you see who posted it?
-speaker3: no.
-speaker2: it says jade fox is hiding at yu's. on the night of the theft there was a brawl near yu's. were you involved?
-speaker3: it was bo, sir te's man. i hear he followed the thief to the yus'.
-speaker2: have you questioned him yet?
-speaker3: no, not yet...
-speaker2: but your men are watching over yu's compund?
-speaker3: no, i'd already sent them home. you can blame me for losing the sword, but please trust that i'll get it back soon using my own methods.
-speaker2: that's not what i meant. i don't care about the sword.
-speaker3: what do you mean? didn't you come back here for it?
-speaker2: i don't know it was stolen until i got here.
-speaker3: then, why did you come?
-speaker2: well, we had talked...
-speaker4: pardon my intrusion. master li, your room is ready.
-speaker2: thank you. please lead the way.
+SIR TE: shu lien, look who's here. 
+LI: sir te believes it's a ploy cast suspicion on governor yu.
+YU: but something is going on at the yu household.
+LI: what have you discovered?
+LI: jade fox? impossible.
+YU: you always suspected she'd fled to the west.
+LI: i didn't think she'd dare come back to peking!
+YU: is there any place safer than under the nose of governor yu?
+LI: so i shall avenge my master's death after all.
+YU: be careful. sir te requires discretion. official business is difficult enough. don't let personal feelings make it worse. and i don't know... even this poster... could be some sort of trap.
+LI: did you see who posted it?
+YU: no.
+LI: it says jade fox is hiding at yu's. on the night of the theft there was a brawl near yu's. were you involved?
+YU: it was bo, sir te's man. i hear he followed the thief to the yus'.
+LI: have you questioned him yet?
+YU: no, not yet...
+LI: but your men are watching over yu's compund?
+YU: no, i'd already sent them home. you can blame me for losing the sword, but please trust that i'll get it back soon using my own methods.
+LI: that's not what i meant. i don't care about the sword.
+YU: what do you mean? didn't you come back here for it?
+LI: i don't know it was stolen until i got here.
+YU: then, why did you come?
+LI: well, we had talked...
+DE LU: pardon my intrusion. master li, your room is ready.
+LI: thank you. please lead the way.
 
-speaker1: the fox doesn't care much for punctuality. still no sign of her. 
-speaker2: enough! show yourself.
-speaker3: tsai... you dog! you will pay for your stubbornness.
-speaker1: that's what you think, old witch!
-speaker2: if you surrender now, you'll suffer less. but if you resist, i won't stop until you're dead.
-speaker4: father! let me avenge my mother's death.
-speaker3: you'll soon end up like her, you little whore!
-speaker1: you'll pay for that!
-speaker2: may!
-speaker3: tsai, you filthy mongrel! an ambush!
-speaker4: father, are you all right?
-speaker5: wudan should have gotten rid of you long ago. it's been a long time, jade fox! you don't remember me... but you should remember my master. you infiltrated wudan while i was away. you stole our master! now it's time for you to pay!
-speaker3: your master underestimated us women. sure, he'd sleep with me, but he would never teach me. he deserved to die by a woman's hand!
-speaker5: you stole the secrets of wudan's highest martial arts. but after ten years of training, your moves are still undisciplined. and today, under a wudan sword... you will die! li easily brings fox to the ground.
-speaker3: disciple, we'll kill them all!
-speaker6: let's go!
-speaker1: another one!
-speaker3: i must get rid of tsai!
-speaker5: who are you? why is the green destiny in your possession?
-speaker6: what's it to you?
-speaker5: my name is li mu bai. the green destiny is mine. jade fox can't be your master. where did you learn that "xuan piu" move?
-speaker6: i'm just playing around.
-speaker5: tell me, who is your master?
-speaker6: let's go!
-speaker3: we must kill them!
-speaker4: father!
+BO: the fox doesn't care much for punctuality. still no sign of her. 
+TSAI: enough! show yourself.
+FOX: tsai... you dog! you will pay for your stubbornness.
+BO: that's what you think, old witch!
+TSAI: if you surrender now, you'll suffer less. but if you resist, i won't stop until you're dead.
+MAY: father! let me avenge my mother's death.
+FOX: you'll soon end up like her, you little whore!
+BO: you'll pay for that!
+TSAI: may!
+FOX: tsai, you filthy mongrel! an ambush!
+MAY: father, are you all right?
+LI: wudan should have gotten rid of you long ago. it's been a long time, jade fox! you don't remember me... but you should remember my master. you infiltrated wudan while i was away. you stole our master! now it's time for you to pay!
+FOX: your master underestimated us women. sure, he'd sleep with me, but he would never teach me. he deserved to die by a woman's hand!
+LI: you stole the secrets of wudan's highest martial arts. but after ten years of training, your moves are still undisciplined. and today, under a wudan sword... you will die! li easily brings fox to the ground.
+FOX: disciple, we'll kill them all!
+FIGURE IN BLACK: let's go!
+BO: another one!
+FOX: i must get rid of tsai!
+LI: who are you? why is the green destiny in your possession?
+FIGURE IN BLACK: what's it to you?
+LI: my name is li mu bai. the green destiny is mine. jade fox can't be your master. where did you learn that "xuan piu" move?
+FIGURE IN BLACK: i'm just playing around.
+LI: tell me, who is your master?
+FIGURE IN BLACK: let's go!
+FOX: we must kill them!
+MAY: father!
 
-speaker1: this is tsai? 
-speaker2: my father. police inspector from shaan.
-speaker1: this should be reported to governor yu. the victim is an officer. you believe the killer is hiding out in his compound.
-speaker3: i'd bet my life on it!
-speaker1: come with me.
-speaker4: this needs to be resolved, and quickly.
-speaker5: i'll get into the yu household and get her. i'll ferret out fox and her gang.
-speaker3: we must be careful. governor yu is a court official, and in charge of security. any disturbance will cast suspicion on him. it might get sir te in trouble.
-speaker4: this is a delicate matter.
-speaker3: sir te, can you find some excuse to invite madam yu and her daughter?
-speaker4: what do you have in mind?
-speaker3: the best way to trap a fox is through her cubs.
+TE: this is tsai? 
+MAY: my father. police inspector from shaan.
+TE: this should be reported to governor yu. the victim is an officer. you believe the killer is hiding out in his compound.
+YU: i'd bet my life on it!
+TE: come with me.
+SIR TE: this needs to be resolved, and quickly.
+LI: i'll get into the yu household and get her. i'll ferret out fox and her gang.
+YU: we must be careful. governor yu is a court official, and in charge of security. any disturbance will cast suspicion on him. it might get sir te in trouble.
+SIR TE: this is a delicate matter.
+YU: sir te, can you find some excuse to invite madam yu and her daughter?
+SIR TE: what do you have in mind?
+YU: the best way to trap a fox is through her cubs.
 
-speaker1: madam te is certainly spoiling us with these wedding gifts. she's being so considerate. 
-speaker2: i'm sorry she's not feeling well enough to receive you today.
-speaker1: i heard sir te lost something. and now madame te's not feeling well...
-speaker2: we know who stole the missing item. if the thief returns it, i'm sure sir te will pursue the matter no further.
-speaker1: that's good. sometimes the help can't keep their hands to themselves.
-speaker2: sir te knows that even well-meaning people can make mistakes... that can bring ruin to themselves and their families.
-speaker1: but don't be too lenient.
-speaker2: no mercy will be shown toward the murderer who turned up in peking.
-speaker1: a murderer?
-speaker2: yes. the very killer of li mu bai's own master. last night, she killed a policeman who had tracked her down.
-speaker1: a female criminal! now that's news!
-speaker3: you say she killed a policeman?
-speaker2: yes, from the west. he went undercover and and followed her here,
-speaker1: maybe the murderer and the thief are one and the same.
-speaker2: i doubt it. this thief... it very unusual...
-speaker2: ...and most likely smarter than a mere killer.
-speaker3: greetings, sir te.
-speaker4: hello, madam yu. this is li mu bai, the renowned swordsman.
-speaker5: delighted to meet you.
-speaker6: miss yu is soon to be married.
-speaker5: congratulations.
+MADAM YU: madam te is certainly spoiling us with these wedding gifts. she's being so considerate. 
+YU: i'm sorry she's not feeling well enough to receive you today.
+MADAM YU: i heard sir te lost something. and now madame te's not feeling well...
+YU: we know who stole the missing item. if the thief returns it, i'm sure sir te will pursue the matter no further.
+MADAM YU: that's good. sometimes the help can't keep their hands to themselves.
+YU: sir te knows that even well-meaning people can make mistakes... that can bring ruin to themselves and their families.
+MADAM YU: but don't be too lenient.
+YU: no mercy will be shown toward the murderer who turned up in peking.
+MADAM YU: a murderer?
+YU: yes. the very killer of li mu bai's own master. last night, she killed a policeman who had tracked her down.
+MADAM YU: a female criminal! now that's news!
+JEN: you say she killed a policeman?
+YU: yes, from the west. he went undercover and and followed her here,
+MADAM YU: maybe the murderer and the thief are one and the same.
+YU: i doubt it. this thief... it very unusual...
+YU: ...and most likely smarter than a mere killer.
+JEN: greetings, sir te.
+SIR TE: hello, madam yu. this is li mu bai, the renowned swordsman.
+LI: delighted to meet you.
+TE: miss yu is soon to be married.
+LI: congratulations.
 
-speaker1: why don't you come in? 
-speaker2: i'm standing guard.
-speaker1: come in. it's cold.
-speaker1: come in. we don't have to fear jade fox if we're together.
+MAY: why don't you come in? 
+BO: i'm standing guard.
+MAY: come in. it's cold.
+MAY: come in. we don't have to fear jade fox if we're together.
 
-speaker1: isn't it a bit too late to be out? 
-speaker2: i do as i please.
-speaker1: where's your master?
-speaker2: what's it to you?
+LI: isn't it a bit too late to be out? 
+FIGURE: i do as i please.
+LI: where's your master?
+FIGURE: what's it to you?
 
-speaker1: had enough flying? you've got potential. you've studied the wudan manual but you don't understand it. you need a real master. 
-speaker2: do you think you are a real master?
-speaker1: like most things, i am nothing. it's the same for this sword. all of it is simply a state of mind.
-speaker2: stop talking like a monk! just fight!
-speaker1: then tell me where jade fox is.
-speaker2: on guard!
-speaker1: real sharpness comes without effort.
+LI: had enough flying? you've got potential. you've studied the wudan manual but you don't understand it. you need a real master. 
+FIGURE: do you think you are a real master?
+LI: like most things, i am nothing. it's the same for this sword. all of it is simply a state of mind.
+FIGURE: stop talking like a monk! just fight!
+LI: then tell me where jade fox is.
+FIGURE: on guard!
+LI: real sharpness comes without effort.
 
-speaker1: no growth without assistant. no action without reaction. no desire without restraint. now give yourself up and find yourself again. there is a lesson for you. 
-speaker2: go ahead.
-speaker1: why should i? you need practice. i can teach you to fight with the green destiny, but first you must learn to hold it in stillness.
-speaker2: why do you want to teach me?
-speaker1: i've always wanted a disciple worthy of wudan's secrets.
-speaker2: and if i use them to kill you?
-speaker1: that's a risk i'm willing to take. deep down, you're good. even jade fox couldn't corrupt you.
-speaker2: wudan is a whorehouse! keep your lessons!
+LI: no growth without assistant. no action without reaction. no desire without restraint. now give yourself up and find yourself again. there is a lesson for you. 
+FIGURE: go ahead.
+LI: why should i? you need practice. i can teach you to fight with the green destiny, but first you must learn to hold it in stillness.
+FIGURE: why do you want to teach me?
+LI: i've always wanted a disciple worthy of wudan's secrets.
+FIGURE: and if i use them to kill you?
+LI: that's a risk i'm willing to take. deep down, you're good. even jade fox couldn't corrupt you.
+FIGURE: wudan is a whorehouse! keep your lessons!
 
-speaker1: you're home late... or should i say early? 
-speaker2: why are you still here? you killed a policeman. you should leave!
-speaker1: they wouldn't have found me if you hadn't stolen the sword. like a little girl, you thought stealing would be fun? you, too, are responsible for that death. come with me. you don't want to waste your life as the wife of some bureaucrat. denied your talent... as a master and disciple we will rule.
-speaker2: i'll never live as a thief!
-speaker1: you're already a thief.
-speaker2: that was just for fun. how can i leave? where would i go?
-speaker1: wherever we want. we'll get rid of anyone in our way. even your father.
-speaker2: shut up!
-speaker1: it's the giang hu fighter lifestyle... kill or be killed.
-speaker2: i owe you nothing.
-speaker1: yes, you do! you are still my disciple.
-speaker2: you think you've been teaching me all these years from the manual? you couldn't even decipher the symbols!
-speaker1: i studied the diagrams. but you hid the details!
-speaker2: you wouldn't have understood, even if i had tried to explain. you know... you've gone as far as you can go. i hid my skills so as not to hurt you.
-speaker1: if i hadn't seen you fight with li mu bai, i'd still be ignorant of all you've hidden from me.
-speaker2: master... i started learning from you in secret when i was 10. you enchanted me with the world of giang hu. but once i realized i could surpass you, i became so frightened! everything fell apart. i had no one to guide me, no one to learn from.
-speaker1: believe me, i've a lesson or two left to teach you!
+FOX: you're home late... or should i say early? 
+JEN: why are you still here? you killed a policeman. you should leave!
+FOX: they wouldn't have found me if you hadn't stolen the sword. like a little girl, you thought stealing would be fun? you, too, are responsible for that death. come with me. you don't want to waste your life as the wife of some bureaucrat. denied your talent... as a master and disciple we will rule.
+JEN: i'll never live as a thief!
+FOX: you're already a thief.
+JEN: that was just for fun. how can i leave? where would i go?
+FOX: wherever we want. we'll get rid of anyone in our way. even your father.
+JEN: shut up!
+FOX: it's the giang hu fighter lifestyle... kill or be killed.
+JEN: i owe you nothing.
+FOX: yes, you do! you are still my disciple.
+JEN: you think you've been teaching me all these years from the manual? you couldn't even decipher the symbols!
+FOX: i studied the diagrams. but you hid the details!
+JEN: you wouldn't have understood, even if i had tried to explain. you know... you've gone as far as you can go. i hid my skills so as not to hurt you.
+FOX: if i hadn't seen you fight with li mu bai, i'd still be ignorant of all you've hidden from me.
+JEN: master... i started learning from you in secret when i was 10. you enchanted me with the world of giang hu. but once i realized i could surpass you, i became so frightened! everything fell apart. i had no one to guide me, no one to learn from.
+FOX: believe me, i've a lesson or two left to teach you!
 
-speaker1: the sword is back... are you happy? 
-speaker2: i admit, getting it back makes me realize how much i'd missed it.
-speaker1: but it's not your sword anymore.
-speaker2: true. but i must borrow it for one last mission. jade fox must die at its edge. did you know what you were hiding when you covered for that girl?
-speaker1: my job was to get the sword back, without embarassing anyone. i wasn't about to ruin her life, or her father's.
-speaker2: you did your job well. but, this girl... i saw her last night.
-speaker1: i knew she would intrigue you.
-speaker2: she needs direction... and training.
-speaker1: she's an aristocrat's daughter. she's not one of us. in any case, it will all be over soon. you'll kill fox, and she'll marry.
-speaker2: that's not for her. she should come to wudan and become a disciple.
-speaker1: but wudan does not accept women.
-speaker2: for her, they might make an exception. if not, i'm afraid she'll become a poisoned dragon.
-speaker1: it's not our affair. even if wudan accepts her, her husband might object.
-speaker2: i thought by giving away the sword, i could escape the giang hu world.
-speaker1: i wish there were something more i could do to help you.
-speaker2: just be patient with me, shu lien.
-speaker3: lo?
-speaker4: jen!
-speaker3: you shouldn't have come.
-speaker4: with all the traffic on your rooftop these days... it took me a while to get in here. i can't wait any longer. i was wrong to let you go. come back with me. you'll be happy in the desert. you'll be free there.
-speaker3: you've been looking for me all this time?
+YU: the sword is back... are you happy? 
+LI: i admit, getting it back makes me realize how much i'd missed it.
+YU: but it's not your sword anymore.
+LI: true. but i must borrow it for one last mission. jade fox must die at its edge. did you know what you were hiding when you covered for that girl?
+YU: my job was to get the sword back, without embarassing anyone. i wasn't about to ruin her life, or her father's.
+LI: you did your job well. but, this girl... i saw her last night.
+YU: i knew she would intrigue you.
+LI: she needs direction... and training.
+YU: she's an aristocrat's daughter. she's not one of us. in any case, it will all be over soon. you'll kill fox, and she'll marry.
+LI: that's not for her. she should come to wudan and become a disciple.
+YU: but wudan does not accept women.
+LI: for her, they might make an exception. if not, i'm afraid she'll become a poisoned dragon.
+YU: it's not our affair. even if wudan accepts her, her husband might object.
+LI: i thought by giving away the sword, i could escape the giang hu world.
+YU: i wish there were something more i could do to help you.
+LI: just be patient with me, shu lien.
+JEN: lo?
+LO: jen!
+JEN: you shouldn't have come.
+LO: with all the traffic on your rooftop these days... it took me a while to get in here. i can't wait any longer. i was wrong to let you go. come back with me. you'll be happy in the desert. you'll be free there.
+JEN: you've been looking for me all this time?
 
-speaker1: jen... stop playing with it. 
-speaker2: i won't break it.
+MADAM YU: jen... stop playing with it. 
+JEN: i won't break it.
 
-speaker1: it's dark cloud! dark cloud is coming! 
-speaker2: lower the shade, don't let them see you!
-speaker3: don't touch the women!
-speaker4: let's go!
+GUARD A: it's dark cloud! dark cloud is coming! 
+MADAM YU: lower the shade, don't let them see you!
+DARK CLOUD: don't touch the women!
+LO: let's go!
 
-speaker1: come get your comb. 
-speaker1: hurry back to your mother.
+LO: come get your comb. 
+LO: hurry back to your mother.
 
-speaker1: let's stop a moment. 
-speaker2: give it back!
-speaker1: you're tired. you need rest. your horse needs water. there's a creek up here.
-speaker1: well, there used to be! what's your name? i'm lo. the hans call me dark cloud. i'm not that tall or big, but i'm quick as lightning.
-speaker2: my comb!
+LO: let's stop a moment. 
+JEN: give it back!
+LO: you're tired. you need rest. your horse needs water. there's a creek up here.
+LO: well, there used to be! what's your name? i'm lo. the hans call me dark cloud. i'm not that tall or big, but i'm quick as lightning.
+JEN: my comb!
 
-speaker1: if you like that arrow, i can make you a bow. great for hunting wild chicken. they're delicious. 
-speaker1: you need to eat, understand? then you'll have the strength to fight. understand?
-speaker1: you're eating too fast. slowly.
+LO: if you like that arrow, i can make you a bow. great for hunting wild chicken. they're delicious. 
+LO: you need to eat, understand? then you'll have the strength to fight. understand?
+LO: you're eating too fast. slowly.
 
-speaker1: you've got quite a temper. it's better this way. 
-speaker2: you coward!
-speaker1: still in a bad mood? at least you're speaking. what's your name?
-speaker1: i didn't think the hans had names like that.
-speaker1: relax. if i had wanted to, i would already have done it. you must be dying for a bath. fresh water's hard to get here. but i managed to bring some up. you can wear my clothes when you're done. they're clean. don't worry. i'll sing, so you'll know where i am. after the bath, you'll be calmer.
+LO: you've got quite a temper. it's better this way. 
+JEN: you coward!
+LO: still in a bad mood? at least you're speaking. what's your name?
+LO: i didn't think the hans had names like that.
+LO: relax. if i had wanted to, i would already have done it. you must be dying for a bath. fresh water's hard to get here. but i managed to bring some up. you can wear my clothes when you're done. they're clean. don't worry. i'll sing, so you'll know where i am. after the bath, you'll be calmer.
 
-speaker1: no more hitting on the head! all this trouble for a comb? 
-speaker2: it's mine. it means a lot to me. a barbarian like you wouldn't understand.
-speaker1: not true. i can use it to pick fleas from my horse.
-speaker2: by the way, i'm a real manchurian.
-speaker1: i'm sorry... i guessed wrong. i though you were a han.
-speaker2: give me back my comb.
-speaker1: i don't take orders from anyone.
-speaker2: give it back.
+LO: no more hitting on the head! all this trouble for a comb? 
+JEN: it's mine. it means a lot to me. a barbarian like you wouldn't understand.
+LO: not true. i can use it to pick fleas from my horse.
+JEN: by the way, i'm a real manchurian.
+LO: i'm sorry... i guessed wrong. i though you were a han.
+JEN: give me back my comb.
+LO: i don't take orders from anyone.
+JEN: give it back.
 
-speaker1: when i was a boy, one night, i saw a thousand shooting stars. i thought, where did they all go? i'm an orphan. i used to look for stars alone. i thought if i rode to the other end of the desert, i'd find them. i've been riding in the desert ever since. 
-speaker2: and so, the little boy became a fearsome bandit. he couldn't find the stars, so he stole my comb.
-speaker1: out here, you always fight for survival. you have to be part of a gang to stand a chance. slowly, your gang becomes your family. all that dark cloud stuff is just to scare people and make my life easier.
-speaker2: so you're still that little boy looking for shooting stars.
-speaker1: i am a man. and now i've found the brightest star of all.
-speaker1: your father's men are looking for you.
+LO: when i was a boy, one night, i saw a thousand shooting stars. i thought, where did they all go? i'm an orphan. i used to look for stars alone. i thought if i rode to the other end of the desert, i'd find them. i've been riding in the desert ever since. 
+JEN: and so, the little boy became a fearsome bandit. he couldn't find the stars, so he stole my comb.
+LO: out here, you always fight for survival. you have to be part of a gang to stand a chance. slowly, your gang becomes your family. all that dark cloud stuff is just to scare people and make my life easier.
+JEN: so you're still that little boy looking for shooting stars.
+LO: i am a man. and now i've found the brightest star of all.
+LO: your father's men are looking for you.
 
-speaker1: your father's men are still looking for you. they're still out there, circling closer. 
-speaker2: let them look.
-speaker1: it is trouble for me.
-speaker2: don't send me back!
-speaker1: you must decide. you might get tired of this life. you might begin to miss your family. if it were our daughter, we'd look for her too. she would miss us. jen... i want you to be mine forever. i will make my mark on the world. i will earn your parents' respect. we have a legend. anyone who dares to jump from the mountain, will grant his wish. long ago, a young man's parents were ill, so he jumped. he didn't die. he wasn't even hurt. he floated away, far away, never to return. he knew his wish had come true. if you believe, it will happen. the elders say, "a faithful heart makes wishes come true."
+LO: your father's men are still looking for you. they're still out there, circling closer. 
+JEN: let them look.
+LO: it is trouble for me.
+JEN: don't send me back!
+LO: you must decide. you might get tired of this life. you might begin to miss your family. if it were our daughter, we'd look for her too. she would miss us. jen... i want you to be mine forever. i will make my mark on the world. i will earn your parents' respect. we have a legend. anyone who dares to jump from the mountain, will grant his wish. long ago, a young man's parents were ill, so he jumped. he didn't die. he wasn't even hurt. he floated away, far away, never to return. he knew his wish had come true. if you believe, it will happen. the elders say, "a faithful heart makes wishes come true."
 
-speaker1: keep it safe. return it to me when we are together again. 
-speaker2: i will.
-speaker1: if you don't, i'll come after you.
+JEN: keep it safe. return it to me when we are together again. 
+LO: i will.
+JEN: if you don't, i'll come after you.
 
-speaker1: wherever i went, someone always recognized me. i really tried. later, i heard you came to peking. i was afraid i'd never see you again. so i came. i can't let you marry. 
-speaker2: go.
-speaker1: jen...
-speaker2: don't ever come back.
-speaker1: so it's over?
-speaker2: yes.
-speaker3: we heard noises.
-speaker2: it was just a cat.
+LO: wherever i went, someone always recognized me. i really tried. later, i heard you came to peking. i was afraid i'd never see you again. so i came. i can't let you marry. 
+JEN: go.
+LO: jen...
+JEN: don't ever come back.
+LO: so it's over?
+JEN: yes.
+MAID: we heard noises.
+JEN: it was just a cat.
 
-speaker1: you think jade fox will show up? 
-speaker2: she's out there, but i doubt she'll show herself. we'll keep our eyes open. sooner or later, she'll come for the girl.
+YU: you think jade fox will show up? 
+LI: she's out there, but i doubt she'll show herself. we'll keep our eyes open. sooner or later, she'll come for the girl.
 
-speaker1: jen! come with me! you're mine! 
-speaker1: come with me to the desert! jen! come with me to xin jiang!
+LO: jen! come with me! you're mine! 
+LO: come with me to the desert! jen! come with me to xin jiang!
 
-speaker1: where is jade fox? 
-speaker2: come with me! hurry!
+LI: where is jade fox? 
+YU: come with me! hurry!
 
-speaker1: you thought she'd give it all up and go back west with you? 
-speaker2: she's mine.
-speaker3: either way, you are no good to her dead. with the gou and yu clans hunting you, you'll soon be in their hands.
-speaker2: i don't care anymore.
-speaker3: if you truly loved her, you wouldn't say that.
-speaker1: don't you want to see her again.
-speaker3: all right. i'll write you an introduction. take it to wudan.
-speaker2: all right.
+YU: you thought she'd give it all up and go back west with you? 
+LO: she's mine.
+LI: either way, you are no good to her dead. with the gou and yu clans hunting you, you'll soon be in their hands.
+LO: i don't care anymore.
+LI: if you truly loved her, you wouldn't say that.
+YU: don't you want to see her again.
+LI: all right. i'll write you an introduction. take it to wudan.
+LO: all right.
 
-speaker1: when will this end? they take it, they put it back, they take it again. my home is turning into a warehouse. 
-speaker2: speak!
-speaker3: jen has run away! gou found the wedding chamber empty. governor yu requests your assistance. you know the giang hu underworld. he wants to find her, and keep her from harm.
-speaker4: sir te, leave this to us. don't worry.
+SIR TE: when will this end? they take it, they put it back, they take it again. my home is turning into a warehouse. 
+TE: speak!
+BO: jen has run away! gou found the wedding chamber empty. governor yu requests your assistance. you know the giang hu underworld. he wants to find her, and keep her from harm.
+LI: sir te, leave this to us. don't worry.
 
-speaker1: what can i serve you? 
-speaker2: the cup is dirty.
-speaker3: hello. what is your name?
-speaker2: long.
-speaker4: it's young master long. my apologies. i'm iron eagle sung and this is my brother in arms, flying cougar li yun. what brings you to huai an, and where are you headed, master long?
-speaker2: anywhere there's action.
-speaker3: in that case, perhaps we could be of assistance.
-speaker2: don't bother.
-speaker3: you don't seem to understand.
-speaker2: so what if i don't?
-speaker4: we have ways of helping you understand.
-speaker3: are you related to li mu bai?
-speaker2: he is my defeated foe!
+WAITRESS: what can i serve you? 
+JEN: the cup is dirty.
+GANGSTER A: hello. what is your name?
+JEN: long.
+GANGSTER B: it's young master long. my apologies. i'm iron eagle sung and this is my brother in arms, flying cougar li yun. what brings you to huai an, and where are you headed, master long?
+JEN: anywhere there's action.
+GANGSTER A: in that case, perhaps we could be of assistance.
+JEN: don't bother.
+GANGSTER A: you don't seem to understand.
+JEN: so what if i don't?
+GANGSTER B: we have ways of helping you understand.
+GANGSTER A: are you related to li mu bai?
+JEN: he is my defeated foe!
 
-speaker1: have some tea. 
-speaker2: shu lien... the things we touch have no permanence. my master would say... there is nothing we can hold on to in this world. only by letting go can we truly possess what is real.
-speaker1: not everything is an illusion. my hand... wasn't that real?
-speaker2: your hand, rough and callused from machete practice... all this time, i've never had the courage to touch it.
-speaker2: giang hu is a world of tigers and dragons, full of corruption... i tried sincerely to give it up but i have brought us only trouble.
-speaker1: to repress one's feelings only makes them stronger.
-speaker2: you're right, but i don't know what to do. i want to be with you... just like this. it gives me a sense of peace.
-speaker3: please follow me.
-speaker4: i want a clean room.
-speaker3: we have plenty. your order?
-speaker4: steamed whole cod, bite-size meatballs, a little starchy, but keep the sauce light, shark fin soup, mixed vegetables, and some warm wine.
-speaker3: i have to order from a bigger restaurant.
-speaker4: hurry then.
-speaker5: that's him.
-speaker6: i am iron arm mi. i heard a true master has arrived. i have come to seek a lesson.
-speaker6: you asked for it!
-speaker4: what kind of iron arm are you?
-speaker7: you have amazing technique! i am flying machete. are you related to southern crane?
-speaker4: southern duck? i don't eat anything with two feet. who could remember such long-winded names?
-speaker8: li mu bai is your defeated foe, and you don't know his master, southern crane?
-speaker4: who are you?
-speaker8: i'm shining phoenix mountain gou.
-speaker4: gou? i hate that name. it makes me puke! too bad you're named gou. you'll be the first to feel my sword today. jen leaps up and dives into battle. the men all use different kinds of weapons, but they all succumb to the powerful green destiny.
-speaker9: hold it! don't you know monk jing?
-speaker4: a monk, in a place like this? you need a lesson!
-speaker9: who are you?
-speaker4: who am i? i am... i am the invincible sword goddess. armed with the incredible... green destiny. be you li or southern crane... lower your head... and ask for mercy. i am the desert dragon. i leave no trace. today i fly over eu-mei. tomorrow... i'll kick over wudan mountain!
+YU: have some tea. 
+LI: shu lien... the things we touch have no permanence. my master would say... there is nothing we can hold on to in this world. only by letting go can we truly possess what is real.
+YU: not everything is an illusion. my hand... wasn't that real?
+LI: your hand, rough and callused from machete practice... all this time, i've never had the courage to touch it.
+LI: giang hu is a world of tigers and dragons, full of corruption... i tried sincerely to give it up but i have brought us only trouble.
+YU: to repress one's feelings only makes them stronger.
+LI: you're right, but i don't know what to do. i want to be with you... just like this. it gives me a sense of peace.
+WAITER: please follow me.
+JEN: i want a clean room.
+WAITER: we have plenty. your order?
+JEN: steamed whole cod, bite-size meatballs, a little starchy, but keep the sauce light, shark fin soup, mixed vegetables, and some warm wine.
+WAITER: i have to order from a bigger restaurant.
+JEN: hurry then.
+GIANG HU A: that's him.
+MI BIAO: i am iron arm mi. i heard a true master has arrived. i have come to seek a lesson.
+MI BIAO: you asked for it!
+JEN: what kind of iron arm are you?
+FLYING MACHETE CHANG: you have amazing technique! i am flying machete. are you related to southern crane?
+JEN: southern duck? i don't eat anything with two feet. who could remember such long-winded names?
+GOU JUN SIHUNG: li mu bai is your defeated foe, and you don't know his master, southern crane?
+JEN: who are you?
+GOU JUN SIHUNG: i'm shining phoenix mountain gou.
+JEN: gou? i hate that name. it makes me puke! too bad you're named gou. you'll be the first to feel my sword today. jen leaps up and dives into battle. the men all use different kinds of weapons, but they all succumb to the powerful green destiny.
+MONK JING: hold it! don't you know monk jing?
+JEN: a monk, in a place like this? you need a lesson!
+MONK JING: who are you?
+JEN: who am i? i am... i am the invincible sword goddess. armed with the incredible... green destiny. be you li or southern crane... lower your head... and ask for mercy. i am the desert dragon. i leave no trace. today i fly over eu-mei. tomorrow... i'll kick over wudan mountain!
 
-speaker1: we politely asked for a friendly match, but she showed no respect, and attacked us. everyone came by to teach her a lesson. 
-speaker2: her sword was just too powerful.
-speaker3: i've traveled everywhere, but never met anyone so uncivilized.
-speaker4: she kept accusing me of being gou jun pei's brother. who is this gou, anyway?
-speaker5: her husband.
-speaker6: we're close to your headquarters.
-speaker5: what about you?
-speaker6: i'll look around and catch up later.
-speaker5: not a bad idea. tonight we'll get a good night's sleep at headquarters.
+FLYING MACHETE CHANG: we politely asked for a friendly match, but she showed no respect, and attacked us. everyone came by to teach her a lesson. 
+MI BIAO: her sword was just too powerful.
+MONK JING: i've traveled everywhere, but never met anyone so uncivilized.
+SHINING PHOENIX MOUNTAIN GOD: she kept accusing me of being gou jun pei's brother. who is this gou, anyway?
+YU: her husband.
+LI: we're close to your headquarters.
+YU: what about you?
+LI: i'll look around and catch up later.
+YU: not a bad idea. tonight we'll get a good night's sleep at headquarters.
 
-speaker1: mistress, you're back. 
-speaker2: it's you! how's everything here?
-speaker3: fine. you've been gone a while.
-speaker2: yes, and i leave again tomorrow.
-speaker4: yeah, a baby girl.
-speaker2: good!
-speaker4: i'll be happy if she's half as strong as you.
-speaker2: mrs. wu...
-speaker5: you're back!
-speaker2: how's the arm? still sore?
-speaker5: much better. you've been gone so long.
-speaker2: li mu bai is coming to stay the night.
-speaker5: i'll go and make up his room!
+SECURITY MAN A: mistress, you're back. 
+YU: it's you! how's everything here?
+CAPTAIN: fine. you've been gone a while.
+YU: yes, and i leave again tomorrow.
+AH WAI: yeah, a baby girl.
+YU: good!
+AH WAI: i'll be happy if she's half as strong as you.
+YU: mrs. wu...
+AUNT WU: you're back!
+YU: how's the arm? still sore?
+AUNT WU: much better. you've been gone so long.
+YU: li mu bai is coming to stay the night.
+AUNT WU: i'll go and make up his room!
 
-speaker1: here you must be in proper attire. 
-speaker2: i'm just borrowing some clean clothes. i'm not staying.
-speaker1: i'll give them to you.
-speaker2: i was just passing by and wondered how you were.
-speaker2: you, sister...
-speaker1: look at the trouble you've caused. now you know what giang hu life is really like. if you think of me as your sister, let me give you some sisterly advice. you can run from marriage, but not your parents.
-speaker2: they forced me to marry!
-speaker1: go back to them first. then you can decide about lo.
-speaker2: you know about lo?
-speaker1: he really loves you. come back to peking with me. we'll find a solution.
-speaker2: where is he now?
-speaker1: li mu bai has made arrangements.
-speaker2: you're working together to set me up! i'm leaving!
-speaker1: how dare you accuse us? i always knew you had stolen the sword! i've done nothing but protect you and your family. and you're repaid me with nothing but contempt. li mu bai himself spared you, and all you do is insult him. we wanted some peace and you've ruined it all!
-speaker2: what do i care? you were never a real friend anyway. but i wonder, how long could you last as my enemy?
-speaker1: put the sword down!
+YU: here you must be in proper attire. 
+JEN: i'm just borrowing some clean clothes. i'm not staying.
+YU: i'll give them to you.
+JEN: i was just passing by and wondered how you were.
+JEN: you, sister...
+YU: look at the trouble you've caused. now you know what giang hu life is really like. if you think of me as your sister, let me give you some sisterly advice. you can run from marriage, but not your parents.
+JEN: they forced me to marry!
+YU: go back to them first. then you can decide about lo.
+JEN: you know about lo?
+YU: he really loves you. come back to peking with me. we'll find a solution.
+JEN: where is he now?
+YU: li mu bai has made arrangements.
+JEN: you're working together to set me up! i'm leaving!
+YU: how dare you accuse us? i always knew you had stolen the sword! i've done nothing but protect you and your family. and you're repaid me with nothing but contempt. li mu bai himself spared you, and all you do is insult him. we wanted some peace and you've ruined it all!
+JEN: what do i care? you were never a real friend anyway. but i wonder, how long could you last as my enemy?
+YU: put the sword down!
 
-speaker1: jen! 
-speaker1: everyone out. shut the doors.
-speaker1: fine... the friendship is over.
-speaker1: don't touch it! that's li mu bai's sword.
-speaker2: come and get it if you can.
-speaker1: without the green destiny, you are nothing.
-speaker2: don't be a sore loser. go ahead. take your pick. i'll wait. go ahead.
-speaker1: give me the sword.
-speaker2: take it!
-speaker3: stop it! you don't deserve the green destiny.
-speaker2: not another lecture! on guard!
-speaker3: let's end this here.
-speaker2: only the sword will settle this.
+YU: jen! 
+YU: everyone out. shut the doors.
+YU: fine... the friendship is over.
+YU: don't touch it! that's li mu bai's sword.
+JEN: come and get it if you can.
+YU: without the green destiny, you are nothing.
+JEN: don't be a sore loser. go ahead. take your pick. i'll wait. go ahead.
+YU: give me the sword.
+JEN: take it!
+LI: stop it! you don't deserve the green destiny.
+JEN: not another lecture! on guard!
+LI: let's end this here.
+JEN: only the sword will settle this.
 
-speaker1: i only let you go because i wanted to see the real you. 
-speaker2: what do you know about a true heart?
+LI: i only let you go because i wanted to see the real you. 
+JEN: what do you know about a true heart?
 
-speaker1: what do you want? 
-speaker2: what i've always wanted, to teach you.
-speaker1: all right. if you can take back the sword in three moves, i'll go with you.
-speaker1: give it back!
-speaker2: kneel!
-speaker1: never!
-speaker2: then you have no use for the sword. li throws the sword into the rapids.
+JEN: what do you want? 
+LI: what i've always wanted, to teach you.
+JEN: all right. if you can take back the sword in three moves, i'll go with you.
+JEN: give it back!
+LI: kneel!
+JEN: never!
+LI: then you have no use for the sword. li throws the sword into the rapids.
 
-speaker1: she's crazy. you should have killed her. 
-speaker2: i didn't have the heart.
-speaker1: well, li mu bai can do it.
+AUNT WU: she's crazy. you should have killed her. 
+YU: i didn't have the heart.
+AUNT WU: well, li mu bai can do it.
 
-speaker1: is it me or the sword you want? 
-speaker2: you've been drugged!
+JEN: is it me or the sword you want? 
+LI: you've been drugged!
 
-speaker1: where is jade fox? 
-speaker2: what happened?
-speaker1: jade fox drugged her. how did you get here?
-speaker2: we followed jade fox.
-speaker1: and so you die.
-speaker3: and so shall you!
-speaker2: a poisoned needle!
-speaker3: you deserve to die, but the life i was hoping to take... was jen's. ten years i devoted to you. but you deceived me! you hid the manual's true meaning. i never improved... but your progress was limitless! you know what poison is? an eight-year-old girl, full of deceit. that's poison! jen! my only family... my only enemy...
-speaker2: you can't die! tell us what poison you used! you can't die! tell us the antidote! you can't let li mu bai die!
-speaker4: she used purple yin... purple yin poison. it goes straight to the heart.
-speaker1: my blood will soon reverse its flow. it's the same poison she used to kill my master. there is no antidote.
-speaker2: that can't be! everything has an antithesis! why not this?
-speaker4: the antidote exists. she taught it to me. the formula is simple, but it takes time to prepare. trust me. as you have helped me, let me help you.
-speaker1: all right. hurry. i will hold on as long as i can.
-speaker2: take my horse and go to the compound. give this to mrs. wu. she'll help you. hurry!
-speaker4: spare your energy. i'll be back!
-speaker4: where is mrs. wu?
-speaker5: stop it!
-speaker4: shu lien told me to show you this.
-speaker5: let her in.
+LI: where is jade fox? 
+YU: what happened?
+LI: jade fox drugged her. how did you get here?
+YU: we followed jade fox.
+LI: and so you die.
+FOX: and so shall you!
+YU: a poisoned needle!
+FOX: you deserve to die, but the life i was hoping to take... was jen's. ten years i devoted to you. but you deceived me! you hid the manual's true meaning. i never improved... but your progress was limitless! you know what poison is? an eight-year-old girl, full of deceit. that's poison! jen! my only family... my only enemy...
+YU: you can't die! tell us what poison you used! you can't die! tell us the antidote! you can't let li mu bai die!
+JEN: she used purple yin... purple yin poison. it goes straight to the heart.
+LI: my blood will soon reverse its flow. it's the same poison she used to kill my master. there is no antidote.
+YU: that can't be! everything has an antithesis! why not this?
+JEN: the antidote exists. she taught it to me. the formula is simple, but it takes time to prepare. trust me. as you have helped me, let me help you.
+LI: all right. hurry. i will hold on as long as i can.
+YU: take my horse and go to the compound. give this to mrs. wu. she'll help you. hurry!
+JEN: spare your energy. i'll be back!
+JEN: where is mrs. wu?
+AUNT WU: stop it!
+JEN: shu lien told me to show you this.
+AUNT WU: let her in.
 
-speaker1: mu bai, hold on. give me some hope... 
-speaker2: shu lien...
-speaker1: save your strength.
-speaker2: my life is departing. i've only one breath left.
-speaker1: use it to meditate. free yourself from this world as you have been taught. let your soul rise to eternity with your last breath. do not waste it... for me.
-speaker2: i've already wasted my whole life. i want to tell you with my last breath... i have always loved you. i would rather be a ghost, drifting by your side... as a condemned soul... than enter heaven without you. because of your love... i will never be a lonely spirit. yu cries.
+YU: mu bai, hold on. give me some hope... 
+LI: shu lien...
+YU: save your strength.
+LI: my life is departing. i've only one breath left.
+YU: use it to meditate. free yourself from this world as you have been taught. let your soul rise to eternity with your last breath. do not waste it... for me.
+LI: i've already wasted my whole life. i want to tell you with my last breath... i have always loved you. i would rather be a ghost, drifting by your side... as a condemned soul... than enter heaven without you. because of your love... i will never be a lonely spirit. yu cries.
 
-speaker1: he's gone? bo peeks over jen's shoulder. 
-speaker2: bo... please take this sword back to sir te.
-speaker2: now you must go to wudan mountain. lo awaits you there. promise me one thing, whatever path you take in this life... be true to yourself.
+JEN: he's gone? bo peeks over jen's shoulder. 
+YU: bo... please take this sword back to sir te.
+YU: now you must go to wudan mountain. lo awaits you there. promise me one thing, whatever path you take in this life... be true to yourself.
 
-speaker1: do you remember the legend of the young man? 
-speaker2: "a faithful heart makes wishes come true."
-speaker1: make a wish, lo.
+JEN: do you remember the legend of the young man? 
+LO: "a faithful heart makes wishes come true."
+JEN: make a wish, lo.
 

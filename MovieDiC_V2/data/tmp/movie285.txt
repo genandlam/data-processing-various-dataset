@@ -1,805 +1,805 @@
-speaker1: this, is berk. it's twelve days north of hopeless, and a few degrees south of freezing to death. it's located solidly on the meridian of misery. 
-speaker1: my village. in a word, sturdy. and it's been here for seven generations, but every single building is new.
-speaker1: we have fishing, hunting, and a charming view of the sunsets. the only problems are the pests. you see, most places have mice or mosquitos. we have...
-
-speaker1: most people would leave. not us. we're vikings. we have stubbornness issues. 
-speaker1: my name's hiccup. great name, i know. but it's not the worst. parents believe a hideous name will frighten off gnomes and trolls. like our charming viking demeanor wouldn't do that.
-speaker2: arggghhhhh! mornin'!
-speaker1: meet the neighbors. hoark the haggard...
-speaker3: what are you doing out!?
-speaker1: ... burnthair the broad...
-speaker4: get inside!
-speaker1: ... phlegma the fierce...
-speaker5: get back inside!
-speaker1: . ack.
-speaker1: yep, just ack.
-speaker6: hiccup!? what is he doing out again?!
-speaker6: what are you doing out?! get inside!
-speaker1: that's stoick the vast. chief of the tribe. they say that when he was a baby he popped a dragon's head clean off of its shoulders. do i believe it?
-speaker1: yes i do.
-speaker6: what have we got?
-speaker7: gronkles. nadders. zipplebacks. oh, and hoark saw a monstrous nightmare.
-speaker6: any night furies?
-speaker7: none so far.
-speaker6: good.
-speaker2: hoist the torches!
-
-speaker1: ah! nice of you to join the party. i thought you'd been carried off. 
-speaker2: who me? nah, come on! i'm way too muscular for their taste. they wouldn't know what to do with all this.
-speaker1: they need toothpicks, don't they?
-speaker2: the meathead with attitude and interchangeable hands is gobber. i've been his apprentice ever since i was little. well...littler.
-
-speaker1: we move to the lower defenses. we'll counter-attack with the catapults. 
-speaker2: see? old village. lots and lots of new houses.
-
-speaker1: oh and that's fishlegs, snotlout. the twins ruffnut and tuffnut. 
-speaker1: astrid.
-speaker1: their job is so much cooler.
-speaker1: ah, come on. let me out, please. i need to make my mark.
-speaker2: oh, you've made plenty of marks.
-speaker1: please, two minutes. i'll kill a dragon. my life will get infinitely better. i might even get a date.
-speaker2: you can't lift a hammer. you can't swing an axe...
-speaker2: ... you can't even throw one of these.
-speaker1: okay fine, but...
-speaker1: ... this will throw it for me.
-speaker3: arggh!
-speaker2: see, now this right here is what i'm talking about.
-speaker1: mild calibration issue.
-speaker2: hiccup. if you ever want to get out there to fight dragons, you need to stop all...
-speaker2: ... this.
-speaker1: but... you just pointed to all of me.
-speaker2: yes! that's it! stop being all of you.
-speaker1: ohhhh...
-speaker2: ohhhhh, yes.
-speaker1: you, sir, are playing a dangerous game. keeping this much, raw...vikingness contained.
-speaker1: there will be consequences!
-speaker2: i'll take my chances. sword. sharpen. now.
-speaker1: one day i'll get out there. because killing a dragon is everything around here.
-
-speaker1: a nadder head is sure to get me at least noticed. 
-speaker1: gronckles are tough. taking down one of those would definitely get me a girlfriend.
-speaker1: a zippelback? exotic, exciting. two heads, twice the status.
-
-speaker1: they found the sheep! 
-speaker2: concentrate fire over the lower bank!
-speaker1: fire!
-speaker3: and then there's the monstrous nightmare. only the best vikings go after those. they have this nasty habit of setting themselves on fire.
-speaker2: reload! i'll take care of this.
-
-speaker1: but the ultimate prize is the dragon no one has ever seen. we call it the-- 
-speaker2: night fury! get down!
-
-speaker1: this thing never steals food, never shows itself, and... 
-speaker1: ...never misses.
-speaker1: no one has ever killed a night fury. that's why i'm going to be the first.
-speaker2: man the fort, hiccup, they need me out there!
-speaker2: stay. put. there. you know what i mean. gobber charges into the fray, hollering.
-
-speaker1: hiccup, where are you going! 
-speaker2: come back here!
-speaker3: i know. be right back!
-
-speaker1: come on. give me something to shoot at, give me something to shoot at. 
-speaker1: oh i hit it! yes, i hit it! did anybody see that?
-speaker1: except for you.
-speaker2: to his men, re: the
-speaker3: do not let them escape!
-
-speaker1: you're all out. 
-speaker2: oh, and there's one more thing you need to know...
-speaker2: sorry, dad.
-
-speaker1: okay, but i hit a night fury. 
-speaker1: it's not like the last few times, dad. i mean i really actually hit it. you guys were busy and i had a very clear shot. it went down, just off raven point. let's get a search party out there, before it--
-speaker2: --stop! just....stop.
-speaker2: every time you step outside, disaster follows. can you not see that i have bigger problems? winter's almost here and i have an entire village to feed!
-speaker1: between you and me, the village could do with a little less feeding, don't ya think? a few rotund vikings stir self-consciously.
-speaker2: this isn't a joke, hiccup!
-speaker2: why can't you follow the simplest orders?
-speaker1: i can't stop myself. i see a dragon and i have to just... kill it, you know? it's who i am, dad.
-speaker2: you are many things, hiccup. but a dragon killer is not one of them.
-speaker2: get back to the house.
-speaker2: make sure he gets there. i have his mess to clean up. stoick lumbers off in the opposite direction.
-speaker3: quite the performance.
-speaker4: i've never seen anyone mess up that badly. that helped!
-speaker1: thank you, thank you. i was trying, so...
-speaker1: i really did hit one.
-speaker5: sure, hiccup.
-speaker1: he never listens.
-speaker5: well, it runs in the family.
-speaker1: and when he does, it's always with this... disappointed scowl. like someone skimped on the meat in his sandwich.
-speaker1: excuse me, barmaid. i'm afraid you brought me the wrong offspring. i ordered an extra large boy with beefy arms. extra guts and glory on the side. this here. this is a talking fish bone.
-speaker5: you're thinking about this all wrong. it's not so much what you look like. it's what's inside that he can't stand.
-speaker1: thank you, for summing that up.
-speaker5: look, the point is, stop trying so hard to be something you're not.
-speaker1: i just want to be one of you guys.
-speaker2: either we finish them or they'll finish us! it's the only way we'll be rid of them! if we find the nest and destroy it, the dragons will leave. they'll find another home.
-speaker2: one more search. before the ice sets in.
-speaker6: those ships never come back.
-speaker2: we're vikings. it's an occupational hazard. now who's with me?
-speaker6: today's not good for me.
-
-speaker1: alright. those who stay will look after hiccup. 
-speaker2: to the ships!
-speaker3: i'm with you stoick!
-speaker1: that's more like it.
-speaker4: i'll pack my undies.
-speaker1: no, i need you to stay and train some new recruits.
-speaker4: oh, perfect. and while i'm busy, hiccup can cover the stall. molten steel, razor sharp blades, lots of time to himself...what could possibly go wrong?
-speaker1: what am i going to do with him gobber?
-speaker4: put him in training with the others.
-speaker1: no, i'm serious.
-speaker4: so am i.
-speaker1: he'd be killed before you let the first dragon out of its cage.
-speaker4: oh, you don't know that.
-speaker1: i do know that, actually.
-speaker4: no, you don't.
-speaker1: no, actually i do.
-speaker4: no you don't!
-speaker1: listen! you know what he's like. from the time he could crawl he's been...different. he doesn't listen.
-
-speaker1: has the attention span of a sparrow. i take him fishing and he goes hunting for... for trolls. 
-speaker2: trolls exist! they steal your socks.
-speaker1: when i was a boy...
-speaker2: oh here we go.
-speaker1: my father told me to bang my head against a rock and i did it. i thought it was crazy, but i didn't question him. and you know what happened?
-speaker2: you got a headache.
-speaker1: that rock split in two. it taught me what a viking could do, gobber. he could crush mountains, level forests, tame seas! even as a boy, i knew what i was, what i had to become.
-speaker1: hiccup is not that boy.
-speaker2: you can't stop him, stoick. you can only prepare him.
-speaker2: look, i know it seems hopeless. but the truth is you won't always be around to protect him. he's going to get out there again. he's probably out there now. on stoick, as gobber's words hit their mark.
-
-speaker1: uggh, the gods hate me. some people lose their knife or their mug. no, not me. i manage to lose an entire dragon. 
-speaker1: oh wow. i did it. i did it. this fixes everything.
-speaker1: i have brought down this mighty beast!
-speaker1: whoa!
-speaker1: i'm going to kill you, dragon. i'm gonna cut out your heart and take it to my father. i'm a viking.
-speaker1: i am a viking!
-speaker1: i did this.
-speaker2: hiccup.
-speaker1: dad. uh...
-speaker1: i, uh... i have to talk to you, dad.
-speaker2: i need to speak with you too, son.
-
-speaker1: you go first. 
-speaker2: no, you go first.
-speaker1: alright. you get your wish. dragon training. you start in the morning.
-speaker2: oh man, i should've gone first. uh, 'cause i was thinking, you know we have a surplus of dragon-fighting vikings, but do we have enough bread-making vikings, or small home
-
-speaker1: --you'll need this. 
-speaker2: i don't want to fight dragons.
-speaker1: come on. yes, you do.
-speaker2: rephrase. dad i can't kill dragons.
-speaker1: but you will kill dragons.
-speaker2: no, i'm really very extra sure that i won't.
-speaker1: it's time hiccup.
-speaker2: can you not hear me?
-speaker1: this is serious son!
-speaker1: when you carry this axe... you carry all of us with you. which means you walk like us. you talk like us. you think like us. no more of...
-speaker2: you just gestured to all of me.
-speaker1: deal?
-speaker2: this conversation is feeling very one-sided.
-
-speaker1: deal. 
-speaker2: good. train hard. i'll be back.
-speaker1: and i'll be here. maybe.
-
-speaker1: welcome to dragon training! 
-speaker2: no turning back.
-speaker3: i hope i get some serious burns.
-speaker4: i'm hoping for some mauling, like on my shoulder or lower back.
-speaker2: yeah, it's only fun if you get a scar out of it.
-speaker5: yeah, no kidding, right? pain. love it.
-speaker3: oh great. who let him in?
-speaker1: let's get started! the recruit who does best will win the honor of killing his first dragon in front of the entire village.
-speaker6: hiccup already killed a night fury, so does that disqualify him or...?
-speaker3: can i transfer to the class with the cool vikings?
-speaker1: don't worry. you're small and you're weak. that'll make you less of a target. they'll see you as sick or insane and go after the more viking-like teens instead.
-speaker1: behind these doors are just a few of the many species you will learn to fight.
-speaker1: the deadly nadder.
-speaker7: speed eight. armor sixteen.
-speaker1: the hideous zippleback.
-speaker7: plus eleven stealth. times two.
-speaker1: the monstrous nightmare.
-speaker7: firepower fifteen.
-speaker1: the terrible terror.
-speaker7: attack eight. venom twelve.
-
-speaker1: jaw strength, eight. 
-speaker2: whoa, wait! aren't you gonna teach us first!?
-speaker3: i believe in learning on the job.
-speaker3: today is about survival. if you get blasted, you're dead. quick, what's the first thing you're going to need?
-speaker4: a doctor?
-speaker1: plus five speed?
-speaker5: a shield.
-speaker3: shields. go.
-speaker3: your most important piece of equipment is your shield. if you must make a choice between a sword or a shield, take the shield.
-speaker6: get your hands off my shield!
-speaker7: there are like a million shields!
-speaker6: take that one, it has a flower on it. girls like flowers.
-speaker7: ooops, now this one has blood on it.
-speaker3: tuffnut, ruffnut, you're out!
-speaker6: what?!
-speaker7: what?!
-speaker3: those shields are good for another thing. noise. make lots of it to throw off a dragon's aim.
-speaker3: all dragons have a limited number of shots. how many does a gronckle have?
-speaker2: five!
-speaker1: no, six.
-speaker3: correct, six. that's one for each of you!
-speaker1: i really don't think my parents
-speaker3: fishlegs, out.
-speaker3: hiccup, get in there!
-speaker2: so anyway i'm moving into my parents' basement. you should come by sometime to work out. you look like you work out--
-speaker3: snotlout! you're done!
-speaker4: so, i guess it's just you and me huh?
-speaker5: no. just you.
-speaker3: one shot left!
-speaker3: hiccup!
-speaker3: and that's six!
-speaker3: go back to bed, ya overgrown sausage! you'll get another chance, don't you worry.
-speaker3: remember... a dragon will always,
-speaker3: always go for the kill.
-
-speaker1: so...why didn't you? 
-speaker1: well this was stupid.
-speaker1: why don't you just...fly away?
-
-speaker1: alright. where did astrid go wrong in the ring today? 
-speaker2: i mistimed my summersault dive. it was sloppy. it threw off my reverse tumble.
-speaker3: yeah. we noticed.
-speaker4: no, no, you were great. that was so 'astrid'.
-speaker1: she's right, you have to be tough on yourselves.
-speaker1: where did hiccup go wrong?
-speaker3: he showed up.
-speaker5: he didn't get eaten.
-speaker2: he's never where he should be.
-speaker1: thank you, astrid.
-speaker1: you need to live and breathe this stuff.
-speaker1: the dragon manual. everything we know about every dragon we know of.
-speaker1: no attacks tonight. study up.
-speaker5: wait, you mean read?
-speaker3: while we're still alive?
-speaker4: why read words when you can just kill the stuff the words tell you stuff about?
-speaker6: oh! i've read it like, seven times. there's this water dragon that sprays boiling water at your face. and there's this other one that buries itself for like a week...
-speaker5: yeah, that sounds great. there was a chance i was going to read that...
-speaker3: ...but now... snotlout gets up to go.
-speaker4: you guys read, i'll go kill stuff.
-speaker6: oh and there's this other one that has these spines that look like trees...
-speaker7: so i guess we'll share--
-speaker2: read it.
-speaker7: all mine then. wow, so okay. i'll
-speaker7: tomorrow.
-
-speaker1: dragon classifications. strike class. fear class. mystery class. 
-speaker1: thunderdrum. this reclusive dragon inhabits sea caves and dark tide pools.
-
-speaker1: when startled, the thunderdrum produces a concussive sound that can kill a man at close range. extremely dangerous. kill on sight. 
-speaker1: timberjack. this gigantic creature has razor sharp wings that can slice through full grown trees...extremely dangerous. kill on sight.
-speaker1: scauldron. sprays scalding water at its victim. extremely dangerous.
-speaker1: changewing. even newly hatched dragons can spray acid. kill on sight.
-speaker1: gronckle. zippleback. the skrill. bone knapper. whispering death. burns its victims. buries its victims. chokes its victims. turns its victims inside-out. extremely dangerous. extremely dangerous. kill on sight. kill on sight. kill on sight...
-speaker1: night fury.
-speaker1: speed unknown. size unknown. the unholy offspring of lightning and death itself.
-
-speaker1: i can almost smell them. they're close. steady. stoick raises his gaze to... 
-speaker1: take us in.
-speaker2: hard to port... for helheim's gate.
-
-speaker1: you know, i just happened to notice the book had nothing on night furies. is there another book? or a sequel? maybe a little night fury pamphlet? 
-speaker2: focus hiccup! you're not even trying.
-speaker2: today... is all about attack.
-speaker2: nadders are quick and light on their feet. your job is to be quicker and lighter.
-speaker3: i'm really beginning to question your teaching methods.
-speaker2: look for its blind spot. every dragon has one. find it, hide in it, and strike.
-speaker4: do you ever bathe?
-speaker5: if you don't like it, then just get your own blind spot.
-speaker4: how about i give you one!
-speaker2: blind spot? yes. deaf spot? not so much.
-speaker1: hey, so how would one sneak up on a night fury?
-speaker2: none one's ever met one and lived to tell the tale. now get in there.
-speaker1: i know, i know, but hypothetically...
-speaker6: hiccup!
-speaker7: watch out babe. i'll take care of this.
-speaker6: hey!
-speaker7: the sun was in my eyes, astrid. what do you want me to do, block out the sun? i could do that, but i don't have time right now!
-speaker1: they probably take the daytime off. you know, like a cat. has anyone ever seen one napping?
-speaker2: hiccup!
-speaker6: --hiccup!
-speaker5: oooh! love on the battlefield!
-speaker4: she could do better.
-speaker2: well done, astrid.
-speaker6: is this some kind of a joke to you? our parents' war is about to become ours. figure out which side you're on.
-
-speaker1: huh. toothless. i could've sworn you had... 
-speaker1: ... teeth. the teeth retract again.
-speaker1: uh, no. no, i don't have any more.
-
-speaker1: ...and with one twist he took my hand and swallowed it whole. and i saw the look on his face. i was delicious. he must have passed the word, because it wasn't a month before another one of them took my leg. 
-speaker2: isn't it weird to think that your hand was inside a dragon. like if your mind was still in control of it you could have killed the dragon from the inside by crushing his heart or something.
-speaker3: i swear i'm so angry right now. i'll avenge your beautiful hand and your beautiful foot. i'll chop off the legs of every dragon i fight, with my face.
-speaker1: un-unh. it's the wings and the tails you really want. if it can't fly, it can't get away. a downed dragon is a dead dragon.
-speaker1: alright. i'm off to bed. you should be too. tomorrow we get into the big boys. slowly but surely making our way up to the monstrous nightmare. but who'll win the honor of killing it?
-speaker4: it's gonna be me.
-speaker4: it's my destiny. see?
-speaker2: your mom let you get a tattoo?
-speaker4: it's not a tattoo. it's a birthmark.
-speaker5: okay, i've been stuck with you since birth, and that was never there before.
-speaker4: yes it was. you've just never seen me from the left side until now.
-speaker3: it wasn't there yesterday. is it a birthmark or a today-mark?
-
-speaker1: hey toothless. i brought breakfast. i hope you're hungry. 
-speaker1: okay, that's disgusting.
-speaker1: uh..we've got some salmon...
-speaker1: ... some nice icelandic cod... swallows those too.
-speaker1: ... and a whole smoked eel.
-speaker1: no, no, no! it's okay. yeah, i don't like eel much either.
-speaker1: okay. that's it. that's it, just stick with good stuff. and don't you mind me. i'll just be back...here. minding my own business.
-speaker1: it's okay.
-speaker1: okay...okay..
-speaker1: there. not too bad. it works.
-speaker1: woah! no! no! no!
-speaker1: it's working!
-speaker1: yes! yes, i did it.
-
-speaker1: today is about teamwork. work together and you might survive. 
-speaker1: now, a wet dragon head can't light its fire. the hideous zippleback is extra tricky. one head breathes gas, the other head lights it. your job is to know which is which.
-speaker2: razor sharp, serrated teeth that inject venom for pre-digestion. prefers ambush attack, crushing its victims in its...
-speaker3: will you please stop that?
-
-speaker1: if that dragon shows either of his faces, i'm gonna-- --there! 
-speaker2: hey!
-speaker3: it's us, idiots.
-speaker4: your butts are getting bigger. we thought you were a dragon.
-speaker1: not that there's anything wrong with a dragon-esque figure.
-speaker2: wait.
-speaker4: oh, i'm hurt. i am very much hurt.
-speaker5: chances of survival are dwindling into single digits now...
-speaker6: look out!
-speaker5: oh. wrong head.
-speaker7: fishlegs!
-speaker7: now, hiccup!
-speaker6: oh, come on!
-
-speaker1: hiccup! beat. 
-speaker2: back! back! back! now don't you make me tell you again!
-speaker2: yes, that's right. back into your cage.
-speaker2: now think about what you've done.
-speaker2: okay! so are we done? because i've got some things i need to...
-speaker2: yep...see you tomorrow.
-
-speaker1: hey hiccup, i've never seen a gronkle to that before. 
-speaker2: how'd you do that?
-speaker3: it was really cool. he squirms and invents an excuse.
-speaker4: i left my axe back in the ring.
-speaker4: you guys go on ahead and i'll catch up with you.
-
-speaker1: hey hiccup! 
-speaker2: what was that? some kind of trick?
-speaker3: hiccup, you're totally going to come in first, there's no question.
-
-speaker1: meet the terrible terror. 
-speaker2: ha. it's like the size of my-- tuffnut is taken down in a blur.
-speaker2: get it off! get it off! oh! i'm hurt, i am very much hurt!
-speaker2: wow, he's better than you ever were.
-
-speaker1: hiccup. 
-speaker2: hiccup?
-speaker2: are you in there?
-speaker3: astrid. hey! hi astrid. hi astrid.
-speaker2: i normally don't care what people do, but you're acting weird. well, weirder.
-
-speaker1: where are the other ships? 
-speaker2: you don't want to know.
-speaker3: well, i trust you found the nest at least?
-speaker4: not even close.
-speaker3: ah. excellent.
-speaker4: i hope you had a little more success than me.
-speaker3: well, if by success, you mean that your parenting troubles are over with, then... yes. stoick stops. what does that mean?
-speaker5: congratulations stoick! everyone is so relieved.
-speaker6: out with the old and in with the new, right?!
-speaker7: no one will miss that old nuisance!
-speaker8: the village is throwing a party to celebrate!
-speaker4: he's... gone?
-speaker3: yeah...most afternoons. but who can blame him? i mean the life of a celebrity is very rough. he can barely walk through the village without being swarmed by his new fans.
-speaker4: hiccup?
-speaker3: who would've thought, eh? he has this...way with the beasts.
-
-speaker1: okay there bud, we're gonna take this nice and slow. 
-speaker1: here we go. here we go...position three, no four.
-speaker1: alright, it's go time. it's go time.
-speaker1: come on. come on buddy. come on buddy!
-speaker1: yeah! yes, it worked!
-speaker1: sorry.
-speaker1: my fault.
-speaker1: yeah, yeah, i'm on it.
-speaker2: position four, no three.
-speaker1: yeah! go baby! yes! oh, this is amazing! the wind in my...
-
-speaker1: no! 
-speaker1: oh gods! oh no!
-
-speaker1: uh..no thanks. 
-speaker2: i'm good.
-speaker1: not so fireproof on the inside, are you?
-speaker1: here you go.
-speaker1: everything we know about you guys is wrong.
-
-speaker1: dad! you're back! 
-speaker1: gobber's not here, so...
-speaker2: i know. i came looking for you.
-speaker1: you did?
-speaker2: you've been keeping secrets.
-speaker1: i...have?
-speaker2: just how long did you think you could hide it from me?
-speaker1: i don't know what you're...
-speaker2: nothing happens on this island without me hearing about it.
-speaker1: oh?
-speaker2: so.
-speaker2: let's talk about that dragon.
-speaker1: oh gods. dad i'm so sorry. i was going to tell you. i just didn't know how to--
-speaker1: you're not...upset?
-speaker2: what?! i was hoping for this!
-speaker1: uh...you were?
-speaker2: and believe me, it only gets better! just wait til you spill a nadder's guts for the first time.
-speaker2: and mount your first gronckle head on a spear. what a feeling!
-speaker2: you really had me going there, son. all those years of the worst viking berk has ever seen! odin, it was rough. i almost gave up on you!
-speaker2: and all the while, you were holding out on me! thor almighty!
-speaker2: ahhhhh. with you doing so well in the ring, we finally have something to talk about.
-speaker2: oh, i... brought you something.
-speaker2: to keep you safe in the ring.
-speaker1: wow. thanks.
-speaker2: your mother would've wanted you to have it.
-speaker2: it's half of her breast plate.
-speaker2: matching set. keeps her close, y'know?
-speaker2: wear it proudly. you deserve it. you've held up your end of the deal.
-speaker1: i should really get to bed.
-
-speaker1: stay out of my way! i'm winning this thing. 
-speaker2: please, by all means.
-speaker3: you got it astrid!
-
-speaker1: this time. this time for sure. 
-speaker1: aaaaaaaaaa...
-speaker1: ...aaaaaaauggggghhhhhhhh! no! no!
-
-speaker1: wait! wait! 
-speaker2: so, later. gobber snags hiccup as he attempts to leave.
-speaker3: not so fast.
-speaker2: i'm kinda late for--
-speaker4: what? late for what exactly?
-speaker1: okay quiet down. the elder has decided.
-speaker3: you've done it! you've done it, hiccup! you get to kill the dragon!
-speaker1: ha, ha! that's my boy!
-speaker2: heh, heh. oh yeah! yes! i can't wait. i am so...
-
-speaker1: ... leaving. we're leaving. let's pack up. looks like you and me are taking a little vacation, forever. 
-speaker1: oh..man...
-speaker1: aggh! what the--
-speaker2: i want to know what's going on. no one just gets as good as you do. especially you. start talking! are you training with someone?
-speaker1: uh...training?
-speaker2: it better not involve... this.
-speaker1: i know this looks really bad, but you see...this is, uh...
-speaker1: you're right! you're right. i'm through with the lies. i've been making... outfits. so you got me. it's time everyone knew. drag me back. go ahead. here we go.
-speaker1: aaaauuggghhh! why would you do that?!
-speaker2: that's for the lies.
-speaker2: and that's for everything else.
-speaker1: oh man.
-speaker2: get down! run! run!
-speaker1: no!
-speaker1: no. it's okay! it's okay...
-speaker1: she's a friend.
-speaker1: you just scared him.
-speaker2: i scared him!?
-speaker2: who is him?
-speaker3: astrid, toothless. toothless, astrid.
-speaker1: we're dead.
-speaker1: where do you think you're going?
-
-speaker1: oh great odin's ghost, this is it! 
-speaker1: hiccup! get me down from here!
-speaker2: you have to give me a chance to explain.
-speaker1: i'm not listening to anything you have to say!
-speaker2: then i won't speak. just let me show you.
-speaker2: please, astrid.
-speaker1: now get me down.
-speaker2: toothless? down. gently.
-speaker2: see? nothing to be afraid of.
-speaker2: toothless! what is wrong with you?! bad dragon! he's not usually like this. oh no...
-speaker2: toothless, what are you doing?! we need her to like us!
-speaker2: and now the spinning. thank you for nothing you useless reptile.
-speaker1: okay! i'm sorry! i'm sorry! just get me off of this thing.
-
-speaker1: alright i admit it. this is pretty cool. it's... amazing. 
-speaker1: he's amazing.
-speaker1: so what now?
-speaker1: hiccup, your final exam is tomorrow. you know you're going to have to kill...
-speaker1: ... kill a dragon.
-speaker2: don't remind me.
-speaker2: toothless! what's happening? what is it? toothless barks at him. 'quiet!'
-speaker2: get down!
-speaker1: what's going on?
-speaker2: i don't know.
-speaker2: toothless. you've got to get us out of here, bud. toothless hisses.
-speaker2: it looks like they're hauling in their kill.
-speaker1: what does that make us?
-speaker2: what my dad wouldn't give to find this.
-speaker2: it's satisfying to know that all of our food has been dumped down a hole.
-speaker1: they're not eating any of it.
-speaker1: what is that?
-speaker2: alright buddy, we gotta get out of here. now!
-
-speaker1: no, no, it totally makes sense. it's like a giant beehive. they're the workers... and that's their queen. it controls them. 
-speaker1: let's find your dad.
-speaker2: no, no! not yet. they'll... kill toothless.
-
-speaker1: astrid, we have to think this through carefully. 
-speaker2: hiccup, we just discovered the dragons' nest...the thing we've been after since vikings first sailed here. and you want to keep it a secret? to protect your pet dragon? are you serious?
-speaker1: yes.
-speaker2: okay.
-speaker2: then what do we do?
-speaker1: just give me until tomorrow. i'll figure something out.
-speaker2: okay.
-speaker2: that's for kidnapping me.
-speaker2: that's for, everything else.
-speaker1: what are you looking at?
-
-speaker1: if someone had told me that in a few short weeks, hiccup would go from being, well... hiccup, to placing first in dragon training... i would've tied him to a mast and shipped him off for fear he'd gone mad. yes! and you know it! 
-speaker1: ... or more proud than i am. today, my boy becomes a viking. today, he
-speaker2: be careful with that dragon.
-speaker3: it's not the dragon i'm worried about.
-speaker2: what are you going to do?
-speaker3: put an end to this. she eyes him, dubious.
-speaker3: i have to try.
-speaker3: astrid. if something goes wrong... just make sure they don't find toothless.
-speaker2: i will. just promise me it won't go wrong.
-speaker4: it's time, hiccup. knock him dead.
-speaker5: show 'em how it's done, my man!
-speaker1: hrmph. i would've gone for the hammer.
-speaker3: i'm ready.
-speaker1: what is he doing?
-speaker3: it's okay. it's okay.
-speaker3: i'm not one of them.
-speaker1: stop the fight.
-speaker3: no. i need you all to see this.
-speaker3: they're not what we think they are.
-
-speaker1: out of my way! 
-speaker2: hiccup!
-
-speaker1: hiccup! 
-speaker2: this way!
-speaker3: night fury! get down!
-speaker4: alright, toothless, go. get out of here!
-speaker5: night fury!
-speaker4: go! go!
-speaker6: take it alive!
-speaker1: stoick no!
-speaker4: dad! no! he won't hurt you!
-speaker4: no, don't! you're only making it worse!
-speaker4: toothless! stop!
-
-speaker1: get him! 
-speaker2: no! please...just don't hurt him. please don't hurt him.
-speaker3: put it with the others!
-
-speaker1: i should have known. i should have seen the signs. 
-speaker2: dad.
-speaker1: we had a deal!
-speaker2: i know we did... but that was before... ughh, it's all so messed up.
-speaker1: so everything in the ring. a trick? a lie?
-speaker2: i screwed up. i should have told you before now. take this out on me, be mad at me, but please... just don't hurt toothless.
-speaker1: the dragon? that's what you're worried about? not the people you almost killed?!
-speaker2: he was just protecting me! he's not dangerous.
-speaker1: they've killed hundreds of us!
-speaker2: and we've killed thousands of them! they defend themselves, that's all! they raid us because they have to! if they don't bring enough food back, they'll be eaten themselves.
-speaker2: there's something else on their island dad...it's a dragon like-- stoick huffs.
-speaker1: --their island?
-speaker1: so you've been to the nest.
-speaker2: did i say nest?
-speaker1: how did you find it?!
-speaker2: no... i didn't. toothless did. only a dragon can find the island.
-speaker2: oh no. no, dad. no. hiccup chases after him, panicked.
-speaker2: dad. it's not what you think. you don't know what you're up against. it's like nothing you've ever seen.
-speaker2: dad. please. i promise you that you can't win this one.
-speaker2: no. dad. no. for once in your life,
-
-speaker1: you've thrown your lot in with them. you're not a viking. 
-speaker1: you're not my son.
-speaker1: ready the ships!
-
-speaker1: set sail! we head for helheim's gate. 
-speaker1: lead us home, devil.
-
-speaker1: it's a mess. 
-speaker1: you must feel horrible. you've lost everything. your father, your tribe, your best friend.
-speaker2: thank you for summing that up.
-speaker2: why couldn't i have killed that dragon when i found him in the woods. it would have been better for everyone.
-speaker1: yep. the rest of us would have done it.
-speaker1: so why didn't you?
-speaker1: why didn't you?
-speaker2: i don't know. i couldn't.
-speaker1: that's not an answer.
-speaker2: why is this so important to you all of a sudden?
-speaker1: because i want to remember what you say right now.
-speaker2: oh for the love of -- i was a coward! i was weak. i wouldn't kill a dragon.
-speaker1: you said 'wouldn't' that time.
-speaker2: whatever! i wouldn't! three hundred years and i'm the first viking who wouldn't kill a dragon!
-
-speaker1: first to ride one, though. 
-speaker1: so...
-speaker2: ...i wouldn't kill him because he looked as frightened as i was.
-speaker1: i bet he's really frightened now.
-speaker1: what are you going to do about it?
-speaker2: probably something stupid.
-speaker1: good. but you've already done that.
-speaker2: then something crazy.
-speaker1: that's more like it.
-
-speaker1: sound your positions. stay within earshot. 
-speaker2: here.
-speaker3: one length to your stern.
-speaker4: on your starboard flank.
-speaker5: three widths to port.
-speaker6: ahead, at your bow.
-speaker7: haven't a clue.
-speaker8: listen... stoick... i was overhearing some of the men just now and, well, some of them are wondering what it is we're up to here -- not me of course, i know you're always the man with the plan -- but some, not me, are wondering if there is in fact a plan at all, what it might be?
-speaker1: find the nest and take it.
-speaker8: ah. of course. send them running. the old viking fall-back. nice and simple.
-speaker1: shhh.
-speaker1: step aside.
-speaker9: bear to port.
-
-speaker1: if you're planning on getting eaten, i'd definitely go with the gronckle. 
-speaker2: you were wise to seek help from the world's most deadly weapon.
-speaker2: it's me.
-speaker3: uh...
-speaker4: i love this plan.
-speaker3: i didn't...
-speaker5: you're crazy.
-speaker5: i like that.
-speaker6: so? what is the plan?
-
-speaker1: ah. i was wondering where that went. 
-speaker2: stay low and ready your weapons.
-speaker2: we're here.
-
-speaker1: uh-uh. 
-speaker2: wait! what are you...
-speaker3: relax. it's okay... it's okay.
-speaker2: where are you going?!
-speaker3: you're going to need something to help you hold on.
-
-speaker1: when we crack this mountain open, all is going to break loose. 
-speaker2: in my undies. good thing i brought extras.
-speaker1: no matter how this ends, it ends today.
-
-speaker1: is that it? 
-speaker2: we've done it!
-speaker3: this isn't over. form your ranks! hold together!
-speaker3: get clear!
-speaker1: beard of thor...what is that?
-speaker3: odin help us.
-speaker4: get to the ships!
-speaker3: no! no!
-speaker1: heh. smart, that one.
-speaker3: i was a fool.
-speaker3: lead the men to the far side of the island.
-speaker2: right.
-speaker3: gobber, go with the men.
-speaker1: i think i'll stay, just in case you're thinking of doing something crazy.
-speaker3: i can buy them a few minutes if i give that thing someone to hunt.
-speaker1: then i can double that time.
-
-speaker1: come on! fight me! 
-speaker2: no, me!
-speaker3: ruff, tuff, watch your backs! move fishlegs!
-speaker4: look at us, we're on a dragon!
-speaker3: up, let's move it!
-speaker1: every bit the boar-headed, stubborn viking you ever were.
-speaker3: fishlegs, break it down.
-speaker5: okay. heavily armored skull and tail made for bashing and crushing.
-
-speaker1: steer clear of both. small eyes, large nostrils. relies on hearing and smell. 
-speaker2: okay. lout, legs, hang in its blind spot. make some noise, keep it confused. ruff, tuff, find out if it has a shot limit. make it mad.
-speaker3: that's my specialty.
-speaker4: since when? everyone knows i'm more irritating. see.
-
-speaker1: just do what i told you. i'll be back as soon as i can. 
-speaker2: don't worry, we got it covered!
-speaker3: yeah!
-speaker2: troll!
-speaker4: elf!
-speaker2: bride of grendel!
-speaker3: uh, this thing doesn't have a blind spot.
-
-speaker1: there! 
-speaker1: go help the others! she and the nadder take off.
-speaker1: okay, hold on. hold on.
-
-speaker1: it's working. 
-speaker2: yeah! it's working.
-speaker1: agghh!
-speaker2: i've lost power on the gronckle. snotlout! do something!
-speaker2: i'm okay!
-speaker2: less okay.
-
-speaker1: i can't miss! 
-speaker1: what's wrong buddy, got something in your eye?
-speaker2: yeah! you're the viking!
-speaker1: whoa!
-
-speaker1: you got it, bud. 
-speaker2: hiccup. i'm sorry...for everything.
-speaker1: yeah...me too.
-speaker2: you don't have to go up there.
-speaker1: we're vikings. it's an occupational hazard.
-speaker2: i'm proud to call you my son.
-speaker1: thanks dad.
-
-speaker1: he's up! 
-speaker1: get snotlout out of there!
-speaker2: i'm on it! i'm on it!
-speaker3: i'm on it first! i'm ahead of you.
-speaker4: hey! let me drive!
-speaker3: i can't believe that worked.
-
-speaker1: do you think that did it? 
-speaker1: well, he can fly.
-
-speaker1: okay toothless, time to disappear. 
-speaker1: come on bud!
-speaker1: here it comes!
-
-speaker1: watch out! 
-speaker1: okay, time's up. let's see if this works.
-speaker1: come on! is that the best you can do!?
-speaker1: stay with me buddy. we're good. just a little bit longer.
-speaker1: hold, toothless.
-
-speaker1: hiccup? hiccup!? 
-speaker1: hiccup!? son!?
-speaker1: hiccup.
-speaker1: oh son...i did this...
-speaker1: i'm so sorry...
-speaker1: hiccup.
-speaker1: he's alive!
-speaker1: you brought him back alive!
-speaker1: thank you... for saving my son.
-speaker2: well, you know... most of him.
-
-speaker1: oh, hey toothless. 
-speaker1: okay, okay! i'm happy to see you too, bud. now just--
-speaker1: i'm in my house. you're in my house.
-speaker1: uh...does my dad know you're in here?!
-speaker1: okay, okay -- no toothless! aw, come on...
-
-speaker1: okay...okay... 
-speaker1: thanks bud.
-speaker1: toothless? stay here, bud.
-speaker2: come on guys, get ready! hold on tight! here we go!
-speaker1: i knew it. i'm dead.
-speaker3: no, but you gave it your best shot.
-speaker3: so? what do you think? hiccup just shrugs, amazed.
-speaker4: hey look! it's hiccup!
-speaker5: hiccup, how you doin' mate?
-speaker6: it's great to see you up and about.
-speaker3: turns out all we needed was a little more of...
-
-speaker1: you just gestured to all of me. 
-speaker2: well. most of you.
-speaker2: that bit's my handiwork. with a little hiccup flare thrown in.
-speaker1: bittersweet, coming to
-speaker3: i might make a few tweaks.
-speaker4: that's for scaring me.
-speaker1: what, is it always going to be this way? cause i...
-speaker1: ... could get used to it.
-speaker2: welcome home.
-speaker5: night fury, get down!
-
-speaker1: you ready? 
-speaker1: this... is berk.
-speaker1: it snows nine months of the year... and hails the other three.
-speaker1: any food that grows here is tough and tasteless. the people that grow here are even more so.
-speaker1: the only upsides are the pets. while other places have...ponies or parrots, we have...
-speaker1: ... dragons.
+HICCUP: this, is berk. it's twelve days north of hopeless, and a few degrees south of freezing to death. it's located solidly on the meridian of misery. 
+HICCUP: my village. in a word, sturdy. and it's been here for seven generations, but every single building is new.
+HICCUP: we have fishing, hunting, and a charming view of the sunsets. the only problems are the pests. you see, most places have mice or mosquitos. we have...
+
+HICCUP: most people would leave. not us. we're vikings. we have stubbornness issues. 
+HICCUP: my name's hiccup. great name, i know. but it's not the worst. parents believe a hideous name will frighten off gnomes and trolls. like our charming viking demeanor wouldn't do that.
+VIKING: arggghhhhh! mornin'!
+HICCUP: meet the neighbors. hoark the haggard...
+HOARK: what are you doing out!?
+HICCUP: ... burnthair the broad...
+BURNTHAIR: get inside!
+HICCUP: ... phlegma the fierce...
+PHLEGMA THE FIERCE: get back inside!
+HICCUP: . ack.
+HICCUP: yep, just ack.
+STOICK: hiccup!? what is he doing out again?!
+STOICK: what are you doing out?! get inside!
+HICCUP: that's stoick the vast. chief of the tribe. they say that when he was a baby he popped a dragon's head clean off of its shoulders. do i believe it?
+HICCUP: yes i do.
+STOICK: what have we got?
+VIKING #1: gronkles. nadders. zipplebacks. oh, and hoark saw a monstrous nightmare.
+STOICK: any night furies?
+VIKING #1: none so far.
+STOICK: good.
+VIKING: hoist the torches!
+
+GOBBER: ah! nice of you to join the party. i thought you'd been carried off. 
+HICCUP: who me? nah, come on! i'm way too muscular for their taste. they wouldn't know what to do with all this.
+GOBBER: they need toothpicks, don't they?
+HICCUP: the meathead with attitude and interchangeable hands is gobber. i've been his apprentice ever since i was little. well...littler.
+
+STOICK: we move to the lower defenses. we'll counter-attack with the catapults. 
+HICCUP: see? old village. lots and lots of new houses.
+
+HICCUP: oh and that's fishlegs, snotlout. the twins ruffnut and tuffnut. 
+HICCUP: astrid.
+HICCUP: their job is so much cooler.
+HICCUP: ah, come on. let me out, please. i need to make my mark.
+GOBBER: oh, you've made plenty of marks.
+HICCUP: please, two minutes. i'll kill a dragon. my life will get infinitely better. i might even get a date.
+GOBBER: you can't lift a hammer. you can't swing an axe...
+GOBBER: ... you can't even throw one of these.
+HICCUP: okay fine, but...
+HICCUP: ... this will throw it for me.
+VIKING: arggh!
+GOBBER: see, now this right here is what i'm talking about.
+HICCUP: mild calibration issue.
+GOBBER: hiccup. if you ever want to get out there to fight dragons, you need to stop all...
+GOBBER: ... this.
+HICCUP: but... you just pointed to all of me.
+GOBBER: yes! that's it! stop being all of you.
+HICCUP: ohhhh...
+GOBBER: ohhhhh, yes.
+HICCUP: you, sir, are playing a dangerous game. keeping this much, raw...vikingness contained.
+HICCUP: there will be consequences!
+GOBBER: i'll take my chances. sword. sharpen. now.
+HICCUP: one day i'll get out there. because killing a dragon is everything around here.
+
+HICCUP: a nadder head is sure to get me at least noticed. 
+HICCUP: gronckles are tough. taking down one of those would definitely get me a girlfriend.
+HICCUP: a zippelback? exotic, exciting. two heads, twice the status.
+
+CATAPULT OPERATOR: they found the sheep! 
+STOICK: concentrate fire over the lower bank!
+CATAPULT OPERATOR: fire!
+HICCUP: and then there's the monstrous nightmare. only the best vikings go after those. they have this nasty habit of setting themselves on fire.
+STOICK: reload! i'll take care of this.
+
+HICCUP: but the ultimate prize is the dragon no one has ever seen. we call it the-- 
+VIKING: night fury! get down!
+
+HICCUP: this thing never steals food, never shows itself, and... 
+HICCUP: ...never misses.
+HICCUP: no one has ever killed a night fury. that's why i'm going to be the first.
+GOBBER: man the fort, hiccup, they need me out there!
+GOBBER: stay. put. there. you know what i mean. gobber charges into the fray, hollering.
+
+VIKING #6: hiccup, where are you going! 
+VIKING #7: come back here!
+HICCUP: i know. be right back!
+
+HICCUP: come on. give me something to shoot at, give me something to shoot at. 
+HICCUP: oh i hit it! yes, i hit it! did anybody see that?
+HICCUP: except for you.
+STOICK: to his men, re: the
+NADDERS): do not let them escape!
+
+STOICK: you're all out. 
+HICCUP: oh, and there's one more thing you need to know...
+HICCUP: sorry, dad.
+
+HICCUP: okay, but i hit a night fury. 
+HICCUP: it's not like the last few times, dad. i mean i really actually hit it. you guys were busy and i had a very clear shot. it went down, just off raven point. let's get a search party out there, before it--
+STOICK: --stop! just....stop.
+STOICK: every time you step outside, disaster follows. can you not see that i have bigger problems? winter's almost here and i have an entire village to feed!
+HICCUP: between you and me, the village could do with a little less feeding, don't ya think? a few rotund vikings stir self-consciously.
+STOICK: this isn't a joke, hiccup!
+STOICK: why can't you follow the simplest orders?
+HICCUP: i can't stop myself. i see a dragon and i have to just... kill it, you know? it's who i am, dad.
+STOICK: you are many things, hiccup. but a dragon killer is not one of them.
+STOICK: get back to the house.
+STOICK: make sure he gets there. i have his mess to clean up. stoick lumbers off in the opposite direction.
+TUFFNUT: quite the performance.
+SNOTLOUT: i've never seen anyone mess up that badly. that helped!
+HICCUP: thank you, thank you. i was trying, so...
+HICCUP: i really did hit one.
+GOBBER: sure, hiccup.
+HICCUP: he never listens.
+GOBBER: well, it runs in the family.
+HICCUP: and when he does, it's always with this... disappointed scowl. like someone skimped on the meat in his sandwich.
+HICCUP: excuse me, barmaid. i'm afraid you brought me the wrong offspring. i ordered an extra large boy with beefy arms. extra guts and glory on the side. this here. this is a talking fish bone.
+GOBBER: you're thinking about this all wrong. it's not so much what you look like. it's what's inside that he can't stand.
+HICCUP: thank you, for summing that up.
+GOBBER: look, the point is, stop trying so hard to be something you're not.
+HICCUP: i just want to be one of you guys.
+STOICK: either we finish them or they'll finish us! it's the only way we'll be rid of them! if we find the nest and destroy it, the dragons will leave. they'll find another home.
+STOICK: one more search. before the ice sets in.
+VIKING: those ships never come back.
+STOICK: we're vikings. it's an occupational hazard. now who's with me?
+VIKING: today's not good for me.
+
+STOICK: alright. those who stay will look after hiccup. 
+PHLEGMA THE FIERCE: to the ships!
+SPITELOUT: i'm with you stoick!
+STOICK: that's more like it.
+GOBBER: i'll pack my undies.
+STOICK: no, i need you to stay and train some new recruits.
+GOBBER: oh, perfect. and while i'm busy, hiccup can cover the stall. molten steel, razor sharp blades, lots of time to himself...what could possibly go wrong?
+STOICK: what am i going to do with him gobber?
+GOBBER: put him in training with the others.
+STOICK: no, i'm serious.
+GOBBER: so am i.
+STOICK: he'd be killed before you let the first dragon out of its cage.
+GOBBER: oh, you don't know that.
+STOICK: i do know that, actually.
+GOBBER: no, you don't.
+STOICK: no, actually i do.
+GOBBER: no you don't!
+STOICK: listen! you know what he's like. from the time he could crawl he's been...different. he doesn't listen.
+
+STOICK: has the attention span of a sparrow. i take him fishing and he goes hunting for... for trolls. 
+GOBBER: trolls exist! they steal your socks.
+STOICK: when i was a boy...
+GOBBER: oh here we go.
+STOICK: my father told me to bang my head against a rock and i did it. i thought it was crazy, but i didn't question him. and you know what happened?
+GOBBER: you got a headache.
+STOICK: that rock split in two. it taught me what a viking could do, gobber. he could crush mountains, level forests, tame seas! even as a boy, i knew what i was, what i had to become.
+STOICK: hiccup is not that boy.
+GOBBER: you can't stop him, stoick. you can only prepare him.
+GOBBER: look, i know it seems hopeless. but the truth is you won't always be around to protect him. he's going to get out there again. he's probably out there now. on stoick, as gobber's words hit their mark.
+
+HICCUP: uggh, the gods hate me. some people lose their knife or their mug. no, not me. i manage to lose an entire dragon. 
+HICCUP: oh wow. i did it. i did it. this fixes everything.
+HICCUP: i have brought down this mighty beast!
+HICCUP: whoa!
+HICCUP: i'm going to kill you, dragon. i'm gonna cut out your heart and take it to my father. i'm a viking.
+HICCUP: i am a viking!
+HICCUP: i did this.
+STOICK: hiccup.
+HICCUP: dad. uh...
+HICCUP: i, uh... i have to talk to you, dad.
+STOICK: i need to speak with you too, son.
+
+STOICK: you go first. 
+HICCUP: no, you go first.
+STOICK: alright. you get your wish. dragon training. you start in the morning.
+HICCUP: oh man, i should've gone first. uh, 'cause i was thinking, you know we have a surplus of dragon-fighting vikings, but do we have enough bread-making vikings, or small home
+
+STOICK: --you'll need this. 
+HICCUP: i don't want to fight dragons.
+STOICK: come on. yes, you do.
+HICCUP: rephrase. dad i can't kill dragons.
+STOICK: but you will kill dragons.
+HICCUP: no, i'm really very extra sure that i won't.
+STOICK: it's time hiccup.
+HICCUP: can you not hear me?
+STOICK: this is serious son!
+STOICK: when you carry this axe... you carry all of us with you. which means you walk like us. you talk like us. you think like us. no more of...
+HICCUP: you just gestured to all of me.
+STOICK: deal?
+HICCUP: this conversation is feeling very one-sided.
+
+HICCUP: deal. 
+STOICK: good. train hard. i'll be back.
+HICCUP: and i'll be here. maybe.
+
+GOBBER: welcome to dragon training! 
+ASTRID: no turning back.
+TUFFNUT: i hope i get some serious burns.
+RUFFNUT: i'm hoping for some mauling, like on my shoulder or lower back.
+ASTRID: yeah, it's only fun if you get a scar out of it.
+HICCUP: yeah, no kidding, right? pain. love it.
+TUFFNUT: oh great. who let him in?
+GOBBER: let's get started! the recruit who does best will win the honor of killing his first dragon in front of the entire village.
+SNOTLOUT: hiccup already killed a night fury, so does that disqualify him or...?
+TUFFNUT: can i transfer to the class with the cool vikings?
+GOBBER: don't worry. you're small and you're weak. that'll make you less of a target. they'll see you as sick or insane and go after the more viking-like teens instead.
+GOBBER: behind these doors are just a few of the many species you will learn to fight.
+GOBBER: the deadly nadder.
+FISHLEGS: speed eight. armor sixteen.
+GOBBER: the hideous zippleback.
+FISHLEGS: plus eleven stealth. times two.
+GOBBER: the monstrous nightmare.
+FISHLEGS: firepower fifteen.
+GOBBER: the terrible terror.
+FISHLEGS: attack eight. venom twelve.
+
+FISHLEGS: jaw strength, eight. 
+SNOTLOUT: whoa, wait! aren't you gonna teach us first!?
+GOBBER: i believe in learning on the job.
+GOBBER: today is about survival. if you get blasted, you're dead. quick, what's the first thing you're going to need?
+HICCUP: a doctor?
+FISHLEGS: plus five speed?
+ASTRID: a shield.
+GOBBER: shields. go.
+GOBBER: your most important piece of equipment is your shield. if you must make a choice between a sword or a shield, take the shield.
+TUFFNUT: get your hands off my shield!
+RUFFNUT: there are like a million shields!
+TUFFNUT: take that one, it has a flower on it. girls like flowers.
+RUFFNUT: ooops, now this one has blood on it.
+GOBBER: tuffnut, ruffnut, you're out!
+TUFFNUT: what?!
+RUFFNUT: what?!
+GOBBER: those shields are good for another thing. noise. make lots of it to throw off a dragon's aim.
+GOBBER: all dragons have a limited number of shots. how many does a gronckle have?
+SNOTLOUT: five!
+FISHLEGS: no, six.
+GOBBER: correct, six. that's one for each of you!
+FISHLEGS: i really don't think my parents
+GOBBER: fishlegs, out.
+GOBBER: hiccup, get in there!
+SNOTLOUT: so anyway i'm moving into my parents' basement. you should come by sometime to work out. you look like you work out--
+GOBBER: snotlout! you're done!
+HICCUP: so, i guess it's just you and me huh?
+ASTRID: no. just you.
+GOBBER: one shot left!
+GOBBER: hiccup!
+GOBBER: and that's six!
+GOBBER: go back to bed, ya overgrown sausage! you'll get another chance, don't you worry.
+GOBBER: remember... a dragon will always,
+GOBBER: always go for the kill.
+
+HICCUP: so...why didn't you? 
+HICCUP: well this was stupid.
+HICCUP: why don't you just...fly away?
+
+GOBBER: alright. where did astrid go wrong in the ring today? 
+ASTRID: i mistimed my summersault dive. it was sloppy. it threw off my reverse tumble.
+RUFFNUT: yeah. we noticed.
+SNOTLOUT: no, no, you were great. that was so 'astrid'.
+GOBBER: she's right, you have to be tough on yourselves.
+GOBBER: where did hiccup go wrong?
+RUFFNUT: he showed up.
+TUFFNUT: he didn't get eaten.
+ASTRID: he's never where he should be.
+GOBBER: thank you, astrid.
+GOBBER: you need to live and breathe this stuff.
+GOBBER: the dragon manual. everything we know about every dragon we know of.
+GOBBER: no attacks tonight. study up.
+TUFFNUT: wait, you mean read?
+RUFFNUT: while we're still alive?
+SNOTLOUT: why read words when you can just kill the stuff the words tell you stuff about?
+FISHLEGS: oh! i've read it like, seven times. there's this water dragon that sprays boiling water at your face. and there's this other one that buries itself for like a week...
+TUFFNUT: yeah, that sounds great. there was a chance i was going to read that...
+RUFFNUT: ...but now... snotlout gets up to go.
+SNOTLOUT: you guys read, i'll go kill stuff.
+FISHLEGS: oh and there's this other one that has these spines that look like trees...
+HICCUP: so i guess we'll share--
+ASTRID: read it.
+HICCUP: all mine then. wow, so okay. i'll
+HICCUP: tomorrow.
+
+HICCUP: dragon classifications. strike class. fear class. mystery class. 
+HICCUP: thunderdrum. this reclusive dragon inhabits sea caves and dark tide pools.
+
+HICCUP: when startled, the thunderdrum produces a concussive sound that can kill a man at close range. extremely dangerous. kill on sight. 
+HICCUP: timberjack. this gigantic creature has razor sharp wings that can slice through full grown trees...extremely dangerous. kill on sight.
+HICCUP: scauldron. sprays scalding water at its victim. extremely dangerous.
+HICCUP: changewing. even newly hatched dragons can spray acid. kill on sight.
+HICCUP: gronckle. zippleback. the skrill. bone knapper. whispering death. burns its victims. buries its victims. chokes its victims. turns its victims inside-out. extremely dangerous. extremely dangerous. kill on sight. kill on sight. kill on sight...
+HICCUP: night fury.
+HICCUP: speed unknown. size unknown. the unholy offspring of lightning and death itself.
+
+STOICK: i can almost smell them. they're close. steady. stoick raises his gaze to... 
+STOICK: take us in.
+VIKING: hard to port... for helheim's gate.
+
+HICCUP: you know, i just happened to notice the book had nothing on night furies. is there another book? or a sequel? maybe a little night fury pamphlet? 
+GOBBER: focus hiccup! you're not even trying.
+GOBBER: today... is all about attack.
+GOBBER: nadders are quick and light on their feet. your job is to be quicker and lighter.
+FISHLEGS: i'm really beginning to question your teaching methods.
+GOBBER: look for its blind spot. every dragon has one. find it, hide in it, and strike.
+RUFFNUT: do you ever bathe?
+TUFFNUT: if you don't like it, then just get your own blind spot.
+RUFFNUT: how about i give you one!
+GOBBER: blind spot? yes. deaf spot? not so much.
+HICCUP: hey, so how would one sneak up on a night fury?
+GOBBER: none one's ever met one and lived to tell the tale. now get in there.
+HICCUP: i know, i know, but hypothetically...
+ASTRID: hiccup!
+SNOTLOUT: watch out babe. i'll take care of this.
+ASTRID: hey!
+SNOTLOUT: the sun was in my eyes, astrid. what do you want me to do, block out the sun? i could do that, but i don't have time right now!
+HICCUP: they probably take the daytime off. you know, like a cat. has anyone ever seen one napping?
+GOBBER: hiccup!
+ASTRID: --hiccup!
+TUFFNUT: oooh! love on the battlefield!
+RUFFNUT: she could do better.
+GOBBER: well done, astrid.
+ASTRID: is this some kind of a joke to you? our parents' war is about to become ours. figure out which side you're on.
+
+HICCUP: huh. toothless. i could've sworn you had... 
+HICCUP: ... teeth. the teeth retract again.
+HICCUP: uh, no. no, i don't have any more.
+
+GOBBER: ...and with one twist he took my hand and swallowed it whole. and i saw the look on his face. i was delicious. he must have passed the word, because it wasn't a month before another one of them took my leg. 
+FISHLEGS: isn't it weird to think that your hand was inside a dragon. like if your mind was still in control of it you could have killed the dragon from the inside by crushing his heart or something.
+SNOTLOUT: i swear i'm so angry right now. i'll avenge your beautiful hand and your beautiful foot. i'll chop off the legs of every dragon i fight, with my face.
+GOBBER: un-unh. it's the wings and the tails you really want. if it can't fly, it can't get away. a downed dragon is a dead dragon.
+GOBBER: alright. i'm off to bed. you should be too. tomorrow we get into the big boys. slowly but surely making our way up to the monstrous nightmare. but who'll win the honor of killing it?
+TUFFNUT: it's gonna be me.
+TUFFNUT: it's my destiny. see?
+FISHLEGS: your mom let you get a tattoo?
+TUFFNUT: it's not a tattoo. it's a birthmark.
+RUFFNUT: okay, i've been stuck with you since birth, and that was never there before.
+TUFFNUT: yes it was. you've just never seen me from the left side until now.
+SNOTLOUT: it wasn't there yesterday. is it a birthmark or a today-mark?
+
+HICCUP: hey toothless. i brought breakfast. i hope you're hungry. 
+HICCUP: okay, that's disgusting.
+HICCUP: uh..we've got some salmon...
+HICCUP: ... some nice icelandic cod... swallows those too.
+HICCUP: ... and a whole smoked eel.
+HICCUP: no, no, no! it's okay. yeah, i don't like eel much either.
+HICCUP: okay. that's it. that's it, just stick with good stuff. and don't you mind me. i'll just be back...here. minding my own business.
+HICCUP: it's okay.
+HICCUP: okay...okay..
+HICCUP: there. not too bad. it works.
+HICCUP: woah! no! no! no!
+HICCUP: it's working!
+HICCUP: yes! yes, i did it.
+
+GOBBER: today is about teamwork. work together and you might survive. 
+GOBBER: now, a wet dragon head can't light its fire. the hideous zippleback is extra tricky. one head breathes gas, the other head lights it. your job is to know which is which.
+FISHLEGS: razor sharp, serrated teeth that inject venom for pre-digestion. prefers ambush attack, crushing its victims in its...
+HICCUP: will you please stop that?
+
+SNOTLOUT: if that dragon shows either of his faces, i'm gonna-- --there! 
+ASTRID: hey!
+RUFFNUT: it's us, idiots.
+TUFFNUT: your butts are getting bigger. we thought you were a dragon.
+SNOTLOUT: not that there's anything wrong with a dragon-esque figure.
+ASTRID: wait.
+TUFFNUT: oh, i'm hurt. i am very much hurt.
+FISHLEGS: chances of survival are dwindling into single digits now...
+HICCUP: look out!
+FISHLEGS: oh. wrong head.
+GOBBER: fishlegs!
+GOBBER: now, hiccup!
+HICCUP: oh, come on!
+
+GOBBER: hiccup! beat. 
+HICCUP: back! back! back! now don't you make me tell you again!
+HICCUP: yes, that's right. back into your cage.
+HICCUP: now think about what you've done.
+HICCUP: okay! so are we done? because i've got some things i need to...
+HICCUP: yep...see you tomorrow.
+
+FISHLEGS: hey hiccup, i've never seen a gronkle to that before. 
+TUFFNUT: how'd you do that?
+RUFFNUT: it was really cool. he squirms and invents an excuse.
+HICCUP: i left my axe back in the ring.
+HICCUP: you guys go on ahead and i'll catch up with you.
+
+FISHLEGS: hey hiccup! 
+SNOTLOUT: what was that? some kind of trick?
+TUFFNUT: hiccup, you're totally going to come in first, there's no question.
+
+GOBBER: meet the terrible terror. 
+TUFFNUT: ha. it's like the size of my-- tuffnut is taken down in a blur.
+TUFFNUT: get it off! get it off! oh! i'm hurt, i am very much hurt!
+TUFFNUT: wow, he's better than you ever were.
+
+VIKING: hiccup. 
+ASTRID: hiccup?
+ASTRID: are you in there?
+HICCUP: astrid. hey! hi astrid. hi astrid.
+ASTRID: i normally don't care what people do, but you're acting weird. well, weirder.
+
+VIKING: where are the other ships? 
+SPITELOUT: you don't want to know.
+GOBBER: well, i trust you found the nest at least?
+STOICK: not even close.
+GOBBER: ah. excellent.
+STOICK: i hope you had a little more success than me.
+GOBBER: well, if by success, you mean that your parenting troubles are over with, then... yes. stoick stops. what does that mean?
+VIKING #1: congratulations stoick! everyone is so relieved.
+VIKING #2: out with the old and in with the new, right?!
+VIKING #3: no one will miss that old nuisance!
+VIKING #4: the village is throwing a party to celebrate!
+STOICK: he's... gone?
+GOBBER: yeah...most afternoons. but who can blame him? i mean the life of a celebrity is very rough. he can barely walk through the village without being swarmed by his new fans.
+STOICK: hiccup?
+GOBBER: who would've thought, eh? he has this...way with the beasts.
+
+HICCUP: okay there bud, we're gonna take this nice and slow. 
+HICCUP: here we go. here we go...position three, no four.
+HICCUP: alright, it's go time. it's go time.
+HICCUP: come on. come on buddy. come on buddy!
+HICCUP: yeah! yes, it worked!
+HICCUP: sorry.
+HICCUP: my fault.
+HICCUP: yeah, yeah, i'm on it.
+SHEET): position four, no three.
+HICCUP: yeah! go baby! yes! oh, this is amazing! the wind in my...
+
+HICCUP: no! 
+HICCUP: oh gods! oh no!
+
+HICCUP: uh..no thanks. 
+A STICK): i'm good.
+HICCUP: not so fireproof on the inside, are you?
+HICCUP: here you go.
+HICCUP: everything we know about you guys is wrong.
+
+HICCUP: dad! you're back! 
+HICCUP: gobber's not here, so...
+STOICK: i know. i came looking for you.
+HICCUP: you did?
+STOICK: you've been keeping secrets.
+HICCUP: i...have?
+STOICK: just how long did you think you could hide it from me?
+HICCUP: i don't know what you're...
+STOICK: nothing happens on this island without me hearing about it.
+HICCUP: oh?
+STOICK: so.
+STOICK: let's talk about that dragon.
+HICCUP: oh gods. dad i'm so sorry. i was going to tell you. i just didn't know how to--
+HICCUP: you're not...upset?
+STOICK: what?! i was hoping for this!
+HICCUP: uh...you were?
+STOICK: and believe me, it only gets better! just wait til you spill a nadder's guts for the first time.
+STOICK: and mount your first gronckle head on a spear. what a feeling!
+STOICK: you really had me going there, son. all those years of the worst viking berk has ever seen! odin, it was rough. i almost gave up on you!
+STOICK: and all the while, you were holding out on me! thor almighty!
+STOICK: ahhhhh. with you doing so well in the ring, we finally have something to talk about.
+STOICK: oh, i... brought you something.
+STOICK: to keep you safe in the ring.
+HICCUP: wow. thanks.
+STOICK: your mother would've wanted you to have it.
+STOICK: it's half of her breast plate.
+STOICK: matching set. keeps her close, y'know?
+STOICK: wear it proudly. you deserve it. you've held up your end of the deal.
+HICCUP: i should really get to bed.
+
+ASTRID: stay out of my way! i'm winning this thing. 
+HICCUP: please, by all means.
+VIKING IN CROWD: you got it astrid!
+
+ASTRID: this time. this time for sure. 
+ASTRID: aaaaaaaaaa...
+ASTRID: ...aaaaaaauggggghhhhhhhh! no! no!
+
+STOICK: wait! wait! 
+HICCUP: so, later. gobber snags hiccup as he attempts to leave.
+GOBBER: not so fast.
+HICCUP: i'm kinda late for--
+ASTRID: what? late for what exactly?
+STOICK: okay quiet down. the elder has decided.
+GOBBER: you've done it! you've done it, hiccup! you get to kill the dragon!
+STOICK: ha, ha! that's my boy!
+HICCUP: heh, heh. oh yeah! yes! i can't wait. i am so...
+
+HICCUP: ... leaving. we're leaving. let's pack up. looks like you and me are taking a little vacation, forever. 
+HICCUP: oh..man...
+HICCUP: aggh! what the--
+ASTRID: i want to know what's going on. no one just gets as good as you do. especially you. start talking! are you training with someone?
+HICCUP: uh...training?
+ASTRID: it better not involve... this.
+HICCUP: i know this looks really bad, but you see...this is, uh...
+HICCUP: you're right! you're right. i'm through with the lies. i've been making... outfits. so you got me. it's time everyone knew. drag me back. go ahead. here we go.
+HICCUP: aaaauuggghhh! why would you do that?!
+ASTRID: that's for the lies.
+ASTRID: and that's for everything else.
+HICCUP: oh man.
+ASTRID: get down! run! run!
+HICCUP: no!
+HICCUP: no. it's okay! it's okay...
+HICCUP: she's a friend.
+HICCUP: you just scared him.
+ASTRID: i scared him!?
+ASTRID: who is him?
+HICCUP.: astrid, toothless. toothless, astrid.
+HICCUP: we're dead.
+HICCUP: where do you think you're going?
+
+ASTRID: oh great odin's ghost, this is it! 
+ASTRID: hiccup! get me down from here!
+HICCUP: you have to give me a chance to explain.
+ASTRID: i'm not listening to anything you have to say!
+HICCUP: then i won't speak. just let me show you.
+HICCUP: please, astrid.
+ASTRID: now get me down.
+HICCUP: toothless? down. gently.
+HICCUP: see? nothing to be afraid of.
+HICCUP: toothless! what is wrong with you?! bad dragon! he's not usually like this. oh no...
+HICCUP: toothless, what are you doing?! we need her to like us!
+HICCUP: and now the spinning. thank you for nothing you useless reptile.
+ASTRID: okay! i'm sorry! i'm sorry! just get me off of this thing.
+
+ASTRID: alright i admit it. this is pretty cool. it's... amazing. 
+ASTRID: he's amazing.
+ASTRID: so what now?
+ASTRID: hiccup, your final exam is tomorrow. you know you're going to have to kill...
+ASTRID: ... kill a dragon.
+HICCUP: don't remind me.
+HICCUP: toothless! what's happening? what is it? toothless barks at him. 'quiet!'
+HICCUP: get down!
+ASTRID: what's going on?
+HICCUP: i don't know.
+HICCUP: toothless. you've got to get us out of here, bud. toothless hisses.
+HICCUP: it looks like they're hauling in their kill.
+ASTRID: what does that make us?
+HICCUP: what my dad wouldn't give to find this.
+HICCUP: it's satisfying to know that all of our food has been dumped down a hole.
+ASTRID: they're not eating any of it.
+ASTRID: what is that?
+HICCUP: alright buddy, we gotta get out of here. now!
+
+ASTRID: no, no, it totally makes sense. it's like a giant beehive. they're the workers... and that's their queen. it controls them. 
+ASTRID: let's find your dad.
+HICCUP: no, no! not yet. they'll... kill toothless.
+
+HICCUP: astrid, we have to think this through carefully. 
+ASTRID: hiccup, we just discovered the dragons' nest...the thing we've been after since vikings first sailed here. and you want to keep it a secret? to protect your pet dragon? are you serious?
+HICCUP: yes.
+ASTRID: okay.
+ASTRID: then what do we do?
+HICCUP: just give me until tomorrow. i'll figure something out.
+ASTRID: okay.
+ASTRID: that's for kidnapping me.
+ASTRID: that's for, everything else.
+HICCUP: what are you looking at?
+
+STOICK: if someone had told me that in a few short weeks, hiccup would go from being, well... hiccup, to placing first in dragon training... i would've tied him to a mast and shipped him off for fear he'd gone mad. yes! and you know it! 
+STOICK: ... or more proud than i am. today, my boy becomes a viking. today, he
+ASTRID: be careful with that dragon.
+HICCUP: it's not the dragon i'm worried about.
+ASTRID: what are you going to do?
+HICCUP: put an end to this. she eyes him, dubious.
+HICCUP: i have to try.
+HICCUP: astrid. if something goes wrong... just make sure they don't find toothless.
+ASTRID: i will. just promise me it won't go wrong.
+GOBBER: it's time, hiccup. knock him dead.
+TUFFNUT: show 'em how it's done, my man!
+STOICK: hrmph. i would've gone for the hammer.
+HICCUP: i'm ready.
+STOICK: what is he doing?
+HICCUP: it's okay. it's okay.
+HICCUP: i'm not one of them.
+STOICK: stop the fight.
+HICCUP: no. i need you all to see this.
+HICCUP: they're not what we think they are.
+
+STOICK: out of my way! 
+ASTRID: hiccup!
+
+ASTRID: hiccup! 
+STOICK: this way!
+GOBBER: night fury! get down!
+HICCUP: alright, toothless, go. get out of here!
+VIKINGS: night fury!
+HICCUP: go! go!
+VIKING: take it alive!
+ASTRID: stoick no!
+HICCUP: dad! no! he won't hurt you!
+HICCUP: no, don't! you're only making it worse!
+HICCUP: toothless! stop!
+
+VIKING: get him! 
+HICCUP: no! please...just don't hurt him. please don't hurt him.
+STOICK: put it with the others!
+
+STOICK: i should have known. i should have seen the signs. 
+HICCUP: dad.
+STOICK: we had a deal!
+HICCUP: i know we did... but that was before... ughh, it's all so messed up.
+STOICK: so everything in the ring. a trick? a lie?
+HICCUP: i screwed up. i should have told you before now. take this out on me, be mad at me, but please... just don't hurt toothless.
+STOICK: the dragon? that's what you're worried about? not the people you almost killed?!
+HICCUP: he was just protecting me! he's not dangerous.
+STOICK: they've killed hundreds of us!
+HICCUP: and we've killed thousands of them! they defend themselves, that's all! they raid us because they have to! if they don't bring enough food back, they'll be eaten themselves.
+HICCUP: there's something else on their island dad...it's a dragon like-- stoick huffs.
+STOICK: --their island?
+STOICK: so you've been to the nest.
+HICCUP: did i say nest?
+STOICK: how did you find it?!
+HICCUP: no... i didn't. toothless did. only a dragon can find the island.
+HICCUP: oh no. no, dad. no. hiccup chases after him, panicked.
+HICCUP: dad. it's not what you think. you don't know what you're up against. it's like nothing you've ever seen.
+HICCUP: dad. please. i promise you that you can't win this one.
+HICCUP: no. dad. no. for once in your life,
+
+STOICK: you've thrown your lot in with them. you're not a viking. 
+STOICK: you're not my son.
+STOICK: ready the ships!
+
+STOICK: set sail! we head for helheim's gate. 
+STOICK: lead us home, devil.
+
+ASTRID: it's a mess. 
+ASTRID: you must feel horrible. you've lost everything. your father, your tribe, your best friend.
+HICCUP: thank you for summing that up.
+HICCUP: why couldn't i have killed that dragon when i found him in the woods. it would have been better for everyone.
+ASTRID: yep. the rest of us would have done it.
+ASTRID: so why didn't you?
+ASTRID: why didn't you?
+HICCUP: i don't know. i couldn't.
+ASTRID: that's not an answer.
+HICCUP: why is this so important to you all of a sudden?
+ASTRID: because i want to remember what you say right now.
+HICCUP: oh for the love of -- i was a coward! i was weak. i wouldn't kill a dragon.
+ASTRID: you said 'wouldn't' that time.
+HICCUP: whatever! i wouldn't! three hundred years and i'm the first viking who wouldn't kill a dragon!
+
+ASTRID: first to ride one, though. 
+ASTRID: so...
+HICCUP: ...i wouldn't kill him because he looked as frightened as i was.
+ASTRID: i bet he's really frightened now.
+ASTRID: what are you going to do about it?
+HICCUP: probably something stupid.
+ASTRID: good. but you've already done that.
+HICCUP: then something crazy.
+ASTRID: that's more like it.
+
+STOICK: sound your positions. stay within earshot. 
+VIKING #1: here.
+VIKING #2: one length to your stern.
+VIKING #3: on your starboard flank.
+VIKING #4: three widths to port.
+VIKING #5: ahead, at your bow.
+VIKING #6: haven't a clue.
+GOBBER: listen... stoick... i was overhearing some of the men just now and, well, some of them are wondering what it is we're up to here -- not me of course, i know you're always the man with the plan -- but some, not me, are wondering if there is in fact a plan at all, what it might be?
+STOICK: find the nest and take it.
+GOBBER: ah. of course. send them running. the old viking fall-back. nice and simple.
+STOICK: shhh.
+STOICK: step aside.
+VIKING: bear to port.
+
+FISHLEGS: if you're planning on getting eaten, i'd definitely go with the gronckle. 
+TUFFNUT: you were wise to seek help from the world's most deadly weapon.
+TUFFNUT: it's me.
+HICCUP: uh...
+SNOTLOUT: i love this plan.
+HICCUP: i didn't...
+RUFFNUT: you're crazy.
+RUFFNUT: i like that.
+ASTRID: so? what is the plan?
+
+GOBBER: ah. i was wondering where that went. 
+STOICK: stay low and ready your weapons.
+STOICK: we're here.
+
+ASTRID: uh-uh. 
+SNOTLOUT: wait! what are you...
+HICCUP: relax. it's okay... it's okay.
+SNOTLOUT: where are you going?!
+HICCUP: you're going to need something to help you hold on.
+
+STOICK: when we crack this mountain open, all is going to break loose. 
+GOBBER: in my undies. good thing i brought extras.
+STOICK: no matter how this ends, it ends today.
+
+GOBBER: is that it? 
+SPITELOUT: we've done it!
+STOICK: this isn't over. form your ranks! hold together!
+STOICK: get clear!
+GOBBER: beard of thor...what is that?
+STOICK: odin help us.
+VIKING #3: get to the ships!
+STOICK: no! no!
+GOBBER: heh. smart, that one.
+STOICK: i was a fool.
+STOICK: lead the men to the far side of the island.
+SPITELOUT: right.
+STOICK: gobber, go with the men.
+GOBBER: i think i'll stay, just in case you're thinking of doing something crazy.
+STOICK: i can buy them a few minutes if i give that thing someone to hunt.
+GOBBER: then i can double that time.
+
+GOBBER: come on! fight me! 
+STOICK: no, me!
+HICCUP: ruff, tuff, watch your backs! move fishlegs!
+TUFFNUT: look at us, we're on a dragon!
+HICCUP: up, let's move it!
+GOBBER: every bit the boar-headed, stubborn viking you ever were.
+HICCUP: fishlegs, break it down.
+FISHLEGS: okay. heavily armored skull and tail made for bashing and crushing.
+
+FISHLEGS: steer clear of both. small eyes, large nostrils. relies on hearing and smell. 
+HICCUP: okay. lout, legs, hang in its blind spot. make some noise, keep it confused. ruff, tuff, find out if it has a shot limit. make it mad.
+RUFFNUT: that's my specialty.
+TUFFNUT: since when? everyone knows i'm more irritating. see.
+
+HICCUP: just do what i told you. i'll be back as soon as i can. 
+TUFFNUT: don't worry, we got it covered!
+FISHLEGS: yeah!
+TUFFNUT: troll!
+RUFFNUT: elf!
+TUFFNUT: bride of grendel!
+FISHLEGS: uh, this thing doesn't have a blind spot.
+
+HICCUP: there! 
+HICCUP: go help the others! she and the nadder take off.
+HICCUP: okay, hold on. hold on.
+
+SNOTLOUT: it's working. 
+FISHLEGS: yeah! it's working.
+SNOTLOUT: agghh!
+FISHLEGS: i've lost power on the gronckle. snotlout! do something!
+FISHLEGS: i'm okay!
+FISHLEGS: less okay.
+
+SNOTLOUT: i can't miss! 
+SNOTLOUT: what's wrong buddy, got something in your eye?
+ASTRID: yeah! you're the viking!
+SNOTLOUT: whoa!
+
+HICCUP: you got it, bud. 
+STOICK: hiccup. i'm sorry...for everything.
+HICCUP: yeah...me too.
+STOICK: you don't have to go up there.
+HICCUP: we're vikings. it's an occupational hazard.
+STOICK: i'm proud to call you my son.
+HICCUP: thanks dad.
+
+ASTRID: he's up! 
+ASTRID: get snotlout out of there!
+TUFFNUT RUFFNUT: i'm on it! i'm on it!
+TUFFNUT: i'm on it first! i'm ahead of you.
+RUFFNUT: hey! let me drive!
+TUFFNUT: i can't believe that worked.
+
+HICCUP: do you think that did it? 
+HICCUP: well, he can fly.
+
+HICCUP: okay toothless, time to disappear. 
+HICCUP: come on bud!
+HICCUP: here it comes!
+
+HICCUP: watch out! 
+HICCUP: okay, time's up. let's see if this works.
+HICCUP: come on! is that the best you can do!?
+HICCUP: stay with me buddy. we're good. just a little bit longer.
+HICCUP: hold, toothless.
+
+STOICK: hiccup? hiccup!? 
+STOICK: hiccup!? son!?
+STOICK: hiccup.
+STOICK: oh son...i did this...
+STOICK: i'm so sorry...
+STOICK: hiccup.
+STOICK: he's alive!
+STOICK: you brought him back alive!
+STOICK: thank you... for saving my son.
+GOBBER: well, you know... most of him.
+
+HICCUP: oh, hey toothless. 
+HICCUP: okay, okay! i'm happy to see you too, bud. now just--
+HICCUP: i'm in my house. you're in my house.
+HICCUP: uh...does my dad know you're in here?!
+HICCUP: okay, okay -- no toothless! aw, come on...
+
+HICCUP: okay...okay... 
+HICCUP: thanks bud.
+HICCUP: toothless? stay here, bud.
+SNOTLOUT: come on guys, get ready! hold on tight! here we go!
+HICCUP: i knew it. i'm dead.
+STOICK: no, but you gave it your best shot.
+STOICK: so? what do you think? hiccup just shrugs, amazed.
+VIKING #1: hey look! it's hiccup!
+VIKING #2: hiccup, how you doin' mate?
+VIKING #3: it's great to see you up and about.
+STOICK: turns out all we needed was a little more of...
+
+HICCUP: you just gestured to all of me. 
+GOBBER: well. most of you.
+GOBBER: that bit's my handiwork. with a little hiccup flare thrown in.
+HICCUP: bittersweet, coming to
+TERMS): i might make a few tweaks.
+ASTRID: that's for scaring me.
+HICCUP: what, is it always going to be this way? cause i...
+HICCUP: ... could get used to it.
+GOBBER: welcome home.
+VIKING: night fury, get down!
+
+HICCUP: you ready? 
+HICCUP: this... is berk.
+HICCUP: it snows nine months of the year... and hails the other three.
+HICCUP: any food that grows here is tough and tasteless. the people that grow here are even more so.
+HICCUP: the only upsides are the pets. while other places have...ponies or parrots, we have...
+HICCUP: ... dragons.
 

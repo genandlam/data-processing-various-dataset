@@ -1,468 +1,468 @@
-speaker1: producer 
-speaker2: script editor
-speaker3: maori dialogue and translator
-speaker4: copyright: jan chapman productions pty ltd 2 fairlight street leichhart 2040 nsw australia 4th draft 1991 developed with the assistance of the australian film commission
-speaker5: sc 8 ext underwater beach day sc 8
-speaker6: hold still you smutt! blast the boat! look up! look up! lay to! lay to. up with it you buggerers, hold hard! me won't you hold?! etc.
-speaker6: it's a little rough out there. could be they can't get through to you in this weather. maybe they'll come over land.
-speaker6: have you things for shelter?
-speaker6: what things have you?
-speaker7: she says, "thank you".
-speaker6: does your mother prefer to come on with us to nelson?
-speaker7: she says, no. she says she'd rather be boiled alive by natives than get back in your tub.
-speaker6: you be fortuned i don't smack your puppy gob, missy. lucky.
-speaker8: sc 12 ext beach day sc 12
-speaker9: sc 14 ext beach dusk sc 14
-speaker7: mother... i'm thinking ada pauses. i'm not going to call him papa. i'm not going to call him anything. i'm not even going to look at him. sc 15 ext bush on way to beach day sc 15
-speaker10: are we stopping?... do you want to stop?
-speaker10: shall we stop?
-speaker10: tai hoa! me tatari tatou .., me tutatou i konei.
+JANE CAMPION: producer 
+JAN CHAPMAN: script editor
+BILLY MACKINNON: maori dialogue and translator
+SELWYN MURU: copyright: jan chapman productions pty ltd 2 fairlight street leichhart 2040 nsw australia 4th draft 1991 developed with the assistance of the australian film commission
+CUT TO BLACK: sc 8 ext underwater beach day sc 8
+SEAMEN: hold still you smutt! blast the boat! look up! look up! lay to! lay to. up with it you buggerers, hold hard! me won't you hold?! etc.
+SEAMEN: it's a little rough out there. could be they can't get through to you in this weather. maybe they'll come over land.
+SEAMEN: have you things for shelter?
+SEAMEN: what things have you?
+FLORA: she says, "thank you".
+SEAMEN: does your mother prefer to come on with us to nelson?
+FLORA: she says, no. she says she'd rather be boiled alive by natives than get back in your tub.
+SEAMEN: you be fortuned i don't smack your puppy gob, missy. lucky.
+SCENE 11 DELETED: sc 12 ext beach day sc 12
+SCENE 13 DELETED: sc 14 ext beach dusk sc 14
+FLORA: mother... i'm thinking ada pauses. i'm not going to call him papa. i'm not going to call him anything. i'm not even going to look at him. sc 15 ext bush on way to beach day sc 15
+BAINES: are we stopping?... do you want to stop?
+BAINES: shall we stop?
+BAINES: tai hoa! me tatari tatou .., me tutatou i konei.
 
-speaker1: we must get on. 
-speaker2: aue tepatupsiarehe!
-speaker3: sc 16 ext beach morningsc 16
-speaker1: miss mcgrath, alisdair stewart. you'll have to wake yourself. i've got men here to carry your things.
+STEWART: we must get on. 
+TAME: aue tepatupsiarehe!
+SUBTITLED: sc 16 ext beach morningsc 16
+STEWART: miss mcgrath, alisdair stewart. you'll have to wake yourself. i've got men here to carry your things.
 
-speaker1: well that is good, yes that is good, good. 
-speaker1: what's in here?
-speaker1: ohh, yes so it is, written there, crockery.
-speaker1: and this one?
-speaker1: you're small. i never thought you'd be small.
-speaker1: what's here?
-speaker1: what's in here then, lead?
-speaker2: it's my mother's piano.
-speaker1: a piano?
-speaker1: tell them to carry in pairs. those three and those two the black and the red, then the suitcases.
-speaker1: what do you think?
-speaker3: she looks tired.
-speaker1: she's stunted, that's one thing.
-speaker3: anei nga pouaka - ko era e toro. me era e raa.
+STEWART: well that is good, yes that is good, good. 
+STEWART: what's in here?
+STEWART: ohh, yes so it is, written there, crockery.
+STEWART: and this one?
+STEWART: you're small. i never thought you'd be small.
+STEWART: what's here?
+STEWART: what's in here then, lead?
+FLORA: it's my mother's piano.
+STEWART: a piano?
+STEWART: tell them to carry in pairs. those three and those two the black and the red, then the suitcases.
+STEWART: what do you think?
+BAINES: she looks tired.
+STEWART: she's stunted, that's one thing.
+BAINES: anei nga pouaka - ko era e toro. me era e raa.
 
-speaker1: e hoal 
-speaker2: oh no, it can't come now.
-speaker3: it must come.
-speaker3: she wants it to come.
-speaker2: yes and so do i, but there are too few of us here to carry it.
+HONE: e hoal 
+STEWART: oh no, it can't come now.
+FLORA: it must come.
+FLORA: she wants it to come.
+STEWART: yes and so do i, but there are too few of us here to carry it.
 
-speaker1: do you mean you don't want your kitchenware or your clothes? is that what you mean? 
-speaker2: we can't leave the piano
-speaker1: let us not discuss this further. i am very pleased....
-speaker2: mother wants to know if they could come back directly for it?
-speaker2: after they have taken the other things?
-speaker3: kei riri a te raho maroke.
+STEWART: do you mean you don't want your kitchenware or your clothes? is that what you mean? 
+FLORA: we can't leave the piano
+STEWART: let us not discuss this further. i am very pleased....
+FLORA: mother wants to know if they could come back directly for it?
+FLORA: after they have taken the other things?
+PITO: kei riri a te raho maroke.
 
-speaker1: i suggest you prepare for a difficult journey. the bush will tear clothes and the mud is deep in places. 
-speaker1: what are they doing? we don't have time for that. sc 17 exi beach day sc 17
-speaker2: mr. stewart asked if i might show you to the path. ... may i carry something?
-speaker2: aha tenei?
+STEWART: i suggest you prepare for a difficult journey. the bush will tear clothes and the mud is deep in places. 
+STEWART: what are they doing? we don't have time for that. sc 17 exi beach day sc 17
+BAINES: mr. stewart asked if i might show you to the path. ... may i carry something?
+BAINES: aha tenei?
 
-speaker1: what's he say? 
-speaker2: someone died here. it's tapu.
-speaker1: but we came down this way didn't we? i'm sure we did. the maori leaders continue discussing.
-speaker3: e tarna heke atu ki ram - tiro his atu. rapuhia mai he huarahi re!
+STEWART: what's he say? 
+BAINES: someone died here. it's tapu.
+STEWART: but we came down this way didn't we? i'm sure we did. the maori leaders continue discussing.
+HONE: e tarna heke atu ki ram - tiro his atu. rapuhia mai he huarahi re!
 
-speaker1: they want more money. they are trying to make two days out of it? 
-speaker2: no, no they know another track - to the side of this.
-speaker3: watch your feet!
-speaker4: watch your feet!
-speaker3: careful! watch his hand.
-speaker4: watch his hand
-speaker3: stop it!
-speaker3: we'll bring out the bride.
+STEWART: they want more money. they are trying to make two days out of it? 
+BAINES: no, no they know another track - to the side of this.
+AUNT MORAG: watch your feet!
+NESSIE: watch your feet!
+AUNT MORAG: careful! watch his hand.
+NESSIE: watch his hand
+AUNT MORAG: stop it!
+AUNT MORAG: we'll bring out the bride.
 
-speaker1: my real father was a famous german composer 
-speaker2: ohh the tag is broken.
-speaker1: .... they met when my mother was an opera singer... in luxemburg...
+FLORA: my real father was a famous german composer 
+AUNT MORAG: ohh the tag is broken.
+FLORA: .... they met when my mother was an opera singer... in luxemburg...
 
-speaker1: why? 
-speaker1: i want to be in the photograph. sc 22 ext stewart's hut day sc 22
-speaker2: beautiful.
-speaker3: i thought she met your father in luxemburg.
-speaker1: well, yes, in austria where be conducted the royal orchestra.
-speaker3: and where did they get married?
-speaker1: in an enormous forest, with real fairies as bridesmaids each holding a little elf's hand.
-speaker1: no, i tell a lie, it was in a small country church, near the mountains
-speaker3: which mountains are those dear?
-speaker1: the alps.
-speaker3: ohhh i've never been there.
-speaker1: mother used to sing the songs in german and her voice would echo across the valleys that was before the accident....
-speaker3: oh what happened?
-speaker1: one day when my mother and father were singing together in the forest, a great storm blew up out of nowhere. but so passionate was their singing that they did not notice, nor did they stop as the rain began to fall and when their voices rose for the final bars of the duet a great bolt of lightening came out of the sky and struck my father so that he lit up like a torch... and at the same moment my father was struck dead my mother was struck dumb! she- never-spoke-another-word.
-speaker3: ohhh ... dear. not another word from the shock, yes it would be.
-speaker3: terrible. terrible
-speaker2: i shall be gone for some days. there is some maori land i want and may buy very reasonably. i am hoping you will use the time to settle in, and, in some ways we may start again flora and ada look at each other.
-speaker2: all right?
-speaker4: i'm not able to read.
-speaker1: please take us to the beach where we landed.
-speaker4: i'm sorry, i can't do that. i don't have the time. goodbye sc 28 ext baines' day sc 28
-speaker4: i - can't - take - you there. i can't do it.
-speaker5: sc 33 ext stewart's hut andamp; kitchen dusk sc 33
-speaker2: hello, then.
-speaker1: hello.
-speaker3: well you stopped combing your hair, which is a good thing, it was looking over done. you see these are the slits that the heads will go through, show him nessie ... they'll be dead, the reverend is going to use animal blood, no doubt it will be very dramatic. tea!
-speaker6: it will be very dramatic.
-speaker2: what would you think if someone played a kitchen table like it were a piano?
-speaker3: like it were a piano?
-speaker2: it's strange isn't it? i mean it's not a piano, it doesn't make any sound.
-speaker3: biscuits.' no, no sound.
-speaker2: i knew she was mute, but now i'm thinking it's more than that. i'm wondering if she's not brain affected.
-speaker3: no sound at all?
-speaker2: no, it was a table.
-speaker3: well, she was very violent with the gown. she tore off a chunk of lace. if hadn't been there i'd have sworn she'd used her teeth
-speaker6: and wiped her feet an it.
-speaker2: well it has not yet come to anything. just a concern.
-speaker3: oh, yes, yes of course, a concern.
-speaker2: there is something to be said for silence
-speaker3: oh indeed. cotton'. she holds her needle up for nessie to thread.
-speaker2: and with time she will, i'm sure, become affectionate.
-speaker3: certainly, there is nothing so easy to like as a pet and they are quite silent. baines watches quietly on. sc 35 ext stewart's woodchop day sc 35
-speaker4: those 80 acres, that cross the stream, what do you think of them?
-speaker2: on your property?
-speaker4: yes
-speaker2: good, flatish land with reliable water, why? i don't have money. what are you about?
-speaker4: i'd like to make a swap.
-speaker2: what for?
-speaker4: the piano.
-speaker2: the piano on the beach? ada's piano?
-speaker2: it's not marshy is it?
-speaker4: no.
-speaker2: you'd have to organise it up here.
-speaker4: yes, i thought that.
-speaker2: well baines the music lover, i never would have known. hidden talents george.
-speaker4: i'll have to get lessons. it wouldn't be much use without them.
-speaker2: yes, i suppose you would.
-speaker2: well ada can play.
-speaker2: i have it in a letter she plays well. she's been playing since she was 5 or6.
-speaker2: i have got us some excellent land. baines has taken some queer idea to have a piano, and you are to give him lessons. have you taught before?
-speaker1: what on?
-speaker2: on your piano, that is the swap.
-speaker2: what does she say?
-speaker1: she says it's her piano, and she won't have him touch it. he's an oaf, he can't read, he's ignorant.
-speaker2: he wants to improve himself... and you will be able to play on it ... teach him to look after it.
+FLORA: why? 
+FLORA: i want to be in the photograph. sc 22 ext stewart's hut day sc 22
+STEWART: beautiful.
+AUNT MORAG: i thought she met your father in luxemburg.
+FLORA: well, yes, in austria where be conducted the royal orchestra.
+AUNT MORAG: and where did they get married?
+FLORA: in an enormous forest, with real fairies as bridesmaids each holding a little elf's hand.
+FLORA: no, i tell a lie, it was in a small country church, near the mountains
+AUNT MORAG: which mountains are those dear?
+FLORA: the alps.
+AUNT MORAG: ohhh i've never been there.
+FLORA: mother used to sing the songs in german and her voice would echo across the valleys that was before the accident....
+AUNT MORAG: oh what happened?
+FLORA: one day when my mother and father were singing together in the forest, a great storm blew up out of nowhere. but so passionate was their singing that they did not notice, nor did they stop as the rain began to fall and when their voices rose for the final bars of the duet a great bolt of lightening came out of the sky and struck my father so that he lit up like a torch... and at the same moment my father was struck dead my mother was struck dumb! she- never-spoke-another-word.
+AUNT MORAG: ohhh ... dear. not another word from the shock, yes it would be.
+AUNT MORAG: terrible. terrible
+STEWART: i shall be gone for some days. there is some maori land i want and may buy very reasonably. i am hoping you will use the time to settle in, and, in some ways we may start again flora and ada look at each other.
+STEWART: all right?
+BAINES: i'm not able to read.
+FLORA: please take us to the beach where we landed.
+BAINES: i'm sorry, i can't do that. i don't have the time. goodbye sc 28 ext baines' day sc 28
+BAINES: i - can't - take - you there. i can't do it.
+SCENE 32 DELETED: sc 33 ext stewart's hut andamp; kitchen dusk sc 33
+STEWART: hello, then.
+FLORA: hello.
+AUNT MORAG: well you stopped combing your hair, which is a good thing, it was looking over done. you see these are the slits that the heads will go through, show him nessie ... they'll be dead, the reverend is going to use animal blood, no doubt it will be very dramatic. tea!
+NESSIE: it will be very dramatic.
+STEWART: what would you think if someone played a kitchen table like it were a piano?
+AUNT MORAG: like it were a piano?
+STEWART: it's strange isn't it? i mean it's not a piano, it doesn't make any sound.
+AUNT MORAG: biscuits.' no, no sound.
+STEWART: i knew she was mute, but now i'm thinking it's more than that. i'm wondering if she's not brain affected.
+AUNT MORAG: no sound at all?
+STEWART: no, it was a table.
+AUNT MORAG: well, she was very violent with the gown. she tore off a chunk of lace. if hadn't been there i'd have sworn she'd used her teeth
+NESSIE: and wiped her feet an it.
+STEWART: well it has not yet come to anything. just a concern.
+AUNT MORAG: oh, yes, yes of course, a concern.
+STEWART: there is something to be said for silence
+AUNT MORAG: oh indeed. cotton'. she holds her needle up for nessie to thread.
+STEWART: and with time she will, i'm sure, become affectionate.
+AUNT MORAG: certainly, there is nothing so easy to like as a pet and they are quite silent. baines watches quietly on. sc 35 ext stewart's woodchop day sc 35
+BAINES: those 80 acres, that cross the stream, what do you think of them?
+STEWART: on your property?
+BAINES: yes
+STEWART: good, flatish land with reliable water, why? i don't have money. what are you about?
+BAINES: i'd like to make a swap.
+STEWART: what for?
+BAINES: the piano.
+STEWART: the piano on the beach? ada's piano?
+STEWART: it's not marshy is it?
+BAINES: no.
+STEWART: you'd have to organise it up here.
+BAINES: yes, i thought that.
+STEWART: well baines the music lover, i never would have known. hidden talents george.
+BAINES: i'll have to get lessons. it wouldn't be much use without them.
+STEWART: yes, i suppose you would.
+STEWART: well ada can play.
+STEWART: i have it in a letter she plays well. she's been playing since she was 5 or6.
+STEWART: i have got us some excellent land. baines has taken some queer idea to have a piano, and you are to give him lessons. have you taught before?
+FLORA: what on?
+STEWART: on your piano, that is the swap.
+STEWART: what does she say?
+FLORA: she says it's her piano, and she won't have him touch it. he's an oaf, he can't read, he's ignorant.
+STEWART: he wants to improve himself... and you will be able to play on it ... teach him to look after it.
 
-speaker1: you can't go on like this, we are a family now, all of us make sacrifices and so will you. you will teach him. i shall see to that! 
-speaker1: i'd try children's tunes, nothing more complicated
-speaker1: just be encouraging no one expects him to be good. sc 39 int/ext baines' hut day sc 39 the piano is the only cared for item in the rough hut
-speaker1: it looks good, very nice looking thing. well . i wish you luck. the girls are very excited about the lessons.
-speaker1: flora will explain anything ada says. they talk through their fingers, you can't believe what they say with just their hands.
-speaker2: my mother wants to see your hands. hold them out.
-speaker2: you have to wash them.
-speaker3: they are washed.
-speaker2: wash them again.
-speaker3: the marks do not come out. they are scars and hardened skin.
+STEWART: you can't go on like this, we are a family now, all of us make sacrifices and so will you. you will teach him. i shall see to that! 
+STEWART: i'd try children's tunes, nothing more complicated
+STEWART: just be encouraging no one expects him to be good. sc 39 int/ext baines' hut day sc 39 the piano is the only cared for item in the rough hut
+STEWART: it looks good, very nice looking thing. well . i wish you luck. the girls are very excited about the lessons.
+STEWART: flora will explain anything ada says. they talk through their fingers, you can't believe what they say with just their hands.
+FLORA: my mother wants to see your hands. hold them out.
+FLORA: you have to wash them.
+BAINES: they are washed.
+FLORA: wash them again.
+BAINES: the marks do not come out. they are scars and hardened skin.
 
-speaker1: there's no tune left in the piano so she can't teach you. the two women leave. sc40 ext steep bush hill day sc40 
-speaker2: sc 43 int baines' hut day sc 43
-speaker3: ah, a broadbent. a fine instrument. i've not come across one here, or in the islands where i have tuned some 200. yes, they like their pianos there.
-speaker4: i can't play.
-speaker3: you don't play?
-speaker4: no, i can't. i'm going to learn.
-speaker3: well my dear miss broadbent, tuned, but silent.
+FLORA: there's no tune left in the piano so she can't teach you. the two women leave. sc40 ext steep bush hill day sc40 
+SCENE 42 DELETED: sc 43 int baines' hut day sc 43
+BLIND MAN: ah, a broadbent. a fine instrument. i've not come across one here, or in the islands where i have tuned some 200. yes, they like their pianos there.
+BAINES: i can't play.
+BLIND MAN: you don't play?
+BAINES: no, i can't. i'm going to learn.
+BLIND MAN: well my dear miss broadbent, tuned, but silent.
 
-speaker1: sc 46 ext baines' hut morningsc 46 
-speaker2: mother says she can't stand to teach piano with it all out or tune. so i'm to do scales.
-speaker2: i hope you've scrubbed your hands. flora begins a scale. oh, it's in tune.
-speaker2: what's out there?
-speaker2: you have to watch me where i put my fingers.
-speaker2: it's in tune.
-speaker2: i was teaching.
-speaker2: she wants to see what you can do.
-speaker3: i'd rather not play. i want to listen and learn that way.
-speaker2: everyone has to practice.
-speaker3: i just want to listen.
+SCENE 45 DELETED: sc 46 ext baines' hut morningsc 46 
+FLORA: mother says she can't stand to teach piano with it all out or tune. so i'm to do scales.
+FLORA: i hope you've scrubbed your hands. flora begins a scale. oh, it's in tune.
+FLORA: what's out there?
+FLORA: you have to watch me where i put my fingers.
+FLORA: it's in tune.
+FLORA: i was teaching.
+FLORA: she wants to see what you can do.
+BAINES: i'd rather not play. i want to listen and learn that way.
+FLORA: everyone has to practice.
+BAINES: i just want to listen.
 
-speaker1: what do you want to hear? 
-speaker2: anything.
-speaker1: tell me about my real father.
-speaker1: what happened? why didn't you get married?
-speaker3: shall i kiss you goodnight?
-speaker2: do you know how to bargain, nod if you do. she doesn't move, there's a way you can have your piano back. do you want it back? you want it back?
-speaker2: you see i'd like us to make a deal. there's things i want to do while you stay. if you let me you can earn it back. what do you think, one visit for every key.
-speaker2: your dress?
-speaker2: play... keep playing.
-speaker4: i got the good wife for you peini. she pray good. clean. read bible. you sleep her peini. she chief daughter.
-speaker2: no, no bible readers.
-speaker4: why? we need you pakeha clever. you sleep her.
-speaker5: i give her plenty clever.
-speaker2: i have a wife.
-speaker5: i give her clever eb peini. hallelujah!
-speaker4: don't answer, he low born. jun look at him, mongrel. your wife where she?
-speaker2: she lives her own life in new jersey, america.
-speaker4: you have spare wife here peini. you get rnana for that. our chief four wives.
-speaker4: who do that? it not finish, that no good peini. you finish!
-speaker6: which sign is the word rehearsal?
-speaker6: i can't imagine a fate worse than being dumb. turn around.
-speaker7: to be deaf?
-speaker6: oh yes, dear too - terrible!
+FLORA: what do you want to hear? 
+BAINES: anything.
+FLORA: tell me about my real father.
+FLORA: what happened? why didn't you get married?
+STEWART: shall i kiss you goodnight?
+BAINES: do you know how to bargain, nod if you do. she doesn't move, there's a way you can have your piano back. do you want it back? you want it back?
+BAINES: you see i'd like us to make a deal. there's things i want to do while you stay. if you let me you can earn it back. what do you think, one visit for every key.
+BAINES: your dress?
+BAINES: play... keep playing.
+HIRA: i got the good wife for you peini. she pray good. clean. read bible. you sleep her peini. she chief daughter.
+BAINES: no, no bible readers.
+HIRA: why? we need you pakeha clever. you sleep her.
+TAHU: i give her plenty clever.
+BAINES: i have a wife.
+TAHU: i give her clever eb peini. hallelujah!
+HIRA: don't answer, he low born. jun look at him, mongrel. your wife where she?
+BAINES: she lives her own life in new jersey, america.
+HIRA: you have spare wife here peini. you get rnana for that. our chief four wives.
+HIRA: who do that? it not finish, that no good peini. you finish!
+AUNT MORAG: which sign is the word rehearsal?
+AUNT MORAG: i can't imagine a fate worse than being dumb. turn around.
+NESSIE: to be deaf?
+AUNT MORAG: oh yes, dear too - terrible!
 
-speaker1: actually, to tell you the whole truth, mama says most people speak rubbish and it's not worth the listen. 
-speaker2: well, that is a strong opinion.
-speaker1: yes, it's unholy. sc 57 int baines' hut day sc 57
-speaker3: lift your skirt,
-speaker3: higher.
-speaker4: nessie, your hand out ... out here, please.
-speaker5: oh, no use mr stewart, i can't act.
-speaker4: nessie, please.
-speaker4: look you are being attacked!
-speaker4: and with the blood ... it will be a good effect: sc 60 int baines' hut day sc 60
-speaker3: undo your dress. this part, i want to see your arms.
-speaker3: play.
-speaker2: i hardly need to give one to you, but there you are anyway.
-speaker6: wait.
-speaker6: how are the lessons going? ada nods enthusiastically. he's getting on all right? ada nods again good.
-speaker2: that is good, yes.
-speaker2: ah well, slowly, slowly
-speaker3: ada, four keys.
-speaker1: the holly and the ivy...
-speaker7: they're bringing in extra seats!
-speaker8: oh don't pin my hair too high alfred!
-speaker9: yes, me too, do it about here ...
-speaker10: look who's here, the musical mr baines what will we have tonight george, "twinkle, twinkle?"
-speaker11: 'mary had a little lamb' or a polka, come on george what's it to be?
-speaker2: mr. baines, do come and turn pages baines looks wildly about for rescue.
-speaker3: i can't read music, i have just begun.
-speaker6: lot of fools. come on, move up.
-speaker4: and so the young maid came upon each and all of bluebeard's missing wives, their severed heads still bleeding, their eyes still crying.
-speaker4: but who it this?
-speaker12: i am home early my sweet wife ... where art thou?
-speaker13: hello husband, what a surprise!
-speaker12: yes wife, a surprise indeed! so now you know my secret you, the sweetest and youngest or all my wives must be prepared to die.
-speaker14: e nilie, e nihe he kohuru, he kohurn?
+FLORA: actually, to tell you the whole truth, mama says most people speak rubbish and it's not worth the listen. 
+AUNT MORAG: well, that is a strong opinion.
+FLORA: yes, it's unholy. sc 57 int baines' hut day sc 57
+BAINES: lift your skirt,
+BAINES: higher.
+REVEREND: nessie, your hand out ... out here, please.
+NESSIE: oh, no use mr stewart, i can't act.
+REVEREND: nessie, please.
+REVEREND: look you are being attacked!
+REVEREND: and with the blood ... it will be a good effect: sc 60 int baines' hut day sc 60
+BAINES: undo your dress. this part, i want to see your arms.
+BAINES: play.
+AUNT MORAG: i hardly need to give one to you, but there you are anyway.
+STEWART: wait.
+STEWART: how are the lessons going? ada nods enthusiastically. he's getting on all right? ada nods again good.
+AUNT MORAG: that is good, yes.
+AUNT MORAG: ah well, slowly, slowly
+BAINES: ada, four keys.
+FLORA: the holly and the ivy...
+WOMAN: they're bringing in extra seats!
+ANOTHER WOMAN: oh don't pin my hair too high alfred!
+STILL ANOTHER: yes, me too, do it about here ...
+MAN ONE: look who's here, the musical mr baines what will we have tonight george, "twinkle, twinkle?"
+ANOTHER MAN: 'mary had a little lamb' or a polka, come on george what's it to be?
+AUNT MORAG: mr. baines, do come and turn pages baines looks wildly about for rescue.
+BAINES: i can't read music, i have just begun.
+STEWART: lot of fools. come on, move up.
+REVEREND: and so the young maid came upon each and all of bluebeard's missing wives, their severed heads still bleeding, their eyes still crying.
+REVEREND: but who it this?
+BLUEBEARD: i am home early my sweet wife ... where art thou?
+YOUNG WIFE: hello husband, what a surprise!
+BLUEBEARD: yes wife, a surprise indeed! so now you know my secret you, the sweetest and youngest or all my wives must be prepared to die.
+SUBTITLED: e nilie, e nihe he kohuru, he kohurn?
 
-speaker1: no, no wait! 
-speaker2: i shall not wait. bare your neck.
+YOUNG WIFE: no, no wait! 
+BLUEBEARD: i shall not wait. bare your neck.
 
-speaker1: hoki rnai! hoki rnai! 
-speaker2: sc 70 int school hall back stage night sc 70
-speaker3: i have been waiting. you are very late.
-speaker3: i don't want you to play. i just want you to sit.
-speaker3: no, not two keys.
-speaker3: two keys then!
-speaker4: nga awa kau kau, nga ana koiwi 0 matoti mattia tunpuna; kei runga katoa i te whenua nei korerongia atu ki to tangata na e peini.
+NIHE: hoki rnai! hoki rnai! 
+SUBTITLED: sc 70 int school hall back stage night sc 70
+BAINES: i have been waiting. you are very late.
+BAINES: i don't want you to play. i just want you to sit.
+BAINES: no, not two keys.
+BAINES: two keys then!
+MAORI NEGOTIATOR: nga awa kau kau, nga ana koiwi 0 matoti mattia tunpuna; kei runga katoa i te whenua nei korerongia atu ki to tangata na e peini.
 
-speaker1: what do they say? are they selling? offer the blankets for half the land. 
-speaker1: t-w~e-l-v~e.
-speaker2: te, kawnarna paraikete mo te tahi hawlie 0 te whenna uci.
+STEWART: what do they say? are they selling? offer the blankets for half the land. 
+STEWART: t-w~e-l-v~e.
+BAINES: te, kawnarna paraikete mo te tahi hawlie 0 te whenna uci.
 
-speaker1: offer the guns. 
-speaker2: kahore atu he kororo. kahore niaton kote hake whentia. engad mate peaks ne.
-speaker3: he messes up the pattern of twigs as he speaks.
-speaker4: he aha te pononga 0 te whenus pena kahore he pu hei pupuri?
+STEWART: offer the guns. 
+MAORI NEGOTIATOR: kahore atu he kororo. kahore niaton kote hake whentia. engad mate peaks ne.
+SUBTITLED: he messes up the pattern of twigs as he speaks.
+ANGRY MAORI: he aha te pononga 0 te whenus pena kahore he pu hei pupuri?
 
-speaker1: e hoa ma, haria atu ra takit kia nihe. 
-speaker2: ac ra. kia ora! kia ora! te peini. sc 73ext bush at new boundary markersdaysc 73
-speaker3: what do they want it for? they don't cultivate it, burn it back, anything. how do they even know it's theirs?
-speaker1: yes, why not.
-speaker3: ada says you're doing well with the piano?
-speaker3: i'll have to come and hear you play. what do you play.
-speaker1: nothing just yet
-speaker3: no. well i suppose it takes time.
-speaker3: baines can't play a thing. is that right he can't play a thing? we're going to lose that land, the way he was carrying on over it. is he musical? you've got to teach him a song. something simple.
-speaker3: what's that?
-speaker1: do what you like. play what you like.
-speaker1: i want to lie together without clothes on. how many would that be?
-speaker1: yes, ten keys.
-speaker3: never behave like that, never any where. you are greatly shamed and you have shamed those trunks.
-speaker4: what o'clock say mr stewart? -ge tupeka? -time for puff puff. sc 78 ext native pine forestday sc 7$
-speaker5: i know why mr. baines can't play the piano.
-speaker3: you've missed this bit.
-speaker5: she never gives him a turn. stewart stops and looks at her. she just plays whatever she pleases, sometimes she doesn't play at all.
-speaker3: and when is the next lesson?
-speaker5: tomorrow.
-speaker1: i am giving the piano back to you. i've had enough. the arrangement is making you a and me wretched. i want you to care for me, but you can't.
-speaker6: george, can i use this comb?
-speaker1: it's yours, leave, go on go!
-speaker3: stop right there'. this isn't yours what are you doing with the piano?
-speaker5: he's given it to us.
-speaker3: hah, you're very cunning ada, but i've seen through you, i'm not going to lose the land this way. wait here! stewart is off, pounding on down through the bush. sc 85ext/int baines' hut/bedroom day sc 85
-speaker6: george sick, he don't wanna see nobody. you got tupeka for the hira?
-speaker3: i don't think you should have given up the piano. i will make sure you are properly taught, with music written on to sheets and...
-speaker1: i don't want to learn.
-speaker3: you don't want to learn.
-speaker1: no.
-speaker3: and what does this do to our bargain? i cannot afford the piano if you mean me to pay.
-speaker1: no, no payment. i have given it back. i don't want it.
-speaker3: well, i doubt i want it very much myself.
-speaker1: it was more to your wife that i gave it.
-speaker3: well, thank you, i expect she will appreciate it. he closes the window. so that is agreed on? baines nods.
-speaker6: you make big mistake george. in first place you should swap land for wife. now look, she gone, you no land, no music box, you got nothing.
-speaker7: sc87 ext/int stewart's hut day sc 87
-speaker3: is it all right? aren't you going to play something?
-speaker5: what will i play?
-speaker3: play a gig.
-speaker5: do i know any gigs?
-speaker3: play a song then
-speaker3: why won't she play it? we have it back, and she just wanders off!
-speaker3: keep playing!
-speaker5: why? why can't i?
-speaker5: i shan't practise and i don't care!
-speaker3: where's your mother? where has she gone?
-speaker5: to hell!
-speaker1: so what brings you here? did you leave something? i have not found anything.
-speaker1: ada, i am unhappy because i want you, because my mind has seized on you and thinks of nothing else. this is how i suffer, i am sick with longing. i don't eat, i don't sleep. if you do not want me, if you have come with no feeling for me, then go!
-speaker1: what? what? whisper....
-speaker1: now you are going i am miserable, why is that? ada i need to know, what will you do? will you come again?
-speaker1: wait! i don't know what you're thinking. does this mean something to you? hey? i already miss you. ada, do you love me?
-speaker1: come tomorrow. if you are serious, come tomorrow.
-speaker1: tomorrow? she nods and is gone.
-speaker5: stay still! it's the very worst knots.
-speaker5: mama stop it!
-speaker5: stop it i feel sick!
-speaker8: sc 96 int stewart's hut ada's bedroomdawnsc 96
-speaker5: mumma! mumma! they are playing your piano!
-speaker5: here papa!
-speaker5: you shouldn't have gone up there, should you? i don't like it and nor does papa. mama, we can play cards together.
-speaker5: she is asleep, look.
-speaker3: you are letting the clothes float off... they are floating off.
-speaker5: mama! look out!
+BAINES: e hoa ma, haria atu ra takit kia nihe. 
+MAORI NEGOTIATOR: ac ra. kia ora! kia ora! te peini. sc 73ext bush at new boundary markersdaysc 73
+STEWART: what do they want it for? they don't cultivate it, burn it back, anything. how do they even know it's theirs?
+BAINES: yes, why not.
+STEWART: ada says you're doing well with the piano?
+STEWART: i'll have to come and hear you play. what do you play.
+BAINES: nothing just yet
+STEWART: no. well i suppose it takes time.
+STEWART: baines can't play a thing. is that right he can't play a thing? we're going to lose that land, the way he was carrying on over it. is he musical? you've got to teach him a song. something simple.
+STEWART: what's that?
+BAINES: do what you like. play what you like.
+BAINES: i want to lie together without clothes on. how many would that be?
+BAINES: yes, ten keys.
+STEWART: never behave like that, never any where. you are greatly shamed and you have shamed those trunks.
+MAORI WOMEN: what o'clock say mr stewart? -ge tupeka? -time for puff puff. sc 78 ext native pine forestday sc 7$
+FLORA: i know why mr. baines can't play the piano.
+STEWART: you've missed this bit.
+FLORA: she never gives him a turn. stewart stops and looks at her. she just plays whatever she pleases, sometimes she doesn't play at all.
+STEWART: and when is the next lesson?
+FLORA: tomorrow.
+BAINES: i am giving the piano back to you. i've had enough. the arrangement is making you a and me wretched. i want you to care for me, but you can't.
+HIRA: george, can i use this comb?
+BAINES: it's yours, leave, go on go!
+STEWART: stop right there'. this isn't yours what are you doing with the piano?
+FLORA: he's given it to us.
+STEWART: hah, you're very cunning ada, but i've seen through you, i'm not going to lose the land this way. wait here! stewart is off, pounding on down through the bush. sc 85ext/int baines' hut/bedroom day sc 85
+HIRA: george sick, he don't wanna see nobody. you got tupeka for the hira?
+STEWART: i don't think you should have given up the piano. i will make sure you are properly taught, with music written on to sheets and...
+BAINES: i don't want to learn.
+STEWART: you don't want to learn.
+BAINES: no.
+STEWART: and what does this do to our bargain? i cannot afford the piano if you mean me to pay.
+BAINES: no, no payment. i have given it back. i don't want it.
+STEWART: well, i doubt i want it very much myself.
+BAINES: it was more to your wife that i gave it.
+STEWART: well, thank you, i expect she will appreciate it. he closes the window. so that is agreed on? baines nods.
+HIRA: you make big mistake george. in first place you should swap land for wife. now look, she gone, you no land, no music box, you got nothing.
+SCENE 86 DELETED: sc87 ext/int stewart's hut day sc 87
+STEWART: is it all right? aren't you going to play something?
+FLORA: what will i play?
+STEWART: play a gig.
+FLORA: do i know any gigs?
+STEWART: play a song then
+STEWART: why won't she play it? we have it back, and she just wanders off!
+STEWART: keep playing!
+FLORA: why? why can't i?
+FLORA: i shan't practise and i don't care!
+STEWART: where's your mother? where has she gone?
+FLORA: to hell!
+BAINES: so what brings you here? did you leave something? i have not found anything.
+BAINES: ada, i am unhappy because i want you, because my mind has seized on you and thinks of nothing else. this is how i suffer, i am sick with longing. i don't eat, i don't sleep. if you do not want me, if you have come with no feeling for me, then go!
+BAINES: what? what? whisper....
+BAINES: now you are going i am miserable, why is that? ada i need to know, what will you do? will you come again?
+BAINES: wait! i don't know what you're thinking. does this mean something to you? hey? i already miss you. ada, do you love me?
+BAINES: come tomorrow. if you are serious, come tomorrow.
+BAINES: tomorrow? she nods and is gone.
+FLORA: stay still! it's the very worst knots.
+FLORA: mama stop it!
+FLORA: stop it i feel sick!
+80: sc 96 int stewart's hut ada's bedroomdawnsc 96
+FLORA: mumma! mumma! they are playing your piano!
+FLORA: here papa!
+FLORA: you shouldn't have gone up there, should you? i don't like it and nor does papa. mama, we can play cards together.
+FLORA: she is asleep, look.
+STEWART: you are letting the clothes float off... they are floating off.
+FLORA: mama! look out!
 
-speaker1: one, two, three one, two, three 
-speaker2: ada!
-speaker3: ohhh, it's so dark, it's like a dank cave.
-speaker4: yes, like a cave.
-speaker3: ohh no, it makes my skin creep!
-speaker3: alisdair, is it because of our play? have the natives aggressed you? she continues following him to the door.
-speaker4: ... you are quite trapped.
-speaker3: we have just come from george banes' and they have taken him over. it is no wonder he is leaving, he has got in too deep with the natives. they sit on his floor as proud as kings, but without a shred of manners.
-speaker4: ... without a shred of manners.
-speaker3: he is quite altered, as if they had been trying some native witchcraft on him. well tomorrow or the day after he will be gone.
-speaker2: baines is packing up?
-speaker3: well he has nothing to pack, but he is leaving. and it is just as well; nessie has foolishly grown an affection for him ... we have had some tears
-speaker3: stop it! stop!
-speaker2: if you leave soon, yes, i am sure of it.
-speaker3: you know i am thinking of the piano. she does not play the piano as we do nessie. the cape begins to droop as nessie listens. up! up! no she is a strange creature and her saying is strange like a mood that passes into you. you cannot teach that nessie, one may like to learn but that could not be taught. nessie again lets the cape droop. up! your playing is plain and true and that is what i like. to have a sound creep inside you is not all pleasant a fluttering sound in the bush.
-speaker4: ohhhhhh!
-speaker5: a pid-geon auntie.
-speaker2: i've been hoping you would come.
-speaker2: i want to touch you why can't i touch you? do you like me?
-speaker1: this is going to be adam's tree and then i'm going to make a serpent to live here, with a very long tongue. .
-speaker2: we must both get on. i have decided to trust you to stay here. you will not see baines? good, good. perhaps with more trying you will come to like me? sc 110ext stewart's day sc 110
-speaker1: we're not supposed to visit him'. ada signals go!
-speaker1: the grand old duke of york. he had ten thousand men etc.
-speaker1: mumma wanted me to give this to mr. baines.
-speaker2: no!!
-speaker6: knare e wainta! kaare e wajata! sc 117ext stewart's day sc 117
-speaker2: why? why? i trusted you!
+FLORA: one, two, three one, two, three 
+STEWART: ada!
+AUNT MORAG: ohhh, it's so dark, it's like a dank cave.
+NESSIE: yes, like a cave.
+AUNT MORAG: ohh no, it makes my skin creep!
+AUNT MORAG: alisdair, is it because of our play? have the natives aggressed you? she continues following him to the door.
+NESSIE: ... you are quite trapped.
+AUNT MORAG: we have just come from george banes' and they have taken him over. it is no wonder he is leaving, he has got in too deep with the natives. they sit on his floor as proud as kings, but without a shred of manners.
+NESSIE: ... without a shred of manners.
+AUNT MORAG: he is quite altered, as if they had been trying some native witchcraft on him. well tomorrow or the day after he will be gone.
+STEWART: baines is packing up?
+AUNT MORAG: well he has nothing to pack, but he is leaving. and it is just as well; nessie has foolishly grown an affection for him ... we have had some tears
+AUNT MORAG: stop it! stop!
+STEWART: if you leave soon, yes, i am sure of it.
+AUNT MORAG: you know i am thinking of the piano. she does not play the piano as we do nessie. the cape begins to droop as nessie listens. up! up! no she is a strange creature and her saying is strange like a mood that passes into you. you cannot teach that nessie, one may like to learn but that could not be taught. nessie again lets the cape droop. up! your playing is plain and true and that is what i like. to have a sound creep inside you is not all pleasant a fluttering sound in the bush.
+NESSIE: ohhhhhh!
+MARY/HENI: a pid-geon auntie.
+STEWART: i've been hoping you would come.
+STEWART: i want to touch you why can't i touch you? do you like me?
+FLORA: this is going to be adam's tree and then i'm going to make a serpent to live here, with a very long tongue. .
+STEWART: we must both get on. i have decided to trust you to stay here. you will not see baines? good, good. perhaps with more trying you will come to like me? sc 110ext stewart's day sc 110
+FLORA: we're not supposed to visit him'. ada signals go!
+FLORA: the grand old duke of york. he had ten thousand men etc.
+FLORA: mumma wanted me to give this to mr. baines.
+STEWART: no!!
+MANA: knare e wainta! kaare e wajata! sc 117ext stewart's day sc 117
+STEWART: why? why? i trusted you!
 
-speaker1: do you love him? do you?! is it him you love? 
-speaker2: no, she says noooooo!!!
-speaker2: mother!!
-speaker2: mama!
-speaker2: mama.
-speaker1: take this to baines. tell him if he ever tries to see her again i'll take off another and another and another!
-speaker3: sc 121ext maori pa day sc 121
-speaker4: i worry for us peini. pakeha cunning like wind, knock you over, yet you not see it. some they say, how can pakeha get our land if we won't sell it?"
-speaker4: they wrong peini. we need guns to hold it.
-speaker4: i worried feini. what's gonna happen you, you go home, but where we go? we got nowhere to go.
-speaker5: it is mine. i found it.
-speaker6: homni 'ci au.
+STEWART: do you love him? do you?! is it him you love? 
+FLORA: no, she says noooooo!!!
+FLORA: mother!!
+FLORA: mama!
+FLORA: mama.
+STEWART: take this to baines. tell him if he ever tries to see her again i'll take off another and another and another!
+SCENE 12O DELETED: sc 121ext maori pa day sc 121
+HIRA: i worry for us peini. pakeha cunning like wind, knock you over, yet you not see it. some they say, how can pakeha get our land if we won't sell it?"
+HIRA: they wrong peini. we need guns to hold it.
+HIRA: i worried feini. what's gonna happen you, you go home, but where we go? we got nowhere to go.
+MANA: it is mine. i found it.
+BAINES: homni 'ci au.
 
-speaker1: ncrr! naaku. itâ’s mine. me find it 
-speaker2: he aha to hiahia? ask for it? tobacco?
+MANA: ncrr! naaku. itâ’s mine. me find it 
+BAINES: he aha to hiahia? ask for it? tobacco?
 
-speaker1: gun, ask for his gun! 
-speaker2: - nga rarahe - wana putu -te whitiki, gettem ehoal
-speaker3: sc 122ext maori pa day sc 122
-speaker1: go peini ... haere atu e peini.
-speaker4: i'll be back.
+HIRA: gun, ask for his gun! 
+OTHERS: - nga rarahe - wana putu -te whitiki, gettem ehoal
+UNSUBTITLED: sc 122ext maori pa day sc 122
+HIRA: go peini ... haere atu e peini.
+BAINES: i'll be back.
 
-speaker1: sc 126ext gentle strekm day sc 126 
-speaker2: can you read?
-speaker3: i can.
-speaker2: you can read?
-speaker3: yes ... lots of things.
-speaker4: she can't read, she's my sister, i ought to know.
-speaker3: i can read!
-speaker4: she can't.
-speaker4: she can't read.
-speaker2: can you read?
-speaker4: running writing, we haven't done that yet.
-speaker5: myrtle can read it, her mother taught her.
-speaker6: d e a r g e o r g e
-speaker4: that's "my".
-speaker6: its not an m
-speaker4: yes it is. myrtle andamp; big sister dear - george - you - have - my
-speaker6: heart? ada mcgrath.
-speaker4: it doesn't make sense.
-speaker6: that's all they all look up at him.
-speaker2: say it again, just you.
-speaker6: dear george you have my heart, ada mcgrath.
-speaker2: you say it.
-speaker4: dear george you have my heart, ada mcgrath.
+DELETE SCENES 124 AND 125: sc 126ext gentle strekm day sc 126 
+BAINES: can you read?
+TREE GIRL: i can.
+BAINES: you can read?
+TREE GIRL: yes ... lots of things.
+BIG SISTER: she can't read, she's my sister, i ought to know.
+TREE GIRL: i can read!
+BIG SISTER: she can't.
+BIG SISTER: she can't read.
+BAINES: can you read?
+BIG SISTER: running writing, we haven't done that yet.
+READING GIRL: myrtle can read it, her mother taught her.
+MYRTLE: d e a r g e o r g e
+BIG SISTER: that's "my".
+MYRTLE: its not an m
+BIG SISTER: yes it is. myrtle andamp; big sister dear - george - you - have - my
+MYRTLE: heart? ada mcgrath.
+BIG SISTER: it doesn't make sense.
+MYRTLE: that's all they all look up at him.
+BAINES: say it again, just you.
+MYRTLE: dear george you have my heart, ada mcgrath.
+BAINES: you say it.
+BIG SISTER: dear george you have my heart, ada mcgrath.
 
-speaker1: sc 129ext bainesâ’ dusk sc 129 
-speaker2: peini, peini, liddle gel. i seen her come up here, scream, scream . blood on her. look bad... very bad
-speaker3: what has happened? hush, hush, what is it?
-speaker4: he says you're not to see her or he'll chop her up!
-speaker3: what happened?
+SCENE 128 DELETED: sc 129ext bainesâ’ dusk sc 129 
+HIRA: peini, peini, liddle gel. i seen her come up here, scream, scream . blood on her. look bad... very bad
+BAINES: what has happened? hush, hush, what is it?
+FLORA: he says you're not to see her or he'll chop her up!
+BAINES: what happened?
 
-speaker1: quiet down! shhh! where is she? 
-speaker2: he chopped it off
-speaker1: i'll kill him! i'll kill him. what did she tell him? what?
-speaker3: put her down peirn she is liddle.
-speaker4: i lost my temper. i'm sorry.
-speaker4: you broke my trust, you pushed me hard, to hard. you cannot send love to him you cannot do it. even to think on it makes me angry, very angry
-speaker4: i meant to love you. i clipped your wing, that is all.
-speaker4: we shall be together, you will see it will be better...
-speaker4: ... my love bird.
-speaker4: ohhhhh my love
-speaker4: you are feeling better?
-speaker4: what...?
-speaker4: put that away, on the floor.
-speaker4: i look at you, at your face. i have had that face in my head hating it. but now i am here seeing it ... it's nothing, you blink, you have your mark, you look at me through your eyes, yes. you are even scared of me stewart laughs.
-speaker4: look at you!
-speaker4: has ada ever spoken to you?
-speaker1: you mean in signs?
-speaker4: no, words. you have never heard words?
-speaker1: no, not words.
-speaker4: never thought you heard words?
-speaker4: she has spoken to me. i heard her voice. there was no sound, but i beard it here . her voice was there in my head. i watched her lips, they did not make the words, yet the harder i listened the clearer i heard her, as clear as i hear you, as dear as i hear my own voice.
-speaker1: spoken words?
-speaker4: no, but her words are in my head. i know what you think, that it's a trick, that i'm making it up. no, the words i heard, were her words.
-speaker1: what are they?
-speaker4: she said, "i have to go, let me go, let baines take me away, let him try and save me. i am frightened of my will, of what it might do it is so strange and strong".
-speaker1: you punished her wrongly, it was me, my fault.
-speaker4: understand me. i am here for her, for her i wonder that i don't wake, that i am not asleep to be here talking with you. i love her. but what is the use? she doesn't care for me. i wish her gone. i wish you gone. i want to wake and find it was a dream, that is what i want. i want to believe i am not this man. i want my self back; the one i know.
-speaker3: i worry for you.
-speaker1: no, i love her, we will be a family. i have her piano. i will mend it, she will get better.
-speaker3: i miss you.
+BAINES: quiet down! shhh! where is she? 
+FLORA: he chopped it off
+BAINES: i'll kill him! i'll kill him. what did she tell him? what?
+HIRA: put her down peirn she is liddle.
+STEWART: i lost my temper. i'm sorry.
+STEWART: you broke my trust, you pushed me hard, to hard. you cannot send love to him you cannot do it. even to think on it makes me angry, very angry
+STEWART: i meant to love you. i clipped your wing, that is all.
+STEWART: we shall be together, you will see it will be better...
+STEWART: ... my love bird.
+STEWART: ohhhhh my love
+STEWART: you are feeling better?
+STEWART: what...?
+STEWART: put that away, on the floor.
+STEWART: i look at you, at your face. i have had that face in my head hating it. but now i am here seeing it ... it's nothing, you blink, you have your mark, you look at me through your eyes, yes. you are even scared of me stewart laughs.
+STEWART: look at you!
+STEWART: has ada ever spoken to you?
+BAINES: you mean in signs?
+STEWART: no, words. you have never heard words?
+BAINES: no, not words.
+STEWART: never thought you heard words?
+STEWART: she has spoken to me. i heard her voice. there was no sound, but i beard it here . her voice was there in my head. i watched her lips, they did not make the words, yet the harder i listened the clearer i heard her, as clear as i hear you, as dear as i hear my own voice.
+BAINES: spoken words?
+STEWART: no, but her words are in my head. i know what you think, that it's a trick, that i'm making it up. no, the words i heard, were her words.
+BAINES: what are they?
+STEWART: she said, "i have to go, let me go, let baines take me away, let him try and save me. i am frightened of my will, of what it might do it is so strange and strong".
+BAINES: you punished her wrongly, it was me, my fault.
+STEWART: understand me. i am here for her, for her i wonder that i don't wake, that i am not asleep to be here talking with you. i love her. but what is the use? she doesn't care for me. i wish her gone. i wish you gone. i want to wake and find it was a dream, that is what i want. i want to believe i am not this man. i want my self back; the one i know.
+HIRA: i worry for you.
+BAINES: no, i love her, we will be a family. i have her piano. i will mend it, she will get better.
+HIRA: i miss you.
 
-speaker1: te-hau-jua-kahake te pupuhi. 
-speaker1: leave it - its too heavy.
-speaker2: no, she needs it, she must have it.
+ANOTHER OARSMAN: te-hau-jua-kahake te pupuhi. 
+ANOTHER OARSMAN: leave it - its too heavy.
+BAINES: no, she needs it, she must have it.
 
-speaker1: sc 145ext at sea/beachday sc 145 
-speaker2: i can't
-speaker3: what did she say?
-speaker2: she says, throw the piano overboard.
-speaker3: it's quite safe, they are managing...
-speaker3: what?
-speaker2: she says, throw it overboard. she doesn't want it. she says it's spoiled
-speaker3: i have the key here, look, i'll have it mended...
-speaker4: ae! peja. turakina'. bushit? peja te kawheha kite moana.
+SCENE 144 DELETED: sc 145ext at sea/beachday sc 145 
+FLORA: i can't
+BAINES: what did she say?
+FLORA: she says, throw the piano overboard.
+BAINES: it's quite safe, they are managing...
+BAINES: what?
+FLORA: she says, throw it overboard. she doesn't want it. she says it's spoiled
+BAINES: i have the key here, look, i'll have it mended...
+MAORI OARSMAN: ae! peja. turakina'. bushit? peja te kawheha kite moana.
 
-speaker1: please, ada, you will regret it. it's your piano, i want you to have it. 
-speaker2: she doesn't want it!
-speaker1: all right. sit down, sit down.
-speaker3: what a death! what a chance! what a surprise! my will has chosen life!? still it has had me spooked and many others besides!
-speaker3: i teach piano now in nelson. george has fashioned me a metal finger tip, i am quite the town freak which satisfies! i am learning to speak. my sound is still so bad i am ashamed. i practice only when i am alone and it is dark.
-speaker3: at night! i think of my piano in its ocean grave, and sometimes of myself floating above it. down there everything is so still and silent that it lulls me to sleep. it is a weird lullaby and so it is; it is mine.
+BAINES: please, ada, you will regret it. it's your piano, i want you to have it. 
+FLORA: she doesn't want it!
+BAINES: all right. sit down, sit down.
+ADA: what a death! what a chance! what a surprise! my will has chosen life!? still it has had me spooked and many others besides!
+ADA: i teach piano now in nelson. george has fashioned me a metal finger tip, i am quite the town freak which satisfies! i am learning to speak. my sound is still so bad i am ashamed. i practice only when i am alone and it is dark.
+ADA: at night! i think of my piano in its ocean grave, and sometimes of myself floating above it. down there everything is so still and silent that it lulls me to sleep. it is a weird lullaby and so it is; it is mine.
 
-speaker1: sc 12 art department note 
-speaker2: sc 15 translation note
+2.: sc 12 art department note 
+3.: sc 15 translation note
 
-speaker1: tntame vitohotu honepara tipikahu 
-speaker2: taiani
+MEN: tntame vitohotu honepara tipikahu 
+WOMEN: taiani
 
-speaker1: i konei tonu, ka moe te koroua nei. 
-speaker2: kahore ne huarahi - kahorene tutae.
+SUBTITLED: i konei tonu, ka moe te koroua nei. 
+UNSUBTITLED: kahore ne huarahi - kahorene tutae.
 
-speaker1: sc 30duet 20-30 sees 
-speaker2: sc 33flora's singing 20 sees
-speaker3: sc 34heni/mary phrasing of national anthem
-speaker4: got safe ah gayshy quin long hf a gayshy quin oat shayf a quin shendab wikitoria har - py en a clohria long to rain ourush got safe ah quin
-speaker5: sc 37 translation note: who is it that rumbles within? is it ruaumoko, is it ruaurnoko? jab, smash, jab, smash jab, smash, jab, smash the taniwha, the taniwba.
+6.: sc 30duet 20-30 sees 
+7.: sc 33flora's singing 20 sees
+8.: sc 34heni/mary phrasing of national anthem
+HENI/MARY: got safe ah gayshy quin long hf a gayshy quin oat shayf a quin shendab wikitoria har - py en a clohria long to rain ourush got safe ah quin
+9.: sc 37 translation note: who is it that rumbles within? is it ruaumoko, is it ruaurnoko? jab, smash, jab, smash jab, smash, jab, smash the taniwha, the taniwba.
 
-speaker1: sc 87 extra dialogue 
-speaker2: tahi patene ruapuri patene tekan patene ornatekau pwari patene 'cia whai tarau ano ra monga patene!
+11.: sc 87 extra dialogue 
+MAORI PIANO CARRIERS: tahi patene ruapuri patene tekan patene ornatekau pwari patene 'cia whai tarau ano ra monga patene!
 

@@ -1,800 +1,800 @@
-speaker1: what's this, then? 
-speaker2: the ashes of a colleague, i'm taking them to his family. if you wish to open it, please be careful.
-
-speaker1: you keep staring at that watch as if your life depended on it, doctor.. 
-speaker2: well, yes. i suppose i am a bit anxious.
-speaker1: they're ready and waiting. you'll soon be with old friends.
-speaker2: i'm with an old friend now, dmitri.
-speaker1: sorry it couldn't be under happier circumstances.
-speaker2: yes, i'm sorry too.. 'you're sorry and i'm sorry..' - you do know gradski thought the world of you.
-speaker1: he was quite a man. did he know before the end you two had succeeded?
-speaker2: yes, he knew. just..
-speaker1: ..not in time to save him.
-speaker2: no. after you've lived with
-speaker2: yes, and you'll get us to a safe place with them, thank god!..left to my own devices, i'm an old fart too inept to read a railroad timetable!..
-speaker3: you captain again. we've experienced a slight but abrupt drop in cabin pressure..
-
-speaker1: the flight crew now wearing their oxygen masks. 
-speaker2: captain, i don't..can't..
-
-speaker1: ..it seems we have a problem, dmitri. 
-speaker2: you keep calling me dmitri. you really shouldn't.
-speaker1: you're not dmitri?
-speaker2: - no. he grabs the satchel. ethan wallis, hold onto it.
-
-speaker1: all done, chief.. 
-speaker2: - right - - don't go too far ahead of me now -
-speaker1: not possible..
-speaker3: checkpoint charlie plus 30, altitude minus two-zero-thousand. airspeed one-seven- niner knots..
-speaker2: it's that time. go.
-
-speaker1: you're welcome. 
-speaker2: first, a retinal scan.
-speaker3: identity confirmed.
-speaker4: good morning, mr. hunt.
-
-speaker1: do you know me? 
-speaker2: no. should i?
-speaker1: no. you just looked as if you did.
-speaker2: no. just as if i'd like to.
-speaker1: oh. well. i think that can be arranged.
-speaker2: not tonight. bad timing. sorry -
-speaker1: there's not enough time in the world for any of it to be bad.
-speaker2: look, it's either you or the rent and i don't mind telling you it's not an easy choice.
-speaker1: what if i pay the rent?
-speaker2: uh-huh.
-speaker1: uh-huh?
-speaker2: go find the wealthy lady you came with and next time we meet - i'll pay your rent. now off.
-
-speaker1: mmmm. 
-speaker2: decisions, decisions.
-speaker1: what are you doing here?
-speaker2: think you're the only one who can pick a lock?
-
-speaker1: i take it you prefer tenors. 
-speaker2: would you mind if i'm on top?
-speaker1: oh, either way works for me.
-speaker3: you're never gonna find it there.
-speaker2: it! find what?
-speaker1: his ex-wife's bulgari necklace that goes up for auction tuesday. looking down to ethan, a touch of indignation:
-
-speaker1: - right..where is it? 
-speaker2: far right.
-speaker1: where's the -
-speaker2: - torque wrench.
-speaker1: - this is very disconerting..
-speaker2: hey, you put me here. i just do what i'm told.
-speaker1: - right..
-speaker2: i wouldn't do that.
-speaker1: do what?
-speaker2: that.
-speaker3: oh, senor keyes, thank it is you! it's senor keyes, the security engineer.
-speaker2: well, senor de l'arena the goods news is that the heat sensors were activated. but miss nordoff-hall, my associate - senor de l'arena kisses nyah's hand.
-speaker3: mucho gusto, senorita.
-speaker2: - did feel that she had rather too long to work on the safe before they triggered the alarm, isn't that right miss hall?
-speaker1: oh yes. absolutely. much too long i should yes.
-speaker2: under the circumstances i think we would recommend re-setting the senors to respond to a lighter load. how do you feel about forty kilos, miss hall?
-speaker1: indeed.
-speaker2: well, senor de l'arena, there's no reason to disrupt your party any longer. we have some further concerns about the disposition of your security guards, which you'll receive in our written report by fax in the morning, hard copy to follow. shall we?
-speaker1: the necklace?
-speaker3: what are you trying to do, senorita? rob me.
-
-speaker1: i'm missing something here, aside from a 500,000 pound necklace. even after i botched the job, i could've walked out of there with the thing. 
-speaker2: at least you walked.
-speaker1: if you weren't going to let me get away with it, why did you let me go thru with it?
-speaker2: wanted to see how good you were.
-speaker1: may i say something, no offence? you look like a gigolo, you sound like a thief, you act like a cop - what the do you have in mind?
-speaker2: working under adverse conditions. highly adverse conditions.
-speaker1: sounds smashing. i'm in. muchacho, mi carro, por favor! now be serious. you couldn't possibly want me off tonight's performance..
-speaker2: you didn't do that badly.
-speaker1: you're apologizing for me? quite the gentleman..
-speaker2: not really. i triggered the alarm..
-speaker2: hey, the bulgari job last week was flawless. and i've always been partial to pale yellows.
-speaker1: i don't do laundry, or put up with cheeky who set me up on their territory so they can poach on mine.
-
-speaker1: hola.. 
-speaker2: hi. would you mind slowing down?
-speaker1: where did you get this number? i don't even have it!
-speaker3: would you like it?
-speaker2: pull over and listen to me, will you?
-speaker1: listen to what?
-speaker2: i need your help and i thin you can use mine.
-speaker1: your help? what are you talking about?
-speaker2: scotland yard, interpol, every dutch authority. i can make them go away.
-speaker1: oh hell. you're a spy.
-speaker2: i deserved that.
-
-speaker1: slow down, slow down. 
-speaker2: uh-oh.
-speaker1: no!
-speaker2: oh..oh..
-speaker1: don't look down. just..look at me. that's it..that's it..
-
-speaker1: what's you name? 
-speaker2: ethan hunt.
-speaker1: well, ethan hunt, what is it you want to talk to me about?
-speaker2: ...more than i thought..
-
-speaker1: awfully short notice.. 
-speaker2: care to wait a decent interval?
-speaker1: who wants to be decent?..
-
-speaker1: so what've you got against spooks? 
-speaker2: when they've got your recruiting technique? not a thing.
-speaker1: oh. well..this isn't exactly by the book.
-speaker2: they've got a book for this?
-speaker1: they've got a book for everything.
-speaker2: the only other spook i knew was a liar. charming but absolutely incapable of telling the truth. he'd lie about his favorite color. but then i reckon it's an occupational hazard. all spies really do is conceal the truth and tell lies.
-speaker1: not revealing information doesn't necessarily make someone a liar.
-speaker2: that's not the point. in the end what spies rely on is the one thing they think they know that you don't.
-speaker1: which is?
-speaker2: that they're lying. ethan laughs. nyah ..once they know that they can get very very..crosee..
-speaker1: so where did i got right?
-speaker2: you're not a liar. or you're an awfully good one.. ..this thing these blokes pinched..
-speaker1: i don't know that they 'pinched' it. don't even know that they're blokes.
-speaker2: well, then, what i am i doing here? i assume i'm meant to be some sort of thief-to catch-a-thief..
-speaker1: so do i. sort of.
-speaker2: spoken like a spook..you ever afraid?
-speaker1: of what?
-speaker2: ask a question, you get an answer!..
-speaker1: damn, you're beautiful.
-speaker2: that's because i'm on my back.
-speaker1: i don't think so.
-
-speaker1: si, senor. 
-speaker2: i'll pick'em up on my way out, okay?
-
-speaker1: fetival's a pain in the ass. honoring saint by setting'em on fire. sit down, sit down. ethan sits. swanbeck let's you know what they think of saints, doesn't it? near set me on fire on my way over here. as if i haven't been burned enough today. 
-speaker2: sorry i didn't let you know where i was.
-speaker1: don't be. wouldn't be on vacation if you did.
-speaker2: well. you're sorry and i'm sorry.
-speaker1: why did you phrase it like that?
-speaker2: like what?
-speaker1: 'you're sorry and i'm sorry.'
-speaker2: you gotta be kidding.
-
-speaker1: well, dmitri! how are you?.. 
-speaker2: ..i'm fine..and you?
-speaker1: i'm fine..
-speaker2: i'm fine and you're fine..
-speaker1: i'm fine too.. i'm fine and you're fine - do you remember, dear fried, how you got sergei and i to repeat those lines from dr. strangelove and we gave you the name of that silly soviet premier because we didn't know your name?..in those days, you not only saved our lives, you saved our sanity. 'now, then dmitri - we have this little problem': every search for a hero must begin with something that every hero requires; a villain. therefore, in a search for our hero, bellerophon, we created a monster chimera. i beg you, dmitri, come to sydney and accompany me to atlanta immediately. however we travel, i must arrive at me destination, within 20 hours of departure. forgive this fanciful explanation, but for now prudence dictates that i communicate nothing but the gravest urgency. i fear i can entrust this to no one but you, dmitri. as we say, 'i'm sorry and you're sorry'.. swanbeck stops the dvd.
-speaker3: let me ask you something. you have any idea what the he's talking about?
-speaker2: an idea, yeah.
-speaker3: like?
-speaker2: like it's a good idea to pick him up in a hurry. and a bad idea to fly him on a commercial carrier. so let's get on with it. he's still in sydney?
-speaker3: dr. vladimir nekhorvich is dead. so is his colleague, gradski, but that happened earlier. we had nekhorvich on a flight from sydney that crashed in the rockies.. ethan sits back, heavily. swanbeck - hunt, are you listening?.. slowly looking up:
-speaker2: if he didn't want to go anywhere without me, how did you get him on the flight?
-speaker3: you were there.
-speaker3: when i couldn't find you, i had to replace you. sean ambrose was the obvious choice. he double you, what? two, three times?
-speaker2: twice.
-speaker3: what did you think of him?
-speaker2: you know we had reservations about each other. isn't it a little late in the day to be asking me that?
-speaker3: not necessarily.
-speaker3: airline record list captain harold macintosh as the pilot for flt 2207. as far as the media and all governmental agencies are concerned, captain macintosh died on the flight, but in fact he missed it. he did, however make the next flight - in cargo, stuffed into a rather small suitcase considering his size.
-speaker2: so there's one thing we know ambrose doesn't.
-speaker3: then you do think it was ambrose. ethan barely nods. swanbeck and you're not surprised.
-speaker2: whatever nekhorvich was carrying sean wanted and he wanted to conceal the fact that he took it.
-speaker3: enough to kill nekhorvich and two hundred innocent passengers? ethan smiles.
-speaker2: sean feels he hasn't done the job unless he leaves a lot of hats on the ground.
-speaker3: the question is why? what was this chimera nekhorvich was carrying?
-speaker2: right now only ambrose knows that.
-speaker3: in any case, you've got to recover chimera and bring it to us.
-speaker2: in order to do that, i've got to figure out how he plans to make money with it.
-speaker3: - right. in fact since the plane went down our banking sources have confirmed a marked increase in the stock pilling of cash in terrorists accounts.
-speaker2: 'terrorists?'
-speaker3: well you know nekhorvich's history. you're the one who got him out of the soviet union was it still in bio- weapon business.
-speaker2: if that's what you're thinking ambrose would have set up a bidding situation with any number of buyers before he got on the plane. locating him in time to stop something like that -
-speaker3: - is where miss hall comes in.
-speaker2: excuse me?
-speaker3: miss hall and ambrose had a relationship which he took very seriously. she walked away and he's wanting her back ever since. we believe she's our surest and quickest way of location him.
-speaker2: and then what?
-speaker3: then makes sure she continues to see him. gets him confide in her and report to you.
-speaker2: you made it sound as if i was recruiting her for her skills as a thief.
-speaker3: well, then i mislead you. or you made the wrong assumption. either way we're asking her to resume a prior relationship, not do anything she hasn't already done.
-speaker2: she's got no training for this kind of thing.
-speaker3: go to bed with a man and lie to him? she's a woman. she's got all the training she needs.
-speaker2: i don't think i can get her to do it.
-speaker3: you mean it'll be difficult.
-speaker2: very.
-speaker3: well it's not mission
-
-speaker1: senor, senor! your flowers. 
-speaker2: yes. they're very nice..
-
-speaker1: what's the population of seville any idea? 
-speaker2: five, six-hundred thousand.
-speaker1: there's nearly 2 million in london.
-speaker2: and six billion in the world.
-speaker1: that's lot of people out there..how many of them, i wonder, are capable of something like that?
-speaker2: sean ambrose, for one.
-speaker1: right...
-
-speaker1: not that it matter much but..i seem to recall you staying something like, 'i was hoping we could work together.' 
-speaker2: this wasn't what i had in mind, nyah.
-speaker1: but it is what you'd like me to do. so tell me to do it.. she approaches ethan. they're inches apart. nyah come on, out with it. tell me to go and insinuate myself back into sean's life.
-speaker2: go and insinuate yourself back into sean's life.
-speaker1: i'd like a little more conviction..
-speaker2: so would i. but it's not mine to give.
-speaker1: you've either got it or you don't. let your conscience be your guide?
-speaker2: something like that.
-speaker1: but i don't have a conscience. i'm a thief.
-speaker2: you can be a thief and have a conscience.
-speaker1: no. you can be a thief and have a conscience: not me. why did you have to tell me about this! what do i have to do to get away from this guy? when you're with him, he messes about with your head every waking moment..even now i'll be at some out-of- the-way-place, a tin of caviar and a bottle of crystal shows up at the table, with two glass, knows how he finds out at any given moment where i am in the world but he does. and it looks like he's done it again. you know his definition of a true paranoid?
-speaker2: i don't.
-speaker1: someone in possession of all the facts. are you telling me i have to do this?
-speaker2: generally, i don't favor coercing someone. not when there's a chance my life could end up in their hands.
-speaker1: and that's the only reason?
-speaker2: can you think of a better one?
-speaker1: not me. i was just hoping you might..or that..somehow in the course of business this got personal as well as physical.
-speaker2: look, would it make you feel better if i didn't want you to do this?
-speaker1: much.
-speaker2: then feel better!.. long moment while she looks at him. ethan well. that made all the difference in the world, didn't it?
-speaker1: sean will never be anything but suspicious if he picks up some sort of 'yoo-hoo-i'm- not-nad' message. not after the way we broke up.
-speaker2: what wouldn't make him suspicious?
-speaker1: probably that i needed him in some urgent way..destitute - in serious trouble..the kind i couldn't possible sort out myself.. ethan's been smiling slightly.
-speaker2: serious trouble, nyah, is something i can always arrange..
-
-speaker1: this little chip sends a coded signal that can be picked up only by our computer. 
-speaker2: when it's in your ankle we can track you within three feet of anywhere in the world.
-
-speaker1: look, i can't run your arrest in cnn, but i guarantee he's monitoring every law enforcement agency in the world, for what they might be saying about him, if nothing else - he's got the ability and, we assume, the desire to get you out of there. 
-speaker2: this doesn't seem to be accomplishing much.
-speaker1: well, i mean it's not a total loss. it is keeping a very capable thief off the street..
-speaker2: very funny..maybe he has heard and doesn't want to know. maybe he's lost interest.
-speaker3: your lawyer to see you.
-speaker2: what lawyer?
-
-speaker1: well, here we go. 
-speaker1: stop and look for something in you purse..kneel down..
-speaker2: limo's waiting.
-speaker1: - ambrose will have counter-surveillance second to no one's. when and if he contacts you, push this button before you actually end up under his roof it'll scramble your transmission to us.
-speaker2: when will you be there?
-
-speaker1: before you are. 
-speaker2: how can you possibly? i've got to get right on the plane. i'm leaving now.
-speaker1: you don't trust me.
-speaker2: oh, i do. but as we know i'm a very poor judge of character.
-speaker1: he's got you on qantas flight 2735. it's going to be delayed.
-speaker2: yes?
-speaker1: you'll be fine. i'm going to lose you.
-speaker2: ethan, you take care of yourself, i'll take care of myself because if push comes to shove, i'm gonna bail - and without giving two week notice.
-speaker1: well, forewarned is forearmed. and while we're at it, be especially sensitive to any sudden change in ambrose's plans, especially any involving you..
-
-speaker1: welcome to australia, mate. 
-speaker2: thanks - mate.
-
-speaker1: it's the transponder. 
-speaker2: put in the coordinates and let's get a visual. the visuals aren't coming up.
-speaker1: the satellite doesn't work as fast as i do.
-speaker3: yeah, i've heard about you, luther, and i just want to tell you it's an honor and a pleasure to be working with you blokes, whoaa! that's some transponder!
-speaker1: it certainly is. how did we get so lucky?
-
-speaker1: the picture abruptly goes dead. 
-speaker2: just when it was about to get interesting.
-speaker3: it's okay. she scrambled the transmission. luther, continue feeding the gps her position.
-speaker4: the satellite positions itself.
-
-speaker1: can't we speed this up. 
-speaker2: with what? this is the only computer that'll do this.
-
-speaker1: - right. now there's a bloke who knows how to deliver a proper welcome. don't get me wrong, mate. you were quite hospitable. is it him, then? 
-speaker2: it is, billy.
-speaker1: then we got'em!
-speaker3: we don't know what we've got because we don't know what he's got, where he's got it or what he's doing in sydney with it.
-
-speaker1: not much luggage. 
-speaker2: i left in a bit of a hurry. i'm terribly grateful, sean.
-speaker1: how grateful?
-speaker2: well that depends.
-speaker1: on what.
-speaker2: how hard you had to work to get me out of there..how in the world did you ever find me?
-speaker1: how i usually find you, nyah.
-speaker2: how do you that.
-speaker1: magic...
-speaker2: ahh..
-
-speaker1: no flies on her. no bugs either. she's clean. 
-speaker2: all cats are.
-
-speaker1: ...therefore in a search for our hero, bellerophon, we created a monster, chimera. 
-speaker2: what you got there, mate?
-speaker3: a myth..just a myth...shouldn't you be checking out their countersurveillance?
-speaker2: well you know his blokes'll place the oscor in his annex, where else if you're pinpointing transmitters, video signals, covert chip cameras, anything radiating, oscillating..
-speaker3: ..or hard wired..
-speaker2: - or hard wired, right. first line of perimeter defence'll run from the back of the dock to the front of the house. whatever moves burps or bleep is gonna be picked up to a height of twenty feet.
-speaker4: ethan, here's nekhorvich, and here's his boss
-speaker2: well do you disagree with that?
-speaker3: not at all. but how about going into town and confirming your intuitions on site?
-speaker2: oh well, if that's how you feel about it. billy leaves.
-speaker4: ..then cambridge..harvard..entrepreneurial efforts..in efforts..in 1989, acquired biocyte in hostile takeover.. as luther transfer info to ethan's computer: luther ethan, have a look at this.
-
-speaker1: your room. 
-speaker2: mmmm.
-speaker1: and my room?
-speaker2: thought you could use a little something to wear.
-speaker1: no changing room?
-
-speaker1: meeting ambrose's look. 
-speaker2: you're not interested in seeing how it looks.
-speaker3: oh, i am. later..
-
-speaker1: nekhorvich specialized in recombining dna molecules. in the myth, bellerophon killed chimera, a recombinant monster with the head of a lion and the tail of a serpent who plagued the ancient world. i think nekhorvich has created a monster virus in chimera and apparently the means to kill it in bellerophon. 
-speaker2: that simple, huh?
-speaker1: why not?
-
-speaker1: damn, you're beautiful.. 
-speaker2: did you say something?
-speaker3: leaning on an elbow, looking down.
-speaker3: i said you're beautiful, nyah.
-speaker2: only because..it's spring..chalk it up - to spring fever.
-speaker3: won't do, love. it's not spring. it's nearly autumn..you're in oz. everything's upside down and backwards here.
-speaker2: maybe that's it, then. everything's upside down and backwards...
-
-speaker1: luther..get us everything you can on the outbreak of influenza on bruny island last month, including photos of the victims. 
-speaker2: right. i guess there aren't many flu epidemics in the middle of summer.
-speaker2: luther she did it, ethan. nyah's in the compound.
-speaker1: yeah? i've just rolled up a snowball and tosses it into hell. ethan stands.
-
-speaker1: twenty-four mil.. 
-speaker2: thirty-seven million pounds. that's a promising bid.
-speaker1: we'll need this at the track. well then. sorted.
-speaker3: not everything. why do you think she's really here?
-speaker1: from her point of view or mine?
-speaker3: wasn't exactly gagging for it when she left you six months ago..the question is, do you trust her?
-speaker1: one considers her timing, of course - getting nicked within a week of the plane going down. suggestive, even borderline suspicious, but hardly conclusive.
-speaker3: well, you've thorough about it, at any rate.
-speaker1: tell me, hugh. you don't exactly hang on nyah's every word and gesture, do you? fairly ratty nail, that.
-speaker3: sean..
-speaker1: you're not scrutinizing any casual shrug for some hair-splitting nuance, are you?
-speaker3: sean, please..
-speaker1: suppose she is some sort of trojan horse sent in by imf to spy in us, why should i deny myself the pleasure of a ride or two? or don't you think i can learn more from her than she can from me?
-speaker3: i do!..
-speaker1: now hugh, you must realize that some of us have the burden of to deal with..and my dear chap. i may or may not know why she thinks she's here, but i'm willing to take the risk, because hugh, i am gaging for it..
-
-speaker1: you won. 
-speaker2: i suppose i did.
-speaker1: what made you pick
-speaker1: say no more. i'm off to grab a drink. still favor bellinis? she smiles, a little shakily. ambrose leaves.
-speaker3: naturally vain..
-speaker2: pardon me?
-speaker4: 'naturally vain.' in the fourth. check her out. she's due.
-speaker5: you can speak as if i'm right by your side.
-speaker2: where are you?
-speaker5: at the mounting enclosure, just off the tracks at two o'clock.
-
-speaker1: a swift intake of breath as she see him. 
-speaker2: how's it going? everything okay?
-speaker3: just like old times.
-speaker2: just like old times?
-speaker3: just about..
-speaker2: tell me who you've run into at ambrose's.
-
-speaker1: we know him. he's over your left 
-speaker2: - michael, his driver's an aussie, new to me. then there's the blokes in the annex at the back of the house.
-speaker1: have you met them?
-speaker2: annex is strictly off limits to me and they never come to the main house, michael even takes their meals to them all but shoves them under the door.
-speaker1: i've no doubt.
-
-speaker1: nekhorvich's boss? 
-speaker2: yep.
-speaker3: ambrose has photographs of newspapers with loads of money piled on them -- thirty- seven million on the london times. what's that about?
-speaker2: bids from possible chimera buyers -- to prove that as of the date on the newspaper those bids are back up by earnest money --
-
-speaker1: whatever mccloy's looking at, he's not happy about. 
-speaker2: ambrose just pulled the memory card out of the digital camera and put it into an envelope, put it in his inner left jacket pocket...
-speaker1: left jacket pocket?
-speaker2: roger that.
-speaker1: confirm. left jacket pocket.
-speaker2: left jacket pocket confirmed.
-
-speaker1: nyah, ambrose is heading back. there's an enveloped inside -- 
-speaker2: -- his left jacket pocket.
-speaker1: affirmative.
-
-speaker1: where do i meet you? 
-speaker2: betting table twelve off the paddock.
-speaker1: i'll muddle through.
-
-speaker1: see anything you like? 
-speaker2: yeah. naturally vain -- but they're about to close the betting table and i haven't a sou..
-speaker1: nyah!
-speaker3: billy, make sure nyah's not followed.
-speaker4: no worries, mate.
-speaker2: would you mind terribly? ambrose - not at all. but you'll pay for that and with interest..
-speaker2: i've no doubt..
-speaker1: hold on.
-speaker2: to win?
-speaker1: what else?
-speaker5: moves along the aisle.
-speaker6: luther, smallest digital you got. ready to transmit. betting table twelve.
-
-speaker1: say again? 
-speaker2: aggrhh-aggrhh-aggrhh...
-speaker1: whatever you're about in future, watch your step. never know who you might run into...
-speaker1: where's the loo then?
-speaker2: - aggrhh-aggrhh-aggrhh...
-
-speaker1: how'd you do? don't turn around. 
-speaker2: i managed.
-speaker3: you noticed. what're you going to do? spank me?
-speaker4: stamp's out of the loo.
-speaker3: this is going to take a couple of minutes..
-speaker5: is racing back to the van.
-speaker5: there in twenty, ethan..
-speaker6: edge toward the window.
-speaker4: stamp's a little shaky, but headed your way, mate.
-speaker3: copy that. who do you like? in the race?
-speaker2: what race are we talking about?
-speaker7: a sweaty luther:
-speaker5: i'm booted up. go, ethan.
-speaker4: he's heading down the stairs, now..
-
-speaker1: i want you out of ambrose's place. 
-speaker2: he's one tier from the bottom.
-speaker3: what are you talking about?
-speaker1: i want
-speaker4: thirty steps..
-speaker1: nyah, you've done more than enough. even the best of snake charmers get bit.
-speaker3: ethan, tell me -
-
-speaker1: twenty, nineteen.. 
-speaker2: i want you out of australia! ..i don't know how much more plainly i can put it.
-speaker3: how do you suggest i go about it?
-speaker2: he's touched your heart. you're overwhelmed. you need to think it over. you'll meet him somewhere in a month. if you're not out in 48 hours i'm coming in and getting you out. give me the ear piece.
-
-speaker1: get your bet down? 
-speaker2: just..
-
-speaker1: your nag is making a run for it on the outside! hell, nyah! 
-speaker1: you picked another winner!
-speaker2: well, that's good, isn't?
-speaker3: dr. segi gradski, nekhorvich's colleague and lifelong friend..
-speaker4: six hours later.
-speaker5: here's a victim from the bruny island outbreak.
-speaker6: oh, happy day.
-speaker4: nekhorvich said 'however we travel, i
-
-speaker1: to australia. it's made so many convicts feel at home. here's hoping it does the same for you.. he laughs. she doesn't. 
-speaker2: sean, there's something i've been meaning to talk to you about... isn't going to be easy for me to say.
-speaker1: then don't say it.
-speaker2: i don't know what to do about you, sean. i'm more than a bit muddled. i need time.
-speaker1: to do what?
-speaker2: sort it all out.
-speaker1: and you're going to have time. there's been a change of plans.
-speaker2: a change of plans?
-speaker1: yes. we won't be able to have dinner tonight. something's come up. i hope you don't mind.
-speaker2: oh, no, not at all. maybe just a bit.
-speaker1: ulrich will be about. he'll look after you.
-speaker2: lovely.
-
-speaker1: i thought you were going to dinner. 
-speaker2: hugh, take care of the nekhorvich memory card.
-speaker1: where is it?
-speaker2: in the envelope in my pocket. my right.. jacket..pocket..
-
-speaker1: chimera attacking human blood.. 
-speaker2: ambrose obviously got these from nekhorvich on the plane.
-speaker3: what manic invents disease like that in the first place? why would he do it?
-speaker1: i don't know, but nekhorvich was not a manic. get me a twenty on nyah.
-speaker3: she must still be on the property.
-
-speaker1: room..just..shut your eyes, shut your eyes. 
-speaker2: a shimmering blur coming in and out of focus. mccloy i'll be buggered!..what's this then?
-speaker2: a visit from an old friend.
-speaker1: what's happening here? you're dead!
-speaker2: fatigued, certainly. but dead is a little extreme. on the other hand, when me dear gradski had your pulse and blood pressure he has less than ten hours to live.
-speaker1: it was in the papers, on the telly..what's this about gradski?
-speaker2: you are infected with
-speaker3: international, please. i'd like to make a
-speaker4: where to?
-speaker3: where is next available flight going?
-speaker3: fine. i'll take it.
-
-speaker1: easy, easy, easy, shhh! 
-speaker2: oh ethan!..
-speaker1: are you okay?
-speaker2: i am now. get me out of here. just get me out of here.
-speaker1: it's going to be okay.
-
-speaker1: no use, my friend. the medical staff wants no part of this. doctors don't fancy the idea of dying any more than anybody else. 
-speaker2: how could i
-speaker2: you have bellerophon.
-speaker1: do i?
-speaker2: you took it! all of it! and what if i need it?
-speaker1: 'if?' my, my, my...the five hundred people on bruny island that you deliberately infected with
-
-speaker1: by asking me. 
-speaker2: you still don't get it, do you? you want to make an omelet, you break a few eggs -
-
-speaker1: well, the thought had occurred to me. i needed chimera in order to peddle bellerophon. for hero to be appreciated, you need a monster. now that's not so difficult to understand, is it? look, time was a shot of penicillin could knock off every bug in the zoo! not anymore!..have you any idea the randd money it takes to float one little pissy boutique antibiotic that's barely effective against one strain of one bacterium? if i couldn't makes money killing the microscopic little that are out there, you'd help me put one out there i can make on!..there it is. i've confessed. i, john c. mccloy, am in business to make money. lilly's making billions feeding prozac to depressed dogs. pfizer doesn't even know where to put the money they're making on viagra, and let me tell you that didn't do a thing for me even at twice the recommended dose, who do i have to screw to get a a break!..now get me out of here, get me treated and let's go back to work!.. 
-speaker2: you know, i think it's a little late for that. do give my regards to gradski if you see him.
-
-speaker1: holds tight in her embrace with ethan. 
-speaker2: ethan, you know what frightens me most when i'm with him?..the thought of never seeing you..how are we getting out of here?
-speaker3: nyah, it's very important not do anything to alarm ambrose..
-speaker2: what? you told me to get out of here. i thought you were here to collect me. i was so relieved.
-speaker3: no time to explain. you've done well, and we're so close. so close. it's critical that you do whatever ambrose asks. don't worry - it'll be over soon.. that's a promise.. come on, now off you go!
-
-speaker1: so ambrose has bellerophon and mccloy's got chimera. 
-speaker2: there guys are walking around with different halves of the same dollar bill?
-speaker3: ambrose got bellerophon from nekhorvich on the plane, but he didn't get the chimera virus.
-speaker1: yeah. why else would he come back to australia? if he had them both, he could sell them anywhere.
-speaker3: i kill chimera at biocyte and he's sitting on a cure without a disease.
-speaker1: you've got the voice print, i'll get us in..
-
-speaker1: you were right. hunt stung mccloy tonight. he knows. they'll be going into biocyte... 
-speaker2: good..then we go where he'll be, don't we? well done, hugh. well done.
-speaker3: being rapped on by the driver.
-
-speaker1: you're home, guv'ner. home.. 
-speaker2: - where's george. my regular driver.
-speaker1: took ill, guv'. touch of the flu. they say it's going around. nasty business. mind you don't catch a chill now.
-
-speaker1: luther, do you have the building up and running? 
-speaker2: sorry, that it a biocyte facility, their storage structure..
-speaker1: nyah still on the property?
-speaker3: she hasn't left it.
-speaker2: okay, here you go -
-speaker1: let's start from the inside out.
-speaker2: all storage and production of chimera is done here, in this lab on the forty-second floor, the heart of the building.
-
-speaker1: chimera itself is kept in two places: in production vials in an incubation room and housed in a small airtight chamber - inside three injection guns. 
-speaker2: mate, you kill it in both places, we're laughin' and we go home.
-
-speaker1: now how to get in there. 
-speaker2: no garage entrance. lobby's protected by five guards on rotating patrol.
-
-speaker1: if you look at hunt's operational history, he invariably favors misdirection and deception. for a start he won't go into biocyte from the ground where he has to risk confrontation with security. 
-speaker2: not going in from the ground. show me the atrium.
-
-speaker1: the atrium? one of a kind. runs down the center of the building. provides 24-hour natural light via mirrors and daylight storage cells. optimal growing conditions for the virus. ends in a glass floor which doubles as part of the lab's ceiling. 
-speaker2: luther sees the glint growing in ethan's eye.
-speaker3: hey, atrium roof closes at sundown.
-
-speaker1: and if the louvers are open for more than thirty seconds at night, the civil emergency alarms are tipped. those even i can't stop. thirty seconds total to get you in and the cable out. 
-speaker2: security?
-speaker3: thirty-second opening in the roof and a 250-foot drop.
-speaker2: i'm not waiting 48 hours. when we're done at biocyte, if she's not out of ambrose's, i'm going in and getting her out.
-
-speaker1: package away in five..four..three.. 
-speaker2: i'm not ready!
-speaker3: i'm gone..
-
-speaker1: gotta get that cable out. 
-speaker2: ay! what's the matter with you? can't you hear the alarm's gone off in cosmetics?
-speaker3: right. then i guess i'll have to trot off to see who's pinching eyeliner, won't i. i'll even check the stairwell on the way.
-
-speaker1: retracting cable. 
-speaker2: three..two..one..
-
-speaker1: cable's clear. 
-speaker2: reaches down and presses a silent beeper.
-
-speaker1: ethan, the generators are about to go active. we'll be out of contact for eleven minutes. 
-speaker2: dark and silent.
-speaker3: turn over and roar to life.
-
-speaker1: what's this, then? reinforcements? 
-speaker2: not exactly, mate.
-
-speaker1: exactly where is she? 
-speaker2: ..in the building...
-speaker3: say again. sounds like you're saying 'she's in the building.'
-speaker2: i am. she is.
-speaker4: ethan does it the hard way to avoid confrontation. neutralizing security guards is simply too distasteful to him..
-
-speaker1: right. well, then. she's not likely to be alone. is she? 
-speaker2: the question is 'how many of 'em?' i can't get thru to ethan. not 'til the generators go off.
-speaker1: when's that?
-speaker2: not for another eight and a half minutes.
-
-speaker1: it looks like nyah's headed toward an elevator. 
-speaker2: working meticulously an a computer monitor.
-
-speaker1: she's in the elevator heading toward ethan. 
-speaker2: how much longer before you can reach him?
-speaker1: five and a half minutes. he's breached the hot zone..
-speaker3: on the other hand we know where hunt will be and he doesn't know we're coming..
-
-speaker1: alert. chimera-working-seed-stock-ph-at- unacceptable-level.. 
-speaker2: alert. chimera-in-vitro-ph-and- temperature-level-outside-optimal range..
-speaker1: alert. chimera-working-seed-stock-ph-at- critical-level. alert. stock-life threatened. alert.
-
-speaker1: how're we doin', then? 
-speaker2: he should've have killed the virus in the incubation area..nyah's exited the elevator on the same level as the lab.
-speaker1: what can we do' mate?
-speaker2: hope he kills all the bugs before the yellow dot gets to the red one.
-
-speaker1: get it. 
-speaker1: those were two explosions, your van and your safehouse, in case you didn't hear them both -- i believe that means you've also lost a friend.
-speaker2: and you couldn't walk to tell me about it.
-speaker1: hold your fire,
-
-speaker1: fight a bit of a cold.. 
-speaker2: and you're happy about that?
-speaker1: beats fighting the flu, i'm here to tell you.
-speaker2: you know, that was the hardest part of having to portray you. grinning like an every fifteen minutes.
-speaker1: i would've thought the hardest part was exercising restraint. curbing that pressing need of your to get your gun off. you were in such a hurry to knock off that 747, you never figured out where the virus really was.
-speaker2: i knew where it was.
-speaker1: oh. then you knew the only way could smuggle the live virus to the cdc scientists in atlanta was by injecting himself and using his own bloodstream as a petri dish, doing it inside of twenty hours so he could take the anti-virus and still have it be effective. you knew that while you were knocking him off and destroying the very thing you came for.
-speaker2: stop! put a sock in it! hit that gun and you'll spray the virus all over the place!
-speaker1: there it is, guys, the last of it.
-speaker2: yep. you've provided us with a golden opportunity to have both the bug and the bug killer.
-speaker1: what was the top bid?
-speaker2: why, you going to make me a better offer?
-speaker1: than thirty-seven million pounds? not really.
-speaker1: she doesn't belong here, sean. let her go.
-speaker2: she wouldn't be here if it wasn't for you, hunt. from this moment you're responsible for what happens to her, and if you're looking out for her well-being, i suggest you advise her to pick up the gun and bring it to me. ball's in your court, hunt. what've you got to say? nyah's waiting for your answer.
-speaker3: ethan, nyah's in the building! do you copy?
-speaker4: a mess amid the rubble of the construction van.
-
-speaker1: thank you. ethan sure he won't shoot you the minute he's got it? 
-speaker2: oh, hunt, please! one can't hold nyah responsible for her actions..
-speaker1: in other words, you're calling her a flake.
-speaker3: listening.
-speaker2: you know women, mate. like monkeys, they are. won't let go of one branch til they've got a grip on the next...get it, nyah. i'll cover you. ambrose his weapon. ambrose i'm waiting.
-
-speaker1: you..bitch! 
-speaker2: you're not going to shoot, sean. not this she's worth thirty-seven million pounds.
-
-speaker1: what did you think you were doing! 
-speaker2: i wasn't thinking! just..trying to keep you from getting hurt, that's all.
-speaker1: - you who don't have a conscience.
-speaker2: i guess i lied..you can't get both of us out of here, can you?
-speaker1: no.
-speaker2: then you'll have to kill me before it's too late. before i start killing people.
-speaker1: no.
-speaker2: i'm infected with chimera. you know you don't have a choice. just do it now. she puts ethan's gun to her forehead. nyah for sake, get it over with.
-speaker3: pulls back.
-speaker4: he can't fire, lower the hammer.
-speaker1: we've got 19 hours and 57 minutes before you start killing anybody. i'll get bellerophon into your system by then. just stay alive. i'm not gonna lose you.
-
-speaker1: not yet. we did manage to pull any sensitive equipment and material out of our safehouse wreckage. 
-speaker2: we could lock down passport control and all ports of authority, but that won't stop ambrose, and beyond him, we don't know who else we're looking for -- all terrorist bank accounts of which we're aware are stable. no deposits, no withdrawals. therefore no suspects.
-speaker1: we think we've got our finger on the buyer.
-speaker2: do you? even assuming you're able to prevent ambrose selling chimera, you've now got an additional problem. you destroyed all of chimera at biocyte. if ambrose is going to sell chimera now, he'll have to do it by taking a pint or so of miss hall's blood to market.
-speaker1: yes, i believe that's right.
-speaker2: but that leaves another seven or eight pints of chimera.
-speaker1: you mean that leaves miss hall.
-speaker2: yes, i believe that's right. now my understanding is that 20 hours after exposure, the victim becomes infectious. highly infectious.
-speaker2: you noted the time of exposure?
-speaker2: - good. then if you manage to get hold of ambrose, and obtain what he's got, you've got - - 8 hours 57 minutes and twenty-three seconds to destroy the largest remaining source of chimera on earth.
-speaker1: she sacrificed herself..
-speaker2: brave girl. if you can get hold of bellerophon with the time limit, you may spare her the ultimate sacrifice. but in either case you've got less than nine hours to kill her or cure her. after that it's out of our hands and a matter of worldwide material law. and hunt. however you obtain it, we want you to preserve a sample of chimera. bring it back alive.
-speaker2: something else?
-speaker1: aren't you even curious? about why she did it?
-speaker2: no. i can't afford to be curious. and neither can you, hunt..
-
-speaker1: feel like pleading for your life? 
-speaker1: it, nyah! why did you do it? why did you save that bastard?
-speaker2: if it'll make you feel any better i won't do it again.
-speaker1: if it'll make you feel any better, you're going to take a lot of aussies with you and make me a lot of money.
-speaker2: what are you talking about?
-speaker1: in just a few hours you can be assured of going down in history as the typhoid mary of oz. g'day.
-
-speaker1: luther?..luther. 
-speaker2: ethan, i keep telling you there's not a chance of locating nyah til i access the satellite and there's not a chance of doing that til i get this thing booted up
-speaker1: ninety-seven minutes, twenty-seven seconds.
-speaker3: before we kill her or cure her..
-speaker2: right.
-speaker1: wrong. all we've got to worry about is ambrose. nyah will take care of nyah.
-speaker3: what are you talking about?
-speaker1: unless we dose her with bellerophon on the next ninety-seven minutes, nyah will kill herself. so, first things, first. swanbeck said there's no cash movement from any monitored terrorist accounts.
-speaker4: mccloy's black limousine is in the car park.
-speaker5: confirms what ambrose is gonna do -
-
-speaker1: ethan's out from under the bridge and on the south-east face.. 
-speaker2: ethan climbs the side of the cliff.
-speaker1: ethan, ambrose and his tem have over the bridge -
-speaker3: copy that.
-speaker1: you all right, mate? from here it looks like very security. what's it look like like from there?
-speaker3: risky.
-
-speaker1: more like two-two point two million. 
-speaker2: in any case we don't want your cash.
-speaker3: then what do you want?
-speaker2: stock, mr. mccloy. stock options, to be a little more precise.. - cut her loose..right in the center of town..the more crowded the better.. how quickly can you manufacture more of the antivirus.
-
-speaker1: ethan, just picked up an ambrose call - nyah's been dropped off. i think she's alive. 
-speaker2: where is she?
-
-speaker1: ethan? do you copy? 
-speaker2: 'somewhere in sydney?' care to harden the target?
-speaker1: can't. until i can get the gps up on our computer..it's still down..
-speaker3: the clock is ticking..
-
-speaker1: bellerophen? no time at all once i've got it. 
-speaker2: good. biocyte stock is just a week or two away from going through the roof.
-speaker1: what are you talking about?
-speaker2: an outbreak of
-speaker2: in downtown sydney for a start. mccloy is stunned. ambrose you create the supply, mr. mccloy, we've just created the demand. three million people in sydney and 17 million people in australia are going to need bellerophen within a matter of days..not to mention the rest of the world..
-
-speaker1: -- now here's the way it's going to work..wallis, the shares outstanding are.. 
-speaker2: ninety-three point four million.
-speaker1: which means, mr. mccloy, we have to get our hands on four hundred and eighty thousand options. we'll borrow your thirty million to buy those options. your stock's never sold above thirty-one dollars a share. we'll agree to buy at fifty.
-speaker1: ambrose when your stock goes north of two hundred, and it will, those options will be worth billions. we can borrow whatever we need to buy the 48,000,000 shares, fifty-one percent of biocyte.
-speaker3: outrageous. i won't let you take control of my company.
-speaker1: sit down. you'll be a billionaire. better than being broke. i've got terrorists and other pharmaceutical companies standing in line. ball's in your court, mr. mccloy.
-
-speaker1: we're running short on time, mr. mccloy. we've got to conclude our business. 
-speaker2: yes, start the transfer.
-speaker1: follow it. let me know.
-
-speaker1: you broke our deal. 
-speaker2: you're too trusting. raise your hands slowly.
-
-speaker1: keep it going. 
-speaker2: sean, this rat's reached the end of the maze.
-speaker1: is he alive?
-speaker2: more or less.
-speaker1: bring him to me.
-
-speaker1: we're due to take off. 
-speaker2: not for seven more minutes.
-
-speaker1: ethan? ethan? do you copy? 
-speaker2: well, mate, maybe this is one of those times we shouldn't follow orders.
-speaker3: the rotor blades turn over.
-
-speaker1: afraid he's got no choice. i believe i broke his jaw. 
-speaker2: hugh, i'm impressed..
-speaker3: what do you intend to do?
-speaker2: you needn't watch.
-
-speaker1: - right. we don't have a lot of time, hunt. whatever you've got to say, say it now. 
-speaker1: ambrose
-
-speaker1: clear that bridge for me. 
-speaker2: roger that.
-speaker3: they're tracking you on the left, ethan. prepare for some fire.
-
-speaker1: the target is located. 
-speaker2: ethan, the computer's up. i've got nyah. she's moved out of the city.
-speaker3: luther, say again.
-speaker2: she's on the north head bluff - approaching the cliffs. one klick away.
-
-speaker1: get him. 
-speaker2: i can't get a good shot.
-speaker1: shut up. i know what i'm doing.
-
-speaker1: rapidly approaching the north head bluff. 
-speaker2: there she is. i got visual.
-speaker3: we're down to seven minutes 23 seconds..
-
-speaker1: sorry, ethan. i don't quite know where to begin. any suggestions? 
-speaker2: you'd like me to conduct my own debriefing.
-speaker1: why not? you've done just about everything else on this operation.
-speaker2: i'd thank you -- but i'm not sure that was a compliment.
-speaker1: of course it was. anyone whose operations requires the level of disinformation that yours do, is bound to get a little flak here and there. you try flogging the stories on cnn i've had to come up with about what's been going on around here the last few days. at any rate, it's been most instructive -- what they'll swallow, or what they'll broadcast with a straight face. miss hall's blood, it appears, has absolutely no elements of the chimera virus. not even antibodies.
-speaker2: yes, i gathered as much.
-speaker1: and the only other remaining sample was in the canister you recover from ambrose.
-speaker2: yes.
-speaker1: and that appears to have been destroyed. it also contained the anti-virus, bellerophon.
-speaker2: well, bellerophon, it turns out, was only really effective against chimera.
-speaker1: but you were under specific instructions to bring back a living sample of the chimera virus. i'd be very interested to know how, after you'd managed its recovery intact, it subsequently got destroyed.
-speaker2: by fire. that's the best way, really.
-speaker1: so you didn't fail mission, you simply changed it. ethan doesn't respond. swanbeck it's no longer enough for you to execute and implement imf policy, you now wish to go in the business of creating it?
-speaker2: no, i don't. but in this case -
-speaker1: in this case, it wasn't a bad idea. in face, it was a pretty good idea. just don't make a habit of it. and, as for ms. hall, in light of her efforts, her criminal records will certainly be expunged. i'm assuming you approve.
-speaker2: i do.
-speaker1: where is she now, by the way? do you know?
-speaker2: i don't. no exactly.
-speaker1: well, hunt, what are your plans?
-speaker2: not sure. some sort of vacation. i'll let you know where i'm going.
-speaker1: oh, you don't have to do that. wouldn't be a vacation if you did.
-speaker3: this incident in the wake of rumors suddenly surfacing about mr. mccloy and biocyte's financial difficulties -- including criminal allegations of insider trading, embezzlement, conspiracy to commit fraud, and stock parking -- have, understandably, sent stock prices of the pharmaceutical company plummeting.
-
-speaker1: so what did he say? 
-speaker2: good job. and thanks.
-speaker3: that's it? that's it? that's it?
-speaker1: and the check's in the mall.
-speaker3: right. just remember, mates. billy baird's the name. anything you need to get, move or watch, i'm your man.
-speaker1: always nice hearing from you man. stay in touch..
-speaker4: do you know me?
-speaker4: is inches from him. without batting an eye.
-speaker2: no. should i?
-speaker4: no. you just looked as if you did.
-speaker2: no...
-speaker4: oh. well..
-speaker2: let's get lost.
+GUARD: what's this, then? 
+NEKHORVICH: the ashes of a colleague, i'm taking them to his family. if you wish to open it, please be careful.
+
+ETHAN: you keep staring at that watch as if your life depended on it, doctor.. 
+NEKHORVICH: well, yes. i suppose i am a bit anxious.
+ETHAN: they're ready and waiting. you'll soon be with old friends.
+NEKHORVICH: i'm with an old friend now, dmitri.
+ETHAN: sorry it couldn't be under happier circumstances.
+NEKHORVICH: yes, i'm sorry too.. 'you're sorry and i'm sorry..' - you do know gradski thought the world of you.
+ETHAN: he was quite a man. did he know before the end you two had succeeded?
+NEKHORVICH: yes, he knew. just..
+ETHAN: ..not in time to save him.
+NEKHORVICH: no. after you've lived with
+NEKHORVICH: yes, and you'll get us to a safe place with them, thank god!..left to my own devices, i'm an old fart too inept to read a railroad timetable!..
+CAPTAIN'S VOICE: you captain again. we've experienced a slight but abrupt drop in cabin pressure..
+
+INT - COCKPIT: the flight crew now wearing their oxygen masks. 
+CO-PILOT: captain, i don't..can't..
+
+NEKHORVICH: ..it seems we have a problem, dmitri. 
+ETHAN: you keep calling me dmitri. you really shouldn't.
+NEKHORVICH: you're not dmitri?
+ETHAN: - no. he grabs the satchel. ethan wallis, hold onto it.
+
+STAMP: all done, chief.. 
+AMBROSE: - right - - don't go too far ahead of me now -
+STAMP: not possible..
+WALLIS: checkpoint charlie plus 30, altitude minus two-zero-thousand. airspeed one-seven- niner knots..
+AMBROSE: it's that time. go.
+
+ETHAN: you're welcome. 
+ETHAN'S POV SUNGLASSES: first, a retinal scan.
+ELECTRONIC VOICE: identity confirmed.
+SWANBECK: good morning, mr. hunt.
+
+ETHAN: do you know me? 
+NYAH: no. should i?
+ETHAN: no. you just looked as if you did.
+NYAH: no. just as if i'd like to.
+ETHAN: oh. well. i think that can be arranged.
+NYAH: not tonight. bad timing. sorry -
+ETHAN: there's not enough time in the world for any of it to be bad.
+NYAH: look, it's either you or the rent and i don't mind telling you it's not an easy choice.
+ETHAN: what if i pay the rent?
+NYAH: uh-huh.
+ETHAN: uh-huh?
+NYAH: go find the wealthy lady you came with and next time we meet - i'll pay your rent. now off.
+
+NYAH: mmmm. 
+ETHAN: decisions, decisions.
+NYAH: what are you doing here?
+ETHAN: think you're the only one who can pick a lock?
+
+ETHAN: i take it you prefer tenors. 
+NYAH: would you mind if i'm on top?
+ETHAN: oh, either way works for me.
+ETHAN'S VOICE: you're never gonna find it there.
+NYAH: it! find what?
+ETHAN: his ex-wife's bulgari necklace that goes up for auction tuesday. looking down to ethan, a touch of indignation:
+
+NYAH: - right..where is it? 
+ETHAN: far right.
+NYAH: where's the -
+ETHAN: - torque wrench.
+NYAH: - this is very disconerting..
+ETHAN: hey, you put me here. i just do what i'm told.
+NYAH: - right..
+ETHAN: i wouldn't do that.
+NYAH: do what?
+ETHAN: that.
+SENOR DE L'ARENA: oh, senor keyes, thank it is you! it's senor keyes, the security engineer.
+ETHAN: well, senor de l'arena the goods news is that the heat sensors were activated. but miss nordoff-hall, my associate - senor de l'arena kisses nyah's hand.
+SENOR DE L'ARENA: mucho gusto, senorita.
+ETHAN: - did feel that she had rather too long to work on the safe before they triggered the alarm, isn't that right miss hall?
+NYAH: oh yes. absolutely. much too long i should yes.
+ETHAN: under the circumstances i think we would recommend re-setting the senors to respond to a lighter load. how do you feel about forty kilos, miss hall?
+NYAH: indeed.
+ETHAN: well, senor de l'arena, there's no reason to disrupt your party any longer. we have some further concerns about the disposition of your security guards, which you'll receive in our written report by fax in the morning, hard copy to follow. shall we?
+NYAH: the necklace?
+SENOR DE L'ARENA: what are you trying to do, senorita? rob me.
+
+NYAH: i'm missing something here, aside from a 500,000 pound necklace. even after i botched the job, i could've walked out of there with the thing. 
+ETHAN: at least you walked.
+NYAH: if you weren't going to let me get away with it, why did you let me go thru with it?
+ETHAN: wanted to see how good you were.
+NYAH: may i say something, no offence? you look like a gigolo, you sound like a thief, you act like a cop - what the do you have in mind?
+ETHAN: working under adverse conditions. highly adverse conditions.
+NYAH: sounds smashing. i'm in. muchacho, mi carro, por favor! now be serious. you couldn't possibly want me off tonight's performance..
+ETHAN: you didn't do that badly.
+NYAH: you're apologizing for me? quite the gentleman..
+ETHAN: not really. i triggered the alarm..
+ETHAN: hey, the bulgari job last week was flawless. and i've always been partial to pale yellows.
+NYAH: i don't do laundry, or put up with cheeky who set me up on their territory so they can poach on mine.
+
+NYAH: hola.. 
+ETHAN: hi. would you mind slowing down?
+NYAH: where did you get this number? i don't even have it!
+ETHAN' VOICE: would you like it?
+ETHAN: pull over and listen to me, will you?
+NYAH: listen to what?
+ETHAN: i need your help and i thin you can use mine.
+NYAH: your help? what are you talking about?
+ETHAN: scotland yard, interpol, every dutch authority. i can make them go away.
+NYAH: oh hell. you're a spy.
+ETHAN: i deserved that.
+
+ETHAN: slow down, slow down. 
+NYAH: uh-oh.
+ETHAN: no!
+NYAH: oh..oh..
+ETHAN: don't look down. just..look at me. that's it..that's it..
+
+NYAH: what's you name? 
+ETHAN: ethan hunt.
+NYAH: well, ethan hunt, what is it you want to talk to me about?
+ETHAN: ...more than i thought..
+
+NYAH: awfully short notice.. 
+ETHAN: care to wait a decent interval?
+NYAH: who wants to be decent?..
+
+ETHAN: so what've you got against spooks? 
+NYAH: when they've got your recruiting technique? not a thing.
+ETHAN: oh. well..this isn't exactly by the book.
+NYAH: they've got a book for this?
+ETHAN: they've got a book for everything.
+NYAH: the only other spook i knew was a liar. charming but absolutely incapable of telling the truth. he'd lie about his favorite color. but then i reckon it's an occupational hazard. all spies really do is conceal the truth and tell lies.
+ETHAN: not revealing information doesn't necessarily make someone a liar.
+NYAH: that's not the point. in the end what spies rely on is the one thing they think they know that you don't.
+ETHAN: which is?
+NYAH: that they're lying. ethan laughs. nyah ..once they know that they can get very very..crosee..
+ETHAN: so where did i got right?
+NYAH: you're not a liar. or you're an awfully good one.. ..this thing these blokes pinched..
+ETHAN: i don't know that they 'pinched' it. don't even know that they're blokes.
+NYAH: well, then, what i am i doing here? i assume i'm meant to be some sort of thief-to catch-a-thief..
+ETHAN: so do i. sort of.
+NYAH: spoken like a spook..you ever afraid?
+ETHAN: of what?
+NYAH: ask a question, you get an answer!..
+ETHAN: damn, you're beautiful.
+NYAH: that's because i'm on my back.
+ETHAN: i don't think so.
+
+VENDOR: si, senor. 
+ETHAN: i'll pick'em up on my way out, okay?
+
+SWANBECK: fetival's a pain in the ass. honoring saint by setting'em on fire. sit down, sit down. ethan sits. swanbeck let's you know what they think of saints, doesn't it? near set me on fire on my way over here. as if i haven't been burned enough today. 
+ETHAN: sorry i didn't let you know where i was.
+SWANBECK: don't be. wouldn't be on vacation if you did.
+ETHAN: well. you're sorry and i'm sorry.
+SWANBECK: why did you phrase it like that?
+ETHAN: like what?
+SWANBECK: 'you're sorry and i'm sorry.'
+ETHAN: you gotta be kidding.
+
+NEKHORVICH: well, dmitri! how are you?.. 
+ETHAN: ..i'm fine..and you?
+NEKHORVICH: i'm fine..
+ETHAN: i'm fine and you're fine..
+NEKHORVICH: i'm fine too.. i'm fine and you're fine - do you remember, dear fried, how you got sergei and i to repeat those lines from dr. strangelove and we gave you the name of that silly soviet premier because we didn't know your name?..in those days, you not only saved our lives, you saved our sanity. 'now, then dmitri - we have this little problem': every search for a hero must begin with something that every hero requires; a villain. therefore, in a search for our hero, bellerophon, we created a monster chimera. i beg you, dmitri, come to sydney and accompany me to atlanta immediately. however we travel, i must arrive at me destination, within 20 hours of departure. forgive this fanciful explanation, but for now prudence dictates that i communicate nothing but the gravest urgency. i fear i can entrust this to no one but you, dmitri. as we say, 'i'm sorry and you're sorry'.. swanbeck stops the dvd.
+SWANBECK: let me ask you something. you have any idea what the he's talking about?
+ETHAN: an idea, yeah.
+SWANBECK: like?
+ETHAN: like it's a good idea to pick him up in a hurry. and a bad idea to fly him on a commercial carrier. so let's get on with it. he's still in sydney?
+SWANBECK: dr. vladimir nekhorvich is dead. so is his colleague, gradski, but that happened earlier. we had nekhorvich on a flight from sydney that crashed in the rockies.. ethan sits back, heavily. swanbeck - hunt, are you listening?.. slowly looking up:
+ETHAN: if he didn't want to go anywhere without me, how did you get him on the flight?
+SWANBECK: you were there.
+SWANBECK: when i couldn't find you, i had to replace you. sean ambrose was the obvious choice. he double you, what? two, three times?
+ETHAN: twice.
+SWANBECK: what did you think of him?
+ETHAN: you know we had reservations about each other. isn't it a little late in the day to be asking me that?
+SWANBECK: not necessarily.
+SWANBECK: airline record list captain harold macintosh as the pilot for flt 2207. as far as the media and all governmental agencies are concerned, captain macintosh died on the flight, but in fact he missed it. he did, however make the next flight - in cargo, stuffed into a rather small suitcase considering his size.
+ETHAN: so there's one thing we know ambrose doesn't.
+SWANBECK: then you do think it was ambrose. ethan barely nods. swanbeck and you're not surprised.
+ETHAN: whatever nekhorvich was carrying sean wanted and he wanted to conceal the fact that he took it.
+SWANBECK: enough to kill nekhorvich and two hundred innocent passengers? ethan smiles.
+ETHAN: sean feels he hasn't done the job unless he leaves a lot of hats on the ground.
+SWANBECK: the question is why? what was this chimera nekhorvich was carrying?
+ETHAN: right now only ambrose knows that.
+SWANBECK: in any case, you've got to recover chimera and bring it to us.
+ETHAN: in order to do that, i've got to figure out how he plans to make money with it.
+SWANBECK: - right. in fact since the plane went down our banking sources have confirmed a marked increase in the stock pilling of cash in terrorists accounts.
+ETHAN: 'terrorists?'
+SWANBECK: well you know nekhorvich's history. you're the one who got him out of the soviet union was it still in bio- weapon business.
+ETHAN: if that's what you're thinking ambrose would have set up a bidding situation with any number of buyers before he got on the plane. locating him in time to stop something like that -
+SWANBECK: - is where miss hall comes in.
+ETHAN: excuse me?
+SWANBECK: miss hall and ambrose had a relationship which he took very seriously. she walked away and he's wanting her back ever since. we believe she's our surest and quickest way of location him.
+ETHAN: and then what?
+SWANBECK: then makes sure she continues to see him. gets him confide in her and report to you.
+ETHAN: you made it sound as if i was recruiting her for her skills as a thief.
+SWANBECK: well, then i mislead you. or you made the wrong assumption. either way we're asking her to resume a prior relationship, not do anything she hasn't already done.
+ETHAN: she's got no training for this kind of thing.
+SWANBECK: go to bed with a man and lie to him? she's a woman. she's got all the training she needs.
+ETHAN: i don't think i can get her to do it.
+SWANBECK: you mean it'll be difficult.
+ETHAN: very.
+SWANBECK: well it's not mission
+
+STREET VENDOR: senor, senor! your flowers. 
+ETHAN: yes. they're very nice..
+
+NYAH: what's the population of seville any idea? 
+ETHAN: five, six-hundred thousand.
+NYAH: there's nearly 2 million in london.
+ETHAN: and six billion in the world.
+NYAH: that's lot of people out there..how many of them, i wonder, are capable of something like that?
+ETHAN: sean ambrose, for one.
+NYAH: right...
+
+NYAH: not that it matter much but..i seem to recall you staying something like, 'i was hoping we could work together.' 
+ETHAN: this wasn't what i had in mind, nyah.
+NYAH: but it is what you'd like me to do. so tell me to do it.. she approaches ethan. they're inches apart. nyah come on, out with it. tell me to go and insinuate myself back into sean's life.
+ETHAN: go and insinuate yourself back into sean's life.
+NYAH: i'd like a little more conviction..
+ETHAN: so would i. but it's not mine to give.
+NYAH: you've either got it or you don't. let your conscience be your guide?
+ETHAN: something like that.
+NYAH: but i don't have a conscience. i'm a thief.
+ETHAN: you can be a thief and have a conscience.
+NYAH: no. you can be a thief and have a conscience: not me. why did you have to tell me about this! what do i have to do to get away from this guy? when you're with him, he messes about with your head every waking moment..even now i'll be at some out-of- the-way-place, a tin of caviar and a bottle of crystal shows up at the table, with two glass, knows how he finds out at any given moment where i am in the world but he does. and it looks like he's done it again. you know his definition of a true paranoid?
+ETHAN: i don't.
+NYAH: someone in possession of all the facts. are you telling me i have to do this?
+ETHAN: generally, i don't favor coercing someone. not when there's a chance my life could end up in their hands.
+NYAH: and that's the only reason?
+ETHAN: can you think of a better one?
+NYAH: not me. i was just hoping you might..or that..somehow in the course of business this got personal as well as physical.
+ETHAN: look, would it make you feel better if i didn't want you to do this?
+NYAH: much.
+ETHAN: then feel better!.. long moment while she looks at him. ethan well. that made all the difference in the world, didn't it?
+NYAH: sean will never be anything but suspicious if he picks up some sort of 'yoo-hoo-i'm- not-nad' message. not after the way we broke up.
+ETHAN: what wouldn't make him suspicious?
+NYAH: probably that i needed him in some urgent way..destitute - in serious trouble..the kind i couldn't possible sort out myself.. ethan's been smiling slightly.
+ETHAN: serious trouble, nyah, is something i can always arrange..
+
+ETHAN: this little chip sends a coded signal that can be picked up only by our computer. 
+ETHAN'S VOICE: when it's in your ankle we can track you within three feet of anywhere in the world.
+
+ETHAN: look, i can't run your arrest in cnn, but i guarantee he's monitoring every law enforcement agency in the world, for what they might be saying about him, if nothing else - he's got the ability and, we assume, the desire to get you out of there. 
+NYAH: this doesn't seem to be accomplishing much.
+ETHAN: well, i mean it's not a total loss. it is keeping a very capable thief off the street..
+NYAH: very funny..maybe he has heard and doesn't want to know. maybe he's lost interest.
+GUARD: your lawyer to see you.
+NYAH: what lawyer?
+
+ETHAN: well, here we go. 
+ETHAN: stop and look for something in you purse..kneel down..
+NYAH: limo's waiting.
+ETHAN: - ambrose will have counter-surveillance second to no one's. when and if he contacts you, push this button before you actually end up under his roof it'll scramble your transmission to us.
+NYAH: when will you be there?
+
+ETHAN: before you are. 
+NYAH: how can you possibly? i've got to get right on the plane. i'm leaving now.
+ETHAN: you don't trust me.
+NYAH: oh, i do. but as we know i'm a very poor judge of character.
+ETHAN: he's got you on qantas flight 2735. it's going to be delayed.
+NYAH: yes?
+ETHAN: you'll be fine. i'm going to lose you.
+NYAH: ethan, you take care of yourself, i'll take care of myself because if push comes to shove, i'm gonna bail - and without giving two week notice.
+ETHAN: well, forewarned is forearmed. and while we're at it, be especially sensitive to any sudden change in ambrose's plans, especially any involving you..
+
+ETHAN'S VOICE: welcome to australia, mate. 
+LUTHER: thanks - mate.
+
+LUTHER: it's the transponder. 
+ETHAN: put in the coordinates and let's get a visual. the visuals aren't coming up.
+LUTHER: the satellite doesn't work as fast as i do.
+BILLY: yeah, i've heard about you, luther, and i just want to tell you it's an honor and a pleasure to be working with you blokes, whoaa! that's some transponder!
+LUTHER: it certainly is. how did we get so lucky?
+
+WITH ETHAN: the picture abruptly goes dead. 
+BILLY: just when it was about to get interesting.
+ETHAN: it's okay. she scrambled the transmission. luther, continue feeding the gps her position.
+INT - SPACE: the satellite positions itself.
+
+ETHAN: can't we speed this up. 
+LUTHER: with what? this is the only computer that'll do this.
+
+BILLY: - right. now there's a bloke who knows how to deliver a proper welcome. don't get me wrong, mate. you were quite hospitable. is it him, then? 
+LUTHER: it is, billy.
+BILLY: then we got'em!
+ETHAN: we don't know what we've got because we don't know what he's got, where he's got it or what he's doing in sydney with it.
+
+AMBROSE: not much luggage. 
+NYAH: i left in a bit of a hurry. i'm terribly grateful, sean.
+AMBROSE: how grateful?
+NYAH: well that depends.
+AMBROSE: on what.
+NYAH: how hard you had to work to get me out of there..how in the world did you ever find me?
+AMBROSE: how i usually find you, nyah.
+NYAH: how do you that.
+AMBROSE: magic...
+NYAH: ahh..
+
+WALLIS: no flies on her. no bugs either. she's clean. 
+STAMP: all cats are.
+
+NEKHORVICH: ...therefore in a search for our hero, bellerophon, we created a monster, chimera. 
+BILLY: what you got there, mate?
+ETHAN: a myth..just a myth...shouldn't you be checking out their countersurveillance?
+BILLY: well you know his blokes'll place the oscor in his annex, where else if you're pinpointing transmitters, video signals, covert chip cameras, anything radiating, oscillating..
+ETHAN: ..or hard wired..
+BILLY: - or hard wired, right. first line of perimeter defence'll run from the back of the dock to the front of the house. whatever moves burps or bleep is gonna be picked up to a height of twenty feet.
+LUTHER: ethan, here's nekhorvich, and here's his boss
+BILLY: well do you disagree with that?
+ETHAN: not at all. but how about going into town and confirming your intuitions on site?
+BILLY: oh well, if that's how you feel about it. billy leaves.
+LUTHER: ..then cambridge..harvard..entrepreneurial efforts..in efforts..in 1989, acquired biocyte in hostile takeover.. as luther transfer info to ethan's computer: luther ethan, have a look at this.
+
+NYAH: your room. 
+AMBROSE: mmmm.
+NYAH: and my room?
+AMBROSE: thought you could use a little something to wear.
+NYAH: no changing room?
+
+CLOSE - NYAH: meeting ambrose's look. 
+NYAH: you're not interested in seeing how it looks.
+AMBROSE: oh, i am. later..
+
+ETHAN: nekhorvich specialized in recombining dna molecules. in the myth, bellerophon killed chimera, a recombinant monster with the head of a lion and the tail of a serpent who plagued the ancient world. i think nekhorvich has created a monster virus in chimera and apparently the means to kill it in bellerophon. 
+LUTHER: that simple, huh?
+ETHAN: why not?
+
+AMBROSE'S VOICE/ETHAN'S VOICE: damn, you're beautiful.. 
+NYAH: did you say something?
+AMBROSE: leaning on an elbow, looking down.
+AMBROSE: i said you're beautiful, nyah.
+NYAH: only because..it's spring..chalk it up - to spring fever.
+AMBROSE: won't do, love. it's not spring. it's nearly autumn..you're in oz. everything's upside down and backwards here.
+NYAH: maybe that's it, then. everything's upside down and backwards...
+
+ETHAN: luther..get us everything you can on the outbreak of influenza on bruny island last month, including photos of the victims. 
+LUTHER: right. i guess there aren't many flu epidemics in the middle of summer.
+LUTHER: luther she did it, ethan. nyah's in the compound.
+ETHAN: yeah? i've just rolled up a snowball and tosses it into hell. ethan stands.
+
+AMBROSE: twenty-four mil.. 
+AMBROSE'S VOICE: thirty-seven million pounds. that's a promising bid.
+AMBROSE: we'll need this at the track. well then. sorted.
+STAMP: not everything. why do you think she's really here?
+AMBROSE: from her point of view or mine?
+STAMP: wasn't exactly gagging for it when she left you six months ago..the question is, do you trust her?
+AMBROSE: one considers her timing, of course - getting nicked within a week of the plane going down. suggestive, even borderline suspicious, but hardly conclusive.
+STAMP: well, you've thorough about it, at any rate.
+AMBROSE: tell me, hugh. you don't exactly hang on nyah's every word and gesture, do you? fairly ratty nail, that.
+STAMP: sean..
+AMBROSE: you're not scrutinizing any casual shrug for some hair-splitting nuance, are you?
+STAMP: sean, please..
+AMBROSE: suppose she is some sort of trojan horse sent in by imf to spy in us, why should i deny myself the pleasure of a ride or two? or don't you think i can learn more from her than she can from me?
+STAMP: i do!..
+AMBROSE: now hugh, you must realize that some of us have the burden of to deal with..and my dear chap. i may or may not know why she thinks she's here, but i'm willing to take the risk, because hugh, i am gaging for it..
+
+AMBROSE: you won. 
+NYAH: i suppose i did.
+AMBROSE: what made you pick
+AMBROSE: say no more. i'm off to grab a drink. still favor bellinis? she smiles, a little shakily. ambrose leaves.
+A VOICE: naturally vain..
+NYAH: pardon me?
+BILLY: 'naturally vain.' in the fourth. check her out. she's due.
+ETHAN'S VOICE: you can speak as if i'm right by your side.
+NYAH: where are you?
+ETHAN'S VOICE: at the mounting enclosure, just off the tracks at two o'clock.
+
+CLOSE - NYAH: a swift intake of breath as she see him. 
+ETHAN: how's it going? everything okay?
+NYAH: just like old times.
+ETHAN: just like old times?
+NYAH: just about..
+ETHAN: tell me who you've run into at ambrose's.
+
+ETHAN: we know him. he's over your left 
+NYAH: - michael, his driver's an aussie, new to me. then there's the blokes in the annex at the back of the house.
+ETHAN: have you met them?
+NYAH: annex is strictly off limits to me and they never come to the main house, michael even takes their meals to them all but shoves them under the door.
+ETHAN: i've no doubt.
+
+LUTHER: nekhorvich's boss? 
+ETHAN: yep.
+NYAH: ambrose has photographs of newspapers with loads of money piled on them -- thirty- seven million on the london times. what's that about?
+ETHAN: bids from possible chimera buyers -- to prove that as of the date on the newspaper those bids are back up by earnest money --
+
+ETHAN: whatever mccloy's looking at, he's not happy about. 
+LUTHER: ambrose just pulled the memory card out of the digital camera and put it into an envelope, put it in his inner left jacket pocket...
+ETHAN: left jacket pocket?
+LUTHER: roger that.
+ETHAN: confirm. left jacket pocket.
+LUTHER: left jacket pocket confirmed.
+
+ETHAN: nyah, ambrose is heading back. there's an enveloped inside -- 
+NYAH: -- his left jacket pocket.
+ETHAN: affirmative.
+
+NYAH: where do i meet you? 
+ETHAN: betting table twelve off the paddock.
+NYAH: i'll muddle through.
+
+AMBROSE: see anything you like? 
+NYAH: yeah. naturally vain -- but they're about to close the betting table and i haven't a sou..
+AMBROSE: nyah!
+ETHAN: billy, make sure nyah's not followed.
+BILLY: no worries, mate.
+NYAH: would you mind terribly? ambrose - not at all. but you'll pay for that and with interest..
+NYAH: i've no doubt..
+AMBROSE: hold on.
+NYAH: to win?
+AMBROSE: what else?
+WIDER ANGLE - NYAH: moves along the aisle.
+ETHAN'S VOICE: luther, smallest digital you got. ready to transmit. betting table twelve.
+
+STAMP: say again? 
+BILLY: aggrhh-aggrhh-aggrhh...
+STAMP: whatever you're about in future, watch your step. never know who you might run into...
+STAMP: where's the loo then?
+BILLY: - aggrhh-aggrhh-aggrhh...
+
+ETHAN'S VOICE: how'd you do? don't turn around. 
+NYAH: i managed.
+ETHAN: you noticed. what're you going to do? spank me?
+BILLY'S VOICE: stamp's out of the loo.
+ETHAN: this is going to take a couple of minutes..
+LUTHER: is racing back to the van.
+LUTHER: there in twenty, ethan..
+NYAH AND ETHAN: edge toward the window.
+BILLY'S VOICE: stamp's a little shaky, but headed your way, mate.
+ETHAN: copy that. who do you like? in the race?
+NYAH: what race are we talking about?
+INT - VAN: a sweaty luther:
+LUTHER: i'm booted up. go, ethan.
+BILLY'S VOICE: he's heading down the stairs, now..
+
+ETHAN: i want you out of ambrose's place. 
+BILLY'S VOICE: he's one tier from the bottom.
+NYAH: what are you talking about?
+ETHAN: i want
+BILLY: thirty steps..
+ETHAN: nyah, you've done more than enough. even the best of snake charmers get bit.
+NYAH: ethan, tell me -
+
+BILLY'S VOICE: twenty, nineteen.. 
+ETHAN: i want you out of australia! ..i don't know how much more plainly i can put it.
+NYAH: how do you suggest i go about it?
+ETHAN: he's touched your heart. you're overwhelmed. you need to think it over. you'll meet him somewhere in a month. if you're not out in 48 hours i'm coming in and getting you out. give me the ear piece.
+
+STAMP: get your bet down? 
+NYAH: just..
+
+AMBROSE: your nag is making a run for it on the outside! hell, nyah! 
+AMBROSE: you picked another winner!
+NYAH: well, that's good, isn't?
+ETHAN'S VOICE: dr. segi gradski, nekhorvich's colleague and lifelong friend..
+ETHAN: six hours later.
+LUTHER: here's a victim from the bruny island outbreak.
+BILLY: oh, happy day.
+ETHAN: nekhorvich said 'however we travel, i
+
+AMBROSE: to australia. it's made so many convicts feel at home. here's hoping it does the same for you.. he laughs. she doesn't. 
+NYAH: sean, there's something i've been meaning to talk to you about... isn't going to be easy for me to say.
+AMBROSE: then don't say it.
+NYAH: i don't know what to do about you, sean. i'm more than a bit muddled. i need time.
+AMBROSE: to do what?
+NYAH: sort it all out.
+AMBROSE: and you're going to have time. there's been a change of plans.
+NYAH: a change of plans?
+AMBROSE: yes. we won't be able to have dinner tonight. something's come up. i hope you don't mind.
+NYAH: oh, no, not at all. maybe just a bit.
+AMBROSE: ulrich will be about. he'll look after you.
+NYAH: lovely.
+
+STAMP: i thought you were going to dinner. 
+AMBROSE: hugh, take care of the nekhorvich memory card.
+STAMP: where is it?
+AMBROSE: in the envelope in my pocket. my right.. jacket..pocket..
+
+ETHAN: chimera attacking human blood.. 
+BILLY: ambrose obviously got these from nekhorvich on the plane.
+LUTHER: what manic invents disease like that in the first place? why would he do it?
+ETHAN: i don't know, but nekhorvich was not a manic. get me a twenty on nyah.
+LUTHER: she must still be on the property.
+
+MCCLOY: room..just..shut your eyes, shut your eyes. 
+NEKHORVICH: a shimmering blur coming in and out of focus. mccloy i'll be buggered!..what's this then?
+NEKHORVICH: a visit from an old friend.
+MCCLOY: what's happening here? you're dead!
+NEKHORVICH: fatigued, certainly. but dead is a little extreme. on the other hand, when me dear gradski had your pulse and blood pressure he has less than ten hours to live.
+MCCLOY: it was in the papers, on the telly..what's this about gradski?
+NEKHORVICH: you are infected with
+NYAH: international, please. i'd like to make a
+OPERATOR: where to?
+NYAH: where is next available flight going?
+NYAH: fine. i'll take it.
+
+ETHAN: easy, easy, easy, shhh! 
+NYAH: oh ethan!..
+ETHAN: are you okay?
+NYAH: i am now. get me out of here. just get me out of here.
+ETHAN: it's going to be okay.
+
+NEKHORVICH: no use, my friend. the medical staff wants no part of this. doctors don't fancy the idea of dying any more than anybody else. 
+MCCLOY: how could i
+MCCLOY: you have bellerophon.
+NEKHORVICH: do i?
+MCCLOY: you took it! all of it! and what if i need it?
+NEKHORVICH: 'if?' my, my, my...the five hundred people on bruny island that you deliberately infected with
+
+NEKHORVICH: by asking me. 
+MCCLOY: you still don't get it, do you? you want to make an omelet, you break a few eggs -
+
+MCCLOY: well, the thought had occurred to me. i needed chimera in order to peddle bellerophon. for hero to be appreciated, you need a monster. now that's not so difficult to understand, is it? look, time was a shot of penicillin could knock off every bug in the zoo! not anymore!..have you any idea the randd money it takes to float one little pissy boutique antibiotic that's barely effective against one strain of one bacterium? if i couldn't makes money killing the microscopic little that are out there, you'd help me put one out there i can make on!..there it is. i've confessed. i, john c. mccloy, am in business to make money. lilly's making billions feeding prozac to depressed dogs. pfizer doesn't even know where to put the money they're making on viagra, and let me tell you that didn't do a thing for me even at twice the recommended dose, who do i have to screw to get a a break!..now get me out of here, get me treated and let's go back to work!.. 
+NEKHORVICH: you know, i think it's a little late for that. do give my regards to gradski if you see him.
+
+EXT - ANNEX  NYAH: holds tight in her embrace with ethan. 
+NYAH: ethan, you know what frightens me most when i'm with him?..the thought of never seeing you..how are we getting out of here?
+ETHAN: nyah, it's very important not do anything to alarm ambrose..
+NYAH: what? you told me to get out of here. i thought you were here to collect me. i was so relieved.
+ETHAN: no time to explain. you've done well, and we're so close. so close. it's critical that you do whatever ambrose asks. don't worry - it'll be over soon.. that's a promise.. come on, now off you go!
+
+LUTHER: so ambrose has bellerophon and mccloy's got chimera. 
+BILLY: there guys are walking around with different halves of the same dollar bill?
+ETHAN: ambrose got bellerophon from nekhorvich on the plane, but he didn't get the chimera virus.
+LUTHER: yeah. why else would he come back to australia? if he had them both, he could sell them anywhere.
+ETHAN: i kill chimera at biocyte and he's sitting on a cure without a disease.
+LUTHER: you've got the voice print, i'll get us in..
+
+STAMP: you were right. hunt stung mccloy tonight. he knows. they'll be going into biocyte... 
+AMBROSE: good..then we go where he'll be, don't we? well done, hugh. well done.
+CHAUFFEUR'S WINDOW: being rapped on by the driver.
+
+BILLY: you're home, guv'ner. home.. 
+MCCLOY: - where's george. my regular driver.
+BILLY: took ill, guv'. touch of the flu. they say it's going around. nasty business. mind you don't catch a chill now.
+
+ETHAN: luther, do you have the building up and running? 
+LUTHER: sorry, that it a biocyte facility, their storage structure..
+ETHAN: nyah still on the property?
+BILLY: she hasn't left it.
+LUTHER: okay, here you go -
+ETHAN: let's start from the inside out.
+LUTHER: all storage and production of chimera is done here, in this lab on the forty-second floor, the heart of the building.
+
+LUTHER'S VOICE: chimera itself is kept in two places: in production vials in an incubation room and housed in a small airtight chamber - inside three injection guns. 
+BILLY'S VOICE: mate, you kill it in both places, we're laughin' and we go home.
+
+ETHAN: now how to get in there. 
+LUTHER: no garage entrance. lobby's protected by five guards on rotating patrol.
+
+AMBROSE: if you look at hunt's operational history, he invariably favors misdirection and deception. for a start he won't go into biocyte from the ground where he has to risk confrontation with security. 
+ETHAN: not going in from the ground. show me the atrium.
+
+LUTHER'S VOICE: the atrium? one of a kind. runs down the center of the building. provides 24-hour natural light via mirrors and daylight storage cells. optimal growing conditions for the virus. ends in a glass floor which doubles as part of the lab's ceiling. 
+WITH LUTHER AND ETHAN: luther sees the glint growing in ethan's eye.
+LUTHER: hey, atrium roof closes at sundown.
+
+LUTHER'S VOICE: and if the louvers are open for more than thirty seconds at night, the civil emergency alarms are tipped. those even i can't stop. thirty seconds total to get you in and the cable out. 
+ETHAN: security?
+LUTHER: thirty-second opening in the roof and a 250-foot drop.
+ETHAN: i'm not waiting 48 hours. when we're done at biocyte, if she's not out of ambrose's, i'm going in and getting her out.
+
+BILLY: package away in five..four..three.. 
+LUTHER: i'm not ready!
+ETHAN: i'm gone..
+
+LUTHER'S VOICE: gotta get that cable out. 
+GUARD #2'S VOICE: ay! what's the matter with you? can't you hear the alarm's gone off in cosmetics?
+GUARD: right. then i guess i'll have to trot off to see who's pinching eyeliner, won't i. i'll even check the stairwell on the way.
+
+BILLY: retracting cable. 
+LUTHER'S VOICE: three..two..one..
+
+BILLY'S VOICE: cable's clear. 
+INT - ATRIUM FLOOR - ETHAN: reaches down and presses a silent beeper.
+
+LUTHER: ethan, the generators are about to go active. we'll be out of contact for eleven minutes. 
+CLOSE - GENERATORS: dark and silent.
+GENERATORS: turn over and roar to life.
+
+ONE OF THE GUARDS: what's this, then? reinforcements? 
+STAMP: not exactly, mate.
+
+BILLY: exactly where is she? 
+LUTHER: ..in the building...
+BILLY'S VOICE: say again. sounds like you're saying 'she's in the building.'
+LUTHER: i am. she is.
+AMBROSE'S VOICE: ethan does it the hard way to avoid confrontation. neutralizing security guards is simply too distasteful to him..
+
+BILLY: right. well, then. she's not likely to be alone. is she? 
+LUTHER'S VOICE: the question is 'how many of 'em?' i can't get thru to ethan. not 'til the generators go off.
+BILLY: when's that?
+LUTHER'S VOICE: not for another eight and a half minutes.
+
+LUTHER: it looks like nyah's headed toward an elevator. 
+ETHAN: working meticulously an a computer monitor.
+
+LUTHER: she's in the elevator heading toward ethan. 
+BILLY'S VOICE: how much longer before you can reach him?
+LUTHER: five and a half minutes. he's breached the hot zone..
+AMBROSE'S VOICE: on the other hand we know where hunt will be and he doesn't know we're coming..
+
+FIRST COMPUTER VOICE: alert. chimera-working-seed-stock-ph-at- unacceptable-level.. 
+THIRD COMPUTER VOICE: alert. chimera-in-vitro-ph-and- temperature-level-outside-optimal range..
+FIRST COMPUTER VOICE: alert. chimera-working-seed-stock-ph-at- critical-level. alert. stock-life threatened. alert.
+
+BILLY'S VOICE: how're we doin', then? 
+LUTHER: he should've have killed the virus in the incubation area..nyah's exited the elevator on the same level as the lab.
+BILLY'S VOICE: what can we do' mate?
+LUTHER: hope he kills all the bugs before the yellow dot gets to the red one.
+
+AMBROSE: get it. 
+AMBROSE: those were two explosions, your van and your safehouse, in case you didn't hear them both -- i believe that means you've also lost a friend.
+ETHAN: and you couldn't walk to tell me about it.
+AMBROSE: hold your fire,
+
+ETHAN: fight a bit of a cold.. 
+AMBROSE: and you're happy about that?
+ETHAN: beats fighting the flu, i'm here to tell you.
+AMBROSE: you know, that was the hardest part of having to portray you. grinning like an every fifteen minutes.
+ETHAN: i would've thought the hardest part was exercising restraint. curbing that pressing need of your to get your gun off. you were in such a hurry to knock off that 747, you never figured out where the virus really was.
+AMBROSE: i knew where it was.
+ETHAN: oh. then you knew the only way could smuggle the live virus to the cdc scientists in atlanta was by injecting himself and using his own bloodstream as a petri dish, doing it inside of twenty hours so he could take the anti-virus and still have it be effective. you knew that while you were knocking him off and destroying the very thing you came for.
+AMBROSE: stop! put a sock in it! hit that gun and you'll spray the virus all over the place!
+ETHAN: there it is, guys, the last of it.
+AMBROSE: yep. you've provided us with a golden opportunity to have both the bug and the bug killer.
+ETHAN: what was the top bid?
+AMBROSE: why, you going to make me a better offer?
+ETHAN: than thirty-seven million pounds? not really.
+ETHAN: she doesn't belong here, sean. let her go.
+AMBROSE: she wouldn't be here if it wasn't for you, hunt. from this moment you're responsible for what happens to her, and if you're looking out for her well-being, i suggest you advise her to pick up the gun and bring it to me. ball's in your court, hunt. what've you got to say? nyah's waiting for your answer.
+LUTHER'S VOICE: ethan, nyah's in the building! do you copy?
+WITH LUTHER: a mess amid the rubble of the construction van.
+
+ETHAN: thank you. ethan sure he won't shoot you the minute he's got it? 
+AMBROSE: oh, hunt, please! one can't hold nyah responsible for her actions..
+ETHAN: in other words, you're calling her a flake.
+CLOSE - NYAH: listening.
+AMBROSE: you know women, mate. like monkeys, they are. won't let go of one branch til they've got a grip on the next...get it, nyah. i'll cover you. ambrose his weapon. ambrose i'm waiting.
+
+AMBROSE: you..bitch! 
+NYAH: you're not going to shoot, sean. not this she's worth thirty-seven million pounds.
+
+ETHAN: what did you think you were doing! 
+NYAH: i wasn't thinking! just..trying to keep you from getting hurt, that's all.
+ETHAN: - you who don't have a conscience.
+NYAH: i guess i lied..you can't get both of us out of here, can you?
+ETHAN: no.
+NYAH: then you'll have to kill me before it's too late. before i start killing people.
+ETHAN: no.
+NYAH: i'm infected with chimera. you know you don't have a choice. just do it now. she puts ethan's gun to her forehead. nyah for sake, get it over with.
+THE HAMMER: pulls back.
+CLOSE - ETHAN: he can't fire, lower the hammer.
+ETHAN: we've got 19 hours and 57 minutes before you start killing anybody. i'll get bellerophon into your system by then. just stay alive. i'm not gonna lose you.
+
+ETHAN: not yet. we did manage to pull any sensitive equipment and material out of our safehouse wreckage. 
+SWANBECK: we could lock down passport control and all ports of authority, but that won't stop ambrose, and beyond him, we don't know who else we're looking for -- all terrorist bank accounts of which we're aware are stable. no deposits, no withdrawals. therefore no suspects.
+ETHAN: we think we've got our finger on the buyer.
+SWANBECK: do you? even assuming you're able to prevent ambrose selling chimera, you've now got an additional problem. you destroyed all of chimera at biocyte. if ambrose is going to sell chimera now, he'll have to do it by taking a pint or so of miss hall's blood to market.
+ETHAN: yes, i believe that's right.
+SWANBECK: but that leaves another seven or eight pints of chimera.
+ETHAN: you mean that leaves miss hall.
+SWANBECK: yes, i believe that's right. now my understanding is that 20 hours after exposure, the victim becomes infectious. highly infectious.
+SWANBECK: you noted the time of exposure?
+SWANBECK: - good. then if you manage to get hold of ambrose, and obtain what he's got, you've got - - 8 hours 57 minutes and twenty-three seconds to destroy the largest remaining source of chimera on earth.
+ETHAN: she sacrificed herself..
+SWANBECK: brave girl. if you can get hold of bellerophon with the time limit, you may spare her the ultimate sacrifice. but in either case you've got less than nine hours to kill her or cure her. after that it's out of our hands and a matter of worldwide material law. and hunt. however you obtain it, we want you to preserve a sample of chimera. bring it back alive.
+SWANBECK: something else?
+ETHAN: aren't you even curious? about why she did it?
+SWANBECK: no. i can't afford to be curious. and neither can you, hunt..
+
+AMBROSE: feel like pleading for your life? 
+AMBROSE: it, nyah! why did you do it? why did you save that bastard?
+NYAH: if it'll make you feel any better i won't do it again.
+AMBROSE: if it'll make you feel any better, you're going to take a lot of aussies with you and make me a lot of money.
+NYAH: what are you talking about?
+AMBROSE: in just a few hours you can be assured of going down in history as the typhoid mary of oz. g'day.
+
+ETHAN: luther?..luther. 
+LUTHER: ethan, i keep telling you there's not a chance of locating nyah til i access the satellite and there's not a chance of doing that til i get this thing booted up
+ETHAN: ninety-seven minutes, twenty-seven seconds.
+BILLY: before we kill her or cure her..
+LUTHER: right.
+ETHAN: wrong. all we've got to worry about is ambrose. nyah will take care of nyah.
+BILLY: what are you talking about?
+ETHAN: unless we dose her with bellerophon on the next ninety-seven minutes, nyah will kill herself. so, first things, first. swanbeck said there's no cash movement from any monitored terrorist accounts.
+EXT - BEAR ISLAND CAR PARK: mccloy's black limousine is in the car park.
+ETHAN'S VOICE: confirms what ambrose is gonna do -
+
+BILLY'S VOICE: ethan's out from under the bridge and on the south-east face.. 
+EXT - CLIFF/VIEW OF TUNNEL: ethan climbs the side of the cliff.
+BILLY'S VOICE: ethan, ambrose and his tem have over the bridge -
+ETHAN: copy that.
+BILLY'S VOICE: you all right, mate? from here it looks like very security. what's it look like like from there?
+ETHAN: risky.
+
+WALLIS: more like two-two point two million. 
+AMBROSE: in any case we don't want your cash.
+MCCLOY: then what do you want?
+AMBROSE: stock, mr. mccloy. stock options, to be a little more precise.. - cut her loose..right in the center of town..the more crowded the better.. how quickly can you manufacture more of the antivirus.
+
+LUTHER'S VOICE: ethan, just picked up an ambrose call - nyah's been dropped off. i think she's alive. 
+ETHAN: where is she?
+
+LUTHER'S VOICE: ethan? do you copy? 
+ETHAN'S VOICE: 'somewhere in sydney?' care to harden the target?
+LUTHER'S VOICE: can't. until i can get the gps up on our computer..it's still down..
+ETHAN: the clock is ticking..
+
+MCCLOY: bellerophen? no time at all once i've got it. 
+AMBROSE: good. biocyte stock is just a week or two away from going through the roof.
+MCCLOY: what are you talking about?
+AMBROSE: an outbreak of
+AMBROSE: in downtown sydney for a start. mccloy is stunned. ambrose you create the supply, mr. mccloy, we've just created the demand. three million people in sydney and 17 million people in australia are going to need bellerophen within a matter of days..not to mention the rest of the world..
+
+AMBROSE: -- now here's the way it's going to work..wallis, the shares outstanding are.. 
+WALLIS: ninety-three point four million.
+AMBROSE: which means, mr. mccloy, we have to get our hands on four hundred and eighty thousand options. we'll borrow your thirty million to buy those options. your stock's never sold above thirty-one dollars a share. we'll agree to buy at fifty.
+AMBROSE: ambrose when your stock goes north of two hundred, and it will, those options will be worth billions. we can borrow whatever we need to buy the 48,000,000 shares, fifty-one percent of biocyte.
+MCCLOY: outrageous. i won't let you take control of my company.
+AMBROSE: sit down. you'll be a billionaire. better than being broke. i've got terrorists and other pharmaceutical companies standing in line. ball's in your court, mr. mccloy.
+
+AMBROSE: we're running short on time, mr. mccloy. we've got to conclude our business. 
+MCCLOY: yes, start the transfer.
+AMBROSE: follow it. let me know.
+
+ETHAN: you broke our deal. 
+STAMP: you're too trusting. raise your hands slowly.
+
+AMBROSE: keep it going. 
+STAMP'S VOICE: sean, this rat's reached the end of the maze.
+AMBROSE: is he alive?
+STAMP'S VOICE: more or less.
+AMBROSE: bring him to me.
+
+BILLY: we're due to take off. 
+LUTHER: not for seven more minutes.
+
+LUTHER: ethan? ethan? do you copy? 
+ETHAN: well, mate, maybe this is one of those times we shouldn't follow orders.
+EXT - HELICOPTER: the rotor blades turn over.
+
+STAMP: afraid he's got no choice. i believe i broke his jaw. 
+AMBROSE: hugh, i'm impressed..
+MCCLOY: what do you intend to do?
+AMBROSE: you needn't watch.
+
+AMBROSE: - right. we don't have a lot of time, hunt. whatever you've got to say, say it now. 
+AMBROSE: ambrose
+
+ETHAN: clear that bridge for me. 
+LUTHER' VOICE: roger that.
+BILLY'S VOICE: they're tracking you on the left, ethan. prepare for some fire.
+
+GPS COMPUTER: the target is located. 
+LUTHER: ethan, the computer's up. i've got nyah. she's moved out of the city.
+ETHAN: luther, say again.
+LUTHER: she's on the north head bluff - approaching the cliffs. one klick away.
+
+WALLIS: get him. 
+ULRICH: i can't get a good shot.
+WALLIS: shut up. i know what i'm doing.
+
+FROM COPTER TO GROUND: rapidly approaching the north head bluff. 
+BILLY: there she is. i got visual.
+LUTHER: we're down to seven minutes 23 seconds..
+
+SWANBECK: sorry, ethan. i don't quite know where to begin. any suggestions? 
+ETHAN: you'd like me to conduct my own debriefing.
+SWANBECK: why not? you've done just about everything else on this operation.
+ETHAN: i'd thank you -- but i'm not sure that was a compliment.
+SWANBECK: of course it was. anyone whose operations requires the level of disinformation that yours do, is bound to get a little flak here and there. you try flogging the stories on cnn i've had to come up with about what's been going on around here the last few days. at any rate, it's been most instructive -- what they'll swallow, or what they'll broadcast with a straight face. miss hall's blood, it appears, has absolutely no elements of the chimera virus. not even antibodies.
+ETHAN: yes, i gathered as much.
+SWANBECK: and the only other remaining sample was in the canister you recover from ambrose.
+ETHAN: yes.
+SWANBECK: and that appears to have been destroyed. it also contained the anti-virus, bellerophon.
+ETHAN: well, bellerophon, it turns out, was only really effective against chimera.
+SWANBECK: but you were under specific instructions to bring back a living sample of the chimera virus. i'd be very interested to know how, after you'd managed its recovery intact, it subsequently got destroyed.
+ETHAN: by fire. that's the best way, really.
+SWANBECK: so you didn't fail mission, you simply changed it. ethan doesn't respond. swanbeck it's no longer enough for you to execute and implement imf policy, you now wish to go in the business of creating it?
+ETHAN: no, i don't. but in this case -
+SWANBECK: in this case, it wasn't a bad idea. in face, it was a pretty good idea. just don't make a habit of it. and, as for ms. hall, in light of her efforts, her criminal records will certainly be expunged. i'm assuming you approve.
+ETHAN: i do.
+SWANBECK: where is she now, by the way? do you know?
+ETHAN: i don't. no exactly.
+SWANBECK: well, hunt, what are your plans?
+ETHAN: not sure. some sort of vacation. i'll let you know where i'm going.
+SWANBECK: oh, you don't have to do that. wouldn't be a vacation if you did.
+SKY NEWSCASTER: this incident in the wake of rumors suddenly surfacing about mr. mccloy and biocyte's financial difficulties -- including criminal allegations of insider trading, embezzlement, conspiracy to commit fraud, and stock parking -- have, understandably, sent stock prices of the pharmaceutical company plummeting.
+
+LUTHER: so what did he say? 
+ETHAN: good job. and thanks.
+BILLY: that's it? that's it? that's it?
+LUTHER: and the check's in the mall.
+BILLY: right. just remember, mates. billy baird's the name. anything you need to get, move or watch, i'm your man.
+LUTHER: always nice hearing from you man. stay in touch..
+NYAH: do you know me?
+NYAH: is inches from him. without batting an eye.
+ETHAN: no. should i?
+NYAH: no. you just looked as if you did.
+ETHAN: no...
+NYAH: oh. well..
+ETHAN: let's get lost.
 

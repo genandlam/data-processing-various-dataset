@@ -1,907 +1,907 @@
-speaker1: we're moving. 
-speaker2: what?
-speaker1: we're going to move.
-speaker2: when?
-speaker1: two days.
-speaker2: in two days?!
-speaker1: yeah.
-speaker2: thanks for the news...
-speaker1: i haven't known for long. i just decided. what do i need that makes me make these decisions?
-speaker2: you got me.
-speaker2: what does beth say?
-speaker1: beth?...
+NICK: we're moving. 
+CAROL: what?
+NICK: we're going to move.
+CAROL: when?
+NICK: two days.
+CAROL: in two days?!
+NICK: yeah.
+CAROL: thanks for the news...
+NICK: i haven't known for long. i just decided. what do i need that makes me make these decisions?
+CAROL: you got me.
+CAROL: what does beth say?
+NICK: beth?...
 
-speaker1: i know this place. 
-speaker1: i know what happens here.
-speaker1: i know what's going to happen.
-speaker1: the same job, same scenery, same people... i've been in this town for years... years!!
-speaker2: three years.
-speaker1: oh, carol...
-speaker2: i know...
-speaker1: forever -- it seems forever.
+NICK: i know this place. 
+NICK: i know what happens here.
+NICK: i know what's going to happen.
+NICK: the same job, same scenery, same people... i've been in this town for years... years!!
+CAROL: three years.
+NICK: oh, carol...
+CAROL: i know...
+NICK: forever -- it seems forever.
 
-speaker1: how long a drive is it? 
-speaker2: fourteen hours.
-speaker1: that's not bad.
-speaker2: in a car? it's a nightmare.
-speaker2: and there's no radio in utah. it's all religious programs.
-speaker1: get saved.
-speaker2: no thanks.
-speaker1: hey. think about this. you take a detour and go through vegas -- you and beth stop, see a show, have a nice romantic dinner -- play the slots, get the free drinks...
-speaker1: no, you skip the hotel. it's night, the highway's empty -- you can make good time. you start speeding. you get stopped in utah by the cops -- you flunk the breathalizer, they haul you in. the judge is mormon -- you get fifteen years, you go to prison, but at least your life has taken a direction!
-speaker3: i'm here!
-speaker4: embarrassed, they both smile self-consciously.
-speaker1: hi!
-speaker2: hi, honey.
-speaker1: hi.
+CAROL: how long a drive is it? 
+NICK: fourteen hours.
+CAROL: that's not bad.
+NICK: in a car? it's a nightmare.
+NICK: and there's no radio in utah. it's all religious programs.
+CAROL: get saved.
+NICK: no thanks.
+CAROL: hey. think about this. you take a detour and go through vegas -- you and beth stop, see a show, have a nice romantic dinner -- play the slots, get the free drinks...
+CAROL: no, you skip the hotel. it's night, the highway's empty -- you can make good time. you start speeding. you get stopped in utah by the cops -- you flunk the breathalizer, they haul you in. the judge is mormon -- you get fifteen years, you go to prison, but at least your life has taken a direction!
+BETH: i'm here!
+NICK AND CAROL: embarrassed, they both smile self-consciously.
+CAROL: hi!
+NICK: hi, honey.
+CAROL: hi.
 
-speaker1: g'night. 
-speaker2: carol waves.
-speaker3: g'night.
+BETH: g'night. 
+THE FRONT DOORWAY: carol waves.
+CAROL: g'night.
 
-speaker1: pizza hut, tomorrow? 
-speaker2: okay. i've got the short shift -- you want me to come over, help pack?
-speaker3: great... i'm really sorry we didn't tell you sooner. he just decided.
+NICK: pizza hut, tomorrow? 
+CAROL: okay. i've got the short shift -- you want me to come over, help pack?
+BETH: great... i'm really sorry we didn't tell you sooner. he just decided.
 
-speaker1: i'm tired. i'm going to bed. 
-speaker2: what's your problem?
-speaker1: i haven't got a problem.
-speaker2: okay.
-speaker2: you agreed to try billings.
-speaker1: i know. billings, montana. city of the future.
-speaker2: yeah and i read that a while ago -- so the future's probably already there.
-speaker2: it's not like you're leaving anything behind. a good job or something.
-speaker1: just some friends.
-speaker2: you'll make new friends.
-speaker1: i know. i'm not eight years old. i know i'll make new friends.
-speaker2: then what is it?
-speaker1: i, umm... i... it embarrasses me. when you talk about something with carol that happened before me. she's my best friend. it embarrasses me that you used to live with her.
-speaker2: that was years ago.
-speaker1: three years.
-speaker2: that's right.
-speaker1: i know...
-speaker2: and we're moving. she won't be your best friend anymore.
-speaker2: living with someone isn't such a big deal.
-speaker2: anyway... i live with you now.
+BETH: i'm tired. i'm going to bed. 
+NICK: what's your problem?
+BETH: i haven't got a problem.
+NICK: okay.
+NICK: you agreed to try billings.
+BETH: i know. billings, montana. city of the future.
+NICK: yeah and i read that a while ago -- so the future's probably already there.
+NICK: it's not like you're leaving anything behind. a good job or something.
+BETH: just some friends.
+NICK: you'll make new friends.
+BETH: i know. i'm not eight years old. i know i'll make new friends.
+NICK: then what is it?
+BETH: i, umm... i... it embarrasses me. when you talk about something with carol that happened before me. she's my best friend. it embarrasses me that you used to live with her.
+NICK: that was years ago.
+BETH: three years.
+NICK: that's right.
+BETH: i know...
+NICK: and we're moving. she won't be your best friend anymore.
+NICK: living with someone isn't such a big deal.
+NICK: anyway... i live with you now.
 
-speaker1: beth!... beth!! 
-speaker1: it's... it's raining!
-speaker2: it does that.
-speaker1: since we got it?
-speaker2: no. lately.
-speaker1: what's wrong with it?
-speaker2: water comes out.
-speaker1: i hate this it never kept the coffee hot. and now this.
-speaker2: it still works.
-speaker1: no. it doesn't. water comes out.
-speaker2: okay.
-speaker1: i could've gotten a new one. on my discount. now it's too late.
-speaker2: do you want a donut?
-speaker1: this coffee maker was junk.
-speaker1: this blender's junk. our t.v. is junk!
-speaker1: i don't know why we're even bothering to pack.
-speaker2: you got me.
-speaker1: the t.v. gets no channels.
-speaker2: and it's fifteen inch.
-speaker1: i can't believe we don't have a big t.v.
-speaker2: we don't watch much.
-speaker1: but at our age...
-speaker2: why don't you take one?
-speaker1: i'm not hungry.
-speaker2: not a donut. a t.v.
-speaker1: take a t.v.?
-speaker2: it's your last day.
-speaker1: like a bonus.
-speaker2: yeah.
+NICK: beth!... beth!! 
+NICK: it's... it's raining!
+BETH: it does that.
+NICK: since we got it?
+BETH: no. lately.
+NICK: what's wrong with it?
+BETH: water comes out.
+NICK: i hate this it never kept the coffee hot. and now this.
+BETH: it still works.
+NICK: no. it doesn't. water comes out.
+BETH: okay.
+NICK: i could've gotten a new one. on my discount. now it's too late.
+BETH: do you want a donut?
+NICK: this coffee maker was junk.
+NICK: this blender's junk. our t.v. is junk!
+NICK: i don't know why we're even bothering to pack.
+BETH: you got me.
+NICK: the t.v. gets no channels.
+BETH: and it's fifteen inch.
+NICK: i can't believe we don't have a big t.v.
+BETH: we don't watch much.
+NICK: but at our age...
+BETH: why don't you take one?
+NICK: i'm not hungry.
+BETH: not a donut. a t.v.
+NICK: take a t.v.?
+BETH: it's your last day.
+NICK: like a bonus.
+BETH: yeah.
 
-speaker1: i might do it. 
-speaker2: i say do it. sears can afford to give you a bonus.
-speaker1: maybe they are.
-speaker2: what do you mean?
-speaker1: maybe when i get my check today, there'll be a bonus in it.
-speaker2: nick. they fired you.
-speaker1: yeah...
-speaker2: there's no bonus.
-speaker1: yeah... that's true. and i sold a lot of teevees for them...
-speaker2: you should take a t.v.
-speaker1: i should go.
-speaker2: mmmmm...
-speaker1: i gotta go.
+NICK: i might do it. 
+BETH: i say do it. sears can afford to give you a bonus.
+NICK: maybe they are.
+BETH: what do you mean?
+NICK: maybe when i get my check today, there'll be a bonus in it.
+BETH: nick. they fired you.
+NICK: yeah...
+BETH: there's no bonus.
+NICK: yeah... that's true. and i sold a lot of teevees for them...
+BETH: you should take a t.v.
+NICK: i should go.
+BETH: mmmmm...
+NICK: i gotta go.
 
-speaker1: nothing much. i heard you're leaving. 
-speaker2: yeah. i'm outta here.
-speaker1: they can you?
-speaker2: that's what they think.
-speaker1: yeah?
-speaker2: i was gonna quit anyway -- this way i get unemployment.
-speaker1: good deal.
-speaker2: yeah... recession insurance... this way i'm not stuck waiting around for the lay-offs to start.
-speaker1: lay-offs?
+CHIP: nothing much. i heard you're leaving. 
+NICK: yeah. i'm outta here.
+CHIP: they can you?
+NICK: that's what they think.
+CHIP: yeah?
+NICK: i was gonna quit anyway -- this way i get unemployment.
+CHIP: good deal.
+NICK: yeah... recession insurance... this way i'm not stuck waiting around for the lay-offs to start.
+CHIP: lay-offs?
 
-speaker1: who are you? 
-speaker2: the painter.
-speaker1: what are you doing?
-speaker2: painting.
-speaker2: well, good morning...
-speaker1: you...
-speaker2: sid. nice to see you again. beth stares in agitated disbelief.
-speaker1: why are you here?
-speaker2: realty office likes a fresh coat between tenants.
-speaker1: we're still here.
-speaker2: i've done this house before. i did a nice job.
-speaker1: can't you come back tomorrow?
-speaker2: tomorrow's sunday.
-speaker1: yeah...?
-speaker2: the new people move in on sunday. where are you moving to?
-speaker1: billings, montana.
-speaker2: why?
-speaker1: it can't be worse than enfield, arizona.
-speaker2: i've lived in enfield my whole life.
-speaker2: could you hold this?
-speaker2: i use this to mask. have you ever used masking tape to mask?
-speaker1: no. i haven't.
-speaker2: a house like this, it's real easy. hardly needs a paint job.
-speaker1: you can skip it. i won't tell.
-speaker2: it needs a fresh coat...
-speaker2: ...a little color.
-speaker1: what color is it gonna be?
-speaker2: off-white.
-speaker1: it's already off-white.
-speaker2: no. it's white. it's just dirty.
-speaker2: now if it was my house, i would choose a color...
-speaker2: i would not choose off-white.
-speaker1: what would you choose?
-speaker2: the color of your eyes. hazel.
+BETH: who are you? 
+SID: the painter.
+BETH: what are you doing?
+SID: painting.
+SID: well, good morning...
+BETH: you...
+SID: sid. nice to see you again. beth stares in agitated disbelief.
+BETH: why are you here?
+SID: realty office likes a fresh coat between tenants.
+BETH: we're still here.
+SID: i've done this house before. i did a nice job.
+BETH: can't you come back tomorrow?
+SID: tomorrow's sunday.
+BETH: yeah...?
+SID: the new people move in on sunday. where are you moving to?
+BETH: billings, montana.
+SID: why?
+BETH: it can't be worse than enfield, arizona.
+SID: i've lived in enfield my whole life.
+SID: could you hold this?
+SID: i use this to mask. have you ever used masking tape to mask?
+BETH: no. i haven't.
+SID: a house like this, it's real easy. hardly needs a paint job.
+BETH: you can skip it. i won't tell.
+SID: it needs a fresh coat...
+SID: ...a little color.
+BETH: what color is it gonna be?
+SID: off-white.
+BETH: it's already off-white.
+SID: no. it's white. it's just dirty.
+SID: now if it was my house, i would choose a color...
+SID: i would not choose off-white.
+BETH: what would you choose?
+SID: the color of your eyes. hazel.
 
-speaker1: sorry i'm late, the new girl's a moron. 
-speaker2: what's that?
-speaker1: going away present.
-speaker2: thanks.
-speaker2: a map!
-speaker1: i thought you might need it.
-speaker2: i do! i had a map -- i lost it.
-speaker1: let's highlight your route.
+CAROL: sorry i'm late, the new girl's a moron. 
+NICK: what's that?
+CAROL: going away present.
+NICK: thanks.
+NICK: a map!
+CAROL: i thought you might need it.
+NICK: i do! i had a map -- i lost it.
+CAROL: let's highlight your route.
 
-speaker1: here's enfield. 
-speaker2: here's billings.
-speaker2: look at this -- right there -- that's the town i was born in.
-speaker3: he looks to her for a reaction.
-speaker2: where i grew up. where my parent's live... isn't that a coincidence?
-speaker1: visit them.
-speaker2: oh... no...
-speaker1: you're going to be driving by.
-speaker2: no... they're not near the interstate. i haven't even called them in years.
-speaker1: you might as well visit.
-speaker2: no. i wouldn't know them.
-speaker2: 
-speaker1: let me.
-speaker2: thanks.
-speaker1: i'm starved.
+CAROL: here's enfield. 
+NICK: here's billings.
+NICK: look at this -- right there -- that's the town i was born in.
+NICK AND CAROL: he looks to her for a reaction.
+NICK: where i grew up. where my parent's live... isn't that a coincidence?
+CAROL: visit them.
+NICK: oh... no...
+CAROL: you're going to be driving by.
+NICK: no... they're not near the interstate. i haven't even called them in years.
+CAROL: you might as well visit.
+NICK: no. i wouldn't know them.
+NICK: 
+CAROL: let me.
+NICK: thanks.
+CAROL: i'm starved.
 
-speaker1: i'm lucky i don't have to kill them. 
-speaker2: what?
-speaker1: if they were dark, i'd have to put a layer of kill down first.
-speaker1: so the dark paint wouldn't shine through the off-white.
-speaker2: oh.
-speaker1: kill's an oil based paint.
+SID: i'm lucky i don't have to kill them. 
+BETH: what?
+SID: if they were dark, i'd have to put a layer of kill down first.
+SID: so the dark paint wouldn't shine through the off-white.
+BETH: oh.
+SID: kill's an oil based paint.
 
-speaker1: they? 
-speaker2: the "they" that find people...
-speaker1: nick.
-speaker2: ...unconscious.
-speaker1: nick. the man i live with.
-speaker2: i guess he'd be the "they".
-speaker1: he'd find us. and he'd be surprised.
+BETH: they? 
+SID: the "they" that find people...
+BETH: nick.
+SID: ...unconscious.
+BETH: nick. the man i live with.
+SID: i guess he'd be the "they".
+BETH: he'd find us. and he'd be surprised.
 
-speaker1: it was the drive that killed us. san antonio to seattle is just too many hours in a car. if we'd have flown, we would've made it. 
-speaker2: no...
-speaker1: things were all right in bed.
-speaker2: but the rest of the time they were... awful.
-speaker1: really?
-speaker2: nick. we couldn't stand each other. we stopped in enfield and just stayed.
-speaker2: big trees scare me.
-speaker1: i'm thinking about stealing a t.v.
+NICK: it was the drive that killed us. san antonio to seattle is just too many hours in a car. if we'd have flown, we would've made it. 
+CAROL: no...
+NICK: things were all right in bed.
+CAROL: but the rest of the time they were... awful.
+NICK: really?
+CAROL: nick. we couldn't stand each other. we stopped in enfield and just stayed.
+CAROL: big trees scare me.
+NICK: i'm thinking about stealing a t.v.
 
-speaker1: i'm done in there. i won't paint the ceiling 'til you've moved the furniture out. 
-speaker2: i don't think we're going to take much of the furniture.
-speaker1: no?
-speaker2: it's ugly.
-speaker1: i kind of like the sofa.
-speaker2: it's a sofa bed.
-speaker1: you're not going to take it?
-speaker2: it weighs two thousand pounds.
-speaker1: can i have it?
-speaker2: it's yours.
-speaker1: excellent.
+SID: i'm done in there. i won't paint the ceiling 'til you've moved the furniture out. 
+BETH: i don't think we're going to take much of the furniture.
+SID: no?
+BETH: it's ugly.
+SID: i kind of like the sofa.
+BETH: it's a sofa bed.
+SID: you're not going to take it?
+BETH: it weighs two thousand pounds.
+SID: can i have it?
+BETH: it's yours.
+SID: excellent.
 
-speaker1: nick's gonna steal a t.v.! 
-speaker1: who are you?
-speaker2: the painter.
-speaker3: he's really gonna do it?
-speaker1: he says yes.
-speaker1: we've got to talk.
-speaker2: about the crime?
-speaker1: there's no crime.
-speaker2: nick's gonna steal a t.v.
-speaker1: that's just an expression.
-speaker2: i've never heard that expression.
-speaker1: it's making the rounds. college students use it.
-speaker2: where's he stealing it from?
-speaker3: sears.
-speaker1: you want him to know?
-speaker3: he knows. he doesn't care. do you care?
-speaker2: i'm interested. crime's interesting. i read the papers.
-speaker3: it's not a crime.
-speaker1: it's justice.
-speaker3: poetic justice.
-speaker2: how?
-speaker3: they fired him.
-speaker2: he's got motive.
-speaker1: who is this guy?!
-speaker3: the painter.
-speaker2: sid.
-speaker1: no.
-speaker1: he needs you at the store.
-speaker3: he needs me?
+CAROL: nick's gonna steal a t.v.! 
+CAROL: who are you?
+SID: the painter.
+BETH: he's really gonna do it?
+CAROL: he says yes.
+CAROL: we've got to talk.
+SID: about the crime?
+CAROL: there's no crime.
+SID: nick's gonna steal a t.v.
+CAROL: that's just an expression.
+SID: i've never heard that expression.
+CAROL: it's making the rounds. college students use it.
+SID: where's he stealing it from?
+BETH: sears.
+CAROL: you want him to know?
+BETH: he knows. he doesn't care. do you care?
+SID: i'm interested. crime's interesting. i read the papers.
+BETH: it's not a crime.
+CAROL: it's justice.
+BETH: poetic justice.
+SID: how?
+BETH: they fired him.
+SID: he's got motive.
+CAROL: who is this guy?!
+BETH: the painter.
+SID: sid.
+CAROL: no.
+CAROL: he needs you at the store.
+BETH: he needs me?
 
-speaker1: you lookin' or buyin'? 
-speaker2: lookin'. i hate television.
-speaker1: yeah. what do you like?
-speaker2: movies.
-speaker1: no...
-speaker2: i do.
-speaker1: you see... you go to a movie, you're there.
-speaker1: you watch t.v., you're thirteen places at once. as many channels as you get, that's as many places as you are. you get cable? you're forty places at once. you get a satellite dish?...
-speaker2: you're all over the world.
-speaker1: exactly.
-speaker1: you're everywhere.
-speaker1: it's called freedom.
+NICK: you lookin' or buyin'? 
+RORY: lookin'. i hate television.
+NICK: yeah. what do you like?
+RORY: movies.
+NICK: no...
+RORY: i do.
+NICK: you see... you go to a movie, you're there.
+NICK: you watch t.v., you're thirteen places at once. as many channels as you get, that's as many places as you are. you get cable? you're forty places at once. you get a satellite dish?...
+RORY: you're all over the world.
+NICK: exactly.
+NICK: you're everywhere.
+NICK: it's called freedom.
 
-speaker1: this is what you do? 
-speaker2: i also mow lawns.
-speaker1: which is your career?
-speaker2: painting. i'm an inside person. mowing grass is seasonal.
-speaker1: that is true.
-speaker2: you've got a nice tan.
-speaker1: i work on it.
-speaker2: do you want to get stoned?
-speaker1: yeah.
-speaker2: this kind of painting -- for people i won't know -- it's boring. it's not very good. it's homegrown.
-speaker1: yeah?
-speaker2: but it'll get you up.
-speaker1: takes a drag on the joint like an old pro.
-speaker2: it'll take you someplace.
+CAROL: this is what you do? 
+SID: i also mow lawns.
+CAROL: which is your career?
+SID: painting. i'm an inside person. mowing grass is seasonal.
+CAROL: that is true.
+SID: you've got a nice tan.
+CAROL: i work on it.
+SID: do you want to get stoned?
+CAROL: yeah.
+SID: this kind of painting -- for people i won't know -- it's boring. it's not very good. it's homegrown.
+CAROL: yeah?
+SID: but it'll get you up.
+CAROL: takes a drag on the joint like an old pro.
+SID: it'll take you someplace.
 
-speaker1: have you thought about american? 
-speaker2: no.
-speaker1: i own an american set. i'm very satisfied.
-speaker2: i want japanese.
-speaker1: i'll tell you...
-speaker1: ...the thing is, a hundred and fifty dollars gets you very little in the way of japanese technology.
-speaker2: oh.
-speaker1: it would get you that t.v.
+NICK: have you thought about american? 
+MAJOR JENKINS: no.
+NICK: i own an american set. i'm very satisfied.
+MAJOR JENKINS: i want japanese.
+NICK: i'll tell you...
+NICK: ...the thing is, a hundred and fifty dollars gets you very little in the way of japanese technology.
+MAJOR JENKINS: oh.
+NICK: it would get you that t.v.
 
-speaker1: it's for my parents. 
-speaker2: your parents?
-speaker1: yes. they live with me...
-speaker1: ...and they want japanese.
-speaker1: is there a problem?
-speaker2: no... i, uh, just never think of adults as having parents.
-speaker1: they do.
-speaker2: i know...
-speaker2: i'm an adult, i have parents.
-speaker2: oh, miss, i've got your receipt!
-speaker3: oh... great!
-speaker2: this is all you need.
-speaker3: thanks...
-speaker2: now you just take this receipt out, give it to the guys at the loading dock and they'll give you your brand new beautiful television set.
-speaker3: i get the t.v...?
-speaker2: out back. they'll help load it in your car and everything.
-speaker3: i get the t.v.
-speaker2: out back.
-speaker2: think about american. they're mostly japanese parts anyway.
-speaker3: excuse me, i just...
-speaker2: miss... i'm helping this customer here, perhaps you might... you might want to see someone else.
-speaker3: you can't help me?
-speaker2: not really.
+MAJOR JENKINS: it's for my parents. 
+NICK: your parents?
+MAJOR JENKINS: yes. they live with me...
+MAJOR JENKINS: ...and they want japanese.
+MAJOR JENKINS: is there a problem?
+NICK: no... i, uh, just never think of adults as having parents.
+MAJOR JENKINS: they do.
+NICK: i know...
+NICK: i'm an adult, i have parents.
+NICK: oh, miss, i've got your receipt!
+BETH: oh... great!
+NICK: this is all you need.
+BETH: thanks...
+NICK: now you just take this receipt out, give it to the guys at the loading dock and they'll give you your brand new beautiful television set.
+BETH: i get the t.v...?
+NICK: out back. they'll help load it in your car and everything.
+BETH: i get the t.v.
+NICK: out back.
+NICK: think about american. they're mostly japanese parts anyway.
+BETH: excuse me, i just...
+NICK: miss... i'm helping this customer here, perhaps you might... you might want to see someone else.
+BETH: you can't help me?
+NICK: not really.
 
-speaker1: how'd you do it? 
-speaker2: nick sold a demo, wrote it up like a new set, and gave me the receipt.
-speaker1: excellent.
-speaker2: maybe i should just leave it packed...
-speaker1: c'mon! you stole it. you gotta see it! hold the box.
-speaker1: wait!
-speaker1: i thought i heard the police.
-speaker2: ha ha ha. you're stoned!
-speaker1: me?
-speaker2: you're being silly and you've got bunny eyes.
-speaker1: i'm a little stoned... not that stoned.
-speaker2: no?
-speaker1: no. carol's really stoned.
-speaker2: you got carol stoned?
-speaker1: very stoned.
-speaker2: i didn't think she liked you.
-speaker1: she doesn't. but she likes getting stoned.
-speaker2: she does.
-speaker1: there's nothing like drugs to create a quick and shallow friendship.
-speaker1: let's look at the loot.
-speaker1: jesus... you didn't fool around.
-speaker2: this is the nicest thing i've ever owned.
+SID: how'd you do it? 
+BETH: nick sold a demo, wrote it up like a new set, and gave me the receipt.
+SID: excellent.
+BETH: maybe i should just leave it packed...
+SID: c'mon! you stole it. you gotta see it! hold the box.
+SID: wait!
+SID: i thought i heard the police.
+BETH: ha ha ha. you're stoned!
+SID: me?
+BETH: you're being silly and you've got bunny eyes.
+SID: i'm a little stoned... not that stoned.
+BETH: no?
+SID: no. carol's really stoned.
+BETH: you got carol stoned?
+SID: very stoned.
+BETH: i didn't think she liked you.
+SID: she doesn't. but she likes getting stoned.
+BETH: she does.
+SID: there's nothing like drugs to create a quick and shallow friendship.
+SID: let's look at the loot.
+SID: jesus... you didn't fool around.
+BETH: this is the nicest thing i've ever owned.
 
-speaker1: and in canton, ohio today, a man opened fire in a mall, killing nine and wounding seventeen others. initial reports indicate the young man was a disgruntled employee... nick turns the radio off. 
-speaker2: swerves into a vast mall parking lot.
+NEWSMAN'S VOICE: and in canton, ohio today, a man opened fire in a mall, killing nine and wounding seventeen others. initial reports indicate the young man was a disgruntled employee... nick turns the radio off. 
+NICK'S SEDAN: swerves into a vast mall parking lot.
 
-speaker1: it's a beautiful picture. 
-speaker2: nice speakers!
-speaker1: yeah! nick...
-speaker3: hi, kids.
-speaker1: come see!
-speaker3: i should have had him steal me one, too.
-speaker1: you can come over and watch.
-speaker2: you're moving.
-speaker1: oh. right. sorry.
-speaker3: forget it...
-speaker3: how's the painting going?
-speaker2: too many distractions. i'll be at it all night.
-speaker3: you have bad work habits.
-speaker2: not when i'm actually working. i better get set up in the kitchen.
-speaker3: it makes teevee seem very futuristic.
-speaker2: that's 'cause you're stoned.
-speaker3: i'm hardly stoned.
-speaker3: it was homegrown.
-speaker1: want some visine?
-speaker3: no.
-speaker2: it gets the red out.
-speaker3: thank you.
-speaker3: missed the eye, got the face.
-speaker1: need help?
-speaker3: yeah.
-speaker1: okay. tilt your head back.
-speaker3: beth...
-speaker1: stop fidgeting.
-speaker3: got it.
-speaker1: next eye.
-speaker3: wait a second.
-speaker3: he really wants to get in your pants.
-speaker1: my pants are taken.
-speaker1: why don't you go for him?
-speaker3: he likes you.
-speaker1: i wish nick would get back and help with the packing.
-speaker1: he's probably getting drunk with the stockboys... that's what he's probably doing.
-speaker3: beth... listen... they stare into each other's eyes.
-speaker1: he's gone.
-speaker3: yeah.
-speaker1: where'd he call from?
-speaker3: he said the highway.
-speaker1: i have to do something.
-speaker3: i'll help.
-speaker1: i've got to be out of here sunday. that's tomorrow.
-speaker3: you can come to my place.
-speaker1: he's gone.
-speaker3: he's an
-speaker4: the truth makes its way deeply into her.
-speaker1: nick...
+BETH: it's a beautiful picture. 
+SID: nice speakers!
+BETH: yeah! nick...
+CAROL: hi, kids.
+BETH: come see!
+CAROL: i should have had him steal me one, too.
+BETH: you can come over and watch.
+SID: you're moving.
+BETH: oh. right. sorry.
+CAROL: forget it...
+CAROL: how's the painting going?
+SID: too many distractions. i'll be at it all night.
+CAROL: you have bad work habits.
+SID: not when i'm actually working. i better get set up in the kitchen.
+CAROL: it makes teevee seem very futuristic.
+SID: that's 'cause you're stoned.
+CAROL: i'm hardly stoned.
+CAROL: it was homegrown.
+BETH: want some visine?
+CAROL: no.
+SID: it gets the red out.
+CAROL: thank you.
+CAROL: missed the eye, got the face.
+BETH: need help?
+CAROL: yeah.
+BETH: okay. tilt your head back.
+CAROL: beth...
+BETH: stop fidgeting.
+CAROL: got it.
+BETH: next eye.
+CAROL: wait a second.
+CAROL: he really wants to get in your pants.
+BETH: my pants are taken.
+BETH: why don't you go for him?
+CAROL: he likes you.
+BETH: i wish nick would get back and help with the packing.
+BETH: he's probably getting drunk with the stockboys... that's what he's probably doing.
+CAROL: beth... listen... they stare into each other's eyes.
+BETH: he's gone.
+CAROL: yeah.
+BETH: where'd he call from?
+CAROL: he said the highway.
+BETH: i have to do something.
+CAROL: i'll help.
+BETH: i've got to be out of here sunday. that's tomorrow.
+CAROL: you can come to my place.
+BETH: he's gone.
+CAROL: he's an
+CLOSE-UP: BETH: the truth makes its way deeply into her.
+BETH: nick...
 
-speaker1: nobody lives in that, right? 
-speaker2: gift shop. but it closed at seven.
-speaker1: i got no one to shop for.
-speaker1: wind...
-speaker2: yeah.
-speaker1: what does it mean?
-speaker2: high pressure field coming in -- should bring some nice weather.
-speaker1: no. the wind itself, you know what i mean, you're an indian...
-speaker2: i'm a navajo.
-speaker1: yeah, so you're in tune with this stuff...
-speaker2: it's thirteen bucks.
-speaker1: oh... right.
-speaker1: here's a twenty.
-speaker1: so what does the wind mean? like as an omen or something, you know -- -- a change is coming to the people. -- the spirit of freedom is walking the land. that kind of meaning...
-speaker2: fourteen, fifteen and five makes twenty.
-speaker2: the wind is. it's the wind like i'm a navajo.
-speaker1: that's it?
-speaker1: 
-speaker1: it would be better if meant something.
+NICK: nobody lives in that, right? 
+NAVAJO TEEN: gift shop. but it closed at seven.
+NICK: i got no one to shop for.
+NICK: wind...
+NAVAJO TEEN: yeah.
+NICK: what does it mean?
+NAVAJO TEEN: high pressure field coming in -- should bring some nice weather.
+NICK: no. the wind itself, you know what i mean, you're an indian...
+NAVAJO TEEN: i'm a navajo.
+NICK: yeah, so you're in tune with this stuff...
+NAVAJO TEEN: it's thirteen bucks.
+NICK: oh... right.
+NICK: here's a twenty.
+NICK: so what does the wind mean? like as an omen or something, you know -- -- a change is coming to the people. -- the spirit of freedom is walking the land. that kind of meaning...
+NAVAJO TEEN: fourteen, fifteen and five makes twenty.
+NAVAJO TEEN: the wind is. it's the wind like i'm a navajo.
+NICK: that's it?
+NICK: 
+NICK: it would be better if meant something.
 
-speaker1: he said he needs to be alone again. learn about himself. make a fresh start in a new town. 
-speaker1: he's sorry.
-speaker1: he said he would have called you, but your phone's disconnected. 'cause you're moving. he's always been an you'll be all right.
-speaker2: yeah...
-speaker1: i'm here.
-speaker2: i know that.
-speaker3: you ready for another?
-speaker2: oh... uh, no...
-speaker1: we're fine.
-speaker3: is nick coming in?
+CAROL: he said he needs to be alone again. learn about himself. make a fresh start in a new town. 
+CAROL: he's sorry.
+CAROL: he said he would have called you, but your phone's disconnected. 'cause you're moving. he's always been an you'll be all right.
+BETH: yeah...
+CAROL: i'm here.
+BETH: i know that.
+WAITRESS: you ready for another?
+BETH: oh... uh, no...
+CAROL: we're fine.
+WAITRESS: is nick coming in?
 
-speaker1: you've lived here your whole life? 
-speaker2: yeah.
-speaker1: you've never gone anywhere?
-speaker2: travelling has no allure for me.
-speaker1: none?
-speaker2: maybe through time.
-speaker1: that's not offered.
-speaker2: so i stay here.
-speaker1: why?
-speaker2: it's my home. i belong here.
-speaker1: i'm serious.
-speaker2: my father says if you stay in one place long enough your luck knows where to find you.
-speaker1: maybe that's my problem.
-speaker2: maybe it is...
-speaker1: thanks.
-speaker1: you think your father knows the truth?
-speaker2: he's a bartender. he's lived here his whole life.
-speaker1: has his luck found him?
-speaker2: not yet. but it's probably very close.
-speaker2: are you all right?
-speaker1: must be the paint fumes...
+BETH: you've lived here your whole life? 
+SID: yeah.
+BETH: you've never gone anywhere?
+SID: travelling has no allure for me.
+BETH: none?
+SID: maybe through time.
+BETH: that's not offered.
+SID: so i stay here.
+BETH: why?
+SID: it's my home. i belong here.
+BETH: i'm serious.
+SID: my father says if you stay in one place long enough your luck knows where to find you.
+BETH: maybe that's my problem.
+SID: maybe it is...
+BETH: thanks.
+BETH: you think your father knows the truth?
+SID: he's a bartender. he's lived here his whole life.
+BETH: has his luck found him?
+SID: not yet. but it's probably very close.
+SID: are you all right?
+BETH: must be the paint fumes...
 
-speaker1: you find what you want here? 
-speaker2: it seems that way.
-speaker1: yeah?
-speaker2: i found you.
-speaker1: oh. no...
-speaker2: ...but we know each other.
-speaker1: no...
-speaker2: leave it behind.
-speaker1: leave what behind?
-speaker2: unhappiness.
-speaker1: that was a bad answer.
-speaker2: no. it was true.
-speaker1: it's not.
-speaker2: come hold me. come hold me, and you'll be happy.
-speaker1: i'll find happiness. right. in your arms.
-speaker2: yes.
-speaker1: in you.
-speaker2: yes.
-speaker1: but i won't. i have to find happiness in myself.
-speaker2: no. that's wrong. people tell you that, but it's wrong.
-speaker2: i've lived with people who have that happiness from within. that happiness -- it's just them being pleased with themselves. it's not enough. it's a lonely thing.
-speaker1: you're showing how young you are.
-speaker2: no. i'm not. i'm showing you a way. you know that. and you know me. and i know you.
-speaker1: i don't know you.
-speaker2: you know.
-speaker1: i know you want to me.
-speaker2: is that what you know?
-speaker1: i know...
-speaker1: i know you.
-speaker1: i know you.
-speaker2: that's right.
+BETH: you find what you want here? 
+SID: it seems that way.
+BETH: yeah?
+SID: i found you.
+BETH: oh. no...
+SID: ...but we know each other.
+BETH: no...
+SID: leave it behind.
+BETH: leave what behind?
+SID: unhappiness.
+BETH: that was a bad answer.
+SID: no. it was true.
+BETH: it's not.
+SID: come hold me. come hold me, and you'll be happy.
+BETH: i'll find happiness. right. in your arms.
+SID: yes.
+BETH: in you.
+SID: yes.
+BETH: but i won't. i have to find happiness in myself.
+SID: no. that's wrong. people tell you that, but it's wrong.
+SID: i've lived with people who have that happiness from within. that happiness -- it's just them being pleased with themselves. it's not enough. it's a lonely thing.
+BETH: you're showing how young you are.
+SID: no. i'm not. i'm showing you a way. you know that. and you know me. and i know you.
+BETH: i don't know you.
+SID: you know.
+BETH: i know you want to me.
+SID: is that what you know?
+BETH: i know...
+BETH: i know you.
+BETH: i know you.
+SID: that's right.
 
-speaker1: excuse me... 
-speaker1: excuse me... i'm... i'm looking for my parents.
-speaker1: my mother, my father... they...
-speaker1: hello.
-speaker2: hello.
-speaker1: oh... good... this is my house. i, uhh... mean this is the house i grew up in.
-speaker2: this is his house now.
-speaker1: nice to meet you.
-speaker2: he's deaf.
-speaker1: nice to meet you.
-speaker2: he's stone deaf.
-speaker1: oh. yelling doesn't help.
-speaker2: no.
-speaker1: my name is nick, nick brennan.
-speaker1: did you know the brennans?
-speaker2: no.
-speaker1: they lived here. they used to live here. i used to live here with them...
-speaker1: what's your name?
-speaker2: elizabeth.
-speaker1: no...
-speaker2: yes.
-speaker1: i know an elizabeth. i call her beth.
+NICK: excuse me... 
+NICK: excuse me... i'm... i'm looking for my parents.
+NICK: my mother, my father... they...
+NICK: hello.
+ELIZABETH: hello.
+NICK: oh... good... this is my house. i, uhh... mean this is the house i grew up in.
+ELIZABETH: this is his house now.
+NICK: nice to meet you.
+ELIZABETH: he's deaf.
+NICK: nice to meet you.
+ELIZABETH: he's stone deaf.
+NICK: oh. yelling doesn't help.
+ELIZABETH: no.
+NICK: my name is nick, nick brennan.
+NICK: did you know the brennans?
+ELIZABETH: no.
+NICK: they lived here. they used to live here. i used to live here with them...
+NICK: what's your name?
+ELIZABETH: elizabeth.
+NICK: no...
+ELIZABETH: yes.
+NICK: i know an elizabeth. i call her beth.
 
-speaker1: this is a good sandwich. 
-speaker2: thank you.
-speaker1: when did he move here? would he know where the people before him went?
-speaker2: no. he wouldn't remember.
-speaker1: you're sure?
-speaker2: yes. he doesn't remember anymore.
-speaker1: oh. he can't help me.
-speaker2: no.
-speaker1: i've lost my parents.
-speaker2: did you lose them both at the same time?
-speaker1: is that like a joke?
-speaker2: no.
-speaker1: then yes. i lost them both at the same time.
-speaker2: i lost mine one at a time. last year.
-speaker1: i'm sorry. that's tragic. i should...
-speaker2: six months apart. body failures. separate body failures.
-speaker1: i'm really sorry. i should go.
-speaker2: first my father's heart kept starting and stopping.
-speaker1: attacks...
+NICK: this is a good sandwich. 
+ELIZABETH: thank you.
+NICK: when did he move here? would he know where the people before him went?
+ELIZABETH: no. he wouldn't remember.
+NICK: you're sure?
+ELIZABETH: yes. he doesn't remember anymore.
+NICK: oh. he can't help me.
+ELIZABETH: no.
+NICK: i've lost my parents.
+ELIZABETH: did you lose them both at the same time?
+NICK: is that like a joke?
+ELIZABETH: no.
+NICK: then yes. i lost them both at the same time.
+ELIZABETH: i lost mine one at a time. last year.
+NICK: i'm sorry. that's tragic. i should...
+ELIZABETH: six months apart. body failures. separate body failures.
+NICK: i'm really sorry. i should go.
+ELIZABETH: first my father's heart kept starting and stopping.
+NICK: attacks...
 
-speaker1: my mother and i were with him in the hospital and he'd grab at us, he'd grab my arms and hold on. 
-speaker2: that's very sad... i've really gotta be going. i, uh... thank you again for the sandwich. delicious...
-speaker1: right before my mother died, she said -- "elizabeth. you're adopted."
-speaker2: have you found your real parents?
-speaker1: no. two are enough to lose.
-speaker1: i'm not alone. i have my grandfather.
-speaker2: listen... he looks into her eyes. elizabeth suddenly grabs his arm.
-speaker1: i'm sorry.
-speaker1: he's stone deaf.
-speaker2: i have to go.
+ELIZABETH: my mother and i were with him in the hospital and he'd grab at us, he'd grab my arms and hold on. 
+NICK: that's very sad... i've really gotta be going. i, uh... thank you again for the sandwich. delicious...
+ELIZABETH: right before my mother died, she said -- "elizabeth. you're adopted."
+NICK: have you found your real parents?
+ELIZABETH: no. two are enough to lose.
+ELIZABETH: i'm not alone. i have my grandfather.
+NICK: listen... he looks into her eyes. elizabeth suddenly grabs his arm.
+ELIZABETH: i'm sorry.
+ELIZABETH: he's stone deaf.
+NICK: i have to go.
 
-speaker1: i'd like to stay right here... 
-speaker2: i have to be out tomorrow.
-speaker1: in this moment... enjoying this moment.
-speaker2: the moment's gone.
-speaker1: it can go on as long as we want.
-speaker2: have you ever been in a relationship?
-speaker1: no. i was married... but it wasn't really a relationship.
-speaker2: you weren't married...
-speaker1: two years. right out of high school.
-speaker2: do i remind you of her?
-speaker1: no.
-speaker2: thank
-speaker1: you have beautiful skin... her skin was polka-dotted.
-speaker2: freckled...
-speaker1: when we were kids we called her "spot".
-speaker2: what happened?
-speaker1: she disappeared.
-speaker2: was she ever found?
-speaker1: no. not by me... i didn't go look.
-speaker1: she wanted to meet someone new. i asked her "why?" -- she said, "because he won't know me from before. just now. just what i am now." beth looks to him, puzzled.
-speaker1: i knew her... on playgrounds... in sunday school... all those grades -- i knew her as she changed. but she was still the same person. all the times i knew her, she was still her. she can't get away from that.
-speaker1: you stay in one place, and all those things that are you... are there. she didn't understand that if you leave, they're still there, in you -- but they stop being clear. you stop knowing who you are, and what you want.
-speaker2: you've stayed here and you know who you are?
-speaker1: i see the lawns i mow, houses i've painted, faces i know... my parents... and i'm constantly reminded of who i am.
-speaker2: and you know what you want.
-speaker1: i want you.
-speaker2: oh.
-speaker1: i want to be inside you.
-speaker2: good. come here and put it inside me.
-speaker1: no... i want to be able to put myself inside of you.
-speaker2: doing this is as close as you get.
-speaker2: come here.
-speaker1: i love you.
-speaker2: come inside me.
-speaker1: beth?
-speaker2: yes?
-speaker1: what do you want?
-speaker2: i want... i want...
-speaker2: come inside me.
+SID: i'd like to stay right here... 
+BETH: i have to be out tomorrow.
+SID: in this moment... enjoying this moment.
+BETH: the moment's gone.
+SID: it can go on as long as we want.
+BETH: have you ever been in a relationship?
+SID: no. i was married... but it wasn't really a relationship.
+BETH: you weren't married...
+SID: two years. right out of high school.
+BETH: do i remind you of her?
+SID: no.
+BETH: thank
+SID: you have beautiful skin... her skin was polka-dotted.
+BETH: freckled...
+SID: when we were kids we called her "spot".
+BETH: what happened?
+SID: she disappeared.
+BETH: was she ever found?
+SID: no. not by me... i didn't go look.
+SID: she wanted to meet someone new. i asked her "why?" -- she said, "because he won't know me from before. just now. just what i am now." beth looks to him, puzzled.
+SID: i knew her... on playgrounds... in sunday school... all those grades -- i knew her as she changed. but she was still the same person. all the times i knew her, she was still her. she can't get away from that.
+SID: you stay in one place, and all those things that are you... are there. she didn't understand that if you leave, they're still there, in you -- but they stop being clear. you stop knowing who you are, and what you want.
+BETH: you've stayed here and you know who you are?
+SID: i see the lawns i mow, houses i've painted, faces i know... my parents... and i'm constantly reminded of who i am.
+BETH: and you know what you want.
+SID: i want you.
+BETH: oh.
+SID: i want to be inside you.
+BETH: good. come here and put it inside me.
+SID: no... i want to be able to put myself inside of you.
+BETH: doing this is as close as you get.
+BETH: come here.
+SID: i love you.
+BETH: come inside me.
+SID: beth?
+BETH: yes?
+SID: what do you want?
+BETH: i want... i want...
+BETH: come inside me.
 
-speaker1: could you give me the number for information in arizona?... thank you. 
-speaker1: enfield. carol, carol, umm... carol... carol something...
-speaker1: hello janet, thank you for being my operator. i hope you can help me, i need to call my home.
-speaker1: well, i'll tell you my number, but there's a problem. my phone's been disconnected, not because of bills, i mean we paid all our bills. we were hardly ever even late. we were very good customers, but we're moving, so we had the phone disconnected. but now i need to call... the woman i live with. she's still there and i've got to let her know where i am.
-speaker1: i don't know any of the neighbors. i know one, but i can't remember her last name. no. no. no. you see you have to be able to help me, this is not a prank, it's my home phone, this is an emergency. yes it can, it can be done. someone there can hook the phone back up. it's not like a phone guy came to our house to disconnect the phone, nobody came to our house, someone just flipped a switch somewhere, somewhere there where you work, or plugged something into a computer and our phone stopped working! they turned it off, they can turn it back on! i know it's the week-end! i know! call them at home! they'll have a computer at their house, they'll have a phone thing to hook it up to the real computer! that's how these people live! they'll be glad to do it!...
-speaker1: no. no. i can't have the police go to the house. that won't work, there are circumstances. it's you... you've got to help me! please! i've gotta call home! i can't wait. it could be too late! janet!! you've gotta help me! please! you can reconnect me. please!! don't hang up! don't hang up!!
-speaker1: you fucker!! you heartless...
-speaker2: "if you'd like to make a call, please hang up and try again. if you need help..."
+NICK: could you give me the number for information in arizona?... thank you. 
+NICK: enfield. carol, carol, umm... carol... carol something...
+NICK: hello janet, thank you for being my operator. i hope you can help me, i need to call my home.
+NICK: well, i'll tell you my number, but there's a problem. my phone's been disconnected, not because of bills, i mean we paid all our bills. we were hardly ever even late. we were very good customers, but we're moving, so we had the phone disconnected. but now i need to call... the woman i live with. she's still there and i've got to let her know where i am.
+NICK: i don't know any of the neighbors. i know one, but i can't remember her last name. no. no. no. you see you have to be able to help me, this is not a prank, it's my home phone, this is an emergency. yes it can, it can be done. someone there can hook the phone back up. it's not like a phone guy came to our house to disconnect the phone, nobody came to our house, someone just flipped a switch somewhere, somewhere there where you work, or plugged something into a computer and our phone stopped working! they turned it off, they can turn it back on! i know it's the week-end! i know! call them at home! they'll have a computer at their house, they'll have a phone thing to hook it up to the real computer! that's how these people live! they'll be glad to do it!...
+NICK: no. no. i can't have the police go to the house. that won't work, there are circumstances. it's you... you've got to help me! please! i've gotta call home! i can't wait. it could be too late! janet!! you've gotta help me! please! you can reconnect me. please!! don't hang up! don't hang up!!
+NICK: you fucker!! you heartless...
+TELEPHONE RECORDING: "if you'd like to make a call, please hang up and try again. if you need help..."
 
-speaker1: hi. 
-speaker2: hi.
-speaker1: i didn't want to wake you.
-speaker2: i'm awake. i'm a morning person.
-speaker1: i'm not.
-speaker2: then why don't you come back to bed?
-speaker1: i've got to pack.
-speaker2: where do we start?
-speaker1: no. you paint.
-speaker1: i'll manage.
-speaker2: whatever you say.
-speaker1: oh
-speaker2: what?
-speaker1: i'd be so much happier if i could blame this on nick, but it always happens to me. i'm always left with nothing. it doesn't matter if i leave the guy or if the guy leaves me -- i'm left with nothing. i never do anything for myself. i never acquire anything. i mean nick didn't take from me. he stole a t.v. and left it for me. he didn't take my things, he didn't take our things... he didn't even take his clothes! and i'll still leave this house with nothing!
-speaker2: he took three years from you.
-speaker1: no... he didn't take 'em. i mean, when he cared about me, he cared about me. and he was really good in bed.
-speaker1: i didn't expect more.
-speaker2: beth...
-speaker1: i can't face this. i'm gonna finish up the kitchen... ...get some momentum...
+BETH: hi. 
+SID: hi.
+BETH: i didn't want to wake you.
+SID: i'm awake. i'm a morning person.
+BETH: i'm not.
+SID: then why don't you come back to bed?
+BETH: i've got to pack.
+SID: where do we start?
+BETH: no. you paint.
+BETH: i'll manage.
+SID: whatever you say.
+BETH: oh
+SID: what?
+BETH: i'd be so much happier if i could blame this on nick, but it always happens to me. i'm always left with nothing. it doesn't matter if i leave the guy or if the guy leaves me -- i'm left with nothing. i never do anything for myself. i never acquire anything. i mean nick didn't take from me. he stole a t.v. and left it for me. he didn't take my things, he didn't take our things... he didn't even take his clothes! and i'll still leave this house with nothing!
+SID: he took three years from you.
+BETH: no... he didn't take 'em. i mean, when he cared about me, he cared about me. and he was really good in bed.
+BETH: i didn't expect more.
+SID: beth...
+BETH: i can't face this. i'm gonna finish up the kitchen... ...get some momentum...
 
-speaker1: how was he? 
-speaker2: he's twenty-four.
-speaker1: a little weak on tenderness, but long on juice?
-speaker2: long on conversation.
+CAROL: how was he? 
+BETH: he's twenty-four.
+CAROL: a little weak on tenderness, but long on juice?
+BETH: long on conversation.
 
-speaker1: did you need talk? 
-speaker2: yeah. i guess i did.
-speaker1: good.
+CAROL: did you need talk? 
+BETH: yeah. i guess i did.
+CAROL: good.
 
-speaker1: her face clouds over. 
-speaker2: so what are we doing?
+CLOSE-UP: BETH: her face clouds over. 
+CAROL: so what are we doing?
 
-speaker1:  
-speaker1: i gotta get out here. i was in tucson two years before you and nick got here. i've been here five years...
-speaker2: yeah...
-speaker1: this state's driving me crazy.
-speaker2: so what are you gonna do?
-speaker1: i've got no money.
-speaker2: i've got some.
-speaker1: i can't take it. i mean you're being great, but i can't take it. i'm gonna be gone, we won't see each other, and i won't send the money. i won't. i know... i won't get around, i'll forget, i won't do it.
-speaker1: i'll sell all this i don't want any of it, just my car and my clothes...
-speaker2: okay...
-speaker1: i'm sorry... i shouldn't have this kid last night. i should have slept. now i've got all this stuff to do, and i'm tired, i'm churned up, i'm in a mood.
-speaker2: let's do things, get you busy.
-speaker1: yeah.
-speaker2: you get all the stuff you wanna sell, and i'll make some tag sale signs.
-speaker1: no one'll buy my stuff. it's all junk.
-speaker2: that's what people buy at tag sales. broken appliances, ugly knicknacks.
-speaker1: i guess i do have stuff to sell.
+BETH:  
+BETH: i gotta get out here. i was in tucson two years before you and nick got here. i've been here five years...
+CAROL: yeah...
+BETH: this state's driving me crazy.
+CAROL: so what are you gonna do?
+BETH: i've got no money.
+CAROL: i've got some.
+BETH: i can't take it. i mean you're being great, but i can't take it. i'm gonna be gone, we won't see each other, and i won't send the money. i won't. i know... i won't get around, i'll forget, i won't do it.
+BETH: i'll sell all this i don't want any of it, just my car and my clothes...
+CAROL: okay...
+BETH: i'm sorry... i shouldn't have this kid last night. i should have slept. now i've got all this stuff to do, and i'm tired, i'm churned up, i'm in a mood.
+CAROL: let's do things, get you busy.
+BETH: yeah.
+CAROL: you get all the stuff you wanna sell, and i'll make some tag sale signs.
+BETH: no one'll buy my stuff. it's all junk.
+CAROL: that's what people buy at tag sales. broken appliances, ugly knicknacks.
+BETH: i guess i do have stuff to sell.
 
-speaker1: is there something specific you're looking for? 
-speaker2: yes. actually everything... i don't have anything.
-speaker3: nothing?
-speaker2: i just moved to town. my husband passed away, and i, umm, didn't want to have our things... they were too familiar.
-speaker3: you can have it all for three hundred. the stuff in these boxes and everything inside.
-speaker2: oh, my, i don't know... everything?
-speaker3: everything. except the t.v.
-speaker3: the t.v.s not for sale.
+CAROL: is there something specific you're looking for? 
+MRS. DOTSON: yes. actually everything... i don't have anything.
+BETH: nothing?
+MRS. DOTSON: i just moved to town. my husband passed away, and i, umm, didn't want to have our things... they were too familiar.
+BETH: you can have it all for three hundred. the stuff in these boxes and everything inside.
+MRS. DOTSON: oh, my, i don't know... everything?
+BETH: everything. except the t.v.
+BETH: the t.v.s not for sale.
 
-speaker1: maybe some nice turquoise jewelry. 
-speaker2: i don't think she really wears jewelry.
-speaker1: maybe a nice navajo rug?
-speaker2: as a present? no.
-speaker2: what about that?
+NAVAJO WOMAN: maybe some nice turquoise jewelry. 
+NICK: i don't think she really wears jewelry.
+NAVAJO WOMAN: maybe a nice navajo rug?
+NICK: as a present? no.
+NICK: what about that?
 
-speaker1: that would make her laugh. 
-speaker2: that's authentic -- it's very expensive.
-speaker1: you got something like it but fake?
+NICK: that would make her laugh. 
+NAVAJO WOMAN: that's authentic -- it's very expensive.
+NICK: you got something like it but fake?
 
-speaker1: i'm sorry, what's your name? 
-speaker2: can you just leave the name blank? i won't have an account, so i'll have to find someplace to cash it for me.
-speaker1: all right.
-speaker2: thanks a lot.
-speaker3: you're set.
-speaker1: you did all the work...
-speaker3: sure. now i've gotta finish painting, but carol here would be happy to help you unload.
-speaker4: of course. i'll follow you in my car.
-speaker1: thank you. you've given me a home.
-speaker4: i'll be right along.
-speaker4: this had to be history's most efficient tag sale.
-speaker2: yeah... i'm sorry sid stuck you with unloading.
-speaker4: no problem. he kinda bites my butt, but he's okay.
-speaker2: he is.
-speaker2: listen. i'll probably be gone before you get back.
-speaker4: i thought maybe we could be roomies for a while. you know, while you figure out what's next.
-speaker2: i can't. he gets to me... too much. if i don't go i'll end up with staying with him.
-speaker4: you've done worse.
-speaker2: sure.
+MRS. DOTSON: i'm sorry, what's your name? 
+BETH: can you just leave the name blank? i won't have an account, so i'll have to find someplace to cash it for me.
+MRS. DOTSON: all right.
+BETH: thanks a lot.
+SID: you're set.
+MRS. DOTSON: you did all the work...
+SID: sure. now i've gotta finish painting, but carol here would be happy to help you unload.
+CAROL: of course. i'll follow you in my car.
+MRS. DOTSON: thank you. you've given me a home.
+CAROL: i'll be right along.
+CAROL: this had to be history's most efficient tag sale.
+BETH: yeah... i'm sorry sid stuck you with unloading.
+CAROL: no problem. he kinda bites my butt, but he's okay.
+BETH: he is.
+BETH: listen. i'll probably be gone before you get back.
+CAROL: i thought maybe we could be roomies for a while. you know, while you figure out what's next.
+BETH: i can't. he gets to me... too much. if i don't go i'll end up with staying with him.
+CAROL: you've done worse.
+BETH: sure.
 
-speaker1: hi. 
-speaker2: i'm sorry about selling the sofa bed.
-speaker1: i didn't really need one. when my friends get drunk, they throw up and sleep on the floor.
-speaker2: but i gave it to you.
-speaker1: you gave me a lot more.
-speaker2: no. it was all even in this department.
-speaker1: ...feel me?
-speaker2: i know... you're hard again.
-speaker1: i want you all the time.
-speaker2: 
-speaker2: i just fleeced a widow.
-speaker1: no...
-speaker2: it was all junk.
-speaker2: i've got to get some aspirin... i didn't drink enough to be hung over.
+SID: hi. 
+BETH: i'm sorry about selling the sofa bed.
+SID: i didn't really need one. when my friends get drunk, they throw up and sleep on the floor.
+BETH: but i gave it to you.
+SID: you gave me a lot more.
+BETH: no. it was all even in this department.
+SID: ...feel me?
+BETH: i know... you're hard again.
+SID: i want you all the time.
+BETH: 
+BETH: i just fleeced a widow.
+SID: no...
+BETH: it was all junk.
+BETH: i've got to get some aspirin... i didn't drink enough to be hung over.
 
-speaker1: you just feel bad for her like i feel bad for her... 'cause her husband died. 
-speaker2: yeah?
+SID: you just feel bad for her like i feel bad for her... 'cause her husband died. 
+BETH: yeah?
 
-speaker1: that's about the saddest thing there is... losing someone you love. 
-speaker2: it's never happened to me.
-speaker1: if you died, i couldn't stand life.
+SID: that's about the saddest thing there is... losing someone you love. 
+BETH: it's never happened to me.
+SID: if you died, i couldn't stand life.
 
-speaker1: the new people'll be here. 
-speaker2: go to my house.
-speaker1: no.
+BETH: the new people'll be here. 
+SID: go to my house.
+BETH: no.
 
-speaker1: while you find a place. 
-speaker2: no. i gotta get out.
-speaker1: i can talk to the realtors, i know they've got a place in agawam.
-speaker2: no... agawam?... no. i don't know where i'm going. somewhere else.
+SID: while you find a place. 
+BETH: no. i gotta get out.
+SID: i can talk to the realtors, i know they've got a place in agawam.
+BETH: no... agawam?... no. i don't know where i'm going. somewhere else.
 
-speaker1: you can call me when you get there. i'll give you my number. 
-speaker2: sid. i'm going away. you're making me way too important. you met me yesterday.
-speaker1: and today i love you.
-speaker2: jesus... one day...
-speaker1: that doesn't matter. you know that. it can take a second.
-speaker2: no! that's... that's a animal thing, i've done that.
-speaker1: not with me.
-speaker2: i meet men, go home with them and just stay. no decision involved -- it's just what i do. and then i don't have to live my life, i just lead theirs. i can't keep doing that.
-speaker1: we're not that way!
-speaker2: what way are we?
-speaker1: we're passionate. we're comfortable.
-speaker2: it's been passionate, it's been comfortable. but it hasn't been... important. like you're making it!
-speaker1: it is important! you know that.
-speaker2: no! it was a night! it wasn't real. it was fun, it was some great fucking! but it's just something that happened! it's not real!
-speaker1: it didn't "just happen"! you know we're it! i'm the one for you!
-speaker2: the "one"?! i've had lots of "ones"! i look like a baby but i'm twenty- fuckin'-- eight years old! you're just the latest!
-speaker1: no. i'm the last. you've found me. and it can go on forever.
-speaker2: no! oh, sid... forever? you have to understand -- it's just talk.
-speaker1: it's not.
-speaker2: it is. c'mon, these things you say... c'mon! what?! if i died you couldn't stand life? that's... that's...
-speaker1: that's true.
-speaker2: no.
-speaker2: you won't know when i die. you won't be there.
-speaker1: you'd want me there. if i wasn't there it wouldn't matter who was. you'd be alone.
-speaker2: no.
-speaker1: beth... beth... you love me...
-speaker2: no!
-speaker1: how do you feel? think! you love me.
-speaker2: i care about you.
-speaker1: you have to be with me.
-speaker2: no. i care about you. but i'm an adult. i can say no.
-speaker1: that's what makes you an adult?
-speaker2: yes. i can say no. no, i won't do that. no, i won't have that. no, i can't.
-speaker1: you can say no to me?
-speaker2: yes.
-speaker2: i'm going.
-speaker1: beth!
-speaker1: have someplace to go.
-speaker2: i don't.
-speaker1: why don't...
-speaker2: don't tell me what to do.
+SID: you can call me when you get there. i'll give you my number. 
+BETH: sid. i'm going away. you're making me way too important. you met me yesterday.
+SID: and today i love you.
+BETH: jesus... one day...
+SID: that doesn't matter. you know that. it can take a second.
+BETH: no! that's... that's a animal thing, i've done that.
+SID: not with me.
+BETH: i meet men, go home with them and just stay. no decision involved -- it's just what i do. and then i don't have to live my life, i just lead theirs. i can't keep doing that.
+SID: we're not that way!
+BETH: what way are we?
+SID: we're passionate. we're comfortable.
+BETH: it's been passionate, it's been comfortable. but it hasn't been... important. like you're making it!
+SID: it is important! you know that.
+BETH: no! it was a night! it wasn't real. it was fun, it was some great fucking! but it's just something that happened! it's not real!
+SID: it didn't "just happen"! you know we're it! i'm the one for you!
+BETH: the "one"?! i've had lots of "ones"! i look like a baby but i'm twenty- fuckin'-- eight years old! you're just the latest!
+SID: no. i'm the last. you've found me. and it can go on forever.
+BETH: no! oh, sid... forever? you have to understand -- it's just talk.
+SID: it's not.
+BETH: it is. c'mon, these things you say... c'mon! what?! if i died you couldn't stand life? that's... that's...
+SID: that's true.
+BETH: no.
+BETH: you won't know when i die. you won't be there.
+SID: you'd want me there. if i wasn't there it wouldn't matter who was. you'd be alone.
+BETH: no.
+SID: beth... beth... you love me...
+BETH: no!
+SID: how do you feel? think! you love me.
+BETH: i care about you.
+SID: you have to be with me.
+BETH: no. i care about you. but i'm an adult. i can say no.
+SID: that's what makes you an adult?
+BETH: yes. i can say no. no, i won't do that. no, i won't have that. no, i can't.
+SID: you can say no to me?
+BETH: yes.
+BETH: i'm going.
+SID: beth!
+SID: have someplace to go.
+BETH: i don't.
+SID: why don't...
+BETH: don't tell me what to do.
 
-speaker1: what are you gonna do? 
-speaker2: i don't know.
+SID: what are you gonna do? 
+BETH: i don't know.
 
-speaker1: beth! beth!!! 
-speaker2: she's not here.
-speaker1: where is she?
-speaker2: she's gone.
-speaker1: excuse me. shiiiiit!! who are you?
-speaker2: the painter. you're nick.
-speaker1: yeah.
-speaker2: the indian chief.
-speaker1: what?
-speaker1: 
-speaker2: you're too late. she's gone.
-speaker1: i got that. where'd she go?
-speaker2: she didn't say.
-speaker1: 
-speaker2: she didn't know.
-speaker1: i'm too late...
+NICK: beth! beth!!! 
+SID: she's not here.
+NICK: where is she?
+SID: she's gone.
+NICK: excuse me. shiiiiit!! who are you?
+SID: the painter. you're nick.
+NICK: yeah.
+SID: the indian chief.
+NICK: what?
+NICK: 
+SID: you're too late. she's gone.
+NICK: i got that. where'd she go?
+SID: she didn't say.
+NICK: 
+SID: she didn't know.
+NICK: i'm too late...
 
-speaker1: this really bothers me! 
-speaker2: will you do me a favor?
-speaker1: what?
-speaker2: act normal.
-speaker1: listen! i don't want to be normal. i don't have to be, i don't! this is my house. you're in my house. and i'm tired of going to my house and finding strangers!
-speaker2: it's not your house. you're gone. i'm painting --
-speaker2: -- for the new people -- whose house it's going to be. you're gone. they're not here yet. i'm here. i guess that makes this my house.
-speaker1: may i look around?
-speaker2: sure. make yourself at home.
-speaker1: nooo... she left the television.
-speaker2: yeah.
-speaker1: too bad.
-speaker2: she didn't seem to want it.
-speaker1: that's foolish. that t.v. is a remarkable thing. they both stare at the television.
+NICK: this really bothers me! 
+SID: will you do me a favor?
+NICK: what?
+SID: act normal.
+NICK: listen! i don't want to be normal. i don't have to be, i don't! this is my house. you're in my house. and i'm tired of going to my house and finding strangers!
+SID: it's not your house. you're gone. i'm painting --
+SID: -- for the new people -- whose house it's going to be. you're gone. they're not here yet. i'm here. i guess that makes this my house.
+NICK: may i look around?
+SID: sure. make yourself at home.
+NICK: nooo... she left the television.
+SID: yeah.
+NICK: too bad.
+SID: she didn't seem to want it.
+NICK: that's foolish. that t.v. is a remarkable thing. they both stare at the television.
 
-speaker1: you came back. 
-speaker2: yeah.
-speaker1: is beth here?
-speaker2: no. do you know where she went?
-speaker1: no.
-speaker2: 
-speaker1: you're too late.
-speaker3: she's gone.
-speaker2: who is this guy?
-speaker1: beth's new boyfriend.
-speaker2: what?!
-speaker1: you heard me.
-speaker2: is this true?!
-speaker3: not really.
-speaker2: not really?
+CAROL: you came back. 
+NICK: yeah.
+CAROL: is beth here?
+NICK: no. do you know where she went?
+CAROL: no.
+NICK: 
+CAROL: you're too late.
+SID: she's gone.
+NICK: who is this guy?
+CAROL: beth's new boyfriend.
+NICK: what?!
+CAROL: you heard me.
+NICK: is this true?!
+SID: not really.
+NICK: not really?
 
-speaker1: not really?! what? did you her? 
-speaker2: i don't tell.
-speaker1: the next day! that's the world, huh? they don't even wait a day anymore.
-speaker3: you left her.
-speaker1: i didn't anyone.
-speaker3: you didn't find anyone.
-speaker1: no... i didn't leave her for another person, i left her for another place. which i think is a little more excusable.
-speaker2: i don't.
-speaker1: well it's none of your business!
-speaker2: i think it is.
-speaker1: cause you her? no! that gives you no business in my life.
-speaker2: if you hadn't gone, i'd be done by now. i'd be home.
-speaker1: be glad you have a home, asshole!
-speaker3: let it drop, nick!
-speaker1: why?!
-speaker3: he was nice to beth when you treated her like
-speaker1: i came back...
-speaker3: nick. this is me. you didn't come back for beth's sake -- something just didn't work out like you had planned.
-speaker1: you see -- you don't know everything about me -- i didn't really have any real plans!
-speaker3: he was sweet to her. they were sweet with each other.
-speaker3: beth looked young with him. they had a real connection.
-speaker1: and i brought them together?
-speaker1: it seems i'm blessed... in what i do. i do wrong, and it turns out right... that i've done right. so it really doesn't matter what i do.
-speaker1: hey!
-speaker1: i said "hey!" sid looks at him.
-speaker1: i hope you're very happy together!
-speaker2: she's gone.
-speaker1: she is, isn't she? if you two were such the happy couple why the did she leave, romeo?
-speaker2: after three years with you, she wanted to be alone.
-speaker1: i was already gone! this is not about me and beth, there is no me and beth! this is about you! why didn't you go with her?
-speaker2: it wasn't offered.
-speaker1: people aren't going to offer you anything! you have to take what you want.
-speaker2: you can't take another person. they have to give themselves to you.
-speaker1: that's very wise, but not very true. i sell televisions. people don't know what they want. you have to show them.
-speaker2: i couldn't show her.
-speaker1: go after her!
-speaker3: leave him alone!
-speaker1: no. he's not alone, he's with us. she's alone. she's out there alone. just hoping she's closer to what she wants...
-speaker3: and what is that?
-speaker1: i don't know!
-speaker1: how would i know?! what do i know?!
-speaker1: i know that what i want isn't there. it isn't here. it isn't inside! it isn't outside! it doesn't exist.
-speaker1: but you want her, and you aren't doing about it!
-speaker3: there isn't anything he can do.
-speaker1: he can go after her. go after her!
-speaker2: i can't. she... my life is here.
-speaker1: what kind of man won't up his life for the women he loves? go find her!!
-speaker3: he wouldn't know where to look.
-speaker1: she'd she'd she'd... she'd head for her parents!
-speaker3: what?
-speaker1: she'd head for her parents. believe me. they're in florida. that's east.
+NICK: not really?! what? did you her? 
+SID: i don't tell.
+NICK: the next day! that's the world, huh? they don't even wait a day anymore.
+CAROL: you left her.
+NICK: i didn't anyone.
+CAROL: you didn't find anyone.
+NICK: no... i didn't leave her for another person, i left her for another place. which i think is a little more excusable.
+SID: i don't.
+NICK: well it's none of your business!
+SID: i think it is.
+NICK: cause you her? no! that gives you no business in my life.
+SID: if you hadn't gone, i'd be done by now. i'd be home.
+NICK: be glad you have a home, asshole!
+CAROL: let it drop, nick!
+NICK: why?!
+CAROL: he was nice to beth when you treated her like
+NICK: i came back...
+CAROL: nick. this is me. you didn't come back for beth's sake -- something just didn't work out like you had planned.
+NICK: you see -- you don't know everything about me -- i didn't really have any real plans!
+CAROL: he was sweet to her. they were sweet with each other.
+CAROL: beth looked young with him. they had a real connection.
+NICK: and i brought them together?
+NICK: it seems i'm blessed... in what i do. i do wrong, and it turns out right... that i've done right. so it really doesn't matter what i do.
+NICK: hey!
+NICK: i said "hey!" sid looks at him.
+NICK: i hope you're very happy together!
+SID: she's gone.
+NICK: she is, isn't she? if you two were such the happy couple why the did she leave, romeo?
+SID: after three years with you, she wanted to be alone.
+NICK: i was already gone! this is not about me and beth, there is no me and beth! this is about you! why didn't you go with her?
+SID: it wasn't offered.
+NICK: people aren't going to offer you anything! you have to take what you want.
+SID: you can't take another person. they have to give themselves to you.
+NICK: that's very wise, but not very true. i sell televisions. people don't know what they want. you have to show them.
+SID: i couldn't show her.
+NICK: go after her!
+CAROL: leave him alone!
+NICK: no. he's not alone, he's with us. she's alone. she's out there alone. just hoping she's closer to what she wants...
+CAROL: and what is that?
+NICK: i don't know!
+NICK: how would i know?! what do i know?!
+NICK: i know that what i want isn't there. it isn't here. it isn't inside! it isn't outside! it doesn't exist.
+NICK: but you want her, and you aren't doing about it!
+CAROL: there isn't anything he can do.
+NICK: he can go after her. go after her!
+SID: i can't. she... my life is here.
+NICK: what kind of man won't up his life for the women he loves? go find her!!
+CAROL: he wouldn't know where to look.
+NICK: she'd she'd she'd... she'd head for her parents!
+CAROL: what?
+NICK: she'd head for her parents. believe me. they're in florida. that's east.
 
-speaker1: you start driving east on route forty. keep going east and around eleven start checking every roadside motel. the budget ones... you do that all night, you'll find her. 
-speaker2: how do you know she's on the highway?
-speaker1: when you don't know where you're going, you drive on the highway.
-speaker1: i'll finish painting.
-speaker3: do i have a chance?
-speaker2: you've got a chance.
-speaker3: then i'm gone. sid races out the door.
-speaker4: sid's truck engine roars to life.
+NICK: you start driving east on route forty. keep going east and around eleven start checking every roadside motel. the budget ones... you do that all night, you'll find her. 
+CAROL: how do you know she's on the highway?
+NICK: when you don't know where you're going, you drive on the highway.
+NICK: i'll finish painting.
+SID: do i have a chance?
+CAROL: you've got a chance.
+SID: then i'm gone. sid races out the door.
+SOUND: sid's truck engine roars to life.
 
-speaker1: carol steps into the doorway beside nick. 
-speaker2: so. start painting.
-speaker3: the ceiling. who looks up that often?
-speaker4: this is it!
-speaker2: hello...?
-speaker5: oh. hello.
-speaker5: i'm sorry. we thought it was going to be empty.
-speaker3: it is.
-speaker6: we're here to move in.
-speaker6: are you the couple moving out?
-speaker2: no.
-speaker3: no...
-speaker3: we're your new neighbors. from next door.
-speaker5: well. it's nice to meet you.
-speaker6: it is... and it's so nice of you to greet us.
-speaker2: thank you.
-speaker3: actually, we're here for the t.v.
-speaker3: the people who left here -- our old neighbors -- left us that t.v.
-speaker5: oh. it's very nice.
-speaker2: yes. it is.
-speaker2: well, dear... we should carry it home.
-speaker6: do you need help?
-speaker3: we can manage.
-speaker2: thanks anyway.
-speaker6: nice meeting you.
-speaker5: they're not done painting.
-speaker6: they'll finish.
-speaker6: i wonder where our furniture is?
+THE DOORWAY: carol steps into the doorway beside nick. 
+CAROL: so. start painting.
+NICK: the ceiling. who looks up that often?
+MAN'S VOICE: this is it!
+CAROL: hello...?
+MAN: oh. hello.
+MAN: i'm sorry. we thought it was going to be empty.
+NICK: it is.
+WOMAN: we're here to move in.
+WOMAN: are you the couple moving out?
+CAROL: no.
+NICK: no...
+NICK: we're your new neighbors. from next door.
+MAN: well. it's nice to meet you.
+WOMAN: it is... and it's so nice of you to greet us.
+CAROL: thank you.
+NICK: actually, we're here for the t.v.
+NICK: the people who left here -- our old neighbors -- left us that t.v.
+MAN: oh. it's very nice.
+CAROL: yes. it is.
+CAROL: well, dear... we should carry it home.
+WOMAN: do you need help?
+NICK: we can manage.
+CAROL: thanks anyway.
+WOMAN: nice meeting you.
+MAN: they're not done painting.
+WOMAN: they'll finish.
+WOMAN: i wonder where our furniture is?
 
-speaker1: you're not going to be their new neighbor. 
-speaker2: it was just something to say.
-speaker1: good.
-speaker1: you look terrible.
-speaker2: yeah? well, i had a big day. i went to my parent's house. like you said to. and there was this ancient man, this giant man in the doorway.
-speaker2: and i thought, "it's my father. my how he's aged."
-speaker1: you were drunk...
-speaker2: not at the house. at the house i was stone sober.
-speaker2: he was very tall. he was too tall to be my father. he was wearing a long overcoat, and i thought, "it's a trick, he's on my mother's shoulders".
-speaker2: and then out from behind him came this beautiful young girl... beth.
-speaker1: beth?...
-speaker2: and they sang to me. they sang "london bridge is falling down"... "falling down, falling down.".
-speaker2: it was very touching.
-speaker1: i'm sure.
-speaker2: it was.
-speaker1: nick?...
-speaker2: yeah?
-speaker1: what you've been doing... you can't do anymore.
-speaker1: you just can't do it.
-speaker2: okay.
-speaker1: okay?
-speaker2: yeah. i understand.
-speaker1: no. i don't think so.
-speaker2: i understand.
-speaker1: it's not like you can't do it.
-speaker2: i'll stop.
-speaker1: it's that i don't want you to do it.
-speaker2: i've stopped.
-speaker1: nick. i don't want you to do it.
-speaker2: okay.
-speaker1: i hate talking to you.
+CAROL: you're not going to be their new neighbor. 
+NICK: it was just something to say.
+CAROL: good.
+CAROL: you look terrible.
+NICK: yeah? well, i had a big day. i went to my parent's house. like you said to. and there was this ancient man, this giant man in the doorway.
+NICK: and i thought, "it's my father. my how he's aged."
+CAROL: you were drunk...
+NICK: not at the house. at the house i was stone sober.
+NICK: he was very tall. he was too tall to be my father. he was wearing a long overcoat, and i thought, "it's a trick, he's on my mother's shoulders".
+NICK: and then out from behind him came this beautiful young girl... beth.
+CAROL: beth?...
+NICK: and they sang to me. they sang "london bridge is falling down"... "falling down, falling down.".
+NICK: it was very touching.
+CAROL: i'm sure.
+NICK: it was.
+CAROL: nick?...
+NICK: yeah?
+CAROL: what you've been doing... you can't do anymore.
+CAROL: you just can't do it.
+NICK: okay.
+CAROL: okay?
+NICK: yeah. i understand.
+CAROL: no. i don't think so.
+NICK: i understand.
+CAROL: it's not like you can't do it.
+NICK: i'll stop.
+CAROL: it's that i don't want you to do it.
+NICK: i've stopped.
+CAROL: nick. i don't want you to do it.
+NICK: okay.
+CAROL: i hate talking to you.
 

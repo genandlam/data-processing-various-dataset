@@ -1,668 +1,668 @@
-speaker1: who are you? 
-speaker2: i am death.
-speaker1: have you come for me?
-speaker2: i have been walking by your side for a long time.
-speaker1: that i know.
-speaker2: are you prepared?
-speaker1: my body is frightened, but i am not.
-speaker2: well, there is no shame in that.
-speaker1: wait a moment.
-speaker2: that's what they all say. i grant no reprieves.
-speaker1: you play chess, don't you?
-speaker2: how did you know that?
-speaker1: i have seen it in paintings and heard it sung in ballads.
-speaker2: yes, in fact i'm quite a good chess player.
-speaker1: but you can't be better than i am.
-speaker2: why do you want to play chess with me?
-speaker1: i have my reasons.
-speaker2: that is your privilege.
-speaker1: the condition is that i may live as long as i hold out against you. if i win, you will release me. is it agreed?
-speaker1: you drew black!
-speaker2: very appropriate. don't you think so?
-
-speaker1: up above is almighty so very far away, but your brother the devil you will meet on every level. 
-speaker1: in fâ‰rjestad everyone was talking about evil omens and other horrible things. two horses had eaten each other in the night, and, in the churchyard, graves had been opened and the remains of corpses scattered all over the place. yesterday afternoon there were as many as four suns in the heavens.
-
-speaker1: well, did he show you the way? 
-speaker2: not exactly.
-speaker1: what did he say?
-speaker2: nothing.
-speaker1: was he a mute?
-speaker2: no, sir, i wouldn't say that. as a matter of fact, he was quite eloquent.
-speaker1: oh?
-speaker2: he was eloquent, all right. the trouble is that what he had to say was most depressing. one moment you're bright and lively, the next you're crawling with worms. fate is a terrible villain and you, my friend, its poor victim.
-speaker1: must you sing?
-speaker2: no.
-
-speaker1: good morning. have you had breakfast? i can't eat grass, worse luck. can't you teach me how? we're a little hard up. people aren't very interested in juggling in this part of the country. 
-speaker1: mia, wake up. wake up! mia, i've just seen something. i've got to tell you about it!
-speaker2: what is it? what's happened?
-speaker1: listen, i've had a vision. no, it wasn't a vision. it was real, absolutely real.
-speaker2: oh, so you've had a vision again!
-speaker1: but i did see her!
-speaker2: whom did you see?
-speaker1: the virgin mary.
-speaker2: did you really see her?
-speaker1: she was so close to me that i could have
-speaker2: what an imagination you have.
-speaker1: you don't believe me! but it was real, i tell you, not the kind of reality you see every day, but a different kind.
-speaker2: perhaps it was the kind of reality you told us about when you saw the devil painting our wagon wheels red, using his tail as a brush.
-speaker1: why must you keep bringing that up?
-speaker2: and then you discovered that you had red paint under your nails.
-speaker1: well, perhaps that time i made it up.
-speaker2: if we would only get some rain. everything is burned to cinders. we won't have anything to eat this winter.
-speaker1: we'll get by.
-speaker2: i want mikael to have a better life than ours.
-speaker1: mikael will grow up to be a great acrobat -- or a juggler who can do the one impossible trick.
-speaker2: what's that?
-speaker1: to make one of the stand absolutely still in the air.
-speaker2: but that's impossible.
-speaker1: impossible for us -- but not for him.
-speaker2: you're dreaming again.
-speaker1: i've composed a song. i made it up during the night when i couldn't sleep. do you want to hear it?
-speaker2: sing it. i'm very curious.
-
-speaker1: i have to sit up first. 
-speaker1: on a lily branch a dove is perched against the summer sky, she sings a wondrous song of christ and there's great joy on high.
-speaker1: mia! are you asleep?
-speaker2: it's a lovely song.
-speaker1: i haven't finished yet.
-
-speaker1: i heard it, but i think i'll sleep a little longer. you can sing the rest to me afterwards. 
-speaker2: all you do is sleep.
-speaker3: is this supposed to be a mask for an actor? if the priests didn't pay us so well, i'd say no thank you.
-speaker2: are you going to play death?
-
-speaker1: just think, scaring decent folk out of their wits with this kind of nonsense. 
-speaker2: when are we supposed to do this play?
-speaker1: at the saints' feast in elsinore. we're going to perform right on the church steps, believe it or not.
-
-speaker1: wouldn't it be better to play something bawdy? people like it better, and, besides, it's more fun. 
-speaker2: there's a rumor going around that there's a terrible pestilence in the land, and now the priests are prophesying sudden death and all sorts of spiritual agonies.
-
-speaker1: and what part am i to play? 
-speaker2: you're such a fool, so you're going to be the soul of man.
-speaker1: that's a bad part, of course.
-speaker2: who makes the decisions around here? who is the director of this company anyhow?
-speaker2: bear this in mind, you fool. your life hangs by a thread. your time is short. are the women going to like me in this getup? will i make a hit? no! i feel as if i were dead already.
-speaker3: jof!
-
-speaker1: sit still. don't move. 
-speaker2: what do you mean?
-speaker1: don't say anything.
-speaker2: i'm as silent as a grave.
-speaker1: shh! i love you.
-
-speaker1: what is this supposed to represent? 
-speaker2: the dance of death.
-speaker1: and that one is death?
-
-speaker1: why do you paint such nonsense? 
-speaker2: i thought it would serve to remind people that they must die.
-
-speaker1: well, it's not going to make them feel any happier. 
-speaker2: why should one always make people happy? it might not be a bad idea to scare them a little once in a while.
-speaker1: then they'll close their eyes and refuse to look at your painting.
-
-speaker1: if you do scare them ... 
-speaker2: they'll think.
-speaker1: and if they think ...
-
-speaker1: and then they'll run right into the arms of the priests. 
-speaker2: that's not my business.
-
-speaker1: you're only painting your dance of death. 
-speaker2: i'm only painting things as they are. everyone else can do as he likes.
-speaker1: just think how some people will curse you.
-speaker2: maybe. but then i'll paint something amusing for them to look at. i have to make a living -- at least until the plague takes me.
-
-speaker1: the plague. that sounds horrible. 
-speaker2: you should see the boils on a diseased man's throat. you should see how his body shrivels up so that his legs look like knotted strings -- like the man i've painted over there.
-speaker1: that looks terrible.
-speaker2: it certainly does. he tries to rip out the boil, he bites his hands, tears his veins open with his fingernails and his screams can be heard everywhere. does that scare you?
-
-speaker1: scare? me? you don't know me. what are the horrors you've painted over there? 
-speaker2: the remarkable thing is that the poor creatures think the pestilence is the lord's punishment. mobs of people who call themselves slaves of sin are swarming over the country, flagellating themselves and others, all for the glory of
-speaker1: do they really whip themselves?
-speaker2: yes, it's a terrible sight. i crawl into a ditch and hide when they pass by.
-speaker1: do you have any brandy? i've been drinking water all day and it's made me as thirsty as a camel in the desert.
-speaker2: i think i frightened you after all.
-speaker3: i want to talk to you as openly as i can, but my heart is empty. death doesn't answer.
-
-speaker1: through my indifference to my fellow men, i have isolated myself from their company. now i live in a world of phantoms. i am imprisoned in my dreams and fantasies. 
-speaker2: and yet you don't want to die.
-speaker1: yes, i do.
-
-speaker1: what are you waiting for? 
-speaker2: i want knowledge.
-speaker1: you want guarantees?
-speaker2: call it whatever you like. is it so cruelly inconceivable to grasp with the senses? why should he hide himself in a mist of half-spoken promises and unseen miracles? death doesn't answer.
-
-speaker1: how can we have faith in those who believe when we can't have faith in ourselves? what is going to happen to those of us who want to believe but aren't able to? and what is to become of those who neither want to nor are capable of believing? 
-speaker1: why can't i kill within me? why does he live on in this painful and humiliating way even though i curse him and want to tear him out of my heart? why, in spite of everything, is he a baffling reality that i can't shake off? do you hear me?
-speaker2: yes, i hear you.
-speaker1: i want knowledge, not faith, not suppositions, but knowledge. i want to stretch out his hand towards me, reveal himself and speak to me.
-speaker2: but he remains silent.
-
-speaker1: then life is an outrageous horror. no one can live in the face of death, knowing that all is nothingness. 
-speaker2: most people never reflect about either death or the futility of life.
-speaker1: but one day they will have to stand at that last moment of life and look towards the darkness.
-speaker2: when that day comes ...
-
-speaker1: you are worrying ... 
-speaker2: death visited me this morning. we are playing chess together. this reprieve gives me the chance to arrange an urgent matter.
-speaker1: what matter is that?
-
-speaker1: my life has been a futile pursuit, a wandering, a great deal of talk without meaning. i feel no bitterness or self-reproach because the lives of most people are very much like this. but i will use my reprieve for one meaningful deed. 
-speaker2: is that why you are playing chess with death?
-speaker1: he is a clever opponent, but up to now i haven't lost a single man.
-speaker2: how will you outwit death in your game?
-speaker1: i use a combination of the bishop and the knight which he hasn't yet discovered. in the next move i'll shatter one of his flanks.
-speaker2: i'll remember that.
-speaker1: you've tricked and cheated me! but we'll meet again, and i'll find a way.
-speaker1: this is my hand. i can move it, feel the blood pulsing through it. the sun is still high in the sky and i, antonius block, am playing chess with death. he makes a fist of his hand and lifts it to his temple.
-speaker3: me and my master have been abroad and have just come home. do you understand, you little pictor?
-speaker4: the crusade.
-speaker4: it's worse than that.
-speaker3: ah, me. no matter which way you turn, you have your rump behind you. that's the truth.
-speaker4: the rump behind you, the rump behind you there's a profound truth.
-speaker3: this is squire jâˆns. he grins at death, mocks the lord, laughs at himself and leers at the girls. his world is a jâˆnsworld, believable only to himself, ridiculous to all including himself, meaningless to heaven and of no interest to hell.
-speaker3: that soup of yours has a of a stink. what is it good for?
-speaker5: she has had carnal with the evil one.
-speaker3: and now she's in the stocks.
-speaker5: she will be burned tomorrow morning at the parish boundary. but we have to keep the devil away from the rest of us.
-speaker3: and you do that with this stinking mess?
-speaker5: it's the best remedy: blood mixed with the bile of a big black dog. the devil can't stand the smell.
-speaker3: neither can i.
-
-speaker1: have you seen the devil? 
-speaker2: you must not talk to her.
-speaker1: can that be so dangerous?
-speaker2: i don't know, but she is believed to have caused the pestilence with which we are affected.
-speaker1: i understand.
-
-speaker1: why do you look so surprised? i steal from the dead. these days it's quite a lucrative enterprise. the girl makes a movement as if to run away. 
-speaker1: you're thinking of running to the village and telling. that wouldn't serve any purpose. each of us has to save his own skin. it's as simple as that.
-speaker2: don't touch me.
-speaker3: don't try to scream. there's no one around to hear you, neither nor man.
-speaker4: i recognize you, although it's a long time since we met. your name is raval, from the theological college at roskilde. you are dr. mirabilis, coelestis et diabilis. raval smiles uneasily and looks around.
-speaker4: am i not right?
-speaker4: you were the one who, ten years ago, convinced my master of the necessity to join a better- class crusade to the holy land. raval looks around.
-
-speaker1: you look uncomfortable. do you have a stomach- ache? raval smiles anxiously. 
-speaker1: when i see you, i suddenly understand the
-speaker2: i acted in good faith.
-speaker1: but now you know better, don't you? because now you have turned into a thief. a more fitting and rewarding occupation for scoundrels. isn't that so?
-
-speaker1: by all means. i'm not bloodthirsty. 
-speaker2: don't beat me.
-speaker1: i don't have the heart to touch you, doctor. but remember this: the next time we meet, i'll brand your face the way one does with thieves. what i really came for is to get my waterskin filled.
-speaker3: we have a deep well with cool, fresh water. come, i'll show you.
-speaker1: jâˆns is my name. i am a pleasant and talkative young man who has never had anything but kind thoughts and has only done beautiful and noble deeds. i'm kindest of all to young women. with them, there is no limit to my kindness.
-speaker1: goodbye, my girl. i could very well have raped you, but between you and me, i'm tired of that kind of love. it runs a little dry in the end.
-speaker1: now that i think of it, i will need a housekeeper. can you prepare good food? as far as i know, i'm still a married man, but i have high hopes that my wife is dead by now. that's why i need a housekeeper. the devil with it! come along and don't stand there staring. i've saved your life, so you owe me a great deal.
-
-speaker1: noble ladies and gentlemen, i thank you for your interest. please remain standing for a little longer, or sit on the ground, because we are now going to perform a tragedia about an unfaithful wife, her jealous husband, and the handsome lover -- that's me. 
-speaker1: here is the husband. here is the wife. if you'll shut up over there, you'll see something splendid. as i said, i play the lover and i haven't entered yet. that's why i'm going to hide behind the curtain for the time being. it's hot. i think we'll have a thunderstorm.
-
-speaker1: night and moonlight now prevail here sleeps my wife so frail ... 
-speaker2: does she snore?
-speaker1: may i point out that this is a tragedy, and in tragedies one doesn't snore.
-speaker2: i think she should snore anyhow.
-
-speaker1: has sentenced us to punishment. we shall all perish in the black death. you, standing there like gaping cattle, you who sit there in your glutted complacency, do you know that this may be your last hour? death stands right behind you. i can see how his crown gleams in the sun. his scythe flashes as he raises it above your heads. which one of you shall he strike first? you there, who stand staring like a goat, will your mouth be twisted into the last unfinished gasp before nightfall? and you, woman, who bloom with life and self- satisfaction, will you pale and become extinguished before the morning dawns? you back there, with your swollen nose and stupid grin, do you have another year left to dirty the earth with your refuse? do you know, you insensible fools, that you shall die today or tomorrow, or the next day, because all of you have been sentenced? do you hear what i say? do you hear the word? you have been sentenced, sentenced! 
-speaker1: lord have mercy on us in our humiliation! don't turn your face from us in loathing and contempt, but be merciful to us for the sake of your son, christ.
-speaker2: this ranting about doom. is that food for the minds of modern people? do they really expect us to take them seriously? the knight grins tiredly.
-speaker2: yes, now you grin at me, my lord. but allow me to point out that i've either read, heard or experienced most of the tales which we people tell each other.
-speaker3: yes, yes.
-
-speaker1: even the ghost stories about the father, the angels, christ and the holy ghost -- all these i've accepted without too much emotion. 
-speaker1: what are you screaming about?
-speaker2: i am plog, the smith, and you are the squire jâˆns.
-speaker1: that's possible.
-speaker2: have you seen my wife?
-
-speaker1: no, i haven't. but if i had seen her and she looked like you, i'd quickly forget that i'd seen her. 
-speaker2: well, in that case you haven't seen her.
-speaker1: maybe she's run off.
-speaker2: do you know anything?
-
-speaker1: yes, it's true! the plague is spreading along the west coast. people are dying like flies. usually business would be good at this time of year, but, it, i've still got my whole stock unsold. 
-speaker2: they speak of the judgment day. and all these omens are terrible. worms, chopped-off hands and other monstrosities began pouring out of an old woman, and down in the village another woman gave birth to a calf's head.
-speaker3: the day of judgment. imagine.
-speaker4: it hasn't rained here for a month. we'll surely lose our crops.
-speaker1: and people are acting crazy, i'd say. they flee the country and carry the plague with them wherever they go.
-speaker3: the day of judgment. just think, just think!
-speaker4: if it's as they say, i suppose a person should look after his house and try to enjoy life as long as he can.
-speaker2: but there have been other things too, such things that can't even be spoken of.
-speaker3: judgment day. and the riders of the apocalypse stand at the bend in the village road. i imagine they'll come on judgment night, at sundown.
-speaker2: there are many who have purged themselves with fire and died from it, but the priests say that it's better to die pure than to live for hell.
-
-speaker1: this is the end, yes, it is. no one says it out loud, but all of us know that it's the end. and people are going mad from fear. 
-speaker2: so you're afraid too.
-speaker1: of course i'm afraid.
-speaker3: the judgment day becomes night, and the angels descend and the graves open. it will be terrible to see. they whisper in low tones and sit close to each other.
-speaker4: do you want this armlet? you can have it cheap.
-speaker5: i can't afford it.
-speaker4: it's real silver.
-speaker5: it's nice. but it's surely too expensive for me.
-speaker6: excuse me, but has anyone here seen my wife?
-speaker5: has she disappeared?
-speaker6: they say she's run away.
-speaker5: has she deserted you?
-speaker6: with an actor.
-speaker5: an actor! if she's got such bad taste, then i think you should let her go.
-speaker6: you're right. my first thought, of course, was to kill her.
-speaker5: oh. but to murder her, that's a terrible thing to do.
-speaker6: i'm also going to kill the actor.
-speaker5: the actor?
-speaker6: of course, the one she eloped with.
-speaker5: what has he done to deserve that?
-speaker6: are you stupid?
-
-speaker1: the actor! now i understand. there are too many of them, so even if he hasn't done anything in particular you ought to kill him merely because he's an actor. 
-speaker2: you see, my wife has always been interested in the tricks of the theatre.
-speaker1: and that turned out to be her misfortune.
-speaker2: her misfortune, but not mine, because a person who's born unfortunate can hardly suffer from any further misfortune. isn't that true?
-
-speaker1: listen, you! you sit there and lie to the smith. 
-speaker2: i! a liar!
-
-speaker1: you're an actor too and it's probably your partner who's run off with plog's old lady. 
-speaker2: are you an actor too?
-speaker3: an actor! me! i wouldn't quite call myself that!
-speaker1: we ought to kill you; it's only logical.
-speaker3: you're really funny.
-speaker1: how strange -- you've turned pale. have you anything on your conscience?
-speaker3: you're funny. don't you think he's funny? oh, you don't.
-speaker1: maybe we should mark you up a little with a knife, like they do petty scoundrels of your kind.
-
-speaker1: stand on your head so that we can see how good an actor you are. 
-speaker2: what have you done with my wife?
-
-speaker1: don't lie there moaning. get up and dance. 
-speaker2: i don't want to. i can't.
-speaker3: show us how you imitate a bear.
-speaker2: i can't play a bear.
-speaker1: let's see if you can't after all.
-speaker3: up again! be a good bear.
-speaker2: i haven't done any harm. i haven't got the strength to play a bear any more.
-speaker4: do you remember what i was going to do to you if we met again? raval steps back without speaking.
-speaker4: i'm a man who keeps his word.
-
-speaker1: what's his name? 
-speaker2: mikael.
-speaker1: how old is he?
-speaker2: oh, he'll soon be two.
-speaker1: he's big for his age.
-speaker2: do you think so? yes, i guess he's rather big.
-speaker1: you played some kind of show this afternoon.
-speaker2: did you think it was bad?
-speaker1: you are more beautiful now without your face painted, and this gown is more becoming.
-speaker2: you see, jonas skat has run off and left us, so we're in real trouble now.
-speaker1: is that your husband?
-
-speaker1: oh, that one. 
-speaker2: and now there's only him and me. we'll have to start doing tricks again and that's more trouble than it's worth.
-speaker1: do you do tricks also?
-speaker2: we certainly do. and jof is a very skillful juggler.
-speaker1: is mikael going to be an acrobat?
-speaker2: jof wants him to be.
-speaker1: but you don't.
-speaker2: i don't know. perhaps he'll become a knight.
-speaker1: let me assure you, that's no pleasure either.
-speaker2: no, you don't look so happy.
-speaker1: no.
-speaker2: are you tired?
-speaker1: yes.
-speaker2: why?
-
-speaker1: i have dull company. 
-speaker2: do you mean your squire?
-speaker1: no, not him.
-speaker2: who do you mean, then?
-speaker1: myself.
-speaker2: i understand.
-speaker1: do you, really?
-
-speaker1: ouch, it hurts. 
-speaker2: why did you have to go there? and of course you drank.
-speaker1: ouch! i didn't drink anything.
-speaker2: then i suppose you were boasting about the angels and devils you consort with. people don't like someone who has too many ideas and fantasies.
-speaker1: i swear to you that i didn't say a word about angels.
-speaker2: you were, of course, busy singing and dancing. you can never stop being an actor. people also become angry at that, and you know it.
-speaker1: look what i bought for you.
-speaker2: you couldn't afford it.
-speaker1: but i got it anyhow.
-speaker1: oh, how they beat me.
-speaker2: why didn't you beat them back?
-speaker1: i only become frightened and angry. i never get a chance to hit back. i can get angry, you know that. i roared like a lion.
-speaker2: were they frightened?
-speaker1: no, they just laughed.
-speaker2: do you notice how good he smells?
-speaker1: and he is so compact to hold. you're a sturdy one. a real acrobat's body.
-speaker2: yes, this is my husband, jof.
-speaker1: good evening.
-speaker3: good evening.
-
-speaker1: i have just told your wife that you have a splendid son. he'll bring great joy to you. 
-speaker2: yes, he's fine.
-speaker2: they become silent again.
-
-speaker1: have we nothing to offer the knight, mia? 
-speaker2: thank you, i don't want anything.
-speaker3: i picked a basket of wild strawberries this afternoon. and we have a drop of milk fresh from a cow ...
-speaker1: ... that we were allowed to milk. so, if you would like to partake of this humble fare, it would be a great honor.
-speaker3: please be seated and i'll bring the food. they sit down. mia disappears with mikael.
-speaker2: where are you going next?
-speaker1: up to the saints' feast at elsinore.
-speaker2: i wouldn't advise you to go there.
-speaker1: why not, if i may ask?
-speaker2: the plague has spread in that direction,
-speaker1: really! well, sometimes life is a little hard.
-speaker2: may i suggest ... ... that you follow me through the forest tonight and stay at my home if you like. or go along the east coast. you'll probably be safer there.
-speaker1: i wish you good appetite.
-speaker2: i humbly thank you.
-speaker3: these are wild strawberries from the forest. i have never seen such large ones. they grow up there on the hillside. notice how they smell!
-speaker1: your suggestion is good, but i must think it over.
-speaker3: it might be wise to have company going through the forest. it's said to be full of trolls and ghosts and bandits. that's what i've heard.
-speaker3: do you want some strawberries?
-speaker1: this man saved my life. sit down, my friend, and let us be together.
-speaker3: oh, how nice this is.
-speaker2: for a short while.
-
-speaker1: nearly always. one day is like another. there is nothing strange about that. the summer, of course, is better than the winter, because in summer you don't have to be cold. but spring is best of all. 
-speaker2: i have written a poem about the spring. perhaps you'd like to hear it. i'll run and get my lyre. he sprints towards the wagon.
-
-speaker1: not now, jof. our guests may not be amused by your songs. 
-speaker2: you'll not get to hear it either. there are persons here who don't appreciate my art and i don't want to upset anyone. i'm a sensitive soul.
-speaker3: people are troubled by so much.
-speaker1: it's always better when one is two. have you no one of your own?
-speaker3: yes, i think i had someone.
-speaker1: and what is she doing now?
-speaker3: i don't know.
-speaker1: you look so solemn. was she your beloved?
-speaker3: we were newly married and we played together. we laughed a great deal. i wrote songs to her eyes, to her nose, to her beautiful little ears. we went hunting together and at night we danced. the house was full of life ...
-speaker1: do you want some more strawberries?
-speaker1: i don't understand what you mean.
-speaker3: everything i've said seems meaningless and unreal while i sit here with you and your husband. how unimportant it all becomes suddenly.
-speaker1: now you don't look so solemn.
-speaker3: i shall remember this moment. the silence, the twilight, the bowls of strawberries and milk, your faces in the evening light. mikael sleeping, jof with his lyre. i'll try to remember what we have talked about. i'll carry this memory between my hands as carefully as if it were a bowl filled to the brim with fresh milk.
-speaker3: and it will be an adequate sign -- it will be enough for me.
-speaker4: i have been waiting for you.
-speaker3: pardon me. i was detained for a few moments. because i revealed my tactics to you, i'm in retreat. it's your move.
-speaker4: why do you look so satisfied?
-speaker3: that's my secret.
-
-speaker1: of course. now i take your knight. 
-speaker2: you did the right thing.
-speaker1: have you tricked me?
-
-speaker1: of course. you fell right in the trap. check! 
-speaker2: what are you laughing at?
-speaker1: don't worry about my laughter; save your king instead.
-speaker2: you're rather arrogant.
-speaker1: our game amuses me.
-speaker2: it's your move. hurry up. i'm a little pressed for time.
-speaker1: i understand that you've a lot to do, but you can't get out of our game. it takes time.
-speaker2: are you going to the juggler and his wife through the forest? those whose names are jof and mia and who have a small son?
-speaker1: why do you ask?
-speaker2: oh, no reason at all.
-
-speaker1: in heaven, isn't this plog, the smith? 
-speaker2: good evening.
-speaker1: are you sitting here sniveling in loneliness?
-speaker2: yes, yes, look at the smith. he moans like a rabbit.
-speaker1: if i were in your boots, i'd be happy to get rid of a wife in such an easy way.
-speaker2: are you married?
-
-speaker1: i! a hundred times and more. i can't keep count of all my wives any longer. but it's often that way when you're a traveling man. 
-speaker2: i can assure you that one wife is worse than a hundred, or else i've had worse luck than any poor wretch in this miserable world, which isn't impossible.
-speaker1: yes, it's with women and without them. so, however you look at it, it's still best to kill them off while it's most amusing.
-
-speaker1: women's nagging, the shrieking of children and wet diapers, sharp nails and sharp words, blows and pokes, and the devil's aunt for a mother-in-law. and then, when one wants to sleep after a long day, there's a new song -- tears, whining and moans loud enough to wake the dead. 
-speaker2: why don't you kiss me good night?
-speaker1: why don't you sing a song for me?
-speaker2: why don't you love me the way you did when we first met?
-speaker1: why don't you look at my new slip?
-speaker2: you only turn your back and snore.
-speaker1: oh hell!
-
-speaker1: look how he howls again. 
-speaker2: maybe i love her.
-speaker1: so, maybe you love her! then, you poor
-speaker2: yes, but it hurts anyway.
-speaker1: of course. love is the blackest of all plagues, and if one could die of it, there would be some pleasure in love. but you almost always get over it.
-speaker2: no, no, not me.
-speaker1: yes, you too. there are only a couple of poor wretches who die of love once in a while. love is as contagious as a cold in the nose. it eats away at your strength, your independence, your morale, if you have any. if everything is imperfect in this imperfect world, love is most perfect in its perfect imperfection.
-speaker2: you're happy, you with your oily words, and, besides, you believe your own drivel.
-speaker1: believe! who said that i believed it? but i love to give good advice. if you ask me for advice you'll get two pieces for the price of one, because after all i really am an educated man.
-speaker2: listen, jâˆns. may i go with you through the forest? i'm so lonely and don't want to go home because everyone will laugh at me.
-speaker1: only if you don't whimper all the time, because in that case we'll all have to avoid you.
-
-speaker1: jâˆns! watch out. that one wants to fight all the time. he's not quite sane. 
-speaker2: yes, but now he's just sniveling.
-speaker3: i'm really sorry if i hurt you. but i have such a of a temper, you know. shake hands.
-speaker3: come in my arms, little brother.
-speaker1: thank you, thank you, perhaps later. but now we're really in a hurry.
-
-speaker1: now the moon has come out of the clouds. 
-speaker2: that's good. now we can see the road better.
-speaker3: i don't like the moon tonight.
-speaker4: the trees stand so still.
-
-speaker1: that's because there's no wind. 
-speaker2: i guess he means that they stand very still.
-speaker3: it's completely quiet.
-speaker1: if one could hear a fox at least.
-speaker3: or an owl.
-speaker1: or a human voice besides one's own.
-speaker4: they say it's dangerous to remain standing in moonlight.
-
-speaker1: where are you going? 
-speaker2: to the place of execution.
-speaker1: yes, now i can see. it's the girl who has done it with the black one. the witch?
-speaker3: i see that they have hurt your hands.
-speaker3: i have a potion that will stop your pain. she shakes her head again.
-
-speaker1: saints preserve us, be quiet! it's said that she brings the devil with her wherever she goes. 
-speaker2: you are eight brave men, then.
-speaker1: well, we've been paid. and this is a volunteer job.
-speaker3: what's your name?
-speaker4: my name is tyan, my lord.
-speaker3: how old are you?
-speaker4: fourteen, my lord.
-speaker3: and is it true that you have been in league with the devil?
-
-speaker1: they say that you have been in league with the devil. 
-speaker2: why do you ask?
-speaker1: not out of curiosity, but for very personal reasons. i too want to meet him.
-speaker2: why?
-speaker1: i want to ask him about he, if anyone, must know.
-speaker2: you can see him anytime.
-speaker1: how?
-speaker2: you must do as i tell you.
-speaker2: look into my eyes.
-speaker2: what do you see? do you see him?
-speaker1: i see fear in your eyes, an empty, numb fear. but nothing else.
-speaker2: no one, nothing, no one?
-speaker1: no.
-speaker2: can't you see him behind your back?
-speaker1: no, there is no one there.
-speaker2: but he is with me everywhere. i only have to stretch out my hand and i can feel his hand. he is with me now too. the fire won't hurt me. he will protect me from everything evil.
-speaker1: has he told you this?
-speaker2: i know it.
-speaker1: has he said it?
-speaker2: i know it, i know it. you must see him somewhere, you must. the priests had no difficulty seeing him, nor did the soldiers. they are so afraid of him that they don't even dare touch me.
-speaker1: why have you crushed her hands?
-speaker3: we didn't do it.
-speaker1: who did?
-speaker3: ask the monk.
-speaker1: what have you done with the child?
-speaker4: don't you ever stop asking questions?
-speaker1: no, i'll never stop.
-
-speaker1: for a moment i thought of killing the soldiers, but it would do no good. she's nearly dead already. 
-speaker2: i've told you to be careful. don't go too close to her.
-speaker3: take this and it will stop the pain.
-speaker1: what does she see? can you tell me?
-speaker3: she feels no more pain.
-speaker1: you don't answer my question. who watches over that child? is it the angels, or or the devil, or only the emptiness? emptiness, my lord!
-speaker3: this cannot be.
-speaker1: look at her eyes, my lord. her poor brain has just made a discovery. emptiness under the moon.
-speaker3: no.
-speaker1: we stand powerless, our arms hanging at our sides, because we see what she sees, and our terror and hers are the same. that poor little child. i can't stand it, i can't stand it ...
-
-speaker1: oh, now it came over me again! 
-speaker2: don't scream. what came over you?
-speaker1: my wife, it. she is so beautiful. she is so beautiful that she can't be described without the accompaniment of a lyre.
-speaker2: now it starts again.
-speaker1: her smile is like brandy. her eyes like blackberries ...
-speaker1: yes, of course, of course. her nose is like a little pink potato; her behind is like a juicy pear -- yes, the whole woman is like a strawberry patch. i can see her in front of me, with arms like wonderful cucumbers.
-speaker2: saints almighty, stop! you're a very bad poet, despite the fact that you're drunk. and your vegetable garden bores me.
-speaker1: look there.
-speaker2: do you see something?
-speaker1: there, over there!
-speaker2: i don't see anything.
-speaker1: hang on to something, my friends. the hour is near! who is that at the edge of the forest if not my own dearly beloved, with actor attached?
-speaker3: forgive me, dear little husband, i'll never do it again. i am so sorry and you can't imagine how terribly that man over there betrayed me.
-speaker1: i'll kill him anyway.
-speaker3: yes, do that, just kill him. he isn't even a human being.
-speaker2: hell, he's an actor.
-speaker3: he is only a false beard, false teeth, false smiles, rehearsed lines, and he's as empty as a jug. just kill him.
-speaker4: she's right. just kill me. if you thought that i was going to apologize for being what i am, you are mistaken.
-speaker3: look how sickening he is. how he makes a fool of himself, how he puts on an act. dear plog, kill him.
-speaker4: my friends, you have only to push, and my
-speaker3: do something then. kill him.
-speaker4: your life's thread now hangs by a very ragged shred. your day is short.
-speaker1: you'll have to irritate me a little more to get me as angry as before.
-speaker4: i forgive all of you. pray for me sometimes.
-speaker1: oh dear, dear, i didn't mean it that way! look, there's no life left in him. i was beginning to like him, and in my opinion lisa was much too spiteful. jof leans over his colleague.
-speaker5: he's dead, totally, enormously dead. in fact, i've never seen such a dead actor.
-speaker3: come on, let's go. this is nothing to mourn over. he has only himself to blame.
-speaker1: and i have to be married to her.
-speaker2: we must go on.
-speaker4: now that was a good scene. i'm really a good actor. after all, why shouldn't i be a little pleased with myself? but where shall i go? i'll wait until it becomes light and then i'll find the easiest way out of the forest. i'll climb up a tree for the time being so that no bears, wolves or ghosts can get at me.
-speaker4: workmen in the forest. oh, well! the terrible night doesn't frighten me ... hey, what the devil ... it's my tree they're cutting down.
-
-speaker1: hey, you! do you hear me, you tricky bastard? what are you doing with my tree? 
-speaker1: can't you at least answer me? politeness costs so little. who are you?
-speaker2: i'm sawing down your tree because your time is up.
-
-speaker1: it won't do. i haven't got time. 
-speaker2: so you haven't got time.
-speaker1: no, i have my performance.
-speaker2: then it's canceled because of death.
-speaker1: my contract.
-
-speaker1: your contract is terminated. 
-speaker2: my children, my family.
-speaker1: shame on you, skat!
-speaker2: yes, i'm ashamed.
-speaker2: isn't there any way to get off? aren't there any special rules for actors?
-speaker1: no, not in this case.
-speaker2: no loopholes, no exceptions?
-speaker2: perhaps you'll take a bribe.
-
-speaker1: help! 
-speaker1: help! help!
-speaker1: night and then dawn.
-speaker2: soon dawn will come, but the heat continues to hang over us like a smothering blanket.
-speaker3: i'm so frightened.
-speaker4: we feel that something is going to happen to us, but we don't know what.
-speaker2: maybe it's the day of judgment.
-speaker4: the day of judgment ...
-speaker5: do you have some water?
-speaker5: can't you give me a little water? i have the plague.
-speaker2: don't come here. if you do i'll slit your throat. keep to the other side of the tree.
-speaker6: i'm afraid of death.
-speaker6: i don't want to die! i don't want to!
-
-speaker1: can't you have pity on me? help me! at least talk to me. 
-speaker1: i am going to die. i. i. i! what will happen to me! can no one console me? haven't you any compassion? can't you see that i ...
-speaker2: it's no use. it's no use. i know that it's no use. it's meaningless. it's totally meaningless. i tell you that it's meaningless. can't you hear that i'm consoling you?
-speaker3: help me, help me!
-
-speaker1: shall we play our game to the end? 
-speaker2: your move!
-
-speaker1: now i take your queen. 
-speaker2: i didn't notice that.
-speaker3: mia!
-
-speaker1: i see something terrible. something i almost can't talk about. 
-speaker2: what do you see?
-speaker1: the knight is sitting over there playing chess.
-speaker2: yes, i can see that too and i don't think it's so terrible.
-speaker1: but do you see who he's playing with?
-speaker2: he is alone. you mustn't frighten me this way.
-
-speaker1: no, no, he isn't alone. 
-speaker2: who is it, then?
-
-speaker1: death. he is sitting there playing chess with death himself. 
-speaker2: you mustn't say that.
-speaker1: we must try to escape.
-speaker2: one can't do that.
-speaker1: we must try. they are so occupied with their game that if we move very quietly, they won't notice us.
-speaker1: i have harnessed the horse. the wagon is standing near the big tree. you go first and i'll follow you with the packs. see that mikael doesn't wake up.
-speaker3: it is your move, antonius block.
-speaker3: have you lost interest in our game?
-
-speaker1: lost interest? on the contrary. 
-speaker2: you seem anxious. are you hiding anything?
-speaker1: nothing escapes you -- or does it?
-speaker2: nothing escapes me. no one escapes from me.
-speaker1: it's true that i'm worried.
-speaker1: i've forgotten how the pieces stood.
-
-speaker1: now i see something interesting. 
-speaker2: what do you see?
-speaker1: you are mated on the next move, antonius block.
-speaker2: that's true.
-speaker1: did you enjoy your reprieve?
-speaker2: yes, i did.
-speaker1: i'm happy to hear that. now i'll be leaving you. when we meet again, you and your companions' time will be up.
-speaker2: and you will divulge your secrets.
-speaker1: i have no secrets.
-speaker2: so you know nothing.
-speaker1: i have nothing to tell.
-speaker3: what a strange light.
-speaker4: i guess it's the thunderstorm which comes with dawn.
-speaker3: no, it's something else. something terrible. do you hear the roar in the forest?
-speaker4: it's probably rain.
-speaker3: no, it isn't rain. he has seen us and he's following us. he has overtaken us; he's coming towards us.
-speaker4: not yet, mia. in any case, not yet.
-speaker3: i'm so afraid. i'm so afraid.
-speaker4: get into the wagon, mia. crawl in quickly. we'll lie down, mia, with mikael between us.
-speaker4: it is the angel of death that's passing over us, mia. it's the angel of death. the angel of death, and he's very big.
-speaker3: do you feel how cold it is? i'm freezing. i'm terribly cold.
-
-speaker1: i heard from people who came from the crusade that you were on your way home. i've been waiting for you here. all the others have fled from the plague. the knight is silent. he looks at her. 
-speaker1: don't you recognize me any more?
-speaker1: you also have changed.
-speaker1: now i can see that it's you. somewhere in your eyes, somewhere in your face, but hidden and frightened, is that boy who went away so many years ago.
-speaker2: it's over now and i'm a little tired.
-speaker1: i see that you're tired.
-speaker2: over there stand my friends.
-speaker1: ask them in. they will break the fast with us.
-speaker1: "and when the lamb broke the seventh seal, there was silence in heaven for about the space of half an hour. and i saw the seven angels which stood before god; and to them were given seven trumpets. and another ..."
-speaker1: "the first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth; and the third part of the trees was burnt up and all the green grass was burnt up."
-speaker1: "and the second angel sounded, and as it were a great mountain burning with fire was cast into the sea; and a third part of the sea became blood ..."
-speaker2: was someone there?
-speaker3: no, my lord. i saw no one.
-speaker1: "and the third angel sounded, and there fell a great star from heaven, burning as it were a torch, and it fell upon the third part of the rivers and upon the fountains of waters; and the name of the star is called wormwood ..."
-speaker2: good morning, noble lord.
-speaker1: i am karin, the knight's wife, and welcome you courteously to my house.
-speaker4: i am a smith by profession and rather good at my trade, if i say so myself. my wife lisa -- curtsy for the great lord, lisa. she's a little difficult to handle once in a while and we had a little spat, so to speak, but no worse than most people. the knight hides his face in his hands.
-speaker2: from our darkness, we call out to thee, lord. have mercy on us because we are small and frightened and ignorant.
-speaker2: you who are somewhere, who must be somewhere, have mercy upon us.
-speaker3: i could have given you an herb to purge you of your worries about eternity. now it seems to be too late. but in any case, feel the immense triumph of this last minute when you can still roll your eyes and move your toes.
-speaker1: quiet, quiet.
-speaker3: i shall be silent, but under protest.
-speaker5: it is the end.
-
-speaker1: i see them, mia! i see them! over there against the dark, stormy sky. they are all there. the smith and lisa and the knight and raval and jâˆns and skat. and death, the severe master, invites them to dance. he tells them to hold each other's hands and then they must tread the dance in a long row. and first goes the master with his scythe and hourglass, but skat dangles at the end with his lyre. they dance away from the dawn and it's a solemn dance towards the dark lands, while the rain washes their faces and cleans the salt of the tears from their cheeks. 
-speaker2: you with your visions and dreams.
-speaker2: screenplay by ingmar bergman
+KNIGHT: who are you? 
+DEATH: i am death.
+KNIGHT: have you come for me?
+DEATH: i have been walking by your side for a long time.
+KNIGHT: that i know.
+DEATH: are you prepared?
+KNIGHT: my body is frightened, but i am not.
+DEATH: well, there is no shame in that.
+KNIGHT: wait a moment.
+DEATH: that's what they all say. i grant no reprieves.
+KNIGHT: you play chess, don't you?
+DEATH: how did you know that?
+KNIGHT: i have seen it in paintings and heard it sung in ballads.
+DEATH: yes, in fact i'm quite a good chess player.
+KNIGHT: but you can't be better than i am.
+DEATH: why do you want to play chess with me?
+KNIGHT: i have my reasons.
+DEATH: that is your privilege.
+KNIGHT: the condition is that i may live as long as i hold out against you. if i win, you will release me. is it agreed?
+KNIGHT: you drew black!
+DEATH: very appropriate. don't you think so?
+
+JONS: up above is almighty so very far away, but your brother the devil you will meet on every level. 
+JONS: in fâ‰rjestad everyone was talking about evil omens and other horrible things. two horses had eaten each other in the night, and, in the churchyard, graves had been opened and the remains of corpses scattered all over the place. yesterday afternoon there were as many as four suns in the heavens.
+
+KNIGHT: well, did he show you the way? 
+JONS: not exactly.
+KNIGHT: what did he say?
+JONS: nothing.
+KNIGHT: was he a mute?
+JONS: no, sir, i wouldn't say that. as a matter of fact, he was quite eloquent.
+KNIGHT: oh?
+JONS: he was eloquent, all right. the trouble is that what he had to say was most depressing. one moment you're bright and lively, the next you're crawling with worms. fate is a terrible villain and you, my friend, its poor victim.
+KNIGHT: must you sing?
+JONS: no.
+
+JOF: good morning. have you had breakfast? i can't eat grass, worse luck. can't you teach me how? we're a little hard up. people aren't very interested in juggling in this part of the country. 
+JOF: mia, wake up. wake up! mia, i've just seen something. i've got to tell you about it!
+MIA: what is it? what's happened?
+JOF: listen, i've had a vision. no, it wasn't a vision. it was real, absolutely real.
+MIA: oh, so you've had a vision again!
+JOF: but i did see her!
+MIA: whom did you see?
+JOF: the virgin mary.
+MIA: did you really see her?
+JOF: she was so close to me that i could have
+MIA: what an imagination you have.
+JOF: you don't believe me! but it was real, i tell you, not the kind of reality you see every day, but a different kind.
+MIA: perhaps it was the kind of reality you told us about when you saw the devil painting our wagon wheels red, using his tail as a brush.
+JOF: why must you keep bringing that up?
+MIA: and then you discovered that you had red paint under your nails.
+JOF: well, perhaps that time i made it up.
+MIA: if we would only get some rain. everything is burned to cinders. we won't have anything to eat this winter.
+JOF: we'll get by.
+MIA: i want mikael to have a better life than ours.
+JOF: mikael will grow up to be a great acrobat -- or a juggler who can do the one impossible trick.
+MIA: what's that?
+JOF: to make one of the stand absolutely still in the air.
+MIA: but that's impossible.
+JOF: impossible for us -- but not for him.
+MIA: you're dreaming again.
+JOF: i've composed a song. i made it up during the night when i couldn't sleep. do you want to hear it?
+MIA: sing it. i'm very curious.
+
+JOF: i have to sit up first. 
+JOF: on a lily branch a dove is perched against the summer sky, she sings a wondrous song of christ and there's great joy on high.
+JOF: mia! are you asleep?
+MIA: it's a lovely song.
+JOF: i haven't finished yet.
+
+MIA: i heard it, but i think i'll sleep a little longer. you can sing the rest to me afterwards. 
+JOF: all you do is sleep.
+SKAT: is this supposed to be a mask for an actor? if the priests didn't pay us so well, i'd say no thank you.
+JOF: are you going to play death?
+
+SKAT: just think, scaring decent folk out of their wits with this kind of nonsense. 
+JOF: when are we supposed to do this play?
+SKAT: at the saints' feast in elsinore. we're going to perform right on the church steps, believe it or not.
+
+JOF: wouldn't it be better to play something bawdy? people like it better, and, besides, it's more fun. 
+SKAT: there's a rumor going around that there's a terrible pestilence in the land, and now the priests are prophesying sudden death and all sorts of spiritual agonies.
+
+JOF: and what part am i to play? 
+SKAT: you're such a fool, so you're going to be the soul of man.
+JOF: that's a bad part, of course.
+SKAT: who makes the decisions around here? who is the director of this company anyhow?
+SKAT: bear this in mind, you fool. your life hangs by a thread. your time is short. are the women going to like me in this getup? will i make a hit? no! i feel as if i were dead already.
+MIA: jof!
+
+MIA: sit still. don't move. 
+JOF: what do you mean?
+MIA: don't say anything.
+JOF: i'm as silent as a grave.
+MIA: shh! i love you.
+
+JONS: what is this supposed to represent? 
+PAINTER: the dance of death.
+JONS: and that one is death?
+
+JONS: why do you paint such nonsense? 
+PAINTER: i thought it would serve to remind people that they must die.
+
+JONS: well, it's not going to make them feel any happier. 
+PAINTER: why should one always make people happy? it might not be a bad idea to scare them a little once in a while.
+JONS: then they'll close their eyes and refuse to look at your painting.
+
+JONS: if you do scare them ... 
+PAINTER: they'll think.
+JONS: and if they think ...
+
+JONS: and then they'll run right into the arms of the priests. 
+PAINTER: that's not my business.
+
+JONS: you're only painting your dance of death. 
+PAINTER: i'm only painting things as they are. everyone else can do as he likes.
+JONS: just think how some people will curse you.
+PAINTER: maybe. but then i'll paint something amusing for them to look at. i have to make a living -- at least until the plague takes me.
+
+JONS: the plague. that sounds horrible. 
+PAINTER: you should see the boils on a diseased man's throat. you should see how his body shrivels up so that his legs look like knotted strings -- like the man i've painted over there.
+JONS: that looks terrible.
+PAINTER: it certainly does. he tries to rip out the boil, he bites his hands, tears his veins open with his fingernails and his screams can be heard everywhere. does that scare you?
+
+JONS: scare? me? you don't know me. what are the horrors you've painted over there? 
+PAINTER: the remarkable thing is that the poor creatures think the pestilence is the lord's punishment. mobs of people who call themselves slaves of sin are swarming over the country, flagellating themselves and others, all for the glory of
+JONS: do they really whip themselves?
+PAINTER: yes, it's a terrible sight. i crawl into a ditch and hide when they pass by.
+JONS: do you have any brandy? i've been drinking water all day and it's made me as thirsty as a camel in the desert.
+PAINTER: i think i frightened you after all.
+KNIGHT: i want to talk to you as openly as i can, but my heart is empty. death doesn't answer.
+
+KNIGHT: through my indifference to my fellow men, i have isolated myself from their company. now i live in a world of phantoms. i am imprisoned in my dreams and fantasies. 
+DEATH: and yet you don't want to die.
+KNIGHT: yes, i do.
+
+DEATH: what are you waiting for? 
+KNIGHT: i want knowledge.
+DEATH: you want guarantees?
+KNIGHT: call it whatever you like. is it so cruelly inconceivable to grasp with the senses? why should he hide himself in a mist of half-spoken promises and unseen miracles? death doesn't answer.
+
+KNIGHT: how can we have faith in those who believe when we can't have faith in ourselves? what is going to happen to those of us who want to believe but aren't able to? and what is to become of those who neither want to nor are capable of believing? 
+KNIGHT: why can't i kill within me? why does he live on in this painful and humiliating way even though i curse him and want to tear him out of my heart? why, in spite of everything, is he a baffling reality that i can't shake off? do you hear me?
+DEATH: yes, i hear you.
+KNIGHT: i want knowledge, not faith, not suppositions, but knowledge. i want to stretch out his hand towards me, reveal himself and speak to me.
+DEATH: but he remains silent.
+
+KNIGHT: then life is an outrageous horror. no one can live in the face of death, knowing that all is nothingness. 
+DEATH: most people never reflect about either death or the futility of life.
+KNIGHT: but one day they will have to stand at that last moment of life and look towards the darkness.
+DEATH: when that day comes ...
+
+DEATH: you are worrying ... 
+KNIGHT: death visited me this morning. we are playing chess together. this reprieve gives me the chance to arrange an urgent matter.
+DEATH: what matter is that?
+
+KNIGHT: my life has been a futile pursuit, a wandering, a great deal of talk without meaning. i feel no bitterness or self-reproach because the lives of most people are very much like this. but i will use my reprieve for one meaningful deed. 
+DEATH: is that why you are playing chess with death?
+KNIGHT: he is a clever opponent, but up to now i haven't lost a single man.
+DEATH: how will you outwit death in your game?
+KNIGHT: i use a combination of the bishop and the knight which he hasn't yet discovered. in the next move i'll shatter one of his flanks.
+DEATH: i'll remember that.
+KNIGHT: you've tricked and cheated me! but we'll meet again, and i'll find a way.
+KNIGHT: this is my hand. i can move it, feel the blood pulsing through it. the sun is still high in the sky and i, antonius block, am playing chess with death. he makes a fist of his hand and lifts it to his temple.
+JONS: me and my master have been abroad and have just come home. do you understand, you little pictor?
+PAINTER: the crusade.
+PAINTER: it's worse than that.
+JONS: ah, me. no matter which way you turn, you have your rump behind you. that's the truth.
+PAINTER: the rump behind you, the rump behind you there's a profound truth.
+JONS: this is squire jâˆns. he grins at death, mocks the lord, laughs at himself and leers at the girls. his world is a jâˆnsworld, believable only to himself, ridiculous to all including himself, meaningless to heaven and of no interest to hell.
+JONS: that soup of yours has a of a stink. what is it good for?
+SOLDIER: she has had carnal with the evil one.
+JONS: and now she's in the stocks.
+SOLDIER: she will be burned tomorrow morning at the parish boundary. but we have to keep the devil away from the rest of us.
+JONS: and you do that with this stinking mess?
+SOLDIER: it's the best remedy: blood mixed with the bile of a big black dog. the devil can't stand the smell.
+JONS: neither can i.
+
+KNIGHT: have you seen the devil? 
+MONK: you must not talk to her.
+KNIGHT: can that be so dangerous?
+MONK: i don't know, but she is believed to have caused the pestilence with which we are affected.
+KNIGHT: i understand.
+
+RAVEL: why do you look so surprised? i steal from the dead. these days it's quite a lucrative enterprise. the girl makes a movement as if to run away. 
+RAVEL: you're thinking of running to the village and telling. that wouldn't serve any purpose. each of us has to save his own skin. it's as simple as that.
+GIRL: don't touch me.
+RAVAL: don't try to scream. there's no one around to hear you, neither nor man.
+JONS: i recognize you, although it's a long time since we met. your name is raval, from the theological college at roskilde. you are dr. mirabilis, coelestis et diabilis. raval smiles uneasily and looks around.
+JONS: am i not right?
+JONS: you were the one who, ten years ago, convinced my master of the necessity to join a better- class crusade to the holy land. raval looks around.
+
+JONS: you look uncomfortable. do you have a stomach- ache? raval smiles anxiously. 
+JONS: when i see you, i suddenly understand the
+RAVEL: i acted in good faith.
+JONS: but now you know better, don't you? because now you have turned into a thief. a more fitting and rewarding occupation for scoundrels. isn't that so?
+
+JONS: by all means. i'm not bloodthirsty. 
+RAVEL: don't beat me.
+JONS: i don't have the heart to touch you, doctor. but remember this: the next time we meet, i'll brand your face the way one does with thieves. what i really came for is to get my waterskin filled.
+GIRL: we have a deep well with cool, fresh water. come, i'll show you.
+JONS: jâˆns is my name. i am a pleasant and talkative young man who has never had anything but kind thoughts and has only done beautiful and noble deeds. i'm kindest of all to young women. with them, there is no limit to my kindness.
+JONS: goodbye, my girl. i could very well have raped you, but between you and me, i'm tired of that kind of love. it runs a little dry in the end.
+JONS: now that i think of it, i will need a housekeeper. can you prepare good food? as far as i know, i'm still a married man, but i have high hopes that my wife is dead by now. that's why i need a housekeeper. the devil with it! come along and don't stand there staring. i've saved your life, so you owe me a great deal.
+
+SKAT: noble ladies and gentlemen, i thank you for your interest. please remain standing for a little longer, or sit on the ground, because we are now going to perform a tragedia about an unfaithful wife, her jealous husband, and the handsome lover -- that's me. 
+SKAT: here is the husband. here is the wife. if you'll shut up over there, you'll see something splendid. as i said, i play the lover and i haven't entered yet. that's why i'm going to hide behind the curtain for the time being. it's hot. i think we'll have a thunderstorm.
+
+JOF: night and moonlight now prevail here sleeps my wife so frail ... 
+VOICE FROM THE PUBLIC: does she snore?
+JOF: may i point out that this is a tragedy, and in tragedies one doesn't snore.
+VOICE FROM THE PUBLIC: i think she should snore anyhow.
+
+MONK: has sentenced us to punishment. we shall all perish in the black death. you, standing there like gaping cattle, you who sit there in your glutted complacency, do you know that this may be your last hour? death stands right behind you. i can see how his crown gleams in the sun. his scythe flashes as he raises it above your heads. which one of you shall he strike first? you there, who stand staring like a goat, will your mouth be twisted into the last unfinished gasp before nightfall? and you, woman, who bloom with life and self- satisfaction, will you pale and become extinguished before the morning dawns? you back there, with your swollen nose and stupid grin, do you have another year left to dirty the earth with your refuse? do you know, you insensible fools, that you shall die today or tomorrow, or the next day, because all of you have been sentenced? do you hear what i say? do you hear the word? you have been sentenced, sentenced! 
+MONK: lord have mercy on us in our humiliation! don't turn your face from us in loathing and contempt, but be merciful to us for the sake of your son, christ.
+JONS: this ranting about doom. is that food for the minds of modern people? do they really expect us to take them seriously? the knight grins tiredly.
+JONS: yes, now you grin at me, my lord. but allow me to point out that i've either read, heard or experienced most of the tales which we people tell each other.
+KNIGHT: yes, yes.
+
+JONS: even the ghost stories about the father, the angels, christ and the holy ghost -- all these i've accepted without too much emotion. 
+JONS: what are you screaming about?
+PLOG: i am plog, the smith, and you are the squire jâˆns.
+JONS: that's possible.
+PLOG: have you seen my wife?
+
+JONS: no, i haven't. but if i had seen her and she looked like you, i'd quickly forget that i'd seen her. 
+PLOG: well, in that case you haven't seen her.
+JONS: maybe she's run off.
+PLOG: do you know anything?
+
+MERCHANT: yes, it's true! the plague is spreading along the west coast. people are dying like flies. usually business would be good at this time of year, but, it, i've still got my whole stock unsold. 
+WOMAN: they speak of the judgment day. and all these omens are terrible. worms, chopped-off hands and other monstrosities began pouring out of an old woman, and down in the village another woman gave birth to a calf's head.
+OLD MAN: the day of judgment. imagine.
+FARMER: it hasn't rained here for a month. we'll surely lose our crops.
+MERCHANT: and people are acting crazy, i'd say. they flee the country and carry the plague with them wherever they go.
+OLD MAN: the day of judgment. just think, just think!
+FARMER: if it's as they say, i suppose a person should look after his house and try to enjoy life as long as he can.
+WOMAN: but there have been other things too, such things that can't even be spoken of.
+OLD MAN: judgment day. and the riders of the apocalypse stand at the bend in the village road. i imagine they'll come on judgment night, at sundown.
+WOMAN: there are many who have purged themselves with fire and died from it, but the priests say that it's better to die pure than to live for hell.
+
+MERCHANT: this is the end, yes, it is. no one says it out loud, but all of us know that it's the end. and people are going mad from fear. 
+FARMER: so you're afraid too.
+MERCHANT: of course i'm afraid.
+OLD MAN: the judgment day becomes night, and the angels descend and the graves open. it will be terrible to see. they whisper in low tones and sit close to each other.
+RAVAL: do you want this armlet? you can have it cheap.
+JOF: i can't afford it.
+RAVAL: it's real silver.
+JOF: it's nice. but it's surely too expensive for me.
+PLOG: excuse me, but has anyone here seen my wife?
+JOF: has she disappeared?
+PLOG: they say she's run away.
+JOF: has she deserted you?
+PLOG: with an actor.
+JOF: an actor! if she's got such bad taste, then i think you should let her go.
+PLOG: you're right. my first thought, of course, was to kill her.
+JOF: oh. but to murder her, that's a terrible thing to do.
+PLOG: i'm also going to kill the actor.
+JOF: the actor?
+PLOG: of course, the one she eloped with.
+JOF: what has he done to deserve that?
+PLOG: are you stupid?
+
+JOF: the actor! now i understand. there are too many of them, so even if he hasn't done anything in particular you ought to kill him merely because he's an actor. 
+PLOG: you see, my wife has always been interested in the tricks of the theatre.
+JOF: and that turned out to be her misfortune.
+PLOG: her misfortune, but not mine, because a person who's born unfortunate can hardly suffer from any further misfortune. isn't that true?
+
+RAVAL: listen, you! you sit there and lie to the smith. 
+JOF: i! a liar!
+
+RAVAL: you're an actor too and it's probably your partner who's run off with plog's old lady. 
+PLOG: are you an actor too?
+JOF: an actor! me! i wouldn't quite call myself that!
+RAVAL: we ought to kill you; it's only logical.
+JOF: you're really funny.
+RAVAL: how strange -- you've turned pale. have you anything on your conscience?
+JOF: you're funny. don't you think he's funny? oh, you don't.
+RAVAL: maybe we should mark you up a little with a knife, like they do petty scoundrels of your kind.
+
+RAVAL: stand on your head so that we can see how good an actor you are. 
+PLOG: what have you done with my wife?
+
+RAVAL: don't lie there moaning. get up and dance. 
+JOF: i don't want to. i can't.
+RAVEL: show us how you imitate a bear.
+JOF: i can't play a bear.
+RAVAL: let's see if you can't after all.
+RAVEL: up again! be a good bear.
+JOF: i haven't done any harm. i haven't got the strength to play a bear any more.
+JONS: do you remember what i was going to do to you if we met again? raval steps back without speaking.
+JONS: i'm a man who keeps his word.
+
+KNIGHT: what's his name? 
+MIA: mikael.
+KNIGHT: how old is he?
+MIA: oh, he'll soon be two.
+KNIGHT: he's big for his age.
+MIA: do you think so? yes, i guess he's rather big.
+KNIGHT: you played some kind of show this afternoon.
+MIA: did you think it was bad?
+KNIGHT: you are more beautiful now without your face painted, and this gown is more becoming.
+MIA: you see, jonas skat has run off and left us, so we're in real trouble now.
+KNIGHT: is that your husband?
+
+KNIGHT: oh, that one. 
+MIA: and now there's only him and me. we'll have to start doing tricks again and that's more trouble than it's worth.
+KNIGHT: do you do tricks also?
+MIA: we certainly do. and jof is a very skillful juggler.
+KNIGHT: is mikael going to be an acrobat?
+MIA: jof wants him to be.
+KNIGHT: but you don't.
+MIA: i don't know. perhaps he'll become a knight.
+KNIGHT: let me assure you, that's no pleasure either.
+MIA: no, you don't look so happy.
+KNIGHT: no.
+MIA: are you tired?
+KNIGHT: yes.
+MIA: why?
+
+KNIGHT: i have dull company. 
+MIA: do you mean your squire?
+KNIGHT: no, not him.
+MIA: who do you mean, then?
+KNIGHT: myself.
+MIA: i understand.
+KNIGHT: do you, really?
+
+JOF: ouch, it hurts. 
+MIA: why did you have to go there? and of course you drank.
+JOF: ouch! i didn't drink anything.
+MIA: then i suppose you were boasting about the angels and devils you consort with. people don't like someone who has too many ideas and fantasies.
+JOF: i swear to you that i didn't say a word about angels.
+MIA: you were, of course, busy singing and dancing. you can never stop being an actor. people also become angry at that, and you know it.
+JOF: look what i bought for you.
+MIA: you couldn't afford it.
+JOF: but i got it anyhow.
+JOF: oh, how they beat me.
+MIA: why didn't you beat them back?
+JOF: i only become frightened and angry. i never get a chance to hit back. i can get angry, you know that. i roared like a lion.
+MIA: were they frightened?
+JOF: no, they just laughed.
+MIA: do you notice how good he smells?
+JOF: and he is so compact to hold. you're a sturdy one. a real acrobat's body.
+MIA: yes, this is my husband, jof.
+JOF: good evening.
+KNIGHT: good evening.
+
+KNIGHT: i have just told your wife that you have a splendid son. he'll bring great joy to you. 
+JOF: yes, he's fine.
+JOF: they become silent again.
+
+JOF: have we nothing to offer the knight, mia? 
+KNIGHT: thank you, i don't want anything.
+MIA: i picked a basket of wild strawberries this afternoon. and we have a drop of milk fresh from a cow ...
+JOF: ... that we were allowed to milk. so, if you would like to partake of this humble fare, it would be a great honor.
+MIA: please be seated and i'll bring the food. they sit down. mia disappears with mikael.
+KNIGHT: where are you going next?
+JOF: up to the saints' feast at elsinore.
+KNIGHT: i wouldn't advise you to go there.
+JOF: why not, if i may ask?
+KNIGHT: the plague has spread in that direction,
+JOF: really! well, sometimes life is a little hard.
+KNIGHT: may i suggest ... ... that you follow me through the forest tonight and stay at my home if you like. or go along the east coast. you'll probably be safer there.
+JOF: i wish you good appetite.
+KNIGHT: i humbly thank you.
+MIA: these are wild strawberries from the forest. i have never seen such large ones. they grow up there on the hillside. notice how they smell!
+JOF: your suggestion is good, but i must think it over.
+MIA: it might be wise to have company going through the forest. it's said to be full of trolls and ghosts and bandits. that's what i've heard.
+MIA: do you want some strawberries?
+JOF: this man saved my life. sit down, my friend, and let us be together.
+MIA: oh, how nice this is.
+KNIGHT: for a short while.
+
+MIA: nearly always. one day is like another. there is nothing strange about that. the summer, of course, is better than the winter, because in summer you don't have to be cold. but spring is best of all. 
+JOF: i have written a poem about the spring. perhaps you'd like to hear it. i'll run and get my lyre. he sprints towards the wagon.
+
+MIA: not now, jof. our guests may not be amused by your songs. 
+JONS: you'll not get to hear it either. there are persons here who don't appreciate my art and i don't want to upset anyone. i'm a sensitive soul.
+KNIGHT: people are troubled by so much.
+MIA: it's always better when one is two. have you no one of your own?
+KNIGHT: yes, i think i had someone.
+MIA: and what is she doing now?
+KNIGHT: i don't know.
+MIA: you look so solemn. was she your beloved?
+KNIGHT: we were newly married and we played together. we laughed a great deal. i wrote songs to her eyes, to her nose, to her beautiful little ears. we went hunting together and at night we danced. the house was full of life ...
+MIA: do you want some more strawberries?
+MIA: i don't understand what you mean.
+KNIGHT: everything i've said seems meaningless and unreal while i sit here with you and your husband. how unimportant it all becomes suddenly.
+MIA: now you don't look so solemn.
+KNIGHT: i shall remember this moment. the silence, the twilight, the bowls of strawberries and milk, your faces in the evening light. mikael sleeping, jof with his lyre. i'll try to remember what we have talked about. i'll carry this memory between my hands as carefully as if it were a bowl filled to the brim with fresh milk.
+KNIGHT: and it will be an adequate sign -- it will be enough for me.
+DEATH: i have been waiting for you.
+KNIGHT: pardon me. i was detained for a few moments. because i revealed my tactics to you, i'm in retreat. it's your move.
+DEATH: why do you look so satisfied?
+KNIGHT: that's my secret.
+
+DEATH: of course. now i take your knight. 
+KNIGHT: you did the right thing.
+DEATH: have you tricked me?
+
+KNIGHT: of course. you fell right in the trap. check! 
+DEATH: what are you laughing at?
+KNIGHT: don't worry about my laughter; save your king instead.
+DEATH: you're rather arrogant.
+KNIGHT: our game amuses me.
+DEATH: it's your move. hurry up. i'm a little pressed for time.
+KNIGHT: i understand that you've a lot to do, but you can't get out of our game. it takes time.
+DEATH: are you going to the juggler and his wife through the forest? those whose names are jof and mia and who have a small son?
+KNIGHT: why do you ask?
+DEATH: oh, no reason at all.
+
+JONS: in heaven, isn't this plog, the smith? 
+PLOG: good evening.
+JONS: are you sitting here sniveling in loneliness?
+PLOG: yes, yes, look at the smith. he moans like a rabbit.
+JONS: if i were in your boots, i'd be happy to get rid of a wife in such an easy way.
+PLOG: are you married?
+
+JONS: i! a hundred times and more. i can't keep count of all my wives any longer. but it's often that way when you're a traveling man. 
+PLOG: i can assure you that one wife is worse than a hundred, or else i've had worse luck than any poor wretch in this miserable world, which isn't impossible.
+JONS: yes, it's with women and without them. so, however you look at it, it's still best to kill them off while it's most amusing.
+
+PLOG: women's nagging, the shrieking of children and wet diapers, sharp nails and sharp words, blows and pokes, and the devil's aunt for a mother-in-law. and then, when one wants to sleep after a long day, there's a new song -- tears, whining and moans loud enough to wake the dead. 
+JONS: why don't you kiss me good night?
+PLOG: why don't you sing a song for me?
+JONS: why don't you love me the way you did when we first met?
+PLOG: why don't you look at my new slip?
+JONS: you only turn your back and snore.
+PLOG: oh hell!
+
+JONS: look how he howls again. 
+PLOG: maybe i love her.
+JONS: so, maybe you love her! then, you poor
+PLOG: yes, but it hurts anyway.
+JONS: of course. love is the blackest of all plagues, and if one could die of it, there would be some pleasure in love. but you almost always get over it.
+PLOG: no, no, not me.
+JONS: yes, you too. there are only a couple of poor wretches who die of love once in a while. love is as contagious as a cold in the nose. it eats away at your strength, your independence, your morale, if you have any. if everything is imperfect in this imperfect world, love is most perfect in its perfect imperfection.
+PLOG: you're happy, you with your oily words, and, besides, you believe your own drivel.
+JONS: believe! who said that i believed it? but i love to give good advice. if you ask me for advice you'll get two pieces for the price of one, because after all i really am an educated man.
+PLOG: listen, jâˆns. may i go with you through the forest? i'm so lonely and don't want to go home because everyone will laugh at me.
+JONS: only if you don't whimper all the time, because in that case we'll all have to avoid you.
+
+JOF: jâˆns! watch out. that one wants to fight all the time. he's not quite sane. 
+JONS: yes, but now he's just sniveling.
+PLOG: i'm really sorry if i hurt you. but i have such a of a temper, you know. shake hands.
+PLOG: come in my arms, little brother.
+JOF: thank you, thank you, perhaps later. but now we're really in a hurry.
+
+PLOG: now the moon has come out of the clouds. 
+JONS: that's good. now we can see the road better.
+MIA: i don't like the moon tonight.
+JOF: the trees stand so still.
+
+JONS: that's because there's no wind. 
+PLOG: i guess he means that they stand very still.
+JOF: it's completely quiet.
+JONS: if one could hear a fox at least.
+JOF: or an owl.
+JONS: or a human voice besides one's own.
+GIRL: they say it's dangerous to remain standing in moonlight.
+
+JONS: where are you going? 
+SOLDIER: to the place of execution.
+JONS: yes, now i can see. it's the girl who has done it with the black one. the witch?
+KNIGHT: i see that they have hurt your hands.
+KNIGHT: i have a potion that will stop your pain. she shakes her head again.
+
+SOLDIER: saints preserve us, be quiet! it's said that she brings the devil with her wherever she goes. 
+JONS: you are eight brave men, then.
+SOLDIER: well, we've been paid. and this is a volunteer job.
+KNIGHT: what's your name?
+TYAN: my name is tyan, my lord.
+KNIGHT: how old are you?
+TYAN: fourteen, my lord.
+KNIGHT: and is it true that you have been in league with the devil?
+
+KNIGHT: they say that you have been in league with the devil. 
+TYAN: why do you ask?
+KNIGHT: not out of curiosity, but for very personal reasons. i too want to meet him.
+TYAN: why?
+KNIGHT: i want to ask him about he, if anyone, must know.
+TYAN: you can see him anytime.
+KNIGHT: how?
+TYAN: you must do as i tell you.
+TYAN: look into my eyes.
+TYAN: what do you see? do you see him?
+KNIGHT: i see fear in your eyes, an empty, numb fear. but nothing else.
+TYAN: no one, nothing, no one?
+KNIGHT: no.
+TYAN: can't you see him behind your back?
+KNIGHT: no, there is no one there.
+TYAN: but he is with me everywhere. i only have to stretch out my hand and i can feel his hand. he is with me now too. the fire won't hurt me. he will protect me from everything evil.
+KNIGHT: has he told you this?
+TYAN: i know it.
+KNIGHT: has he said it?
+TYAN: i know it, i know it. you must see him somewhere, you must. the priests had no difficulty seeing him, nor did the soldiers. they are so afraid of him that they don't even dare touch me.
+KNIGHT: why have you crushed her hands?
+SOLDIER: we didn't do it.
+KNIGHT: who did?
+SOLDIER: ask the monk.
+KNIGHT: what have you done with the child?
+DEATH: don't you ever stop asking questions?
+KNIGHT: no, i'll never stop.
+
+JONS: for a moment i thought of killing the soldiers, but it would do no good. she's nearly dead already. 
+SOLDIER: i've told you to be careful. don't go too close to her.
+KNIGHT: take this and it will stop the pain.
+JONS: what does she see? can you tell me?
+KNIGHT: she feels no more pain.
+JONS: you don't answer my question. who watches over that child? is it the angels, or or the devil, or only the emptiness? emptiness, my lord!
+KNIGHT: this cannot be.
+JONS: look at her eyes, my lord. her poor brain has just made a discovery. emptiness under the moon.
+KNIGHT: no.
+JONS: we stand powerless, our arms hanging at our sides, because we see what she sees, and our terror and hers are the same. that poor little child. i can't stand it, i can't stand it ...
+
+PLOG: oh, now it came over me again! 
+JONS: don't scream. what came over you?
+PLOG: my wife, it. she is so beautiful. she is so beautiful that she can't be described without the accompaniment of a lyre.
+JONS: now it starts again.
+PLOG: her smile is like brandy. her eyes like blackberries ...
+PLOG: yes, of course, of course. her nose is like a little pink potato; her behind is like a juicy pear -- yes, the whole woman is like a strawberry patch. i can see her in front of me, with arms like wonderful cucumbers.
+JONS: saints almighty, stop! you're a very bad poet, despite the fact that you're drunk. and your vegetable garden bores me.
+PLOG: look there.
+JONS: do you see something?
+PLOG: there, over there!
+JONS: i don't see anything.
+PLOG: hang on to something, my friends. the hour is near! who is that at the edge of the forest if not my own dearly beloved, with actor attached?
+LISA: forgive me, dear little husband, i'll never do it again. i am so sorry and you can't imagine how terribly that man over there betrayed me.
+PLOG: i'll kill him anyway.
+LISA: yes, do that, just kill him. he isn't even a human being.
+JONS: hell, he's an actor.
+LISA: he is only a false beard, false teeth, false smiles, rehearsed lines, and he's as empty as a jug. just kill him.
+SKAT: she's right. just kill me. if you thought that i was going to apologize for being what i am, you are mistaken.
+LISA: look how sickening he is. how he makes a fool of himself, how he puts on an act. dear plog, kill him.
+SKAT: my friends, you have only to push, and my
+LISA: do something then. kill him.
+SKAT: your life's thread now hangs by a very ragged shred. your day is short.
+PLOG: you'll have to irritate me a little more to get me as angry as before.
+SKAT: i forgive all of you. pray for me sometimes.
+PLOG: oh dear, dear, i didn't mean it that way! look, there's no life left in him. i was beginning to like him, and in my opinion lisa was much too spiteful. jof leans over his colleague.
+JOF: he's dead, totally, enormously dead. in fact, i've never seen such a dead actor.
+LISA: come on, let's go. this is nothing to mourn over. he has only himself to blame.
+PLOG: and i have to be married to her.
+JONS: we must go on.
+SKAT: now that was a good scene. i'm really a good actor. after all, why shouldn't i be a little pleased with myself? but where shall i go? i'll wait until it becomes light and then i'll find the easiest way out of the forest. i'll climb up a tree for the time being so that no bears, wolves or ghosts can get at me.
+SKAT: workmen in the forest. oh, well! the terrible night doesn't frighten me ... hey, what the devil ... it's my tree they're cutting down.
+
+SKAT: hey, you! do you hear me, you tricky bastard? what are you doing with my tree? 
+SKAT: can't you at least answer me? politeness costs so little. who are you?
+DEATH: i'm sawing down your tree because your time is up.
+
+SKAT: it won't do. i haven't got time. 
+DEATH: so you haven't got time.
+SKAT: no, i have my performance.
+DEATH: then it's canceled because of death.
+SKAT: my contract.
+
+DEATH: your contract is terminated. 
+SKAT: my children, my family.
+DEATH: shame on you, skat!
+SKAT: yes, i'm ashamed.
+SKAT: isn't there any way to get off? aren't there any special rules for actors?
+DEATH: no, not in this case.
+SKAT: no loopholes, no exceptions?
+SKAT: perhaps you'll take a bribe.
+
+SKAT: help! 
+SKAT: help! help!
+SKAT: night and then dawn.
+JONS: soon dawn will come, but the heat continues to hang over us like a smothering blanket.
+LISA: i'm so frightened.
+PLOG: we feel that something is going to happen to us, but we don't know what.
+JONS: maybe it's the day of judgment.
+PLOG: the day of judgment ...
+RAVAL: do you have some water?
+RAVAL: can't you give me a little water? i have the plague.
+JONS: don't come here. if you do i'll slit your throat. keep to the other side of the tree.
+RAVEL: i'm afraid of death.
+RAVEL: i don't want to die! i don't want to!
+
+RAVAL: can't you have pity on me? help me! at least talk to me. 
+RAVAL: i am going to die. i. i. i! what will happen to me! can no one console me? haven't you any compassion? can't you see that i ...
+JONS: it's no use. it's no use. i know that it's no use. it's meaningless. it's totally meaningless. i tell you that it's meaningless. can't you hear that i'm consoling you?
+RAVEL: help me, help me!
+
+DEATH: shall we play our game to the end? 
+KNIGHT: your move!
+
+DEATH: now i take your queen. 
+KNIGHT: i didn't notice that.
+JOF: mia!
+
+JOF: i see something terrible. something i almost can't talk about. 
+MIA: what do you see?
+JOF: the knight is sitting over there playing chess.
+MIA: yes, i can see that too and i don't think it's so terrible.
+JOF: but do you see who he's playing with?
+MIA: he is alone. you mustn't frighten me this way.
+
+JOF: no, no, he isn't alone. 
+MIA: who is it, then?
+
+JOF: death. he is sitting there playing chess with death himself. 
+MIA: you mustn't say that.
+JOF: we must try to escape.
+MIA: one can't do that.
+JOF: we must try. they are so occupied with their game that if we move very quietly, they won't notice us.
+JOF: i have harnessed the horse. the wagon is standing near the big tree. you go first and i'll follow you with the packs. see that mikael doesn't wake up.
+DEATH: it is your move, antonius block.
+DEATH: have you lost interest in our game?
+
+KNIGHT: lost interest? on the contrary. 
+DEATH: you seem anxious. are you hiding anything?
+KNIGHT: nothing escapes you -- or does it?
+DEATH: nothing escapes me. no one escapes from me.
+KNIGHT: it's true that i'm worried.
+KNIGHT: i've forgotten how the pieces stood.
+
+DEATH: now i see something interesting. 
+KNIGHT: what do you see?
+DEATH: you are mated on the next move, antonius block.
+KNIGHT: that's true.
+DEATH: did you enjoy your reprieve?
+KNIGHT: yes, i did.
+DEATH: i'm happy to hear that. now i'll be leaving you. when we meet again, you and your companions' time will be up.
+KNIGHT: and you will divulge your secrets.
+DEATH: i have no secrets.
+KNIGHT: so you know nothing.
+DEATH: i have nothing to tell.
+MIA: what a strange light.
+JOF: i guess it's the thunderstorm which comes with dawn.
+MIA: no, it's something else. something terrible. do you hear the roar in the forest?
+JOF: it's probably rain.
+MIA: no, it isn't rain. he has seen us and he's following us. he has overtaken us; he's coming towards us.
+JOF: not yet, mia. in any case, not yet.
+MIA: i'm so afraid. i'm so afraid.
+JOF: get into the wagon, mia. crawl in quickly. we'll lie down, mia, with mikael between us.
+JOF: it is the angel of death that's passing over us, mia. it's the angel of death. the angel of death, and he's very big.
+MIA: do you feel how cold it is? i'm freezing. i'm terribly cold.
+
+KARIN: i heard from people who came from the crusade that you were on your way home. i've been waiting for you here. all the others have fled from the plague. the knight is silent. he looks at her. 
+KARIN: don't you recognize me any more?
+KARIN: you also have changed.
+KARIN: now i can see that it's you. somewhere in your eyes, somewhere in your face, but hidden and frightened, is that boy who went away so many years ago.
+KNIGHT: it's over now and i'm a little tired.
+KARIN: i see that you're tired.
+KNIGHT: over there stand my friends.
+KARIN: ask them in. they will break the fast with us.
+KARIN: "and when the lamb broke the seventh seal, there was silence in heaven for about the space of half an hour. and i saw the seven angels which stood before god; and to them were given seven trumpets. and another ..."
+KARIN: "the first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth; and the third part of the trees was burnt up and all the green grass was burnt up."
+KARIN: "and the second angel sounded, and as it were a great mountain burning with fire was cast into the sea; and a third part of the sea became blood ..."
+KNIGHT: was someone there?
+JONS: no, my lord. i saw no one.
+KARIN: "and the third angel sounded, and there fell a great star from heaven, burning as it were a torch, and it fell upon the third part of the rivers and upon the fountains of waters; and the name of the star is called wormwood ..."
+KNIGHT: good morning, noble lord.
+KARIN: i am karin, the knight's wife, and welcome you courteously to my house.
+PLOG: i am a smith by profession and rather good at my trade, if i say so myself. my wife lisa -- curtsy for the great lord, lisa. she's a little difficult to handle once in a while and we had a little spat, so to speak, but no worse than most people. the knight hides his face in his hands.
+KNIGHT: from our darkness, we call out to thee, lord. have mercy on us because we are small and frightened and ignorant.
+KNIGHT: you who are somewhere, who must be somewhere, have mercy upon us.
+JONS: i could have given you an herb to purge you of your worries about eternity. now it seems to be too late. but in any case, feel the immense triumph of this last minute when you can still roll your eyes and move your toes.
+KARIN: quiet, quiet.
+JONS: i shall be silent, but under protest.
+GIRL: it is the end.
+
+JOF: i see them, mia! i see them! over there against the dark, stormy sky. they are all there. the smith and lisa and the knight and raval and jâˆns and skat. and death, the severe master, invites them to dance. he tells them to hold each other's hands and then they must tread the dance in a long row. and first goes the master with his scythe and hourglass, but skat dangles at the end with his lyre. they dance away from the dawn and it's a solemn dance towards the dark lands, while the rain washes their faces and cleans the salt of the tears from their cheeks. 
+MIA: you with your visions and dreams.
+MIA: screenplay by ingmar bergman
 

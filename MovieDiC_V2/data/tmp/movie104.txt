@@ -1,849 +1,849 @@
-speaker1: i can't believe you can't get me out of this...i mean it's so absurd i have to be here on a saturday! it's not like i'm a defective or anything... 
-speaker2: i'll make it up to you...honey, ditching class to go shopping doesn't make you a defective. have a good day.
+CLAIRE: i can't believe you can't get me out of this...i mean it's so absurd i have to be here on a saturday! it's not like i'm a defective or anything... 
+CLAIRE'S FATHER: i'll make it up to you...honey, ditching class to go shopping doesn't make you a defective. have a good day.
 
-speaker1: is this the first time or the last time we do this? 
-speaker2: last...
-speaker1: well get in there and use the time to your advantage...
-speaker2: mom, we're not supposed to study; we just have to sit there and do nothing.
-speaker1: well mister you figure out a way to study.
-speaker3: yeah!
-speaker1: well go!
+BRIAN'S MOTHER: is this the first time or the last time we do this? 
+BRIAN: last...
+BRIAN'S MOTHER: well get in there and use the time to your advantage...
+BRIAN: mom, we're not supposed to study; we just have to sit there and do nothing.
+BRIAN'S MOTHER: well mister you figure out a way to study.
+BRIAN'S LITTLE SISTER: yeah!
+BRIAN'S MOTHER: well go!
 
-speaker1: hey, i screwed around...guys screw around, there's nothing wrong with that. except you got caught, sport. 
-speaker2: yeah, mom already reemed me, alright?
-speaker1: you wanna miss a match? you wanna blow your ride? now no school's gonna give a scholarship to a discipline case.
+ANDREW'S FATHER: hey, i screwed around...guys screw around, there's nothing wrong with that. except you got caught, sport. 
+ANDREW: yeah, mom already reemed me, alright?
+ANDREW'S FATHER: you wanna miss a match? you wanna blow your ride? now no school's gonna give a scholarship to a discipline case.
 
-speaker1: there are six tables in two rows of three. 
-speaker2: well...well. here we are! i want to congradulate you for being on time...
-speaker3: excuse me, sir? i think there's been a mistake. i know it's detention, but...um...i don't think i belong in here...
-speaker2: it is now seven-oh-six. you have exactly eight hours and fifty-four minutes to think about why you're here. to ponder the error of your ways...
-speaker2: ...and you may not talk. you will not move from these seats.
-speaker2: ...and you...
-speaker2: ...will not sleep. alright people, we're gonna try something a little different today. we are going to write an essay--of no less than a thousand words--describing to me who you think you are.
-speaker4: is this a test?
-speaker2: and when i say essay...i mean essay. i do not mean a single word repeated a thousand times. is that clear mr. bender?
-speaker4: crystal...
-speaker2: good. maybe you'll learn a little something about yourself. maybe you'll even--decide whether or not you care to return.
-speaker5: you know, i can answer that right now sir...that'd be "no", no for me.
-speaker2: sit down johnson...
-speaker5: thank you sir...
-speaker2: my office...
-speaker2: ...is right across that hall. any monkey business is ill-advised...
-speaker2: ...any questions?
-speaker4: yeah...i got a question.
-speaker4: does barry manilow know you raid his wardrobe?
-speaker2: i'll give you the answer to that question, mr. bender, next saturday. don't mess with the bull young man, you'll get the horns.
-speaker4: that man...is a brownie hound...
-speaker4: you keep eating your hand and you're not gonna be hungry for lunch...
-speaker4: i've seen you before, you know... we see vernon look out from his office.
-speaker5: who do i think i am? who are you? who are you?
-speaker5: i am a walrus...
-speaker5: it's the shits, huh?
-speaker3: i can't believe this is really happening to me...
-speaker4: oh, what're we s'posed to do if we hafta take a piss?
-speaker3: please...
-speaker4: if you gotta go...
-speaker4: you gotta go!
-speaker3: oh my
-speaker6: hey, yer not urinating in here man!
-speaker4: don't talk! don't talk! it makes it crawl back up!
-speaker6: you whip it out and you're dead before the first drop hits the floor!
-speaker4: you're pretty when you get angry...grrr!
-speaker4: hey, homeboy...
-speaker4: ...why don't you go close that door. we'll get the prom queen-- impregnated!
-speaker6: hey!
-speaker6: hey!
-speaker4: what?
-speaker6: if i lose my temper, you're totalled man!
-speaker4: totally?
-speaker6: totally!
-speaker3: why don't you just shut up! nobody here is interested!
-speaker6: really! buttface!
-speaker4: well hey sporto! what'd you do to get in here? forget to wash your jock?
-speaker5: uh, excuse me, fellas? i think we should just write our papers...
-speaker6: look, just because you live in here doesn't give you the right to be a pain in the ass...so knock it off!
-speaker4: it's a free country...
-speaker3: he's just doing it to get a rise out of you! just ignore him...
-speaker4: sweets...you couldn't ignore me if you tried!
-speaker4: so...so! are you guys like boyfriend/girl- friend? steady dates? lo--vers? come on sporto, level with me. do you slip her the hot...beef... injection?
-speaker3: go to hell!
-speaker6: enough!
+6. INT. LIBRARY - DAY: there are six tables in two rows of three. 
+VERNON: well...well. here we are! i want to congradulate you for being on time...
+CLAIRE: excuse me, sir? i think there's been a mistake. i know it's detention, but...um...i don't think i belong in here...
+VERNON: it is now seven-oh-six. you have exactly eight hours and fifty-four minutes to think about why you're here. to ponder the error of your ways...
+VERNON: ...and you may not talk. you will not move from these seats.
+VERNON: ...and you...
+VERNON: ...will not sleep. alright people, we're gonna try something a little different today. we are going to write an essay--of no less than a thousand words--describing to me who you think you are.
+BENDER: is this a test?
+VERNON: and when i say essay...i mean essay. i do not mean a single word repeated a thousand times. is that clear mr. bender?
+BENDER: crystal...
+VERNON: good. maybe you'll learn a little something about yourself. maybe you'll even--decide whether or not you care to return.
+BRIAN: you know, i can answer that right now sir...that'd be "no", no for me.
+VERNON: sit down johnson...
+BRIAN: thank you sir...
+VERNON: my office...
+VERNON: ...is right across that hall. any monkey business is ill-advised...
+VERNON: ...any questions?
+BENDER: yeah...i got a question.
+BENDER: does barry manilow know you raid his wardrobe?
+VERNON: i'll give you the answer to that question, mr. bender, next saturday. don't mess with the bull young man, you'll get the horns.
+BENDER: that man...is a brownie hound...
+BENDER: you keep eating your hand and you're not gonna be hungry for lunch...
+BENDER: i've seen you before, you know... we see vernon look out from his office.
+BRIAN: who do i think i am? who are you? who are you?
+BRIAN: i am a walrus...
+BRIAN: it's the shits, huh?
+CLAIRE: i can't believe this is really happening to me...
+BENDER: oh, what're we s'posed to do if we hafta take a piss?
+CLAIRE: please...
+BENDER: if you gotta go...
+BENDER: you gotta go!
+CLAIRE: oh my
+ANDREW: hey, yer not urinating in here man!
+BENDER: don't talk! don't talk! it makes it crawl back up!
+ANDREW: you whip it out and you're dead before the first drop hits the floor!
+BENDER: you're pretty when you get angry...grrr!
+BENDER: hey, homeboy...
+BENDER: ...why don't you go close that door. we'll get the prom queen-- impregnated!
+ANDREW: hey!
+ANDREW: hey!
+BENDER: what?
+ANDREW: if i lose my temper, you're totalled man!
+BENDER: totally?
+ANDREW: totally!
+CLAIRE: why don't you just shut up! nobody here is interested!
+ANDREW: really! buttface!
+BENDER: well hey sporto! what'd you do to get in here? forget to wash your jock?
+BRIAN: uh, excuse me, fellas? i think we should just write our papers...
+ANDREW: look, just because you live in here doesn't give you the right to be a pain in the ass...so knock it off!
+BENDER: it's a free country...
+CLAIRE: he's just doing it to get a rise out of you! just ignore him...
+BENDER: sweets...you couldn't ignore me if you tried!
+BENDER: so...so! are you guys like boyfriend/girl- friend? steady dates? lo--vers? come on sporto, level with me. do you slip her the hot...beef... injection?
+CLAIRE: go to hell!
+ANDREW: enough!
 
-speaker1: we see vernon in his office. 
-speaker2: hey! what's going on in there? smug little pricks!
+7. INT. VERNON'S OFFICE - DAY: we see vernon in his office. 
+VERNON: hey! what's going on in there? smug little pricks!
 
-speaker1: scumbag! 
-speaker2: what do you say we close that door. we can't have any kind of party with vernon checking us out every few seconds.
-speaker3: well, you know the door's s'posed to stay open...
-speaker2: so what?
-speaker1: so why don't you just shut up! there's four other people in here you know...
-speaker2: you can count. see! i knew you had to be smart to be a...a wrestler.
-speaker1: who the are you to judge anybody anyway?
-speaker4: really...
-speaker1: you know, bender...you don't even count. i mean if you disappeared forever it wouldn't make any difference. you may as well not even exist at this school.
-speaker2: well...i'll just run right out and join the wrestling team.
-speaker2: maybe the prep club too! student council...
-speaker1: no, they wouldn't take you.
-speaker2: i'm hurt.
-speaker4: you know why guys like you knock everything...
-speaker2: oh, this should be stunning...
-speaker4: it's 'cause you're afraid.
-speaker2: oh, you ritchies are so smart, that's exactly why i'm not heavy in activities!
-speaker4: you're a big coward!
-speaker3: i'm in the math club...
-speaker4: see you're afraid that they won't take you. you don't belong so you just have to dump all over it...
-speaker2: well...it wouldn't have anything to do with you activities people being assholes...now would it?
-speaker4: well you wouldn't know...you don't even know any of us.
-speaker2: well, i don't know any lepers either, but i'm not gonna run out and join one of their clubs.
-speaker1: hey let's watch the mouth, huh?
-speaker3: i'm in the physics club too...
-speaker2: s'cuse me a sec... what are you babbling about?
-speaker3: well, what i said was...i'm in the math club, the latin club and the physics club...physics club.
-speaker2: hey...cherry...do you belong to the physics club?
-speaker4: that's an academic club...
-speaker2: so?
-speaker4: so...academic clubs aren't the same as other kinds of clubs.
-speaker2: oh, but to dorks like him...
-speaker2: ...they are. what do you guys do in your club?
-speaker3: in physics, um, we ah, we talk about physics...about properties of physics.
-speaker2: so it's sorta social...demented and sad, but social. right?
-speaker3: yeah, well, i guess you could consider it a social situation. i mean there are other children in my club and uh, at the end of the year we have, um, you know, a big banquet, at the, uh, at the hilton.
-speaker2: you load up, you party...
-speaker3: well, no, we get dressed up...i mean, but, we don't...we don't get high.
-speaker4: only burners like you get high...
-speaker3: and, uh, i didn't have any shoes. so i had to borrow my dad's. it was kinda weird 'cause my mom doesn't like me to wear other people's shoes. and, uh, my cousin kent...my cousin kendall from, uh, indiana... he got high once and you know, he started eating like really weird foods. and uh, and then he just felt like he didn't belong anywhere. you know, kinda like, you know "twilight zone" kinda.
-speaker4: sounds like you...
-speaker1: look, you guys keep up your talking and vernon's gonna come right in here...i got a meet this saturday and i'm not gonna miss it on account of you boneheads...
-speaker2: oh and wouldn't that be a bite...
-speaker2: missing a whole wrestling meet!
-speaker1: well you wouldn't know anything about it, faggot! you never competed in your whole life!
-speaker2: oh, i know...i feel all empty inside because of it. i have such a deep admiration for guys that roll around on the floor with other guys!
-speaker1: ahhh...you'd never miss it. you don't have any goals.
-speaker2: oh, but i do!
-speaker1: yeah?
-speaker2: i wanna be just--like--you! i figure all i need's a labotamy and some tights!
-speaker3: you wear tights?
-speaker1: no i don't wear tights, i wear the required uniform...
-speaker3: tights...
-speaker1: shut up!
-speaker3: you know there's not s'posed to be any monkey business!
-speaker2: young man...have you finished your paper? bender turns back away and goes to the door. he looks around cautiously and removes a screw from the door.
-speaker4: what are you gonna do?
-speaker1: drop dead, i hope!
+ANDREW: scumbag! 
+BENDER: what do you say we close that door. we can't have any kind of party with vernon checking us out every few seconds.
+BRIAN: well, you know the door's s'posed to stay open...
+BENDER: so what?
+ANDREW: so why don't you just shut up! there's four other people in here you know...
+BENDER: you can count. see! i knew you had to be smart to be a...a wrestler.
+ANDREW: who the are you to judge anybody anyway?
+CLAIRE: really...
+ANDREW: you know, bender...you don't even count. i mean if you disappeared forever it wouldn't make any difference. you may as well not even exist at this school.
+BENDER: well...i'll just run right out and join the wrestling team.
+BENDER: maybe the prep club too! student council...
+ANDREW: no, they wouldn't take you.
+BENDER: i'm hurt.
+CLAIRE: you know why guys like you knock everything...
+BENDER: oh, this should be stunning...
+CLAIRE: it's 'cause you're afraid.
+BENDER: oh, you ritchies are so smart, that's exactly why i'm not heavy in activities!
+CLAIRE: you're a big coward!
+BRIAN: i'm in the math club...
+CLAIRE: see you're afraid that they won't take you. you don't belong so you just have to dump all over it...
+BENDER: well...it wouldn't have anything to do with you activities people being assholes...now would it?
+CLAIRE: well you wouldn't know...you don't even know any of us.
+BENDER: well, i don't know any lepers either, but i'm not gonna run out and join one of their clubs.
+ANDREW: hey let's watch the mouth, huh?
+BRIAN: i'm in the physics club too...
+BENDER: s'cuse me a sec... what are you babbling about?
+BRIAN: well, what i said was...i'm in the math club, the latin club and the physics club...physics club.
+BENDER: hey...cherry...do you belong to the physics club?
+CLAIRE: that's an academic club...
+BENDER: so?
+CLAIRE: so...academic clubs aren't the same as other kinds of clubs.
+BENDER: oh, but to dorks like him...
+BENDER: ...they are. what do you guys do in your club?
+BRIAN: in physics, um, we ah, we talk about physics...about properties of physics.
+BENDER: so it's sorta social...demented and sad, but social. right?
+BRIAN: yeah, well, i guess you could consider it a social situation. i mean there are other children in my club and uh, at the end of the year we have, um, you know, a big banquet, at the, uh, at the hilton.
+BENDER: you load up, you party...
+BRIAN: well, no, we get dressed up...i mean, but, we don't...we don't get high.
+CLAIRE: only burners like you get high...
+BRIAN: and, uh, i didn't have any shoes. so i had to borrow my dad's. it was kinda weird 'cause my mom doesn't like me to wear other people's shoes. and, uh, my cousin kent...my cousin kendall from, uh, indiana... he got high once and you know, he started eating like really weird foods. and uh, and then he just felt like he didn't belong anywhere. you know, kinda like, you know "twilight zone" kinda.
+CLAIRE: sounds like you...
+ANDREW: look, you guys keep up your talking and vernon's gonna come right in here...i got a meet this saturday and i'm not gonna miss it on account of you boneheads...
+BENDER: oh and wouldn't that be a bite...
+BENDER: missing a whole wrestling meet!
+ANDREW: well you wouldn't know anything about it, faggot! you never competed in your whole life!
+BENDER: oh, i know...i feel all empty inside because of it. i have such a deep admiration for guys that roll around on the floor with other guys!
+ANDREW: ahhh...you'd never miss it. you don't have any goals.
+BENDER: oh, but i do!
+ANDREW: yeah?
+BENDER: i wanna be just--like--you! i figure all i need's a labotamy and some tights!
+BRIAN: you wear tights?
+ANDREW: no i don't wear tights, i wear the required uniform...
+BRIAN: tights...
+ANDREW: shut up!
+BRIAN: you know there's not s'posed to be any monkey business!
+BENDER: young man...have you finished your paper? bender turns back away and goes to the door. he looks around cautiously and removes a screw from the door.
+CLAIRE: what are you gonna do?
+ANDREW: drop dead, i hope!
 
-speaker1: bender, that's, that's school property there...you know, it doesn't belong to us. it's something not to be toyed with. 
-speaker2: that's very funny, come on, fix it!
-speaker1: you should really fix that!
-speaker3: am i a genius?
-speaker2: no, you're an asshole!
-speaker3: what a funny guy!
-speaker2: fix the door bender!
-speaker3: everyone just shhh!
+BRIAN: bender, that's, that's school property there...you know, it doesn't belong to us. it's something not to be toyed with. 
+ANDREW: that's very funny, come on, fix it!
+BRIAN: you should really fix that!
+BENDER: am i a genius?
+ANDREW: no, you're an asshole!
+BENDER: what a funny guy!
+ANDREW: fix the door bender!
+BENDER: everyone just shhh!
 
-speaker1: i've been here before, i know what i'm doing! 
-speaker2: no! fix the door, get up there and fix it!
-speaker1: shut up!
+BENDER: i've been here before, i know what i'm doing! 
+ANDREW: no! fix the door, get up there and fix it!
+BENDER: shut up!
 
-speaker1: we see brian as we hear vernon in the hall. 
-speaker2: damnit!
-speaker2: why is that door closed?
-speaker2: why is that door closed?
-speaker3: how're we s'posed to know? we're not s'posed to move, right?
-speaker2: why?
-speaker4: we were just sitting here, like we were s'posed to...
-speaker2: who closed that door?
-speaker3: i think a screw fell out of it...
-speaker5: it just closed, sir...
-speaker2: who?
-speaker3: she doesn't talk, sir...
-speaker2: give me that screw...
-speaker3: i don't have it...
-speaker2: you want me to yank you outta that seat and shake it out of you?
-speaker3: i don't have it...screws fall out all of the time, the world's an imperfect place...
-speaker2: give it to me, bender...
-speaker4: excuse me, sir, why would anybody want to steal a screw?
-speaker2: watch it, young lady...
-speaker3: the door's way too heavy, sir.
-speaker2: damnit! they laugh.
-speaker2: andrew clark...get up here. come on, front and center, let's go.
-speaker3: hey, how come andrew gets to get up? if he gets up, we'll all get up, it'll be anarchy!
-speaker2: okay, now, watch the magazines!
-speaker3: it's out of my hands...
-speaker3: that's very clever sir, but what if there's a fire? i think violating fire codes and endangering the lives of children would be unwise at this juncture in your career, sir.
-speaker2: alright, what are you doing with this? get this outta here for sake! what's the matter with you?
-speaker6: you know the school comes equipped with fire exits at either end of the library.
-speaker3: show some respect!
-speaker2: let's go...go! get back into your seat.
-speaker2: i expected a little more from a varsity letterman! you're not fooling anybody, bender! the next screw that falls out is gonna be you!
-speaker3: eat my shorts...
-speaker2: what was that?
-speaker3: eat my shorts!
-speaker2: you just bought yourself another saturday, mister!
-speaker3: oh,
-speaker2: you just bought one more right there!
-speaker3: well, i'm free the saturday after that...beyond that, i'm gonna have to check my calendar!
-speaker2: good! 'cause it's gonna be filled, we'll keep goin'! you want another one? say the word, just say the word! instead of going to prison, you'll come here! are you through.
-speaker3: no!
-speaker2: i'm doing society a favor!
-speaker3: so?
-speaker2: that's another one, right now! i've got you for the rest of your natural born life if you don't watch your step! you want another one?
-speaker3: yes!
-speaker2: you got it! you got another one, right there! that's another one pal!
-speaker4: cut it out!
-speaker2: you through?
-speaker3: not even close, bud!
-speaker2: good! you got one more, right there!
-speaker3: do you really think i give a
-speaker2: another...
-speaker2: you through?
-speaker3: how many is that?
-speaker6: that's seven including the one when we first came in and you asked mr. vernon here whether barry manilow knew that he raided his closet.
-speaker2: now it's eight... you stay out of it!
-speaker6: excuse me, sir, it's seven!
-speaker2: shut up, peewee! you're mine bender...for two months i gotcha! i gotcha!
-speaker3: what can i say? i'm thrilled!
-speaker2: oh, i'm sure that's exactly what you want these people to believe. you know something, bender? you ought to spend a little more time trying to do something with yourself and a little less time trying to impress people. you might be better off. alright, that's it! i'm going to be right outside those doors. the next time i hafta come in here...i'm cracking skulls!
-speaker3: you!
+12. INT. LIBRARY - DAY: we see brian as we hear vernon in the hall. 
+VERNON: damnit!
+VERNON: why is that door closed?
+VERNON: why is that door closed?
+BENDER: how're we s'posed to know? we're not s'posed to move, right?
+VERNON: why?
+CLAIRE: we were just sitting here, like we were s'posed to...
+VERNON: who closed that door?
+BENDER: i think a screw fell out of it...
+ANDREW: it just closed, sir...
+VERNON: who?
+BENDER: she doesn't talk, sir...
+VERNON: give me that screw...
+BENDER: i don't have it...
+VERNON: you want me to yank you outta that seat and shake it out of you?
+BENDER: i don't have it...screws fall out all of the time, the world's an imperfect place...
+VERNON: give it to me, bender...
+CLAIRE: excuse me, sir, why would anybody want to steal a screw?
+VERNON: watch it, young lady...
+BENDER: the door's way too heavy, sir.
+VERNON: damnit! they laugh.
+VERNON: andrew clark...get up here. come on, front and center, let's go.
+BENDER: hey, how come andrew gets to get up? if he gets up, we'll all get up, it'll be anarchy!
+VERNON: okay, now, watch the magazines!
+BENDER: it's out of my hands...
+BENDER: that's very clever sir, but what if there's a fire? i think violating fire codes and endangering the lives of children would be unwise at this juncture in your career, sir.
+VERNON: alright, what are you doing with this? get this outta here for sake! what's the matter with you?
+BRIAN: you know the school comes equipped with fire exits at either end of the library.
+BENDER: show some respect!
+VERNON: let's go...go! get back into your seat.
+VERNON: i expected a little more from a varsity letterman! you're not fooling anybody, bender! the next screw that falls out is gonna be you!
+BENDER: eat my shorts...
+VERNON: what was that?
+BENDER: eat my shorts!
+VERNON: you just bought yourself another saturday, mister!
+BENDER: oh,
+VERNON: you just bought one more right there!
+BENDER: well, i'm free the saturday after that...beyond that, i'm gonna have to check my calendar!
+VERNON: good! 'cause it's gonna be filled, we'll keep goin'! you want another one? say the word, just say the word! instead of going to prison, you'll come here! are you through.
+BENDER: no!
+VERNON: i'm doing society a favor!
+BENDER: so?
+VERNON: that's another one, right now! i've got you for the rest of your natural born life if you don't watch your step! you want another one?
+BENDER: yes!
+VERNON: you got it! you got another one, right there! that's another one pal!
+CLAIRE: cut it out!
+VERNON: you through?
+BENDER: not even close, bud!
+VERNON: good! you got one more, right there!
+BENDER: do you really think i give a
+VERNON: another...
+VERNON: you through?
+BENDER: how many is that?
+BRIAN: that's seven including the one when we first came in and you asked mr. vernon here whether barry manilow knew that he raided his closet.
+VERNON: now it's eight... you stay out of it!
+BRIAN: excuse me, sir, it's seven!
+VERNON: shut up, peewee! you're mine bender...for two months i gotcha! i gotcha!
+BENDER: what can i say? i'm thrilled!
+VERNON: oh, i'm sure that's exactly what you want these people to believe. you know something, bender? you ought to spend a little more time trying to do something with yourself and a little less time trying to impress people. you might be better off. alright, that's it! i'm going to be right outside those doors. the next time i hafta come in here...i'm cracking skulls!
+BENDER: you!
 
-speaker1: later. 
-speaker2: wake up! who has to go to the lavatory?
+13. INT. LIBRARY - DAY: later. 
+VERNON: wake up! who has to go to the lavatory?
 
-speaker1: later. 
-speaker2: that's real intelligent.
-speaker3: you're right...it's wrong to destroy literature...
-speaker3: it's such fun to read...and, molet really pumps my nads!
-speaker4: mol-yare.
-speaker5: i love his work.
-speaker3: big deal...nothing to do when you're locked in a vacancy..
-speaker2: speak for yourself...
-speaker3: do you think i'd speak for you? i don't even know your language!
-speaker2: hey, you grounded tonight?
-speaker4: i don't know, my mom said i was but by dad told me to just blow her off.
-speaker2: big party at stubbies, parents are in europe. should be pretty wild...
-speaker4: yeah?
-speaker2: yeah, can you go?
-speaker4: i doubt it...
-speaker2: how come?
-speaker4: well 'cause if i do what my mother tells me not to do, it's because because my father says it's okay. there's like this whole big monster deal, it's endless and it's a total drag. it's like any minute...
-speaker3: who do you like better?
-speaker4: what?
-speaker3: you like your old man better than your mom?
-speaker4: they're both strict.
-speaker3: no, i mean, if you had to choose between them.
-speaker4: i dunno, i'd probably go live with my brother. i mean, i don't think either one of them gives a about me...it's like they use me just to get back at each other.
-speaker6: ha!!!
-speaker4: shut up!
-speaker2: you're just feeling sorry for yourself...
-speaker4: yeah, well if i didn't nobody else would.
-speaker2: aw...you're breaking my heart...
-speaker3: sporto...
-speaker2: what?
-speaker3: you get along with your parents?
-speaker2: well if i say yes, i'm an right?
-speaker3: you're an anyway...but if you say you get along with your parents well you're a liar too!
-speaker2: you know something, man...if we weren't in school right now, i'd waste you! bender points his middle finger at the floor.
-speaker3: can you hear this? want me to turn it up?
-speaker5: hey fellas, i mean...
-speaker5: ...i don't like my parents either, i don't...i don't get along with them...their idea of parental compassion is just, you know, wacko!
-speaker3: dork...
-speaker5: yeah?
-speaker3: you are a parent's wet dream, okay?
-speaker5: well that's a problem!
-speaker3: look, i can see you getting all bunged up for them making you wear these kinda clothes. but face it, you're a neo-maxi-zoom-dweebie! what would you be doing if you weren't out making yourself a better citizen?
-speaker2: why do you have to insult everybody?
-speaker3: i'm being honest, asshole! i would expect you...to know the difference!
-speaker2: yeah well, he's gotta name!
-speaker3: yeah?
-speaker2: yeah, what's your name?
-speaker5: brian...
-speaker2: see...
-speaker3: my condolences...
-speaker4: what's your name?
-speaker3: what's yours?
-speaker4: claire...
-speaker3: ka-laire?
-speaker4: claire...it's a family name!
-speaker3: nooo...it's a fat girl's name!
-speaker4: well thank you...
-speaker3: you're welcome...
-speaker4: i'm not fat!
-speaker3: well not at present but i could see you really pushing maximum density! you see, i'm not sure if you know this...but there are two kinds of fat people. there's fat people that were born to be fat, and then there's fat people that were once thin but they became fat...so when you look at them you can sorta see that thin person inside! you see, you're gonna get married, you're gonna squeeze out a few puppies and then, uh... he mimes becoming fat, making noises.
-speaker3: oh...obscene finger gestures from such a pristine girl!
-speaker4: i'm not that pristine!
-speaker3: are you a virgin? i'll bet you a million dollars that you are! let's end the suspense! is it gonna be... ...a white weddin?
-speaker4: why don't you just shut up?
-speaker3: have you ever kissed a boy on the mouth? have you ever been felt up? over the bra, under the blouse, shoes off...hoping to your parents don't walk in?
-speaker4: do you want me to puke?
-speaker3: over the panties, no bra, blouse unbuttoned, calvin's in a ball on the front seat past eleven on a school night?
-speaker2: leave her alone!
-speaker2: i said leave her alone!
-speaker3: you gonna make me?
-speaker2: yeah...
-speaker3: you and how many of your friends?
-speaker2: just me, just you and me. two hits. me hitting you, you hitting the floor! anytime you're ready, pal!
-speaker3: i don't wanna get into to this with you man...
-speaker2: why not?
-speaker3: 'cause i'd kill you...it's real simple. i'd kill you and your parents would sue me and it would be a big mess and i don't care enough about you to bother.
-speaker2: chicken
-speaker2: let's end this right now. you don't talk to her...you don't look at her and you don't even think about her!
-speaker3: i'm trying to help her!.
-speaker7: brian, how you doing?
-speaker3: your dad works here?
-speaker3: uh, carl?
-speaker7: what?
-speaker3: can i ask you a question?
-speaker7: sure...
-speaker3: how does one become a janitor?
-speaker7: you wanna be a janitor?
-speaker3: no i just wanna know how one becomes a janitor because andrew here, is very interested in persuing a career in the custodial arts...
-speaker7: oh, really? you guys think i'm just some untouchable peasant? peon? huh? maybe so, but following a broom around after shitheads like you for the past eight years i've learned a couple of things...i look through your letters, i look through your lockers...i listen to your conversations, you don't know that but i do...i am the eyes and ears of this institution my friends. by the way, that clock's twenty minutes fast!
-speaker2: 
+14. INT. LIBRARY - DAY: later. 
+ANDREW: that's real intelligent.
+BENDER: you're right...it's wrong to destroy literature...
+BENDER: it's such fun to read...and, molet really pumps my nads!
+CLAIRE: mol-yare.
+BRIAN: i love his work.
+BENDER: big deal...nothing to do when you're locked in a vacancy..
+ANDREW: speak for yourself...
+BENDER: do you think i'd speak for you? i don't even know your language!
+ANDREW: hey, you grounded tonight?
+CLAIRE: i don't know, my mom said i was but by dad told me to just blow her off.
+ANDREW: big party at stubbies, parents are in europe. should be pretty wild...
+CLAIRE: yeah?
+ANDREW: yeah, can you go?
+CLAIRE: i doubt it...
+ANDREW: how come?
+CLAIRE: well 'cause if i do what my mother tells me not to do, it's because because my father says it's okay. there's like this whole big monster deal, it's endless and it's a total drag. it's like any minute...
+BENDER: who do you like better?
+CLAIRE: what?
+BENDER: you like your old man better than your mom?
+CLAIRE: they're both strict.
+BENDER: no, i mean, if you had to choose between them.
+CLAIRE: i dunno, i'd probably go live with my brother. i mean, i don't think either one of them gives a about me...it's like they use me just to get back at each other.
+ALLISON: ha!!!
+CLAIRE: shut up!
+ANDREW: you're just feeling sorry for yourself...
+CLAIRE: yeah, well if i didn't nobody else would.
+ANDREW: aw...you're breaking my heart...
+BENDER: sporto...
+ANDREW: what?
+BENDER: you get along with your parents?
+ANDREW: well if i say yes, i'm an right?
+BENDER: you're an anyway...but if you say you get along with your parents well you're a liar too!
+ANDREW: you know something, man...if we weren't in school right now, i'd waste you! bender points his middle finger at the floor.
+BENDER: can you hear this? want me to turn it up?
+BRIAN: hey fellas, i mean...
+BRIAN: ...i don't like my parents either, i don't...i don't get along with them...their idea of parental compassion is just, you know, wacko!
+BENDER: dork...
+BRIAN: yeah?
+BENDER: you are a parent's wet dream, okay?
+BRIAN: well that's a problem!
+BENDER: look, i can see you getting all bunged up for them making you wear these kinda clothes. but face it, you're a neo-maxi-zoom-dweebie! what would you be doing if you weren't out making yourself a better citizen?
+ANDREW: why do you have to insult everybody?
+BENDER: i'm being honest, asshole! i would expect you...to know the difference!
+ANDREW: yeah well, he's gotta name!
+BENDER: yeah?
+ANDREW: yeah, what's your name?
+BRIAN: brian...
+ANDREW: see...
+BENDER: my condolences...
+CLAIRE: what's your name?
+BENDER: what's yours?
+CLAIRE: claire...
+BENDER: ka-laire?
+CLAIRE: claire...it's a family name!
+BENDER: nooo...it's a fat girl's name!
+CLAIRE: well thank you...
+BENDER: you're welcome...
+CLAIRE: i'm not fat!
+BENDER: well not at present but i could see you really pushing maximum density! you see, i'm not sure if you know this...but there are two kinds of fat people. there's fat people that were born to be fat, and then there's fat people that were once thin but they became fat...so when you look at them you can sorta see that thin person inside! you see, you're gonna get married, you're gonna squeeze out a few puppies and then, uh... he mimes becoming fat, making noises.
+BENDER: oh...obscene finger gestures from such a pristine girl!
+CLAIRE: i'm not that pristine!
+BENDER: are you a virgin? i'll bet you a million dollars that you are! let's end the suspense! is it gonna be... ...a white weddin?
+CLAIRE: why don't you just shut up?
+BENDER: have you ever kissed a boy on the mouth? have you ever been felt up? over the bra, under the blouse, shoes off...hoping to your parents don't walk in?
+CLAIRE: do you want me to puke?
+BENDER: over the panties, no bra, blouse unbuttoned, calvin's in a ball on the front seat past eleven on a school night?
+ANDREW: leave her alone!
+ANDREW: i said leave her alone!
+BENDER: you gonna make me?
+ANDREW: yeah...
+BENDER: you and how many of your friends?
+ANDREW: just me, just you and me. two hits. me hitting you, you hitting the floor! anytime you're ready, pal!
+BENDER: i don't wanna get into to this with you man...
+ANDREW: why not?
+BENDER: 'cause i'd kill you...it's real simple. i'd kill you and your parents would sue me and it would be a big mess and i don't care enough about you to bother.
+ANDREW: chicken
+ANDREW: let's end this right now. you don't talk to her...you don't look at her and you don't even think about her!
+BENDER: i'm trying to help her!.
+CARL: brian, how you doing?
+BENDER: your dad works here?
+BENDER: uh, carl?
+CARL: what?
+BENDER: can i ask you a question?
+CARL: sure...
+BENDER: how does one become a janitor?
+CARL: you wanna be a janitor?
+BENDER: no i just wanna know how one becomes a janitor because andrew here, is very interested in persuing a career in the custodial arts...
+CARL: oh, really? you guys think i'm just some untouchable peasant? peon? huh? maybe so, but following a broom around after shitheads like you for the past eight years i've learned a couple of things...i look through your letters, i look through your lockers...i listen to your conversations, you don't know that but i do...i am the eyes and ears of this institution my friends. by the way, that clock's twenty minutes fast!
+ANDREW: 
 
-speaker1: allright girls, that's thirty minutes for lunch... 
-speaker2: here?
-speaker1: here...
-speaker2: well i think the cafeteria would be a more suitable place for us to eat lunch in, sir!
-speaker1: well, i don't care what you think, andrew!
-speaker3: uh, dick? excuse me, rich...will milk be made available to us?
-speaker2: we're extremely thirsty sir...
-speaker4: i have a very low tolerance for dehydration.
-speaker2: i've seen her dehydrate sir, it's pretty gross.
-speaker3: relax, i'll get it!
-speaker1: ah, ah, ah grab some wood there, bub!
-speaker1: what do you think, i was born yesterday? you think i'm gonna have you roaming these halls?
-speaker1: you!
-speaker1: and you! hey! what's her name? wake her! wake her up! come on, on your feet missy! let's go! this is no rest home!
-speaker1: there's a soft drink machine in the teacher's lounge. lets go!
+VERNON: allright girls, that's thirty minutes for lunch... 
+ANDREW: here?
+VERNON: here...
+ANDREW: well i think the cafeteria would be a more suitable place for us to eat lunch in, sir!
+VERNON: well, i don't care what you think, andrew!
+BENDER: uh, dick? excuse me, rich...will milk be made available to us?
+ANDREW: we're extremely thirsty sir...
+CLAIRE: i have a very low tolerance for dehydration.
+ANDREW: i've seen her dehydrate sir, it's pretty gross.
+BENDER: relax, i'll get it!
+VERNON: ah, ah, ah grab some wood there, bub!
+VERNON: what do you think, i was born yesterday? you think i'm gonna have you roaming these halls?
+VERNON: you!
+VERNON: and you! hey! what's her name? wake her! wake her up! come on, on your feet missy! let's go! this is no rest home!
+VERNON: there's a soft drink machine in the teacher's lounge. lets go!
 
-speaker1: andrew and allison are walking in the hall. 
-speaker2: so, what's your poison?
-speaker2: what do you drink?
-speaker2: okay...forget i asked...
-speaker3: vodka...
-speaker2: vodka? when do you drink vodka?
-speaker3: whenever...
-speaker2: a lot?
-speaker3: tons...
-speaker2: is that why you're here today?
-speaker2: why are you here?
-speaker3: why are you here?
-speaker2: um, i'm here today...because uh, because my coach and my father don't want me to blow my ride. see i get treated differently because uh, coach thinks i'm a winner. so does my old man. i'm not a winner because i wanna be one... i'm a winner because i got strength and speed. kinda like a race horse. that's about how involved i am in what's happening to me.
-speaker3: yeah? that's very interesting. now why don't you tell me why you're really in here.
-speaker2: forget it!
+16. INT. HALLWAY - DAY: andrew and allison are walking in the hall. 
+ANDREW: so, what's your poison?
+ANDREW: what do you drink?
+ANDREW: okay...forget i asked...
+ALLISON: vodka...
+ANDREW: vodka? when do you drink vodka?
+ALLISON: whenever...
+ANDREW: a lot?
+ALLISON: tons...
+ANDREW: is that why you're here today?
+ANDREW: why are you here?
+ALLISON: why are you here?
+ANDREW: um, i'm here today...because uh, because my coach and my father don't want me to blow my ride. see i get treated differently because uh, coach thinks i'm a winner. so does my old man. i'm not a winner because i wanna be one... i'm a winner because i got strength and speed. kinda like a race horse. that's about how involved i am in what's happening to me.
+ALLISON: yeah? that's very interesting. now why don't you tell me why you're really in here.
+ANDREW: forget it!
 
-speaker1: claire...you wanna see a picture of a guy with elephantitus of the nuts? 
-speaker2: no thank you...
-speaker1: how do you think he rides a bike?
-speaker1: oh, claire...would you ever consider dating a guy like this?
-speaker2: can't you just leave me alone?
-speaker1: i mean if he had a great personality and was a good dancer and had a cool car...although you'd probably have to ride in the back seat 'cause his nuts would ride shotgun.
-speaker2: you know what i wish i was doing?
-speaker1: op, watch what you say, brian here is a cherry.
-speaker3: a cherry?
-speaker2: i wish i was on a plane to france.
-speaker3: i'm not a cherry.
-speaker1: when have you ever gotten laid?
-speaker3: i've laid, lotsa times!
-speaker1: name one!
-speaker3: she lives in canada, met her at niagra falls. you wouldn't know her.
-speaker1: ever laid anyone around here.
-speaker3: oh, you and claire, did it!
-speaker2: what are you talking about?
-speaker3: nothin', nothin! let's just drop it, we'll talk about it later!
-speaker2: no! drop what, what're you talking about?
-speaker1: well, brian's trying to tell me that in addition to the number of girls in the niagra falls area, that presently you and he are, riding the hobby horse!
-speaker2: little pig!
-speaker3: no i'm not! i'm not! john said i was a cherry and i said i wasn't, that's it, that's all that was said!
-speaker1: well then what were you motioning to claire for?
-speaker2: you know i don't appreciate this very much, brian.
-speaker3: he is lying!
-speaker1: oh you weren't motioning to claire?
-speaker3: you know he's lying, right?
-speaker1: were you or were you not motioning to claire?
-speaker3: yeah, but it was only...was only because i didn't want her to know that i was a virgin, okay?
-speaker3: excuse me for being a virgin, i'm sorry...
-speaker2: why didn't you want me to know you were a virgin?
-speaker3: because it's personal business, it's my personal, private business.
-speaker1: well brian, it doesn't sound like you're doing any business...
-speaker2: i think it's okay for a guy to be a virgin...
-speaker3: you do?
+BENDER: claire...you wanna see a picture of a guy with elephantitus of the nuts? 
+CLAIRE: no thank you...
+BENDER: how do you think he rides a bike?
+BENDER: oh, claire...would you ever consider dating a guy like this?
+CLAIRE: can't you just leave me alone?
+BENDER: i mean if he had a great personality and was a good dancer and had a cool car...although you'd probably have to ride in the back seat 'cause his nuts would ride shotgun.
+CLAIRE: you know what i wish i was doing?
+BENDER: op, watch what you say, brian here is a cherry.
+BRIAN: a cherry?
+CLAIRE: i wish i was on a plane to france.
+BRIAN: i'm not a cherry.
+BENDER: when have you ever gotten laid?
+BRIAN: i've laid, lotsa times!
+BENDER: name one!
+BRIAN: she lives in canada, met her at niagra falls. you wouldn't know her.
+BENDER: ever laid anyone around here.
+BRIAN: oh, you and claire, did it!
+CLAIRE: what are you talking about?
+BRIAN: nothin', nothin! let's just drop it, we'll talk about it later!
+CLAIRE: no! drop what, what're you talking about?
+BENDER: well, brian's trying to tell me that in addition to the number of girls in the niagra falls area, that presently you and he are, riding the hobby horse!
+CLAIRE: little pig!
+BRIAN: no i'm not! i'm not! john said i was a cherry and i said i wasn't, that's it, that's all that was said!
+BENDER: well then what were you motioning to claire for?
+CLAIRE: you know i don't appreciate this very much, brian.
+BRIAN: he is lying!
+BENDER: oh you weren't motioning to claire?
+BRIAN: you know he's lying, right?
+BENDER: were you or were you not motioning to claire?
+BRIAN: yeah, but it was only...was only because i didn't want her to know that i was a virgin, okay?
+BRIAN: excuse me for being a virgin, i'm sorry...
+CLAIRE: why didn't you want me to know you were a virgin?
+BRIAN: because it's personal business, it's my personal, private business.
+BENDER: well brian, it doesn't sound like you're doing any business...
+CLAIRE: i think it's okay for a guy to be a virgin...
+BRIAN: you do?
 
-speaker1: later. everybody has lunches now. 
-speaker2: what's in there?
-speaker3: guess, where's your lunch?
-speaker2: you're wearing it...
-speaker3: you're nauseating...
-speaker2: what's that?
-speaker3: sushi...
-speaker2: sushi?
-speaker3: rice, uh, raw fish and seaweed.
-speaker2: you won't accept a guys tongue in your mouth and you're gonna eat that?
-speaker3: can i eat?
-speaker2: i don't know...give it a try...
-speaker4: what's your problem?
-speaker2: what're we having?
-speaker5: uh, it's your standard, regular lunch i guess...
-speaker2: milk?
-speaker5: soup.
-speaker5: that's apple juice...
-speaker2: i can read! pb and j with the crusts cut off...well brian, this is a very nutritous lunch, all the food groups are represented. did your mom marry mr. rogers?
-speaker5: uh, no, mr. johnson...
-speaker2: ahhh....
-speaker2: here's my impression of life at big bri's house... son! yeah dad? how's your day, pal? great dad, how's yours? super, say son, how'd you like to go fishing this weekend? great dad, but i've got homework to do! that's alright son, you can do it, on the boat! geee!!! dear, isn't our son swell? yes dear, isn't life swell? bender mimes mother kissing father and then father
-speaker4: alright, what about your family?
-speaker2: oh, mine?
-speaker4: that's real easy!
-speaker2: stupid, worthless, no good, damned, freeloading, son of a retarded, bigmouth, know it all, asshole, jerk! you forgot ugly, lazy and disrespectful. bender slams his hand back to slap his invisable mother.
-speaker2: shut up go fix me a turkey pot pie! what about you dad? you! no, dad, what about you? you! no, dad, what about you? you!
-speaker5: is that for real?
-speaker2: you wanna come over sometime?
-speaker4: that's it's all part of your image, i don't believe a word of it.
-speaker2: you don't believe me?
-speaker4: no...
-speaker2: no?
-speaker4: did i stutter?
-speaker2: do you believe this? huh? it's about the size of a cigar...do i stutter? you see, this is what you get in my house when you spill paint in the garage.
-speaker2: see i don't think that i need to
-speaker3: you shouldn't have said that!
-speaker4: how would i know, i mean he lies about everything anyway!
+18.  INT. LIBRARY - DAY: later. everybody has lunches now. 
+BENDER: what's in there?
+CLAIRE: guess, where's your lunch?
+BENDER: you're wearing it...
+CLAIRE: you're nauseating...
+BENDER: what's that?
+CLAIRE: sushi...
+BENDER: sushi?
+CLAIRE: rice, uh, raw fish and seaweed.
+BENDER: you won't accept a guys tongue in your mouth and you're gonna eat that?
+CLAIRE: can i eat?
+BENDER: i don't know...give it a try...
+ANDREW: what's your problem?
+BENDER: what're we having?
+BRIAN: uh, it's your standard, regular lunch i guess...
+BENDER: milk?
+BRIAN: soup.
+BRIAN: that's apple juice...
+BENDER: i can read! pb and j with the crusts cut off...well brian, this is a very nutritous lunch, all the food groups are represented. did your mom marry mr. rogers?
+BRIAN: uh, no, mr. johnson...
+BENDER: ahhh....
+BENDER: here's my impression of life at big bri's house... son! yeah dad? how's your day, pal? great dad, how's yours? super, say son, how'd you like to go fishing this weekend? great dad, but i've got homework to do! that's alright son, you can do it, on the boat! geee!!! dear, isn't our son swell? yes dear, isn't life swell? bender mimes mother kissing father and then father
+ANDREW: alright, what about your family?
+BENDER: oh, mine?
+ANDREW: that's real easy!
+BENDER: stupid, worthless, no good, damned, freeloading, son of a retarded, bigmouth, know it all, asshole, jerk! you forgot ugly, lazy and disrespectful. bender slams his hand back to slap his invisable mother.
+BENDER: shut up go fix me a turkey pot pie! what about you dad? you! no, dad, what about you? you! no, dad, what about you? you!
+BRIAN: is that for real?
+BENDER: you wanna come over sometime?
+ANDREW: that's it's all part of your image, i don't believe a word of it.
+BENDER: you don't believe me?
+ANDREW: no...
+BENDER: no?
+ANDREW: did i stutter?
+BENDER: do you believe this? huh? it's about the size of a cigar...do i stutter? you see, this is what you get in my house when you spill paint in the garage.
+BENDER: see i don't think that i need to
+CLAIRE: you shouldn't have said that!
+ANDREW: how would i know, i mean he lies about everything anyway!
 
-speaker1: coffee...looks like they scrape it off the bottom of the mississippi river. everything's polluted, everything's polluted...the coffee. bender comes out of the library doors followed bye veryone else. bender and claire are walking next to each other. 
-speaker2: how do you know where vernon went?
-speaker3: i don't...
-speaker2: well then, how do you know when he'll be back?
-speaker3: i don't...being bad feels pretty good, huh?
-speaker4: what's the point in going to bender's locker?
-speaker5: beats me...
-speaker4: this is so stupid...why do you think, why are we risking getting caught?
-speaker5: i dunno...
-speaker4: so then what are we doing?
-speaker5: you ask me one more question and i'm beating the out of you!
-speaker4: sorry...
-speaker5: slob!
-speaker3: my maid's on vacation.
-speaker4: drugs...
-speaker5: screw that bender...put it back!
-speaker4: drugs...the boy had marijuana.
-speaker4: that was marijuana!
-speaker5: shut up!
-speaker4: do you approve of this?
-speaker3: we'll cross through the lab, and then we'll double back.
-speaker5: you better be right, if vernon cuts us off it's your fault, asshole!
-speaker3: wait! wait, hold it! hold it! we have to go through the cafeteria!
-speaker5: no, the activities hall.
-speaker3: hey man, you don't know what you're talking about!
-speaker5: no you don't know what you're talking about!
-speaker5: now we're through listening to you, we're going this way.
-speaker5: 
-speaker3: great idea jagoff!
-speaker5: you!
-speaker2: you! why didn't you listen to john?
-speaker4: we're dead!
-speaker3: no, just me!
-speaker4: what do you mean?
-speaker3: get back to the library, keep your unit on this!
-speaker1: that son of a
-speaker3: three...two...one!
-speaker1: bender! bender! bender! what is this? what are you doing here, what is this?
-speaker3: oh, hi!
-speaker1: out! that's it bender! out, it's over!
-speaker3: don't you wanna hear my excuse?
-speaker1: out!
-speaker3: i'm thinking of trying out for a scholarship.
-speaker1: gimmie the ball, bender.
+VERNON: coffee...looks like they scrape it off the bottom of the mississippi river. everything's polluted, everything's polluted...the coffee. bender comes out of the library doors followed bye veryone else. bender and claire are walking next to each other. 
+CLAIRE: how do you know where vernon went?
+BENDER: i don't...
+CLAIRE: well then, how do you know when he'll be back?
+BENDER: i don't...being bad feels pretty good, huh?
+BRIAN: what's the point in going to bender's locker?
+ANDREW: beats me...
+BRIAN: this is so stupid...why do you think, why are we risking getting caught?
+ANDREW: i dunno...
+BRIAN: so then what are we doing?
+ANDREW: you ask me one more question and i'm beating the out of you!
+BRIAN: sorry...
+ANDREW: slob!
+BENDER: my maid's on vacation.
+BRIAN: drugs...
+ANDREW: screw that bender...put it back!
+BRIAN: drugs...the boy had marijuana.
+BRIAN: that was marijuana!
+ANDREW: shut up!
+BRIAN: do you approve of this?
+BENDER: we'll cross through the lab, and then we'll double back.
+ANDREW: you better be right, if vernon cuts us off it's your fault, asshole!
+BENDER: wait! wait, hold it! hold it! we have to go through the cafeteria!
+ANDREW: no, the activities hall.
+BENDER: hey man, you don't know what you're talking about!
+ANDREW: no you don't know what you're talking about!
+ANDREW: now we're through listening to you, we're going this way.
+ANDREW: 
+BENDER: great idea jagoff!
+ANDREW: you!
+CLAIRE: you! why didn't you listen to john?
+BRIAN: we're dead!
+BENDER: no, just me!
+BRIAN: what do you mean?
+BENDER: get back to the library, keep your unit on this!
+VERNON: that son of a
+BENDER: three...two...one!
+VERNON: bender! bender! bender! what is this? what are you doing here, what is this?
+BENDER: oh, hi!
+VERNON: out! that's it bender! out, it's over!
+BENDER: don't you wanna hear my excuse?
+VERNON: out!
+BENDER: i'm thinking of trying out for a scholarship.
+VERNON: gimmie the ball, bender.
 
-speaker1: everything's a big joke, huh bender? the false alarm you pulled, friday, false alarms are really funny, aren't they...what if your home, what if your family... ...what if your dope was on fire? 
-speaker2: impossible, sir...it's in johnson's underwear...
-speaker1: you think he's funny? you think this is cute? you think he's bitchin', is that it? lemme tell you something. look at him, he's a bum. you wanna see something funny? you go visit john bender in five years! you'll see how funny he is! what's the matter, john? you gonna cry? let's go...
-speaker2: hey keep your hands off me! i expect better manners from you,
-speaker2: for better hallway vision!
+VERNON: everything's a big joke, huh bender? the false alarm you pulled, friday, false alarms are really funny, aren't they...what if your home, what if your family... ...what if your dope was on fire? 
+BENDER: impossible, sir...it's in johnson's underwear...
+VERNON: you think he's funny? you think this is cute? you think he's bitchin', is that it? lemme tell you something. look at him, he's a bum. you wanna see something funny? you go visit john bender in five years! you'll see how funny he is! what's the matter, john? you gonna cry? let's go...
+BENDER: hey keep your hands off me! i expect better manners from you,
+BENDER: for better hallway vision!
 
-speaker1: that's the last time, bender. that's the last time you ever make me look bad in front of those kids, do you hear me? i make $31,000 dollars a year and i have a home and i'm not about to throw it away on some punk like you...but someday, man, someday. when you're outta here and you've forgotten all about this place... and they've forgotten all about you and you're wrapped up in your own pathetic life...i'm gonna be there. that's right. and i'm gonna kick the living out of you, man, i'm gonna knock your in the dirt! 
-speaker2: are you threatening me?
-speaker1: what're you gonna do about it? you think anybody's gonna believe you? you think anybody's gonna take your word over mine? i'm a man of respect around here. they love me around here, i'm a swell guy...you're a lying sack of and everybody knows it. oh, you're a real tough guy...come on, come on...get on your feet, pal! let's find out how tough you are! i wanna know right now, how tough you are! come on! i'll give you the first punch, let's go! come on, right here, just take the first shot! please, i'm begging you, take a shot! come on, just take one shot, that's all i need, just one swing...
-speaker1: that's what i though...you're a gutless turd!
+VERNON: that's the last time, bender. that's the last time you ever make me look bad in front of those kids, do you hear me? i make $31,000 dollars a year and i have a home and i'm not about to throw it away on some punk like you...but someday, man, someday. when you're outta here and you've forgotten all about this place... and they've forgotten all about you and you're wrapped up in your own pathetic life...i'm gonna be there. that's right. and i'm gonna kick the living out of you, man, i'm gonna knock your in the dirt! 
+BENDER: are you threatening me?
+VERNON: what're you gonna do about it? you think anybody's gonna believe you? you think anybody's gonna take your word over mine? i'm a man of respect around here. they love me around here, i'm a swell guy...you're a lying sack of and everybody knows it. oh, you're a real tough guy...come on, come on...get on your feet, pal! let's find out how tough you are! i wanna know right now, how tough you are! come on! i'll give you the first punch, let's go! come on, right here, just take the first shot! please, i'm begging you, take a shot! come on, just take one shot, that's all i need, just one swing...
+VERNON: that's what i though...you're a gutless turd!
 
-speaker1: a naked blond walks into a bar, with a poodle under one arm and a two foot salami under the other. she lays the poodle on the table. bar- tender says: "i suppose you won't be needing a drink." the naked lady says... 
-speaker1: oh shit!!!!
+BENDER: a naked blond walks into a bar, with a poodle under one arm and a two foot salami under the other. she lays the poodle on the table. bar- tender says: "i suppose you won't be needing a drink." the naked lady says... 
+BENDER: oh shit!!!!
 
-speaker1: bender walks down the stairs. 
-speaker2: i forgot my pencil...
-speaker3: damnit! what in name is going on in here?
-speaker3: what was that ruckus?
-speaker4: uh, what ruckus?
-speaker3: i was just in my office and i heard a ruckus!
-speaker5: could you describe the ruckus, sir?
-speaker3: watch your tongue young man, watch it!
-speaker3: what is that? what, what is that, what is that noise?
-speaker4: what noise?
-speaker6: really, sir, there wasn't any noise...
-speaker6: that noise? was that the noise you were talking about?
-speaker3: no, it wasn't. that was not the noise i was talking about. now, i may not have caught you in the act this time, but you can bet i will.
-speaker3: you make book on that missy! and you! i will not be made a fool of!
-speaker2: it was an accident!
-speaker6: you're an asshole!
-speaker2: so sue me...
-speaker2: so, ahab...kybo mein doobage...
-speaker4: yo waistoid...you're not gonna blaze up in here!
-speaker4: 
+24. INT. LIBRARY - DAY: bender walks down the stairs. 
+BENDER: i forgot my pencil...
+VERNON: damnit! what in name is going on in here?
+VERNON: what was that ruckus?
+ANDREW: uh, what ruckus?
+VERNON: i was just in my office and i heard a ruckus!
+BRIAN: could you describe the ruckus, sir?
+VERNON: watch your tongue young man, watch it!
+VERNON: what is that? what, what is that, what is that noise?
+ANDREW: what noise?
+CLAIRE: really, sir, there wasn't any noise...
+CLAIRE: that noise? was that the noise you were talking about?
+VERNON: no, it wasn't. that was not the noise i was talking about. now, i may not have caught you in the act this time, but you can bet i will.
+VERNON: you make book on that missy! and you! i will not be made a fool of!
+BENDER: it was an accident!
+CLAIRE: you're an asshole!
+BENDER: so sue me...
+BENDER: so, ahab...kybo mein doobage...
+ANDREW: yo waistoid...you're not gonna blaze up in here!
+ANDREW: 
 
-speaker1: chicks, cannot hold der smoke! that's what it is! 
-speaker2: do you know how popular i am? i'm so popular, everybody loves me so much, at this school...
-speaker3: poor baby.
+BRIAN: chicks, cannot hold der smoke! that's what it is! 
+CLAIRE: do you know how popular i am? i'm so popular, everybody loves me so much, at this school...
+BENDER: poor baby.
 
-speaker1: mister, oh mister tearney...a history of slight mental illness? wooh, no wonder he's so up! 
-speaker2: afternoon, dick...
-speaker1: hey carl, how you doin'?
-speaker2: good...
-speaker1: good, what's up?
-speaker2: not much, what's happening, what are you doing in the basement files?
-speaker1: oh, nothin' nothin' here. i'm just doin' a little homework here...
-speaker2: homework, huh?
-speaker1: yeah...
-speaker2: confidential files...hmmm?
-speaker1: look, carl...this is a highly sensitive area and i, i tell you something...certain people would be very very embarrassed. i would really appreciate it if if if if this would be something that, that you and i could keep between us...
-speaker2: what're you gonna do for me, man?
-speaker1: well, well what would you like?
-speaker2: got fifty bucks?
-speaker1: what?
-speaker2: fifty bucks...
+VERNON: mister, oh mister tearney...a history of slight mental illness? wooh, no wonder he's so up! 
+CARL: afternoon, dick...
+VERNON: hey carl, how you doin'?
+CARL: good...
+VERNON: good, what's up?
+CARL: not much, what's happening, what are you doing in the basement files?
+VERNON: oh, nothin' nothin' here. i'm just doin' a little homework here...
+CARL: homework, huh?
+VERNON: yeah...
+CARL: confidential files...hmmm?
+VERNON: look, carl...this is a highly sensitive area and i, i tell you something...certain people would be very very embarrassed. i would really appreciate it if if if if this would be something that, that you and i could keep between us...
+CARL: what're you gonna do for me, man?
+VERNON: well, well what would you like?
+CARL: got fifty bucks?
+VERNON: what?
+CARL: fifty bucks...
 
-speaker1: no no man, no; you got a middle name? 
-speaker2: yeah, guess...
-speaker3: your middle name is ralph, as in puke...
-speaker3: ...your birthday is march 12th, you're five-nine and a half you weigh a hundred and thirty pounds and your social security number is
-speaker4: andrew is impressed.
-speaker1: wow! are you psychic?
-speaker3: no...
-speaker2: well would you mind telling me how you know all this about me?
-speaker3: i stole your wallet...
-speaker2: give it to me...
-speaker3: no...
-speaker2: give it!
-speaker2: this is great...you're a thief too!
-speaker3: i'm not a thief!
-speaker2: multi-talented!
-speaker3: what's there to steal? two bucks and a beaver shot!
-speaker1: a what?
-speaker3: he's got a nudie picture in there!
-speaker1: alright, let's see it!
-speaker5: are all these your girlfriends?
-speaker6: some of them...
-speaker5: what about the others?
-speaker6: well, some i consider my girlfriends and some...i just consider...
-speaker5: consider what?
-speaker6: whether or not, i wanna hang out with them...
-speaker5: you don't believe in just one guy, one girl?
-speaker6: do you?
-speaker5: yeah...that's the way it should be.
-speaker6: well, not for me...
-speaker5: why not?
-speaker6: how come you got so much in your purse?
-speaker5: how come you got so many girlfriends?
-speaker6: i asked you first...
-speaker5: i dunno...i guess i never throw anything away.
-speaker6: neither do i...
-speaker5: oh...
-speaker1: this is the worst fake id i've ever seen...
-speaker1: do you realize you made yourself sixty eight?
-speaker2: oh, i know...i know, i goofed it...
-speaker1: what do you need a fake id for?
-speaker2: so i can vote!
-speaker3: you wanna see what's in my bag?
-speaker7: no!
-speaker1: holy what is all that stuff?
-speaker2: do you always carry this much in your bag?
-speaker3: yeah...i always carry this much ...in my bag...you never know when you may have to jam...
-speaker2: are you gonna be like a shopping bag lady? you know like, sit in alleyways and like talk to buildings and wear men's shoes and that kinda thing?
-speaker3: i'll do what i have to do...
-speaker2: why do you have to do anything?
-speaker3: my home life is un...satisfying...
-speaker2: so you're saying you'd subject yourself to the violent dangers of the chicago streets because your homelife is unsatisfying?
-speaker3: i don't have to run away and live in the street...i can run away and, go to the ocean, i can go to the country, i can go to the mountains. i can go to israel, africa, afghanistan...
-speaker2: andy...you wanna get in on this? allison here says, she wants to run away, because her home life is unsatisfying...
-speaker1: well everyone's home lives are un- satisfying...if it wasn't, people would live with there parents forever...
-speaker2: yeah, yeah i understand. but i think that her's goes beyond, you know, what guys like you and me...
-speaker3: nevermind...forget it, everything's cool!
-speaker1: what's the deal?
-speaker3: no! there's no deal, sporto.
-speaker1: wait a minute, now you're carrying all that around in your purse. either you really wanna run away or you want people to think you wanna run away.
-speaker3: eat
-speaker2: the girl is an island, with herself. okay?
-speaker1: hi, you wanna talk?
-speaker3: no!
-speaker1: why not?
-speaker3: go away...
-speaker1: where do you want me to go?
-speaker3: go away!
-speaker3: you have problems...
-speaker1: oh, i have problems?
-speaker3: you do everything everybody ever tells you to do, that is a problem!
-speaker1: okay, fine...but i didn't dump my purse out on the couch and invite people into my problems...did i? so what's wrong? what is it? is is bad? real bad? parents?
-speaker3: yeah...
-speaker1: what do they do to you?
-speaker3: they ignore me...
-speaker1: yeah...yeah...
+ANDREW: no no man, no; you got a middle name? 
+BRIAN: yeah, guess...
+ALLISON: your middle name is ralph, as in puke...
+ALLISON: ...your birthday is march 12th, you're five-nine and a half you weigh a hundred and thirty pounds and your social security number is
+3.: andrew is impressed.
+ANDREW: wow! are you psychic?
+ALLISON: no...
+BRIAN: well would you mind telling me how you know all this about me?
+ALLISON: i stole your wallet...
+BRIAN: give it to me...
+ALLISON: no...
+BRIAN: give it!
+BRIAN: this is great...you're a thief too!
+ALLISON: i'm not a thief!
+BRIAN: multi-talented!
+ALLISON: what's there to steal? two bucks and a beaver shot!
+ANDREW: a what?
+ALLISON: he's got a nudie picture in there!
+ANDREW: alright, let's see it!
+CLAIRE: are all these your girlfriends?
+BENDER: some of them...
+CLAIRE: what about the others?
+BENDER: well, some i consider my girlfriends and some...i just consider...
+CLAIRE: consider what?
+BENDER: whether or not, i wanna hang out with them...
+CLAIRE: you don't believe in just one guy, one girl?
+BENDER: do you?
+CLAIRE: yeah...that's the way it should be.
+BENDER: well, not for me...
+CLAIRE: why not?
+BENDER: how come you got so much in your purse?
+CLAIRE: how come you got so many girlfriends?
+BENDER: i asked you first...
+CLAIRE: i dunno...i guess i never throw anything away.
+BENDER: neither do i...
+CLAIRE: oh...
+ANDREW: this is the worst fake id i've ever seen...
+ANDREW: do you realize you made yourself sixty eight?
+BRIAN: oh, i know...i know, i goofed it...
+ANDREW: what do you need a fake id for?
+BRIAN: so i can vote!
+ALLISON: you wanna see what's in my bag?
+BRIAN and ANDREW: no!
+ANDREW: holy what is all that stuff?
+BRIAN: do you always carry this much in your bag?
+ALLISON: yeah...i always carry this much ...in my bag...you never know when you may have to jam...
+BRIAN: are you gonna be like a shopping bag lady? you know like, sit in alleyways and like talk to buildings and wear men's shoes and that kinda thing?
+ALLISON: i'll do what i have to do...
+BRIAN: why do you have to do anything?
+ALLISON: my home life is un...satisfying...
+BRIAN: so you're saying you'd subject yourself to the violent dangers of the chicago streets because your homelife is unsatisfying?
+ALLISON: i don't have to run away and live in the street...i can run away and, go to the ocean, i can go to the country, i can go to the mountains. i can go to israel, africa, afghanistan...
+BRIAN: andy...you wanna get in on this? allison here says, she wants to run away, because her home life is unsatisfying...
+ANDREW: well everyone's home lives are un- satisfying...if it wasn't, people would live with there parents forever...
+BRIAN: yeah, yeah i understand. but i think that her's goes beyond, you know, what guys like you and me...
+ALLISON: nevermind...forget it, everything's cool!
+ANDREW: what's the deal?
+ALLISON: no! there's no deal, sporto.
+ANDREW: wait a minute, now you're carrying all that around in your purse. either you really wanna run away or you want people to think you wanna run away.
+ALLISON: eat
+BRIAN: the girl is an island, with herself. okay?
+ANDREW: hi, you wanna talk?
+ALLISON: no!
+ANDREW: why not?
+ALLISON: go away...
+ANDREW: where do you want me to go?
+ALLISON: go away!
+ALLISON: you have problems...
+ANDREW: oh, i have problems?
+ALLISON: you do everything everybody ever tells you to do, that is a problem!
+ANDREW: okay, fine...but i didn't dump my purse out on the couch and invite people into my problems...did i? so what's wrong? what is it? is is bad? real bad? parents?
+ALLISON: yeah...
+ANDREW: what do they do to you?
+ALLISON: they ignore me...
+ANDREW: yeah...yeah...
 
-speaker1: vernon and carl are sitting talking. 
-speaker2: what did you want to be when you were young?
-speaker3: when i was a kid, i wanted to be john lennon...
-speaker2: carl don't be a goof! i'm trying to make a serious point here...i've been teaching, for twenty two years, and each year...these kids get more and more arrogant.
-speaker3: aw bull man. come on vern, the kids haven't changed, you have! you took a teaching position, 'cause you thought it'd be fun, right? thought you could have summer vacations off...and then you found out it was actually work...and that really bummed you out.
-speaker2: these kids turned on me...they think i'm a big joke...
-speaker3: come on...listen vern, if you were sixteen, what would you think of you, huh?
-speaker2: hey...carl, you think i give one rat's what these kids think of me?
-speaker3: yes i do...
-speaker2: you think about this...when you get old, these kids; when i get old, they're gonna be runnin' the country.
-speaker3: yeah?
-speaker2: now this is the thought that wakes me up in the middle of the night... that when i get older, these kids are gonna take care of me...
-speaker3: i wouldn't count on it!
+29. INT. BASEMENT - DAY: vernon and carl are sitting talking. 
+VERNON: what did you want to be when you were young?
+CARL: when i was a kid, i wanted to be john lennon...
+VERNON: carl don't be a goof! i'm trying to make a serious point here...i've been teaching, for twenty two years, and each year...these kids get more and more arrogant.
+CARL: aw bull man. come on vern, the kids haven't changed, you have! you took a teaching position, 'cause you thought it'd be fun, right? thought you could have summer vacations off...and then you found out it was actually work...and that really bummed you out.
+VERNON: these kids turned on me...they think i'm a big joke...
+CARL: come on...listen vern, if you were sixteen, what would you think of you, huh?
+VERNON: hey...carl, you think i give one rat's what these kids think of me?
+CARL: yes i do...
+VERNON: you think about this...when you get old, these kids; when i get old, they're gonna be runnin' the country.
+CARL: yeah?
+VERNON: now this is the thought that wakes me up in the middle of the night... that when i get older, these kids are gonna take care of me...
+CARL: i wouldn't count on it!
 
-speaker1: they are sitting on the floor in a circle. 
-speaker2: what would i do for a million bucks? well, i guess i'd do as little as i had to...
-speaker3: that's boring...
-speaker2: well, how'm i s'posed to answer?
-speaker3: the idea is to like search your mind for the absolute limit. like, uh, would you drive to school naked?
-speaker2: um, uh...would i have to get out of the car?
-speaker3: of course...
-speaker2: in the spring, or winter?
-speaker3: it doesn't matter...spring...
-speaker2: in front of the school or in back of the school?
-speaker3: either one...
-speaker2: yes...
-speaker4: i'd do that!
-speaker4: i'll do anything sexual, i don't need a million dollars to do it either...
-speaker3: you're lying...
-speaker4: i already have...i've done just about everything there is except a few things that are illegal...i'm a nymphomaniac!
-speaker3: lie...
-speaker5: are your parents aware of this?
-speaker4: the only person i told was my shrink...
-speaker2: and what'd he do when you told him?
-speaker4: he nailed me...
-speaker3: very nice...
-speaker4: i don't think that from a legal standpoint what he did can be construed as since i paid him.
-speaker3: he's an adult!
-speaker4: yeah...he's married too!
-speaker3: do you have any idea how completely gross that is?
-speaker4: well, the first few times...
-speaker3: first few times? you mean he did it more than once?
-speaker4: sure...
-speaker3: are you crazy?
-speaker5: obviously she's crazy if she's her shrink...
-speaker4: have you ever done it?
-speaker3: i don't even have a psychiatrist...
-speaker4: have you ever done it with a normal person?
-speaker3: now, didn't we already cover this?
-speaker6: you never answered the question...
-speaker3: look, i'm not gonna discuss my private life with total strangers.
-speaker4: it's kind of a double-edged sword, isn't it?
-speaker3: a what?
-speaker4: well, if you say you haven't... you're a prude. if you say you have...you're a slut! it's a trap. you want to but you can't but when you do you wish you didn't, right?
-speaker3: wrong...
-speaker4: or, are you a tease?
-speaker2: she's a tease...
-speaker3: oh why don't you just forget it...
-speaker2: you're a tease and you know it, all girls are teases!
-speaker6: she's only a tease if what she does gets you hot...
-speaker3: i don't do anything!
-speaker4: that's why you're a tease...
-speaker3: okay, lemme ask you a few questions.
-speaker4: i've already told you everything!
-speaker3: no! doesn't it bother you to sleep around without being in love. i mean don't you want any respect?
-speaker4: i don't screw to get respect...that's the difference between you and me...
-speaker3: not the only difference, i hope.
-speaker6: face it, you're a tease.
-speaker3: i'm not a tease!
-speaker6: sure you are! you said it yourself is a weapon, you use it to get respect!
-speaker3: no, i never said that, she twisted my words around.
-speaker6: oh then what do you use it for?
-speaker3: i don't use it period!
-speaker6: oh, are you medically frigid or is it psychological?
-speaker3: i didn't mean it that way! you guys are putting words into my mouth!
-speaker6: well if you'd just answer the question...
-speaker5: why don't you just answer the question?
-speaker2: be honest...
-speaker6: no big deal...
-speaker5: yeah, answer it!
-speaker2: answer the question, claire!
-speaker6: talk to us!
-speaker7: come on, answer the question!
-speaker6: it's easy, it's only one question!
-speaker3: no! i never did it!
-speaker4: i never did it either, i'm not a nymphomaniac...i'm a compulsive liar...
-speaker3: you are such a you did that on purpose just to me over!
-speaker4: i would do it though...if you love someone it's okay...
-speaker3: i can't believe you, you're so weird. you don't say anything all day and then when you open your mouth...you unload all these tremendous lies all over me!
-speaker2: you're just off because she got you to admit something you didn't want to admit to...
-speaker3: okay, fine, but that doesn't make it any less bizarre...
-speaker2: what's bizarre? i mean we're all pretty bizarre! some of us are just better at hiding it, that's all.
-speaker3: how are you bizarre?
-speaker4: he can't think for himself...
-speaker2: she's right...do you guys know what, uh, what i did to get in here? i taped larry lester's buns together.
-speaker5: that was you?
-speaker2: yeah, you know him?
-speaker5: yeah, i know him...
-speaker2: well then you know how hairy he is, right? well, when they pulled the tape off, most of his hair came off and some, some skin too...
-speaker3: oh my
-speaker2: and the bizarre thing is, is that i did it for my old man...i tortured this poor kid, because i wanted him to think that i was cool. he's always going off about, you know, when he was in school...all the wild things he used to do. and i got the feeling that he was disappointed that i never cut loose on anyone, right...so, i'm...i'm sitting in the locker room, and i'm taping up my knee. and larry's a couple lockers down from me. yeah...he's kinda... he's kinda skinny, weak. and i started thinking about my father, and his attitude about weakness. and the next thing i knew, i uh, i jumped on top of him and started wailing on him...and my friends, they just laughed and cheered me on. and afterwards, when i was sittin' in vernon's office, all i could think about was larry's father. and larry havin' to go home and...and explain what happened to him. and the humiliation...fucking humiliation he mustuv felt. it mustuv been unreal...i mean, i mean, how do you apologize for something like that? there's no way...it's all because of me and my old man. oh i hate him! he's like this...he's like this mindless machine that i can't even relate to anymore..."andrew, you've got to be number one! i won't tolerate any losers in this family...your intensity is for win. win! win!!!" you son of a you know, sometimes, i wish my knee would give...and i wouldn't be able to wrestle anymore. and he could forget all about me...
-speaker6: i think your old man and my old man should get together and go bowling.
-speaker5: it's like me, you know, with my grades...like, when i, when i step outside myself kinda, and when i, when i look in at myself you know? and i see me and i don't like what i see, i really don't.
-speaker3: what's wrong with you? why don't you like yourself?
-speaker5: 'cause i'm stupid...'cause i'm failing shop. see we had this assignment, to make this ceramic elephant, and um...and we had eight weeks to do it and we're s'posed ta, and it was like a lamp, and when you pull the trunk the light was s'posed to go on...my light didn't go on, i got a on it. never got a in my life... when i signed up, you know, for the course i mean. i thought i was playing it real smart, you know. 'cause i thought, i'll take shop, it'll be such an easy way to maintain my grade point average...
-speaker6: why'd you think it'd be easy?
-speaker5: have you seen some of the dopes that take shop?
-speaker6: i take shop...you must be a
-speaker5: i'm a because i can't make a lamp?
-speaker6: no, you're a genius because you can't make a lamp...
-speaker5: what do you know about trigonometry?
-speaker6: i could care less about trigonometry...
-speaker5: bender, did you know without trigonometry there'd be no engineering?
-speaker6: without lamps, there'd be no light!
-speaker3: okay so neither one of you is any better than the other one...
-speaker4: i can write with my toes! i can also eat, brush my teeth...
-speaker3: with your feet?
-speaker4: ...play heart and soul on the piano.
-speaker5: i can make spaghetti!
-speaker3: what can you do?
-speaker2: i can...uh...tape all your buns together...
-speaker6: i wanna see what claire can do!
-speaker3: i can't do anything.
-speaker6: now, everybody can do something...
-speaker3: there's one thing i can do, no forget it, it's way too embarrassing.
-speaker6: you ever seen wild kingdom? i mean that guy's been doing that show for thirty years.
-speaker3: okay, but you have to swear to you won't laugh...i can't believe i'm actually doing this...
-speaker2: all right, great! where'd you learn to do that?
-speaker3: camp, seventh grade...
-speaker6: that was great, claire...my image of you is totally blown...
-speaker4: you're a don't do that to her you swore to you wouldn't laugh!
-speaker6: am i laughing?
-speaker2: you prick!
-speaker6: what do you care what i think, anyway? i don't even count, right? i could disappear forever and it wouldn't make any difference...i may as well not even exist at this school, remember? and you...don't like me anyway!
-speaker3: you know, i have just as many feelings as you do and it hurts just as much when somebody steps all over them!
-speaker6: you're so pathetic! don't you ever...ever! compare yourself to me! okay? you got everything, and i got rapunzel, right? school would probably shut down if you didn't show up! "queenie isn't here!" i like those earrings claire.
-speaker3: shut up...
-speaker6: are those real diamonds, claire?
-speaker3: shut up!
-speaker6: or did your daddy buy those?
-speaker3: shut up!
-speaker6: i bet he bought those for you! i bet those are a christmas gift! right? you know what i got for christmas this year? it was a banner year at the old bender family! i got a carton of cigarettes. the old man grabbed me and said "hey! smoke up johnny!" okay, so go home'n cry to your daddy, don't cry here, okay?
-speaker2: my are we gonna be like our parents?
-speaker3: not me...ever...
-speaker4: it's unavoidable, it just happens.
-speaker3: what happens?
-speaker4: when you grow up, your heart dies.
-speaker6: who cares?
-speaker4: i care...
-speaker5: um, i was just thinking, i mean. i know it's kind of a weird time, but i was just wondering, um, what is gonna happen to us on monday? when we're all together again? i mean i consider you guys my friends, i'm not wrong, am i?
-speaker2: no...
-speaker5: so, so on monday...what happens?
-speaker3: are we still friends, you mean?
-speaker5: yeah...
-speaker3: do you want the truth?
-speaker5: yeah, i want the truth...
-speaker3: i don't think so...
-speaker4: well, do you mean all of us or just john?
-speaker3: with all of you...
-speaker2: that's a real nice attitude, claire!
-speaker3: oh, be honest, andy...if brian came walking up to you in the hall on monday, what would you do? i mean picture this, you're there with all the sports. i know exactly what you'd do, you'd say hi to him and when he left you'd cut him all up so your friends wouldn't think you really liked him!
-speaker2: no way!
-speaker4: 'kay, what if i came up to you?
-speaker3: same exact thing!
-speaker6: you are a
-speaker3: why? 'cause i'm telling the truth, that makes me a
-speaker6: no! 'cause you know how that is to do to someone! and you don't got the to stand up to your friends and tell 'em that you're gonna like who you wanna like!
-speaker3: okay, what about you, you hypocrite! why don't you take allison to one of your heavy metal vomit parties? or take brian out to the parking lot at lunch to get high? what about andy for that matter, what about me? what would your friends say if we were walking down the hall together. they'd laugh their off and you'd probably tell them you were doing it with me so they'd forgive you for being seen with me.
-speaker6: don't you ever talk about my friends! you don't know any of my friends, you don't look at any of my friends and you certainly wouldn't condescend to speak to any of my friends so you just stick to the things you know, shopping, nail polish, your father's bmw and your poor--rich--drunk mother in the carribean!
-speaker3: shut up!
-speaker6: and as far as being concerned about what's gonna happen when you and i walk down the hallways at school, you can forget it! 'cause it's never gonna happen! just bury your head in the sand...and wait for your prom!
-speaker3: i hate you!
-speaker6: yeah? good!
-speaker5: then i assume allison and i are better people than you guys, huh? us weirdos... do you, would you do that to me?
-speaker4: i don't have any friends...
-speaker5: well if you did?
-speaker4: no...i don't think the kind of friends i'd have would mind...
-speaker5: i just wanna tell, each of you, that i wouldn't do that...i wouldn't and i will not! 'cause i think that's real shitty...
-speaker3: your friends wouldn't mind because they look up to us...
-speaker5: you're so conceited, claire. you're so conceited. you're so, like, full of yourself, why are you like that?
-speaker3: i'm not saying that to be conceited! i hate it! i hate having to go along with everything my friends say!
-speaker5: well then why do you do it?
-speaker3: i don't know, i don't...you don't understand..you don't. you're not friends with the same kind of people that andy and i are friends with! you know, you just don't understand the pressure that they can put on you!
-speaker5: i don't understand what? you think i don't understand pressure, claire? well you! you!
-speaker5: know why i'm here today? do you? i'm here because mr. ryan found a gun in the locker...
-speaker2: why'd you have a gun in your locker?
-speaker5: i tried. you pull the trunk on it and the light's s'posed to go on...and it didn't go on, i mean,
+30. INT. LIBRARY - DAY: they are sitting on the floor in a circle. 
+ANDREW: what would i do for a million bucks? well, i guess i'd do as little as i had to...
+CLAIRE: that's boring...
+ANDREW: well, how'm i s'posed to answer?
+CLAIRE: the idea is to like search your mind for the absolute limit. like, uh, would you drive to school naked?
+ANDREW: um, uh...would i have to get out of the car?
+CLAIRE: of course...
+ANDREW: in the spring, or winter?
+CLAIRE: it doesn't matter...spring...
+ANDREW: in front of the school or in back of the school?
+CLAIRE: either one...
+ANDREW: yes...
+ALLISON: i'd do that!
+ALLISON: i'll do anything sexual, i don't need a million dollars to do it either...
+CLAIRE: you're lying...
+ALLISON: i already have...i've done just about everything there is except a few things that are illegal...i'm a nymphomaniac!
+CLAIRE: lie...
+BRIAN: are your parents aware of this?
+ALLISON: the only person i told was my shrink...
+ANDREW: and what'd he do when you told him?
+ALLISON: he nailed me...
+CLAIRE: very nice...
+ALLISON: i don't think that from a legal standpoint what he did can be construed as since i paid him.
+CLAIRE: he's an adult!
+ALLISON: yeah...he's married too!
+CLAIRE: do you have any idea how completely gross that is?
+ALLISON: well, the first few times...
+CLAIRE: first few times? you mean he did it more than once?
+ALLISON: sure...
+CLAIRE: are you crazy?
+BRIAN: obviously she's crazy if she's her shrink...
+ALLISON: have you ever done it?
+CLAIRE: i don't even have a psychiatrist...
+ALLISON: have you ever done it with a normal person?
+CLAIRE: now, didn't we already cover this?
+BENDER: you never answered the question...
+CLAIRE: look, i'm not gonna discuss my private life with total strangers.
+ALLISON: it's kind of a double-edged sword, isn't it?
+CLAIRE: a what?
+ALLISON: well, if you say you haven't... you're a prude. if you say you have...you're a slut! it's a trap. you want to but you can't but when you do you wish you didn't, right?
+CLAIRE: wrong...
+ALLISON: or, are you a tease?
+ANDREW: she's a tease...
+CLAIRE: oh why don't you just forget it...
+ANDREW: you're a tease and you know it, all girls are teases!
+BENDER: she's only a tease if what she does gets you hot...
+CLAIRE: i don't do anything!
+ALLISON: that's why you're a tease...
+CLAIRE: okay, lemme ask you a few questions.
+ALLISON: i've already told you everything!
+CLAIRE: no! doesn't it bother you to sleep around without being in love. i mean don't you want any respect?
+ALLISON: i don't screw to get respect...that's the difference between you and me...
+CLAIRE: not the only difference, i hope.
+BENDER: face it, you're a tease.
+CLAIRE: i'm not a tease!
+BENDER: sure you are! you said it yourself is a weapon, you use it to get respect!
+CLAIRE: no, i never said that, she twisted my words around.
+BENDER: oh then what do you use it for?
+CLAIRE: i don't use it period!
+BENDER: oh, are you medically frigid or is it psychological?
+CLAIRE: i didn't mean it that way! you guys are putting words into my mouth!
+BENDER: well if you'd just answer the question...
+BRIAN: why don't you just answer the question?
+ANDREW: be honest...
+BENDER: no big deal...
+BRIAN: yeah, answer it!
+ANDREW: answer the question, claire!
+BENDER: talk to us!
+ANDREW and BRIAN: come on, answer the question!
+BENDER: it's easy, it's only one question!
+CLAIRE: no! i never did it!
+ALLISON: i never did it either, i'm not a nymphomaniac...i'm a compulsive liar...
+CLAIRE: you are such a you did that on purpose just to me over!
+ALLISON: i would do it though...if you love someone it's okay...
+CLAIRE: i can't believe you, you're so weird. you don't say anything all day and then when you open your mouth...you unload all these tremendous lies all over me!
+ANDREW: you're just off because she got you to admit something you didn't want to admit to...
+CLAIRE: okay, fine, but that doesn't make it any less bizarre...
+ANDREW: what's bizarre? i mean we're all pretty bizarre! some of us are just better at hiding it, that's all.
+CLAIRE: how are you bizarre?
+ALLISON: he can't think for himself...
+ANDREW: she's right...do you guys know what, uh, what i did to get in here? i taped larry lester's buns together.
+BRIAN: that was you?
+ANDREW: yeah, you know him?
+BRIAN: yeah, i know him...
+ANDREW: well then you know how hairy he is, right? well, when they pulled the tape off, most of his hair came off and some, some skin too...
+CLAIRE: oh my
+ANDREW: and the bizarre thing is, is that i did it for my old man...i tortured this poor kid, because i wanted him to think that i was cool. he's always going off about, you know, when he was in school...all the wild things he used to do. and i got the feeling that he was disappointed that i never cut loose on anyone, right...so, i'm...i'm sitting in the locker room, and i'm taping up my knee. and larry's a couple lockers down from me. yeah...he's kinda... he's kinda skinny, weak. and i started thinking about my father, and his attitude about weakness. and the next thing i knew, i uh, i jumped on top of him and started wailing on him...and my friends, they just laughed and cheered me on. and afterwards, when i was sittin' in vernon's office, all i could think about was larry's father. and larry havin' to go home and...and explain what happened to him. and the humiliation...fucking humiliation he mustuv felt. it mustuv been unreal...i mean, i mean, how do you apologize for something like that? there's no way...it's all because of me and my old man. oh i hate him! he's like this...he's like this mindless machine that i can't even relate to anymore..."andrew, you've got to be number one! i won't tolerate any losers in this family...your intensity is for win. win! win!!!" you son of a you know, sometimes, i wish my knee would give...and i wouldn't be able to wrestle anymore. and he could forget all about me...
+BENDER: i think your old man and my old man should get together and go bowling.
+BRIAN: it's like me, you know, with my grades...like, when i, when i step outside myself kinda, and when i, when i look in at myself you know? and i see me and i don't like what i see, i really don't.
+CLAIRE: what's wrong with you? why don't you like yourself?
+BRIAN: 'cause i'm stupid...'cause i'm failing shop. see we had this assignment, to make this ceramic elephant, and um...and we had eight weeks to do it and we're s'posed ta, and it was like a lamp, and when you pull the trunk the light was s'posed to go on...my light didn't go on, i got a on it. never got a in my life... when i signed up, you know, for the course i mean. i thought i was playing it real smart, you know. 'cause i thought, i'll take shop, it'll be such an easy way to maintain my grade point average...
+BENDER: why'd you think it'd be easy?
+BRIAN: have you seen some of the dopes that take shop?
+BENDER: i take shop...you must be a
+BRIAN: i'm a because i can't make a lamp?
+BENDER: no, you're a genius because you can't make a lamp...
+BRIAN: what do you know about trigonometry?
+BENDER: i could care less about trigonometry...
+BRIAN: bender, did you know without trigonometry there'd be no engineering?
+BENDER: without lamps, there'd be no light!
+CLAIRE: okay so neither one of you is any better than the other one...
+ALLISON: i can write with my toes! i can also eat, brush my teeth...
+CLAIRE: with your feet?
+ALLISON: ...play heart and soul on the piano.
+BRIAN: i can make spaghetti!
+CLAIRE: what can you do?
+ANDREW: i can...uh...tape all your buns together...
+BENDER: i wanna see what claire can do!
+CLAIRE: i can't do anything.
+BENDER: now, everybody can do something...
+CLAIRE: there's one thing i can do, no forget it, it's way too embarrassing.
+BENDER: you ever seen wild kingdom? i mean that guy's been doing that show for thirty years.
+CLAIRE: okay, but you have to swear to you won't laugh...i can't believe i'm actually doing this...
+ANDREW: all right, great! where'd you learn to do that?
+CLAIRE: camp, seventh grade...
+BENDER: that was great, claire...my image of you is totally blown...
+ALLISON: you're a don't do that to her you swore to you wouldn't laugh!
+BENDER: am i laughing?
+ANDREW: you prick!
+BENDER: what do you care what i think, anyway? i don't even count, right? i could disappear forever and it wouldn't make any difference...i may as well not even exist at this school, remember? and you...don't like me anyway!
+CLAIRE: you know, i have just as many feelings as you do and it hurts just as much when somebody steps all over them!
+BENDER: you're so pathetic! don't you ever...ever! compare yourself to me! okay? you got everything, and i got rapunzel, right? school would probably shut down if you didn't show up! "queenie isn't here!" i like those earrings claire.
+CLAIRE: shut up...
+BENDER: are those real diamonds, claire?
+CLAIRE: shut up!
+BENDER: or did your daddy buy those?
+CLAIRE: shut up!
+BENDER: i bet he bought those for you! i bet those are a christmas gift! right? you know what i got for christmas this year? it was a banner year at the old bender family! i got a carton of cigarettes. the old man grabbed me and said "hey! smoke up johnny!" okay, so go home'n cry to your daddy, don't cry here, okay?
+ANDREW: my are we gonna be like our parents?
+CLAIRE: not me...ever...
+ALLISON: it's unavoidable, it just happens.
+CLAIRE: what happens?
+ALLISON: when you grow up, your heart dies.
+BENDER: who cares?
+ALLISON: i care...
+BRIAN: um, i was just thinking, i mean. i know it's kind of a weird time, but i was just wondering, um, what is gonna happen to us on monday? when we're all together again? i mean i consider you guys my friends, i'm not wrong, am i?
+ANDREW: no...
+BRIAN: so, so on monday...what happens?
+CLAIRE: are we still friends, you mean?
+BRIAN: yeah...
+CLAIRE: do you want the truth?
+BRIAN: yeah, i want the truth...
+CLAIRE: i don't think so...
+ALLISON: well, do you mean all of us or just john?
+CLAIRE: with all of you...
+ANDREW: that's a real nice attitude, claire!
+CLAIRE: oh, be honest, andy...if brian came walking up to you in the hall on monday, what would you do? i mean picture this, you're there with all the sports. i know exactly what you'd do, you'd say hi to him and when he left you'd cut him all up so your friends wouldn't think you really liked him!
+ANDREW: no way!
+ALLISON: 'kay, what if i came up to you?
+CLAIRE: same exact thing!
+BENDER: you are a
+CLAIRE: why? 'cause i'm telling the truth, that makes me a
+BENDER: no! 'cause you know how that is to do to someone! and you don't got the to stand up to your friends and tell 'em that you're gonna like who you wanna like!
+CLAIRE: okay, what about you, you hypocrite! why don't you take allison to one of your heavy metal vomit parties? or take brian out to the parking lot at lunch to get high? what about andy for that matter, what about me? what would your friends say if we were walking down the hall together. they'd laugh their off and you'd probably tell them you were doing it with me so they'd forgive you for being seen with me.
+BENDER: don't you ever talk about my friends! you don't know any of my friends, you don't look at any of my friends and you certainly wouldn't condescend to speak to any of my friends so you just stick to the things you know, shopping, nail polish, your father's bmw and your poor--rich--drunk mother in the carribean!
+CLAIRE: shut up!
+BENDER: and as far as being concerned about what's gonna happen when you and i walk down the hallways at school, you can forget it! 'cause it's never gonna happen! just bury your head in the sand...and wait for your prom!
+CLAIRE: i hate you!
+BENDER: yeah? good!
+BRIAN: then i assume allison and i are better people than you guys, huh? us weirdos... do you, would you do that to me?
+ALLISON: i don't have any friends...
+BRIAN: well if you did?
+ALLISON: no...i don't think the kind of friends i'd have would mind...
+BRIAN: i just wanna tell, each of you, that i wouldn't do that...i wouldn't and i will not! 'cause i think that's real shitty...
+CLAIRE: your friends wouldn't mind because they look up to us...
+BRIAN: you're so conceited, claire. you're so conceited. you're so, like, full of yourself, why are you like that?
+CLAIRE: i'm not saying that to be conceited! i hate it! i hate having to go along with everything my friends say!
+BRIAN: well then why do you do it?
+CLAIRE: i don't know, i don't...you don't understand..you don't. you're not friends with the same kind of people that andy and i are friends with! you know, you just don't understand the pressure that they can put on you!
+BRIAN: i don't understand what? you think i don't understand pressure, claire? well you! you!
+BRIAN: know why i'm here today? do you? i'm here because mr. ryan found a gun in the locker...
+ANDREW: why'd you have a gun in your locker?
+BRIAN: i tried. you pull the trunk on it and the light's s'posed to go on...and it didn't go on, i mean,
 
-speaker1: what's the gun for brian? 
-speaker2: just forget it...
-speaker1: you brought it up, man!
-speaker2: i can't have an f, i can't have it and i know my parents can't have it! even if i aced the rest of the semester, i'm still only a b. and everything's ruined for me!
-speaker3: oh brian...
-speaker2: so i considered my options, you know?
-speaker3: no! killing yourself is not an option!
-speaker2: well i didn't do it, did i? no, i don't think so!
-speaker4: it was a hand gun?
-speaker2: no, it was a flare gun, went off in my locker.
-speaker1: really?
-speaker2: it's not funny...
-speaker2: yes it is...fuckin' elephant was destroyed!
-speaker4: you wanna know what i did to get in here? nothing...i didn't have anything better to do.
-speaker4: you're laughing at me...
-speaker1: no!
-speaker4: yeah you are!
+ANDREW: what's the gun for brian? 
+BRIAN: just forget it...
+ANDREW: you brought it up, man!
+BRIAN: i can't have an f, i can't have it and i know my parents can't have it! even if i aced the rest of the semester, i'm still only a b. and everything's ruined for me!
+CLAIRE: oh brian...
+BRIAN: so i considered my options, you know?
+CLAIRE: no! killing yourself is not an option!
+BRIAN: well i didn't do it, did i? no, i don't think so!
+ALLISON: it was a hand gun?
+BRIAN: no, it was a flare gun, went off in my locker.
+ANDREW: really?
+BRIAN: it's not funny...
+BRIAN: yes it is...fuckin' elephant was destroyed!
+ALLISON: you wanna know what i did to get in here? nothing...i didn't have anything better to do.
+ALLISON: you're laughing at me...
+ANDREW: no!
+ALLISON: yeah you are!
 
-speaker1: brian? 
-speaker2: yeah?
-speaker1: are you gonna write your paper?
-speaker2: yeah, why?
-speaker1: well, it's kinda a waste for all of us to write our paper, don't you think?
-speaker2: oh, but that's what vernon wants us to do...
-speaker1: true, but i think we'd all kinda say the same thing.
-speaker2: you just don't want to write your paper...right?
-speaker1: true, but, you're the smartest, right?
-speaker2: oh, well...
-speaker1: we trust you...
-speaker3: yeah...
-speaker2: all right, i'll do it...
-speaker1: great...
-speaker1: come on...
-speaker4: where're we going?
-speaker1: come on! we see claire putting eye make-up on allison.
-speaker1: don't be afraid.
-speaker4: don't stick that in my eye!
-speaker1: i'm not sticking it, just close... just go like that...
-speaker1: good...
-speaker1: you know you really do look a lot better without all that black on your eyes...
-speaker4: hey...i like that black
-speaker1: this looks a lot better...look up.
-speaker4: please, why're you being so nice to me?
-speaker1: 'cause you're letting me. we see brian begin to write.
+CLAIRE: brian? 
+BRIAN: yeah?
+CLAIRE: are you gonna write your paper?
+BRIAN: yeah, why?
+CLAIRE: well, it's kinda a waste for all of us to write our paper, don't you think?
+BRIAN: oh, but that's what vernon wants us to do...
+CLAIRE: true, but i think we'd all kinda say the same thing.
+BRIAN: you just don't want to write your paper...right?
+CLAIRE: true, but, you're the smartest, right?
+BRIAN: oh, well...
+CLAIRE: we trust you...
+ANDREW: yeah...
+BRIAN: all right, i'll do it...
+CLAIRE: great...
+CLAIRE: come on...
+ALLISON: where're we going?
+CLAIRE: come on! we see claire putting eye make-up on allison.
+CLAIRE: don't be afraid.
+ALLISON: don't stick that in my eye!
+CLAIRE: i'm not sticking it, just close... just go like that...
+CLAIRE: good...
+CLAIRE: you know you really do look a lot better without all that black on your eyes...
+ALLISON: hey...i like that black
+CLAIRE: this looks a lot better...look up.
+ALLISON: please, why're you being so nice to me?
+CLAIRE: 'cause you're letting me. we see brian begin to write.
 
-speaker1: brian is busily preparing the essay. 
-speaker2: cool!
-speaker3: thank you!
+35. INT. LIBRARY - DAY: brian is busily preparing the essay. 
+BRIAN: cool!
+ALLISON: thank you!
 
-speaker1: claire kisses bender, then she breaks the kiss. 
-speaker2: why'd you do that?
-speaker3: 'cause i knew you wouldn't.
-speaker2: you know how you said before, how your parents used you to get back at each other...wouldn't i be outstanding in that capacity?
-speaker3: were you really disgusted about what i did with my lipstick?
-speaker2: truth?
-speaker3: truth...
-speaker2: no...
+36. INT. CLOSET - DAY: claire kisses bender, then she breaks the kiss. 
+BENDER: why'd you do that?
+CLAIRE: 'cause i knew you wouldn't.
+BENDER: you know how you said before, how your parents used you to get back at each other...wouldn't i be outstanding in that capacity?
+CLAIRE: were you really disgusted about what i did with my lipstick?
+BENDER: truth?
+CLAIRE: truth...
+BENDER: no...
 
-speaker1: what happened to you? 
-speaker2: why? claire did it! what's wrong?
-speaker1: nothing's wrong, it's just so different. i can see your face.
-speaker2: is that good or bad?
-speaker1: it's good! allison smiles.
+ANDREW: what happened to you? 
+ALLISON: why? claire did it! what's wrong?
+ANDREW: nothing's wrong, it's just so different. i can see your face.
+ALLISON: is that good or bad?
+ANDREW: it's good! allison smiles.
 
-speaker1: see ya brian... 
-speaker2: hey carl...
-speaker3: see you next saturday...
-speaker1: you bet!
+CARL: see ya brian... 
+BRIAN: hey carl...
+BENDER: see you next saturday...
+CARL: you bet!
 
-speaker1: but what we found out is that each one of us is a brain... 
-speaker2: ...and an athlete...
-speaker3: ...and a basket case...
-speaker4: ...a princess...
-speaker5: ...and a criminal...
+BRIAN: but what we found out is that each one of us is a brain... 
+ANDREW: ...and an athlete...
+ALLISON: ...and a basket case...
+CLAIRE: ...a princess...
+BENDER: ...and a criminal...
 

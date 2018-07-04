@@ -1,984 +1,984 @@
-speaker1: when you be back? 
-speaker2: couple a weeks. don't do nothin' you wouldn't want me to hear about!
-speaker3: how about a lift, mister?
-speaker2: can't you see that sticker?
-speaker3: sure i see it. but a good guy don't pay no attention to what some heel makes him stick on his truck.
-speaker2: scrunch down on the running board till we get around the bend.
-speaker2: goin' far?
-speaker3: just a few miles. i'd a walked her if my dogs wasn't pooped out.
-speaker2: lookin' for a job?
-speaker3: no, my old man got a place, forty acres. he's a sharecropper, but we been there a long time.
-speaker2: oh!
-speaker2: been doin' a job?
-speaker3: yeah.
-speaker2: i seen your hands. you been swinging a pick or a sledge--that shines up your hands. i notice little things like that all the time. got a trade?
-speaker3: why don't you get to it, buddy?
-speaker2: get to what?
-speaker3: you know what i mean. you been givin' me a goin' over ever since i got in. whyn't you go on and ask me where i been?
-speaker2: i don't stick my nose in nobody's business.
-speaker3: naw--not much!
-speaker2: i stay in my own yard.
-speaker3: listen. that big nose of yours been goin' over me like a sheep in a vegetable patch. but i ain't keepin' it a secret. i been in the penitentiary. been there four years. like to know anything else?
-speaker2: you ain't got to get sore.
-speaker3: go ahead. ask me anything you want.
-speaker2: i didn't mean nothing.
-speaker3: me neither. i'm just tryin' to get along without shovin' anybody around, that's all. see that road up ahead?
-speaker2: yeah.
-speaker3: that's where i get off.
-speaker3: you're about to bust to know what i done, ain't you? well, i ain't a guy to let you down. homicide!
-speaker2: i never asked you!
-speaker4: mmmmm he's my saviour. mmmmm my saviour, mmmmmmmmmm my saviour now. howdy, friend.
-speaker3: howdy.
-speaker4: say, ain't you young tom joad--ol' tom's boy?
-speaker3: yeah. on my way home now.
-speaker4: well, i do declare! i baptized you, son.
-speaker3: why, you're the preacher!
-speaker4: used to be. not no more. i lost the call. but boy, i sure used to have it! i'd get an irrigation ditch so squirmin' full of repented sinners i pretty near drowned half of 'em! but not no more. i lost the sperit.
-speaker3: pa always said you was never cut out to be a preacher.
-speaker4: i got nothin' to preach about no more--that's all. i ain't so sure o' things.
-speaker3: maybe you should a got yourself a wife.
-speaker4: at my meetin's i used to get the girls glory-shoutin' till they about passed out. then, i'd go to comfort 'em--and always end up by lovin' 'em. i'd feel bad, an' pray, an' pray, but it didn't do no good. next time, do it again. i figgered there just wasn't no hope for me.
-speaker3: i never let one go by me when i could catch her.
-speaker4: but you wasn't a preacher. a girl was just a girl to you. but to me they was holy vessels. i was savin' their souls. i ast myself--what is this call, the holy sperit? maybe that's love. why, i love everybody so much i'm fit to bust sometimes! so maybe there ain't no sin an' there ain't no virtue. there's just what people do. some things folks do is nice, and some ain't so nice. but that's as far as any man's got a right to say.
-speaker3: have a little snort?
-speaker4: course i'll say grace if somebody sets out the food-- --but my heart ain't in it. nice drinkin' liquor.
-speaker3: ought to be. that's fact'ry liquor. cost me a buck.
-speaker4: been out travelin' around?
-speaker3: didn't you hear? it was in the papers.
-speaker4: no, i never. what?
-speaker3: i been in the penitentiary for four years.
-speaker4: excuse me for asking.
-speaker3: i don't mind any more. i'd do what i done again. i killed a guy at a dance. we was drunk. he got a knife in me and i laid him out with a shovel. knocked his head plumb to squash.
-speaker4: and you ain't ashamed?
-speaker3: he had a knife in me. that's why they only gave me seven years. got out in four--parole.
-speaker4: ain't you seen your folks since then?
-speaker3: no, but i aim to before sundown. gettin' kind of excited about it, too. which way you going?
-speaker4: it don't matter. ever since i lost the sperit it looks like i just as soon go one way as the other. i'll go your way.
-speaker3: maybe ma'll have pork for supper. i ain't had pork but four times in four years--every christmas.
-speaker4: i'll be glad to see you pa. last time i seen him was at a baptizin', an' he had one a the bigges' doses of the holy sperit i ever seen. he go to jumpin' over bushes, howlin' like a dog-wolf in moon-time. fin'ly he picks hisself out a bush big as a piana an' he let out a squawk an' took a run at that bush. well, sir, he cleared her but he bust his leg snap in two. they was a travellin' dentist there and he set her, an' i give her a prayin' over, but they wasn't no more holy sperit in your pa after that.
-speaker3: lissen. this wind's fixin't to do somepin'!
-speaker4: shore it is. it always is, this time a year.
-speaker4: is it fur?
-speaker3: just around that next bend.
-speaker4: your granma was a great one, too. the third time she got religion she go it so powerful she knocked down a full-growed deacon with her fist.
-speaker3: that's our place.
-speaker5: ma?... pa?... ain't nobody here? somepin's happened.
-speaker6: you got a match?
-speaker5: there was some pieces of candle always on a shelf.
-speaker3: they're all gone--or dead.
-speaker4: they never wrote you nothing?
-speaker3: no. they wasn't people to write.
-speaker3: this was ma's. had 'em for years.
-speaker3: this used to be mine. i give it to grampa when i went away. you reckon they could be dead?
-speaker4: i never heard nothin' about it.
-speaker7: tommy?
-speaker3: muley! where's my folks, muley?
-speaker7: they gone.
-speaker3: i know that! but where they gone?
-speaker3: this is muley graves. you remember the preacher, don't you?
-speaker4: i ain't no preacher anymore.
-speaker3: all right, you remember the man then.
-speaker8: glad to see you again. glad to see you.
-speaker3: now where is my folks?
-speaker7: gone-- --over to your uncle john's. the whole crowd of 'em, two weeks ago. but they can't stay there either, because john's got his notice to get off.
-speaker3: but what's happened? how come they got to get off? we been here fifty years--same place.
-speaker7: ever'body got to get off. ever'body leavin', goin' to california. my folks, your folks, ever'body's folks. ever'body but me. i ain't gettin' off.
-speaker3: but who done it?
-speaker7: listen! that's some of what done it--the dusters. started it, anyway. blowin' like this, year after year--blowin' the land away, blowin' the crops away, blowin' us away now.
-speaker3: are you crazy?
-speaker7: some say i am. you want to hear what happened?
-speaker3: that's what i asked you, ain't it?
-speaker7: the way it happens--the way it happened to me--the man come one day...
-speaker9: fact of the matter, muley, after what them dusters done to the land, the tenant system don't work no more. it don't even break even, much less show a profit. one man on a tractor can handle twelve or fourteen of these places. you just pay him a wage and take all the crop.
-speaker7: but we couldn't do on any less'n what our share is now. the chillun ain't gettin' enough to eat as it is, and they're so ragged we'd be shamed if ever'body else's chillun wasn't the same way.
-speaker9: i can't help that. all i know is i got my orders. they told me to tell you you got to get off, and that's what i'm telling you. muley stands in anger. the two younger men pattern after him.
-speaker7: you mean get off my own land?
-speaker9: now don't go blaming me. it ain't my fault.
-speaker10: whose fault is it?
-speaker9: you know who owns the land--the shawnee land and cattle company.
-speaker7: who's the shawnee land and cattle comp'ny?
-speaker9: it ain't nobody. it's a company.
-speaker10: they got a pres'dent, ain't they? they got somebody that knows what a shotgun's for, ain't they?
-speaker9: but it ain't his fault, because the bank tells him what to do.
-speaker10: all right. where's the bank?
-speaker9: tulsa. but what's the use of picking on him? he ain't anything but the manager, and half crazy hisself, trying to keep up with his orders from the east!
-speaker7: then who do we shoot?
-speaker9: brother, i don't know. if i did i'd tell you. but i just don't know who's to blame!
-speaker7: well, i'm right here to tell you, mister, ain't nobody going to push me off my land! grampa took up this land seventy years ago. my pa was born here. we was all born on it, and some of us got killed on it, and some died on it. and that's what makes it ourn--bein' born on it, and workin' it, and dyin' on it--and not no piece of paper with writin' on it! so just come on and try to push me off! the scene dissolves to the back room. the sound of the storm is heard again as tom and casy watch muley.
-speaker3: well?
-speaker7: they come. they come and pushed me off.
-speaker7: they come with the cats.
-speaker5: the what?
-speaker7: the cats--the caterpillar tractors.
-speaker11: and for ever' one of 'em ten-fifteen families gets throwed outa their homes--one hundred folks with no place to live but on the road. the rances, the perrys, the peterses, the joadses--one after another they got throwed out. half the folks you and me know--throwed right out into the road. the one that got me come a month ago.
-speaker7: i tol' you!
-speaker7: why, you're joe davis's boy!
-speaker12: i don't like nobody drawin' a bead on me.
-speaker7: then what are you doin' this kind a thing for--against your own people?
-speaker12: for three dollars a day, that's what i'm doin' it for. i got two little kids. i got a wife and my wife's mother. them people got to eat. fust and on'y thing i got to think about is my own folks. what happens to other folks is their lookout.
-speaker7: but this is my land , son. don't you understand?
-speaker12: used to be your land. b'longs to the comp'ny now.
-speaker13: what's he fixin' to do, ma?
-speaker14: hush!
-speaker7: have it your own way, son, but just as sure as you touch my house with that cat i'm gonna blow you plumb to kingdom come.
-speaker15: don't! please don't!
-speaker7: i'm tellin' you!
-speaker7: what was the use. he was right. there wasn't a thing in the world i could do about it.
-speaker3: but it don't seem possible--kicked off like that!
-speaker7: the rest of my fambly set out for the west--there wasn't nothin' to eat--but i couldn't leave. somepin' wouldn't let me. so now i just wander around. sleep wherever i am. i used to tell myself i was lookin' out for things, so when they come back ever'thing would be all right. but i knowed that wan't true. there ain't nothin' to look out for. and ain't nobody comin' back. they're gone-- and me, i'm just an 'ol graveyard ghost--that's all in the world i am.
-speaker7: you think i'm touched.
-speaker4: no. you're lonely--but you ain't touched.
-speaker7: it don't matter. if i'm touched, i'm touched, and that's all there is to it.
-speaker3: what i can't understand is my folks takin' it! like ma! i seen her nearly beat a peddler to death with a live chicken. she aimed to go for him with an ax she had in the other hand but she got mixed up and forgot which hand was which and when she got through with that peddler all she had left was two chicken legs.
-speaker7: just a plain 'ol graveyard ghost, that's all.
-speaker3: she's settlin'.
-speaker4: what you figger to do?
-speaker3: it's hard to say. stay here till mornin' an' then go on over to uncle john's, i reckon. after that i don't know.
-speaker7: listen! that's them! them lights! come on, we got to hide out!
-speaker3: hide out for what? we ain't doin' nothin'.
-speaker7: you're trespassin' ! it ain't you lan' no more! an' that's the supr'tendant--with a gun!
-speaker4: come on, tom. you're on parole.
-speaker7: all you got to do is lay down an' watch.
-speaker3: won't they come out here?
-speaker16: muley? he ain't here. the car moves on.
-speaker3: anybody ever 'tol me i'd be hidin' out on my own place...! he whistles, as the scene fades out.
-speaker17: lord, make us thankful for what we are about to receive, for his sake. amen.
-speaker18: i seen you!--you et durin' grace!
-speaker19: ain't he messy though!
-speaker18: i seen him!--gobblin' away like an ole pig!
-speaker20: whyn't you keep your eyes shet durin' grace, you ole...
-speaker21: what's it say again?
-speaker22: says plenty work in california-- peaches. eight hundred pickers needed.
-speaker20: wait'll i get to california! gonna reach up and pick me an orange whenever i want it! or grapes. that there's somethin' i ain't never had enough of! gonna get me a whole bunch a grapes off a bush and i'm gonna squash 'em all over my face and just let the juice dreen down offen my chin!
-speaker18: puh-raise the lawd for vittory!
-speaker20: maybe i get me a whole washtub fulla them grapes and jest sit in 'em and scrooge around till they was gone! i shore would like to do that! ruthie and winfield are snickering. ruthie has smeared her face with mush. she pulls winfield around to see.
-speaker19: look. i'm grampa!
-speaker14: thank oh thank tommy, you didn't bust out, didya? you ain't got to hide, have you?
-speaker3: no, ma. i'm paroled. i got my papers.
-speaker14: i was so scared we was goin' away without you--and we'd never see each other again.
-speaker3: i'd a found you, ma.
-speaker3: muley tol' me what happened, ma. are we goin' to california true?
-speaker14: we got to, tommy. but that's gonna be awright. i seen the han'bills, about how much work they is, an' high wages, too. but i gotta fin' out somepin' else first, tommy. did they hurt you, son? did they hurt you an' make you mean-mad?
-speaker3: mad, ma?
-speaker14: sometimes they do.
-speaker3: no, ma i was at first--but not no more.
-speaker14: sometimes they do somethin' to you, tommy. they hurt you--and you get mad--and then you get mean--and they hurt you again--and you get meaner, and meaner--till you ain't no boy or no man any more, but just a walkin' chunk a mean-mad. did they hurt you like that, tommy?
-speaker3: no, ma. you don't have to worry about that.
-speaker14: thank i--i don't want no mean son
-speaker23: it's tommy! it's tommy back! what'd you do, son--bust out?
-speaker24: tom's outa ja-ul! tom's outa ja-ul!
-speaker20: i knowed it! couldn't keep him in! can't keep a joad in! i knowed it from the fust!
-speaker20: you know what i al'ays said: "tom'll come bustin' outa that jail like a bull through a corral fence." can't keep no joad in jail!
-speaker3: i didn't bust out. they lemme out. howya, noah. howya, uncle john.
-speaker25: fine, tommy. glad to see you.
-speaker21: bust out?
-speaker3: parole.
-speaker26: hi, tom! howya doin'?
-speaker3: rosasharn! hi, rosasharn! howya, al!
-speaker20: the jailbird's back! the jailbird's back!
-speaker27: hi, ma! hi, connie! hiya, grampa!
-speaker23: that's connie rivers with her. they're married now. she's due about three-four months.
-speaker3: why, she wasn't no more'n a kid when i went up.
-speaker28: you bust outa jail, tom?
-speaker3: naw. they paroled me.
-speaker28: oh.
-speaker29: heh'o tom. this is connie, my husband.
-speaker3: if this don't beat all! well, i see you been busy already!
-speaker27: lookut his face! y'see his face? lookut rosasharn! y'ever see anything like her face when tom said it? look around, rosasharn! let's see it again!
-speaker16: hey, joad! john joad!
-speaker16: ain't forgot, have you?
-speaker22: we ain't forgot.
-speaker16: comin' through here tomorrow, you know.
-speaker22: i know. we be out. we be out by sunup.
-speaker3: how you get all this money?
-speaker23: sol' things, chopped cotton--even grampa. got us about two hunnerd dollars all tol'. shucked out seventy- five for this truck, but we still got nearly a hunnerd and fifty to set out on. i figger we oughta be able to make it on that.
-speaker3: easy. after all, they ain't but about twelve of us, is they?
-speaker28: she'll prob'ly ride like a bull calf-- but she'll ride!
-speaker23: reckon we better begin roustin' 'em out if we aim to get outa here by daylight. how about it, john? how you boys comin'?
-speaker3: how about it, ma?
-speaker14: i'm ready.
-speaker14: rosasharn honey! wake up the chillun. we're fixin' to leave. the flame dies down.
-speaker23: where's grampa? al, go git him.
-speaker18: i'm gonna sit up front! somebody he'p me!
-speaker30: goin' to california! goin' to california!
-speaker23: you kids climb up first, on top. al's gonna drive, ma. you sit up there with him and granma and we'll swap around later.
-speaker18: i ain't gonna sit with grampa!
-speaker23: connie, you he'p rosasharn up there alongside ruthie and winfiel'. where's grampa?
-speaker18: where he al'ays is, prob'ly!
-speaker23: well, leave him a place, but noah, you and john, y'all kinda find yourself a place--kinda keep it even all around.
-speaker3: think she'll hold?
-speaker4: if she does it'll be a miracle outa scripture.
-speaker31: lemmo go, gol dang it! lemmo go, i tell you!
-speaker28: he wasn't sleepin'. he was settin' out back a the barn. they's somepin' wrong with him.
-speaker20: ef you don't let me go--
-speaker3: what's the matter, grampa?
-speaker20: ain't nothin' the matter. i just ain't a-goin', that's all.
-speaker23: what you mean you ain't goin'? we got to go. we got no place to stay.
-speaker20: i ain't talkin' about you, i'm talkin' about me. and i'm a-stayin'. i give her a good goin' over all night long-- and i'm a-stayin'.
-speaker23: but you can't do that, grampa. this here land is goin' under the tractor. we all got to git out.
-speaker20: all but me! i'm a-stayin'.
-speaker3: how 'bout granma?
-speaker20: take her with you!
-speaker14: but who'd cook for you? how'd you live?
-speaker20: muley's livin', ain't he? and i'm twicet the man muley is!
-speaker23: now listen, grampa. listen to me, just a minute.
-speaker20: and i ain't gonna listen either. i tol' you what i'm gonna do. and i don't give a hoot in a hollow if they's oranges and grapes crowdin' a fella outa bed even, i ain't a- goin' to california! this here's my country. i b'long here . it ain't no good-- --but it's mine.
-speaker3: ma. pa. grampa, his eyes hurt and hunted and frightened and bewildered, scratches in the dirt.
-speaker20: and can't nobody make me go, either! ain't nobody here man enough to make me! i'm a-stayin'.
+WAITRESS: when you be back? 
+DRIVER: couple a weeks. don't do nothin' you wouldn't want me to hear about!
+TOM: how about a lift, mister?
+DRIVER: can't you see that sticker?
+TOM: sure i see it. but a good guy don't pay no attention to what some heel makes him stick on his truck.
+DRIVER: scrunch down on the running board till we get around the bend.
+DRIVER: goin' far?
+TOM: just a few miles. i'd a walked her if my dogs wasn't pooped out.
+DRIVER: lookin' for a job?
+TOM: no, my old man got a place, forty acres. he's a sharecropper, but we been there a long time.
+DRIVER: oh!
+DRIVER: been doin' a job?
+TOM: yeah.
+DRIVER: i seen your hands. you been swinging a pick or a sledge--that shines up your hands. i notice little things like that all the time. got a trade?
+TOM: why don't you get to it, buddy?
+DRIVER: get to what?
+TOM: you know what i mean. you been givin' me a goin' over ever since i got in. whyn't you go on and ask me where i been?
+DRIVER: i don't stick my nose in nobody's business.
+TOM: naw--not much!
+DRIVER: i stay in my own yard.
+TOM: listen. that big nose of yours been goin' over me like a sheep in a vegetable patch. but i ain't keepin' it a secret. i been in the penitentiary. been there four years. like to know anything else?
+DRIVER: you ain't got to get sore.
+TOM: go ahead. ask me anything you want.
+DRIVER: i didn't mean nothing.
+TOM: me neither. i'm just tryin' to get along without shovin' anybody around, that's all. see that road up ahead?
+DRIVER: yeah.
+TOM: that's where i get off.
+TOM: you're about to bust to know what i done, ain't you? well, i ain't a guy to let you down. homicide!
+DRIVER: i never asked you!
+CASY: mmmmm he's my saviour. mmmmm my saviour, mmmmmmmmmm my saviour now. howdy, friend.
+TOM: howdy.
+CASY: say, ain't you young tom joad--ol' tom's boy?
+TOM: yeah. on my way home now.
+CASY: well, i do declare! i baptized you, son.
+TOM: why, you're the preacher!
+CASY: used to be. not no more. i lost the call. but boy, i sure used to have it! i'd get an irrigation ditch so squirmin' full of repented sinners i pretty near drowned half of 'em! but not no more. i lost the sperit.
+TOM: pa always said you was never cut out to be a preacher.
+CASY: i got nothin' to preach about no more--that's all. i ain't so sure o' things.
+TOM: maybe you should a got yourself a wife.
+CASY: at my meetin's i used to get the girls glory-shoutin' till they about passed out. then, i'd go to comfort 'em--and always end up by lovin' 'em. i'd feel bad, an' pray, an' pray, but it didn't do no good. next time, do it again. i figgered there just wasn't no hope for me.
+TOM: i never let one go by me when i could catch her.
+CASY: but you wasn't a preacher. a girl was just a girl to you. but to me they was holy vessels. i was savin' their souls. i ast myself--what is this call, the holy sperit? maybe that's love. why, i love everybody so much i'm fit to bust sometimes! so maybe there ain't no sin an' there ain't no virtue. there's just what people do. some things folks do is nice, and some ain't so nice. but that's as far as any man's got a right to say.
+TOM: have a little snort?
+CASY: course i'll say grace if somebody sets out the food-- --but my heart ain't in it. nice drinkin' liquor.
+TOM: ought to be. that's fact'ry liquor. cost me a buck.
+CASY: been out travelin' around?
+TOM: didn't you hear? it was in the papers.
+CASY: no, i never. what?
+TOM: i been in the penitentiary for four years.
+CASY: excuse me for asking.
+TOM: i don't mind any more. i'd do what i done again. i killed a guy at a dance. we was drunk. he got a knife in me and i laid him out with a shovel. knocked his head plumb to squash.
+CASY: and you ain't ashamed?
+TOM: he had a knife in me. that's why they only gave me seven years. got out in four--parole.
+CASY: ain't you seen your folks since then?
+TOM: no, but i aim to before sundown. gettin' kind of excited about it, too. which way you going?
+CASY: it don't matter. ever since i lost the sperit it looks like i just as soon go one way as the other. i'll go your way.
+TOM: maybe ma'll have pork for supper. i ain't had pork but four times in four years--every christmas.
+CASY: i'll be glad to see you pa. last time i seen him was at a baptizin', an' he had one a the bigges' doses of the holy sperit i ever seen. he go to jumpin' over bushes, howlin' like a dog-wolf in moon-time. fin'ly he picks hisself out a bush big as a piana an' he let out a squawk an' took a run at that bush. well, sir, he cleared her but he bust his leg snap in two. they was a travellin' dentist there and he set her, an' i give her a prayin' over, but they wasn't no more holy sperit in your pa after that.
+TOM: lissen. this wind's fixin't to do somepin'!
+CASY: shore it is. it always is, this time a year.
+CASY: is it fur?
+TOM: just around that next bend.
+CASY: your granma was a great one, too. the third time she got religion she go it so powerful she knocked down a full-growed deacon with her fist.
+TOM: that's our place.
+TOM'S VOICE: ma?... pa?... ain't nobody here? somepin's happened.
+CASY'S VOICE: you got a match?
+TOM'S VOICE: there was some pieces of candle always on a shelf.
+TOM: they're all gone--or dead.
+CASY: they never wrote you nothing?
+TOM: no. they wasn't people to write.
+TOM: this was ma's. had 'em for years.
+TOM: this used to be mine. i give it to grampa when i went away. you reckon they could be dead?
+CASY: i never heard nothin' about it.
+MULEY: tommy?
+TOM: muley! where's my folks, muley?
+MULEY: they gone.
+TOM: i know that! but where they gone?
+TOM: this is muley graves. you remember the preacher, don't you?
+CASY: i ain't no preacher anymore.
+TOM: all right, you remember the man then.
+MULEY AND CASY: glad to see you again. glad to see you.
+TOM: now where is my folks?
+MULEY: gone-- --over to your uncle john's. the whole crowd of 'em, two weeks ago. but they can't stay there either, because john's got his notice to get off.
+TOM: but what's happened? how come they got to get off? we been here fifty years--same place.
+MULEY: ever'body got to get off. ever'body leavin', goin' to california. my folks, your folks, ever'body's folks. ever'body but me. i ain't gettin' off.
+TOM: but who done it?
+MULEY: listen! that's some of what done it--the dusters. started it, anyway. blowin' like this, year after year--blowin' the land away, blowin' the crops away, blowin' us away now.
+TOM: are you crazy?
+MULEY: some say i am. you want to hear what happened?
+TOM: that's what i asked you, ain't it?
+MULEY: the way it happens--the way it happened to me--the man come one day...
+THE MAN: fact of the matter, muley, after what them dusters done to the land, the tenant system don't work no more. it don't even break even, much less show a profit. one man on a tractor can handle twelve or fourteen of these places. you just pay him a wage and take all the crop.
+MULEY: but we couldn't do on any less'n what our share is now. the chillun ain't gettin' enough to eat as it is, and they're so ragged we'd be shamed if ever'body else's chillun wasn't the same way.
+THE MAN: i can't help that. all i know is i got my orders. they told me to tell you you got to get off, and that's what i'm telling you. muley stands in anger. the two younger men pattern after him.
+MULEY: you mean get off my own land?
+THE MAN: now don't go blaming me. it ain't my fault.
+SON: whose fault is it?
+THE MAN: you know who owns the land--the shawnee land and cattle company.
+MULEY: who's the shawnee land and cattle comp'ny?
+THE MAN: it ain't nobody. it's a company.
+SON: they got a pres'dent, ain't they? they got somebody that knows what a shotgun's for, ain't they?
+THE MAN: but it ain't his fault, because the bank tells him what to do.
+SON: all right. where's the bank?
+THE MAN: tulsa. but what's the use of picking on him? he ain't anything but the manager, and half crazy hisself, trying to keep up with his orders from the east!
+MULEY: then who do we shoot?
+THE MAN: brother, i don't know. if i did i'd tell you. but i just don't know who's to blame!
+MULEY: well, i'm right here to tell you, mister, ain't nobody going to push me off my land! grampa took up this land seventy years ago. my pa was born here. we was all born on it, and some of us got killed on it, and some died on it. and that's what makes it ourn--bein' born on it, and workin' it, and dyin' on it--and not no piece of paper with writin' on it! so just come on and try to push me off! the scene dissolves to the back room. the sound of the storm is heard again as tom and casy watch muley.
+TOM: well?
+MULEY: they come. they come and pushed me off.
+MULEY: they come with the cats.
+TOM'S VOICE: the what?
+MULEY: the cats--the caterpillar tractors.
+MULEY'S VOICE: and for ever' one of 'em ten-fifteen families gets throwed outa their homes--one hundred folks with no place to live but on the road. the rances, the perrys, the peterses, the joadses--one after another they got throwed out. half the folks you and me know--throwed right out into the road. the one that got me come a month ago.
+MULEY: i tol' you!
+MULEY: why, you're joe davis's boy!
+DAVIS: i don't like nobody drawin' a bead on me.
+MULEY: then what are you doin' this kind a thing for--against your own people?
+DAVIS: for three dollars a day, that's what i'm doin' it for. i got two little kids. i got a wife and my wife's mother. them people got to eat. fust and on'y thing i got to think about is my own folks. what happens to other folks is their lookout.
+MULEY: but this is my land , son. don't you understand?
+DAVIS: used to be your land. b'longs to the comp'ny now.
+GIRL: what's he fixin' to do, ma?
+MA: hush!
+MULEY: have it your own way, son, but just as sure as you touch my house with that cat i'm gonna blow you plumb to kingdom come.
+WIFE: don't! please don't!
+MULEY: i'm tellin' you!
+MULEY: what was the use. he was right. there wasn't a thing in the world i could do about it.
+TOM: but it don't seem possible--kicked off like that!
+MULEY: the rest of my fambly set out for the west--there wasn't nothin' to eat--but i couldn't leave. somepin' wouldn't let me. so now i just wander around. sleep wherever i am. i used to tell myself i was lookin' out for things, so when they come back ever'thing would be all right. but i knowed that wan't true. there ain't nothin' to look out for. and ain't nobody comin' back. they're gone-- and me, i'm just an 'ol graveyard ghost--that's all in the world i am.
+MULEY: you think i'm touched.
+CASY: no. you're lonely--but you ain't touched.
+MULEY: it don't matter. if i'm touched, i'm touched, and that's all there is to it.
+TOM: what i can't understand is my folks takin' it! like ma! i seen her nearly beat a peddler to death with a live chicken. she aimed to go for him with an ax she had in the other hand but she got mixed up and forgot which hand was which and when she got through with that peddler all she had left was two chicken legs.
+MULEY: just a plain 'ol graveyard ghost, that's all.
+TOM: she's settlin'.
+CASY: what you figger to do?
+TOM: it's hard to say. stay here till mornin' an' then go on over to uncle john's, i reckon. after that i don't know.
+MULEY: listen! that's them! them lights! come on, we got to hide out!
+TOM: hide out for what? we ain't doin' nothin'.
+MULEY: you're trespassin' ! it ain't you lan' no more! an' that's the supr'tendant--with a gun!
+CASY: come on, tom. you're on parole.
+MULEY: all you got to do is lay down an' watch.
+TOM: won't they come out here?
+MAN: muley? he ain't here. the car moves on.
+TOM: anybody ever 'tol me i'd be hidin' out on my own place...! he whistles, as the scene fades out.
+MA'S VOICE: lord, make us thankful for what we are about to receive, for his sake. amen.
+GRANMA: i seen you!--you et durin' grace!
+RUTHIE: ain't he messy though!
+GRANMA: i seen him!--gobblin' away like an ole pig!
+GRAMPA: whyn't you keep your eyes shet durin' grace, you ole...
+NOAH: what's it say again?
+JOHN: says plenty work in california-- peaches. eight hundred pickers needed.
+GRAMPA: wait'll i get to california! gonna reach up and pick me an orange whenever i want it! or grapes. that there's somethin' i ain't never had enough of! gonna get me a whole bunch a grapes off a bush and i'm gonna squash 'em all over my face and just let the juice dreen down offen my chin!
+GRANMA: puh-raise the lawd for vittory!
+GRAMPA: maybe i get me a whole washtub fulla them grapes and jest sit in 'em and scrooge around till they was gone! i shore would like to do that! ruthie and winfield are snickering. ruthie has smeared her face with mush. she pulls winfield around to see.
+RUTHIE: look. i'm grampa!
+MA: thank oh thank tommy, you didn't bust out, didya? you ain't got to hide, have you?
+TOM: no, ma. i'm paroled. i got my papers.
+MA: i was so scared we was goin' away without you--and we'd never see each other again.
+TOM: i'd a found you, ma.
+TOM: muley tol' me what happened, ma. are we goin' to california true?
+MA: we got to, tommy. but that's gonna be awright. i seen the han'bills, about how much work they is, an' high wages, too. but i gotta fin' out somepin' else first, tommy. did they hurt you, son? did they hurt you an' make you mean-mad?
+TOM: mad, ma?
+MA: sometimes they do.
+TOM: no, ma i was at first--but not no more.
+MA: sometimes they do somethin' to you, tommy. they hurt you--and you get mad--and then you get mean--and they hurt you again--and you get meaner, and meaner--till you ain't no boy or no man any more, but just a walkin' chunk a mean-mad. did they hurt you like that, tommy?
+TOM: no, ma. you don't have to worry about that.
+MA: thank i--i don't want no mean son
+PA: it's tommy! it's tommy back! what'd you do, son--bust out?
+WINFIELD AND RUTHIE: tom's outa ja-ul! tom's outa ja-ul!
+GRAMPA: i knowed it! couldn't keep him in! can't keep a joad in! i knowed it from the fust!
+GRAMPA: you know what i al'ays said: "tom'll come bustin' outa that jail like a bull through a corral fence." can't keep no joad in jail!
+TOM: i didn't bust out. they lemme out. howya, noah. howya, uncle john.
+NOAH AND JOHN: fine, tommy. glad to see you.
+NOAH: bust out?
+TOM: parole.
+AL AND ROSASHARN: hi, tom! howya doin'?
+TOM: rosasharn! hi, rosasharn! howya, al!
+GRAMPA: the jailbird's back! the jailbird's back!
+OMNES: hi, ma! hi, connie! hiya, grampa!
+PA: that's connie rivers with her. they're married now. she's due about three-four months.
+TOM: why, she wasn't no more'n a kid when i went up.
+AL: you bust outa jail, tom?
+TOM: naw. they paroled me.
+AL: oh.
+ROSASHARN: heh'o tom. this is connie, my husband.
+TOM: if this don't beat all! well, i see you been busy already!
+OMNES: lookut his face! y'see his face? lookut rosasharn! y'ever see anything like her face when tom said it? look around, rosasharn! let's see it again!
+MAN: hey, joad! john joad!
+MAN: ain't forgot, have you?
+JOHN: we ain't forgot.
+MAN: comin' through here tomorrow, you know.
+JOHN: i know. we be out. we be out by sunup.
+TOM: how you get all this money?
+PA: sol' things, chopped cotton--even grampa. got us about two hunnerd dollars all tol'. shucked out seventy- five for this truck, but we still got nearly a hunnerd and fifty to set out on. i figger we oughta be able to make it on that.
+TOM: easy. after all, they ain't but about twelve of us, is they?
+AL: she'll prob'ly ride like a bull calf-- but she'll ride!
+PA: reckon we better begin roustin' 'em out if we aim to get outa here by daylight. how about it, john? how you boys comin'?
+TOM: how about it, ma?
+MA: i'm ready.
+MA: rosasharn honey! wake up the chillun. we're fixin' to leave. the flame dies down.
+PA: where's grampa? al, go git him.
+GRANMA: i'm gonna sit up front! somebody he'p me!
+RUTHIE AND WINFIELD: goin' to california! goin' to california!
+PA: you kids climb up first, on top. al's gonna drive, ma. you sit up there with him and granma and we'll swap around later.
+GRANMA: i ain't gonna sit with grampa!
+PA: connie, you he'p rosasharn up there alongside ruthie and winfiel'. where's grampa?
+GRANMA: where he al'ays is, prob'ly!
+PA: well, leave him a place, but noah, you and john, y'all kinda find yourself a place--kinda keep it even all around.
+TOM: think she'll hold?
+CASY: if she does it'll be a miracle outa scripture.
+GRAMPA'S VOICE: lemmo go, gol dang it! lemmo go, i tell you!
+AL: he wasn't sleepin'. he was settin' out back a the barn. they's somepin' wrong with him.
+GRAMPA: ef you don't let me go--
+TOM: what's the matter, grampa?
+GRAMPA: ain't nothin' the matter. i just ain't a-goin', that's all.
+PA: what you mean you ain't goin'? we got to go. we got no place to stay.
+GRAMPA: i ain't talkin' about you, i'm talkin' about me. and i'm a-stayin'. i give her a good goin' over all night long-- and i'm a-stayin'.
+PA: but you can't do that, grampa. this here land is goin' under the tractor. we all got to git out.
+GRAMPA: all but me! i'm a-stayin'.
+TOM: how 'bout granma?
+GRAMPA: take her with you!
+MA: but who'd cook for you? how'd you live?
+GRAMPA: muley's livin', ain't he? and i'm twicet the man muley is!
+PA: now listen, grampa. listen to me, just a minute.
+GRAMPA: and i ain't gonna listen either. i tol' you what i'm gonna do. and i don't give a hoot in a hollow if they's oranges and grapes crowdin' a fella outa bed even, i ain't a- goin' to california! this here's my country. i b'long here . it ain't no good-- --but it's mine.
+TOM: ma. pa. grampa, his eyes hurt and hunted and frightened and bewildered, scratches in the dirt.
+GRAMPA: and can't nobody make me go, either! ain't nobody here man enough to make me! i'm a-stayin'.
 
-speaker1: either we got to tie him up and throw him on the truck, or somepin. he can't stay here. 
-speaker2: can't tie him. either we'll hurt him or he'll git so mad he'll hurt his self. reckon we could git him drunk ?
-speaker1: ain't no whisky, is they?
-speaker3: wait. there's a half a bottle a soothin' sirup here. it put the chillun to sleep.
-speaker1: don't taste bad.
-speaker3: and they's some coffee here. i could fix him a cup...
-speaker1: that's right. and douse some in it.
-speaker2: better give him a good 'un. he's awful bull-headed.
-speaker4: if muley can scrabble along, i can do it too. i smell spareribs. somebody been eatin' spareribs? how come i ain't got some?
-speaker3: got some saved for you, grampa. got 'em warmin' now. here's a cuppa coffee.
-speaker4: awright, but get me some a them spareribs, too. get me a whole mess of 'em. i'm hongry. he drinks the coffee. pa and tom watch him. he notices nothing. he takes another dram of the coffee.
-speaker4: i shore do like spareribs. he drinks again.
-speaker2: easy, easy! you wanta bust his head wide open? pull his arms, john.
-speaker4: ain't a-goin', thas all...
-speaker2: put somepin' over him, so he won't git sun-struck. ever'body set now? awright, al, letta go!
-speaker2: you be awright, grampa.
-speaker5: good-by, an' good luck.
-speaker2: hey, wait! hold 'er, al! ain't you goin' with us?
-speaker2: come on, get on, plenty room!
-speaker6: sure, come on, casy, plenty room!
-speaker2: here we go!
-speaker7: ain't you gonna look back, ma?--give the ol' place a last look?
-speaker3: we're goin' to california, ain't we? awright then, let's go to california.
-speaker7: that don't sound like you, ma. you never was like that before.
-speaker3: i never had my house pushed over before. i never had my fambly stuck out on the road. i never had to lose... ever'thing i had in life.
+TOM: either we got to tie him up and throw him on the truck, or somepin. he can't stay here. 
+PA: can't tie him. either we'll hurt him or he'll git so mad he'll hurt his self. reckon we could git him drunk ?
+TOM: ain't no whisky, is they?
+MA: wait. there's a half a bottle a soothin' sirup here. it put the chillun to sleep.
+TOM: don't taste bad.
+MA: and they's some coffee here. i could fix him a cup...
+TOM: that's right. and douse some in it.
+PA: better give him a good 'un. he's awful bull-headed.
+GRAMPA: if muley can scrabble along, i can do it too. i smell spareribs. somebody been eatin' spareribs? how come i ain't got some?
+MA: got some saved for you, grampa. got 'em warmin' now. here's a cuppa coffee.
+GRAMPA: awright, but get me some a them spareribs, too. get me a whole mess of 'em. i'm hongry. he drinks the coffee. pa and tom watch him. he notices nothing. he takes another dram of the coffee.
+GRAMPA: i shore do like spareribs. he drinks again.
+PA: easy, easy! you wanta bust his head wide open? pull his arms, john.
+GRAMPA: ain't a-goin', thas all...
+PA: put somepin' over him, so he won't git sun-struck. ever'body set now? awright, al, letta go!
+PA: you be awright, grampa.
+CASY: good-by, an' good luck.
+PA: hey, wait! hold 'er, al! ain't you goin' with us?
+PA: come on, get on, plenty room!
+OMNES: sure, come on, casy, plenty room!
+PA: here we go!
+AL: ain't you gonna look back, ma?--give the ol' place a last look?
+MA: we're goin' to california, ain't we? awright then, let's go to california.
+AL: that don't sound like you, ma. you never was like that before.
+MA: i never had my house pushed over before. i never had my fambly stuck out on the road. i never had to lose... ever'thing i had in life.
 
-speaker1: ain't a-goin'... ain't a-goin'... 
-speaker2: 's all right, grampa. you just kind a tar'd, that's all. somebody fix a pallet.
-speaker3: this here is william james joad, dyed of a stroke, old old man. his folkes bured him becaws they got no money to pay for funerls. nobody kilt him. jus a stroke an he dyed.
-speaker2: i figger best we leave something like this on him, lest somebody dig him up and make out he been kilt. lotta times looks like the gov'ment got more interest in a dead man than a live one.
-speaker4: not be so lonesome, either, knowin' his name is there with 'im, not just' a old fella lonesome underground.
-speaker2: casy, won't you say a few words?
-speaker5: i ain't no more a preacher, you know.
-speaker2: we know. but ain't none of our folks ever been buried without a few words.
-speaker5: i'll say 'em--an' make it short. this here ol' man jus' lived a life an' jus' died out of it. i don't know whether he was good or bad, an' it don't matter much. heard a fella say a poem once, an' he says, "all that lives is holy." but i wouldn't pray for jus' a ol' man that's dead, because he's awright. if i was to pray i'd pray for the folks that's alive an' don't know which way to turn. grampa here, he ain't got no more trouble like that. he's got his job all cut out for 'im--so cover 'im up and let 'im get to it.
-speaker6: amen.
-speaker7: tommy.
-speaker8: what is it, ma?
-speaker7: wasn't that the state line we just passed?
-speaker2: yes'm, that was it.
-speaker7: your pa tol' me you didn't ought to cross it if you're paroled. says they'll send you up again.
-speaker2: forget it, ma. i got her figgered out. long as i keep outa trouble, ain't nobody gonna say a thing. all i gotta do is keep my nose clean.
-speaker7: maybe they got crimes in california we don't know about. crimes we don't even know is crimes.
-speaker2: forget it, ma. jus' think about the nice things out there. think about them grapes and oranges--an' ever'body got work--
-speaker9: i gotta git out!
-speaker2: first gas station, granma--
-speaker9: i gotta git out , i tell ya! i gotta git out !
-speaker2: awright! awright!
-speaker2: they shore don't waste no time! take her out.
-speaker10: save your strength, lady. get goin', buddy. no campin' here.
-speaker2: we ain't campin'. we jus' stoppin' a minute--
-speaker10: lissen, i heard that before--
-speaker9: i tell ya i gotta git out!
-speaker2: she's kinda ol'--
-speaker9: i tell ya--
-speaker10: okay, okay!
-speaker11: ma... all this, will it hurt the baby?
-speaker7: now don't you go gettin' nimsy-mimsy.
-speaker11: sometimes i'm all jumpy inside.
-speaker7: well, can't nobody get through nine months without sorrow.
-speaker11: but will it--hurt the baby?
-speaker7: they use' to be a sayin': a chile born outa sorrow'll be a happy chile. an' another: born outa too much joy'll be a doleful boy. that's the way i always heard it.
-speaker11: you don't ever get scairt, do you, ma?
-speaker7: sometimes. a little. only it ain't scairt so much. it's just waitin' an' wonderin'. but when sump'n happens that i got to do sump'n-- --i'll do it.
-speaker11: don't it ever scare you it won't be nice in california like we think?
-speaker7: no. no, it don't. i can't do that. i can't let m'self. all i can do is see how soon they gonna wanta eat again. they'd all get upset if i done anymore 'n that. they all depen' on me jus' thinkin' about that. that's my part--that an' keepin' the fambly together. as the music ends we see a group on the porch steps. the men murmur approbation of connie's playing.
-speaker4: thas my son-in-law.
-speaker12: sings real nice. what state y'all from?
-speaker4: oklahoma. had us a farm there, share- croppin'.
-speaker2: till the tractors druv us out.
-speaker12: we from arkansas. i had me a store there, kind of general notions store, but when the farms went the store went too. nice a little as you ever saw. i shore did hate to give it up.
-speaker4: wal, y'cain't tell. i figure when we git out there an' git work an' maybe git us a piece a growin' lan' near water it might not be so bad at that.
-speaker13: thas right... payin' good wages, i hear... ever'body got work out there... can't be no worse...
-speaker14: you folks must have a pot a money.
-speaker14: good wages, eh! pickin' oranges an' peaches?
-speaker4: we gonna take whatever they got.
-speaker2: what's so funny about it?
-speaker14: what's so funny about it? i just been out there! i been an' seen it! an' i'm goin' back to starve-- because i ruther starve all over at once!
-speaker4: whatta you think you're talkin' about? i got a han'bill here says good wages, an' i seen it in the papers they need pickers!
-speaker14: awright, go on! ain't nobody stoppin' ya!
-speaker4: but what about this?
-speaker14: i ain't gonna fret you. go on!
-speaker2: wait a minute, buddy. you jus' done some jackassin'! you ain't gonna shut up now. the han'bill says they need men. you laugh an' say they don't. now which one's a liar?
-speaker4: but what does that prove?
-speaker14: look at 'em! same yella han'bill-- 800 pickers wanted. awright, this man wants 800 men. so he prints up 5,000 a them han'bills an' maybe 20,000 people sees 'em. an' maybe two-three thousan' starts movin, wes' account a this han'bill. two- three thousan' folks that's crazy with worry headin' out for 800 jobs! does that make sense?
-speaker15: what are you, a troublemaker? you sure you ain't one a them labor fakes?
-speaker14: i swear i ain't, mister!
-speaker15: well, don't you go roun' here tryin' to stir up trouble.
-speaker14: i tried to tell you folks sump'n it took me a year to fin' out. took two kids dead, took my wife dead, to show me. but nobody couldn't tell me neither. i can't tell ya about them little fellas layin' in the tent with their bellies puffed out an' jus' skin on their bones, an' shiverin' an' whinin' like pups, an' me runnin' aroun' tryin' to get work-- --not for money, not for wages--jus' for a cup a flour an' a spoon a lard! an' then the coroner came. "them children died a heart-failure," he says, an' put it in his paper. heart-failure!--an' their little bellies stuck out like a pig-bladder!
-speaker12: well--gettin' late. got to get to sleep.
-speaker4: s'pose he's tellin' the truth--that fella?
-speaker5: he's tellin' the truth awright. the truth for him. he wasn't makin' nothin' up.
-speaker2: how about us? is that the truth for us?
-speaker5: i don't know.
-speaker16: you folks aim to buy anything?
-speaker17: need some gas, mister.
-speaker16: got any money?
-speaker17: whatta you think:--we's beggin'?
-speaker16: i just ast, that's all.
-speaker2: well, ask right. you ain't talkin' to bums, you know.
-speaker18: kinda pie y'got?
-speaker19: banana cream, pineapple cream, chocolate cream--and apple.
-speaker18: cut me off a hunk a that banana cream, and a cuppa java.
-speaker20: make it two.
-speaker19: two it is. seen any new etchin's lately, bill?
-speaker19: yeah?
-speaker4: could you see your way clear to sell us a loaf of bread, ma'am.
-speaker19: this ain't a groc'ry store. we got bread to make san'widges with.
-speaker4: i know, ma'am... on'y it's for a ole lady, no teeth, gotta sof'n it with water so she can chew it, an' she's hongry.
-speaker19: whyn't you buy a san'wich? we got nice san'widges.
-speaker4: i shore would like to do that, ma'am, but the fack is, we ain't got but a dime for it. it's all figgered out, i mean--for the trip.
-speaker19: you can't get no loaf a bread for a dime. we only got fifteen-cent loafs.
-speaker21: give 'em the bread.
-speaker19: we'll run out 'fore the bread truck comes.
-speaker21: awright then, run out!
-speaker19: come in.
-speaker19: this here's a fifteen-cent loaf.
-speaker4: would you--could you see your way to cuttin' off ten cents worth?
-speaker21: give 'im the loaf!
-speaker4: no, sir, we wanta buy ten cents worth, thas all.
-speaker19: you can have this for ten cents.
-speaker4: i don't wanta rob you, ma'am.
-speaker19: go ahead--bert says take it.
-speaker4: may soun' funny to be so tight, but we got a thousan' miles to go, an' we don't know if we'll make it.
-speaker4: is them penny candy, ma'am?
-speaker19: which ones?
-speaker4: there, them stripy ones.
-speaker19: oh, them? well, no--them's two for a penny.
-speaker4: well, give me two then, ma'am.
-speaker4: thank you, ma'am.
-speaker18: them wasn't two-for-a-cent candy.
-speaker19: what's it to you?
-speaker18: them was nickel apiece candy.
-speaker20: we got to get goin'. we're droppin' time.
-speaker18: so long.
-speaker19: hey, wait a minute. you got change comin'.
-speaker22: what's it to you?
-speaker19: bert.
-speaker21: what ya want?
-speaker19: look here.
-speaker19: truck drivers.
-speaker21: i figgered no. 3 was about ready to pay off. the scene fades out.
-speaker23: where you going?
-speaker2: california.
-speaker23: how long you plan to be in arizona?
-speaker2: no longer'n we can get acrost her.
-speaker23: got any plants?
-speaker2: no plants.
-speaker23: okay. go ahead, but you better keep movin'.
-speaker2: sure. we aim to.
-speaker4: there she is, folks--the land a milk an' honey--california!
-speaker24: well, if that's what we come out here for...
-speaker11: maybe it's nice on the other side. them pitchers--them little pos'cards-- they was real pretty.
-speaker2: aw, sure. this here's jus' a part of it. ain't no sense a gettin' scairt right off.
-speaker4: course not. come on, let's get goin'. she don't look so tough to me!
-speaker2: got that desert yet. gotta take her tonight. take her in the daytime fella says she'll cut your gizzard out.
-speaker4: how's granma since we got her in the tent?
-speaker17: she's off her chump, seems to me.
-speaker25: she's outa her senses, awright. all night on the truck keep talkin' like she was talkin' to grampa.
-speaker2: she's jus' wore out, that's all.
-speaker4: i shore would like to stop here a while an' give her some res' but we on'y got 'bout forty dollars left. i won't feel right till we're there an' all workin' an' a little money comin' in.
-speaker25: like to jus' stay here myself. like to lay here forever. never get hungry an' never get sad. lay in the water all life long, lazy as a brood sow in the mud.
-speaker2: never seen such tough mountains. this here's a murder country, just the bones of a country. wonder if we'll ever get in a place where folks can live 'thout fightin' hard scrabble an' rock. sometimes you get to thinkin' they ain't no such country.
-speaker26: how's the swimmin'?
-speaker2: dunno. we ain't tried none. sure feels good to set here, though.
-speaker26: mind if we come in an' set?
-speaker2: she ain't our river. but we'll len' you a little piece of her.
-speaker4: goin' west?
-speaker27: nope. we come from there. goin' back home.
-speaker2: where's home?
-speaker27: panhandle, come from near pampa.
-speaker4: can you make a livin' there?
-speaker27: nope.
-speaker4: ya know, you're the second fella talked like that. i'd like to hear some more about that.
-speaker2: me an' you both.
-speaker28: he ain't gonna tell you nothin' about it.
-speaker4: if a fella's willin' to work hard, can't he cut her?
-speaker26: listen, mister. i don't know ever'thing. you might go out an' fall into a steady job, an' i'd be a liar. an' then, you might never get no work, an' i didn't warn you. all i can tell ya, most of the folks is purty mis'able. but a fella don't know ever'thing.
-speaker4: john, you never was a fella to say much, but i'll be goldanged if you opened your mouth twicet since we lef' home. what you think about this?
-speaker29: i don't think nothin' about it. we're a-goin' there, ain't we? when we get there, we'll get there. when we get a job, we'll work, an' when we don't get a job we'll set on our behin's. that's all they is to it, ain't it?
-speaker30: you people got a lotta nerve.
-speaker2: what you mean?
-speaker30: crossin' the desert in a jalopy like this.
-speaker2: you been acrost?
-speaker30: sure, plenty, but not in no wreck like this.
-speaker2: if we broke down maybe somebody'd give us a han'.
-speaker30: well, maybe. but i'd hate to be doin' it. takes more nerve than i got.
-speaker7: don't you worry, granma. it's gonna be awright.
-speaker9: grampa... grampa... i want grampa...
-speaker7: don't you fret now. the truck moves off.
-speaker30: holy moses, what a hard-lookin' outfit!
-speaker31: all them okies is hard-lookin'.
-speaker30: boy, but i'd hate to hit that desert in a jalopy like that!
-speaker31: well, you and me got sense. them okies got no sense or no feeling. they ain't human. a human being wouldn't live like they do. a human being couldn't stand it to be so miserable.
-speaker30: just don't know any better, i guess.
-speaker17: what a place! how'd you like to walk acrost her?
-speaker2: people done it. if they could, we could.
-speaker17: lots must a died, too.
-speaker2: well, we ain't out a it yet.
-speaker32: this here's the desert an' we're right in it!
-speaker33: i wisht it was day.
-speaker32: tom says if it's day it'll cut you gizzard smack out a you. i seen a pitcher once. they was bones ever'place.
-speaker33: man bones?
-speaker32: some, i guess, but mos'ly cow bones.
-speaker11: seems like we wasn't never gonna do nothin' but move. i'm so tar'd.
-speaker24: women is always tar'd.
-speaker11: you ain't--you ain't sorry, are you, honey?
-speaker24: no, but--but you seen that advertisement in the spicy western story magazine. don't pay nothin'. jus' send 'em the coupon an' you're a radio expert--nice clean work.
-speaker11: but we can still do it, honey.
-speaker7: we can't give up, honey. the family's got to get acrost. you know that.
-speaker34: ever'thing all right?
-speaker2: what's this here?
-speaker35: agricultural inspection. we got to go over your stuff. got any vegetables or seed?
-speaker2: no.
-speaker35: well, we got to look over your stuff. you got to unload.
-speaker7: look, mister. we got a sick ol' lady. we got to get her to a doctor. we can't wait. you can't make us wait!
-speaker35: yeah? well, we got to look you over.
-speaker7: i swear we ain't got anything. i swear it. an' granma's awful sick. look!
-speaker35: you wasn't foolin'! you swear you got no fruit or vegetables?
-speaker7: no, i swear it.
-speaker35: then go ahead. you can get a doctor at barstow. that's just eight miles. but don't stop. don't get off. understand?
-speaker2: okay, cap. much oblige.
-speaker17: will ya look at her!
-speaker4: i never knowed they was anything like her!
-speaker2: where's ma? i want ma to see it. look, ma! come here, ma!
-speaker2: ma, you sick?
-speaker7: ya say we're acrost?
-speaker2: look, ma!
-speaker7: thank an' we're still together-- most of us.
-speaker2: didn' you get no sleep?
-speaker7: no.
-speaker2: was granma bad?
-speaker7: granma's dead.
-speaker2: when?
-speaker7: since before they stopped us las' night.
-speaker2: an' that's why you didn't want 'em to look?
-speaker7: i was afraid they'd stop us an' wouldn't let us cross. but i tol' granma. i tol' her when she was dyin'. i tol' her the fambly had ta get acrost. i tol' her we couldn't take no chances on bein' stopped.
-speaker36: how far you figger you gonna get this way?
-speaker2: right here. we give out a gas.
-speaker2: where's the bes' place to get some work aroun' here? don't matter what kin' either.
-speaker36: if i seen one a them things i must a seen ten thousan'.
-speaker4: ain't it no good?
-speaker36: not here--not now. month ago there was some pickin' but it's all moved south now. where'bouts in oklahoma you from?
-speaker2: sallisaw.
-speaker36: i come out from cherokee county--two years ago.
-speaker11: why, connie's folks from cherokee county--
-speaker36: okay, ma'am, let's don't go into it. i already met about a hundred firs' cousins an' it mus' be five hundred secon'. but this is what i got to tell you, don't try to park in town tonight. keep on out to that camp. if we catch you in town after dark we got to lock you up. don't forget.
-speaker4: but what we gonna do ?
-speaker36: pop, that just ain't up to me. but i don't min' tellin' you, the guy they ought to lock up is the guy that sent out them things.
-speaker37: how many, folks?
-speaker17: one.
-speaker2: she shore don't look prosperous. want to go somewheres else?
-speaker7: on a gallon a gas?
-speaker38: i could break up some bresh if you want me, ma'am.
-speaker7: you want to get ast to eat, hunh?
-speaker38: yes, ma'am.
-speaker7: didn' you have no breakfast?
-speaker38: no, ma'am. they ain't no work hereabouts. pa's in tryin' to sell some stuff to get gas so's we can get along.
-speaker7: didn' none of these have no breakfast?
-speaker39: i did. me an' my brother did. we et good.
-speaker7: then you ain't hungry, are you?
-speaker39: we et good.
-speaker7: well, it's a good thing some a you ain't hungry, because they ain't enough to go all the way roun'.
-speaker38: aw, he was braggin'. know what he done? las' night, come out an' say they got chicken to eat. well, sir, i looked in whilst they was a-eatin' an' it was fried dough jus' like ever'body else.
-speaker4: how 'bout it?
-speaker7: go get tom an' al. i dunno what to do. i got to feed the fambly. what'm i gonna do with these here?
-speaker29: you take this. i ain't hungry.
-speaker2: whatta ya mean? you ain't et today.
-speaker29: i know, but i got a stomickache. i ain't hungry.
-speaker2: you take that plate inside the tent an' you eat it.
-speaker29: wouldn't be no use. i'd still see 'em inside the tent.
-speaker2: you git. go on now, git. you ain't doin' no good. they ain't enough for you. the children retreat a step, but no more, and then look wonderingly at him.
-speaker7: we can't send 'em away. take your plates an' go inside. take a plate to rosasharn. look. you little fellas go an' get you each a flat stick an' i'll put what's lef' for you. but they ain't to be no fightin'! i don't know if i'm doin' right or not but--go inside, ever'body stay inside. they ain't enough. all you gonna get is jus' a taste but--i can't help it, i can't keep it from you.
-speaker40: you men want to work?
-speaker4: sure we wanta work. where's it at?
-speaker40: tulare county. fruit's opening up. need a lot of pickers.
-speaker41: you doin' the hirin'?
-speaker40: well, i'm contracting the land.
-speaker12: whay you payin?
-speaker40: well, can't tell exactly, yet. 'bout thirty cents, i guess.
-speaker12: why can't you tell? you took the contrac', didn' you?
-speaker40: that's true. but it's keyed to the price. might be a little more, might be a little less.
-speaker41: all right, mister. i'll go. you just show your license to contrack, an' then you make out a order--where an' when an' how much you gonna pay--an' you sign it an' we'll go.
-speaker40: you trying to tell me how to run my own business?
-speaker41: 'f we're workin' for you, it's our business too. an' how do we know-- --you ain't one a the guys that sent these things out?
-speaker41: twicet now i've fell for that line. maybe he needs a thousan' men. so he get's five thousan' there, an' he'll pay fifteen cents a hour. an' you guys'll have to take it 'cause you'll be hungry. 'f he wants to hire men, let him write it out an' say what he's gonna pay. ast to see his license. he ain't allowed by law to contrack men without a license.
-speaker40: joe!
-speaker41: you see? if this guy was on the level, would he bring a cop along?
-speaker42: what's the trouble?
-speaker40: ever see this guy before?
-speaker42: what'd he do?
-speaker40: he's agitatin'.
-speaker42: hmmm. seems like i have. seems like i seen him hangin' around that used car lot that was busted into. yep, i'd swear it's the same fella. get in that car.
-speaker2: you got nothin' on him.
-speaker42: open your trap again and you'll go too.
-speaker40: you fellas don't wanta lissen to troublemakers. you better pack up an' come on to tulare county.
-speaker42: might be a good idea to do what he says. too many of you okies aroun' here already. folks beginnin' to figger it ain't maybe safe . might start a epidemic or sump'n. wouldn't like a bunch a guys down here with pick handles tonight, would you?
-speaker42: now, you.
-speaker5: gimme that gun. now git outa here. go down in them willows an' wait.
-speaker2: i ain't gonna run.
-speaker5: he seen you, tom! you wanta be fingerprinted? you wanta get sent back for breakin' parole?
-speaker2: you're right!
-speaker5: hide in the willows. if it's awright to come back i'll give you four high whistles.
-speaker5: go on. get in your tent. you don't know nothin'.
-speaker17: how 'bout you?
-speaker5: some body got to take the blame. they just got to hang it on somebody, you know. an' i ain't doin' nothin' but set around.
-speaker17: but ain't no reason--
-speaker5: lissen. i don't care nothin' about you, but if you mess in this, your whole fambly li'ble to get in trouble, an' tom get sent back to the penitentiary.
-speaker17: okay. i think you're a darn fool, though.
-speaker5: sure. why not?
-speaker43: what's goin' on here?
-speaker5: this man a yours, he got tough an' i hit him. then he started shootin'-- hit a woman down the line--so i hit him again.
-speaker43: well--what'd you do in the first place?
-speaker5: i talked back.
-speaker5: they's a woman down there like to bleed to death from his bad shootin'.
-speaker43: take a look at her. mike, is this the fella that hit you?
-speaker42: don't look like him.
-speaker5: it was me, all right. you just got smart with the wrong fella.
-speaker42: don't look like him, but... maybe it was. i ain't sure.
-speaker43: get in that car.
-speaker42: but what you gonna do? must be thousands of 'em around here, sore and hungry and living in them dumps. what you gonna do about 'em?
-speaker43: you gotta hold 'em down. hold 'em down or they'll take over the whole country. that's all you can do.
-speaker4: leave him alone, ma--al's just billy- goatin' around--
-speaker17: sure! i was just aimin' to meet up with a couple girls i know.
-speaker7: you don't know no girls around here. you're lyin', you're runnin' away !
-speaker4: cut it out, ma, or i'll--
-speaker7: you'll what ?... come on, pa. come on an' whup me. jus' try it.
-speaker4: now don't get sassy, ma.
-speaker7: al ain't a-goin' away, an' you gonna tell him he ain't a-goin' away. an' if you think diff'unt, you gotta whup me first. so some on.
-speaker4: i never seen her so sassy. an' she ain't so young, neither!
-speaker17: i'd come back--
-speaker4: jus' sassy, that's all.
-speaker7: sassy my foot! i'm jus' sick and tar'd a my folks tryin' to bust up. all we got lef' in the worl' is the fambly--an' right down at bottom that's all we got to have! ef some of us dies, we can't he'p that--but ain't nobody else runnin' away!
-speaker17: but it ain't runnin' away, ma. all i wanta do is go away with another fella an' look aroun' for work by ourself--
-speaker7: well, you ain't a-goin'! ain't nobody else a-goin'! we got here an' we gonna stay here, together! as long as we got the fambly unbroke i ain't scared, but it's a long bitter road we got ahead of us-- --an' i'm here to tell ya ef anybody else tries to bust us up anymore i'm a-goin' cat wild with this here piece a bar-arn! as she gets ready for whatever... in the shadows, twenty feet away from the tent, tom whistles softly.
-speaker2: hey, al!
-speaker17: tom? you can come on. they gone.
-speaker2: we got to get outa here right away. ever'body here? where's uncle john?
-speaker29: here i am.
-speaker4: what's a matter now?
-speaker2: fella tells me some a them poolroom boys figgerin' to burn the whole camp out tonight. got to get that truck loaded--what you doin' with the jack-handle, ma?
-speaker44: al's tryin' to go away... she jus' got sassy... all i aimed to do...
-speaker2: awright, you can fight it out later. right now we got to hustle. where's connie?
-speaker7: connie's gone. lit out this e'enin'--said he didn't know it was gonna be like this.
-speaker4: glad to get shet of him. never was no good an' never will be--
-speaker7: pa! shh!
-speaker4: how come i got to shh? run out, didn't he?
-speaker2: cut it out, pa. he'p al with the truck. don't fret, honey. you goin' to be awright.
-speaker11: tom, i jus' don't feel like nothin' a tall. without him i jus' don't wanta live.
-speaker2: maybe he'll be back. we'll leave word for him. jus' don't cry.
-speaker2: just in case. sit up back an' if anybody tries to climb up--let 'im have it.
-speaker4: i ain't got nothin' in my han'.
-speaker2: give 'im a fryin' pan.
-speaker11: maybe connie went to get some books to study up with. he's gonna be a radio expert, ya know. maybe he figgered to suprise us.
-speaker7: maybe that's jus' what he done.
-speaker2: ma, they comes a time when a man gets mad.
-speaker7: tom--you tol' me--you promised you wasn't like that. you promised me.
-speaker2: i know, ma. i'm a tryin'. if it was the law they was workin' with, we could take it. but it ain't the law. they're workin' away at our spirits. they're tryin' to make us cringe an' crawl. they're workin' on our decency.
-speaker7: you promised, tommy.
-speaker2: i'm a-tryin', ma. honest i am.
-speaker7: you gotta keep clear, tom. the fambly's breakin' up. you got to keep clear.
-speaker2: what's that--detour?
-speaker45: where you think you're goin'?
-speaker2: well-- --we're strangers here. we heard about they's work in a place called tulare.
-speaker45: well, you're goin' the wrong way, an' what's more, we don't want no more okies in this town. we ain't got work enough for them that are already here.
-speaker2: which way is it at, mister?
-speaker45: you turn right aroun' and head north. an' don't come back till the cotton's ready.
-speaker2: yes, sir.
+GRAMPA: ain't a-goin'... ain't a-goin'... 
+TOM: 's all right, grampa. you just kind a tar'd, that's all. somebody fix a pallet.
+TOM'S VOICE: this here is william james joad, dyed of a stroke, old old man. his folkes bured him becaws they got no money to pay for funerls. nobody kilt him. jus a stroke an he dyed.
+TOM: i figger best we leave something like this on him, lest somebody dig him up and make out he been kilt. lotta times looks like the gov'ment got more interest in a dead man than a live one.
+PA: not be so lonesome, either, knowin' his name is there with 'im, not just' a old fella lonesome underground.
+TOM: casy, won't you say a few words?
+CASY: i ain't no more a preacher, you know.
+TOM: we know. but ain't none of our folks ever been buried without a few words.
+CASY: i'll say 'em--an' make it short. this here ol' man jus' lived a life an' jus' died out of it. i don't know whether he was good or bad, an' it don't matter much. heard a fella say a poem once, an' he says, "all that lives is holy." but i wouldn't pray for jus' a ol' man that's dead, because he's awright. if i was to pray i'd pray for the folks that's alive an' don't know which way to turn. grampa here, he ain't got no more trouble like that. he's got his job all cut out for 'im--so cover 'im up and let 'im get to it.
+OMNES: amen.
+MA: tommy.
+TOMMY: what is it, ma?
+MA: wasn't that the state line we just passed?
+TOM: yes'm, that was it.
+MA: your pa tol' me you didn't ought to cross it if you're paroled. says they'll send you up again.
+TOM: forget it, ma. i got her figgered out. long as i keep outa trouble, ain't nobody gonna say a thing. all i gotta do is keep my nose clean.
+MA: maybe they got crimes in california we don't know about. crimes we don't even know is crimes.
+TOM: forget it, ma. jus' think about the nice things out there. think about them grapes and oranges--an' ever'body got work--
+GRANMA: i gotta git out!
+TOM: first gas station, granma--
+GRANMA: i gotta git out , i tell ya! i gotta git out !
+TOM: awright! awright!
+TOM: they shore don't waste no time! take her out.
+COP: save your strength, lady. get goin', buddy. no campin' here.
+TOM: we ain't campin'. we jus' stoppin' a minute--
+COP: lissen, i heard that before--
+GRANMA: i tell ya i gotta git out!
+TOM: she's kinda ol'--
+GRANMA: i tell ya--
+COP: okay, okay!
+ROSASHARN: ma... all this, will it hurt the baby?
+MA: now don't you go gettin' nimsy-mimsy.
+ROSASHARN: sometimes i'm all jumpy inside.
+MA: well, can't nobody get through nine months without sorrow.
+ROSASHARN: but will it--hurt the baby?
+MA: they use' to be a sayin': a chile born outa sorrow'll be a happy chile. an' another: born outa too much joy'll be a doleful boy. that's the way i always heard it.
+ROSASHARN: you don't ever get scairt, do you, ma?
+MA: sometimes. a little. only it ain't scairt so much. it's just waitin' an' wonderin'. but when sump'n happens that i got to do sump'n-- --i'll do it.
+ROSASHARN: don't it ever scare you it won't be nice in california like we think?
+MA: no. no, it don't. i can't do that. i can't let m'self. all i can do is see how soon they gonna wanta eat again. they'd all get upset if i done anymore 'n that. they all depen' on me jus' thinkin' about that. that's my part--that an' keepin' the fambly together. as the music ends we see a group on the porch steps. the men murmur approbation of connie's playing.
+PA: thas my son-in-law.
+FIRST MAN: sings real nice. what state y'all from?
+PA: oklahoma. had us a farm there, share- croppin'.
+TOM: till the tractors druv us out.
+FIRST MAN: we from arkansas. i had me a store there, kind of general notions store, but when the farms went the store went too. nice a little as you ever saw. i shore did hate to give it up.
+PA: wal, y'cain't tell. i figure when we git out there an' git work an' maybe git us a piece a growin' lan' near water it might not be so bad at that.
+OTHER MEN: thas right... payin' good wages, i hear... ever'body got work out there... can't be no worse...
+SECOND MAN: you folks must have a pot a money.
+SECOND MAN: good wages, eh! pickin' oranges an' peaches?
+PA: we gonna take whatever they got.
+TOM: what's so funny about it?
+SECOND MAN: what's so funny about it? i just been out there! i been an' seen it! an' i'm goin' back to starve-- because i ruther starve all over at once!
+PA: whatta you think you're talkin' about? i got a han'bill here says good wages, an' i seen it in the papers they need pickers!
+SECOND MAN: awright, go on! ain't nobody stoppin' ya!
+PA: but what about this?
+SECOND MAN: i ain't gonna fret you. go on!
+TOM: wait a minute, buddy. you jus' done some jackassin'! you ain't gonna shut up now. the han'bill says they need men. you laugh an' say they don't. now which one's a liar?
+PA: but what does that prove?
+SECOND MAN: look at 'em! same yella han'bill-- 800 pickers wanted. awright, this man wants 800 men. so he prints up 5,000 a them han'bills an' maybe 20,000 people sees 'em. an' maybe two-three thousan' starts movin, wes' account a this han'bill. two- three thousan' folks that's crazy with worry headin' out for 800 jobs! does that make sense?
+PROPRIETOR: what are you, a troublemaker? you sure you ain't one a them labor fakes?
+SECOND MAN: i swear i ain't, mister!
+PROPRIETOR: well, don't you go roun' here tryin' to stir up trouble.
+SECOND MAN: i tried to tell you folks sump'n it took me a year to fin' out. took two kids dead, took my wife dead, to show me. but nobody couldn't tell me neither. i can't tell ya about them little fellas layin' in the tent with their bellies puffed out an' jus' skin on their bones, an' shiverin' an' whinin' like pups, an' me runnin' aroun' tryin' to get work-- --not for money, not for wages--jus' for a cup a flour an' a spoon a lard! an' then the coroner came. "them children died a heart-failure," he says, an' put it in his paper. heart-failure!--an' their little bellies stuck out like a pig-bladder!
+FIRST MAN: well--gettin' late. got to get to sleep.
+PA: s'pose he's tellin' the truth--that fella?
+CASY: he's tellin' the truth awright. the truth for him. he wasn't makin' nothin' up.
+TOM: how about us? is that the truth for us?
+CASY: i don't know.
+FAT MAN: you folks aim to buy anything?
+AL: need some gas, mister.
+FAT MAN: got any money?
+AL: whatta you think:--we's beggin'?
+FAT MAN: i just ast, that's all.
+TOM: well, ask right. you ain't talkin' to bums, you know.
+BILL: kinda pie y'got?
+MAE: banana cream, pineapple cream, chocolate cream--and apple.
+BILL: cut me off a hunk a that banana cream, and a cuppa java.
+FRED: make it two.
+MAE: two it is. seen any new etchin's lately, bill?
+MAE: yeah?
+PA: could you see your way clear to sell us a loaf of bread, ma'am.
+MAE: this ain't a groc'ry store. we got bread to make san'widges with.
+PA: i know, ma'am... on'y it's for a ole lady, no teeth, gotta sof'n it with water so she can chew it, an' she's hongry.
+MAE: whyn't you buy a san'wich? we got nice san'widges.
+PA: i shore would like to do that, ma'am, but the fack is, we ain't got but a dime for it. it's all figgered out, i mean--for the trip.
+MAE: you can't get no loaf a bread for a dime. we only got fifteen-cent loafs.
+BERT: give 'em the bread.
+MAE: we'll run out 'fore the bread truck comes.
+BERT: awright then, run out!
+MAE: come in.
+MAE: this here's a fifteen-cent loaf.
+PA: would you--could you see your way to cuttin' off ten cents worth?
+BERT: give 'im the loaf!
+PA: no, sir, we wanta buy ten cents worth, thas all.
+MAE: you can have this for ten cents.
+PA: i don't wanta rob you, ma'am.
+MAE: go ahead--bert says take it.
+PA: may soun' funny to be so tight, but we got a thousan' miles to go, an' we don't know if we'll make it.
+PA: is them penny candy, ma'am?
+MAE: which ones?
+PA: there, them stripy ones.
+MAE: oh, them? well, no--them's two for a penny.
+PA: well, give me two then, ma'am.
+PA: thank you, ma'am.
+BILL: them wasn't two-for-a-cent candy.
+MAE: what's it to you?
+BILL: them was nickel apiece candy.
+FRED: we got to get goin'. we're droppin' time.
+BILL: so long.
+MAE: hey, wait a minute. you got change comin'.
+BILL'S VOICE: what's it to you?
+MAE: bert.
+BERT: what ya want?
+MAE: look here.
+MAE: truck drivers.
+BERT: i figgered no. 3 was about ready to pay off. the scene fades out.
+GUARD: where you going?
+TOM: california.
+GUARD: how long you plan to be in arizona?
+TOM: no longer'n we can get acrost her.
+GUARD: got any plants?
+TOM: no plants.
+GUARD: okay. go ahead, but you better keep movin'.
+TOM: sure. we aim to.
+PA: there she is, folks--the land a milk an' honey--california!
+CONNIE: well, if that's what we come out here for...
+ROSASHARN: maybe it's nice on the other side. them pitchers--them little pos'cards-- they was real pretty.
+TOM: aw, sure. this here's jus' a part of it. ain't no sense a gettin' scairt right off.
+PA: course not. come on, let's get goin'. she don't look so tough to me!
+TOM: got that desert yet. gotta take her tonight. take her in the daytime fella says she'll cut your gizzard out.
+PA: how's granma since we got her in the tent?
+AL: she's off her chump, seems to me.
+NOAH: she's outa her senses, awright. all night on the truck keep talkin' like she was talkin' to grampa.
+TOM: she's jus' wore out, that's all.
+PA: i shore would like to stop here a while an' give her some res' but we on'y got 'bout forty dollars left. i won't feel right till we're there an' all workin' an' a little money comin' in.
+NOAH: like to jus' stay here myself. like to lay here forever. never get hungry an' never get sad. lay in the water all life long, lazy as a brood sow in the mud.
+TOM: never seen such tough mountains. this here's a murder country, just the bones of a country. wonder if we'll ever get in a place where folks can live 'thout fightin' hard scrabble an' rock. sometimes you get to thinkin' they ain't no such country.
+MAN: how's the swimmin'?
+TOM: dunno. we ain't tried none. sure feels good to set here, though.
+MAN: mind if we come in an' set?
+TOM: she ain't our river. but we'll len' you a little piece of her.
+PA: goin' west?
+MAN'S VOICE: nope. we come from there. goin' back home.
+TOM: where's home?
+MAN'S VOICE: panhandle, come from near pampa.
+PA: can you make a livin' there?
+MAN'S VOICE: nope.
+PA: ya know, you're the second fella talked like that. i'd like to hear some more about that.
+TOM: me an' you both.
+SON: he ain't gonna tell you nothin' about it.
+PA: if a fella's willin' to work hard, can't he cut her?
+MAN: listen, mister. i don't know ever'thing. you might go out an' fall into a steady job, an' i'd be a liar. an' then, you might never get no work, an' i didn't warn you. all i can tell ya, most of the folks is purty mis'able. but a fella don't know ever'thing.
+PA: john, you never was a fella to say much, but i'll be goldanged if you opened your mouth twicet since we lef' home. what you think about this?
+JOHN: i don't think nothin' about it. we're a-goin' there, ain't we? when we get there, we'll get there. when we get a job, we'll work, an' when we don't get a job we'll set on our behin's. that's all they is to it, ain't it?
+FIRST BOY: you people got a lotta nerve.
+TOM: what you mean?
+FIRST BOY: crossin' the desert in a jalopy like this.
+TOM: you been acrost?
+FIRST BOY: sure, plenty, but not in no wreck like this.
+TOM: if we broke down maybe somebody'd give us a han'.
+FIRST BOY: well, maybe. but i'd hate to be doin' it. takes more nerve than i got.
+MA: don't you worry, granma. it's gonna be awright.
+GRANMA: grampa... grampa... i want grampa...
+MA: don't you fret now. the truck moves off.
+FIRST BOY: holy moses, what a hard-lookin' outfit!
+SECOND BOY: all them okies is hard-lookin'.
+FIRST BOY: boy, but i'd hate to hit that desert in a jalopy like that!
+SECOND BOY: well, you and me got sense. them okies got no sense or no feeling. they ain't human. a human being wouldn't live like they do. a human being couldn't stand it to be so miserable.
+FIRST BOY: just don't know any better, i guess.
+AL: what a place! how'd you like to walk acrost her?
+TOM: people done it. if they could, we could.
+AL: lots must a died, too.
+TOM: well, we ain't out a it yet.
+RUTHIE: this here's the desert an' we're right in it!
+WINFIELD: i wisht it was day.
+RUTHIE: tom says if it's day it'll cut you gizzard smack out a you. i seen a pitcher once. they was bones ever'place.
+WINFIELD: man bones?
+RUTHIE: some, i guess, but mos'ly cow bones.
+ROSASHARN: seems like we wasn't never gonna do nothin' but move. i'm so tar'd.
+CONNIE: women is always tar'd.
+ROSASHARN: you ain't--you ain't sorry, are you, honey?
+CONNIE: no, but--but you seen that advertisement in the spicy western story magazine. don't pay nothin'. jus' send 'em the coupon an' you're a radio expert--nice clean work.
+ROSASHARN: but we can still do it, honey.
+MA: we can't give up, honey. the family's got to get acrost. you know that.
+JOHN'S VOICE: ever'thing all right?
+TOM: what's this here?
+OFFICER: agricultural inspection. we got to go over your stuff. got any vegetables or seed?
+TOM: no.
+OFFICER: well, we got to look over your stuff. you got to unload.
+MA: look, mister. we got a sick ol' lady. we got to get her to a doctor. we can't wait. you can't make us wait!
+OFFICER: yeah? well, we got to look you over.
+MA: i swear we ain't got anything. i swear it. an' granma's awful sick. look!
+OFFICER: you wasn't foolin'! you swear you got no fruit or vegetables?
+MA: no, i swear it.
+OFFICER: then go ahead. you can get a doctor at barstow. that's just eight miles. but don't stop. don't get off. understand?
+TOM: okay, cap. much oblige.
+AL: will ya look at her!
+PA: i never knowed they was anything like her!
+TOM: where's ma? i want ma to see it. look, ma! come here, ma!
+TOM: ma, you sick?
+MA: ya say we're acrost?
+TOM: look, ma!
+MA: thank an' we're still together-- most of us.
+TOM: didn' you get no sleep?
+MA: no.
+TOM: was granma bad?
+MA: granma's dead.
+TOM: when?
+MA: since before they stopped us las' night.
+TOM: an' that's why you didn't want 'em to look?
+MA: i was afraid they'd stop us an' wouldn't let us cross. but i tol' granma. i tol' her when she was dyin'. i tol' her the fambly had ta get acrost. i tol' her we couldn't take no chances on bein' stopped.
+POLICEMAN: how far you figger you gonna get this way?
+TOM: right here. we give out a gas.
+TOM: where's the bes' place to get some work aroun' here? don't matter what kin' either.
+POLICEMAN: if i seen one a them things i must a seen ten thousan'.
+PA: ain't it no good?
+POLICEMAN: not here--not now. month ago there was some pickin' but it's all moved south now. where'bouts in oklahoma you from?
+TOM: sallisaw.
+POLICEMAN: i come out from cherokee county--two years ago.
+ROSASHARN: why, connie's folks from cherokee county--
+POLICEMAN: okay, ma'am, let's don't go into it. i already met about a hundred firs' cousins an' it mus' be five hundred secon'. but this is what i got to tell you, don't try to park in town tonight. keep on out to that camp. if we catch you in town after dark we got to lock you up. don't forget.
+PA: but what we gonna do ?
+POLICEMAN: pop, that just ain't up to me. but i don't min' tellin' you, the guy they ought to lock up is the guy that sent out them things.
+ATTENDANT: how many, folks?
+AL: one.
+TOM: she shore don't look prosperous. want to go somewheres else?
+MA: on a gallon a gas?
+GIRL: i could break up some bresh if you want me, ma'am.
+MA: you want to get ast to eat, hunh?
+GIRL: yes, ma'am.
+MA: didn' you have no breakfast?
+GIRL: no, ma'am. they ain't no work hereabouts. pa's in tryin' to sell some stuff to get gas so's we can get along.
+MA: didn' none of these have no breakfast?
+BOY: i did. me an' my brother did. we et good.
+MA: then you ain't hungry, are you?
+BOY: we et good.
+MA: well, it's a good thing some a you ain't hungry, because they ain't enough to go all the way roun'.
+GIRL: aw, he was braggin'. know what he done? las' night, come out an' say they got chicken to eat. well, sir, i looked in whilst they was a-eatin' an' it was fried dough jus' like ever'body else.
+PA: how 'bout it?
+MA: go get tom an' al. i dunno what to do. i got to feed the fambly. what'm i gonna do with these here?
+JOHN: you take this. i ain't hungry.
+TOM: whatta ya mean? you ain't et today.
+JOHN: i know, but i got a stomickache. i ain't hungry.
+TOM: you take that plate inside the tent an' you eat it.
+JOHN: wouldn't be no use. i'd still see 'em inside the tent.
+TOM: you git. go on now, git. you ain't doin' no good. they ain't enough for you. the children retreat a step, but no more, and then look wonderingly at him.
+MA: we can't send 'em away. take your plates an' go inside. take a plate to rosasharn. look. you little fellas go an' get you each a flat stick an' i'll put what's lef' for you. but they ain't to be no fightin'! i don't know if i'm doin' right or not but--go inside, ever'body stay inside. they ain't enough. all you gonna get is jus' a taste but--i can't help it, i can't keep it from you.
+AGENT: you men want to work?
+PA: sure we wanta work. where's it at?
+AGENT: tulare county. fruit's opening up. need a lot of pickers.
+FLOYD: you doin' the hirin'?
+AGENT: well, i'm contracting the land.
+FIRST MAN: whay you payin?
+AGENT: well, can't tell exactly, yet. 'bout thirty cents, i guess.
+FIRST MAN: why can't you tell? you took the contrac', didn' you?
+AGENT: that's true. but it's keyed to the price. might be a little more, might be a little less.
+FLOYD: all right, mister. i'll go. you just show your license to contrack, an' then you make out a order--where an' when an' how much you gonna pay--an' you sign it an' we'll go.
+AGENT: you trying to tell me how to run my own business?
+FLOYD: 'f we're workin' for you, it's our business too. an' how do we know-- --you ain't one a the guys that sent these things out?
+FLOYD: twicet now i've fell for that line. maybe he needs a thousan' men. so he get's five thousan' there, an' he'll pay fifteen cents a hour. an' you guys'll have to take it 'cause you'll be hungry. 'f he wants to hire men, let him write it out an' say what he's gonna pay. ast to see his license. he ain't allowed by law to contrack men without a license.
+AGENT: joe!
+FLOYD: you see? if this guy was on the level, would he bring a cop along?
+DEPUTY: what's the trouble?
+AGENT: ever see this guy before?
+DEPUTY: what'd he do?
+AGENT: he's agitatin'.
+DEPUTY: hmmm. seems like i have. seems like i seen him hangin' around that used car lot that was busted into. yep, i'd swear it's the same fella. get in that car.
+TOM: you got nothin' on him.
+DEPUTY: open your trap again and you'll go too.
+AGENT: you fellas don't wanta lissen to troublemakers. you better pack up an' come on to tulare county.
+DEPUTY: might be a good idea to do what he says. too many of you okies aroun' here already. folks beginnin' to figger it ain't maybe safe . might start a epidemic or sump'n. wouldn't like a bunch a guys down here with pick handles tonight, would you?
+DEPUTY: now, you.
+CASY: gimme that gun. now git outa here. go down in them willows an' wait.
+TOM: i ain't gonna run.
+CASY: he seen you, tom! you wanta be fingerprinted? you wanta get sent back for breakin' parole?
+TOM: you're right!
+CASY: hide in the willows. if it's awright to come back i'll give you four high whistles.
+CASY: go on. get in your tent. you don't know nothin'.
+AL: how 'bout you?
+CASY: some body got to take the blame. they just got to hang it on somebody, you know. an' i ain't doin' nothin' but set around.
+AL: but ain't no reason--
+CASY: lissen. i don't care nothin' about you, but if you mess in this, your whole fambly li'ble to get in trouble, an' tom get sent back to the penitentiary.
+AL: okay. i think you're a darn fool, though.
+CASY: sure. why not?
+SECOND DEPUTY: what's goin' on here?
+CASY: this man a yours, he got tough an' i hit him. then he started shootin'-- hit a woman down the line--so i hit him again.
+SECOND DEPUTY: well--what'd you do in the first place?
+CASY: i talked back.
+CASY: they's a woman down there like to bleed to death from his bad shootin'.
+SECOND DEPUTY: take a look at her. mike, is this the fella that hit you?
+DEPUTY: don't look like him.
+CASY: it was me, all right. you just got smart with the wrong fella.
+DEPUTY: don't look like him, but... maybe it was. i ain't sure.
+SECOND DEPUTY: get in that car.
+DEPUTY: but what you gonna do? must be thousands of 'em around here, sore and hungry and living in them dumps. what you gonna do about 'em?
+SECOND DEPUTY: you gotta hold 'em down. hold 'em down or they'll take over the whole country. that's all you can do.
+PA: leave him alone, ma--al's just billy- goatin' around--
+AL: sure! i was just aimin' to meet up with a couple girls i know.
+MA: you don't know no girls around here. you're lyin', you're runnin' away !
+PA: cut it out, ma, or i'll--
+MA: you'll what ?... come on, pa. come on an' whup me. jus' try it.
+PA: now don't get sassy, ma.
+MA: al ain't a-goin' away, an' you gonna tell him he ain't a-goin' away. an' if you think diff'unt, you gotta whup me first. so some on.
+PA: i never seen her so sassy. an' she ain't so young, neither!
+AL: i'd come back--
+PA: jus' sassy, that's all.
+MA: sassy my foot! i'm jus' sick and tar'd a my folks tryin' to bust up. all we got lef' in the worl' is the fambly--an' right down at bottom that's all we got to have! ef some of us dies, we can't he'p that--but ain't nobody else runnin' away!
+AL: but it ain't runnin' away, ma. all i wanta do is go away with another fella an' look aroun' for work by ourself--
+MA: well, you ain't a-goin'! ain't nobody else a-goin'! we got here an' we gonna stay here, together! as long as we got the fambly unbroke i ain't scared, but it's a long bitter road we got ahead of us-- --an' i'm here to tell ya ef anybody else tries to bust us up anymore i'm a-goin' cat wild with this here piece a bar-arn! as she gets ready for whatever... in the shadows, twenty feet away from the tent, tom whistles softly.
+TOM: hey, al!
+AL: tom? you can come on. they gone.
+TOM: we got to get outa here right away. ever'body here? where's uncle john?
+JOHN: here i am.
+PA: what's a matter now?
+TOM: fella tells me some a them poolroom boys figgerin' to burn the whole camp out tonight. got to get that truck loaded--what you doin' with the jack-handle, ma?
+MA, PA, AND AL: al's tryin' to go away... she jus' got sassy... all i aimed to do...
+TOM: awright, you can fight it out later. right now we got to hustle. where's connie?
+MA: connie's gone. lit out this e'enin'--said he didn't know it was gonna be like this.
+PA: glad to get shet of him. never was no good an' never will be--
+MA: pa! shh!
+PA: how come i got to shh? run out, didn't he?
+TOM: cut it out, pa. he'p al with the truck. don't fret, honey. you goin' to be awright.
+ROSASHARN: tom, i jus' don't feel like nothin' a tall. without him i jus' don't wanta live.
+TOM: maybe he'll be back. we'll leave word for him. jus' don't cry.
+TOM: just in case. sit up back an' if anybody tries to climb up--let 'im have it.
+PA: i ain't got nothin' in my han'.
+TOM: give 'im a fryin' pan.
+ROSASHARN: maybe connie went to get some books to study up with. he's gonna be a radio expert, ya know. maybe he figgered to suprise us.
+MA: maybe that's jus' what he done.
+TOM: ma, they comes a time when a man gets mad.
+MA: tom--you tol' me--you promised you wasn't like that. you promised me.
+TOM: i know, ma. i'm a tryin'. if it was the law they was workin' with, we could take it. but it ain't the law. they're workin' away at our spirits. they're tryin' to make us cringe an' crawl. they're workin' on our decency.
+MA: you promised, tommy.
+TOM: i'm a-tryin', ma. honest i am.
+MA: you gotta keep clear, tom. the fambly's breakin' up. you got to keep clear.
+TOM: what's that--detour?
+LEADER: where you think you're goin'?
+TOM: well-- --we're strangers here. we heard about they's work in a place called tulare.
+LEADER: well, you're goin' the wrong way, an' what's more, we don't want no more okies in this town. we ain't got work enough for them that are already here.
+TOM: which way is it at, mister?
+LEADER: you turn right aroun' and head north. an' don't come back till the cotton's ready.
+TOM: yes, sir.
 
-speaker1: sump'n got to happen soon. we got one day's more grease, two day's flour, an' ten potatoes. after that... an' rosasharn, we got to remember she's gonna be due soon. 
-speaker2: it sure is jus' tryin' to get enough to eat.
-speaker3: fella tells me they's three hunerd thousan' aroun' here like us, a- scrabblin' for work an' livin' like hogs. can't figger what it is, but sump'n's wrong.
-speaker4: morning.
-speaker3: morning.
-speaker4: you people looking for work?
-speaker3: mister, we're lookin' even under boards for work.
-speaker4: can you pick peaches?
-speaker3: we can pick anything.
-speaker4: well, there's plenty of work for you about forty miles north, this road just outside pixley. turn east on 32 and look for hooper's ranch. tell 'em spencer sent you.
-speaker3: mister, we sure that ya!
-speaker1: fust thing i'll get is coffee, cause ever'body been wantin' that, an' then some flour an' bakin' powder an' meat. better not get no side- meat right off. save that for later. maybe sat'dy. got to get some soap too. an' milk. rosasharn's got to have some milk.
-speaker3: get some sugar too, for the coffee.
-speaker1: you know, i jus' can't remember when i felt so good before!
-speaker5: know what i'm a-gonna do? i'm a-gonna save up an' go in town an' get me a job in a garage. live in a room an' eat in restaurants. go to the movin' pitchers ever' night. cowboy pitchers.
-speaker5: what is it, a wreck?
-speaker6: where you think you're going?
-speaker3: fella named spencer sent us--said they was work pickin' peaches.
-speaker6: want to work, do you?
-speaker3: sure do.
-speaker6: pull up behind that car. okay for this one. take 'em through.
-speaker3: what's the matter? what's happened?
-speaker6: little trouble up ahead, but you'll get through. just follow the line.
-speaker5: maybe the road's out.
-speaker3: i don't know what these cops got to do with it but i don't like it. an' these here are our own people, all of 'em. i don't like this.
-speaker7: go on, go on! keep movin'!
-speaker8: want to work?
-speaker3: sure, but what is this?
-speaker8: that's not your affair. name.
-speaker3: joad.
-speaker8: how many men?
-speaker3: four.
-speaker8: women?
-speaker3: two.
-speaker8: kids?
-speaker3: two.
-speaker8: can all of you work?
-speaker3: why, i guess so.
-speaker8: okay. house 63. wages 5 cents a box. no bruised fruit. move along and go to work right away.
-speaker9: name.
-speaker3: joad. say, what is this here?
-speaker10: not here. take a look at his license.
-speaker9: 542-567 oklahoma.
-speaker10: ain't got it. guess they're okay. now you look here. we don't want no trouble with you. jes' do your work and mind your own business and you'll be all right.
-speaker3: they sure do want to make us feel at home all right.
-speaker11: we gonna live here?
-speaker1: why, sure. it won't be so bad once we get her washed out.
-speaker11: i like the tent better.
-speaker1: this got a floor. wouldn't leak when it rains.
-speaker12: name?
-speaker3: it's still joad.
-speaker12: how many?
-speaker1: six.
-speaker3: got any more, ma?
-speaker1: no. that's all. you made a dollar, an' that's a dollar's worth.
-speaker2: that!
-speaker1: they charge extry at the comp'ny store but they ain't no other place.
-speaker3: i ain't full.
-speaker1: well, tomorra you'll get in a full day--full day's pay--an' we'll have plenty.
-speaker2: you wouldn't think jus' reachin' up an' pickin'd get you in the back.
-speaker3: think i'll walk out an' try to fin' out what all that fuss outside the gate was. anybody wanta come with me?
-speaker2: no. i'm jus' gonna set awhile an' then go to bed.
-speaker5: think i'll look aroun' an' see if i can't meet me a girl.
-speaker3: thing's been workin' on me, what they was yellin' about. got me all curious.
-speaker13: i got to get a lot curiouser than i am--with all them cops out there.
-speaker3: okay. i be back a little later.
-speaker1: you be careful, tommy. don't you be stickin' your nose in anything.
-speaker14: where you think you're going?
-speaker3: thought i'd take a walk. any law against it?
-speaker14: well, you just turn around and walk the other way.
-speaker3: you mean i can't even get outa here?
-speaker14: not tonight you can't. want to walk back?--or you want me to whistle up some help and take you back?
-speaker3: i'll walk back.
-speaker3: evenin'.
-speaker15: who are you?
-speaker3: jus' goin' pas', that's all.
-speaker15: know anybody here?
-speaker3: no. jus' goin' pas', i tell you.
-speaker16: what's the matter?
-speaker3: casy! what you doin' here?
-speaker16: well, if it ain't tom joad. how ya, boy?
-speaker3: thought you was in jail.
-speaker16: no, i done my time an' got out. come on in.
-speaker17: this the fella you been talkin' about?
-speaker16: this is him. what you doin' here, tommy?
-speaker3: workin'. pickin' peaches. but i seen a bunch a fellas yellin' when we come in, so i come out to see what's goin' on. what's it all about?
-speaker17: this here's a strike.
-speaker3: well, fi' cents a box ain't much, but a fella can eat.
-speaker17: fi' cents! they pain' you fi' cents?
-speaker3: sure. we made a buck since midday.
-speaker16: lookie, tom. we come to work here. they tell us it's gonna be fi' cents. but they was a whole lot of us, so the man says two an' a half cents. well, a fella can't even eat on that, an' if he got kids... so we says we won't take it. so they druv us off. now they're payin' you five--but when they bust this strike ya think they'll pay five?
-speaker3: i dunno. payin' five now.
-speaker16: i don't expeck we can las' much longer-- some a the folks ain't et for two days. you goin' back tonight?
-speaker3: i aim to.
-speaker16: well--tell the folks inside how it is, tom. tell 'em they're starvin' us and stabbin' theirself in the back. an' as sure as made little apples it's goin' back to two an' a half jus' as soon as they clear us out.
-speaker17: you hear sump'n?
-speaker3: i'll tell 'em. but i don't know how. never seen so many guys with guns. wouldn't even let us talk today.
-speaker16: try an' tell 'em, tom. they'll get two an' a half, jus' the minute we're gone. an' you know what that is? that's one ton a peaches picked an' carried for a dollar. that way you can't even buy food enough to keep you alive! tell 'em to come out with us, tom! them peaches is ripe . two days out an' they'll pay all of us five!
-speaker3: they won't. they're a-gettin' five an' they don't care about nothin' else.
-speaker16: but jus' the minute they ain't strike- breakin' they won't get no five!
-speaker17: an' the nex' thing you know you'll be out, because they got it all figgered down to a t--until the harvest is in you're a migrant worker--afterwards, just a bum.
-speaker3: five they're a-gettin' now, an' that's all they're int'rested in. i know exackly what pa'd say. he'd jus' say it wasn't none a his business.
-speaker16: i guess that's right. have to take a beatin' before he'll know.
-speaker3: we was outa food. tonight we had meat. not much, but we had it. think pa's gonna give up his meat on account a other fellas? an' rosasharn needs milk. think ma's gonna starve that baby jus' cause a bunch a fellas is yellin' outside a gate?
-speaker16: got to learn, like i'm a-learnin'. don't know it right yet myself, but i'm tryin' to fin' out. that's why i can't ever be a preacher again. preacher got to know . i don't. i got to ask .
-speaker15: i don't like it.
-speaker16: what's the matter?
-speaker15: can't tell. seems like i hear sump'n, an' then i listen an' they ain't nothin' to hear.
-speaker17: 'tain't outa the question, y'know.
-speaker16: all of us a little itchy. cops been tellin' us how they gonna beat us up an' run us outa the country. not them reg'lar deppities, but them tin- star fellas they got for guards. they figger i'm the leader because i talk so much.
-speaker17: turn out that light an' come outside. they's sump'n here.
+MA: sump'n got to happen soon. we got one day's more grease, two day's flour, an' ten potatoes. after that... an' rosasharn, we got to remember she's gonna be due soon. 
+PA: it sure is jus' tryin' to get enough to eat.
+TOM: fella tells me they's three hunerd thousan' aroun' here like us, a- scrabblin' for work an' livin' like hogs. can't figger what it is, but sump'n's wrong.
+SPENCER: morning.
+TOM: morning.
+SPENCER: you people looking for work?
+TOM: mister, we're lookin' even under boards for work.
+SPENCER: can you pick peaches?
+TOM: we can pick anything.
+SPENCER: well, there's plenty of work for you about forty miles north, this road just outside pixley. turn east on 32 and look for hooper's ranch. tell 'em spencer sent you.
+TOM: mister, we sure that ya!
+MA: fust thing i'll get is coffee, cause ever'body been wantin' that, an' then some flour an' bakin' powder an' meat. better not get no side- meat right off. save that for later. maybe sat'dy. got to get some soap too. an' milk. rosasharn's got to have some milk.
+TOM: get some sugar too, for the coffee.
+MA: you know, i jus' can't remember when i felt so good before!
+AL: know what i'm a-gonna do? i'm a-gonna save up an' go in town an' get me a job in a garage. live in a room an' eat in restaurants. go to the movin' pitchers ever' night. cowboy pitchers.
+AL: what is it, a wreck?
+COP: where you think you're going?
+TOM: fella named spencer sent us--said they was work pickin' peaches.
+COP: want to work, do you?
+TOM: sure do.
+COP: pull up behind that car. okay for this one. take 'em through.
+TOM: what's the matter? what's happened?
+COP: little trouble up ahead, but you'll get through. just follow the line.
+AL: maybe the road's out.
+TOM: i don't know what these cops got to do with it but i don't like it. an' these here are our own people, all of 'em. i don't like this.
+MEN: go on, go on! keep movin'!
+BOOKKEEPER: want to work?
+TOM: sure, but what is this?
+BOOKKEEPER: that's not your affair. name.
+TOM: joad.
+BOOKKEEPER: how many men?
+TOM: four.
+BOOKKEEPER: women?
+TOM: two.
+BOOKKEEPER: kids?
+TOM: two.
+BOOKKEEPER: can all of you work?
+TOM: why, i guess so.
+BOOKKEEPER: okay. house 63. wages 5 cents a box. no bruised fruit. move along and go to work right away.
+FIRST DEPUTY: name.
+TOM: joad. say, what is this here?
+SECOND DEPUTY: not here. take a look at his license.
+FIRST DEPUTY: 542-567 oklahoma.
+SECOND DEPUTY: ain't got it. guess they're okay. now you look here. we don't want no trouble with you. jes' do your work and mind your own business and you'll be all right.
+TOM: they sure do want to make us feel at home all right.
+ROSASHARN: we gonna live here?
+MA: why, sure. it won't be so bad once we get her washed out.
+ROSASHARN: i like the tent better.
+MA: this got a floor. wouldn't leak when it rains.
+CLERK: name?
+TOM: it's still joad.
+CLERK: how many?
+MA: six.
+TOM: got any more, ma?
+MA: no. that's all. you made a dollar, an' that's a dollar's worth.
+PA: that!
+MA: they charge extry at the comp'ny store but they ain't no other place.
+TOM: i ain't full.
+MA: well, tomorra you'll get in a full day--full day's pay--an' we'll have plenty.
+PA: you wouldn't think jus' reachin' up an' pickin'd get you in the back.
+TOM: think i'll walk out an' try to fin' out what all that fuss outside the gate was. anybody wanta come with me?
+PA: no. i'm jus' gonna set awhile an' then go to bed.
+AL: think i'll look aroun' an' see if i can't meet me a girl.
+TOM: thing's been workin' on me, what they was yellin' about. got me all curious.
+JOHN: i got to get a lot curiouser than i am--with all them cops out there.
+TOM: okay. i be back a little later.
+MA: you be careful, tommy. don't you be stickin' your nose in anything.
+GUARD: where you think you're going?
+TOM: thought i'd take a walk. any law against it?
+GUARD: well, you just turn around and walk the other way.
+TOM: you mean i can't even get outa here?
+GUARD: not tonight you can't. want to walk back?--or you want me to whistle up some help and take you back?
+TOM: i'll walk back.
+TOM: evenin'.
+JOE: who are you?
+TOM: jus' goin' pas', that's all.
+JOE: know anybody here?
+TOM: no. jus' goin' pas', i tell you.
+CASY: what's the matter?
+TOM: casy! what you doin' here?
+CASY: well, if it ain't tom joad. how ya, boy?
+TOM: thought you was in jail.
+CASY: no, i done my time an' got out. come on in.
+FRANK: this the fella you been talkin' about?
+CASY: this is him. what you doin' here, tommy?
+TOM: workin'. pickin' peaches. but i seen a bunch a fellas yellin' when we come in, so i come out to see what's goin' on. what's it all about?
+FRANK: this here's a strike.
+TOM: well, fi' cents a box ain't much, but a fella can eat.
+FRANK: fi' cents! they pain' you fi' cents?
+TOM: sure. we made a buck since midday.
+CASY: lookie, tom. we come to work here. they tell us it's gonna be fi' cents. but they was a whole lot of us, so the man says two an' a half cents. well, a fella can't even eat on that, an' if he got kids... so we says we won't take it. so they druv us off. now they're payin' you five--but when they bust this strike ya think they'll pay five?
+TOM: i dunno. payin' five now.
+CASY: i don't expeck we can las' much longer-- some a the folks ain't et for two days. you goin' back tonight?
+TOM: i aim to.
+CASY: well--tell the folks inside how it is, tom. tell 'em they're starvin' us and stabbin' theirself in the back. an' as sure as made little apples it's goin' back to two an' a half jus' as soon as they clear us out.
+FRANK: you hear sump'n?
+TOM: i'll tell 'em. but i don't know how. never seen so many guys with guns. wouldn't even let us talk today.
+CASY: try an' tell 'em, tom. they'll get two an' a half, jus' the minute we're gone. an' you know what that is? that's one ton a peaches picked an' carried for a dollar. that way you can't even buy food enough to keep you alive! tell 'em to come out with us, tom! them peaches is ripe . two days out an' they'll pay all of us five!
+TOM: they won't. they're a-gettin' five an' they don't care about nothin' else.
+CASY: but jus' the minute they ain't strike- breakin' they won't get no five!
+FRANK: an' the nex' thing you know you'll be out, because they got it all figgered down to a t--until the harvest is in you're a migrant worker--afterwards, just a bum.
+TOM: five they're a-gettin' now, an' that's all they're int'rested in. i know exackly what pa'd say. he'd jus' say it wasn't none a his business.
+CASY: i guess that's right. have to take a beatin' before he'll know.
+TOM: we was outa food. tonight we had meat. not much, but we had it. think pa's gonna give up his meat on account a other fellas? an' rosasharn needs milk. think ma's gonna starve that baby jus' cause a bunch a fellas is yellin' outside a gate?
+CASY: got to learn, like i'm a-learnin'. don't know it right yet myself, but i'm tryin' to fin' out. that's why i can't ever be a preacher again. preacher got to know . i don't. i got to ask .
+JOE: i don't like it.
+CASY: what's the matter?
+JOE: can't tell. seems like i hear sump'n, an' then i listen an' they ain't nothin' to hear.
+FRANK: 'tain't outa the question, y'know.
+CASY: all of us a little itchy. cops been tellin' us how they gonna beat us up an' run us outa the country. not them reg'lar deppities, but them tin- star fellas they got for guards. they figger i'm the leader because i talk so much.
+FRANK: turn out that light an' come outside. they's sump'n here.
 
-speaker1: what is it? 
-speaker2: i dunno. listen.
-speaker1: can't tell if you hear it or not. you hear it, tom?
-speaker3: i hear it. i think they's some guys comin' this way, lots of 'em. we better get outa here.
-speaker4: there they are! stand where you are!
-speaker5: that's him! that one in the middle, the skinny one! chuck! alec! here they are! we got 'em!
-speaker1: listen, you fellas. you don't know what you're doin'. you're helpin' to stave kids.
-speaker5: shut up, you red--
-speaker6: looks like to me you killed him.
-speaker5: turn him over. put the light on him. bending over, their bodies hide casy.
-speaker7: serves him right, too.
-speaker6: where's that flash?
-speaker8: here.
-speaker8: boy, he's good and dead! you see that fella that done it?
-speaker6: i ain't sure--but i caught him one across the face, and believe me, i give him a trade-mark he ain't gonna be able to shake off easy!
-speaker9: anybody ask anything?
-speaker10: no'm.
-speaker9: stand by the door.
-speaker9: how's it feel, tommy?
-speaker3: busted my cheek but i can still see. what'd you hear?
-speaker9: looks like you done it.
-speaker3: i kinda thought so. felt like it.
-speaker9: folks ain't talkin' about much else. they say they got posses out. talkin' about a lynchin'--when they catch the fella.
-speaker3: they killed casy first.
-speaker9: that ain't the way they're tellin' it. they're sayin' you done it fust.
-speaker3: they know what--this fella looks like?
-speaker9: they know he got hit in the face.
-speaker3: i'm sorry, ma. but--i didn't know what i was doin', no more'n when you take a breath. i didn't even know i was gonna do it.
-speaker9: it's awright, tommy. i wisht you didn't do it, but you done what you had to do. i can't read no fault in you.
-speaker3: i'm gonna go away tonight. i can't go puttin' this on you folks.
-speaker9: tom! they's a whole lot i don't understan', but goin' away ain't gonna ease us. they was the time when we was on the lan'. they was a bound'ry to us then. ol' folks died off, an' little fellas come, an' we was always one thing-- we was the fambly--kinda whole an' clear. but now we ain't clear no more. they ain't nothin' keeps us clear. al--he's a-hankerin' an' a- jibbitin' to go off on his own. an' uncle john is just a-draggin' along. pa's lost his place--he ain't the head no more. we're crackin' up, tom. they ain't no fambly now. rosasharn-- --she gonna have her baby, but it ain't gonna have no fambly. i been tryin' to keep her goin' but--winfiel'-- what's he gonna be, this-a-way? growin' up wild, an' ruthie, too-- like animals. got nothin' to trus'. don't go tom. stay an' help. help me.
-speaker3: okay, ma. i shouldn't, though. i know i shouldn't. but okay.
-speaker10: here come a lot of people.
-speaker11: how many of you?
-speaker12: ten of us. whatcha payin'?
-speaker13: house 25. number's on the door.
-speaker14: okay, mister. whatcha payin'?
-speaker13: two and a half cents.
-speaker14: two an' a half! say, mister, a man can't make his dinner on that.
-speaker13: take it or leave it. there's 200 men coming from the south that'll be glad to get it.
-speaker14: but--but how we gonna eat?
-speaker13: look, i didn't set the price. i'm just working here. if you want it, take it. if you don't, turn right around and beat it.
-speaker14: which way is house 25?
-speaker3: that casy. he might a been a preacher, but--he seen a lot a things clear. he was like a lantern--he helped mw see things too.
-speaker9: comes night we'll get outa here.
-speaker9: it's jus' till we get some distance. then you can come out.
-speaker3: i'd hate to get trapped in here.
-speaker15: what's goin' on here?
-speaker16: we're goin' out.
-speaker17: what for?
-speaker9: we got a job offered--good job.
-speaker17: yeah? let's have a look at you. wasn't there another fella with you?
-speaker18: you mean that hitch-hiker? little short fella with a pale face?
-speaker17: i guess that's what he looked like.
-speaker18: we just picked him up on the way in. he went away this mornin' when the rate dropped.
-speaker17: what'd he look like again?
-speaker18: short fella. pale face.
-speaker17: was he bruised up this mornin'? about the face?
-speaker18: i didn't see nothin'.
-speaker17: okay. go on.
-speaker19: goin' out for good?
-speaker18: yeah. goin' north. got a job.
-speaker19: okay.
+CASY: what is it? 
+FRANK: i dunno. listen.
+CASY: can't tell if you hear it or not. you hear it, tom?
+TOM: i hear it. i think they's some guys comin' this way, lots of 'em. we better get outa here.
+VOICE: there they are! stand where you are!
+DEPUTY: that's him! that one in the middle, the skinny one! chuck! alec! here they are! we got 'em!
+CASY: listen, you fellas. you don't know what you're doin'. you're helpin' to stave kids.
+DEPUTY: shut up, you red--
+SECOND DEPUTY: looks like to me you killed him.
+DEPUTY: turn him over. put the light on him. bending over, their bodies hide casy.
+DEPUTY'S VOICE: serves him right, too.
+SECOND DEPUTY: where's that flash?
+THIRD DEPUTY: here.
+THIRD DEPUTY: boy, he's good and dead! you see that fella that done it?
+SECOND DEPUTY: i ain't sure--but i caught him one across the face, and believe me, i give him a trade-mark he ain't gonna be able to shake off easy!
+MA: anybody ask anything?
+ROSASHARN: no'm.
+MA: stand by the door.
+MA: how's it feel, tommy?
+TOM: busted my cheek but i can still see. what'd you hear?
+MA: looks like you done it.
+TOM: i kinda thought so. felt like it.
+MA: folks ain't talkin' about much else. they say they got posses out. talkin' about a lynchin'--when they catch the fella.
+TOM: they killed casy first.
+MA: that ain't the way they're tellin' it. they're sayin' you done it fust.
+TOM: they know what--this fella looks like?
+MA: they know he got hit in the face.
+TOM: i'm sorry, ma. but--i didn't know what i was doin', no more'n when you take a breath. i didn't even know i was gonna do it.
+MA: it's awright, tommy. i wisht you didn't do it, but you done what you had to do. i can't read no fault in you.
+TOM: i'm gonna go away tonight. i can't go puttin' this on you folks.
+MA: tom! they's a whole lot i don't understan', but goin' away ain't gonna ease us. they was the time when we was on the lan'. they was a bound'ry to us then. ol' folks died off, an' little fellas come, an' we was always one thing-- we was the fambly--kinda whole an' clear. but now we ain't clear no more. they ain't nothin' keeps us clear. al--he's a-hankerin' an' a- jibbitin' to go off on his own. an' uncle john is just a-draggin' along. pa's lost his place--he ain't the head no more. we're crackin' up, tom. they ain't no fambly now. rosasharn-- --she gonna have her baby, but it ain't gonna have no fambly. i been tryin' to keep her goin' but--winfiel'-- what's he gonna be, this-a-way? growin' up wild, an' ruthie, too-- like animals. got nothin' to trus'. don't go tom. stay an' help. help me.
+TOM: okay, ma. i shouldn't, though. i know i shouldn't. but okay.
+ROSASHARN: here come a lot of people.
+BOOKKEEPER'S VOICE: how many of you?
+MIGRANT'S VOICE: ten of us. whatcha payin'?
+BOOKKEEPER: house 25. number's on the door.
+MIGRANT: okay, mister. whatcha payin'?
+BOOKKEEPER: two and a half cents.
+MIGRANT: two an' a half! say, mister, a man can't make his dinner on that.
+BOOKKEEPER: take it or leave it. there's 200 men coming from the south that'll be glad to get it.
+MIGRANT: but--but how we gonna eat?
+BOOKKEEPER: look, i didn't set the price. i'm just working here. if you want it, take it. if you don't, turn right around and beat it.
+MIGRANT: which way is house 25?
+TOM: that casy. he might a been a preacher, but--he seen a lot a things clear. he was like a lantern--he helped mw see things too.
+MA: comes night we'll get outa here.
+MA: it's jus' till we get some distance. then you can come out.
+TOM: i'd hate to get trapped in here.
+GUARD'S VOICE: what's goin' on here?
+PA: we're goin' out.
+GUARD: what for?
+MA: we got a job offered--good job.
+GUARD: yeah? let's have a look at you. wasn't there another fella with you?
+AL: you mean that hitch-hiker? little short fella with a pale face?
+GUARD: i guess that's what he looked like.
+AL: we just picked him up on the way in. he went away this mornin' when the rate dropped.
+GUARD: what'd he look like again?
+AL: short fella. pale face.
+GUARD: was he bruised up this mornin'? about the face?
+AL: i didn't see nothin'.
+GUARD: okay. go on.
+SECOND GUARD: goin' out for good?
+AL: yeah. goin' north. got a job.
+SECOND GUARD: okay.
 
-speaker1: you done good, al. just good. 
-speaker2: know where we're a-goin'?
-speaker3: ma... you know, if connie was here i wouldn't min' any a this.
-speaker1: i know, honey, an' just as soon as we get settled al's gonna set out an' look for him. how 'bout gas, tommy?
-speaker4: full up. uncle john come through with five bucks he been hol'in' out on us since we lef' home. the truck keeps moving along.
-speaker4: she's hotter'n a heifer.
-speaker5: fan-belt's shot.
-speaker4: any gas?
-speaker5: gallon or two?
-speaker4: well, looks like we done it this time awright!
-speaker3: tommy. some smoke up there.
-speaker4: looks like about a mile. reckon she'll make it?
-speaker5: she got to make it.
-speaker1: what is it?
-speaker4: don't know--but it's better'n this.
+MA: you done good, al. just good. 
+PA: know where we're a-goin'?
+ROSASHARN: ma... you know, if connie was here i wouldn't min' any a this.
+MA: i know, honey, an' just as soon as we get settled al's gonna set out an' look for him. how 'bout gas, tommy?
+TOM: full up. uncle john come through with five bucks he been hol'in' out on us since we lef' home. the truck keeps moving along.
+TOM: she's hotter'n a heifer.
+AL: fan-belt's shot.
+TOM: any gas?
+AL: gallon or two?
+TOM: well, looks like we done it this time awright!
+ROSASHARN: tommy. some smoke up there.
+TOM: looks like about a mile. reckon she'll make it?
+AL: she got to make it.
+MA: what is it?
+TOM: don't know--but it's better'n this.
 
-speaker1: you hit 'er too fast. 
-speaker2: what's the idea of that?
-speaker1: well, a lot a kids play in here. you tell folks to go slow and they liable to forget. but let 'em hit that hump once and they don't forget!
-speaker2: got any room here for us?
-speaker1: you're lucky. fellow just moved out half-hour ago. down that line and turn to the left. you'll see it. you'll be in no. 4 sanitary unit.
-speaker3: what's that?
-speaker1: toilet and showers and washtubs.
-speaker3: you mean you got washtubs? an' runnin' water?
-speaker1: yes, ma'am. camp committee'll call on you in the morning and get you fixed.
-speaker2: cops?
-speaker1: no. no cops. folks here elect their own cops. the ladies' committee'll call on you, ma'am, about the kids and the sanitary unit and who takes care of 'em. come inside and sign up.
-speaker4: take 'er on down, al. i'll sign.
-speaker5: we gonna stay, ain't we?
-speaker4: you're tootin' we're gonna stay.
-speaker1: i don't mean to be nosy, y'understand. i just got to have certain information. what's your name?
-speaker4: joad. tom joad.
-speaker1: how many of you?
-speaker2: how 'bout it, uncle john? gotta pitch this tent.
-speaker6: i'm a-comin'.
-speaker3: you don't look so good.
-speaker6: i ain't so good, but--i'm a-comin'.
+CARETAKER: you hit 'er too fast. 
+AL: what's the idea of that?
+CARETAKER: well, a lot a kids play in here. you tell folks to go slow and they liable to forget. but let 'em hit that hump once and they don't forget!
+AL: got any room here for us?
+CARETAKER: you're lucky. fellow just moved out half-hour ago. down that line and turn to the left. you'll see it. you'll be in no. 4 sanitary unit.
+MA: what's that?
+CARETAKER: toilet and showers and washtubs.
+MA: you mean you got washtubs? an' runnin' water?
+CARETAKER: yes, ma'am. camp committee'll call on you in the morning and get you fixed.
+AL: cops?
+CARETAKER: no. no cops. folks here elect their own cops. the ladies' committee'll call on you, ma'am, about the kids and the sanitary unit and who takes care of 'em. come inside and sign up.
+TOM: take 'er on down, al. i'll sign.
+PA: we gonna stay, ain't we?
+TOM: you're tootin' we're gonna stay.
+CARETAKER: i don't mean to be nosy, y'understand. i just got to have certain information. what's your name?
+TOM: joad. tom joad.
+CARETAKER: how many of you?
+AL: how 'bout it, uncle john? gotta pitch this tent.
+JOHN: i'm a-comin'.
+MA: you don't look so good.
+JOHN: i ain't so good, but--i'm a-comin'.
 
-speaker1: camp site costs a dollar a week, but you can work it out, carrying garbage, keeping the camp clean--stuff like that. 
-speaker2: we'll work it out. what's this committee you talkin' about?
-speaker1: we got five sanitary units. each one elects a central committee man. they make the laws, an' what they say goes.
-speaker2: are you aimin' to tell me that the fellas that run this camp is jus' fellas--campin' here?
-speaker1: that's the way it is.
-speaker2: an' you say no cops?
-speaker1: no cop can come in here without a warrant.
-speaker2: i can't hardly believe it. camp i was in once, they burned it out--the deputies an' some of them poolroom fellas.
-speaker1: they don't get in here. sometimes the boys patrol the fences, especially dance nights.
-speaker2: you got dances too?
-speaker1: we got the best dances in the county every saturday night.
-speaker2: say, who runs this place?
-speaker1: government.
-speaker2: why ain't they more like it?
-speaker1: you find out, i can't.
-speaker2: anything like work aroun' here?
-speaker1: can't promise you that, but there'll be a licensed agent here tomorrow mornin', if you want to talk to him.
-speaker2: ma's shore gonna like it here. she ain't been treated decent for a long time.
-speaker1: that cut you got?
-speaker2: crate fell on me.
-speaker1: better take care of it. store manager'll give you some stuff for it in the morning. goodnight.
-speaker2: goodnight.
-speaker2: good mornin'.
-speaker3: mornin'.
-speaker4: git up. i got sump'n to show you.
-speaker5: whatsa matter?
-speaker4: come on. ain't nobody gonna say anything.
-speaker5: won't they ketch us?
-speaker6: them's where you wash your han's.
-speaker7: what's these?
-speaker6: well, i reckon you stan' in them little rooms--an' water come down outa that there little jigger up there--take a bath!
-speaker7: jes' like in the catalogues, ain't they!
-speaker6: i seen 'em b'fore you did.
-speaker7: what's this?
-speaker6: now you done it! you busted it!
-speaker7: i never--
-speaker5: lemme go! i didn't go to do it!
-speaker4: keep qui'te, will ya! shet your mouth!
-speaker5: i never knowed it! all i done was pull that string!
-speaker4: lissen. you done busted it. you hear? but lissen here. i won't tell nobody, y'understan'?
-speaker5: please don't.
-speaker4: i won't--
-speaker2: if this don't feel good!
-speaker8: wait'll about 'leven o'clock, see how good she feels then!
-speaker2: seems like a nice frien'ly fella to work for, too.
-speaker9: lotta these little farmers mighty nice fellas. trouble is they're little, they ain't got much say-so.
-speaker2: shore looks like my lucky day, anyway. gettin' some work at las'.
-speaker10: lissen here. maybe i'm talkin' myself outa my farm, but i like you fellas, so i'm gonna tell you. you live in that gov'ment camp, don't you?
-speaker2: yes, sir.
-speaker10: and you have dances every saturday night?
-speaker8: we sure do.
-speaker10: well, look out next saturday night.
-speaker9: what you mean? i belong to the central committee. i got to know.
-speaker10: don't you ever tell i told.
-speaker9: what is it?
-speaker10: well, the association don't like the government camps. can't get a deputy in there. can't arrest a man without a warrant. but if there was a big fight, and maybe shooting--a bunch of deputies could go in and clean out the camp. like last night. lissen. "citizens, angered at red agitators, burn another squatters' camp, warn agitators to get out of the county."
-speaker2: listen. what is these reds? ever'time you turn aroun' somebody sayin' somebody else's a red. what is these reds, anyway?
-speaker8: well, i tell you. they was a fella up the country named king--got about 30,000 acres an' a cannery an' a winery--an' he's all a time talkin' about reds. drivin' the country to ruin, he says. got to git rid of 'em, he says. well, they was a young fella jus' come out an' he was listenin one day. he kinda scratched his head an' he says, "mr. king, what is these reds you all a time talkin' about?" well, sir, mr. king says, "young man, a red is any fella that wants thirty cents a hour when i'm payin' twenty-five."
-speaker10: i ain't talkin' about that one way or the other. all i'm saying is that there's going to be a fight in the camp saturday night. and there's going to be deputies ready to go in.
-speaker2: but why? those fellas ain't botherin' nobody.
-speaker10: i'll tell you why. those folks in to being treated like humans. suppose the government closes its camps. suppose too many people pass through 'em. well, when those people go back to the squatters' camps they'll be hard to handle. go on back to work now. maybe i've talked myself into trouble, but you're folks like us, and i like you.
-speaker11: ev'nin', ma'am. who'd you say invited you?
-speaker12: mister an' mizz clark, they ast us.
-speaker11: yes, ma'am. come right in, ma'am.
-speaker8: hidy, mr. thomas. hidy, mizz thomas.
-speaker10: you watching out, ain't you?
-speaker8: don't you worry. ain't gonna be no trouble.
-speaker10: i hope you know what you're talking about.
-speaker13: ma... ma, i--i can't go to the dance. i jus' can't ma. i can't hardly stan' it, with connie not here--an' me this way.
-speaker14: why, honey, it makes folks happy to see a girl that way--makes folks sort of giggly an' happy.
-speaker14: you an' me's goin' together--jus' you an' me. we're a-goin' to that dance an' we're a-goin' to jus' set an' watch. if anybody says to come dance--why i'll say you're poorly. but you an' me, we're gonna hear the music an' see the fun.
-speaker13: an' you won't let nobody touch me?
-speaker14: no--an' look what i got for you.
+CARETAKER: camp site costs a dollar a week, but you can work it out, carrying garbage, keeping the camp clean--stuff like that. 
+TOM: we'll work it out. what's this committee you talkin' about?
+CARETAKER: we got five sanitary units. each one elects a central committee man. they make the laws, an' what they say goes.
+TOM: are you aimin' to tell me that the fellas that run this camp is jus' fellas--campin' here?
+CARETAKER: that's the way it is.
+TOM: an' you say no cops?
+CARETAKER: no cop can come in here without a warrant.
+TOM: i can't hardly believe it. camp i was in once, they burned it out--the deputies an' some of them poolroom fellas.
+CARETAKER: they don't get in here. sometimes the boys patrol the fences, especially dance nights.
+TOM: you got dances too?
+CARETAKER: we got the best dances in the county every saturday night.
+TOM: say, who runs this place?
+CARETAKER: government.
+TOM: why ain't they more like it?
+CARETAKER: you find out, i can't.
+TOM: anything like work aroun' here?
+CARETAKER: can't promise you that, but there'll be a licensed agent here tomorrow mornin', if you want to talk to him.
+TOM: ma's shore gonna like it here. she ain't been treated decent for a long time.
+CARETAKER: that cut you got?
+TOM: crate fell on me.
+CARETAKER: better take care of it. store manager'll give you some stuff for it in the morning. goodnight.
+TOM: goodnight.
+TOM: good mornin'.
+WOMAN: mornin'.
+RUTHIE: git up. i got sump'n to show you.
+WINFIELD: whatsa matter?
+RUTHIE: come on. ain't nobody gonna say anything.
+WINFIELD: won't they ketch us?
+RUTHIE'S VOICE: them's where you wash your han's.
+WINFIELD'S VOICE: what's these?
+RUTHIE'S VOICE: well, i reckon you stan' in them little rooms--an' water come down outa that there little jigger up there--take a bath!
+WINFIELD'S VOICE: jes' like in the catalogues, ain't they!
+RUTHIE'S VOICE: i seen 'em b'fore you did.
+WINFIELD'S VOICE: what's this?
+RUTHIE'S VOICE: now you done it! you busted it!
+WINFIELD'S VOICE: i never--
+WINFIELD: lemme go! i didn't go to do it!
+RUTHIE: keep qui'te, will ya! shet your mouth!
+WINFIELD: i never knowed it! all i done was pull that string!
+RUTHIE: lissen. you done busted it. you hear? but lissen here. i won't tell nobody, y'understan'?
+WINFIELD: please don't.
+RUTHIE: i won't--
+TOM: if this don't feel good!
+WILKIE: wait'll about 'leven o'clock, see how good she feels then!
+TOM: seems like a nice frien'ly fella to work for, too.
+TIM: lotta these little farmers mighty nice fellas. trouble is they're little, they ain't got much say-so.
+TOM: shore looks like my lucky day, anyway. gettin' some work at las'.
+THOMAS: lissen here. maybe i'm talkin' myself outa my farm, but i like you fellas, so i'm gonna tell you. you live in that gov'ment camp, don't you?
+TOM: yes, sir.
+THOMAS: and you have dances every saturday night?
+WILKIE: we sure do.
+THOMAS: well, look out next saturday night.
+TIM: what you mean? i belong to the central committee. i got to know.
+THOMAS: don't you ever tell i told.
+TIM: what is it?
+THOMAS: well, the association don't like the government camps. can't get a deputy in there. can't arrest a man without a warrant. but if there was a big fight, and maybe shooting--a bunch of deputies could go in and clean out the camp. like last night. lissen. "citizens, angered at red agitators, burn another squatters' camp, warn agitators to get out of the county."
+TOM: listen. what is these reds? ever'time you turn aroun' somebody sayin' somebody else's a red. what is these reds, anyway?
+WILKIE: well, i tell you. they was a fella up the country named king--got about 30,000 acres an' a cannery an' a winery--an' he's all a time talkin' about reds. drivin' the country to ruin, he says. got to git rid of 'em, he says. well, they was a young fella jus' come out an' he was listenin one day. he kinda scratched his head an' he says, "mr. king, what is these reds you all a time talkin' about?" well, sir, mr. king says, "young man, a red is any fella that wants thirty cents a hour when i'm payin' twenty-five."
+THOMAS: i ain't talkin' about that one way or the other. all i'm saying is that there's going to be a fight in the camp saturday night. and there's going to be deputies ready to go in.
+TOM: but why? those fellas ain't botherin' nobody.
+THOMAS: i'll tell you why. those folks in to being treated like humans. suppose the government closes its camps. suppose too many people pass through 'em. well, when those people go back to the squatters' camps they'll be hard to handle. go on back to work now. maybe i've talked myself into trouble, but you're folks like us, and i like you.
+COMMITTEE MAN: ev'nin', ma'am. who'd you say invited you?
+GUESTS: mister an' mizz clark, they ast us.
+COMMITTEE MAN: yes, ma'am. come right in, ma'am.
+WILKIE: hidy, mr. thomas. hidy, mizz thomas.
+THOMAS: you watching out, ain't you?
+WILKIE: don't you worry. ain't gonna be no trouble.
+THOMAS: i hope you know what you're talking about.
+ROSASHARN: ma... ma, i--i can't go to the dance. i jus' can't ma. i can't hardly stan' it, with connie not here--an' me this way.
+MA: why, honey, it makes folks happy to see a girl that way--makes folks sort of giggly an' happy.
+MA: you an' me's goin' together--jus' you an' me. we're a-goin' to that dance an' we're a-goin' to jus' set an' watch. if anybody says to come dance--why i'll say you're poorly. but you an' me, we're gonna hear the music an' see the fun.
+ROSASHARN: an' you won't let nobody touch me?
+MA: no--an' look what i got for you.
 
-speaker1: they tell me you're half injun. you look all injun to me. 
-speaker2: no, jes' half. wisht i was full- blooded. gov'ment'd be lookin' out for me an' i'd be ridin' around in a buick eight.
-speaker3: who give you the invitation?
-speaker4: fella named jackson--buck jackson.
-speaker3: okay. come on in.
-speaker2: them's our fellas.
-speaker1: how you know?
-speaker2: jes' got a feelin'. they're kinda scared too. follow 'em an' get a holt of jackson. see if he knows 'em. i'll stay here. wilkie moves after them.
-speaker5: swing your ladies an' a dol ce do. join han's roun' an' away we go! swing to the right an' a swing to the lef'. break, now break--back to back!
-speaker6: maybe you wouldn't think it, but your pa was as nice a dancer as i ever seen, when he was young. kinda makes me think a ol' times.
-speaker7: i seen 'em before. worked at gregorio's with 'em. but i never ast 'em.
-speaker1: awright. keep your eye on 'em. jus' keep 'em in sight, that's all.
-speaker8: i seen 'em, mr. wallace. a car with six men parked down by the euc'lyptus tree an' one with three men on the main road. they got guns, too. i seen 'em.
-speaker9: thank you, willie. you done good. well, it looks like the fat's in the far this time.
-speaker10: what them deppities want to hurt the camp for? how come they can't leave us be?
-speaker11: what we oughta do, we oughta git us some pickhandles an'--
-speaker9: no! that's what they want. no sir. if they can git a fight goin', then they can run in the cops an' say we ain't orderly--
-speaker1: they're here. we got 'em spotted.
-speaker9: you sure you got ever'thing ready?
-speaker12: ain't gonna be no trouble.
-speaker9: you ain't to hurt them fellas.
-speaker1: you don't have to worry. we got ever'thing arranged. maybe nobody'll even see it.
-speaker9: just don't use no stick nor no knife, no piece a arn. an' if you got to sock 'em, sock 'em where they won't bleed.
-speaker12: yes, sir.
-speaker9: awright. an' if she gets outa han', i'll be in the right han' corner, this side the dance floor.
-speaker12: ain't gonna get outa han'.
-speaker10: mighty sure a themselves, looks like.
-speaker9: all i hope, i hope they don't kill nobody.
-speaker13: gonna dance tonight? i can waltz.
-speaker14: that's nothin'--anybody can waltz.
-speaker13: not like me! a fat woman thrusts her head out of the tent.
-speaker15: you git right along! this here girl's spoke for. she's gonna be married, an' her man's a-comin' for her.
-speaker12: she's gettin' prettier, ma.
-speaker6: girl with a baby always gets prettier.
-speaker12: excuse me, ma.
-speaker13: well, you said anybody can waltz... how'm i doin'?
-speaker16: don't hold me so tight.
-speaker13: why, i ain't hardly touchin' you!
-speaker16: you're ticklin' me!
-speaker13: that comes from not holdin' you tight enough.
-speaker16: now i can't breathe.
-speaker17: i'll dance with this girl.
-speaker13: you an' who else?
-speaker17: don't gimme no argament-- --you little--
-speaker18: open up! we hear you got a riot.
-speaker19: riot? i don't see no riot. who're you?
-speaker18: deputy sheriffs.
-speaker19: got a warrant?
-speaker18: we don't need a warrant if it's a riot.
-speaker19: well, i don't know what you gonna do about it, because i don't hear no riot an' i don't see no riot, an' what's more i don't believe they is no riot. look for yourself.
-speaker19: you got no right to arrest anybody without a warrant, you know.
-speaker20: we'll have a warrant--just as soon as we check with headquarters.
-speaker6: ain't you gonna tell me goodbye, tommy?
-speaker12: i didn't know, ma. i didn't know if i ought.
-speaker12: come outside.
-speaker12: they was some cops here, ma. they was takin' down the license numbers. it looks like somebody knows sump'n.
-speaker6: it had to come, i reckon, soon or later.
-speaker12: i'd like to stay. i'd like to be with ya-- --an' see your face when you an' pa get settled in a nice little place. i sure wish i could see you then. but-- --i guess i won't never be able to do that. not now.
-speaker6: i could hide you, tommy.
-speaker12: i know you would, ma. but i ain't gonna let you. you hide somebody that's kilt a man an'... an' you'd be in trouble too.
-speaker6: awright, tommy. what you figger you gonna do?
-speaker12: you know what i been thinkin' about, ma? about casy. about what he said, what he done, an' about how he died. an' i remember all of it.
-speaker6: he was a good man.
-speaker12: i been thinkin' about us, too--about our people livin' like pigs, an' good rich lan' layin' fallow, or maybe one fella with a million acres, while a hundred thousan' farmers is starvin'. an' i been wonderin' if all our folks got together an' yelled--
-speaker6: tommy, they'll drive you, an' cut you down like they done to casy.
-speaker12: they gonna drive me anyways. soon or later they'll get me, for one thing if not another. until then...
-speaker6: you don't aim to kill nobody, tom!
-speaker12: no, ma. not that. that ain't it. but long as i'm a outlaw, anyways, maybe i can do sump'n. maybe i can jus' fin' out sump'n. jus' scrounge aroun' an' try to fin' out what it is that's wrong, an then see if they ain't sump'n could be done about it. but i ain't thought it out clear, ma. i can't. i don't know enough.
-speaker6: how'm i gonna know 'bout you? they might kill you an' i wouldn't know. they might hurt you. how'm i gonna know?
-speaker12: well, maybe it's like casy says, a fella ain't got a soul of his own, but on'y a piece of a big soul--the one big soul that belongs to ever'body-- an' then...
-speaker6: then what, tom?
-speaker12: then it don't matter. then i'll be all aroun' in the dark. i'll be ever'where--wherever you look. wherever there's a fight so hungry people can eat, i'll be there. wherever there's a cop beatin' up a guy, i'll be there. i'll be in the way guys yell when they're mad--an' i'll be in the way kids laugh when they're hungry an' they know supper's ready. an' when our people eat the stuff they raise, an' live in the houses they build, why, i'll be there too.
-speaker6: i don't understan' it, tom.
-speaker12: me neither. it's jus' stuff i been thinkin' about. gimme you han', ma. good-by.
-speaker6: good-by, tom. later--when it's blowed over--you'll come back? you'll try to fin' us?
-speaker12: sure. good-by.
-speaker6: good-by, tommy.
-speaker21: get them buckets on! somebody tie down the mattress! you little fellas keep outa the way!
-speaker4: what y'all hurryin' so for? tell me they got twenny days work.
-speaker22: yes, sir, an' we aim to git in all twenny of 'em.
-speaker13: ready, ma?
-speaker6: i'll get rosasharn.
-speaker22: make her easy, john. watch her.
-speaker6: she'll be awright.
-speaker13: ready, pa?
-speaker22: let 'er go, gallagher!
-speaker19: good luck to you! good luck, ever'body!
-speaker23: good-by, mr. conway! much oblige to you for ever'thing!
-speaker13: twenty days work, oh boy!
-speaker22: be glad to get my han' on some cotton. that's the kin' a pickin' i understan'.
-speaker6: maybe. maybe twenny days work, maybe no days work. we ain't got it till we get it.
-speaker13: whatsa matter, ma? gettin' scared?
-speaker6: no. ain't ever gonna be scared no more. i was, though. for a while i thought we was beat-- good an' beat. looked like we didn't have nothin' in the worl' but enemies--wasn't no body frien'ly anymore. it made me feel bad an' scared too--like we was lost... an' nobody cared.
-speaker13: watch me pass that chevvy.
-speaker22: you the one that keeps us goin', ma. i ain't no good any more, an' i know it. seems like i spen' all my time these days a-thinkin' how it use'ta be--thinkin' of home--an' i ain't never gonna see it no more.
-speaker6: woman can change better'n a man. man lives in jerks--baby born, or somebody dies, that's a jerk--gets a farm, or loses one, an' that's a jerk. with a woman it's all one flow, like a stream, little eddies, little waterfalls, but the river it goes right on. woman looks at it like that.
-speaker13: look at that ol' coffeepot steam!
-speaker22: maybe, but we shore takin' a beatin'.
+WILKIE: they tell me you're half injun. you look all injun to me. 
+JULE: no, jes' half. wisht i was full- blooded. gov'ment'd be lookin' out for me an' i'd be ridin' around in a buick eight.
+COMMITTEE MAN: who give you the invitation?
+MAN: fella named jackson--buck jackson.
+COMMITTEE MAN: okay. come on in.
+JULE: them's our fellas.
+WILKIE: how you know?
+JULE: jes' got a feelin'. they're kinda scared too. follow 'em an' get a holt of jackson. see if he knows 'em. i'll stay here. wilkie moves after them.
+FIDDLER: swing your ladies an' a dol ce do. join han's roun' an' away we go! swing to the right an' a swing to the lef'. break, now break--back to back!
+MA: maybe you wouldn't think it, but your pa was as nice a dancer as i ever seen, when he was young. kinda makes me think a ol' times.
+JACKSON: i seen 'em before. worked at gregorio's with 'em. but i never ast 'em.
+WILKIE: awright. keep your eye on 'em. jus' keep 'em in sight, that's all.
+BOY: i seen 'em, mr. wallace. a car with six men parked down by the euc'lyptus tree an' one with three men on the main road. they got guns, too. i seen 'em.
+TIM: thank you, willie. you done good. well, it looks like the fat's in the far this time.
+FIRST MAN: what them deppities want to hurt the camp for? how come they can't leave us be?
+SECOND MAN: what we oughta do, we oughta git us some pickhandles an'--
+TIM: no! that's what they want. no sir. if they can git a fight goin', then they can run in the cops an' say we ain't orderly--
+WILKIE: they're here. we got 'em spotted.
+TIM: you sure you got ever'thing ready?
+TOM: ain't gonna be no trouble.
+TIM: you ain't to hurt them fellas.
+WILKIE: you don't have to worry. we got ever'thing arranged. maybe nobody'll even see it.
+TIM: just don't use no stick nor no knife, no piece a arn. an' if you got to sock 'em, sock 'em where they won't bleed.
+TOM: yes, sir.
+TIM: awright. an' if she gets outa han', i'll be in the right han' corner, this side the dance floor.
+TOM: ain't gonna get outa han'.
+FIRST MAN: mighty sure a themselves, looks like.
+TIM: all i hope, i hope they don't kill nobody.
+AL: gonna dance tonight? i can waltz.
+GIRL: that's nothin'--anybody can waltz.
+AL: not like me! a fat woman thrusts her head out of the tent.
+WOMAN: you git right along! this here girl's spoke for. she's gonna be married, an' her man's a-comin' for her.
+TOM: she's gettin' prettier, ma.
+MA: girl with a baby always gets prettier.
+TOM: excuse me, ma.
+AL: well, you said anybody can waltz... how'm i doin'?
+BLONDE GIRL: don't hold me so tight.
+AL: why, i ain't hardly touchin' you!
+BLONDE GIRL: you're ticklin' me!
+AL: that comes from not holdin' you tight enough.
+BLONDE GIRL: now i can't breathe.
+LEADER: i'll dance with this girl.
+AL: you an' who else?
+LEADER: don't gimme no argament-- --you little--
+DRIVER: open up! we hear you got a riot.
+CARETAKER: riot? i don't see no riot. who're you?
+DRIVER: deputy sheriffs.
+CARETAKER: got a warrant?
+DRIVER: we don't need a warrant if it's a riot.
+CARETAKER: well, i don't know what you gonna do about it, because i don't hear no riot an' i don't see no riot, an' what's more i don't believe they is no riot. look for yourself.
+CARETAKER: you got no right to arrest anybody without a warrant, you know.
+FIRST COP: we'll have a warrant--just as soon as we check with headquarters.
+MA: ain't you gonna tell me goodbye, tommy?
+TOM: i didn't know, ma. i didn't know if i ought.
+TOM: come outside.
+TOM: they was some cops here, ma. they was takin' down the license numbers. it looks like somebody knows sump'n.
+MA: it had to come, i reckon, soon or later.
+TOM: i'd like to stay. i'd like to be with ya-- --an' see your face when you an' pa get settled in a nice little place. i sure wish i could see you then. but-- --i guess i won't never be able to do that. not now.
+MA: i could hide you, tommy.
+TOM: i know you would, ma. but i ain't gonna let you. you hide somebody that's kilt a man an'... an' you'd be in trouble too.
+MA: awright, tommy. what you figger you gonna do?
+TOM: you know what i been thinkin' about, ma? about casy. about what he said, what he done, an' about how he died. an' i remember all of it.
+MA: he was a good man.
+TOM: i been thinkin' about us, too--about our people livin' like pigs, an' good rich lan' layin' fallow, or maybe one fella with a million acres, while a hundred thousan' farmers is starvin'. an' i been wonderin' if all our folks got together an' yelled--
+MA: tommy, they'll drive you, an' cut you down like they done to casy.
+TOM: they gonna drive me anyways. soon or later they'll get me, for one thing if not another. until then...
+MA: you don't aim to kill nobody, tom!
+TOM: no, ma. not that. that ain't it. but long as i'm a outlaw, anyways, maybe i can do sump'n. maybe i can jus' fin' out sump'n. jus' scrounge aroun' an' try to fin' out what it is that's wrong, an then see if they ain't sump'n could be done about it. but i ain't thought it out clear, ma. i can't. i don't know enough.
+MA: how'm i gonna know 'bout you? they might kill you an' i wouldn't know. they might hurt you. how'm i gonna know?
+TOM: well, maybe it's like casy says, a fella ain't got a soul of his own, but on'y a piece of a big soul--the one big soul that belongs to ever'body-- an' then...
+MA: then what, tom?
+TOM: then it don't matter. then i'll be all aroun' in the dark. i'll be ever'where--wherever you look. wherever there's a fight so hungry people can eat, i'll be there. wherever there's a cop beatin' up a guy, i'll be there. i'll be in the way guys yell when they're mad--an' i'll be in the way kids laugh when they're hungry an' they know supper's ready. an' when our people eat the stuff they raise, an' live in the houses they build, why, i'll be there too.
+MA: i don't understan' it, tom.
+TOM: me neither. it's jus' stuff i been thinkin' about. gimme you han', ma. good-by.
+MA: good-by, tom. later--when it's blowed over--you'll come back? you'll try to fin' us?
+TOM: sure. good-by.
+MA: good-by, tommy.
+AL, PA, JOHN: get them buckets on! somebody tie down the mattress! you little fellas keep outa the way!
+MAN: what y'all hurryin' so for? tell me they got twenny days work.
+PA: yes, sir, an' we aim to git in all twenny of 'em.
+AL: ready, ma?
+MA: i'll get rosasharn.
+PA: make her easy, john. watch her.
+MA: she'll be awright.
+AL: ready, pa?
+PA: let 'er go, gallagher!
+CARETAKER: good luck to you! good luck, ever'body!
+THE JOADS: good-by, mr. conway! much oblige to you for ever'thing!
+AL: twenty days work, oh boy!
+PA: be glad to get my han' on some cotton. that's the kin' a pickin' i understan'.
+MA: maybe. maybe twenny days work, maybe no days work. we ain't got it till we get it.
+AL: whatsa matter, ma? gettin' scared?
+MA: no. ain't ever gonna be scared no more. i was, though. for a while i thought we was beat-- good an' beat. looked like we didn't have nothin' in the worl' but enemies--wasn't no body frien'ly anymore. it made me feel bad an' scared too--like we was lost... an' nobody cared.
+AL: watch me pass that chevvy.
+PA: you the one that keeps us goin', ma. i ain't no good any more, an' i know it. seems like i spen' all my time these days a-thinkin' how it use'ta be--thinkin' of home--an' i ain't never gonna see it no more.
+MA: woman can change better'n a man. man lives in jerks--baby born, or somebody dies, that's a jerk--gets a farm, or loses one, an' that's a jerk. with a woman it's all one flow, like a stream, little eddies, little waterfalls, but the river it goes right on. woman looks at it like that.
+AL: look at that ol' coffeepot steam!
+PA: maybe, but we shore takin' a beatin'.
 

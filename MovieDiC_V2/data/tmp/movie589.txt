@@ -1,864 +1,864 @@
-speaker1: excuse me sir, can we help you? did you miss your ride? 
-speaker2: i missed the spec.
-speaker3: the what?
-speaker1: yes, i'm afraid you did. can we call someone for you?
-speaker2: where'd it all go?
-speaker3: he's seriously old.
-speaker1: did you come with the folks from the retirement home?
-speaker2: no, i came on my own.
-speaker1: let's go inside and we can call them to pick you up.
-
-speaker1: no, i told ya, i came on my own and i'm not going back. get your hands off me. 
-speaker2: it's ok. we're gonna call the home so they can come pick you up.
-speaker1: why don't you pick some of those rings out ya head maybe you won't be so stupid, ya little
-speaker2: woah! the language. uncalled for.
-speaker3: sir, we need to get you out of this parking lot. my trucks have to come through here. please...
-speaker3: i got it russ. take the walker. finish closing up the ticket booth.
-speaker1: in my day, they had old timers in the ticket wicket and freaks like him in the sideshow. kid didn't even know what the spec was.
-speaker3: you sound like you know circuses.
-speaker1: i should. i was on two.
-speaker3: malcolm, tell them to come through! two circuses. wow, that's something.
-
-speaker1: ringling, of course, but that was later... 
-speaker2: i'll need your name when i call the home.
-speaker1: ...first one was called benzini brothers most spectacular show ...
-speaker2: what?...wait a minute! did you say you were with the benzini brothers?
-speaker2: what years?
-
-speaker1: "â˜31?...you're saying you were there for the---? 
-speaker2: i was in the middle of it.
-speaker1: i don't believe this. after the hartford fire and the hagenback- wallace wreck, that's the most famous circus disaster of all time.
-speaker2: i remember it like yesterday... better - cause i don't remember yesterday.
-speaker1: charlie o'brien the third.
-speaker2: jacob jankowski the only.
-speaker1: mr. jankowski, i would be honored if you would have a drink with me in my trailer.
-
-speaker1: ah, i remember you...camel would've loved this stuff. 
-speaker2: camels drink scotch?
-speaker2: you really got here on you're own?
-speaker1: the great escape! but i got lost.
-speaker2: i should call the home, let them know where you are.
-speaker1: i don't know why they call it a "home"â. you don't know anybody there. they fill you so full of drugs, you don't care...five kids and not one has a place for me since their mother died. they take turns visiting me on weekends. they forgot whose turn it was today so nobody showed up..
-speaker1: i had a life, ya know. a big life...it isn't right.
-speaker2: so, how did the benzini brothers stampede start? the story is two guys got thrown off the train and--
-speaker1: no point in telling a story if all you want to know is the end.
-speaker2: sorry. from the beginning.
-
-speaker1: you may begin. 
-speaker2: i had my whole life planned. i knew exactly where it was taking me... and then, with the opening of a door, it all vanished.
-speaker1: mr. jankowski? may we have a word?
-speaker3: jacob, it's your parents. i'm afraid there's been a car accident.
-
-speaker1: are you ready? 
-speaker2: is there any other family to call?
-speaker3: no. just me.
-
-speaker1: i know this is difficult for you, but there's been no mistake. the house and all their assets, including your father's practise, are now property of the bank in default of the mortgage. 
-speaker2: but i'm telling you, my father put away every penny he ever earned. they owned that house outright. why would he have a mortgage?
-speaker1: my guess is because he let people pay him in beans and eggs or whatever they had, instead of money.
-speaker2: and so he's penalized for not turning away people who couldn't afford his help? he was a doctor.
-speaker1: yes, i know, he was a very good man but in banking terms, in the reality of what makes this world actually function, he was an irresponsible man. i'm sorry, but you oughta to know the truth. this depression is going to last for a long while..
-
-speaker1: things happened so fast, my head was spinning. and that mortgage...i just couldn't figure it out. 
-speaker2: this just came for you, jacob. whatever it is i'm going to have to include in the bank's report of assets. sorry. you ok?
-speaker2: i also have documents to sign..
-speaker1: i didn't believe the lawyer or the bank. my mother worked. they had savings. we were never broke. so why would they need a mortgage? and then it hit me...
-
-speaker1: they did it to pay for my ivy league education. 
-speaker2: jacob? jacob they need these signed by the end of the business day.
-speaker1: i walked and i kept on walking... it's a strange feeling becoming an orphan the same time you're becoming a man...to have this freedom to be anything you want at the same time everything you were is taken away. so i just walked ...then all of a sudden, i stopped.
-
-speaker1: we don't need no bums on this train brother. you can get off right now and keep running. 
-speaker2: now everybody calm down here. grady put that rifle away. blackie let'im go...and i mean on the inside of the train!
-speaker2: i'm tellin ya, ya can't red light him, we don't need that trouble. look at them clothes - he's no bum.
-speaker2: don't be sore kid. it's more like a reflex with blackie. i'm camel..and that there's grady. and bill.
-speaker3: jacob. jankowski. nice to meet you.
-speaker4: you're pretty young for the rails. you running from something boy? you on the lam?
-speaker3: no. nothing like that.
-speaker4: where you headed?
-speaker3: i don't know.
-speaker4: hungry? outta work?
-speaker4: no shame in it. what can you do?
-speaker3: about anything i guess.
-
-speaker1: we land in deposit in the morning. we'll find you some work. and if you're still alive by the end of it, i'll get you some food and take you to uncle august. 
-speaker2: who's that?
-speaker3: august rosenbluth...lord and master of the known and unknown universes. ringmaster extraordinaire.
-speaker1: oh kid, don't tell me you didn't notice?
-speaker4: ha, he really don't know.
-speaker1: ha! you didn't just jump a train boy. you jumped the flying squadron of the benzini brothers most spectacular show on earth... you done landed your on a circus, kid!
-
-speaker1: you're welcome, ma'am. 
-speaker2: what the you doing in here? get outta there!! you ain't a menagerie man. only menagerie men is allowed in there.
-
-speaker1: gonna try to get you set up with crazy joe. 
-speaker2: do i call him crazy joe?
-speaker1: it has been said crazy joe went to prison for killing a man who spit into the wind and hit the back of joe's neck. so no, i would not call this man crazy joe to his face.
-speaker1: hey joe! i got a first of may here. think you can use him?
-speaker1: you're in, kid.
-
-speaker1: i've never seen so much manure! 
-speaker2: baggage stock horses. they pack'em in 27 a car.
-speaker1: how do you stand the smell?
-speaker2: what smell?
-
-speaker1: excuse me, ma'am? hi. i'm jacob. 
-speaker1: may i? he may be foundering.
-speaker1: he should be all right for tonight. but i'd put him on stall rest as soon as possible.
-
-speaker1: ..woah, you better take a breath before it all comes back up on ya. here. have a hit of jake. 
-speaker1: it's an acquired taste. now get yourself outta there. i'm gonna take you in to see august.
-speaker2: but it's the middle of the night.
-speaker1: only time circus people live - when they don't have to work. come on...
-
-speaker1: i got a son about your age. lives outside of reading, pa. haven't seen him for years. fix your shirt there. 
-speaker1: remember, when you meet august let him do the talking and don't ever mention ringling. he hates them worse than the depression.
-
-speaker1: how's your pipe, kid? 
-speaker2: night ladies.
-speaker3: night camel.
-
-speaker1: hey camel - who's that woman who works the horses? 
-speaker2: now stop right there. that's marlena. she don't talk to nobody and you don't talk to her. and don't mention her to august. ain't no right way to talk about somebody's wife and make it sound like a compliment.
-speaker1: wife?
-speaker2: look, kid, before we do this, i gotta ask... ..i ain't tryin to know your business but i do know you ain't been on the road too long. you're too clean, your clothes too nice and you don't got a possession on you. see, a man on the road collects little things. it's not a big life i can tell ya. so before you start, i ask: if you got any kind of life to go back to, that's what you should do.
-
-speaker1: i don't. 
-speaker2: i am sorry to hear that.
-
-speaker1: this here's earl. he's gonna take you in. earl, this here's jacob. 
-speaker2: i don't know how to thank you.
-speaker1: ha! you may not want to after you been on a show long as i have. good luck to ya, kid. camel exits os. alone with earl, jacob asks:
-speaker2: do i look ok?
-speaker3: very nice.
-
-speaker1: what's this? 
-speaker2: that stowaway the old drunk took under his wing. college boy.
-speaker1: i'll see your three and raise you five...
-speaker1: i don't believe i've had the pleasure.
-speaker3: jacob jankowski, sir.
-speaker1: and what is a "jacob jankowski"â and why he is on my train?
-speaker3: just looking for work, sir.
-speaker4: can you fly? set yourself on fire?
-speaker3: no sir.
-speaker1: ever worked a show, son?
-speaker3: no sir.
-speaker1: ever been to a show?
-speaker3: yes sir...
-
-speaker1: ringling brothers. 
-speaker2: ringling, you say?
-speaker1: yes. but it was terrible.
-speaker2: really? have you seen our show?
-speaker2: what was your favorite act?
-speaker1: the uh...the one with the black and white horses. and the girl in pink.
-speaker2: ah, our star attraction. well, i believe we're looking for a boy to carry water for the elephants, aren't we diamond joe?
-speaker3: we don't have an eleph-
-speaker2: shut-up.
-speaker1: i would do that, sir. i'd like to work with the animals.
-speaker2: and you'd carry water for elephants? ha, ha...you have any idea how much water an elephant drinks, kid? college! pfft! never met a college man yet who knew his own from shinola.
-
-speaker1: you eat my food and you ride my train like you're entitled to survive. but you see, nothing survives here without my permission...maybe if you tell me you're nothing, i'll let you stay, although my bet is you won't last. 
-speaker1: you smell like every kind of
-speaker2: times are hard for everybody...and i guess because ... out of all the dirt and sweat and and working with fellas you don't want to be caught dead meeting in the daylight, comes...so much beauty.
-speaker1: that's beautifully put.
-speaker1: toss him off, earl. and make sure you see the red light before you red light him.
-speaker1: another sonny boy mad at mommy and daddy for paying the bills. sounds like he studied poetry.
-speaker3: i got no use for people who rhyme.
-speaker2: it was veterinary science! and i can tell you one thing - that star attraction horse of yours won't be walking in a few days let alone performing center ring!!
-speaker1: earl wait!
-
-speaker1: veterinary science? may i ask what school? 
-speaker2: cornell.
-speaker1: you're a cornell graduate?
-speaker3: marlena did want a vet to take a look at silver star. they cost.
-speaker4: he worked the rubes for me this afternoon. pretty good.
-speaker5: he shovelled horse don't make him a horse doctor. august looks reluctant. until jacob caps it:
-speaker2: i hear ringling has its own vet.
-speaker1: all right, cornell. come with me.
-speaker1: are you sure-footed, jacob jankowski?
-speaker2: i believe so.
-
-speaker1: it's a breath taking sight, isn't it? always gets me. 
-speaker1: i can't get a new liberty horse mid- season. so you make sure this horse performs and the job's yours. nine bucks a week. if you cross me, i'll feed you to my meat eaters and there won't be a trace left of you...
-
-speaker1: kinko. 
-speaker2: august.
-speaker1: this is jacob. he's going to bunk with you a while.
-speaker3: how do you do?
-speaker2: what is he?
-speaker1: i said his name is jacob.
-
-speaker1: i asked what, not who. 
-speaker2: he's going to help out in the menagerie.
-speaker1: a menagerie man? performers don't bunk with working men.
-speaker2: well there are performers..
-speaker3: and then there are performers.. considering we used to keep the goats in here, i'm sure marlena's horses out there object to now sharing their quarters with you. of course i can always change that and send you back to a bottom bunk with the other kinkers who sorely miss your sunny personality and affectionate camaraderie. this gentleman is the show's new veterinarian - ivy league no less - which puts him a good deal higher than you in my estimation. perhaps you'd like to offer him your cot.
-speaker2: i'll find you in the morning. sleep well, cornell.
-speaker4: a jack russell. they're very smart.
-speaker1: queenie attack.
-
-speaker1: ha, this gam of mine keeps falling asleep on me. pretty soon the only place for me is going to be selling tickets but i'm too ugly for that. 
-speaker2: jacob!
-speaker2: we can do better than this for our new vet. i'll arrange for you to start getting your own water bucket like the performers and bosses. two buckets per person. come...
-speaker3: see ya camel.
-speaker1: yeah, take care kid.
-
-speaker1: you'll need new clothes too. i'll set you up with the monday man. 
-speaker2: monday man?
-
-speaker1: what day of the week did your mother hang out the wash to dry? 
-speaker2: he takes other people's clothes?
-speaker1: it's the depression, cornell. where have you been? oh right - cornell.
-speaker1: here, use kinko's second bucket for now.
-speaker1: you barely use up one.
-speaker2: august, it's all right, i'll--
-speaker1: if you need a razor, there are some back there with my name on them.
-speaker2: august..
-speaker1: it's good to have an educated man like you around. i need one other sane individual in this operation.
-speaker2: thank you for everything, august.
-speaker1: ah...jacob?
-
-speaker1: yes, august? 
-speaker2: the horse.
-speaker1: oh! yes...the horse.
-
-speaker1: i'm sure it's nothing serious. don't tell my wife i said this but she coddles them too much. she has a particularly strong affection for silver star. i don't encourage it. it's unhealthy to love an animal that much...here she is. 
-speaker1: darling, meet jacob jankowski, benzini brothers own veterinarian.
-speaker2: it's a pleasure to meet you.
-speaker1: last stall. lead the way, doc.
-
-speaker1: marlena, he wasn't this bad in the show. 
-speaker1: is that the problem?
-speaker1: do you need any hoof testers?
-speaker2: not yet.
-speaker1: well, how are you going to fix it?
-speaker2: i didn't want to say anything in front of... mrs. rosenbluth...he's already foundering.
-speaker1: english.
-
-speaker1: this horse isn't getting back on his feet, august. if there was anything i could do, i would but we're going to have to put him down...i'm real sorry. 
-speaker2: i know you are. come with me.
-
-speaker1: joe, bad report for silver star i'm afraid. jacob here says there's no hope. we're going to have to put him down... 
-speaker1: ...so i need you to round up pete and greg, get a wagon and a harness stretcher. he has to be hauled.
-speaker2: a harness what?
-speaker1: jacob and i'll take care of the cats. we'll meet you back at the stall.
-speaker1: grab the other bucket, will you?
-speaker3: august, this stuff has gone off. do the cats really eat this?
-
-speaker1: what do i do, just open the door and toss it in? 
-speaker2: unless you think a formal sit-down is appropriate.
-speaker2: why don't you start with rex... that's him on the left.
-
-speaker1: what's the matter? didn't they cover this in school? 
-speaker2: what the is wrong with you?
-speaker1: yes i do! aw jacob wait! don't be sore! i was having a little fun!
-speaker2: fun! i could have lost my arm!
-speaker1: rex hasn't got any teeth...
-speaker1: jacob..
-
-speaker1: ..people want their money back when the star act on the poster isn't in the ring! a star attraction keeps a circus alive. without it, animals eat that and men eat nothing. it takes time to find and train another horse so without silver star, i have no star act. 
-speaker2: i don't know how he's been performing august, but you don't have a star act now. that horse can't walk and if he does you'll lose him. he's in a lot of pain.
-speaker1: like this?
-speaker1: we always have choices, jacob - a choice between our pain and someone else's. that horse was performing before you came and he will continue to perform until he drops dead. i'm telling you to keep it alive and that's what you'll do or you'll be red lit like anyone else who doesn't obey the law here. every nation has it's own laws under jacob. you left america the second you jumped my train. i like you. believe me, i do. i'm only thinking of your future.
-
-speaker1: tell me the truth. what's wrong with him? 
-speaker2: the connective tissues between the hoof and the coffin bone are compromised and the coffin bone rotates toward the sole of the hoof. if he keeps walking, it'll puncture through...he's in a lot of pain.
-speaker1: and if he rests?
-speaker2: you'll lose him anyway. i'm sorry.
-speaker1: then you have to put him down.
-speaker2: it's the right thing to do.
-speaker1: but august won't let you.
-speaker2: if i'm the show's vet then it's my decision, isn't it?
-speaker1: but august won't like it.
-speaker2: then it'll be my last decision.
-
-speaker1: hey kid. what are you doing on the wrong side of the tracks? 
-speaker2: i need a gun.
-speaker1: it can't be that bad...
-speaker2: i need a gun! or a rifle! now!
-
-speaker1: what do you think you're doing? 
-speaker2: shut-up! both of you!
-speaker2: you should go.
-speaker3: no. i'll keep him calm.
-
-speaker1: friends now? 
-speaker2: you've got a gift for them. like marlena with horses. it's god- given. i can always spot it.
-speaker1: my father used to say that to me.
-speaker2: he must have been a wise man.
-speaker3: this stops jacob. beat. he turns to august.
-speaker1: how is marlena?
-speaker2: you're a genuine curiosity jacob jankowski. what am i to do with you? ... i threaten to throw you off a moving train, feed you to my lions and you go ahead and shoot my star horse anyway. so i think - jacob's an educated man. for jacob to disobey me and shoot that horse, that horse must have been in pretty bad shape. perhaps bad enough to injure my marlena during the show. and so i think jacob jankowski might be a valuable person to have around.
-speaker1: tell diamond joe the animals need more water when the humidity's this bad if i don't see him before i go.
-speaker2: you're not going anywhere. you belong here. these animals..they've been waiting for you.
-speaker2: but don't ever disobey me like that again. i'll give you this one. i'll call it "respect"â...next one i call "betrayal"â. understood?
-speaker2: i do thank you though. you and silver star solved a much bigger problem for me.
-speaker1: what problem?
-
-speaker1: the cats. you see, meat eaters are always more valuable to a circus than hay burners. and you saw what we had to feed them. 
-speaker2: what does silver star have to do with the cats?
-speaker1: we should have just enough food for them to get us to the next show, thanks to you. of course marlena won't speak to me for a day or two but she'll come around...so, i was right. you are a valuable man.
-speaker2: august, what did you do? august?
-
-speaker1: why are we stopping? 
-speaker2: august loves his sideshow freaks. there's a guy with this outfit who has a parasitic twin growing out of his chest. he dresses it in a tiny tuxedo and black patent leather shoes. no talent but a real money- maker with the rubes. calls himself the man and a half. august'll pay him double what he pays me just for the irony.
-speaker1: what happened to this circus?
-speaker2: went belly up. pretty common nowadays. circus bosses see the end coming and they'd pull a runner with all the money. menagerie belongs to the town now. august can get anything he wants for a song.
-speaker2: most of them will never belong to another show. and they know it.
-
-speaker1: we have a new star! 
-speaker2: the man and a half?
-speaker1: nah, lousy ringling got here first.
-speaker3: a bull?
-speaker1: a bull elephant! her name is rosie, she's fifty-three and she's brilliant. the best bull they had. i'm going to come up with a whole new star act around her and marlena..
-speaker1: you can ride her in the spec from now on, since we have no liberty horse.
-speaker1: ...our own bull! ringling can't hold that over us now. i'm renovating an entire car just for her.
-speaker4: just for the elephant! but the bunkers are at capacity! i've got roustabouts three to a bunk.
-
-speaker1: she has such long eye lashes. 
-speaker2: she's a hundred if she's a day.
-speaker3: darling, what do you think? she's magnificent, isn't she?
-speaker4: you the bull man?
-speaker3: no. this is my menagerie man.
-
-speaker1: where's your bull man? ya got no bull man, i gotta tell the township or else they can't sell her to ya. 
-speaker2: here he is. he's my bull man..
-speaker1: all right. see this animal...this here's the stupidest animal on the face of good earth....here's your bull hook. you're gonna need it.
-speaker2: i don't believe it. the mayor said she was the best bull you had.
-speaker1: if she was the best bull, why is she the only one left? you think you're the first show to turn up picking on the bones?
-speaker1: some elephant tramp who dropped dead in genesee sold her for a song which still ain't no bargain cause she ain't done a thing since but eat everything in sight. well, good luck to ya. and if i don't ever see another bull in my life it'll be too soon.
-
-speaker1: joe, you and greg come with me. we have to find a car to renovate. 
-speaker1: see what you can do with her.
-speaker2: mrs. rosenbluth, i hope i'm not speaking out of turn here but - but i had no idea they were going to do that to silver star.
-speaker3: i know....thank you.
-speaker3: and please, call me marlena. i'm not a snob like everybody thinks.
-speaker2: hello rosie, i'm jacob jankowski. this is mrs. marlena rosenbluth. can you say mrs. marlena rosenbluth?
-speaker2: you're a beauty, huh. skin's a little dry, you oughta take care of that. first thing you notice about a woman's age is her skin.
-speaker2: are you flirting with me young lady? i usually like to make the first move...
-
-speaker1: i like to get to know a girl first...take her out. meet her folks... of course, aggressive women can be a nice change... 
-speaker2: i think you two are engaged.
-speaker2: i think rosie likes music. that harmonica song is lovely.
-speaker1: i'm confessin that i love you.
-speaker2: what?
-speaker1: the name of the song. "i'm confessin' that i love you."â
-speaker2: --"âconfessin' that i love you."â
-speaker3: louis armstrong. right.
-
-speaker1: what is it? 
-speaker2: it's trouble, that's what. not that i give a damn, but you're playing with dynamite with those two and you're gonna blow all of us up. august is the meanest i've ever met.
-speaker1: i admit he has his moments of insanity but he's really a very generous, charming guy.
-speaker2: you don't get it, do you? when august feeds your arm to a lion - that's the real august. the one who's generous and charming - that's the insane august.
-
-speaker1: six men got red lit last night. cancelling shows and that elephant cost august. he needed to clean house to save on payroll... it's a lousy day when an animal gets paid and men don't. 
-speaker2: why are they beating him?
-speaker1: he hid one of the men who was supposed to be tossed. word was the train was over a trestle instead of land. nobody comes back from that.
-
-speaker1: jacob! come in, come in! 
-speaker1: darling, our guest has arrived.
-speaker2: i'm so glad you could come. would you like a beer? or champagne?
-
-speaker1: i'm not dressed for champagne. 
-speaker2: we can fix that, can't we darling?
-speaker2: we're celebrating our new star, rosie. my plan is to have the act ready for the manhattan/jersey show so she can start selling tickets.
-speaker2: unfortunately we had to let some men go last night...
-speaker2: ...i don't like doing it, not one bit. but to keep hard working men working, i had to get rid of lay- abouts and thieves who are dead weight. if i had the funds to pay them all i would, but times being as they are...i regret it though.
-speaker2: so tomorrow, my faithful bull man, we begin! but tonight - we dine!! tonight, we all deserve champagne!
-speaker2: ta-dah!
-
-speaker1: jacob, i want to apologize to you, in front of my darling marlena so she can witness how truly sorry i am for any bit of nastiness between us...running this show, the many pressures...it can get the best of me sometimes i'm afraid. 
-speaker2: people don't realize how much august does holding everything together. how difficult it is in these times. the whole company is like a family to him.
-speaker1: thank you my love.
-speaker1: from now on i shall trust your judgement in all things veterinarian. please say you accept my apology.
-speaker3: of course i do, august. you've been nothing but swell to me.
-speaker1: good man!
-speaker1: i could truly use a friend i can trust.
-
-speaker1: i have to tell you something. you may not trust me after you hear it. 
-speaker1: i never took my final exams at cornell. i'm not a real vet.
-speaker1: but it's true. i never got my degree. i'm not a licensed vet.
-speaker2: bah! a worthless piece of paper from the ivy bush league! of course you're a vet. you have the gift. you're idealism is just so...sweet. when are you going to learn that the rules written of, by and for these united states of suckers do not apply to us.
-speaker1: not about this, august.
-speaker2: all right, let me ask you - do you honestly think this is the most spectacular show on earth?
-speaker1: no.
-speaker2: no. it's nowhere near. lucinda, our fat lady, isn't 800 pounds. four at the tops. and you really think the tattooed man got tattooed by headhunters in borneo? he's from pittsburgh. took him nine years to ink himself. and you know what i did when the hippo died? swapped out her water for formaldehyde and kept showing her. for two weeks, we travelled with a pickled hippo..
-
-speaker1: ..the world is run on tricks - in here and out there. so trust me, it's having a talent that counts. in this world, it's all that's real. look at this country, these dead, awful towns we play. talent and illusion bringing life to what is dead...even for just a matinee. how wonderful is that? 
-speaker1: to talent and illusion!
-speaker2: to rosie!
-speaker3: and silver star.
-speaker1: to all we love.
-speaker1: come on jacob! it's customary to sing for your supper!
-
-speaker1: he looked like a different man when he looked at her. i said to myself, maybe love does that to a man. i didn't know much about it. 
-speaker2: darling. darling, please..
-speaker2: gently. we have a guest.
-speaker2: darling, what is it?
-speaker2: august, dear...
-speaker2: you don't know your own strength, my love.
-speaker2: auggie?
-speaker2: excuse me, jacob.
-
-speaker1: is everything all right? 
-speaker2: oh yes. he's just had too much to drink, that's all. i hope you had a good time tonight. i wanted so much to make things up to you.
-speaker1: tonight was your idea?
-speaker2: oh auggie wanted it too, he felt horrible about what happened. he really does like you jacob. but it's hard for him. he's under a lot of pressure. he does more than people realize holding things together.
-speaker1: you said that.
-speaker2: well it's true... one dance before you go?
-speaker2: jankowski is polish isn't it?
-speaker1: is that all right?
-speaker2: yes, of course, sorry...i just think it's interesting. i don't know what i am, besides august's wife....i grew up in foster homes since i was a baby.
-
-speaker1: kentucky, oklahoma, kansas, texas...i must have covered a dozen states by the time i was 17. i'd make up stories about who my parents were... 
-speaker1: when i was five, i pretended for a whole year my mother was an appaloosa mare...
-speaker1: i did! ... and i pretended that i was really an appaloosa filly...and that i was just dreaming i was a girl and one day, i'd wake up...and i'd run home.
-speaker1: anyway, i was a lot safer inside those stables than i ever was inside those homes...
-speaker2: what happened at 17?
-speaker1: there was a parade for the circus. at the head, there were six black fresians, 17 hands high wearing red tassles. so proud! so beautiful. and august was leading them. the second he looked at me, the way he looked at me, i knew i'd never live with strangers again. and the way he talked. told me "i'd find a home in every city..welcomed in every town...and he'd give me--
-speaker3: -- a life most suckers can't dream of"â!
-speaker1: ha, you too, huh?
-
-speaker1: but he said he'd make me a star attraction and he did. i'm pretty lucky he found me. 
-speaker2: he was pretty lucky to find you.
-speaker1: you're sweet to say so.
-speaker2: pretty song.
-speaker1: don't tell him what happened...
-speaker2: oh no marlena, i won't ever tell.
-speaker1: that's the name of the song. "don't tell him what happened to me"â. ruth etting. she's one of my favorites.
-speaker1: are you much of a wine drinker?
-speaker2: i have no idea.
-speaker1: maybe you should go to bed.
-speaker2: where's that?
-
-speaker1: here, let me...we can't let you go out there all untied. a circus is a small town. what will people say? 
-speaker1: sweet, sweet jacob...
-speaker2: i'm not that sweet.
-speaker1: good night.
-
-speaker1: where am i? 
-speaker2: where are you right now or where are you in an aristotelean context because right now you're in a trunk.
-speaker1: where are my clothes? i'm not wearing anything underneath this---
-
-speaker1: huh-huh. 
-speaker2: what the did i do last night?
-speaker1: you threw up on barbara...and maybe nell.
-
-speaker1: i feel sick. 
-speaker2: you look a little pale.
-
-speaker1: it'll grow back. aw come on, you still store about last night? now i figure we're even. in fact, i probably owe you one. feel free to borrow a book. 
-speaker2: let's just drop it.
-speaker2: what's wrong with queenie?
-speaker1: what do you mean "wrong"â?
-
-speaker1: i mean she's not hating me. 
-speaker2: yeah, she's been like this all day. i don't know...she must have eaten something. she did her business and it was kind of...watery.
-speaker1: her stool? did you look at it for parasites?
-speaker2: i don't like looking at my own.
-speaker1: get some honey from the cookhouse. and if you can find any slippery elm powder. but the honey should do it. if not, we'll check her for parasites.
-speaker2: jacob?
-speaker2: thanks.
-speaker1: sure kinko.
-speaker2: jacob?
-speaker1: yeah.
-speaker2: my real name's walter.
-
-speaker1: we got big trouble. lucinda died. now we've got no center ring star act and no sideshow star... 
-speaker2: how did she die?
-speaker3: i don't know where we're gonna find a fat lady this late in the season.
-speaker1: i don't care where you find one, but find one. better get some kind of rig set up to lift her out of the car. how did you carry silver star out?
-speaker4: in pieces.
-speaker1: oh yes... mmmm...
-speaker2: august!
-speaker1: no, no, of course, don't be silly! right. well, figure something else out joe but get it down for the performance. put her in the hippo tank for now.
-speaker1: you better start on that elephant.
-
-speaker1: rosie...up. 
-speaker1: up. rosie. up.
-speaker1: rosie....walk!...step!..rosie step!
-speaker1: rosie please. my hair hurts.
-speaker1: no...no more cracker jack until you do something....rosie!...
-speaker1: i'm getting really mad now....i mean it...rosie stop...
-speaker2: you just can't get enough of somebody in your pants, can you?
-
-speaker1: heard you had a rough night? 
-speaker2: does everybody know what happened?
-speaker1: yes.
-speaker2: can somebody tell me?
-speaker1: i'm opening the midway and the menagerie this afternoon for some extra cash before the show tomorrow night. we'll see how she does with the crowd. she got any skills?
-speaker2: finding food? but i don't really know how to do this.
-speaker1: well, first of all, you can't do anything with a bull without the bull hook.
-speaker1: it's the only way to train them. watch.
-
-speaker1: please, august, let me try again. 
-speaker2: don't tell me my business! you don't want to watch this, get the out! making love to it ain't going to work. besides, from what i hear, you're not that good at it.
-
-speaker1: a parade like you never saw, a funeral and a celebration, saying goodbye to one star, introducing a new one...playing those rubes dying to get a peek like he was rolling a coin over his finger tips... 
-speaker1: it wasn't really lucinda in there. it was barbara in a fat suit and wig inside the hippo den. we buried the real lucinda by the railroad tracks between towns. cemeteries cost too much. we were the only family she knew.
-speaker1: august sure was right about rosie. she pulled the people right in. rosie played that crowd like a pro.
-
-speaker1: oh jacob... 
-speaker2: august, she's hurt.
-
-speaker1: i'm here, darling, i've got you. 
-speaker2: bring her to my tent, it's closer.
-speaker1: jacob, send joe for ice. you go and find that bull before we're run out town. and take the hook!
-
-speaker1: i'm sorry ma'am. i'll get her. 
-speaker2: you better before she gets at my --
-
-speaker1: rosie, no! stop! 
-speaker1: bad elephant, that's not nice. this kind lady hasn't invited you.
-
-speaker1: what's in the bucket? 
-speaker2: gin and ginger ale. elephants love booze. one whiff of this and she's not thinking about cabbages no more. ... moj malutki paczuszek?
-speaker1: greg, right? are you polish?
-speaker2: grabowski.
-speaker1: jankowski.
-speaker2: last show i worked, one bull faked a belly ache just to get the whiskey...better grab the hook.
-speaker1: are you a bull man? august would hire you in a minute.
-speaker2: don't want the job. not for him. besides, i'm not bull man. i just like big beasts.
-speaker2: is she following?
-
-speaker1: how's marlena? 
-speaker2: a little shaky. sore wrists. bruised heel. doc says she'll be fine. did you catch the bull?
-speaker1: she's in the menagerie.
-speaker2: good.
-speaker1: august! wait! she was good! she came back on her own! besides, you can't do anything now! the show is still going on.
-speaker2: good. the band will drown it out.
-
-speaker1: marlena...! 
-speaker1: do you know where marlena is? did she send you?
-speaker2: no....what happened?
-speaker1: she won't speak to me...
-speaker1: ...she won't let me apologize...
-
-speaker1: i don't know what happens to me, jacob. when i saw that bull running wild with marlena, i...i lost my mind. but it's because i love her. why can't she understand that? isn't there anyone who understands? ah, it's all my fault, i know it is. i've spent too much money on that bull. i can't pay the workmen. our debts are piling. we're losing attendance at every show. i have no star attraction. i don't know what's going to happen to us if rosie doesn't sell tickets. 
-speaker1: if i lose this circus, i'll lose marlena - i know it.
-speaker2: i'm sure that's not true.
-speaker1: maybe you can talk to her. she's tired of my apologies but, this pressure i'm under...of course, that's no excuse for what i did... ...i can't believe what i did. is she all right? the bull. rosie.
-speaker2: she'll be ok.
-speaker1: would you tell marlena? and tell her...tell her i'll do anything.
-speaker2: august, i can't...
-speaker2: i'm sure she'll forgive you...she loves you...anyone can see that.
-
-speaker1: thank you. my friend. 
-speaker1: jacob?
-speaker1: what were you planning to do with that bull hook?
-speaker1: ha. you look like me.
-speaker1: maybe there is someone who understands me.
-speaker2: what's going on?
-speaker1: everything's fine, earl.
-
-speaker1: oh she's a strong one, this one. 
-speaker1: jestes dobra dziewczynka
-speaker2: is she drunk?
-speaker1: she's four tons..she'll just sleep good. potoz noge.
-speaker1: masz, moja piekna
-
-speaker1: just read those out loud. to rosie. 
-speaker2: rosie...da--da---
-speaker1: daj.
-
-speaker1: daj...daj..no-ge. 
-speaker2: might help if he said please.
-speaker3: say...prosze rosie daj noge.
-speaker1: pros--prozze rosie...daj noge.
-speaker3: go on.
-speaker1: rosie...potoz noge.
-speaker1: do tylu, rosie! do tylu!
-speaker3: that fox bros bull man didn't tell us was the elephant tramp who sold rosie to them was polish...
-speaker1: we've got a new star!
-
-speaker1: would you like to dance, darling? 
-speaker2: no, thank you.
-speaker1: we need more champagne.
-speaker3: i'll get it.
-speaker1: no, you stay with marlena.
-speaker3: you ever going to let him off the hook?
-speaker2: hook? that's an unfortunate choice of words.
-speaker3: rosie's going be great. he won't hurt her again. i know it.
-speaker2: jacob, what you know about august is pretty much nothing.
-
-speaker1: you know how many star acts we've had? how much money we've made and lost and made...? silver star paid for our new stateroom and look what happened to him. everything august touches gets fed to the cats one way or another. 
-speaker1: he'll never change.
-speaker1: i want to dance.
-speaker2: maybe you should wait for august.
-speaker1: i want to dance now!
-
-speaker1: lord, that was close...aw, look at my stockings! and they're silk too. 
-speaker2: i wonder if august got out...
-speaker2: ...i don't know how we're going to get home. i've never been in new york, have you?
-speaker1: i want to see the empire state building.
-speaker2: what...what about august?
-speaker1: i don't know where he is, do you? and he doesn't know where we are. it's not our fault. like you said, who knows how long it'll take us to get back.
-speaker1: just a few hours, jacob. for just a few hours, we don't belong anywhere...we don't belong to anyone...please.
-
-speaker1: i've never seen so far. have you? look at it. as far as the eye can see and it's nowhere near all that's out there. 
-speaker2: are you all right?
-speaker1: yes. no. yes, hahaha i'm fine. i'm a complete mess...ha...
-
-speaker1: jacob? i need you to do something for me. promise me you will. 
-speaker2: anything.
-speaker1: i want you to go. i want you get away from us, from the show. you're smart jacob. you deserve better than us. leave as soon as you can or something terrible's going to happen.
-speaker2: why are you saying this?
-speaker1: it's all right. no one can hear. we'll never get another chance to say it all.
-speaker1: nothing can ever happen with us, you know. it's too dangerous. august will never let me go. you don't know what he's capable of.
-speaker2: how can you be with a man you're frightened of?
-speaker1: i'm not. i don't have to feel afraid of him if i don't feel anything...after all these years, i've learned how to do it so well. i tell myself, "i'm managing. i can manage him. august loves me. nobody else ever did. who am i to say it's the wrong kind of love?"â .. see, there's no place for a woman like me in any decent kind of world. you know where they found me when i was a baby? ...
-
-speaker1: ...in an alley behind a house in baltimore wrapped in newspaper. no one even bothered to leave a note...this circus, my horses - this is the only kind of life i can have. 
-speaker1: august made a woman like me a star attraction...i'm lucky. and i'm safe...and i was fine - before you came.
-speaker1: there's nothing that can cause a woman so much trouble as a good man.
-speaker2: i'm not that good. and i don't want to be.
-speaker1: don't say that.
-speaker2: no, i don't. good men don't wind up with much in the end except their goodness. isn't worth much, is it?
-speaker1: see? ... look what we've done to you already.
-speaker1: sweet jacob.
-speaker2: you deserve as good a life any other girl.
-speaker1: am i still a girl? i feel so old.
-
-speaker1: this can only be tonight. we have to go back. promise me you understand. 
-speaker2: i understand.
-speaker1: promise me you'll suffer.
-speaker2: i already am.
-speaker1: promise you'll look in my eyes the whole time.
-speaker2: i promise.
-
-speaker1: if i had money, if i could take care of you, would we be going back? 
-speaker2: you'd have to be a rockefeller... august would find me. he always does.
-speaker1: have you tried to get away before?
-speaker2: jacob you promised. you said you understood it was only tonight.
-speaker1: i know. i do....i'm sorry.
-
-speaker1: hey kid. how nice to see ya. 
-speaker2: hey, camel. what's wrong?
-speaker1: i don't know, kid. woke up a few days ago and my feet was all floppy. jes can't feel'em right...
-
-speaker1: ...it ain't just that though. it's other stuff too. 
-speaker2: like down there...man stuff?
-speaker3: what's wrong with him, doc?
-speaker4: i don't know.
-speaker2: jamaica ginger paralysis.
-speaker1: no such thing. is there doc?
-speaker2: the manufacturer started putting this plasticizer in it, or something, to get around regulations that jamaica ginger extract not be sold as booze.
-speaker2: you're not supposed to drink this stuff, ya know.
-speaker1: well what the am i supposed to drink to stop the shakes? it's prohibition and i ain't no astor.
-speaker5: it's ok camel. tomorrow's payday.
-speaker3: grady don't lie to the man. if men were getting paid, blackie wouldn't have tossed four of "â˜em between boonton and weehawken.
-speaker4: four?...will he get better?
-speaker6: walter looks at him, his expression says no.
-speaker3: we can't leave him here. they'll red light him for sure.
-
-speaker1: walter, please. blackie and his men only patrol the roustabout cars. they don't work the performer train. we can hide him easy until- 
-speaker2: until when? what are we going to do with him? shoot him like silver star? because that's what he is jacob. in a week, he won't be able to move his legs at all.
-speaker1: he has a son in pennsylvania. near reading. we're playing there in three weeks. that's all he needs.
-speaker2: i was right about you. you're going blow us all up...august got home tonight before you and marlena. people are talking.
-speaker2: i shouldn't be a clown. i should be a fortune teller.
-
-speaker1: good morning. 
-speaker2: good morning jacob, how are you?
-speaker1: i wanted to, uh...is there any chance i could speak with you alone?
-speaker2: about what? is something wrong?
-speaker1: no, i...i just wanted to...walter said people are talking about what happened...last night...
-speaker2: oh jacob, champagne completely overwhelms my senses..i always feel the better for it when i abstain. all i remember is getting pushed by the crowd and then running and getting a hole in my stocking. i don't even know how i got home. i don't remember a thing.
-speaker1: well, i want to apologize for--
-
-speaker1: ha,ha jacob, it's silly of you to apologize for my torn stockings. you weren't even there. 
-speaker2: i slept like a baby after last night. thank you my darling.
-speaker1: august, please. we're in public.
-speaker2: ah, nothing to be ashamed of. man and wife reuniting in the most sacred of marriage places.
-speaker3: i don't know. i just ran.
-speaker2: how did you two get separated? you were so close on the dance floor.
-speaker1: i told you, sweetheart. we got pushed apart by the crowd. this older married couple brought me to the ferry.
-speaker2: i'd like to look them up and invite them to the show free of charge...
-
-speaker1: ...august said he would create an act for marlena and rosie that would have'em line up for miles... 
-speaker1: his accent was awful but rosie obeyed without fail.
-speaker1: i was finally a part of them.
-
-speaker1: maybe, i was the man not to be trusted. 
-speaker1: marlena looked happy...and it broke my heart.
-
-speaker1: ..but right now i want to take this moment before today's show to gather together..we close our eyes.. 
-speaker1: ..and we thank whoever's up there that sends desperate men running for the rails..
-speaker1: ..because it was a lucky day when jacob jankowski jumped our train. because of him - together with our beautiful rosie and my beloved marlena - we have the greatest star attraction in benzini brother's history. he found a way to save us all. and so, to officially welcome jacob into the family, we open our eyes..
-speaker1: ..and we give him the traditional benzini brothers baptism.
-
-speaker1: now you don't have to borrow mine. 
-speaker2: thank you, august.
-
-speaker1: it's from both of us. 
-speaker2: thank you, marlena.
-speaker3: you're welcome, jacob.
-
-speaker1: i wonder if you could help me. 
-speaker2: sure.
-speaker1: i've planned a surprise for august. he's been so wonderful, don't you think?
-speaker2: no problem.
-speaker1: thank you so much...oh, and i'm sure it would be nice for august if you were there too.
-
-speaker1: oh, he'll be here any second. jacob, can you open this for me? 
-speaker2: rosie...get away....ssstop!!
-speaker3: what is this?
-
-speaker1: did you show jacob the opening night present i gave you? 
-speaker2: oh. no...do you see jacob?
-speaker3: beautiful.
-speaker1: it looks stunning on you.
-
-speaker1: to august - an authentic miracle man because he made a star attraction out of me. 
-speaker2: to august!
-speaker3: many thanks. forgive me for arriving too soon and spoiling the surprise.
-speaker1: don't be silly. i couldn't wait for you to come.
-speaker3: i could go back out to give you more time...or better yet, yell raid and clear the place out so you two can be alone.
-speaker1: what?
-speaker3: i'm sorry. i'm probably wrong. i assumed that night after the raid was the first time you two fucked, but obviously it's been going on longer than that.
-speaker1: auggie, you're being silly.
-speaker3: did you think i didn't know?
-speaker1: august don't do this!
-speaker3: shut-up. shut up!
-
-speaker1: how long did you think you could keep this from me? 
-speaker2: august, please, there's nothing-
-
-speaker1: we should go! 
-speaker2: we!...so you two are a couple?
-speaker1: no! i just don't think you're safe to be around a woman right now.
-speaker2: a woman? this is not a woman. this is my wife you ivy league lying piece of say, i bet the authorities would like to know you practise without a license.
-speaker3: auggie, please... don't you see how much i love you?
-speaker2: i see you. i see you too clearly. always have. i have to admit that was a nice touch when you got back from the speakeasy. being with me in our bed, after being with him. covering your tracks. i should have known a only performs for a man like that when she wants something.
-speaker1: marlena, come with me...
-
-speaker1: no he won't, kid. come on. 
-speaker1: see, it's over. can we let you go?
-speaker2: come on jacob. walk away.
-
-speaker1: the only thing that's keeping you alive right now are the rubes who saw everything. august can't risk getting rid of you here. but you better not get back on this train when we leave tomorrow night. 
-speaker2: what happened? somebody turn me around. share some of that jug!
-speaker1: shut-up camel.
-speaker2: well, what the hell...!
-
-speaker1: christ! who did that to you? 
-speaker2: august.
-speaker2: is it true?
-speaker3: why are we moving? we have a matinee tomorrow.
-speaker2: something's gone wrong.
-speaker4: jacob? jacob, it's marlena.
-speaker4: i'm sorry. i had nowhere to go. i told him i'm leaving him.
-speaker3: my are you all right?
-speaker4: looks worse than it feels. ha, look at the two of us.
-speaker4: can i have a swig of that?
-
-speaker1: why is the train moving? marlena sits with the jug, casually talking: 
-speaker2: we're being run out. apparently, august was so optimistic about money coming in for rosie, he figured he'd double down and find himself a new fat lady to put him really toe to toe with ringling...so he sent mr. erwin into town who finds this rather large woman in a restaurant and offers her the job. except, she...
-speaker2: ...she was the police chief's wife. mr. erwin got a left hook in the jaw and we got til morning to get out of town.
-speaker1: aw girl. we're all in it now.
-
-speaker1: why are you hiding that roustabout? 
-speaker2: because blackie and his men don't work the performer train and they'll red-light him if they find him. he can't work anymore.
-speaker1: my
-
-speaker1: does august know where you are? 
-speaker2: no. he thinks i'm with barbara and the girls. he won't go there.
-speaker1: he can't find you. as soon as we stop - before we stop - we'll jump off and i'll take you to a hotel in town.
-speaker2: and after that? august has all our money. where will i go?
-speaker1: marlena, i'm not leaving you. we'll find a way together. i won't let you go back to him. i promise.
-speaker1: ..i'll call my dean at cornell..if i can take my finals again, get my degree, i can get my license.
-speaker2: oh jacob, that would be wonderful. you know, i bet ringling would take us both then - they'd be getting a vet and a star attraction - that's a sweet deal for them. although i won't be a star but i don't care. i'll take no billing at all...we'd be safe from august if we were with ringling.
-speaker1: don't worry about him.
-speaker2: of course, i'd have to wait a while until i can work again...
-
-speaker1: what do you mean? 
-speaker2: jacob...i'm going to have a baby.
-speaker2: it's yours. please don't ask me how i know...is it all right? you can change your mind. i'd understand.
-speaker1: change my mind??? oh marlena, please...please be happy.
-speaker2: i will...i promise...as soon as i stop being terrified.
-speaker2: i'm so tired.
-speaker1: rest...i've got you now.
-
-speaker1: poor kid...help me with him.. 
-speaker2: don't you work the matinee?
-speaker3: not today. i'm fading. i gotta re- ink.
-speaker1: don't talk.
-
-speaker1: marlena!! 
-speaker2: sshh. lie back.
-speaker1: where is she? did he hurt her?
-speaker2: i don't know. your pupils are two different sizes.
-speaker1: i have to get marlena. what if he--
-speaker2: jacob, look at me. you've got a concussion and you're on a moving train. there's nothing you can do. marlena can handle him. she's done it for years...
-
-speaker1: i have to get her. 
-speaker2: jacob, you can't.
-speaker1: she's going to have a baby.
-speaker2: does august know? what have you done to us?
-speaker1: we're going to ringling. me, marlena. you can too.
-speaker2: i'm a fifth rate clown when second rate circuses are folding all over the place. doesn't put me on top of ringling's list. they've got a dozen of me in the wings. i couldn't even go if i wanted to. august won't pay anyone. says the show's debts have to come first. first time in benzini bros history performers haven't been paid. people are starving out there, jacob. in the united states of america. starving. where am i going to go?
-speaker3: what about family? like my son.
-speaker2: not a woman i have any use for. she's sold me to this outfit when i was 13.
-speaker3: she sold you?
-speaker2: i'm not exactly cut out for farm work. don't worry about me..
-
-speaker1: ..if you and marlena go, if august doesn't kill you first - i'll know what to do...i'll tell august how well i got to know you and how i can help him find you. might even get myself a better room out of the bargain... it won't be anything personal, you understand. 
-speaker2: do whatever you have to, walter.
-speaker1: you too, jacob.
-speaker3: ya poor kid. the night this train passed ya...you shoulda kept on running, i guess.
-
-speaker1: i'm not here to cause any trouble. 
-speaker2: funny, i thought you already left.
-speaker1: i'd like to say goodbye. to the menagerie. just a few minutes and then i'll go.
-speaker1: there's nothing more you can do to me. killing me'll be more trouble than it's worth, now that the rubes have seen me. you were right about me from the start august, when you said i wouldn't last...i can't survive here...
-speaker1: i am nothing.
-speaker3: august feels victorious and therefore benevolent.
-speaker2: earl, take him to the menagerie. thirty seconds. then him out of my circus, into altoona. and if he comes back, you can shoot him, as that is within our lawful rights with regards to trespassers.
-
-speaker1: kinkers never get tossed. never. so that was meant for you. 
-speaker1: a few of the guys that got tossed caught up with us again.
-speaker2: walter! is he---?
-speaker1: keep walking...they got tossed off the trestle, if you can believe it. camel's head hit the rocks. he died right away...
-speaker1: ...walter...walter's legs were smashed up real bad..they had to leave him.
-speaker1: they don't reckon he lasted the night.
-speaker1: the ones that came back...bill... grady.. i don't know how but, one way or another they're taking down august tonight.
-speaker2: why are you telling me?
-
-speaker1: oh christ! oh 
-speaker2: what is it?
-speaker1: the disaster march!
-
-speaker1: ...these animals are now the property of altoona and we're here to sell them to mr. nesci. 
-speaker2: not all of them! some of these animals are mine, like this bull.
-speaker3: do you have any proof?
-speaker4: he's right. he's just an elephant tramp. the bull is his.
-speaker2: you don't want her anyway. she can't do anything. as a box of peanut shells.
-speaker3: what's her name?
-speaker2: gertrude.
-speaker3: gertrude! gertrude, step up! up!
-
-speaker1: what happens now? 
-speaker2: i wish i knew.
-
-speaker1: i convinced my dean to let me take my finals. marlena was right. with my degree, our animals and marlena's acts, ringling got a sweet deal. our son was born our first season. we named him walter. he spent the first seven years of his life with ringling. 
-speaker1: that's why i...i just can't understand how he forgot to show up today.
-speaker2: there was a circus in town.
-speaker1: by the time our third son came, we'd had enough. rosie was tired. luckily, the vet at the albany zoo dropped dead, so i got the job.
-
-speaker1: we bought some property so we could keep the horses...rosie...then five kids...bobo and that orangutan...never named that orangutan. nothing ever sounded.. elegant enough for her. just called her ma'am. man oh man that was...that was a life, boy, i'll tell ya... 
-speaker1: and then before you know it, the kids are borrowing the car and moving out. marlena and i on our own again...until she passed.
-speaker1: i never told marlena it was rosie who got august. i didn't want her to know. when rosie passed on, she cried for days. i owe that bull my whole life...my kids, everything..
-speaker2: it's the heat.
-speaker1: they're here for me.
-speaker2: hi officer, can i help you?
-speaker3: yes, i'm hoping you can. an elderly gentleman went missing from the nursing home down the street. staff seems to think he came here.
-
-speaker1: we had a lot of folks from the home today. but no, i haven't seen him. 
-speaker2: excuse me, but who is that?
-speaker1: oh....that's my dad.
-speaker1: he can't talk. had a major stroke a few years back. but he's doing well. ain't ya pop?
-speaker2: ok, well, thanks for your time. here's my number in case you hear of anything. sorry to bother you.
-speaker3: you sure about this?
-speaker1: i wonder if we can get you into the book of records. "oldest man who ever ran away with the circus"â.
-speaker3: nah, i'm not running away. just coming home.
+CHARLIE: excuse me sir, can we help you? did you miss your ride? 
+JACOB: i missed the spec.
+RUSS: the what?
+CHARLIE: yes, i'm afraid you did. can we call someone for you?
+JACOB: where'd it all go?
+RUSS: he's seriously old.
+CHARLIE: did you come with the folks from the retirement home?
+JACOB: no, i came on my own.
+CHARLIE: let's go inside and we can call them to pick you up.
+
+JACOB: no, i told ya, i came on my own and i'm not going back. get your hands off me. 
+RUSS: it's ok. we're gonna call the home so they can come pick you up.
+JACOB: why don't you pick some of those rings out ya head maybe you won't be so stupid, ya little
+RUSS: woah! the language. uncalled for.
+CHARLIE: sir, we need to get you out of this parking lot. my trucks have to come through here. please...
+CHARLIE: i got it russ. take the walker. finish closing up the ticket booth.
+JACOB: in my day, they had old timers in the ticket wicket and freaks like him in the sideshow. kid didn't even know what the spec was.
+CHARLIE: you sound like you know circuses.
+JACOB: i should. i was on two.
+CHARLIE: malcolm, tell them to come through! two circuses. wow, that's something.
+
+JACOB: ringling, of course, but that was later... 
+CHARLIE: i'll need your name when i call the home.
+JACOB: ...first one was called benzini brothers most spectacular show ...
+CHARLIE: what?...wait a minute! did you say you were with the benzini brothers?
+CHARLIE: what years?
+
+CHARLIE: "â˜31?...you're saying you were there for the---? 
+JACOB: i was in the middle of it.
+CHARLIE: i don't believe this. after the hartford fire and the hagenback- wallace wreck, that's the most famous circus disaster of all time.
+JACOB: i remember it like yesterday... better - cause i don't remember yesterday.
+CHARLIE: charlie o'brien the third.
+JACOB: jacob jankowski the only.
+CHARLIE: mr. jankowski, i would be honored if you would have a drink with me in my trailer.
+
+JACOB: ah, i remember you...camel would've loved this stuff. 
+CHARLIE: camels drink scotch?
+CHARLIE: you really got here on you're own?
+JACOB: the great escape! but i got lost.
+CHARLIE: i should call the home, let them know where you are.
+JACOB: i don't know why they call it a "home"â. you don't know anybody there. they fill you so full of drugs, you don't care...five kids and not one has a place for me since their mother died. they take turns visiting me on weekends. they forgot whose turn it was today so nobody showed up..
+JACOB: i had a life, ya know. a big life...it isn't right.
+CHARLIE: so, how did the benzini brothers stampede start? the story is two guys got thrown off the train and--
+JACOB: no point in telling a story if all you want to know is the end.
+CHARLIE: sorry. from the beginning.
+
+THE PROCTOR: you may begin. 
+JACOB: i had my whole life planned. i knew exactly where it was taking me... and then, with the opening of a door, it all vanished.
+THE PROCTOR: mr. jankowski? may we have a word?
+DEAN WILKINS: jacob, it's your parents. i'm afraid there's been a car accident.
+
+CORONER: are you ready? 
+CHAPLAIN: is there any other family to call?
+JACOB: no. just me.
+
+HYDE: i know this is difficult for you, but there's been no mistake. the house and all their assets, including your father's practise, are now property of the bank in default of the mortgage. 
+JACOB: but i'm telling you, my father put away every penny he ever earned. they owned that house outright. why would he have a mortgage?
+HYDE: my guess is because he let people pay him in beans and eggs or whatever they had, instead of money.
+JACOB: and so he's penalized for not turning away people who couldn't afford his help? he was a doctor.
+HYDE: yes, i know, he was a very good man but in banking terms, in the reality of what makes this world actually function, he was an irresponsible man. i'm sorry, but you oughta to know the truth. this depression is going to last for a long while..
+
+JACOB: things happened so fast, my head was spinning. and that mortgage...i just couldn't figure it out. 
+BANK REPRESENTATIVE: this just came for you, jacob. whatever it is i'm going to have to include in the bank's report of assets. sorry. you ok?
+BANK REPRESENTATIVE: i also have documents to sign..
+JACOB: i didn't believe the lawyer or the bank. my mother worked. they had savings. we were never broke. so why would they need a mortgage? and then it hit me...
+
+JACOB: they did it to pay for my ivy league education. 
+BANK REPRESENTATIVE: jacob? jacob they need these signed by the end of the business day.
+JACOB: i walked and i kept on walking... it's a strange feeling becoming an orphan the same time you're becoming a man...to have this freedom to be anything you want at the same time everything you were is taken away. so i just walked ...then all of a sudden, i stopped.
+
+BLACKIE: we don't need no bums on this train brother. you can get off right now and keep running. 
+OLD TIMER: now everybody calm down here. grady put that rifle away. blackie let'im go...and i mean on the inside of the train!
+OLD TIMER: i'm tellin ya, ya can't red light him, we don't need that trouble. look at them clothes - he's no bum.
+OLD TIMER: don't be sore kid. it's more like a reflex with blackie. i'm camel..and that there's grady. and bill.
+JACOB: jacob. jankowski. nice to meet you.
+CAMEL: you're pretty young for the rails. you running from something boy? you on the lam?
+JACOB: no. nothing like that.
+CAMEL: where you headed?
+JACOB: i don't know.
+CAMEL: hungry? outta work?
+CAMEL: no shame in it. what can you do?
+JACOB: about anything i guess.
+
+CAMEL: we land in deposit in the morning. we'll find you some work. and if you're still alive by the end of it, i'll get you some food and take you to uncle august. 
+JACOB: who's that?
+GRADY: august rosenbluth...lord and master of the known and unknown universes. ringmaster extraordinaire.
+CAMEL: oh kid, don't tell me you didn't notice?
+BILL: ha, he really don't know.
+CAMEL: ha! you didn't just jump a train boy. you jumped the flying squadron of the benzini brothers most spectacular show on earth... you done landed your on a circus, kid!
+
+JACOB: you're welcome, ma'am. 
+CAMEL: what the you doing in here? get outta there!! you ain't a menagerie man. only menagerie men is allowed in there.
+
+CAMEL: gonna try to get you set up with crazy joe. 
+JACOB: do i call him crazy joe?
+CAMEL: it has been said crazy joe went to prison for killing a man who spit into the wind and hit the back of joe's neck. so no, i would not call this man crazy joe to his face.
+CAMEL: hey joe! i got a first of may here. think you can use him?
+CAMEL: you're in, kid.
+
+JACOB: i've never seen so much manure! 
+WADE: baggage stock horses. they pack'em in 27 a car.
+JACOB: how do you stand the smell?
+WADE: what smell?
+
+JACOB: excuse me, ma'am? hi. i'm jacob. 
+JACOB: may i? he may be foundering.
+JACOB: he should be all right for tonight. but i'd put him on stall rest as soon as possible.
+
+CAMEL: ..woah, you better take a breath before it all comes back up on ya. here. have a hit of jake. 
+CAMEL: it's an acquired taste. now get yourself outta there. i'm gonna take you in to see august.
+JACOB: but it's the middle of the night.
+CAMEL: only time circus people live - when they don't have to work. come on...
+
+CAMEL: i got a son about your age. lives outside of reading, pa. haven't seen him for years. fix your shirt there. 
+CAMEL: remember, when you meet august let him do the talking and don't ever mention ringling. he hates them worse than the depression.
+
+BARBARA: how's your pipe, kid? 
+CAMEL: night ladies.
+BARBARA AND GIRLS: night camel.
+
+JACOB: hey camel - who's that woman who works the horses? 
+CAMEL: now stop right there. that's marlena. she don't talk to nobody and you don't talk to her. and don't mention her to august. ain't no right way to talk about somebody's wife and make it sound like a compliment.
+JACOB: wife?
+CAMEL: look, kid, before we do this, i gotta ask... ..i ain't tryin to know your business but i do know you ain't been on the road too long. you're too clean, your clothes too nice and you don't got a possession on you. see, a man on the road collects little things. it's not a big life i can tell ya. so before you start, i ask: if you got any kind of life to go back to, that's what you should do.
+
+JACOB: i don't. 
+CAMEL: i am sorry to hear that.
+
+CAMEL: this here's earl. he's gonna take you in. earl, this here's jacob. 
+JACOB: i don't know how to thank you.
+CAMEL: ha! you may not want to after you been on a show long as i have. good luck to ya, kid. camel exits os. alone with earl, jacob asks:
+JACOB: do i look ok?
+EARL: very nice.
+
+AUGUST: what's this? 
+EARL: that stowaway the old drunk took under his wing. college boy.
+AUGUST: i'll see your three and raise you five...
+AUGUST: i don't believe i've had the pleasure.
+JACOB: jacob jankowski, sir.
+AUGUST: and what is a "jacob jankowski"â and why he is on my train?
+JACOB: just looking for work, sir.
+MR. ERWIN: can you fly? set yourself on fire?
+JACOB: no sir.
+AUGUST: ever worked a show, son?
+JACOB: no sir.
+AUGUST: ever been to a show?
+JACOB: yes sir...
+
+JACOB: ringling brothers. 
+AUGUST: ringling, you say?
+JACOB: yes. but it was terrible.
+AUGUST: really? have you seen our show?
+AUGUST: what was your favorite act?
+JACOB: the uh...the one with the black and white horses. and the girl in pink.
+AUGUST: ah, our star attraction. well, i believe we're looking for a boy to carry water for the elephants, aren't we diamond joe?
+DIAMOND JOE: we don't have an eleph-
+AUGUST: shut-up.
+JACOB: i would do that, sir. i'd like to work with the animals.
+AUGUST: and you'd carry water for elephants? ha, ha...you have any idea how much water an elephant drinks, kid? college! pfft! never met a college man yet who knew his own from shinola.
+
+AUGUST: you eat my food and you ride my train like you're entitled to survive. but you see, nothing survives here without my permission...maybe if you tell me you're nothing, i'll let you stay, although my bet is you won't last. 
+AUGUST: you smell like every kind of
+JACOB: times are hard for everybody...and i guess because ... out of all the dirt and sweat and and working with fellas you don't want to be caught dead meeting in the daylight, comes...so much beauty.
+AUGUST: that's beautifully put.
+AUGUST: toss him off, earl. and make sure you see the red light before you red light him.
+AUGUST: another sonny boy mad at mommy and daddy for paying the bills. sounds like he studied poetry.
+CRAZY JOE: i got no use for people who rhyme.
+JACOB: it was veterinary science! and i can tell you one thing - that star attraction horse of yours won't be walking in a few days let alone performing center ring!!
+AUGUST: earl wait!
+
+AUGUST: veterinary science? may i ask what school? 
+JACOB: cornell.
+AUGUST: you're a cornell graduate?
+DIAMOND JOE: marlena did want a vet to take a look at silver star. they cost.
+CECIL: he worked the rubes for me this afternoon. pretty good.
+CRAZY JOE: he shovelled horse don't make him a horse doctor. august looks reluctant. until jacob caps it:
+JACOB: i hear ringling has its own vet.
+AUGUST: all right, cornell. come with me.
+AUGUST: are you sure-footed, jacob jankowski?
+JACOB: i believe so.
+
+AUGUST: it's a breath taking sight, isn't it? always gets me. 
+AUGUST: i can't get a new liberty horse mid- season. so you make sure this horse performs and the job's yours. nine bucks a week. if you cross me, i'll feed you to my meat eaters and there won't be a trace left of you...
+
+AUGUST: kinko. 
+KINKO: august.
+AUGUST: this is jacob. he's going to bunk with you a while.
+JACOB: how do you do?
+KINKO: what is he?
+AUGUST: i said his name is jacob.
+
+KINKO: i asked what, not who. 
+AUGUST: he's going to help out in the menagerie.
+KINKO: a menagerie man? performers don't bunk with working men.
+AUGUST: well there are performers..
+STANDARD): and then there are performers.. considering we used to keep the goats in here, i'm sure marlena's horses out there object to now sharing their quarters with you. of course i can always change that and send you back to a bottom bunk with the other kinkers who sorely miss your sunny personality and affectionate camaraderie. this gentleman is the show's new veterinarian - ivy league no less - which puts him a good deal higher than you in my estimation. perhaps you'd like to offer him your cot.
+AUGUST: i'll find you in the morning. sleep well, cornell.
+JACOB: a jack russell. they're very smart.
+KINKO: queenie attack.
+
+CAMEL: ha, this gam of mine keeps falling asleep on me. pretty soon the only place for me is going to be selling tickets but i'm too ugly for that. 
+AUGUST: jacob!
+AUGUST: we can do better than this for our new vet. i'll arrange for you to start getting your own water bucket like the performers and bosses. two buckets per person. come...
+JACOB: see ya camel.
+CAMEL: yeah, take care kid.
+
+AUGUST: you'll need new clothes too. i'll set you up with the monday man. 
+JACOB: monday man?
+
+AUGUST: what day of the week did your mother hang out the wash to dry? 
+JACOB: he takes other people's clothes?
+AUGUST: it's the depression, cornell. where have you been? oh right - cornell.
+AUGUST: here, use kinko's second bucket for now.
+AUGUST: you barely use up one.
+JACOB: august, it's all right, i'll--
+AUGUST: if you need a razor, there are some back there with my name on them.
+JACOB: august..
+AUGUST: it's good to have an educated man like you around. i need one other sane individual in this operation.
+JACOB: thank you for everything, august.
+AUGUST: ah...jacob?
+
+JACOB: yes, august? 
+AUGUST: the horse.
+JACOB: oh! yes...the horse.
+
+AUGUST: i'm sure it's nothing serious. don't tell my wife i said this but she coddles them too much. she has a particularly strong affection for silver star. i don't encourage it. it's unhealthy to love an animal that much...here she is. 
+AUGUST: darling, meet jacob jankowski, benzini brothers own veterinarian.
+JACOB: it's a pleasure to meet you.
+AUGUST: last stall. lead the way, doc.
+
+AUGUST: marlena, he wasn't this bad in the show. 
+AUGUST: is that the problem?
+AUGUST: do you need any hoof testers?
+JACOB: not yet.
+AUGUST: well, how are you going to fix it?
+JACOB: i didn't want to say anything in front of... mrs. rosenbluth...he's already foundering.
+AUGUST: english.
+
+JACOB: this horse isn't getting back on his feet, august. if there was anything i could do, i would but we're going to have to put him down...i'm real sorry. 
+AUGUST: i know you are. come with me.
+
+AUGUST: joe, bad report for silver star i'm afraid. jacob here says there's no hope. we're going to have to put him down... 
+AUGUST: ...so i need you to round up pete and greg, get a wagon and a harness stretcher. he has to be hauled.
+DIAMOND JOE: a harness what?
+AUGUST: jacob and i'll take care of the cats. we'll meet you back at the stall.
+AUGUST: grab the other bucket, will you?
+JACOB: august, this stuff has gone off. do the cats really eat this?
+
+JACOB: what do i do, just open the door and toss it in? 
+AUGUST: unless you think a formal sit-down is appropriate.
+AUGUST: why don't you start with rex... that's him on the left.
+
+AUGUST: what's the matter? didn't they cover this in school? 
+JACOB: what the is wrong with you?
+AUGUST: yes i do! aw jacob wait! don't be sore! i was having a little fun!
+JACOB: fun! i could have lost my arm!
+AUGUST: rex hasn't got any teeth...
+AUGUST: jacob..
+
+AUGUST: ..people want their money back when the star act on the poster isn't in the ring! a star attraction keeps a circus alive. without it, animals eat that and men eat nothing. it takes time to find and train another horse so without silver star, i have no star act. 
+JACOB: i don't know how he's been performing august, but you don't have a star act now. that horse can't walk and if he does you'll lose him. he's in a lot of pain.
+AUGUST: like this?
+AUGUST: we always have choices, jacob - a choice between our pain and someone else's. that horse was performing before you came and he will continue to perform until he drops dead. i'm telling you to keep it alive and that's what you'll do or you'll be red lit like anyone else who doesn't obey the law here. every nation has it's own laws under jacob. you left america the second you jumped my train. i like you. believe me, i do. i'm only thinking of your future.
+
+MARLENA: tell me the truth. what's wrong with him? 
+JACOB: the connective tissues between the hoof and the coffin bone are compromised and the coffin bone rotates toward the sole of the hoof. if he keeps walking, it'll puncture through...he's in a lot of pain.
+MARLENA: and if he rests?
+JACOB: you'll lose him anyway. i'm sorry.
+MARLENA: then you have to put him down.
+JACOB: it's the right thing to do.
+MARLENA: but august won't let you.
+JACOB: if i'm the show's vet then it's my decision, isn't it?
+MARLENA: but august won't like it.
+JACOB: then it'll be my last decision.
+
+CAMEL: hey kid. what are you doing on the wrong side of the tracks? 
+JACOB: i need a gun.
+CAMEL: it can't be that bad...
+JACOB: i need a gun! or a rifle! now!
+
+KINKO: what do you think you're doing? 
+JACOB: shut-up! both of you!
+JACOB: you should go.
+MARLENA: no. i'll keep him calm.
+
+JACOB: friends now? 
+AUGUST: you've got a gift for them. like marlena with horses. it's god- given. i can always spot it.
+JACOB: my father used to say that to me.
+AUGUST: he must have been a wise man.
+40.: this stops jacob. beat. he turns to august.
+JACOB: how is marlena?
+AUGUST: you're a genuine curiosity jacob jankowski. what am i to do with you? ... i threaten to throw you off a moving train, feed you to my lions and you go ahead and shoot my star horse anyway. so i think - jacob's an educated man. for jacob to disobey me and shoot that horse, that horse must have been in pretty bad shape. perhaps bad enough to injure my marlena during the show. and so i think jacob jankowski might be a valuable person to have around.
+JACOB: tell diamond joe the animals need more water when the humidity's this bad if i don't see him before i go.
+AUGUST: you're not going anywhere. you belong here. these animals..they've been waiting for you.
+AUGUST: but don't ever disobey me like that again. i'll give you this one. i'll call it "respect"â...next one i call "betrayal"â. understood?
+AUGUST: i do thank you though. you and silver star solved a much bigger problem for me.
+JACOB: what problem?
+
+AUGUST: the cats. you see, meat eaters are always more valuable to a circus than hay burners. and you saw what we had to feed them. 
+JACOB: what does silver star have to do with the cats?
+AUGUST: we should have just enough food for them to get us to the next show, thanks to you. of course marlena won't speak to me for a day or two but she'll come around...so, i was right. you are a valuable man.
+JACOB: august, what did you do? august?
+
+JACOB: why are we stopping? 
+KINKO: august loves his sideshow freaks. there's a guy with this outfit who has a parasitic twin growing out of his chest. he dresses it in a tiny tuxedo and black patent leather shoes. no talent but a real money- maker with the rubes. calls himself the man and a half. august'll pay him double what he pays me just for the irony.
+JACOB: what happened to this circus?
+KINKO: went belly up. pretty common nowadays. circus bosses see the end coming and they'd pull a runner with all the money. menagerie belongs to the town now. august can get anything he wants for a song.
+KINKO: most of them will never belong to another show. and they know it.
+
+AUGUST: we have a new star! 
+DIAMOND JOE: the man and a half?
+AUGUST: nah, lousy ringling got here first.
+JACOB: a bull?
+AUGUST: a bull elephant! her name is rosie, she's fifty-three and she's brilliant. the best bull they had. i'm going to come up with a whole new star act around her and marlena..
+AUGUST: you can ride her in the spec from now on, since we have no liberty horse.
+AUGUST: ...our own bull! ringling can't hold that over us now. i'm renovating an entire car just for her.
+CRAZY JOE: just for the elephant! but the bunkers are at capacity! i've got roustabouts three to a bunk.
+
+JACOB: she has such long eye lashes. 
+DIAMOND JOE: she's a hundred if she's a day.
+AUGUST: darling, what do you think? she's magnificent, isn't she?
+ROSIE'S CARETAKER: you the bull man?
+AUGUST: no. this is my menagerie man.
+
+ROSIE'S CARETAKER: where's your bull man? ya got no bull man, i gotta tell the township or else they can't sell her to ya. 
+AUGUST: here he is. he's my bull man..
+ROSIE'S CARETAKER: all right. see this animal...this here's the stupidest animal on the face of good earth....here's your bull hook. you're gonna need it.
+AUGUST: i don't believe it. the mayor said she was the best bull you had.
+ROSIE'S CARETAKER: if she was the best bull, why is she the only one left? you think you're the first show to turn up picking on the bones?
+ROSIE'S CARETAKER: some elephant tramp who dropped dead in genesee sold her for a song which still ain't no bargain cause she ain't done a thing since but eat everything in sight. well, good luck to ya. and if i don't ever see another bull in my life it'll be too soon.
+
+AUGUST: joe, you and greg come with me. we have to find a car to renovate. 
+AUGUST: see what you can do with her.
+JACOB: mrs. rosenbluth, i hope i'm not speaking out of turn here but - but i had no idea they were going to do that to silver star.
+MARLENA: i know....thank you.
+MARLENA: and please, call me marlena. i'm not a snob like everybody thinks.
+JACOB: hello rosie, i'm jacob jankowski. this is mrs. marlena rosenbluth. can you say mrs. marlena rosenbluth?
+JACOB: you're a beauty, huh. skin's a little dry, you oughta take care of that. first thing you notice about a woman's age is her skin.
+JACOB: are you flirting with me young lady? i usually like to make the first move...
+
+JACOB: i like to get to know a girl first...take her out. meet her folks... of course, aggressive women can be a nice change... 
+MARLENA: i think you two are engaged.
+MARLENA: i think rosie likes music. that harmonica song is lovely.
+JACOB: i'm confessin that i love you.
+MARLENA: what?
+JACOB: the name of the song. "i'm confessin' that i love you."â
+MARLENA: --"âconfessin' that i love you."â
+JACOB MARLENA: louis armstrong. right.
+
+JACOB: what is it? 
+KINKO: it's trouble, that's what. not that i give a damn, but you're playing with dynamite with those two and you're gonna blow all of us up. august is the meanest i've ever met.
+JACOB: i admit he has his moments of insanity but he's really a very generous, charming guy.
+KINKO: you don't get it, do you? when august feeds your arm to a lion - that's the real august. the one who's generous and charming - that's the insane august.
+
+KINKO: six men got red lit last night. cancelling shows and that elephant cost august. he needed to clean house to save on payroll... it's a lousy day when an animal gets paid and men don't. 
+JACOB: why are they beating him?
+KINKO: he hid one of the men who was supposed to be tossed. word was the train was over a trestle instead of land. nobody comes back from that.
+
+AUGUST: jacob! come in, come in! 
+AUGUST: darling, our guest has arrived.
+MARLENA: i'm so glad you could come. would you like a beer? or champagne?
+
+JACOB: i'm not dressed for champagne. 
+AUGUST: we can fix that, can't we darling?
+AUGUST: we're celebrating our new star, rosie. my plan is to have the act ready for the manhattan/jersey show so she can start selling tickets.
+AUGUST: unfortunately we had to let some men go last night...
+AUGUST: ...i don't like doing it, not one bit. but to keep hard working men working, i had to get rid of lay- abouts and thieves who are dead weight. if i had the funds to pay them all i would, but times being as they are...i regret it though.
+AUGUST: so tomorrow, my faithful bull man, we begin! but tonight - we dine!! tonight, we all deserve champagne!
+AUGUST: ta-dah!
+
+AUGUST: jacob, i want to apologize to you, in front of my darling marlena so she can witness how truly sorry i am for any bit of nastiness between us...running this show, the many pressures...it can get the best of me sometimes i'm afraid. 
+MARLENA: people don't realize how much august does holding everything together. how difficult it is in these times. the whole company is like a family to him.
+AUGUST: thank you my love.
+AUGUST: from now on i shall trust your judgement in all things veterinarian. please say you accept my apology.
+JACOB: of course i do, august. you've been nothing but swell to me.
+AUGUST: good man!
+AUGUST: i could truly use a friend i can trust.
+
+JACOB: i have to tell you something. you may not trust me after you hear it. 
+JACOB: i never took my final exams at cornell. i'm not a real vet.
+JACOB: but it's true. i never got my degree. i'm not a licensed vet.
+AUGUST: bah! a worthless piece of paper from the ivy bush league! of course you're a vet. you have the gift. you're idealism is just so...sweet. when are you going to learn that the rules written of, by and for these united states of suckers do not apply to us.
+JACOB: not about this, august.
+AUGUST: all right, let me ask you - do you honestly think this is the most spectacular show on earth?
+JACOB: no.
+AUGUST: no. it's nowhere near. lucinda, our fat lady, isn't 800 pounds. four at the tops. and you really think the tattooed man got tattooed by headhunters in borneo? he's from pittsburgh. took him nine years to ink himself. and you know what i did when the hippo died? swapped out her water for formaldehyde and kept showing her. for two weeks, we travelled with a pickled hippo..
+
+AUGUST: ..the world is run on tricks - in here and out there. so trust me, it's having a talent that counts. in this world, it's all that's real. look at this country, these dead, awful towns we play. talent and illusion bringing life to what is dead...even for just a matinee. how wonderful is that? 
+AUGUST: to talent and illusion!
+JACOB: to rosie!
+MARLENA: and silver star.
+AUGUST: to all we love.
+AUGUST: come on jacob! it's customary to sing for your supper!
+
+JACOB: he looked like a different man when he looked at her. i said to myself, maybe love does that to a man. i didn't know much about it. 
+MARLENA: darling. darling, please..
+MARLENA: gently. we have a guest.
+MARLENA: darling, what is it?
+MARLENA: august, dear...
+MARLENA: you don't know your own strength, my love.
+MARLENA: auggie?
+MARLENA: excuse me, jacob.
+
+JACOB: is everything all right? 
+MARLENA: oh yes. he's just had too much to drink, that's all. i hope you had a good time tonight. i wanted so much to make things up to you.
+JACOB: tonight was your idea?
+MARLENA: oh auggie wanted it too, he felt horrible about what happened. he really does like you jacob. but it's hard for him. he's under a lot of pressure. he does more than people realize holding things together.
+JACOB: you said that.
+MARLENA: well it's true... one dance before you go?
+MARLENA: jankowski is polish isn't it?
+JACOB: is that all right?
+MARLENA: yes, of course, sorry...i just think it's interesting. i don't know what i am, besides august's wife....i grew up in foster homes since i was a baby.
+
+MARLENA: kentucky, oklahoma, kansas, texas...i must have covered a dozen states by the time i was 17. i'd make up stories about who my parents were... 
+MARLENA: when i was five, i pretended for a whole year my mother was an appaloosa mare...
+MARLENA: i did! ... and i pretended that i was really an appaloosa filly...and that i was just dreaming i was a girl and one day, i'd wake up...and i'd run home.
+MARLENA: anyway, i was a lot safer inside those stables than i ever was inside those homes...
+JACOB: what happened at 17?
+MARLENA: there was a parade for the circus. at the head, there were six black fresians, 17 hands high wearing red tassles. so proud! so beautiful. and august was leading them. the second he looked at me, the way he looked at me, i knew i'd never live with strangers again. and the way he talked. told me "i'd find a home in every city..welcomed in every town...and he'd give me--
+JACOB/MARLENA: -- a life most suckers can't dream of"â!
+MARLENA: ha, you too, huh?
+
+MARLENA: but he said he'd make me a star attraction and he did. i'm pretty lucky he found me. 
+JACOB: he was pretty lucky to find you.
+MARLENA: you're sweet to say so.
+JACOB: pretty song.
+MARLENA: don't tell him what happened...
+JACOB: oh no marlena, i won't ever tell.
+MARLENA: that's the name of the song. "don't tell him what happened to me"â. ruth etting. she's one of my favorites.
+MARLENA: are you much of a wine drinker?
+JACOB: i have no idea.
+MARLENA: maybe you should go to bed.
+JACOB: where's that?
+
+MARLENA: here, let me...we can't let you go out there all untied. a circus is a small town. what will people say? 
+MARLENA: sweet, sweet jacob...
+JACOB: i'm not that sweet.
+MARLENA: good night.
+
+JACOB: where am i? 
+KINKO: where are you right now or where are you in an aristotelean context because right now you're in a trunk.
+JACOB: where are my clothes? i'm not wearing anything underneath this---
+
+KINKO: huh-huh. 
+JACOB: what the did i do last night?
+KINKO: you threw up on barbara...and maybe nell.
+
+JACOB: i feel sick. 
+KINKO: you look a little pale.
+
+KINKO: it'll grow back. aw come on, you still store about last night? now i figure we're even. in fact, i probably owe you one. feel free to borrow a book. 
+JACOB: let's just drop it.
+JACOB: what's wrong with queenie?
+KINKO: what do you mean "wrong"â?
+
+JACOB: i mean she's not hating me. 
+KINKO: yeah, she's been like this all day. i don't know...she must have eaten something. she did her business and it was kind of...watery.
+JACOB: her stool? did you look at it for parasites?
+KINKO: i don't like looking at my own.
+JACOB: get some honey from the cookhouse. and if you can find any slippery elm powder. but the honey should do it. if not, we'll check her for parasites.
+KINKO: jacob?
+KINKO: thanks.
+JACOB: sure kinko.
+KINKO: jacob?
+JACOB: yeah.
+KINKO: my real name's walter.
+
+AUGUST: we got big trouble. lucinda died. now we've got no center ring star act and no sideshow star... 
+JACOB: how did she die?
+MR. ERWIN: i don't know where we're gonna find a fat lady this late in the season.
+AUGUST: i don't care where you find one, but find one. better get some kind of rig set up to lift her out of the car. how did you carry silver star out?
+DIAMOND JOE: in pieces.
+AUGUST: oh yes... mmmm...
+JACOB: august!
+AUGUST: no, no, of course, don't be silly! right. well, figure something else out joe but get it down for the performance. put her in the hippo tank for now.
+AUGUST: you better start on that elephant.
+
+JACOB: rosie...up. 
+JACOB: up. rosie. up.
+JACOB: rosie....walk!...step!..rosie step!
+JACOB: rosie please. my hair hurts.
+JACOB: no...no more cracker jack until you do something....rosie!...
+JACOB: i'm getting really mad now....i mean it...rosie stop...
+AUGUST: you just can't get enough of somebody in your pants, can you?
+
+AUGUST: heard you had a rough night? 
+JACOB: does everybody know what happened?
+AUGUST: yes.
+JACOB: can somebody tell me?
+AUGUST: i'm opening the midway and the menagerie this afternoon for some extra cash before the show tomorrow night. we'll see how she does with the crowd. she got any skills?
+JACOB: finding food? but i don't really know how to do this.
+AUGUST: well, first of all, you can't do anything with a bull without the bull hook.
+AUGUST: it's the only way to train them. watch.
+
+JACOB: please, august, let me try again. 
+AUGUST: don't tell me my business! you don't want to watch this, get the out! making love to it ain't going to work. besides, from what i hear, you're not that good at it.
+
+JACOB: a parade like you never saw, a funeral and a celebration, saying goodbye to one star, introducing a new one...playing those rubes dying to get a peek like he was rolling a coin over his finger tips... 
+JACOB: it wasn't really lucinda in there. it was barbara in a fat suit and wig inside the hippo den. we buried the real lucinda by the railroad tracks between towns. cemeteries cost too much. we were the only family she knew.
+JACOB: august sure was right about rosie. she pulled the people right in. rosie played that crowd like a pro.
+
+MARLENA: oh jacob... 
+JACOB: august, she's hurt.
+
+AUGUST: i'm here, darling, i've got you. 
+BARBARA: bring her to my tent, it's closer.
+AUGUST: jacob, send joe for ice. you go and find that bull before we're run out town. and take the hook!
+
+JACOB: i'm sorry ma'am. i'll get her. 
+OLD WOMAN: you better before she gets at my --
+
+JACOB: rosie, no! stop! 
+JACOB: bad elephant, that's not nice. this kind lady hasn't invited you.
+
+JACOB: what's in the bucket? 
+GREG: gin and ginger ale. elephants love booze. one whiff of this and she's not thinking about cabbages no more. ... moj malutki paczuszek?
+JACOB: greg, right? are you polish?
+GREG: grabowski.
+JACOB: jankowski.
+GREG: last show i worked, one bull faked a belly ache just to get the whiskey...better grab the hook.
+JACOB: are you a bull man? august would hire you in a minute.
+GREG: don't want the job. not for him. besides, i'm not bull man. i just like big beasts.
+GREG: is she following?
+
+JACOB: how's marlena? 
+AUGUST: a little shaky. sore wrists. bruised heel. doc says she'll be fine. did you catch the bull?
+JACOB: she's in the menagerie.
+AUGUST: good.
+JACOB: august! wait! she was good! she came back on her own! besides, you can't do anything now! the show is still going on.
+AUGUST: good. the band will drown it out.
+
+AUGUST: marlena...! 
+AUGUST: do you know where marlena is? did she send you?
+JACOB: no....what happened?
+AUGUST: she won't speak to me...
+AUGUST: ...she won't let me apologize...
+
+AUGUST: i don't know what happens to me, jacob. when i saw that bull running wild with marlena, i...i lost my mind. but it's because i love her. why can't she understand that? isn't there anyone who understands? ah, it's all my fault, i know it is. i've spent too much money on that bull. i can't pay the workmen. our debts are piling. we're losing attendance at every show. i have no star attraction. i don't know what's going to happen to us if rosie doesn't sell tickets. 
+AUGUST: if i lose this circus, i'll lose marlena - i know it.
+JACOB: i'm sure that's not true.
+AUGUST: maybe you can talk to her. she's tired of my apologies but, this pressure i'm under...of course, that's no excuse for what i did... ...i can't believe what i did. is she all right? the bull. rosie.
+JACOB: she'll be ok.
+AUGUST: would you tell marlena? and tell her...tell her i'll do anything.
+JACOB: august, i can't...
+JACOB: i'm sure she'll forgive you...she loves you...anyone can see that.
+
+AUGUST: thank you. my friend. 
+AUGUST: jacob?
+AUGUST: what were you planning to do with that bull hook?
+AUGUST: ha. you look like me.
+AUGUST: maybe there is someone who understands me.
+EARL: what's going on?
+AUGUST: everything's fine, earl.
+
+GREG: oh she's a strong one, this one. 
+GREG: jestes dobra dziewczynka
+JACOB: is she drunk?
+GREG: she's four tons..she'll just sleep good. potoz noge.
+GREG: masz, moja piekna
+
+JACOB: just read those out loud. to rosie. 
+AUGUST: rosie...da--da---
+JACOB: daj.
+
+AUGUST: daj...daj..no-ge. 
+GREG: might help if he said please.
+JACOB: say...prosze rosie daj noge.
+AUGUST: pros--prozze rosie...daj noge.
+JACOB: go on.
+AUGUST: rosie...potoz noge.
+AUGUST: do tylu, rosie! do tylu!
+JACOB: that fox bros bull man didn't tell us was the elephant tramp who sold rosie to them was polish...
+AUGUST: we've got a new star!
+
+AUGUST: would you like to dance, darling? 
+MARLENA: no, thank you.
+AUGUST: we need more champagne.
+JACOB: i'll get it.
+AUGUST: no, you stay with marlena.
+JACOB: you ever going to let him off the hook?
+MARLENA: hook? that's an unfortunate choice of words.
+JACOB: rosie's going be great. he won't hurt her again. i know it.
+MARLENA: jacob, what you know about august is pretty much nothing.
+
+MARLENA: you know how many star acts we've had? how much money we've made and lost and made...? silver star paid for our new stateroom and look what happened to him. everything august touches gets fed to the cats one way or another. 
+MARLENA: he'll never change.
+MARLENA: i want to dance.
+JACOB: maybe you should wait for august.
+MARLENA: i want to dance now!
+
+MARLENA: lord, that was close...aw, look at my stockings! and they're silk too. 
+JACOB: i wonder if august got out...
+JACOB: ...i don't know how we're going to get home. i've never been in new york, have you?
+MARLENA: i want to see the empire state building.
+JACOB: what...what about august?
+MARLENA: i don't know where he is, do you? and he doesn't know where we are. it's not our fault. like you said, who knows how long it'll take us to get back.
+MARLENA: just a few hours, jacob. for just a few hours, we don't belong anywhere...we don't belong to anyone...please.
+
+MARLENA: i've never seen so far. have you? look at it. as far as the eye can see and it's nowhere near all that's out there. 
+JACOB: are you all right?
+MARLENA: yes. no. yes, hahaha i'm fine. i'm a complete mess...ha...
+
+MARLENA: jacob? i need you to do something for me. promise me you will. 
+JACOB: anything.
+MARLENA: i want you to go. i want you get away from us, from the show. you're smart jacob. you deserve better than us. leave as soon as you can or something terrible's going to happen.
+JACOB: why are you saying this?
+MARLENA: it's all right. no one can hear. we'll never get another chance to say it all.
+MARLENA: nothing can ever happen with us, you know. it's too dangerous. august will never let me go. you don't know what he's capable of.
+JACOB: how can you be with a man you're frightened of?
+MARLENA: i'm not. i don't have to feel afraid of him if i don't feel anything...after all these years, i've learned how to do it so well. i tell myself, "i'm managing. i can manage him. august loves me. nobody else ever did. who am i to say it's the wrong kind of love?"â .. see, there's no place for a woman like me in any decent kind of world. you know where they found me when i was a baby? ...
+
+MARLENA: ...in an alley behind a house in baltimore wrapped in newspaper. no one even bothered to leave a note...this circus, my horses - this is the only kind of life i can have. 
+MARLENA: august made a woman like me a star attraction...i'm lucky. and i'm safe...and i was fine - before you came.
+MARLENA: there's nothing that can cause a woman so much trouble as a good man.
+JACOB: i'm not that good. and i don't want to be.
+MARLENA: don't say that.
+JACOB: no, i don't. good men don't wind up with much in the end except their goodness. isn't worth much, is it?
+MARLENA: see? ... look what we've done to you already.
+MARLENA: sweet jacob.
+JACOB: you deserve as good a life any other girl.
+MARLENA: am i still a girl? i feel so old.
+
+MARLENA: this can only be tonight. we have to go back. promise me you understand. 
+JACOB: i understand.
+MARLENA: promise me you'll suffer.
+JACOB: i already am.
+MARLENA: promise you'll look in my eyes the whole time.
+JACOB: i promise.
+
+JACOB: if i had money, if i could take care of you, would we be going back? 
+MARLENA: you'd have to be a rockefeller... august would find me. he always does.
+JACOB: have you tried to get away before?
+MARLENA: jacob you promised. you said you understood it was only tonight.
+JACOB: i know. i do....i'm sorry.
+
+CAMEL: hey kid. how nice to see ya. 
+JACOB: hey, camel. what's wrong?
+CAMEL: i don't know, kid. woke up a few days ago and my feet was all floppy. jes can't feel'em right...
+
+CAMEL: ...it ain't just that though. it's other stuff too. 
+WALTER: like down there...man stuff?
+BILL: what's wrong with him, doc?
+JACOB: i don't know.
+WALTER: jamaica ginger paralysis.
+CAMEL: no such thing. is there doc?
+WALTER: the manufacturer started putting this plasticizer in it, or something, to get around regulations that jamaica ginger extract not be sold as booze.
+WALTER: you're not supposed to drink this stuff, ya know.
+CAMEL: well what the am i supposed to drink to stop the shakes? it's prohibition and i ain't no astor.
+GRADY: it's ok camel. tomorrow's payday.
+BILL: grady don't lie to the man. if men were getting paid, blackie wouldn't have tossed four of "â˜em between boonton and weehawken.
+JACOB: four?...will he get better?
+88.: walter looks at him, his expression says no.
+BILL: we can't leave him here. they'll red light him for sure.
+
+JACOB: walter, please. blackie and his men only patrol the roustabout cars. they don't work the performer train. we can hide him easy until- 
+WALTER: until when? what are we going to do with him? shoot him like silver star? because that's what he is jacob. in a week, he won't be able to move his legs at all.
+JACOB: he has a son in pennsylvania. near reading. we're playing there in three weeks. that's all he needs.
+WALTER: i was right about you. you're going blow us all up...august got home tonight before you and marlena. people are talking.
+WALTER: i shouldn't be a clown. i should be a fortune teller.
+
+JACOB: good morning. 
+MARLENA: good morning jacob, how are you?
+JACOB: i wanted to, uh...is there any chance i could speak with you alone?
+MARLENA: about what? is something wrong?
+JACOB: no, i...i just wanted to...walter said people are talking about what happened...last night...
+MARLENA: oh jacob, champagne completely overwhelms my senses..i always feel the better for it when i abstain. all i remember is getting pushed by the crowd and then running and getting a hole in my stocking. i don't even know how i got home. i don't remember a thing.
+JACOB: well, i want to apologize for--
+
+MARLENA: ha,ha jacob, it's silly of you to apologize for my torn stockings. you weren't even there. 
+AUGUST: i slept like a baby after last night. thank you my darling.
+MARLENA: august, please. we're in public.
+AUGUST: ah, nothing to be ashamed of. man and wife reuniting in the most sacred of marriage places.
+JACOB: i don't know. i just ran.
+AUGUST: how did you two get separated? you were so close on the dance floor.
+MARLENA: i told you, sweetheart. we got pushed apart by the crowd. this older married couple brought me to the ferry.
+AUGUST: i'd like to look them up and invite them to the show free of charge...
+
+JACOB: ...august said he would create an act for marlena and rosie that would have'em line up for miles... 
+JACOB: his accent was awful but rosie obeyed without fail.
+JACOB: i was finally a part of them.
+
+JACOB: maybe, i was the man not to be trusted. 
+JACOB: marlena looked happy...and it broke my heart.
+
+AUGUST: ..but right now i want to take this moment before today's show to gather together..we close our eyes.. 
+AUGUST: ..and we thank whoever's up there that sends desperate men running for the rails..
+AUGUST: ..because it was a lucky day when jacob jankowski jumped our train. because of him - together with our beautiful rosie and my beloved marlena - we have the greatest star attraction in benzini brother's history. he found a way to save us all. and so, to officially welcome jacob into the family, we open our eyes..
+AUGUST: ..and we give him the traditional benzini brothers baptism.
+
+AUGUST: now you don't have to borrow mine. 
+JACOB: thank you, august.
+
+AUGUST: it's from both of us. 
+JACOB: thank you, marlena.
+MARLENA: you're welcome, jacob.
+
+MARLENA: i wonder if you could help me. 
+JACOB: sure.
+MARLENA: i've planned a surprise for august. he's been so wonderful, don't you think?
+JACOB: no problem.
+MARLENA: thank you so much...oh, and i'm sure it would be nice for august if you were there too.
+
+MARLENA: oh, he'll be here any second. jacob, can you open this for me? 
+JACOB: rosie...get away....ssstop!!
+AUGUST: what is this?
+
+AUGUST: did you show jacob the opening night present i gave you? 
+MARLENA: oh. no...do you see jacob?
+JACOB: beautiful.
+AUGUST: it looks stunning on you.
+
+MARLENA: to august - an authentic miracle man because he made a star attraction out of me. 
+JACOB: to august!
+AUGUST: many thanks. forgive me for arriving too soon and spoiling the surprise.
+MARLENA: don't be silly. i couldn't wait for you to come.
+AUGUST: i could go back out to give you more time...or better yet, yell raid and clear the place out so you two can be alone.
+MARLENA: what?
+AUGUST: i'm sorry. i'm probably wrong. i assumed that night after the raid was the first time you two fucked, but obviously it's been going on longer than that.
+MARLENA: auggie, you're being silly.
+AUGUST: did you think i didn't know?
+MARLENA: august don't do this!
+AUGUST: shut-up. shut up!
+
+AUGUST: how long did you think you could keep this from me? 
+MARLENA: august, please, there's nothing-
+
+JACOB: we should go! 
+AUGUST: we!...so you two are a couple?
+JACOB: no! i just don't think you're safe to be around a woman right now.
+AUGUST: a woman? this is not a woman. this is my wife you ivy league lying piece of say, i bet the authorities would like to know you practise without a license.
+MARLENA: auggie, please... don't you see how much i love you?
+AUGUST: i see you. i see you too clearly. always have. i have to admit that was a nice touch when you got back from the speakeasy. being with me in our bed, after being with him. covering your tracks. i should have known a only performs for a man like that when she wants something.
+JACOB: marlena, come with me...
+
+EARL: no he won't, kid. come on. 
+EARL: see, it's over. can we let you go?
+WALTER: come on jacob. walk away.
+
+WALTER: the only thing that's keeping you alive right now are the rubes who saw everything. august can't risk getting rid of you here. but you better not get back on this train when we leave tomorrow night. 
+CAMEL: what happened? somebody turn me around. share some of that jug!
+WALTER: shut-up camel.
+CAMEL: well, what the hell...!
+
+CAMEL: christ! who did that to you? 
+WALTER: august.
+WALTER: is it true?
+JACOB: why are we moving? we have a matinee tomorrow.
+WALTER: something's gone wrong.
+MARLENA: jacob? jacob, it's marlena.
+MARLENA: i'm sorry. i had nowhere to go. i told him i'm leaving him.
+JACOB: my are you all right?
+MARLENA: looks worse than it feels. ha, look at the two of us.
+MARLENA: can i have a swig of that?
+
+WALTER: why is the train moving? marlena sits with the jug, casually talking: 
+MARLENA: we're being run out. apparently, august was so optimistic about money coming in for rosie, he figured he'd double down and find himself a new fat lady to put him really toe to toe with ringling...so he sent mr. erwin into town who finds this rather large woman in a restaurant and offers her the job. except, she...
+MARLENA: ...she was the police chief's wife. mr. erwin got a left hook in the jaw and we got til morning to get out of town.
+WALTER: aw girl. we're all in it now.
+
+MARLENA: why are you hiding that roustabout? 
+JACOB: because blackie and his men don't work the performer train and they'll red-light him if they find him. he can't work anymore.
+MARLENA: my
+
+JACOB: does august know where you are? 
+MARLENA: no. he thinks i'm with barbara and the girls. he won't go there.
+JACOB: he can't find you. as soon as we stop - before we stop - we'll jump off and i'll take you to a hotel in town.
+MARLENA: and after that? august has all our money. where will i go?
+JACOB: marlena, i'm not leaving you. we'll find a way together. i won't let you go back to him. i promise.
+JACOB: ..i'll call my dean at cornell..if i can take my finals again, get my degree, i can get my license.
+MARLENA: oh jacob, that would be wonderful. you know, i bet ringling would take us both then - they'd be getting a vet and a star attraction - that's a sweet deal for them. although i won't be a star but i don't care. i'll take no billing at all...we'd be safe from august if we were with ringling.
+JACOB: don't worry about him.
+MARLENA: of course, i'd have to wait a while until i can work again...
+
+JACOB: what do you mean? 
+MARLENA: jacob...i'm going to have a baby.
+MARLENA: it's yours. please don't ask me how i know...is it all right? you can change your mind. i'd understand.
+JACOB: change my mind??? oh marlena, please...please be happy.
+MARLENA: i will...i promise...as soon as i stop being terrified.
+MARLENA: i'm so tired.
+JACOB: rest...i've got you now.
+
+BARBARA: poor kid...help me with him.. 
+JACOB: don't you work the matinee?
+TATTOOED MAN: not today. i'm fading. i gotta re- ink.
+BARBARA: don't talk.
+
+JACOB: marlena!! 
+WALTER: sshh. lie back.
+JACOB: where is she? did he hurt her?
+WALTER: i don't know. your pupils are two different sizes.
+JACOB: i have to get marlena. what if he--
+WALTER: jacob, look at me. you've got a concussion and you're on a moving train. there's nothing you can do. marlena can handle him. she's done it for years...
+
+JACOB: i have to get her. 
+WALTER: jacob, you can't.
+JACOB: she's going to have a baby.
+WALTER: does august know? what have you done to us?
+JACOB: we're going to ringling. me, marlena. you can too.
+WALTER: i'm a fifth rate clown when second rate circuses are folding all over the place. doesn't put me on top of ringling's list. they've got a dozen of me in the wings. i couldn't even go if i wanted to. august won't pay anyone. says the show's debts have to come first. first time in benzini bros history performers haven't been paid. people are starving out there, jacob. in the united states of america. starving. where am i going to go?
+CAMEL: what about family? like my son.
+WALTER: not a woman i have any use for. she's sold me to this outfit when i was 13.
+CAMEL: she sold you?
+WALTER: i'm not exactly cut out for farm work. don't worry about me..
+
+WALTER: ..if you and marlena go, if august doesn't kill you first - i'll know what to do...i'll tell august how well i got to know you and how i can help him find you. might even get myself a better room out of the bargain... it won't be anything personal, you understand. 
+JACOB: do whatever you have to, walter.
+WALTER: you too, jacob.
+CAMEL: ya poor kid. the night this train passed ya...you shoulda kept on running, i guess.
+
+JACOB: i'm not here to cause any trouble. 
+AUGUST: funny, i thought you already left.
+JACOB: i'd like to say goodbye. to the menagerie. just a few minutes and then i'll go.
+JACOB: there's nothing more you can do to me. killing me'll be more trouble than it's worth, now that the rubes have seen me. you were right about me from the start august, when you said i wouldn't last...i can't survive here...
+JACOB: i am nothing.
+115.: august feels victorious and therefore benevolent.
+AUGUST: earl, take him to the menagerie. thirty seconds. then him out of my circus, into altoona. and if he comes back, you can shoot him, as that is within our lawful rights with regards to trespassers.
+
+EARL: kinkers never get tossed. never. so that was meant for you. 
+EARL: a few of the guys that got tossed caught up with us again.
+JACOB: walter! is he---?
+EARL: keep walking...they got tossed off the trestle, if you can believe it. camel's head hit the rocks. he died right away...
+EARL: ...walter...walter's legs were smashed up real bad..they had to leave him.
+EARL: they don't reckon he lasted the night.
+EARL: the ones that came back...bill... grady.. i don't know how but, one way or another they're taking down august tonight.
+JACOB: why are you telling me?
+
+EARL: oh christ! oh 
+JACOB: what is it?
+EARL: the disaster march!
+
+SHERIFF: ...these animals are now the property of altoona and we're here to sell them to mr. nesci. 
+JACOB: not all of them! some of these animals are mine, like this bull.
+DICK NESCI: do you have any proof?
+GREG: he's right. he's just an elephant tramp. the bull is his.
+JACOB: you don't want her anyway. she can't do anything. as a box of peanut shells.
+DICK NESCI: what's her name?
+JACOB: gertrude.
+DICK NESCI: gertrude! gertrude, step up! up!
+
+MARLENA: what happens now? 
+JACOB: i wish i knew.
+
+JACOB: i convinced my dean to let me take my finals. marlena was right. with my degree, our animals and marlena's acts, ringling got a sweet deal. our son was born our first season. we named him walter. he spent the first seven years of his life with ringling. 
+JACOB: that's why i...i just can't understand how he forgot to show up today.
+CHILDLIKE): there was a circus in town.
+JACOB: by the time our third son came, we'd had enough. rosie was tired. luckily, the vet at the albany zoo dropped dead, so i got the job.
+
+JACOB: we bought some property so we could keep the horses...rosie...then five kids...bobo and that orangutan...never named that orangutan. nothing ever sounded.. elegant enough for her. just called her ma'am. man oh man that was...that was a life, boy, i'll tell ya... 
+JACOB: and then before you know it, the kids are borrowing the car and moving out. marlena and i on our own again...until she passed.
+JACOB: i never told marlena it was rosie who got august. i didn't want her to know. when rosie passed on, she cried for days. i owe that bull my whole life...my kids, everything..
+CHARLIE: it's the heat.
+JACOB: they're here for me.
+CHARLIE: hi officer, can i help you?
+COP: yes, i'm hoping you can. an elderly gentleman went missing from the nursing home down the street. staff seems to think he came here.
+
+CHARLIE: we had a lot of folks from the home today. but no, i haven't seen him. 
+COP: excuse me, but who is that?
+CHARLIE: oh....that's my dad.
+CHARLIE: he can't talk. had a major stroke a few years back. but he's doing well. ain't ya pop?
+COP: ok, well, thanks for your time. here's my number in case you hear of anything. sorry to bother you.
+JACOB: you sure about this?
+CHARLIE: i wonder if we can get you into the book of records. "oldest man who ever ran away with the circus"â.
+JACOB: nah, i'm not running away. just coming home.
 

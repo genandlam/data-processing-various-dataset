@@ -1,489 +1,489 @@
-speaker1: he wants you to turn, look in camera and say the lines. 
-speaker2: that's all he said?
-speaker1: yes, turn to camera.
-speaker2: turn left or right?
-speaker1: right side. and with intensity.
-speaker2: is that everything? it seemed like he was saying a lot more.
-speaker1: like an old friend, and into the camera.
-speaker2: for relaxing times, make it suntory time.
-speaker1: could you do it slower, and with more intensity?
-speaker2: okay.
-speaker2: for relaxing times, make it suntory time.
+TRANSLATOR: he wants you to turn, look in camera and say the lines. 
+BOB: that's all he said?
+TRANSLATOR: yes, turn to camera.
+BOB: turn left or right?
+TRANSLATOR: right side. and with intensity.
+BOB: is that everything? it seemed like he was saying a lot more.
+TRANSLATOR: like an old friend, and into the camera.
+BOB: for relaxing times, make it suntory time.
+TRANSLATOR: could you do it slower, and with more intensity?
+BOB: okay.
+BOB: for relaxing times, make it suntory time.
 
-speaker1: hey- you're bob harris- you're awesome, man. 
-speaker2: yeah, i love sunset odds! bob oh, ok, thanks.
-speaker1: man, that car chase- bob nods.
+BUSINESS GUY: hey- you're bob harris- you're awesome, man. 
+ANOTHER BUSINESS GUY: yeah, i love sunset odds! bob oh, ok, thanks.
+BUSINESS GUY: man, that car chase- bob nods.
 
-speaker1: mr. harris? 
-speaker2: yes?
-speaker1: mr. kazuzo sent me.
-speaker2: oh?
-speaker1: can i enter?
-speaker1: mr. harris?
-speaker2: yes?
-speaker1: do you like massage?
-speaker2: i don't think so.
-speaker1: mr. kazuzo send premium fantasy.
-speaker1: my stockings.
-speaker2: yes?
-speaker1: take them.
-speaker1: no - lip them... don't touch me!
-speaker1: lip my stockings! he backs away, as he tries to understand her.
-speaker1: lip them!
-speaker2: huh?
-speaker2: oh, you want me to rip them?
-speaker1: please let me go!
-speaker1: let me go!
-speaker2: i think you should leave.
+WOMAN: mr. harris? 
+BOB: yes?
+WOMAN: mr. kazuzo sent me.
+BOB: oh?
+WOMAN: can i enter?
+WOMAN: mr. harris?
+BOB: yes?
+WOMAN: do you like massage?
+BOB: i don't think so.
+WOMAN: mr. kazuzo send premium fantasy.
+WOMAN: my stockings.
+BOB: yes?
+WOMAN: take them.
+WOMAN: no - lip them... don't touch me!
+WOMAN: lip my stockings! he backs away, as he tries to understand her.
+WOMAN: lip them!
+BOB: huh?
+BOB: oh, you want me to rip them?
+WOMAN: please let me go!
+WOMAN: let me go!
+BOB: i think you should leave.
 
-speaker1: mr. harris 
-speaker2: we just got a request from tanabe mori-he is the johnny carson of japan! it is a big honor to be invited to his show.
-speaker1: can you stay until friday?
-speaker3: i'll have to see about that.
+MISS KAWASAKI: mr. harris 
+PRESS AGENT: we just got a request from tanabe mori-he is the johnny carson of japan! it is a big honor to be invited to his show.
+MISS KAWASAKI: can you stay until friday?
+BOB: i'll have to see about that.
 
-speaker1: can you get me on a flight thursday night? 
-speaker2: we're looking into it bob, but they really want you to stay to do that talk show friday, apparently it's a really big deal, he's the johnny carson of japan.
-speaker1: yeah, they told me.
-speaker2: these people are paying you a lot, do you think you could consider it?
-speaker1: just get me out of here as soon as you can.
-speaker2: ok, you're scheduled to leave saturday, but we'll hold a seat thursday in case, but first class is full, you're waitlisted for an upgrade... there might be a seat on lufthansa...
-speaker1: oh, great. i'll talk to you later, bye.
-speaker3: can you put hands close to face.
-speaker1: urn, i don't think so. how bout i just hold the bottle.
+BOB: can you get me on a flight thursday night? 
+ELAINE: we're looking into it bob, but they really want you to stay to do that talk show friday, apparently it's a really big deal, he's the johnny carson of japan.
+BOB: yeah, they told me.
+ELAINE: these people are paying you a lot, do you think you could consider it?
+BOB: just get me out of here as soon as you can.
+ELAINE: ok, you're scheduled to leave saturday, but we'll hold a seat thursday in case, but first class is full, you're waitlisted for an upgrade... there might be a seat on lufthansa...
+BOB: oh, great. i'll talk to you later, bye.
+PHOTOGRAPHER: can you put hands close to face.
+BOB: urn, i don't think so. how bout i just hold the bottle.
 
-speaker1: are you awake? 
-speaker1: john?
-speaker2: go to sleep.
+CHARLOTTE: are you awake? 
+CHARLOTTE: john?
+JOHN: go to sleep.
 
-speaker1: what can i get you? 
-speaker2: i'm not sure.
-speaker3: for relaxing times, make itâ—
-speaker4: 'suntory time'!
-speaker2: what are you doing here?
-speaker3: my wife needs space, i don't know my kids ' birthdays. everyone wants tiger woods, but they could get me, so i'm here doing a whiskey commercial.
-speaker2: oh.
-speaker2: i'll just have a beer.
-speaker3: what about you? why are you here?
-speaker2: my husband's here for work-he's a photographer- and i just came along...i'm not really doing anything right now, and we have some friends who live here.
-speaker3: how long have you been married?
-speaker2: two years.
-speaker3: try twenty-five.
-speaker2: you're probably just having a mid- life crisis. did you buy a porche?
-speaker3: i'm thinking about it.
-speaker2: 25 years... that's a long time... are you still in love with your wife?
-speaker3: yes... i don't know, i don't know her anymore. i don't know if you can be in love with one person the whole time. i was... actually i was in love with her sister first, when i was twenty-one. and one day her sister said to me she wanted to move to paris, so i said okay, and she said no, she wanted to move to paris with francois, and she's still married to him. and i moved in with lydia... but i always really liked lydia.
-speaker2: oh.
-speaker3: what do you do?
-speaker2: i'm not sure, yet... i graduated last spring.
-speaker3: what did you study?
-speaker2: philosophy.
-speaker3: oh, what do you do with that?
-speaker2: i don't know, but i can think about it, a lot.
-speaker3: it takes a while to figure it out. i'm sure you will, though.
-speaker2: thanks. i'm sure your mid-life crisis will work out,too.
-speaker3: thanks.
-speaker2: i wish i could sleep bob me, too.
+BARTENDER: what can i get you? 
+CHARLOTTE: i'm not sure.
+BOB: for relaxing times, make itâ—
+BOB and BARTENDER: 'suntory time'!
+CHARLOTTE: what are you doing here?
+BOB: my wife needs space, i don't know my kids ' birthdays. everyone wants tiger woods, but they could get me, so i'm here doing a whiskey commercial.
+CHARLOTTE: oh.
+CHARLOTTE: i'll just have a beer.
+BOB: what about you? why are you here?
+CHARLOTTE: my husband's here for work-he's a photographer- and i just came along...i'm not really doing anything right now, and we have some friends who live here.
+BOB: how long have you been married?
+CHARLOTTE: two years.
+BOB: try twenty-five.
+CHARLOTTE: you're probably just having a mid- life crisis. did you buy a porche?
+BOB: i'm thinking about it.
+CHARLOTTE: 25 years... that's a long time... are you still in love with your wife?
+BOB: yes... i don't know, i don't know her anymore. i don't know if you can be in love with one person the whole time. i was... actually i was in love with her sister first, when i was twenty-one. and one day her sister said to me she wanted to move to paris, so i said okay, and she said no, she wanted to move to paris with francois, and she's still married to him. and i moved in with lydia... but i always really liked lydia.
+CHARLOTTE: oh.
+BOB: what do you do?
+CHARLOTTE: i'm not sure, yet... i graduated last spring.
+BOB: what did you study?
+CHARLOTTE: philosophy.
+BOB: oh, what do you do with that?
+CHARLOTTE: i don't know, but i can think about it, a lot.
+BOB: it takes a while to figure it out. i'm sure you will, though.
+CHARLOTTE: thanks. i'm sure your mid-life crisis will work out,too.
+BOB: thanks.
+CHARLOTTE: i wish i could sleep bob me, too.
 
-speaker1: john! what are you doing here? 
-speaker2: i'm just here shooting this band, what about you?
-speaker1: promoting that action movie i did...
-speaker1: ...doing like twenty million interviews a day... it's soo good to see you. how long are you here for?
-speaker2: we're here for the week. i'm shooting in osaka for a few days.
-speaker1: it's amazing there!
-speaker2: have you met charlotte? my wife.
-speaker1: no! hi! so great to meet you!
-speaker3: hi, nice to meet you.
-speaker1: you know, john, you're my favorite photographer, i only want to be shot by you.
-speaker2: uh..thanks.
-speaker1: sorry if i have the worst b.o., i've been sweating in this little room with t.v. lights for hours...
-speaker2: oh no...
-speaker1: ...well, i have the worst headache, i have to go find some aspirin. but, call me, let's have a drink, i'm under evelyn waugh.
-speaker2: ok, see you later.
-speaker3: evelyn waugh?
-speaker2: what?
-speaker3: evelyn waugh was a man.
-speaker2: oh, c'mon, she's nice. not everyone went to yale.
-speaker2: its just a pseudonym, it doesn't matter.
-speaker3: why do you have to defend her?
-speaker2: i'm not, but do you have to point out how stupid everyone is.
-speaker3: no, i thought it was funny. forget it.
-speaker4: we should get going.
-speaker2: ok, i'll see you later.
+KELLY: john! what are you doing here? 
+JOHN: i'm just here shooting this band, what about you?
+KELLY: promoting that action movie i did...
+KELLY: ...doing like twenty million interviews a day... it's soo good to see you. how long are you here for?
+JOHN: we're here for the week. i'm shooting in osaka for a few days.
+KELLY: it's amazing there!
+JOHN: have you met charlotte? my wife.
+KELLY: no! hi! so great to meet you!
+CHARLOTTE: hi, nice to meet you.
+KELLY: you know, john, you're my favorite photographer, i only want to be shot by you.
+JOHN: uh..thanks.
+KELLY: sorry if i have the worst b.o., i've been sweating in this little room with t.v. lights for hours...
+JOHN: oh no...
+KELLY: ...well, i have the worst headache, i have to go find some aspirin. but, call me, let's have a drink, i'm under evelyn waugh.
+JOHN: ok, see you later.
+CHARLOTTE: evelyn waugh?
+JOHN: what?
+CHARLOTTE: evelyn waugh was a man.
+JOHN: oh, c'mon, she's nice. not everyone went to yale.
+JOHN: its just a pseudonym, it doesn't matter.
+CHARLOTTE: why do you have to defend her?
+JOHN: i'm not, but do you have to point out how stupid everyone is.
+CHARLOTTE: no, i thought it was funny. forget it.
+PRODUCER: we should get going.
+JOHN: ok, i'll see you later.
 
-speaker1: hi, leave a message... 
-speaker2: you have eighteen new messages. press - she hits a button.
-speaker3: hi charlotte, i don't know if you're in town... but i'm having a birthday party for my dog, louise, tomorrow night, at my house around eight...
-speaker4: fabulous time in japan! how exciting, and hope you and your adorable husband are enjoying it...i was sitting next to cathryn myles last night at this dinner and she was telling me about her daughter who had this awful boyfriend and a messy break-up and how hard it is,and now she's single and wants to start a family, i'm so glad that you're settled, and not in that situation. anyway, call me when you have a chance, i'm trying to put thanksgiving plans together, whether we want to go skiing or. daddy wants to stay home and have it here, which might be easier with lauren and the children, but let me know what your feelings are, i do hope you and john can make it. call me, i love you.
-speaker2: charlotte hangs up
+CHARLOTTE: hi, leave a message... 
+VOICE MAIL: you have eighteen new messages. press - she hits a button.
+MAN'S VOICE: hi charlotte, i don't know if you're in town... but i'm having a birthday party for my dog, louise, tomorrow night, at my house around eight...
+MOTHER: fabulous time in japan! how exciting, and hope you and your adorable husband are enjoying it...i was sitting next to cathryn myles last night at this dinner and she was telling me about her daughter who had this awful boyfriend and a messy break-up and how hard it is,and now she's single and wants to start a family, i'm so glad that you're settled, and not in that situation. anyway, call me when you have a chance, i'm trying to put thanksgiving plans together, whether we want to go skiing or. daddy wants to stay home and have it here, which might be easier with lauren and the children, but let me know what your feelings are, i do hope you and john can make it. call me, i love you.
+VOICE MAIL: charlotte hangs up
 
-speaker1: what was it like working with keanu reeves? 
-speaker2: it was great. i've known him for a while now- you know we both live in l.a. we both have dogs...
+SWEATY JOURNALIST: what was it like working with keanu reeves? 
+KELLY: it was great. i've known him for a while now- you know we both live in l.a. we both have dogs...
 
-speaker1: how'd it go today? 
-speaker2: good...i'm tired.
-speaker2: i gotta go meet kelly for a drink downstairs. she wants to talk about some photo thing.
-speaker1: ok. maybe i'll walk down with you.
-speaker2: you wanna come?
-speaker1: sure.
-speaker2: ok.
+CHARLOTTE: how'd it go today? 
+JOHN: good...i'm tired.
+JOHN: i gotta go meet kelly for a drink downstairs. she wants to talk about some photo thing.
+CHARLOTTE: ok. maybe i'll walk down with you.
+JOHN: you wanna come?
+CHARLOTTE: sure.
+JOHN: ok.
 
-speaker1: ...my dad was anorexic. 
-speaker2: really?
-speaker1: he was on the american side at the bay of pigs, in cuba, and he was taken prisoner, and they tortured them about their food the whole time.
-speaker3: where?
-speaker1: my dad fought on the american side at the bay of pigs. so, when he was a prisoner, they would tell them they had put poison in their food and they would make themselves throw up... and when he got back, he did better, but he still has food issues. he has to have really clean food. and really simple. he can't just go have, say, chinese food.
-speaker4: oh, that's too bad.
-speaker3: how crazy is this
-speaker2: yeah, it is.
-speaker1: ...oh my you have to try it, this power cleanse is amazing- it's lemon juice and grade b maple syrup and cayenne pepper for seven days. just like a half a teaspoon of cayenne. the first few days you're a little scattered, but by day four - it's amazing... my eyes were so white... charlotte excuses herself.
-speaker2: hi again, how's it going?
-speaker5: who do i have to to get off this planet?
+KELLY: ...my dad was anorexic. 
+CHARLOTTE: really?
+KELLY: he was on the american side at the bay of pigs, in cuba, and he was taken prisoner, and they tortured them about their food the whole time.
+BENZO: where?
+KELLY: my dad fought on the american side at the bay of pigs. so, when he was a prisoner, they would tell them they had put poison in their food and they would make themselves throw up... and when he got back, he did better, but he still has food issues. he has to have really clean food. and really simple. he can't just go have, say, chinese food.
+JOHN: oh, that's too bad.
+BENZO: how crazy is this
+CHARLOTTE: yeah, it is.
+KELLY: ...oh my you have to try it, this power cleanse is amazing- it's lemon juice and grade b maple syrup and cayenne pepper for seven days. just like a half a teaspoon of cayenne. the first few days you're a little scattered, but by day four - it's amazing... my eyes were so white... charlotte excuses herself.
+CHARLOTTE: hi again, how's it going?
+BOB: who do i have to to get off this planet?
 
-speaker1: no, what are you talking about. 
-speaker2: i went to a temple today and i didn't feel anything.
-speaker1: that's ok.
-speaker2: i don't know what to do.
-speaker1: that's ok, you'll figure it out.
-speaker2: you smell weird.
-speaker1: what?
-speaker2: like popcorn?
-speaker1: i got some hair stuff.
-speaker2: hair stuff?
-speaker1: i gotta go to work.
-speaker1: i'll be right down...i'm just leaving...ok.
-speaker1: see you later.
-speaker2: bye.
+JOHN: no, what are you talking about. 
+CHARLOTTE: i went to a temple today and i didn't feel anything.
+JOHN: that's ok.
+CHARLOTTE: i don't know what to do.
+JOHN: that's ok, you'll figure it out.
+CHARLOTTE: you smell weird.
+JOHN: what?
+CHARLOTTE: like popcorn?
+JOHN: i got some hair stuff.
+CHARLOTTE: hair stuff?
+JOHN: i gotta go to work.
+JOHN: i'll be right down...i'm just leaving...ok.
+JOHN: see you later.
+CHARLOTTE: bye.
 
-speaker1: lauren? 
-speaker2: charlotte?! how's tokyo?
-speaker1: it's cool... but,i don't know... i went to a shrine today and all these little monk's were chanting... and, i didn't feel anything... i even tried ikebana, ... and john's using hair products... i don't know who
+CHARLOTTE: lauren? 
+LAUREN: charlotte?! how's tokyo?
+CHARLOTTE: it's cool... but,i don't know... i went to a shrine today and all these little monk's were chanting... and, i didn't feel anything... i even tried ikebana, ... and john's using hair products... i don't know who
 
-speaker1: oh, wait, can you hold on one sec? 
-speaker2: sure.
-speaker1: sorry about that, what were you saying?
-speaker2: oh, it's nothing... i better go, i'll talk to you later.
-speaker1: ok, have fun there, you're so lucky you don't have any kids yet and you can go off to japan... call me when you get back.
-speaker2: ok, bye.
+LAUREN: oh, wait, can you hold on one sec? 
+CHARLOTTE: sure.
+LAUREN: sorry about that, what were you saying?
+CHARLOTTE: oh, it's nothing... i better go, i'll talk to you later.
+LAUREN: ok, have fun there, you're so lucky you don't have any kids yet and you can go off to japan... call me when you get back.
+CHARLOTTE: ok, bye.
 
-speaker1: ouch. 
-speaker2: at the fitting, they had all these rock n roll clothes, the label guys kept saying lock n loll, though, but the band doesn't look tough at all...they look better just skinny and nerdy, like how when they came in...they looked so uncomfortable in these keith richards clothes, they should just be like they are, don't you think?
-speaker1: yeah.
-speaker2: yeah, i think you're probably right... because when you try to...
-speaker1: do you think it's done?
-speaker2: i don't know. he goes to get all his stuff together.
-speaker2: will you please stop smoking?
-speaker1: but i like to... and i don't smoke that much.
-speaker2: its bad for you.
-speaker1: ok, i will... later.
-speaker2: a soul's search: finding your true character and calling? is this yours?
-speaker1: oh... that's nothing, someone gave it to me.
-speaker2: you don't have to be embarrassed.
-speaker1: i'm not. it's just corny, but i'm not into it.
-speaker2: it's ok if you are.
-speaker2: oh, the record company sent these...
-speaker1: mmm, i love cristal, let's have some.
-speaker2: i gotta go... and i don't really like champagne.
-speaker2: are you sure you want to stay?
-speaker1: are you sure you have to go?
-speaker1: yeah, i know you have to work the whole time, i'll probably have more fun here. i'll call charlie and those guys.
-speaker2: ok, definitely call them, i'll be back friday. i love you.
-speaker1: i love you.
-speaker1: i miss you.
-speaker2: it'll just be a few days. he kisses her and is off.
+CHARLOTTE: ouch. 
+JOHN: at the fitting, they had all these rock n roll clothes, the label guys kept saying lock n loll, though, but the band doesn't look tough at all...they look better just skinny and nerdy, like how when they came in...they looked so uncomfortable in these keith richards clothes, they should just be like they are, don't you think?
+CHARLOTTE: yeah.
+JOHN: yeah, i think you're probably right... because when you try to...
+CHARLOTTE: do you think it's done?
+JOHN: i don't know. he goes to get all his stuff together.
+JOHN: will you please stop smoking?
+CHARLOTTE: but i like to... and i don't smoke that much.
+JOHN: its bad for you.
+CHARLOTTE: ok, i will... later.
+JOHN: a soul's search: finding your true character and calling? is this yours?
+CHARLOTTE: oh... that's nothing, someone gave it to me.
+JOHN: you don't have to be embarrassed.
+CHARLOTTE: i'm not. it's just corny, but i'm not into it.
+JOHN: it's ok if you are.
+JOHN: oh, the record company sent these...
+CHARLOTTE: mmm, i love cristal, let's have some.
+JOHN: i gotta go... and i don't really like champagne.
+JOHN: are you sure you want to stay?
+CHARLOTTE: are you sure you have to go?
+CHARLOTTE: yeah, i know you have to work the whole time, i'll probably have more fun here. i'll call charlie and those guys.
+JOHN: ok, definitely call them, i'll be back friday. i love you.
+CHARLOTTE: i love you.
+CHARLOTTE: i miss you.
+JOHN: it'll just be a few days. he kisses her and is off.
 
-speaker1: oh, hi. 
-speaker2: hi. did you have a nice swim?
-speaker1: yeah. did you get some sleep?
-speaker2: no, how about you?
-speaker1: not really. how long are you here for?
-speaker2: i'm here for the week.
-speaker1: oh, good. do you want to go to a party tonight with me and some friends who live here?
-speaker2: ok.
-speaker1: see you later.
+CHARLOTTE: oh, hi. 
+BOB: hi. did you have a nice swim?
+CHARLOTTE: yeah. did you get some sleep?
+BOB: no, how about you?
+CHARLOTTE: not really. how long are you here for?
+BOB: i'm here for the week.
+CHARLOTTE: oh, good. do you want to go to a party tonight with me and some friends who live here?
+BOB: ok.
+CHARLOTTE: see you later.
 
-speaker1: you really are having a mid-life crisis. 
-speaker2: i know, it's stupid.
-speaker2: a soul's search: finding your true calling - are you reading this?
-speaker1: no.
-speaker2: i read it, too.
+CHARLOTTE: you really are having a mid-life crisis. 
+BOB: i know, it's stupid.
+BOB: a soul's search: finding your true calling - are you reading this?
+CHARLOTTE: no.
+BOB: i read it, too.
 
-speaker1: charlie, this is bob. bob â— charlie brown. 
-speaker2: hi, charlie.
-speaker1: his real name's hayashi, but someone started calling him charlie because they thought he looked like charlie brown. they've all got american nicknames because its easier for me to remember... they were just out in l.a. last month doing a shoot with john... that guy's mr.valentine, he's the art director of their magazine, i don't even know his real name, or why i call him that.
-speaker3: this is bambi.
-speaker1: hi.
+CHARLOTTE: charlie, this is bob. bob â— charlie brown. 
+BOB: hi, charlie.
+CHARLOTTE: his real name's hayashi, but someone started calling him charlie because they thought he looked like charlie brown. they've all got american nicknames because its easier for me to remember... they were just out in l.a. last month doing a shoot with john... that guy's mr.valentine, he's the art director of their magazine, i don't even know his real name, or why i call him that.
+CHARLIE: this is bambi.
+CHARLOTTE: hi.
 
-speaker1: how's california? 
-speaker2: good.
-speaker1: good... i like your swimming pool.
-speaker2: thanks, you guys should come back sometime.
-speaker1: yes.
-speaker1: kawaii. she smiles a lovable smile at bambi.
+BAMBI: how's california? 
+CHARLOTTE: good.
+BAMBI: good... i like your swimming pool.
+CHARLOTTE: thanks, you guys should come back sometime.
+BAMBI: yes.
+BAMBI: kawaii. she smiles a lovable smile at bambi.
 
-speaker1: what do you feel like singing, bob? 
-speaker2: no way.
+CHARLOTTE: what do you feel like singing, bob? 
+BOB: no way.
 
-speaker1: you bite your nails? 
-speaker1: i could cut the ones that are left for you.
-speaker2: ok.
+CHARLOTTE: you bite your nails? 
+CHARLOTTE: i could cut the ones that are left for you.
+BOB: ok.
 
-speaker1: i'm hans. 
-speaker2: hans? nice to meet you.
+HANS: i'm hans. 
+CHARLOTTE: hans? nice to meet you.
 
-speaker1: make sure she gets home okay? 
-speaker2: i will.
-speaker2: are you ok?
+CHARLIE: make sure she gets home okay? 
+BOB: i will.
+BOB: are you ok?
 
-speaker1: i don't want to go home. 
-speaker2: i know. i don't either.
+CHARLOTTE: i don't want to go home. 
+BOB: i know. i don't either.
 
-speaker1: lydia? 
-speaker2: hello, darling.
-speaker1: lydia, i went to this great house tonight, this guy designed and built, you would have loved it.
-speaker2: oh, yeah? i wish i had seen it.
-speaker1: he was this fashion guy, and there were all these japanese fashion people- it's a whole other world, and i was talking to these japanese surfers... he was playing all this great music- i have to find out what it was...
-speaker2: that sounds great â— can you hold on... what zoe?
-speaker3: i don't want it.
-speaker2: well, you have to have something for breakfast. do you want cereal?
-speaker3: no.
-speaker2: just trying to get her to eat something...i'm glad you're having fun.
-speaker1: yeah, its really different here.
-speaker2: well, that's good, i have to get the kids off for school. can i call you in a little while?
-speaker1: it's four in the morning... i'm going to go to sleep.
-speaker2: ok, well... i love you.
-speaker1: i love you, too, good-night, or good- morning .
-speaker2: good-night.
+BOB: lydia? 
+LYDIA: hello, darling.
+BOB: lydia, i went to this great house tonight, this guy designed and built, you would have loved it.
+LYDIA: oh, yeah? i wish i had seen it.
+BOB: he was this fashion guy, and there were all these japanese fashion people- it's a whole other world, and i was talking to these japanese surfers... he was playing all this great music- i have to find out what it was...
+LYDIA: that sounds great â— can you hold on... what zoe?
+ZOE: i don't want it.
+LYDIA: well, you have to have something for breakfast. do you want cereal?
+ZOE: no.
+LYDIA: just trying to get her to eat something...i'm glad you're having fun.
+BOB: yeah, its really different here.
+LYDIA: well, that's good, i have to get the kids off for school. can i call you in a little while?
+BOB: it's four in the morning... i'm going to go to sleep.
+LYDIA: ok, well... i love you.
+BOB: i love you, too, good-night, or good- morning .
+LYDIA: good-night.
 
-speaker1: hello? 
-speaker2: it's charlotte.
-speaker1: charlotte, who?
-speaker2: thanks for getting me back in one piece.
-speaker1: of course.
-speaker2: do you want to have some breakfast?
-speaker1: yeah, i'm going to take a shower and i'll meet you downstairs.
-speaker2: ok, see you downstairs.
+BOB: hello? 
+CHARLOTTE: it's charlotte.
+BOB: charlotte, who?
+CHARLOTTE: thanks for getting me back in one piece.
+BOB: of course.
+CHARLOTTE: do you want to have some breakfast?
+BOB: yeah, i'm going to take a shower and i'll meet you downstairs.
+CHARLOTTE: ok, see you downstairs.
 
-speaker1: hey look, it's sausalito. 
-speaker2: i see them every morning.
+CHARLOTTE: hey look, it's sausalito. 
+BOB: i see them every morning.
 
-speaker1: hans was very attentive to you. 
-speaker2: i think he kind of liked me...is that so hard to imagine?
-speaker1: no, its easy.
-speaker2: how'd a japanese guy get a name like hans?
-speaker1: i don't know.
-speaker2: do you remember when we met at the bar? ...you were wearing a tuxedo.
-speaker1: but the first time i saw you was in the elevator.
-speaker2: really?
-speaker1: yeah, you don't remember?
-speaker2: did i scowl at you?
-speaker1: no, you smiled.
-speaker2: i don't remember.
-speaker1: i know, i kind of blend in here.
+BOB: hans was very attentive to you. 
+CHARLOTTE: i think he kind of liked me...is that so hard to imagine?
+BOB: no, its easy.
+CHARLOTTE: how'd a japanese guy get a name like hans?
+BOB: i don't know.
+CHARLOTTE: do you remember when we met at the bar? ...you were wearing a tuxedo.
+BOB: but the first time i saw you was in the elevator.
+CHARLOTTE: really?
+BOB: yeah, you don't remember?
+CHARLOTTE: did i scowl at you?
+BOB: no, you smiled.
+CHARLOTTE: i don't remember.
+BOB: i know, i kind of blend in here.
 
-speaker1: why do they switch the r's and l's here? 
-speaker2: i don't know. my fax said "have a good fright".
-speaker1: let's never come here again, because it would never be as much fun.
-speaker2: ok, whatever you want.
-speaker1: did you see hiromix last night dancing with bambi?
-speaker2: no, i was looking at you.
-speaker1: oh. well... they were dancing on the couch with that weird english guy who kept talking about hanging out with the pistols on kings road...
-speaker2: i got a fax today from your friend hiromix.
-speaker1: oh, for her show?
-speaker2: no, for a candlelight dinner, yes, for her show.
-speaker1: oh.
-speaker2: you're possessive.
-speaker1: i know.
+CHARLOTTE: why do they switch the r's and l's here? 
+BOB: i don't know. my fax said "have a good fright".
+CHARLOTTE: let's never come here again, because it would never be as much fun.
+BOB: ok, whatever you want.
+CHARLOTTE: did you see hiromix last night dancing with bambi?
+BOB: no, i was looking at you.
+CHARLOTTE: oh. well... they were dancing on the couch with that weird english guy who kept talking about hanging out with the pistols on kings road...
+BOB: i got a fax today from your friend hiromix.
+CHARLOTTE: oh, for her show?
+BOB: no, for a candlelight dinner, yes, for her show.
+CHARLOTTE: oh.
+BOB: you're possessive.
+CHARLOTTE: i know.
 
-speaker1: i'm stuck. does it get easier. 
-speaker2: no, yes, it does...
-speaker1: yeah? but look at you.
-speaker2: thanks. it does, the more you know who you are... you don't care about things the same way...
-speaker1: i just don't know what i'm supposed to be. i thought maybe i wanted to be a writer... but i hate what i write, and i tried taking pictures, but john's so good at that, and mine are so mediocre... and every girl goes through a photography phase, like horses, you know pictures of your feet...
-speaker2: you'll figure it out. i'm not worried about you. keep writing.
-speaker1: but, i'm mean.
-speaker2: that's ok.
-speaker1: and marriage, does that get easier?
-speaker2: it's hard. we started going to a marriage counselor.
-speaker1: did that help? did you learn anything?
-speaker2: we established that we have no communication.
-speaker1: oh.
-speaker2: we used to have fun, she used to like to go to places with me for my movies and we would laugh at all the weirdos, but now she's tired of it all. she never wants to leave the kids, she doesn't need me, and they don't need me, i feel like i'm in the way. it gets complicated when you have kids... that changes everything.
-speaker1: that's too scary.
-speaker2: when they're born its like vietnam. it's terrifying.
-speaker1: no one ever tells you that...
-speaker2: but, it's great being with them, after they can talk, and can do things with you.
-speaker1: that's nice. my parents were always traveling, they weren't around so much.
-speaker2: where'd you grow up?
-speaker1: in d.c., my dad was the ambassador to france in the eighties, so we went to school in paris for a few years... but we mostly lived in d.c., and they were never around... and then i moved to los angeles when john and i got married... it's so different there.
-speaker2: i know.
-speaker1: john thinks i'm so snotty.
-speaker2: you are.
-speaker1: i know, but that's what you like about me.
-speaker1: why do you have to be with your opposite, why cant similar people be together?
-speaker2: because that would be too easy.
+CHARLOTTE: i'm stuck. does it get easier. 
+BOB: no, yes, it does...
+CHARLOTTE: yeah? but look at you.
+BOB: thanks. it does, the more you know who you are... you don't care about things the same way...
+CHARLOTTE: i just don't know what i'm supposed to be. i thought maybe i wanted to be a writer... but i hate what i write, and i tried taking pictures, but john's so good at that, and mine are so mediocre... and every girl goes through a photography phase, like horses, you know pictures of your feet...
+BOB: you'll figure it out. i'm not worried about you. keep writing.
+CHARLOTTE: but, i'm mean.
+BOB: that's ok.
+CHARLOTTE: and marriage, does that get easier?
+BOB: it's hard. we started going to a marriage counselor.
+CHARLOTTE: did that help? did you learn anything?
+BOB: we established that we have no communication.
+CHARLOTTE: oh.
+BOB: we used to have fun, she used to like to go to places with me for my movies and we would laugh at all the weirdos, but now she's tired of it all. she never wants to leave the kids, she doesn't need me, and they don't need me, i feel like i'm in the way. it gets complicated when you have kids... that changes everything.
+CHARLOTTE: that's too scary.
+BOB: when they're born its like vietnam. it's terrifying.
+CHARLOTTE: no one ever tells you that...
+BOB: but, it's great being with them, after they can talk, and can do things with you.
+CHARLOTTE: that's nice. my parents were always traveling, they weren't around so much.
+BOB: where'd you grow up?
+CHARLOTTE: in d.c., my dad was the ambassador to france in the eighties, so we went to school in paris for a few years... but we mostly lived in d.c., and they were never around... and then i moved to los angeles when john and i got married... it's so different there.
+BOB: i know.
+CHARLOTTE: john thinks i'm so snotty.
+BOB: you are.
+CHARLOTTE: i know, but that's what you like about me.
+CHARLOTTE: why do you have to be with your opposite, why cant similar people be together?
+BOB: because that would be too easy.
 
-speaker1: hello? 
-speaker2: mr. harris, we have fax for you!
-speaker1: ok.
-speaker2: do you want i send it to your room?
-speaker1: great.
-speaker2: thank you, mr. harris.
+BOB: hello? 
+RECEPTION: mr. harris, we have fax for you!
+BOB: ok.
+RECEPTION: do you want i send it to your room?
+BOB: great.
+RECEPTION: thank you, mr. harris.
 
-speaker1: you made it. 
-speaker2: they really have to work on that street name thing.
-speaker1: what's that?
-speaker2: it's for my daughter.
-speaker1: how old is she?
-speaker2: four.
-speaker1: oh, she'll love it.
-speaker2: nice one.
-speaker1: off. they have lunch, he makes her laugh.
-speaker2: what happened to your toe?
-speaker1: i don't know, i think maybe i broke it? i knocked into something the other day...
-speaker2: that doesn't look good.
-speaker1: it's bad isn't it?
-speaker2: we should get you to the doctor.
-speaker1: you think so?
-speaker2: yeah, look at that thing.
+CHARLOTTE: you made it. 
+BOB: they really have to work on that street name thing.
+CHARLOTTE: what's that?
+BOB: it's for my daughter.
+CHARLOTTE: how old is she?
+BOB: four.
+CHARLOTTE: oh, she'll love it.
+BOB: nice one.
+CHARLOTTE: off. they have lunch, he makes her laugh.
+BOB: what happened to your toe?
+CHARLOTTE: i don't know, i think maybe i broke it? i knocked into something the other day...
+BOB: that doesn't look good.
+CHARLOTTE: it's bad isn't it?
+BOB: we should get you to the doctor.
+CHARLOTTE: you think so?
+BOB: yeah, look at that thing.
 
-speaker1: how do you say "hospital" in japanese? 
-speaker2: excuse me?
-speaker1: hospital?
-speaker2: one moment, please.
-speaker3: concierge desk, may i help you?
-speaker1: yes, can you tell me how to say "hospital" in japanese?
-speaker3: "hospital" in japanese? hosupitari.
-speaker1: hosupitari?
+BOB: how do you say "hospital" in japanese? 
+RECEPTION: excuse me?
+BOB: hospital?
+RECEPTION: one moment, please.
+CONCIERGE: concierge desk, may i help you?
+BOB: yes, can you tell me how to say "hospital" in japanese?
+CONCIERGE: "hospital" in japanese? hosupitari.
+BOB: hosupitari?
 
-speaker1: hello? 
-speaker2: bob, it's me.
-speaker1: oh, hi, elaine.
-speaker2: so, we got you on an earlier flight, but i really think you should think about staying for that talk show.
-speaker1: ok.
-speaker2: you'll do it?
-speaker1: yeah, i'll stay.
+BOB: hello? 
+ELAINE: bob, it's me.
+BOB: oh, hi, elaine.
+ELAINE: so, we got you on an earlier flight, but i really think you should think about staying for that talk show.
+BOB: ok.
+ELAINE: you'll do it?
+BOB: yeah, i'll stay.
 
-speaker1: hello? 
-speaker2: bob?
-speaker1: hi, lydia.
-speaker2: is this a bad time?
-speaker1: uh, no.
-speaker2: it's really hard to reach you... did you get the carpet samples? i like the burgundy.
-speaker1: ok, whatever you think... i'm lost.
-speaker2: it's just carpet.
-speaker1: that's not what i'm talking about.
-speaker2: what are you talking about?
-speaker1: i don't know.
-speaker2: is there anything i can do?
-speaker1: i don't know... i want to be more healthy. i want to eat better.
-speaker2: what?
-speaker1: you know, eat healthier.
-speaker2: alright?
-speaker1: not all that pasta.
-speaker2: fine.
-speaker1: like japanese food.
-speaker2: why don't you just stay there, and you can have it everyday.
-speaker1: oh, come on.
-speaker2: i have to go, adam's tormenting zoe, i'll talk to you later. are you going to be ok?
-speaker1: yeah, i'll be fine. bye.
+BOB: hello? 
+LYDIA: bob?
+BOB: hi, lydia.
+LYDIA: is this a bad time?
+BOB: uh, no.
+LYDIA: it's really hard to reach you... did you get the carpet samples? i like the burgundy.
+BOB: ok, whatever you think... i'm lost.
+LYDIA: it's just carpet.
+BOB: that's not what i'm talking about.
+LYDIA: what are you talking about?
+BOB: i don't know.
+LYDIA: is there anything i can do?
+BOB: i don't know... i want to be more healthy. i want to eat better.
+LYDIA: what?
+BOB: you know, eat healthier.
+LYDIA: alright?
+BOB: not all that pasta.
+LYDIA: fine.
+BOB: like japanese food.
+LYDIA: why don't you just stay there, and you can have it everyday.
+BOB: oh, come on.
+LYDIA: i have to go, adam's tormenting zoe, i'll talk to you later. are you going to be ok?
+BOB: yeah, i'll be fine. bye.
 
-speaker1: how long have you been here? 
-speaker1: c'mon, let's go.
+CHARLOTTE: how long have you been here? 
+CHARLOTTE: c'mon, let's go.
 
-speaker1: where's your husband? 
-speaker2: working.
-speaker1: do you ever see him?
-speaker2: yeah.
-speaker1: do you know where we are?
-speaker2: no.
-speaker2: isn't it weird there are no street names in tokyo... you'd think a city like this would have street names... you need a map to get anywhere... look, there are no signs...
+BOB: where's your husband? 
+CHARLOTTE: working.
+BOB: do you ever see him?
+CHARLOTTE: yeah.
+BOB: do you know where we are?
+CHARLOTTE: no.
+CHARLOTTE: isn't it weird there are no street names in tokyo... you'd think a city like this would have street names... you need a map to get anywhere... look, there are no signs...
 
-speaker1: we hear you're quite a golfer. 
-speaker2: they now have the competition for you with the iron chef.
+TV HOST: we hear you're quite a golfer. 
+TRANSLATOR: they now have the competition for you with the iron chef.
 
-speaker1: rough night? 
-speaker1: i'm going to daikanyama, do you want to come walk around?
-speaker2: yes, but no, i can't right now.
-speaker1: oh, i guess you're busy, huh.
-speaker2: i don't want to be.
+CHARLOTTE: rough night? 
+CHARLOTTE: i'm going to daikanyama, do you want to come walk around?
+BOB: yes, but no, i can't right now.
+CHARLOTTE: oh, i guess you're busy, huh.
+BOB: i don't want to be.
 
-speaker1: hello? 
-speaker2: hello, bob, it's me.
-speaker1: hello?
-speaker2: it's lydia, your wife.
-speaker1: i couldn't hear you. how are you?
-speaker2: fine. is it going ok?
-speaker1: it's ok.
-speaker2: do you want to-
-speaker1: what?
-speaker2: do you want to talk to zoe?
-speaker1: yeah.
-speaker2: i guess she's busy.
-speaker1: that's ok.
-speaker2: when are you coming home?
-speaker1: tomorrow.
-speaker2: her ballet recital is saturday, don't forget.
-speaker1: ok.
-speaker2: ok, well, travel safely. see you soon.
-speaker1: bye.
+BOB: hello? 
+LYDIA: hello, bob, it's me.
+BOB: hello?
+LYDIA: it's lydia, your wife.
+BOB: i couldn't hear you. how are you?
+LYDIA: fine. is it going ok?
+BOB: it's ok.
+LYDIA: do you want to-
+BOB: what?
+LYDIA: do you want to talk to zoe?
+BOB: yeah.
+LYDIA: i guess she's busy.
+BOB: that's ok.
+LYDIA: when are you coming home?
+BOB: tomorrow.
+LYDIA: her ballet recital is saturday, don't forget.
+BOB: ok.
+LYDIA: ok, well, travel safely. see you soon.
+BOB: bye.
 
-speaker1: you can't get sushi anywhere in japan after 2 o'clock. did you know that? 
-speaker2: no, we'll find something around here.
+CHARLOTTE: you can't get sushi anywhere in japan after 2 o'clock. did you know that? 
+BOB: no, we'll find something around here.
 
-speaker1: the jazz singer? the red-head? 
-speaker1: well, i guess she's more around your age... you guys could talk about things in common, like growing up in the fifties.
-speaker2: you're a brat, wasn't there anyone else around to lavish you with attention? she scowls at him.
-speaker1: i can't tell the difference?
-speaker2: we'll have two of these.
-speaker2: what do you want to drink?
-speaker1: a coke.
-speaker2: so, where'd you go today.
-speaker1: around.
-speaker1: they're not going to play the whole album, are they?
+CHARLOTTE: the jazz singer? the red-head? 
+CHARLOTTE: well, i guess she's more around your age... you guys could talk about things in common, like growing up in the fifties.
+BOB: you're a brat, wasn't there anyone else around to lavish you with attention? she scowls at him.
+CHARLOTTE: i can't tell the difference?
+BOB: we'll have two of these.
+BOB: what do you want to drink?
+CHARLOTTE: a coke.
+BOB: so, where'd you go today.
+CHARLOTTE: around.
+CHARLOTTE: they're not going to play the whole album, are they?
 
-speaker1: i'm sorry. 
-speaker2: that lunch was the worst, huh. he laughs.
-speaker2: when are you leaving?
-speaker1: tomorrow.
-speaker2: i'm going to miss you.
-speaker1: that's what you said the other night.
-speaker2: well, i mean it more now.
+BOB: i'm sorry. 
+CHARLOTTE: that lunch was the worst, huh. he laughs.
+CHARLOTTE: when are you leaving?
+BOB: tomorrow.
+CHARLOTTE: i'm going to miss you.
+BOB: that's what you said the other night.
+CHARLOTTE: well, i mean it more now.
 
-speaker1: good evening. i'm carl west, and we're thrilled to be joining you this week, here at the ny bar in shinjuku. he sings "where or when" with all his heart. 
-speaker2: jt seems we stood and talked like this before, we looked at each other in the same way thenr but i cant remember where or when...
-speaker3: i don't want to go back tomorrow.
-speaker4: i know. but, it doesn't last, you have to go back sometime.
-speaker3: why can't it last?
-speaker4: i don't know, it just doesn't, reality changes things....we can't stay here forever, unless maybe we started a jazz band.
-speaker2: somethings that happen for the first time, seem to be happening again and so it seems we have met before, and laughed before, and loved before, but who knows where or when...
+NEW SINGER: good evening. i'm carl west, and we're thrilled to be joining you this week, here at the ny bar in shinjuku. he sings "where or when" with all his heart. 
+SINGER: jt seems we stood and talked like this before, we looked at each other in the same way thenr but i cant remember where or when...
+BOB: i don't want to go back tomorrow.
+CHARLOTTE: i know. but, it doesn't last, you have to go back sometime.
+BOB: why can't it last?
+CHARLOTTE: i don't know, it just doesn't, reality changes things....we can't stay here forever, unless maybe we started a jazz band.
+SINGER: somethings that happen for the first time, seem to be happening again and so it seems we have met before, and laughed before, and loved before, but who knows where or when...
 
-speaker1: hello? yes? 
-speaker2: hello, can i have room 5601.
-speaker1: one moment.
-speaker1: i will connect you.
-speaker2: uh...hi, charlotte... it's me, bob... ok, i guess you're not there... wanted to say good-bye...
+RECEPTION: hello? yes? 
+BOB: hello, can i have room 5601.
+RECEPTION: one moment.
+RECEPTION: i will connect you.
+BOB: uh...hi, charlotte... it's me, bob... ok, i guess you're not there... wanted to say good-bye...
 
-speaker1: charlotte? 
-speaker2: hi, bob.
-speaker1: i'm just leaving.... do you have my jacket?
-speaker2: uh, yeah... i'll bring it down.
-speaker1: that'd be great.
-speaker3: e ok, see you in a second.
-speaker1: 0hr hi.
-speaker4: you're leaving?
-speaker1: yeah, yeah, i'm going.
-speaker1: i have to go, thanks, bye.
-speaker2: just saying good-bye to everyone before you leave?
-speaker1: yes, no.
-speaker1: thanks.
-speaker2: that's it?
-speaker2: you're leaving right now?
-speaker1: yes.
-speaker2: well... have a good flight.
-speaker1: thanks.
-speaker2: ok, bye. she walks away.
+BOB: charlotte? 
+CHARLOTTE: hi, bob.
+BOB: i'm just leaving.... do you have my jacket?
+CHARLOTTE: uh, yeah... i'll bring it down.
+BOB: that'd be great.
+CHARLOTT: e ok, see you in a second.
+BOB: 0hr hi.
+EXEC WOMAN: you're leaving?
+BOB: yeah, yeah, i'm going.
+BOB: i have to go, thanks, bye.
+CHARLOTTE: just saying good-bye to everyone before you leave?
+BOB: yes, no.
+BOB: thanks.
+CHARLOTTE: that's it?
+CHARLOTTE: you're leaving right now?
+BOB: yes.
+CHARLOTTE: well... have a good flight.
+BOB: thanks.
+CHARLOTTE: ok, bye. she walks away.
 
-speaker1: why are you crying? 
-speaker2: i'll miss you.
-speaker1: i know, i'm going to miss you, too.
+BOB: why are you crying? 
+CHARLOTTE: i'll miss you.
+BOB: i know, i'm going to miss you, too.
 

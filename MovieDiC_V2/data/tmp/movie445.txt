@@ -1,1168 +1,1168 @@
-speaker1: somewhere in the vaults of a bank in london is a tin dispatch box with my name on it. it is not to be opened until fifty years after my death. 
-speaker1: it contains certain mementos of my long association with a man who elevated the science of deduction to an art -- the world's first, and undoubtedly most famous, consulting detective.
-
-speaker1: he was the most brilliant man i have ever known -- and i dare say people have envied me for sharing that flat with him in baker street. 
-speaker1: i'll grant you he was stimulating -- but he could also be moody, unpredictable, egocentric, and more often than not, completely infuriating -- as our landlady, mrs. hudson, can attest -- bless her kind soul.
-
-speaker1: i do wish you'd give me a little more warning when you come home unexpected. i would have roasted a goose -- and had some flowers for you. 
-speaker2: my dear mrs. hudson -- criminals are as unpredictable as head-colds. you never quite know when you're going to catch one.
-speaker1: i'll unpack your bags.
-speaker3: here's an advance copy of strand magazine. they've printed 'the red-headed league!'
-
-speaker1: very impressive. 
-speaker2: would you like to see how i treated it?
-speaker1: i can hardly wait. i'm sure i'll find out all sorts of fascinating things about the case that i never knew before.
-speaker2: just what do you mean by that?
-speaker1: oh, come now, watson, you must admit that you have a tendency to over-romanticize. you have taken my simple exercises in logic and embellished them, exaggerated them...
-speaker2: i deny the accusation.
-speaker1: you have described me as six-foot-four, whereas i am barely six-foot-one.
-speaker2: a bit of poetic license.
-speaker1: you have saddled me with this improbable costume, which the public now expects me to wear.
-speaker2: that's not my doing. blame it on the illustrator.
-speaker1: you've made me out to be a violin virtuoso. here --
-
-speaker1: -- a request from the liverpool symphony to appear as soloist in the mendelssohn concerto. 
-speaker2: oh, really?
-speaker3: the fact is that i could barely hold my own in the pit orchestra of a second-rate music hall.
-speaker2: you're much too modest.
-speaker3: you have given the reader the distinct impression that i am a misogynist. actually, i don't dislike women -- i merely distrust them. the twinkle in the eye and the arsenic in the soup.
-speaker2: it's those little touches that make you colorful --
-speaker3: lurid is more like it. you have painted me as a hopeless dope addict -- just because i occasionally take a five per cent solution of cocaine.
-speaker2: a seven per cent solution.
-speaker3: five per cent. don't you think i'm aware you've been diluting it behind my back?
-speaker2: as a doctor -- and as your friend -- i strongly disapprove of this insidious habit of yours.
-
-speaker1: my dear friend -- as well as my dear doctor -- i only resort to narcotics when i am suffering from acute boredom -- when there are no interesting cases to engage my mind. look at this -- an urgent appeal to find six missing midgets. 
-speaker2: did you say midgets?
-speaker1: six of them -- the tumbling piccolos -- an acrobatic act with some circus.
-speaker2: disappeared between london and bristol ... don't you find that intriguing?
-speaker1: extremely so. you see, they are not only midgets -- but also anarchists.
-speaker2: anarchists?
-speaker1: by now they have been smuggled to vienna, dressed as little girls in burgundy pinafores. they are to greet the czar of all the russias when he arrives at the railway station. they will be carrying bouquets of flowers, concealed in each bouquet will be a bomb with a lit fuse.
-speaker2: you really think so?
-speaker1: not at all. the circus owner offers me five pounds for my services -- that's not even a pound a midget.
-
-speaker1: oh. and it sounded so promising -- 
-speaker2: there are no great crimes anymore, watson. the criminal class has lost all enterprise and originality. at best they commit some bungling villainy, with a motive so transparent that even a scotland yard official can see through it.
-speaker2: mrs. hudson!
-speaker3: yes? what is it? what have i done now?
-speaker2: there is something missing from my desk.
-speaker3: missing?
-speaker2: something very crucial. you have been tidying up against my explicit orders.
-speaker3: oh, i made sure not to disturb anything.
-speaker2: dust, mrs. hudson, is an essential part of my filing system. by the thickness of it, i can date any document immediately.
-
-speaker1: some of the dust was this thick. 
-speaker2: that would be march, 1883.
-
-speaker1: how can you stand this? why don't you let me air the room out? 
-speaker2: please, mrs. hudson -- he's working on a definitive study of tobacco ash.
-speaker1: i'm sure there's a crying need for that.
-
-speaker1: in our endeavors, it is sometimes vital to distinguish between, say, the ashes of a macedonian cigarette and a jamaican cigar. sor far he has classified 140 different kinds of ashes. 
-speaker2: all of which will end up on my rug.
-speaker1: that'll be enough, mrs. hudson.
-speaker3: she's right. i am suffocating.
-speaker1: let me open a window.
-speaker3: not from lack of air -- from lack of activity. sitting here week after week -- blowing smoke rings -- staring through a microscope -- there's no challenge in that.
-speaker1: personally, i consider it a major
-speaker3: how i envy you your mind, watson.
-speaker1: you do?
-
-speaker1: it's placid, imperturbable, prosaic. but my mind rebels against stagnation. it's like a racing engine, tearing itself to pieces because it's not connected up with the work for which it was built. 
-speaker2: holmes --
-speaker2: holmes, where is your self-control?
-speaker1: fair question.
-speaker2: aren't you ashamed of yourself?
-speaker1: thoroughly. but this will take care of it.
-
-speaker1: the only reason you moved in with me is to have a steady supply of stimulants. 
-speaker2: now, now, watson -- you mustn't underestimate your other charms.
-speaker1: holmes, i warn you. if you lock yourself in there once more --
-speaker2: i intend to do nothing of the sort.
-speaker2: not until you replace this needle. it is getting rather blunt.
-speaker3: i made you some tea and cress sandwiches.
-
-speaker1: mrs. hudson, i want you to pack my bags. 
-speaker2: are you going away for the weekend?
-speaker1: and beyond. i'm moving out.
-speaker2: moving out?
-speaker3: i'm just as surprised as you are.
-speaker1: you heard me, mrs. hudson. and let's not waste any time.
-speaker3: may i be so bold as to ask where you'er going?
-speaker1: i don't know yet. but i intend to resume my practice. i am, after all, a doctor. and quite a competent one, if i say so as shouldn't.
-speaker3: you'll find it very dull -- snipping out tonsils and flushing out kidneys --
-speaker3: if you're looking for your medical bag, you hid it under the moorish table. which shows a little more imagination than last time -- when it was under your bed.
-
-speaker1: i will, of course, continue to pay my half of the rent until you find someone to share these rooms with you. 
-speaker2: where am i going to find anyone who will put up with my rather eccentric habits?
-speaker1: here's a fresh needle -- and here's my farewell present to you.
-speaker1: if you want to destroy yourself, go right ahead. but i won't sit by and watch you doing it.
-speaker2: watson...
-
-speaker1: please, mrs. hudson -- none of that. 
-speaker2: i'll wash this and send it on to you.
-speaker1: i'll be at brown's hotel.
-speaker2: i know how it feels -- i once went through a divorce myself.
-speaker1: actually, i'm rather looking forward to it. leading a normal life again. regular office hours -- nine to three -- and if occasionally there's an emergency call in the middle of the night, i know it's going be appendicitis and not an ax murder. let holmes go mucking about in the fog and the sleet, looking for a bloodstained collar-button out on the moors, with some demented hound snapping at his behind -- from the living room comes the sound of a revolver shot. mrs. hudson screams and watson looks off in alarm. then he races out of the room, diploma in hand, followed by mrs. hudson.
-
-speaker1: please, mrs. hudson. you're in my line of fire. 
-speaker1: merely celebrating her majesty's golden jubilee.
-speaker2: look at that mess you made --
-speaker3: it's all right, mrs. hudson. i'll clean it up -- -- while you unpack my things.
-speaker2: unpack?
-speaker1: you heard him.
-speaker3: thank you, holmes. i know how difficult it must've been for you --
-
-speaker1: not really. it was simple choice between a bad habit and a good companion. 
-speaker2: you've made me very happy.
-speaker1: i've often been accused of being cold and unemotional. i admit to it. and yet, in my cold, unemotional way, i'm very fond of you, watson.
-speaker2: i know that. but one likes to hear these things occasionally.
-speaker2: look at this. covered with that nasty stuff. i'd better dry it off.
-speaker1: i'll do it.
-speaker2: for a moment, i was worried that you were going to let me walk out -- that you weren't even going to try to stop me.
-speaker1: now, watson -- you know there's nothing i wouldn't do to keep you here.
-
-speaker1: but on one occasion, he did something that was so utterly unforgivable, that i would gladly have murdered him -- had it not been for my saintly disposition. 
-speaker2: why are you being so stubborn, holmes? why won't you go? it's the final performance of the imperial russian ballet -- the house has been sold out for months -- he moves towards the door of --
-
-speaker1: -- seats are going for a guinea apiece -- 
-speaker2: that's precisely it. why should someone send up two free tickets? anonymously, at that.
-speaker1: whoever sent them must be in great distress. the note says --
-
-speaker1: 'please! you are the only man in the world who can help me.' 
-speaker2: i suspect it's some sort of plot.
-speaker3: you mean somebody wants to lure us into a trap...?
-speaker2: somebody wants to kill me.
-speaker3: kill you?
-speaker2: that's right. it's a plot to bore me to death. i detest ballet.
-speaker3: but this isn't just any ballet. it's swan lake.
-
-speaker1: you know, of course, holmes -- that swan isn't really a swan -- it's an enchanted princess. 
-speaker2: h'mmmm.
-
-speaker1: watson nudges holmes, who has dozed off. 
-speaker2: fabulous woman, don't you think so, holmes?
-speaker3: who?
-speaker2: the great petrova.
-speaker4: petrova is making an exit, backwards, on points.
-
-speaker1: very strong arches, i must admit. 
-speaker2: they say twelve men have died for her.
-speaker1: really.
-
-speaker1: six committed suicide, four were killed in duels, and one fell out of the gallery in the vienna opera house. 
-speaker2: that's only eleven.
-speaker1: the man who fell from the gallery landed on top of another man in the orchestra.
-speaker2: that makes an even dozen -- in a messy sort of way.
-
-speaker1: mister holmes? 
-speaker2: yes.
-speaker1: i am nicolai rogozhin, director-general of the imperial russian ballet. so glad you accept invitation.
-speaker2: this is dr. watson.
-
-speaker1: pleased to meet you. you are enjoying? 
-speaker2: immensely.
-speaker1: tell me, mr. holmes, how is your health?
-speaker3: my health? better consult my doctor.
-speaker2: oh, he's in excellent shape.
-speaker1: any insanity in your family? diabetes?
-speaker3: would you mind telling me what this is all about?
-speaker1: certainly. madame petrova, she has problem.
-speaker3: could you be more specific?
-speaker1: certainly not.
-speaker2: a liason with a crowned head? compromising letters? blackmail?
-speaker4: the pas-de-deux finished, to a rousing ovation.
-
-speaker1: rogozhin rises, turns to holmes. 
-speaker2: after performance, there will be little celebration backstage -- and madame requests your presence.
-speaker3: we'd be delighted.
-speaker2: you are invited, also.
-
-speaker1: there you are, mr. holmes. madame is expecting you in her dressing room. dr. watson, you will amuse yourself meanwhile -- we have vodka, caviar, girls. 
-speaker2: no, thank you.
-
-speaker1: no girls? 
-speaker2: no caviar. makes me break out in hives.
-speaker1: dievushki. siude, siuda, dievushki. posnakomtes s docktorum watsonom.
-speaker2: any of you girls understand english?
-speaker3: nyet.
-speaker2: not one single word?
-speaker3: nyet.
-speaker2: in that case, i don't mind telling you that you all have lovely po-pos. he pats a couple of the po-pos with his cane.
-
-speaker1: mr. holmes, i must prepare you -- this is no ordinary case. 
-speaker2: it is only the extraordinary that interests me.
-
-speaker1: good. because you will find this extra- extraordinary. 
-speaker1: madame petrova prinimaet?
-speaker2: pozhaluista voidite.
-
-speaker1: ja priviol vam mistera sherlock holmesa, doragaia. 
-speaker2: otchen rada.
-speaker3: madame.
-speaker2: vi menshe rostom chem ja ozhidala.
-speaker3: madame says you are shorter than she thought.
-
-speaker1: i didn't mean to be. 
-speaker2: no eto nie vazhno. menia interessujut glavnim obra som vashi mosghi.
-speaker3: short, tall, who cares? it is the brains that count.
-speaker1: thank you. thank you.
-speaker2: ja prochia vsie vashi prikliuchenia. zamiechatelno! os sobenno sobaka baskervillei.
-speaker3: madame is great admirer of yours. she has read every story -- her favorite is big dog from baskerville.
-speaker1: i'm afraid it loses something in translation.
-speaker2: nikolai, pokazhite iemu skripku.
-speaker3: mr. holmes, you know about fiddles. what is your opinion of this?
-
-speaker1: 'antonius stradivarius cremonesis, anno 1709.' well, the label is authentic. judging from the shape, the color of the varnish, and the tone, i would say it is a genuine stradivarius of the best period. 
-speaker2: you like?
-speaker1: it's magnificent.
-speaker3: skazhite jemu chto eto podarok ot menia.
-speaker2: here -- take it. madame says it is yours.
-speaker1: mine?
-speaker2: for services you will render.
-speaker1: my fees as a detective are not exactly trifling -- but a stradivarius -- you're not serious.
-speaker2: i am not. but madame is.
-speaker3: nalejte vodki i obiasnite jemu v chom dielo.
-
-speaker1: all right. i will pour vodka and explain. mr. holmes, what you have seen tonight is last and positively final performance of madame petrova. she is retiring. 
-speaker2: what a shame.
-speaker1: she has been dancing since she was three years old. and after all, she is now thirty-eight.
-speaker2: i must say she doesn't look thirty-eight.
-speaker1: that is because she is forty-nine. so madame has decided to leave ballet and spend life bringing up her child.
-speaker2: how admirable.
-speaker1: problem now is to find father.
-speaker2: oh? is he missing?
-speaker1: correct.
-speaker2: and that's why you called me in?
-speaker1: also correct. we must have father, because without father, how can there be child?
-
-speaker1: i see. the whole thing is still in the planning stage -- 
-speaker2: correct again. madame would like child to be brilliant and beautiful. since she is beautiful -- she now needs man who is brilliant.
-speaker3: za zdorovie.
-speaker2: za zdorovie.
-speaker1: za zdrovie.
-speaker1: what's in it?
-speaker2: what does it taste like?
-speaker1: red pepper.
-speaker2: that's what's in it.
-speaker3: kogda mi smozhem dvinutsa v putj?
-speaker1: i beg your pardon?
-
-speaker1: madame wants to know how soon you can be ready. 
-speaker2: ready?
-speaker1: to leave for venice. all arrangements have been made. you will spend one week there with madame...
-speaker2: well, this is all very flattering. but surely there are other me -- better men --
-speaker1: to tell you truth, you were not first choice. we considered russian writer, tolstoi --
-speaker2: that's more like it. the man's a genius.
-speaker1: too old... then we considered the philosopher, nietzsche --
-speaker2: absolutely first-rate mind...
-speaker1: too german... and we considered tschaikowski --
-speaker2: oh, you couldn't go wrong with tschaikowski --
-speaker1: we could -- and we did. it was catastrophe.
-speaker2: why?
-speaker1: you don't know? because tschaikowski -- how shall put it? women not his glass of tea.
-
-speaker1: pity, that. 
-speaker2: skazhite jemu chto je otchen dovolna etim resheniem.
-speaker3: madame is very happy with final choice.
-speaker1: madame mustn't be too hasty. she must remember i'm an englishman.
-speaker3: so?
-speaker1: you know what they say about us. if there's one thing more deplorable than our cooking, it's our love-making. we are not exactly the most romantic of people --
-speaker3: perfect. we don't want sentimental idiots -- falling in love, committing suicide. one week in venice -- she goes back to st. petersburg with baby -- you go back to london with fiddle.
-speaker1: an equitable arrangement. about my medical history -- when you asked me -- i neglected to mention a small detail. there is hemophilia in my family. we're all bleeders.
-speaker3: on govorit, chto v jevo semie stradajut ghemofilijei.
-speaker2: pust nie bezpokoitsa. ja ostrighu sebe noghti.
-
-speaker1: madame says not to worry. she will not scratch you. 
-speaker2: that's reassuring to know. but --
-speaker3: pochemu on kolebletsa? on nie nahodit menia dostatochno privlekatelnoi?
-speaker1: madame says you talk too much. you find her attractive or no?
-speaker4: excuse me. what does prokanzik mean?
-speaker1: it means 'you little devil.'
-speaker4: it does? i am? thank you.
-speaker2: oh, i find her most attractive -- for a woman, that is.
-speaker1: then no problem.
-
-speaker1: maybe a slight one. you see, i am not a free man. 
-speaker2: not free? you are a bachelor.
-speaker1: a bachelor -- living with another bachelor -- for the last five years.
-speaker2: what is it you are trying to tell me?
-speaker1: i hoped i could avoid the subject. but some of us -- through a cruel caprice of mother nature --
-speaker2: get to point.
-speaker1: the point is that tschaikowski is not an isolated case.
-speaker2: you mean, you and dr. watson -- ? he is your glass of tea?
-speaker1: if you want to be picturesque about it.
-speaker3: chto on govorit? pri chom tut chaikovsky?
-speaker2: on pederast.
-speaker3: jescho odin? eto stanovitsa odnoobrasno!
-
-speaker1: it would have been catastrophe. 
-speaker2: potchemu vi nie vijasnili eto eto ranshe, prezhde chem posoritj menia!
-
-speaker1: watson! watson, are you coming? 
-speaker2: what is it, old boy?
-speaker1: we're going home.
-
-speaker1: home? not a chance. not the slightest -- not the remotest chance. toodle-ooo. 
-speaker1: hold on! just a moment!
-speaker1: what's going on? what happened to the girls?
-speaker2: why? do you not prefer it this way?
-speaker1: what way?
-
-speaker1: you don't have to pretend. mr. holmes told us everything -- about you and him -- 
-speaker2: about me and him?
-speaker1: come now, no need to be bashful. we are not bourgeois. maybe with doctors and detectives is unusual -- but in ballet, is very usual.
-speaker2: what is?
-speaker1: caprice of mother nature. look at pavel and mischa and boris and dmitri --
-speaker1: -- and ilya and sergei -- sergei -- half and half.
-
-speaker1: holmes! 
-speaker1: holmes!
-
-speaker1: there you are, you wretch! you rotter! you blackguard! of all the vile, unspeakable fabrications. what do you have to say for yourself? 
-speaker1: don't just sit there -- speak up, man!
-
-speaker1: holmes...? are you all right, holmes? 
-speaker2: from the sound of your footsteps, i gathered that you were not in a particularly amiable mood.
-speaker1: how could you do a dastardly thing like that to me? what the deuce were you thinking of?
-speaker2: watson, you have my most abject apologies. but have you ever been cornered by a madwoman? it seemed like the only way to get out of it without hurting her feelings.
-speaker1: what about my feelings? and my reputation? do you realize the gravity of what you have done? the possible repercussions?
-speaker2: so there'll be a little gossip about you in st. petersburg...
-speaker1: these things spread like wildfire. i can just hear those malicious whispers behind my back. i'll never be able to show my face in polite society...
-
-speaker1: and if it ever got back to my old regiment -- you don't know the fifth northumberland fusiliers -- they'll strike me off the rolls -- they'll cut off my pension... 
-speaker2: watson, you're running amok.
-speaker3: dishonored, disgraced, ostracized. what am i to do?
-speaker2: well, for one thing, i'd get rid of that flower.
-speaker3: you may think this is funny, but we're both in the same boat. we must take desperate measures. we must stop this talk... maybe if we got married...
-speaker2: then they'd really talk...
-speaker3: obviously, we cannot continue to live under the same roof. we must move apart.
-speaker2: of course, we can still see each other clandestinely -- on remote benches in hyde park, and in the waiting rooms of suburban railway stations --
-speaker3: the whole thing is ridiculous. we have nothing to hide.
-speaker2: that's what i've been trying to tell you.
-
-speaker1: let somebody start a rumor -- just one ugly word -- and we'll sue them for slander. 
-speaker2: nobody would dare. after all, you have an enviable record with the fair sex.
-speaker1: right. i can get women from three continents to testify for me. and you can get women to vouch for you, too -- can't you, holmes?
-speaker1: can you, holmes?
-speaker2: good night, watson.
-speaker1: holmes, let me ask you a question -- i hope i'm not being presumptuous -- but there have been women in your life?
-speaker2: the answer is yes. you're being presumptuous. good night.
-speaker1: holmes...
-
-speaker1: were you expecting someone? 
-speaker2: not at this hour.
-speaker1: maybe mrs. hudson is entertaining.
-speaker2: i never found her so.
-
-speaker1: what is it, mrs. hudson? 
-speaker2: there's a cabbie here -- he says you owe him two-and-six.
-speaker1: for what?
-speaker3: for the fare, guv'nor. the young lady doesn't have any money.
-speaker1: what young lady?
-speaker3: this one.
-
-speaker1: well. what have we here? who are you, miss? what happened to you? 
-speaker2: i don't know.
-speaker3: that's all she keeps saying -- i don't know, i don't know.
-speaker1: where did she come from?
-speaker3: from the river. i was driving down the embankment, just below westminster bridge, and there she was in the water -- drowning.
-speaker3: it wasn't easy, guv'nor -- what with the cold water -- and her fighting me --
-speaker4: why did you bring her here?
-speaker3: because i found this in her hand -- -- 221b baker street -- that's right, isn't it?
-
-speaker1: young lady -- what did you want at this address? 
-speaker2: i do not remember.
-speaker3: rather perplexing, wouldn't you say?
-speaker1: rather.
-speaker4: well, gentlemen, you want her? -- it's two-and-six -- or shall i throw her back in the river?
-speaker5: mr. holmes. you can't let him --
-speaker1: watson, you'd better accept delivery.
-speaker3: keep the change.
-speaker4: thank you, guv'nor.
-speaker4: no extra charge for the use of the horse- blanket.
-speaker3: you're shivering, my dear.
-
-speaker1: sit here, my dear. 
-speaker1: she's suffering from shock and exposure.
-speaker2: there was some printing on the back of this -- but it seems to have come off in the water.
-speaker1: look at this -- she's had a nasty blow on the head.
-
-speaker1: no. the blood has already coagulated. so it would appear that she was the victim of a deliberate attack... get my bag, will you? 
-speaker2: who are you?
-speaker1: i'm dr. watson -- and this is mr. sherlock holmes. do the names mean anything to you?
-speaker2: no.
-speaker1: think.
-speaker2: i'm trying.
-speaker3: can you think of your own name?
-speaker2: no.
-speaker1: she's obviously had a concussion -- which often leads to temporary amnesia.
-speaker3: so all we know is that she was coshed on the head, dumped into the thames, and subsequently dumped into our laps.
-
-speaker1: we know a lot more than that. from her accent, we know she is foreign -- from her ring, we know she is married -- and there is one other clue we have... something i deduced while i was helping her up the stairs. no corset. 
-speaker2: good work.
-
-speaker1: are you french? vous etes francaise? 
-speaker2: non, je ne suis pas francaise.
-speaker3: how can she say she's not french, in french?
-speaker1: vous etes suisse?
-speaker2: non.
-speaker1: alors, vous etes belge.
-speaker2: je suis pas sure.
-speaker1: vous etes belge -- de bruxelles!
-
-speaker1: bruxelles? oui... je pense que oui. 
-speaker2: oh, dash. will someone remove the violin, please?
-speaker3: we just found out that she's belgian.
-speaker2: poor thing.
-speaker3: from brussels.
-speaker4: if you don't mind.
-speaker4: your name is gabrielle, is that right?
-speaker1: i don't know.
-speaker4: and your husband's name is emile?
-speaker1: emile...
-speaker4: where is he? what are you doing in london?
-
-speaker1: i don't know. 
-speaker2: when did you arrive from brussels? where are you staying?
-speaker1: i don't know.
-speaker2: what happened at the river? think! pensez! concentrez vous!
-speaker3: that's enough, holmes. i will not permit you to question her in this condition. mrs. hudson, put her to bed. my bed. i'll sleep on the couch.
-speaker4: come, my dear.
-speaker3: i'd better mix her a sleeping potion.
-speaker2: watson, i think we should arrange to have her removed to a hospital.
-speaker3: under no circumstances.
-speaker2: she should have medical attention.
-
-speaker1: she can get that from me. but more importantly, she must be protected -- there has already been one attempt on her life. 
-speaker2: this temporary amnesia -- how temporary is it?
-speaker1: it depends on the extent of the injury. it's like veils shrouding her memory. it could clear up in a few days -- or a few weeks.
-speaker2: watson, this is a very small flat -- we don't want to clutter it up with women...
-speaker1: holmes, we've never had a case like this. a woman comes to us with a problem -- we don't know who the woman is -- and we don't know what the problem is. don't you find that challenging?
-speaker2: quite. but we can't afford to wait for those veils to lift -- we must break through them as quickly as possible.
-speaker1: you really feel it's that urgent?
-speaker2: i do. the sooner we solve the case, the sooner we can get rid of her.
-speaker1: oh.
-
-speaker1: emile? 
-speaker1: emile? is that you, emile?
-speaker2: yes, gabrielle.
-speaker1: ah, emile. i thought i'd never find you. hold me. hold me tight. it's been such a long time. so many nights. you know what i did before i left brussels?
-speaker2: what?
-speaker1: i hope you won't be angry with me. i bought myself an expensive negligee.
-speaker2: did you?
-speaker1: a pink negligee with maribou feathers. don't you think that's a foolish thing for a married woman? come.
-speaker2: where is the negligee?
-speaker1: in my luggage... come here.
-
-speaker1: and where is your luggage? 
-speaker2: what is it, emile? what are you doing?
-
-speaker1: dr. watson! your porridge is getting lumpy. hadn't you better get up? 
-speaker2: i would like to very much. but -- mrs. hudson, would you mind planting your knee in the small of my back?
-
-speaker1: yes, i would. 
-speaker2: please! i'm in excruciating pain.
-speaker2: a bit higher -- just below my seventh vertebra -- that's good. put your arms under mine -- fold them behind my neck --
-speaker2: bless you. that couch. you'd better see if our patient is awake. he seats himself at the table. mrs. hudson crosses to the door of watson's bedroom, opens it, starts inside, then stops.
-speaker1: dr. watson. she's gone.
-speaker2: gone?
-speaker2: holmes! holmes! she's gone!
-
-speaker1: mmmmm. i smell porridge. lumpy as usual, i suppose. he sets the suitcase down on the couch, as watson and mrs. hudson approach. 
-speaker2: oh, there you are, holmes. we were just wondering -- how --
-speaker3: we certainly were.
-speaker1: mrs. hudson, why don't you go down to the kitchen -- get a towel -- and wipe that look of disapproval off your face.
-
-speaker1: liberties -- in my house! 
-speaker2: you can't really blame her -- i mean, the way it looks -- if i didn't know you better, i might suspect you'd taken advantage of the young lady.
-speaker3: as a matter of fact, i did take advantage of her... would you hand me the butter- knife, please?
-speaker2: of course.
-speaker2: you did what?
-speaker3: thank you.
-speaker2: holmes, this is reprehensible! where are your professional ethics? have you no sense of decency, no shame --
-speaker3: none whatsoever. if you must know, i found her body quite rewarding.
-speaker2: you cad!
-speaker3: especially the palm of her right hand.
-
-speaker1: i'd rather not hear about it! 
-speaker2: very well. then i won't bother to tell you how i traced her suitcase.
-speaker1: that's her suitcase?
-speaker2: remember that piece of soggy cardboard with our address on it? it was a luggage ticket -- the number rubbed off on her hand. and since she must have arrived from brussels by the boat train, i concluded that she had checked her belongings at victoria station.
-speaker1: by jove! if you're right, we should find a clue to her identity. holmes has now forced open the locks.
-speaker2: or at least a pink negligee with maribou feathers.
-speaker2: voila!
-speaker1: let's see - what else is in here?
-speaker2: now we're getting somewhere.
-speaker1: who do you suppose this is?
-
-speaker1: come in, madame valladon. you are gabrielle valladon. 
-speaker2: yes.
-speaker1: and this is your husband, emile valladon?
-speaker2: yes.
-speaker1: sorry to have ransacked your valise. but since you came to us for help --
-speaker2: where am i?
-speaker3: 221b baker street.
-speaker2: oh, yes... which of you is mr. holmes and which is dr. watson?
-speaker1: dr. watson is the handsome one.
-speaker1: that's the way he affects most women.
-
-speaker1: coffee. you want strong coffee. 
-speaker2: it's all so confusing.
-speaker3: let's try to sort it out. you came to london looking for your husband...
-speaker2: yes. he's a mining engineer. we were married five years ago, in the congo.
-speaker3: where your husband was working in a copper mine.
-speaker2: how did you know?
-speaker3: your wedding ring -- it's made of copper.
-speaker2: last year he invented a new kind of air pump, and was hired by an english company, jonah limited.
-speaker1: here you are.
-speaker3: jonah limited. go on.
-speaker2: we've been writing to each other regularly. then suddenly, three weeks ago, his letters stopped. i kept writing ... but no answer. finally i decided to go to that address --
-
-speaker1: 32 ashdown street. 
-speaker2: yes. it's just an empty store -- nobody there. then i tried to find jonah limited. no such company exists.
-speaker3: how decidedly odd.
-speaker1: madame valladon, can you think of any reason why your husband should have lied to you about theses things?
-speaker2: emile? never. he loves me -- and i love him.
-speaker1: so i gathered.
-speaker2: i went to the police -- they said they would send out a missing persons report -- but they didn't sound too encouraging. then i went to the belgian embassy and explained the situation to them -- and they suggested that i consult you...
-speaker3: you could have done worse.
-speaker2: i was on my way here -- and suddenly there were footsteps behind me -- and a hand over my mouth -- and the smell of choloroform -- and the next thing i knew i was in the water -- and then a man was wrapping me in a blanket --
-speaker1: madame valladon, somebody tried to kill you last night. do you have any idea who could have done it?
-
-speaker1: i don't understand any of it. what does it all mean, mr. holmes? where is my husband? you must help me find him. 
-speaker2: we'll do our best, i assure you.
-speaker3: madame valladon, i want you to send one more letter to your husband.
-speaker3: to emile valladon -- ashdown street -- what was that number?
-speaker1: 32. what do you want me to say in the letter?
-speaker3: nothing.
-speaker2: you're sending an empty sheet of paper to an empty shop?
-speaker3: that empty shop is obviously being used as an accomodation address, or letter- drop. but what gets dropped must be picked up. the question is how? -- and by whom? -- and why?
-
-speaker1: hammer... chisel. 
-speaker2: here!
-speaker3: it's so strange to think i've been writing to a place like this all these months.
-
-speaker1: look at all these canaries. do you suppose this could have been a pet shop? 
-speaker2: maybe. here comes our letter.
-speaker2: now we are faced with the most nerve- wracking part of the detective's job -- doing nothing.
-speaker3: mr. holmes --
-speaker2: yes?
-speaker3: i don't know how i'm going to pay you for all this. the purse with my money is somewhere at the bottom of the thames.
-speaker2: it could be worse. you could be at the bottom of the thames -- much to your discomfort -- and much to my chagrin.
-speaker1: i don't understand how anybody picks up letters here. no footprints -- just tracks. what does it mean?
-
-speaker1: i would surmise somebody is using ice- skates -- if it weren't for a conspicuous absence of ice. 
-speaker2: what do we do now?
-speaker1: this way.
-speaker3: some of you will be going on a little trip soon -- i hate to lose you -- but even an old woman has to live. although you might well ask, why?
-
-speaker1: oh. you never told me we had a letter. 
-speaker2: morning, duchess.
-speaker1: morning.
-speaker3: what have you been doing with yourself?
-speaker1: what do you think? taking dancing lessons. how many do you want this time?
-speaker2: two dozen.
-speaker1: what are they doing with all those canaries? what's going on up there?
-speaker3: look, duchess, we don't know -- and we don't want to know.
-
-speaker1: how about that letter? does that go, too? 
-speaker2: no. that's going to be picked up in person.
-speaker3: i really thought we were done for.
-
-speaker1: did you hear what she said? you really think emile is going to pick up the letter himself? 
-speaker2: it certainly would simplify things, wouldn't it?
-speaker3: maildrops and canaries and wheelchairs... and what was all that about jonah? and what do you suppose they're doing up there? and where is up there?
-speaker2: my guess would be scotland. inverness, to be more precise.
-speaker3: inverness?
-speaker2: didn't you notice the paper at the bottom of their cage? the inverness courier.
-speaker1: mr. holmes! this letter --
-speaker2: what about it?
-speaker1: it's addressed to you.
-
-speaker1: nevertheless -- 
-speaker1: my dear sherlock: i expect you and dr. watson to join me at the club immediately upon reciept of this note. according to my calculations, that should be at 11:40 a.m. your brother, mycroft. what time do you make it, watson?
-
-speaker1: i'm rather curious myself as to what is going on in that machiavellian mind of his. 
-speaker2: i don't mean mycroft, i mean madame valladon.
-speaker1: don't worry. she's perfectly safe with mrs. hudson.
-
-speaker1: to see mr. mycroft holmes. 
-speaker2: right you are. he's expecting you in the upstairs study. now if you gentlemen will sign in -- surname, christian name, address, nature of business -- he holds out the pen to them, but they are gone. he
-speaker2: gentlemen...!
-
-speaker1: come in, come in, sherlock -- dr. watson... sit down. you're looking very fit, both of you. 
-speaker2: thank you.
-
-speaker1: and how are you, mycroft? how's your gout? 
-speaker2: under control. except for the occasional twinge.
-speaker2: i have a treat for you -- a very old madeira -- 1814. there are only six bottles left in the world. i have two of them, and am negotiating for a third.
-speaker3: if you don't mind my saying so, anybody who's susceptible to gout shouldn't be --
-speaker2: the last doctor who warned me about that was crossing piccadilly, slipped on an orange peel, and was run over by a delivery van from the fortnum and mason. your very good health.
-speaker1: why are you wasting this precious stuff on us?
-speaker2: well, i see you so rarely. how long has it been? not since the case of the greek interpreter. isn't it ridiculous? two brothers living in the same town...
-speaker1: in the same town, perhaps -- but not the same world.
-
-speaker1: mmmm. superb. how old did you say it was? 
-speaker2: 1814. one year before waterloo.
-speaker1: one year before waterloo? think of that.
-speaker2: you do know where waterloo is, don't you, doctor?
-speaker1: belgium, isn't it?
-speaker2: quite. and speaking of belgium, it has come to my attention that you are interested in the whereabouts of a certain engineer.
-speaker3: yes, i am.
-speaker2: well, i can save you a lot of trouble.
-speaker3: i'd be grateful for any suggestion --
-speaker2: my suggestion is that you pursue it no further.
-speaker3: any particular reason?
-speaker2: because it involves the national security. we are handling this matter ourselves.
-speaker1: we? who's we?
-
-speaker1: the diogenes club, of course. 
-speaker2: i didn't say that.
-speaker1: i have always suspected that there was some underground connection between this stodgy and seemingly calcified establishment and the foreign office in whitehall.
-speaker2: that's neither here nor there.
-speaker1: it seems to me that the diogenes club is here, there and everywhere. when there are rumblings of revolt in the sudan, an expedition subsidized by your club conveniently shows up to study the source of the nile. when there is trouble along the indian frontier, some of your fellow members pop up in the himalayas, alledgedly looking for the abominable snowman.
-speaker2: what a fertile imagination my brother has. at the age of five, by carefully observing a neighbor's house, he deduced that babies were brought not by the stork, but by the mid-wife in her satchel.
-speaker3: as good an explanation as any.
-speaker2: yes, wiggins?
-
-speaker1: an immediate answer is requested, sir. 
-speaker2: tell them that the three boxes go to glennahurich, and the red runner goes to the castle.
-speaker1: the three boxes to glennahurich, the red runner to the castle. very good, sir.
-speaker3: why don't you crumple it up and swallow it -- to make sure.
-speaker2: my dear sherlock, there are certain affairs that do not come within the province of the private detective. they have to be dealt with on an altogether different level.
-speaker3: in other words, you want me to stay within my limits.
-speaker2: i do indeed.
-speaker3: speaking of limits, what exactly is jonah limited?
-speaker2: sherlock, when i said drop this case, it was not merely a suggestion -- it was an order!
-speaker3: by whose authority?
-
-speaker1: by the authority of her majesty's government. i hope i've made myself clear. 
-speaker2: perfectly.
-speaker1: now if you'll excuse me, gentlemen --
-speaker2: goodbye, sir.
-speaker3: a pleasure, as always.
-speaker1: just a minute. you forgot your tool-kit. he tosses the cane to holmes, who catches it.
-
-speaker1: you will be gentle, won't you, when you tell her you're dropping the case? 
-speaker2: watson, what does the word glennahurich suggest to you?
-speaker1: absolutely nothing.
-
-speaker1: it's scottish. 
-speaker2: is it?
-speaker1: and like all scottish names, it's really a word picture. glen means valley, na means of the, and hurich, if memory serves me, means yew tree.
-speaker2: you're just trying to impress me.
-speaker1: so the three boxes go to the valley of the yew tree.
-speaker2: and i'll be in scotland before ye... you are dropping the case, aren't you, holmes?
-speaker1: open the door.
-speaker1: don't shoot, mrs. hudson -- you're liable to lose two excellent tenants.
-
-speaker1: oh, at last. it's been a ghastly experience. 
-speaker2: why? what happened?
-speaker1: did you ever try doing embroidery with a gun in your hand?
-speaker3: you'll be relieved to know it was not loaded.
-speaker2: holmes, you didn't answer my question. are you planning to disobey mycroft's orders? he's not just your brother, you know. you'd be defying her majesty's government...
-speaker4: any news? did you find out anything?
-speaker3: let's just say i know what the next step will be.
-
-speaker1: yes? 
-speaker2: i want you to pack your things.
-speaker1: where are we going?
-speaker3: holmes, let me caution you ---
-speaker2: at 7:30 this evening, dr. watson and i are going to take you to victoria station, and put you on the boat-train.
-speaker1: the boat-train?
-speaker3: well, that's better.
-speaker1: you're sending me back to brussels? is that it?
-speaker3: madame valladon, you must understand...
-speaker1: i came here to find my husband -- you were going to help me --
-speaker3: yes, my dear. but circumstances have changed --
-speaker1: the great detective! well, maybe this case is too small for you --
-
-speaker1: on the contrary. it's being handled at a much higher level -- 
-speaker2: well, i won't go back to brussels. maybe you're giving up, but i'm not. i'm going to go on looking for him. and nobody's going to stop me -- even if they try to kill me.
-speaker3: are you quite finished? if you recall, what i said was that we're going to put you on the boat-train -- i didn't say you were going to stay on it.
-speaker1: she's not?
-speaker3: at 7:30, mr. holmes and dr. watson will be seen waving goodbye to madame valladon at victoria station. at eight-twelve, mr. and mrs. ashdown accompanied by their valet john -- -- will appear at euston station, and board the highland express to inverness.
-speaker1: mr. and mrs.... ?
-speaker2: thank you. i'm sorry for what i said.
-speaker3: that's not necessary.
-speaker2: i'll go and pack.
-
-speaker1: maybe i should do it, since i'm the valet. 
-speaker1: holmes, what exactly are you up to?
-speaker2: as you like to put it in your chronicles, the game is afoot.
-speaker1: but what game? are you really that interested in the belgian engineer?
-speaker1: or the wife of the belgian engineer?
-speaker3: you don't like me very much, do you?
-speaker1: nothing of the sort. quite the opposite... but there's more to this case than meets the eye --
-speaker1: looking for something?
-speaker3: my other glove.
-speaker1: let me help you.
-
-speaker1: here it is. 
-speaker2: thank you.
-
-speaker1: all right. you can look now. 
-speaker2: am i embarrassing you, mr. holmes?
-
-speaker1: not at all. would it surprise you if i told you i once spent the night with 121 women? 
-speaker2: oh?
-speaker1: on a very interesting case -- in a harem in constantinople.
-
-speaker1: sorry, father -- i mean, friar -- or is it abbot? 
-speaker1: going to scotland, you gentlemen? so are we...
-speaker1: i'm a valet. my master and mistress and i are our way to inverness. ever been there? beautiful country.
-
-speaker1: oh, forgive me. you must be one of those orders that's taken the vow of silence. trappists, i believe you're called. 
-speaker1: i see you're reading the book of jonah. funny - we were just talking about johan this morning... never mind.
-
-speaker1: women are never to be trusted entirely -- not the best of them. 
-speaker2: what did you say?
-speaker1: i didn't say it -- you did. according to dr. watson.
-
-speaker1: oh. 
-speaker2: he gave me some back issues of strand magazine.
-speaker1: the good doctor is constantly putting words into my mouth.
-speaker2: then you deny it?
-speaker1: not at all. i am not a whole-hearted admirer of womankind.
-speaker2: i'm not very fond of them myself.
-speaker1: the most affectionate woman i ever knew was a murderess.
-speaker2: oh?
-speaker1: it was one of those passionate affairs -- at odd hours -- right in my laboratory. and all the time, behind my back, she was stealing cyanide to sprinkle on her husband's steak and kidney pie.
-speaker2: you mustn't judge all women by --
-speaker1: of course not. only the ones i was involved with. and i don't just mean professionally -- kleptomaniacs, nymphomaniacs, pyromaniacs. take my fiancee, for instance --
-speaker2: your fiancee?
-
-speaker1: she was the daughter of my violin teacher -- we were engaged to be married -- the invitations were out, i was being fitted for a tail-coat -- and twenty-four hours before the wedding, she died of influenza. 
-speaker2: i'm sorry.
-speaker1: it just proves my contention that women are unreliable and not to be trusted. good night, mrs. ashdown.
-speaker2: good night, mr. ashdown.
-
-speaker1: let's see -- two, three, four -- 
-speaker2: i'll take that.
-speaker3: how do you get to glennahurich? how far is it?
-speaker4: glennahurich?
-speaker1: you know -- a valley -- with a yew tree... ?
-speaker4: it's about a mile out of town. why would you be wanting to go there?
-speaker1: well, if it's got a view, it might be a nice place for a picnic.
-speaker4: it's got a view, right enough -- but it's no place for a picnic.
-speaker3: why not?
-speaker4: because it's a cemetary.
-
-speaker1: the three boxes. is that it, holmes? 
-speaker2: i would think so.
-speaker3: the two small ones -- they must be children's coffins.
-
-speaker1: in sure and certain hope of the 
-speaker2: it's so sad.
-speaker3: sad -- and rather odd. there are no flowers -- and no mourners.
-speaker3: morning.
-speaker4: morning.
-speaker3: working you hard, dad?
-speaker4: not really. this is healthy country. sometimes you sit around for weeks with nothing to do. then you get three in one day.
-speaker3: what happened?
-speaker4: an accident. aye. father and two sons, they say -- they were found floating in the loch.
-speaker3: local people?
-speaker4: no. nobody around here knows them. the story is that their boat capsized in a swell -- but i don't believe it.
-
-speaker1: what do you believe? 
-speaker2: you may think i'm an old fool or an old drunk -- but i've living around loch ness all my life...
-speaker3: are you trying to tell us it was the monster?
-speaker2: right. maclarnin saw the kids' faces when they were pulled out of the water -- looked like old men -- must've died of fright.
-speaker3: incredible.
-speaker2: is it? last easter sunday my wife and me, we were on our way to services, when suddenly... but what's the use?
-speaker1: here you are, dad.
-speaker2: thank you... you look like nice people. if you're wanting a holiday in scotland, go to loch lomond, go to holy loch -- but stay away from loch ness.
-speaker3: to think that people still believe in that nonsense. here we are, living in the nineteenth century --
-
-speaker1: i'm ashamed to admit it -- but i was relieved when he mentioned a father and two boys. it could possibly have anything to do with emile. 
-speaker2: it would appear not.
-speaker3: however, there still remains the clue of the castle and the red runner -- wherever it may be.
-speaker3: if they're unidentified graves, why are those boys bringing flowers?
-speaker2: because it's their brothers who have just been buried.
-speaker3: their brothers?
-speaker2: and they're not boys. they're as tall as they'll ever grow. hand me some pebbles, will you?
-speaker3: pebbles.
-
-speaker1: they are -- how do you say it in english? -- nains. 
-speaker2: midgets.
-speaker3: boys with the faces of old men...
-speaker2: i still don't see --
-speaker3: would it help if i told you they were acrobats?
-speaker2: not at all.
-speaker3: do you remember a tumbling act -- six brothers -- missing from the circus?
-speaker2: oh, yes -- that case you turned down -- i completely forgot.
-speaker3: some of us are cursed with memories like flypaper. and stuck there is a staggering of miscellaneous date, mostly useless.
-
-speaker1: mr. holmes, is those are not children, then -- ? 
-speaker2: quite. the question now is -- who's in the third grave?
-
-speaker1: holmes! she's fainted. 
-speaker2: hand me that lantern.
-speaker1: it is valladon, isn't it?
-speaker2: obviously. what is not so obvious is why his wedding ring has turned green --
-
-speaker1: you have a lovely view of the loch from here -- as soon as the morning mist rolls away. if you've a mind to do any sight-seeing, here's a guide to the local points of interest. 
-speaker2: thank you.
-speaker1: this way, please. i will show you to your room. watson picks up his suitcase, follows him.
-
-speaker1: i suppose you're putting me in the basement. 
-speaker2: no, your room is in the attic.
-speaker1: good.
-speaker2: it's the privy that's in the basement.
-speaker3: may i have your wedding ring, please?
-
-speaker1: just as i thought. there is a distinct difference in color between your ring and your husband's. which leads me to believe that the cause of death was not drowning... i wish you would stop that. stop it! 
-speaker2: i'm sorry.
-speaker1: i know it's not easy. but you must remember that we're that nice couple from london, on holiday in the highlands.
-speaker2: i'll try.
-speaker1: that's much better.
-speaker2: thank you.
-speaker1: now, if i may proceed without further interruptions --
-speaker3: mr. ashdown!
-
-speaker1: mr. ashdown! 
-speaker1: holmes! i saw it! i saw it from the attic! it's out there in the lake!
-speaker2: you saw what?
-speaker1: the telescope. where's the telescope?
-speaker2: what did you see?
-speaker1: the monster!
-speaker2: the monster?
-
-speaker1: there it is! there it is! 
-speaker1: look for yourself.
-speaker1: see it? see it?
-
-speaker1: i see nothing. 
-speaker2: nothing?
-speaker2: it's gone.
-speaker1: gone? maybe it was never there.
-speaker2: i swear to you -- i saw it -- clear as anything --
-
-speaker1: watson, as you so succinctly put it, we are living in the nineteenth century -- he steps back into the room. 
-speaker2: maybe that grave-digger was right -- the swell, and the boat overturning --
-speaker1: monsieur valladon may have been found in the lake -- but he did not drown. he died of asphyxiation.
-speaker3: asphyxiation.
-speaker1: there is only one substance that can turn a copper ring green and bleach the color out of canaries -- chlorine gas.
-speaker2: that may be. but the fact remains that i saw something out there.
-speaker1: a figment of your imagination. now let us be logical. the only concrete lead we have is the reference to the castle -- the question is, which castle?
-speaker2: you call yourself logical? you're the least logical man i know.
-speaker1: am i?
-
-speaker1: would you like some cranberry sauce, dear? 
-speaker2: yes, dear.
-speaker1: would you pass the cranberry sauce, please, john?
-speaker3: yes, dear.
-speaker3: some chaps i met on the train. we had a long conversation -- or rather, i had a long conversation -- because they're not allowed to talk -- trappists, you know. just study their bibles. you'll never guess what the one next to me was reading -- the book of jonah -- isn't that odd?
-speaker1: quite.
-speaker1: what is it, dear? what's the matter?
-
-speaker1: well, i don't think we have to bother with this castle. it's just a pile of rubble. 
-speaker2: then why are they taking precautions?
-speaker3: why, indeed? let's go.
-speaker1: go where?
-speaker3: when rebuffed at the front door, one's only choice is to try the tradesmen's entrance.
-
-speaker1: sorry. no visitors allowed. 
-speaker2: are you the guide here?
-speaker1: yes. the castle is closed to the public while work is going on.
-speaker2: what are they doing?
-speaker1: it's being restored by the society for the preservation of scottish monuments.
-speaker2: too bad. i particularly wanted my wife to see urquhart castle. the tower is one of the most interesting examples of -- about 1400, wasn't it?
-speaker1: that's right.
-speaker2: let me see -- was it built under james the second or james the third?
-speaker1: the thrid... if you come back next year, we'll be all done here, and i'll be glad to show you around.
-speaker2: thank you.
-
-speaker1: pleasant sort, isn't he? 
-speaker2: pleasant, but ignorant. he was off one hundred years and one james. it's actually 1500 and james the fourth.
-speaker3: if he's an official guide, shouldn't he know... ?
-speaker2: if he's an official guide.
-speaker2: listen... do you hear anything, watson?
-speaker1: no. those birds are making too much of a racket.
-
-speaker1: sulphuric acid? 
-speaker2: the more we find out the less sense it makes.
-speaker3: to a graduate chemist it makes a great deal of sense. sulphuric acid, when exposed to salt-water, produces chlorine gas. would you mind clasping your hands, watson?
-speaker1: like this?
-speaker3: a little lower... thank you.
-speaker1: holmes, i have a feeling we're redundant here.
-
-speaker1: we have now observed the castle from the front, from the back, from the side, from land, from water... what now? are you planning to spend the night out here? 
-speaker2: if necessary.
-speaker1: you're going to catch your death of cold. wouldn't it be ironic if holmes' last case were a case of pneumonia? sorry.
-speaker3: what's that?
-
-speaker1: holmes! 
-speaker2: quick, watson. after it!
-speaker1: holmes, what are we doing? we should be going away from it.
-speaker2: keep rowing,
-speaker2: we've lost it.
-speaker1: at least you admit there's an it, not just a figment of my imagination.
-speaker2: quiet.
-
-speaker1: do you have your stethoscope with you? 
-speaker2: never without it.
-speaker2: what is it?
-speaker1: i can hear something...
-speaker1: it's getting closer -- closer --
-speaker1: are you all right?
-speaker3: i lost my parasol.
-
-speaker1: where's watson? 
-speaker1: watson?
-speaker2: i have come face to face with man-eating tigers -- i was once caught in a stampede of wild elephants -- india, you know -- but i wasn't half as frightened. this beast seems to have a personal grudge against us.
-speaker3: i just hope it doesn't come back.
-speaker1: i don't think it will. look!
-speaker2: what strange goings-on.
-speaker1: not really. my guess is that the monster, after a hard day's work, has returned home for his supper.
-
-speaker1: yes, i know. but would you believe that you can't borrow a decent pair of trousers in this place? 
-speaker1: would you like to confide in us?
-speaker1: whenever he starts whistling, i know he's getting close to a solution.
-speaker2: it's nothing new, actually. we've come across this situation before.
-speaker1: we have? where?
-speaker2: at the ballet.
-speaker1: ballet?
-
-speaker1: there's a lake -- and there's a castle -- and there's a swan that isn't really a swan -- or, in this case, a monster that isn't really a monster -- 
-speaker2: then what is it?
-speaker1: what is it indeed that feeds on canary birds and sulphuric acid, and has an engine for a heart?
-speaker3: an engine?
-speaker1: the stethoscope is a very sensitive instrument, and water is an excellent conductor of sound. there is no doubt that what we are dealing with is a mechanical monster.
-speaker2: oh?
-speaker1: not only is it equipped with an artificial heart, it also has artificial lungs. judging from the bubbles on the surface of the lake, it uses some form of air pump.
-speaker3: you think my husband was involved in all this?
-speaker1: yes, madame valladon. i'm sure of it.
-speaker2: but why would anybody build a mechanical monster? just to scare people?
-speaker1: not very likely.
-
-speaker1: why did they try to keep me from finding my husband? and why was he buried anonymously? 
-speaker2: i think i have a pretty good notion of what they're up to -- the society for the preservation of scottish monuments -- better known as the diogenes club.
-speaker3: the diogenes club?
-speaker2: come in.
-speaker4: mr. ashdown, i have a bottle of champagne for you.
-speaker2: a bottle of champagne? i didn't order it.
-speaker4: no, indeed. you are to deliver it. these are my instructions.
-speaker2: instructions from whom? deliver it where?
-speaker4: i wouldn't know, sir. but there's a carriage waiting for you downstairs.
-speaker2: are you sure you have the right mr.
-
-speaker1: quite sure, mr. holmes. 
-speaker2: well, watson, i would say the curtain is going up on the last act.
-speaker3: i don't like the sound of it.
-speaker4: please be careful.
-speaker3: you'd better take this with you.
-
-speaker1: who's minding the castle? 
-speaker2: you'd better get on. it's late.
-speaker1: where are we going? some sort of party?
-speaker2: you won't be disappointed in the guest list.
-
-speaker1: who's the host? 
-speaker2: jonah.
-
-speaker1: mr. ashdown, i presume. 
-speaker2: the red runner, i presume.
-
-speaker1: you shouldn't have gone to all this trouble just for me. 
-speaker2: it's not for you. mckeller. may i have the champagne, please?
-speaker3: 1886 -- not a very good vintage, is it?
-speaker2: mediocre. but then again, it's not for drinking.
-speaker2: tie it up, will you?
-speaker2: in here.
-
-speaker1: despite my most emphatic warning, you persisted in meddling. it would have served you right if you'd all drowned. 
-speaker2: sorry to be so unobliging. e. valladon... h'mm.
-speaker1: i imagine this belongs to the pretty lady, and this belongs to your valet...
-speaker2: speaking about things floating in the lake --
-speaker1: how much do you know -- or think you know?
-speaker2: i think you're testing some sort of underwater craft -- camouflauged to mislead the gullible. i think it's an experimental model, operated by a crew of midgets. i think it is powered by sulphuric acid batteries, and uses canaries to detect escaping gas...
-speaker1: not quite that unique. right now, four countries are trying to develop what we call a submersible. but none of them could solve the critical problem -- how to stay submerged long enough to make it effective.
-speaker2: what does the good book say? "and jonah lived in the belly of that fish for three days and three nights."
-
-speaker1: that was our goal. and thanks to valladon's air-pump, we got a jump on the rest of them. it's a highly complex system of filtration -- so we had a series of trials -- 
-speaker2: and at least one error.
-speaker1: during a test run in moray firth, pressure caused a leak in the hull. sea water mixed with the acid in the batteries to produce chlorine gas. before they could reach the surface, valladon and the crew were dead.
-speaker2: so you had them buried in unmarked graves, to preserve your secret.
-speaker1: it was essential to keep the information from your client.
-speaker2: you went to all those lengths to prevent madame valladon from fiding her husband?
-speaker1: your client isn't madame valladon -- it's the imperial german government. they were after the belgian engineer -- or rather, his invention. they knew he was employed by us, but they couldn't find out where -- so they enlisted the best brain in england to help them. you, my dear brother, have been working for the wilhelmstrasse.
-speaker2: and madame valladon -- what part did she play in all this?
-speaker1: madame valladon is dead.
-speaker2: dead?
-
-speaker1: mycroft crosses to the trunk, opens the lid. 
-speaker2: the germans disposed of her three weeks ago, in brussels. this is gabrielle valladon.
-speaker2: the woman who was brought to your house in the middle of the night -- apparently fished out of the thames -- and apparently suffering from amnesia -- is, in fact, ilse von hoffmanstal, one of their most skillful agents. am i going too fast for one of the "best brains in england?"
-speaker3: go on.
-speaker2: they planted her on you quite neatly, i must admit, so that you could lead them to their objective, the air pump. very much like using a hog to find truffles. and now perhaps you'd care to join me. i am expecting a certain royal personage from balmoral.
-
-speaker1: your majesty. 
-speaker1: i trust you had a pleasant journey, ma'am.
-speaker2: it was long and it was tedious. and it had better be worth our while, mr.
-speaker1: i can assure you, ma'am, it will be.
-speaker2: now what is this curious ship we are supposed to christen?
-speaker1: we call it a submersible, ma'am. it travels under water.
-speaker2: under water? what a fantastic idea.
-
-speaker1: ma'am, may present some of the scientists who were responsible for this achievement. j.w. ferguson, naval architect -- 
-speaker2: your majesty.
-speaker1: professor simpson, our leading expert on hydraulics --
-speaker3: your majesty.
-speaker1: w.w. prescott, co-inventor of the revolving periscope --
-speaker4: your majesty.
-speaker1: and this is sir arthur grisby, our authority on maritime ballistics --
-speaker5: we don't claim to understand any of this. but england is proud of you, gentlemen. to think that man can now observe fish in their native habitat --
-speaker1: well, not exactly, ma'am --
-speaker5: -- and underwater plants and coral reefs -- young man -- what was your contribution to this project?
-speaker6: i'm afraid it was rather negligible, your majesty.
-
-speaker1: this is my brother, sherlock, ma'am. 
-speaker2: ah, yes. sherlock holmes. we have been following your exploits with great interest.
-speaker3: thank you, ma'am.
-speaker2: are you engaged in one of your fascinating cases at the moment?
-speaker3: in a manner of speaking, ma'am.
-speaker2: when can we expect to read dr. watson's account of the case?
-speaker3: i hope never, ma'am. it has not been one of my more successful endeavors.
-
-speaker1: ah, the ceremonies are about to begin. now where is this underwater ship of yours? 
-speaker2: in the dungeon, ma'am.
-speaker1: the dungeon? what a peculiar place to keep it. well, let us get on with it, gentlemen.
-
-speaker1: there she, ma'am. her majesty's ship jonah. 
-speaker2: and what, may we ask, is the purpose of that hideous gargoyle?
-speaker1: it's merely a decoy, ma'am.
-
-speaker1: oh. to frighten away the sharks, we imagine. 
-speaker2: something of the sort... the crew will now demonstrate the workings of the submersible.
-speaker3: stand to.
-speaker1: aren't they rather small for sailors?
-speaker2: they are. but because of the size of the craft, the navy made an exception.
-speaker1: they should make it a rule. it's quite fatiguing to pin on all those medals while standing on our toes.
-speaker2: this is the main engine, which propels it under water at the rate of two knots -- the stabilizing mechanism -- the multi- stage compressor -- the ballast tank trimmer -- the air-pump which filters and recirculates the air --
-
-speaker1: how charming. 
-speaker2: the air pump, ma'am?
-speaker1: the canaries. must make the crew feel at home.
-speaker2: yes, ma'am. these are the levers for firing the torpedoes, which are accurate up to as much as 120 feet -- the periscope for scanning the surface of the water --
-speaker1: but where is the glass bottom?
-speaker2: the what, ma'am?
-speaker1: the glass bottom.
-speaker3: you know -- to see the fist --
-speaker1: -- and the plants and the corals --
-speaker2: that's not quite the idea, ma'am. h.m.s. jonah is being commissioned as a warship.
-speaker1: a warship? stop that noise. stop it!
-speaker2: ma'am, if i may explain --
-speaker1: you had better.
-
-speaker1: the admiralty regards this craft as the ultimate weapon in naval warfare. it can seek out enemy ships and destroy them -- with these torpedoes -- while remaining completely invisible. 
-speaker2: you mean in can fire at other vessels while under water?
-speaker1: yes, ma'am.
-speaker2: without any warning?
-speaker1: that is correct, ma'am.
-speaker2: and without showing her colors?
-speaker1: indeed, ma'am.
-speaker2: mr. holmes, we are not amused. it is unsportsmanlike, it is un-english, and it is in very poor taste. we will have none of it!
-speaker1: i beg your pardon, ma'am?
-speaker2: sometimes we despair of the state of the world. what will scientists think of next?
-speaker1: that's precisely it, ma'am. at this very moment the germans under count von zeppelin, are experimenting with a dirigible --
-
-speaker1: a dirigible? and what, pray, is that? 
-speaker2: a rigid balloon, which could fly over london and drop a bomb on buckingham palace. it is being developed at the express orders of kaiser wilhelm the second.
-speaker1: nonsense. we refuse to believe that our grandson willie would do a thing like that.
-speaker2: we have conclusive proof, ma'am. our agent in friedrichshafen, a man named ibbetson, actually saw the dirigible, and made a drawing of it. unfortunately, he was apprehended before he could cross the border.
-speaker1: nevertheless, we don't want any part of this beastly invention. get rid of it!
-speaker2: may i point out, ma'am --
-speaker1: and don't concern yourself about that dirigible dropping bombs on us. we shall write a very sharp note to the kaiser. now we wish to return to balmoral.
-speaker3: well, mycroft, it seems we have both been undone by a woman. what a shame.
-
-speaker1: not necessarily. if the germans want that submersible so badly, why don't we give it to them? 
-speaker2: give it to them?
-speaker1: invite them aboard for the final journey -- seven hundred feet -- straight down.
-speaker2: and how are you going to arrange that?
-speaker1: i'm rather counting on you to do it. since you are on such intimate terms with fraulein von hoffmanstal.
-speaker1: shall we say goodbye to her majesty?
-
-speaker1: sorry about that. but as long as you're up -- what is the german word for castle? 
-speaker2: i think so.
-speaker1: and how would you say under the castle?
-speaker2: i don't know. my german isn't that good.
-speaker1: your trappist friends are out there waiting to hear from you -- it's a chilly morning -- we don't want to keep them standing around too long, do we, fraulein hoffmanstal? come now. it's too late to play cat and mouse.
-speaker2: unter dem schloss.
-
-speaker1: well, it's up to the good monks now. you can consider your part of the mission accomplished, fraulein hoffmanstal. 
-speaker2: you're all wrong about me. my name isn't hoffmanstal.
-speaker1: it isn't?
-speaker2: it's von hoffmanstal.
-speaker1: i stand corrected.
-speaker2: i suppose once they're in the castle... it must amuse you, mr. holmes, trappists walking into a trap.
-speaker1: it's more amusing than that. once in the castle, they will encounter surprisingly little resistance -- it will take but a small bottle of chloroform to overcome the guards.
-speaker2: you mean you're going to let them have the air-pump?
-speaker1: better than that. we're going to let them have the submersible. they will find it with its engines running, all set to go. i assume they're all expert sailors? and since there is a german battleship cruising off the coast of scotland, i expect they'll try to sail it out of the lock and rendezvous at sea.
-speaker2: did you say try to?
-
-speaker1: i would suggest you get your things together. mycroft will be here to take you into custody. 
-speaker2: i never had you fooled for a moment, did i? you knew right from the beginning -- when the cabbie brought me to baker street.
-speaker1: let me see -- not quite that soon.
-speaker2: it's so funny. i asked for this assignment, you know. i was scheduled to go to japan, but i couldn't resist the challenge of coming up against the best. i'm sorry i didn't give you a closer game.
-speaker1: close enough.
-speaker2: you're just being kind. i failed miserably.
-speaker1: we all have occasional failures. fortunately, dr. watson never writes about mine.
-
-speaker1: it was out there. now it's gone. 
-speaker2: gone?
-
-speaker1: a bottle of champagne?... and a bible?... 
-speaker2: that's all that's left of h.m.s. jonah.
-speaker2: it would seem that somebody carelessly loosened the bolts of the submersible. what a fitting end for trappists -- now they are resting in eternal silence at the bottom of the lake.
-speaker3: fraulein von hoffmanstal?
-speaker4: yes, mr. holmes. i'm all ready.
-
-speaker1: if there's one thing i like about the prussians, it's their punctuality. 
-speaker2: if there's one thing i dislike about the british, it's their climate. i understand your jails are quite damp -- and your heating facilities totally inadequate.
-speaker1: they are. but you're not going to jail.
-speaker2: germany?
-speaker1: you will be conducted to the swiss-german border, and be exchanged for one of our agents -- a man named ibbetson.
-speaker2: thank you.
-speaker1: don't thank me. thank my brother. it was his idea.
-speaker1: frankly, i think we are making a very poor deal. you much better than most operatives working for british intelligence. don't you agree, sherlock?
-speaker3: and better than some consulting detectives.
-
-speaker1: shall we? 
-speaker2: i'll take that. gentlemen.
-speaker3: all right, holmes -- you don't have to explain anything to me, if you don't want to.
-speaker4: i appreciate that, watson.
-speaker3: after all, i'm only your official biographer --
-speaker4: anyway, i don't think she'd care to have this story spread all over strand magazine.
-speaker3: the public has a right to know these things. if she's a german spy, why should we concern ourselves about her feelings?
-
-speaker1: if i promised not to write a word about it, would you enlighten me? as your friend -- as your valet -- 
-speaker2: quiet. i'm trying to read a personal message.
-speaker1: a message?
-
-speaker1: what is she saying? 
-speaker2: auf wiedersehn.
-speaker1: auf weider---? the nerve!
-
-speaker1: h'mmm. a letter from the diogenes club. 
-speaker2: maybe mycroft is putting you up for membership.
-speaker1: if only to have the distinct pleasure of blackballing his brother.
-speaker2: aren't you going to finish your breakfast?
-
-speaker1: holmes -- i'm terribly sorry about this. 
-speaker2: where is it, watson?
-speaker2: you're getting better.
-
-speaker1: good morning, watson. just happened to be in the neighborhood, and i thought -- 
-speaker2: what is it this time, inspector lestrade?
-speaker1: we've had three rather nasty murders in whitechapel. all ladies of easy virtue. you may read something about it -- the newspapers are referring to the killer as jack the ripper.
-speaker2: yes, i think i have.
-speaker1: some of us at scotland yard were wondering if perhaps mr. holmes would be willing to --
-speaker2: i'm sorry, lestrade. but at the moment, holmes is working on another problem.
-speaker1: oh... well, i just thought it was the kind of case that might interest him. i dare say we can solve it without his help.
-
-speaker1: oh, i'm sure you will. 
-speaker1: good day, lestrade.
+WATSON'S VOICE: somewhere in the vaults of a bank in london is a tin dispatch box with my name on it. it is not to be opened until fifty years after my death. 
+WATSON'S VOICE: it contains certain mementos of my long association with a man who elevated the science of deduction to an art -- the world's first, and undoubtedly most famous, consulting detective.
+
+WATSON'S VOICE: he was the most brilliant man i have ever known -- and i dare say people have envied me for sharing that flat with him in baker street. 
+WATSON'S VOICE: i'll grant you he was stimulating -- but he could also be moody, unpredictable, egocentric, and more often than not, completely infuriating -- as our landlady, mrs. hudson, can attest -- bless her kind soul.
+
+MRS. HUDSON: i do wish you'd give me a little more warning when you come home unexpected. i would have roasted a goose -- and had some flowers for you. 
+HOLMES: my dear mrs. hudson -- criminals are as unpredictable as head-colds. you never quite know when you're going to catch one.
+MRS. HUDSON: i'll unpack your bags.
+WATSON: here's an advance copy of strand magazine. they've printed 'the red-headed league!'
+
+HOLMES: very impressive. 
+WATSON: would you like to see how i treated it?
+HOLMES: i can hardly wait. i'm sure i'll find out all sorts of fascinating things about the case that i never knew before.
+WATSON: just what do you mean by that?
+HOLMES: oh, come now, watson, you must admit that you have a tendency to over-romanticize. you have taken my simple exercises in logic and embellished them, exaggerated them...
+WATSON: i deny the accusation.
+HOLMES: you have described me as six-foot-four, whereas i am barely six-foot-one.
+WATSON: a bit of poetic license.
+HOLMES: you have saddled me with this improbable costume, which the public now expects me to wear.
+WATSON: that's not my doing. blame it on the illustrator.
+HOLMES: you've made me out to be a violin virtuoso. here --
+
+6.: -- a request from the liverpool symphony to appear as soloist in the mendelssohn concerto. 
+WATSON: oh, really?
+HOLMES: the fact is that i could barely hold my own in the pit orchestra of a second-rate music hall.
+WATSON: you're much too modest.
+HOLMES: you have given the reader the distinct impression that i am a misogynist. actually, i don't dislike women -- i merely distrust them. the twinkle in the eye and the arsenic in the soup.
+WATSON: it's those little touches that make you colorful --
+HOLMES: lurid is more like it. you have painted me as a hopeless dope addict -- just because i occasionally take a five per cent solution of cocaine.
+WATSON: a seven per cent solution.
+HOLMES: five per cent. don't you think i'm aware you've been diluting it behind my back?
+WATSON: as a doctor -- and as your friend -- i strongly disapprove of this insidious habit of yours.
+
+HOLMES: my dear friend -- as well as my dear doctor -- i only resort to narcotics when i am suffering from acute boredom -- when there are no interesting cases to engage my mind. look at this -- an urgent appeal to find six missing midgets. 
+WATSON: did you say midgets?
+HOLMES: six of them -- the tumbling piccolos -- an acrobatic act with some circus.
+WATSON: disappeared between london and bristol ... don't you find that intriguing?
+HOLMES: extremely so. you see, they are not only midgets -- but also anarchists.
+WATSON: anarchists?
+HOLMES: by now they have been smuggled to vienna, dressed as little girls in burgundy pinafores. they are to greet the czar of all the russias when he arrives at the railway station. they will be carrying bouquets of flowers, concealed in each bouquet will be a bomb with a lit fuse.
+WATSON: you really think so?
+HOLMES: not at all. the circus owner offers me five pounds for my services -- that's not even a pound a midget.
+
+WATSON: oh. and it sounded so promising -- 
+HOLMES: there are no great crimes anymore, watson. the criminal class has lost all enterprise and originality. at best they commit some bungling villainy, with a motive so transparent that even a scotland yard official can see through it.
+HOLMES: mrs. hudson!
+MRS. HUDSON: yes? what is it? what have i done now?
+HOLMES: there is something missing from my desk.
+MRS. HUDSON: missing?
+HOLMES: something very crucial. you have been tidying up against my explicit orders.
+MRS. HUDSON: oh, i made sure not to disturb anything.
+HOLMES: dust, mrs. hudson, is an essential part of my filing system. by the thickness of it, i can date any document immediately.
+
+MRS. HUDSON: some of the dust was this thick. 
+HOLMES: that would be march, 1883.
+
+MRS. HUDSON: how can you stand this? why don't you let me air the room out? 
+WATSON: please, mrs. hudson -- he's working on a definitive study of tobacco ash.
+MRS. HUDSON: i'm sure there's a crying need for that.
+
+WATSON: in our endeavors, it is sometimes vital to distinguish between, say, the ashes of a macedonian cigarette and a jamaican cigar. sor far he has classified 140 different kinds of ashes. 
+MRS. HUDSON: all of which will end up on my rug.
+WATSON: that'll be enough, mrs. hudson.
+HOLMES: she's right. i am suffocating.
+WATSON: let me open a window.
+HOLMES: not from lack of air -- from lack of activity. sitting here week after week -- blowing smoke rings -- staring through a microscope -- there's no challenge in that.
+WATSON: personally, i consider it a major
+HOLMES: how i envy you your mind, watson.
+WATSON: you do?
+
+HOLMES: it's placid, imperturbable, prosaic. but my mind rebels against stagnation. it's like a racing engine, tearing itself to pieces because it's not connected up with the work for which it was built. 
+WATSON: holmes --
+WATSON: holmes, where is your self-control?
+HOLMES: fair question.
+WATSON: aren't you ashamed of yourself?
+HOLMES: thoroughly. but this will take care of it.
+
+WATSON: the only reason you moved in with me is to have a steady supply of stimulants. 
+HOLMES: now, now, watson -- you mustn't underestimate your other charms.
+WATSON: holmes, i warn you. if you lock yourself in there once more --
+HOLMES: i intend to do nothing of the sort.
+HOLMES: not until you replace this needle. it is getting rather blunt.
+MRS. HUDSON: i made you some tea and cress sandwiches.
+
+WATSON: mrs. hudson, i want you to pack my bags. 
+MRS. HUDSON: are you going away for the weekend?
+WATSON: and beyond. i'm moving out.
+MRS. HUDSON: moving out?
+HOLMES: i'm just as surprised as you are.
+WATSON: you heard me, mrs. hudson. and let's not waste any time.
+HOLMES: may i be so bold as to ask where you'er going?
+WATSON: i don't know yet. but i intend to resume my practice. i am, after all, a doctor. and quite a competent one, if i say so as shouldn't.
+HOLMES: you'll find it very dull -- snipping out tonsils and flushing out kidneys --
+HOLMES: if you're looking for your medical bag, you hid it under the moorish table. which shows a little more imagination than last time -- when it was under your bed.
+
+WATSON: i will, of course, continue to pay my half of the rent until you find someone to share these rooms with you. 
+HOLMES: where am i going to find anyone who will put up with my rather eccentric habits?
+WATSON: here's a fresh needle -- and here's my farewell present to you.
+WATSON: if you want to destroy yourself, go right ahead. but i won't sit by and watch you doing it.
+HOLMES: watson...
+
+WATSON: please, mrs. hudson -- none of that. 
+MRS. HUDSON: i'll wash this and send it on to you.
+WATSON: i'll be at brown's hotel.
+MRS. HUDSON: i know how it feels -- i once went through a divorce myself.
+WATSON: actually, i'm rather looking forward to it. leading a normal life again. regular office hours -- nine to three -- and if occasionally there's an emergency call in the middle of the night, i know it's going be appendicitis and not an ax murder. let holmes go mucking about in the fog and the sleet, looking for a bloodstained collar-button out on the moors, with some demented hound snapping at his behind -- from the living room comes the sound of a revolver shot. mrs. hudson screams and watson looks off in alarm. then he races out of the room, diploma in hand, followed by mrs. hudson.
+
+HOLMES: please, mrs. hudson. you're in my line of fire. 
+HOLMES: merely celebrating her majesty's golden jubilee.
+MRS. HUDSON: look at that mess you made --
+WATSON: it's all right, mrs. hudson. i'll clean it up -- -- while you unpack my things.
+MRS. HUDSON: unpack?
+HOLMES: you heard him.
+WATSON: thank you, holmes. i know how difficult it must've been for you --
+
+HOLMES: not really. it was simple choice between a bad habit and a good companion. 
+WATSON: you've made me very happy.
+HOLMES: i've often been accused of being cold and unemotional. i admit to it. and yet, in my cold, unemotional way, i'm very fond of you, watson.
+WATSON: i know that. but one likes to hear these things occasionally.
+WATSON: look at this. covered with that nasty stuff. i'd better dry it off.
+HOLMES: i'll do it.
+WATSON: for a moment, i was worried that you were going to let me walk out -- that you weren't even going to try to stop me.
+HOLMES: now, watson -- you know there's nothing i wouldn't do to keep you here.
+
+WATSON'S VOICE: but on one occasion, he did something that was so utterly unforgivable, that i would gladly have murdered him -- had it not been for my saintly disposition. 
+WATSON: why are you being so stubborn, holmes? why won't you go? it's the final performance of the imperial russian ballet -- the house has been sold out for months -- he moves towards the door of --
+
+WATSON: -- seats are going for a guinea apiece -- 
+HOLMES: that's precisely it. why should someone send up two free tickets? anonymously, at that.
+WATSON: whoever sent them must be in great distress. the note says --
+
+19.: 'please! you are the only man in the world who can help me.' 
+HOLMES: i suspect it's some sort of plot.
+WATSON: you mean somebody wants to lure us into a trap...?
+HOLMES: somebody wants to kill me.
+WATSON: kill you?
+HOLMES: that's right. it's a plot to bore me to death. i detest ballet.
+WATSON: but this isn't just any ballet. it's swan lake.
+
+WATSON: you know, of course, holmes -- that swan isn't really a swan -- it's an enchanted princess. 
+HOLMES: h'mmmm.
+
+BOX: watson nudges holmes, who has dozed off. 
+WATSON: fabulous woman, don't you think so, holmes?
+HOLMES: who?
+WATSON: the great petrova.
+STAGE: petrova is making an exit, backwards, on points.
+
+HOLMES: very strong arches, i must admit. 
+WATSON: they say twelve men have died for her.
+HOLMES: really.
+
+WATSON: six committed suicide, four were killed in duels, and one fell out of the gallery in the vienna opera house. 
+HOLMES: that's only eleven.
+WATSON: the man who fell from the gallery landed on top of another man in the orchestra.
+HOLMES: that makes an even dozen -- in a messy sort of way.
+
+ROGOZHIN: mister holmes? 
+HOLMES: yes.
+ROGOZHIN: i am nicolai rogozhin, director-general of the imperial russian ballet. so glad you accept invitation.
+HOLMES: this is dr. watson.
+
+ROGOZHIN: pleased to meet you. you are enjoying? 
+WATSON: immensely.
+ROGOZHIN: tell me, mr. holmes, how is your health?
+HOLMES: my health? better consult my doctor.
+WATSON: oh, he's in excellent shape.
+ROGOZHIN: any insanity in your family? diabetes?
+HOLMES: would you mind telling me what this is all about?
+ROGOZHIN: certainly. madame petrova, she has problem.
+HOLMES: could you be more specific?
+ROGOZHIN: certainly not.
+WATSON: a liason with a crowned head? compromising letters? blackmail?
+STAGE: the pas-de-deux finished, to a rousing ovation.
+
+BOX: rogozhin rises, turns to holmes. 
+ROGOZHIN: after performance, there will be little celebration backstage -- and madame requests your presence.
+WATSON: we'd be delighted.
+ROGOZHIN: you are invited, also.
+
+ROGOZHIN: there you are, mr. holmes. madame is expecting you in her dressing room. dr. watson, you will amuse yourself meanwhile -- we have vodka, caviar, girls. 
+WATSON: no, thank you.
+
+ROGOZHIN: no girls? 
+WATSON: no caviar. makes me break out in hives.
+ROGOZHIN: dievushki. siude, siuda, dievushki. posnakomtes s docktorum watsonom.
+WATSON: any of you girls understand english?
+GIRLS: nyet.
+WATSON: not one single word?
+GIRLS: nyet.
+WATSON: in that case, i don't mind telling you that you all have lovely po-pos. he pats a couple of the po-pos with his cane.
+
+ROGOZHIN: mr. holmes, i must prepare you -- this is no ordinary case. 
+HOLMES: it is only the extraordinary that interests me.
+
+ROGOZHIN: good. because you will find this extra- extraordinary. 
+ROGOZHIN: madame petrova prinimaet?
+MAID: pozhaluista voidite.
+
+ROGOZHIN: ja priviol vam mistera sherlock holmesa, doragaia. 
+PETROVA: otchen rada.
+HOLMES: madame.
+PETROVA: vi menshe rostom chem ja ozhidala.
+HOLMES: madame says you are shorter than she thought.
+
+HOLMES: i didn't mean to be. 
+PETROVA: no eto nie vazhno. menia interessujut glavnim obra som vashi mosghi.
+ROGOZHIN: short, tall, who cares? it is the brains that count.
+HOLMES: thank you. thank you.
+PETROVA: ja prochia vsie vashi prikliuchenia. zamiechatelno! os sobenno sobaka baskervillei.
+ROGOZHIN: madame is great admirer of yours. she has read every story -- her favorite is big dog from baskerville.
+HOLMES: i'm afraid it loses something in translation.
+PETROVA: nikolai, pokazhite iemu skripku.
+ROGOZHIN: mr. holmes, you know about fiddles. what is your opinion of this?
+
+HOLMES: 'antonius stradivarius cremonesis, anno 1709.' well, the label is authentic. judging from the shape, the color of the varnish, and the tone, i would say it is a genuine stradivarius of the best period. 
+ROGOZHIN: you like?
+HOLMES: it's magnificent.
+PETROVA: skazhite jemu chto eto podarok ot menia.
+ROGOZHIN: here -- take it. madame says it is yours.
+HOLMES: mine?
+ROGOZHIN: for services you will render.
+HOLMES: my fees as a detective are not exactly trifling -- but a stradivarius -- you're not serious.
+ROGOZHIN: i am not. but madame is.
+PETROVA: nalejte vodki i obiasnite jemu v chom dielo.
+
+ROGOZHIN: all right. i will pour vodka and explain. mr. holmes, what you have seen tonight is last and positively final performance of madame petrova. she is retiring. 
+HOLMES: what a shame.
+ROGOZHIN: she has been dancing since she was three years old. and after all, she is now thirty-eight.
+HOLMES: i must say she doesn't look thirty-eight.
+ROGOZHIN: that is because she is forty-nine. so madame has decided to leave ballet and spend life bringing up her child.
+HOLMES: how admirable.
+ROGOZHIN: problem now is to find father.
+HOLMES: oh? is he missing?
+ROGOZHIN: correct.
+HOLMES: and that's why you called me in?
+ROGOZHIN: also correct. we must have father, because without father, how can there be child?
+
+HOLMES: i see. the whole thing is still in the planning stage -- 
+ROGOZHIN: correct again. madame would like child to be brilliant and beautiful. since she is beautiful -- she now needs man who is brilliant.
+PETROVA: za zdorovie.
+ROGOZHIN: za zdorovie.
+HOLMES: za zdrovie.
+HOLMES: what's in it?
+ROGOZHIN: what does it taste like?
+HOLMES: red pepper.
+ROGOZHIN: that's what's in it.
+PETROVA: kogda mi smozhem dvinutsa v putj?
+HOLMES: i beg your pardon?
+
+ROGOZHIN: madame wants to know how soon you can be ready. 
+HOLMES: ready?
+ROGOZHIN: to leave for venice. all arrangements have been made. you will spend one week there with madame...
+HOLMES: well, this is all very flattering. but surely there are other me -- better men --
+ROGOZHIN: to tell you truth, you were not first choice. we considered russian writer, tolstoi --
+HOLMES: that's more like it. the man's a genius.
+ROGOZHIN: too old... then we considered the philosopher, nietzsche --
+HOLMES: absolutely first-rate mind...
+ROGOZHIN: too german... and we considered tschaikowski --
+HOLMES: oh, you couldn't go wrong with tschaikowski --
+ROGOZHIN: we could -- and we did. it was catastrophe.
+HOLMES: why?
+ROGOZHIN: you don't know? because tschaikowski -- how shall put it? women not his glass of tea.
+
+HOLMES: pity, that. 
+PETROVA: skazhite jemu chto je otchen dovolna etim resheniem.
+ROGOZHIN: madame is very happy with final choice.
+HOLMES: madame mustn't be too hasty. she must remember i'm an englishman.
+ROGOZHIN: so?
+HOLMES: you know what they say about us. if there's one thing more deplorable than our cooking, it's our love-making. we are not exactly the most romantic of people --
+ROGOZHIN: perfect. we don't want sentimental idiots -- falling in love, committing suicide. one week in venice -- she goes back to st. petersburg with baby -- you go back to london with fiddle.
+HOLMES: an equitable arrangement. about my medical history -- when you asked me -- i neglected to mention a small detail. there is hemophilia in my family. we're all bleeders.
+ROGOZHIN: on govorit, chto v jevo semie stradajut ghemofilijei.
+PETROVA: pust nie bezpokoitsa. ja ostrighu sebe noghti.
+
+ROGOZHIN: madame says not to worry. she will not scratch you. 
+HOLMES: that's reassuring to know. but --
+PETROVA: pochemu on kolebletsa? on nie nahodit menia dostatochno privlekatelnoi?
+ROGOZHIN: madame says you talk too much. you find her attractive or no?
+WATSON: excuse me. what does prokanzik mean?
+ROGOZHIN: it means 'you little devil.'
+WATSON: it does? i am? thank you.
+HOLMES: oh, i find her most attractive -- for a woman, that is.
+ROGOZHIN: then no problem.
+
+HOLMES: maybe a slight one. you see, i am not a free man. 
+ROGOZHIN: not free? you are a bachelor.
+HOLMES: a bachelor -- living with another bachelor -- for the last five years.
+ROGOZHIN: what is it you are trying to tell me?
+HOLMES: i hoped i could avoid the subject. but some of us -- through a cruel caprice of mother nature --
+ROGOZHIN: get to point.
+HOLMES: the point is that tschaikowski is not an isolated case.
+ROGOZHIN: you mean, you and dr. watson -- ? he is your glass of tea?
+HOLMES: if you want to be picturesque about it.
+PETROVA: chto on govorit? pri chom tut chaikovsky?
+ROGOZHIN: on pederast.
+PETROVA: jescho odin? eto stanovitsa odnoobrasno!
+
+HOLMES: it would have been catastrophe. 
+PETROVA: potchemu vi nie vijasnili eto eto ranshe, prezhde chem posoritj menia!
+
+HOLMES: watson! watson, are you coming? 
+WATSON: what is it, old boy?
+HOLMES: we're going home.
+
+WATSON: home? not a chance. not the slightest -- not the remotest chance. toodle-ooo. 
+WATSON: hold on! just a moment!
+WATSON: what's going on? what happened to the girls?
+ROGOZHIN: why? do you not prefer it this way?
+WATSON: what way?
+
+ROGOZHIN: you don't have to pretend. mr. holmes told us everything -- about you and him -- 
+WATSON: about me and him?
+ROGOZHIN: come now, no need to be bashful. we are not bourgeois. maybe with doctors and detectives is unusual -- but in ballet, is very usual.
+WATSON: what is?
+ROGOZHIN: caprice of mother nature. look at pavel and mischa and boris and dmitri --
+ROGOZHIN: -- and ilya and sergei -- sergei -- half and half.
+
+WATSON: holmes! 
+WATSON: holmes!
+
+WATSON: there you are, you wretch! you rotter! you blackguard! of all the vile, unspeakable fabrications. what do you have to say for yourself? 
+WATSON: don't just sit there -- speak up, man!
+
+WATSON: holmes...? are you all right, holmes? 
+HOLMES: from the sound of your footsteps, i gathered that you were not in a particularly amiable mood.
+WATSON: how could you do a dastardly thing like that to me? what the deuce were you thinking of?
+HOLMES: watson, you have my most abject apologies. but have you ever been cornered by a madwoman? it seemed like the only way to get out of it without hurting her feelings.
+WATSON: what about my feelings? and my reputation? do you realize the gravity of what you have done? the possible repercussions?
+HOLMES: so there'll be a little gossip about you in st. petersburg...
+WATSON: these things spread like wildfire. i can just hear those malicious whispers behind my back. i'll never be able to show my face in polite society...
+
+39.: and if it ever got back to my old regiment -- you don't know the fifth northumberland fusiliers -- they'll strike me off the rolls -- they'll cut off my pension... 
+HOLMES: watson, you're running amok.
+WATSON: dishonored, disgraced, ostracized. what am i to do?
+HOLMES: well, for one thing, i'd get rid of that flower.
+WATSON: you may think this is funny, but we're both in the same boat. we must take desperate measures. we must stop this talk... maybe if we got married...
+HOLMES: then they'd really talk...
+WATSON: obviously, we cannot continue to live under the same roof. we must move apart.
+HOLMES: of course, we can still see each other clandestinely -- on remote benches in hyde park, and in the waiting rooms of suburban railway stations --
+WATSON: the whole thing is ridiculous. we have nothing to hide.
+HOLMES: that's what i've been trying to tell you.
+
+WATSON: let somebody start a rumor -- just one ugly word -- and we'll sue them for slander. 
+HOLMES: nobody would dare. after all, you have an enviable record with the fair sex.
+WATSON: right. i can get women from three continents to testify for me. and you can get women to vouch for you, too -- can't you, holmes?
+WATSON: can you, holmes?
+HOLMES: good night, watson.
+WATSON: holmes, let me ask you a question -- i hope i'm not being presumptuous -- but there have been women in your life?
+HOLMES: the answer is yes. you're being presumptuous. good night.
+WATSON: holmes...
+
+WATSON: were you expecting someone? 
+HOLMES: not at this hour.
+WATSON: maybe mrs. hudson is entertaining.
+HOLMES: i never found her so.
+
+WATSON: what is it, mrs. hudson? 
+MRS. HUDSON: there's a cabbie here -- he says you owe him two-and-six.
+WATSON: for what?
+CABBIE: for the fare, guv'nor. the young lady doesn't have any money.
+WATSON: what young lady?
+CABBIE: this one.
+
+WATSON: well. what have we here? who are you, miss? what happened to you? 
+GABRIELLE: i don't know.
+CABBIE: that's all she keeps saying -- i don't know, i don't know.
+WATSON: where did she come from?
+CABBIE: from the river. i was driving down the embankment, just below westminster bridge, and there she was in the water -- drowning.
+CABBIE: it wasn't easy, guv'nor -- what with the cold water -- and her fighting me --
+HOLMES: why did you bring her here?
+CABBIE: because i found this in her hand -- -- 221b baker street -- that's right, isn't it?
+
+HOLMES: young lady -- what did you want at this address? 
+GABRIELLE: i do not remember.
+WATSON: rather perplexing, wouldn't you say?
+HOLMES: rather.
+CABBIE: well, gentlemen, you want her? -- it's two-and-six -- or shall i throw her back in the river?
+MRS. HUDSON: mr. holmes. you can't let him --
+HOLMES: watson, you'd better accept delivery.
+WATSON: keep the change.
+CABBIE: thank you, guv'nor.
+CABBIE: no extra charge for the use of the horse- blanket.
+WATSON: you're shivering, my dear.
+
+WATSON: sit here, my dear. 
+WATSON: she's suffering from shock and exposure.
+HOLMES: there was some printing on the back of this -- but it seems to have come off in the water.
+WATSON: look at this -- she's had a nasty blow on the head.
+
+WATSON: no. the blood has already coagulated. so it would appear that she was the victim of a deliberate attack... get my bag, will you? 
+GABRIELLE: who are you?
+WATSON: i'm dr. watson -- and this is mr. sherlock holmes. do the names mean anything to you?
+GABRIELLE: no.
+WATSON: think.
+GABRIELLE: i'm trying.
+HOLMES: can you think of your own name?
+GABRIELLE: no.
+WATSON: she's obviously had a concussion -- which often leads to temporary amnesia.
+HOLMES: so all we know is that she was coshed on the head, dumped into the thames, and subsequently dumped into our laps.
+
+WATSON: we know a lot more than that. from her accent, we know she is foreign -- from her ring, we know she is married -- and there is one other clue we have... something i deduced while i was helping her up the stairs. no corset. 
+HOLMES: good work.
+
+HOLMES: are you french? vous etes francaise? 
+GABRIELLE: non, je ne suis pas francaise.
+WATSON: how can she say she's not french, in french?
+HOLMES: vous etes suisse?
+GABRIELLE: non.
+HOLMES: alors, vous etes belge.
+GABRIELLE: je suis pas sure.
+HOLMES: vous etes belge -- de bruxelles!
+
+GABRIELLE: bruxelles? oui... je pense que oui. 
+MRS. HUDSON: oh, dash. will someone remove the violin, please?
+WATSON: we just found out that she's belgian.
+MRS. HUDSON: poor thing.
+WATSON: from brussels.
+HOLMES: if you don't mind.
+HOLMES: your name is gabrielle, is that right?
+GABRIELLE: i don't know.
+HOLMES: and your husband's name is emile?
+GABRIELLE: emile...
+HOLMES: where is he? what are you doing in london?
+
+GABRIELLE: i don't know. 
+HOLMES: when did you arrive from brussels? where are you staying?
+GABRIELLE: i don't know.
+HOLMES: what happened at the river? think! pensez! concentrez vous!
+WATSON: that's enough, holmes. i will not permit you to question her in this condition. mrs. hudson, put her to bed. my bed. i'll sleep on the couch.
+MRS. HUDSON: come, my dear.
+WATSON: i'd better mix her a sleeping potion.
+HOLMES: watson, i think we should arrange to have her removed to a hospital.
+WATSON: under no circumstances.
+HOLMES: she should have medical attention.
+
+WATSON: she can get that from me. but more importantly, she must be protected -- there has already been one attempt on her life. 
+HOLMES: this temporary amnesia -- how temporary is it?
+WATSON: it depends on the extent of the injury. it's like veils shrouding her memory. it could clear up in a few days -- or a few weeks.
+HOLMES: watson, this is a very small flat -- we don't want to clutter it up with women...
+WATSON: holmes, we've never had a case like this. a woman comes to us with a problem -- we don't know who the woman is -- and we don't know what the problem is. don't you find that challenging?
+HOLMES: quite. but we can't afford to wait for those veils to lift -- we must break through them as quickly as possible.
+WATSON: you really feel it's that urgent?
+HOLMES: i do. the sooner we solve the case, the sooner we can get rid of her.
+WATSON: oh.
+
+GABRIELLE: emile? 
+GABRIELLE: emile? is that you, emile?
+HOLMES: yes, gabrielle.
+GABRIELLE: ah, emile. i thought i'd never find you. hold me. hold me tight. it's been such a long time. so many nights. you know what i did before i left brussels?
+HOLMES: what?
+GABRIELLE: i hope you won't be angry with me. i bought myself an expensive negligee.
+HOLMES: did you?
+GABRIELLE: a pink negligee with maribou feathers. don't you think that's a foolish thing for a married woman? come.
+HOLMES: where is the negligee?
+GABRIELLE: in my luggage... come here.
+
+HOLMES: and where is your luggage? 
+GABRIELLE: what is it, emile? what are you doing?
+
+MRS. HUDSON: dr. watson! your porridge is getting lumpy. hadn't you better get up? 
+WATSON: i would like to very much. but -- mrs. hudson, would you mind planting your knee in the small of my back?
+
+MRS. HUDSON: yes, i would. 
+WATSON: please! i'm in excruciating pain.
+WATSON: a bit higher -- just below my seventh vertebra -- that's good. put your arms under mine -- fold them behind my neck --
+WATSON: bless you. that couch. you'd better see if our patient is awake. he seats himself at the table. mrs. hudson crosses to the door of watson's bedroom, opens it, starts inside, then stops.
+MRS. HUDSON: dr. watson. she's gone.
+WATSON: gone?
+WATSON: holmes! holmes! she's gone!
+
+HOLMES: mmmmm. i smell porridge. lumpy as usual, i suppose. he sets the suitcase down on the couch, as watson and mrs. hudson approach. 
+WATSON: oh, there you are, holmes. we were just wondering -- how --
+MRS. HUDSON: we certainly were.
+HOLMES: mrs. hudson, why don't you go down to the kitchen -- get a towel -- and wipe that look of disapproval off your face.
+
+MRS. HUDSON: liberties -- in my house! 
+WATSON: you can't really blame her -- i mean, the way it looks -- if i didn't know you better, i might suspect you'd taken advantage of the young lady.
+HOLMES: as a matter of fact, i did take advantage of her... would you hand me the butter- knife, please?
+WATSON: of course.
+WATSON: you did what?
+HOLMES: thank you.
+WATSON: holmes, this is reprehensible! where are your professional ethics? have you no sense of decency, no shame --
+HOLMES: none whatsoever. if you must know, i found her body quite rewarding.
+WATSON: you cad!
+HOLMES: especially the palm of her right hand.
+
+WATSON: i'd rather not hear about it! 
+HOLMES: very well. then i won't bother to tell you how i traced her suitcase.
+WATSON: that's her suitcase?
+HOLMES: remember that piece of soggy cardboard with our address on it? it was a luggage ticket -- the number rubbed off on her hand. and since she must have arrived from brussels by the boat train, i concluded that she had checked her belongings at victoria station.
+WATSON: by jove! if you're right, we should find a clue to her identity. holmes has now forced open the locks.
+HOLMES: or at least a pink negligee with maribou feathers.
+HOLMES: voila!
+WATSON: let's see - what else is in here?
+HOLMES: now we're getting somewhere.
+WATSON: who do you suppose this is?
+
+HOLMES: come in, madame valladon. you are gabrielle valladon. 
+GABRIELLE: yes.
+HOLMES: and this is your husband, emile valladon?
+GABRIELLE: yes.
+HOLMES: sorry to have ransacked your valise. but since you came to us for help --
+GABRIELLE: where am i?
+WATSON: 221b baker street.
+GABRIELLE: oh, yes... which of you is mr. holmes and which is dr. watson?
+HOLMES: dr. watson is the handsome one.
+HOLMES: that's the way he affects most women.
+
+WATSON: coffee. you want strong coffee. 
+GABRIELLE: it's all so confusing.
+HOLMES: let's try to sort it out. you came to london looking for your husband...
+GABRIELLE: yes. he's a mining engineer. we were married five years ago, in the congo.
+HOLMES: where your husband was working in a copper mine.
+GABRIELLE: how did you know?
+HOLMES: your wedding ring -- it's made of copper.
+GABRIELLE: last year he invented a new kind of air pump, and was hired by an english company, jonah limited.
+WATSON: here you are.
+HOLMES: jonah limited. go on.
+GABRIELLE: we've been writing to each other regularly. then suddenly, three weeks ago, his letters stopped. i kept writing ... but no answer. finally i decided to go to that address --
+
+HOLMES: 32 ashdown street. 
+GABRIELLE: yes. it's just an empty store -- nobody there. then i tried to find jonah limited. no such company exists.
+WATSON: how decidedly odd.
+HOLMES: madame valladon, can you think of any reason why your husband should have lied to you about theses things?
+GABRIELLE: emile? never. he loves me -- and i love him.
+HOLMES: so i gathered.
+GABRIELLE: i went to the police -- they said they would send out a missing persons report -- but they didn't sound too encouraging. then i went to the belgian embassy and explained the situation to them -- and they suggested that i consult you...
+WATSON: you could have done worse.
+GABRIELLE: i was on my way here -- and suddenly there were footsteps behind me -- and a hand over my mouth -- and the smell of choloroform -- and the next thing i knew i was in the water -- and then a man was wrapping me in a blanket --
+HOLMES: madame valladon, somebody tried to kill you last night. do you have any idea who could have done it?
+
+GABRIELLE: i don't understand any of it. what does it all mean, mr. holmes? where is my husband? you must help me find him. 
+WATSON: we'll do our best, i assure you.
+HOLMES: madame valladon, i want you to send one more letter to your husband.
+HOLMES: to emile valladon -- ashdown street -- what was that number?
+GABRIELLE: 32. what do you want me to say in the letter?
+HOLMES: nothing.
+WATSON: you're sending an empty sheet of paper to an empty shop?
+HOLMES: that empty shop is obviously being used as an accomodation address, or letter- drop. but what gets dropped must be picked up. the question is how? -- and by whom? -- and why?
+
+HOLMES: hammer... chisel. 
+WATSON: here!
+GABRIELLE: it's so strange to think i've been writing to a place like this all these months.
+
+WATSON: look at all these canaries. do you suppose this could have been a pet shop? 
+HOLMES: maybe. here comes our letter.
+HOLMES: now we are faced with the most nerve- wracking part of the detective's job -- doing nothing.
+GABRIELLE: mr. holmes --
+HOLMES: yes?
+GABRIELLE: i don't know how i'm going to pay you for all this. the purse with my money is somewhere at the bottom of the thames.
+HOLMES: it could be worse. you could be at the bottom of the thames -- much to your discomfort -- and much to my chagrin.
+WATSON: i don't understand how anybody picks up letters here. no footprints -- just tracks. what does it mean?
+
+HOLMES: i would surmise somebody is using ice- skates -- if it weren't for a conspicuous absence of ice. 
+WATSON: what do we do now?
+HOLMES: this way.
+WOMAN IN WHEELCHAIR: some of you will be going on a little trip soon -- i hate to lose you -- but even an old woman has to live. although you might well ask, why?
+
+WOMAN IN WHEELCHAIR: oh. you never told me we had a letter. 
+FIRST CARTER: morning, duchess.
+WOMAN IN WHEELCHAIR: morning.
+SECOND CARTER: what have you been doing with yourself?
+WOMAN IN WHEELCHAIR: what do you think? taking dancing lessons. how many do you want this time?
+FIRST CARTER: two dozen.
+WOMAN IN WHEELCHAIR: what are they doing with all those canaries? what's going on up there?
+SECOND CARTER: look, duchess, we don't know -- and we don't want to know.
+
+SECOND CARTER: how about that letter? does that go, too? 
+WOMAN IN WHEELCHAIR: no. that's going to be picked up in person.
+WATSON: i really thought we were done for.
+
+GABRIELLE: did you hear what she said? you really think emile is going to pick up the letter himself? 
+HOLMES: it certainly would simplify things, wouldn't it?
+WATSON: maildrops and canaries and wheelchairs... and what was all that about jonah? and what do you suppose they're doing up there? and where is up there?
+HOLMES: my guess would be scotland. inverness, to be more precise.
+WATSON: inverness?
+HOLMES: didn't you notice the paper at the bottom of their cage? the inverness courier.
+GABRIELLE: mr. holmes! this letter --
+HOLMES: what about it?
+GABRIELLE: it's addressed to you.
+
+HOLMES: nevertheless -- 
+HOLMES: my dear sherlock: i expect you and dr. watson to join me at the club immediately upon reciept of this note. according to my calculations, that should be at 11:40 a.m. your brother, mycroft. what time do you make it, watson?
+
+HOLMES: i'm rather curious myself as to what is going on in that machiavellian mind of his. 
+WATSON: i don't mean mycroft, i mean madame valladon.
+HOLMES: don't worry. she's perfectly safe with mrs. hudson.
+
+HOLMES: to see mr. mycroft holmes. 
+PORTER: right you are. he's expecting you in the upstairs study. now if you gentlemen will sign in -- surname, christian name, address, nature of business -- he holds out the pen to them, but they are gone. he
+PORTER: gentlemen...!
+
+MYCROFT: come in, come in, sherlock -- dr. watson... sit down. you're looking very fit, both of you. 
+WATSON: thank you.
+
+HOLMES: and how are you, mycroft? how's your gout? 
+MYCROFT: under control. except for the occasional twinge.
+MYCROFT: i have a treat for you -- a very old madeira -- 1814. there are only six bottles left in the world. i have two of them, and am negotiating for a third.
+WATSON: if you don't mind my saying so, anybody who's susceptible to gout shouldn't be --
+MYCROFT: the last doctor who warned me about that was crossing piccadilly, slipped on an orange peel, and was run over by a delivery van from the fortnum and mason. your very good health.
+HOLMES: why are you wasting this precious stuff on us?
+MYCROFT: well, i see you so rarely. how long has it been? not since the case of the greek interpreter. isn't it ridiculous? two brothers living in the same town...
+HOLMES: in the same town, perhaps -- but not the same world.
+
+WATSON: mmmm. superb. how old did you say it was? 
+MYCROFT: 1814. one year before waterloo.
+WATSON: one year before waterloo? think of that.
+MYCROFT: you do know where waterloo is, don't you, doctor?
+WATSON: belgium, isn't it?
+MYCROFT: quite. and speaking of belgium, it has come to my attention that you are interested in the whereabouts of a certain engineer.
+HOLMES: yes, i am.
+MYCROFT: well, i can save you a lot of trouble.
+HOLMES: i'd be grateful for any suggestion --
+MYCROFT: my suggestion is that you pursue it no further.
+HOLMES: any particular reason?
+MYCROFT: because it involves the national security. we are handling this matter ourselves.
+WATSON: we? who's we?
+
+HOLMES: the diogenes club, of course. 
+MYCROFT: i didn't say that.
+HOLMES: i have always suspected that there was some underground connection between this stodgy and seemingly calcified establishment and the foreign office in whitehall.
+MYCROFT: that's neither here nor there.
+HOLMES: it seems to me that the diogenes club is here, there and everywhere. when there are rumblings of revolt in the sudan, an expedition subsidized by your club conveniently shows up to study the source of the nile. when there is trouble along the indian frontier, some of your fellow members pop up in the himalayas, alledgedly looking for the abominable snowman.
+MYCROFT: what a fertile imagination my brother has. at the age of five, by carefully observing a neighbor's house, he deduced that babies were brought not by the stork, but by the mid-wife in her satchel.
+WATSON: as good an explanation as any.
+MYCROFT: yes, wiggins?
+
+YOUNG MAN: an immediate answer is requested, sir. 
+MYCROFT: tell them that the three boxes go to glennahurich, and the red runner goes to the castle.
+YOUNG MAN: the three boxes to glennahurich, the red runner to the castle. very good, sir.
+HOLMES: why don't you crumple it up and swallow it -- to make sure.
+MYCROFT: my dear sherlock, there are certain affairs that do not come within the province of the private detective. they have to be dealt with on an altogether different level.
+HOLMES: in other words, you want me to stay within my limits.
+MYCROFT: i do indeed.
+HOLMES: speaking of limits, what exactly is jonah limited?
+MYCROFT: sherlock, when i said drop this case, it was not merely a suggestion -- it was an order!
+HOLMES: by whose authority?
+
+MYCROFT: by the authority of her majesty's government. i hope i've made myself clear. 
+WATSON: perfectly.
+MYCROFT: now if you'll excuse me, gentlemen --
+WATSON: goodbye, sir.
+HOLMES: a pleasure, as always.
+MYCROFT: just a minute. you forgot your tool-kit. he tosses the cane to holmes, who catches it.
+
+WATSON: you will be gentle, won't you, when you tell her you're dropping the case? 
+HOLMES: watson, what does the word glennahurich suggest to you?
+WATSON: absolutely nothing.
+
+HOLMES: it's scottish. 
+WATSON: is it?
+HOLMES: and like all scottish names, it's really a word picture. glen means valley, na means of the, and hurich, if memory serves me, means yew tree.
+WATSON: you're just trying to impress me.
+HOLMES: so the three boxes go to the valley of the yew tree.
+WATSON: and i'll be in scotland before ye... you are dropping the case, aren't you, holmes?
+HOLMES: open the door.
+HOLMES: don't shoot, mrs. hudson -- you're liable to lose two excellent tenants.
+
+MRS. HUDSON: oh, at last. it's been a ghastly experience. 
+WATSON: why? what happened?
+MRS. HUDSON: did you ever try doing embroidery with a gun in your hand?
+HOLMES: you'll be relieved to know it was not loaded.
+WATSON: holmes, you didn't answer my question. are you planning to disobey mycroft's orders? he's not just your brother, you know. you'd be defying her majesty's government...
+GABRIELLE: any news? did you find out anything?
+HOLMES: let's just say i know what the next step will be.
+
+GABRIELLE: yes? 
+HOLMES: i want you to pack your things.
+GABRIELLE: where are we going?
+WATSON: holmes, let me caution you ---
+HOLMES: at 7:30 this evening, dr. watson and i are going to take you to victoria station, and put you on the boat-train.
+GABRIELLE: the boat-train?
+WATSON: well, that's better.
+GABRIELLE: you're sending me back to brussels? is that it?
+WATSON: madame valladon, you must understand...
+GABRIELLE: i came here to find my husband -- you were going to help me --
+WATSON: yes, my dear. but circumstances have changed --
+GABRIELLE: the great detective! well, maybe this case is too small for you --
+
+WATSON: on the contrary. it's being handled at a much higher level -- 
+GABRIELLE: well, i won't go back to brussels. maybe you're giving up, but i'm not. i'm going to go on looking for him. and nobody's going to stop me -- even if they try to kill me.
+HOLMES: are you quite finished? if you recall, what i said was that we're going to put you on the boat-train -- i didn't say you were going to stay on it.
+WATSON: she's not?
+HOLMES: at 7:30, mr. holmes and dr. watson will be seen waving goodbye to madame valladon at victoria station. at eight-twelve, mr. and mrs. ashdown accompanied by their valet john -- -- will appear at euston station, and board the highland express to inverness.
+WATSON: mr. and mrs.... ?
+GABRIELLE: thank you. i'm sorry for what i said.
+HOLMES: that's not necessary.
+GABRIELLE: i'll go and pack.
+
+WATSON: maybe i should do it, since i'm the valet. 
+WATSON: holmes, what exactly are you up to?
+HOLMES: as you like to put it in your chronicles, the game is afoot.
+WATSON: but what game? are you really that interested in the belgian engineer?
+WATSON: or the wife of the belgian engineer?
+GABRIELLE: you don't like me very much, do you?
+WATSON: nothing of the sort. quite the opposite... but there's more to this case than meets the eye --
+WATSON: looking for something?
+GABRIELLE: my other glove.
+WATSON: let me help you.
+
+WATSON: here it is. 
+GABRIELLE: thank you.
+
+HOLMES: all right. you can look now. 
+GABRIELLE: am i embarrassing you, mr. holmes?
+
+HOLMES: not at all. would it surprise you if i told you i once spent the night with 121 women? 
+GABRIELLE: oh?
+HOLMES: on a very interesting case -- in a harem in constantinople.
+
+WATSON: sorry, father -- i mean, friar -- or is it abbot? 
+WATSON: going to scotland, you gentlemen? so are we...
+WATSON: i'm a valet. my master and mistress and i are our way to inverness. ever been there? beautiful country.
+
+WATSON: oh, forgive me. you must be one of those orders that's taken the vow of silence. trappists, i believe you're called. 
+WATSON: i see you're reading the book of jonah. funny - we were just talking about johan this morning... never mind.
+
+GABRIELLE: women are never to be trusted entirely -- not the best of them. 
+HOLMES: what did you say?
+GABRIELLE: i didn't say it -- you did. according to dr. watson.
+
+HOLMES: oh. 
+GABRIELLE: he gave me some back issues of strand magazine.
+HOLMES: the good doctor is constantly putting words into my mouth.
+GABRIELLE: then you deny it?
+HOLMES: not at all. i am not a whole-hearted admirer of womankind.
+GABRIELLE: i'm not very fond of them myself.
+HOLMES: the most affectionate woman i ever knew was a murderess.
+GABRIELLE: oh?
+HOLMES: it was one of those passionate affairs -- at odd hours -- right in my laboratory. and all the time, behind my back, she was stealing cyanide to sprinkle on her husband's steak and kidney pie.
+GABRIELLE: you mustn't judge all women by --
+HOLMES: of course not. only the ones i was involved with. and i don't just mean professionally -- kleptomaniacs, nymphomaniacs, pyromaniacs. take my fiancee, for instance --
+GABRIELLE: your fiancee?
+
+HOLMES: she was the daughter of my violin teacher -- we were engaged to be married -- the invitations were out, i was being fitted for a tail-coat -- and twenty-four hours before the wedding, she died of influenza. 
+GABRIELLE: i'm sorry.
+HOLMES: it just proves my contention that women are unreliable and not to be trusted. good night, mrs. ashdown.
+GABRIELLE: good night, mr. ashdown.
+
+WATSON: let's see -- two, three, four -- 
+GABRIELLE: i'll take that.
+HOLMES: how do you get to glennahurich? how far is it?
+BAGGAGEMAN: glennahurich?
+WATSON: you know -- a valley -- with a yew tree... ?
+BAGGAGEMAN: it's about a mile out of town. why would you be wanting to go there?
+WATSON: well, if it's got a view, it might be a nice place for a picnic.
+BAGGAGEMAN: it's got a view, right enough -- but it's no place for a picnic.
+HOLMES: why not?
+BAGGAGEMAN: because it's a cemetary.
+
+WATSON: the three boxes. is that it, holmes? 
+HOLMES: i would think so.
+GABRIELLE: the two small ones -- they must be children's coffins.
+
+88.: in sure and certain hope of the 
+GABRIELLE: it's so sad.
+HOLMES: sad -- and rather odd. there are no flowers -- and no mourners.
+HOLMES: morning.
+GRAVE-DIGGER: morning.
+HOLMES: working you hard, dad?
+GRAVE-DIGGER: not really. this is healthy country. sometimes you sit around for weeks with nothing to do. then you get three in one day.
+HOLMES: what happened?
+GRAVE-DIGGER: an accident. aye. father and two sons, they say -- they were found floating in the loch.
+HOLMES: local people?
+GRAVE-DIGGER: no. nobody around here knows them. the story is that their boat capsized in a swell -- but i don't believe it.
+
+HOLMES: what do you believe? 
+GRAVE-DIGGER: you may think i'm an old fool or an old drunk -- but i've living around loch ness all my life...
+WATSON: are you trying to tell us it was the monster?
+GRAVE-DIGGER: right. maclarnin saw the kids' faces when they were pulled out of the water -- looked like old men -- must've died of fright.
+WATSON: incredible.
+GRAVE-DIGGER: is it? last easter sunday my wife and me, we were on our way to services, when suddenly... but what's the use?
+HOLMES: here you are, dad.
+GRAVE-DIGGER: thank you... you look like nice people. if you're wanting a holiday in scotland, go to loch lomond, go to holy loch -- but stay away from loch ness.
+WATSON: to think that people still believe in that nonsense. here we are, living in the nineteenth century --
+
+GABRIELLE: i'm ashamed to admit it -- but i was relieved when he mentioned a father and two boys. it could possibly have anything to do with emile. 
+HOLMES: it would appear not.
+WATSON: however, there still remains the clue of the castle and the red runner -- wherever it may be.
+WATSON: if they're unidentified graves, why are those boys bringing flowers?
+HOLMES: because it's their brothers who have just been buried.
+WATSON: their brothers?
+HOLMES: and they're not boys. they're as tall as they'll ever grow. hand me some pebbles, will you?
+WATSON: pebbles.
+
+GABRIELLE: they are -- how do you say it in english? -- nains. 
+WATSON: midgets.
+HOLMES: boys with the faces of old men...
+WATSON: i still don't see --
+HOLMES: would it help if i told you they were acrobats?
+WATSON: not at all.
+HOLMES: do you remember a tumbling act -- six brothers -- missing from the circus?
+WATSON: oh, yes -- that case you turned down -- i completely forgot.
+HOLMES: some of us are cursed with memories like flypaper. and stuck there is a staggering of miscellaneous date, mostly useless.
+
+GABRIELLE: mr. holmes, is those are not children, then -- ? 
+HOLMES: quite. the question now is -- who's in the third grave?
+
+WATSON: holmes! she's fainted. 
+HOLMES: hand me that lantern.
+WATSON: it is valladon, isn't it?
+HOLMES: obviously. what is not so obvious is why his wedding ring has turned green --
+
+MANAGER: you have a lovely view of the loch from here -- as soon as the morning mist rolls away. if you've a mind to do any sight-seeing, here's a guide to the local points of interest. 
+HOLMES: thank you.
+MANAGER: this way, please. i will show you to your room. watson picks up his suitcase, follows him.
+
+WATSON: i suppose you're putting me in the basement. 
+MANAGER: no, your room is in the attic.
+WATSON: good.
+MANAGER: it's the privy that's in the basement.
+HOLMES: may i have your wedding ring, please?
+
+HOLMES: just as i thought. there is a distinct difference in color between your ring and your husband's. which leads me to believe that the cause of death was not drowning... i wish you would stop that. stop it! 
+GABRIELLE: i'm sorry.
+HOLMES: i know it's not easy. but you must remember that we're that nice couple from london, on holiday in the highlands.
+GABRIELLE: i'll try.
+HOLMES: that's much better.
+GABRIELLE: thank you.
+HOLMES: now, if i may proceed without further interruptions --
+WATSON'S VOICE: mr. ashdown!
+
+WATSON: mr. ashdown! 
+WATSON: holmes! i saw it! i saw it from the attic! it's out there in the lake!
+HOLMES: you saw what?
+WATSON: the telescope. where's the telescope?
+HOLMES: what did you see?
+WATSON: the monster!
+HOLMES: the monster?
+
+WATSON: there it is! there it is! 
+WATSON: look for yourself.
+WATSON: see it? see it?
+
+HOLMES: i see nothing. 
+WATSON: nothing?
+WATSON: it's gone.
+HOLMES: gone? maybe it was never there.
+WATSON: i swear to you -- i saw it -- clear as anything --
+
+HOLMES: watson, as you so succinctly put it, we are living in the nineteenth century -- he steps back into the room. 
+WATSON: maybe that grave-digger was right -- the swell, and the boat overturning --
+HOLMES: monsieur valladon may have been found in the lake -- but he did not drown. he died of asphyxiation.
+GABRIELLE: asphyxiation.
+HOLMES: there is only one substance that can turn a copper ring green and bleach the color out of canaries -- chlorine gas.
+WATSON: that may be. but the fact remains that i saw something out there.
+HOLMES: a figment of your imagination. now let us be logical. the only concrete lead we have is the reference to the castle -- the question is, which castle?
+WATSON: you call yourself logical? you're the least logical man i know.
+HOLMES: am i?
+
+HOLMES: would you like some cranberry sauce, dear? 
+GABRIELLE: yes, dear.
+HOLMES: would you pass the cranberry sauce, please, john?
+WATSON: yes, dear.
+WATSON: some chaps i met on the train. we had a long conversation -- or rather, i had a long conversation -- because they're not allowed to talk -- trappists, you know. just study their bibles. you'll never guess what the one next to me was reading -- the book of jonah -- isn't that odd?
+HOLMES: quite.
+HOLMES: what is it, dear? what's the matter?
+
+WATSON: well, i don't think we have to bother with this castle. it's just a pile of rubble. 
+GABRIELLE: then why are they taking precautions?
+HOLMES: why, indeed? let's go.
+WATSON: go where?
+HOLMES: when rebuffed at the front door, one's only choice is to try the tradesmen's entrance.
+
+GUIDE: sorry. no visitors allowed. 
+HOLMES: are you the guide here?
+GUIDE: yes. the castle is closed to the public while work is going on.
+HOLMES: what are they doing?
+GUIDE: it's being restored by the society for the preservation of scottish monuments.
+HOLMES: too bad. i particularly wanted my wife to see urquhart castle. the tower is one of the most interesting examples of -- about 1400, wasn't it?
+GUIDE: that's right.
+HOLMES: let me see -- was it built under james the second or james the third?
+GUIDE: the thrid... if you come back next year, we'll be all done here, and i'll be glad to show you around.
+HOLMES: thank you.
+
+WATSON: pleasant sort, isn't he? 
+HOLMES: pleasant, but ignorant. he was off one hundred years and one james. it's actually 1500 and james the fourth.
+GABRIELLE: if he's an official guide, shouldn't he know... ?
+HOLMES: if he's an official guide.
+HOLMES: listen... do you hear anything, watson?
+WATSON: no. those birds are making too much of a racket.
+
+WATSON: sulphuric acid? 
+GABRIELLE: the more we find out the less sense it makes.
+HOLMES: to a graduate chemist it makes a great deal of sense. sulphuric acid, when exposed to salt-water, produces chlorine gas. would you mind clasping your hands, watson?
+WATSON: like this?
+HOLMES: a little lower... thank you.
+WATSON: holmes, i have a feeling we're redundant here.
+
+WATSON: we have now observed the castle from the front, from the back, from the side, from land, from water... what now? are you planning to spend the night out here? 
+HOLMES: if necessary.
+WATSON: you're going to catch your death of cold. wouldn't it be ironic if holmes' last case were a case of pneumonia? sorry.
+GABRIELLE: what's that?
+
+WATSON: holmes! 
+HOLMES: quick, watson. after it!
+WATSON: holmes, what are we doing? we should be going away from it.
+HOLMES: keep rowing,
+HOLMES: we've lost it.
+WATSON: at least you admit there's an it, not just a figment of my imagination.
+HOLMES: quiet.
+
+HOLMES: do you have your stethoscope with you? 
+WATSON: never without it.
+WATSON: what is it?
+HOLMES: i can hear something...
+HOLMES: it's getting closer -- closer --
+HOLMES: are you all right?
+GABRIELLE: i lost my parasol.
+
+HOLMES: where's watson? 
+HOLMES: watson?
+WATSON: i have come face to face with man-eating tigers -- i was once caught in a stampede of wild elephants -- india, you know -- but i wasn't half as frightened. this beast seems to have a personal grudge against us.
+GABRIELLE: i just hope it doesn't come back.
+HOLMES: i don't think it will. look!
+WATSON: what strange goings-on.
+HOLMES: not really. my guess is that the monster, after a hard day's work, has returned home for his supper.
+
+WATSON: yes, i know. but would you believe that you can't borrow a decent pair of trousers in this place? 
+WATSON: would you like to confide in us?
+WATSON: whenever he starts whistling, i know he's getting close to a solution.
+HOLMES: it's nothing new, actually. we've come across this situation before.
+WATSON: we have? where?
+HOLMES: at the ballet.
+WATSON: ballet?
+
+HOLMES: there's a lake -- and there's a castle -- and there's a swan that isn't really a swan -- or, in this case, a monster that isn't really a monster -- 
+WATSON: then what is it?
+HOLMES: what is it indeed that feeds on canary birds and sulphuric acid, and has an engine for a heart?
+GABRIELLE: an engine?
+HOLMES: the stethoscope is a very sensitive instrument, and water is an excellent conductor of sound. there is no doubt that what we are dealing with is a mechanical monster.
+WATSON: oh?
+HOLMES: not only is it equipped with an artificial heart, it also has artificial lungs. judging from the bubbles on the surface of the lake, it uses some form of air pump.
+GABRIELLE: you think my husband was involved in all this?
+HOLMES: yes, madame valladon. i'm sure of it.
+WATSON: but why would anybody build a mechanical monster? just to scare people?
+HOLMES: not very likely.
+
+GABRIELLE: why did they try to keep me from finding my husband? and why was he buried anonymously? 
+HOLMES: i think i have a pretty good notion of what they're up to -- the society for the preservation of scottish monuments -- better known as the diogenes club.
+WATSON: the diogenes club?
+HOLMES: come in.
+MANAGER: mr. ashdown, i have a bottle of champagne for you.
+HOLMES: a bottle of champagne? i didn't order it.
+MANAGER: no, indeed. you are to deliver it. these are my instructions.
+HOLMES: instructions from whom? deliver it where?
+MANAGER: i wouldn't know, sir. but there's a carriage waiting for you downstairs.
+HOLMES: are you sure you have the right mr.
+
+MANAGER: quite sure, mr. holmes. 
+HOLMES: well, watson, i would say the curtain is going up on the last act.
+WATSON: i don't like the sound of it.
+GABRIELLE: please be careful.
+WATSON: you'd better take this with you.
+
+HOLMES: who's minding the castle? 
+GUIDE: you'd better get on. it's late.
+HOLMES: where are we going? some sort of party?
+GUIDE: you won't be disappointed in the guest list.
+
+HOLMES: who's the host? 
+GUIDE: jonah.
+
+MYCROFT: mr. ashdown, i presume. 
+HOLMES: the red runner, i presume.
+
+114.: you shouldn't have gone to all this trouble just for me. 
+MYCROFT: it's not for you. mckeller. may i have the champagne, please?
+HOLMES: 1886 -- not a very good vintage, is it?
+MYCROFT: mediocre. but then again, it's not for drinking.
+MYCROFT: tie it up, will you?
+MYCROFT: in here.
+
+MYCROFT: despite my most emphatic warning, you persisted in meddling. it would have served you right if you'd all drowned. 
+HOLMES: sorry to be so unobliging. e. valladon... h'mm.
+MYCROFT: i imagine this belongs to the pretty lady, and this belongs to your valet...
+HOLMES: speaking about things floating in the lake --
+MYCROFT: how much do you know -- or think you know?
+HOLMES: i think you're testing some sort of underwater craft -- camouflauged to mislead the gullible. i think it's an experimental model, operated by a crew of midgets. i think it is powered by sulphuric acid batteries, and uses canaries to detect escaping gas...
+MYCROFT: not quite that unique. right now, four countries are trying to develop what we call a submersible. but none of them could solve the critical problem -- how to stay submerged long enough to make it effective.
+HOLMES: what does the good book say? "and jonah lived in the belly of that fish for three days and three nights."
+
+MYCROFT: that was our goal. and thanks to valladon's air-pump, we got a jump on the rest of them. it's a highly complex system of filtration -- so we had a series of trials -- 
+HOLMES: and at least one error.
+MYCROFT: during a test run in moray firth, pressure caused a leak in the hull. sea water mixed with the acid in the batteries to produce chlorine gas. before they could reach the surface, valladon and the crew were dead.
+HOLMES: so you had them buried in unmarked graves, to preserve your secret.
+MYCROFT: it was essential to keep the information from your client.
+HOLMES: you went to all those lengths to prevent madame valladon from fiding her husband?
+MYCROFT: your client isn't madame valladon -- it's the imperial german government. they were after the belgian engineer -- or rather, his invention. they knew he was employed by us, but they couldn't find out where -- so they enlisted the best brain in england to help them. you, my dear brother, have been working for the wilhelmstrasse.
+HOLMES: and madame valladon -- what part did she play in all this?
+MYCROFT: madame valladon is dead.
+HOLMES: dead?
+
+117.: mycroft crosses to the trunk, opens the lid. 
+MYCROFT: the germans disposed of her three weeks ago, in brussels. this is gabrielle valladon.
+MYCROFT: the woman who was brought to your house in the middle of the night -- apparently fished out of the thames -- and apparently suffering from amnesia -- is, in fact, ilse von hoffmanstal, one of their most skillful agents. am i going too fast for one of the "best brains in england?"
+HOLMES: go on.
+MYCROFT: they planted her on you quite neatly, i must admit, so that you could lead them to their objective, the air pump. very much like using a hog to find truffles. and now perhaps you'd care to join me. i am expecting a certain royal personage from balmoral.
+
+MYCROFT: your majesty. 
+MYCROFT: i trust you had a pleasant journey, ma'am.
+QUEEN VICTORIA: it was long and it was tedious. and it had better be worth our while, mr.
+MYCROFT: i can assure you, ma'am, it will be.
+QUEEN VICTORIA: now what is this curious ship we are supposed to christen?
+MYCROFT: we call it a submersible, ma'am. it travels under water.
+QUEEN VICTORIA: under water? what a fantastic idea.
+
+MYCROFT: ma'am, may present some of the scientists who were responsible for this achievement. j.w. ferguson, naval architect -- 
+FIRST SCIENTIST: your majesty.
+MYCROFT: professor simpson, our leading expert on hydraulics --
+SECOND SCIENTIST: your majesty.
+MYCROFT: w.w. prescott, co-inventor of the revolving periscope --
+THIRD SCIENTIST: your majesty.
+MYCROFT: and this is sir arthur grisby, our authority on maritime ballistics --
+QUEEN VICTORIA: we don't claim to understand any of this. but england is proud of you, gentlemen. to think that man can now observe fish in their native habitat --
+MYCROFT: well, not exactly, ma'am --
+QUEEN VICTORIA: -- and underwater plants and coral reefs -- young man -- what was your contribution to this project?
+HOLMES: i'm afraid it was rather negligible, your majesty.
+
+MYCROFT: this is my brother, sherlock, ma'am. 
+QUEEN VICTORIA: ah, yes. sherlock holmes. we have been following your exploits with great interest.
+HOLMES: thank you, ma'am.
+QUEEN VICTORIA: are you engaged in one of your fascinating cases at the moment?
+HOLMES: in a manner of speaking, ma'am.
+QUEEN VICTORIA: when can we expect to read dr. watson's account of the case?
+HOLMES: i hope never, ma'am. it has not been one of my more successful endeavors.
+
+QUEEN VICTORIA: ah, the ceremonies are about to begin. now where is this underwater ship of yours? 
+MYCROFT: in the dungeon, ma'am.
+QUEEN VICTORIA: the dungeon? what a peculiar place to keep it. well, let us get on with it, gentlemen.
+
+MYCROFT: there she, ma'am. her majesty's ship jonah. 
+QUEEN VICTORIA: and what, may we ask, is the purpose of that hideous gargoyle?
+MYCROFT: it's merely a decoy, ma'am.
+
+QUEEN VICTORIA: oh. to frighten away the sharks, we imagine. 
+MYCROFT: something of the sort... the crew will now demonstrate the workings of the submersible.
+SAILOR: stand to.
+QUEEN VICTORIA: aren't they rather small for sailors?
+MYCROFT: they are. but because of the size of the craft, the navy made an exception.
+QUEEN VICTORIA: they should make it a rule. it's quite fatiguing to pin on all those medals while standing on our toes.
+MYCROFT: this is the main engine, which propels it under water at the rate of two knots -- the stabilizing mechanism -- the multi- stage compressor -- the ballast tank trimmer -- the air-pump which filters and recirculates the air --
+
+QUEEN VICTORIA: how charming. 
+MYCROFT: the air pump, ma'am?
+QUEEN VICTORIA: the canaries. must make the crew feel at home.
+MYCROFT: yes, ma'am. these are the levers for firing the torpedoes, which are accurate up to as much as 120 feet -- the periscope for scanning the surface of the water --
+QUEEN VICTORIA: but where is the glass bottom?
+MYCROFT: the what, ma'am?
+QUEEN VICTORIA: the glass bottom.
+HOLMES: you know -- to see the fist --
+QUEEN VICTORIA: -- and the plants and the corals --
+MYCROFT: that's not quite the idea, ma'am. h.m.s. jonah is being commissioned as a warship.
+QUEEN VICTORIA: a warship? stop that noise. stop it!
+MYCROFT: ma'am, if i may explain --
+QUEEN VICTORIA: you had better.
+
+MYCROFT: the admiralty regards this craft as the ultimate weapon in naval warfare. it can seek out enemy ships and destroy them -- with these torpedoes -- while remaining completely invisible. 
+QUEEN VICTORIA: you mean in can fire at other vessels while under water?
+MYCROFT: yes, ma'am.
+QUEEN VICTORIA: without any warning?
+MYCROFT: that is correct, ma'am.
+QUEEN VICTORIA: and without showing her colors?
+MYCROFT: indeed, ma'am.
+QUEEN VICTORIA: mr. holmes, we are not amused. it is unsportsmanlike, it is un-english, and it is in very poor taste. we will have none of it!
+MYCROFT: i beg your pardon, ma'am?
+QUEEN VICTORIA: sometimes we despair of the state of the world. what will scientists think of next?
+MYCROFT: that's precisely it, ma'am. at this very moment the germans under count von zeppelin, are experimenting with a dirigible --
+
+QUEEN VICTORIA: a dirigible? and what, pray, is that? 
+MYCROFT: a rigid balloon, which could fly over london and drop a bomb on buckingham palace. it is being developed at the express orders of kaiser wilhelm the second.
+QUEEN VICTORIA: nonsense. we refuse to believe that our grandson willie would do a thing like that.
+MYCROFT: we have conclusive proof, ma'am. our agent in friedrichshafen, a man named ibbetson, actually saw the dirigible, and made a drawing of it. unfortunately, he was apprehended before he could cross the border.
+QUEEN VICTORIA: nevertheless, we don't want any part of this beastly invention. get rid of it!
+MYCROFT: may i point out, ma'am --
+QUEEN VICTORIA: and don't concern yourself about that dirigible dropping bombs on us. we shall write a very sharp note to the kaiser. now we wish to return to balmoral.
+HOLMES: well, mycroft, it seems we have both been undone by a woman. what a shame.
+
+MYCROFT: not necessarily. if the germans want that submersible so badly, why don't we give it to them? 
+HOLMES: give it to them?
+MYCROFT: invite them aboard for the final journey -- seven hundred feet -- straight down.
+HOLMES: and how are you going to arrange that?
+MYCROFT: i'm rather counting on you to do it. since you are on such intimate terms with fraulein von hoffmanstal.
+MYCROFT: shall we say goodbye to her majesty?
+
+HOLMES: sorry about that. but as long as you're up -- what is the german word for castle? 
+GABRIELLE: i think so.
+HOLMES: and how would you say under the castle?
+GABRIELLE: i don't know. my german isn't that good.
+HOLMES: your trappist friends are out there waiting to hear from you -- it's a chilly morning -- we don't want to keep them standing around too long, do we, fraulein hoffmanstal? come now. it's too late to play cat and mouse.
+GABRIELLE: unter dem schloss.
+
+HOLMES: well, it's up to the good monks now. you can consider your part of the mission accomplished, fraulein hoffmanstal. 
+GABRIELLE: you're all wrong about me. my name isn't hoffmanstal.
+HOLMES: it isn't?
+GABRIELLE: it's von hoffmanstal.
+HOLMES: i stand corrected.
+GABRIELLE: i suppose once they're in the castle... it must amuse you, mr. holmes, trappists walking into a trap.
+HOLMES: it's more amusing than that. once in the castle, they will encounter surprisingly little resistance -- it will take but a small bottle of chloroform to overcome the guards.
+GABRIELLE: you mean you're going to let them have the air-pump?
+HOLMES: better than that. we're going to let them have the submersible. they will find it with its engines running, all set to go. i assume they're all expert sailors? and since there is a german battleship cruising off the coast of scotland, i expect they'll try to sail it out of the lock and rendezvous at sea.
+GABRIELLE: did you say try to?
+
+HOLMES: i would suggest you get your things together. mycroft will be here to take you into custody. 
+GABRIELLE: i never had you fooled for a moment, did i? you knew right from the beginning -- when the cabbie brought me to baker street.
+HOLMES: let me see -- not quite that soon.
+GABRIELLE: it's so funny. i asked for this assignment, you know. i was scheduled to go to japan, but i couldn't resist the challenge of coming up against the best. i'm sorry i didn't give you a closer game.
+HOLMES: close enough.
+GABRIELLE: you're just being kind. i failed miserably.
+HOLMES: we all have occasional failures. fortunately, dr. watson never writes about mine.
+
+HOLMES: it was out there. now it's gone. 
+WATSON: gone?
+
+WATSON: a bottle of champagne?... and a bible?... 
+HOLMES: that's all that's left of h.m.s. jonah.
+HOLMES: it would seem that somebody carelessly loosened the bolts of the submersible. what a fitting end for trappists -- now they are resting in eternal silence at the bottom of the lake.
+MYCROFT: fraulein von hoffmanstal?
+GABRIELLE: yes, mr. holmes. i'm all ready.
+
+MYCROFT: if there's one thing i like about the prussians, it's their punctuality. 
+GABRIELLE: if there's one thing i dislike about the british, it's their climate. i understand your jails are quite damp -- and your heating facilities totally inadequate.
+MYCROFT: they are. but you're not going to jail.
+GABRIELLE: germany?
+MYCROFT: you will be conducted to the swiss-german border, and be exchanged for one of our agents -- a man named ibbetson.
+GABRIELLE: thank you.
+MYCROFT: don't thank me. thank my brother. it was his idea.
+MYCROFT: frankly, i think we are making a very poor deal. you much better than most operatives working for british intelligence. don't you agree, sherlock?
+HOLMES: and better than some consulting detectives.
+
+MYCROFT: shall we? 
+GABRIELLE: i'll take that. gentlemen.
+WATSON: all right, holmes -- you don't have to explain anything to me, if you don't want to.
+HOLMES: i appreciate that, watson.
+WATSON: after all, i'm only your official biographer --
+HOLMES: anyway, i don't think she'd care to have this story spread all over strand magazine.
+WATSON: the public has a right to know these things. if she's a german spy, why should we concern ourselves about her feelings?
+
+WATSON: if i promised not to write a word about it, would you enlighten me? as your friend -- as your valet -- 
+HOLMES: quiet. i'm trying to read a personal message.
+WATSON: a message?
+
+WATSON: what is she saying? 
+HOLMES: auf wiedersehn.
+WATSON: auf weider---? the nerve!
+
+HOLMES: h'mmm. a letter from the diogenes club. 
+WATSON: maybe mycroft is putting you up for membership.
+HOLMES: if only to have the distinct pleasure of blackballing his brother.
+WATSON: aren't you going to finish your breakfast?
+
+WATSON: holmes -- i'm terribly sorry about this. 
+HOLMES: where is it, watson?
+HOLMES: you're getting better.
+
+LESTRADE: good morning, watson. just happened to be in the neighborhood, and i thought -- 
+WATSON: what is it this time, inspector lestrade?
+LESTRADE: we've had three rather nasty murders in whitechapel. all ladies of easy virtue. you may read something about it -- the newspapers are referring to the killer as jack the ripper.
+WATSON: yes, i think i have.
+LESTRADE: some of us at scotland yard were wondering if perhaps mr. holmes would be willing to --
+WATSON: i'm sorry, lestrade. but at the moment, holmes is working on another problem.
+LESTRADE: oh... well, i just thought it was the kind of case that might interest him. i dare say we can solve it without his help.
+
+WATSON: oh, i'm sure you will. 
+WATSON: good day, lestrade.
 

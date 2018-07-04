@@ -1,924 +1,924 @@
-speaker1: this is weir. 
-speaker2: dr. weir, admiral hollis would like to see you as soon as possible.
-
-speaker1: you wanted to see me, admiral? 
-speaker2: i apologize for the short notice, bill, but we've had something come up that requires your immediate attention. lyle?
-
-speaker1: at oh-three-hundred this morning, tdrss picked up an automated navigation beacon broadcasting at two minute intervals in neptune orbit. 
-speaker2: incredible... these are the same coordinates before the ship disappeared... this, this happened? this isn't some kind of hoax?
-speaker3: i wouldn't bring you here on a hoax. houston confirms the telemetry and i.d. codes.
-speaker2: it's the event horizon. she's come back.
-speaker3: that ship was lost in deep space, seven years ago. if the titanic sailed into new york harbor, i'd find it more plausible. houston wants aerospace to send out a search and rescue team, investigate the source of the transmission. if it really is the event horizon, they'll attempt a salvage. we need you to prepare a detailed briefing on the ship's systems for the salvage crew...
-speaker2: a written briefing can't possibly anticipate the variables on a mission like this. i have to go with them.
-speaker1: dr. weir, you have no experience with salvage procedures.
-speaker2: i designed the ship's propulsion system. i am the only person capable of evaluating the performance of the gravity drive. you can't send a search and rescue team out there alone and expect them to succeed. that would be like... like sending an auto- mechanic to work on the shuttle.
-speaker1: i can understand your desire to redeem your reputation, dr. weir, but it doesn't factor into this.
-speaker2: this is not about my reputation! this is not about me at all! the event horizon was created for one reason: to go faster than light. imagine mankind exploring new solar systems, colonizing new worlds. seven years ago, we didn't just lose the ship and the crew. we lost the dream. i have to go.
-speaker3: it's not that simple. lyle, play the recording for dr. weir.
-speaker1: navigation control tried to hail the vessel. this was the only response.
-speaker1: since the initial transmission, there's been no further contact. just the beacon, every two minutes.
-speaker2: the crew? could they still be alive?
-speaker1: the ship had life support systems for eighteen months. they're been gone seven years.
-speaker2: someone sent that message. admiral, you have to put me on that ship.
-speaker3: it's against my better judgement, but i'll run this by the man downstairs. you'll know my decision by the end of the day.
-speaker2: thank you.
-speaker3: don't thank me, bill. i'm not doing you any favors.
-speaker1: you're not seriously considering sending him?
-speaker3: you don't just dismiss bill weir. the man held oppenheimer's chair at princeton. if the event horizon had worked, he would have gone down in history as the greatest mind in physics since einstein.
-speaker1: the official inquiry blamed weir's design for the ship's loss.
-speaker3: that doesn't mean a thing. they were looking for a scapegoat and weir fit the bill. but he's not responsible for what happened to the ship.
-speaker1: does he know that?
-speaker3: what's on your mind?
-speaker1: he doesn't belong on this mission. responsible or not, he blames himself. he's too close to it. and then there's his wife.
-speaker3: it's been two years since she died. he's over it.
-speaker1: some things you don't get over.
-speaker3: i want our best people on this. where's miller?
-speaker1: the lewis and clark just returned from patrol in the asteroid belt, she's docked in bay four.
-
-speaker1: i can't believe this, i haven't gotten more than my hand in six weeks and now this why not mars, cap, mars has women... 
-speaker2: smith's right. neptune? there's nothing out there. if something happens, we'll be on our own.
-speaker3: i don't like it either, but you know the rules: we get the call, we go. is the course locked in?
-speaker1: locked and cocked.
-speaker2: we're past the outer marker, we can engage the ion drive whenever you're ready.
-speaker3: justin?
-speaker4: everything green on my boards, skipper.
-speaker3: start the countdown.
-speaker2: ion drive will engage in... t-minus ten minutes.
-speaker3: let's go.
-
-speaker1: kill it. 
-speaker2: time to play spam in the can.
-speaker1: don't start with me, cooper. cooper falls in as the crew continues into...
-
-speaker1: captain miller, i just want to say... 
-speaker2: the clock is running, dr. weir. if you'll follow the rest of the crew, they'll show you to the gravity tanks.
-speaker2: what's the hold up?
-speaker3: just loading the last of the co2 scrubbers. good for four months.
-speaker2: i put in for a replacement for you but no one...
-speaker3: no, no, its alright. i talked to my ex, he'll keep denny over christmas and i'll get him this summer. goddam it, skipper... i haven't seen him in two months.
-speaker2: i am sorry. but now we have to go to work.
-
-speaker1: is that an offer? 
-speaker2: it is not.
-speaker3: captain miller, i appreciate this opportunity...
-speaker4: doctor weir, my crew is not going on your mission because we want to. we were pulled off a well deserved leave, to be sent out to the middle of nowhere, and no one's even told us why.
-speaker3: i've been authorized to brief you and the crew once we reach neptune space.
-speaker4: until then, do what you're told and stay out of my way.
-speaker5: first time in a grav couch?
-speaker3: yes.
-speaker5: don't worry about it. he's hard, but he's fair. you're lucky to be shipping out with him. he's one of the few captains in the service with experience in the outer reach.
-speaker3: he's been past mars?
-speaker5: he served on the goliath.
-speaker3: wasn't that ship destroyed?
-speaker5: they attempted to rescue a supply shuttle bound for titan. the shuttle's oh-two tanks ruptured during the rescue, flooded both ships with pure oxygen. there was a spark and both ships were incinerated. the skipper and three others just made it to a lifeboat. captain miller was able...
-speaker6: he doesn't like to talk about it.
-speaker6: you didn't eat anything in the past twelve hours?
-speaker6: when the ion drive fires, we'll be taking about 30 gees. without a tank, the force would liquefy your skeleton.
-speaker3: i've seen the effect on mice.
-speaker4: five minutes.
-speaker6: put this on.
-speaker5: you'll be fine. you'll wake up and we'll be there. watch your fingers.
-speaker6: heart-rate decreasing... body temp dropping to 80... 70... 60... 50... 40 degrees fahrenheit. he's in stasis.
-
-speaker1: billy... 
-speaker1: i'm so cold...
-
-speaker1: claire? 
-speaker1: claire? i'm sorry. claire?
-speaker2: i'm so cold...
-
-speaker1: i'm alright now. i'm alright... 
-speaker2: move slowly. you've been in stasis for fifty-six days. you're going to experience a little disorientation.
-speaker3: damn, dr. weir, don't scare us like that. coffee?
-speaker1: what?
-speaker3: coffee.
-speaker1: no, thank you.
-speaker3: hey, starck. you wanna dry my back?
-speaker4: maybe when you finish puberty.
-speaker5: starck, why aren't you on the bridge?
-speaker4: i just finished drying...
-speaker5: then what are you doing here? come on, people, let's go! and cooper... put some pants on.
-
-speaker1: 30 hours to neptune orbit. 
-speaker2: all boards are green, everything's five by five.
-speaker3: that's good to know. justin, you wanna stow that?
-speaker3: okay, listen up. as you all know by now, we have an addition to our crew. dr. weir, this is: starck, navigation; smith, pilot, justin, ship's engineer --
-speaker4: you can call him baby-bear, he loves that...
-speaker3: this is cooper, what the do you do on this ship, anyway?
-speaker5: ballast.
-speaker4: i am your best friend. i am a lifesaver and a heartbreaker...
-speaker3: he's a rescue technician. peters, medical technician. dj...
-speaker6: trauma.
-speaker3: and this is mission specialist dr. william weir. we all know where we're going. dr. weir is going to tell us why.
-speaker7: what i am about to tell you is considered code-black by the nsa.
-speaker5: that means top-secret, cooper.
-speaker4: i heard it.
-speaker7: the usac intercepted a radio transmission from a decaying orbit around neptune. the source has been identified as the event horizon. stunned silence. then everyone talks at once:
-speaker2: that's impossible! she was lost with all hands, what, seven...
-speaker5: seven years ago, the reactor blew...
-speaker8: how can we salvage...?
-speaker1: let the dead rest, man...
-speaker4: ...cancel our leave and send us out on some mission...!
-speaker3: everybody shut up! let the man speak.
-speaker7: what was made public about the event horizon, that she was a deep space research vessel, that its reactor went critical, that the ship blew up... none of that is true. the event horizon was the culmination of a secret government project to create a spacecraft capable of faster- than-light flight.
-speaker1: you can't do that.
-speaker2: the law of relativity prohibits faster- than-light travel...
-speaker7: relativity, yes. we can't break the law of relativity, but we can go around it. the ship doesn't really move faster than the speed of light; it creates a dimensional gateway that allows the ship to instantaneously "jump" from one point in the universe to another, light years away.
-speaker2: how?
-speaker7: well, in layman's terms, you use a rotating magnetic field to focus a narrow beam of gravitons; these in turn fold space-time consistent with weyl tensor dynamics until the space- time curvature becomes infinitely large and you have a singularity...
-speaker4: laymen's terms.
-speaker1: hey...
-speaker7: say this paper represents space-time, and you want to get from "point a" here... ...to "point b," here. now: what's the shortest distance between two points?
-speaker2: a straight line.
-speaker7: wrong. the shortest distance between two points...
-speaker7: ...is zero. that's what the singularity does: it folds space, so that point a and point b coexist in the same space and time. after the ship passes through this gateway, space returns to normal. it's called a gravity drive.
-speaker5: how do you know all this?
-speaker7: i built it.
-speaker4: i can see why they sent you along.
-speaker5: so if the ship didn't blow up, what happened?
-speaker7: it was the ship's maiden voyage, to test the drive. the event horizon moved to safe distance using ion thrusters. they received the go-ahead to activate the gravity drive. and the ship vanished from all our scopes. no radar contact, no enhanced optical, no radio contact of any kind. they disappeared without a trace. until now.
-speaker3: where has it been for the last seven years?
-speaker7: that's what we're here to find out.
-
-speaker1: we haven't been able to confirm any live contact, but tdrss did receive a single transmission from the event horizon. 
-speaker2: what the is that?
-speaker3: it doesn't sound like anything human.
-speaker1: houston has passed the recording through several filters and isolated what appears to be a human voice.
-speaker2: jesus...
-speaker4: what is that?
-speaker5: it sounds like latin.
-speaker6: latin? who the speaks latin?
-speaker7: no one. it's a dead language.
-speaker5: mostly dead.
-speaker4: what does it say?
-speaker1: nsa encryption specialists have deciphered some of the message...
-speaker1: there: "...liberatis me..." they haven't been able to translate the rest, it's too distorted.
-speaker5: "liberatis me." "save me."
-speaker6: from what?
-speaker4: you're convinced the crew could still be alive? after seven years?
-speaker1: the event horizon only had life support for eighteen months. it seems impossible, but in light of the transmission... i have to think that someone has managed to endure until now.
-speaker6: skipper, do we get hazard pay for this?
-speaker4: you heard the tape, smith. we're looking for survivors.
-
-speaker1: crossing the horizon. optimum approach angle is fourteen degrees. 
-speaker2: come around to three-three-four...
-speaker3: heading three-three-four...
-speaker2: ...make your approach vector negative fourteen degrees...
-speaker3: one-four degrees...
-
-speaker1: we have a lock on the event horizon's navigation beacon. it's in the upper ionosphere, we're in for some chop. 
-speaker2: bring us in tight. starck, get on the horn, see if anyone's listening...
-speaker3: this is u.s. aerospace command vessel lewis and clark, hailing event horizon, event horizon, do you read...? this is the lewis and clark, hailing...
-speaker1: matching speed... now. range to target ten thousand meters and closing... skipper, i got a bad feeling about this...
-speaker2: we're all on edge, smith. we're a long way out...
-speaker1: that's not it. that ship was built to go faster than light... that's just wrong, it goes against everything we know...
-speaker2: what are you trying to say? "if had intended man to fly, he would have given us wings?"
-speaker1: something like that, yeah.
-speaker2: i guess we're about to find out. keep us slow and steady.
-speaker1: yes, sir.
-speaker2: dr. weir...!
-speaker2: i think you want to see this. weir climbs up the ladder to the flight deck.
-speaker4: where is she?
-speaker1: dead ahead, 5000 meters.
-speaker1: we've got some weather.
-speaker2: i noticed. starck, anybody home?
-speaker3: if they are, they're screening their calls.
-speaker1: range 3000 meters and closing.
-speaker4: i can't see anything...
-speaker1: 1500 meters. we're getting too close...
-speaker2: where is it?
-speaker3: the scope is lit, it's right in front of us...
-speaker1: 1000 meters...
-
-speaker1: proximity warning! 900, 800 meters, 700... we're right on top of it, we're gonna hit! 
-speaker2: starck...
-speaker3: it should be right there...
-speaker3: my
-
-speaker1: that is one big ugly fat fucker... 
-speaker2: she's not ugly.
-speaker1: range 500 meters and holding. turbulence is dropping off...
-speaker3: picking up magnetic interference.
-speaker4: put it through tacs. smith, you up for a flyby?
-speaker1: love to.
-
-speaker1: look at the size of that thing. 
-speaker2: foredecks. crew quarters, bridge, medical and science labs, hydroponics, what have you. that central section connects the forward decks to the engineering containment area. can we move in closer?
-speaker3: doc, any closer and we're gonna need a rubber...
-speaker4: do it.
-
-speaker1: that's the engineering containment. and there's the main airlock. we can dock there. 
-speaker2: smith, use the arm and lock us onto that antennae cluster.
-speaker1: be careful. it's not a load bearing structure...
-
-speaker1: it is now. we're locked in. 
-speaker2: starck, give me a read.
-speaker3: the reactor's still hot. we've got several small radiation sources, leaks probably. nothing serious.
-speaker4: do they have pressure?
-speaker3: affirmative. the hull's intact... but there's no gravity and the thermal units are off line. i'm showing deep cold. the crew couldn't survive unless they were in stasis.
-speaker2: find 'em, starck.
-speaker3: something's wrong with the bio-scan.
-speaker2: radiation interference?
-speaker3: there's not enough radiation to throw off the scan. i'm picking up trace life forms, but i can't get a lock on the location.
-speaker4: could it be the crew? if they were in suspended animation, wouldn't that effect the scan?
-speaker3: if they were in stasis, i'd get a location, but these readings, they're all over the ship. it doesn't make any sense.
-speaker2: okay. we do it the hard way. deck by deck, room by room. starck, deploy the umbilicus. i believe you're up for a walk, mr. justin. go get your bonnet on.
-speaker5: yes, sir! weir starts to follow justin from the bridge.
-speaker2: dr. weir, i need you on the bridge.
-speaker4: captain, i didn't come out here to sit on your bridge, i need to be on that ship...
-speaker2: once the ship is secured, we'll bring you on board --
-speaker4: that is not acceptable --
-speaker2: -- once we've secured the ship, that's the way it is! i need you to guide us from the comm station. this is where i need you. help us to do our job.
-speaker4: very well.
-
-speaker1: ...come on, skipper, i already put my shoes on... 
-speaker2: you've had plenty eva, coop, it's justin's turn. stay on station. if anything happens...
-speaker1: i'll be all over it.
-speaker1: you still need the rope? i thought you were one a those spacemen with ice in ya veins.
-speaker3: i'd rather be on the rope and not need it than need it and not have it. now step aside, old man.
-
-speaker1: we've got pressure. 
-speaker2: clear and open on my mark. three... two... one... mark.
-
-speaker1: its huge. 
-speaker2: ice crystals everywhere. this place is a deep freeze.
-speaker3: you're in the central corridor. it connects the personnel areas to engineering.
-speaker2: peters and i will search the forward decks. justin, take engineering. no hot-dogging, not on this one, alright?
-speaker4: not a chance, sir.
-
-speaker1: dr. weir, what's this? 
-speaker2: here's another one. they're all over the place.
-speaker3: they're explosive charges.
-speaker1: i can see that, what're they for?
-
-speaker1: in an emergency, the charges detonate in series, destroying the central section and separating the personnel areas from the rest of the ship. that way, if the gravity drive malfunctions, the crew could use the foredecks as a lifeboat. 
-speaker2: that means they didn't abandon ship.
-speaker3: so where are they? starck, any luck with the bio-scan?
-
-speaker1: there's no one in the corridor but us. 
-speaker2: not according to the computer.
-speaker3: peters is right, no one's here.
-speaker1: i don't know, this place is really dark, i can't see a thing...
-speaker3: easy, peters, we're okay, we're okay. let's finish the sweep.
-speaker4: captain miller, the foredecks are just ahead.
-speaker1: i can see the hatch.
-speaker3: starck, you still showing those readings?
-speaker2: that's an affirmative.
-speaker3: keep your eyes open.
-
-speaker1: we found the gravity couches. 
-speaker2: any survivors?
-speaker3: negative.
-speaker2: no one?
-
-speaker1: you've reached the first containment seal. the engineering decks are on the other side. 
-speaker2: we still have pressure. the radiation count's steady at 7 millirads an hour.
-
-speaker1: counts off silently, passing 150 meters... 
-speaker2: dr. weir, what's this the door to?
-speaker3: you're at the bridge, ms. peters. you still haven't seen any crew?
-
-speaker1: yes, we can see some kind of mist. what is that? 
-speaker2: blood. looks like arterial spray.
-speaker1: can you see a body?
-
-speaker1: there's no one here. 
-speaker2: the blood came from somewhere, peters...
-speaker1: there's no one here, skipper.
-speaker1: come on...
-
-speaker1: okay. i'm on the bridge. 
-speaker2: what you got, peters?
-speaker1: everything's been shut down. conserving power, i guess. green light on the hull, it's intact.
-
-speaker1: the science workstation has power, i'll see if i can find the crew from here. 
-speaker2: ms. peters, turn back and to your left, please.
-speaker3: what is it?
-speaker2: ship's log.
-speaker4: i see it.
-
-speaker1: i've reached another containment door. this thing's huge... 
-speaker2: that's the second containment seal. beyond that, engineering.
-speaker1: i'm going in.
-
-speaker1: i found one. 
-speaker2: alive?
-speaker1: frozen.
-speaker3: what happened to his eyes?
-speaker4: explosive decompression.
-speaker3: decompression wouldn't do that.
-speaker3: you okay?
-speaker5: hey, baby bear, mama bear got a corpsicle for ya...
-speaker5: baby bear, you copy?
-
-speaker1: ...do you copy? 
-speaker2: uh, yeah coop, i'm still here.
-speaker1: do not do that! where the are you?
-speaker2: i'm in the second containment area. it's pitch black in here. there must have been a coolant leak. man, this is everywhere. i can't see a thing.
-speaker2: the reactor's still hot. coolant level is on reserve, but still in the green.
-
-speaker1: i got it... 
-speaker1: holy
-speaker2: justin?
-speaker1: i think i found something...
-
-speaker1: what the is that? 
-speaker2: that's the core: the gravity drive. the heart of the ship.
-speaker3: crystallized.
-
-speaker1: justin, finish your sweep. 
-speaker2: almost done, i just gotta check one thing...
-speaker3: justin, hold on a sec, you're breaking up...
-
-speaker1: justin, come in... 
-speaker2: what is it?
-speaker1: i don't know. the life readings just went off the scale.
-speaker3: something's wrong...
-
-speaker1: what the hell... 
-speaker1: oh shit...!
-
-speaker1: miller, do you read me, peters -- 
-speaker2: get them back --
-speaker1: i'm trying, goddammit --
-
-speaker1: what's happening? 
-speaker2: i don't know, the screens are dead...!
-speaker3: passes 350 meters and accelerating...
-speaker1: 350 meters... 400 meters...
-speaker4: he's in trouble. go!
-speaker1: i'm gone!
-speaker5: boarding party, sound off... peters, do you read me... . peters...
-
-speaker1: ...peters, do you read me... 
-speaker2: don't leave me...
-speaker1: justin? justin, sound off... justin...!
-
-speaker1: oh my 
-speaker1: justin, do you read me? justin... .
-speaker1: baby bear, don't do this. don't do this...
-
-speaker1: here comes another one! hold on! 
-speaker1: we lost the starboard baffle! the hull's been breached!
-speaker2: the safety circuit's failed!
-speaker3: we're losing atmosphere...
-speaker1: there are pressure suits in the airlock. go!
-speaker4: can anybody hear me...
-speaker5: skipper...
-speaker4: peters...
-speaker5: yeah. i'm -- i'm okay.
-speaker6: we have a man down...
-speaker4: coop, where are you...
-speaker6: the containment, second containment...
-speaker4: hold on, coop...
-speaker2: captain miller...
-speaker4: smith, where the have you been?!
-speaker2: we have a situation here...
-
-speaker1: do we have enough time for a weld? 
-speaker2: we don't have time to fart.
-
-speaker1: no one's dying on my watch, smith! what about the reserve tanks? 
-speaker2: they're gone.
-
-speaker1: the event horizon. 
-speaker2: what?
-speaker1: it still has air and reserve power, we can activate gravity and life support.
-speaker3: what if the air has gone bad? we can't wear these suits forever.
-speaker2: i don't think this is a good idea, we don't even know what happened on that ship...
-speaker1: it beats dying, mister smith.
-
-speaker1: dr. weir's right. get on board the event horizon. i'll meet you at the airlock. 
-speaker2: but...
-speaker1: you heard me, smith. peters, are you with me?
-speaker3: i'm ahead of you. bringing the thermal units on line...
-speaker3: hold tight and prep for gees.
-
-speaker1: everybody okay? 
-speaker2: we're all here.
-speaker1: okay. let's find out how much time we just bought.
-speaker3: we haven't tested the air yet. it could be contaminated...
-speaker1: no time. we need whatever's left in our suits to repair the clark. like it or not, this is the only oxygen for three billion kilometers.
-speaker2: it tastes bad.
-speaker1: but you can breathe it.
-
-speaker1: the antennae array's completely fried, we've got no radio, no laser, no highgain... no one's going to be coming to help us. 
-speaker2: how much oh-two do we have?
-speaker1: oxygen is not the problem.
-speaker2: carbon dioxide?
-speaker1: it's building up with every breath we take. and the co2 filters on the event horizon are shot.
-speaker2: we can take the filters from the clark...
-speaker1: i thought of that, with the filters from the clark, we've got enough breathable air for twenty hours. after that, we'd better be on our way home.
-speaker2: what about the life readings you picked up?
-speaker1: the event horizon sensors show the same thing: "bio-readings of indeterminate origin." right before that wave hit the clark, there was some kind of surge, right off the scale, but now it's back to its previous levels.
-speaker2: what's causing the readings?
-speaker1: i don't know, but whatever it is, it's not the crew.
-speaker2: so where is the rest of the crew? we've been over every inch of this ship and all we've found is blood. dr. weir? any suggestions?
-speaker2: what happened here?
-
-speaker1: captain miller, you copy? 
-speaker2: i'm here, smith, how's the clark?
-speaker1: i've found a six inch fracture in the outer hull. we should be able to repair it and re-pressurize, it's gonna take some time.
-speaker2: we don't have time, smith. in twenty hours we run out of air.
-speaker1: understood.
-
-speaker1: how is he? 
-speaker2: his vitals are stable, but he's unresponsive to stimuli. he might wake up in fifteen minutes. he might not wake up at all.
-speaker3: what happened to him?
-speaker1: dj, take samples from these stains, compare them to medical records, i want to know whose blood this is.
-
-speaker1: okay, people, there's been a change in the mission. in less than eighteen hours, we will run out of breathable air. our primary objective is now survival. that means we focus on repairing the lewis and clark and salvaging whatever will buy us more time. our secondary objective is finding out what happened to this ship and its crew. two months from now, i fully intend to be standing in front of the good admiral giving my report, and i'd like to have more than my in my hands. 
-speaker1: peters, i want you to go through the ship's log, see if we can't find some answers.
-speaker2: i can use the station in medical, keep an eye on justin...
-speaker1: fine. starck, i want you to repeat the bio-scan...
-speaker3: what's the point? i'll just get the same thing...
-speaker1: not acceptable. i want to know what's causing those readings. if the crew is dead, i want the bodies, i want the crew found.
-speaker3: i can reconfigure the scan for c-12, amylase proteins.
-speaker1: do it. dr. weir...
-speaker4: yes.
-speaker1: one of my men is down. i want to know what happened to him.
-speaker5: i told you. he was inside the core...
-speaker5: it was like... nothing was there... and then justin appeared and the core... became metal...
-speaker4: no, he didn't.
-speaker5: you weren't there. i saw it.
-speaker4: saw what, mr. cooper? what did you really see, because what you're describing is not physically possible...
-speaker1: cooper! enough!
-speaker1: dr. weir, justin may die. whatever happened to him could happen to all of us.
-speaker4: i don't know what happened to justin.
-speaker5: i'm telling you, i saw it...
-speaker4: what you saw could have been an optical effect caused by gravitational distortion.
-speaker5: i know what i saw and it wasn't a "optical effect!"
-speaker1: hold on, what's this "gravitational distortion?"
-speaker4: it's possible that a burst of gravity waves escaped from the core, distorting space-time. they could be what hit the lewis and clark.
-speaker1: what could cause them? what's in the core?
-speaker4: it's complicated...
-speaker1: how much time do you need? we have seventeen hours and forty-two minutes. now: what is in the core?
-speaker4: a black hole.
-
-speaker1: that's how the gravity drive works, you see: it focuses the black hole's immense gravitational power to create the gateway. that's how the event horizon travels faster than light. 
-speaker2: i can't believe we built this.
-speaker3: it's insane.
-speaker1: "insane?" the finest astronauts fought to be posted to this ship. it would take the lewis and clark a thousand years to reach our closest star. the event horizon could be there in a day...
-speaker3: if it worked.
-speaker1: if it worked, yes.
-
-speaker1: i want this room sealed. the second containment is off limits. 
-speaker2: there's no danger. the black hole is contained behind three magnetic fields, it's under control.
-speaker1: your black hole near ripped my ship apart. it may have killed one of my men. no one goes near that thing.
-speaker3: until its darkness fills the screen...
-
-speaker1: justin...? 
-speaker2: she slowly reaches out. lifts the cover.
-speaker3: mommy...
-speaker4: peters?
-speaker4: what's wrong?
-speaker1: nothing. it's nothing.
-
-speaker1: you been out there a long time. trying to break my record? 
-speaker2: i'd rather spend the next twelve hours outside than another five minutes in this can. this ship is bad. it watches you.
-speaker1: what?
-speaker2: you heard me. this ship, it's crazy: trying to go faster'n light, that's like the tower of babel.
-speaker1: smith, you're going biblical on me.
-speaker2: you know what happened to the tower of babel, don't you? it fell down.
-speaker1: you're sucking too much nitrogen in your mix.
-
-speaker1: why dr. weir, i think you're in love. 
-speaker2: hmmm. claire used to tell me i loved the event horizon more than i loved her. i told her that wasn't true, i just knew the event horizon better, that's all.
-speaker1: claire is your wife?
-speaker2: yes.
-speaker1: it must be hard, being so far away from her.
-speaker2: yes. i miss her. she died. two years now.
-speaker1: i'm sorry.
-speaker2: these things happen. wait a minute, that's not right...
-speaker3: you have something, dr. weir?
-speaker2: the date.
-speaker3: what about it?
-speaker2: the event horizon's computer think's it's 2034.
-speaker3: it's 2041...
-speaker2: exactly. the ship's internal clock is off by seven years.
-speaker1: maybe a power interruption crashed the system...
-speaker2: no, there's no evidence of a surge or spike of any kind. it's as if time just... stopped for seven years.
-speaker3: explanation?
-speaker2: intense gravitational fields effect the passage of time, it's possible... black holes make sense on paper, it's all math, you see, but as to what really happened... the event horizon has passed beyond our plane of reality, and like lazarus, returned from the dead.
-speaker4: captain miller, dr. weir? i found the final log entry.
-
-speaker1: the speaker is the mission commander... 
-speaker2: john kilpack.
-
-speaker1: what the is that? dr. weir? 
-speaker2: i don't know.
-speaker3: i can run the image through a series of filters, try to clean it up.
-speaker1: do it.
-speaker3: what's happening...?
-speaker4: a power drain --
-speaker1: we barely have enough power for life support as it is, if we can't stop the drain, we're not gonna make it.
-speaker2: the core...!
-speaker1: wait!
-speaker1: the rest of you, stay here, i don't want anyone else going near that thing.
-
-speaker1: no radiation. what's causing the drain? 
-speaker1: we don't get the power back, our air's gonna go bad.
-speaker2: check the core for radiation. carbon dioxide may be the least of our worries.
-
-speaker1: what the hell... 
-speaker2: as the bio-scan goes wild.
-speaker1: skipper, the bio-scan just went off the scale...
-
-speaker1: there you are. 
-speaker1: um. captain miller? i, uh, i seem to have a problem with my light.
-speaker1: captain miller?
-speaker2: billy.
-speaker3: billy. help me. i'm so cold.
-
-speaker1: we just lost all power in here. dr. weir...? 
-speaker2: don't leave me...
-
-speaker1: claire...? 
-speaker2: help me. i'm so cold. the flashlight flickers...
-speaker2: so cold.
-
-speaker1: carbon dioxide poisoning produces hallucinations, impaired judgement... 
-speaker2: goddammit, dj, it was not a hallucination! i saw a man, he was on fire. and then he disappeared.
-speaker3: maybe one of the original crew?
-speaker2: no. it was someone else.
-speaker3: who?
-speaker2: dr. weir, you were right there, you must have heard something, seen something...
-speaker4: no. i saw nothing.
-speaker5: i did.
-speaker5: about an hour ago. in medical. i saw my son. he was lying on one of the examination tables and his legs were...
-speaker4: isn't it possible that you were traumatized by finding the body on the bridge?
-speaker5: i've seen bodies before. this is different.
-speaker2: peters is right. its like something reaching into your mind. seeing your thoughts and making them real. smith, did you or cooper experience anything unusual?
-speaker6: i didn't see anything and i don't have to see anything. this ship is
-speaker4: thank you for that scientific analysis, mister smith.
-speaker6: hey! you don't need to be a scientist figure it out...
-speaker2: smith...
-speaker6: ...you break all the laws of physics, you think there won't be a price? you already killed the first crew...
-speaker2: that's enough!
-
-speaker1: i'm sorry, i... i don't know why i did that. 
-speaker2: carbon dioxide.
-speaker3: he's lying, you know something...!
-speaker4: that's it, that's enough for one day, smith! i need you back on the clark, i need you calm, i need you using your head, you make a mistake out there, none of are getting home, you understand?
-speaker3: sir.
-speaker4: get outside, go back to work. i'll join you shortly.
-speaker4: we're a long way from home and we're in a bad place. let's not make it worse. if anyone has any constructive suggestions, now is the time.
-speaker2: i think i can stabilize the fields around the singularity, that should prevent another power drain.
-speaker4: do it.
-speaker1: to conserve our oxygen, we should severely restrict our activity. anyone who can should get some sleep.
-speaker4: i don't need sleep, dj. i need answers.
-
-speaker1: miller... 
-speaker2: what is it, starck?
-speaker1: ...i ran the bio-scan with the dna/rna filter. the results were bio-readings of indeterminate origin...
-speaker2: "...bio-readings of indeterminate origin," don't you have anything useful to tell me?
-speaker1: i've got a theory.
-speaker2: go ahead.
-speaker1: there was a another surge in the bio- readings right before you... you saw what you saw. we picked up a similar readings right before the clarke was damaged. what if there were a connection between the two? the gravity waves, the hallucination, all part of an defensive reaction, like an immune system...
-speaker2: i don't need to hear this.
-speaker1: you've got to listen...
-speaker2: to what? what are you saying? this ship is alive?
-speaker1: i didn't say that, i said the bio- readings correspond to what happened to you, the ship is reacting to us...
-speaker2: we're hanging on by our fingernails and you're giving me stories...
-speaker1: it's not bullshit, it's the only conclusion the data supports...
-speaker2: starck, do you know how crazy that sounds? it's impossible.
-speaker1: i know that.
-speaker2: if you knew it was impossible, then why'd you waste my time?
-speaker1: i thought you wanted an answer. and that's the only one i have.
-speaker2: what i want is to survive the next ten hours.
-speaker1: nine hours and twenty-two minutes.
-speaker2: i'm going outside to work on the clark. and starck... don't tell anyone what you just told me. we've got enough to worry about.
-
-speaker1: justin...? 
-speaker1: justin!
-
-speaker1: what's wrong? 
-speaker2: you didn't hear it? you must have heard it!
-speaker3: heard what?
-speaker2: oh... nothing...
-speaker1: sit down...
-
-speaker1: stop it! stop it! 
-speaker2: what is it?
-speaker3: what are you doing?
-speaker4: it wants me. i have to go.
-speaker3: no...!
-speaker3: in our current environment, dr. weir, self-control is an asset.
-speaker4: i'm alright. please.
-speaker3: what is it?
-speaker4: the forward airlock.
-speaker3: miller, smith, cooper, any of you in the airlock?
-speaker5: that's a negative, starck.
-speaker1: justin.
-
-speaker1: we'll have to re-route through the port conduit to the apu. 
-speaker2: what about the accumulator...?
-speaker3: miller, come in...
-speaker4: what's going on in there, starck?
-speaker3: justin's in the airlock.
-
-speaker1: what? 
-speaker2: he's awake, he's in the airlock, he's not wearing a suit.
-
-speaker1: stay here! don't stop working! 
-speaker2: but justin...
-speaker1: i'll get him.
-
-speaker1: he's engaged the override. 
-speaker2: can you shut it down?
-speaker1: i'll try. dj, you better get your bag of tricks.
-speaker2: justin! open the door!
-
-speaker1: i'm on my way, starck. 
-speaker2: you better hurry. he's engaged the override, we can't open the inner door.
-
-speaker1: yes. yes, justin, we heard it. 
-speaker2: keep him talking.
-speaker1: do you know what it was?
-speaker3: it gets inside you. it shows you things... horrible things...
-
-speaker1: what, justin, what shows you? 
-speaker2: it won't stop, it goes on and on and on...
-speaker1: what does?
-speaker2: the dark inside me.
-
-speaker1: ...it's inside and it eats and eats until there's nothing left. 
-speaker2: "the dark inside..."? i don't understand.
-speaker1: from the other place...
-
-speaker1: justin, look at me. look at me. open this door. 
-speaker2: i don't think she can talk him down. we need a sedative.
-speaker3: if he opens the outer door he'll turn inside-out.
-speaker2: almost got it.
-speaker4: if you could see the things i've seen, you wouldn't try to stop me. you'd come with me.
-
-speaker1: stand-by for decompression. thirty seconds... 
-speaker2: hey, mama-bear... what are doing...?
-speaker2: oh my oh my
-
-speaker1: starck! 
-speaker2: i can't! the inner door can't open once the outer door has been triggered, it would decompress the entire ship!
-speaker3: you gotta open, you gotta stop it, please...
-speaker1: we have to do something, oh
-speaker2: skipper, justin just activated the door. it's on a thirty second delay...
-
-speaker1: patch me through to him. 
-speaker2: skipper, you gotta help me...
-speaker3: twenty seconds.
-speaker2: ...tell them to open the door...
-speaker1: they can't do that justin, now listen carefully...
-
-speaker1: ...i don't want to die...! 
-speaker2: you're not going to die! not today! i want you to do exactly as i say and i'm gonna get you out of there, alright?
-
-speaker1: but i can't... i gotta get out of here... skipper, please... 
-speaker2: justin. i won't let you die.
-speaker1: okay... okay...
-speaker2: tuck yourself into a crouched position, shut your eyes as tight as you can!
-speaker3: five seconds.
-
-speaker1: oh justin... 
-speaker1: i've got a pulse, he's alive...
-speaker2: pressure?
-speaker1: 90 over 50 and falling... .
-speaker2: he's crashing...
-speaker2: he can breathe. that's good. let's get him to medical, go, go!
-
-speaker1: intubate, pure oxygen feed, get the nitrogen out of his blood... 
-speaker2: his peritoneum has ruptured...
-speaker1: one thing at a time, let's keep him breathing. start the drip, 15cc's fibrinogen, christ, he's bleeding out...
-
-speaker1: he'll live... if we ever make it back. 
-speaker2: we'll make it.
-speaker3: co2 levels will reach toxic levels in four hours.
-speaker2: peters. we need to know what happened to the crew. before it happens to us.
-speaker4: i'll get back to the log. but on the bridge, i won't go back, back in there...
-speaker2: thanks.
-speaker3: justin said something about, "the dark inside me..." what did he mean?
-speaker5: it means nothing.
-speaker2: is that your "expert opinion?" the only answer we've had out of you is "i don't know."
-speaker5: justin just tried to kill himself. the man is clearly insane.
-speaker1: how would you explain your own behavior?
-speaker5: what?
-speaker3: on the bridge. you said "it" wanted you.
-
-speaker1: i said that? 
-speaker2: yes. you did.
-speaker1: i don't remember saying that. maybe i'm insane, too.
-
-speaker1: i want to know what caused that noise. i want to know why one of my crew tried to throw himself out of the airlock. 
-speaker2: thermal changes in the hull could have caused the metal to expand and contract very suddenly, causing reverberations --
-speaker1: that's and you know it! you built this ship and all i've heard from you is
-speaker2: what do you want me to say?
-speaker1: you said this ship creates a gateway...
-speaker2: yes...
-speaker1: to what? where did this ship go? where did you send it?
-speaker2: i don't know...
-speaker1: where has it been for the past seven years?
-speaker2: i don't know...
-speaker1: the "other place," what is that...?
-
-speaker1: any change? 
-speaker2: no. no change. i've analyzed justin's blood samples. there's no evidence of excessive levels of carbon dioxide. or anything else out of ordinary.
-speaker1: of course not. justin just climbed into the airlock because he felt like it. just one of those things. i swore i'd never lose another man. i came close today. real close.
-speaker2: "another man?" who?
-speaker1: it was on the goliath. there was this bosun, corrick, a young guy, a lot like justin. edmund corrick, from decatur, georgia. he got caught when the pressure doors sealed, one closed on his arm. severed it at the wrist. the pain of that must have been... he passed out and...
-speaker1: i, i tried to go back for him, to save him, but i couldn't get to him in time. the fire... have you ever seen fire in zero-gravity? it's like a liquid, it slides over everything. it was like a wave breaking over him, a wave of fire. and then he was gone. i never told anyone until now. but this ship knew, dj. it knows about the goliath, it knows about corrick. it knows our secrets. it knows what we're afraid of. and now you're going to tell me it's carbon dioxide.
-speaker2: no.
-speaker1: what is it?
-speaker2: i've been listening to the transmission. and i think houston made a mistake in the translation.
-speaker1: go on.
-speaker2: they thought it said, "liberatis me," "save me," but it's not "me." it's "tutemet:" "save yourself."
-speaker1: it's not a distress call. it's a warning.
-speaker2: it gets worse.
-speaker2: it's very hard to make out, but listen to this final part.
-speaker2: do you hear it? right there.
-speaker1: hear what?
-speaker2: it sounds like "ex infera:" "ex," from; "infera," the ablative case of "inferi." "hell."
-speaker1: "save yourself. from hell." what are you saying, are you saying that this ship is possessed?
-speaker2: no. i don't believe in that sort of thing. but if dr. weir is right, this ship has passed beyond the boundaries of our universe, of reality. who knows where this ship has been... what it's seen... and what it's brought back with it.
-
-speaker1: captain miller, we're ready to repressurize the clark. 
-speaker2: on my way.
-
-speaker1: alright, cooper. 
-speaker2: cross your fingers.
-
-speaker1: it's holding... she's holding...! 
-speaker2: we're still venting trace gasses, gimme twenty minutes to plug the hole.
-speaker3: you got it, coop.
-speaker3: back in business.
-
-speaker1: you got any coffee? 
-speaker2: it's cold.
-speaker1: i don't care.
-speaker1: starck...
-speaker1: sweet miller... miller!
-
-speaker1: we're leaving. 
-speaker2: you can't, your orders are specific...
-speaker1: "...to rescue the crew and salvage the ship." the crew is dead, dr. weir. this ship killed them. and now it's killing us.
-speaker2: you're insane. you've lost your mind.
-speaker1: maybe you're right. but it's still my command, and i have leeway to abort when i feel there is an unacceptable threat to my crew. and i think there is. starck, download all the files from the event horizon's computers. coop, smith, finish moving the co2 scrubbers back onto the clark.
-speaker2: don't... don't do this...
-speaker1: it's done.
-
-speaker1: what's going on, sweethearts? 
-speaker2: co2 scrubbers for the clark. miller pulled the plug on the mission.
-speaker1: about goddam time.
-speaker3: what about my ship?
-speaker4: we will take the lewis and clark to a safe distance and then launch tac missiles at the event horizon until i am satisfied that she has been destroyed. this ship.
-speaker3: you... you can't do that!
-speaker4: watch me.
-speaker3: you can't kill her, i won't let you! i lost her once, i will not lose her again...!
-speaker5: miller, come in ...
-speaker4: starck, what the is going on?
-speaker5: we just lost main power again.
-
-speaker1: goddammit! starck, get those files and vacate. i want off this ship. he releases the intercom. 
-speaker2: you can't leave. she won't let you.
-speaker1: just get your gear back onto the lewis and clark, doctor, or you'll find yourself looking for a ride home.
-speaker2: i am home. regular lighting snaps on...
-speaker1: weir? weir!
-speaker1: all hands. dr. weir is missing. i want him found and restrained.
-
-speaker1: let's go, let's go, this place freaks me out... 
-speaker2: last one.
-
-speaker1: mommy... 
-speaker2: ducks her head and enters the access duct.
-speaker2: denny...?
-
-speaker1: thank you. 
-speaker2: captain, we got a problem.
-speaker1: now what?
-
-speaker1: she was right behind me, i turn around, she's gone. she could be anywhere. 
-speaker2: alright. prep the clark for launch. i'll find her.
-
-speaker1: denny? denny, come to mommy... 
-speaker1: hold on, denny, mommy's coming...
-
-speaker1: denny? 
-speaker1: denny...?
-speaker2: mommy...
-speaker1: you can walk... denny, you can walk... oh, my baby...
-speaker2: wanna show you, mommy, wanna show you something... he reaches his arms out to her... peters steps forward, reaching for her son...
-
-speaker1: oh no. peters...? 
-speaker1: why did you do that? you didn't have to do that...
-speaker2: billy.
-
-speaker1: solid as a rock. hey, smith... 
-speaker2: roger that.
-speaker2: dr. weir! hey, get your back on board! dr. weir! no response.
-speaker2: skipper, come in...
-
-speaker1: skipper... 
-speaker2: what is it, smith?
-speaker2: smith, get out of there...
-speaker1: come again, skipper?
-speaker2: one of the explosives is missing from the corridor. i think weir may have put it on the clark.
-speaker2: get off the clark now and wait for me at the airlock.
-speaker1: no, no, we just got her back together...
-speaker2: get out of there now!
-
-speaker1: i gotcha... i gotcha... 
-speaker1: i gotcha.
-
-speaker1: i told you... she won't let you leave... 
-speaker2: son of a
-
-speaker1: oh my 
-speaker2: please...
-speaker1: oh, dj, what do i... how do
-
-speaker1: please... kill... 
-speaker2: oh
-
-speaker1: weir. 
-speaker1: hold on... get you outta these...
-speaker1: your eyes...
-speaker2: i don't need them anymore. where we're going, we won't need eyes to see.
-speaker1: what are you talking about?
-speaker2: do you know what a singularity is, miller? does your mind truly fathom what a black hole is? it is nothing. absolute and eternal nothing. and if is everything, then i have seen the devil. it's a liberating experience.
-speaker3: gravity drive primed. do you wish to engage?
-
-speaker1: what are you doing? 
-speaker2: gravity drive engaged. activation in t-minus ten minutes.
-speaker1: if you miss me, you'll blow out the hull. you'll die too.
-speaker3: what makes you think i'll miss?
-
-speaker1: don't leave me! 
-speaker2: give me your hand! your hand!
-
-speaker1: weir can't be alive. 
-speaker2: whatever was on that bridge wasn't weir.
-speaker2: stay behind me.
-speaker1: cooper! starck rushes to him, takes his helmet off.
-speaker3: let me breathe, let me breathe...
-speaker1: you're okay now, it's over...
-speaker2: weir activated the drive. he's sending us to the other place.
-speaker1: we've got to shut it down, we've got to...
-speaker3: how? the bridge is gone.
-speaker1: there must be a way! what about engineering?
-speaker3: can you shut it down?
-speaker1: i don't know the process, dr. weir was the expert...
-speaker3: i don't want to go where the last crew went. i'd rather be dead.
-
-speaker1: blow it up? 
-speaker2: we blow the corridor. use the foredecks as a lifeboat, separate it from the rest of the ship. we stay put...
-speaker3: ...and the gravity drive goes where no man has gone before.
-
-speaker1: you prep the gravity couches. i'm going to manually arm those explosives. 
-speaker2: will it work?
-speaker1: it worked for weir. prep the tanks.
-speaker3: i'll do it --
-speaker1: no. i'll be right back.
-speaker1: close it behind me. just in case.
-speaker3: don't be long.
-
-speaker1: i'm gonna activate the emergency beacon. 
-speaker2: hurry.
-
-speaker1: starck? 
-speaker1: what...?
-speaker2: run! she shoves him away...
-
-speaker1: ...repeat, we're armed... 
-speaker2: miller, he's back, he was in the tank...
-
-speaker1: who? who? 
-speaker2: weir.
-speaker1: he's dead...
-
-speaker1: you're dead, i saw you die. 
-speaker2: weir is dead.
-speaker1: then who the are you?
-speaker2: your fear. do you remember the goliath, miller?
-
-speaker1: do you remember me? 
-speaker2: corrick...
-speaker1: you left me behind.
-speaker2: that's not true...
-speaker1: i begged you. i begged you to save me and you did nothing. you stood there and watched me burn...
-
-speaker1: don't leave me! 
-speaker2: you're not edmund corrick.
-speaker2: what are you?
-speaker3: you know.
-speaker2: you want me to believe you're the devil, well, i don't, that's
-speaker3: i'm not the devil.
-speaker2: then what, what are you? tell me...
-speaker3: better if i just show you.
-
-speaker1: you can't have them! 
-speaker2: i'm not the devil. i'm much, much older. i watched the beginning and i will see the end. i am the dark behind the stars. i am the dark inside you all.
-speaker1: ...not the devil...
-speaker2: there is no devil. there is no there is only... nothing.
-speaker1: you're lying...!
-speaker2: i'm not asking you to believe me. you'll see for yourself... and so will your crew. you're all coming with me.
-speaker1: starck... cooper...
-speaker2: they are mine. and so are you...
-speaker1: you can't have them. go to hell.
+WEIR: this is weir. 
+LYLE: dr. weir, admiral hollis would like to see you as soon as possible.
+
+WEIR: you wanted to see me, admiral? 
+HOLLIS: i apologize for the short notice, bill, but we've had something come up that requires your immediate attention. lyle?
+
+LYLE: at oh-three-hundred this morning, tdrss picked up an automated navigation beacon broadcasting at two minute intervals in neptune orbit. 
+WEIR: incredible... these are the same coordinates before the ship disappeared... this, this happened? this isn't some kind of hoax?
+HOLLIS: i wouldn't bring you here on a hoax. houston confirms the telemetry and i.d. codes.
+WEIR: it's the event horizon. she's come back.
+HOLLIS: that ship was lost in deep space, seven years ago. if the titanic sailed into new york harbor, i'd find it more plausible. houston wants aerospace to send out a search and rescue team, investigate the source of the transmission. if it really is the event horizon, they'll attempt a salvage. we need you to prepare a detailed briefing on the ship's systems for the salvage crew...
+WEIR: a written briefing can't possibly anticipate the variables on a mission like this. i have to go with them.
+LYLE: dr. weir, you have no experience with salvage procedures.
+WEIR: i designed the ship's propulsion system. i am the only person capable of evaluating the performance of the gravity drive. you can't send a search and rescue team out there alone and expect them to succeed. that would be like... like sending an auto- mechanic to work on the shuttle.
+LYLE: i can understand your desire to redeem your reputation, dr. weir, but it doesn't factor into this.
+WEIR: this is not about my reputation! this is not about me at all! the event horizon was created for one reason: to go faster than light. imagine mankind exploring new solar systems, colonizing new worlds. seven years ago, we didn't just lose the ship and the crew. we lost the dream. i have to go.
+HOLLIS: it's not that simple. lyle, play the recording for dr. weir.
+LYLE: navigation control tried to hail the vessel. this was the only response.
+LYLE: since the initial transmission, there's been no further contact. just the beacon, every two minutes.
+WEIR: the crew? could they still be alive?
+LYLE: the ship had life support systems for eighteen months. they're been gone seven years.
+WEIR: someone sent that message. admiral, you have to put me on that ship.
+HOLLIS: it's against my better judgement, but i'll run this by the man downstairs. you'll know my decision by the end of the day.
+WEIR: thank you.
+HOLLIS: don't thank me, bill. i'm not doing you any favors.
+LYLE: you're not seriously considering sending him?
+HOLLIS: you don't just dismiss bill weir. the man held oppenheimer's chair at princeton. if the event horizon had worked, he would have gone down in history as the greatest mind in physics since einstein.
+LYLE: the official inquiry blamed weir's design for the ship's loss.
+HOLLIS: that doesn't mean a thing. they were looking for a scapegoat and weir fit the bill. but he's not responsible for what happened to the ship.
+LYLE: does he know that?
+HOLLIS: what's on your mind?
+LYLE: he doesn't belong on this mission. responsible or not, he blames himself. he's too close to it. and then there's his wife.
+HOLLIS: it's been two years since she died. he's over it.
+LYLE: some things you don't get over.
+HOLLIS: i want our best people on this. where's miller?
+LYLE: the lewis and clark just returned from patrol in the asteroid belt, she's docked in bay four.
+
+SMITH: i can't believe this, i haven't gotten more than my hand in six weeks and now this why not mars, cap, mars has women... 
+STARCK: smith's right. neptune? there's nothing out there. if something happens, we'll be on our own.
+MILLER: i don't like it either, but you know the rules: we get the call, we go. is the course locked in?
+SMITH: locked and cocked.
+STARCK: we're past the outer marker, we can engage the ion drive whenever you're ready.
+MILLER: justin?
+JUSTIN: everything green on my boards, skipper.
+MILLER: start the countdown.
+STARCK: ion drive will engage in... t-minus ten minutes.
+MILLER: let's go.
+
+MILLER: kill it. 
+COOPER: time to play spam in the can.
+MILLER: don't start with me, cooper. cooper falls in as the crew continues into...
+
+WEIR: captain miller, i just want to say... 
+MILLER: the clock is running, dr. weir. if you'll follow the rest of the crew, they'll show you to the gravity tanks.
+MILLER: what's the hold up?
+PETERS: just loading the last of the co2 scrubbers. good for four months.
+MILLER: i put in for a replacement for you but no one...
+PETERS: no, no, its alright. i talked to my ex, he'll keep denny over christmas and i'll get him this summer. goddam it, skipper... i haven't seen him in two months.
+MILLER: i am sorry. but now we have to go to work.
+
+COOPER: is that an offer? 
+STARCK: it is not.
+WEIR: captain miller, i appreciate this opportunity...
+MILLER: doctor weir, my crew is not going on your mission because we want to. we were pulled off a well deserved leave, to be sent out to the middle of nowhere, and no one's even told us why.
+WEIR: i've been authorized to brief you and the crew once we reach neptune space.
+MILLER: until then, do what you're told and stay out of my way.
+PETERS: first time in a grav couch?
+WEIR: yes.
+PETERS: don't worry about it. he's hard, but he's fair. you're lucky to be shipping out with him. he's one of the few captains in the service with experience in the outer reach.
+WEIR: he's been past mars?
+PETERS: he served on the goliath.
+WEIR: wasn't that ship destroyed?
+PETERS: they attempted to rescue a supply shuttle bound for titan. the shuttle's oh-two tanks ruptured during the rescue, flooded both ships with pure oxygen. there was a spark and both ships were incinerated. the skipper and three others just made it to a lifeboat. captain miller was able...
+DJ: he doesn't like to talk about it.
+DJ: you didn't eat anything in the past twelve hours?
+DJ: when the ion drive fires, we'll be taking about 30 gees. without a tank, the force would liquefy your skeleton.
+WEIR: i've seen the effect on mice.
+MILLER: five minutes.
+DJ: put this on.
+PETERS: you'll be fine. you'll wake up and we'll be there. watch your fingers.
+DJ: heart-rate decreasing... body temp dropping to 80... 70... 60... 50... 40 degrees fahrenheit. he's in stasis.
+
+VOICE: billy... 
+VOICE: i'm so cold...
+
+WEIR: claire? 
+WEIR: claire? i'm sorry. claire?
+CLAIRE: i'm so cold...
+
+WEIR: i'm alright now. i'm alright... 
+DJ: move slowly. you've been in stasis for fifty-six days. you're going to experience a little disorientation.
+COOPER: damn, dr. weir, don't scare us like that. coffee?
+WEIR: what?
+COOPER: coffee.
+WEIR: no, thank you.
+COOPER: hey, starck. you wanna dry my back?
+STARCK: maybe when you finish puberty.
+MILLER: starck, why aren't you on the bridge?
+STARCK: i just finished drying...
+MILLER: then what are you doing here? come on, people, let's go! and cooper... put some pants on.
+
+SMITH: 30 hours to neptune orbit. 
+STARCK: all boards are green, everything's five by five.
+MILLER: that's good to know. justin, you wanna stow that?
+MILLER: okay, listen up. as you all know by now, we have an addition to our crew. dr. weir, this is: starck, navigation; smith, pilot, justin, ship's engineer --
+COOPER: you can call him baby-bear, he loves that...
+MILLER: this is cooper, what the do you do on this ship, anyway?
+JUSTIN: ballast.
+COOPER: i am your best friend. i am a lifesaver and a heartbreaker...
+MILLER: he's a rescue technician. peters, medical technician. dj...
+DJ: trauma.
+MILLER: and this is mission specialist dr. william weir. we all know where we're going. dr. weir is going to tell us why.
+WEIR: what i am about to tell you is considered code-black by the nsa.
+JUSTIN: that means top-secret, cooper.
+COOPER: i heard it.
+WEIR: the usac intercepted a radio transmission from a decaying orbit around neptune. the source has been identified as the event horizon. stunned silence. then everyone talks at once:
+STARCK: that's impossible! she was lost with all hands, what, seven...
+JUSTIN: seven years ago, the reactor blew...
+PETERS: how can we salvage...?
+SMITH: let the dead rest, man...
+COOPER: ...cancel our leave and send us out on some mission...!
+MILLER: everybody shut up! let the man speak.
+WEIR: what was made public about the event horizon, that she was a deep space research vessel, that its reactor went critical, that the ship blew up... none of that is true. the event horizon was the culmination of a secret government project to create a spacecraft capable of faster- than-light flight.
+SMITH: you can't do that.
+STARCK: the law of relativity prohibits faster- than-light travel...
+WEIR: relativity, yes. we can't break the law of relativity, but we can go around it. the ship doesn't really move faster than the speed of light; it creates a dimensional gateway that allows the ship to instantaneously "jump" from one point in the universe to another, light years away.
+STARCK: how?
+WEIR: well, in layman's terms, you use a rotating magnetic field to focus a narrow beam of gravitons; these in turn fold space-time consistent with weyl tensor dynamics until the space- time curvature becomes infinitely large and you have a singularity...
+COOPER: laymen's terms.
+SMITH: hey...
+WEIR: say this paper represents space-time, and you want to get from "point a" here... ...to "point b," here. now: what's the shortest distance between two points?
+STARCK: a straight line.
+WEIR: wrong. the shortest distance between two points...
+WEIR: ...is zero. that's what the singularity does: it folds space, so that point a and point b coexist in the same space and time. after the ship passes through this gateway, space returns to normal. it's called a gravity drive.
+JUSTIN: how do you know all this?
+WEIR: i built it.
+COOPER: i can see why they sent you along.
+JUSTIN: so if the ship didn't blow up, what happened?
+WEIR: it was the ship's maiden voyage, to test the drive. the event horizon moved to safe distance using ion thrusters. they received the go-ahead to activate the gravity drive. and the ship vanished from all our scopes. no radar contact, no enhanced optical, no radio contact of any kind. they disappeared without a trace. until now.
+MILLER: where has it been for the last seven years?
+WEIR: that's what we're here to find out.
+
+WEIR: we haven't been able to confirm any live contact, but tdrss did receive a single transmission from the event horizon. 
+SMITH: what the is that?
+PETERS: it doesn't sound like anything human.
+WEIR: houston has passed the recording through several filters and isolated what appears to be a human voice.
+SMITH: jesus...
+MILLER: what is that?
+DJ: it sounds like latin.
+COOPER: latin? who the speaks latin?
+STARCK: no one. it's a dead language.
+DJ: mostly dead.
+MILLER: what does it say?
+WEIR: nsa encryption specialists have deciphered some of the message...
+WEIR: there: "...liberatis me..." they haven't been able to translate the rest, it's too distorted.
+DJ: "liberatis me." "save me."
+COOPER: from what?
+MILLER: you're convinced the crew could still be alive? after seven years?
+WEIR: the event horizon only had life support for eighteen months. it seems impossible, but in light of the transmission... i have to think that someone has managed to endure until now.
+COOPER: skipper, do we get hazard pay for this?
+MILLER: you heard the tape, smith. we're looking for survivors.
+
+STARCK: crossing the horizon. optimum approach angle is fourteen degrees. 
+MILLER: come around to three-three-four...
+SMITH: heading three-three-four...
+MILLER: ...make your approach vector negative fourteen degrees...
+SMITH: one-four degrees...
+
+SMITH: we have a lock on the event horizon's navigation beacon. it's in the upper ionosphere, we're in for some chop. 
+MILLER: bring us in tight. starck, get on the horn, see if anyone's listening...
+STARCK: this is u.s. aerospace command vessel lewis and clark, hailing event horizon, event horizon, do you read...? this is the lewis and clark, hailing...
+SMITH: matching speed... now. range to target ten thousand meters and closing... skipper, i got a bad feeling about this...
+MILLER: we're all on edge, smith. we're a long way out...
+SMITH: that's not it. that ship was built to go faster than light... that's just wrong, it goes against everything we know...
+MILLER: what are you trying to say? "if had intended man to fly, he would have given us wings?"
+SMITH: something like that, yeah.
+MILLER: i guess we're about to find out. keep us slow and steady.
+SMITH: yes, sir.
+MILLER: dr. weir...!
+MILLER: i think you want to see this. weir climbs up the ladder to the flight deck.
+WEIR: where is she?
+SMITH: dead ahead, 5000 meters.
+SMITH: we've got some weather.
+MILLER: i noticed. starck, anybody home?
+STARCK: if they are, they're screening their calls.
+SMITH: range 3000 meters and closing.
+WEIR: i can't see anything...
+SMITH: 1500 meters. we're getting too close...
+MILLER: where is it?
+STARCK: the scope is lit, it's right in front of us...
+SMITH: 1000 meters...
+
+SMITH: proximity warning! 900, 800 meters, 700... we're right on top of it, we're gonna hit! 
+MILLER: starck...
+STARCK: it should be right there...
+STARCK: my
+
+SMITH: that is one big ugly fat fucker... 
+WEIR: she's not ugly.
+SMITH: range 500 meters and holding. turbulence is dropping off...
+STARCK: picking up magnetic interference.
+MILLER: put it through tacs. smith, you up for a flyby?
+SMITH: love to.
+
+STARCK: look at the size of that thing. 
+WEIR: foredecks. crew quarters, bridge, medical and science labs, hydroponics, what have you. that central section connects the forward decks to the engineering containment area. can we move in closer?
+SMITH: doc, any closer and we're gonna need a rubber...
+MILLER: do it.
+
+WEIR: that's the engineering containment. and there's the main airlock. we can dock there. 
+MILLER: smith, use the arm and lock us onto that antennae cluster.
+WEIR: be careful. it's not a load bearing structure...
+
+SMITH: it is now. we're locked in. 
+MILLER: starck, give me a read.
+STARCK: the reactor's still hot. we've got several small radiation sources, leaks probably. nothing serious.
+WEIR: do they have pressure?
+STARCK: affirmative. the hull's intact... but there's no gravity and the thermal units are off line. i'm showing deep cold. the crew couldn't survive unless they were in stasis.
+MILLER: find 'em, starck.
+STARCK: something's wrong with the bio-scan.
+MILLER: radiation interference?
+STARCK: there's not enough radiation to throw off the scan. i'm picking up trace life forms, but i can't get a lock on the location.
+WEIR: could it be the crew? if they were in suspended animation, wouldn't that effect the scan?
+STARCK: if they were in stasis, i'd get a location, but these readings, they're all over the ship. it doesn't make any sense.
+MILLER: okay. we do it the hard way. deck by deck, room by room. starck, deploy the umbilicus. i believe you're up for a walk, mr. justin. go get your bonnet on.
+JUSTIN: yes, sir! weir starts to follow justin from the bridge.
+MILLER: dr. weir, i need you on the bridge.
+WEIR: captain, i didn't come out here to sit on your bridge, i need to be on that ship...
+MILLER: once the ship is secured, we'll bring you on board --
+WEIR: that is not acceptable --
+MILLER: -- once we've secured the ship, that's the way it is! i need you to guide us from the comm station. this is where i need you. help us to do our job.
+WEIR: very well.
+
+COOPER: ...come on, skipper, i already put my shoes on... 
+MILLER: you've had plenty eva, coop, it's justin's turn. stay on station. if anything happens...
+COOPER: i'll be all over it.
+COOPER: you still need the rope? i thought you were one a those spacemen with ice in ya veins.
+JUSTIN: i'd rather be on the rope and not need it than need it and not have it. now step aside, old man.
+
+PETERS: we've got pressure. 
+MILLER: clear and open on my mark. three... two... one... mark.
+
+PETERS: its huge. 
+MILLER: ice crystals everywhere. this place is a deep freeze.
+WEIR: you're in the central corridor. it connects the personnel areas to engineering.
+MILLER: peters and i will search the forward decks. justin, take engineering. no hot-dogging, not on this one, alright?
+JUSTIN: not a chance, sir.
+
+MILLER: dr. weir, what's this? 
+PETERS: here's another one. they're all over the place.
+WEIR: they're explosive charges.
+MILLER: i can see that, what're they for?
+
+WEIR: in an emergency, the charges detonate in series, destroying the central section and separating the personnel areas from the rest of the ship. that way, if the gravity drive malfunctions, the crew could use the foredecks as a lifeboat. 
+PETERS: that means they didn't abandon ship.
+MILLER: so where are they? starck, any luck with the bio-scan?
+
+PETERS: there's no one in the corridor but us. 
+STARCK: not according to the computer.
+MILLER: peters is right, no one's here.
+PETERS: i don't know, this place is really dark, i can't see a thing...
+MILLER: easy, peters, we're okay, we're okay. let's finish the sweep.
+WEIR: captain miller, the foredecks are just ahead.
+PETERS: i can see the hatch.
+MILLER: starck, you still showing those readings?
+STARCK: that's an affirmative.
+MILLER: keep your eyes open.
+
+PETERS: we found the gravity couches. 
+WEIR: any survivors?
+MILLER: negative.
+WEIR: no one?
+
+WEIR: you've reached the first containment seal. the engineering decks are on the other side. 
+JUSTIN: we still have pressure. the radiation count's steady at 7 millirads an hour.
+
+THE SAFETY LINE: counts off silently, passing 150 meters... 
+PETERS: dr. weir, what's this the door to?
+WEIR: you're at the bridge, ms. peters. you still haven't seen any crew?
+
+WEIR: yes, we can see some kind of mist. what is that? 
+PETERS: blood. looks like arterial spray.
+WEIR: can you see a body?
+
+PETERS: there's no one here. 
+MILLER: the blood came from somewhere, peters...
+PETERS: there's no one here, skipper.
+PETERS: come on...
+
+PETERS: okay. i'm on the bridge. 
+MILLER: what you got, peters?
+PETERS: everything's been shut down. conserving power, i guess. green light on the hull, it's intact.
+
+MILLER: the science workstation has power, i'll see if i can find the crew from here. 
+WEIR: ms. peters, turn back and to your left, please.
+STARCK: what is it?
+WEIR: ship's log.
+PETERS: i see it.
+
+JUSTIN: i've reached another containment door. this thing's huge... 
+WEIR: that's the second containment seal. beyond that, engineering.
+JUSTIN: i'm going in.
+
+PETERS: i found one. 
+MILLER: alive?
+PETERS: frozen.
+STARCK: what happened to his eyes?
+SMITH: explosive decompression.
+STARCK: decompression wouldn't do that.
+STARCK: you okay?
+COOPER: hey, baby bear, mama bear got a corpsicle for ya...
+COOPER: baby bear, you copy?
+
+COOPER: ...do you copy? 
+JUSTIN: uh, yeah coop, i'm still here.
+COOPER: do not do that! where the are you?
+JUSTIN: i'm in the second containment area. it's pitch black in here. there must have been a coolant leak. man, this is everywhere. i can't see a thing.
+JUSTIN: the reactor's still hot. coolant level is on reserve, but still in the green.
+
+JUSTIN: i got it... 
+JUSTIN: holy
+COOPER: justin?
+JUSTIN: i think i found something...
+
+SMITH: what the is that? 
+WEIR: that's the core: the gravity drive. the heart of the ship.
+PETERS: crystallized.
+
+MILLER: justin, finish your sweep. 
+JUSTIN: almost done, i just gotta check one thing...
+STARCK: justin, hold on a sec, you're breaking up...
+
+STARCK: justin, come in... 
+WEIR: what is it?
+STARCK: i don't know. the life readings just went off the scale.
+SMITH: something's wrong...
+
+MILLER: what the hell... 
+MILLER: oh shit...!
+
+STARCK: miller, do you read me, peters -- 
+SMITH: get them back --
+STARCK: i'm trying, goddammit --
+
+COOPER: what's happening? 
+STARCK: i don't know, the screens are dead...!
+JUSTIN'S SAFETY LINE: passes 350 meters and accelerating...
+COOPER: 350 meters... 400 meters...
+DJ: he's in trouble. go!
+COOPER: i'm gone!
+MILLER: boarding party, sound off... peters, do you read me... . peters...
+
+MILLER: ...peters, do you read me... 
+VOICE: don't leave me...
+MILLER: justin? justin, sound off... justin...!
+
+COOPER: oh my 
+COOPER: justin, do you read me? justin... .
+COOPER: baby bear, don't do this. don't do this...
+
+STARCK: here comes another one! hold on! 
+STARCK: we lost the starboard baffle! the hull's been breached!
+SMITH: the safety circuit's failed!
+WEIR: we're losing atmosphere...
+STARCK: there are pressure suits in the airlock. go!
+MILLER: can anybody hear me...
+PETERS: skipper...
+MILLER: peters...
+PETERS: yeah. i'm -- i'm okay.
+COOPER: we have a man down...
+MILLER: coop, where are you...
+COOPER: the containment, second containment...
+MILLER: hold on, coop...
+SMITH: captain miller...
+MILLER: smith, where the have you been?!
+SMITH: we have a situation here...
+
+MILLER: do we have enough time for a weld? 
+SMITH: we don't have time to fart.
+
+MILLER: no one's dying on my watch, smith! what about the reserve tanks? 
+SMITH: they're gone.
+
+WEIR: the event horizon. 
+SMITH: what?
+WEIR: it still has air and reserve power, we can activate gravity and life support.
+STARCK: what if the air has gone bad? we can't wear these suits forever.
+SMITH: i don't think this is a good idea, we don't even know what happened on that ship...
+WEIR: it beats dying, mister smith.
+
+MILLER: dr. weir's right. get on board the event horizon. i'll meet you at the airlock. 
+SMITH: but...
+MILLER: you heard me, smith. peters, are you with me?
+PETERS: i'm ahead of you. bringing the thermal units on line...
+PETERS: hold tight and prep for gees.
+
+MILLER: everybody okay? 
+STARCK: we're all here.
+MILLER: okay. let's find out how much time we just bought.
+DJ: we haven't tested the air yet. it could be contaminated...
+MILLER: no time. we need whatever's left in our suits to repair the clark. like it or not, this is the only oxygen for three billion kilometers.
+STARCK: it tastes bad.
+MILLER: but you can breathe it.
+
+STARCK: the antennae array's completely fried, we've got no radio, no laser, no highgain... no one's going to be coming to help us. 
+MILLER: how much oh-two do we have?
+STARCK: oxygen is not the problem.
+MILLER: carbon dioxide?
+STARCK: it's building up with every breath we take. and the co2 filters on the event horizon are shot.
+MILLER: we can take the filters from the clark...
+STARCK: i thought of that, with the filters from the clark, we've got enough breathable air for twenty hours. after that, we'd better be on our way home.
+MILLER: what about the life readings you picked up?
+STARCK: the event horizon sensors show the same thing: "bio-readings of indeterminate origin." right before that wave hit the clark, there was some kind of surge, right off the scale, but now it's back to its previous levels.
+MILLER: what's causing the readings?
+STARCK: i don't know, but whatever it is, it's not the crew.
+MILLER: so where is the rest of the crew? we've been over every inch of this ship and all we've found is blood. dr. weir? any suggestions?
+MILLER: what happened here?
+
+SMITH: captain miller, you copy? 
+MILLER: i'm here, smith, how's the clark?
+SMITH: i've found a six inch fracture in the outer hull. we should be able to repair it and re-pressurize, it's gonna take some time.
+MILLER: we don't have time, smith. in twenty hours we run out of air.
+SMITH: understood.
+
+MILLER: how is he? 
+DJ: his vitals are stable, but he's unresponsive to stimuli. he might wake up in fifteen minutes. he might not wake up at all.
+PETERS: what happened to him?
+MILLER: dj, take samples from these stains, compare them to medical records, i want to know whose blood this is.
+
+MILLER: okay, people, there's been a change in the mission. in less than eighteen hours, we will run out of breathable air. our primary objective is now survival. that means we focus on repairing the lewis and clark and salvaging whatever will buy us more time. our secondary objective is finding out what happened to this ship and its crew. two months from now, i fully intend to be standing in front of the good admiral giving my report, and i'd like to have more than my in my hands. 
+MILLER: peters, i want you to go through the ship's log, see if we can't find some answers.
+PETERS: i can use the station in medical, keep an eye on justin...
+MILLER: fine. starck, i want you to repeat the bio-scan...
+STARCK: what's the point? i'll just get the same thing...
+MILLER: not acceptable. i want to know what's causing those readings. if the crew is dead, i want the bodies, i want the crew found.
+STARCK: i can reconfigure the scan for c-12, amylase proteins.
+MILLER: do it. dr. weir...
+WEIR: yes.
+MILLER: one of my men is down. i want to know what happened to him.
+COOPER: i told you. he was inside the core...
+COOPER: it was like... nothing was there... and then justin appeared and the core... became metal...
+WEIR: no, he didn't.
+COOPER: you weren't there. i saw it.
+WEIR: saw what, mr. cooper? what did you really see, because what you're describing is not physically possible...
+MILLER: cooper! enough!
+MILLER: dr. weir, justin may die. whatever happened to him could happen to all of us.
+WEIR: i don't know what happened to justin.
+COOPER: i'm telling you, i saw it...
+WEIR: what you saw could have been an optical effect caused by gravitational distortion.
+COOPER: i know what i saw and it wasn't a "optical effect!"
+MILLER: hold on, what's this "gravitational distortion?"
+WEIR: it's possible that a burst of gravity waves escaped from the core, distorting space-time. they could be what hit the lewis and clark.
+MILLER: what could cause them? what's in the core?
+WEIR: it's complicated...
+MILLER: how much time do you need? we have seventeen hours and forty-two minutes. now: what is in the core?
+WEIR: a black hole.
+
+WEIR: that's how the gravity drive works, you see: it focuses the black hole's immense gravitational power to create the gateway. that's how the event horizon travels faster than light. 
+STARCK: i can't believe we built this.
+MILLER: it's insane.
+WEIR: "insane?" the finest astronauts fought to be posted to this ship. it would take the lewis and clark a thousand years to reach our closest star. the event horizon could be there in a day...
+MILLER: if it worked.
+WEIR: if it worked, yes.
+
+MILLER: i want this room sealed. the second containment is off limits. 
+WEIR: there's no danger. the black hole is contained behind three magnetic fields, it's under control.
+MILLER: your black hole near ripped my ship apart. it may have killed one of my men. no one goes near that thing.
+MOVE IN ON THE CORE: until its darkness fills the screen...
+
+PETERS: justin...? 
+THERE'S SOMETHING UNDERNEATH THE PLASTIC COVER: she slowly reaches out. lifts the cover.
+DENNY: mommy...
+DJ: peters?
+DJ: what's wrong?
+PETERS: nothing. it's nothing.
+
+COOPER: you been out there a long time. trying to break my record? 
+SMITH: i'd rather spend the next twelve hours outside than another five minutes in this can. this ship is bad. it watches you.
+COOPER: what?
+SMITH: you heard me. this ship, it's crazy: trying to go faster'n light, that's like the tower of babel.
+COOPER: smith, you're going biblical on me.
+SMITH: you know what happened to the tower of babel, don't you? it fell down.
+COOPER: you're sucking too much nitrogen in your mix.
+
+STARCK: why dr. weir, i think you're in love. 
+WEIR: hmmm. claire used to tell me i loved the event horizon more than i loved her. i told her that wasn't true, i just knew the event horizon better, that's all.
+STARCK: claire is your wife?
+WEIR: yes.
+STARCK: it must be hard, being so far away from her.
+WEIR: yes. i miss her. she died. two years now.
+STARCK: i'm sorry.
+WEIR: these things happen. wait a minute, that's not right...
+MILLER: you have something, dr. weir?
+WEIR: the date.
+MILLER: what about it?
+WEIR: the event horizon's computer think's it's 2034.
+MILLER: it's 2041...
+WEIR: exactly. the ship's internal clock is off by seven years.
+STARCK: maybe a power interruption crashed the system...
+WEIR: no, there's no evidence of a surge or spike of any kind. it's as if time just... stopped for seven years.
+MILLER: explanation?
+WEIR: intense gravitational fields effect the passage of time, it's possible... black holes make sense on paper, it's all math, you see, but as to what really happened... the event horizon has passed beyond our plane of reality, and like lazarus, returned from the dead.
+PETERS: captain miller, dr. weir? i found the final log entry.
+
+PETERS: the speaker is the mission commander... 
+WEIR: john kilpack.
+
+MILLER: what the is that? dr. weir? 
+WEIR: i don't know.
+PETERS: i can run the image through a series of filters, try to clean it up.
+MILLER: do it.
+PETERS: what's happening...?
+DJ: a power drain --
+MILLER: we barely have enough power for life support as it is, if we can't stop the drain, we're not gonna make it.
+WEIR: the core...!
+MILLER: wait!
+MILLER: the rest of you, stay here, i don't want anyone else going near that thing.
+
+MILLER: no radiation. what's causing the drain? 
+MILLER: we don't get the power back, our air's gonna go bad.
+WEIR: check the core for radiation. carbon dioxide may be the least of our worries.
+
+STARCK: what the hell... 
+STARCK'S POV: as the bio-scan goes wild.
+STARCK: skipper, the bio-scan just went off the scale...
+
+WEIR: there you are. 
+WEIR: um. captain miller? i, uh, i seem to have a problem with my light.
+WEIR: captain miller?
+VOICE: billy.
+CLAIRE: billy. help me. i'm so cold.
+
+MILLER: we just lost all power in here. dr. weir...? 
+BURNING MAN: don't leave me...
+
+WEIR: claire...? 
+CLAIRE: help me. i'm so cold. the flashlight flickers...
+CLAIRE: so cold.
+
+DJ: carbon dioxide poisoning produces hallucinations, impaired judgement... 
+MILLER: goddammit, dj, it was not a hallucination! i saw a man, he was on fire. and then he disappeared.
+STARCK: maybe one of the original crew?
+MILLER: no. it was someone else.
+STARCK: who?
+MILLER: dr. weir, you were right there, you must have heard something, seen something...
+WEIR: no. i saw nothing.
+PETERS: i did.
+PETERS: about an hour ago. in medical. i saw my son. he was lying on one of the examination tables and his legs were...
+WEIR: isn't it possible that you were traumatized by finding the body on the bridge?
+PETERS: i've seen bodies before. this is different.
+MILLER: peters is right. its like something reaching into your mind. seeing your thoughts and making them real. smith, did you or cooper experience anything unusual?
+SMITH: i didn't see anything and i don't have to see anything. this ship is
+WEIR: thank you for that scientific analysis, mister smith.
+SMITH: hey! you don't need to be a scientist figure it out...
+MILLER: smith...
+SMITH: ...you break all the laws of physics, you think there won't be a price? you already killed the first crew...
+MILLER: that's enough!
+
+DJ: i'm sorry, i... i don't know why i did that. 
+WEIR: carbon dioxide.
+SMITH: he's lying, you know something...!
+MILLER: that's it, that's enough for one day, smith! i need you back on the clark, i need you calm, i need you using your head, you make a mistake out there, none of are getting home, you understand?
+SMITH: sir.
+MILLER: get outside, go back to work. i'll join you shortly.
+MILLER: we're a long way from home and we're in a bad place. let's not make it worse. if anyone has any constructive suggestions, now is the time.
+WEIR: i think i can stabilize the fields around the singularity, that should prevent another power drain.
+MILLER: do it.
+DJ: to conserve our oxygen, we should severely restrict our activity. anyone who can should get some sleep.
+MILLER: i don't need sleep, dj. i need answers.
+
+STARCK: miller... 
+MILLER: what is it, starck?
+STARCK: ...i ran the bio-scan with the dna/rna filter. the results were bio-readings of indeterminate origin...
+MILLER: "...bio-readings of indeterminate origin," don't you have anything useful to tell me?
+STARCK: i've got a theory.
+MILLER: go ahead.
+STARCK: there was a another surge in the bio- readings right before you... you saw what you saw. we picked up a similar readings right before the clarke was damaged. what if there were a connection between the two? the gravity waves, the hallucination, all part of an defensive reaction, like an immune system...
+MILLER: i don't need to hear this.
+STARCK: you've got to listen...
+MILLER: to what? what are you saying? this ship is alive?
+STARCK: i didn't say that, i said the bio- readings correspond to what happened to you, the ship is reacting to us...
+MILLER: we're hanging on by our fingernails and you're giving me stories...
+STARCK: it's not bullshit, it's the only conclusion the data supports...
+MILLER: starck, do you know how crazy that sounds? it's impossible.
+STARCK: i know that.
+MILLER: if you knew it was impossible, then why'd you waste my time?
+STARCK: i thought you wanted an answer. and that's the only one i have.
+MILLER: what i want is to survive the next ten hours.
+STARCK: nine hours and twenty-two minutes.
+MILLER: i'm going outside to work on the clark. and starck... don't tell anyone what you just told me. we've got enough to worry about.
+
+PETERS: justin...? 
+PETERS: justin!
+
+DJ: what's wrong? 
+PETERS: you didn't hear it? you must have heard it!
+STARCK: heard what?
+PETERS: oh... nothing...
+DJ: sit down...
+
+PETERS: stop it! stop it! 
+DJ: what is it?
+STARCK: what are you doing?
+WEIR: it wants me. i have to go.
+STARCK: no...!
+STARCK: in our current environment, dr. weir, self-control is an asset.
+WEIR: i'm alright. please.
+STARCK: what is it?
+WEIR: the forward airlock.
+STARCK: miller, smith, cooper, any of you in the airlock?
+MILLER: that's a negative, starck.
+PETERS: justin.
+
+COOPER: we'll have to re-route through the port conduit to the apu. 
+SMITH: what about the accumulator...?
+STARCK: miller, come in...
+MILLER: what's going on in there, starck?
+STARCK: justin's in the airlock.
+
+MILLER: what? 
+STARCK: he's awake, he's in the airlock, he's not wearing a suit.
+
+MILLER: stay here! don't stop working! 
+COOPER: but justin...
+MILLER: i'll get him.
+
+STARCK: he's engaged the override. 
+PETERS: can you shut it down?
+STARCK: i'll try. dj, you better get your bag of tricks.
+PETERS: justin! open the door!
+
+MILLER: i'm on my way, starck. 
+STARCK: you better hurry. he's engaged the override, we can't open the inner door.
+
+PETERS: yes. yes, justin, we heard it. 
+STARCK: keep him talking.
+PETERS: do you know what it was?
+JUSTIN: it gets inside you. it shows you things... horrible things...
+
+PETERS: what, justin, what shows you? 
+JUSTIN: it won't stop, it goes on and on and on...
+PETERS: what does?
+JUSTIN: the dark inside me.
+
+JUSTIN: ...it's inside and it eats and eats until there's nothing left. 
+PETERS: "the dark inside..."? i don't understand.
+JUSTIN: from the other place...
+
+PETERS: justin, look at me. look at me. open this door. 
+STARCK: i don't think she can talk him down. we need a sedative.
+DJ: if he opens the outer door he'll turn inside-out.
+STARCK: almost got it.
+JUSTIN: if you could see the things i've seen, you wouldn't try to stop me. you'd come with me.
+
+COMPUTER: stand-by for decompression. thirty seconds... 
+JUSTIN: hey, mama-bear... what are doing...?
+JUSTIN: oh my oh my
+
+PETERS: starck! 
+STARCK: i can't! the inner door can't open once the outer door has been triggered, it would decompress the entire ship!
+JUSTIN: you gotta open, you gotta stop it, please...
+PETERS: we have to do something, oh
+STARCK: skipper, justin just activated the door. it's on a thirty second delay...
+
+MILLER: patch me through to him. 
+JUSTIN: skipper, you gotta help me...
+COMPUTER: twenty seconds.
+JUSTIN: ...tell them to open the door...
+MILLER: they can't do that justin, now listen carefully...
+
+JUSTIN: ...i don't want to die...! 
+MILLER: you're not going to die! not today! i want you to do exactly as i say and i'm gonna get you out of there, alright?
+
+JUSTIN: but i can't... i gotta get out of here... skipper, please... 
+MILLER: justin. i won't let you die.
+JUSTIN: okay... okay...
+MILLER: tuck yourself into a crouched position, shut your eyes as tight as you can!
+STARCK: five seconds.
+
+PETERS: oh justin... 
+PETERS: i've got a pulse, he's alive...
+DJ: pressure?
+PETERS: 90 over 50 and falling... .
+DJ: he's crashing...
+DJ: he can breathe. that's good. let's get him to medical, go, go!
+
+DJ: intubate, pure oxygen feed, get the nitrogen out of his blood... 
+PETERS: his peritoneum has ruptured...
+DJ: one thing at a time, let's keep him breathing. start the drip, 15cc's fibrinogen, christ, he's bleeding out...
+
+DJ: he'll live... if we ever make it back. 
+MILLER: we'll make it.
+STARCK: co2 levels will reach toxic levels in four hours.
+MILLER: peters. we need to know what happened to the crew. before it happens to us.
+PETERS: i'll get back to the log. but on the bridge, i won't go back, back in there...
+MILLER: thanks.
+STARCK: justin said something about, "the dark inside me..." what did he mean?
+WEIR: it means nothing.
+MILLER: is that your "expert opinion?" the only answer we've had out of you is "i don't know."
+WEIR: justin just tried to kill himself. the man is clearly insane.
+DJ: how would you explain your own behavior?
+WEIR: what?
+STARCK: on the bridge. you said "it" wanted you.
+
+WEIR: i said that? 
+DJ: yes. you did.
+WEIR: i don't remember saying that. maybe i'm insane, too.
+
+MILLER: i want to know what caused that noise. i want to know why one of my crew tried to throw himself out of the airlock. 
+WEIR: thermal changes in the hull could have caused the metal to expand and contract very suddenly, causing reverberations --
+MILLER: that's and you know it! you built this ship and all i've heard from you is
+WEIR: what do you want me to say?
+MILLER: you said this ship creates a gateway...
+WEIR: yes...
+MILLER: to what? where did this ship go? where did you send it?
+WEIR: i don't know...
+MILLER: where has it been for the past seven years?
+WEIR: i don't know...
+MILLER: the "other place," what is that...?
+
+MILLER: any change? 
+DJ: no. no change. i've analyzed justin's blood samples. there's no evidence of excessive levels of carbon dioxide. or anything else out of ordinary.
+MILLER: of course not. justin just climbed into the airlock because he felt like it. just one of those things. i swore i'd never lose another man. i came close today. real close.
+DJ: "another man?" who?
+MILLER: it was on the goliath. there was this bosun, corrick, a young guy, a lot like justin. edmund corrick, from decatur, georgia. he got caught when the pressure doors sealed, one closed on his arm. severed it at the wrist. the pain of that must have been... he passed out and...
+MILLER: i, i tried to go back for him, to save him, but i couldn't get to him in time. the fire... have you ever seen fire in zero-gravity? it's like a liquid, it slides over everything. it was like a wave breaking over him, a wave of fire. and then he was gone. i never told anyone until now. but this ship knew, dj. it knows about the goliath, it knows about corrick. it knows our secrets. it knows what we're afraid of. and now you're going to tell me it's carbon dioxide.
+DJ: no.
+MILLER: what is it?
+DJ: i've been listening to the transmission. and i think houston made a mistake in the translation.
+MILLER: go on.
+DJ: they thought it said, "liberatis me," "save me," but it's not "me." it's "tutemet:" "save yourself."
+MILLER: it's not a distress call. it's a warning.
+DJ: it gets worse.
+DJ: it's very hard to make out, but listen to this final part.
+DJ: do you hear it? right there.
+MILLER: hear what?
+DJ: it sounds like "ex infera:" "ex," from; "infera," the ablative case of "inferi." "hell."
+MILLER: "save yourself. from hell." what are you saying, are you saying that this ship is possessed?
+DJ: no. i don't believe in that sort of thing. but if dr. weir is right, this ship has passed beyond the boundaries of our universe, of reality. who knows where this ship has been... what it's seen... and what it's brought back with it.
+
+COOPER: captain miller, we're ready to repressurize the clark. 
+MILLER: on my way.
+
+MILLER: alright, cooper. 
+COOPER: cross your fingers.
+
+SMITH: it's holding... she's holding...! 
+COOPER: we're still venting trace gasses, gimme twenty minutes to plug the hole.
+MILLER: you got it, coop.
+MILLER: back in business.
+
+PETERS: you got any coffee? 
+STARCK: it's cold.
+PETERS: i don't care.
+PETERS: starck...
+PETERS: sweet miller... miller!
+
+MILLER: we're leaving. 
+WEIR: you can't, your orders are specific...
+MILLER: "...to rescue the crew and salvage the ship." the crew is dead, dr. weir. this ship killed them. and now it's killing us.
+WEIR: you're insane. you've lost your mind.
+MILLER: maybe you're right. but it's still my command, and i have leeway to abort when i feel there is an unacceptable threat to my crew. and i think there is. starck, download all the files from the event horizon's computers. coop, smith, finish moving the co2 scrubbers back onto the clark.
+WEIR: don't... don't do this...
+MILLER: it's done.
+
+SMITH: what's going on, sweethearts? 
+PETERS: co2 scrubbers for the clark. miller pulled the plug on the mission.
+SMITH: about goddam time.
+WEIR: what about my ship?
+MILLER: we will take the lewis and clark to a safe distance and then launch tac missiles at the event horizon until i am satisfied that she has been destroyed. this ship.
+WEIR: you... you can't do that!
+MILLER: watch me.
+WEIR: you can't kill her, i won't let you! i lost her once, i will not lose her again...!
+STARCK: miller, come in ...
+MILLER: starck, what the is going on?
+STARCK: we just lost main power again.
+
+MILLER: goddammit! starck, get those files and vacate. i want off this ship. he releases the intercom. 
+WEIR: you can't leave. she won't let you.
+MILLER: just get your gear back onto the lewis and clark, doctor, or you'll find yourself looking for a ride home.
+WEIR: i am home. regular lighting snaps on...
+MILLER: weir? weir!
+MILLER: all hands. dr. weir is missing. i want him found and restrained.
+
+SMITH: let's go, let's go, this place freaks me out... 
+PETERS: last one.
+
+DENNY: mommy... 
+PETERS: ducks her head and enters the access duct.
+PETERS: denny...?
+
+MILLER: thank you. 
+SMITH: captain, we got a problem.
+MILLER: now what?
+
+SMITH: she was right behind me, i turn around, she's gone. she could be anywhere. 
+MILLER: alright. prep the clark for launch. i'll find her.
+
+PETERS: denny? denny, come to mommy... 
+PETERS: hold on, denny, mommy's coming...
+
+PETERS: denny? 
+PETERS: denny...?
+DENNY: mommy...
+PETERS: you can walk... denny, you can walk... oh, my baby...
+DENNY: wanna show you, mommy, wanna show you something... he reaches his arms out to her... peters steps forward, reaching for her son...
+
+WEIR: oh no. peters...? 
+WEIR: why did you do that? you didn't have to do that...
+CLAIRE: billy.
+
+COOPER: solid as a rock. hey, smith... 
+SMITH: roger that.
+SMITH: dr. weir! hey, get your back on board! dr. weir! no response.
+SMITH: skipper, come in...
+
+SMITH: skipper... 
+MILLER: what is it, smith?
+MILLER: smith, get out of there...
+SMITH: come again, skipper?
+MILLER: one of the explosives is missing from the corridor. i think weir may have put it on the clark.
+MILLER: get off the clark now and wait for me at the airlock.
+SMITH: no, no, we just got her back together...
+MILLER: get out of there now!
+
+SMITH: i gotcha... i gotcha... 
+SMITH: i gotcha.
+
+WEIR: i told you... she won't let you leave... 
+MILLER: son of a
+
+MILLER: oh my 
+DJ: please...
+MILLER: oh, dj, what do i... how do
+
+DJ: please... kill... 
+MILLER: oh
+
+MILLER: weir. 
+MILLER: hold on... get you outta these...
+MILLER: your eyes...
+WEIR: i don't need them anymore. where we're going, we won't need eyes to see.
+MILLER: what are you talking about?
+WEIR: do you know what a singularity is, miller? does your mind truly fathom what a black hole is? it is nothing. absolute and eternal nothing. and if is everything, then i have seen the devil. it's a liberating experience.
+COMPUTER: gravity drive primed. do you wish to engage?
+
+MILLER: what are you doing? 
+COMPUTER: gravity drive engaged. activation in t-minus ten minutes.
+MILLER: if you miss me, you'll blow out the hull. you'll die too.
+WEIR: what makes you think i'll miss?
+
+STARCK: don't leave me! 
+MILLER: give me your hand! your hand!
+
+STARCK: weir can't be alive. 
+MILLER: whatever was on that bridge wasn't weir.
+MILLER: stay behind me.
+STARCK: cooper! starck rushes to him, takes his helmet off.
+COOPER: let me breathe, let me breathe...
+STARCK: you're okay now, it's over...
+MILLER: weir activated the drive. he's sending us to the other place.
+STARCK: we've got to shut it down, we've got to...
+COOPER: how? the bridge is gone.
+STARCK: there must be a way! what about engineering?
+COOPER: can you shut it down?
+STARCK: i don't know the process, dr. weir was the expert...
+COOPER: i don't want to go where the last crew went. i'd rather be dead.
+
+STARCK: blow it up? 
+MILLER: we blow the corridor. use the foredecks as a lifeboat, separate it from the rest of the ship. we stay put...
+COOPER: ...and the gravity drive goes where no man has gone before.
+
+MILLER: you prep the gravity couches. i'm going to manually arm those explosives. 
+COOPER: will it work?
+MILLER: it worked for weir. prep the tanks.
+STARCK: i'll do it --
+MILLER: no. i'll be right back.
+MILLER: close it behind me. just in case.
+STARCK: don't be long.
+
+COOPER: i'm gonna activate the emergency beacon. 
+STARCK: hurry.
+
+COOPER: starck? 
+COOPER: what...?
+STARCK: run! she shoves him away...
+
+MILLER: ...repeat, we're armed... 
+STARCK: miller, he's back, he was in the tank...
+
+MILLER: who? who? 
+STARCK: weir.
+MILLER: he's dead...
+
+MILLER: you're dead, i saw you die. 
+WEIR: weir is dead.
+MILLER: then who the are you?
+WEIR: your fear. do you remember the goliath, miller?
+
+BURNING MAN: do you remember me? 
+MILLER: corrick...
+BURNING MAN: you left me behind.
+MILLER: that's not true...
+BURNING MAN: i begged you. i begged you to save me and you did nothing. you stood there and watched me burn...
+
+BURNING MAN: don't leave me! 
+MILLER: you're not edmund corrick.
+MILLER: what are you?
+WEIR: you know.
+MILLER: you want me to believe you're the devil, well, i don't, that's
+WEIR: i'm not the devil.
+MILLER: then what, what are you? tell me...
+WEIR: better if i just show you.
+
+MILLER: you can't have them! 
+WEIR: i'm not the devil. i'm much, much older. i watched the beginning and i will see the end. i am the dark behind the stars. i am the dark inside you all.
+MILLER: ...not the devil...
+WEIR: there is no devil. there is no there is only... nothing.
+MILLER: you're lying...!
+WEIR: i'm not asking you to believe me. you'll see for yourself... and so will your crew. you're all coming with me.
+MILLER: starck... cooper...
+WEIR: they are mine. and so are you...
+MILLER: you can't have them. go to hell.
 

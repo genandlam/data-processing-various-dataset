@@ -1,638 +1,638 @@
-speaker1: mr. szpilman. 
-speaker2: hello.
-speaker1: i came specially to meet you today. i love your playing, but what a day to choose.
-speaker2: who are you?
-speaker1: my name's dorota, i'm jurek's sister. oh! you're bleeding.
-speaker2: it's nothing.
-speaker3: c'mon, dorota, you can write him a fan letter later, this isn't the best time, c'mon.
-
-speaker1: what you think, should i take uncle szymon's photograph? 
-speaker2: take it, don't take it, take what you like. can't you see i'm worried sick?
-speaker1: he'll come home, he'll be all right.
-speaker3: mama, wladek's home.
-speaker2: thank - wladek! you're wounded.
-speaker4: it's a little cut, nothing.
-speaker2: i've been worried sick.
-speaker5: i told her not to worry. you had your papers on you. if you'd been hit by a bomb, they'd have known where to take you.
-speaker2: henryk, don't say things like that, forbid, forbid.
-speaker6: papa, wladek's home.
-speaker1: what did i tell you?
-speaker4: what are you doing?
-speaker3: what's it look like we're doing?
-speaker4: they bombed us, we're off the air.
-speaker5: warsaw's not the only radio station.
-speaker2: pack, darling, get your things, pack.
-speaker4: where are we going?
-speaker2: out of warsaw.
-speaker4: out of warsaw. where?
-speaker3: you haven't heard?
-speaker4: heard what?
-speaker3: haven't you seen the paper? where's the paper?
-speaker6: i used it for packing.
-speaker3: she used it for packing.
-speaker1: the government's moved to lublin.
-speaker6: all able-bodied men must leave the city, go across the river and set up a new line of defence, that's what it said.
-speaker1: there's hardly anybody left in this building, only women, the men have gone.
-speaker4: and what do you think you'll do while you're setting up a new line of defence? wander round lugging your suitcases?
-speaker2: pack, wladek, there's no time.
-speaker4: i'm not going anywhere.
-speaker6: good! i'm not going anywhere either!
-speaker2: don't be ridiculous, we've got to keep together.
-speaker4: no, no, no, i'm staying put. if i'm going to die, i prefer to die at home.
-speaker2: forbid!
-speaker5: sssh! crackles, whistles and static from the radio.
-speaker5: ssh! i've got something, listen...
-speaker7: ... an important announcement. news has just been received through the bbc that great britain, having had no reply... ...and therefore has declared war on germany... ... next few hours... awaiting latest news...
-speaker7: ... but france is expected to make a similar announcement... ... poland is no longer alone.
-speaker5: mama, that was a great dinner.
-speaker4: it certainly was.
-speaker2: when there's something to celebrate, you've got to make an effort.
-speaker1: here's to great britain and france.
-speaker1: i told you. didn't i tell you? all will be well.
-
-speaker1: five thousand and three. 
-speaker2: is that all?
-speaker1: yes, five thousand and three zlotys, that's all we've got left.
-speaker3: it's three thousand and three zlotys too much, 're: further restrictions regarding liquid assets: jews will be allowed to keep a maximum of two thousand zlotys in their homes.'
-speaker2: what are we supposed to do with the rest?
-speaker4: deposit it in a bank. blocked account.
-speaker5: banks? who'd be stupid enough to deposit money in a german bank?
-speaker3: we could hide the money here in the window frame.
-speaker1: no, no, no. i'll tell you what we'll do. we'll use tried and tested methods. you know what we did in the last war? we made a hole in the table leg and we hid the money in there.
-speaker5: and suppose they take the table away?
-speaker2: what d'you mean, take the table away?
-speaker5: the germans go into jewish homes and they just take what they want, furniture, valuables, anything.
-speaker2: do they?
-speaker1: what would they want with a table?
-speaker2: what on earth are you doing?
-speaker4: there's a good place under the cupboard.
-speaker5: no, no. listen, i've been thinking --
-speaker6: that makes a change.
-speaker5: you know what we do? we use psychology.
-speaker6: we use what?
-speaker5: we leave the money and the watch on the table. and we cover it like this. in full view. the germans will search high and low, i promise you, they'll never notice it.
-speaker6: of course they'll notice it. but look-- this is a good place for something.
-speaker5: a good place for what? he's insane!
-speaker6: just shut up.
-speaker1: my violin?
-speaker3: quiet! quiet! order, please, order!
-speaker4: she's a lawyer, she likes order.
-speaker3: listen, just listen. let's come to an agreement. we jam the money in the window frame. the watch we hide under the cupboard. and the chain we put in the violin.
-speaker1: will i still be able to play?
-speaker6: let's find out.
-
-speaker1: jurek? wladek szpilman. 
-speaker2: wladek! how are you?
-speaker1: fine, we're fine, thank you, and you?
-speaker2: fine, we're fine in the circumstances. but i can guess what you've called about. there's nothing we can do; they won't reopen the station--
-speaker1: yes, i know, but jurek, jurek...
-speaker2: ...not even music, nothing, no radios for the poles. but i'm sure you'll find work, wladek, a pianist like you.
-speaker1: maybe, maybe not, but, jurek, don't be offended, i didn't call to discuss my future career.
-
-speaker1: i nagged jurek for weeks and weeks. and at last he gave in and said, 'all right, come with me tomorrow,' and so i came and they bombed the station. 
-speaker2: you know something? meeting you like that was absolutely wonderful.
-speaker1: really?
-speaker2: yes! it was...it was unforgettable.
-speaker1: i've always loved your playing, mr. szpilman.
-speaker2: wladek, please.
-speaker1: no one plays chopin like you.
-speaker2: i could accompany you, me on the piano, you on the cello.
-speaker1: oh, mr szpilman, you're quite... quite wonderful.
-speaker2: wladek, please.
-
-speaker1: 're: emblems for jews in the warsaw district. i hereby order that all jews in the warsaw district will wear visible emblems when out of doors. this decree will come into force on the 1st december 1939 and applies to all jews over twelve years of age. the emblem will be worn on the right sleeve and will represent a blue star of david on a white background. the background must be sufficiently large for the star to measure eight centimetres from point to point. the width of the arms of the star must be one centimetre. jews who do not respect this decree will be severely punished. governor of warsaw district, dr. fischer.' silence. then: 
-speaker2: i won't wear it.
-speaker3: won't wear it. i'm not going to be branded.
-speaker4: let me see this.
-speaker1: doesn't it say we have to provide these armbands ourselves? where will we get them?
-speaker2: we're not going to get them. we're not going to wear them!
-
-speaker1: you! 
-speaker1: why didn't you bow?
-speaker2: i'm sorry i...
-speaker1: you are forbidden to walk on the pavement. walk in the gutter!
-
-speaker1: have you seen this? 
-speaker2: what, i'm working, what?
-
-speaker1: what is it? 
-speaker2: that's where they're going to put us.
-speaker1: what d'you mean, put us?
-
-speaker1: 'by order of the governor of the warsaw district, dr. fischer, concerning the establishment of the jewish district in warsaw. there will be created a jewish district in which all jews living in warsaw or moving to warsaw will have to reside." and look here: 'jews living outside of the prescribed area will have to move to the jewish district by 31st of october 1940.' szpilman gazes at the map, horrified. 
-speaker2: but...they won't get all of us... we'll...it's too small...there's four hundred thousand of us in warsaw!
-speaker3: no. three hundred and sixty thousand, so it'll be easy.
-
-speaker1: mama, what is it? 
-speaker2: twenty zlotys. that's all we've got left. what can i buy with twenty zlotys? i'm sick of cooking potatoes, potatoes, potatoes.
-
-speaker1: that's the price. that's what i'm offering. and my advice is to accept. you won't get more from anyone else. 
-speaker2: but...but it's a steinway, mr lipa...
-speaker1: two thousand. my advice is to take it. what you going to do when you're hungry? eat the piano?
-speaker3: get out! you're a thieving bastard, we don't want your money, get out! we'd rather give it away! get out!
-speaker1: hey! hey! what's the matter with you? haven't you eaten today, what you suffering from? hey!
-speaker2: henryk, stop it, leave him alone.
-speaker1: you people are crazy! i'm doing you a favour, two thousand, and i'm paying for the removal, i'm not even charging for the removal.
-speaker1: you haven't eaten today, you're crazy...
-speaker4: take it.
-
-speaker1: dorota! 
-speaker2: i didn't want to come, i didn't want to see all this, but i couldn't stop myself.
-speaker1: how are you doing?
-speaker2: fine, no, not really, they arrested my cousin, but jurek says they'll let him out. this is disgraceful.
-speaker1: don't worry, it won't last long.
-speaker2: that's what i said, it's so - it's too absurd!
-speaker1: i'll see you...soon.
-
-speaker1: to tell you the truth, i thought it would be worse. 
-speaker2: how will we sleep?
-speaker3: i'll sleep with the girls in the kitchen. you, henrykc and papa in here.
-speaker4: look! come and look! they all go to the window and look out. their pov - the street.
-
-speaker1: you sell anything? 
-speaker2: just one. dostoevsky. the three zlotys.
-speaker1: that's better than yesterday.
-speaker2: three lousy zlotys. and there are people here making millions.
-speaker1: i know.
-speaker2: you don't know, believe me. they bribe the guards. the guards turn a blind eye. they're bringing in cartloads, food, tobacco, liquor, french cosmetics, and the poor are dying all around them and they don't give a
-speaker3: excuse me, but have you by any chance seen my husband izaak szerman?
-speaker1: i'm afraid not.
-speaker3: a tall handsome man with a little grey beard?
-speaker3: no? oh, do forgive me. goodbye, sleep well, if you see him, please do write, izaak szerman's his name...
-speaker2: sometimes i wish i could go mad.
-
-speaker1: this is totally insane; why do we have to have a gentile street running through our area? can't they go around? 
-speaker2: don't worry about it, they're about to build a bridge, haven't you heard?
-speaker1: a bridge, a schmidge, and the germans claim to be intelligent. you know what i think? i think they're totally stupid. i've got a family to feed and i spend half my time here waiting for them to let us through.
-speaker3: dance!
-speaker4: faster! go on, faster! dance!
-speaker4: dance! dance!
-speaker5: good, they're here. yitzchak heller's been waiting for you, henryk.
-speaker2: what's this about?
-speaker5: sit down, have tea, i'll start lunch when the girls get back.
-speaker2: so, what are you doing here?
-speaker6: he brought cakes.
-speaker6: his father's back in the jewellery business and doing well, isn't that so, yitzchak? amazing. jewellery.
-speaker7: we're recruiting.
-speaker2: who's recruiting?
-speaker7: don't be clever with me, henryk. i've come here as a friend. they're bringing jews in from all over the country. soon there'll be half a million people in the ghetto. we need more jewish police...
-speaker2: oh? more jewish police? you mean you want me to wear a cap like yours, beat up jews with my truncheon and catch the gestapo spirit. i see!
-speaker7: someone's got to do it, henryk.
-speaker2: but why me? i thought you only recruited boys with rich fathers. look at my father, look at us, i mean...
-speaker7: yes, i'm looking at you and that's why i'm here. your whole family can have a better life. you want to go on struggling for survival, selling books on the street?
-speaker2: yes, please.
-speaker7: i'm doing you people a favour. and what about you, wladek? you're a great pianist. and we've got an excellent police jazz band. they'd welcome you with open arms. join us. you've got no work...
-speaker8: thank you. but i've got work.
-
-speaker1: i'm sorry, mr wladek, he wants you to stop. 
-speaker2: who wants me to stop?
-
-speaker1: i always say look on the bright side. you're in the small ghetto, intellectuals, professional people, you're better off than us. here, in the large ghetto, it's a cesspool. but you, you're living in monte carlo. you could say you're privileged and that, of course, goes against my principles. nevertheless... 
-speaker1: ah, here. today's news from the other side.
-speaker2: you're amazing, jehuda.
-speaker1: no, i'm a socialist. i have brothers everywhere. they bring me news and food. we care about our fellow human beings. workers of the world unite.
-speaker2: so, what's the news?
-speaker1: the germans are advancing on kharkhov.
-speaker2: i don't know why i come here every evening, it's always such bad news.
-speaker1: bad news, you crazy? you have no world view, wladek, that's your trouble. the news couldn't be better. the moment hitler invaded russia, i knew we'd be all right. remember napoleon. same business. the germans will freeze to death, please
-speaker2: jehuda, give me something to do.
-speaker1: you're an artist, wladek, you keep people's spirits up. you do enough.
-speaker2: but i want to help, i want to.
-speaker1: you're too well known, wladek. and you know what? you musicians don't make good conspirators. you're too...too musical.
-speaker2: there are notices going up. the city's to be cleansed of undesirables.
-speaker1: there are always notices going up.
-speaker3: hello, symche, dolek, mrs zyskind, jehuda. working hard?
-speaker1: majorek, this is the greatest pianist in poland, maybe in the whole world. wladyslaw szpilman. meet majorek.
-speaker3: i know your name. i've never heard you play.
-speaker1: majorek used to be in the army. brilliant man. he's got a mind like a searchlight. the only thing i've got against him is he's not a socialist. you'd better go now, wladek. it's nearly curfew. you see these, wladek? you know how many copies we print of our newspaper?
-speaker1: five hundred. you know how many people on average read one copy? twenty. that makes ten thousand readers. these will start the uprising. majorek hides them in his underpants. and leaves them in toilets.
-speaker2: toilets?
-speaker3: as many toilets as i can find. germans never go into jewish toilets. they're too clean for them.
-
-speaker1: and, please, tonight, for once, i don't want anything bad talked about. let's enjoy our meal. 
-speaker2: okay, then i'll tell you something funny. you know who i mean by dr. raszeja.
-speaker3: the surgeon?
-speaker2: the surgeon. well, for some reason, don't ask me why, the germans allowed him into the ghetto to perform an operation...
-speaker4: on a jew? they allowed a pole to come in to operate on a jew?
-speaker2: he got a pass, that's all i know. anyway, he puts the patient to sleep and starts the operation. he'd just made the first incision when the ss burst in, shoot the patient lying on the table, and then shoot dr. raszeja and everybody else who was there. isn't that a laugh? the patient didn't feel a thing, he was anaesthetised - he laughs. no one else does.
-speaker1: henryk, i said nothing bad.
-speaker2: what's the matter with you all? have you lost your sense of humour?
-speaker5: it's not funny.
-speaker2: well, you know what's funny? you're funny with that ridiculous tie.
-speaker5: what are you talking about, my tie? what's my tie got to do with anything? i need the tie for my work.
-speaker1: boys, boys...
-speaker2: your work, yes, playing the piano for all the parasites in the ghetto, they don't give a about people's sufferings, they don't even notice what's going on around them!
-speaker6: i blame the americans.
-speaker5: for what? for my tie?
-speaker6: american jews, and there's lots of them, what have they done for us? what do they think they're doing? people here are dying, haven't got a bite to eat. the jewish bankers over there should be persuading america to declare war on germany!
-
-speaker1: stand up! 
-speaker1: stand up!
-
-speaker1: what's happened? 
-speaker2: oh my it's terrible, you've got to do something, oh my
-speaker1: calm down, what, what is it?
-speaker2: they're hunting people on the streets. they've picked up henryk.
-
-speaker1: excuse me, but have you seen my husband izaak szerman? 
-speaker2: i'm afraid not. he tries to dodge past but she grabs his arm.
-speaker1: he's tall, he's handsome. he has a little grey beard. if you see him, please do write, izaak szerman's his name, don't forget. szpilman manages to free himself and runs on.
-
-speaker1: what's happening? 
-speaker2: they've got my grandson in there. they pick 'em up, they take 'em away. what do they do to them? i've stopped believing in
-speaker1: yitzchak!
-speaker1: yitzchak!
-speaker1: here, please! wladek szpilman!
-speaker1: henryk's in there.
-speaker3: i haven't seen him.
-speaker1: believe me, they've picked him up.
-speaker3: tough luck.
-speaker1: can you help?
-speaker3: oh, you need me now, yes, now you need me!
-speaker1: can you help us?
-speaker3: it costs.
-speaker1: i've no money.
-speaker3: then there's nothing i can do. he should've joined us when i gave him the chance..
-speaker1: yitzchak, they told me you had influence.
-speaker3: who told you?
-speaker1: people i know. they said you're an important man.
-
-speaker1: boys, keep your peckers up! and girls, keep your legs crossed! 
-speaker2: don't let 'em get you down - he approaches a couple of shupos.
-speaker2: bandits! crooks! thieves!
-speaker3: good day, herr rubinstein.
-speaker2: if that means good day, i'm your man, you gangsters, robbers, pirates!
-speaker4: mad!
-speaker2: ich bin meshuge, you bandit!
-speaker5: you go to heller, did i ask you to talk to him?
-speaker6: you're out, aren't you?
-speaker5: did you beg, did you grovel to that piece of that cockroach?
-speaker6: i didn't grovel, i asked him to help.
-speaker5: what did you pay him?
-speaker6: pay him? with what? with what could i pay him? every zloty i earn we spend on food!
-speaker5: i can look after myself!
-speaker6: they were taking you away.
-speaker5: it's nothing to do with you. it's me they wanted, not you. why do you interfere in other people's business?
-speaker6: you're mad, that's your trouble, you're mad.
-speaker5: that's also my business.
-
-speaker1: what's the matter? are you sick? 
-speaker2: hungry.
-
-speaker1: what's that mean, no employment certificate? 
-speaker2: you have to have an employment certificate to work for one of the german firms in the ghetto, otherwise...
-speaker1: otherwise what?
-speaker2: you'll be deported.
-speaker3: so the rumours were true...
-speaker2: they're going to resettle us. send us to labour camps. in the east. and they're closing the small ghetto.
-
-speaker1: wladek! 
-speaker1: i thought you'd be off on tour, playing london, paris, new york?
-speaker2: not this week.
-speaker1: i have to say you look terrible. what's the trouble?
-speaker2: you've heard the rumours they're going to resettle us in the east?
-speaker1: rumours, rumours, you take it all too much to heart, wladek.
-speaker2: i've been trying to get a certificate of employment for my father. i've managed to get certificates for me and the rest of the family but i need one more for my father. i've been trying all the firms, the shops...
-speaker1: why didn't you come to me?
-speaker2: i didn't know you were in the certificate business.
-speaker1: i'm not, but majorek is.
-speaker2: can you help? i've no money...
-speaker1: please, don't insult us. can you do something for him?
-speaker3: be at the schultz workshop, tomorrow, four o'clock.
-speaker1: you see what a wonderful piece of luck you've had today? that's die historical imperative in action and that's why i always say, look on...
-speaker2: ...the bright side, yes, i know.
-
-speaker1: thank you. 
-speaker2: my pleasure. it won't help you anyway.
-
-speaker1: at least we've got work in the ghetto. at least we're still together. 
-speaker2: out! assemble in the yard!
-speaker3: we're employed here, we've got certificates -
-
-speaker1: the rest of you get dressed then report back here. bring your belongings. fifteen kilos only. 
-speaker2: where are you taking us?
-
-speaker1: i'm sorry, i did my best, i thought the certificates would save us all. 
-speaker2: stop it, wladek.
-speaker3: let's just hope that henryk and halina will be better off -
-
-speaker1: where will we be going? 
-speaker2: you're going to work. you'll be much better off than in this stinking ghetto. the gates are the gates are opened.
-speaker3: move!
-
-speaker1: why did i do it? why did i do it? 
-speaker1: why did i do it? why did i do it?
-speaker2: he's dying, don't you have a drop of water? my child's dying of thirst, he's dying, he's dying, i beg you!
-speaker3: i'm telling you, it's a disgrace.
-speaker4: i can hear you.
-speaker5: we're letting them take us to our death like sheep to the slaughter!
-speaker4: dr. ehrlich, not so loud!
-speaker5: why don't we attack them? there's half a million of us, we could break out of the ghetto. at least we could die honourably, not as a stain on the face of history!
-speaker6: why you so sure they're sending us to our death?
-speaker5: i'm not sure. you know why i'm not sure? because they didn't tell me. but i'm telling you they plan to wipe us all out!
-speaker4: dr. ehrlich, what do you want me to do? you want me to fight?
-speaker6: to fight you need organisation, plans, guns!
-speaker4: he's right. what d'you think i can do? fight them with my violin bow?
-speaker6: the germans would never squander a huge labour force like this. they're sending us to a labour camp.
-speaker5: oh, sure. look at that cripple, look at those old people, the children, they're going to work? look at mr szpilman here, he's going to carry iron girders on his back?
-speaker7: henryk!
-speaker8: oh my
-speaker7: halina! henryk!
-speaker9: we heard you were here...we...didn't want...we...we wanted to be with you.
-speaker10: stupid, stupid!
-speaker1: why did i do it? why did i do it? szpilman stands and stares at her. later: the sun lower but the heat still intense.
-speaker1: why did i do it? why did i do it?
-speaker9: she's getting on my nerves. what did she do, for sake?
-speaker6: she smothered her baby.
-speaker6: they'd prepared a hiding place and so, of course, they went there. but the baby cried just as the police came. she smothered the cries with her hands. the baby died. a policeman heard the death rattle. he found where they were hiding. later: szpilman and henryk.
-speaker10: what are you reading?
-speaker11: 'if you us, do we not bleed? if you tickle us, do we not laugh? if you poison us, do we not die? and if you wrong us, shall we not revenge?' szpilman takes the book and reads the title page:
-
-speaker1: very appropriate. 
-speaker2: yes, that's why i brought it. later:
-speaker2: what's he think he's going to do with the money?
-speaker3: how much for a caramel?
-speaker4: twenty zlotys.
-speaker3: what? for one caramel? what d'you think you're going to do with the money?
-speaker4: twenty zlotys.
-
-speaker1: halina? 
-speaker2: what?
-speaker1: funny time to say this.
-speaker2: what?
-speaker1: wish i knew you better.
-speaker2: thanks.
-
-speaker1: szpilman! szpilman! 
-speaker2: papa!
-speaker2: papa! mama! halina!
-speaker3: what do you think you're doing, szpilman? i've saved your life! now, go on, save yourself!
-speaker3: don't run!
-
-speaker1: why are you here, mr. wladek? 
-speaker2: it's like this... i...we...all of them.
-speaker1: perhaps they're lucky. the quicker the better. it isn't over yet. we'll stay here for a couple of days. until things die down. i've bribed a policeman. he'll come when it's over.
-
-speaker1: my i haven't been outside for - it must be two years. 
-speaker2: don't get over-excited.
-
-speaker1: gold, buy gold! dollars! roubles! later: 
-speaker2: look - oh, do look!
-speaker2: jews!
-speaker3: can't be the first time you've ever seen jews.
-speaker4: someone you know?
-speaker5: yes.
-speaker4: a beauty. who is she?
-speaker5: a singer. her husband's an actor. i knew them well. good people. i'd like to talk to her.
-
-speaker1: halt! 
-speaker1: lie down!
-
-speaker1: how long have you been here? 
-speaker2: since last night. i was pleased to see you.
-speaker2: they're going to start the final resettlement now. we know what it means. we sent someone out. zygmunt. a good man. his orders were to follow the trains out of warsaw. he got to sokolow. a local railwayman told him the tracks are divided, one branch leading to treblinka. he said every day freight trains carrying people from warsaw forked to treblinka and returned empty. no transports of food are ever seen on that line. and civilians are forbidden to approach the treblinka station. they're exterminating us. won't take them long. we're sixty thousand left. out of half a million. mostly young people. and this time we're going to fight. we're in good shape. we're organised. we're prepared.
-speaker1: if you need help... whistle blows. a little later:
-
-speaker1: you! 
-speaker1: here!
-speaker1: und-zick! und-zack! und-zick! und- zack!
-speaker1: get him away from here.
-speaker2: hope you played the piano better than you carry bricks.
-speaker3: he won't last long if he goes on like this.
-speaker2: i'll see if i can get him something better.
-
-speaker1: trouble. 
-speaker2: assemble! fall in! only the jews! poles go on working! only the jews! poles go on working!
-speaker3: i have important and good news for you. there are rumours circulating that resettlement measures are again going to be taken.
-speaker3: i want to assure you personally that no such measures will be taken now or in the future. posters will be going up also to this effect. as proof of our good will, we want you to select a delegate, who will be permitted to go into town once a day to buy, on each worker's behalf, five kilos of potatoes and one loaf of bread, which you will be allowed to take back into the ghetto. now, why would we do that j if we meant to resettle you?
-speaker3: you can do good business on what you don't eat. isn't that what you jews are best at? making 'geld'? rubs thumb and forefinger and leers; still no reaction; his smile vanishes.
-speaker3: carry on.
-
-speaker1: majorek! 
-speaker1: have a favour to ask. i want to get out of here.
-speaker2: it's easy to get out, it's how you survive on the other side that's hard.
-
-speaker1: any plaster? 
-speaker2: what were you up to?
-speaker2: what the are those?
-speaker3: we're allowed to take food into the ghetto. five kilos of potatoes and a... the ss lieutenant walks over to the sacks and kicks the smallest one.
-speaker1: open it.
-speaker3: it's only potatoes and bread.
-speaker1: that, you're lying, i can smell it. open it.
-speaker1: you're all the same. give a jew a little finger, he takes the whole hand.
-speaker1: you lie to me again and i'll shoot you personally.
-
-speaker1: i tried your friends. they're not at that address any more. but. 
-speaker2: you made contact?
-speaker1: be ready to leave in two days' time. same place as last night.
-speaker2: oh,
-speaker3: und-zick! und-zack!
-speaker3: know why we beat you?
-speaker3: know why we beat you?
-speaker2: no. why?
-speaker3: to celebrate new year's eve!
-speaker3: now, march! go on, march!
-speaker3: and sing! sing something cheerful! and sing it good and loud!
-speaker4: hey, ranks unite and follow the white eagle! stand up and fight our mortal enemy. riflemen, hey! let's give them fire and brimstone. we'll blow away the yoke of slavery. punish and rout the rapists of our nation. we'll smash the knout to save our dignity. soon we'll be proud of our liberation -
-speaker4: hey, take your sights! aim sharply at the heart. hey, load! hey, shoot! hey, load! hey, shoot! give 'em a start! hey, load! hey, shoot! aim sharply at the heart.
-
-speaker1: you must hurry. 
-speaker1: we're going to have to keep moving you. the germans are hunting down indiscriminately now. jews, non- jews, anybody, everybody. see if these fit. and, wladek, you'd better shave. use my razor. in the cabinet.
-
-speaker1: thank you, i don't. 
-speaker2: you'll be looked after by mr gebczynski. he's on the other side of town. you'll stay there tonight. then we'll find you somewhere else.
-speaker3: i'll bring you food.
-speaker2: let's go.
-
-speaker1: it's not going to be very comfortable. 
-speaker2: i'll be fine.
-speaker1: you'll have to stay here until tomorrow afternoon.
-speaker1: we've got a flat for you. near the ghetto wall. but it's safe.
-
-speaker1: must feel better this side of the wall. 
-speaker2: yes, but sometimes i'm still not sure which side of the wall i'm on.
-speaker1: here.
-speaker1: i'll come again. and janina bogucki will visit twice a week. bring more food. see how you are.
-speaker3: gebczynski makes for the front door, stops.
-speaker1: yes, now, this is very important. in case of emergency, i mean emergency, go to this address.
-
-speaker1: puppydog, what d'you mean, you forgot? 
-speaker2: what d'you think i mean, kitten? i forgot, that's what i mean.
-speaker1: you know what? you treat me like dirt!
-speaker2: i treat you like dirt because you are dirt.
-speaker1: pig!
-speaker2: cow!
-speaker1: pig!
-speaker2: 
-speaker1: dirty pig!
-speaker2: you're a dirty pig!
-speaker1: takes one to know one! pig! silence. szpilman is enjoying himself.
-speaker2: you play like an angel, kitten.
-speaker1: if i play like an angel, why don't you listen?
-speaker2: i was listening, kitten.
-speaker1: liar, you fell asleep. pig!
-speaker2: kitten, let me in.
-
-speaker1: wanted to come earlier but... 
-speaker2: thank you.
-speaker1: no one thought they'd hold out so long.
-speaker2: should never have come out. i should've stayed there, fought with them.
-speaker1: wladek, stop that. it's over now. just be proud it happened. my did they put up a fight.
-speaker2: yes, so did the germans.
-speaker1: they're in shock. they didn't expect it. nobody expected it. jews fighting back? who'd have thought?
-speaker2: yes, but what good did it do?
-speaker1: what good? wladek, i'm surprised at you. they died with dignity, that's what good it did. and you know something else? now the poles will rise. we're ready. we'll fight, too. you'll see.
-
-speaker1: snow. ice on the windows. the sound of the key in the door. 
-speaker2: get your things together, you have to leave!
-speaker3: what's happened?
-speaker2: i'm on the run!
-speaker3: what's happened?
-speaker2: the gestapo found our weapons. they've arrested janina and andrzej. they're bound to find out about this place, too - you must get away at once.
-speaker3: where do you want me to go? look at me. no, no, i'm not leaving. can't i take my chances here?
-speaker2: that's your decision.
-
-speaker1: are you from the flat in there? you're not registered. 
-speaker2: it belongs to a friend of mine. i came to visit but i must have just missed him.
-speaker1: have you got your identity card? let me see your identity card!
-speaker1: i want to see your identity card!
-
-speaker1: yes? 
-speaker2: mr gebczynski sent me.
-speaker3: wladyslaw szpilman.
-speaker2: dorota.
-speaker3: come in! come in!
-speaker3: sit.
-speaker2: i'm sorry - i was given this address. i'm looking for a mr-- -- a mr dzikiewicz.
-speaker3: michal dzikiewicz. he's my husband.
-speaker2: i need help.
-speaker3: he'll be back before curfew.
-speaker2: i've been in hiding. i need somewhere to stay.
-speaker3: he'll be here soon.
-speaker2: how long have you been married?
-speaker3: just over a year.
-speaker2: and how's yurek?
-speaker3: dead.
-speaker2: when's your baby due?
-speaker3: christmas. this is not a good time to have children. but then... the door opens and michal dzikiewicz enters. he sees szpilman and stops. szpilman stands.
-speaker3: this is my husband. wladyslaw szpilman. marek gebczynski sent him.
-speaker4: oh, yes. i remember.
-speaker2: mr gebczynski said to contact you only in an emergency, but...
-speaker4: don't worry now. we can't move you tonight.
-speaker4: you'll sleep on the sofa.
-speaker2: excuse me, could i have a piece of bread?
-speaker4: yes, of course, we'll eat.
-
-speaker1: you're in a very german area. the building opposite is a hospital, taking in wounded from the russian front. next door is the schutzpolizei. it's the safest place to be. right in the centre of the lion's den. 
-speaker1: i'll be locking you in. no one knows you're here. so keep as quiet as possible.
-
-speaker1: all well? 
-speaker2: thank you.
-speaker1: this is antek szalas.
-speaker1: he's going to look after you. i've given him a second key. he'll bring you food. see that you're all right. he's with the underground, a good man.
-speaker3: you don't remember me, mr. szpilman?
-speaker2: no, i don't think so?
-speaker3: warsaw radio. i was a technician. i saw you almost every day.
-speaker2: sorry, i don't remember.
-speaker3: doesn't matter. you've nothing to worry about. i'll visit often.
-speaker1: and you'll be pleased to hear the allies are bombing germany night after night - cologne, hamburg, berlin.
-speaker3: and the russians are really giving them hell. it's the beginning of the end.
-speaker1: let's hope so. i don't know when i'll see you again?
-
-speaker1: still alive then, are you? here. sausage. bread. 
-speaker2: how long is this meant to last?
-speaker2: think i've got jaundice.
-speaker1: you don't want to worry about that. my grandfather was jilted by his girl friend when he got jaundice. in my opinion, jaundice is not very serious. drink up.
-speaker2: why didn't you come sooner? it's been over two weeks.
-speaker1: problems. money. i've got to raise money to buy the food. i need things to sell, it' s not easy.
-speaker2: sell this. food's more important than time.
-speaker1: oh, yes. i meant to tell you. the allies have landed in france. the russians'll be here soon. they'll beat the out of the germans. any day now.
-speaker3: wladek? wladek! i knew it, i knew this would happen!
-speaker3: i'm going to get a doctor.
-speaker4: you can't, it's too dangerous.
-speaker3: i'll get dr luczak, we can trust him.
-speaker4: dorota, don't be ridiculous, he's a pediatrician.
-speaker3: he's still a doctor.
-speaker4: no, you stay, i'll go. he leaves. the padlock sound.
-speaker3: we came to say goodbye. we're going to stay with my mother in otwock.the baby's already there. it's safer. there's talk that the uprising will begin any day now.
-speaker3: that man szalas should be shot. he's been collecting money on your behalf all over warsaw. apparently, people gave generously. so he collected a tidy sum. he told us he was visiting you daily.
-speaker3: oh later:
-speaker5: acute inflammation of the gall bladder. liver the size of a football. but he'll live. i'll try to get hold of some levulose, but it's not easy.
-speaker3: can you visit him again?
-speaker5: who knows?
-speaker2: doctor, thank you.
-speaker5: don't speak. rest.
-speaker3: michal brought food. i'll prepare something now for you, then we must go.
-
-speaker1: where? where? just get out! everywhere! get out into the street! 
-speaker2: get out now! the germans have surrounded the building! they're going to blow us to pieces.
-
-speaker1: fourth floor, fischke! 
-speaker1: at the double, fischke!
-
-speaker1: who the are you? 
-speaker1: who are you?
-speaker1: what the are you doing?
-speaker2: i was... i was trying to open this tin.
-speaker1: where do you live?
-speaker1: what's your work?
-speaker2: i am... i was a pianist.
-speaker1: a pianist.
-
-speaker1: play. 
-speaker1: are you hiding here?
-speaker1: jew?
-speaker1: where are you hiding?
-speaker2: in the attic.
-speaker1: show me.
-speaker1: have you anything to eat?
-speaker1: i'll bring you something.
-
-speaker1: open up. 
-speaker2: please.
-speaker2: what's all that gunfire?
-speaker1: the russians. on the other side of the river. all you have to do is hang on for a few more weeks. he goes quickly.
-
-speaker1: come down. 
-speaker2: what's happening?
-speaker1: we're getting out.
-speaker2: are the russians here?
-speaker1: not yet.
-speaker2: i don't know how to thank you.
-speaker1: don't thank me. thank it's his will that we should survive. well. that's what we have to believe.
-speaker2: what about you?
-speaker1: i've got another one. warmer. what will you do when it's all over?
-speaker2: i'll play the piano again. on polish radio.
-speaker1: tell me your name. i'll listen out for you.
-speaker2: szpilman.
-speaker1: szpilman. good name for a pianist.
-
-speaker1: ...german army! polish soil liberated! official! 
-speaker2: german! german!
-
-speaker1: stop, for sake, i beg you, i'm polish! 
-speaker1: don't shoot! i'm polish!
-speaker2: he's polish!
-speaker3: come out with your hands up.
-speaker1: don't shoot! i'm polish! please, please! i'm polish!
-speaker2: yes, he's polish!
-speaker3: why the coat?
-speaker1: i'm cold.
-speaker3: take him to headquarters.
-speaker4: look at them - bastards!
-speaker5: german
-speaker6: i prayed for this, never thought i'd see it.
-speaker7: murderers! assassins! look at you now! you took everything i had! me, a musician! you took my violin! you took my soul!
-speaker8: do you happen to know another musician, a mr szpilman? a pianist! polish radio?
-speaker7: yes, of course, i know szpilman.
-speaker8: i helped mr szpilman when he was in hiding. tell him i'm here. ask him to help me... a russian guard, inside the compound, approaches, grabs hold of the german captain.
-speaker9: hey! no talking to the prisoners. get away from there!
-speaker7: what's your name?
-speaker7: what?
-
-speaker1: it was here, i'm certain of it. 
-speaker2: it's not here now.
-speaker1: i shouted abuse at them, i'm not proud of it, but that's what i did, and, i'm certain, i stood where you are now. there was barbed wire, and this german came up to me.
-speaker2: you didn't catch his name.
-speaker1: no. i'll ask at the factory. they may know something. lednicki goes.
+DOROTA: mr. szpilman. 
+SZPILMAN: hello.
+DOROTA: i came specially to meet you today. i love your playing, but what a day to choose.
+SZPILMAN: who are you?
+DOROTA: my name's dorota, i'm jurek's sister. oh! you're bleeding.
+SZPILMAN: it's nothing.
+JUREK: c'mon, dorota, you can write him a fan letter later, this isn't the best time, c'mon.
+
+FATHER: what you think, should i take uncle szymon's photograph? 
+MOTHER: take it, don't take it, take what you like. can't you see i'm worried sick?
+FATHER: he'll come home, he'll be all right.
+REGINA: mama, wladek's home.
+MOTHER: thank - wladek! you're wounded.
+SZPILMAN: it's a little cut, nothing.
+MOTHER: i've been worried sick.
+HENRYK: i told her not to worry. you had your papers on you. if you'd been hit by a bomb, they'd have known where to take you.
+MOTHER: henryk, don't say things like that, forbid, forbid.
+HALINA: papa, wladek's home.
+FATHER: what did i tell you?
+SZPILMAN: what are you doing?
+REGINA: what's it look like we're doing?
+SZPILMAN: they bombed us, we're off the air.
+HENRYK: warsaw's not the only radio station.
+MOTHER: pack, darling, get your things, pack.
+SZPILMAN: where are we going?
+MOTHER: out of warsaw.
+SZPILMAN: out of warsaw. where?
+REGINA: you haven't heard?
+SZPILMAN: heard what?
+REGINA: haven't you seen the paper? where's the paper?
+HALINA: i used it for packing.
+REGINA: she used it for packing.
+FATHER: the government's moved to lublin.
+HALINA: all able-bodied men must leave the city, go across the river and set up a new line of defence, that's what it said.
+FATHER: there's hardly anybody left in this building, only women, the men have gone.
+SZPILMAN: and what do you think you'll do while you're setting up a new line of defence? wander round lugging your suitcases?
+MOTHER: pack, wladek, there's no time.
+SZPILMAN: i'm not going anywhere.
+HALINA: good! i'm not going anywhere either!
+MOTHER: don't be ridiculous, we've got to keep together.
+SZPILMAN: no, no, no, i'm staying put. if i'm going to die, i prefer to die at home.
+MOTHER: forbid!
+HENRYK: sssh! crackles, whistles and static from the radio.
+HENRYK: ssh! i've got something, listen...
+RADIO ANNOUNCER: ... an important announcement. news has just been received through the bbc that great britain, having had no reply... ...and therefore has declared war on germany... ... next few hours... awaiting latest news...
+RADIO ANNOUNCER: ... but france is expected to make a similar announcement... ... poland is no longer alone.
+HENRYK: mama, that was a great dinner.
+SZPILMAN: it certainly was.
+MOTHER: when there's something to celebrate, you've got to make an effort.
+FATHER: here's to great britain and france.
+FATHER: i told you. didn't i tell you? all will be well.
+
+FATHER: five thousand and three. 
+MOTHER: is that all?
+FATHER: yes, five thousand and three zlotys, that's all we've got left.
+REGINA: it's three thousand and three zlotys too much, 're: further restrictions regarding liquid assets: jews will be allowed to keep a maximum of two thousand zlotys in their homes.'
+MOTHER: what are we supposed to do with the rest?
+HALINA: deposit it in a bank. blocked account.
+HENRYK: banks? who'd be stupid enough to deposit money in a german bank?
+REGINA: we could hide the money here in the window frame.
+FATHER: no, no, no. i'll tell you what we'll do. we'll use tried and tested methods. you know what we did in the last war? we made a hole in the table leg and we hid the money in there.
+HENRYK: and suppose they take the table away?
+MOTHER: what d'you mean, take the table away?
+HENRYK: the germans go into jewish homes and they just take what they want, furniture, valuables, anything.
+MOTHER: do they?
+FATHER: what would they want with a table?
+MOTHER: what on earth are you doing?
+HALINA: there's a good place under the cupboard.
+HENRYK: no, no. listen, i've been thinking --
+SZPILMAN: that makes a change.
+HENRYK: you know what we do? we use psychology.
+SZPILMAN: we use what?
+HENRYK: we leave the money and the watch on the table. and we cover it like this. in full view. the germans will search high and low, i promise you, they'll never notice it.
+SZPILMAN: of course they'll notice it. but look-- this is a good place for something.
+HENRYK: a good place for what? he's insane!
+SZPILMAN: just shut up.
+FATHER: my violin?
+REGINA: quiet! quiet! order, please, order!
+HALINA: she's a lawyer, she likes order.
+REGINA: listen, just listen. let's come to an agreement. we jam the money in the window frame. the watch we hide under the cupboard. and the chain we put in the violin.
+FATHER: will i still be able to play?
+SZPILMAN: let's find out.
+
+SZPILMAN: jurek? wladek szpilman. 
+JUREK: wladek! how are you?
+SZPILMAN: fine, we're fine, thank you, and you?
+JUREK: fine, we're fine in the circumstances. but i can guess what you've called about. there's nothing we can do; they won't reopen the station--
+SZPILMAN: yes, i know, but jurek, jurek...
+JUREK: ...not even music, nothing, no radios for the poles. but i'm sure you'll find work, wladek, a pianist like you.
+SZPILMAN: maybe, maybe not, but, jurek, don't be offended, i didn't call to discuss my future career.
+
+DOROTA: i nagged jurek for weeks and weeks. and at last he gave in and said, 'all right, come with me tomorrow,' and so i came and they bombed the station. 
+SZPILMAN: you know something? meeting you like that was absolutely wonderful.
+DOROTA: really?
+SZPILMAN: yes! it was...it was unforgettable.
+DOROTA: i've always loved your playing, mr. szpilman.
+SZPILMAN: wladek, please.
+DOROTA: no one plays chopin like you.
+SZPILMAN: i could accompany you, me on the piano, you on the cello.
+DOROTA: oh, mr szpilman, you're quite... quite wonderful.
+SZPILMAN: wladek, please.
+
+FATHER: 're: emblems for jews in the warsaw district. i hereby order that all jews in the warsaw district will wear visible emblems when out of doors. this decree will come into force on the 1st december 1939 and applies to all jews over twelve years of age. the emblem will be worn on the right sleeve and will represent a blue star of david on a white background. the background must be sufficiently large for the star to measure eight centimetres from point to point. the width of the arms of the star must be one centimetre. jews who do not respect this decree will be severely punished. governor of warsaw district, dr. fischer.' silence. then: 
+HENRYK: i won't wear it.
+REGINA: won't wear it. i'm not going to be branded.
+SZPILMAN: let me see this.
+FATHER: doesn't it say we have to provide these armbands ourselves? where will we get them?
+HENRYK: we're not going to get them. we're not going to wear them!
+
+GERMAN OFFICER: you! 
+GERMAN OFFICER: why didn't you bow?
+FATHER: i'm sorry i...
+GERMAN OFFICER: you are forbidden to walk on the pavement. walk in the gutter!
+
+HALINA: have you seen this? 
+SZPILMAN: what, i'm working, what?
+
+SZPILMAN'S VOICE: what is it? 
+HALINA'S VOICE: that's where they're going to put us.
+SZPILMAN'S VOICE: what d'you mean, put us?
+
+HALINA: 'by order of the governor of the warsaw district, dr. fischer, concerning the establishment of the jewish district in warsaw. there will be created a jewish district in which all jews living in warsaw or moving to warsaw will have to reside." and look here: 'jews living outside of the prescribed area will have to move to the jewish district by 31st of october 1940.' szpilman gazes at the map, horrified. 
+SZPILMAN: but...they won't get all of us... we'll...it's too small...there's four hundred thousand of us in warsaw!
+HENRYK: no. three hundred and sixty thousand, so it'll be easy.
+
+HALINA: mama, what is it? 
+MOTHER: twenty zlotys. that's all we've got left. what can i buy with twenty zlotys? i'm sick of cooking potatoes, potatoes, potatoes.
+
+MR LIPA: that's the price. that's what i'm offering. and my advice is to accept. you won't get more from anyone else. 
+REGINA: but...but it's a steinway, mr lipa...
+MR LIPA: two thousand. my advice is to take it. what you going to do when you're hungry? eat the piano?
+HENRYK: get out! you're a thieving bastard, we don't want your money, get out! we'd rather give it away! get out!
+MR LIPA: hey! hey! what's the matter with you? haven't you eaten today, what you suffering from? hey!
+REGINA: henryk, stop it, leave him alone.
+MR LIPA: you people are crazy! i'm doing you a favour, two thousand, and i'm paying for the removal, i'm not even charging for the removal.
+MR LIPA: you haven't eaten today, you're crazy...
+SZPILMAN: take it.
+
+SZPILMAN: dorota! 
+DOROTA: i didn't want to come, i didn't want to see all this, but i couldn't stop myself.
+SZPILMAN: how are you doing?
+DOROTA: fine, no, not really, they arrested my cousin, but jurek says they'll let him out. this is disgraceful.
+SZPILMAN: don't worry, it won't last long.
+DOROTA: that's what i said, it's so - it's too absurd!
+SZPILMAN: i'll see you...soon.
+
+FATHER: to tell you the truth, i thought it would be worse. 
+SZPILMAN: how will we sleep?
+MOTHER: i'll sleep with the girls in the kitchen. you, henrykc and papa in here.
+HALINA: look! come and look! they all go to the window and look out. their pov - the street.
+
+SZPILMAN: you sell anything? 
+HENRYK: just one. dostoevsky. the three zlotys.
+SZPILMAN: that's better than yesterday.
+HENRYK: three lousy zlotys. and there are people here making millions.
+SZPILMAN: i know.
+HENRYK: you don't know, believe me. they bribe the guards. the guards turn a blind eye. they're bringing in cartloads, food, tobacco, liquor, french cosmetics, and the poor are dying all around them and they don't give a
+THE FEATHER WOMAN: excuse me, but have you by any chance seen my husband izaak szerman?
+SZPILMAN: i'm afraid not.
+THE FEATHER WOMAN: a tall handsome man with a little grey beard?
+THE FEATHER WOMAN: no? oh, do forgive me. goodbye, sleep well, if you see him, please do write, izaak szerman's his name...
+HENRYK: sometimes i wish i could go mad.
+
+THE NERVOUS MAN: this is totally insane; why do we have to have a gentile street running through our area? can't they go around? 
+HENRYK: don't worry about it, they're about to build a bridge, haven't you heard?
+THE NERVOUS MAN: a bridge, a schmidge, and the germans claim to be intelligent. you know what i think? i think they're totally stupid. i've got a family to feed and i spend half my time here waiting for them to let us through.
+THE GERMAN SOLDIER: dance!
+SOLDIERS: faster! go on, faster! dance!
+SOLDIERS: dance! dance!
+MOTHER: good, they're here. yitzchak heller's been waiting for you, henryk.
+HENRYK: what's this about?
+MOTHER: sit down, have tea, i'll start lunch when the girls get back.
+HENRYK: so, what are you doing here?
+FATHER: he brought cakes.
+FATHER: his father's back in the jewellery business and doing well, isn't that so, yitzchak? amazing. jewellery.
+HELLER: we're recruiting.
+HENRYK: who's recruiting?
+HELLER: don't be clever with me, henryk. i've come here as a friend. they're bringing jews in from all over the country. soon there'll be half a million people in the ghetto. we need more jewish police...
+HENRYK: oh? more jewish police? you mean you want me to wear a cap like yours, beat up jews with my truncheon and catch the gestapo spirit. i see!
+HELLER: someone's got to do it, henryk.
+HENRYK: but why me? i thought you only recruited boys with rich fathers. look at my father, look at us, i mean...
+HELLER: yes, i'm looking at you and that's why i'm here. your whole family can have a better life. you want to go on struggling for survival, selling books on the street?
+HENRYK: yes, please.
+HELLER: i'm doing you people a favour. and what about you, wladek? you're a great pianist. and we've got an excellent police jazz band. they'd welcome you with open arms. join us. you've got no work...
+SZPILMAN: thank you. but i've got work.
+
+BENEK: i'm sorry, mr wladek, he wants you to stop. 
+SZPILMAN: who wants me to stop?
+
+JEHUDA: i always say look on the bright side. you're in the small ghetto, intellectuals, professional people, you're better off than us. here, in the large ghetto, it's a cesspool. but you, you're living in monte carlo. you could say you're privileged and that, of course, goes against my principles. nevertheless... 
+JEHUDA: ah, here. today's news from the other side.
+SZPILMAN: you're amazing, jehuda.
+JEHUDA: no, i'm a socialist. i have brothers everywhere. they bring me news and food. we care about our fellow human beings. workers of the world unite.
+SZPILMAN: so, what's the news?
+JEHUDA: the germans are advancing on kharkhov.
+SZPILMAN: i don't know why i come here every evening, it's always such bad news.
+JEHUDA: bad news, you crazy? you have no world view, wladek, that's your trouble. the news couldn't be better. the moment hitler invaded russia, i knew we'd be all right. remember napoleon. same business. the germans will freeze to death, please
+SZPILMAN: jehuda, give me something to do.
+JEHUDA: you're an artist, wladek, you keep people's spirits up. you do enough.
+SZPILMAN: but i want to help, i want to.
+JEHUDA: you're too well known, wladek. and you know what? you musicians don't make good conspirators. you're too...too musical.
+SZPILMAN: there are notices going up. the city's to be cleansed of undesirables.
+JEHUDA: there are always notices going up.
+MAJOREK: hello, symche, dolek, mrs zyskind, jehuda. working hard?
+JEHUDA: majorek, this is the greatest pianist in poland, maybe in the whole world. wladyslaw szpilman. meet majorek.
+MAJOREK: i know your name. i've never heard you play.
+JEHUDA: majorek used to be in the army. brilliant man. he's got a mind like a searchlight. the only thing i've got against him is he's not a socialist. you'd better go now, wladek. it's nearly curfew. you see these, wladek? you know how many copies we print of our newspaper?
+JEHUDA: five hundred. you know how many people on average read one copy? twenty. that makes ten thousand readers. these will start the uprising. majorek hides them in his underpants. and leaves them in toilets.
+SZPILMAN: toilets?
+MAJOREK: as many toilets as i can find. germans never go into jewish toilets. they're too clean for them.
+
+MOTHER: and, please, tonight, for once, i don't want anything bad talked about. let's enjoy our meal. 
+HENRYK: okay, then i'll tell you something funny. you know who i mean by dr. raszeja.
+REGINA: the surgeon?
+HENRYK: the surgeon. well, for some reason, don't ask me why, the germans allowed him into the ghetto to perform an operation...
+HALINA: on a jew? they allowed a pole to come in to operate on a jew?
+HENRYK: he got a pass, that's all i know. anyway, he puts the patient to sleep and starts the operation. he'd just made the first incision when the ss burst in, shoot the patient lying on the table, and then shoot dr. raszeja and everybody else who was there. isn't that a laugh? the patient didn't feel a thing, he was anaesthetised - he laughs. no one else does.
+MOTHER: henryk, i said nothing bad.
+HENRYK: what's the matter with you all? have you lost your sense of humour?
+SZPILMAN: it's not funny.
+HENRYK: well, you know what's funny? you're funny with that ridiculous tie.
+SZPILMAN: what are you talking about, my tie? what's my tie got to do with anything? i need the tie for my work.
+MOTHER: boys, boys...
+HENRYK: your work, yes, playing the piano for all the parasites in the ghetto, they don't give a about people's sufferings, they don't even notice what's going on around them!
+FATHER: i blame the americans.
+SZPILMAN: for what? for my tie?
+FATHER: american jews, and there's lots of them, what have they done for us? what do they think they're doing? people here are dying, haven't got a bite to eat. the jewish bankers over there should be persuading america to declare war on germany!
+
+NCO: stand up! 
+NCO: stand up!
+
+SZPILMAN: what's happened? 
+HALINA: oh my it's terrible, you've got to do something, oh my
+SZPILMAN: calm down, what, what is it?
+HALINA: they're hunting people on the streets. they've picked up henryk.
+
+THE FEATHER WOMAN: excuse me, but have you seen my husband izaak szerman? 
+SZPILMAN: i'm afraid not. he tries to dodge past but she grabs his arm.
+THE FEATHER WOMAN: he's tall, he's handsome. he has a little grey beard. if you see him, please do write, izaak szerman's his name, don't forget. szpilman manages to free himself and runs on.
+
+SZPILMAN: what's happening? 
+THE ELDERLY MAN: they've got my grandson in there. they pick 'em up, they take 'em away. what do they do to them? i've stopped believing in
+SZPILMAN: yitzchak!
+SZPILMAN: yitzchak!
+SZPILMAN: here, please! wladek szpilman!
+SZPILMAN: henryk's in there.
+HELLER: i haven't seen him.
+SZPILMAN: believe me, they've picked him up.
+HELLER: tough luck.
+SZPILMAN: can you help?
+HELLER: oh, you need me now, yes, now you need me!
+SZPILMAN: can you help us?
+HELLER: it costs.
+SZPILMAN: i've no money.
+HELLER: then there's nothing i can do. he should've joined us when i gave him the chance..
+SZPILMAN: yitzchak, they told me you had influence.
+HELLER: who told you?
+SZPILMAN: people i know. they said you're an important man.
+
+RUBINSTEIN'S VOICE: boys, keep your peckers up! and girls, keep your legs crossed! 
+RUBINSTEIN: don't let 'em get you down - he approaches a couple of shupos.
+RUBINSTEIN: bandits! crooks! thieves!
+1ST SHUPO: good day, herr rubinstein.
+RUBINSTEIN: if that means good day, i'm your man, you gangsters, robbers, pirates!
+2ND SHUPO: mad!
+RUBINSTEIN: ich bin meshuge, you bandit!
+HENRYK: you go to heller, did i ask you to talk to him?
+SZPILMAN: you're out, aren't you?
+HENRYK: did you beg, did you grovel to that piece of that cockroach?
+SZPILMAN: i didn't grovel, i asked him to help.
+HENRYK: what did you pay him?
+SZPILMAN: pay him? with what? with what could i pay him? every zloty i earn we spend on food!
+HENRYK: i can look after myself!
+SZPILMAN: they were taking you away.
+HENRYK: it's nothing to do with you. it's me they wanted, not you. why do you interfere in other people's business?
+SZPILMAN: you're mad, that's your trouble, you're mad.
+HENRYK: that's also my business.
+
+SZPILMAN: what's the matter? are you sick? 
+HENRYK: hungry.
+
+SZPILMAN: what's that mean, no employment certificate? 
+HENRYK: you have to have an employment certificate to work for one of the german firms in the ghetto, otherwise...
+SZPILMAN: otherwise what?
+HENRYK: you'll be deported.
+BENEK: so the rumours were true...
+HENRYK: they're going to resettle us. send us to labour camps. in the east. and they're closing the small ghetto.
+
+JEHUDA: wladek! 
+JEHUDA: i thought you'd be off on tour, playing london, paris, new york?
+SZPILMAN: not this week.
+JEHUDA: i have to say you look terrible. what's the trouble?
+SZPILMAN: you've heard the rumours they're going to resettle us in the east?
+JEHUDA: rumours, rumours, you take it all too much to heart, wladek.
+SZPILMAN: i've been trying to get a certificate of employment for my father. i've managed to get certificates for me and the rest of the family but i need one more for my father. i've been trying all the firms, the shops...
+JEHUDA: why didn't you come to me?
+SZPILMAN: i didn't know you were in the certificate business.
+JEHUDA: i'm not, but majorek is.
+SZPILMAN: can you help? i've no money...
+JEHUDA: please, don't insult us. can you do something for him?
+MAJOREK: be at the schultz workshop, tomorrow, four o'clock.
+JEHUDA: you see what a wonderful piece of luck you've had today? that's die historical imperative in action and that's why i always say, look on...
+SZPILMAN: ...the bright side, yes, i know.
+
+FATHER: thank you. 
+SCHULTZ: my pleasure. it won't help you anyway.
+
+FATHER: at least we've got work in the ghetto. at least we're still together. 
+NCO: out! assemble in the yard!
+SZPILMAN: we're employed here, we've got certificates -
+
+NCO: the rest of you get dressed then report back here. bring your belongings. fifteen kilos only. 
+A YOUNG WOMAN: where are you taking us?
+
+SZPILMAN: i'm sorry, i did my best, i thought the certificates would save us all. 
+MOTHER: stop it, wladek.
+REGINA: let's just hope that henryk and halina will be better off -
+
+REGINA: where will we be going? 
+JEWISH POLICEMAN #1: you're going to work. you'll be much better off than in this stinking ghetto. the gates are the gates are opened.
+JEWISH POLICEMAN #2: move!
+
+THE YOUNG WOMAN: why did i do it? why did i do it? 
+THE YOUNG WOMAN: why did i do it? why did i do it?
+WOMAN WITH CHILD: he's dying, don't you have a drop of water? my child's dying of thirst, he's dying, he's dying, i beg you!
+A MAN'S VOICE: i'm telling you, it's a disgrace.
+FATHER: i can hear you.
+DR. EHRLICH: we're letting them take us to our death like sheep to the slaughter!
+FATHER: dr. ehrlich, not so loud!
+DR. EHRLICH: why don't we attack them? there's half a million of us, we could break out of the ghetto. at least we could die honourably, not as a stain on the face of history!
+GRUN: why you so sure they're sending us to our death?
+DR. EHRLICH: i'm not sure. you know why i'm not sure? because they didn't tell me. but i'm telling you they plan to wipe us all out!
+FATHER: dr. ehrlich, what do you want me to do? you want me to fight?
+GRUN: to fight you need organisation, plans, guns!
+FATHER: he's right. what d'you think i can do? fight them with my violin bow?
+GRUN: the germans would never squander a huge labour force like this. they're sending us to a labour camp.
+DR. EHRLICH: oh, sure. look at that cripple, look at those old people, the children, they're going to work? look at mr szpilman here, he's going to carry iron girders on his back?
+MOTHER: henryk!
+REGINA: oh my
+MOTHER: halina! henryk!
+HALINA: we heard you were here...we...didn't want...we...we wanted to be with you.
+SZPILMAN: stupid, stupid!
+THE YOUNG WOMAN: why did i do it? why did i do it? szpilman stands and stares at her. later: the sun lower but the heat still intense.
+THE YOUNG WOMAN: why did i do it? why did i do it?
+HALINA: she's getting on my nerves. what did she do, for sake?
+GRUN: she smothered her baby.
+GRUN: they'd prepared a hiding place and so, of course, they went there. but the baby cried just as the police came. she smothered the cries with her hands. the baby died. a policeman heard the death rattle. he found where they were hiding. later: szpilman and henryk.
+SZPILMAN: what are you reading?
+HENRYK: 'if you us, do we not bleed? if you tickle us, do we not laugh? if you poison us, do we not die? and if you wrong us, shall we not revenge?' szpilman takes the book and reads the title page:
+
+SZPILMAN: very appropriate. 
+HENRYK: yes, that's why i brought it. later:
+HENRYK: what's he think he's going to do with the money?
+FATHER: how much for a caramel?
+THE SWEET BOY: twenty zlotys.
+FATHER: what? for one caramel? what d'you think you're going to do with the money?
+THE SWEET BOY: twenty zlotys.
+
+SZPILMAN: halina? 
+HALINA: what?
+SZPILMAN: funny time to say this.
+HALINA: what?
+SZPILMAN: wish i knew you better.
+HALINA: thanks.
+
+A VOICE: szpilman! szpilman! 
+SZPILMAN: papa!
+SZPILMAN: papa! mama! halina!
+HELLER: what do you think you're doing, szpilman? i've saved your life! now, go on, save yourself!
+HELLER: don't run!
+
+BENEK: why are you here, mr. wladek? 
+SZPILMAN: it's like this... i...we...all of them.
+BENEK: perhaps they're lucky. the quicker the better. it isn't over yet. we'll stay here for a couple of days. until things die down. i've bribed a policeman. he'll come when it's over.
+
+SZPILMAN: my i haven't been outside for - it must be two years. 
+FELLOW WORKER: don't get over-excited.
+
+DEALERS: gold, buy gold! dollars! roubles! later: 
+THE YOUNG WOMAN: look - oh, do look!
+THE YOUNG WOMAN: jews!
+THE YOUNG MAN: can't be the first time you've ever seen jews.
+BENEK: someone you know?
+SZPILMAN: yes.
+BENEK: a beauty. who is she?
+SZPILMAN: a singer. her husband's an actor. i knew them well. good people. i'd like to talk to her.
+
+YOUNG SS MAN: halt! 
+YOUNG SS MAN: lie down!
+
+SZPILMAN: how long have you been here? 
+MAJOREK: since last night. i was pleased to see you.
+MAJOREK: they're going to start the final resettlement now. we know what it means. we sent someone out. zygmunt. a good man. his orders were to follow the trains out of warsaw. he got to sokolow. a local railwayman told him the tracks are divided, one branch leading to treblinka. he said every day freight trains carrying people from warsaw forked to treblinka and returned empty. no transports of food are ever seen on that line. and civilians are forbidden to approach the treblinka station. they're exterminating us. won't take them long. we're sixty thousand left. out of half a million. mostly young people. and this time we're going to fight. we're in good shape. we're organised. we're prepared.
+SZPILMAN: if you need help... whistle blows. a little later:
+
+ZICK-ZACK: you! 
+ZICK-ZACK: here!
+ZICK-ZACK: und-zick! und-zack! und-zick! und- zack!
+ZICK-ZACK: get him away from here.
+BARTCZAK: hope you played the piano better than you carry bricks.
+POLISH WORKMAN: he won't last long if he goes on like this.
+BARTCZAK: i'll see if i can get him something better.
+
+WORKER: trouble. 
+A GERMAN VOICE: assemble! fall in! only the jews! poles go on working! only the jews! poles go on working!
+SS CAPTAIN: i have important and good news for you. there are rumours circulating that resettlement measures are again going to be taken.
+SS CAPTAIN: i want to assure you personally that no such measures will be taken now or in the future. posters will be going up also to this effect. as proof of our good will, we want you to select a delegate, who will be permitted to go into town once a day to buy, on each worker's behalf, five kilos of potatoes and one loaf of bread, which you will be allowed to take back into the ghetto. now, why would we do that j if we meant to resettle you?
+SS CAPTAIN: you can do good business on what you don't eat. isn't that what you jews are best at? making 'geld'? rubs thumb and forefinger and leers; still no reaction; his smile vanishes.
+SS CAPTAIN: carry on.
+
+SZPILMAN: majorek! 
+SZPILMAN: have a favour to ask. i want to get out of here.
+MAJOREK: it's easy to get out, it's how you survive on the other side that's hard.
+
+SS LIEUTENANT: any plaster? 
+SS LIEUTENANT'S VOICE: what were you up to?
+SS LIEUTENANT'S VOICE: what the are those?
+SZPILMAN: we're allowed to take food into the ghetto. five kilos of potatoes and a... the ss lieutenant walks over to the sacks and kicks the smallest one.
+SS LIEUTENANT: open it.
+SZPILMAN: it's only potatoes and bread.
+SS LIEUTENANT: that, you're lying, i can smell it. open it.
+SS LIEUTENANT: you're all the same. give a jew a little finger, he takes the whole hand.
+SS LIEUTENANT: you lie to me again and i'll shoot you personally.
+
+MAJOREK: i tried your friends. they're not at that address any more. but. 
+SZPILMAN: you made contact?
+MAJOREK: be ready to leave in two days' time. same place as last night.
+SZPILMAN: oh,
+ZICK-ZACK: und-zick! und-zack!
+ZICK-ZACK: know why we beat you?
+ZICK-ZACK: know why we beat you?
+SZPILMAN: no. why?
+ZICK-ZACK: to celebrate new year's eve!
+ZICK-ZACK: now, march! go on, march!
+ZICK-ZACK: and sing! sing something cheerful! and sing it good and loud!
+ALL WORKERS: hey, ranks unite and follow the white eagle! stand up and fight our mortal enemy. riflemen, hey! let's give them fire and brimstone. we'll blow away the yoke of slavery. punish and rout the rapists of our nation. we'll smash the knout to save our dignity. soon we'll be proud of our liberation -
+ALL WORKERS: hey, take your sights! aim sharply at the heart. hey, load! hey, shoot! hey, load! hey, shoot! give 'em a start! hey, load! hey, shoot! aim sharply at the heart.
+
+BOGUCKI: you must hurry. 
+BOGUCKI: we're going to have to keep moving you. the germans are hunting down indiscriminately now. jews, non- jews, anybody, everybody. see if these fit. and, wladek, you'd better shave. use my razor. in the cabinet.
+
+SZPILMAN: thank you, i don't. 
+BOGUCKI: you'll be looked after by mr gebczynski. he's on the other side of town. you'll stay there tonight. then we'll find you somewhere else.
+JANINA: i'll bring you food.
+BOGUCKI: let's go.
+
+GEBCZYNSKI: it's not going to be very comfortable. 
+SZPILMAN: i'll be fine.
+GEBCZYNSKI: you'll have to stay here until tomorrow afternoon.
+GEBCZYNSKI: we've got a flat for you. near the ghetto wall. but it's safe.
+
+GEBCZYNSKI: must feel better this side of the wall. 
+SZPILMAN: yes, but sometimes i'm still not sure which side of the wall i'm on.
+GEBCZYNSKI: here.
+GEBCZYNSKI: i'll come again. and janina bogucki will visit twice a week. bring more food. see how you are.
+THE MAIN ROOM.: gebczynski makes for the front door, stops.
+GEBCZYNSKI: yes, now, this is very important. in case of emergency, i mean emergency, go to this address.
+
+KITTEN'S VOICE: puppydog, what d'you mean, you forgot? 
+PUPPYDOG'S VOICE: what d'you think i mean, kitten? i forgot, that's what i mean.
+KITTEN'S VOICE: you know what? you treat me like dirt!
+PUPPYDOG'S VOICE: i treat you like dirt because you are dirt.
+KITTEN'S VOICE: pig!
+PUPPYDOG'S VOICE: cow!
+KITTEN'S VOICE: pig!
+PUPPYDOG'S VOICE: 
+KITTEN'S VOICE: dirty pig!
+PUPPYDOG'S VOICE: you're a dirty pig!
+KITTEN'S VOICE: takes one to know one! pig! silence. szpilman is enjoying himself.
+PUPPYDOG'S VOICE: you play like an angel, kitten.
+KITTEN'S VOICE: if i play like an angel, why don't you listen?
+PUPPYDOG'S VOICE: i was listening, kitten.
+KITTEN'S VOICE: liar, you fell asleep. pig!
+PUPPYDOG'S VOICE: kitten, let me in.
+
+JANINA: wanted to come earlier but... 
+SZPILMAN: thank you.
+JANINA: no one thought they'd hold out so long.
+SZPILMAN: should never have come out. i should've stayed there, fought with them.
+JANINA: wladek, stop that. it's over now. just be proud it happened. my did they put up a fight.
+SZPILMAN: yes, so did the germans.
+JANINA: they're in shock. they didn't expect it. nobody expected it. jews fighting back? who'd have thought?
+SZPILMAN: yes, but what good did it do?
+JANINA: what good? wladek, i'm surprised at you. they died with dignity, that's what good it did. and you know something else? now the poles will rise. we're ready. we'll fight, too. you'll see.
+
+EXT./INT.  1ST APARTMENT - DAY: snow. ice on the windows. the sound of the key in the door. 
+GEBCZYNSKI: get your things together, you have to leave!
+SZPILMAN: what's happened?
+GEBCZYNSKI: i'm on the run!
+SZPILMAN: what's happened?
+GEBCZYNSKI: the gestapo found our weapons. they've arrested janina and andrzej. they're bound to find out about this place, too - you must get away at once.
+SZPILMAN: where do you want me to go? look at me. no, no, i'm not leaving. can't i take my chances here?
+GEBCZYNSKI: that's your decision.
+
+KITTY: are you from the flat in there? you're not registered. 
+SZPILMAN: it belongs to a friend of mine. i came to visit but i must have just missed him.
+KITTY: have you got your identity card? let me see your identity card!
+KITTY: i want to see your identity card!
+
+WOMAN'S VOICE: yes? 
+SZPILMAN: mr gebczynski sent me.
+DOROTA: wladyslaw szpilman.
+SZPILMAN: dorota.
+DOROTA: come in! come in!
+DOROTA: sit.
+SZPILMAN: i'm sorry - i was given this address. i'm looking for a mr-- -- a mr dzikiewicz.
+DOROTA: michal dzikiewicz. he's my husband.
+SZPILMAN: i need help.
+DOROTA: he'll be back before curfew.
+SZPILMAN: i've been in hiding. i need somewhere to stay.
+DOROTA: he'll be here soon.
+SZPILMAN: how long have you been married?
+DOROTA: just over a year.
+SZPILMAN: and how's yurek?
+DOROTA: dead.
+SZPILMAN: when's your baby due?
+DOROTA: christmas. this is not a good time to have children. but then... the door opens and michal dzikiewicz enters. he sees szpilman and stops. szpilman stands.
+DOROTA: this is my husband. wladyslaw szpilman. marek gebczynski sent him.
+MICHAL: oh, yes. i remember.
+SZPILMAN: mr gebczynski said to contact you only in an emergency, but...
+MICHAL: don't worry now. we can't move you tonight.
+MICHAL: you'll sleep on the sofa.
+SZPILMAN: excuse me, could i have a piece of bread?
+MICHAL: yes, of course, we'll eat.
+
+MICHAL: you're in a very german area. the building opposite is a hospital, taking in wounded from the russian front. next door is the schutzpolizei. it's the safest place to be. right in the centre of the lion's den. 
+MICHAL: i'll be locking you in. no one knows you're here. so keep as quiet as possible.
+
+MICHAL: all well? 
+SZPILMAN: thank you.
+MICHAL: this is antek szalas.
+MICHAL: he's going to look after you. i've given him a second key. he'll bring you food. see that you're all right. he's with the underground, a good man.
+SZALAS: you don't remember me, mr. szpilman?
+SZPILMAN: no, i don't think so?
+SZALAS: warsaw radio. i was a technician. i saw you almost every day.
+SZPILMAN: sorry, i don't remember.
+SZALAS: doesn't matter. you've nothing to worry about. i'll visit often.
+MICHAL: and you'll be pleased to hear the allies are bombing germany night after night - cologne, hamburg, berlin.
+SZALAS: and the russians are really giving them hell. it's the beginning of the end.
+MICHAL: let's hope so. i don't know when i'll see you again?
+
+SZALAS: still alive then, are you? here. sausage. bread. 
+SZPILMAN: how long is this meant to last?
+SZPILMAN: think i've got jaundice.
+SZALAS: you don't want to worry about that. my grandfather was jilted by his girl friend when he got jaundice. in my opinion, jaundice is not very serious. drink up.
+SZPILMAN: why didn't you come sooner? it's been over two weeks.
+SZALAS: problems. money. i've got to raise money to buy the food. i need things to sell, it' s not easy.
+SZPILMAN: sell this. food's more important than time.
+SZALAS: oh, yes. i meant to tell you. the allies have landed in france. the russians'll be here soon. they'll beat the out of the germans. any day now.
+DOROTA: wladek? wladek! i knew it, i knew this would happen!
+DOROTA: i'm going to get a doctor.
+MICHAL: you can't, it's too dangerous.
+DOROTA: i'll get dr luczak, we can trust him.
+MICHAL: dorota, don't be ridiculous, he's a pediatrician.
+DOROTA: he's still a doctor.
+MICHAL: no, you stay, i'll go. he leaves. the padlock sound.
+DOROTA: we came to say goodbye. we're going to stay with my mother in otwock.the baby's already there. it's safer. there's talk that the uprising will begin any day now.
+DOROTA: that man szalas should be shot. he's been collecting money on your behalf all over warsaw. apparently, people gave generously. so he collected a tidy sum. he told us he was visiting you daily.
+DOROTA: oh later:
+DOCTOR: acute inflammation of the gall bladder. liver the size of a football. but he'll live. i'll try to get hold of some levulose, but it's not easy.
+DOROTA: can you visit him again?
+DOCTOR: who knows?
+SZPILMAN: doctor, thank you.
+DOCTOR: don't speak. rest.
+DOROTA: michal brought food. i'll prepare something now for you, then we must go.
+
+VOICES: where? where? just get out! everywhere! get out into the street! 
+A MAN'S VOICE: get out now! the germans have surrounded the building! they're going to blow us to pieces.
+
+GERMAN VOICE: fourth floor, fischke! 
+GERMAN VOICE: at the double, fischke!
+
+THE GERMAN CAPTAIN: who the are you? 
+THE GERMAN CAPTAIN: who are you?
+THE GERMAN CAPTAIN: what the are you doing?
+SZPILMAN: i was... i was trying to open this tin.
+THE GERMAN CAPTAIN: where do you live?
+THE GERMAN CAPTAIN: what's your work?
+SZPILMAN: i am... i was a pianist.
+THE GERMAN CAPTAIN: a pianist.
+
+THE GERMAN CAPTAIN: play. 
+THE GERMAN CAPTAIN: are you hiding here?
+THE GERMAN CAPTAIN: jew?
+THE GERMAN CAPTAIN: where are you hiding?
+SZPILMAN: in the attic.
+THE GERMAN CAPTAIN: show me.
+THE GERMAN CAPTAIN: have you anything to eat?
+THE GERMAN CAPTAIN: i'll bring you something.
+
+THE GERMAN CAPTAIN: open up. 
+SZPILMAN: please.
+SZPILMAN: what's all that gunfire?
+THE GERMAN CAPTAIN: the russians. on the other side of the river. all you have to do is hang on for a few more weeks. he goes quickly.
+
+THE GERMAN CAPTAIN: come down. 
+SZPILMAN: what's happening?
+THE GERMAN CAPTAIN: we're getting out.
+SZPILMAN: are the russians here?
+THE GERMAN CAPTAIN: not yet.
+SZPILMAN: i don't know how to thank you.
+THE GERMAN CAPTAIN: don't thank me. thank it's his will that we should survive. well. that's what we have to believe.
+SZPILMAN: what about you?
+THE GERMAN CAPTAIN: i've got another one. warmer. what will you do when it's all over?
+SZPILMAN: i'll play the piano again. on polish radio.
+THE GERMAN CAPTAIN: tell me your name. i'll listen out for you.
+SZPILMAN: szpilman.
+THE GERMAN CAPTAIN: szpilman. good name for a pianist.
+
+LOUDSPEAKER VOICE: ...german army! polish soil liberated! official! 
+THE WOMAN: german! german!
+
+SZPILMAN: stop, for sake, i beg you, i'm polish! 
+SZPILMAN: don't shoot! i'm polish!
+1ST POLISH OFFICER: he's polish!
+2ND POLISH OFFICER: come out with your hands up.
+SZPILMAN: don't shoot! i'm polish! please, please! i'm polish!
+1ST POLISH OFFICER: yes, he's polish!
+2ND POLISH OFFICER: why the coat?
+SZPILMAN: i'm cold.
+2ND POLISH OFFICER: take him to headquarters.
+1ST MAN: look at them - bastards!
+2ND MAN: german
+3RD MAN: i prayed for this, never thought i'd see it.
+LEDNICKI: murderers! assassins! look at you now! you took everything i had! me, a musician! you took my violin! you took my soul!
+THE GERMAN CAPTAIN: do you happen to know another musician, a mr szpilman? a pianist! polish radio?
+LEDNICKI: yes, of course, i know szpilman.
+THE GERMAN CAPTAIN: i helped mr szpilman when he was in hiding. tell him i'm here. ask him to help me... a russian guard, inside the compound, approaches, grabs hold of the german captain.
+RUSSIAN GUARD: hey! no talking to the prisoners. get away from there!
+LEDNICKI: what's your name?
+LEDNICKI: what?
+
+LEDNICKI: it was here, i'm certain of it. 
+SZPILMAN: it's not here now.
+LEDNICKI: i shouted abuse at them, i'm not proud of it, but that's what i did, and, i'm certain, i stood where you are now. there was barbed wire, and this german came up to me.
+SZPILMAN: you didn't catch his name.
+LEDNICKI: no. i'll ask at the factory. they may know something. lednicki goes.
 

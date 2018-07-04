@@ -1,592 +1,592 @@
-speaker1: reports are coming in from all over the empire -- from all over the world. the government have not yet issued a statement, but there seems to be no question that there actually is a large, unidentified object circling the earth at incredible speed. 
-speaker2: we still don't know what it is or where it's from â–- but we do know there's something there. it's been tracked around the world by radar traveling at a rate of four thousand miles an hour.
+BRITISH ANNOUNCER: reports are coming in from all over the empire -- from all over the world. the government have not yet issued a statement, but there seems to be no question that there actually is a large, unidentified object circling the earth at incredible speed. 
+AMERICAN ANNOUNCER: we still don't know what it is or where it's from â–- but we do know there's something there. it's been tracked around the world by radar traveling at a rate of four thousand miles an hour.
 
-speaker1: it was a gift. for your president. with this he could have studied life on other planets. 
-speaker2: is he all right?
-speaker3: got hit in the shoulder, sir.
-speaker2: send for an ambulance. get him to walter reed hospital right away.
-speaker4: yes, sir.
+KLAATU: it was a gift. for your president. with this he could have studied life on other planets. 
+COLONEL: is he all right?
+FIRST PLATOON LEADER: got hit in the shoulder, sir.
+COLONEL: send for an ambulance. get him to walter reed hospital right away.
+CAPTAIN: yes, sir.
 
-speaker1: how is he? 
-speaker2: he's all right, general... blood pressure's a little high, but it could be aggravation.
-speaker1: can't blame him. i always get mad when somebody shoots me.
-speaker2: he still wants to see the president.
-speaker3: we informed the white house over an hour ago.
-speaker1: didn't drop any hints about where he's from, did he?
-speaker2: no, sir, he didn't.
-speaker4: excuse me. what about the reporters, colonel? they're swarming all over the lobby.
-speaker1: tell them there won't be any statement tonight.
-speaker4: yes, sir. mr. harley's here from the white house.
-speaker5: general --
-speaker1: right in there, mr. harley.
+GENERAL: how is he? 
+MAJOR WHITE: he's all right, general... blood pressure's a little high, but it could be aggravation.
+GENERAL: can't blame him. i always get mad when somebody shoots me.
+MAJOR WHITE: he still wants to see the president.
+COLONEL: we informed the white house over an hour ago.
+GENERAL: didn't drop any hints about where he's from, did he?
+MAJOR WHITE: no, sir, he didn't.
+CAPTAIN: excuse me. what about the reporters, colonel? they're swarming all over the lobby.
+GENERAL: tell them there won't be any statement tonight.
+CAPTAIN: yes, sir. mr. harley's here from the white house.
+HARLEY: general --
+GENERAL: right in there, mr. harley.
 
-speaker1: my name is harley -- secretary to the president i've been told that you speak our language -- that your name is mr. klaatu. 
-speaker2: just klaatu.
-speaker1: the president asked me to convey his deepest apologies for what has happened. we all feel--
-speaker2: sit down, mr. harley.
-speaker1: i'm sure i don't have to point out that your arrival was something of a surprise. had you been traveling long?
-speaker2: about five months -- your months.
-speaker1: you must have come a long way.
-speaker2: about 250 million of your miles.
-speaker1: naturally we're very curious to know where it is you come from.
-speaker1: it's rather difficult for us to think of another planet as a neighbor.
-speaker2: i'm afraid, in the present situation you'll have to learn to think that way.
-speaker1: the present situation?
-speaker2: i mean the reasons for my coming here.
-speaker1: we're very curious about that, too. would you care to talk about it?
-speaker2: i'd be glad to. not now, of course -- with you alone.
-speaker1: perhaps you'd rather discuss it personally with the president--
-speaker2: this is not a personal matter, mr. harley. it concerns all the people on your planet.
-speaker1: i -- i'm not sure i understand--
-speaker2: i want to meet with representatives from all the nations of the earth.
-speaker1: i'm afraid that would be a little awkward. it's -- it's completely without precedent. and there are practical considerations -- the time involved -- the enormous distances.
-speaker2: i traveled 250 million miles. what about your united nations?
-speaker1: you know about the united nations?
-speaker2: we've been monitoring your radio broadcasts for a good many years. that's how we learned your languages. lately, we've been getting your television also.
-speaker1: you must have a rather strange impression of us.
-speaker1: i'm sure you recognize from our broad- casts the evil forces that have produced the tension in our world. surely you would agree--
-speaker2: i am not concerned, mr. harley, with the internal affairs of your planet. i consider that to be your business -- not mine.
-speaker1: i was only hoping to make you understand.
-speaker2: my mission here is not to solve your petty squabbles. it concerns the existence of every last creature who lives on earth.
-speaker1: perhaps if you could explain a little--
-speaker2: i intend to explain. to all the nations -- simultaneously. how do we proceed, mr. harley?
-speaker1: we could call a special meeting of the general assembly... but of course the un doesn't represent all of the nations.
-speaker2: then why not a meeting of all the chiefs of state?
-speaker1: believe me, you don't understand. they wouldn't sit down at the same table.
-speaker2: i don't want to resort to threats, mr. harley. i simply tell you bluntly that the future of your planet is at stake... i suggest you transmit that message to the nations of the earth.
-speaker1: i will make that recommendation to the president. i must tell you in all honesty that i'm extremely dubious about the results.
-speaker2: apparently i'm not as cynical about earth's people as you are.
-speaker1: i've been dealing in earth's politics a good deal longer than you have. goodnight, sir.
+HARLEY: my name is harley -- secretary to the president i've been told that you speak our language -- that your name is mr. klaatu. 
+KLAATU: just klaatu.
+HARLEY: the president asked me to convey his deepest apologies for what has happened. we all feel--
+KLAATU: sit down, mr. harley.
+HARLEY: i'm sure i don't have to point out that your arrival was something of a surprise. had you been traveling long?
+KLAATU: about five months -- your months.
+HARLEY: you must have come a long way.
+KLAATU: about 250 million of your miles.
+HARLEY: naturally we're very curious to know where it is you come from.
+HARLEY: it's rather difficult for us to think of another planet as a neighbor.
+KLAATU: i'm afraid, in the present situation you'll have to learn to think that way.
+HARLEY: the present situation?
+KLAATU: i mean the reasons for my coming here.
+HARLEY: we're very curious about that, too. would you care to talk about it?
+KLAATU: i'd be glad to. not now, of course -- with you alone.
+HARLEY: perhaps you'd rather discuss it personally with the president--
+KLAATU: this is not a personal matter, mr. harley. it concerns all the people on your planet.
+HARLEY: i -- i'm not sure i understand--
+KLAATU: i want to meet with representatives from all the nations of the earth.
+HARLEY: i'm afraid that would be a little awkward. it's -- it's completely without precedent. and there are practical considerations -- the time involved -- the enormous distances.
+KLAATU: i traveled 250 million miles. what about your united nations?
+HARLEY: you know about the united nations?
+KLAATU: we've been monitoring your radio broadcasts for a good many years. that's how we learned your languages. lately, we've been getting your television also.
+HARLEY: you must have a rather strange impression of us.
+HARLEY: i'm sure you recognize from our broad- casts the evil forces that have produced the tension in our world. surely you would agree--
+KLAATU: i am not concerned, mr. harley, with the internal affairs of your planet. i consider that to be your business -- not mine.
+HARLEY: i was only hoping to make you understand.
+KLAATU: my mission here is not to solve your petty squabbles. it concerns the existence of every last creature who lives on earth.
+HARLEY: perhaps if you could explain a little--
+KLAATU: i intend to explain. to all the nations -- simultaneously. how do we proceed, mr. harley?
+HARLEY: we could call a special meeting of the general assembly... but of course the un doesn't represent all of the nations.
+KLAATU: then why not a meeting of all the chiefs of state?
+HARLEY: believe me, you don't understand. they wouldn't sit down at the same table.
+KLAATU: i don't want to resort to threats, mr. harley. i simply tell you bluntly that the future of your planet is at stake... i suggest you transmit that message to the nations of the earth.
+HARLEY: i will make that recommendation to the president. i must tell you in all honesty that i'm extremely dubious about the results.
+KLAATU: apparently i'm not as cynical about earth's people as you are.
+HARLEY: i've been dealing in earth's politics a good deal longer than you have. goodnight, sir.
 
-speaker1: getting any place, sergeant? 
-speaker2: no, sir. beats me, general. i saw that ramp come out of the side of the ship -- right here. now i can't even find a crack!
-speaker1: what's the report, carlson?
-speaker3: we've tried everything from a blowtorch to a diamond drill.
-speaker1: what about him?
-speaker3: he's made out of the same stuff.
+GENERAL: getting any place, sergeant? 
+SERGEANT: no, sir. beats me, general. i saw that ramp come out of the side of the ship -- right here. now i can't even find a crack!
+GENERAL: what's the report, carlson?
+CARLSON: we've tried everything from a blowtorch to a diamond drill.
+GENERAL: what about him?
+CARLSON: he's made out of the same stuff.
 
-speaker1: has he moved? 
-speaker2: no sir. not an inch
-speaker3: this is the toughest material i ever saw, general. for hardness and strength, it's out of this world.
-speaker1: i can tell you officially -â– that's where it came from.
+GENERAL: has he moved? 
+SERGEANT: no sir. not an inch
+CARLSON: this is the toughest material i ever saw, general. for hardness and strength, it's out of this world.
+GENERAL: i can tell you officially -â– that's where it came from.
 
-speaker1: the skeletal structure is completely normal. same for the major organs -â– heart, liver, spleen, kidneys. 
-speaker2: and the lungs are the same as ours. must mean a similar atmosphere -- similar pressure. how old do you think he is?
-speaker1: oh, i'd say forty-five.
-speaker2: he told me this morning when i examined him. he's seventy-eight.
-speaker1: i don't believe it.
-speaker2: their life expectancy is a hundred and thirty.
-speaker1: how does he explain that?
-speaker2: he says their medicine is that much more advanced. he was very nice about it. but he made me feel like a third-class witch doctor.
-speaker3: i took a bullet out of that man's arm yesterday.
-speaker4: what about it?
-speaker3: i just examined the wound and it's all healed.
-speaker4: what does he say about it?
-speaker3: said he put some salve on it -- some stuff he had with him.
-speaker2: what are you going to do with it?
-speaker3: take it downstairs and have it analyzed. then i don't know whether i'll just get drunk or give up the practice of medicine.
-speaker4: afternoon, mr. harley.
-speaker5: afternoon, gentlemen.
+MAJOR: the skeletal structure is completely normal. same for the major organs -â– heart, liver, spleen, kidneys. 
+CAPTAIN: and the lungs are the same as ours. must mean a similar atmosphere -- similar pressure. how old do you think he is?
+MAJOR: oh, i'd say forty-five.
+CAPTAIN: he told me this morning when i examined him. he's seventy-eight.
+MAJOR: i don't believe it.
+CAPTAIN: their life expectancy is a hundred and thirty.
+MAJOR: how does he explain that?
+CAPTAIN: he says their medicine is that much more advanced. he was very nice about it. but he made me feel like a third-class witch doctor.
+MAJOR WHITE: i took a bullet out of that man's arm yesterday.
+FIRST MAJOR: what about it?
+MAJOR WHITE: i just examined the wound and it's all healed.
+FIRST MAJOR: what does he say about it?
+MAJOR WHITE: said he put some salve on it -- some stuff he had with him.
+CAPTAIN: what are you going to do with it?
+MAJOR WHITE: take it downstairs and have it analyzed. then i don't know whether i'll just get drunk or give up the practice of medicine.
+FIRST MAJOR: afternoon, mr. harley.
+HARLEY: afternoon, gentlemen.
 
-speaker1: good afternoon. i'm glad to see you up and around. 
-speaker2: thank you... have you any news?
-speaker1: not very good news, i'm afraid. the president accepted your suggestion and cabled the invitations for a meeting last night. let me read you some of the replies. "the premier wishes to inform the government of the united states that it will be impossible for him to attend the meeting suggested by the president unless the meeting is held in moscow." "the suggestion of the president regarding the possibility of a meeting in moscow would be unacceptable to her majesty's government at the present time. representation could be sent only if the meeting were held in washington." well -- there you have it. harley extends a sheaf of cables for klaatu's inspection, but he ignores them. klaatu has listened to this recital,
-speaker1: i tried to make you understand. the suspicions -- the jealousies -- the mistrust-- surely you realize that my government has done everything in its power--
-speaker2: it's not your government i'm thinking about. it's your world.
-speaker1: now that you understand the situation more clearly, perhaps you'd like to discuss the matter with the president
-speaker2: i will not speak to any one nation or group of nations. i don't intend to add my contribution to your childish jealousies and suspicions.
-speaker1: our problems are very complex, mr. klaatu. you mustn't judge us too harshly.
-speaker2: i can judge only by what i see.
-speaker1: your impatience is quite understandable.
-speaker2: i am impatient with stupidity. my people have learned to live without it.
-speaker1: i'm afraid my people haven't. i'm very sorry -- i wish it were otherwise.
+HARLEY: good afternoon. i'm glad to see you up and around. 
+KLAATU: thank you... have you any news?
+HARLEY: not very good news, i'm afraid. the president accepted your suggestion and cabled the invitations for a meeting last night. let me read you some of the replies. "the premier wishes to inform the government of the united states that it will be impossible for him to attend the meeting suggested by the president unless the meeting is held in moscow." "the suggestion of the president regarding the possibility of a meeting in moscow would be unacceptable to her majesty's government at the present time. representation could be sent only if the meeting were held in washington." well -- there you have it. harley extends a sheaf of cables for klaatu's inspection, but he ignores them. klaatu has listened to this recital,
+HARLEY: i tried to make you understand. the suspicions -- the jealousies -- the mistrust-- surely you realize that my government has done everything in its power--
+KLAATU: it's not your government i'm thinking about. it's your world.
+HARLEY: now that you understand the situation more clearly, perhaps you'd like to discuss the matter with the president
+KLAATU: i will not speak to any one nation or group of nations. i don't intend to add my contribution to your childish jealousies and suspicions.
+HARLEY: our problems are very complex, mr. klaatu. you mustn't judge us too harshly.
+KLAATU: i can judge only by what i see.
+HARLEY: your impatience is quite understandable.
+KLAATU: i am impatient with stupidity. my people have learned to live without it.
+HARLEY: i'm afraid my people haven't. i'm very sorry -- i wish it were otherwise.
 
-speaker1: before making any decisions, i think i should get out among your people -- become familiar with the basis for these strange, unreasoning attitudes. 
-speaker2: under the circumstances i'm afraid that will be impossible.
-speaker2: i must ask that you don't attempt to leave the hospital. our military people have insisted on this. i'm sure you'll understand.
+KLAATU: before making any decisions, i think i should get out among your people -- become familiar with the basis for these strange, unreasoning attitudes. 
+HARLEY: under the circumstances i'm afraid that will be impossible.
+HARLEY: i must ask that you don't attempt to leave the hospital. our military people have insisted on this. i'm sure you'll understand.
 
-speaker1: i -- i'm sorry. what is it you want? 
-speaker2: my name is carpenter. i'm looking for a room.
-speaker3: are you an fbi man?
-speaker2: no -- i'm afraid not.
-speaker3: bet he is, mom. bet he's out looking for that space man.
-speaker4: i think we've all been hearing too much about "space men."
-speaker1: this is mrs. benson, mr. carpenter. and little bobby. mr. and mrs. barley -- and mr. krull... i'm mrs. crockett.
-speaker1: well -- this is our little family. i have a very nice room on the second floor.
-speaker3: can i help you look for the space man? can i? i know what he looks like! he's got a square head -- and, three great big eyes!
-speaker4: that's enough, bobby. i think it's time you went to bed.
-speaker1: we mustn't annoy mr. carpenter -- or he won't want to stay here. she goes on into the hall, followed by klaatu, who has exchanged a polite smile with helen.
-speaker1: he's really a dear little boy -- and quiet as a mouse. you're a long way from home, aren't you, mr. carpenter?
-speaker2: how did you know?
-speaker1: oh, i can tell a new england accent a mile away.
+MRS. CROCKETT: i -- i'm sorry. what is it you want? 
+KLAATU: my name is carpenter. i'm looking for a room.
+BOBBY: are you an fbi man?
+KLAATU: no -- i'm afraid not.
+BOBBY: bet he is, mom. bet he's out looking for that space man.
+HELEN: i think we've all been hearing too much about "space men."
+MRS. CROCKETT: this is mrs. benson, mr. carpenter. and little bobby. mr. and mrs. barley -- and mr. krull... i'm mrs. crockett.
+MRS. CROCKETT: well -- this is our little family. i have a very nice room on the second floor.
+BOBBY: can i help you look for the space man? can i? i know what he looks like! he's got a square head -- and, three great big eyes!
+HELEN: that's enough, bobby. i think it's time you went to bed.
+MRS. CROCKETT: we mustn't annoy mr. carpenter -- or he won't want to stay here. she goes on into the hall, followed by klaatu, who has exchanged a polite smile with helen.
+MRS. CROCKETT: he's really a dear little boy -- and quiet as a mouse. you're a long way from home, aren't you, mr. carpenter?
+KLAATU: how did you know?
+MRS. CROCKETT: oh, i can tell a new england accent a mile away.
 
-speaker1: there is grave danger -- everyone agrees to that. the question is what can we do to protect ourselves? what measures can we take that will-- 
-speaker2: george, i wish you'd turn that radio off. i'm trying to concentrate.
-speaker3: why doesn't the government do something -- that's what i want to know.
-speaker4: what can they do? they're only people -- just like us.
-speaker3: people my foot! they're democrats!
-speaker4: it's enough to give you the shakes. he's got that robot standing there -- ten-foot tall -- just waiting for orders to destroy us.
-speaker5: this space man -- or whatever he is. we automatically assume he's a menace... maybe he isn't at all.
-speaker3: then what's he hiding for? why doesn't he come out in the open?
-speaker4: yeah. like the fella says: "what's he up to?"
-speaker5: maybe he's afraid.
-speaker2: he's afraid!
-speaker5: after all, he was shot the moment he landed here. i was just wondering what i would do.
-speaker6: perhaps before deciding on a course of action, you'd want to know more about the people here -- to orient yourself in a strange environment.
-speaker2: there's nothing strange about washington, mr. carpenter.
-speaker6: a person from another planet might disagree with you.
-speaker2: if you want my opinion, he came from right here on earth. and you know where i mean.
-speaker4: they wouldn't come in a space ship. they'd come in airplanes.
-speaker2: i wouldn't be so sure about that.
-speaker3: stands to reason that fella wants some thing or he wouldn't be here. that make sense, carpenter?
-speaker6: i must admit i'm a little confused.
-speaker7: mrs. benson -- mr. stevens is here to see you.
-speaker5: oh -- thank you.
-speaker2: finish your coffee, george. i told the carsons we'd be there at eleven.
+GABRIEL HEATER'S VOICE: there is grave danger -- everyone agrees to that. the question is what can we do to protect ourselves? what measures can we take that will-- 
+MRS. BARLEY: george, i wish you'd turn that radio off. i'm trying to concentrate.
+MR. BARLEY: why doesn't the government do something -- that's what i want to know.
+MR. KRULL: what can they do? they're only people -- just like us.
+MR. BARLEY: people my foot! they're democrats!
+MR. KRULL: it's enough to give you the shakes. he's got that robot standing there -- ten-foot tall -- just waiting for orders to destroy us.
+HELEN: this space man -- or whatever he is. we automatically assume he's a menace... maybe he isn't at all.
+MR. BARLEY: then what's he hiding for? why doesn't he come out in the open?
+MR. KRULL: yeah. like the fella says: "what's he up to?"
+HELEN: maybe he's afraid.
+MRS. BARLEY: he's afraid!
+HELEN: after all, he was shot the moment he landed here. i was just wondering what i would do.
+KLAATU: perhaps before deciding on a course of action, you'd want to know more about the people here -- to orient yourself in a strange environment.
+MRS. BARLEY: there's nothing strange about washington, mr. carpenter.
+KLAATU: a person from another planet might disagree with you.
+MRS. BARLEY: if you want my opinion, he came from right here on earth. and you know where i mean.
+MR. KRULL: they wouldn't come in a space ship. they'd come in airplanes.
+MRS. BARLEY: i wouldn't be so sure about that.
+MR. BARLEY: stands to reason that fella wants some thing or he wouldn't be here. that make sense, carpenter?
+KLAATU: i must admit i'm a little confused.
+MRS. CROCKETT: mrs. benson -- mr. stevens is here to see you.
+HELEN: oh -- thank you.
+MRS. BARLEY: finish your coffee, george. i told the carsons we'd be there at eleven.
 
-speaker1: good morning. 
-speaker2: we're all set. i picked up some sandwiches and put gas in the car. and the radio's still busted, so me can forget about the space man for today.
-speaker1: there's only one thing -- i haven't been able to arrange for anyone to stay with bobby. i don't suppose we could take him with us?
-speaker2: well, we could--
-speaker1: there's always somebody here, but today of course they've all got plans.
-speaker3: i haven't any plans.
+HELEN: good morning. 
+TOM: we're all set. i picked up some sandwiches and put gas in the car. and the radio's still busted, so me can forget about the space man for today.
+HELEN: there's only one thing -- i haven't been able to arrange for anyone to stay with bobby. i don't suppose we could take him with us?
+TOM: well, we could--
+HELEN: there's always somebody here, but today of course they've all got plans.
+KLAATU'S VOICE: i haven't any plans.
 
-speaker1: i'd be glad to spend the day with him -- if you'd let me. 
-speaker2: say, that'll be great! wouldn't it, helen.
-speaker3: it's awfully nice of you to suggest it. i'm sorry mr. carpenter -- this is tom stevens.
-speaker1: bobby and i had a fine time yesterday afternoon. we talked -- and listened to the radio. i thought today he might show me around the city.
+KLAATU: i'd be glad to spend the day with him -- if you'd let me. 
+TOM: say, that'll be great! wouldn't it, helen.
+HELEN: it's awfully nice of you to suggest it. i'm sorry mr. carpenter -- this is tom stevens.
+KLAATU: bobby and i had a fine time yesterday afternoon. we talked -- and listened to the radio. i thought today he might show me around the city.
 
-speaker1: that's the kind of man i'd like to talk to. 
-speaker1: bobby -- who's the greatest man in america today?
-speaker2: gee -- i don't know... the space man, i guess.
-speaker1: i was speaking of earth men. i meant the greatest philosopher -- the greatest thinker.
-speaker3: you mean the smartest man in the whole world?
-speaker1: yes -- that would do nicely.
-speaker2: well -- professor barnhardt, i guess. he's the greatest scientist in the world.
-speaker1: he lives here in washington, doesn't he?
-speaker2: sure. right near where my mother works.
-speaker1: where is that?
-speaker2: department of commerce. she's a secretary. they have a man they call the secretary, but he isn't at all. my mother's a real secretary. mr. carpenter -- now can we go see the space ship?
+KLAATU: that's the kind of man i'd like to talk to. 
+KLAATU: bobby -- who's the greatest man in america today?
+BOBBY: gee -- i don't know... the space man, i guess.
+KLAATU: i was speaking of earth men. i meant the greatest philosopher -- the greatest thinker.
+B0BBY: you mean the smartest man in the whole world?
+KLAATU: yes -- that would do nicely.
+BOBBY: well -- professor barnhardt, i guess. he's the greatest scientist in the world.
+KLAATU: he lives here in washington, doesn't he?
+BOBBY: sure. right near where my mother works.
+KLAATU: where is that?
+BOBBY: department of commerce. she's a secretary. they have a man they call the secretary, but he isn't at all. my mother's a real secretary. mr. carpenter -- now can we go see the space ship?
 
-speaker1: boy, i'll bet he's strong. i bet he could knock down a whole building. 
-speaker2: i shouldn't be at all surprised.
-speaker3: from bobby's viewpoint.
+BOBBY: boy, i'll bet he's strong. i bet he could knock down a whole building. 
+KLAATU: i shouldn't be at all surprised.
+MED. SHOT - SPACE SHIP: from bobby's viewpoint.
 
-speaker1: gee, i'd like to get inside and see how it works. what do you think makes it go? 
-speaker2: well -- atomic power, i would imagine.
-speaker1: i thought that was only for bombs.
-speaker2: no. it's for a lot of other things, too.
-speaker1: you think it can go faster than an f-
+BOBBY: gee, i'd like to get inside and see how it works. what do you think makes it go? 
+KLAATU: well -- atomic power, i would imagine.
+BOBBY: i thought that was only for bombs.
+KLAATU: no. it's for a lot of other things, too.
+BOBBY: you think it can go faster than an f-
 
-speaker1: about a thousand miles an hour? 
-speaker2: maybe four thousand miles an hour. and outside the earth's atmosphere a good deal faster.
-speaker1: gee! how could they make a landing?
-speaker2: well -- there are several ways to reduce landing speed. you see, the velocity--
+BOBBY: about a thousand miles an hour? 
+KLAATU: maybe four thousand miles an hour. and outside the earth's atmosphere a good deal faster.
+BOBBY: gee! how could they make a landing?
+KLAATU: well -- there are several ways to reduce landing speed. you see, the velocity--
 
-speaker1: you think they'll ever find him? 
-speaker2: i don't know, bobby. i'm inclined to doubt it.
-speaker1: mr. carpenter -- what does velocity mean?
-speaker1: i'll bet that's the way professor barnhardt talks.
-speaker2: bobby -- i have an idea. let's go see professor barnhardt and find out how he talks.
-speaker1: you're just kidding, aren't you?
-speaker2: wouldn't you like to meet him?
-speaker1: well, sure i would, but -- aw, i'll bet you'd be scared.
-speaker2: we can scare him more than he can scare us.
-speaker1: i like you, mr. carpenter. you're a real screwball.
+BOBBY: you think they'll ever find him? 
+KLAATU: i don't know, bobby. i'm inclined to doubt it.
+BOBBY: mr. carpenter -- what does velocity mean?
+BOBBY: i'll bet that's the way professor barnhardt talks.
+KLAATU: bobby -- i have an idea. let's go see professor barnhardt and find out how he talks.
+BOBBY: you're just kidding, aren't you?
+KLAATU: wouldn't you like to meet him?
+BOBBY: well, sure i would, but -- aw, i'll bet you'd be scared.
+KLAATU: we can scare him more than he can scare us.
+BOBBY: i like you, mr. carpenter. you're a real screwball.
 
-speaker1: gee -- maybe he isn't home. 
-speaker1: betcha this is where he works--
+BOBBY: gee -- maybe he isn't home. 
+BOBBY: betcha this is where he works--
 
-speaker1: what does that mean? 
-speaker2: it's a problem in celestial mechanics.
-speaker1: bet he's the only one in the world knows the answer.
-speaker1: we probably couldn't get to see him even if he was home.
+BOBBY: what does that mean? 
+KLAATU: it's a problem in celestial mechanics.
+BOBBY: bet he's the only one in the world knows the answer.
+BOBBY: we probably couldn't get to see him even if he was home.
 
-speaker1: how dare you write on that blackboard! do you realize the professor has been working on that problem for weeks? 
-speaker2: he'll catch on to it in no time now.
-speaker1: how did you get in here? and what do you want?
-speaker2: we came to see professor barnhardt.
-speaker1: well, he's not here. and he won't be back till this evening. i think you'd better leave now. unruffled, klaatu turns to the desk and scribbles something on a scratch pad. he tears off the piece of paper and hands it to hilda.
-speaker2: you might keep this.
+HILDA: how dare you write on that blackboard! do you realize the professor has been working on that problem for weeks? 
+KLAATU: he'll catch on to it in no time now.
+HILDA: how did you get in here? and what do you want?
+KLAATU: we came to see professor barnhardt.
+HILDA: well, he's not here. and he won't be back till this evening. i think you'd better leave now. unruffled, klaatu turns to the desk and scribbles something on a scratch pad. he tears off the piece of paper and hands it to hilda.
+KLAATU: you might keep this.
 
-speaker1: did all these people die in wars? 
-speaker2: sure. didn't you ever hear of arlington cemetery?
-speaker1: no -- i'm afraid not.
-speaker2: mr. carpenter" -- you don't seem to know about anything.
-speaker1: i'll tell you, bobby -- i've been away for a long time. very far away.
-speaker2: is it different where you've been? don't they have places like this?
-speaker1: they have cemeteries. but not like this one... you see, they don't have any wars. bobby looks at him, puzzled and impressed by this incomprehensible notion.
-speaker2: gee -- that's a good idea.
-speaker1: what would you like to do this afternoon?
-speaker2: go to the movies.
-speaker1: all right.
-speaker2: no foolin'? will you?
-speaker1: certainly. tell me, bobby -- do you have to have money to go there?
-speaker2: i've got some money. my mother gave me two dollars.
-speaker1: no -- i want to take you to the movies. do you think they'd accept these?
+KLAATU: did all these people die in wars? 
+BOBBY: sure. didn't you ever hear of arlington cemetery?
+KLAATU: no -- i'm afraid not.
+BOBBY: mr. carpenter" -- you don't seem to know about anything.
+KLAATU: i'll tell you, bobby -- i've been away for a long time. very far away.
+BOBBY: is it different where you've been? don't they have places like this?
+KLAATU: they have cemeteries. but not like this one... you see, they don't have any wars. bobby looks at him, puzzled and impressed by this incomprehensible notion.
+BOBBY: gee -- that's a good idea.
+KLAATU: what would you like to do this afternoon?
+BOBBY: go to the movies.
+KLAATU: all right.
+BOBBY: no foolin'? will you?
+KLAATU: certainly. tell me, bobby -- do you have to have money to go there?
+BOBBY: i've got some money. my mother gave me two dollars.
+KLAATU: no -- i want to take you to the movies. do you think they'd accept these?
 
-speaker1: gee -- those look like diamonds! 
-speaker2: some places that's what people use for money. they're easy to carry -- and they don't wear out.
-speaker1: bet they're worth about a million dollars.
-speaker2: would you give me your two dollars for a couple of them?
-speaker1: well, sure, but--
-speaker1: okay.
-speaker1: let's not say anything to my mother about this, mr. carpenter.
-speaker2: why not, bobby?
-speaker1: she doesn't like me to steal from people.
+BOBBY: gee -- those look like diamonds! 
+KLAATU: some places that's what people use for money. they're easy to carry -- and they don't wear out.
+BOBBY: bet they're worth about a million dollars.
+KLAATU: would you give me your two dollars for a couple of them?
+BOBBY: well, sure, but--
+BOBBY: okay.
+BOBBY: let's not say anything to my mother about this, mr. carpenter.
+KLAATU: why not, bobby?
+BOBBY: she doesn't like me to steal from people.
 
-speaker1: mr. carpenter come home yet? 
-speaker2: yeah -- he's right inside.
+DETECTIVE: mr. carpenter come home yet? 
+BOBBY: yeah -- he's right inside.
 
-speaker1: tell him i'd like to see him. 
-speaker2: mr. carpenter--! come on in.
-speaker1: your name carpenter?
-speaker3: yes. oh -- i suppose professor barnhardt's looking far me.
-speaker1: i been looking for you all afternoon.
+DETECTIVE: tell him i'd like to see him. 
+BOBBY: mr. carpenter--! come on in.
+DETECTIVE: your name carpenter?
+KLAATU: yes. oh -- i suppose professor barnhardt's looking far me.
+DETECTIVE: i been looking for you all afternoon.
 
-speaker1: it was a wonderful day. 
-speaker2: you still haven't answered my question.
-speaker1: you know how i feel, tom. i just want to think it over.
-speaker2: the boss is leaving for chicago tomorrow. if i could tell him i was getting married -- with two dependents--
-speaker1: you're a good salesman -- but i've got to think about it.
-speaker2: a good insurance salesman wouldn't give you time to think.
-speaker1: 'night.
+HELEN: it was a wonderful day. 
+TOM: you still haven't answered my question.
+HELEN: you know how i feel, tom. i just want to think it over.
+TOM: the boss is leaving for chicago tomorrow. if i could tell him i was getting married -- with two dependents--
+HELEN: you're a good salesman -- but i've got to think about it.
+TOM: a good insurance salesman wouldn't give you time to think.
+HELEN: 'night.
 
-speaker1: hi mom! 
-speaker2: hello, darling. good evening, mr. carpenter.
-speaker3: mrs. benson -- this is mr. brady.
-speaker1: mr. brady's a cop.
-speaker2: did you have a nice day, dear?
-speaker1: boy, we had a swell time. didn't we, mr. carpenter?
-speaker3: we certainly did.
-speaker1: we went to the movies -- and we had ice cream cones -- and we went to see daddy--
-speaker2: i don't know how to thank you.
-speaker3: i enjoyed every minute of it.
-speaker4: we better get goin', mr. carpenter.
-speaker1: aw, gee -- we didn't finish our story.
-speaker3: we'll finish it tomorrow... goodnight, bobby.
-speaker1: goodnight.
-speaker2: come on, bobby. time to go to bed.
-speaker1: mom -- why does mr. carpenter have to go down to the police station?
-speaker2: i -- i don't know, dear... perhaps there's some mistake.
-speaker1: we sure had fun today. we saw the space ship and we went to see professor barnhardt -- and--
-speaker2: professor barnhardt.
-speaker1: yeah, sure. mom, do i have to go to school tomorrow?
-speaker2: of course, dear.
-speaker1: aw, gee, mom -- i had plans to play with mr. carpenter.
+BOBBY: hi mom! 
+HELEN: hello, darling. good evening, mr. carpenter.
+KLAATU: mrs. benson -- this is mr. brady.
+BOBBY: mr. brady's a cop.
+HELEN: did you have a nice day, dear?
+BOBBY: boy, we had a swell time. didn't we, mr. carpenter?
+KLAATU: we certainly did.
+BOBBY: we went to the movies -- and we had ice cream cones -- and we went to see daddy--
+HELEN: i don't know how to thank you.
+KLAATU: i enjoyed every minute of it.
+DETECTIVE: we better get goin', mr. carpenter.
+BOBBY: aw, gee -- we didn't finish our story.
+KLAATU: we'll finish it tomorrow... goodnight, bobby.
+BOBBY: goodnight.
+HELEN: come on, bobby. time to go to bed.
+BOBBY: mom -- why does mr. carpenter have to go down to the police station?
+HELEN: i -- i don't know, dear... perhaps there's some mistake.
+BOBBY: we sure had fun today. we saw the space ship and we went to see professor barnhardt -- and--
+HELEN: professor barnhardt.
+BOBBY: yeah, sure. mom, do i have to go to school tomorrow?
+HELEN: of course, dear.
+BOBBY: aw, gee, mom -- i had plans to play with mr. carpenter.
 
-speaker1: b.m. alberts -- no prior arrests. 
-speaker2: no identification? send him over to g-2.
-speaker3: my wife just arrived with my identification.
-speaker4: that'll be all, mr. baxter. sorry to bother you... next.
-speaker5: cappo, john c? two priors -- one for petty theft -- one for shoplifting.
-speaker6: okay, jonny -- you can go.
-speaker7: sometimes a record comes in handy.
+FIRST COP: b.m. alberts -- no prior arrests. 
+SECOND COP: no identification? send him over to g-2.
+BUSINESSMAN: my wife just arrived with my identification.
+THIRD COP: that'll be all, mr. baxter. sorry to bother you... next.
+FOURTH COP: cappo, john c? two priors -- one for petty theft -- one for shoplifting.
+FIFTH COP: okay, jonny -- you can go.
+MAN: sometimes a record comes in handy.
 
-speaker1: the professor's secretary says she found you in barnhardt's room, making marks on his blackboard. 
-speaker2: i was only trying to be helpful. he was having difficulty with a problem.
-speaker1: oh, i see. he was having trouble and you were helping him out.
-speaker2: that's right.
-speaker1: i suppose you know that barnhardt does a lot of secret work for the army.
-speaker2: in this case the secret wouldn't be worth much. he doesn't know the answer himself.
-speaker1: but i suppose you know the answer.
-speaker1: your name's carpenter -- that right? any identification, mr. carpenter? driver's license -- social security number?
-speaker2: no -- i'm afraid not.
-speaker1: well, how do i know who you are?
-speaker2: you don't.
-speaker3: excuse me, lieutenant -- the doc says this man needs treatment right away.
+LIEUTENANT: the professor's secretary says she found you in barnhardt's room, making marks on his blackboard. 
+KLAATU: i was only trying to be helpful. he was having difficulty with a problem.
+LIEUTENANT: oh, i see. he was having trouble and you were helping him out.
+KLAATU: that's right.
+LIEUTENANT: i suppose you know that barnhardt does a lot of secret work for the army.
+KLAATU: in this case the secret wouldn't be worth much. he doesn't know the answer himself.
+LIEUTENANT: but i suppose you know the answer.
+LIEUTENANT: your name's carpenter -- that right? any identification, mr. carpenter? driver's license -- social security number?
+KLAATU: no -- i'm afraid not.
+LIEUTENANT: well, how do i know who you are?
+KLAATU: you don't.
+COP: excuse me, lieutenant -- the doc says this man needs treatment right away.
 
-speaker1: what's the story? 
-speaker2: some fella caught him lookin' in a window and figured he was the space man. the whole neighborhood went crazy and they ganged up on him. would have killed him if we hadn't come along... turns out he was just a prowler.
-speaker1: okay -- book him and get him fixed up. looks like everybody's goin' nuts.
-speaker3: they would have killed this man?
-speaker1: people get hysterical enough, they do anything. look, mr. carpenter -- if you can't identify yourself, i got to send you over to the army.
-speaker3: how long will that take?
-speaker1: they can tell right away. they've got a couple of doctors who saw this man in the hospital. take him over to g2.
-speaker3: it's very important, lieutenant, that i see professor barnhardt.
-speaker4: come on, mr. carpenter--
-speaker3: may i suggest that you call the professor?
+LIEUTENANT: what's the story? 
+COP: some fella caught him lookin' in a window and figured he was the space man. the whole neighborhood went crazy and they ganged up on him. would have killed him if we hadn't come along... turns out he was just a prowler.
+LIEUTENANT: okay -- book him and get him fixed up. looks like everybody's goin' nuts.
+KLAATU: they would have killed this man?
+LIEUTENANT: people get hysterical enough, they do anything. look, mr. carpenter -- if you can't identify yourself, i got to send you over to the army.
+KLAATU: how long will that take?
+LIEUTENANT: they can tell right away. they've got a couple of doctors who saw this man in the hospital. take him over to g2.
+KLAATU: it's very important, lieutenant, that i see professor barnhardt.
+DETECTIVE: come on, mr. carpenter--
+KLAATU: may i suggest that you call the professor?
 
-speaker1: wait a minute, brady-- the captain here's got orders from general cutler to take this man over to professor barnhardt. 
-speaker2: will you come with me, sir?
+LIEUTENANT: wait a minute, brady-- the captain here's got orders from general cutler to take this man over to professor barnhardt. 
+M.P. CAPTAIN: will you come with me, sir?
 
-speaker1: this is the man you wanted to see, professor. 
-speaker2: thank you, captain.
-speaker1: i'll wait outside.
-speaker2: you wrote this?
-speaker3: it was a clumsy way to introduce myself -- but i understand you're a difficult man to see. i thought you'd have the solution by this time.
-speaker2: not yet. that's why i wanted to see you.
-speaker3: all you have to do now is substitute this expression-- --at this point.
-speaker2: yes -- that will reproduce the first- order terms. but what about the effect of the other terms?
-speaker3: almost negligible... with variation of parameters, this is the answer.
-speaker2: how can you be so sure? have you tested this theory?
-speaker3: i find it works well enough to get me from one planet to another. i understand you've called a meeting to study our space ship.
-speaker3: my name is klaatu. i spent two days at your walter reed hospital. room 309. my doctor's name was major white -- and i had a very attractive nurse called ruth, who's getting married next wednesday. if you are not interested -- or if you intend to turn me over to your army -- we needn't waste any more time. barnhardt hesitates for a long, thoughtful moment. then he
-speaker2: you can go now, captain. please thank general cutler and tell him -- tell him that i know this gentleman.
-speaker3: you have faith, professor barnhardt
-speaker2: it isn't faith that makes good science, mr. klaatu. its curiosity. sit down, please. i have several thousand questions to ask you.
-speaker3: i would like to explain something of my mission here.
-speaker2: that was my first question.
-speaker3: it was my intention to discuss this officially -- with all the nations of the earth -- but i was not allowed the opportunity. i have come to realize since that your mutual fears and suspicions are merely the normal reactions of a primitive society. we know from scientific observation that you have discovered a rudimentary kind of atomic energy. we also know that you are experimenting with rockets.
-speaker2: yes -- that is true.
-speaker3: in the hands of a mature civilization, these would not be considered weapons of aggression. but in the hands of your people-- we've observed your aggressive tendencies, and we don't trust you with such power.
-speaker2: if you mean that you are afraid of us--
-speaker3: we want to be sure you don't make -- let us say -- an unfortunate mistake. we know the potentiality of these developments and we are disturbed to find them in the hands of children... you see, we've had atomic energy for five thousand of your years. we discarded instruments like this many centuries ago. so long as you were limited to fighting among yourselves -- with your primitive tanks and planes -- we were unconcerned. but soon you will apply atomic energy to space ships -- and then you become a threat to the peace and security of other planets. that, of course, we cannot tolerate.
-speaker2: these other planets -- do they have peace and security?
-speaker3: we had our atomic wars -- thousands of years ago. after that we fought with bows and arrows. then, slowly, we learned that fighting is no solution -- that aggression leads to chaos.
-speaker2: we scientists understand this. even we primitive scientists. what exactly is the nature of your mission, mr. klaatu?
-speaker3: i came here to warn you that, by threatening danger, your planet faces danger -- very grave danger. i am prepared, however, to offer a solution.
-speaker2: would you care to be more specific?
-speaker3: what i have to say must be said to all concerned. it is too important to be entrusted to any individual. barnhardt is forced reluctantly to accept klaatu's refusal to go any further. after a moment's thought, he speaks seriously, but with a twinkle in his eye.
-speaker2: i gather that your efforts on the official level were not entirely successful.
-speaker3: i come to you as a last resort -- and i confess that my patience is wearing thin. must i take drastic action in order to get a hearing?
-speaker2: what -- what sort of action do you mean?
-speaker3: violent action -- since that seems to be the only thing you people understand. leveling the island of manhattan, perhaps -- or dropping the rock of gibraltar into the sea.
-speaker2: would you be willing to meet with the group of scientists i am calling together?. perhaps you could explain your mission to them, and they in turn could present it to their various peoples.
-speaker2: it is not enough to have men of science. we scientists are too easily ignored -- or misunderstood. we must get important men from every field. educators -- philosophers -- church leaders -- men of vision and imagination -- the finest minds in the world.
-speaker3: i leave that in your hands.
-speaker2: you'd have no objection to revealing yourself at this meeting?
-speaker3: no -- not at all.
-speaker2: what about your personal safety in the meantime? what about the army -- and the police?
-speaker3: my name is carpenter and i'm a very earthy character living in a respectable boarding house.
-speaker2: i'm afraid i can't offer you any real protection. i have no influence in cases of inter-planetary conspiracy.
-speaker3: i'm sure i'll be quite safe until the meeting.
-speaker2: one thing, mr. klaatu. suppose this group should reject your proposals. what is the alternative?
-speaker3: i'm afraid you have no alternative. in such, a case the planet earth would have to be-- --eliminated.
-speaker2: such power exists?
-speaker3: i assure you such power exists.
-speaker2: the people who came to the meeting must be made to realize this. they must understand what is at stake. you mentioned a demonstration of force--
-speaker3: yes.
-speaker2: would such, a demonstration be possible before the meeting?
-speaker3: yes -- of course.
-speaker2: something that would dramatize for them and for their people the seriousness of the situation. something that would affect the entire planet.
-speaker3: that can easily be arranged.
-speaker2: i wouldn't want you to harm anybody -- or destroy anything.
-speaker3: why don't you leave it to me? i'll think of something.
-speaker2: maybe a little demonstration.
-speaker3: something dramatic -- but not destructive. it's quite an interesting problem. would day after tomorrow be all right? say about noon?
+M.P. CAPTAIN: this is the man you wanted to see, professor. 
+BARNHARDT: thank you, captain.
+M.P. CAPTAIN: i'll wait outside.
+BARNHARDT: you wrote this?
+KLAATU: it was a clumsy way to introduce myself -- but i understand you're a difficult man to see. i thought you'd have the solution by this time.
+BARNHARDT: not yet. that's why i wanted to see you.
+KLAATU: all you have to do now is substitute this expression-- --at this point.
+BARNHARDT: yes -- that will reproduce the first- order terms. but what about the effect of the other terms?
+KLAATU: almost negligible... with variation of parameters, this is the answer.
+BARNHARDT: how can you be so sure? have you tested this theory?
+KLAATU: i find it works well enough to get me from one planet to another. i understand you've called a meeting to study our space ship.
+KLAATU: my name is klaatu. i spent two days at your walter reed hospital. room 309. my doctor's name was major white -- and i had a very attractive nurse called ruth, who's getting married next wednesday. if you are not interested -- or if you intend to turn me over to your army -- we needn't waste any more time. barnhardt hesitates for a long, thoughtful moment. then he
+BARNHARDT: you can go now, captain. please thank general cutler and tell him -- tell him that i know this gentleman.
+KLAATU: you have faith, professor barnhardt
+BARNHARDT: it isn't faith that makes good science, mr. klaatu. its curiosity. sit down, please. i have several thousand questions to ask you.
+KLAATU: i would like to explain something of my mission here.
+BARNHARDT: that was my first question.
+KLAATU: it was my intention to discuss this officially -- with all the nations of the earth -- but i was not allowed the opportunity. i have come to realize since that your mutual fears and suspicions are merely the normal reactions of a primitive society. we know from scientific observation that you have discovered a rudimentary kind of atomic energy. we also know that you are experimenting with rockets.
+BARNHARDT: yes -- that is true.
+KLAATU: in the hands of a mature civilization, these would not be considered weapons of aggression. but in the hands of your people-- we've observed your aggressive tendencies, and we don't trust you with such power.
+BARNHARDT: if you mean that you are afraid of us--
+KLAATU: we want to be sure you don't make -- let us say -- an unfortunate mistake. we know the potentiality of these developments and we are disturbed to find them in the hands of children... you see, we've had atomic energy for five thousand of your years. we discarded instruments like this many centuries ago. so long as you were limited to fighting among yourselves -- with your primitive tanks and planes -- we were unconcerned. but soon you will apply atomic energy to space ships -- and then you become a threat to the peace and security of other planets. that, of course, we cannot tolerate.
+BARNHARDT: these other planets -- do they have peace and security?
+KLAATU: we had our atomic wars -- thousands of years ago. after that we fought with bows and arrows. then, slowly, we learned that fighting is no solution -- that aggression leads to chaos.
+BARNHARDT: we scientists understand this. even we primitive scientists. what exactly is the nature of your mission, mr. klaatu?
+KLAATU: i came here to warn you that, by threatening danger, your planet faces danger -- very grave danger. i am prepared, however, to offer a solution.
+BARNHARDT: would you care to be more specific?
+KLAATU: what i have to say must be said to all concerned. it is too important to be entrusted to any individual. barnhardt is forced reluctantly to accept klaatu's refusal to go any further. after a moment's thought, he speaks seriously, but with a twinkle in his eye.
+BARNHARDT: i gather that your efforts on the official level were not entirely successful.
+KLAATU: i come to you as a last resort -- and i confess that my patience is wearing thin. must i take drastic action in order to get a hearing?
+BARNHARDT: what -- what sort of action do you mean?
+KLAATU: violent action -- since that seems to be the only thing you people understand. leveling the island of manhattan, perhaps -- or dropping the rock of gibraltar into the sea.
+BARNHARDT: would you be willing to meet with the group of scientists i am calling together?. perhaps you could explain your mission to them, and they in turn could present it to their various peoples.
+BARNHARDT: it is not enough to have men of science. we scientists are too easily ignored -- or misunderstood. we must get important men from every field. educators -- philosophers -- church leaders -- men of vision and imagination -- the finest minds in the world.
+KLAATU: i leave that in your hands.
+BARNHARDT: you'd have no objection to revealing yourself at this meeting?
+KLAATU: no -- not at all.
+BARNHARDT: what about your personal safety in the meantime? what about the army -- and the police?
+KLAATU: my name is carpenter and i'm a very earthy character living in a respectable boarding house.
+BARNHARDT: i'm afraid i can't offer you any real protection. i have no influence in cases of inter-planetary conspiracy.
+KLAATU: i'm sure i'll be quite safe until the meeting.
+BARNHARDT: one thing, mr. klaatu. suppose this group should reject your proposals. what is the alternative?
+KLAATU: i'm afraid you have no alternative. in such, a case the planet earth would have to be-- --eliminated.
+BARNHARDT: such power exists?
+KLAATU: i assure you such power exists.
+BARNHARDT: the people who came to the meeting must be made to realize this. they must understand what is at stake. you mentioned a demonstration of force--
+KLAATU: yes.
+BARNHARDT: would such, a demonstration be possible before the meeting?
+KLAATU: yes -- of course.
+BARNHARDT: something that would dramatize for them and for their people the seriousness of the situation. something that would affect the entire planet.
+KLAATU: that can easily be arranged.
+BARNHARDT: i wouldn't want you to harm anybody -- or destroy anything.
+KLAATU: why don't you leave it to me? i'll think of something.
+BARNHARDT: maybe a little demonstration.
+KLAATU: something dramatic -- but not destructive. it's quite an interesting problem. would day after tomorrow be all right? say about noon?
 
-speaker1: going out, dear? 
-speaker2: yes, i'm waiting for tom to pick me up.
-speaker1: personally, i won't go out after dark these days. but then -- i'm not courting, am i?
-speaker1: oh -- mr. carpenter--!
-speaker3: everyone seems so--
-speaker2: jittery is the word.
-speaker3: bobby's the only person i know who isn't -- jittery.
-speaker2: he has his homework to keep him occupied.
-speaker3: he's a fine boy, mrs. benson.
-speaker2: naturally i think so.
-speaker3: warm and friendly and intelligent-- you know -- he's the only real friend i've made since i've been here.
-speaker2: mr. carpenter -- this is none of my business, but -- why did that detective come here last night?
-speaker3: oh -- they just wanted to ask me a few questions. bobby and i tried to see professor barnhardt in the afternoon, but he wasn't in. apparently they thought i was looking for secrets of some kind. helen has reacted in puzzlement at this second mention of barnhardt. they are interrupted by the ringing of the doorbell. helen goes to answer it.
+MRS. CROCKETT: going out, dear? 
+HELEN: yes, i'm waiting for tom to pick me up.
+MRS. CROCKETT: personally, i won't go out after dark these days. but then -- i'm not courting, am i?
+MRS. CROCKETT: oh -- mr. carpenter--!
+KLAATU: everyone seems so--
+HELEN: jittery is the word.
+KLAATU: bobby's the only person i know who isn't -- jittery.
+HELEN: he has his homework to keep him occupied.
+KLAATU: he's a fine boy, mrs. benson.
+HELEN: naturally i think so.
+KLAATU: warm and friendly and intelligent-- you know -- he's the only real friend i've made since i've been here.
+HELEN: mr. carpenter -- this is none of my business, but -- why did that detective come here last night?
+KLAATU: oh -- they just wanted to ask me a few questions. bobby and i tried to see professor barnhardt in the afternoon, but he wasn't in. apparently they thought i was looking for secrets of some kind. helen has reacted in puzzlement at this second mention of barnhardt. they are interrupted by the ringing of the doorbell. helen goes to answer it.
 
-speaker1: hello-- 
-speaker2: you ready?
-speaker1: i will be in just a minute.
-speaker2: the picture starts at eight-fifty.
-speaker1: i was talking to mr. carpenter.
-speaker2: i hope mr. carpenter won't think i'm intruding.
-speaker3: excuse me. i was just going up to my room.
-speaker1: goodnight, mr. carpenter.
-speaker3: have a good time -- both of you.
-speaker1: why don't you wait in here while i get my things?
+HELEN: hello-- 
+TOM: you ready?
+HELEN: i will be in just a minute.
+TOM: the picture starts at eight-fifty.
+HELEN: i was talking to mr. carpenter.
+TOM: i hope mr. carpenter won't think i'm intruding.
+KLAATU: excuse me. i was just going up to my room.
+HELEN: goodnight, mr. carpenter.
+KLAATU: have a good time -- both of you.
+HELEN: why don't you wait in here while i get my things?
 
-speaker1: oh, tom, that was awful. 
-speaker2: i'm sorry. i guess i'm just tired of hearing about mr. carpenter. i don't like the way he's attached himself to you and bobby. after all, what do you know about him?
-speaker1: i'll go get my things.
+HELEN: oh, tom, that was awful. 
+TOM: i'm sorry. i guess i'm just tired of hearing about mr. carpenter. i don't like the way he's attached himself to you and bobby. after all, what do you know about him?
+HELEN: i'll go get my things.
 
-speaker1: all you have to remember is, first find the common denominator -- then subtract. 
-speaker2: thanks, mr. carpenter.
-speaker1: i'll say goodnight again.
-speaker3: mr. carpenter, i-- goodnight.
-speaker1: goodnight, my dear.
-speaker3: go to bed, darling. you can finish that in the morning.
-speaker2: okay.
-speaker3: bobby -- i think it would be better if we didn't see quite so much of mr. carpenter
-speaker2: gee, why, mom? he's my best friend... and he's awful good in arithmetic. he even helps professor barnhardt.
-speaker3: did you and mr. carpenter really go to see professor barnhardt?
-speaker2: sure we did! he wasn't there but we went to see him. and mr. carpenter showed him how to do his arithmetic.
-speaker2: mom -- is there something wrong with mr. carpenter?
-speaker3: what do you mean, dear?
-speaker2: i mean -- on account of that policeman last night. you think he's a bank robber, maybe? or a gangster?
-speaker3: no, dear, of course not. he's a very nice man. i just think he might prefer to be left alone. now you get to bed and forget about it. 'night, darling.
-speaker2: goodnight.
-speaker1: bobby -- have you a flashlight?
-speaker2: yeah -- sure. it's a real boy scout flashlight.
-speaker2: what do you want it for, mr. carpenter?
+KLAATU: all you have to remember is, first find the common denominator -- then subtract. 
+BOBBY: thanks, mr. carpenter.
+KLAATU: i'll say goodnight again.
+HELEN: mr. carpenter, i-- goodnight.
+KLAATU: goodnight, my dear.
+HELEN: go to bed, darling. you can finish that in the morning.
+BOBBY: okay.
+HELEN: bobby -- i think it would be better if we didn't see quite so much of mr. carpenter
+BOBBY: gee, why, mom? he's my best friend... and he's awful good in arithmetic. he even helps professor barnhardt.
+HELEN: did you and mr. carpenter really go to see professor barnhardt?
+BOBBY: sure we did! he wasn't there but we went to see him. and mr. carpenter showed him how to do his arithmetic.
+BOBBY: mom -- is there something wrong with mr. carpenter?
+HELEN: what do you mean, dear?
+BOBBY: i mean -- on account of that policeman last night. you think he's a bank robber, maybe? or a gangster?
+HELEN: no, dear, of course not. he's a very nice man. i just think he might prefer to be left alone. now you get to bed and forget about it. 'night, darling.
+BOBBY: goodnight.
+KLAATU: bobby -- have you a flashlight?
+BOBBY: yeah -- sure. it's a real boy scout flashlight.
+BOBBY: what do you want it for, mr. carpenter?
 
-speaker1: bobby--! what are you doing up at this hour? 
-speaker2: i couldn't go to sleep, mom. i had to tell you!
-speaker1: tell me what?
-speaker2: i followed mr. carpenter -- right after you left -- and, gee, mom, where do you think he went? right into the space ship!
-speaker1: now, bobby, just a minute--
-speaker2: honest, mom, i saw him. it just opened up and he walked right in. and that great big iron man was moving around!
-speaker1: bobby, you've been dreaming again.
-speaker2: no, i haven't, mom. i promise you... i saw it!
-speaker3: where did you see all this, bobby?
-speaker2: on the lawn down at the mall -- in that place with the soldiers out front.
-speaker3: where were the soldiers all this time?
-speaker2: that robot fella grabbed 'em and dragged 'em inside! i like mr. carpenter -- but i'm scared, mom.
-speaker1: mustn't be frightened, darling -- it was just a bad dream. here -- we'll prove it to you. tom, will you ask mr. carpenter if he'll come down for a minute. the room right opposite mine.
-speaker1: now think back hard. you didn't follow mr. carpenter at all, did you? you haven't even been out of the house.
-speaker2: yes, i have!
-speaker2: i'd never call you a liar.
+HELEN: bobby--! what are you doing up at this hour? 
+BOBBY: i couldn't go to sleep, mom. i had to tell you!
+HELEN: tell me what?
+BOBBY: i followed mr. carpenter -- right after you left -- and, gee, mom, where do you think he went? right into the space ship!
+HELEN: now, bobby, just a minute--
+BOBBY: honest, mom, i saw him. it just opened up and he walked right in. and that great big iron man was moving around!
+HELEN: bobby, you've been dreaming again.
+BOBBY: no, i haven't, mom. i promise you... i saw it!
+TOM: where did you see all this, bobby?
+BOBBY: on the lawn down at the mall -- in that place with the soldiers out front.
+TOM: where were the soldiers all this time?
+BOBBY: that robot fella grabbed 'em and dragged 'em inside! i like mr. carpenter -- but i'm scared, mom.
+HELEN: mustn't be frightened, darling -- it was just a bad dream. here -- we'll prove it to you. tom, will you ask mr. carpenter if he'll come down for a minute. the room right opposite mine.
+HELEN: now think back hard. you didn't follow mr. carpenter at all, did you? you haven't even been out of the house.
+BOBBY: yes, i have!
+BOBBY: i'd never call you a liar.
 
-speaker1: he's not there. but look what i found in his room 
-speaker2: is it real?
-speaker1: looks real to me.
-speaker3: mr. carpenter's got a lot of diamonds. he gave me a couple of them.
-speaker2: he gave these to you?
-speaker3: well, not exactly. i gave him two dollars.
-speaker1: this doesn't make sense... i think the guy's a crook. i never did trust him.
-speaker3: gee, mom, do you think maybe he's a diamond smuggler?
-speaker2: come on, darling -- we're going up to bed.
-speaker1: i wonder if we ought to--
-speaker2: bobby and i have had enough excitement for tonight.
-speaker1: you think it's all right for you to stay here?
-speaker2: i've got a good lock on my door. and bobby's going to sleep in my room tonight.
-speaker3: oh, boy -- can i, mom?
-speaker2: yes, dear. come on now. bobby, your shoes are soaking!
-speaker3: yeah -- the grass was kind of wet.
+TOM: he's not there. but look what i found in his room 
+HELEN: is it real?
+TOM: looks real to me.
+BOBBY: mr. carpenter's got a lot of diamonds. he gave me a couple of them.
+HELEN: he gave these to you?
+BOBBY: well, not exactly. i gave him two dollars.
+TOM: this doesn't make sense... i think the guy's a crook. i never did trust him.
+BOBBY: gee, mom, do you think maybe he's a diamond smuggler?
+HELEN: come on, darling -- we're going up to bed.
+TOM: i wonder if we ought to--
+HELEN: bobby and i have had enough excitement for tonight.
+TOM: you think it's all right for you to stay here?
+HELEN: i've got a good lock on my door. and bobby's going to sleep in my room tonight.
+BOBBY: oh, boy -- can i, mom?
+HELEN: yes, dear. come on now. bobby, your shoes are soaking!
+BOBBY: yeah -- the grass was kind of wet.
 
-speaker1: oh -- hello-- 
-speaker2: may i see you for a minute?
-speaker1: i -- i was just going to lunch.
-speaker2: may i walk out with you?
-speaker1: mrs. benson speaking. oh, hello...
+HELEN: oh -- hello-- 
+KLAATU: may i see you for a minute?
+HELEN: i -- i was just going to lunch.
+KLAATU: may i walk out with you?
+HELEN: mrs. benson speaking. oh, hello...
 
-speaker1: i saw bobby this morning before he went to school-- 
-speaker2: yes--?
-speaker1: i want to know what he told you last night.
-speaker2: i -- i didn't really pay much attention-- bobby has such an active imagination.
-speaker1: did you believe what he told you? i have a reason for asking this -- a very important reason.
+KLAATU: i saw bobby this morning before he went to school-- 
+HELEN: yes--?
+KLAATU: i want to know what he told you last night.
+HELEN: i -- i didn't really pay much attention-- bobby has such an active imagination.
+KLAATU: did you believe what he told you? i have a reason for asking this -- a very important reason.
 
-speaker1: what is it you want? 
-speaker2: before i ask you to be honest with me, perhaps i should be completely honest with you--
-speaker1: what happened?
-speaker2: what time is it?
-speaker1: just twelve.
-speaker2: we'll be stuck here for a little while -- about thirty minutes.
-speaker1: we could try pushing the other buttons. i have a flashlight in my purse.
-speaker2: it won't work.
-speaker1: why not?
-speaker2: you see -- the electricity's been neutralized -- all over the world.
-speaker1: bobby was telling the truth -- wasn't he?
+HELEN: what is it you want? 
+KLAATU: before i ask you to be honest with me, perhaps i should be completely honest with you--
+HELEN: what happened?
+KLAATU: what time is it?
+HELEN: just twelve.
+KLAATU: we'll be stuck here for a little while -- about thirty minutes.
+HELEN: we could try pushing the other buttons. i have a flashlight in my purse.
+KLAATU: it won't work.
+HELEN: why not?
+KLAATU: you see -- the electricity's been neutralized -- all over the world.
+HELEN: bobby was telling the truth -- wasn't he?
 
-speaker1: you should see it, professor barnhardt! you should go out and see it for yourself! 
-speaker2: thanks -- i'm enjoying it right here.
-speaker1: the whole city has stopped. people are running around like ants!
-speaker2: what a brilliant idea. i never would have thought of it.
-speaker2: what about the people who are coming to the meeting tonight? have they all arrived?
-speaker1: i talked to most of them this morning... they were all very curious about the meeting.
-speaker2: good. did you speak to our friend mr. carpenter?
-speaker1: he'll be there at 8:30.
-speaker2: tell me, hilda -- does all this frighten you -- does it make you feel insecure?
-speaker1: yes, sir -- it certainly does!
-speaker2: that's good, hilda. i'm glad.
+HILDA: you should see it, professor barnhardt! you should go out and see it for yourself! 
+BARNHARDT: thanks -- i'm enjoying it right here.
+HILDA: the whole city has stopped. people are running around like ants!
+BARNHARDT: what a brilliant idea. i never would have thought of it.
+BARNHARDT: what about the people who are coming to the meeting tonight? have they all arrived?
+HILDA: i talked to most of them this morning... they were all very curious about the meeting.
+BARNHARDT: good. did you speak to our friend mr. carpenter?
+HILDA: he'll be there at 8:30.
+BARNHARDT: tell me, hilda -- does all this frighten you -- does it make you feel insecure?
+HILDA: yes, sir -- it certainly does!
+BARNHARDT: that's good, hilda. i'm glad.
 
-speaker1: --as far as we can tell, all power's been cut off everywhere -- with a few exceptions: hospitals, planes in flight -- that sort of thing. i wish i could be more specific but, as you now, all communications are out telephone, radio, cable -- everything. i can tell you that the president is prepared to declare a state of national emergency. before we start discussing plans, i want a report from colonel ryder. what about the robot, colonel? 
-speaker2: when it was discovered last night that the robot had moved, i was directed by the joint chiefs to find a means of immobilizing him. we accomplished that this morning by encasing him in a block of kl 93. it's a new plastic material -- stronger than steel.
-speaker1: is it possible that he's broken out of this stuff?
-speaker3: no, sir. i've just checked on that. he's locked up tight as a drum.
-speaker1: all right -- that means we concentrate on the man. up till now we've agreed on the desirability of capturing this man alive. we can no longer afford to be so particular. we'll get him alive, if possible -- but we must get him! is that clear?
+GENERAL: --as far as we can tell, all power's been cut off everywhere -- with a few exceptions: hospitals, planes in flight -- that sort of thing. i wish i could be more specific but, as you now, all communications are out telephone, radio, cable -- everything. i can tell you that the president is prepared to declare a state of national emergency. before we start discussing plans, i want a report from colonel ryder. what about the robot, colonel? 
+COLONEL RYDER: when it was discovered last night that the robot had moved, i was directed by the joint chiefs to find a means of immobilizing him. we accomplished that this morning by encasing him in a block of kl 93. it's a new plastic material -- stronger than steel.
+GENERAL: is it possible that he's broken out of this stuff?
+COLONEL: no, sir. i've just checked on that. he's locked up tight as a drum.
+GENERAL: all right -- that means we concentrate on the man. up till now we've agreed on the desirability of capturing this man alive. we can no longer afford to be so particular. we'll get him alive, if possible -- but we must get him! is that clear?
 
-speaker1: eleanor, did you call the electrician? 
-speaker2: i tried, mr. bleeker. but the phone doesn't work, either.
-speaker1: well, call the phone company.
-speaker2: but the phone doesn't work.
-speaker3: is it worth anything?
-speaker1: i have never seen such a stone. will you please tell me where it came from?
-speaker3: that's what i wanted you to tell me.
-speaker1: there are no diamonds like this -- any place in the world.
-speaker3: you sure about that?
-speaker1: would you like to sell it?
-speaker3: no -- no, thanks.
-speaker1: i'd give you a very good price.
+JEWELER: eleanor, did you call the electrician? 
+GIRL: i tried, mr. bleeker. but the phone doesn't work, either.
+JEWELER: well, call the phone company.
+GIRL: but the phone doesn't work.
+TOM: is it worth anything?
+JEWELER: i have never seen such a stone. will you please tell me where it came from?
+TOM: that's what i wanted you to tell me.
+JEWELER: there are no diamonds like this -- any place in the world.
+TOM: you sure about that?
+JEWELER: would you like to sell it?
+TOM: no -- no, thanks.
+JEWELER: i'd give you a very good price.
 
-speaker1: --i've already told you more than i told professor barnhardt, because my life, in a sense, is in your hands. i thought if you knew the facts you'd appreciate the importance of my not being -- apprehended, -- before the meeting tonight. helen is staring at him in awe, but also in complete admiration and sympathy. 
-speaker2: yes, of course. of course i do.
-speaker2: you hold great hope for this meeting.
-speaker1: i can see no other hope for your planet. if the meeting should fail, then i'm afraid there is no hope.
-speaker1: it must be twelve-thirty.
-speaker2: yes -- just exactly.
+KLAATU: --i've already told you more than i told professor barnhardt, because my life, in a sense, is in your hands. i thought if you knew the facts you'd appreciate the importance of my not being -- apprehended, -- before the meeting tonight. helen is staring at him in awe, but also in complete admiration and sympathy. 
+HELEN: yes, of course. of course i do.
+HELEN: you hold great hope for this meeting.
+KLAATU: i can see no other hope for your planet. if the meeting should fail, then i'm afraid there is no hope.
+KLAATU: it must be twelve-thirty.
+HELEN: yes -- just exactly.
 
-speaker1: where are you going now? 
-speaker2: back to the boardinghouse. i'll be safe there for the afternoon -- and i can keep an eye on bobby. he's the only other person who knows anything about--
-speaker1: no, wait a minute -- there's someone else.
-speaker2: who?
-speaker1: tom... he was there last night when bobby told me what he saw.
-speaker1: of course, he doesn't know anything definite. he'd talk to me first, anyway, before-- we can't take that chance. i'll get in touch with him right away and make sure. helen turns and starts determinedly for the lobby door, followed by klaatu, as we--
+HELEN: where are you going now? 
+KLAATU: back to the boardinghouse. i'll be safe there for the afternoon -- and i can keep an eye on bobby. he's the only other person who knows anything about--
+HELEN: no, wait a minute -- there's someone else.
+KLAATU: who?
+HELEN: tom... he was there last night when bobby told me what he saw.
+HELEN: of course, he doesn't know anything definite. he'd talk to me first, anyway, before-- we can't take that chance. i'll get in touch with him right away and make sure. helen turns and starts determinedly for the lobby door, followed by klaatu, as we--
 
-speaker1: --honest, mary, i'm so scared i can't sit still. i'd like to run some place, but i don't know where to go-- 'bye now. 
-speaker2: call the pentagon and find out who's in charge of this space man business. whoever it is i want to talk to him.
-speaker1: mrs. benson's been trying to get you all afternoon. she says it's important.
-speaker2: get this other call first.
-speaker1: oh, mrs. benson -- he just walked in. are you nervous, too?
-speaker3: yes, i am, margaret.
-speaker1: mrs. benson is here. go on in.
-speaker3: tom -- i've been trying to get you all afternoon--
-speaker2: come on in.
+SECRETARY: --honest, mary, i'm so scared i can't sit still. i'd like to run some place, but i don't know where to go-- 'bye now. 
+TOM: call the pentagon and find out who's in charge of this space man business. whoever it is i want to talk to him.
+SECRETARY: mrs. benson's been trying to get you all afternoon. she says it's important.
+TOM: get this other call first.
+SECRETARY: oh, mrs. benson -- he just walked in. are you nervous, too?
+HELEN: yes, i am, margaret.
+SECRETARY: mrs. benson is here. go on in.
+HELEN: tom -- i've been trying to get you all afternoon--
+TOM: come on in.
 
-speaker1: i've got some terrific news about your friend, mr. carpenter. 
-speaker2: what about him?
-speaker1: helen, he's the man from the space ship! i had that diamond checked at three different places. nobody on earth's ever seen a stone like that! after what bobby told us, that's enough for me. why is it nobody knows anything about him? why hasn't he got any money?
-speaker2: all right, tom -- it's true. i know it's true.
-speaker1: how do you know?
-speaker2: never mind about that. you've got to promise me you won't say a word to anybody.
-speaker1: are you crazy? after what happened today?
-speaker2: you don't understand. you don't realize how important it is.
-speaker1: important? of course it's important. the point is we can do something about it.
-speaker2: that's what i'm trying to tell you. we mustn't do anything about it. believe me, tom, i know what i'm talking about.
-speaker1: he's a menace to the whole world! it's our duty to turn him in.
-speaker2: but he isn't a menace! he told me what he came here for.
-speaker1: he told you... don't be silly, honey -- just because you like the guy. you realize what this'd mean for us? i'd be the biggest man in the country. i could write my own ticket.
-speaker2: is that what you're thinking about?
-speaker1: why not? somebody's got to get rid of him.
-speaker2: i'm not going to let you do it, tom. believe me, this is literally the most important thing in the world.
-speaker1: yes?... what's his name, margaret? general cutler? all right, i'll hold on. realizing what he's doing, helen crosses to him, pleading wildly, desperately.
-speaker2: tom, you mustn't -- ! you don't know what you're doing! it isn't just you and mr. carpenter. the rest of the world, is involved!
-speaker1: you'll feel different when you see my picture in the papers.
-speaker2: i feel different right now.
-speaker1: you wait and see. you're going to marry a big hero!
-speaker2: i'm not going to marry anybody.
-speaker1: hello, general cutler? no, i don't want to speak to his aide. i want to speak to the general. tell him it's about the space man... my name is tom stevens. s-t-e-v-e-n- s.
+TOM: i've got some terrific news about your friend, mr. carpenter. 
+HELEN: what about him?
+TOM: helen, he's the man from the space ship! i had that diamond checked at three different places. nobody on earth's ever seen a stone like that! after what bobby told us, that's enough for me. why is it nobody knows anything about him? why hasn't he got any money?
+HELEN: all right, tom -- it's true. i know it's true.
+TOM: how do you know?
+HELEN: never mind about that. you've got to promise me you won't say a word to anybody.
+TOM: are you crazy? after what happened today?
+HELEN: you don't understand. you don't realize how important it is.
+TOM: important? of course it's important. the point is we can do something about it.
+HELEN: that's what i'm trying to tell you. we mustn't do anything about it. believe me, tom, i know what i'm talking about.
+TOM: he's a menace to the whole world! it's our duty to turn him in.
+HELEN: but he isn't a menace! he told me what he came here for.
+TOM: he told you... don't be silly, honey -- just because you like the guy. you realize what this'd mean for us? i'd be the biggest man in the country. i could write my own ticket.
+HELEN: is that what you're thinking about?
+TOM: why not? somebody's got to get rid of him.
+HELEN: i'm not going to let you do it, tom. believe me, this is literally the most important thing in the world.
+TOM: yes?... what's his name, margaret? general cutler? all right, i'll hold on. realizing what he's doing, helen crosses to him, pleading wildly, desperately.
+HELEN: tom, you mustn't -- ! you don't know what you're doing! it isn't just you and mr. carpenter. the rest of the world, is involved!
+TOM: you'll feel different when you see my picture in the papers.
+HELEN: i feel different right now.
+TOM: you wait and see. you're going to marry a big hero!
+HELEN: i'm not going to marry anybody.
+TOM: hello, general cutler? no, i don't want to speak to his aide. i want to speak to the general. tell him it's about the space man... my name is tom stevens. s-t-e-v-e-n- s.
 
-speaker1: i'm sure barnhardt can arrange to hide me until the meeting. 
-speaker2: where is the meeting going to be?
-speaker1: at the ship.
+KLAATU: i'm sure barnhardt can arrange to hide me until the meeting. 
+HELEN: where is the meeting going to be?
+KLAATU: at the ship.
 
-speaker1: it's only a few blocks to barnhardt's. 
-speaker2: i'm worried about gort. i'm afraid of what he might do -- if anything should happen to me.
-speaker1: gort? but he's a robot. i mean -- without you, what could he do?
-speaker2: there's no limit to what he could do. he could destroy the earth. if anything should happen to me, you must go to gort. you must give him this message: "klaatu barada nikto." please repeat that.
-speaker1: "klaatu barada nikto."
-speaker2: remember those words.
+HELEN: it's only a few blocks to barnhardt's. 
+KLAATU: i'm worried about gort. i'm afraid of what he might do -- if anything should happen to me.
+HELEN: gort? but he's a robot. i mean -- without you, what could he do?
+KLAATU: there's no limit to what he could do. he could destroy the earth. if anything should happen to me, you must go to gort. you must give him this message: "klaatu barada nikto." please repeat that.
+HELEN: "klaatu barada nikto."
+KLAATU: remember those words.
 
-speaker1: yes, sir, we've got the body here now. downstairs in a cell... no question about it, general -- he's dead all right... yes, sir. yes -- i understand. the general has apparently hung up and the colonel does likewise, turning to the officers in the room. 
-speaker1: general cutler's coming down here right away. take a squad of men, lieutenant, and post a guard around that cell. captain, don't let anyone in or out of the building.
+COLONEL: yes, sir, we've got the body here now. downstairs in a cell... no question about it, general -- he's dead all right... yes, sir. yes -- i understand. the general has apparently hung up and the colonel does likewise, turning to the officers in the room. 
+COLONEL: general cutler's coming down here right away. take a squad of men, lieutenant, and post a guard around that cell. captain, don't let anyone in or out of the building.
 
-speaker1: hello. 
-speaker2: i -- i thought you were--
-speaker1: i was.
-speaker2: you mean he has the power of life and death?
-speaker1: no -- that is a power reserved to the almighty spirit.
-speaker1: this technique, in certain cases, can re-stimulate life for a limited period. it's a refinement of scientific principles known to your own people.
-speaker2: but how -- how long--?
-speaker1: how long will i live? that no one can say.
+KLAATU: hello. 
+HELEN: i -- i thought you were--
+KLAATU: i was.
+HELEN: you mean he has the power of life and death?
+KLAATU: no -- that is a power reserved to the almighty spirit.
+KLAATU: this technique, in certain cases, can re-stimulate life for a limited period. it's a refinement of scientific principles known to your own people.
+HELEN: but how -- how long--?
+KLAATU: how long will i live? that no one can say.
 
-speaker1: i'm sorry, professor barnhardt -- i have to ask you to call off this meeting. 
-speaker2: call it off? i... but i had permission from the army--
-speaker1: i know you did. but the robots on the loose now and it isn't safe around here. you'll have to get your friends out of that building.
+COLONEL: i'm sorry, professor barnhardt -- i have to ask you to call off this meeting. 
+BARNHARDT: call it off? i... but i had permission from the army--
+COLONEL: i know you did. but the robots on the loose now and it isn't safe around here. you'll have to get your friends out of that building.
 
-speaker1: gort and i will be leaving soon. 
-speaker2: we'll miss you very much -- bobby and i. he won't have anyone to play with.
-speaker1: he'll have you -- and tom.
-speaker2: no. that's all finished.
-speaker1: i'm sorry.
-speaker3: ladies and gentlemen--
+KLAATU: gort and i will be leaving soon. 
+HELEN: we'll miss you very much -- bobby and i. he won't have anyone to play with.
+KLAATU: he'll have you -- and tom.
+HELEN: no. that's all finished.
+KLAATU: i'm sorry.
+BARNHARDT: ladies and gentlemen--
 
-speaker1: there must be security for all -- or no one is secure... this does not mean giving up any freedom except the freedom to act irresponsibly. 
-speaker2: he is an american.
-speaker1: your ancestors knew this when they made laws to govern themselves -- and hired policemen to enforce them.
+KLAATU'S VOICE: there must be security for all -- or no one is secure... this does not mean giving up any freedom except the freedom to act irresponsibly. 
+CLOSE SHOT - A DELEGATE: he is an american.
+KLAATU'S VOICE: your ancestors knew this when they made laws to govern themselves -- and hired policemen to enforce them.
 

@@ -1,612 +1,612 @@
-speaker1: kafka. 
-speaker1: the keeper of the files is still waiting for your final summation of the erlanger claim.
-speaker2: i gave it to him yesterday.
-speaker1: you didn't give it to
-speaker1: did you see him?
-speaker2: i've never seen him. i don't believe there is a keeper of the files.
-speaker1: he's usually in the storage room sorting things out. he can't close the file on a case until he has the concluding report.
-speaker2: he has it, he just hasn't noticed it yet, all right?
-speaker1: who's to say he ever will? he's a timid old man and quite careful not to tread on anyone's toes -- in fact, i'm the only one he trusts and he wouldn't even look at a document if it didn't first come through me.
-speaker1: in an organization as efficient as ours, if a document once in a great while gets lost it might never be found at all.
-speaker2: burgel, i thought it would be easier, as long as i was passing --
-speaker1: but
-speaker1: when i deliver a message the very act of delivering it, you might say, gives it an official stamp, and only in this way are both the sender and the receiver satisfied that it was delivered at all.
-speaker2: i'll commit that to memory.
-speaker1: your position in this firm is not unassailable.
+BURGEL: kafka. 
+BURGEL: the keeper of the files is still waiting for your final summation of the erlanger claim.
+KAFKA: i gave it to him yesterday.
+BURGEL: you didn't give it to
+BURGEL: did you see him?
+KAFKA: i've never seen him. i don't believe there is a keeper of the files.
+BURGEL: he's usually in the storage room sorting things out. he can't close the file on a case until he has the concluding report.
+KAFKA: he has it, he just hasn't noticed it yet, all right?
+BURGEL: who's to say he ever will? he's a timid old man and quite careful not to tread on anyone's toes -- in fact, i'm the only one he trusts and he wouldn't even look at a document if it didn't first come through me.
+BURGEL: in an organization as efficient as ours, if a document once in a great while gets lost it might never be found at all.
+KAFKA: burgel, i thought it would be easier, as long as i was passing --
+BURGEL: but
+BURGEL: when i deliver a message the very act of delivering it, you might say, gives it an official stamp, and only in this way are both the sender and the receiver satisfied that it was delivered at all.
+KAFKA: i'll commit that to memory.
+BURGEL: your position in this firm is not unassailable.
 
-speaker1: yes? 
-speaker2: i'm sorry to disturb you -- i wonder if you know where my friend eduard is?
-speaker1: i can't hear you! -- you'd better come in.
+BIZARRE VOICE: yes? 
+KAFKA: i'm sorry to disturb you -- i wonder if you know where my friend eduard is?
+BIZARRE VOICE: i can't hear you! -- you'd better come in.
 
-speaker1: -- i didn't want to bother you. 
-speaker2: well, you have. what do you want?
-speaker1: my friend eduard, i wonder if you've seen him? he hasn't been in to work, i thought he might be ill.
+KAFKA: -- i didn't want to bother you. 
+CONCIERGE: well, you have. what do you want?
+KAFKA: my friend eduard, i wonder if you've seen him? he hasn't been in to work, i thought he might be ill.
 
-speaker1: you didn't have to get out of bed -- i could have taken the key. 
-speaker2: yes, i'm sure you could.
+KAFKA: you didn't have to get out of bed -- i could have taken the key. 
+CONCIERGE: yes, i'm sure you could.
 
-speaker1: well, he's not here. 
-speaker1: do you think you ought to do that?
-speaker2: the manners of a tramp! it's my house, isn't it?
+KAFKA: well, he's not here. 
+KAFKA: do you think you ought to do that?
+CONCIERGE: the manners of a tramp! it's my house, isn't it?
 
-speaker1: miss rossmann? 
-speaker1: i'm kafka -- i work upstairs in accident --
-speaker2: i know.
-speaker1: you're a friend of eduard raban's.
-speaker2: why would you suppose so?
-speaker1: oh -- well, i thought he once mentioned --
-speaker2: one of you must be mistaken.
-speaker1: i'm sorry, but i just wondered --
-speaker2: excuse me, i have to copy this for central docketing by 2:30.
+KAFKA: miss rossmann? 
+KAFKA: i'm kafka -- i work upstairs in accident --
+GABRIELA: i know.
+KAFKA: you're a friend of eduard raban's.
+GABRIELA: why would you suppose so?
+KAFKA: oh -- well, i thought he once mentioned --
+GABRIELA: one of you must be mistaken.
+KAFKA: i'm sorry, but i just wondered --
+GABRIELA: excuse me, i have to copy this for central docketing by 2:30.
 
-speaker1: -- this is our friend anna who works with us on the magazine. 
-speaker2: hello.
-speaker3: i've been hearing all about you.
-speaker4: don't worry, kafka -- i championed your virtues.
-speaker2: i'd like to hear them.
-speaker5: anna's new to the city -- we wouldn't frighten her needlessly.
-speaker2: i've lived all my life in this city -- it frightens me. as it draws me closer into its web.
-speaker6: -- this is an ancient lament.
-speaker2: no, but do you realize why? -- it has no
-speaker2: even the so-called new town isn't so new. only the people. people of the future living in buildings of the past. has anyone seen eduard?
-speaker1: who? my friend eduard from the office -- i've brought him here lots of times -- you used to marvel at his travel stories.
-speaker5: oh, him.
-speaker2: what d'you mean, oh him? he's a perfectly nice person, he's never missed a day before.
-speaker4: perhaps he's taken up with those traveling players you two were so fond of.
-speaker2: no, it's me who always wanted to run away with them -- except that that life would be far too hectic for me. i'm worried about him, no one's seen him.
-speaker6: haven't you ever called in sick and gone roaming about, free of responsibility to anyone, if only for a day?
-speaker2: when you work for a medical firm you can't call in sick. they know malingerers like a dog knows fleas.
-speaker3: you work in the insurance department?
-speaker2: you have been hearing the sordid side then.
-speaker1: be pleased -- you constantly inspire people to take an interest in your life.
-speaker3: i should think it's very interesting work.
-speaker2: my father always said i had no ambition.
+MARGARETE: -- this is our friend anna who works with us on the magazine. 
+KAFKA: hello.
+ANNA: i've been hearing all about you.
+ERNST: don't worry, kafka -- i championed your virtues.
+KAFKA: i'd like to hear them.
+JULIUS: anna's new to the city -- we wouldn't frighten her needlessly.
+KAFKA: i've lived all my life in this city -- it frightens me. as it draws me closer into its web.
+STELLA: -- this is an ancient lament.
+KAFKA: no, but do you realize why? -- it has no
+KAFKA: even the so-called new town isn't so new. only the people. people of the future living in buildings of the past. has anyone seen eduard?
+MARGARETE: who? my friend eduard from the office -- i've brought him here lots of times -- you used to marvel at his travel stories.
+JULIUS: oh, him.
+KAFKA: what d'you mean, oh him? he's a perfectly nice person, he's never missed a day before.
+ERNST: perhaps he's taken up with those traveling players you two were so fond of.
+KAFKA: no, it's me who always wanted to run away with them -- except that that life would be far too hectic for me. i'm worried about him, no one's seen him.
+STELLA: haven't you ever called in sick and gone roaming about, free of responsibility to anyone, if only for a day?
+KAFKA: when you work for a medical firm you can't call in sick. they know malingerers like a dog knows fleas.
+ANNA: you work in the insurance department?
+KAFKA: you have been hearing the sordid side then.
+MARGARETE: be pleased -- you constantly inspire people to take an interest in your life.
+ANNA: i should think it's very interesting work.
+KAFKA: my father always said i had no ambition.
 
-speaker1: the cabaret will be packed this time of night -- we'll never get in. 
-speaker2: well, it has to be the cabaret because there's nowhere else to go.
-speaker3: home, i think.
+STELLA: the cabaret will be packed this time of night -- we'll never get in. 
+JULIUS: well, it has to be the cabaret because there's nowhere else to go.
+MARGARET: home, i think.
 
-speaker1: bizzlebek has ways and means denied lesser mortals. it comes from working in the cemetery all day -- he's able to transcent the physical world. 
-speaker2: no -- it only makes me view people dispassionately as so many ... slabs.
-speaker2: quartz ... slate ... gravel ... granite ... flint ... marble.
-speaker3: my look, he's marching forward willingly to make human contact.
+ERNST: bizzlebek has ways and means denied lesser mortals. it comes from working in the cemetery all day -- he's able to transcent the physical world. 
+BIZZLEBEK: no -- it only makes me view people dispassionately as so many ... slabs.
+BIZZLEBEK: quartz ... slate ... gravel ... granite ... flint ... marble.
+JULIUS: my look, he's marching forward willingly to make human contact.
 
-speaker1: i've never seen you here before. 
-speaker2: have you looked?
-speaker1: well -- nice to know life exists outside the office.
-speaker2: yes.
+KAFKA: i've never seen you here before. 
+GABRIELA: have you looked?
+KAFKA: well -- nice to know life exists outside the office.
+GABRIELA: yes.
 
-speaker1: kafka resists going along with the others. 
-speaker2: no, really, i have to go home too.
-speaker3: we're keeping him from his true vocation.
-speaker4: i know, he
-speaker5: where do you live?
-speaker2: up there.
-speaker5: i tried finding a place on castle hill when i arrived. i wanted to share the majesty.
-speaker2: it's only majestic from here. when you get closer you see it for what it really is.
-speaker5: what is it really?
-speaker2: a glorified office block. they keep all the old records there -- the final resting place for facts and figures that have ceased to matter in the world of the living.
-speaker5: well, as long as i admire it from afar it shouldn't worry me if it's hollow.
+OUTSIDE - NIGHT: kafka resists going along with the others. 
+KAFKA: no, really, i have to go home too.
+MARGARETE: we're keeping him from his true vocation.
+JULIUS: i know, he
+ANNA: where do you live?
+KAFKA: up there.
+ANNA: i tried finding a place on castle hill when i arrived. i wanted to share the majesty.
+KAFKA: it's only majestic from here. when you get closer you see it for what it really is.
+ANNA: what is it really?
+KAFKA: a glorified office block. they keep all the old records there -- the final resting place for facts and figures that have ceased to matter in the world of the living.
+ANNA: well, as long as i admire it from afar it shouldn't worry me if it's hollow.
 
-speaker1: don't worry about your friend -- i'm sure he'll turn up. 
-speaker2: what are you working on, kafka?
-speaker3: i'm writing a story about a man who wakes up one morning to find himself transformed into a giant insect.
+MARGARETE: don't worry about your friend -- i'm sure he'll turn up. 
+ERNST: what are you working on, kafka?
+KAFKA: i'm writing a story about a man who wakes up one morning to find himself transformed into a giant insect.
 
-speaker1: i've read your stories. they're fantastic. 
-speaker2: i don't know what you could have read.
-speaker1: just what you've published.
-speaker2: -- in magazines nobody reads.
-speaker1: i read the one about the penal colony.
-speaker2: did you?
-speaker1: the needles inscribing the judgement into the flesh of the man. very good.
-speaker1: if i could sculpt as well as that, i'd be quite proud of myself.
+BIZZLEBEK: i've read your stories. they're fantastic. 
+KAFKA: i don't know what you could have read.
+BIZZLEBEK: just what you've published.
+KAFKA: -- in magazines nobody reads.
+BIZZLEBEK: i read the one about the penal colony.
+KAFKA: did you?
+BIZZLEBEK: the needles inscribing the judgement into the flesh of the man. very good.
+BIZZLEBEK: if i could sculpt as well as that, i'd be quite proud of myself.
 
-speaker1: you know him? 
-speaker2: ... yes.
-speaker3: his name is eduard raban?
-speaker2: ... yes.
-speaker4: inspector grubach.
+SECOND MAN: you know him? 
+KAFKA: ... yes.
+FIRST MAN: his name is eduard raban?
+KAFKA: ... yes.
+MAN: inspector grubach.
 
-speaker1: kafka -- is that your real name? 
-speaker2: yes. yes, of course -- why wouldn't it be?
-speaker1: when was the last time you saw mr. raban?
-speaker2: wednesday. we left the office together.
-speaker1: did you go anywhere afterwards -- to have a drink perhaps?
-speaker2: no, we said goodbye outside the building. he went off, as usual, toward his house.
-speaker1: your office is the workmen's --
-speaker2: -- accident and compensation association.
-speaker1: where you've been employed for seven years.
-speaker2: eight -- and seven months.
-speaker1: engaged in the manufacture and distribution of ... pills and so forth.
-speaker2: well -- other departments are, yes.
-speaker1: would you describe your relationship with the dead man as close?
-speaker2: yes. since he came to the office, almost three years ago, we've been quite good friends. how was eduard ...
-speaker1: he was found in the river. could he swim?
-speaker2: i don't know.
-speaker1: was he depressed?
-speaker2: no. he didn't seem to be. do you think he drowned himself?
-speaker1: grown men don't normally fall into the river, do they?
-speaker2: no, i suppose not.
-speaker1: he might have had a drink or two, despite what you think.
-speaker2: can i ask -- how you found me?
-speaker1: his landlady knew of no other friends to refer us to.
-speaker2: i don't think he really had any.
-speaker1: we know that.
-speaker2: he wasn't a lonely man, though.
-speaker1: what makes you think so?
-speaker2: ... just a perception.
+INSPECTOR: kafka -- is that your real name? 
+KAFKA: yes. yes, of course -- why wouldn't it be?
+INSPECTOR: when was the last time you saw mr. raban?
+KAFKA: wednesday. we left the office together.
+INSPECTOR: did you go anywhere afterwards -- to have a drink perhaps?
+KAFKA: no, we said goodbye outside the building. he went off, as usual, toward his house.
+INSPECTOR: your office is the workmen's --
+KAFKA: -- accident and compensation association.
+INSPECTOR: where you've been employed for seven years.
+KAFKA: eight -- and seven months.
+INSPECTOR: engaged in the manufacture and distribution of ... pills and so forth.
+KAFKA: well -- other departments are, yes.
+INSPECTOR: would you describe your relationship with the dead man as close?
+KAFKA: yes. since he came to the office, almost three years ago, we've been quite good friends. how was eduard ...
+INSPECTOR: he was found in the river. could he swim?
+KAFKA: i don't know.
+INSPECTOR: was he depressed?
+KAFKA: no. he didn't seem to be. do you think he drowned himself?
+INSPECTOR: grown men don't normally fall into the river, do they?
+KAFKA: no, i suppose not.
+INSPECTOR: he might have had a drink or two, despite what you think.
+KAFKA: can i ask -- how you found me?
+INSPECTOR: his landlady knew of no other friends to refer us to.
+KAFKA: i don't think he really had any.
+INSPECTOR: we know that.
+KAFKA: he wasn't a lonely man, though.
+INSPECTOR: what makes you think so?
+KAFKA: ... just a perception.
 
-speaker1: i don't usually involve myself with you people in the old quarter -- but the river runs its own course. it won't be the last time it deposits its unwanted debris on my doorstep. 
-speaker2: probably not.
-speaker1: anyway, i'd like you to reflect that in me you have -- i won't say a friend, because we're complete fencers, of course -- from distinctly incompatible social classes -- but to some extent, shall we say, an interested third party.
-speaker2: i'll bear that in mind.
-speaker1: -- should you happen upon anything that might be relevant.
+INSPECTOR: i don't usually involve myself with you people in the old quarter -- but the river runs its own course. it won't be the last time it deposits its unwanted debris on my doorstep. 
+KAFKA: probably not.
+INSPECTOR: anyway, i'd like you to reflect that in me you have -- i won't say a friend, because we're complete fencers, of course -- from distinctly incompatible social classes -- but to some extent, shall we say, an interested third party.
+KAFKA: i'll bear that in mind.
+INSPECTOR: -- should you happen upon anything that might be relevant.
 
-speaker1: kafka comes in. 
-speaker2: you wanted to see me, sir.
-speaker3: sit down, kafka.
-speaker3: you've been with the firm for nearly nine years. you've done your work diligently, there are no complaints on that score. but there's more to the job than the work -- there are other people to consider -- and frankly, kafka, we eel your social situation could bear improving.
-speaker2: ... my ... social situation?
-speaker3: you keep too much to yourself -- you're a lone wolf. it makes me uneasy, and if it makes me uneasy i can't imagine the impression you make on lesser employees.
-speaker2: to do my work well, i have little time for --
-speaker3: you must make the time. where do you go off to in the lunch hour?
-speaker2: i usually take lunch by the river.
-speaker3: it's not healthy, kafka -- not for you and not for your workmates. at the annual dinner this month you again failed to make an appearance.
-speaker2: i did not realize it was obligatory.
-speaker3: have you never wondered -- and i mention this only in passing -- why other clerks have advanced to more responsible positions while you, who have been here longer, have not?
-speaker2: no, sir.
-speaker3: attitude, kafka. it doesn't matter how well you do your work -- you still see it as something to be gotten on with rather than something to take an active interest in.
-speaker2: well, i --
-speaker3: oh, i know you got along with that poor fellow -- what was his name?
-speaker2: -- eduard --
-speaker3: -- yes -- raban -- but he was too much like you -- even more so perhaps. he wasn't here as long as you, so i didn't know him as well -- but i could see the influence he was having. i simply want you to be aware of this because you'll be happier for it.
-speaker3: in any case -- don't ask me why -- the word has come down you're to be promoted.
-speaker3: your colleague's death has helped precipitate the need, though i can tell you it's been under consideration for some time. you're to be given two assistants and a commensurate rise in salary. that's all.
-speaker3: kafka.
-speaker3: i understand you fancy yourself an author.
-speaker2: in a small way.
-speaker3: you might find a more athletic hobby -- put some color in your cheeks.
+CHIEF CLERK'S OFFICE: kafka comes in. 
+KAFKA: you wanted to see me, sir.
+CHIEF CLERK: sit down, kafka.
+CHIEF CLERK: you've been with the firm for nearly nine years. you've done your work diligently, there are no complaints on that score. but there's more to the job than the work -- there are other people to consider -- and frankly, kafka, we eel your social situation could bear improving.
+KAFKA: ... my ... social situation?
+CHIEF CLERK: you keep too much to yourself -- you're a lone wolf. it makes me uneasy, and if it makes me uneasy i can't imagine the impression you make on lesser employees.
+KAFKA: to do my work well, i have little time for --
+CHIEF CLERK: you must make the time. where do you go off to in the lunch hour?
+KAFKA: i usually take lunch by the river.
+CHIEF CLERK: it's not healthy, kafka -- not for you and not for your workmates. at the annual dinner this month you again failed to make an appearance.
+KAFKA: i did not realize it was obligatory.
+CHIEF CLERK: have you never wondered -- and i mention this only in passing -- why other clerks have advanced to more responsible positions while you, who have been here longer, have not?
+KAFKA: no, sir.
+CHIEF CLERK: attitude, kafka. it doesn't matter how well you do your work -- you still see it as something to be gotten on with rather than something to take an active interest in.
+KAFKA: well, i --
+CHIEF CLERK: oh, i know you got along with that poor fellow -- what was his name?
+KAFKA: -- eduard --
+CHIEF CLERK: -- yes -- raban -- but he was too much like you -- even more so perhaps. he wasn't here as long as you, so i didn't know him as well -- but i could see the influence he was having. i simply want you to be aware of this because you'll be happier for it.
+CHIEF CLERK: in any case -- don't ask me why -- the word has come down you're to be promoted.
+CHIEF CLERK: your colleague's death has helped precipitate the need, though i can tell you it's been under consideration for some time. you're to be given two assistants and a commensurate rise in salary. that's all.
+CHIEF CLERK: kafka.
+CHIEF CLERK: i understand you fancy yourself an author.
+KAFKA: in a small way.
+CHIEF CLERK: you might find a more athletic hobby -- put some color in your cheeks.
 
-speaker1: good morning -- or should i say good afternoon? 
-speaker2: say what you like -- no one pays the least attention.
-speaker1: oh, don't they? i think you underestimate my station in this office and overrate your own.
-speaker2: not today, burgel. send one of your memos, write up one of your communiques, but for sake don't bother me today.
-speaker1: it's my place to offer advice, not yours -- and by advising the chief clerk of your unpunctuality it's certainly not my situation that's compromised, if that's what you're implying.
-speaker2: you're just doing your job.
-speaker1: it's what i'm paid to do.
-speaker2: you're detestable.
-speaker1: and you're late!
+BURGEL: good morning -- or should i say good afternoon? 
+GABRIELA: say what you like -- no one pays the least attention.
+BURGEL: oh, don't they? i think you underestimate my station in this office and overrate your own.
+GABRIELA: not today, burgel. send one of your memos, write up one of your communiques, but for sake don't bother me today.
+BURGEL: it's my place to offer advice, not yours -- and by advising the chief clerk of your unpunctuality it's certainly not my situation that's compromised, if that's what you're implying.
+GABRIELA: you're just doing your job.
+BURGEL: it's what i'm paid to do.
+GABRIELA: you're detestable.
+BURGEL: and you're late!
 
-speaker1: my assistants, i presume. 
-speaker2: yes -- that's us.
-speaker1: i'm kafka.
-speaker3: ludwig.
-speaker4: oskar.
-speaker1: you look like brothers.
-speaker2: yes -- we do.
-speaker1: have you worked here long?
-speaker2: no, no, no -- quite a long time, yes.
-speaker1: well, we'd better move things from my old desk.
+KAFKA: my assistants, i presume. 
+ASSISTANTS: yes -- that's us.
+KAFKA: i'm kafka.
+LUDWIG: ludwig.
+OSKAR: oskar.
+KAFKA: you look like brothers.
+ASSISTANTS: yes -- we do.
+KAFKA: have you worked here long?
+ASSISTANTS: no, no, no -- quite a long time, yes.
+KAFKA: well, we'd better move things from my old desk.
 
-speaker1: eduard and i had lunch together one day ... and you saw us. 
-speaker2: on the embankment.
+GABRIELA: eduard and i had lunch together one day ... and you saw us. 
+KAFKA: on the embankment.
 
-speaker1: i was having an affair with eduard. he didn't tell you? 
-speaker2: no.
-speaker1: he would have. you were his best friend. a better friend than me.
-speaker2: i suspected that he -- well.
-speaker1: what?
-speaker2: that he was -- satisfied in that regard. i didn't want to pry.
-speaker1: it's not that we wanted to deceive anyone -- but you know how these things are looked upon at the office.
-speaker1: what's funny?
-speaker2: this morning it was suggested to me that my own sense of office fellowship could bear improving.
-speaker1: as long as it's on their terms. if your work and your private life don't correspond to their specifications you're labelled a dangerous agitator -- with no recourse whatsoever.
-speaker2: how long were you and eduard --
-speaker1: two or three months, that's all. -- i seduced him.
+GABRIELA: i was having an affair with eduard. he didn't tell you? 
+KAFKA: no.
+GABRIELA: he would have. you were his best friend. a better friend than me.
+KAFKA: i suspected that he -- well.
+GABRIELA: what?
+KAFKA: that he was -- satisfied in that regard. i didn't want to pry.
+GABRIELA: it's not that we wanted to deceive anyone -- but you know how these things are looked upon at the office.
+GABRIELA: what's funny?
+KAFKA: this morning it was suggested to me that my own sense of office fellowship could bear improving.
+GABRIELA: as long as it's on their terms. if your work and your private life don't correspond to their specifications you're labelled a dangerous agitator -- with no recourse whatsoever.
+KAFKA: how long were you and eduard --
+GABRIELA: two or three months, that's all. -- i seduced him.
 
-speaker1: you know as well as i do that he didn't commit suicide. 
-speaker2: no, i don't. i'm amazed that anyone is able to bear life with any assurance at all.
-speaker1: eduard didn't see it as something that needed bearing.
-speaker2: the police would know the difference, wouldn't they?
-speaker1: do you think people in the new town care what happens over here? this will always be the ghetto.
-speaker2: he wasn't robbed. he was identified by his wallet.
-speaker1: and you believe everything the authorities tell you.
-speaker2: when i have no reason to doubt.
-speaker1: the very fact that they're authorities should give you reason. people will do anything to protect their own interests. for all you know he was killed at the
+GABRIELA: you know as well as i do that he didn't commit suicide. 
+KAFKA: no, i don't. i'm amazed that anyone is able to bear life with any assurance at all.
+GABRIELA: eduard didn't see it as something that needed bearing.
+KAFKA: the police would know the difference, wouldn't they?
+GABRIELA: do you think people in the new town care what happens over here? this will always be the ghetto.
+KAFKA: he wasn't robbed. he was identified by his wallet.
+GABRIELA: and you believe everything the authorities tell you.
+KAFKA: when i have no reason to doubt.
+GABRIELA: the very fact that they're authorities should give you reason. people will do anything to protect their own interests. for all you know he was killed at the
 
-speaker1: turns back to kafka. 
-speaker1: are you free tonight?
-speaker2: tonight?
-speaker1: there are some people i'd like you to meet. can you come to the musil district at eight o'clock?
-speaker2: ... all right.
-speaker1: you almost married recently, didn't you?
-speaker2: last year. i -- it was broken off.
-speaker1: eduard wanted to marry me.
-speaker2: and you ...?
-speaker1: i'm suspicious of men who want to marry. i believe they think it's the only thing that will make them equal to their fathers.
+GABRIELA: turns back to kafka. 
+GABRIELA: are you free tonight?
+KAFKA: tonight?
+GABRIELA: there are some people i'd like you to meet. can you come to the musil district at eight o'clock?
+KAFKA: ... all right.
+GABRIELA: you almost married recently, didn't you?
+KAFKA: last year. i -- it was broken off.
+GABRIELA: eduard wanted to marry me.
+KAFKA: and you ...?
+GABRIELA: i'm suspicious of men who want to marry. i believe they think it's the only thing that will make them equal to their fathers.
 
-speaker1: -- i don't know the musil district. 
-speaker2: you won't have any trouble finding it.
+KAFKA: -- i don't know the musil district. 
+GABRIELA: you won't have any trouble finding it.
 
-speaker1: please sit down. 
-speaker2: we'll save the introductions. we don't know yet if you're friend or foe.
-speaker3: strangers make better foes than friends. will you tell me who you are altogether, if not individually?
-speaker4: heralds of a new age -- does that sound immodest?
-speaker2: you could say we represent the
-speaker5: they're ubiquitous. what we try to do ... is make them a little less so.
-speaker2: quite a disturbance tonight, yes? and perhaps you recall last month -- the explosion at the municipal courthouse that sent one of the examining magistrates to join the heavenly choir.
-speaker3: ... was eduard one of you?
-speaker6: the last to join us, the first to leave us.
-speaker3: ... why take me into your confidence?
-speaker4: that's obvious, isn't it? we have an opening for a new member.
-speaker5: i nominated you as a possible candidate. you were eduard's good friend. he read me some of your work.
-speaker3: i've hardly published enough for anyone to draw conclusions from.
-speaker5: you strike me as a man with a defined notion of injustice -- a high concern for the lot of your fellow men. and yet you're able to remain an outsider. with the concomitant air of ... superiority?
-speaker2: in short, a higher man. it's what we want. it's what we need.
-speaker3: the distance to my fellow man is for me quite a journey. as for being an outsider, it's never been a matter of choice.
-speaker6: -- they may have instituted proceedings against you.
-speaker3: what proceedings?
-speaker4: preliminary investigations may already be underway.
-speaker2: you were his friend. one link is all they need.
-speaker5: the day he died, eduard was called up to the castle. did you know that?
-speaker3: what of it?
-speaker5: he was summoned to help correct a minor discrepancy of some sort in the medical records division. apparently one of his claims was relevant.
-speaker4: -- merely in the interests of order, you understand. the officials at the castle like to cover their tracks.
-speaker5: he was never seen alive again.
-speaker3: and you still maintain -- what?
-speaker5: he was murdered.
-speaker2: as you can imagine, a pass into the castle -- hardly ever granted -- was an opportunity we couldn't ignore.
-speaker6: the castle represents every anachronism that needs to be destroyed if progress is to be made.
-speaker2: as you know, it's not the most accessible location. far from being depressed, eduard was particularly excited when he brought us the news of this chance invitation. he set off that evening carrying one of our custom-made briefcases instead of his own.
-speaker5: you're shocked at the thought of eduard tossing a bomb through a window.
-speaker3: i have no right to be, i know. my experience with real life is practically nil.
-speaker5: when you only see someone sitting at a desk all day, it's liable to create a false impression.
-speaker3: people must think the same of me -- a quiet, dependable person.
-speaker2: you don't have to accept everything as true, my friend. you need only accept it as necessary.
-speaker5: as the bomb never went off, we can only assume he was caught with it -- and summarily executed.
-speaker4: -- merely in the interests of order.
-speaker2: the formality of a trial would be too costly for them. they're beginning to understand that it's the ensuing news of our actions that incites support.
-speaker3: propaganda of the dead?
-speaker6: the castle will deny he was there any longer than his business required. they're just file clerks up there. no doubt he was handed over to the police with the utmost discretion.
-speaker2: in any event, we've felt no repercussions as yet. eduard must not have talked. you're the one they contacted.
-speaker3: so that's who my foes are -- policemen and file clerks. law and order, you might say.
-speaker5: you think what we're doing is so wrong? and what are you doing? pursuing goodness? for what? to answer to some supreme tribunal?
-speaker3: my only concern is the human tribunal. isn't it yours?
-speaker5: yes -- which is why "quiet, dependable people" have to take charge of their own lives.
-speaker3: at the cost of others? you accuse people of murder without trial -- apparently without irony. did you go to the castle with eduard? then you have no idea what really might have happened that night at all -- even before or after he got there.
-speaker5: your human tribunal will betray you. just as its members will be betrayed when they find no supreme one kafka starts walking away.
-speaker5: join us, kafka.
-speaker5: it's sheer folly for anyone to try to pull through alone.
+VOICE FROM BEHIND: please sit down. 
+BEARDED ANARCHIST: we'll save the introductions. we don't know yet if you're friend or foe.
+KAFKA: strangers make better foes than friends. will you tell me who you are altogether, if not individually?
+POCKMARKED ANARCHIST: heralds of a new age -- does that sound immodest?
+BEARDED ANARCHIST: you could say we represent the
+GABRIELA: they're ubiquitous. what we try to do ... is make them a little less so.
+BEARDED ANARCHIST: quite a disturbance tonight, yes? and perhaps you recall last month -- the explosion at the municipal courthouse that sent one of the examining magistrates to join the heavenly choir.
+KAFKA: ... was eduard one of you?
+YOUTHFUL ANARCHIST: the last to join us, the first to leave us.
+KAFKA: ... why take me into your confidence?
+POCKMARKED ANARCHIST: that's obvious, isn't it? we have an opening for a new member.
+GABRIELA: i nominated you as a possible candidate. you were eduard's good friend. he read me some of your work.
+KAFKA: i've hardly published enough for anyone to draw conclusions from.
+GABRIELA: you strike me as a man with a defined notion of injustice -- a high concern for the lot of your fellow men. and yet you're able to remain an outsider. with the concomitant air of ... superiority?
+BEARDED ANARCHIST: in short, a higher man. it's what we want. it's what we need.
+KAFKA: the distance to my fellow man is for me quite a journey. as for being an outsider, it's never been a matter of choice.
+YOUTHFUL ANARCHIST: -- they may have instituted proceedings against you.
+KAFKA: what proceedings?
+POCKMARKED ANARCHIST: preliminary investigations may already be underway.
+BEARDED ANARCHIST: you were his friend. one link is all they need.
+GABRIELA: the day he died, eduard was called up to the castle. did you know that?
+KAFKA: what of it?
+GABRIELA: he was summoned to help correct a minor discrepancy of some sort in the medical records division. apparently one of his claims was relevant.
+POCKMARKED ANARCHIST: -- merely in the interests of order, you understand. the officials at the castle like to cover their tracks.
+GABRIELA: he was never seen alive again.
+KAFKA: and you still maintain -- what?
+GABRIELA: he was murdered.
+BEARDED ANARCHIST: as you can imagine, a pass into the castle -- hardly ever granted -- was an opportunity we couldn't ignore.
+YOUTHFUL ANARCHIST: the castle represents every anachronism that needs to be destroyed if progress is to be made.
+BEARDED ANARCHIST: as you know, it's not the most accessible location. far from being depressed, eduard was particularly excited when he brought us the news of this chance invitation. he set off that evening carrying one of our custom-made briefcases instead of his own.
+GABRIELA: you're shocked at the thought of eduard tossing a bomb through a window.
+KAFKA: i have no right to be, i know. my experience with real life is practically nil.
+GABRIELA: when you only see someone sitting at a desk all day, it's liable to create a false impression.
+KAFKA: people must think the same of me -- a quiet, dependable person.
+BEARDED ANARCHIST: you don't have to accept everything as true, my friend. you need only accept it as necessary.
+GABRIELA: as the bomb never went off, we can only assume he was caught with it -- and summarily executed.
+POCKMARKED ANARCHIST: -- merely in the interests of order.
+BEARDED ANARCHIST: the formality of a trial would be too costly for them. they're beginning to understand that it's the ensuing news of our actions that incites support.
+KAFKA: propaganda of the dead?
+YOUTHFUL ANARCHIST: the castle will deny he was there any longer than his business required. they're just file clerks up there. no doubt he was handed over to the police with the utmost discretion.
+BEARDED ANARCHIST: in any event, we've felt no repercussions as yet. eduard must not have talked. you're the one they contacted.
+KAFKA: so that's who my foes are -- policemen and file clerks. law and order, you might say.
+GABRIELA: you think what we're doing is so wrong? and what are you doing? pursuing goodness? for what? to answer to some supreme tribunal?
+KAFKA: my only concern is the human tribunal. isn't it yours?
+GABRIELA: yes -- which is why "quiet, dependable people" have to take charge of their own lives.
+KAFKA: at the cost of others? you accuse people of murder without trial -- apparently without irony. did you go to the castle with eduard? then you have no idea what really might have happened that night at all -- even before or after he got there.
+GABRIELA: your human tribunal will betray you. just as its members will be betrayed when they find no supreme one kafka starts walking away.
+GABRIELA: join us, kafka.
+GABRIELA: it's sheer folly for anyone to try to pull through alone.
 
-speaker1: how was your evening? 
-speaker2: fine -- terrible.
-speaker1: what was the matter with it?
-speaker3: he can't sit still. just when we arrive at a nightclub he wants to go to another one.
-speaker4: you look tired.
-speaker3: gabriela rossman was here looking for you. do you know her?
-speaker1: do you?
-speaker3: we saw her naked once -- didn't we.
-speaker4: women are all you have on your mind!
-speaker3: she went to the roof to sunbathe one lunch hour -- we watched her changing.
-speaker1: i didn't realize you'd been here that long.
-speaker3: you mean because it's been a while since there was a sunny day? what a good detective you are.
-speaker4: they keep switching us from department to department. he doesn't mind because he can't sit still.
-speaker3: we used to be in the supply section, carrying boxes of medicine about but we dropped too many of them.
-speaker4: it's not too bad working here.
-speaker1: you don't think it's a horrible double life from which there is probably no escape but insanity?
-speaker4: no.
-speaker1: i'm glad for you.
+KAFKA: how was your evening? 
+ASSISTANTS: fine -- terrible.
+KAFKA: what was the matter with it?
+OSKAR: he can't sit still. just when we arrive at a nightclub he wants to go to another one.
+LUDWIG: you look tired.
+OSKAR: gabriela rossman was here looking for you. do you know her?
+KAFKA: do you?
+OSKAR: we saw her naked once -- didn't we.
+LUDWIG: women are all you have on your mind!
+OSKAR: she went to the roof to sunbathe one lunch hour -- we watched her changing.
+KAFKA: i didn't realize you'd been here that long.
+OSKAR: you mean because it's been a while since there was a sunny day? what a good detective you are.
+LUDWIG: they keep switching us from department to department. he doesn't mind because he can't sit still.
+OSKAR: we used to be in the supply section, carrying boxes of medicine about but we dropped too many of them.
+LUDWIG: it's not too bad working here.
+KAFKA: you don't think it's a horrible double life from which there is probably no escape but insanity?
+LUDWIG: no.
+KAFKA: i'm glad for you.
 
-speaker1: are you looking for gabriela rossmann? 
-speaker2: yes.
+BURGEL: are you looking for gabriela rossmann? 
+KAFKA: yes.
 
-speaker1: kafka bounds up the stairs. 
-speaker2: the door to his room is open. kafka goes in.
+EDUARD'S LODGING HOUSE - DAY: kafka bounds up the stairs. 
+EDUARD'S LANDING: the door to his room is open. kafka goes in.
 
-speaker1: i'm collecting eduard's things. if there's anything you want, take it or i'll give it to charity. 
-speaker2: burgel gave me this -- what does it mean?
-speaker1: burgel! -- i didn't leave it with him.
-speaker2: why were you given notice?
-speaker1: they're not obliged to tell.
-speaker2: it couldn't be for that incident with burgel the other day.
-speaker1: of course it could -- burgel's been trying to get me thrown out as long as i can remember.
-speaker1: i wouldn't put it past him.
-speaker2: it seems i knew eduard a little bit, after all.
+GABRIELA: i'm collecting eduard's things. if there's anything you want, take it or i'll give it to charity. 
+KAFKA: burgel gave me this -- what does it mean?
+GABRIELA: burgel! -- i didn't leave it with him.
+KAFKA: why were you given notice?
+GABRIELA: they're not obliged to tell.
+KAFKA: it couldn't be for that incident with burgel the other day.
+GABRIELA: of course it could -- burgel's been trying to get me thrown out as long as i can remember.
+GABRIELA: i wouldn't put it past him.
+KAFKA: it seems i knew eduard a little bit, after all.
 
-speaker1: lodgers! not one of them thinks to spare me such spectacles! 
-speaker2: gabriela turns to kafka.
-speaker3: you might think -- i thought so myself at first -- that burgel's too insignificant to be dangerous. but that's the very reason to beware! it's the small men to watch out for -- the ones who substitute method for character.
-speaker4: now you've fallen into his trap. when he goes to bed at night burgel dreams of inspiring as much fear in others as they inspire in him.
-speaker3: it's still easier for you to understand suicide, isn't it.
-speaker4: that street down there -- i always used to call it the approach road for suicides. it leads straight down to the bridge and the river.
-speaker3: burgel hated eduard. and me. i'm sure he knew about us -- and i'm sure it drove him mad.
-speaker4: burgel doesn't like anybody!
-speaker3: he used to like me -- very much more than i liked him.
-speaker4: he's jealous, yes, but
-speaker4: now you're saying eduard was lured there?
-speaker3: how often does one of our clerks have business in the house of records?
-speaker4: i've heard of it happening.
-speaker3: and burgel is the bringer of messages, isn't he?
-speaker4: usually.
-speaker3: or what if there really
-speaker3: what seems important to these people is not determined by the amount of work it entails -- you're far from understanding the authorities if you believe that.
-speaker4: now burgel's one of the authorities?
-speaker3: for all his big talk he is. does he really have access to the directors of the firm as he always claims? -- or only the deputy managers -- people of no importance whatsoever. someone ought to follow
-speaker3: burgel is only there for one purpose -- to spy on the employees and report any and all indiscretions, real or imagined. if he didn't send eduard to the castle, you can be sure he's in league with whoever greeted him there. all those are in league with each other -- why can't you see that!
-speaker4: ... i don't see anything. i see a message on its way to me -- with all the right answers. only it never arrives -- it's always just on its way.
-speaker3: eduard ...
-speaker3: your ignorance of the way things are here is so appalling that it makes my head spin to listen to you and compare what you say and have in mind with the real situation!
+CONCIERGE: lodgers! not one of them thinks to spare me such spectacles! 
+EDUARD'S ROOM: gabriela turns to kafka.
+GABRIELA: you might think -- i thought so myself at first -- that burgel's too insignificant to be dangerous. but that's the very reason to beware! it's the small men to watch out for -- the ones who substitute method for character.
+KAFKA: now you've fallen into his trap. when he goes to bed at night burgel dreams of inspiring as much fear in others as they inspire in him.
+GABRIELA: it's still easier for you to understand suicide, isn't it.
+KAFKA: that street down there -- i always used to call it the approach road for suicides. it leads straight down to the bridge and the river.
+GABRIELA: burgel hated eduard. and me. i'm sure he knew about us -- and i'm sure it drove him mad.
+KAFKA: burgel doesn't like anybody!
+GABRIELA: he used to like me -- very much more than i liked him.
+KAFKA: he's jealous, yes, but
+KAFKA: now you're saying eduard was lured there?
+GABRIELA: how often does one of our clerks have business in the house of records?
+KAFKA: i've heard of it happening.
+GABRIELA: and burgel is the bringer of messages, isn't he?
+KAFKA: usually.
+GABRIELA: or what if there really
+GABRIELA: what seems important to these people is not determined by the amount of work it entails -- you're far from understanding the authorities if you believe that.
+KAFKA: now burgel's one of the authorities?
+GABRIELA: for all his big talk he is. does he really have access to the directors of the firm as he always claims? -- or only the deputy managers -- people of no importance whatsoever. someone ought to follow
+GABRIELA: burgel is only there for one purpose -- to spy on the employees and report any and all indiscretions, real or imagined. if he didn't send eduard to the castle, you can be sure he's in league with whoever greeted him there. all those are in league with each other -- why can't you see that!
+KAFKA: ... i don't see anything. i see a message on its way to me -- with all the right answers. only it never arrives -- it's always just on its way.
+GABRIELA: eduard ...
+GABRIELA: your ignorance of the way things are here is so appalling that it makes my head spin to listen to you and compare what you say and have in mind with the real situation!
 
-speaker1: you said she was extremely upset. people who are extremely upset -- kafka -- are given to disappearing in a hurry. they go and calm down for a day or so and then they come back. 
-speaker2: but that's just my point -- she was more than upset, she was livid. she slammed every door on her way downstairs -- except that one. i was just behind her and i didn't even hear that one
-speaker2: if someone was waiting here in the hallway to spirit her away, wouldn't they have shut the door as quietly as possible?
+INSPECTOR: you said she was extremely upset. people who are extremely upset -- kafka -- are given to disappearing in a hurry. they go and calm down for a day or so and then they come back. 
+KAFKA: but that's just my point -- she was more than upset, she was livid. she slammed every door on her way downstairs -- except that one. i was just behind her and i didn't even hear that one
+KAFKA: if someone was waiting here in the hallway to spirit her away, wouldn't they have shut the door as quietly as possible?
 
-speaker1: why would someone want to kidnap this woman -- the name is rossmann? 
-speaker2: you told me to contact you if anything relevant came up -- gabriela is relevant. when i spoke to you before i didn't know she'd been seeing eduard.
-speaker1: that's been noted. but where does it lead us? unless you have something more to add.
-speaker2: she's missing. i went to her house and she hadn't returned there.
-speaker1: she lost her job today. just between you and me, i'd probably go away and brood a bit myself.
+INSPECTOR: why would someone want to kidnap this woman -- the name is rossmann? 
+KAFKA: you told me to contact you if anything relevant came up -- gabriela is relevant. when i spoke to you before i didn't know she'd been seeing eduard.
+INSPECTOR: that's been noted. but where does it lead us? unless you have something more to add.
+KAFKA: she's missing. i went to her house and she hadn't returned there.
+INSPECTOR: she lost her job today. just between you and me, i'd probably go away and brood a bit myself.
 
-speaker1: maybe it's true then what she said. 
-speaker2: what did she say?
-speaker1: that the police may have allegiance to something other than truth.
-speaker1: -- she didn't think eduard committed suicide. any more than i do. she was convinced of it.
-speaker2: i'm going to say something, and i hope it's quite clear because i won't be repeating it.
-speaker2: we don't have to hunt for criminals. we're drawn towards them. the guilty show us the way.
+KAFKA: maybe it's true then what she said. 
+INSPECTOR: what did she say?
+KAFKA: that the police may have allegiance to something other than truth.
+KAFKA: -- she didn't think eduard committed suicide. any more than i do. she was convinced of it.
+INSPECTOR: i'm going to say something, and i hope it's quite clear because i won't be repeating it.
+INSPECTOR: we don't have to hunt for criminals. we're drawn towards them. the guilty show us the way.
 
-speaker1: where are your friends? 
-speaker2: good question.
+BIZZLEBEK: where are your friends? 
+KAFKA: good question.
 
-speaker1: bizzlebek sits listening to kafka's tale of woe. 
-speaker2: gabriela was right -- it's easier for me to understand suicide.
-speaker3: -- in what sense?
-speaker2: bachelorhood is just the slow form. the bachelor doesn't sew seeds. only the moment matters. the space he occupies grows smaller and smaller -- until the only space right for him is his coffin.
-speaker3: these strange stories you write -- they come naturally, do they?
-speaker2: naturally? -- that's not the word i would have chosen.
-speaker3: where do you get your ideas? only joking -- i'm just joking. let's go to a brothel then, kafka, come on.
-speaker2: i haven't got the energy. i mean, i have to conserve my energy.
-speaker3: why do you work in that hideous insurance office? -- dealing with people who fall off ladders. now take me -- i make my living as a stone mason. it's not my art -- but it's the
-speaker3: success or nothing?
-speaker2: no -- not even success. my writing is not for making a living -- it's for living. not for other people, it's for me.
-speaker2: ... i'm the exile. gabriela was right about that too.
+TABLE: bizzlebek sits listening to kafka's tale of woe. 
+KAFKA: gabriela was right -- it's easier for me to understand suicide.
+BIZZLEBEK: -- in what sense?
+KAFKA: bachelorhood is just the slow form. the bachelor doesn't sew seeds. only the moment matters. the space he occupies grows smaller and smaller -- until the only space right for him is his coffin.
+BIZZLEBEK: these strange stories you write -- they come naturally, do they?
+KAFKA: naturally? -- that's not the word i would have chosen.
+BIZZLEBEK: where do you get your ideas? only joking -- i'm just joking. let's go to a brothel then, kafka, come on.
+KAFKA: i haven't got the energy. i mean, i have to conserve my energy.
+BIZZLEBEK: why do you work in that hideous insurance office? -- dealing with people who fall off ladders. now take me -- i make my living as a stone mason. it's not my art -- but it's the
+BIZZLEBEK: success or nothing?
+KAFKA: no -- not even success. my writing is not for making a living -- it's for living. not for other people, it's for me.
+KAFKA: ... i'm the exile. gabriela was right about that too.
 
-speaker1: we have another theory. 
-speaker2: we may have attached too little importance to the reason eduard was summoned to the castle to begin with.
-speaker3: -- to correct a small discrepancy, you may recall.
-speaker2: -- ah, but what if it
-speaker3: -- what if it was a
-speaker1: perhaps eduard was closer than he knew to discovering it and so had to be silenced.
-speaker3: -- or he was even more an innocent victim than that -- he was
-speaker4: that's
-speaker4: -- you said so yourself the firm is large and powerful. if the discrepancy really was something big, eduard's responsibility would still have to be small. no poor young
-speaker1: we have to know what he was working on at the time of his death.
-speaker4: he worked on routine claims. his visit to the castle was probably as minor a mission as he said it was.
-speaker2: why are you so aggressively unimaginative? eduard is no longer the only casualty.
-speaker4: then why haven't i been --
-speaker3: -- kidnapped or murdered? because
-speaker2: -- gabriela, on the other hand, had made an enemy of this man burgel.
-speaker4: oh, burgel! gabriela was having an affair with eduard. they were both members of
-speaker1: it wouldn't surprise us if the discrepancy was between medicines sent and medicines received.
-speaker3: -- people die for such discrepancies.
-speaker5: we must have a look at eduard's file.
+BEARDED ANARCHIST: we have another theory. 
+POCKMARKED ANARCHIST: we may have attached too little importance to the reason eduard was summoned to the castle to begin with.
+YOUTHFUL ANARCHIST: -- to correct a small discrepancy, you may recall.
+POCKMARKED ANARCHIST: -- ah, but what if it
+YOUTHFUL ANARCHIST: -- what if it was a
+BEARDED ANARCHIST: perhaps eduard was closer than he knew to discovering it and so had to be silenced.
+YOUTHFUL ANARCHIST: -- or he was even more an innocent victim than that -- he was
+KAFKA: that's
+KAFKA: -- you said so yourself the firm is large and powerful. if the discrepancy really was something big, eduard's responsibility would still have to be small. no poor young
+BEARDED ANARCHIST: we have to know what he was working on at the time of his death.
+KAFKA: he worked on routine claims. his visit to the castle was probably as minor a mission as he said it was.
+POCKMARKED ANARCHIST: why are you so aggressively unimaginative? eduard is no longer the only casualty.
+KAFKA: then why haven't i been --
+YOUTHFUL ANARCHIST: -- kidnapped or murdered? because
+POCKMARKED ANARCHIST: -- gabriela, on the other hand, had made an enemy of this man burgel.
+KAFKA: oh, burgel! gabriela was having an affair with eduard. they were both members of
+BEARDED ANARCHIST: it wouldn't surprise us if the discrepancy was between medicines sent and medicines received.
+YOUTHFUL ANARCHIST: -- people die for such discrepancies.
+SOLEMN ANARCHIST: we must have a look at eduard's file.
 
-speaker1: "raban" -- that'll be nearly at the back of the alphabet. 
-speaker2: it usually is.
-speaker1: i'm overworked as it is. "raban" did you say?
-speaker2: yes. isn't it there?
-speaker1: wait a minute. "raban?" where have i heard that name?
-speaker2: he's the clerk who died last week. from the insurance department
-speaker2: what's the matter?
-speaker1: why would we keep files on
-speaker1: whenever an employee departs, shall we say, it's up to the head of his department to requisition his file, reassign any outstanding claims, and send it off.
-speaker2: -- you mean my chief has it.
+KEEPER: "raban" -- that'll be nearly at the back of the alphabet. 
+KAFKA: it usually is.
+KEEPER: i'm overworked as it is. "raban" did you say?
+KAFKA: yes. isn't it there?
+KEEPER: wait a minute. "raban?" where have i heard that name?
+KAFKA: he's the clerk who died last week. from the insurance department
+KAFKA: what's the matter?
+KEEPER: why would we keep files on
+KEEPER: whenever an employee departs, shall we say, it's up to the head of his department to requisition his file, reassign any outstanding claims, and send it off.
+KAFKA: -- you mean my chief has it.
 
-speaker1: excuse me, sir -- i understand you have eduard raban's file. 
-speaker2: i do.
-speaker1: i wonder if i might look to see if there's an address for family -- i thought i'd like to write to them.
-speaker2: no -- just as i thought -- no entry for family.
-speaker2: was there something else?
-speaker1: no -- i just -- i feel a sense of obligation. he was my friend -- if i can be of any help -- closing his affairs.
-speaker2: no, there's only one report to complete. i'll be doing it myself and submitting it to the castle today or tomorrow.
-speaker1: i see -- it's just the erlanger claim then.
-speaker2: the
-speaker2: kafka.
-speaker2: you're too sensitive. let your friend rest in peace. i've known suicides. such a song- and-dance about nothing.
-speaker1: yes, sir.
-speaker2: give it up.
+KAFKA: excuse me, sir -- i understand you have eduard raban's file. 
+CHIEF CLERK: i do.
+KAFKA: i wonder if i might look to see if there's an address for family -- i thought i'd like to write to them.
+CHIEF CLERK: no -- just as i thought -- no entry for family.
+CHIEF CLERK: was there something else?
+KAFKA: no -- i just -- i feel a sense of obligation. he was my friend -- if i can be of any help -- closing his affairs.
+CHIEF CLERK: no, there's only one report to complete. i'll be doing it myself and submitting it to the castle today or tomorrow.
+KAFKA: i see -- it's just the erlanger claim then.
+CHIEF CLERK: the
+CHIEF CLERK: kafka.
+CHIEF CLERK: you're too sensitive. let your friend rest in peace. i've known suicides. such a song- and-dance about nothing.
+KAFKA: yes, sir.
+CHIEF CLERK: give it up.
 
-speaker1: if it was accounts you wanted why did you ask for employees? 
-speaker2: orlac is an account?
-speaker1: it's a factory in the northern mountains. one of our best customers. without a proper request i'm not obliged to do this, you understand -- but i'll make an exception on this one occasion.
+KEEPER: if it was accounts you wanted why did you ask for employees? 
+KAFKA: orlac is an account?
+KEEPER: it's a factory in the northern mountains. one of our best customers. without a proper request i'm not obliged to do this, you understand -- but i'll make an exception on this one occasion.
 
-speaker1: at least the account is current even if the employee isn't. 
-speaker1: that place has so many accidents, it's a good thing the type of peasants who live up there don't seem to have any trouble propagating their race.
-speaker2: all these in the last year?
-speaker1: you must have read about it in the papers -- there was a terrible cave-in. it wouldn't have been so bad, but even the medical officer for the district was killed!
-speaker2: i did read that. they gave him a posthumous medal.
-speaker1: dr. murnau was the bravest of men. he spent an entire career in those backwaters with no regard for personal gain. a great loss.
-speaker2: this is the cross-reference of clerks who've worked on orlac claims?
-speaker1: is your friend's name among them? then he only worked on the one case. your chief will send me the final summation when he's finished with it.
-speaker2: once a file's been sent to the caste, is it possible to recall it for review?
-speaker1: of course not. only by a director of the firm. who'd want to let in all kinds of riff-raff off the streets?
-speaker2: what good are records if they're not open for public inspection?
-speaker1: these laws have been with us for centuries -- how can you doubt them?
-speaker2: what if i petitioned one of the directors?
-speaker1: you do not summon them -- they summon you -- and this, of course, hardly ever happens, if at all. the directors are an eccentric lot and by nature cautious.
-speaker2: where do our records go to in the castle?
-speaker1: we're a medical firm, aren't we? they go to the medical records section.
-speaker2: i could always apply there.
-speaker1: it so happens, my dear simple sir, that the head of medical records at the castle
+KEEPER: at least the account is current even if the employee isn't. 
+KEEPER: that place has so many accidents, it's a good thing the type of peasants who live up there don't seem to have any trouble propagating their race.
+KAFKA: all these in the last year?
+KEEPER: you must have read about it in the papers -- there was a terrible cave-in. it wouldn't have been so bad, but even the medical officer for the district was killed!
+KAFKA: i did read that. they gave him a posthumous medal.
+KEEPER: dr. murnau was the bravest of men. he spent an entire career in those backwaters with no regard for personal gain. a great loss.
+KAFKA: this is the cross-reference of clerks who've worked on orlac claims?
+KEEPER: is your friend's name among them? then he only worked on the one case. your chief will send me the final summation when he's finished with it.
+KAFKA: once a file's been sent to the caste, is it possible to recall it for review?
+KEEPER: of course not. only by a director of the firm. who'd want to let in all kinds of riff-raff off the streets?
+KAFKA: what good are records if they're not open for public inspection?
+KEEPER: these laws have been with us for centuries -- how can you doubt them?
+KAFKA: what if i petitioned one of the directors?
+KEEPER: you do not summon them -- they summon you -- and this, of course, hardly ever happens, if at all. the directors are an eccentric lot and by nature cautious.
+KAFKA: where do our records go to in the castle?
+KEEPER: we're a medical firm, aren't we? they go to the medical records section.
+KAFKA: i could always apply there.
+KEEPER: it so happens, my dear simple sir, that the head of medical records at the castle
 
-speaker1: do you mind! 
-speaker2: -- i was just trying to finish some work!
-speaker1: you mean you've actually begun some?
-speaker3: -- just because he's done nothing today, he doesn't want me to show him up!
-speaker1: my assistants! you might as well have fallen from the sky for all the thought that was spent in choosing you!
-speaker2: it's not our fault. we're naturally nervous.
-speaker3: and we're upset too.
-speaker1: what's the matter with you?
+KAFKA: do you mind! 
+OSKAR: -- i was just trying to finish some work!
+KAFKA: you mean you've actually begun some?
+LUDWIG: -- just because he's done nothing today, he doesn't want me to show him up!
+KAFKA: my assistants! you might as well have fallen from the sky for all the thought that was spent in choosing you!
+OSKAR: it's not our fault. we're naturally nervous.
+LUDWIG: and we're upset too.
+KAFKA: what's the matter with you?
 
-speaker1: i can't make a simple statement without him taking issue with it 
-speaker2: -- you should meet my father.
-speaker3: we've been together too long. his personality is overflowing into mine and vice versa.
-speaker1: -- how would
+OSKAR: i can't make a simple statement without him taking issue with it 
+KAFKA: -- you should meet my father.
+LUDWIG: we've been together too long. his personality is overflowing into mine and vice versa.
+OSKAR: -- how would
 
-speaker1: -- come on -- there's no one up there. we're going now. 
-speaker2: that's it -- it's all right -- you've done very well.
-speaker2: never mind them -- they'll be attended to.
+MR. PICK'S VOICE: -- come on -- there's no one up there. we're going now. 
+MR. PICK: that's it -- it's all right -- you've done very well.
+MR. PICK: never mind them -- they'll be attended to.
 
-speaker1: on the outskirts of the city, beyond the castle. 
-speaker2: spin around at the noise.
+THE QUARRIES - NIGHT: on the outskirts of the city, beyond the castle. 
+MR. PICK AND THE LABORER: spin around at the noise.
 
-speaker1: "-- oh, and thank you for the suit from father, although i don't know why he didn't simply return it. if it's too small for him why do you immediately suppose it will fit me? ... your son ... your loving son ... your somewhat loving son ... your occasionally loving son ... your incapable-of-loving son ... your absolutely-bored-to-death-with-any- kind-of-family-life son ..." 
-speaker2: two men walk across the river.
+KAFKA'S VOICE: "-- oh, and thank you for the suit from father, although i don't know why he didn't simply return it. if it's too small for him why do you immediately suppose it will fit me? ... your son ... your loving son ... your somewhat loving son ... your occasionally loving son ... your incapable-of-loving son ... your absolutely-bored-to-death-with-any- kind-of-family-life son ..." 
+THE BRIDGE: two men walk across the river.
 
-speaker1: did you think you'd be safe back in your little burrow? 
-speaker2: no matter how deep a hole you dig for yourself, the beast will always find you.
-speaker3: we're to take you to the castle.
-speaker4: so. you're the guides up there. and we thought it was burgel.
-speaker5: they wouldn't let
-speaker5: we answer directly to ekman, the senior partner -- he practically runs the castle. in a case like this you're better off dealing with the highest authority -- even though it's equally futile.
-speaker3: when you speak to him you have to lean quite near his right ear because the left doesn't work so well.
-speaker6: they head up in the direction of the castle.
-speaker4: for all your incompetence i was beginning to think you were at least loyal to me. you're very good ham actors.
-speaker3: -- just doing our job.
-speaker4: it's a farce.
-speaker5: we think you'd better accept your position instead of pointlessly annoying us.
-speaker4: what position? being prosecuted in a case like this means having already lost it.
-speaker3: still, we're probably closer to you at the moment than any of your fellow human beings.
-speaker4: close only by virtue of antithesis.
+VOICE: did you think you'd be safe back in your little burrow? 
+OTHER VOICE: no matter how deep a hole you dig for yourself, the beast will always find you.
+OSKAR: we're to take you to the castle.
+KAFKA: so. you're the guides up there. and we thought it was burgel.
+LUDWIG: they wouldn't let
+LUDWIG: we answer directly to ekman, the senior partner -- he practically runs the castle. in a case like this you're better off dealing with the highest authority -- even though it's equally futile.
+OSKAR: when you speak to him you have to lean quite near his right ear because the left doesn't work so well.
+AROUND THE CORNER: they head up in the direction of the castle.
+KAFKA: for all your incompetence i was beginning to think you were at least loyal to me. you're very good ham actors.
+OSKAR: -- just doing our job.
+KAFKA: it's a farce.
+LUDWIG: we think you'd better accept your position instead of pointlessly annoying us.
+KAFKA: what position? being prosecuted in a case like this means having already lost it.
+OSKAR: still, we're probably closer to you at the moment than any of your fellow human beings.
+KAFKA: close only by virtue of antithesis.
 
-speaker1: my assistants. i should have known. nothing is given to me. i have to acquire everything. 
-speaker2: it's all right to be sarcastic in private to us -- because we have a sense of humor -- but when we're up at the castle we suggest you don't make a fuss. it would spoil the not unfavorable impression you make in other respects.
-speaker3: frankly, we don't understand why you've even bothered pursuing this business.
-speaker1: it would be more accurate to say that it has pursued me.
-speaker2: but your goal is so hard to reach. do you think the official network would surrender to one man? we would never think of attempting anything remotely as difficult.
-speaker3: my mother used to tell us of the young man who decided to ride to the next village and how she was afraid that -- not even mentioning accidents -- the span of a normal happy life might fall far short of the time needed for such a trip.
-speaker1: you've dropped some money.
+KAFKA: my assistants. i should have known. nothing is given to me. i have to acquire everything. 
+OSKAR: it's all right to be sarcastic in private to us -- because we have a sense of humor -- but when we're up at the castle we suggest you don't make a fuss. it would spoil the not unfavorable impression you make in other respects.
+LUDWIG: frankly, we don't understand why you've even bothered pursuing this business.
+KAFKA: it would be more accurate to say that it has pursued me.
+OSKAR: but your goal is so hard to reach. do you think the official network would surrender to one man? we would never think of attempting anything remotely as difficult.
+LUDWIG: my mother used to tell us of the young man who decided to ride to the next village and how she was afraid that -- not even mentioning accidents -- the span of a normal happy life might fall far short of the time needed for such a trip.
+KAFKA: you've dropped some money.
 
-speaker1: you work in the cemetery. 
-speaker2: a man must eat -- and drink.
-speaker1: the
+KAFKA: you work in the cemetery. 
+BIZZLEBEK: a man must eat -- and drink.
+KAFKA: the
 
-speaker1: official channels -- a lot of good they've done me. my only hope is to approach the officials personally. 
-speaker1: the kafka men are famous for it, you know. delivering meat barefoot in the depths of winter, picking up sacks of flour with their teeth --
-speaker1: -- oh, yes, determination runs in the family.
-speaker2: there is
-speaker2: what made you think
-speaker2: in a manner of speaking.
+KAFKA: official channels -- a lot of good they've done me. my only hope is to approach the officials personally. 
+KAFKA: the kafka men are famous for it, you know. delivering meat barefoot in the depths of winter, picking up sacks of flour with their teeth --
+KAFKA: -- oh, yes, determination runs in the family.
+BIZZLEBEK: there is
+BIZZLEBEK: what made you think
+BIZZLEBEK: in a manner of speaking.
 
-speaker1: i was restoring some stones here in the upper section one day -- and i found this. 
-speaker2: an empty tomb?
-speaker1: a cenotaph -- a monument to someone whose remains ended up elsewhere. but look --
-speaker1: the castle gates were blockaded in the time of the great plague -- it's an escape route. don't get stuck.
-speaker2: not a chance. i'm the thinnest person i know.
+BIZZLEBEK: i was restoring some stones here in the upper section one day -- and i found this. 
+KAFKA: an empty tomb?
+BIZZLEBEK: a cenotaph -- a monument to someone whose remains ended up elsewhere. but look --
+BIZZLEBEK: the castle gates were blockaded in the time of the great plague -- it's an escape route. don't get stuck.
+KAFKA: not a chance. i'm the thinnest person i know.
 
-speaker1: -- you appreciate my writing. 
-speaker2: yes.
-speaker1: will you do me a favor then?
-speaker2: another one?
-speaker1: if i don't see you later -- go to my house and find my notebooks -- and destroy them. all my manuscripts -- just burn them.
-speaker2: what an extraordinary request!
-speaker1: it's my last and final one.
-speaker2: then its authority is in doubt.
-speaker1: a true friend would do it.
-speaker2: not necessarily. a
+KAFKA: -- you appreciate my writing. 
+BIZZLEBEK: yes.
+KAFKA: will you do me a favor then?
+BIZZLEBEK: another one?
+KAFKA: if i don't see you later -- go to my house and find my notebooks -- and destroy them. all my manuscripts -- just burn them.
+BIZZLEBEK: what an extraordinary request!
+KAFKA: it's my last and final one.
+BIZZLEBEK: then its authority is in doubt.
+KAFKA: a true friend would do it.
+BIZZLEBEK: not necessarily. a
 
-speaker1: you've killed him! like a dog! 
-speaker1: -- they won't like that. not a bit!
-speaker2: i didn't --
-speaker1: you'll incriminate the rest of us! let me out too!
-speaker3: help us! -- release us!
-speaker1: let
+GAUNT MAN: you've killed him! like a dog! 
+GAUNT MAN: -- they won't like that. not a bit!
+KAFKA: i didn't --
+GAUNT MAN: you'll incriminate the rest of us! let me out too!
+HORRIBLE VOICES: help us! -- release us!
+GAUNT MAN: let
 
-speaker1: kafka passes a friendly clerk. 
-speaker2: are you lost?
-speaker3: i'm, uh, looking for the medical records section.
-speaker2: oh, you're miles away. from here you'll want to go left, left again, right, right again, left then right, right then left, and take the blue staircase.
-speaker3: thank you.
-speaker2: -- i haven't seen you here before.
-speaker3: no ...
+CORRIDOR: kafka passes a friendly clerk. 
+FRIENDLY CLERK: are you lost?
+KAFKA: i'm, uh, looking for the medical records section.
+FRIENDLY CLERK: oh, you're miles away. from here you'll want to go left, left again, right, right again, left then right, right then left, and take the blue staircase.
+KAFKA: thank you.
+FRIENDLY CLERK: -- i haven't seen you here before.
+KAFKA: no ...
 
-speaker1: i assume you're wondering ... what all this has been about. 
-speaker2: are you the head of medical records?
-speaker1: he's come on his own initiative. -- not something we encourage, mind you, but we like to know it exists.
-speaker1: what it amounts to is simply this ...
-speaker1: a piece of paper was delivered to the wrong clerk. it was essential he bring it back to us. these complications have arisen because he had friends -- like you, among others -- friends unlikely to let a sleeping dog lie.
-speaker2: ... a piece of paper ...
-speaker1: a mere slip. your friend mr. raban dealt only with claims that came
-speaker2: ... a piece of paper ...
-speaker1: you see, kafka, in all cases relating to the factory at orlac -- which is what this paper referred to -- the authority that puts in a request and the authority that grants it is, to all intents and purposes, the same authority. and he's an impressive, imposing figure of authority
+MURNAU: i assume you're wondering ... what all this has been about. 
+KAFKA: are you the head of medical records?
+MURNAU: he's come on his own initiative. -- not something we encourage, mind you, but we like to know it exists.
+MURNAU: what it amounts to is simply this ...
+MURNAU: a piece of paper was delivered to the wrong clerk. it was essential he bring it back to us. these complications have arisen because he had friends -- like you, among others -- friends unlikely to let a sleeping dog lie.
+KAFKA: ... a piece of paper ...
+MURNAU: a mere slip. your friend mr. raban dealt only with claims that came
+KAFKA: ... a piece of paper ...
+MURNAU: you see, kafka, in all cases relating to the factory at orlac -- which is what this paper referred to -- the authority that puts in a request and the authority that grants it is, to all intents and purposes, the same authority. and he's an impressive, imposing figure of authority
 
-speaker1: -- you seem amused. 
-speaker2: it only amuses me in that it gives me an insight into the ludicrous bungling that in some circumstances may decide the life of a human being.
-speaker1: it's merely a matter of expediency. it's imperative that my room to maneuver not be hindered by ... bureaucratic ramifications.
-speaker1: -- if an obscure official up there in the distant mountains so far away from civilizing influences happens to meet with an unfortunate accident -- and should he tragically die in spite of the district medical officer's strenuous efforts to save him -- the firm wants to see the next of kin pacified and the disposition of the remains handled with the greatest possible ... efficiency.
-speaker2: "accident and compensation" -- no one can accuse the firm of not supplying exactly what it promises.
-speaker1: i believe we've exceeded his expectations.
-speaker2: i had the grandest of financial plots in mind, the most malevolent of personal motives, conspiracy theories extending to every ... authority i could see. and i find you. a body snatcher.
-speaker1: life is more than a chinese puzzle, my friend.
+MURNAU: -- you seem amused. 
+KAFKA: it only amuses me in that it gives me an insight into the ludicrous bungling that in some circumstances may decide the life of a human being.
+MURNAU: it's merely a matter of expediency. it's imperative that my room to maneuver not be hindered by ... bureaucratic ramifications.
+MURNAU: -- if an obscure official up there in the distant mountains so far away from civilizing influences happens to meet with an unfortunate accident -- and should he tragically die in spite of the district medical officer's strenuous efforts to save him -- the firm wants to see the next of kin pacified and the disposition of the remains handled with the greatest possible ... efficiency.
+KAFKA: "accident and compensation" -- no one can accuse the firm of not supplying exactly what it promises.
+MURNAU: i believe we've exceeded his expectations.
+KAFKA: i had the grandest of financial plots in mind, the most malevolent of personal motives, conspiracy theories extending to every ... authority i could see. and i find you. a body snatcher.
+MURNAU: life is more than a chinese puzzle, my friend.
 
-speaker1: and i suppose dr. murnau didn't die in a cave-in. you killed him to free the position of orlac medical officer for your own ends. 
-speaker2: yes, well -- we're looking for a new village now. if we stay too long at one source ... people become suspicious.
-speaker2: but you're quite right that he didn't die in that cave-in. in fact, he didn't die at all. he was simply recalled -- by himself. as well as being head of medical records here
+KAFKA: and i suppose dr. murnau didn't die in a cave-in. you killed him to free the position of orlac medical officer for your own ends. 
+MURNAU: yes, well -- we're looking for a new village now. if we stay too long at one source ... people become suspicious.
+MURNAU: but you're quite right that he didn't die in that cave-in. in fact, he didn't die at all. he was simply recalled -- by himself. as well as being head of medical records here
 
-speaker1: may i ask where your two warders are? 
-speaker2: lying in the gutter where they belong.
-speaker1: pity. they're an amusing pair, didn't you find? absolute innocents.
+MURNAU: may i ask where your two warders are? 
+KAFKA: lying in the gutter where they belong.
+MURNAU: pity. they're an amusing pair, didn't you find? absolute innocents.
 
-speaker1: i so rarely get the chance of showing my work to anybody -- anybody capable of appreciating it, that is. you might say i'm a student of human reaction. 
-speaker2: the fact that it's live bodies you practice your trade on doesn't seem to matter to you.
-speaker1: on the contrary, it matters a great deal. we're engaged in immensely important research here. i'm a revolutionary too, you know -- but a much more pragmatic one.
-speaker1: -- i can't very well administer experimental treatments to corpses -- and if they become corpses, why, they have their uses too -- that's why speed is essential. living tissue, even if its owner has passed on, is our most valuable acquisition.
-speaker1: we've tried transfusions on our ... volunteers. unfortunately, far from infusing superior characteristics it's tended to make them insane -- murderous even -- a condition we've had occasion to make use of.
+MURNAU: i so rarely get the chance of showing my work to anybody -- anybody capable of appreciating it, that is. you might say i'm a student of human reaction. 
+KAFKA: the fact that it's live bodies you practice your trade on doesn't seem to matter to you.
+MURNAU: on the contrary, it matters a great deal. we're engaged in immensely important research here. i'm a revolutionary too, you know -- but a much more pragmatic one.
+MURNAU: -- i can't very well administer experimental treatments to corpses -- and if they become corpses, why, they have their uses too -- that's why speed is essential. living tissue, even if its owner has passed on, is our most valuable acquisition.
+MURNAU: we've tried transfusions on our ... volunteers. unfortunately, far from infusing superior characteristics it's tended to make them insane -- murderous even -- a condition we've had occasion to make use of.
 
-speaker1: -- and the new patients they bring me aren't usually as dexterous as you've been in evading us. not perfect specimens by any means, but not the type of person who'll be missed either. 
-speaker2: what have you done with gabriela rossmann?
-speaker1: as a matter of fact you've caught us in a state of considerable excitement. our latest preparation we believe -- we pray -- is perfected. it should take years off her.
-speaker1: and if not -- well, there are always what i call my caprices of vivisection.
+MURNAU: -- and the new patients they bring me aren't usually as dexterous as you've been in evading us. not perfect specimens by any means, but not the type of person who'll be missed either. 
+KAFKA: what have you done with gabriela rossmann?
+MURNAU: as a matter of fact you've caught us in a state of considerable excitement. our latest preparation we believe -- we pray -- is perfected. it should take years off her.
+MURNAU: and if not -- well, there are always what i call my caprices of vivisection.
 
-speaker1: actually, if it weren't for the aberrant dilemma posed by someone like yourself -- continually asking for out-of-date files -- i'd probably give up my revisionist policies altogether. i'm sure what we have to do is start instead at the very inception -- with the embryo -- from a single cell even. the lure of the golem -- the man-made man. you appreciate that, i know. 
-speaker1: to corrupt the image of man and then offer redemption ... this is the dawn, kafka. a new man is being born here. a more resilient man ... a superman.
-speaker1: to a new world -- of gods and monsters.
-speaker2: throws ekman aside and runs away.
+MURNAU: actually, if it weren't for the aberrant dilemma posed by someone like yourself -- continually asking for out-of-date files -- i'd probably give up my revisionist policies altogether. i'm sure what we have to do is start instead at the very inception -- with the embryo -- from a single cell even. the lure of the golem -- the man-made man. you appreciate that, i know. 
+MURNAU: to corrupt the image of man and then offer redemption ... this is the dawn, kafka. a new man is being born here. a more resilient man ... a superman.
+MURNAU: to a new world -- of gods and monsters.
+KAFKA: throws ekman aside and runs away.
 
-speaker1: oskar! 
-speaker2: ludwig?
-speaker1: this is filed incorrectly!
-speaker2: here too! they're all in a dreadful muddle!
+LUDWIG: oskar! 
+OSKAR: ludwig?
+LUDWIG: this is filed incorrectly!
+OSKAR: here too! they're all in a dreadful muddle!
 
-speaker1: gabriela! -- you did get away. 
-speaker2: i knew you walked this way to work. i wanted to find you before they did.
-speaker1: -- i've just come from the castle. it's over.
-speaker2: over? it's only over when you can crawl to a clean little spot on earth where the sun sometimes shines and you can warm yourself a bit.
-speaker1: gabriela ...?
-speaker2: should i tell you why i joined our late lamented nihilists? why i became a murderer? because murder ... is bliss. it's easier than you might think to absorb and assimilate evil -- once you've adopted its procedure.
-speaker2: have you ever watched a person deteriorate? day by day. i don't mean in a spiritual sense.
-speaker2: only two steps back? even the man they left to guard me retreated further than that.
-speaker1: i -- i found your jailer.
-speaker2: this is the result of their elixir of youth. they were to come and check on it during the night. i contrived to miss the appointment.
-speaker1: they're dead now. we can get help.
-speaker2: i know how they reward failure. if they saw this i'd be rotting in the quarries by the afternoon -- with all the others.
-speaker1: there's a new potion -- he said it was perfected.
-speaker2: i know there is. and you're what i have to bargain with. for now you're the last one in their way.
-speaker1: i told you, they're
-speaker2: i think you've just escaped for the moment. just as i did. as eduard did. as they let us do.
-speaker1: no -- not this time.
-speaker2: i know better than you what people will say when they have to. when they brought me in for questioning i informed on my friends the very first day.
-speaker1: -- listen to me --
-speaker2: i do. always. you understand the world better than any of us, kafka. and what it's becoming. i've always held you in the highest regard.
+KAFKA: gabriela! -- you did get away. 
+GABRIELA: i knew you walked this way to work. i wanted to find you before they did.
+KAFKA: -- i've just come from the castle. it's over.
+GABRIELA: over? it's only over when you can crawl to a clean little spot on earth where the sun sometimes shines and you can warm yourself a bit.
+KAFKA: gabriela ...?
+GABRIELA: should i tell you why i joined our late lamented nihilists? why i became a murderer? because murder ... is bliss. it's easier than you might think to absorb and assimilate evil -- once you've adopted its procedure.
+GABRIELA: have you ever watched a person deteriorate? day by day. i don't mean in a spiritual sense.
+GABRIELA: only two steps back? even the man they left to guard me retreated further than that.
+KAFKA: i -- i found your jailer.
+GABRIELA: this is the result of their elixir of youth. they were to come and check on it during the night. i contrived to miss the appointment.
+KAFKA: they're dead now. we can get help.
+GABRIELA: i know how they reward failure. if they saw this i'd be rotting in the quarries by the afternoon -- with all the others.
+KAFKA: there's a new potion -- he said it was perfected.
+GABRIELA: i know there is. and you're what i have to bargain with. for now you're the last one in their way.
+KAFKA: i told you, they're
+GABRIELA: i think you've just escaped for the moment. just as i did. as eduard did. as they let us do.
+KAFKA: no -- not this time.
+GABRIELA: i know better than you what people will say when they have to. when they brought me in for questioning i informed on my friends the very first day.
+KAFKA: -- listen to me --
+GABRIELA: i do. always. you understand the world better than any of us, kafka. and what it's becoming. i've always held you in the highest regard.
 
-speaker1: dearest father ... 
-speaker1: you asked me recently why i maintain that i am afraid of you ...
+KAFKA'S VOICE: dearest father ... 
+KAFKA'S VOICE: you asked me recently why i maintain that i am afraid of you ...
 
-speaker1: we could go back to the office. explain ourselves to the chief clerk. 
-speaker2: they'd drive us away. that kafka's made things very hot for us.
-speaker1: i understand he was wounded in the lung.
-speaker2: it doesn't matter. it's too late for all of us.
-speaker1: what's to become of us now?
-speaker1: everyone in amerika has a toaster in their building!
-speaker2: then that's the place for us!
-speaker1: amerika for us!
+LUDWIG: we could go back to the office. explain ourselves to the chief clerk. 
+OSKAR: they'd drive us away. that kafka's made things very hot for us.
+LUDWIG: i understand he was wounded in the lung.
+OSKAR: it doesn't matter. it's too late for all of us.
+LUDWIG: what's to become of us now?
+LUDWIG: everyone in amerika has a toaster in their building!
+OSKAR: then that's the place for us!
+LUDWIG: amerika for us!
 

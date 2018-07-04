@@ -1,759 +1,759 @@
-speaker1: never did eat your lunch, did you. 
-speaker2: i better get back to the office. these extended lunch hours give my boss excess acid.
-speaker1: call your boss and tell him you're taking the rest of the afternoon off. it's friday anyway... and hot.
-speaker2: what do i do with my free afternoon, walk you to the airport?
-speaker1: we could laze around here a while longer.
-speaker2: checking out time is three p.m. hotels of this sort aren't interested in you when you come in, but when your time's up... sam, i hate having to be with you in a place like this.
-speaker1: i've heard of married couples who deliberately spend occasional nights in cheap hotels. they say it...
-speaker2: when you're married you can do a lot of things deliberately.
-speaker1: you sure talk like a girl who's been married.
-speaker2: sam!
-speaker1: i'm sorry, mary. my old dad used to say 'when you can't change a situation, laugh at it.' nothing ridicules a thing like laughing at it.
-speaker2: i've lost my girlish laughter.
-speaker1: the only girlish thing you have lost.
-speaker2: sam. this is the last time.
-speaker1: for what?
-speaker2: this! meeting you in secret so we can be... secretive! you come down here on business trips and we steal lunch hours and... i wish you wouldn't even come.
-speaker1: okay. what do we do instead, write each other lurid love letters?
-speaker2: i haven't time to argue. i'm a working girl.
-speaker1: and i'm a working man! we're a regular working-class tragedy!
-speaker2: it is tragic! or it will be... if we go on meeting in shabby hotels whenever you can find a tax-deductible excuse for flying down deductible here...
-speaker1: you can't laugh at it, huh?
-speaker2: can you?
-speaker1: sure. it's like laughing through a broken jaw, but...
-speaker1: and besides, when you say i make tax- deductible excuses you make me out a criminal.
-speaker2: you couldn't be a criminal if you committed a major crime.
-speaker1: i wish i were. not an active criminal but... a nice guy with the conscience of a criminal. next best thing to no conscience at all.
-speaker2: i have to go, sam.
-speaker1: i can come down next week.
-speaker2: no.
-speaker1: not even just to see you, to have lunch... in public?
-speaker2: we can see each other, we can even have dinner... but respectably, in my house with my mother's picture on the mantel and my sister helping me broil a big steak for three!
-speaker1: and after the steak... do we send sister to the movies and turn mama's picture to the wall?
-speaker2: sam! no!
-speaker1: all right.
-speaker1: mary, whenever it's possible, tax- deductible or not, i want to see deductible you. and under any conditions. even respectability.
-speaker2: you make respectability sound... disrespectful.
-speaker1: i'm all for it! it requires patience and temperance and a lot of sweating- out... otherwise, though, it's only hard work. but if i can see you, touch you even as simply as this... i won't mind. he moves away and again the weight of his pain and problems crushes away his good humor. there is a quiet moment.
-speaker1: i'm fed up with sweating for people who aren't there. i sweat to pay off my father's debts... and he's in his grave... i sweat to pay my ex-wife alimony, and she's living on the other side of the world somewhere.
-speaker2: i pay, too. they also pay who meet in hotel rooms.
-speaker1: a couple of years and the debts will be paid off. and if she ever re- marries, the alimony stops... and then...
-speaker2: i haven't even been married once yet!
-speaker1: yeah, but when you do... you'll swing.
-speaker2: sam, let's go get married.
-speaker1: and live with me in a storeroom behind a hardware store in fairvale. we'll have a lot of laughs. when i send my ex-wife her money, you can lick the stamps.
-speaker2: i'll lick the stamps.
-speaker1: you know what i'd like? a clear, empty sky... and a plane, and us in it... and somewhere a private island for sale, where we can run around without our... shoes on. and the wherewithal to buy what i'd like. mary, you want to cut this off, go out and find yourself someone available.
-speaker2: i'm thinking of it.
-speaker1: how can you even think a thing like that!
-speaker2: don't miss your plane.
-speaker1: hey, we can leave together can't we?
+SAM: never did eat your lunch, did you. 
+MARY: i better get back to the office. these extended lunch hours give my boss excess acid.
+SAM: call your boss and tell him you're taking the rest of the afternoon off. it's friday anyway... and hot.
+MARY: what do i do with my free afternoon, walk you to the airport?
+SAM: we could laze around here a while longer.
+MARY: checking out time is three p.m. hotels of this sort aren't interested in you when you come in, but when your time's up... sam, i hate having to be with you in a place like this.
+SAM: i've heard of married couples who deliberately spend occasional nights in cheap hotels. they say it...
+MARY: when you're married you can do a lot of things deliberately.
+SAM: you sure talk like a girl who's been married.
+MARY: sam!
+SAM: i'm sorry, mary. my old dad used to say 'when you can't change a situation, laugh at it.' nothing ridicules a thing like laughing at it.
+MARY: i've lost my girlish laughter.
+SAM: the only girlish thing you have lost.
+MARY: sam. this is the last time.
+SAM: for what?
+MARY: this! meeting you in secret so we can be... secretive! you come down here on business trips and we steal lunch hours and... i wish you wouldn't even come.
+SAM: okay. what do we do instead, write each other lurid love letters?
+MARY: i haven't time to argue. i'm a working girl.
+SAM: and i'm a working man! we're a regular working-class tragedy!
+MARY: it is tragic! or it will be... if we go on meeting in shabby hotels whenever you can find a tax-deductible excuse for flying down deductible here...
+SAM: you can't laugh at it, huh?
+MARY: can you?
+SAM: sure. it's like laughing through a broken jaw, but...
+SAM: and besides, when you say i make tax- deductible excuses you make me out a criminal.
+MARY: you couldn't be a criminal if you committed a major crime.
+SAM: i wish i were. not an active criminal but... a nice guy with the conscience of a criminal. next best thing to no conscience at all.
+MARY: i have to go, sam.
+SAM: i can come down next week.
+MARY: no.
+SAM: not even just to see you, to have lunch... in public?
+MARY: we can see each other, we can even have dinner... but respectably, in my house with my mother's picture on the mantel and my sister helping me broil a big steak for three!
+SAM: and after the steak... do we send sister to the movies and turn mama's picture to the wall?
+MARY: sam! no!
+SAM: all right.
+SAM: mary, whenever it's possible, tax- deductible or not, i want to see deductible you. and under any conditions. even respectability.
+MARY: you make respectability sound... disrespectful.
+SAM: i'm all for it! it requires patience and temperance and a lot of sweating- out... otherwise, though, it's only hard work. but if i can see you, touch you even as simply as this... i won't mind. he moves away and again the weight of his pain and problems crushes away his good humor. there is a quiet moment.
+SAM: i'm fed up with sweating for people who aren't there. i sweat to pay off my father's debts... and he's in his grave... i sweat to pay my ex-wife alimony, and she's living on the other side of the world somewhere.
+MARY: i pay, too. they also pay who meet in hotel rooms.
+SAM: a couple of years and the debts will be paid off. and if she ever re- marries, the alimony stops... and then...
+MARY: i haven't even been married once yet!
+SAM: yeah, but when you do... you'll swing.
+MARY: sam, let's go get married.
+SAM: and live with me in a storeroom behind a hardware store in fairvale. we'll have a lot of laughs. when i send my ex-wife her money, you can lick the stamps.
+MARY: i'll lick the stamps.
+SAM: you know what i'd like? a clear, empty sky... and a plane, and us in it... and somewhere a private island for sale, where we can run around without our... shoes on. and the wherewithal to buy what i'd like. mary, you want to cut this off, go out and find yourself someone available.
+MARY: i'm thinking of it.
+SAM: how can you even think a thing like that!
+MARY: don't miss your plane.
+SAM: hey, we can leave together can't we?
 
-speaker1: isn't mr. lowery back from lunch? 
-speaker2: he's lunching with the man who's buying the harris street property, you know, that oil lease man... so that's why he's late. you getting a headache?
-speaker1: it'll pass. headaches are like resolutions... you forget them soon as they stop hurting.
-speaker2: you got aspirins? i have something... not aspirins, but my mother's doctor gave these to me the day of my wedding. teddy was furious when he found out i'd taken tranquilizers!
-speaker1: were there any calls?
-speaker2: teddy called. me... and my mother called to see if teddy called. oh, and your sister called to say she's going to tucson to do some buying and she'll be gone the whole weekend and...
-speaker3: wow! hot as fresh milk! you girls should get your boss to air-condition you up. he can afford it today.
-speaker4: mary, will you get those copies of the deed ready for mr. cassidy.
-speaker3: tomorrow's the day! my sweet little girl... not you, my daughter! a baby, and tomorrow she stands up there and gets her sweet self married away from me! i want you to look at my baby. eighteen years old... and she's never had an unhappy day in any one of those years! mary glances, cannot bring herself to smile or make some
-speaker4: come on, tom, my office is air- conditioned.
-speaker3: you know what i do with unhappiness? i buy it off! you unhappy?
-speaker1: not inordinately.
-speaker3: i'm buying this house for my baby's wedding present. forty thousand dollars, cash! now that ain't buying happiness, that's buying off unhappiness! that penniless punk she's marryin'... probably a good kid... it's just that i hate him. yup! forty thousand, says here... casharoonie!
-speaker3: i never carry more than i can afford to lose! count 'em!
-speaker4: tom... cash transactions of this size! most irregular...
-speaker3: so what? it's my private money! and now it's yours.
-speaker2: i declare!
-speaker3: i don't! that's how i'm able to keep it!
-speaker4: suppose we just put this in the safe and then monday morning when you're feeling good...
-speaker3: speakin' of feeling good, where's that bottle you said you had in your desk... oops! usually i can keep my mouth shut!
-speaker3: honest. i can keep any private transaction a secret... any pri.... lowery! i'm dyin' of thirstaroonie!
-speaker2: he was flirting with you. i guess he noticed my wedding ring.
-speaker4: come in.
+MARY: isn't mr. lowery back from lunch? 
+CAROLINE: he's lunching with the man who's buying the harris street property, you know, that oil lease man... so that's why he's late. you getting a headache?
+MARY: it'll pass. headaches are like resolutions... you forget them soon as they stop hurting.
+CAROLINE: you got aspirins? i have something... not aspirins, but my mother's doctor gave these to me the day of my wedding. teddy was furious when he found out i'd taken tranquilizers!
+MARY: were there any calls?
+CAROLINE: teddy called. me... and my mother called to see if teddy called. oh, and your sister called to say she's going to tucson to do some buying and she'll be gone the whole weekend and...
+CASSIDY: wow! hot as fresh milk! you girls should get your boss to air-condition you up. he can afford it today.
+LOWERY: mary, will you get those copies of the deed ready for mr. cassidy.
+CASSIDY: tomorrow's the day! my sweet little girl... not you, my daughter! a baby, and tomorrow she stands up there and gets her sweet self married away from me! i want you to look at my baby. eighteen years old... and she's never had an unhappy day in any one of those years! mary glances, cannot bring herself to smile or make some
+LOWERY: come on, tom, my office is air- conditioned.
+CASSIDY: you know what i do with unhappiness? i buy it off! you unhappy?
+MARY: not inordinately.
+CASSIDY: i'm buying this house for my baby's wedding present. forty thousand dollars, cash! now that ain't buying happiness, that's buying off unhappiness! that penniless punk she's marryin'... probably a good kid... it's just that i hate him. yup! forty thousand, says here... casharoonie!
+CASSIDY: i never carry more than i can afford to lose! count 'em!
+LOWERY: tom... cash transactions of this size! most irregular...
+CASSIDY: so what? it's my private money! and now it's yours.
+CAROLINE: i declare!
+CASSIDY: i don't! that's how i'm able to keep it!
+LOWERY: suppose we just put this in the safe and then monday morning when you're feeling good...
+CASSIDY: speakin' of feeling good, where's that bottle you said you had in your desk... oops! usually i can keep my mouth shut!
+CASSIDY: honest. i can keep any private transaction a secret... any pri.... lowery! i'm dyin' of thirstaroonie!
+CAROLINE: he was flirting with you. i guess he noticed my wedding ring.
+LOWERY: come in.
 
-speaker1: the copies. mr. lowery, if you don't mind, i'd like to go right on home after the bank. i have a slight... 
-speaker2: you go right home! me and your boss are going out to get ourselves a little drinkin' done! right?
-speaker3: of course. you feeling ill?
-speaker1: a headache.
-speaker2: you need a week-end in las vegas... playground of the world!
-speaker1: i'm going to spend this week-end in bed.
+MARY: the copies. mr. lowery, if you don't mind, i'd like to go right on home after the bank. i have a slight... 
+CASSIDY: you go right home! me and your boss are going out to get ourselves a little drinkin' done! right?
+LOWERY: of course. you feeling ill?
+MARY: a headache.
+CASSIDY: you need a week-end in las vegas... playground of the world!
+MARY: i'm going to spend this week-end in bed.
 
-speaker1: aren't you going to take the pills? they'll knock that headache out. 
-speaker2: i don't need pills... just sleep.
+CAROLINE: aren't you going to take the pills? they'll knock that headache out. 
+MARY: i don't need pills... just sleep.
 
-speaker1: approaching and leaving city limits. 
-speaker2: looks at gas gauge.
+MARY'S CAR -: approaching and leaving city limits. 
+MARY -: looks at gas gauge.
 
-speaker1: hold it there! 
-speaker1: in quite a hurry.
-speaker2: yes. i didn't mean to sleep so long. i was afraid i'd have an accident last night, from sleepiness... so i decided to pull over...
-speaker1: you slept here all night?
-speaker2: yes. as i said, i couldn't keep my eyes...
-speaker1: there are plenty of motels in this area. you should have... i mean, just to be safe...
-speaker2: i didn't intend to sleep all night! i just pulled over... have i broken any laws?
-speaker1: no, m'am.
-speaker2: then i'm free to go...?
-speaker1: is anything wrong?
-speaker2: of course not! am i acting as if... something's wrong?
-speaker1: frankly, yes.
-speaker2: please... i'd like to go...
-speaker1: is there?
-speaker2: is there what? i've told you there's nothing wrong... except that i'm in a hurry and you're taking up my time...
-speaker1: now wait just a moment! turn your motor off, please.
-speaker1: in the course of my duty, i never "take up" anyone's time, whether it's to give a warning, or a ticket, or help! believe that, m'am. now if you woke up on the wrong side of... the car seat, that's one thing. but when you act as if i've just placed you under arrest...
-speaker2: i'm sorry.
-speaker1: no need to apologize...
-speaker1: wait a minute!
-speaker2: now what?
-speaker1: may i see your license?
-speaker2: why?
-speaker1: please.
+PATROLMAN: hold it there! 
+PATROLMAN: in quite a hurry.
+MARY: yes. i didn't mean to sleep so long. i was afraid i'd have an accident last night, from sleepiness... so i decided to pull over...
+PATROLMAN: you slept here all night?
+MARY: yes. as i said, i couldn't keep my eyes...
+PATROLMAN: there are plenty of motels in this area. you should have... i mean, just to be safe...
+MARY: i didn't intend to sleep all night! i just pulled over... have i broken any laws?
+PATROLMAN: no, m'am.
+MARY: then i'm free to go...?
+PATROLMAN: is anything wrong?
+MARY: of course not! am i acting as if... something's wrong?
+PATROLMAN: frankly, yes.
+MARY: please... i'd like to go...
+PATROLMAN: is there?
+MARY: is there what? i've told you there's nothing wrong... except that i'm in a hurry and you're taking up my time...
+PATROLMAN: now wait just a moment! turn your motor off, please.
+PATROLMAN: in the course of my duty, i never "take up" anyone's time, whether it's to give a warning, or a ticket, or help! believe that, m'am. now if you woke up on the wrong side of... the car seat, that's one thing. but when you act as if i've just placed you under arrest...
+MARY: i'm sorry.
+PATROLMAN: no need to apologize...
+PATROLMAN: wait a minute!
+MARY: now what?
+PATROLMAN: may i see your license?
+MARY: why?
+PATROLMAN: please.
 
-speaker1: she glances out at her surroundings. 
-speaker2: the freeway ahead.
-speaker1: she checks her mirror.
+MARY IN CAR -: she glances out at her surroundings. 
+MARY'S POV -: the freeway ahead.
+MARY IN CAR -: she checks her mirror.
 
-speaker1: with you in a second! 
-speaker1: i'm in no mood for trouble!
-speaker2: what?
-speaker1: there's an old saying, "first customer of the day is always the most trouble!" but like i said, i'm in no mood for it so i'm just going to treat you so fair and square you won't have one human reason to give me...
-speaker2: can i trade in my car and take another?
-speaker1: you can do anything you've a mind to... and bein' a woman, you will! that yours?
-speaker2: yes, it's... nothing wrong with it, i'm just...
-speaker1: sick of the sight of it! well, suppose you look around for something that strikes your eyes and meanwhile i'll have my mechanic give yours the once over and... want some coffee? i was just about...
-speaker2: no. thank you. i'm in... a hurry. i just want to make a change and start...
+CAR DEALER: with you in a second! 
+CAR DEALER: i'm in no mood for trouble!
+MARY: what?
+CAR DEALER: there's an old saying, "first customer of the day is always the most trouble!" but like i said, i'm in no mood for it so i'm just going to treat you so fair and square you won't have one human reason to give me...
+MARY: can i trade in my car and take another?
+CAR DEALER: you can do anything you've a mind to... and bein' a woman, you will! that yours?
+MARY: yes, it's... nothing wrong with it, i'm just...
+CAR DEALER: sick of the sight of it! well, suppose you look around for something that strikes your eyes and meanwhile i'll have my mechanic give yours the once over and... want some coffee? i was just about...
+MARY: no. thank you. i'm in... a hurry. i just want to make a change and start...
 
-speaker1: that's the one i'd've picked for you myself! 
-speaker2: how much?
-speaker1: go ahead! spin it around the block. now i know you don't know anything about engine condition, but you can feel, can't you... and it's all in the feel, believe me, you feel that one around the block...
-speaker2: it looks fine. how much will it be, with my car...?
-speaker1: you mean you don't want the usual day and a half to think it over? you are in a hurry! somebody chasin' you?
-speaker2: of course not. please.
-speaker1: well... heck, this is the first time i ever saw the customer high-pressure the salesman! i'd figure roughly... ...your car plus five hundred.
-speaker2: five hundred.
-speaker1: aha! always got time to argue money, huh...?
-speaker2: all right.
-speaker1: i take it... you can prove that car's yours... i mean, out of state and all... got your pink slip and your...
-speaker2: i think i have the necessary papers. is there a ladies room...
-speaker1: in the building ... mary starts for the building, glancing once in the direction of the patrolman.
+CAR DEALER: that's the one i'd've picked for you myself! 
+MARY: how much?
+CAR DEALER: go ahead! spin it around the block. now i know you don't know anything about engine condition, but you can feel, can't you... and it's all in the feel, believe me, you feel that one around the block...
+MARY: it looks fine. how much will it be, with my car...?
+CAR DEALER: you mean you don't want the usual day and a half to think it over? you are in a hurry! somebody chasin' you?
+MARY: of course not. please.
+CAR DEALER: well... heck, this is the first time i ever saw the customer high-pressure the salesman! i'd figure roughly... ...your car plus five hundred.
+MARY: five hundred.
+CAR DEALER: aha! always got time to argue money, huh...?
+MARY: all right.
+CAR DEALER: i take it... you can prove that car's yours... i mean, out of state and all... got your pink slip and your...
+MARY: i think i have the necessary papers. is there a ladies room...
+CAR DEALER: in the building ... mary starts for the building, glancing once in the direction of the patrolman.
 
-speaker1: i think you'd better give it a trial spin. don't want any bad word of mouth about california charlie. 
-speaker2: i'd really rather not. please. can't we just settle this and...
-speaker1: i'll be perfectly honest with you, ma'am. it's not that i don't trust you, but...
-speaker2: but what? is there anything so terribly wrong about... making a decision and wanting to hurry? do you think i've stolen... my car?
-speaker1: no, m'am. i was only about to say, i've sent my mechanic out to give your car a little test... that's all.
-speaker2: i'd like to be ready when he gets back.
-speaker1: okay. if you'll come along...
+CAR DEALER: i think you'd better give it a trial spin. don't want any bad word of mouth about california charlie. 
+MARY: i'd really rather not. please. can't we just settle this and...
+CAR DEALER: i'll be perfectly honest with you, ma'am. it's not that i don't trust you, but...
+MARY: but what? is there anything so terribly wrong about... making a decision and wanting to hurry? do you think i've stolen... my car?
+CAR DEALER: no, m'am. i was only about to say, i've sent my mechanic out to give your car a little test... that's all.
+MARY: i'd like to be ready when he gets back.
+CAR DEALER: okay. if you'll come along...
 
-speaker1: hey! miss? 
-speaker2: just put it right in here, please... beside me.
+MECHANIC: hey! miss? 
+MARY: just put it right in here, please... beside me.
 
-speaker1: no sign of the patrolman. 
-speaker2: she turns her face, looks out at the highway.
-speaker3: it is heavy with traffic.
-speaker2: again she checks the mirror and although...
-speaker1: there is still no sign of the patrolman.
+MARY'S REAR-VIEW MIRROR: no sign of the patrolman. 
+MARY IN NEW CAR ON ROUTE: she turns her face, looks out at the highway.
+ROUTE 99 - MARY'S POV: it is heavy with traffic.
+MARY IN NEW CAR ON ROUTE: again she checks the mirror and although...
+MARY'S REAR-VIEW MIRROR: there is still no sign of the patrolman.
 
-speaker1: heck, officer, that was the first time i ever saw the customer high- pressure the salesman! somebody chasing her? 
-speaker2: i better have a look at those papers, charlie.
-speaker1: she look like a wrong-one to you?
-speaker2: acted like one.
-speaker3: still no sight of the patrolman.
+CAR DEALER'S VOICE: heck, officer, that was the first time i ever saw the customer high- pressure the salesman! somebody chasing her? 
+PATROLMAN'S VOICE: i better have a look at those papers, charlie.
+CAR DEALER'S VOICE: she look like a wrong-one to you?
+PATROLMAN'S VOICE: acted like one.
+MARY'S REAR-VIEW MIRROR: still no sight of the patrolman.
 
-speaker1: yes, mr. lowery. 
-speaker2: caroline...? mary still isn't in?
-speaker1: no, mr. lowery... but then she's always a bit late on monday mornings.
-speaker2: buzz me the minute she comes in.
+CAROLINE'S VOICE: yes, mr. lowery. 
+LOWERY'S VOICE: caroline...? mary still isn't in?
+CAROLINE'S VOICE: no, mr. lowery... but then she's always a bit late on monday mornings.
+LOWERY'S VOICE: buzz me the minute she comes in.
 
-speaker1: call her sister! if no one's answering at the house.... 
-speaker2: i called her sister, mr. lowery, where she works, the music makers music store, you know? and she doesn't know where mary is any more than we do.
-speaker1: you better run out to the house. she may be... unable to answer the phone...
-speaker2: her sister's going to do that. she's as worried as we are.
+LOWERY'S VOICE: call her sister! if no one's answering at the house.... 
+CAROLINE'S VOICE: i called her sister, mr. lowery, where she works, the music makers music store, you know? and she doesn't know where mary is any more than we do.
+LOWERY'S VOICE: you better run out to the house. she may be... unable to answer the phone...
+CAROLINE'S VOICE: her sister's going to do that. she's as worried as we are.
 
-speaker1: no! i haven't the faintest idea. as i said, i last saw your sister when she left this office on friday... she said she didn't feel well and wanted to leave early and i said she could. and that was the last i saw... ...wait a minute, i did see her, an hour or so later, driving... ah, i think you'd better come over here to my office. quick. caroline, get mr. cassidy for me. 
-speaker1: after all, cassidy, i told you... all that cash... i'm not taking the responsibility... oh, for heaven's sake, a girl works for you for ten years, you trust her! all right, yes, you better come over.
+LOWERY'S VOICE: no! i haven't the faintest idea. as i said, i last saw your sister when she left this office on friday... she said she didn't feel well and wanted to leave early and i said she could. and that was the last i saw... ...wait a minute, i did see her, an hour or so later, driving... ah, i think you'd better come over here to my office. quick. caroline, get mr. cassidy for me. 
+LOWERY'S VOICE: after all, cassidy, i told you... all that cash... i'm not taking the responsibility... oh, for heaven's sake, a girl works for you for ten years, you trust her! all right, yes, you better come over.
 
-speaker1: well i ain't about to kiss off forty thousand dollars! i'll get it back and if any of it's missin' i'll replace it with her fine soft flesh! i'll track her, never you doubt it! 
-speaker2: hold on, cassidy... i still can't believe... it must be some kind of a mystery... i can't...
-speaker1: you checked with the bank, no? they never laid eyes on her, no? you still trustin'? hot creepers, she sat there while i dumped it out... hardly even looked at it, plannin' and... and even flirtin' with me...!
-speaker3: big drops of rain begin to appear.
-speaker4: she is becoming aware of the rain starting.
+CASSIDY'S VOICE: well i ain't about to kiss off forty thousand dollars! i'll get it back and if any of it's missin' i'll replace it with her fine soft flesh! i'll track her, never you doubt it! 
+LOWERY'S VOICE: hold on, cassidy... i still can't believe... it must be some kind of a mystery... i can't...
+CASSIDY'S VOICE: you checked with the bank, no? they never laid eyes on her, no? you still trustin'? hot creepers, she sat there while i dumped it out... hardly even looked at it, plannin' and... and even flirtin' with me...!
+THROUGH THE WINDSHIELD AGAIN: big drops of rain begin to appear.
+CLOSEUP - MARY: she is becoming aware of the rain starting.
 
-speaker1: peering through the blurred windshield. 
-speaker2: slowing down in the flooding highway.
+CLOSEUP - MARY: peering through the blurred windshield. 
+CLOSEUP - THE CAR WHEELS: slowing down in the flooding highway.
 
-speaker1: almost coming to a slow turn. 
-speaker2: just blackness and rain.
-speaker3: peering.
+CLOSEUP - THE CAR WHEELS: almost coming to a slow turn. 
+THROUGH THE WINDSHIELD: just blackness and rain.
+CLOSEUP - MARY: peering.
 
-speaker1: dirty night. 
-speaker2: you have a vacancy?
-speaker1: we have twelve vacancies. twelve cabins, twelve vacancies. they moved away the highway.
-speaker2: i thought i'd gotten off the main...
-speaker1: i knew you must have. no one stops here anymore unless they do.
-speaker1: but it's no good dwelling on our losses, is it. we go right ahead lighting signs and following the formalities... would you sign, please.
-speaker1: your home address. oh, just the town will do.
-speaker2: los angeles.
-speaker1: cabin one. it's closer in case you want anything... right next to the office.
+NORMAN: dirty night. 
+MARY: you have a vacancy?
+NORMAN: we have twelve vacancies. twelve cabins, twelve vacancies. they moved away the highway.
+MARY: i thought i'd gotten off the main...
+NORMAN: i knew you must have. no one stops here anymore unless they do.
+NORMAN: but it's no good dwelling on our losses, is it. we go right ahead lighting signs and following the formalities... would you sign, please.
+NORMAN: your home address. oh, just the town will do.
+MARY: los angeles.
+NORMAN: cabin one. it's closer in case you want anything... right next to the office.
 
-speaker1: i want sleep more than anything. except maybe, food. 
-speaker2: there's a big diner about ten miles on up... just outside fairvale.
-speaker1: am i that close to fairvale?
-speaker2: fifteen miles. i'll get your bags.
+MARY: i want sleep more than anything. except maybe, food. 
+NORMAN: there's a big diner about ten miles on up... just outside fairvale.
+MARY: am i that close to fairvale?
+NORMAN: fifteen miles. i'll get your bags.
 
-speaker1: stuffy in here. well... the mattress is soft and there're hangers in the closet and... stationary with "bates' motel" printed on it in case you want to make your friends back home envious... and... the... over there.... 
-speaker2: the bathroom.
-speaker1: i'll be in the office if you want anything... just tap on the wall.
-speaker2: thank you, mr. bates.
-speaker1: norman bates.
-speaker1: you have something most girls never have.
-speaker2: i have?
-speaker1: there's no name for it... but it's something that, that puts a person at ease.
-speaker2: thank you. again.
-speaker1: you're not going to go out again and drive up to that diner, are you?
-speaker2: no.
-speaker1: then will you do me a favor? will you have supper here? i was just about to, myself... nothing more than some sandwiches and a lot of milk, but i'd like it if you'd come up to the house and... i don't set a fancy table but... the kitchen's awful homey.
-speaker2: i'd like to.
-speaker1: all right, you get your dresses hanging out and... change those wet shoes, and i'll come for you soon as it's ready... ...with my trusty umbrella.
-speaker3: no! i tell you no!
-speaker3: i won't have you bringing strange young girls in for supper... ...by candlelight, i suppose, in the cheap fashion of young men with cheap, minds!
-speaker4: mother, please...
-speaker3: and then what? after supper, music? whispers?
-speaker4: mother, she's just a stranger... hungry, and the weather's bad...
-speaker3: mother, she's just a stranger! as if men don't desire strangers, as if... oh, i refuse to speak of disgusting things because they disgust me! you understand, boy?
-speaker3: go on, go tell her she'll not be appeasing her ugly appetite with my food... or my son! or do i have to tell her, cause you don't have the guts? huh, boy? you have the guts, boy?
-speaker4: shut up! shut up!
+NORMAN: stuffy in here. well... the mattress is soft and there're hangers in the closet and... stationary with "bates' motel" printed on it in case you want to make your friends back home envious... and... the... over there.... 
+MARY: the bathroom.
+NORMAN: i'll be in the office if you want anything... just tap on the wall.
+MARY: thank you, mr. bates.
+NORMAN: norman bates.
+NORMAN: you have something most girls never have.
+MARY: i have?
+NORMAN: there's no name for it... but it's something that, that puts a person at ease.
+MARY: thank you. again.
+NORMAN: you're not going to go out again and drive up to that diner, are you?
+MARY: no.
+NORMAN: then will you do me a favor? will you have supper here? i was just about to, myself... nothing more than some sandwiches and a lot of milk, but i'd like it if you'd come up to the house and... i don't set a fancy table but... the kitchen's awful homey.
+MARY: i'd like to.
+NORMAN: all right, you get your dresses hanging out and... change those wet shoes, and i'll come for you soon as it's ready... ...with my trusty umbrella.
+WOMAN'S VOICE: no! i tell you no!
+WOMAN'S VOICE: i won't have you bringing strange young girls in for supper... ...by candlelight, i suppose, in the cheap fashion of young men with cheap, minds!
+NORMAN'S VOICE: mother, please...
+WOMAN'S VOICE: and then what? after supper, music? whispers?
+NORMAN'S VOICE: mother, she's just a stranger... hungry, and the weather's bad...
+WOMAN'S VOICE: mother, she's just a stranger! as if men don't desire strangers, as if... oh, i refuse to speak of disgusting things because they disgust me! you understand, boy?
+WOMAN'S VOICE: go on, go tell her she'll not be appeasing her ugly appetite with my food... or my son! or do i have to tell her, cause you don't have the guts? huh, boy? you have the guts, boy?
+NORMAN'S VOICE: shut up! shut up!
 
-speaker1: i've caused you some trouble. 
-speaker2: mother... ...what is the phrase... "she isn't herself today"... i think that's it.
-speaker2: i'm sorry. i wish... people could apologize for other people.
-speaker1: don't worry about it.
-speaker2: it might be nicer... warmer in the office.
+MARY: i've caused you some trouble. 
+NORMAN: mother... ...what is the phrase... "she isn't herself today"... i think that's it.
+NORMAN: i'm sorry. i wish... people could apologize for other people.
+MARY: don't worry about it.
+NORMAN: it might be nicer... warmer in the office.
 
-speaker1: you're very... kind. 
-speaker2: it's all for you. i'm not hungry. please go ahead.
-speaker2: you eat like a bird.
-speaker1: you'd know, of course.
-speaker2: not really. i hear that expression, that one eats "like a bird," is really a falsie, i mean a falsity, because birds eat a tremendous lot. oh, i don't know anything about birds. my hobby is stuffing things... taxidermy. and i guess i'd just rather stuff birds because... well, i hate the look of beasts when they're stuffed, foxes and chimps and all... some people even stuff dogs and cats... but i can't... i think only birds look well stuffed because they're rather... passive, to begin with... most of them...
-speaker1: it's a strange hobby. curious, i mean.
-speaker2: uncommon, too.
-speaker1: i imagine so.
-speaker2: it's not as expensive as you'd think. cheap, really. needles, thread, sawdust .. the chemicals are all that cost anything.
-speaker1: a man should have a hobby.
-speaker2: it's more than a hobby... sometimes... a hobby is supposed to pass the time, not fill it.
-speaker1: is your time so empty?
-speaker2: oh, no! i run the office, tend the cabins and grounds, do little chores for mother... the ones she allows i might be capable of doing.
-speaker1: you go out... with friends?
-speaker2: friends? who needs friends. a boy's best friend is his mother. you've never had an empty moment in your whole life. have you?
-speaker1: only my share.
-speaker2: where are you going? i don't mean to pry...
-speaker1: i'm looking for a private island.
-speaker2: what are you running away from?
-speaker1: why do you ask that?
-speaker2: no. people never run away from anything. the rain didn't last very long. you know what i think? i think we're all in our private traps, clamped in them, and none of us can ever climb out. we scratch and claw... but only at the air, only at each other, and for all of it, we never budge an inch.
-speaker1: sometimes we deliberately step into those traps.
-speaker2: i was born in mine. i don't mind it anymore.
-speaker1: you should... mind it.
-speaker2: oh i do... but i say i don't.
-speaker1: if anyone ever spoke to me, the way i heard... the way she spoke to you, i don't think i could ever laugh again.
-speaker2: sometimes when she talks that way to me i'd like to... curse her out and leave her forever! or at least, defy her. but i couldn't. she's ill.
-speaker1: she sounded strong...
-speaker2: i mean... ill. she had to raise me all by herself after my dad died... i was only five... and it must have been a strain. oh, she didn't have to go out to work or anything, dad left us with a little something... anyway, a few years ago... mother met a man. he talked her into building this motel... we could have talked her into anything... and when. well... it was just too much for her when he died, too... and the way he died... oh, it's nothing to talk about when you're eating. anyway, it was too much of a loss for my mother... she had nothing left.
-speaker1: except you.
-speaker2: a son is a poor substitute for a lover.
-speaker1: why don't you go away?
-speaker2: to a private island, like you?
-speaker1: no, not like me.
-speaker2: it's too late for me. and besides... who'd look after her? she'd be alone up there, the fire would go out... damp and cold, like a grave. when you love someone, you don't do that to them, even if you hate them. oh, i don't hate her. i hate... what she's become. i hate... the illness.
-speaker2: an institution? a madhouse? people always call a madhouse "someplace." put her in someplace!
-speaker1: i'm sorry... i didn't mean it to sound uncaring...
-speaker2: what do you mean about caring? have you ever seen one of those places? inside? laughing and tears and cruel eyes studying you... and my mother there? why? has she harmed you? she's as harmless as... one of these stuffed birds.
-speaker1: i am sorry. i only felt... it seemed she was harming you. i meant...
-speaker2: i've suggested it myself. but i hate to even think such a thing. she needs me... and it isn't... ...it isn't as if she were a maniac, a raving thing... it's just that... sometimes she goes a little mad. we all go a little mad sometimes. haven't you?
-speaker1: yes, and just one time can be enough. thank you.
-speaker2: thank you, norman.
-speaker1: norman.
-speaker2: you're not going to... to your room already?
-speaker1: i'm very tired. and i'll have a long drive tomorrow. all the way back to phoenix.
-speaker2: phoenix?
-speaker1: i stepped into a private trap back there -- and i want to go back and... try to pull myself out. before it's too late for me, too.
-speaker2: why don't you stay a little while, just for talking.
-speaker1: i'd like to, but...
-speaker2: alright. i'll see you in the morning. i'll bring you breakfast. what time will you...
-speaker1: very early. dawn.
-speaker2: alright, miss...
-speaker1: crane.
-speaker2: that's it.
-speaker1: good night.
+MARY: you're very... kind. 
+NORMAN: it's all for you. i'm not hungry. please go ahead.
+NORMAN: you eat like a bird.
+MARY: you'd know, of course.
+NORMAN: not really. i hear that expression, that one eats "like a bird," is really a falsie, i mean a falsity, because birds eat a tremendous lot. oh, i don't know anything about birds. my hobby is stuffing things... taxidermy. and i guess i'd just rather stuff birds because... well, i hate the look of beasts when they're stuffed, foxes and chimps and all... some people even stuff dogs and cats... but i can't... i think only birds look well stuffed because they're rather... passive, to begin with... most of them...
+MARY: it's a strange hobby. curious, i mean.
+NORMAN: uncommon, too.
+MARY: i imagine so.
+NORMAN: it's not as expensive as you'd think. cheap, really. needles, thread, sawdust .. the chemicals are all that cost anything.
+MARY: a man should have a hobby.
+NORMAN: it's more than a hobby... sometimes... a hobby is supposed to pass the time, not fill it.
+MARY: is your time so empty?
+NORMAN: oh, no! i run the office, tend the cabins and grounds, do little chores for mother... the ones she allows i might be capable of doing.
+MARY: you go out... with friends?
+NORMAN: friends? who needs friends. a boy's best friend is his mother. you've never had an empty moment in your whole life. have you?
+MARY: only my share.
+NORMAN: where are you going? i don't mean to pry...
+MARY: i'm looking for a private island.
+NORMAN: what are you running away from?
+MARY: why do you ask that?
+NORMAN: no. people never run away from anything. the rain didn't last very long. you know what i think? i think we're all in our private traps, clamped in them, and none of us can ever climb out. we scratch and claw... but only at the air, only at each other, and for all of it, we never budge an inch.
+MARY: sometimes we deliberately step into those traps.
+NORMAN: i was born in mine. i don't mind it anymore.
+MARY: you should... mind it.
+NORMAN: oh i do... but i say i don't.
+MARY: if anyone ever spoke to me, the way i heard... the way she spoke to you, i don't think i could ever laugh again.
+NORMAN: sometimes when she talks that way to me i'd like to... curse her out and leave her forever! or at least, defy her. but i couldn't. she's ill.
+MARY: she sounded strong...
+NORMAN: i mean... ill. she had to raise me all by herself after my dad died... i was only five... and it must have been a strain. oh, she didn't have to go out to work or anything, dad left us with a little something... anyway, a few years ago... mother met a man. he talked her into building this motel... we could have talked her into anything... and when. well... it was just too much for her when he died, too... and the way he died... oh, it's nothing to talk about when you're eating. anyway, it was too much of a loss for my mother... she had nothing left.
+MARY: except you.
+NORMAN: a son is a poor substitute for a lover.
+MARY: why don't you go away?
+NORMAN: to a private island, like you?
+MARY: no, not like me.
+NORMAN: it's too late for me. and besides... who'd look after her? she'd be alone up there, the fire would go out... damp and cold, like a grave. when you love someone, you don't do that to them, even if you hate them. oh, i don't hate her. i hate... what she's become. i hate... the illness.
+NORMAN: an institution? a madhouse? people always call a madhouse "someplace." put her in someplace!
+MARY: i'm sorry... i didn't mean it to sound uncaring...
+NORMAN: what do you mean about caring? have you ever seen one of those places? inside? laughing and tears and cruel eyes studying you... and my mother there? why? has she harmed you? she's as harmless as... one of these stuffed birds.
+MARY: i am sorry. i only felt... it seemed she was harming you. i meant...
+NORMAN: i've suggested it myself. but i hate to even think such a thing. she needs me... and it isn't... ...it isn't as if she were a maniac, a raving thing... it's just that... sometimes she goes a little mad. we all go a little mad sometimes. haven't you?
+MARY: yes, and just one time can be enough. thank you.
+NORMAN: thank you, norman.
+MARY: norman.
+NORMAN: you're not going to... to your room already?
+MARY: i'm very tired. and i'll have a long drive tomorrow. all the way back to phoenix.
+NORMAN: phoenix?
+MARY: i stepped into a private trap back there -- and i want to go back and... try to pull myself out. before it's too late for me, too.
+NORMAN: why don't you stay a little while, just for talking.
+MARY: i'd like to, but...
+NORMAN: alright. i'll see you in the morning. i'll bring you breakfast. what time will you...
+MARY: very early. dawn.
+NORMAN: alright, miss...
+MARY: crane.
+NORMAN: that's it.
+MARY: good night.
 
-speaker1: ...they tell you what its ingredients are and how it's guaranteed to exterminate any insect in the world, but they do not tell you whether or not it's painless. and i say insect or man, death should always be painless. 
-speaker2: sam?
-speaker3: you want to see sam?
-speaker2: sam loomis.
-speaker3: sam! lady wants to see you!
-speaker4: yes?
-speaker2: may i talk to you?
-speaker4: sure...
-speaker2: i'm mary's sister.
-speaker4: lila.
-speaker2: is mary here?
-speaker4: is something wrong?
-speaker2: i want to know if my sister is here.
-speaker4: here?
-speaker2: with you.
-speaker4: where?
-speaker2: i don't know where. in your store, somewhere in your town... anywhere.
-speaker4: what's the matter?
-speaker2: don't you know?
-speaker1: all i can do is hope if it isn't painless, it's quick!
-speaker4: what should i know?
-speaker2: to begin with, where mary is. do you?
-speaker4: no. i take it you don't either? how long?
-speaker2: last friday. she left work, and home... i was in tucson over the weekend... i haven't heard from her, not even a phone call.
-speaker4: and you thought she'd come up here, to me? if she had, what reason would she have for not calling you?
-speaker2: a good reason, i suppose.
-speaker4: well what do you think, we eloped or something? or we're living in sin and...
-speaker2: mr. loomis, you're so busy being defensive that you haven't even reacted to the most serious fact of all. mary is missing.
-speaker4: i was getting to that!
-speaker2: what do you know about it?
-speaker4: nothing! you're putting me on the defensive.
-speaker2: look, if you two are in this thing together, i don't care, it's none of my business... but i want to see mary. i want her to tell me she's all right and it's none of my business. then i'll go back to phoenix and...
-speaker4: bob? run out and get yourself some lunch.
-speaker3: it's okay, sam, i brought it with me.
-speaker4: run out and eat it.
-speaker4: what thing?
-speaker2: huh?
-speaker4: what thing could we be in together?
-speaker2: i hate tears.
-speaker4: is mary... in trouble?
-speaker2: yes.
-speaker4: well why didn't she come to me... call me...?
-speaker2: not that kind... you men and your egos.
-speaker5: let's all talk about mary.
-speaker4: who are you, friend?
-speaker5: milt arbogast, private investigator. where is she, miss crane?
-speaker2: i don't know.
-speaker5: wouldn't have been able to tail you if you did.
-speaker4: what's your interest?
-speaker5: money.
-speaker4: somebody better tell me what's going on and tell me fast! i can take so much and then...
-speaker4: why?
-speaker5: must've needed it.
-speaker4: what are you talking about? what is this?
-speaker2: she was supposed to bank it, on friday, for her boss. she didn't.
-speaker5: someone has seen her. someone always sees a girl with forty thousand dollars. she is your girl friend, isn't she?
-speaker2: sam, they don't want to prosecute, they just want the money back. it was all in cash...
-speaker5: casharoonie!
-speaker2: sam, if she's here...
-speaker4: she isn't!
-speaker5: you came up here on a hunch, miss crane? nothing more? no phone call... from him, or from your sister herself?
-speaker2: not even a hunch. just hope.
-speaker5: with a little checking, i could get to believe you.
-speaker2: i don't care if you do or... i want to see mary... before she gets in any deeper...
-speaker4: did you check in phoenix... hospitals... maybe she had an accident... a hold-up...
-speaker5: she was seen leaving town in her car. seen by her very victims, i might add.
-speaker4: i don't believe it. do you?
-speaker2: yes... i just... did. the moment they told me...
-speaker4: you might have doubted for say five minutes or so, sister.
-speaker5: we're always quickest to doubt people who have a record for being honest. i think she's here, miss crane. where there's a boyfriend... she won't be back there among the nuts and bolts... but she'll be in this town... somewhere. i'll find her.
-speaker2: i just listened... and believed everything they told me. 'she stole the money.' 'we don't want to get her in trouble.' 'no don't bring the police in'...
-speaker4: it was her boss' idea not to report it to the police?
-speaker2: no. the man whose money she... he talked so loud and fast, and i... i should've called the police.
-speaker4: he must have had a darn good reason for wanting them kept out of it... all that cash...
-speaker2: i ought to call the police right now!
-speaker4: no.
-speaker2: why not? sam, is she hiding here? are you two planning to go away with the money?
-speaker4: how could i go away? i'm in debt up to my... if she did steal that money... it's hard to believe she did because it's hard to see why she would. unless she had some wild idea that it would help me... us...
-speaker2: she haven't even called you?
-speaker4: i didn't see her... and i didn't hear from her! believe that!
-speaker2: i need to... i need to believe something. this is the first time i've ever come up against anything i couldn't... understand.
-speaker4: you've led a charmed life.
-speaker2: no. i just think... anything can be explained. but mary, doing a thing like this... i don't know how to handle...
-speaker4: maybe we can handle it together.
-speaker2: i came flying up here expecting to get some explanation... for all i know, she may be trying to get in touch with me, at home. i'd better go home.
-speaker4: i think she'll contact me if she contacts anybody. why don't you stay here. when she shows up... or calls... be here.
-speaker2: you want me to stay here?
-speaker4: she'll need both of us.
-speaker2: where... can i stay?
-speaker4: first rate hotel, fifty yards up the street. come on. after we check you in we'll go to the drugstore and get you a sandwich. then we'll come back here... and wait. he hangs the sign on the door, ushers lila out, closes door behind him.
+WOMAN CUSTOMER: ...they tell you what its ingredients are and how it's guaranteed to exterminate any insect in the world, but they do not tell you whether or not it's painless. and i say insect or man, death should always be painless. 
+LILA: sam?
+SUMMERFIELD: you want to see sam?
+LILA: sam loomis.
+SUMMERFIELD: sam! lady wants to see you!
+SAM: yes?
+LILA: may i talk to you?
+SAM: sure...
+LILA: i'm mary's sister.
+SAM: lila.
+LILA: is mary here?
+SAM: is something wrong?
+LILA: i want to know if my sister is here.
+SAM: here?
+LILA: with you.
+SAM: where?
+LILA: i don't know where. in your store, somewhere in your town... anywhere.
+SAM: what's the matter?
+LILA: don't you know?
+WOMAN CUSTOMER: all i can do is hope if it isn't painless, it's quick!
+SAM: what should i know?
+LILA: to begin with, where mary is. do you?
+SAM: no. i take it you don't either? how long?
+LILA: last friday. she left work, and home... i was in tucson over the weekend... i haven't heard from her, not even a phone call.
+SAM: and you thought she'd come up here, to me? if she had, what reason would she have for not calling you?
+LILA: a good reason, i suppose.
+SAM: well what do you think, we eloped or something? or we're living in sin and...
+LILA: mr. loomis, you're so busy being defensive that you haven't even reacted to the most serious fact of all. mary is missing.
+SAM: i was getting to that!
+LILA: what do you know about it?
+SAM: nothing! you're putting me on the defensive.
+LILA: look, if you two are in this thing together, i don't care, it's none of my business... but i want to see mary. i want her to tell me she's all right and it's none of my business. then i'll go back to phoenix and...
+SAM: bob? run out and get yourself some lunch.
+SUMMERFIELD: it's okay, sam, i brought it with me.
+SAM: run out and eat it.
+SAM: what thing?
+LILA: huh?
+SAM: what thing could we be in together?
+LILA: i hate tears.
+SAM: is mary... in trouble?
+LILA: yes.
+SAM: well why didn't she come to me... call me...?
+LILA: not that kind... you men and your egos.
+ARBOGAST: let's all talk about mary.
+SAM: who are you, friend?
+ARBOGAST: milt arbogast, private investigator. where is she, miss crane?
+LILA: i don't know.
+ARBOGAST: wouldn't have been able to tail you if you did.
+SAM: what's your interest?
+ARBOGAST: money.
+SAM: somebody better tell me what's going on and tell me fast! i can take so much and then...
+SAM: why?
+ARBOGAST: must've needed it.
+SAM: what are you talking about? what is this?
+LILA: she was supposed to bank it, on friday, for her boss. she didn't.
+ARBOGAST: someone has seen her. someone always sees a girl with forty thousand dollars. she is your girl friend, isn't she?
+LILA: sam, they don't want to prosecute, they just want the money back. it was all in cash...
+ARBOGAST: casharoonie!
+LILA: sam, if she's here...
+SAM: she isn't!
+ARBOGAST: you came up here on a hunch, miss crane? nothing more? no phone call... from him, or from your sister herself?
+LILA: not even a hunch. just hope.
+ARBOGAST: with a little checking, i could get to believe you.
+LILA: i don't care if you do or... i want to see mary... before she gets in any deeper...
+SAM: did you check in phoenix... hospitals... maybe she had an accident... a hold-up...
+ARBOGAST: she was seen leaving town in her car. seen by her very victims, i might add.
+SAM: i don't believe it. do you?
+LILA: yes... i just... did. the moment they told me...
+SAM: you might have doubted for say five minutes or so, sister.
+ARBOGAST: we're always quickest to doubt people who have a record for being honest. i think she's here, miss crane. where there's a boyfriend... she won't be back there among the nuts and bolts... but she'll be in this town... somewhere. i'll find her.
+LILA: i just listened... and believed everything they told me. 'she stole the money.' 'we don't want to get her in trouble.' 'no don't bring the police in'...
+SAM: it was her boss' idea not to report it to the police?
+LILA: no. the man whose money she... he talked so loud and fast, and i... i should've called the police.
+SAM: he must have had a darn good reason for wanting them kept out of it... all that cash...
+LILA: i ought to call the police right now!
+SAM: no.
+LILA: why not? sam, is she hiding here? are you two planning to go away with the money?
+SAM: how could i go away? i'm in debt up to my... if she did steal that money... it's hard to believe she did because it's hard to see why she would. unless she had some wild idea that it would help me... us...
+LILA: she haven't even called you?
+SAM: i didn't see her... and i didn't hear from her! believe that!
+LILA: i need to... i need to believe something. this is the first time i've ever come up against anything i couldn't... understand.
+SAM: you've led a charmed life.
+LILA: no. i just think... anything can be explained. but mary, doing a thing like this... i don't know how to handle...
+SAM: maybe we can handle it together.
+LILA: i came flying up here expecting to get some explanation... for all i know, she may be trying to get in touch with me, at home. i'd better go home.
+SAM: i think she'll contact me if she contacts anybody. why don't you stay here. when she shows up... or calls... be here.
+LILA: you want me to stay here?
+SAM: she'll need both of us.
+LILA: where... can i stay?
+SAM: first rate hotel, fifty yards up the street. come on. after we check you in we'll go to the drugstore and get you a sandwich. then we'll come back here... and wait. he hangs the sign on the door, ushers lila out, closes door behind him.
 
-speaker1: i always forget to put the sign on, but we do have vacancy. twelve in fact. twelve cabins, twelve vacancies. 
-speaker2: in the past two days i've been to so many motels, my eyes are bleary with neon. this is the first one that looked like it was hiding from the world at large.
-speaker1: i don't really forget the sign, it just doesn't seem... any use. this used to be the main highway. want to register, please?
-speaker2: sit down. i don't want to trouble you, just want to ask...
-speaker1: no trouble. today's linen day. i change all the beds once a week, whether they've been used or not... dampness. i hate the smell of dampness. it's such a dank smell.
+NORMAN: i always forget to put the sign on, but we do have vacancy. twelve in fact. twelve cabins, twelve vacancies. 
+ARBOGAST: in the past two days i've been to so many motels, my eyes are bleary with neon. this is the first one that looked like it was hiding from the world at large.
+NORMAN: i don't really forget the sign, it just doesn't seem... any use. this used to be the main highway. want to register, please?
+ARBOGAST: sit down. i don't want to trouble you, just want to ask...
+NORMAN: no trouble. today's linen day. i change all the beds once a week, whether they've been used or not... dampness. i hate the smell of dampness. it's such a dank smell.
 
-speaker1: you out to buy a motel? 
-speaker2: no.
-speaker1: oh. i thought... you said you'd been to so many in two days... what was it you wanted to ask?
-speaker2: i'm looking for a missing person. my name's arbogast, private investigator... trying to trace a young girl who's been missing almost a week. from phoenix. it's a private matter... family wants to forgive her... she isn't in trouble.
-speaker1: i didn't think the police went searching for people who weren't in trouble.
-speaker2: i'm not the police.
-speaker1: oh.
-speaker2: we have reason to believe she came this way... might have stopped in this area... did she stop here?
-speaker1: no. no one has stopped here in weeks...
-speaker2: mind looking at the picture before committing yourself?
-speaker1: committing myself to what? you sure talk like a policeman.
-speaker2: look at the picture. please.
-speaker1: no. at least i don't recall.
-speaker2: she might have used an alias. mary crane's the real name, but she might've registered...
-speaker1: i don't even bother with guests registering any more... i mean, little by little, you drop the formalities. i shouldn't even bother to change the linen. i guess habits die hard. which reminds me...
-speaker1: the vacancy sign. just in case.
-speaker2: now there's a couple even remarking about your sign, and see how easily you forgot them?
-speaker1: what?
-speaker2: you thought no one has stopped here in weeks. now, try to remember if this girl...
-speaker2: yes sir! marie samuels. interesting alias.
-speaker2: don't know where she got "marie," but "samuels" figures. her boy friend's name is sam. was she in disguise? or do you want to check the picture again?
-speaker1: i didn't lie to you. i just have trouble keeping track of... time.
-speaker1: it was raining and her hair didn't look like that... damped out, i guess.
-speaker2: tell me all about her.
-speaker1: she arrived kind of late, wet and hungry and she was very tired and went right to bed and left early.
-speaker2: how early?
-speaker1: very early. dawn.
-speaker2: of which morning?
-speaker1: the following morning. sunday.
-speaker2: no one met her?
-speaker1: no.
-speaker2: or arrived with her.
-speaker1: no.
-speaker2: she didn't call anyone? even locally?
-speaker1: no.
-speaker2: you didn't spend the whole night with her did you?
-speaker1: no! of all...
-speaker2: how do you know she didn't make a call?
-speaker1: she was tired. she said she had a long drive ahead of her, in the morning... yes, now i'm remembering very clearly because i'm picturing. when you make a picture of the moment in your mind, you can remember every detail. she was sitting back there, no she was standing up, with some sandwich still in her hand, and she said she had to drive a long way.
-speaker2: back where?
-speaker1: what do you mean?
-speaker2: you said she was sitting "back there," or standing rather...
-speaker1: oh. my private parlor. she had an awful hunger... so i made her some supper. and then she went to bed and left in the morning. i didn't even see her leave.
-speaker2: how did she pay you?
-speaker1: what?
-speaker2: cash or check? for the cabin...
-speaker1: cash.
-speaker2: and when she left, she never came back.
-speaker1: why should she? i'm sorry, i have work to do, mr... if you don't mind...
-speaker2: i do mind. if it don't jell, it ain't aspic! this ain't jelling.
-speaker1: i don't know what you expect me to know about... people come and go...
-speaker2: she isn't still here, is she?
-speaker1: not at all!
-speaker2: suppose i wanted to search the cabins, all twelve... would i need a warrant?
-speaker1: look, if you won't believe me, go ahead. you can help me make beds if you like. come on.
+NORMAN: you out to buy a motel? 
+ARBOGAST: no.
+NORMAN: oh. i thought... you said you'd been to so many in two days... what was it you wanted to ask?
+ARBOGAST: i'm looking for a missing person. my name's arbogast, private investigator... trying to trace a young girl who's been missing almost a week. from phoenix. it's a private matter... family wants to forgive her... she isn't in trouble.
+NORMAN: i didn't think the police went searching for people who weren't in trouble.
+ARBOGAST: i'm not the police.
+NORMAN: oh.
+ARBOGAST: we have reason to believe she came this way... might have stopped in this area... did she stop here?
+NORMAN: no. no one has stopped here in weeks...
+ARBOGAST: mind looking at the picture before committing yourself?
+NORMAN: committing myself to what? you sure talk like a policeman.
+ARBOGAST: look at the picture. please.
+NORMAN: no. at least i don't recall.
+ARBOGAST: she might have used an alias. mary crane's the real name, but she might've registered...
+NORMAN: i don't even bother with guests registering any more... i mean, little by little, you drop the formalities. i shouldn't even bother to change the linen. i guess habits die hard. which reminds me...
+NORMAN: the vacancy sign. just in case.
+ARBOGAST: now there's a couple even remarking about your sign, and see how easily you forgot them?
+NORMAN: what?
+ARBOGAST: you thought no one has stopped here in weeks. now, try to remember if this girl...
+ARBOGAST: yes sir! marie samuels. interesting alias.
+ARBOGAST: don't know where she got "marie," but "samuels" figures. her boy friend's name is sam. was she in disguise? or do you want to check the picture again?
+NORMAN: i didn't lie to you. i just have trouble keeping track of... time.
+NORMAN: it was raining and her hair didn't look like that... damped out, i guess.
+ARBOGAST: tell me all about her.
+NORMAN: she arrived kind of late, wet and hungry and she was very tired and went right to bed and left early.
+ARBOGAST: how early?
+NORMAN: very early. dawn.
+ARBOGAST: of which morning?
+NORMAN: the following morning. sunday.
+ARBOGAST: no one met her?
+NORMAN: no.
+ARBOGAST: or arrived with her.
+NORMAN: no.
+ARBOGAST: she didn't call anyone? even locally?
+NORMAN: no.
+ARBOGAST: you didn't spend the whole night with her did you?
+NORMAN: no! of all...
+ARBOGAST: how do you know she didn't make a call?
+NORMAN: she was tired. she said she had a long drive ahead of her, in the morning... yes, now i'm remembering very clearly because i'm picturing. when you make a picture of the moment in your mind, you can remember every detail. she was sitting back there, no she was standing up, with some sandwich still in her hand, and she said she had to drive a long way.
+ARBOGAST: back where?
+NORMAN: what do you mean?
+ARBOGAST: you said she was sitting "back there," or standing rather...
+NORMAN: oh. my private parlor. she had an awful hunger... so i made her some supper. and then she went to bed and left in the morning. i didn't even see her leave.
+ARBOGAST: how did she pay you?
+NORMAN: what?
+ARBOGAST: cash or check? for the cabin...
+NORMAN: cash.
+ARBOGAST: and when she left, she never came back.
+NORMAN: why should she? i'm sorry, i have work to do, mr... if you don't mind...
+ARBOGAST: i do mind. if it don't jell, it ain't aspic! this ain't jelling.
+NORMAN: i don't know what you expect me to know about... people come and go...
+ARBOGAST: she isn't still here, is she?
+NORMAN: not at all!
+ARBOGAST: suppose i wanted to search the cabins, all twelve... would i need a warrant?
+NORMAN: look, if you won't believe me, go ahead. you can help me make beds if you like. come on.
 
-speaker1: change your mind? 
-speaker1: i guess i've got one of those faces you can't help believing.
-speaker2: anyone at home?
-speaker1: i live there. alone.
-speaker2: someone is sitting in that window.
-speaker1: my mother.
-speaker1: she's... ill. confined to her room. it's practically living alone.
-speaker2: if this girl mary crane were here, you'd have no reason to hide her would you?
-speaker1: of course not.
-speaker2: if she paid you well?
-speaker1: now, look...!
-speaker2: or if she had you say... gallantly protecting her... you wouldn't be fooled... you'd know she was just using you. wouldn't you?
-speaker1: i'm not a fool! and i'm not capable of being fooled! not even by women!
-speaker2: i didn't mean that as a slur on your manhood. i'm sorry.
-speaker1: that's all right. maybe she could have fooled me. but... she didn't fool my mother.
-speaker2: your mother met her? can i talk to your mother?
-speaker1: no. i told you, she's confined...
-speaker2: just for a moment. she might have picked up a hint you'd miss.
-speaker2: sick old women are sharp. come on, i won't disturb...
-speaker1: no! just no! i have one of those breaking points like any other man, believe it or not, and i'm near it. there's just so much pushing i can take and i think...
-speaker2: all right! might save me a lot of leg-work if i could just talk to your mother. but i'd need a warrant for that, won't
+NORMAN: change your mind? 
+NORMAN: i guess i've got one of those faces you can't help believing.
+ARBOGAST: anyone at home?
+NORMAN: i live there. alone.
+ARBOGAST: someone is sitting in that window.
+NORMAN: my mother.
+NORMAN: she's... ill. confined to her room. it's practically living alone.
+ARBOGAST: if this girl mary crane were here, you'd have no reason to hide her would you?
+NORMAN: of course not.
+ARBOGAST: if she paid you well?
+NORMAN: now, look...!
+ARBOGAST: or if she had you say... gallantly protecting her... you wouldn't be fooled... you'd know she was just using you. wouldn't you?
+NORMAN: i'm not a fool! and i'm not capable of being fooled! not even by women!
+ARBOGAST: i didn't mean that as a slur on your manhood. i'm sorry.
+NORMAN: that's all right. maybe she could have fooled me. but... she didn't fool my mother.
+ARBOGAST: your mother met her? can i talk to your mother?
+NORMAN: no. i told you, she's confined...
+ARBOGAST: just for a moment. she might have picked up a hint you'd miss.
+ARBOGAST: sick old women are sharp. come on, i won't disturb...
+NORMAN: no! just no! i have one of those breaking points like any other man, believe it or not, and i'm near it. there's just so much pushing i can take and i think...
+ARBOGAST: all right! might save me a lot of leg-work if i could just talk to your mother. but i'd need a warrant for that, won't
 
-speaker1: straightens up and goes out. 
-speaker2: the door ajar.
+C.U. - ARBOGAST: straightens up and goes out. 
+THE LAST LIT CABIN: the door ajar.
 
-speaker1: comes to a decision. he goes off. 
-speaker2: dashes up the stone steps to the house.
+C.U. - ARBOGAST: comes to a decision. he goes off. 
+L.S. ARBOGAST: dashes up the stone steps to the house.
 
-speaker1: sometimes saturday night has a lonely sound. ever notice, lila? 
-speaker2: sam. he said an hour. or less.
-speaker1: it's been three.
-speaker2: are we just going to go on sitting here?
-speaker1: he'll be back. let's sit still and hang on, okay?
-speaker2: you have an awfully nice habit, sam.
-speaker1: hundreds! which one is your pet?
-speaker2: whenever i start contemplating the panic button, your back straightens up and your eyes get that god-looks- out-for-everybody look and... i feel better.
-speaker1: i feel better when you feel better.
-speaker2: where's the old highway?
-speaker1: you want to run out there, bust in on arbogast and the sick old lady, shake her up and maybe spoil everything arbogast's been building for the last three hours.
-speaker2: yes.
-speaker1: that wouldn't be a wise thing to do.
-speaker2: patience doesn't run in our family.
-speaker1: arbogast said...
-speaker2: an hour! or less!
-speaker1: got the number of the motel out on the old highway? bates, i think.
-speaker2: sam! why call when we can go?
-speaker1: and maybe pass arbogast on the road? thanks.
-speaker1: probably on his way back right now.
-speaker2: sam, i'm going.
-speaker1: you'll never find it.
+SAM: sometimes saturday night has a lonely sound. ever notice, lila? 
+LILA: sam. he said an hour. or less.
+SAM: it's been three.
+LILA: are we just going to go on sitting here?
+SAM: he'll be back. let's sit still and hang on, okay?
+LILA: you have an awfully nice habit, sam.
+SAM: hundreds! which one is your pet?
+LILA: whenever i start contemplating the panic button, your back straightens up and your eyes get that god-looks- out-for-everybody look and... i feel better.
+SAM: i feel better when you feel better.
+LILA: where's the old highway?
+SAM: you want to run out there, bust in on arbogast and the sick old lady, shake her up and maybe spoil everything arbogast's been building for the last three hours.
+LILA: yes.
+SAM: that wouldn't be a wise thing to do.
+LILA: patience doesn't run in our family.
+SAM: arbogast said...
+LILA: an hour! or less!
+SAM: got the number of the motel out on the old highway? bates, i think.
+LILA: sam! why call when we can go?
+SAM: and maybe pass arbogast on the road? thanks.
+SAM: probably on his way back right now.
+LILA: sam, i'm going.
+SAM: you'll never find it.
 
-speaker1: stay here. 
-speaker2: why can't i go out there with you?
-speaker1: i don't know... one of us has to be here in case arbogast's on the way.
-speaker2: just wait here?
+SAM: stay here. 
+LILA: why can't i go out there with you?
+SAM: i don't know... one of us has to be here in case arbogast's on the way.
+LILA: just wait here?
 
-speaker1: he didn't come back here? 
-speaker2: sam.
-speaker1: no arbogast. no bates. and only the old lady at home... a sick old lady unable to answer the door... or unwilling.
-speaker2: where could he have gone?
-speaker1: maybe he got some definite lead.
-speaker2: without calling me?
-speaker1: in a hurry.
-speaker2: sam, he called me when he had nothing definite, nothing but a dissatisfied feeling. don't you think he'd have called if he had anything...
-speaker1: let's go see al chambers.
-speaker2: who's he?
-speaker1: he's the deputy sheriff around here.
+SAM: he didn't come back here? 
+LILA: sam.
+SAM: no arbogast. no bates. and only the old lady at home... a sick old lady unable to answer the door... or unwilling.
+LILA: where could he have gone?
+SAM: maybe he got some definite lead.
+LILA: without calling me?
+SAM: in a hurry.
+LILA: sam, he called me when he had nothing definite, nothing but a dissatisfied feeling. don't you think he'd have called if he had anything...
+SAM: let's go see al chambers.
+LILA: who's he?
+SAM: he's the deputy sheriff around here.
 
-speaker1: our deputy sleeps. 
-speaker2: well?
-speaker1: nothing. just... all the lights out... must be asleep.
-speaker2: does that mean we can't...
-speaker1: no. i'm just procrastinating. people hate when the doorbell rings in the middle of the night. come on.
-speaker3: oh?
-speaker1: sorry, mrs. chambers. i hate bothering you...
-speaker3: you didn't! it's tinkerbell. al wants to be sure he'll hear it if anyone rings it in the middle of the night. well come on in, at least!
+SAM: our deputy sleeps. 
+LILA: well?
+SAM: nothing. just... all the lights out... must be asleep.
+LILA: does that mean we can't...
+SAM: no. i'm just procrastinating. people hate when the doorbell rings in the middle of the night. come on.
+MRS. CHAMBERS: oh?
+SAM: sorry, mrs. chambers. i hate bothering you...
+MRS. CHAMBERS: you didn't! it's tinkerbell. al wants to be sure he'll hear it if anyone rings it in the middle of the night. well come on in, at least!
 
-speaker1: customers! 
-speaker2: we have a problem.
-speaker1: let's go out back and have some coca while the men are talking.
-speaker3: no, thank you. it's my problem, too.
-speaker2: i don't know where to start... except at the beginning.
-speaker3: yes.
-speaker2: this is lila crane, from phoenix. she's been here for a few days, looking for her sister. there's a private detective helping... and, well, we got a call tonight, from this detective, saying he'd traced mary...
-speaker1: mary is lila's sister?
-speaker2: yes. he traced her to that motel, out on the old highway...
-speaker1: bates' motel. he has a mind like a mechanical brain and the more information you feed it... go on, sam.
-speaker2: he traced her there and called us to say he was going to question mrs. bates...
-speaker1: norman took a wife?
-speaker2: no. an old woman, his mother. that was early this evening. and we haven't seen or heard from him since. i went out to the motel, just got back. no one was in the office, and...
-speaker3: will you help us? i think something's wrong out there!
-speaker4: now. your sister is missing how long?
-speaker3: she left phoenix a week ago yesterday. and no trace until...
-speaker4: how'd you and this detective come to trace her to fairvale?
-speaker2: they thought she'd be coming to me.
-speaker4: left phoenix under her own steam?
-speaker3: yes.
-speaker4: she ain't missing so much as she's run away.
-speaker2: yes.
-speaker4: from what?
-speaker3: she stole some money.
-speaker4: a lot?
-speaker3: forty thousand dollars.
-speaker4: and the police haven't been able to...
-speaker2: everyone concerned thought... if they could get her to give back the money... they could avoid involving her with the police.
-speaker4: explains the private detective. he traced her to the bates place. what'd he exactly say when he called you?
-speaker3: mary had been there, one night, and had left.
-speaker4: with the forty thousand dollars?
-speaker3: he didn't mention the money. what he said on the phone isn't important, is it? he was supposed to come back after he spoke to the mother, and he didn't! that's what i want you to do something about!
-speaker4: like what?
-speaker3: go out there! find somebody, ask some questions! i'm sorry if i seem over-anxious to you. i keep thinking... something's wrong. i have to know what!
-speaker4: i think something's wrong, too, miss. but not the same thing. i think your private detective is what's wrong. i think he got himself a hot lead as to where your sister was going... probably from norman bates... and called you to keep you still while he took off after her and the money.
-speaker3: he said he was dissatisfied... and was going back.
-speaker1: why don't you call norman and let him say just what happened, if he give the man a hot lead and he did just scooted off... it'll make the girl feel better, albert.
-speaker4: at this hour?
-speaker2: he was out when i was there. if he's back he probably isn't even in bed yet.
-speaker4: he wasn't out when you were there. he just wasn't answering the door in the dead of night... like some people do. this fellow lives like a hermit...
-speaker1: recluse. kinder word.
-speaker4: you must remember that bad business out there. about ten years ago...
-speaker2: i've only been here five. right now it feels like ten, but...
-speaker3: all right! then call! at least, call!
-speaker4: norman? sheriff chambers. been just fine, thanks. listen, we got some worries here. did you have a man stop out there tonight... well, this one wouldn't be a customer, anyway. a private detective, name of...
-speaker1: arbogast.
-speaker4: arbogast. and after he left? no, it's okay, norman. how's it been going out there? well, i think you oughta unload that place and open up closer in to the action, a smaller place, you know... but...
-speaker3: please!
-speaker4: sorry i got you up, boy. go back to sleep. yeah, be glad to. said to give you his regards.
-speaker2: was that all?
-speaker4: this detective was out there and norman told him about the girl and the detective thanked him and went away.
-speaker3: and he didn't go back? didn't see the mother?
-speaker4: you should've called in the police the second you found your sister has skipped. you go starting private investigations, using people you don't even know...
-speaker3: what difference does that...
-speaker4: your detective told you a nakedfaced lie.
-speaker1: barefaced.
-speaker4: he told you he wasn't coming right back cause he wanted to question norman bates' mother, right?
-speaker3: yes.
-speaker4: norman bates' mother has been dead and buried in greenlawn cemetery for the last ten years!
-speaker1: i helped norman pick out the dress she was buried in. periwinkle blue.
-speaker4: it ain't only local history, sam, it's the only murder-and-suicide case in fairvale ledgers! mrs. bates poisoned this guy she was... involved with, when she found out he was married, then took a helping of the same stuff herself. strychnine. ugly way to die.
-speaker1: norman found them dead together. in bed.
-speaker2: you mean that old woman i saw sittin' in the window wasn't norman bates' mother?
-speaker1: maybe you saw mary!
-speaker2: i'd know the difference between mary and an old woman.
-speaker4: now wait a minute, sam. you sure you saw an old woman?
-speaker2: yes! in the house behind the motel. i pounded and called but she... just ignored me.
-speaker4: and you want to tell me you saw norman bates' mother.
-speaker3: it must've been. arbogast said so, too... and he said the young man wouldn't let him see her because she was ill!
-speaker4: well, if the woman up there is mrs. bates... who's that woman buried out at greenlawn cemetery?
+MRS. CHAMBERS: customers! 
+SAM: we have a problem.
+MRS. CHAMBERS: let's go out back and have some coca while the men are talking.
+LILA: no, thank you. it's my problem, too.
+SAM: i don't know where to start... except at the beginning.
+LILA: yes.
+SAM: this is lila crane, from phoenix. she's been here for a few days, looking for her sister. there's a private detective helping... and, well, we got a call tonight, from this detective, saying he'd traced mary...
+MRS. CHAMBERS: mary is lila's sister?
+SAM: yes. he traced her to that motel, out on the old highway...
+MRS. CHAMBERS: bates' motel. he has a mind like a mechanical brain and the more information you feed it... go on, sam.
+SAM: he traced her there and called us to say he was going to question mrs. bates...
+MRS. CHAMBERS: norman took a wife?
+SAM: no. an old woman, his mother. that was early this evening. and we haven't seen or heard from him since. i went out to the motel, just got back. no one was in the office, and...
+LILA: will you help us? i think something's wrong out there!
+SHERIFF: now. your sister is missing how long?
+LILA: she left phoenix a week ago yesterday. and no trace until...
+SHERIFF: how'd you and this detective come to trace her to fairvale?
+SAM: they thought she'd be coming to me.
+SHERIFF: left phoenix under her own steam?
+LILA: yes.
+SHERIFF: she ain't missing so much as she's run away.
+SAM: yes.
+SHERIFF: from what?
+LILA: she stole some money.
+SHERIFF: a lot?
+LILA: forty thousand dollars.
+SHERIFF: and the police haven't been able to...
+SAM: everyone concerned thought... if they could get her to give back the money... they could avoid involving her with the police.
+SHERIFF: explains the private detective. he traced her to the bates place. what'd he exactly say when he called you?
+LILA: mary had been there, one night, and had left.
+SHERIFF: with the forty thousand dollars?
+LILA: he didn't mention the money. what he said on the phone isn't important, is it? he was supposed to come back after he spoke to the mother, and he didn't! that's what i want you to do something about!
+SHERIFF: like what?
+LILA: go out there! find somebody, ask some questions! i'm sorry if i seem over-anxious to you. i keep thinking... something's wrong. i have to know what!
+SHERIFF: i think something's wrong, too, miss. but not the same thing. i think your private detective is what's wrong. i think he got himself a hot lead as to where your sister was going... probably from norman bates... and called you to keep you still while he took off after her and the money.
+LILA: he said he was dissatisfied... and was going back.
+MRS. CHAMBERS: why don't you call norman and let him say just what happened, if he give the man a hot lead and he did just scooted off... it'll make the girl feel better, albert.
+SHERIFF: at this hour?
+SAM: he was out when i was there. if he's back he probably isn't even in bed yet.
+SHERIFF: he wasn't out when you were there. he just wasn't answering the door in the dead of night... like some people do. this fellow lives like a hermit...
+MRS. CHAMBERS: recluse. kinder word.
+SHERIFF: you must remember that bad business out there. about ten years ago...
+SAM: i've only been here five. right now it feels like ten, but...
+LILA: all right! then call! at least, call!
+SHERIFF: norman? sheriff chambers. been just fine, thanks. listen, we got some worries here. did you have a man stop out there tonight... well, this one wouldn't be a customer, anyway. a private detective, name of...
+MRS. CHAMBERS: arbogast.
+SHERIFF: arbogast. and after he left? no, it's okay, norman. how's it been going out there? well, i think you oughta unload that place and open up closer in to the action, a smaller place, you know... but...
+LILA: please!
+SHERIFF: sorry i got you up, boy. go back to sleep. yeah, be glad to. said to give you his regards.
+SAM: was that all?
+SHERIFF: this detective was out there and norman told him about the girl and the detective thanked him and went away.
+LILA: and he didn't go back? didn't see the mother?
+SHERIFF: you should've called in the police the second you found your sister has skipped. you go starting private investigations, using people you don't even know...
+LILA: what difference does that...
+SHERIFF: your detective told you a nakedfaced lie.
+MRS. CHAMBERS: barefaced.
+SHERIFF: he told you he wasn't coming right back cause he wanted to question norman bates' mother, right?
+LILA: yes.
+SHERIFF: norman bates' mother has been dead and buried in greenlawn cemetery for the last ten years!
+MRS. CHAMBERS: i helped norman pick out the dress she was buried in. periwinkle blue.
+SHERIFF: it ain't only local history, sam, it's the only murder-and-suicide case in fairvale ledgers! mrs. bates poisoned this guy she was... involved with, when she found out he was married, then took a helping of the same stuff herself. strychnine. ugly way to die.
+MRS. CHAMBERS: norman found them dead together. in bed.
+SAM: you mean that old woman i saw sittin' in the window wasn't norman bates' mother?
+MRS. CHAMBERS: maybe you saw mary!
+SAM: i'd know the difference between mary and an old woman.
+SHERIFF: now wait a minute, sam. you sure you saw an old woman?
+SAM: yes! in the house behind the motel. i pounded and called but she... just ignored me.
+SHERIFF: and you want to tell me you saw norman bates' mother.
+LILA: it must've been. arbogast said so, too... and he said the young man wouldn't let him see her because she was ill!
+SHERIFF: well, if the woman up there is mrs. bates... who's that woman buried out at greenlawn cemetery?
 
-speaker1: i am sorry, boy, but you do manage to look ludicrous when you give me orders! 
-speaker2: please, mother...
-speaker1: no! i will not hide in the fruit cellar! think i'm fruity, huh? i'm staying right here! this is my room and no one will drag me out of it... least of all my big bold son!
-speaker2: they'll come now, mother. he came after the girl and now someone will come after him! how long do you think you can go on... mother, please, just for a few days, just so they won't find you!
-speaker1: just for a few days... in that dank fruit cellar? no! you hid me there once, boy, and you won't do it again! not ever again! now get out! i told you to get out, boy! norman! what do you think you're going to do? don't you touch me! don't! norman! all right, son, put me down and i'll go. i'll go on my own two feet. i can go on my own two feet, can't i? during all this the camera has been slowly creeping up the stairs. it does not stop at the top however, but continues on the same high angle that we had in scene 57.
-speaker2: i'll carry you, mother.
+MOTHER'S VOICE: i am sorry, boy, but you do manage to look ludicrous when you give me orders! 
+NORMAN'S VOICE: please, mother...
+MOTHER'S VOICE: no! i will not hide in the fruit cellar! think i'm fruity, huh? i'm staying right here! this is my room and no one will drag me out of it... least of all my big bold son!
+NORMAN'S VOICE: they'll come now, mother. he came after the girl and now someone will come after him! how long do you think you can go on... mother, please, just for a few days, just so they won't find you!
+MOTHER'S VOICE: just for a few days... in that dank fruit cellar? no! you hid me there once, boy, and you won't do it again! not ever again! now get out! i told you to get out, boy! norman! what do you think you're going to do? don't you touch me! don't! norman! all right, son, put me down and i'll go. i'll go on my own two feet. i can go on my own two feet, can't i? during all this the camera has been slowly creeping up the stairs. it does not stop at the top however, but continues on the same high angle that we had in scene 57.
+NORMAN'S VOICE: i'll carry you, mother.
 
-speaker1: we thought, if you didn't mind, we'd go out to the motel with you. 
-speaker2: he's already been.
-speaker3: went out before service.
-speaker2: have you two had breakfast?
-speaker1: you didn't find anything.
-speaker3: nothing. here, let's clear the path.
-speaker4: did he say anything about my sister?
-speaker3: just what he told your detective.
-speaker1: no mother.
-speaker3: you must've seen an illusion, sam. now, i know you're not the seeing- illusion type... but no woman was illusion there and i don't believe in ghosts, so there it is!
-speaker4: i still feel...
-speaker3: can see you do. sorry i couldn't make you feel better. you want to come to my office this afternoon and report a missing person... and the theft, is what you want to do! sooner you drop this thing in the lap of the law, that's the sooner you'll stand a chance of your sister bein' picked up. how about that?
-speaker4: i don't know.
-speaker2: it's sunday. come over and do the reporting at the house, 'round dinner time. make it nicer. you too, sam.
-speaker1: maybe i am the seeing-illusions type.
-speaker4: you're not.
-speaker1: want me to drop you at the hotel? or you want to come over to the store?
-speaker4: i won't feel satisfied unless i got out there, sam.
-speaker1: neither will i.
+SAM: we thought, if you didn't mind, we'd go out to the motel with you. 
+MRS. CHAMBERS: he's already been.
+SHERIFF: went out before service.
+MRS. CHAMBERS: have you two had breakfast?
+SAM: you didn't find anything.
+SHERIFF: nothing. here, let's clear the path.
+LILA: did he say anything about my sister?
+SHERIFF: just what he told your detective.
+SAM: no mother.
+SHERIFF: you must've seen an illusion, sam. now, i know you're not the seeing- illusion type... but no woman was illusion there and i don't believe in ghosts, so there it is!
+LILA: i still feel...
+SHERIFF: can see you do. sorry i couldn't make you feel better. you want to come to my office this afternoon and report a missing person... and the theft, is what you want to do! sooner you drop this thing in the lap of the law, that's the sooner you'll stand a chance of your sister bein' picked up. how about that?
+LILA: i don't know.
+MRS. CHAMBERS: it's sunday. come over and do the reporting at the house, 'round dinner time. make it nicer. you too, sam.
+SAM: maybe i am the seeing-illusions type.
+LILA: you're not.
+SAM: want me to drop you at the hotel? or you want to come over to the store?
+LILA: i won't feel satisfied unless i got out there, sam.
+SAM: neither will i.
 
-speaker1: i wonder if we'll ever see mary again. 
-speaker2: of course we will.
-speaker1: alive.
-speaker1: we lived together all our lives.
-speaker2: where'd you go to college?
-speaker1: i didn't. i got a job, too. i wonder if that hurt her, my not letting her sacrifice for me? some people are so willing to suffer for you that they suffer more if you don't let them.
-speaker1: i wonder so many things about her now. why she never told me about you... funny, when you think there's an answer to everything, you think you know all the answers.
-speaker2: we were going to get married. are going to get married!
-speaker1: do you know how i found out about you? i found one of your letters... it was a nice letter, sam.
-speaker2: this is the old highway.
-speaker1: i suppose... when you were able to marry her she'd have presented you, all shiny and proper... she always tried to be proper.
-speaker2: watch your tenses.
-speaker1: huh?
-speaker2: she always tries to be proper.
-speaker1: you going to wait here for me?
-speaker2: i'm going with you. but we'd better decide what we're going to say and do when we walk in...
-speaker1: we're going to register. as man and wife. and get shown to a cabin... and then search every inch of that place, inside and... outside.
-speaker2: you won't believe it... but this will be the first time i've ever pulled one of those man- and-wife-renting-cabin capers!
-speaker1: i believe it.
+LILA: i wonder if we'll ever see mary again. 
+SAM: of course we will.
+LILA: alive.
+LILA: we lived together all our lives.
+SAM: where'd you go to college?
+LILA: i didn't. i got a job, too. i wonder if that hurt her, my not letting her sacrifice for me? some people are so willing to suffer for you that they suffer more if you don't let them.
+LILA: i wonder so many things about her now. why she never told me about you... funny, when you think there's an answer to everything, you think you know all the answers.
+SAM: we were going to get married. are going to get married!
+LILA: do you know how i found out about you? i found one of your letters... it was a nice letter, sam.
+SAM: this is the old highway.
+LILA: i suppose... when you were able to marry her she'd have presented you, all shiny and proper... she always tried to be proper.
+SAM: watch your tenses.
+LILA: huh?
+SAM: she always tries to be proper.
+LILA: you going to wait here for me?
+SAM: i'm going with you. but we'd better decide what we're going to say and do when we walk in...
+LILA: we're going to register. as man and wife. and get shown to a cabin... and then search every inch of that place, inside and... outside.
+SAM: you won't believe it... but this will be the first time i've ever pulled one of those man- and-wife-renting-cabin capers!
+LILA: i believe it.
 
-speaker1: i wonder where norman bates does his hermiting? 
-speaker2: someone was at that window. i saw the curtain move.
-speaker1: come on.
-speaker1: just coming up to ring for you.
-speaker3: i suppose you want a cabin.
-speaker1: we'd hoped to make it straight to san francisco, but we don't like the look of that sky. looks like a bad day coming... doesn't it.
+SAM: i wonder where norman bates does his hermiting? 
+LILA: someone was at that window. i saw the curtain move.
+SAM: come on.
+SAM: just coming up to ring for you.
+NORMAN: i suppose you want a cabin.
+SAM: we'd hoped to make it straight to san francisco, but we don't like the look of that sky. looks like a bad day coming... doesn't it.
 
-speaker1: i'll take you to... 
-speaker2: better sign in first, hasn't we?
-speaker1: it isn't necessary.
-speaker1: i'll get your bags.
-speaker2: haven't any.
-speaker1: i'll show you the cabin.
-speaker2: first time i've seen it happen. check in any place in this country without bags, and you have to pay in advance.
-speaker1: ten dollars...
-speaker2: that receipt...?
-speaker3: i'll start ahead.
+NORMAN: i'll take you to... 
+SAM: better sign in first, hasn't we?
+NORMAN: it isn't necessary.
+NORMAN: i'll get your bags.
+SAM: haven't any.
+NORMAN: i'll show you the cabin.
+SAM: first time i've seen it happen. check in any place in this country without bags, and you have to pay in advance.
+NORMAN: ten dollars...
+SAM: that receipt...?
+LILA: i'll start ahead.
 
-speaker1: we should have asked for cabin one... the one mary was in. 
-speaker2: i'm glad we didn't.
-speaker1: we have to go into that cabin and search it, sam... no matter what we're afraid of finding and no matter how much it may hurt.
-speaker2: i know. do you think if something happened, it happened there?
-speaker1: sam, if you owned a useless business like this motel... one you probably couldn't even sell... what would you need to get away, to start a new business, somewhere else? forty thousand dollars?
-speaker2: how could we prove... well, if he opens a new motel on the new highway... say, a year from now...
-speaker1: there must be some proof that exists right now! something that proves he got that money away from mary... some way!
-speaker2: what makes you sound so certain?
-speaker1: arbogast! sam, he liked me... or felt sorry for me... and he was starting to feel the same about you. i heard it when he called... in his voice, a caring. he wouldn't have gone anywhere or done anything without telling us. unless he was stopped. and he was stopped, so he must have found out something!
-speaker2: we'll start with cabin one.
-speaker2: if he sees us... we're just taking the air.
-speaker2: bates?
+LILA: we should have asked for cabin one... the one mary was in. 
+SAM: i'm glad we didn't.
+LILA: we have to go into that cabin and search it, sam... no matter what we're afraid of finding and no matter how much it may hurt.
+SAM: i know. do you think if something happened, it happened there?
+LILA: sam, if you owned a useless business like this motel... one you probably couldn't even sell... what would you need to get away, to start a new business, somewhere else? forty thousand dollars?
+SAM: how could we prove... well, if he opens a new motel on the new highway... say, a year from now...
+LILA: there must be some proof that exists right now! something that proves he got that money away from mary... some way!
+SAM: what makes you sound so certain?
+LILA: arbogast! sam, he liked me... or felt sorry for me... and he was starting to feel the same about you. i heard it when he called... in his voice, a caring. he wouldn't have gone anywhere or done anything without telling us. unless he was stopped. and he was stopped, so he must have found out something!
+SAM: we'll start with cabin one.
+SAM: if he sees us... we're just taking the air.
+SAM: bates?
 
-speaker1: sorry. 
-speaker2: hospital clean.
-speaker1: what?
-speaker2: the bathroom. look at how clean it is. the one in our cabin is clean... but this is clean!
-speaker1: what is it?
-speaker2: it didn't get washed down. it's figuring... the kind you tear up and get rid of. some figure has been added to or subtracted from... forty thousand.
-speaker2: that's proof mary was here! it would be too wild a coincidence for somebody else to...
-speaker1: bates never denied mary was here.
-speaker2: yes. but maybe this proves that bates found out about the money.
-speaker1: do we simply ask him where he's hidden it?
-speaker2: sam, that old woman, whoever she is. i think she told arbogast something! and i want her to tell us the same thing!
-speaker1: you can't go up there.
-speaker2: why not?
-speaker1: bates.
-speaker3: let's find him. one of us can keep him occupied while the other gets to the woman.
-speaker4: you won't be able to hold him still if he doesn't want to be held. and i don't like you going into that house alone, lila.
-speaker3: i can handle a sick old woman.
-speaker4: all right. i'll find bates and keep him occupied.
+SAM: sorry. 
+LILA: hospital clean.
+SAM: what?
+LILA: the bathroom. look at how clean it is. the one in our cabin is clean... but this is clean!
+SAM: what is it?
+LILA: it didn't get washed down. it's figuring... the kind you tear up and get rid of. some figure has been added to or subtracted from... forty thousand.
+LILA: that's proof mary was here! it would be too wild a coincidence for somebody else to...
+SAM: bates never denied mary was here.
+LILA: yes. but maybe this proves that bates found out about the money.
+SAM: do we simply ask him where he's hidden it?
+LILA: sam, that old woman, whoever she is. i think she told arbogast something! and i want her to tell us the same thing!
+SAM: you can't go up there.
+LILA: why not?
+SAM: bates.
+LILA'S VOICE: let's find him. one of us can keep him occupied while the other gets to the woman.
+SAM'S VOICE: you won't be able to hold him still if he doesn't want to be held. and i don't like you going into that house alone, lila.
+LILA'S VOICE: i can handle a sick old woman.
+SAM'S VOICE: all right. i'll find bates and keep him occupied.
 
-speaker1: looking for me? 
-speaker2: yes, matter of fact. the wife's taking a nap and... i can never keep quiet enough for her... so i thought i'd look you up and... talk.
-speaker1: satisfied with your cabin?
-speaker2: fine.
+NORMAN: looking for me? 
+SAM: yes, matter of fact. the wife's taking a nap and... i can never keep quiet enough for her... so i thought i'd look you up and... talk.
+NORMAN: satisfied with your cabin?
+SAM: fine.
 
-speaker1: the old house standing against the sky. 
-speaker2: lila moves forward.
-speaker1: the camera approaching the house.
+LONG SHOT -: the old house standing against the sky. 
+CLOSE UP -: lila moves forward.
+LONG SHOT -: the camera approaching the house.
 
-speaker1: the camera mounts the steps to the porch. 
-speaker2: lila puts out her hand.
+S.L.S. -: the camera mounts the steps to the porch. 
+C.U. -: lila puts out her hand.
 
-speaker1: i've been doing all the talking so far, haven't i? 
-speaker2: yes.
-speaker1: i always thought it was the people who are alone so much who do all the talking when they get the chance. yet there you are, doing all the listening! you are alone here, aren't you? it would drive me crazy.
-speaker2: that would be a rather extreme reaction, wouldn't it?
-speaker1: just an expression... what i meant was... i'd do just about anything... to get away. wouldn't you?
+SAM: i've been doing all the talking so far, haven't i? 
+NORMAN: yes.
+SAM: i always thought it was the people who are alone so much who do all the talking when they get the chance. yet there you are, doing all the listening! you are alone here, aren't you? it would drive me crazy.
+NORMAN: that would be a rather extreme reaction, wouldn't it?
+SAM: just an expression... what i meant was... i'd do just about anything... to get away. wouldn't you?
 
-speaker1: i'm not saying you shouldn't be contented here, i'm just doubting that you are. i think if you saw a chance to get out from under... you'd unload this place... 
-speaker2: this place! this isn't 'a place.' it's my only world. i grew up in that house back there. i was a happy child. my mother and i... we were more than happy.
-speaker1: and now that your mother's dead? norman snaps a sharp, fast, ugly look at him.
-speaker2: my mother is not dead!
-speaker1: i didn't think so.
+SAM: i'm not saying you shouldn't be contented here, i'm just doubting that you are. i think if you saw a chance to get out from under... you'd unload this place... 
+NORMAN: this place! this isn't 'a place.' it's my only world. i grew up in that house back there. i was a happy child. my mother and i... we were more than happy.
+SAM: and now that your mother's dead? norman snaps a sharp, fast, ugly look at him.
+NORMAN: my mother is not dead!
+SAM: i didn't think so.
 
-speaker1: you look frightened. have i been saying something frightening? 
-speaker2: i don't know what you've been saying.
-speaker1: i've been talking about your mother... about your motel. how are you going to do it?
-speaker2: do what?
-speaker1: buy a new one! in a new town! where you won't have to hide your mother!
-speaker2: shut up!
-speaker1: where will you get the money to do that, bates... or do you already have it... socked away... a lot of it...
-speaker2: leave me alone!
-speaker1: ...forty thousand dollars!
-speaker2: leave me alone!
+SAM: you look frightened. have i been saying something frightening? 
+NORMAN: i don't know what you've been saying.
+SAM: i've been talking about your mother... about your motel. how are you going to do it?
+NORMAN: do what?
+SAM: buy a new one! in a new town! where you won't have to hide your mother!
+NORMAN: shut up!
+SAM: where will you get the money to do that, bates... or do you already have it... socked away... a lot of it...
+NORMAN: leave me alone!
+SAM: ...forty thousand dollars!
+NORMAN: leave me alone!
 
-speaker1: i bet your mother knows where the money is. and what you did to get it. and i think she'll tell us. 
-speaker2: where's that girl? the girl you came with! where is she?
-speaker2: oh,
+SAM: i bet your mother knows where the money is. and what you did to get it. and i think she'll tell us. 
+NORMAN: where's that girl? the girl you came with! where is she?
+NORMAN: oh,
 
-speaker1: you think they'll take him out that way? 
-speaker2: probably have to. besides, the taxpayers hate it when something gets slipped out the back door on them!
+TELEVISION MAN: you think they'll take him out that way? 
+POLICEMAN: probably have to. besides, the taxpayers hate it when something gets slipped out the back door on them!
 
-speaker1: it's regular. okay? 
-speaker2: you two can go on home if you like. making that statement was enough for one night.
-speaker1: want to?
-speaker3: no. i'm all right. i'll feel better when all this is explained... if it can be.
-speaker2: if anybody gets any answers, it'll be the fellow talking to him now... the psychiatrist. even i couldn't reach norman... and he knows me. you warm enough, miss?
+SAM: it's regular. okay? 
+CHAMBERS: you two can go on home if you like. making that statement was enough for one night.
+SAM: want to?
+LILA: no. i'm all right. i'll feel better when all this is explained... if it can be.
+CHAMBERS: if anybody gets any answers, it'll be the fellow talking to him now... the psychiatrist. even i couldn't reach norman... and he knows me. you warm enough, miss?
 
-speaker1: did he talk to you? 
-speaker2: no. i got the whole story... but not from norman. i got it from... his mother.
-speaker2: norman bates no longer exists. he only half-existed to begin with... now, the other half has taken over. probably for all time.
-speaker3: did he kill my sister?
-speaker2: yes... and no.
-speaker1: look, if you're trying to lay a lot of psychiatric groundwork for some sort of plea this fellow would like to cop...
-speaker2: a psychiatrist doesn't lay the groundwork .. he merely tries to explain it.
-speaker3: but my sister is...
-speaker2: yes. i'm sorry. the private investigator, too. if you drag that swamp somewhere in the vicinity of the motel... have you any unsolved missing persons cases on your books?
-speaker4: yes. two.
-speaker2: young girls?
-speaker4: did he confess to...
-speaker2: as i said, the mother... to understand it, as i understood it hearing it from the mother... that is, from the mother-half of norman's mind, you have to go back ten years... to the time when norman murdered his mother and her lover. he was already dangerously disturbed, had been ever since his father died. his mother was a clinging, demanding woman... and for years the two of them lived as if there was no one else in the world. then she met a man and it seemed to norman she "threw him over" for this man. that pushed him over the thin line... and he killed them both. matricide is probably the most unbearable crime of all... and most unbearable to the son who commit it. so he had to erase the crime, at least in his own mind. he stole her corpse... and a weighted coffin was buried. he hid the body in the fruit cellar, even "treated" it to keep it as well as it would keep. and that still wasn't enough. she was there, but she was a corpse. so he began to think and speak for her, gave her half his life, so to speak. at times he could be both personalities, carry on conversations... at other times, the mother-half took over completely. he was never all norman, but he was often only mother. and because he was so pathologically jealous of her, he assumed she was as jealous of him. therefore, if he felt a strong attraction to any other woman, the mother side of him would go wild. when norman met your sister, he was touched by her... and aroused by her. he wanted her. and this set off his "jealous mother" and... "mother killed the girl." after the murder, norman returned as if from a deep sleep... and like a dutiful son, covered up all traces of the crime he was convinced his mother had committed.
-speaker5: why was he... dressed like that?
-speaker1: he's a transvestite!
-speaker2: not exactly. a man who dresses in woman's clothing in order to achieve a sexual change... or satisfaction... is a transvestite. but in norman's case, he was simply doing everything possible to keep alive the illusion of his mother being alive. and whenever reality came too close, when danger or desire threatened that illusion, he'd dress up, even to a cheap wig he brought, and he'd walk about the house, sit in her chair, speak in her voice... he tried to be his mother. and now he is. that's what i meant when i said i got the story from the mother. she thinks norman has been taken away... because of his crimes. she insists she did nothing, that norman committed all the murders just to keep her from being discovered. she even smiled a bit coquettishly as she said that. of course, she feels badly about it... but also somewhat relieved to be, as she put it, free of norman, at last. when the mind houses two personalities, there is always a battle. in norman's case, the battle is over... and the dominant personality has won. lila begins to weep softly, for mary, for arbogast, for
-speaker6: and the forty thousand dollars? who got that?
-speaker2: the swamp. these were murders of passion, not profit.
-speaker7: he feels a little chill... can i bring him this blanket?
+DISTRICT ATTORNEY: did he talk to you? 
+SIMON: no. i got the whole story... but not from norman. i got it from... his mother.
+SIMON: norman bates no longer exists. he only half-existed to begin with... now, the other half has taken over. probably for all time.
+LILA: did he kill my sister?
+SIMON: yes... and no.
+DISTRICT ATTORNEY: look, if you're trying to lay a lot of psychiatric groundwork for some sort of plea this fellow would like to cop...
+SIMON: a psychiatrist doesn't lay the groundwork .. he merely tries to explain it.
+LILA: but my sister is...
+SIMON: yes. i'm sorry. the private investigator, too. if you drag that swamp somewhere in the vicinity of the motel... have you any unsolved missing persons cases on your books?
+CHIEF OF POLICE: yes. two.
+SIMON: young girls?
+CHIEF OF POLICE: did he confess to...
+SIMON: as i said, the mother... to understand it, as i understood it hearing it from the mother... that is, from the mother-half of norman's mind, you have to go back ten years... to the time when norman murdered his mother and her lover. he was already dangerously disturbed, had been ever since his father died. his mother was a clinging, demanding woman... and for years the two of them lived as if there was no one else in the world. then she met a man and it seemed to norman she "threw him over" for this man. that pushed him over the thin line... and he killed them both. matricide is probably the most unbearable crime of all... and most unbearable to the son who commit it. so he had to erase the crime, at least in his own mind. he stole her corpse... and a weighted coffin was buried. he hid the body in the fruit cellar, even "treated" it to keep it as well as it would keep. and that still wasn't enough. she was there, but she was a corpse. so he began to think and speak for her, gave her half his life, so to speak. at times he could be both personalities, carry on conversations... at other times, the mother-half took over completely. he was never all norman, but he was often only mother. and because he was so pathologically jealous of her, he assumed she was as jealous of him. therefore, if he felt a strong attraction to any other woman, the mother side of him would go wild. when norman met your sister, he was touched by her... and aroused by her. he wanted her. and this set off his "jealous mother" and... "mother killed the girl." after the murder, norman returned as if from a deep sleep... and like a dutiful son, covered up all traces of the crime he was convinced his mother had committed.
+SAM: why was he... dressed like that?
+DISTRICT ATTORNEY: he's a transvestite!
+SIMON: not exactly. a man who dresses in woman's clothing in order to achieve a sexual change... or satisfaction... is a transvestite. but in norman's case, he was simply doing everything possible to keep alive the illusion of his mother being alive. and whenever reality came too close, when danger or desire threatened that illusion, he'd dress up, even to a cheap wig he brought, and he'd walk about the house, sit in her chair, speak in her voice... he tried to be his mother. and now he is. that's what i meant when i said i got the story from the mother. she thinks norman has been taken away... because of his crimes. she insists she did nothing, that norman committed all the murders just to keep her from being discovered. she even smiled a bit coquettishly as she said that. of course, she feels badly about it... but also somewhat relieved to be, as she put it, free of norman, at last. when the mind houses two personalities, there is always a battle. in norman's case, the battle is over... and the dominant personality has won. lila begins to weep softly, for mary, for arbogast, for
+CHAMBERS: and the forty thousand dollars? who got that?
+SIMON: the swamp. these were murders of passion, not profit.
+POLICE GUARD: he feels a little chill... can i bring him this blanket?
 
-speaker1: it's sad... when a mother has to speak the words that condemn her own son... but i couldn't allow them to believe that i would commit murder. they'll put him away now... as i should have... years ago. he was always... bad. and in the end, he intended to tell them i killed those girls... and that man. as if i could do anything except just sit and stare... like one of his stuffed birds. well, they know i can't even move a finger. and i won't. i'll just sit here and be quiet. just in case they do... suspect me. 
-speaker1: they're probably watching me. well, let them. let them see what kind of a person i am. i'm not going to swat that fly. i hope they are watching. they'll see... they'll see... and they'll know... and they'll say... 'why, she wouldn't even harm a fly...' norman continues to gaze ahead into nothing.
+MOTHER'S VOICE: it's sad... when a mother has to speak the words that condemn her own son... but i couldn't allow them to believe that i would commit murder. they'll put him away now... as i should have... years ago. he was always... bad. and in the end, he intended to tell them i killed those girls... and that man. as if i could do anything except just sit and stare... like one of his stuffed birds. well, they know i can't even move a finger. and i won't. i'll just sit here and be quiet. just in case they do... suspect me. 
+MOTHER'S VOICE: they're probably watching me. well, let them. let them see what kind of a person i am. i'm not going to swat that fly. i hope they are watching. they'll see... they'll see... and they'll know... and they'll say... 'why, she wouldn't even harm a fly...' norman continues to gaze ahead into nothing.
 

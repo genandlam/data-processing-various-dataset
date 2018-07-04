@@ -1,807 +1,807 @@
-speaker1: there he is -- there, to the south! 
-speaker2: what are ye, blind? that's a bird.
-
-speaker1: repelling the crystalline trench... rafting down lava flows... orbital skydiving. it's like the man is running a decathlon across the galaxy. 
-speaker2: that should be him now. i think he's just crossed the sound barrier.
-
-speaker1: right on target! i jump out over the arabian peninsula... and i end up here, right on the dime. 
-speaker2: actually, captain, your precise target area was thirty-five meters... that way.
-
-speaker1: thanks for pointing that out. 
-speaker1: oh...
-speaker2: i've warned ye about that back of yours. you should have a doctor take a look at it.
-
-speaker1: tomorrow i want to make a tri- elliptical jump. that's where you jump out over northern china, and make three complete orbits before you start re-entry... 
-speaker2: captain. perhaps you have forgotten that tomorrow is the christening ceremony.
-speaker1: i'm not going. scotty, help me with this chute.
-speaker3: what do you mean, you're not going? we promised.
-speaker1: when i retired, i swore i'd never set foot on a starship again, and i meant it.
-speaker2: captain...
-speaker1: i don't want to hear anymore about it. i'm not going, and that's final.
-
-speaker1: captain kirk, how does it feel to be back on the enterprise bridge... captain, can i have a minute... captain scott, do you have any comment on... commander chekov... etc. 
-speaker2: excuse me, excuse me...there will be plenty of time for questions later...
-speaker2: i'm captain john harriman. i'd like to welcome you all aboard.
-speaker3: it's our pleasure.
-speaker2: i just want you to know how excited we all are to have a group of living legends with us on our maiden voyage. i remember reading about your missions when i was in grade school.
-
-speaker1: well... may we have a look around? 
-speaker2: please... please.
-speaker3: demora!
-speaker4: so, captain... this is the first starship enterprise in thirty years without james t. kirk in command. how do you feel about that? the journalist has unknowingly touched a nerve. kirk's eyes flash for a moment -- the longer he's on this bridge, the more he realizes he doesn't feel good about it at all. he tries to shrug it off with a smile.
-
-speaker1: just fine. i'm glad to be here to send her on her way... 
-speaker2: what have you been doing since you retired?
-speaker1: i've been... keeping busy.
-speaker3: excuse me, captain. i'd like you to meet the helmsman of the enterprise-b. ensign demora sulu -- captain james kirk.
-speaker4: it's a pleasure to meet you, sir. my father's told me some... interesting stories about you.
-speaker1: your father... hikaru sulu is your father?
-speaker4: yes, sir.
-speaker3: you met her once before, but she was...
-speaker1: but that wasn't so long ago... it couldn't have been more than...
-speaker3: twelve years, sir.
-speaker1: yes... well... congratulations, ensign. it wouldn't be the enterprise without a sulu at the helm.
-speaker4: thank you, sir.
-speaker1: you know, scotty... it amazes me.
-speaker5: and what would that be, sir?
-speaker1: sulu. when did he find the time for a family?
-speaker5: it's like you always said -- if something's important enough, you make the time.
-speaker5: so... that's why you've been running around the galaxy like an eighteen-year-old. finding retirement a little lonely, are we?
-speaker1: with that kind of tact, i'm glad you're an engineer and not a psychiatrist.
-speaker6: excuse me, gentlemen... if you'll take your seats.
-speaker1: oh... of course.
-
-speaker1: prepare to leave spacedock. aft thrusters ahead one quarter, port and starboard at station keeping. captain kirk, i'd be honored if you would give the order to get underway. 
-speaker2: no... no. thank you.
-speaker1: please, i insist.
-speaker2: take us out.
-speaker3: very good, sir.
-speaker4: brought a tear to my eye.
-
-speaker1: well... we've just cleared the asteroid belt. our course will take us out beyond pluto and then back to spacedock. just a quick run around the block. if we have time, we'll conduct a few tests of the warp -- 
-speaker2: we're picking up a distress call, captain.
-speaker1: on speakers.
-speaker3: this is the transport ship lakul. we're caught in some kind of energy distortion. we can't break free... need immediate help... it' tearing us -- the voice is drowned out by static. the science officer checks something on his console. the journalist with the holo-camera turns on his light and pans it around to capture the action.
-speaker4: the lakul is one of two ships transporting el-aurian refugees to earth.
-speaker1: can you locate them?
-speaker5: the ships are bearing at three one zero mark two one five. distance: three light years.
-speaker1: signal the closest starship. we're in no condition to mount a rescue... we don't even have a full crew aboard.
-speaker6: we're the only one in range, sir.
-speaker1: well, then... i guess it's up to us. helm, lay in an intercept course and engage at maximum warp.
-speaker7: is there something wrong with your chair, captain?
-
-speaker1: we're within visual range of the energy distortion, captain. 
-speaker2: on screen.
-
-speaker1: what the is that? 
-speaker2: i've found the transport ships.
-
-speaker1: their hulls are starting to buckle under the stress -- they won't survive much longer. the ship suddenly shakes. the navigator works his console. 
-speaker2: we're encountering severe gravimetric distortions from the energy ribbon.
-speaker3: we'll have to keep our distance... we don't want to get pulled in too...
-speaker4: tractor beam...
-speaker3: we don't have a tractor beam.
-speaker4: you left spacedock without a tractor beam?
-speaker3: it won't be installed until tuesday. ensign sulu... try generating a subspace field around the ships. that might break them free.
-speaker1: aye, sir.
-speaker1: there's too much quantum interference, captain.
-speaker3: what about... venting plasma from the warp nacelles? that might disrupt the ribbon's hold on the ships.
-speaker2: aye, sir.. releasing drive plasma...
-speaker2: it's not having any effect, sir. i think --
-
-speaker1: how many people were aboard that ship? 
-speaker2: two hundred sixty-five.
-speaker3: captain kirk... i would appreciate any... suggestions you might have.
-speaker4: first -- move us within transporter range and beam those people to the enterprise.
-speaker3: what about the gravimetric distortions? they'll tear us apart...
-speaker4: risk is part of the game if you want to sit in that chair. kirk gives him a supportive look. harriman buckles down and grimly looks at the image on the screen.
-speaker3: helm, close to within transporter range.
-speaker4: and second -- turn that thing off.
-
-speaker1: we're within range, sir. 
-speaker2: beam them directly to sickbay.
-speaker3: how big's your medical staff?
-speaker2: the medical staff... doesn't arrive until tuesday.
-speaker3: you and you. you've just become nurses. let's go.
-
-speaker1: main engineering reports fluctuations in the warp plasma relays. 
-speaker2: by-pass the relays and go to auxiliary systems.
-speaker3: sir, i'm having trouble locking onto them. they appear to be... in some sort of... temporal flux.
-speaker4: scotty?
-speaker2: what the hell...
-speaker2: their life signs are... are phasing in and out of our space-time continuum.
-speaker4: phasing? to where?
-speaker5: sir! their hull's collapsing!
-speaker2: i got forty-seven of them... ... out of one hundred fifty.
-speaker4: report!
-speaker1: we're caught in a gravimetric field emanating from the trailing edge of the ribbon.
-speaker6: all engines, full reverse!
-
-speaker1: the colors are touching me... i'm caught in the glass... help me... i can see the seconds... over here... etc 
-speaker2: it will be all right. we're going to take care of you.
-speaker3: why...why?
-speaker4: it's all right... you're safe...
-speaker3: no... i have to go... i have to get back... you don't understand! let me go!
-speaker4: what was he talking about?
-speaker2: easy there...
-speaker2: it's going to be okay. here, just lie down.
-speaker5: inertial dampers failing.
-speaker6: engines not responding!
-speaker7: i didn't expect to die my first day on the job.
-speaker8: the first thing you learn as captain is how to cheat death. scotty?
-speaker6: there's just no way to disrupt a gravimetric field of this magnitude!
-speaker5: hull integrity failing.
-speaker6: but i do have a theory...
-speaker8: i thought you might.
-speaker6: an anti-matter discharge directly ahead... it might disrupt the field long enough for us to break away.
-speaker8: a photon torpedo?
-speaker6: aye.
-speaker8: load torpedo bays, prepare to fire on my command.
-speaker5: captain... we don't have any torpedoes.
-speaker8: don't tell me... tuesday.
-speaker6: captain, it may be possible to simulate a torpedo blast using a resonance burst from the main deflector dish.
-speaker8: where are the deflector relays?
-speaker5: deck fifteen, section twenty-one alpha
-speaker8: no... a captain's place is on the bridge of his ship. i'll take care of it.
-speaker8: keep her together until i get back.
-speaker6: i always do.
-
-speaker1: forty-five seconds to structural collapse! 
-speaker2: bridge to captain kirk.
-
-speaker1: kirk here. 
-speaker2: captain, i don't know how much longer i can hold her together!
-speaker1: that's it. go!
-speaker3: activate main deflector.
-
-speaker1: we're clear. 
-speaker1: everyone reacts with relief.
-speaker2: you did it, kirk! damage report, ensign.
-speaker1: there's some buckling on the starboard nacelle... we've also got a hull breach in the engineering section. emergency forcefields are in place and holding.
-speaker3: where?
-speaker1: sections twenty through twenty- eight on decks thirteen... fourteen... ... and fifteen.
-speaker3: bridge to captain kirk. captain kirk, please respond.
-speaker3: have chekov meet me on deck fifteen.
-
-speaker1: my was anyone in there? 
-speaker2: aye.
-
-speaker1: i've checked the entire ship and the surrounding space. there's no sign of him. 
-speaker2: just a quick... run around the block.
-speaker3: i never thought it would end like this...
-speaker2: all things must end, mr. chekov.
-speaker4: let's go home.
-
-speaker1: mister worf... i always knew this day would come. are you prepared to face the charges? 
-speaker2: answer him!
-speaker3: i am prepared.
-speaker4: "we, the officers and crew of the u.s.s. enterprise, being of sound mind and judgment, hereby make the following charges against lieutenant worf: one. that he did knowingly and willfully perform above and beyond the call of duty on countless occasions. two. that he has been a good and solid officer on this ship for one score less twelve years. and three. most seriously... that he has earned the respect and admiration of the entire crew." riker puts away the scroll
-speaker1: there can be only one punishment for such crimes... i hereby promote you to the rank of lieutenant commander, with all the rights and privileges thereto. and may have mercy on your soul.
-speaker1: congratulations, commander.
-speaker3: thank you, sir.
-speaker4: extend the plank!!
-speaker5: into the sea with him... feed him to the sharks... walk the plank... etc.
-speaker1: don't you think you're taking this a little too far, number one?
-speaker4: when we went to ancient rome for deanna's promotion, we threw her to the lions, remember?
-
-speaker1: i can't swim. 
-speaker2: the holodeck safety program is engaged... the computer won't let you drown.
-speaker3: but the sharks are quite convincing.
-speaker4: doctor, i must confess i am uncertain as to why pushing someone into freezing, shark- infested water is amusing.
-
-speaker1: it's all done in good fun, data. get in the spirit of things. 
-speaker2: ah.
-speaker1: data...data -- !
-speaker3: data. that wasn't funny.
-
-speaker1: well, now that we're all aboard... number one, bring the ship before the wind. let's see what's out there. 
-speaker2: aye, aye, sir. take the wheel, commander.
-
-speaker1: imagine what it was like, will. no engines... no computers... just the wind, the sea and the stars to guide you. 
-speaker2: bad food, brutal discipline... no women.
-speaker3: bridge to captain picard.
-speaker1: picard here.
-speaker3: there is a personal message for you from earth.
-speaker1: put it through down here. but the best thing about a life at sea was that they couldn't get to you.
-speaker1: computer, arch.
-
-speaker1: captain, are you all right? 
-speaker2: yes. fine. if you'll excuse me...
-speaker2: computer, exit.
-
-speaker1: set the royals and the studding sails, mister worf. 
-speaker2: the royal... studs...?
-speaker1: you see the top yardarm, now look to the -- suddenly a com voice interrupts.
-speaker3: bridge to commander riker.
-speaker1: riker here.
-speaker3: we're picking up a distress call from the amargosa observatory, sir. they say they're under attack.
-speaker1: red alert! all hands to battle stations! captain picard to the bridge. everyone on the ship reacts, and there is a general rush to the bow of the ship...
-
-speaker1: it looks like we're too late... 
-speaker2: there are no other ships in the system.
-speaker3: sensors show five life signs aboard the station, captain.
-speaker1: the station complement was nineteen.
-speaker4: secure from red alert. number one, begin an investigation. i'll be in my ready room.
-speaker1: sir?
-speaker4: make it so.
-
-speaker1: these blast patterns are consistent with type-three disruptors. 
-speaker2: well, that narrows it to klingon, breen or romulan.
-speaker3: i'm picking up life signs... about twenty meters ahead.
-speaker1: that rules out klingons.
-speaker1: they would not have left anyone alive.
-speaker3: over here.
-speaker2: worf, you're with me. paskall, you and mendez search the upper deck.
-speaker1: under here...
-speaker1: it's all right... do not struggle.
-
-speaker1: i'm commander william riker of the starship enterprise. 
-speaker2: soran... doctor tolian soran...
-speaker1: who attacked you, doctor?
-speaker2: i'm not sure... it happened so fast...
-speaker3: commander -- you'd better take a look at this. riker and worf move to the ladder as beverly begins to scan soran...
-
-speaker1: is she still angry? 
-speaker2: no... but i'd stay out of sickbay for a while if i were you. i still don't know why you dropped her in the water.
-speaker1: i was attempting to... get in the spirit of things. i thought it would be humorous.
-speaker2: data... you're not thinking about using that thing are you?
-speaker1: it has occurred to me on several occasions. but i believe this may be the appropriate time.
-speaker2: wait a minute. i thought you've always been afraid it would overload your neural net.
-speaker1: that is true. however, i believe my growth as an artificial life form has reached an impasse. for thirty-four years i have endeavored to become more "human" - to grow beyond my original programming. and yet i am still unable to grasp such a simple concept as humor. this emotion chip is the only answer.
-speaker2: all right...
-speaker2: but at the first sign of trouble, i'm going to deactivate it. agreed?
-speaker1: agreed.
-
-speaker1: we found two dead romulans aboard the station. we're analyzing their equipment to see if we can determine what ship they came from. 
-speaker2: there's still no indication of why they attacked the station?
-speaker1: we think they were looking for something -- they practically tore the place apart.
-speaker2: hmm... inform starfleet command. this could indicate a new romulan threat in this sector.
-speaker1: you want me to contact starfleet?
-speaker2: is there a problem?
-speaker1: no, sir.
-speaker2: thank you, number one.
-speaker1: there is something else, captain. one of the scientists. a doctor soran... has insisted on speaking with you. i told him you were busy, sir, but he said it was absolutely imperative that he speak with you right away.
-speaker2: understood. that will be all.
-speaker1: sir... is there anything wrong?
-speaker2: no. thank you.
-
-speaker1: you two just volunteered to be my first victims. this is a new concoction i picked up on forcas three. trust me, you're going to love it. 
-speaker2: well...?
-speaker3: i believe the beverage has provoked an emotional response.
-speaker2: really? what do you feel?
-speaker3: i am uncertain. i have had little experience with emotions... i am unable to articulate the sensation.
-speaker1: emotions?
-speaker2: i'll explain later...
-speaker1: i don't think he likes it.
-speaker3: yes. that is it. i hate it.
-speaker2: data, i think the chip is working...
-speaker3: yes. i hate this! it is revolting!
-speaker1: another round?
-speaker3: please. in the b.g., we see picard enter ten forward.
-
-speaker1: doctor soran...? 
-speaker2: yes, yes, captain -- thank you for coming.
-speaker1: nothing for me. i understand there's something urgent you need to discuss with me.
-speaker2: yes. i need to return to the observatory immediately. i must continue a critical experiment i was running on the amargosa star.
-
-speaker1: doctor... we're still conducting an investigation into the attack. once we've completed our work, we'll be happy to allow you and your fellow scientists back aboard the observatory. until then -- 
-speaker2: the timing is very important on my experiment -- if it is not completed within the next twelve hours, years of research will be lost.
-speaker1: we're doing the best we can. now if you'll excuse me...
-speaker2: they say time is the fire in which we burn... and right now, captain, my time is running out. we leave so many things unfinished in our lives -- i'm sure you can understand. for some reason, soran's words have struck a deep chord within picard. he looks away from soran's compelling gaze and thinks for a long moment. when he finally speaks, his voice is barely above a whisper.
-
-speaker1: one of the dead romulans had a tricorder. we analyzed its sensor logs and found they were scanning for signature particles of a compound called trilithium. 
-speaker2: trilithium?
-speaker1: an experimental compound the romulans have been working on. in theory, a trilithium-based explosive would be thousands of times more powerful than an anti-matter weapon. but they never found a way to stabilize it.
-
-speaker1: why were they looking for it on a federation observatory? it doesn't make any sense. 
-speaker1: have geordi and data go over with the next away team... tell them to scan the observatory for trilithium.
-speaker2: aye, sir.
-
-speaker1: i get it. i get it. 
-speaker2: you get what?
-speaker1: when you said to commander riker... "the clown can stay, but the ferengi in the gorilla suit has to go." geordi looks blankly at him for a moment.
-speaker2: what?
-speaker1: during the farpoint mission. we were on the bridge and you told a joke. that was the punch line.
-speaker2: the farpoint mission? data, that was seven years ago.
-speaker1: i know. i just got it. it was very funny.
-speaker2: thanks.
-
-speaker1: wait a minute... there's a hidden doorway here. i can see the joint of the metal with my visor. 
-speaker2: there appears to be a dampening field in operation. i cannot scan beyond the bulkhead. geordi puts his tricorder away and begins looking for a way to open the door.
-speaker1: i don't see a control panel...or an access port.
-speaker2: it appears to be a magnetically sealed. data steps forward and opens a small panel on wrist and makes a quick adjustment to the circuitry within.
-speaker2: i believe i can reverse the polarity by attenuating my axial servo.
-speaker2: "open sesame."
-
-speaker1: i'm still not picking up anything. someone went to a lot of trouble to shield this room. 
-speaker1: data, take a look at this. you ever seen a solar probe with this kind of configuration?
-speaker2: no, geordi. i have not. it is most unusual.
-
-speaker1: just help me get this panel open. 
-speaker1: whoa. my visor's picking up something in the theta band...it could be a trilithium signature.
-speaker1: data, this isn't the time...
-speaker2: i am sorry... but i cannot stop myself... i think something is wrong...
-
-speaker1: data! 
-speaker1: data, are you all right?
-speaker2: i believe the emotional chip has overloaded my positronic relays.
-speaker1: we better get you back to the ship. la forge to enterprise.
-speaker3: is there a problem, gentlemen?
-
-speaker1: oh... doctor... yeah, as a matter of fact, there is. there's a damping field in here blocking our com signal. will you give me a hand? 
-speaker2: i'd be happy to.
-speaker3: please don't hurt me.
-
-speaker1: tea. earl grey. hot. 
-speaker1: come.
-speaker1: counselor. what can i do for you?
-speaker2: actually... i'm here to see if there's anything i can do for you.
-speaker1: well... i appreciate your concern, but i'd rather not discuss it right now, thank you.
-speaker1: but troi won't be brushed away so easily.
-speaker2: i'm afraid i can't just leave it at that. the commanding officer of this ship is clearly distraught about something. as ship's counselor, it's my duty to --
-speaker1: as ship's counselor, it's your duty to know not only when you're needed... but also when you're not.
-speaker2: you can't fool an empath, captain. i know exactly when i'm needed.
-speaker1: well, with all due respect to your betazoid senses, i prefer to be alone right now.
-speaker2: very well. i suppose i could make out my weekly report to starfleet command without your input. "admiral lusby... regarding the unusual behavior of jean-luc picard: i find him increasingly irritable... remote... and uncooperative. i recommend forced shore leave at a starbase facility in order to --"
-speaker1: all right, all right. you've made your point.
-speaker1: the message i received... my brother... and his son -- my nephew -- burned to death in a fire.
-
-speaker1: captain, i'm sorry. i know there were a lot of unresolved conflicts between you and your brother. 
-speaker2: what i can't get out of my mind is the image of rene -- my nephew. i just can't believe he's gone...
-speaker1: it's only natural to feel a heightened sense of tragedy when a child dies... but it goes deeper than that, doesn't it? i can sense that rene meant a great deal to you.
-speaker2: in a way, he was as close as i ever came to having a child of my own.
-speaker1: your family history is very important to you, isn't it?
-speaker2: ever since i was a little boy, i remember hearing about the family line. the picards that fought at trafalgar... the picard's that settled the first martian colony. when my brother married and had a son...
-speaker1: ... you felt it was no longer your responsibility to carry on the family line.
-speaker2: my brother had shouldered that burden... allowing me to pursue my own selfish needs...
-speaker1: there's nothing selfish about pursuing your own life... your own career.
-speaker2: you know, counselor... i'm not getting any younger. for some time now, i've been aware that there are fewer days ahead than there are behind... but i always took comfort in the fact that when i was gone, my family would continue. but now...
-speaker2: i've had brushes with death... more than i care to contemplate. i always accepted it as a calculated risk that goes along with wearing this uniform. but now... the idea of death has a terrible sense of finality to it.
-speaker2: i'm the last picard.
-speaker1: captain, perhaps we --
-speaker3: red alert! all hands to duty stations!
-
-speaker1: report. 
-speaker2: a quantum implosion has occurred within the amargosa star. all nuclear fusion is breaking down.
-speaker1: how is that possible?
-speaker3: sensor records show a solar probe was launched from the observatory a few moments ago.
-speaker2: the star's going to collapse in a matter of minutes.
-speaker3: sir, the implosion has produced a level twelve shock wave.
-speaker4: level twelve? that'll destroy everything in this system.
-speaker5: transporter room to bridge. i can't locate commander la forge or mister data, sir.
-speaker2: did they return to the ship?
-speaker3: no, sir. they are not aboard.
-speaker1: how long until the shock wave hits the observatory?
-speaker3: four minutes, forty seconds.
-speaker2: mister worf.
-
-speaker1: what the hell's he doing? 
-speaker2: enterprise to commander riker, you have two minutes left.
-speaker1: soran, did you hear that? there's a level twelve shock wave coming. we've got to get out of here!
-
-speaker1: sir. a klingon bird of prey is decloaking off the port bow. 
-speaker2: what?
-
-speaker1: data! see if you can get to geordi! 
-speaker2: i... cannot, sir. i believe i am... afraid.
-speaker3: transporter room to bridge. i have the away team aboard, sir.
-
-speaker1: toh-pak-cha... 
-speaker2: hos qordu...
-speaker1: you've done it, soran.
-speaker1: wait!
-speaker1: i hope for your sake that you are initiating a mating ritual.
-
-speaker1: you got careless. the romulans came looking for their missing trilithium. 
-speaker2: impossible. we left no survivors on their outpost. b'etor has now gotten to her feet in the b.g.
-speaker1: they knew it was aboard the observatory. if the enterprise hadn't intervened, they would have found it.
-speaker3: but they didn't find it... and now we have a weapon of unlimited power.
-speaker1: i have the weapon, lursa. and if you ever want me to give it to you, i advise you to be a little more careful in the future.
-speaker2: perhaps we are tired of waiting.
-speaker1: without my research... the trilithium is worthless... as are your plans to reconquer the klingon empire.
-speaker1: set course for the veridian system. maximum warp.
-speaker3: bosh-ta-jah veridian
-speaker4: what shall i do with this?
-
-speaker1: i have spoken to the klingon high council, sir. they identified the bird of prey as belonging to the duras sisters. 
-speaker2: lursa and b'etor...? this doesn't make any sense. a renowned stellar physicist somehow uses a trilithium probe to destroy a star, kidnaps geordi... and escapes with a pair of klingon renegades... why? what the hell's going on?
-
-speaker1: how is he? 
-speaker2: it looks like a power surge fused the emotional chip into his neural net.
-speaker3: will that be a danger to him?
-speaker2: i don't think so. the chip still seems to be working. i'd feel better if i could take a closer look, but i can't remove it without completely dismantling his cerebral conduit.
-speaker1: looks like you're stuck with emotions for a while. how do you feel?
-speaker4: i am quite... preoccupied with concern about geordi.
-speaker1: we all are, data. but we're going to get him back.
-speaker4: i hope so, sir.
-speaker2: wil, i checked into doctor soran's background.
-speaker2: he's an el-aurian... over three hundred years old. he lost his entire family when the borg destroyed his world. soran escaped with a handful of other refugees aboard a ship called the lakul. the ship was destroyed by some kind of energy ribbon, but soran and forty-six others were rescued by the enterprise-b.
-speaker1: that was the mission where james kirk was killed.
-speaker2: i checked the passenger manifest of the lakul... guess who else was on board?
-
-speaker1: soran? that's a name i haven't heard in a long time. 
-speaker2: do you remember him?
-speaker1: oh yes. i remember everyone who was on the lakul... every face. even the ones who didn't make it...
-speaker2: guinan. it's important that you tell me what you know. we think soran's developed a weapon... a terrible weapon. it might give him enough power to --
-speaker1: soran doesn't care about power or weapons. all he cares about is getting back to the nexus.
-speaker2: what's the "nexus"?
-speaker1: it's a place i've tried very hard to forget...
-speaker1: that ribbon isn't just some random energy phenomenon traveling through space... it's a doorway. it leads to another place... the nexus. it doesn't exist in our universe... and it doesn't play by the same rules either.
-speaker2: what happened to you?
-speaker1: i can't remember very much... what it looked like or how long i was there... but i do remember how it felt...
-speaker1: it was like being inside... joy. as if joy was a real thing that i could wrap around myself. i've never been so content...
-speaker2: but then you were beamed away...
-speaker1: i was pulled away. i didn't want to leave; none of us did. i felt like i'd left a part of myself behind. all i could think about was getting back... i didn't care what i had to do.
-speaker1: it took a long time, but eventually i learned to live with it. and i began to realize that my experience in the nexus had changed me... i knew things about people...
-speaker2: your "sixth sense"... i've always wondered where it came from... and what about soran?
-speaker1: soran may still be obsessed with getting back. and if he is, he'll do anything to find that doorway again.
-speaker2: but why destroy a star...? thank you, guinan.
-speaker1: let someone else do it, jean-luc.
-speaker1: let them send another starship. don't get near the ribbon. if you go into that nexus, you're not going to care about soran or the enterprise or me. all you're going to care about is how it feels to be there. and you're never going to come back.
-
-speaker1: a remarkable piece of equipment... but a little inelegant, wouldn't you say? have you ever considered a prosthesis that would make you look a little more... normal? 
-speaker2: what's normal?
-speaker1: normal is what everyone else is...
-speaker2: what do you want?
-speaker1: as you may or may not be aware, i am an el-aurian. some people call us a race of "listeners". we listen. right now, mr. la forge, you have my undivided attention. i want to listen to everything you know about trilithium. and me.
-speaker2: trilithium is an experimental compound developed by the romulans. i think it's a derivative of --
-speaker1: i don't want a science lecture. you were on that observatory looking for trilithium... why?
-speaker2: i was ordered to by the captain.
-speaker1: let's try to move beyond the usual prisoner-interrogator banter, shall we? you have information, and i need it. did the captain explain his orders to you? did he say why you were searching for trilithium?
-speaker2: no.
-speaker1: what about... guinan? what has she told you about me?
-speaker2: guinan? i don't know what you're talking about...
-speaker1: my instincts tell me you're lying. and i know that can't be easy for you... i can see you have a good heart.
-speaker1: oh... i forgot to tell you. while you were unconscious, i injected a nano-probe into your bloodstream. it's been navigating your cardiovascular system... and right now i've attached it to your left ventricle. a little trick i picked up from the borg.
-speaker2: yeah... they're full of great ideas.
-speaker1: i just stopped your heart for five seconds. it felt like an eternity, didn't it? did you know that you can stop the human heart for up to ten minutes before the onset of brain damage?
-speaker2: no... i didn't know that...
-speaker1: we learn something new about ourselves every day. now. maybe i didn't make myself clear. it is very important that you tell me exactly what captain picard knows.
-speaker2: i told you everything... you might as well just kill me right now...
-speaker1: i'm not a killer, mr. la forge. let's try thirty seconds.
-
-speaker1: according to our information, the ribbon is a conflux of temporal energy which travels through our galaxy every thirty-nine point one years 
-speaker2: when is it expected back?
-speaker2: data?
-speaker1: sorry, captain. the ribbon has already entered the galaxy. it will pass through this sector in approximately thirty-one hours.
-speaker2: guinan said soran was trying to get back to the ribbon... if that's true, then there must be some connection with the amargosa star.
-speaker1: the star's destruction has had numerous astro-physical effects within this sector. however, none of them appear to have a connection to the energy ribbon.
-speaker2: give me a list of those effects. i want to know every single thing which has been altered or changed... no matter how insignificant...
-speaker1: it will take a few moments for the computer to compile the information.
-speaker2: data, are you all right?
-speaker1: no, sir. i am finding it difficult to concentrate... i believe i am overwhelmed with feelings of... remorse and regret concerning my actions on the observatory.
-speaker2: what do you mean?
-speaker1: i wanted to save geordi... i tried. but i experienced something i did not expect. i believe it was fear.
-speaker2: fear is a very difficult emotion to overcome. it's something we all have to learn to deal with.
-speaker1: but i did not deal with it, sir. i let it prevent me from helping my friend. does that make me a coward?
-speaker2: no. and what you must try to avoid is becoming consumed by another emotion which i believe you're beginning to experience...
-speaker1: guilt. it is a most unpleasant feeling.
-
-speaker1: according to our current information, the destruction of the amargosa star has had the following effects in this sector: gamma emissions have increased by five percent... the starship bozeman was forced to make a course correction... a research project on gorik four was halted due to increased neutrino particles... ambient magnetic fields have decreased by -- 
-speaker2: wait. the bozeman... why did it change course?
-speaker1: the destruction of the amargosa star has altered the gravitational forces throughout the sector. any ship passing through this region will have to make a minor course correction. picard is starting to get an idea... he's onto something here. he moves to a large table in the center of the room.
-speaker2: a minor course correction... where is the ribbon now?
-
-speaker1: this is its current position. 
-speaker2: can you project its course?
-speaker2: data. i have nothing but sympathy for what you're going through. but right now, i need your full attention on the task at hand. if you can't provide it... then i'll have to relieve you of duty until doctor crusher can remove this. emotion chip of yours. i'm sorry, but you leave me no other choice. this snaps data back... he considers this for a long moment, then looks determined.
-speaker1: i do not wish to remove the chip, sir. although these emotions are proving difficult to deal with... i cannot imagine going back to a life without them. i have taken an important step toward becoming truly human. if i were to turn back now... i would like to continue in my duties, sir.
-speaker2: courage is an emotion too, data. now... can you project the course of the ribbon?
-speaker1: i believe so.
-
-speaker1: enhance grid a-nine. 
-speaker1: where was the amargosa star?
-speaker1: now... you said the gravitational forces in this sector have been altered... could that also affect the course of the ribbon?
-speaker2: i believe so.
-
-speaker1: that's what soran's doing... he's changing its course. but why? why try to alter its path... why not simply fly into it with a ship? 
-speaker2: our records show that every ship which has approached the ribbon has either been destroyed or severely damaged.
-speaker1: he can't go to the ribbon... so he's trying to make the ribbon come to him. data, is it going to pass near any m-class planets?
-speaker2: yes, sir. there are two in the veridian system.
-
-speaker1: it's very close to veridian three... but not close enough... 
-speaker1: data, what would happen to the ribbon's path if he destroyed the veridian star itself?
-
-speaker1: that's where he's going. 
-speaker2: it should be noted, sir, that the collapse of the veridian star would produce a shock wave similar to the one we observed at amargosa.
-speaker1: and destroy every planet in the system.
-speaker1: are any of them inhabited?
-speaker2: veridian three is uninhabited. but veridian four supports a pre- industrial humanoid society.
-speaker1: population?
-speaker2: approximately two hundred thirty million.
-speaker1: picard to bridge.
-speaker3: worf here, sir.
-speaker1: red alert, mister worf. set a course for the veridian system, maximum warp.
-
-speaker1: did you get anything from the human? 
-speaker2: no. his heart just isn't in it.
-speaker3: we have entered orbit of veridian three.
-speaker2: prepare to transport me to the surface.
-speaker4: wait. when do we get our payment?
-speaker2: this contains all the information you'll need to build a trilithium weapon. it's been coded. once i'm safely to the surface, i'll transmit the decryption sequence to you... not before.
-speaker3: mistress! -- a federation starship is entering the system!
-speaker1: what? on viewer.
-speaker3: they are hailing us.
-speaker4: du'cha the helm works. we hear picard's com voice.
-speaker5: klingon vessel. we know what you're doing, and we will destroy any probe launched toward the veridian star.
-speaker4: what do we do?
-speaker2: there's no time for this. eliminate them.
-speaker2: i think it's time we gave mister la forge his sight back.
-
-speaker1: maybe they're not out there. 
-speaker2: they're just trying to decide whether a twenty year-old klingon bird of prey is any match for the federation flagship.
-speaker3: or perhaps they're on the surface...
-speaker2: mister data, scan the planet for life forms.
-speaker4: i was hoping you would ask me to do that, captain. i just love to scan for life forms.
-speaker4: "life forms... tiny little life forms... where are the life forms --"
-speaker2: commander.
-speaker4: sorry, sir. there is too much interference in the planet's ionosphere for an accurate reading.
-speaker5: sir, according to my calculations, a solar probe launched from either the klingon ship or the planet's surface will take eleven seconds to reach the star. however, since we do not know the exact point of origin, it will take us between eight and fifteen seconds to lock our weapons onto it.
-speaker1: that's a pretty big margin of error.
-speaker2: too big. how long until the ribbon arrives?
-speaker4: approximately forty-seven minutes, sir.
-speaker2: i have to find a way to get to soran...
-speaker5: captain, klingon vessel decloaking directly ahead.
-speaker5: they are hailing.
-speaker2: on screen.
-speaker6: captain. what an unexpected pleasure.
-speaker2: lursa, i want to talk to soran.
-speaker6: i'm afraid the doctor is no longer aboard our ship.
-speaker2: then i'll beam down to his location. just give us his coordinates.
-speaker7: the doctor values his privacy. he would be quite... upset if an away team interrupted him.
-speaker2: very well... i'll beam to your ship and you can transport me to soran...
-speaker1: sir, you can't trust them. they'll kill you just like they killed geordi.
-speaker6: we did not kill your engineer. he's been... our guest.
-speaker1: then return him.
-speaker7: in exchange for what?
-speaker2: me... if you let me speak to soran.
-speaker7: the captain would make a much more valuable hostage.
-speaker6: we'll consider it a prisoner exchange.
-speaker2: agreed.
-
-speaker1: receiving the coordinates, captain. 
-speaker2: energize.
-
-speaker1: you must think i'm quite the madman. 
-speaker2: the thought had crossed my mind...
-speaker1: the only possible reason you're here is because you're not entirely confident you can shoot down my probe after all. so you've come to dissuade me from my horrific plan. good luck.
-
-speaker1: i have established the link. 
-speaker2: put it through over here.
-speaker2: it's working...
-speaker3: where is he?
-speaker4: don't worry, there's been no permanent damage. your heart is perfectly fine. there's been a little arterial damage...
-speaker3: human females are so repulsive.
-
-speaker1: ... and some myocardial degeneration. i'm going to give you some hematozine, and i want to run more tests... but i think you're going to be fine. 
-speaker2: thanks, doc.
-
-speaker1: i've spent eighty years looking for another way, captain. this is the only one. of course, you could always come with me. you fancy yourself an explorer. here's a chance to explore something no human has ever experienced. 
-speaker2: not if it means killing over two hundred million people. i wonder... did your wife leandra know that she married a man who was capable of mass murder?
-speaker2: when you tucked your children into bed... do you suppose they ever suspected that their father would one day kill millions as casually as he kissed them goodnight?
-speaker1: nice try.
-
-speaker1: i thought he was the chief engineer. 
-speaker2: he is.
-speaker1: then when is he going to engineering?
-
-speaker1: what you're about to do is no different from when the borg destroyed your world. 
-speaker2: you're right. and there was a time when i wouldn't have hurt anyone. then the borg came... and they showed me that if there is one constant in this universe, it's death. afterwards, i began to realize that none of it mattered. we're all going to die anyway. it's only a question of how and when. you will too, captain. you might contract a fatal disease... you might die in battle...
-speaker2: ... or burn to death in a fire.
-speaker2: you looked surprised. but you shouldn't be. i've been to the nexus, captain. i know things about people. aren't you beginning to feel time gaining on you? it's like a predator. it's stalking you. you can try to outrun it with doctors... medicines.new technologies... but in the end, time is going to hunt you down... and make the kill.
-speaker1: we're all. mortal, soran. it's one of the truths of our existence.
-speaker2: what if i told you i found a new truth...
-speaker1: the nexus.
-speaker2: time has no meaning there. the predator has no teeth.
-
-speaker1: where is he now? 
-speaker2: i don't know... he bathed... now he is roaming the ship. he must be the only engineer in starfleet who does not go to engineering!
-
-speaker1: careful, captain. that's a fifty gigawatt forcefield. i wouldn't want to see you get hurt. 
-speaker2: thank you.
-
-speaker1: i'd like to run a level three diagnostic on the port plasma relays. i think one of the generators is fluctuating. 
-speaker2: okay, let's do it.
-
-speaker1: that's it! 
-speaker1: their shields are operating on a modulation of two-five-seven point four...
-speaker2: adjust our torpedo frequency to match - two-five-seven point four!
-
-speaker1: they have found a way to penetrate our shields. 
-speaker2: lock phasers and return fire!
-
-speaker1: hull breach on decks thirty-one through thirty-five. another jolt. the bridge lights flicker. the situation is desperate. 
-speaker2: worf, that's an old klingon ship. what do we know about it? are there any weaknesses?
-speaker3: it is a class d-twelve bird of prey. they were retired from service because of defective plasma coils.
-speaker2: plasma coils... is there any way we can use that to our advantage?
-speaker3: i do not see how. the plasma coil is part of their cloaking device...
-
-speaker1: could we access the defective coil and trigger their cloak? 
-speaker2: perhaps. yes! if we sent a low-level ionic pulse, it might reset the coil and engage the cloaking systems.
-speaker3: as their cloak begins to engage, their shields will drop.
-speaker1: right. and they'll be vulnerable for at least two seconds. data, lock onto that plasma coil.
-speaker2: no problem.
-speaker1: worf, prepare a spread of photon torpedoes. we'll have to hit them the instant they begin to cloak.
-speaker3: aye, sir.
-speaker1: we're only going to get one shot at this. target their primary reactor. with any luck, their warp core should implode. worf works.
-
-speaker1: i have accessed their coil frequency... initiating ionic pulse... 
-speaker2: make it quick!
-
-speaker1: target their bridge. 
-speaker2: full disruptors.
-speaker3: we are cloaking!
-speaker2: what?
-speaker3: mistress -- our shields are down!
-
-speaker1: la forge to bridge. i've got a problem down here. the magnetic interlocks have been ruptured. i need to get the -- the warp core starts to spew white-hot gas. 
-speaker1: bridge, we've got a new problem. we're about five minutes from a warp core breach. there's nothing i can do.
-
-speaker1: one minute to warp core breach. 
-speaker2: begin separation sequence. full impulse power once we're clear.
-
-speaker1: separation complete. ten seconds to warp core breach. 
-speaker2: engaging impulse engines.
-
-speaker1: report. 
-speaker2: helm controls are off-line!
-
-speaker1: i have rerouted auxiliary power to the lateral thrusters. i'm attempting to level our descent... 
-speaker2: all hands, brace for impact!
-
-speaker1: go on... say something. they're waiting. 
-speaker2: i... don't know what to say... one of the children, a young girl, speaks up.
-speaker3: say merry christmas, papa!
-speaker2: merry... christmas...
-speaker4: this one's for you... where's mine?... i hope this is the book i asked for... take this one to papa...
-
-speaker1: oh yes... yes, it's astonishingly beautiful. all of it. 
-speaker2: this is from all of us.
-speaker1: thank you... i can't imagine what it is.
-speaker2: it's a sack-tent!
-speaker1: you mean a sextant. and it's a handsome one at that... from about eighteen twenty, i'd say. wherever did you find it?
-speaker3: it's a secret.
-speaker1: oh, a secret... well, that makes it a doubly special gift. thank you... thank you all... the children react with pleasure. they cluster around him, showering him with hugs and kisses.
-speaker4: merry christmas, papa... i love you, father... etc.
-
-speaker1: no... this isn't right... this can't be real... 
-speaker2: it's as real as you want it to be.
-
-speaker1: guinan... what's going on? where am i? 
-speaker2: you're in the nexus.
-speaker1: this... is the nexus?
-speaker2: for you. this is where you wanted to be...
-speaker1: but i never had a wife, children, a home like this...
-speaker2: enjoy them, jean-luc...
-speaker1: guinan, what are you doing here? i thought you were on the enterprise.
-
-speaker1: i am on the enterprise...i am also here. think of me as... an "echo" of the person you know... a part of her she left behind... 
-speaker2: left behind...?
-speaker1: when the enterprise-b beamed us off the lakul, we were partially in the nexus. the transporters locked on to us... but somehow everyone left a part of themselves behind.
-speaker2: soran...?
-speaker1: all of us.
-speaker2: where is he now?
-speaker1: wherever he wanted to be...
-speaker3: papa, help me build my castle!
-speaker2: in a few minutes...
-speaker2: these are my children... my children...
-speaker1: yeah. they're great, aren't they? you can go back and see them born... go forward and see your grandchildren... time has no meaning here.
-speaker4: dinner's ready! let's go!
-speaker5: papa... are you coming?
-speaker2: go on... go on without me...
-speaker2: guinan... can i leave the nexus?
-speaker1: why would you want to leave?
-speaker2: can i?
-speaker1: yes... where would you go?
-speaker2: i don't understand.
-speaker1: i told you, time has no meaning here. if you leave, you can go anywhere... any time.
-
-speaker1: i know exactly where i want to go... and when. back to that mountaintop on veridian three... before soran put out the star. i have to stop him. 
-speaker2: what makes you think things will be any different this time?
-speaker1: you're right. i'll need help. guinan, will you come back with me? together, we could --
-speaker2: i can't leave. i'm already there, remember?
-speaker2: i know just the guy.
-
-speaker1: james kirk. 
-speaker2: beautiful day, isn't it?
-speaker1: yes... yes, it is.
-speaker2: do you mind?
-speaker1: oh.
-speaker1: captain, do you realize what -- but kirk interrupts as he sees something o.c.
-speaker2: wait a second. i think something's burning.
-
-speaker1: looks like someone was cooking eggs... come on in, it's all right. this is my house -- or at least it used to be, i sold it years ago. 
-speaker2: i'm captain jean-luc picard of the starship enterprise.
-speaker1: this clock... i gave this clock to bones...
-speaker1: jake! jake, you miserable old mutt... how can you be here? he's been dead seven years.
-speaker3: come on, jim, i'm starving. how long are you going to be rattling around that kitchen?
-speaker1: that's antonia...
-speaker1: wait a minute...
-speaker1: the future... what are you talking about? this is the past...
-speaker1: this is nine years ago... the day i told her i was going back to starfleet...
-speaker1: these were ktarian eggs -- her favorite.i was cooking them to soften the blow... and i gave her this.
-speaker2: i know how real this must seem to you, but it's not. this isn't really your house. we've both been caught up in some sort of temporal nexus.
-speaker1: dill weed.
-speaker1: there's a bottle of dill weed on the second shelf to the left, right behind the nutmeg.
-speaker2: how long have you been here?
-speaker1: i don't know. i was on the enterprise-b... in the deflector control room... keep stirring these, will you?
-speaker1: the bulkhead in front of me disappeared... then i was out there chopping wood. thanks.
-speaker2: history records that you died saving the enterprise-b from an energy ribbon eighty years ago...
-speaker1: so you're telling me this is the twenty-fourth century... and i'm dead?
-
-speaker1: not exactly. as i said, this is some kind of... 
-speaker2: temporal nexus... yeah, i heard you. something's missing...
-speaker1: captain, i need your help. i want you to leave the nexus with me.
-
-speaker1: we have to go back to a planet called veridian iii and stop a man from destroying a star. there are millions of lives at stake. 
-speaker2: you said history considers me dead. who am i to argue with history?
-speaker1: you're a starfleet officer and you have a duty to --
-speaker2: i don't need to be lectured by you. i was out saving the galaxy when your grandfather was still in diapers. and frankly, i think the galaxy owes me one i was like you once... so worried about duty and obligations that i couldn't see anything past this uniform. and in the end, what did it get me? nothing. not this time. kirk brushes past picard and stops at the foot of the stairs.
-speaker2: i'm going to walk up these stairs, march into that bedroom and tell antonia that i want to marry her.
-speaker2: this time things are going to be different.
-
-speaker1: this doesn't look like your bedroom. kirk looks around for a moment, the pieces starting to fall into place. he smiles with a growing realization... 
-speaker2: no... no, it's not. it's better.
-speaker1: better?
-speaker2: this is my uncle's barn in iowa...
-speaker2: i took that horse out for a ride seven years ago... on a spring day. kirk moves to the barn door and opens it revealing a beautiful spring day.
-
-speaker1: just like this. if i'm right, this is the day i met antonia. 
-speaker1: this nexus of yours is very clever. i can start all over again -- do things right from day one.
-
-speaker1: antonia? 
-speaker2: she's not real either, is she? nothing here is... nothing here matters... all euphoria is now gone from kirk -- it's a moment of self-revelation. he glances around.
-speaker2: it's kinda like... orbital skydiving. exciting for a few minutes... but in the end, you haven't really done anything... you haven't made a difference...
-speaker2: captain of the enterprise, huh?
-speaker1: that's right.
-speaker2: close to retirement?
-speaker1: i hadn't planned on it.
-speaker2: well, let me tell you something - don't. don't let them promote you... don't let them transfer you... don't let anything take you off the bridge of that ship... because while you're there, you can make a difference.
-speaker1: you don't need to be on the bridge of a starship. come with me. help me stop soran. make a difference again.
-speaker2: how can i argue with the captain of the enterprise? what was the name of that planet... veridian iii?
-speaker1: that's right.
-speaker2: i take it the odds are against us, and the situation is grim?
-speaker1: you could say that.
-speaker2: of course, if spock were here, he'd say i was being an irrational, illogical human for wanting to go on a mission like that... and for the first time, we can see the twinkle in his eye that tells us jim kirk is back.
-speaker2: sounds like fun.
-
-speaker1: nice shot. 
-speaker2: i'll find a way to contact the enterprise. you're going to be all right.
-speaker1: did we do it? did we make a difference...?
-speaker2: yes. thank you.
-speaker1: least i could do...for a captain of the enterprise.
-speaker2: try to hang on.
-
-speaker1: captain, are you all right? 
-speaker2: yes.
-speaker3: what about doctor soran?
-speaker2: you needn't worry about the doctor anymore.
-speaker2: was there a problem with the klingons?
-speaker4: you could say that...
-
-speaker1: our casualties were light. but unfortunately the enterprise herself cannot be salvaged. move along the corridor in find beverly helping an injured crewmember into the arms of a waiting medical n.d. ogawa walks up to her 
-speaker2: that should be the last of the wounded, doctor. beverly nods. she looks exhausted.
-speaker3: two hundred thirty-two patients in under two days.
-speaker3: save that stretcher...
-speaker2: is there another patient?
-speaker3: no -- that one's for me.
-
-speaker1: over here, data! i think i've found something. 
-speaker1: one life sign, very faint.
-
-speaker1: spot. 
-speaker1: i am very happy to find you, spot.
-speaker2: another family reunited.
-speaker2: data... are you all right?
-speaker1: i am not sure, counselor. i am happy to see spot... and yet i am crying. my emotional program must be malfunctioning again.
-speaker2: no, data... i think it's working perfectly.
-
-speaker1: is this it? 
-speaker1: i'm going to miss this ship. she went before her time.
-speaker2: it's not how many years you've lived, wil... but how you've lived them. someone once told me that time is a predator that stalks us all our lives. but maybe time is also a companion who goes with us on our journey, and reminds us to cherish the moments of our lives... because they will never come again. we are after all. only mortal.
-speaker1: speak for yourself, sir. i kinda planned on living forever.
-
-speaker1: i always thought i'd have a crack at this chair one day. 
-speaker2: you may still... somehow i doubt this will be the last ship to carry the name enterprise.
-speaker2: picard to farragut. two to beam up.
+CHEKOV: there he is -- there, to the south! 
+SCOTTY: what are ye, blind? that's a bird.
+
+SCOTTY: repelling the crystalline trench... rafting down lava flows... orbital skydiving. it's like the man is running a decathlon across the galaxy. 
+CHEKOV: that should be him now. i think he's just crossed the sound barrier.
+
+KIRK: right on target! i jump out over the arabian peninsula... and i end up here, right on the dime. 
+CHEKOV: actually, captain, your precise target area was thirty-five meters... that way.
+
+KIRK: thanks for pointing that out. 
+KIRK: oh...
+SCOTTY: i've warned ye about that back of yours. you should have a doctor take a look at it.
+
+KIRK: tomorrow i want to make a tri- elliptical jump. that's where you jump out over northern china, and make three complete orbits before you start re-entry... 
+CHEKOV: captain. perhaps you have forgotten that tomorrow is the christening ceremony.
+KIRK: i'm not going. scotty, help me with this chute.
+SCOTTY: what do you mean, you're not going? we promised.
+KIRK: when i retired, i swore i'd never set foot on a starship again, and i meant it.
+CHEKOV: captain...
+KIRK: i don't want to hear anymore about it. i'm not going, and that's final.
+
+JOURNALISTS: captain kirk, how does it feel to be back on the enterprise bridge... captain, can i have a minute... captain scott, do you have any comment on... commander chekov... etc. 
+HARRIMAN: excuse me, excuse me...there will be plenty of time for questions later...
+HARRIMAN: i'm captain john harriman. i'd like to welcome you all aboard.
+KIRK: it's our pleasure.
+HARRIMAN: i just want you to know how excited we all are to have a group of living legends with us on our maiden voyage. i remember reading about your missions when i was in grade school.
+
+KIRK: well... may we have a look around? 
+HARRIMAN: please... please.
+CHEKOV: demora!
+JOURNALIST: so, captain... this is the first starship enterprise in thirty years without james t. kirk in command. how do you feel about that? the journalist has unknowingly touched a nerve. kirk's eyes flash for a moment -- the longer he's on this bridge, the more he realizes he doesn't feel good about it at all. he tries to shrug it off with a smile.
+
+KIRK: just fine. i'm glad to be here to send her on her way... 
+JOURNALIST: what have you been doing since you retired?
+KIRK: i've been... keeping busy.
+CHEKOV: excuse me, captain. i'd like you to meet the helmsman of the enterprise-b. ensign demora sulu -- captain james kirk.
+DEMORA: it's a pleasure to meet you, sir. my father's told me some... interesting stories about you.
+KIRK: your father... hikaru sulu is your father?
+DEMORA: yes, sir.
+CHEKOV: you met her once before, but she was...
+KIRK: but that wasn't so long ago... it couldn't have been more than...
+CHEKOV: twelve years, sir.
+KIRK: yes... well... congratulations, ensign. it wouldn't be the enterprise without a sulu at the helm.
+DEMORA: thank you, sir.
+KIRK: you know, scotty... it amazes me.
+SCOTTY: and what would that be, sir?
+KIRK: sulu. when did he find the time for a family?
+SCOTTY: it's like you always said -- if something's important enough, you make the time.
+SCOTTY: so... that's why you've been running around the galaxy like an eighteen-year-old. finding retirement a little lonely, are we?
+KIRK: with that kind of tact, i'm glad you're an engineer and not a psychiatrist.
+HARRIMAN: excuse me, gentlemen... if you'll take your seats.
+KIRK: oh... of course.
+
+HARRIMAN: prepare to leave spacedock. aft thrusters ahead one quarter, port and starboard at station keeping. captain kirk, i'd be honored if you would give the order to get underway. 
+KIRK: no... no. thank you.
+HARRIMAN: please, i insist.
+KIRK: take us out.
+CHEKOV: very good, sir.
+SCOTTY: brought a tear to my eye.
+
+HARRIMAN: well... we've just cleared the asteroid belt. our course will take us out beyond pluto and then back to spacedock. just a quick run around the block. if we have time, we'll conduct a few tests of the warp -- 
+COM OFFICER: we're picking up a distress call, captain.
+HARRIMAN: on speakers.
+COM VOICE: this is the transport ship lakul. we're caught in some kind of energy distortion. we can't break free... need immediate help... it' tearing us -- the voice is drowned out by static. the science officer checks something on his console. the journalist with the holo-camera turns on his light and pans it around to capture the action.
+SCIENCE OFFICER: the lakul is one of two ships transporting el-aurian refugees to earth.
+HARRIMAN: can you locate them?
+DEMORA: the ships are bearing at three one zero mark two one five. distance: three light years.
+HARRIMAN: signal the closest starship. we're in no condition to mount a rescue... we don't even have a full crew aboard.
+NAVIGATOR: we're the only one in range, sir.
+HARRIMAN: well, then... i guess it's up to us. helm, lay in an intercept course and engage at maximum warp.
+SCOTTY: is there something wrong with your chair, captain?
+
+DEMORA: we're within visual range of the energy distortion, captain. 
+HARRIMAN: on screen.
+
+CHEKOV: what the is that? 
+DEMORA: i've found the transport ships.
+
+DEMORA: their hulls are starting to buckle under the stress -- they won't survive much longer. the ship suddenly shakes. the navigator works his console. 
+NAVIGATOR: we're encountering severe gravimetric distortions from the energy ribbon.
+HARRIMAN: we'll have to keep our distance... we don't want to get pulled in too...
+KIRK: tractor beam...
+HARRIMAN: we don't have a tractor beam.
+KIRK: you left spacedock without a tractor beam?
+HARRIMAN: it won't be installed until tuesday. ensign sulu... try generating a subspace field around the ships. that might break them free.
+DEMORA: aye, sir.
+DEMORA: there's too much quantum interference, captain.
+HARRIMAN: what about... venting plasma from the warp nacelles? that might disrupt the ribbon's hold on the ships.
+NAVIGATOR: aye, sir.. releasing drive plasma...
+NAVIGATOR: it's not having any effect, sir. i think --
+
+CHEKOV: how many people were aboard that ship? 
+DEMORA: two hundred sixty-five.
+HARRIMAN: captain kirk... i would appreciate any... suggestions you might have.
+KIRK: first -- move us within transporter range and beam those people to the enterprise.
+HARRIMAN: what about the gravimetric distortions? they'll tear us apart...
+KIRK: risk is part of the game if you want to sit in that chair. kirk gives him a supportive look. harriman buckles down and grimly looks at the image on the screen.
+HARRIMAN: helm, close to within transporter range.
+KIRK: and second -- turn that thing off.
+
+DEMORA: we're within range, sir. 
+HARRIMAN: beam them directly to sickbay.
+CHEKOV: how big's your medical staff?
+HARRIMAN: the medical staff... doesn't arrive until tuesday.
+CHEKOV: you and you. you've just become nurses. let's go.
+
+DEMORA: main engineering reports fluctuations in the warp plasma relays. 
+SCOTTY: by-pass the relays and go to auxiliary systems.
+LIEUTENANT: sir, i'm having trouble locking onto them. they appear to be... in some sort of... temporal flux.
+KIRK: scotty?
+SCOTTY: what the hell...
+SCOTTY: their life signs are... are phasing in and out of our space-time continuum.
+KIRK: phasing? to where?
+NAVIGATOR: sir! their hull's collapsing!
+SCOTTY: i got forty-seven of them... ... out of one hundred fifty.
+KIRK: report!
+DEMORA: we're caught in a gravimetric field emanating from the trailing edge of the ribbon.
+HARRIMAN: all engines, full reverse!
+
+SURVIVORS: the colors are touching me... i'm caught in the glass... help me... i can see the seconds... over here... etc 
+CHEKOV: it will be all right. we're going to take care of you.
+SORAN: why...why?
+JOURNALIST: it's all right... you're safe...
+SORAN: no... i have to go... i have to get back... you don't understand! let me go!
+JOURNALIST: what was he talking about?
+CHEKOV: easy there...
+CHEKOV: it's going to be okay. here, just lie down.
+DEMORA: inertial dampers failing.
+SCOTTY: engines not responding!
+HARRIMAN: i didn't expect to die my first day on the job.
+KIRK: the first thing you learn as captain is how to cheat death. scotty?
+SCOTTY: there's just no way to disrupt a gravimetric field of this magnitude!
+DEMORA: hull integrity failing.
+SCOTTY: but i do have a theory...
+KIRK: i thought you might.
+SCOTTY: an anti-matter discharge directly ahead... it might disrupt the field long enough for us to break away.
+KIRK: a photon torpedo?
+SCOTTY: aye.
+KIRK: load torpedo bays, prepare to fire on my command.
+DEMORA: captain... we don't have any torpedoes.
+KIRK: don't tell me... tuesday.
+SCOTTY: captain, it may be possible to simulate a torpedo blast using a resonance burst from the main deflector dish.
+KIRK: where are the deflector relays?
+DEMORA: deck fifteen, section twenty-one alpha
+KIRK: no... a captain's place is on the bridge of his ship. i'll take care of it.
+KIRK: keep her together until i get back.
+SCOTTY: i always do.
+
+DEMORA: forty-five seconds to structural collapse! 
+SCOTTY: bridge to captain kirk.
+
+KIRK: kirk here. 
+SCOTTY: captain, i don't know how much longer i can hold her together!
+KIRK: that's it. go!
+HARRIMAN: activate main deflector.
+
+DEMORA: we're clear. 
+DEMORA: everyone reacts with relief.
+HARRIMAN: you did it, kirk! damage report, ensign.
+DEMORA: there's some buckling on the starboard nacelle... we've also got a hull breach in the engineering section. emergency forcefields are in place and holding.
+SCOTTY: where?
+DEMORA: sections twenty through twenty- eight on decks thirteen... fourteen... ... and fifteen.
+SCOTTY: bridge to captain kirk. captain kirk, please respond.
+SCOTTY: have chekov meet me on deck fifteen.
+
+CHEKOV: my was anyone in there? 
+SCOTTY: aye.
+
+DEMORA: i've checked the entire ship and the surrounding space. there's no sign of him. 
+SCOTTY: just a quick... run around the block.
+CHEKOV: i never thought it would end like this...
+SCOTTY: all things must end, mr. chekov.
+HARRIMAN: let's go home.
+
+PICARD: mister worf... i always knew this day would come. are you prepared to face the charges? 
+TROI: answer him!
+WORF: i am prepared.
+RIKER: "we, the officers and crew of the u.s.s. enterprise, being of sound mind and judgment, hereby make the following charges against lieutenant worf: one. that he did knowingly and willfully perform above and beyond the call of duty on countless occasions. two. that he has been a good and solid officer on this ship for one score less twelve years. and three. most seriously... that he has earned the respect and admiration of the entire crew." riker puts away the scroll
+PICARD: there can be only one punishment for such crimes... i hereby promote you to the rank of lieutenant commander, with all the rights and privileges thereto. and may have mercy on your soul.
+PICARD: congratulations, commander.
+WORF: thank you, sir.
+RIKER: extend the plank!!
+CREWMEMBERS: into the sea with him... feed him to the sharks... walk the plank... etc.
+PICARD: don't you think you're taking this a little too far, number one?
+RIKER: when we went to ancient rome for deanna's promotion, we threw her to the lions, remember?
+
+WORF: i can't swim. 
+LA FORGE: the holodeck safety program is engaged... the computer won't let you drown.
+BEVERLY: but the sharks are quite convincing.
+DATA: doctor, i must confess i am uncertain as to why pushing someone into freezing, shark- infested water is amusing.
+
+BEVERLY: it's all done in good fun, data. get in the spirit of things. 
+DATA: ah.
+BEVERLY: data...data -- !
+GEORDI: data. that wasn't funny.
+
+PICARD: well, now that we're all aboard... number one, bring the ship before the wind. let's see what's out there. 
+RIKER: aye, aye, sir. take the wheel, commander.
+
+PICARD: imagine what it was like, will. no engines... no computers... just the wind, the sea and the stars to guide you. 
+RIKER: bad food, brutal discipline... no women.
+COM VOICE: bridge to captain picard.
+PICARD: picard here.
+COM VOICE: there is a personal message for you from earth.
+PICARD: put it through down here. but the best thing about a life at sea was that they couldn't get to you.
+PICARD: computer, arch.
+
+TROI: captain, are you all right? 
+PICARD: yes. fine. if you'll excuse me...
+PICARD: computer, exit.
+
+RIKER: set the royals and the studding sails, mister worf. 
+WORF: the royal... studs...?
+RIKER: you see the top yardarm, now look to the -- suddenly a com voice interrupts.
+COM VOICE: bridge to commander riker.
+RIKER: riker here.
+COM VOICE: we're picking up a distress call from the amargosa observatory, sir. they say they're under attack.
+RIKER: red alert! all hands to battle stations! captain picard to the bridge. everyone on the ship reacts, and there is a general rush to the bow of the ship...
+
+RIKER: it looks like we're too late... 
+WORF: there are no other ships in the system.
+DATA: sensors show five life signs aboard the station, captain.
+RIKER: the station complement was nineteen.
+PICARD: secure from red alert. number one, begin an investigation. i'll be in my ready room.
+RIKER: sir?
+PICARD: make it so.
+
+WORF: these blast patterns are consistent with type-three disruptors. 
+RIKER: well, that narrows it to klingon, breen or romulan.
+BEVERLY: i'm picking up life signs... about twenty meters ahead.
+WORF: that rules out klingons.
+WORF: they would not have left anyone alive.
+BEVERLY: over here.
+RIKER: worf, you're with me. paskall, you and mendez search the upper deck.
+WORF: under here...
+WORF: it's all right... do not struggle.
+
+RIKER: i'm commander william riker of the starship enterprise. 
+SORAN: soran... doctor tolian soran...
+RIKER: who attacked you, doctor?
+SORAN: i'm not sure... it happened so fast...
+SECURITY OFFICER: commander -- you'd better take a look at this. riker and worf move to the ladder as beverly begins to scan soran...
+
+DATA: is she still angry? 
+GEORDI: no... but i'd stay out of sickbay for a while if i were you. i still don't know why you dropped her in the water.
+DATA: i was attempting to... get in the spirit of things. i thought it would be humorous.
+GEORDI: data... you're not thinking about using that thing are you?
+DATA: it has occurred to me on several occasions. but i believe this may be the appropriate time.
+GEORDI: wait a minute. i thought you've always been afraid it would overload your neural net.
+DATA: that is true. however, i believe my growth as an artificial life form has reached an impasse. for thirty-four years i have endeavored to become more "human" - to grow beyond my original programming. and yet i am still unable to grasp such a simple concept as humor. this emotion chip is the only answer.
+GEORDI: all right...
+GEORDI: but at the first sign of trouble, i'm going to deactivate it. agreed?
+DATA: agreed.
+
+RIKER: we found two dead romulans aboard the station. we're analyzing their equipment to see if we can determine what ship they came from. 
+PICARD: there's still no indication of why they attacked the station?
+RIKER: we think they were looking for something -- they practically tore the place apart.
+PICARD: hmm... inform starfleet command. this could indicate a new romulan threat in this sector.
+RIKER: you want me to contact starfleet?
+PICARD: is there a problem?
+RIKER: no, sir.
+PICARD: thank you, number one.
+RIKER: there is something else, captain. one of the scientists. a doctor soran... has insisted on speaking with you. i told him you were busy, sir, but he said it was absolutely imperative that he speak with you right away.
+PICARD: understood. that will be all.
+RIKER: sir... is there anything wrong?
+PICARD: no. thank you.
+
+GUINAN: you two just volunteered to be my first victims. this is a new concoction i picked up on forcas three. trust me, you're going to love it. 
+GEORDI: well...?
+DATA: i believe the beverage has provoked an emotional response.
+GEORDI: really? what do you feel?
+DATA: i am uncertain. i have had little experience with emotions... i am unable to articulate the sensation.
+GUINAN: emotions?
+GEORDI: i'll explain later...
+GUINAN: i don't think he likes it.
+DATA: yes. that is it. i hate it.
+GEORDI: data, i think the chip is working...
+DATA: yes. i hate this! it is revolting!
+GUINAN: another round?
+DATA: please. in the b.g., we see picard enter ten forward.
+
+PICARD: doctor soran...? 
+SORAN: yes, yes, captain -- thank you for coming.
+PICARD: nothing for me. i understand there's something urgent you need to discuss with me.
+SORAN: yes. i need to return to the observatory immediately. i must continue a critical experiment i was running on the amargosa star.
+
+PICARD: doctor... we're still conducting an investigation into the attack. once we've completed our work, we'll be happy to allow you and your fellow scientists back aboard the observatory. until then -- 
+SORAN: the timing is very important on my experiment -- if it is not completed within the next twelve hours, years of research will be lost.
+PICARD: we're doing the best we can. now if you'll excuse me...
+SORAN: they say time is the fire in which we burn... and right now, captain, my time is running out. we leave so many things unfinished in our lives -- i'm sure you can understand. for some reason, soran's words have struck a deep chord within picard. he looks away from soran's compelling gaze and thinks for a long moment. when he finally speaks, his voice is barely above a whisper.
+
+WORF: one of the dead romulans had a tricorder. we analyzed its sensor logs and found they were scanning for signature particles of a compound called trilithium. 
+RIKER: trilithium?
+WORF: an experimental compound the romulans have been working on. in theory, a trilithium-based explosive would be thousands of times more powerful than an anti-matter weapon. but they never found a way to stabilize it.
+
+RIKER: why were they looking for it on a federation observatory? it doesn't make any sense. 
+RIKER: have geordi and data go over with the next away team... tell them to scan the observatory for trilithium.
+WORF: aye, sir.
+
+DATA: i get it. i get it. 
+GEORDI: you get what?
+DATA: when you said to commander riker... "the clown can stay, but the ferengi in the gorilla suit has to go." geordi looks blankly at him for a moment.
+GEORDI: what?
+DATA: during the farpoint mission. we were on the bridge and you told a joke. that was the punch line.
+GEORDI: the farpoint mission? data, that was seven years ago.
+DATA: i know. i just got it. it was very funny.
+GEORDI: thanks.
+
+GEORDI: wait a minute... there's a hidden doorway here. i can see the joint of the metal with my visor. 
+DATA: there appears to be a dampening field in operation. i cannot scan beyond the bulkhead. geordi puts his tricorder away and begins looking for a way to open the door.
+GEORDI: i don't see a control panel...or an access port.
+DATA: it appears to be a magnetically sealed. data steps forward and opens a small panel on wrist and makes a quick adjustment to the circuitry within.
+DATA: i believe i can reverse the polarity by attenuating my axial servo.
+DATA: "open sesame."
+
+GEORDI: i'm still not picking up anything. someone went to a lot of trouble to shield this room. 
+GEORDI: data, take a look at this. you ever seen a solar probe with this kind of configuration?
+DATA: no, geordi. i have not. it is most unusual.
+
+GEORDI: just help me get this panel open. 
+GEORDI: whoa. my visor's picking up something in the theta band...it could be a trilithium signature.
+GEORDI: data, this isn't the time...
+DATA: i am sorry... but i cannot stop myself... i think something is wrong...
+
+GEORDI: data! 
+GEORDI: data, are you all right?
+DATA: i believe the emotional chip has overloaded my positronic relays.
+GEORDI: we better get you back to the ship. la forge to enterprise.
+SORAN: is there a problem, gentlemen?
+
+GEORDI: oh... doctor... yeah, as a matter of fact, there is. there's a damping field in here blocking our com signal. will you give me a hand? 
+SORAN: i'd be happy to.
+DATA: please don't hurt me.
+
+PICARD: tea. earl grey. hot. 
+PICARD: come.
+PICARD: counselor. what can i do for you?
+TROI: actually... i'm here to see if there's anything i can do for you.
+PICARD: well... i appreciate your concern, but i'd rather not discuss it right now, thank you.
+PICARD: but troi won't be brushed away so easily.
+TROI: i'm afraid i can't just leave it at that. the commanding officer of this ship is clearly distraught about something. as ship's counselor, it's my duty to --
+PICARD: as ship's counselor, it's your duty to know not only when you're needed... but also when you're not.
+TROI: you can't fool an empath, captain. i know exactly when i'm needed.
+PICARD: well, with all due respect to your betazoid senses, i prefer to be alone right now.
+TROI: very well. i suppose i could make out my weekly report to starfleet command without your input. "admiral lusby... regarding the unusual behavior of jean-luc picard: i find him increasingly irritable... remote... and uncooperative. i recommend forced shore leave at a starbase facility in order to --"
+PICARD: all right, all right. you've made your point.
+PICARD: the message i received... my brother... and his son -- my nephew -- burned to death in a fire.
+
+TROI: captain, i'm sorry. i know there were a lot of unresolved conflicts between you and your brother. 
+PICARD: what i can't get out of my mind is the image of rene -- my nephew. i just can't believe he's gone...
+TROI: it's only natural to feel a heightened sense of tragedy when a child dies... but it goes deeper than that, doesn't it? i can sense that rene meant a great deal to you.
+PICARD: in a way, he was as close as i ever came to having a child of my own.
+TROI: your family history is very important to you, isn't it?
+PICARD: ever since i was a little boy, i remember hearing about the family line. the picards that fought at trafalgar... the picard's that settled the first martian colony. when my brother married and had a son...
+TROI: ... you felt it was no longer your responsibility to carry on the family line.
+PICARD: my brother had shouldered that burden... allowing me to pursue my own selfish needs...
+TROI: there's nothing selfish about pursuing your own life... your own career.
+PICARD: you know, counselor... i'm not getting any younger. for some time now, i've been aware that there are fewer days ahead than there are behind... but i always took comfort in the fact that when i was gone, my family would continue. but now...
+PICARD: i've had brushes with death... more than i care to contemplate. i always accepted it as a calculated risk that goes along with wearing this uniform. but now... the idea of death has a terrible sense of finality to it.
+PICARD: i'm the last picard.
+TROI: captain, perhaps we --
+RIKER'S COM VOICE: red alert! all hands to duty stations!
+
+PICARD: report. 
+RIKER: a quantum implosion has occurred within the amargosa star. all nuclear fusion is breaking down.
+PICARD: how is that possible?
+WORF: sensor records show a solar probe was launched from the observatory a few moments ago.
+RIKER: the star's going to collapse in a matter of minutes.
+WORF: sir, the implosion has produced a level twelve shock wave.
+TROI: level twelve? that'll destroy everything in this system.
+TRANSPORTER COM VOICE: transporter room to bridge. i can't locate commander la forge or mister data, sir.
+RIKER: did they return to the ship?
+WORF: no, sir. they are not aboard.
+PICARD: how long until the shock wave hits the observatory?
+WORF: four minutes, forty seconds.
+RIKER: mister worf.
+
+RIKER: what the hell's he doing? 
+PICARD'S COM VOICE: enterprise to commander riker, you have two minutes left.
+RIKER: soran, did you hear that? there's a level twelve shock wave coming. we've got to get out of here!
+
+HAYES: sir. a klingon bird of prey is decloaking off the port bow. 
+PICARD: what?
+
+RIKER: data! see if you can get to geordi! 
+DATA: i... cannot, sir. i believe i am... afraid.
+TRANSPORTER COM VOICE: transporter room to bridge. i have the away team aboard, sir.
+
+B'ETOR: toh-pak-cha... 
+LURSA: hos qordu...
+B'ETOR: you've done it, soran.
+B'ETOR: wait!
+B'ETOR: i hope for your sake that you are initiating a mating ritual.
+
+SORAN: you got careless. the romulans came looking for their missing trilithium. 
+B'ETOR: impossible. we left no survivors on their outpost. b'etor has now gotten to her feet in the b.g.
+SORAN: they knew it was aboard the observatory. if the enterprise hadn't intervened, they would have found it.
+LURSA: but they didn't find it... and now we have a weapon of unlimited power.
+SORAN: i have the weapon, lursa. and if you ever want me to give it to you, i advise you to be a little more careful in the future.
+B'ETOR: perhaps we are tired of waiting.
+SORAN: without my research... the trilithium is worthless... as are your plans to reconquer the klingon empire.
+SORAN: set course for the veridian system. maximum warp.
+LURSA: bosh-ta-jah veridian
+KLINGON GUARD: what shall i do with this?
+
+WORF: i have spoken to the klingon high council, sir. they identified the bird of prey as belonging to the duras sisters. 
+RIKER: lursa and b'etor...? this doesn't make any sense. a renowned stellar physicist somehow uses a trilithium probe to destroy a star, kidnaps geordi... and escapes with a pair of klingon renegades... why? what the hell's going on?
+
+RIKER: how is he? 
+BEVERLY: it looks like a power surge fused the emotional chip into his neural net.
+WORF: will that be a danger to him?
+BEVERLY: i don't think so. the chip still seems to be working. i'd feel better if i could take a closer look, but i can't remove it without completely dismantling his cerebral conduit.
+RIKER: looks like you're stuck with emotions for a while. how do you feel?
+DATA: i am quite... preoccupied with concern about geordi.
+RIKER: we all are, data. but we're going to get him back.
+DATA: i hope so, sir.
+BEVERLY: wil, i checked into doctor soran's background.
+BEVERLY: he's an el-aurian... over three hundred years old. he lost his entire family when the borg destroyed his world. soran escaped with a handful of other refugees aboard a ship called the lakul. the ship was destroyed by some kind of energy ribbon, but soran and forty-six others were rescued by the enterprise-b.
+RIKER: that was the mission where james kirk was killed.
+BEVERLY: i checked the passenger manifest of the lakul... guess who else was on board?
+
+GUINAN: soran? that's a name i haven't heard in a long time. 
+PICARD: do you remember him?
+GUINAN: oh yes. i remember everyone who was on the lakul... every face. even the ones who didn't make it...
+PICARD: guinan. it's important that you tell me what you know. we think soran's developed a weapon... a terrible weapon. it might give him enough power to --
+GUINAN: soran doesn't care about power or weapons. all he cares about is getting back to the nexus.
+PICARD: what's the "nexus"?
+GUINAN: it's a place i've tried very hard to forget...
+GUINAN: that ribbon isn't just some random energy phenomenon traveling through space... it's a doorway. it leads to another place... the nexus. it doesn't exist in our universe... and it doesn't play by the same rules either.
+PICARD: what happened to you?
+GUINAN: i can't remember very much... what it looked like or how long i was there... but i do remember how it felt...
+GUINAN: it was like being inside... joy. as if joy was a real thing that i could wrap around myself. i've never been so content...
+PICARD: but then you were beamed away...
+GUINAN: i was pulled away. i didn't want to leave; none of us did. i felt like i'd left a part of myself behind. all i could think about was getting back... i didn't care what i had to do.
+GUINAN: it took a long time, but eventually i learned to live with it. and i began to realize that my experience in the nexus had changed me... i knew things about people...
+PICARD: your "sixth sense"... i've always wondered where it came from... and what about soran?
+GUINAN: soran may still be obsessed with getting back. and if he is, he'll do anything to find that doorway again.
+PICARD: but why destroy a star...? thank you, guinan.
+GUINAN: let someone else do it, jean-luc.
+GUINAN: let them send another starship. don't get near the ribbon. if you go into that nexus, you're not going to care about soran or the enterprise or me. all you're going to care about is how it feels to be there. and you're never going to come back.
+
+SORAN: a remarkable piece of equipment... but a little inelegant, wouldn't you say? have you ever considered a prosthesis that would make you look a little more... normal? 
+GEORDI: what's normal?
+SORAN: normal is what everyone else is...
+GEORDI: what do you want?
+SORAN: as you may or may not be aware, i am an el-aurian. some people call us a race of "listeners". we listen. right now, mr. la forge, you have my undivided attention. i want to listen to everything you know about trilithium. and me.
+GEORDI: trilithium is an experimental compound developed by the romulans. i think it's a derivative of --
+SORAN: i don't want a science lecture. you were on that observatory looking for trilithium... why?
+GEORDI: i was ordered to by the captain.
+SORAN: let's try to move beyond the usual prisoner-interrogator banter, shall we? you have information, and i need it. did the captain explain his orders to you? did he say why you were searching for trilithium?
+GEORDI: no.
+SORAN: what about... guinan? what has she told you about me?
+GEORDI: guinan? i don't know what you're talking about...
+SORAN: my instincts tell me you're lying. and i know that can't be easy for you... i can see you have a good heart.
+SORAN: oh... i forgot to tell you. while you were unconscious, i injected a nano-probe into your bloodstream. it's been navigating your cardiovascular system... and right now i've attached it to your left ventricle. a little trick i picked up from the borg.
+GEORDI: yeah... they're full of great ideas.
+SORAN: i just stopped your heart for five seconds. it felt like an eternity, didn't it? did you know that you can stop the human heart for up to ten minutes before the onset of brain damage?
+GEORDI: no... i didn't know that...
+SORAN: we learn something new about ourselves every day. now. maybe i didn't make myself clear. it is very important that you tell me exactly what captain picard knows.
+GEORDI: i told you everything... you might as well just kill me right now...
+SORAN: i'm not a killer, mr. la forge. let's try thirty seconds.
+
+DATA: according to our information, the ribbon is a conflux of temporal energy which travels through our galaxy every thirty-nine point one years 
+PICARD: when is it expected back?
+PICARD: data?
+DATA: sorry, captain. the ribbon has already entered the galaxy. it will pass through this sector in approximately thirty-one hours.
+PICARD: guinan said soran was trying to get back to the ribbon... if that's true, then there must be some connection with the amargosa star.
+DATA: the star's destruction has had numerous astro-physical effects within this sector. however, none of them appear to have a connection to the energy ribbon.
+PICARD: give me a list of those effects. i want to know every single thing which has been altered or changed... no matter how insignificant...
+DATA: it will take a few moments for the computer to compile the information.
+PICARD: data, are you all right?
+DATA: no, sir. i am finding it difficult to concentrate... i believe i am overwhelmed with feelings of... remorse and regret concerning my actions on the observatory.
+PICARD: what do you mean?
+DATA: i wanted to save geordi... i tried. but i experienced something i did not expect. i believe it was fear.
+PICARD: fear is a very difficult emotion to overcome. it's something we all have to learn to deal with.
+DATA: but i did not deal with it, sir. i let it prevent me from helping my friend. does that make me a coward?
+PICARD: no. and what you must try to avoid is becoming consumed by another emotion which i believe you're beginning to experience...
+DATA: guilt. it is a most unpleasant feeling.
+
+DATA: according to our current information, the destruction of the amargosa star has had the following effects in this sector: gamma emissions have increased by five percent... the starship bozeman was forced to make a course correction... a research project on gorik four was halted due to increased neutrino particles... ambient magnetic fields have decreased by -- 
+PICARD: wait. the bozeman... why did it change course?
+DATA: the destruction of the amargosa star has altered the gravitational forces throughout the sector. any ship passing through this region will have to make a minor course correction. picard is starting to get an idea... he's onto something here. he moves to a large table in the center of the room.
+PICARD: a minor course correction... where is the ribbon now?
+
+DATA: this is its current position. 
+PICARD: can you project its course?
+PICARD: data. i have nothing but sympathy for what you're going through. but right now, i need your full attention on the task at hand. if you can't provide it... then i'll have to relieve you of duty until doctor crusher can remove this. emotion chip of yours. i'm sorry, but you leave me no other choice. this snaps data back... he considers this for a long moment, then looks determined.
+DATA: i do not wish to remove the chip, sir. although these emotions are proving difficult to deal with... i cannot imagine going back to a life without them. i have taken an important step toward becoming truly human. if i were to turn back now... i would like to continue in my duties, sir.
+PICARD: courage is an emotion too, data. now... can you project the course of the ribbon?
+DATA: i believe so.
+
+PICARD: enhance grid a-nine. 
+PICARD: where was the amargosa star?
+PICARD: now... you said the gravitational forces in this sector have been altered... could that also affect the course of the ribbon?
+DATA: i believe so.
+
+PICARD: that's what soran's doing... he's changing its course. but why? why try to alter its path... why not simply fly into it with a ship? 
+DATA: our records show that every ship which has approached the ribbon has either been destroyed or severely damaged.
+PICARD: he can't go to the ribbon... so he's trying to make the ribbon come to him. data, is it going to pass near any m-class planets?
+DATA: yes, sir. there are two in the veridian system.
+
+PICARD: it's very close to veridian three... but not close enough... 
+PICARD: data, what would happen to the ribbon's path if he destroyed the veridian star itself?
+
+PICARD: that's where he's going. 
+DATA: it should be noted, sir, that the collapse of the veridian star would produce a shock wave similar to the one we observed at amargosa.
+PICARD: and destroy every planet in the system.
+PICARD: are any of them inhabited?
+DATA: veridian three is uninhabited. but veridian four supports a pre- industrial humanoid society.
+PICARD: population?
+DATA: approximately two hundred thirty million.
+PICARD: picard to bridge.
+WORF'S COM VOICE: worf here, sir.
+PICARD: red alert, mister worf. set a course for the veridian system, maximum warp.
+
+LURSA: did you get anything from the human? 
+SORAN: no. his heart just isn't in it.
+KLINGON HELM: we have entered orbit of veridian three.
+SORAN: prepare to transport me to the surface.
+B'ETOR: wait. when do we get our payment?
+SORAN: this contains all the information you'll need to build a trilithium weapon. it's been coded. once i'm safely to the surface, i'll transmit the decryption sequence to you... not before.
+KLINGON HELM: mistress! -- a federation starship is entering the system!
+LURSA: what? on viewer.
+KLINGON HELM: they are hailing us.
+B'ETOR: du'cha the helm works. we hear picard's com voice.
+PICARD'S COM VOICE: klingon vessel. we know what you're doing, and we will destroy any probe launched toward the veridian star.
+B'ETOR: what do we do?
+SORAN: there's no time for this. eliminate them.
+SORAN: i think it's time we gave mister la forge his sight back.
+
+RIKER: maybe they're not out there. 
+PICARD: they're just trying to decide whether a twenty year-old klingon bird of prey is any match for the federation flagship.
+TROI: or perhaps they're on the surface...
+PICARD: mister data, scan the planet for life forms.
+DATA: i was hoping you would ask me to do that, captain. i just love to scan for life forms.
+DATA: "life forms... tiny little life forms... where are the life forms --"
+PICARD: commander.
+DATA: sorry, sir. there is too much interference in the planet's ionosphere for an accurate reading.
+WORF: sir, according to my calculations, a solar probe launched from either the klingon ship or the planet's surface will take eleven seconds to reach the star. however, since we do not know the exact point of origin, it will take us between eight and fifteen seconds to lock our weapons onto it.
+RIKER: that's a pretty big margin of error.
+PICARD: too big. how long until the ribbon arrives?
+DATA: approximately forty-seven minutes, sir.
+PICARD: i have to find a way to get to soran...
+WORF: captain, klingon vessel decloaking directly ahead.
+WORF: they are hailing.
+PICARD: on screen.
+LURSA: captain. what an unexpected pleasure.
+PICARD: lursa, i want to talk to soran.
+LURSA: i'm afraid the doctor is no longer aboard our ship.
+PICARD: then i'll beam down to his location. just give us his coordinates.
+B'ETOR: the doctor values his privacy. he would be quite... upset if an away team interrupted him.
+PICARD: very well... i'll beam to your ship and you can transport me to soran...
+RIKER: sir, you can't trust them. they'll kill you just like they killed geordi.
+LURSA: we did not kill your engineer. he's been... our guest.
+RIKER: then return him.
+B'ETOR: in exchange for what?
+PICARD: me... if you let me speak to soran.
+B'ETOR: the captain would make a much more valuable hostage.
+LURSA: we'll consider it a prisoner exchange.
+PICARD: agreed.
+
+CHIEF: receiving the coordinates, captain. 
+PICARD: energize.
+
+SORAN: you must think i'm quite the madman. 
+PICARD: the thought had crossed my mind...
+SORAN: the only possible reason you're here is because you're not entirely confident you can shoot down my probe after all. so you've come to dissuade me from my horrific plan. good luck.
+
+KLINGON HELM: i have established the link. 
+LURSA: put it through over here.
+LURSA: it's working...
+B'ETOR: where is he?
+BEVERLY: don't worry, there's been no permanent damage. your heart is perfectly fine. there's been a little arterial damage...
+B'ETOR: human females are so repulsive.
+
+BEVERLY: ... and some myocardial degeneration. i'm going to give you some hematozine, and i want to run more tests... but i think you're going to be fine. 
+GEORDI: thanks, doc.
+
+SORAN: i've spent eighty years looking for another way, captain. this is the only one. of course, you could always come with me. you fancy yourself an explorer. here's a chance to explore something no human has ever experienced. 
+PICARD: not if it means killing over two hundred million people. i wonder... did your wife leandra know that she married a man who was capable of mass murder?
+PICARD: when you tucked your children into bed... do you suppose they ever suspected that their father would one day kill millions as casually as he kissed them goodnight?
+SORAN: nice try.
+
+B'ETOR: i thought he was the chief engineer. 
+LURSA: he is.
+B'ETOR: then when is he going to engineering?
+
+PICARD: what you're about to do is no different from when the borg destroyed your world. 
+SORAN: you're right. and there was a time when i wouldn't have hurt anyone. then the borg came... and they showed me that if there is one constant in this universe, it's death. afterwards, i began to realize that none of it mattered. we're all going to die anyway. it's only a question of how and when. you will too, captain. you might contract a fatal disease... you might die in battle...
+SORAN: ... or burn to death in a fire.
+SORAN: you looked surprised. but you shouldn't be. i've been to the nexus, captain. i know things about people. aren't you beginning to feel time gaining on you? it's like a predator. it's stalking you. you can try to outrun it with doctors... medicines.new technologies... but in the end, time is going to hunt you down... and make the kill.
+PICARD: we're all. mortal, soran. it's one of the truths of our existence.
+SORAN: what if i told you i found a new truth...
+PICARD: the nexus.
+SORAN: time has no meaning there. the predator has no teeth.
+
+LURSA: where is he now? 
+B'ETOR: i don't know... he bathed... now he is roaming the ship. he must be the only engineer in starfleet who does not go to engineering!
+
+SORAN: careful, captain. that's a fifty gigawatt forcefield. i wouldn't want to see you get hurt. 
+PICARD: thank you.
+
+FARRELL: i'd like to run a level three diagnostic on the port plasma relays. i think one of the generators is fluctuating. 
+GEORDI: okay, let's do it.
+
+LURSA: that's it! 
+LURSA: their shields are operating on a modulation of two-five-seven point four...
+B'ETOR: adjust our torpedo frequency to match - two-five-seven point four!
+
+WORF: they have found a way to penetrate our shields. 
+RIKER: lock phasers and return fire!
+
+DATA: hull breach on decks thirty-one through thirty-five. another jolt. the bridge lights flicker. the situation is desperate. 
+RIKER: worf, that's an old klingon ship. what do we know about it? are there any weaknesses?
+WORF: it is a class d-twelve bird of prey. they were retired from service because of defective plasma coils.
+RIKER: plasma coils... is there any way we can use that to our advantage?
+WORF: i do not see how. the plasma coil is part of their cloaking device...
+
+RIKER: could we access the defective coil and trigger their cloak? 
+DATA: perhaps. yes! if we sent a low-level ionic pulse, it might reset the coil and engage the cloaking systems.
+WORF: as their cloak begins to engage, their shields will drop.
+RIKER: right. and they'll be vulnerable for at least two seconds. data, lock onto that plasma coil.
+DATA: no problem.
+RIKER: worf, prepare a spread of photon torpedoes. we'll have to hit them the instant they begin to cloak.
+WORF: aye, sir.
+RIKER: we're only going to get one shot at this. target their primary reactor. with any luck, their warp core should implode. worf works.
+
+DATA: i have accessed their coil frequency... initiating ionic pulse... 
+RIKER: make it quick!
+
+LURSA: target their bridge. 
+B'ETOR: full disruptors.
+KLINGON HELM: we are cloaking!
+B'ETOR: what?
+KLINGON HELM: mistress -- our shields are down!
+
+GEORDI: la forge to bridge. i've got a problem down here. the magnetic interlocks have been ruptured. i need to get the -- the warp core starts to spew white-hot gas. 
+GEORDI: bridge, we've got a new problem. we're about five minutes from a warp core breach. there's nothing i can do.
+
+DATA: one minute to warp core breach. 
+RIKER: begin separation sequence. full impulse power once we're clear.
+
+DATA: separation complete. ten seconds to warp core breach. 
+TROI: engaging impulse engines.
+
+RIKER: report. 
+TROI: helm controls are off-line!
+
+DATA: i have rerouted auxiliary power to the lateral thrusters. i'm attempting to level our descent... 
+RIKER: all hands, brace for impact!
+
+WOMAN: go on... say something. they're waiting. 
+PICARD: i... don't know what to say... one of the children, a young girl, speaks up.
+GIRL: say merry christmas, papa!
+PICARD: merry... christmas...
+CHILDREN: this one's for you... where's mine?... i hope this is the book i asked for... take this one to papa...
+
+PICARD: oh yes... yes, it's astonishingly beautiful. all of it. 
+YOUNG BOY: this is from all of us.
+PICARD: thank you... i can't imagine what it is.
+YOUNG BOY: it's a sack-tent!
+PICARD: you mean a sextant. and it's a handsome one at that... from about eighteen twenty, i'd say. wherever did you find it?
+GIRL: it's a secret.
+PICARD: oh, a secret... well, that makes it a doubly special gift. thank you... thank you all... the children react with pleasure. they cluster around him, showering him with hugs and kisses.
+CHILDREN: merry christmas, papa... i love you, father... etc.
+
+PICARD: no... this isn't right... this can't be real... 
+GUINAN'S VOICE: it's as real as you want it to be.
+
+PICARD: guinan... what's going on? where am i? 
+GUINAN: you're in the nexus.
+PICARD: this... is the nexus?
+GUINAN: for you. this is where you wanted to be...
+PICARD: but i never had a wife, children, a home like this...
+GUINAN: enjoy them, jean-luc...
+PICARD: guinan, what are you doing here? i thought you were on the enterprise.
+
+GUINAN: i am on the enterprise...i am also here. think of me as... an "echo" of the person you know... a part of her she left behind... 
+PICARD: left behind...?
+GUINAN: when the enterprise-b beamed us off the lakul, we were partially in the nexus. the transporters locked on to us... but somehow everyone left a part of themselves behind.
+PICARD: soran...?
+GUINAN: all of us.
+PICARD: where is he now?
+GUINAN: wherever he wanted to be...
+BOY'S VOICE: papa, help me build my castle!
+PICARD: in a few minutes...
+PICARD: these are my children... my children...
+GUINAN: yeah. they're great, aren't they? you can go back and see them born... go forward and see your grandchildren... time has no meaning here.
+WOMAN'S VOICE: dinner's ready! let's go!
+BOY: papa... are you coming?
+PICARD: go on... go on without me...
+PICARD: guinan... can i leave the nexus?
+GUINAN: why would you want to leave?
+PICARD: can i?
+GUINAN: yes... where would you go?
+PICARD: i don't understand.
+GUINAN: i told you, time has no meaning here. if you leave, you can go anywhere... any time.
+
+PICARD: i know exactly where i want to go... and when. back to that mountaintop on veridian three... before soran put out the star. i have to stop him. 
+GUINAN: what makes you think things will be any different this time?
+PICARD: you're right. i'll need help. guinan, will you come back with me? together, we could --
+GUINAN: i can't leave. i'm already there, remember?
+GUINAN: i know just the guy.
+
+PICARD: james kirk. 
+KIRK: beautiful day, isn't it?
+PICARD: yes... yes, it is.
+KIRK: do you mind?
+PICARD: oh.
+PICARD: captain, do you realize what -- but kirk interrupts as he sees something o.c.
+KIRK: wait a second. i think something's burning.
+
+KIRK: looks like someone was cooking eggs... come on in, it's all right. this is my house -- or at least it used to be, i sold it years ago. 
+PICARD: i'm captain jean-luc picard of the starship enterprise.
+KIRK: this clock... i gave this clock to bones...
+KIRK: jake! jake, you miserable old mutt... how can you be here? he's been dead seven years.
+ANTONIA'S VOICE: come on, jim, i'm starving. how long are you going to be rattling around that kitchen?
+KIRK: that's antonia...
+KIRK: wait a minute...
+KIRK: the future... what are you talking about? this is the past...
+KIRK: this is nine years ago... the day i told her i was going back to starfleet...
+KIRK: these were ktarian eggs -- her favorite.i was cooking them to soften the blow... and i gave her this.
+PICARD: i know how real this must seem to you, but it's not. this isn't really your house. we've both been caught up in some sort of temporal nexus.
+KIRK: dill weed.
+KIRK: there's a bottle of dill weed on the second shelf to the left, right behind the nutmeg.
+PICARD: how long have you been here?
+KIRK: i don't know. i was on the enterprise-b... in the deflector control room... keep stirring these, will you?
+KIRK: the bulkhead in front of me disappeared... then i was out there chopping wood. thanks.
+PICARD: history records that you died saving the enterprise-b from an energy ribbon eighty years ago...
+KIRK: so you're telling me this is the twenty-fourth century... and i'm dead?
+
+PICARD: not exactly. as i said, this is some kind of... 
+KIRK: temporal nexus... yeah, i heard you. something's missing...
+PICARD: captain, i need your help. i want you to leave the nexus with me.
+
+PICARD: we have to go back to a planet called veridian iii and stop a man from destroying a star. there are millions of lives at stake. 
+KIRK: you said history considers me dead. who am i to argue with history?
+PICARD: you're a starfleet officer and you have a duty to --
+KIRK: i don't need to be lectured by you. i was out saving the galaxy when your grandfather was still in diapers. and frankly, i think the galaxy owes me one i was like you once... so worried about duty and obligations that i couldn't see anything past this uniform. and in the end, what did it get me? nothing. not this time. kirk brushes past picard and stops at the foot of the stairs.
+KIRK: i'm going to walk up these stairs, march into that bedroom and tell antonia that i want to marry her.
+KIRK: this time things are going to be different.
+
+PICARD: this doesn't look like your bedroom. kirk looks around for a moment, the pieces starting to fall into place. he smiles with a growing realization... 
+KIRK: no... no, it's not. it's better.
+PICARD: better?
+KIRK: this is my uncle's barn in iowa...
+KIRK: i took that horse out for a ride seven years ago... on a spring day. kirk moves to the barn door and opens it revealing a beautiful spring day.
+
+KIRK: just like this. if i'm right, this is the day i met antonia. 
+KIRK: this nexus of yours is very clever. i can start all over again -- do things right from day one.
+
+PICARD: antonia? 
+KIRK: she's not real either, is she? nothing here is... nothing here matters... all euphoria is now gone from kirk -- it's a moment of self-revelation. he glances around.
+KIRK: it's kinda like... orbital skydiving. exciting for a few minutes... but in the end, you haven't really done anything... you haven't made a difference...
+KIRK: captain of the enterprise, huh?
+PICARD: that's right.
+KIRK: close to retirement?
+PICARD: i hadn't planned on it.
+KIRK: well, let me tell you something - don't. don't let them promote you... don't let them transfer you... don't let anything take you off the bridge of that ship... because while you're there, you can make a difference.
+PICARD: you don't need to be on the bridge of a starship. come with me. help me stop soran. make a difference again.
+KIRK: how can i argue with the captain of the enterprise? what was the name of that planet... veridian iii?
+PICARD: that's right.
+KIRK: i take it the odds are against us, and the situation is grim?
+PICARD: you could say that.
+KIRK: of course, if spock were here, he'd say i was being an irrational, illogical human for wanting to go on a mission like that... and for the first time, we can see the twinkle in his eye that tells us jim kirk is back.
+KIRK: sounds like fun.
+
+KIRK: nice shot. 
+PICARD: i'll find a way to contact the enterprise. you're going to be all right.
+KIRK: did we do it? did we make a difference...?
+PICARD: yes. thank you.
+KIRK: least i could do...for a captain of the enterprise.
+PICARD: try to hang on.
+
+WORF: captain, are you all right? 
+PICARD: yes.
+LA FORGE: what about doctor soran?
+PICARD: you needn't worry about the doctor anymore.
+PICARD: was there a problem with the klingons?
+GEORDI: you could say that...
+
+PICARD: our casualties were light. but unfortunately the enterprise herself cannot be salvaged. move along the corridor in find beverly helping an injured crewmember into the arms of a waiting medical n.d. ogawa walks up to her 
+OGAWA: that should be the last of the wounded, doctor. beverly nods. she looks exhausted.
+BEVERLY: two hundred thirty-two patients in under two days.
+BEVERLY: save that stretcher...
+OGAWA: is there another patient?
+BEVERLY: no -- that one's for me.
+
+TROI: over here, data! i think i've found something. 
+TROI: one life sign, very faint.
+
+DATA: spot. 
+DATA: i am very happy to find you, spot.
+TROI: another family reunited.
+TROI: data... are you all right?
+DATA: i am not sure, counselor. i am happy to see spot... and yet i am crying. my emotional program must be malfunctioning again.
+TROI: no, data... i think it's working perfectly.
+
+RIKER: is this it? 
+RIKER: i'm going to miss this ship. she went before her time.
+PICARD: it's not how many years you've lived, wil... but how you've lived them. someone once told me that time is a predator that stalks us all our lives. but maybe time is also a companion who goes with us on our journey, and reminds us to cherish the moments of our lives... because they will never come again. we are after all. only mortal.
+RIKER: speak for yourself, sir. i kinda planned on living forever.
+
+RIKER: i always thought i'd have a crack at this chair one day. 
+PICARD: you may still... somehow i doubt this will be the last ship to carry the name enterprise.
+PICARD: picard to farragut. two to beam up.
 
