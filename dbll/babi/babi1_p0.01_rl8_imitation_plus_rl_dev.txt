@@ -1,0 +1,347 @@
+1 Mary travelled to the garden.		0
+2 Daniel went to the kitchen.		0
+3 Where is Mary? 	garden	0
+4 Yes!		1
+5 Sandra went back to the bathroom.		0
+6 Sandra moved to the garden.		0
+7 Where is Sandra? 	garden	0
+8 That's right.		1
+9 John travelled to the office.		0
+10 Mary journeyed to the kitchen.		0
+11 Where is Daniel? 	kitchen	0
+12 Correct!		1
+13 John went back to the bedroom.		0
+14 Daniel went back to the bathroom.		0
+15 Where is Daniel? 	bathroom	1
+16 John travelled to the bathroom.		0
+17 John journeyed to the hallway.		0
+18 Where is John? 	hallway	0
+19 Yes, that's right.		1
+1 John went back to the hallway.		0
+2 Daniel travelled to the office.		0
+3 Where is Daniel? 	office	1
+4 Mary travelled to the hallway.		0
+5 Mary went to the office.		0
+6 Where is Daniel? 	office	0
+7 That's right.		1
+8 Mary travelled to the kitchen.		0
+9 John moved to the garden.		0
+10 Where is Daniel? 	office	1
+11 John journeyed to the kitchen.		0
+12 Daniel journeyed to the bathroom.		0
+13 Where is Mary? 	kitchen	1
+14 Mary went back to the bedroom.		0
+15 Sandra went to the kitchen.		0
+16 Where is Mary? 	bedroom	1
+1 Daniel journeyed to the hallway.		0
+2 Sandra went back to the bathroom.		0
+3 Where is Daniel? 	hallway	0
+4 That's right.		1
+5 Daniel travelled to the bedroom.		0
+6 Daniel moved to the hallway.		0
+7 Where is Daniel? 	hallway	0
+8 That's correct.		1
+9 Daniel went to the garden.		0
+10 Sandra travelled to the kitchen.		0
+11 Where is Daniel? 	garden	0
+12 That's right.		1
+13 Sandra went back to the bathroom.		0
+14 Daniel went back to the bedroom.		0
+15 Where is Sandra? 	bathroom	1
+16 Mary went to the kitchen.		0
+17 Sandra went to the kitchen.		0
+18 Where is Sandra? 	kitchen	0
+19 That's right.		1
+1 Daniel went to the garden.		0
+2 Daniel went back to the office.		0
+3 Where is Daniel? 	office	0
+4 Yes, that is correct!		1
+5 Sandra went to the bedroom.		0
+6 Sandra went to the office.		0
+7 Where is Daniel? 	office	0
+8 Yes!		1
+9 Mary went back to the bathroom.		0
+10 Sandra went back to the kitchen.		0
+11 Where is Daniel? 	office	1
+12 Mary went back to the bedroom.		0
+13 John went back to the garden.		0
+14 Where is Sandra? 	kitchen	1
+15 Mary journeyed to the hallway.		0
+16 Daniel went back to the bedroom.		0
+17 Where is Mary? 	hallway	1
+1 Daniel journeyed to the hallway.		0
+2 Mary went to the office.		0
+3 Where is Mary? 	office	0
+4 That's correct.		1
+5 Mary moved to the kitchen.		0
+6 Mary went to the office.		0
+7 Where is Mary? 	office	1
+8 Sandra journeyed to the hallway.		0
+9 Mary moved to the kitchen.		0
+10 Where is Mary? 	kitchen	1
+11 Mary moved to the office.		0
+12 Daniel journeyed to the garden.		0
+13 Where is Mary? 	office	1
+14 Daniel moved to the office.		0
+15 John journeyed to the office.		0
+16 Where is Daniel? 	office	1
+1 Mary moved to the garden.		0
+2 Daniel went to the office.		0
+3 Where is Mary? 	garden	1
+4 Daniel journeyed to the garden.		0
+5 Daniel travelled to the office.		0
+6 Where is Daniel? 	office	0
+7 That's right.		1
+8 Mary moved to the bathroom.		0
+9 Mary went back to the bedroom.		0
+10 Where is Mary? 	bedroom	1
+11 Mary travelled to the garden.		0
+12 John journeyed to the garden.		0
+13 Where is Daniel? 	office	0
+14 Yes!		1
+15 Sandra went back to the garden.		0
+16 Daniel went to the garden.		0
+17 Where is Mary? 	garden	1
+1 Daniel moved to the garden.		0
+2 Sandra travelled to the hallway.		0
+3 Where is Sandra? 	hallway	0
+4 That's right.		1
+5 John moved to the bathroom.		0
+6 Mary travelled to the garden.		0
+7 Where is Mary? 	garden	0
+8 That's correct.		1
+9 John moved to the kitchen.		0
+10 Daniel went to the bathroom.		0
+11 Where is John? 	kitchen	1
+12 Sandra went back to the office.		0
+13 Sandra travelled to the hallway.		0
+14 Where is Sandra? 	hallway	1
+15 John journeyed to the office.		0
+16 Daniel went to the garden.		0
+17 Where is Sandra? 	hallway	1
+1 Mary went back to the kitchen.		0
+2 Sandra travelled to the hallway.		0
+3 Where is Mary? 	kitchen	0
+4 Yes, that is correct!		1
+5 Sandra went back to the bathroom.		0
+6 John travelled to the garden.		0
+7 Where is Sandra? 	bathroom	0
+8 That's correct.		1
+9 Daniel went to the hallway.		0
+10 Sandra travelled to the office.		0
+11 Where is Sandra? 	office	0
+12 Correct!		1
+13 Mary went to the bathroom.		0
+14 Mary travelled to the garden.		0
+15 Where is Mary? 	garden	0
+16 Correct!		1
+17 Daniel moved to the garden.		0
+18 Daniel travelled to the bathroom.		0
+19 Where is Mary? 	garden	0
+20 Yes!		1
+1 Daniel journeyed to the kitchen.		0
+2 Mary travelled to the garden.		0
+3 Where is Daniel? 	kitchen	1
+4 Sandra journeyed to the office.		0
+5 John moved to the hallway.		0
+6 Where is Mary? 	garden	0
+7 Yes!		1
+8 Mary journeyed to the kitchen.		0
+9 Daniel travelled to the bathroom.		0
+10 Where is Mary? 	kitchen	0
+11 That's correct.		1
+12 Daniel journeyed to the kitchen.		0
+13 Daniel journeyed to the garden.		0
+14 Where is Daniel? 	garden	0
+15 That's right.		1
+16 Sandra journeyed to the bathroom.		0
+17 Daniel journeyed to the bedroom.		0
+18 Where is Daniel? 	bedroom	0
+19 Yes, that is correct!		1
+1 Mary moved to the hallway.		0
+2 Mary moved to the office.		0
+3 Where is Mary? 	office	1
+4 Daniel travelled to the office.		0
+5 John went back to the kitchen.		0
+6 Where is Daniel? 	office	1
+7 Mary went back to the hallway.		0
+8 Mary went back to the office.		0
+9 Where is Daniel? 	office	1
+10 John went back to the office.		0
+11 Mary journeyed to the kitchen.		0
+12 Where is John? 	office	1
+13 John travelled to the garden.		0
+14 Daniel journeyed to the bathroom.		0
+15 Where is John? 	garden	1
+1 Sandra went back to the bedroom.		0
+2 Daniel went to the kitchen.		0
+3 Where is Sandra? 	bedroom	0
+4 That's correct.		1
+5 Mary went back to the bedroom.		0
+6 Daniel journeyed to the garden.		0
+7 Where is Sandra? 	bedroom	1
+8 Mary moved to the bathroom.		0
+9 Daniel moved to the kitchen.		0
+10 Where is Mary? 	bathroom	0
+11 Yes, that's right.		1
+12 Daniel moved to the bedroom.		0
+13 John journeyed to the office.		0
+14 Where is Daniel? 	bedroom	0
+15 Yes, that is correct!		1
+16 John went to the bathroom.		0
+17 Sandra moved to the kitchen.		0
+18 Where is Sandra? 	kitchen	1
+1 Daniel moved to the office.		0
+2 Sandra went to the bathroom.		0
+3 Where is Sandra? 	bathroom	0
+4 Yes!		1
+5 John went to the bedroom.		0
+6 John travelled to the kitchen.		0
+7 Where is John? 	kitchen	1
+8 Mary travelled to the kitchen.		0
+9 John went back to the bathroom.		0
+10 Where is John? 	bathroom	1
+11 Mary travelled to the bedroom.		0
+12 Sandra went back to the kitchen.		0
+13 Where is John? 	bathroom	1
+14 Sandra went back to the office.		0
+15 Sandra travelled to the hallway.		0
+16 Where is John? 	bathroom	1
+1 Mary moved to the kitchen.		0
+2 Mary went to the garden.		0
+3 Where is Mary? 	garden	1
+4 Daniel moved to the bathroom.		0
+5 Mary moved to the bedroom.		0
+6 Where is Mary? 	bedroom	0
+7 Yes, that is correct!		1
+8 Daniel went back to the bedroom.		0
+9 Sandra travelled to the kitchen.		0
+10 Where is Mary? 	bedroom	0
+11 Yes, that's right.		1
+12 Mary went back to the garden.		0
+13 Sandra went to the office.		0
+14 Where is Sandra? 	office	0
+15 Yes!		1
+16 John journeyed to the bedroom.		0
+17 Sandra journeyed to the kitchen.		0
+18 Where is Sandra? 	kitchen	1
+1 Sandra journeyed to the garden.		0
+2 Daniel went to the garden.		0
+3 Where is Sandra? 	garden	0
+4 Yes, that is correct!		1
+5 John journeyed to the bedroom.		0
+6 John travelled to the office.		0
+7 Where is Sandra? 	garden	0
+8 Correct!		1
+9 Sandra journeyed to the hallway.		0
+10 Daniel journeyed to the bathroom.		0
+11 Where is Daniel? 	bathroom	1
+12 Sandra went to the kitchen.		0
+13 Mary moved to the bathroom.		0
+14 Where is Daniel? 	bathroom	0
+15 Correct!		1
+16 Sandra travelled to the garden.		0
+17 John went back to the hallway.		0
+18 Where is Sandra? 	garden	1
+1 Daniel moved to the bathroom.		0
+2 Daniel went to the office.		0
+3 Where is Daniel? 	office	0
+4 Yes, that's right.		1
+5 Mary travelled to the hallway.		0
+6 Daniel went back to the bedroom.		0
+7 Where is Mary? 	hallway	0
+8 Yes!		1
+9 Mary journeyed to the bedroom.		0
+10 Sandra went back to the kitchen.		0
+11 Where is Mary? 	bedroom	0
+12 Yes, that is correct!		1
+13 Daniel moved to the kitchen.		0
+14 John moved to the bedroom.		0
+15 Where is Mary? 	bedroom	1
+16 Mary went to the office.		0
+17 Mary travelled to the bedroom.		0
+18 Where is Sandra? 	kitchen	1
+1 Sandra moved to the kitchen.		0
+2 Mary moved to the bedroom.		0
+3 Where is Mary? 	bedroom	1
+4 John journeyed to the kitchen.		0
+5 Mary moved to the kitchen.		0
+6 Where is John? 	kitchen	1
+7 Daniel went to the bedroom.		0
+8 John went back to the office.		0
+9 Where is Mary? 	kitchen	0
+10 Yes, that's right.		1
+11 Sandra went to the hallway.		0
+12 Mary moved to the office.		0
+13 Where is Mary? 	office	1
+14 John journeyed to the hallway.		0
+15 Sandra journeyed to the bedroom.		0
+16 Where is John? 	hallway	1
+1 John journeyed to the hallway.		0
+2 Mary journeyed to the bathroom.		0
+3 Where is Mary? 	bathroom	0
+4 That's right.		1
+5 John journeyed to the bedroom.		0
+6 Daniel travelled to the bedroom.		0
+7 Where is John? 	bedroom	1
+8 John travelled to the kitchen.		0
+9 Mary travelled to the kitchen.		0
+10 Where is Daniel? 	bedroom	1
+11 Daniel travelled to the garden.		0
+12 Daniel went to the bathroom.		0
+13 Where is Daniel? 	bathroom	1
+14 Daniel moved to the kitchen.		0
+15 Sandra moved to the bathroom.		0
+16 Where is Sandra? 	bathroom	1
+1 Daniel went to the kitchen.		0
+2 John travelled to the bathroom.		0
+3 Where is Daniel? 	kitchen	0
+4 That's correct.		1
+5 John went back to the hallway.		0
+6 Daniel journeyed to the office.		0
+7 Where is John? 	hallway	0
+8 Yes!		1
+9 Mary went back to the kitchen.		0
+10 Sandra journeyed to the bedroom.		0
+11 Where is John? 	hallway	1
+12 Daniel journeyed to the garden.		0
+13 Daniel went to the bathroom.		0
+14 Where is Mary? 	kitchen	1
+15 John moved to the bathroom.		0
+16 Mary went back to the garden.		0
+17 Where is John? 	bathroom	0
+18 That's right.		1
+1 John moved to the bedroom.		0
+2 Daniel journeyed to the bedroom.		0
+3 Where is John? 	bedroom	1
+4 Daniel travelled to the kitchen.		0
+5 Daniel moved to the bathroom.		0
+6 Where is Daniel? 	bathroom	1
+7 Mary journeyed to the garden.		0
+8 Daniel went back to the kitchen.		0
+9 Where is Daniel? 	kitchen	1
+10 Mary travelled to the bathroom.		0
+11 John went to the office.		0
+12 Where is Daniel? 	kitchen	1
+13 Mary moved to the bedroom.		0
+14 Sandra went to the garden.		0
+15 Where is Mary? 	bedroom	0
+16 Correct!		1
+1 Mary journeyed to the bathroom.		0
+2 Sandra moved to the kitchen.		0
+3 Where is Sandra? 	kitchen	0
+4 That's right.		1
+5 Sandra travelled to the bedroom.		0
+6 Mary journeyed to the kitchen.		0
+7 Where is Sandra? 	bedroom	1
+8 Mary went back to the bathroom.		0
+9 Sandra went to the kitchen.		0
+10 Where is Sandra? 	kitchen	1
+11 Mary journeyed to the kitchen.		0
+12 Sandra travelled to the bathroom.		0
+13 Where is Sandra? 	bathroom	0
+14 That's correct.		1
+15 John went back to the office.		0
+16 Sandra travelled to the kitchen.		0
+17 Where is John? 	office	0
+18 That's right.		1
