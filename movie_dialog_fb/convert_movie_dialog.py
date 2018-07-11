@@ -14,6 +14,12 @@ import os
 #file_name="babi2_p0.5_rl10_ask_for_sf_train.txt"
 #location=os.path.join('/Users/genevieve/Documents/dbll/babi',file_name)
 
+rootdir = './movie_dialog_dataset'
+
+for subdir, dirs, files in os.walk(rootdir):
+    for file in files:
+        print (os.path.join(subdir, file))
+        
 location='/Users/genevieve/Documents/movie_dialog_dataset/task4_reddit_download/task4_reddit_test.txt'
 f = open(location, 'r') # open the file for reading
 data = []

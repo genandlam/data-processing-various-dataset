@@ -1,0 +1,131 @@
+Agent: and what is the passenger's last name?
+speaker: D, [spelling]
+Agent: first name?
+speaker: E
+Agent: ok and he's travelling to what city, b?
+speaker: Washington D.C.
+Agent: on what date?
+speaker: um June twenty eighth.  uh TWA eight six two, from San Francisco
+Agent: does he have a twa frequent flyer number?
+speaker: I don't know, you want me to find that out?
+Agent: yeah because if he does we can put him in business class
+Agent: but he has to have that to ha- to be able to be put in business
+speaker: ok
+Agent: ok and what is the return date?
+speaker: the return is July one TWA six three
+Agent: ok that's uh let me just tell you what we're booking here that's twa eight
+Agent: six two on the twenty eighth departing san francisco seven fifty a.m.
+Agent: arriving dulles three thirty two p.m. returning twa sixty three on the
+Agent: first of july departing dulles four forty five p.m. arriving san francisco
+Agent: seven ten p.m.
+speaker: ok
+speaker: yeah what is the cost goi-
+Agent: without it see with the frequent flyer number it's four sixty nine it's
+Agent: five thirty one without
+speaker: ok well you mean if he's upgraded or what
+Agent: right exactly
+speaker: hi he's on his way down here to see me so I can ask him but if he
+speaker: doesn't have the frequent flyer number we don't upgrade him
+Agent: well i i i can upgrade him for the price of five thirty one one way i do
+Agent: have to notate i am going to offer you right now the lowest airfare
+Agent: to (washington
+Agent: ok and now i gotta tell you what the lowest airfare for this itinerary. if
+Agent: we use connections would be four forty nine one way
+Agent: if he has an up- if he has a twa frequent flyer number the airfare would
+Agent: be four sixty nine one way without it the fare is five thirty one one
+Agent: way. so i would be notating that a lower fare of eight ninety eight had
+Agent: been declined
+speaker: eight ninety eight declined
+speaker: wait if he has the upgrade it's four sixty nine
+Agent: four sixty nine the lowest airfare that they could use on connections
+Agent: would be four forty nine
+speaker: is this a connecting flight or not?
+Agent: this is nonstop
+speaker: it's nonstop that's what he wants
+Agent: ok but i have to offer these to you
+speaker: no.  no connections. um ok uh
+speaker: all right we'll we'll he's gonna find the number and I can call you back
+speaker: on that ok?
+Agent: ok so as it stands the fare that he's bei- he's paying is one thousand sixty
+Agent: two round trip as opposed to the eight ninety eight
+speaker: one thousand oh sixty two 
+Agent: mm hmmm
+speaker: because he doesn't have the upgrade?
+Agent: because he doesn't have a frequent flyer number
+speaker: well I don't want the business class then what does that, that should
+speaker: bring it down right?
+Agent: that'll bring it down um to let me see what price that would be here.
+Agent: ok that would bring it down to four sixty nine if we don't put him in
+Agent: business class
+speaker: and so what would the round trip be, the total?
+Agent: that's nine thirty eight
+speaker: ok so with the number it's nine thirty eight.  ok he's gonna get the number
+Agent: ok so should i leave this in business or should i put it in coach
+speaker: um
+Agent: i need to know how to book this. it's booked two different ways
+speaker: ok do you think he'll have any trouble getting the number today?
+Agent: no they should give it to him
+speaker: put it in that business class then he's going to get the number.
+speaker: ok?
+speaker: ok) all right thanks
+Agent: ok thank you
+speaker: hm bye
+Agent: bye bye
+Agent: -----
+Agent: american express travel this is a
+Agent: how can i help you
+speaker: ah yes I like to make the uh reservation for three people
+Agent: ok and you're travelling together? to what city and what (state?
+speaker: yes) same flight, I'm looking at the twenty sixth of June Monday
+Agent: uh huh
+speaker: from San Francisco to Raleigh North Carolina
+Agent: and what ti- in the morning?
+speaker: well I look at my ag and oag list shows Piedmont
+Agent: at seven fifty in the morning?
+speaker: ah no twelve fifteen
+Agent: ok let me get that schedule
+speaker: that's the flight one zero zero six, where does it stop?
+Agent: ok that stops in raleigh durham oh wait i'm sorry ch- charlotte let me
+Agent: check i think that's charlotte north carolina, yeah it stops in charlotte
+Agent: north carolina for forty five minutes
+speaker: I see
+Agent: ok let me
+speaker: ok book us on that
+Agent: ok let me book all three of you one moment. ok that would be piedmont
+Agent: airlines one zero zero six
+speaker: fine
+Agent: on the twenty sixth of june departing san francisco twelve fifteen p.m.
+Agent: arriving raleigh at nine twenty nine p.m.
+speaker: ok
+Agent: and are you returning back from raleigh to san francisco?
+speaker: correct
+Agent: on what date?
+speaker: twenty seventh, Tuesday.  and I'm looking at uh I don't see that Piedmont
+speaker: uh direct flight coming back I'd like to leave there about four or five p.m.
+Agent: ok piedmont would have a five fifty five p.m. connect through charlotte
+Agent: arrives nine forty four p.m.
+speaker:  yeah that well I see the Delta has four thirty arriving eight fifty
+speaker: five about same time
+Agent: that one's sold out
+speaker: that's sold out?
+Agent: completely sold out. now there's a delta four ten connects with dallas
+Agent: arrives eight forty
+speaker: oh ok that's all right too
+Agent: ok let me book that one one moment
+Agent: ok that's delta one zero six seven on the twenty seventh of june
+speaker: fine
+Agent: departing raleigh at four ten arriving dallas at five fifty eight p.m.
+speaker: right
+Agent: connecting to delta one three nine on the twenty seventh departing dallas
+Agent: at six fifty eight p.m. arriving san francisco eight forty p.m.
+speaker: eight forty?  (uh huh
+Agent: uh huh)
+speaker: ok
+speaker: what's the airline charge?
+Agent: ok the total airfare for this itinerary is one thousand fifty four
+speaker: oh is that right?
+Agent: because they don't have any, they don't have a seven day advance purchase
+Agent: on any of this
+speaker: yeah ok, boy that's a stiff one
+Agent: ok?
+speaker: yes thank you 

@@ -1,0 +1,145 @@
+Agent: american express a speaking.
+speaker: Yes um hello I'm B with WWW and I'd like to make
+speaker: some travel arrangements?
+Agent: okay, and what day did you wish to travel?
+speaker: This is um May 12th.
+Agent: out of san francisco?
+speaker: Out of San Francisco.
+Agent: and going where?
+speaker: Going to Los Angeles.  Umm there's an eight o'clock I believe United flight.
+Agent: that's eight a.m.?
+speaker: Right.
+Agent: okay i've got that - and returning on what day?
+speaker: Same day.
+Agent: and about what time?
+speaker: At six o'clock.
+Agent: again on united here?
+speaker: Sure, why not.
+Agent: okay. we have you confirmed on united flight one one zero three.
+speaker: MhM
+Agent: that's on the 12th of may, out of san francisco at 8 a.m. into los angeles
+Agent: at nine nineteen a.m., returning on the same day on united flight one zero
+Agent: four four, leaving los angeles at 6 p.m., and getting into san francisco
+Agent: at seven thirteen p.m.
+speaker: Okay, (very good.
+Agent: and the) fare on this is a hundred and ninety-eight dollars.
+speaker: You're kidding, what happened to the seventy-eight dollar fares or those
+speaker: sort of things?
+Agent: those you need to stay over a saturday night for.
+speaker: Uhn, well, can't do that.
+Agent: yeah
+speaker: Or, Okay, very good.
+speaker: Thank you.
+Agent: thank you.
+speaker: Bye.
+Agent: mm bye now.
+Agent: -----
+speaker: Hi, this is C??, I need to make some um, uh travel
+speaker: arrangements please.
+Agent: now what's the passenger's last name?
+speaker: It's DDD, D D D
+Agent: and first name?
+speaker: Is ddd, d d d
+Agent: okay, what day would he like to travel?
+speaker: He needs to go on Tuesday May 9th.
+Agent: mhm
+speaker: >From San Fran to Philadelphia, on United flight ninety-four, that's 
+speaker: the one-thirty to nine thirty-nine non-stop.
+Agent: okay, i've got that for him, and returning when?
+speaker: Uh, let's leave the return open right now, he needs to figure that out.
+Agent: and, oo-shall we wait on anything else until we know what ah, what day
+Agent: he's returning?
+speaker: Yeah, if we could, he's got um - as long as he's got a slot on that flight
+speaker: we're okay.
+Agent: okay.
+speaker: We should know sometime this afternoon.
+Agent: okay, if you want to give me a call back.
+speaker: Great, will do.
+Agent: okay.
+speaker: Okay, great.  (Thanks.
+Agent: thank you,) c.
+speaker: Mmm. Bye-bye.
+Agent: bye now
+Agent: -----
+Agent: american express, a speaking.
+speaker: Ah, yes, I'd like to make a reserv- some reservations please.
+Agent: and what's the passenger's last name?
+speaker: And we need to do the same thing we've done once or twice before.
+speaker: And it's gonna be for May eleven.  If you're at that point yet.
+Agent: okay. may eleventh you said?
+speaker: Mhm
+Agent: san francisco to
+speaker: Nope. Nope, not that easy, now- I- don't ask me why he wants to do
+speaker: this, but this is his route.  He wants to take a Piedmont flight that
+speaker: leaves Phoenix aimed for Baltimore, at ten thirty in the morning,,,And
+speaker: then he wants to connect with another Piedmont flight from Baltimore to
+speaker: New York, and then a Saudia flight to Riyadh.
+Agent: okay i show a - a piedmont flight f- at nine twenty-five a.m., i don't
+Agent: show a ten thirty one.
+speaker: Is that from Phoenix to Baltimore?
+Agent: yes.
+speaker: Okay let's do that.
+Agent: okay.
+Agent: and what day from um
+speaker: All consecutive.
+Agent: okay.
+speaker: Or,,,back to back as best as possible.
+Agent: ah-hah. so baltimore to ji- to jfk.
+speaker: Wherever Saudia flies out of to Riyadh.
+Agent: one second.
+speaker: He just thinks that Baltimore is the most efficient route to get to - JFK
+speaker: from Phoenix.
+speaker: And we're looking for economy, not business or first.
+Agent: right, you're looking for ah saudi arabian a- airlines.
+speaker: Yeah, using Saudi on the eleventh or - I guess it'd probably
+speaker: at the night of the eleventh.
+Agent: right, i - that's what i'm looking at. it is sold out.
+speaker: That's not a good new - that's not good news.
+Agent: no it isn't - out of jfk. um
+speaker: Is Friday open?
+Agent: let me check here. i'm showing economy on pan am is open.
+speaker: (on that Thursday?
+Agent: on the eleventh), yes
+speaker: Okay, well,,,we have to get him to Riyadh one way or another, so
+Agent: okay
+speaker: let's sign him up with whatever we can.
+Agent: okay, one second here.
+Agent: okay, and then returning from there?
+speaker: Open.  We don't know when t- he's gonna come back yet.
+Agent: ok
+speaker: But it'll be the same routing, if you have to,,,estimate a price.
+Agent: okay. okay, we've got him on piedmont flight f- eleven fifty-four,
+Agent: on the eleventh of may.
+speaker: Okay,,,ah Piedmont eleven fifty-four
+Agent: m
+speaker: on five eleven
+Agent: out of phoenix at nine twenty-five a.m. ,,,into baltimore at four
+Agent: fifty-six p.m.
+speaker: Okay.
+Agent: same day, on the eleventh of may, it's piedmont flight,,,forty-five
+Agent: thirty-five.
+speaker: Forty-five thirty-five
+Agent: out of baltimore at five fifty-five p.m.
+speaker: Five fifty-five?
+Agent: yes.
+speaker: Mhm.
+Agent: into jfk at seven ten p.m.
+speaker: Mhm.
+Agent: ahm,,,connecting there with panam flight ten sixty-six
+speaker: Mhm.
+Agent: leaving jfk at nine fifteen p.m.
+speaker: Nine fifteen?
+Agent: yes.
+speaker: Okay.
+Agent: and getting into riyadh at seven fifteen p.m. the following day.
+speaker: Yeah
+Agent: okay) now if you want to look that up and i'll look at - ,,,
+Agent: a couple of things on this and um give you a call back either today
+Agent: or tomorrow morning as far as faring goes.
+speaker: Okay, yeah
+speaker: Okay?
+Agent: all righty.
+speaker: Thank you very much.
+Agent: sure thing.
+speaker: Bye-bye.
+Agent: bye now.

@@ -1,0 +1,60 @@
+Agent: to remain intact
+speaker: uh huh
+Agent: by the end of tomorrow
+speaker: ok well I can do it right now actually uh
+speaker: ok thank you
+Agent: you're welcome
+speaker: bye
+Agent: bye now
+Agent: -----
+speaker: Good morning, A
+Agent: good morning mr. b this is c with american express returning
+Agent: your call
+speaker: ah I need to know some prices ah to compare against subcontract
+Agent: ok
+speaker: ah  I need to go in from San Francisco to Wild Wood, New Jersey and return
+Agent: ok let me check where wild wood is here
+speaker: that's near Atlantic City
+Agent: ok one second. ok yeah we don't have commercial flights going into
+Agent: wild wood cape may. what would be the closest would be atlantic city
+speaker: ok
+Agent: and let me see
+speaker: I need a full coach
+Agent: full coach ok one second
+Agent: ok full coach would be five eighty six each direction
+speaker: ok next one is simple from 
+Agent: mm hmm
+speaker: SFO to Washington D.C. and return
+Agent: ok again full coach would be five hundred and thirty one dollars each
+Agent: direction
+speaker: ok.  and last one, you got me exactly where it is, it's Tok, Alaska t o k
+Agent: t o k?
+speaker: Yeah, my guess is it's near the ?? or Juno
+Agent: it's in the same time zone as juno's in
+speaker: ok then why don't you give me the ah the price for ah, oh it's two
+speaker: hundred eight miles southeast of Fairbanks
+Agent: ok one second
+speaker: for me so I guess what we've got to do is uh figure into Fairbanks
+Agent: let me look there hold on just a second
+speaker: now you know ( where it is
+Agent: yeah i) i know where it should be but i mean it's on this in this
+Agent: atlas and um two hundred and eight miles southeast of fairbanks puts
+Agent: it right in the middle of nowhere. fairbanks would be the closest for it.
+speaker: ok
+Agent: ok one second
+speaker: from the sound of it that's about where it belongs
+Agent: full y would be four ninety five oh seven each direction for uh to get
+Agent: him up to uh
+speaker: to Fairbanks
+Agent: fa- whoops one second (??
+speaker: that does) that sounds low
+Agent: yeah anchorage sorry one second
+Agent: seven thirty four sixty three each direction
+speaker: that sounds more like it
+Agent: yeah
+speaker: ok
+Agent: ok
+speaker: thank you very much
+Agent: you're quite welcome
+speaker: bye
+Agent: mm bye now

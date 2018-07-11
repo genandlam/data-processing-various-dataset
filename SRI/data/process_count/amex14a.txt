@@ -1,0 +1,134 @@
+speaker: ??
+Agent: hi this is d with american express travel
+speaker: Hi
+Agent: hi i just wanted to um first of all i have a couple of things i want to
+Agent: ask you about your trip to burbank tomorrow
+speaker: yeah I'd like to find out about it too
+Agent: all righty umm yeah mr. b had made the reservation for both you and
+Agent: himself umm
+speaker: ok
+Agent: i can give you the flights rundown if if you'd like to hear (those
+speaker: I think) I let's see I let me ok go ahead I I have a note that and I I'll
+speaker: double check the information ??
+Agent: ok um he's go- got you booked on us air flight twenty seven hundred
+speaker: right
+Agent: leaving tomorrow morning at six fifty five a.m. from san francisco
+speaker: right
+Agent: arrival in burbank is at eight eleven
+speaker: right
+Agent: and then coming home on u- united flight number nine five nine out of
+Agent: burbank at seven twelve
+speaker: ok
+Agent: and arrival san fran at eight thirty six
+speaker: ok
+speaker: c-could you also tell me what alternate flights and we were going to be
+speaker: involved in meetings and traffic and all that sort of thing
+Agent: mm hmm
+speaker: could you a- a- are there any alternate flights from uh Burbank to to um
+Agent: (sfo
+speaker: SFO) around that period say we miss the seven twelve one
+Agent: yeah let's see. no the seven twelve is going to be the last flight that
+Agent: we had umm (that is from burbank
+speaker: so we abs- so we absolutely) need to make that one
+Agent: yeah that that would be from burbank
+Agent: now departing from um la
+speaker: Yeah LAX might be another alternative 
+Agent: there's um there's a flight at nine p.m. on united there's also one on
+Agent: us air there's also one on american
+speaker: ok
+Agent: and aside from that there might even be one at eight now us air's
+Agent: eight o'clock is sold out, american and united both have eight o'clock
+Agent: flights um if you miss the seven twelve i can give you all the flight
+Agent: numbers if you need them
+speaker: no actually that's not important it's just i- i- I just wanted to
+speaker: understand what the alternatives are in case we get tied up in a
+speaker: meeting or traffic or something
+Agent: right
+speaker: um but there's eight o'clock and nine o'clock flights on uh United US Air
+speaker: and what was the last one?
+Agent: and american
+speaker: American
+Agent: and also um ten o'clock even
+speaker: ok (you don't need to go that far
+Agent: from lax)
+speaker: ok great 
+Agent: ok
+speaker: thanks a lot
+Agent: bye bye
+speaker: bye
+Agent: -----
+Agent: good afternoon american express this is d
+speaker: oh hi D I need an airfare for a proposal
+Agent: ok from where to where
+speaker: SFO to Kwalalampour
+Agent: oh my ok and let's see
+speaker: say mid July
+Agent: mid july ok. let's see hold on a second while i pull it up
+speaker: give me an airport
+Agent: code
+speaker: code yeah
+Agent: ok. ok it's kul
+speaker: ok
+Agent: now let's see if we get a quote here. ah full coach?
+speaker: yeah
+Agent: all right round trip it's twenty three thirty eight or twenty excuse me
+Agent: twenty two thirty eight
+speaker: twenty two thirty eight that's coach 
+Agent: that's coach
+speaker: now they can go business that far can't
+Agent: uh huh
+speaker: ok
+Agent: business is going to be round trip twenty six twenty six
+speaker: twenty six twenty six ok thank you very much
+Agent: sure. (bye bye
+speaker: bye)
+Agent: -----
+Agent: good afternoon american express this is d
+speaker: yes um ah I'm trying to find out what the earliest flight is um either
+speaker: for next Tuesday or Wednesday for Las Vegas from San Francisco
+speaker: sure, there's um there's an auto show or design auto or something like
+speaker: tha- in Las Vegas and it it's at nine thirty and it ends at six so something
+speaker: that has to be has to be in uh (Las Vegas about nine
+Agent: yeah didn't didn't you call earlier?)
+speaker: I called from Los A- San Jose now they say now find out from San Francisco.
+speaker: (I don't know how much this is ??
+Agent: oh no, ok.) um as far as yeah from san fran it's it's not much better.
+Agent: the earliest flight i have would get in at nine forty one
+speaker: uhhhh even if uh it's connecting?
+Agent: that's a non stop er that's a a direct flight meaning it would make a stop
+Agent: but they don't have to get off and change flights, um connecting would
+Agent: get in at nine fifty nine that's the earliest flight
+speaker: nine fifty nine the other one was nine forty one so they'd be better off uh
+Agent: right
+speaker: from San Jose and returning eight oh five through Los Angeles right
+Agent: ah let's see back to san fran. right
+speaker: ok 
+Agent: ok
+speaker: thank you
+Agent: uh huh (bye bye
+speaker: bye)
+Agent: -----
+Agent: good afternoon american express this is d
+speaker: can you tell me what the lowest rate uh going now is for round trip to
+speaker: from San Francisco to Seattle
+Agent: ok let me take a look
+Agent: i'm doing a fare shop right now. umm. round trip looks like hoo wee umm
+Agent: six hundred and ten dollars looks like the round trip that's the lowest
+speaker: ok and do you know if they
+Agent: that doesn't seem right though. that seems like there's got to be something
+Agent: lower than that. wait a minute
+speaker: ?? service only
+Agent: actually if you book seven days in advance and and book with a a penalty
+Agent: fare just like a nonrefundable
+speaker: right
+Agent: you can get it for about two fifty eight (round trip
+speaker: ooh)
+Agent: or if you went with a that would be excuse me a twenty five percent
+Agent: penalty with seven days advance or if you went with a fourteen day
+Agent: advance nonrefundable that's about two fifty eight two eighteen
+speaker: so two eighteen (then
+Agent: depending) on the availability yeah
+speaker: ok that sounds terrific
+Agent: ok thank you very much (d
+speaker: uh huh) bye
+Agent: bye

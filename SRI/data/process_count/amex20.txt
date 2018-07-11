@@ -1,0 +1,110 @@
+speaker: A.B.
+Agent: hi mr. b this is c with american express
+speaker: yeah hi
+speaker: ah yes I called to make arrangements for a trip to Vancouver leaving on August nineth and returning on August tenth (from
+Agent: um)
+speaker: SFO
+Agent: ok this is a new reservation here
+speaker: it's a new reservation
+speaker: this is A B [spells name] not [alternative name]
+Agent: not [repeats alternative name] ok yeah i was a little confused there
+Agent: one second here
+Agent: and do you have a charge number at this time
+Agent: ... [break in transcript]
+Agent: ok going up to vancouver you said on the eigth of august
+speaker: on the nineth 
+Agent: the nineth
+speaker: Wednsday the nineth back Thursday the tenth
+Agent: ok and this is from san francisco
+speaker: yeah
+Agent: and about what time did you want to leave
+speaker: ah what's your first one or two morning flights on the nineth
+Agent: ok there's a delta nonstop at seven forty a.m.
+speaker: mm hmm
+Agent: that gets in at nine forty the next nonstop is going to be the next non stop is sold out
+speaker: probably United
+Agent: yes the one second canadian air
+speaker: oh ok
+Agent: united uh at eleven ten is would stop down
+speaker: n-n- that's too late
+Agent: yeah
+speaker: um
+Agent: that delta flight looks the best
+speaker: ok that's Delta flight what and when again
+Agent: delta flight fourteen oh nine on the nineth of august out of san francisco at seven forty and into uh vancouver at uh nine forty
+speaker: ok
+Agent: and then continuing or returning on what date
+speaker: ah returning the tenth
+Agent: returning the tenth right
+speaker: let's get ah two options in here one will be coming back uh direct say leaving around uh five p.m. or so
+Agent: mm hmm
+speaker: and the other option will be leaving a little earlier stopping over in Seattle for a few hours and then coming back down, so let's just go the direct return leaving around five p.m.
+Agent: ok the two non stops are on canadian airlines they are at one forty p.m. and eight p.m. nothing in between there
+speaker: that's it
+Agent: uh huh
+Agent: ok what about a a change of planes or a quick stop over or one stop maybe in either portland or seattle and continuing on down
+speaker: ok
+Agent: connecting through seattle there'd be a four forty departure uh on alaskan air um it connects up with a united flight at six thirty but let me see what you'd how long do you want would you prefer in ah un seattle
+speaker: um  if I stop over Seattle I'll want a few hours so what I'll want to do is um probably not leave Seattle until about eight thirty or so
+Agent: would you still you would still want to leave around the four o'clock five o'clock hour
+speaker: yeah
+Agent: ?? yeah
+speaker: ok
+Agent: yeah well that's one the other thing is i'll look at ah moving that up a bit
+speaker: uh huh
+Agent: to say four o'clock three thirty
+speaker: uh huh
+speaker: second
+Agent: but for the moment let's just consider that four thirty alaska
+speaker: ok
+speaker: and that then you're saying connects with a six thirty United 
+Agent: right there's a four thirty eight on united let me look at that instead
+Agent: and then expand your return
+Agent: ok there's um
+Agent: a like i could get you on a four thirty eight united out of vancouver it's into seattle at five twenty five
+speaker: mm hmm
+Agent: ah i see a seven fourty five p.m. departure on united let me see if there's something later here
+Agent: uh looks like we might need to get you something earlier if you want that kind of time in seattle ah seven fifty is the last flight out
+speaker: seven fifty is the last anybody has out of
+Agent: uh huh
+speaker: Seattle
+Agent: correct
+speaker: oh I thought I'd been there later than that uh    
+speaker: not even a one stop or a non stop
+Agent: ah let me get you on a on a one stop here
+Agent: wait even a one stop that's that's showing to be the last flight out
+speaker: that's it
+Agent: uh huh
+speaker: ?? back to the airport by seven fifteen ok
+Agent: right
+speaker: um ok so you said at the moment you've got a a four thirty eight United out of Vancouver five twenty five into Seattle 
+Agent: uh huh
+speaker: and I guess a couple of United connections but the latest is seven forty five
+Agent: correct
+speaker: and that get get's back in the bay area at what time
+Agent: at nine thirty four
+speaker: nine thirty four
+speaker: ok if I took what would be the normal direct connection from that four thirty eight
+Agent: the normal connection would be a five fifty five departure getting you back in at seven forty eight
+speaker: seven forty eight ok why don't you go ahead and ticket me on that ?? for the return so I'll take that four thirty eight United five twenty five and then departing again five fifty five
+Agent: ok we've got you then on united flight one one five seven on the tenth of august out of woops one second one second hold on just a second i grabbed the wrong flight one second ok that's united sorry one zero four one
+speaker: one zero four one out of Vancouver
+Agent: at four thirty eight
+speaker: right
+Agent: into seattle at five twenty five
+speaker: uh huh
+Agent: connecting to united one one three seven
+speaker: one one three seven
+Agent: leaving seattle at five fifty five
+Agent: and getting into san francisco at seven forty eight
+speaker: ok and informational purposes the last Untied flight and almost one of the last direct flights is seven forty five and what is that flight number
+Agent: ah that flight number is united flight one zero eight nine
+speaker: one zero eight nine
+speaker: ok so I'm up on Delta as a non stop at seven forty and I'm back on United at ah four thirty eight the next day 
+Agent: that's correct
+speaker: ok
+Agent: the fare on this is three hundred and seventy six seventy
+speaker: ok uh three seventy six seventy is there any
+Agent: no restrictions on it
+speaker: no restrictions none ok
+Agent: and i do need to advise you you do need to bring proof of u- united states citizenship

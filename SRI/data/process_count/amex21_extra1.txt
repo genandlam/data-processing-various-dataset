@@ -1,0 +1,21 @@
+Agent: vright) ok you ah spoke with me earlier
+speaker: oh ok is there can you check for any flights that um leave either Seattle or Portland and get into San Francisco by seven o'clock in the morning
+Agent: ok if you leave from portland the evening before meaning um monday night (the
+speaker: ok)
+speaker: last flight of the day to San Francisco's at six thirty nine getting in at eight twenty so it wasn't any better it was worse (back
+speaker: ok)
+Agent: from seattle let me take a look and see from portland to san francisco what the earliest flight would be and their earliest flight would have you arrive at eight oh seven a.m.
+speaker: shoot
+Agent: no it's not not great
+speaker: looks like I'm going to miss that meeting ok so the only possiblity real romote one is seven fifty US Air flight huh
+Agent: right or there was a seven forty five i think there's a united at seven forty five let me pull it back up again
+Agent: ok um yeah the us air's at seven fifty getting in at nine fifty or there's a united at seven forty five
+speaker: ok
+Agent: that gets in at nine thirty four
+speaker: are there seats on both of those
+Agent: mm hmm yeah they were both available the us air's got less seats available than the united the united's wide open but the us air um is selling out in the lower classes of service so there's st- still seats available but they're not quite as many as the united flight
+speaker: ok can you make me a reservation on the US Air one
+Agent: ...[break in transcript]
+speaker: thanks
+Agent: uh huh bye bye
+speaker: bye

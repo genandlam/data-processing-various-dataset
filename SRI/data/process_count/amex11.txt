@@ -1,0 +1,123 @@
+Agent: good afternoon american express this is a
+speaker: ok this is for B C's trip
+Agent: oh c ok
+speaker: and this is for his trip on ahh September September to ah Frankfurt Germany
+Agent: mm hmm
+speaker: ok now she said it had to be ticketed today for the one hundred one thousand
+speaker: one hundred twenty four dollar flight
+Agent: right
+speaker: ok and he still is wait listed for that Lufthansa flight
+Agent: right
+speaker: now she said that if we don't ticket if we do ticket the eleven twenty four
+speaker: today and that Lufthansa flight comes up you know la-
+Agent: mmm hmmm
+speaker: later and the- then we have to cancel that first fare
+Agent: uh huh
+speaker: there's a hundred dollar fine 
+Agent: okay
+speaker: and p- penalty plus ahh we pay for the going rate
+Agent: yeah if ther- if it's going to be a higher rate
+speaker: it's going to be a higher rate, ok now if we wait and the Lufthansa flight does
+speaker: come up what rate do we get that eleven twenty four or something close to that
+Agent: well, i don't know we can't predict what a fare is going to be if a fare,
+Agent: if the computer's telling us that it's going to go higher we really can't
+Agent: tell you what it's going to go up to
+speaker: oh
+Agent: um
+speaker: for that Lufthansa flight (??
+Agent: yeah,) it doesn't tell us what it's going to be tomorrow
+speaker: (oh
+Agent: all) it's saying is the eleven twenty four will expire today
+speaker: oh I see
+Agent: now let me umm let me take a look at the rules possibly that would help me
+Agent: out a little bit
+Agent: ok so the rules for let's see for the umm the fare quote from san
+Agent: francisco to frankfurt on the twa flight that he's on i'm trying to see
+Agent: if that's the one it looks like that might be the one that's holding
+Agent: whatever penalty let me take a look at it
+speaker: that one, it's from Saint Louis right?
+Agent: yeah let's see the that's the one that's holding the the hundred dollar
+Agent: penalty
+speaker: yeah
+Agent: and the fourteen day advance purchase
+speaker: yeah she told me that
+Agent: ut dut dut dut dut dut duh. umm it says ticket may be issued on or after,
+Agent: yeah that looks like that's what it's um that's what it's holding is that
+Agent: but i don't know what umm lemme look at the return and see if that
+Agent: might have something to do with it
+speaker: he's coming back on Lufthansa.
+Agent: yeah i see that, let's see let's see what lufthansa's fare quote says
+speaker: You know what A I was wondering since we had uh we wait listed on the
+speaker: Lufthansa when it does list when they list it ther- it is available why
+speaker: can't he get that eleven twenty four whatever round
+speaker: trip, you  know or it was maybe like eleven thirty or something
+Agent: you mean if the if the the uh wait list clears?
+speaker: yeah
+Agent: we don't have any guarantee that it will clear
+Agent: um, actually you know i really don't know what uh what to tell you (umm
+speaker: ok) I think that'll I think the best thing to do is just ta- ge- go one way
+speaker: on that other one to guarantee his flight
+Agent: yeah
+speaker: of eleven twenty four  ok
+Agent: ok thanks a lot d
+speaker: thank you, bye
+Agent: bye bye
+Agent: -----
+Agent: good afternoon american express this is a
+speaker: Hi this is B
+speaker: I have a question
+speaker: umm on the return flight on the Sunday
+Agent: uh huh
+speaker: um if the six twenty flight was available
+Agent: ok let me take a look.
+Agent: ok all right six twenty on sunday the twenty fifth
+speaker: uh huh
+Agent: i've got let's see yeah it still shows available if you want to book it
+speaker: ok I assume it's the same as the other one (in terms of price
+Agent: yeah) same umm same class of service is available
+speaker: (ok
+Agent: so let me) go ahead and take care of it and get seat assignments
+Agent: ok now let me see what we have umm seating wise it's flight six
+Agent: four zero leaving chicago on the twenty fifth at six twenty
+speaker: uh huh
+Agent: arrival salt lake at eight twenty one
+speaker: uh huh
+Agent: and then connecting to delta three twenty five
+speaker: uh huh
+Agent: departing nine thirty four from salt lake arrival san fran at ten twenty
+Agent: five
+speaker: oh ten twenty five
+Agent: yeah
+speaker: ok
+speaker: great thanks a lot
+Agent: ok, sure b thank you
+speaker: uh huh bye bye
+Agent: bye
+Agent: -----
+Agent: good afternoon american express this is a
+speaker: A this is B can you give me some fares to some strange places?
+Agent: ok depends on how strange, no
+speaker: well let's see how about from London to  Belgium
+Agent: ok let's see wh- and any particular date er ??
+speaker: let's say mid July
+Agent: ok all right just a moment while it uhh it looks up sometimes international
+Agent: takes a little bit longer for them to compute
+Agent: ok we've got uh did you want round trip or one way?
+speaker: round trip
+Agent: ok i'm still waiting on the london to brussels ok here
+Agent: we go umm let's see if we've got a valid carrier
+Agent: ok air europe has a flight round trip for two thirteen fifty nine no
+Agent: penalties
+speaker: ok that sounds more like it (ok
+Agent: ok)
+speaker: umm how about London to Newcastle?
+Agent: all righty. ok british air has a hundred and seventy four fourteen round
+Agent: trip or the highest it could go would be two twenty six oh eight ??
+Agent: different classes of service still no penalties e- either of them
+speaker: ok th-
+Agent: that was it?
+speaker: that's what I needed
+Agent: ok
+speaker: thank you very much
+Agent: sure
+speaker: (bye

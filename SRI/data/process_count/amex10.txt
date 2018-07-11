@@ -1,0 +1,121 @@
+speaker: this is B
+Agent: hi b this is a from american express
+speaker: oh hi
+Agent: ok
+speaker: we need to get a ticket for him from Boston
+Agent: this is a new reservation?
+speaker: new reservation on June twenty first
+Agent: ok let me let me pull up his profile (first
+Agent: ok and he is umm
+speaker: he wants to fl- he wants to fly from Boston 
+Agent: mmm hmm
+speaker: to Baltimore Washington International on flight, I'm sure it's Piedmont
+speaker: P L P I 
+Agent: p i at what time?
+speaker: uh seven forty p.m.
+Agent: and this is on the twenty first of june?
+speaker: Yeah arriving nine oh one p.m.
+Agent: ok that's piedmont one nine zero nine on the twenty first of june
+speaker: right
+Agent: departing boston seven forty p.m. arriving baltimore nine oh one p.m.
+speaker: right and then he wants to return from um Baltimore Washington
+Agent: uh huh
+speaker: to San Francisco on the twenty third of June and he requests flight three
+speaker: two three TWA
+speaker: actually it's two flight numbers it's three two three and then it changes to
+speaker: seven five one at five sixteen in the afternoon
+Agent: ok one moment. this is to san jose? did you say?
+speaker: I understand it's to San Francisco.  TWA flight three two three slash seven
+speaker: five one
+Agent: three two three and seven five one. ok and then does he know there is a
+Agent: nonstop that goes from dulles to san francisco? instead of connection
+Agent: through st. louis
+speaker: I think he's aware of it  but I think we picked this one because um he could
+speaker: get the business traveller (uh seating
+Agent: he can also) he can also get that on the non stop
+speaker: on the nonstop and what is the uh, give me the times for the nonstop
+Agent: ok one moment, the non stop is at four forty arriving seven oh five
+speaker: se- four forty to seven oh five
+Agent: into san francisco it's a non stop from dulles to san francisco, maybe he
+Agent: can't leave that early (??
+speaker: I don't know,) uh let me can I make the reservation and and change it by
+speaker: tomorrow? (??
+Agent: sure) if it's it's still available, right
+speaker: yeah I know subject to availability I'm sorry I've been giving you quick
+speaker: numbers here
+Agent: it's ok.
+speaker: it's all right, let me just check the umm ??
+Agent: and now lets see what kind of fares. they have a three day advance purchase
+Agent: fare using the business class upgrade of four forty nine one way
+speaker: I was quoted six oh eight fifty for the whole round f- from Boston to
+speaker: Washington from Washington um to San Francisco
+Agent: now this portion was for baltimore san francisco only. ok let me just see
+Agent: what
+speaker: could you find out how much the fare is all, total?
+Agent: ok it's six oh eight fifty that has to be ticketed by the fifteenth of june
+Agent: there are no cancellation or change penalties, if any changes are made it's
+Agent: just subject to whatever the new fare is
+speaker: sure
+Agent: ok, it has to be ticketed by the fifteenth of june
+speaker: all right
+Agent: there are no penalties for cancellation if changes are made it's subject to
+Agent: whatever the new fares are at that time
+speaker: ok
+Agent: cause they're going to increase the fare
+speaker: but there's no penalty existing
+Agent: there's no penalty uh if it's cancelled no
+speaker: yeah the nonstop flight seems to be more appealing to me I mean this man
+speaker: travels so much though let me check with him um
+Agent: ok so what so we're going to hold, we'll just go ahead and hold the um
+speaker: hold that TWA then I will inform him of the Dulles flight at fou- four forty
+speaker: leaving uh Dulles and arriving is it San Francisco at seven oh five?
+Agent: uh
+speaker: or San Jose?
+Agent: it's san francisco
+speaker: San Francisco that's what he wants ok
+speaker: it's still six oh eight any which way we do this I'm just thinking the
+speaker: convenience of the traveller
+Agent: on the non stop let me see i think you get that same fare let me check the
+Agent: fares
+speaker: ok
+Agent: i think it that would have to be using a twenty five percent penalty on twa.
+Agent: yeah it would be twenty dollars more if he wanted to have a fare without a
+Agent: penalty
+speaker: mm hmm
+Agent: because the dulles non stop to get that four forty nine you have to take a
+Agent: twenty five percent penalty fare, if you don't then it's four sixty nine,
+Agent: so it would increase that total fare by twenty dollars
+speaker: so it's six oh eight plus twenty?
+Agent: right, if he wanted to go without a penalty it's six plus twenty
+speaker: He needs the cheapest rate possible on this one.  um so let me talk it over
+speaker: with him, uhh
+Agent: kay then on the business class that would be row nine seat number five which
+Agent: is an aisle seat. now what what about how's he getting to boston?
+speaker: he's already purchased his ticket
+Agent: ok so this is just all one way travel
+speaker: one way travel (right
+Agent: ok so that was available and i requested that, b, anything else i can
+Agent: help you with?
+speaker: I'll call you back on the Dulles non stop flight so we'll
+Agent: if if he needs that, right
+speaker: if he needs that and if he does get that he has to pay uh twenty dollars more
+Agent: if he wants to take a fare without a penalty, right
+speaker: a fare without a penalty
+Agent: if he's willing to take it with a penalty it would be exactly the same fare
+speaker: ok
+Agent: ok now
+speaker: I I hesitate uh for him particularly to get anything uh because he does
+speaker: change a lot
+Agent: uh huh
+speaker: so I I'd rather get the twenty dollars but we'll see what he says
+Agent: ok
+speaker: thank you 
+Agent: all right thanks b
+speaker: you are A right?
+Agent: yeah i'm a. all right
+speaker: bye bye 
+Agent: bye
+Agent: -----
+Agent: american express travel this is a
+speaker: Uh A this is uh B.  I need to make some reservations
+speaker: I need to make ahh reservations and all I know at this uh time is my flight

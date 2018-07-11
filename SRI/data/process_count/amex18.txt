@@ -1,0 +1,140 @@
+Agent: american express may i help you
+speaker: yes this is A. B. and I'd like to make some travel reservations
+speaker: ...
+Agent: ok and what do you need to do
+speaker: ok in August I need to go to Southbend, Indiana and I want to go on United via Chicago
+Agent: ok one second ok and what time did you want to leave
+speaker: ok there's uh I want to go from Chicago to Southbend on I believe it's United Express two six eight six
+Agent: ok yeah that leaves at four fifty
+speaker: four fifty arrives five twenty four
+Agent: right there's a ten a.m. flight out of san francisc that connects fairly well with that
+speaker: ah h-  h-  how close is that
+Agent: uh it's flight one twenty six leaves at ten a.m. gets into chicago at three fifty eight so
+speaker: yeah
+Agent: it's a little less than an hour
+speaker: yeah tha- tha- that sounds good
+Agent: ok
+speaker: is is there one one that gets there just a little bit earlier
+Agent: um
+speaker: in case of any problems
+Agent: the next one earlier leaves at six fifty and gets there at one oh five which is an awfully long wait
+speaker: no no ok) so so b- book me on that then
+Agent: ok
+speaker: can you give me that again
+Agent: uh huh yeah it's united flight twent- uh one twenty six out of san francisco at ten a.m. and arrives chicago at three fifty eight and then connecting to a united flight six eighty six out of chicago at four fifty arriving southbend at five twenty four
+speaker: exactly
+Agent: and then a return for you
+speaker: a return I'm leaving August nine
+Agent: back to san francisco
+speaker: yeah but from Chicago
+Agent: oh you're going to get your own way between (southbend and chicago
+speaker: yeah yeah yeah)
+Agent: ok and when did you want to leave chicago
+speaker: I want to leave uh Chicago some where around five p.m.
+Agent: ah united also
+Agent: ok there's a four (fifty p.m.
+speaker: that sounds) good
+Agent: ok and a five fifty nine
+speaker: uh four fifty sounds good
+Agent: ok that's united flight one seventy five it leaves four fifty p.m. and arrives san francisco at seven oh eight p.m.
+speaker: ok
+Agent: did you need any hotels for this
+speaker: no I don't need any hotels I'm I'm all set (on everything
+Agent: do you need) a car
+speaker: ah no I'll I'll I need a car in uh well I'll I'll worry about the car in Southbend myself
+Agent: ok that's fine
+Agent: and uh do you have my frequent flyer number
+Agent: ... [break in transcript]
+speaker: and what about United Express twenty six eighty six I'm I'm all set on that one
+Agent: ah yeah you're confirmed on that one
+speaker: ok now just one more thing eh if I happen to miss a flight is there a later one going into Southbend or am I screwed
+Agent: let me see
+Agent: the next later flight's american at five twenty but (then
+speaker: ok so)
+Agent: there's a united at six twenty six
+speaker: ok so there are options
+Agent: yes
+speaker: ok
+Agent: very good
+speaker: ok great
+speaker: so I'm all set then
+Agent: uh huh thank you i'll have the ticket's over to you today
+speaker: well no no I don't need the tickets today
+Agent: oh ok well
+speaker: no
+Agent: i'll go ahead and run them generally she'll call you if you don't want to pick them up right away that's fine
+Agent: ... [break in transcript]
+speaker: ok
+Agent: thank you very much
+speaker: thank you much
+Agent: bye
+speaker: bye
+Agent: -----
+Agent: american express may i help you
+speaker: yes A. this is B. I'm calling about a trip for C.D.
+speaker: ...
+speaker: all right now this is his Montreal trip and that's on Monday
+Agent: ok i see it here uh huh
+speaker: ok and he needs to go to Montreal 
+Agent: mm hmm
+speaker: and I understand another group has made the reservations so I need to get the information on that
+Agent: just the information about what we have
+speaker: yes uh huh
+Agent: ok he's on american flight two sixty two
+speaker: two six two
+Agent: out of san francisco at eleven fifty five p.m.
+speaker: ok
+Agent: arriving chicago at five fifty six a.m. on the twenty fifth
+speaker: on the tw- I'm sorry the time again
+Agent: five fifty six a.m.
+speaker: five fifty six
+Agent: on the twenty fifth of july
+speaker: ok
+Agent: connecting to american flight six ninety six
+Agent: that's out of chicago at seven ten a.m. and arrives montreal at ten oh eight a.m.
+speaker: ok
+Agent: on his return it's tuesday the twenty fifth
+speaker: uh huh
+Agent: american flight one fifty three
+speaker: ok
+Agent: out of montreal at eight oh three p.m.
+speaker: Wait a minute that's an American flight out of
+Agent: mm hmm
+speaker: I missed
+speaker: these are all (American
+Agent: these are all american
+speaker: yeah
+Agent: ok
+Agent: out of montreal at eight oh three p.m.
+speaker: three uh huh 
+Agent: arrives chicago at nine thirteen p.m.
+speaker: ok
+Agent: and connects to flight four fifty seven
+speaker: mm hmm
+speaker: that's out of Chicago at nine fifty p.m.
+Agent: mm hmm
+Agent: and arrives san francisco at twelve twenty three a.m. on the twenty sixth so just after midnight
+speaker: ok good
+Agent: and are we going to be doing the ticketing on these then or is someone else going to be ticketing it
+Agent: ... [break in transcript]
+Agent: thanks very much a.
+speaker: ok thank ( you
+Agent: ok) bye bye
+speaker: mm bye bye
+Agent: -----
+speaker: I have a travel for uh scheduled leaving leaving on Monday
+Agent: uh huh
+speaker: to Dallas and I need to make a change
+Agent: ok sure let me pull it up here
+Agent: ok i've got it
+speaker: ah ok turns out I will be coming back to San Francisco as opposed to going to Chicago
+Agent: ok
+speaker: so
+Agent: on wednsday then
+Agent: correct the twenty sixth and there's a united flight nine twenty seven dallas to denver and then connecting to san francisco flight two ninety seven
+speaker: when does that leave
+Agent: uh it leaves six forty to dallas eight forty two from denver
+Agent: yeah flight nine twenty seven dallas to denver leaving at six forty arriving nine
+speaker: yeah
+Agent: and then united flight two ninety seven denver to san francisco leaving at eight forty two or arriving el- ten eleven
+speaker: correct uh  now that we've got all that and just trying to think it would be wh- what happens to the cost if I change and leave from Oakland 

@@ -1,0 +1,114 @@
+speaker: My name is B C and I would like to plan a trip
+Agent: and the date you need to leave?
+speaker: well um I have to work a little bit backwards here
+Agent: ok
+speaker: I want to leave on the first flight out of ORD uh Monday morning
+Agent: m- monday (the first
+speaker: the eighth) the eighth
+Agent: ok
+speaker: and I want to take whatever red eye or any other flight that I have to take
+speaker: to get there in time to make that transfer
+Agent: where are you going from chicago to where?
+speaker: Greenbay.  so the first I need to catch the first flight from ORD out
+speaker: to Greenbay, Wisconsin uh Monday morning
+Agent: it looks like the first one is a seven forty on american uh eagle that
+Agent: arrives greenbay at eight fifty one
+speaker: is that booked?
+Agent: i do show space avaliable
+speaker: ok
+Agent: uh, let's see what would get you there then leaving probabl- the seventh.
+Agent: from san jose or san francisco?
+speaker: San Francisco.  actually Oakland would be good too on that
+Agent: i don't know if there are any red eyes from there (let's see
+speaker: ok)
+Agent: there is one on united that leaves oakland at eleven thirty p.m. and
+Agent: arrives chicago five twenty five a.m.
+speaker: so that's a two hour hold there
+Agent: yes
+speaker: waiting for that flight ok any others?
+Agent: uh not from oakland. departing from san francisco it's about the same
+Agent: actually american has an eleven forty one flight from san francisco
+Agent: that arrives chicago five fifty four (and
+speaker: that's ) and hour and a half.  so that's that's a a wash
+Agent: yeah or wait just one moment. or united has a twelve oh one a.m.
+Agent: departure that arrives at chicago five fifty two a.m.
+speaker: oh that sounds good
+Agent: it's about the same i don't know if you prefer united over american or ??
+speaker: I'm a member of the United Travel
+Agent: oh ok
+speaker: group, so let's book that midnight red eye out of SFO
+Agent: uh huh
+speaker: right will leave SFO at
+Agent: i'm sorry just one moment
+Agent: ok put this in the correct order. so you'd be on united flight five two
+Agent: eight
+speaker: United five twenty eight
+Agent: leaving on the eigth from san francisco twelve oh one (a.m.
+speaker: oh)
+Agent: is that right? arriving chicago five fifty two
+Agent: and then you would connect with american flight four two oh eight leaving
+Agent: chicago seven forty a.m. and arriving greenbay eight fifty one
+speaker: seven forty to eight fifty one.  ok and
+Agent: that's actually operated by american eagle
+speaker: uh what's the name of that the flight number
+Agent: four two zero eight
+speaker: four two zero eight ok
+Agent: all righty and from there?
+speaker: mh huh and I need a flight uh let's see I guess mid to late morning back uh
+Agent: from greenbay to
+speaker: Springfield, Illinois that's that's probably going to be via Chicago
+Agent: let's take a look and see what we have. ok united has a nine thirty
+Agent: seven connection through chicago and you would conn- connect with an
+Agent: american flight that would arrive springfield twelve thirty one
+speaker: ok
+Agent: or you can take american both legs leaving at nine thirty two and connecting
+Agent: with the same flight
+speaker: all right so let's see it's only nine thirty seven to twelve thirty ( for
+speaker: that trip
+Agent: mmm hmmmm)
+speaker: that sounds good to me
+Agent: let me give you those flight numbers
+speaker: ok
+Agent: that would be united flight two nine seven four
+Agent: that flight is operated by united express air wisconsin and it leaves
+Agent: greenbay nine thirty seven a.m. arrives chicago ten thirty five, connects
+Agent: with american flight four three oh six. again that's operated by american
+Agent: eagle leaving chicago eleven twenty five and arriving springfield
+Agent: twelve thirty one p.m.
+speaker: uh that gives me half a day there Wednesday that's good
+Agent: ok and then you're going to return from chicago on the fourteen or
+speaker: on the fourteenth right
+Agent: at what time?
+speaker: umm think I'd like to arrive SFO around six in the evening, late afternoon
+speaker: evening
+Agent: united has a three forty five nonstop that arrives san francisco six oh
+Agent: three or they have a five p.m. that arrives seven eighteen
+speaker: what's the next flight earlier than the the uh one that arrives
+Agent: there's a two fifty on american that arrives san francisco five twenty
+Agent: five or a one o'clock on united that arrives san francisco three fourteen
+speaker: I think I'm going to do the one p.m. thing
+Agent: ok that would be united
+speaker: let me let me let me  beg your pardon here for a second I want to pull a map
+speaker: Do you have any distances easily available in your computer there?
+Agent: um, just air mileage actually where were you thinking of from
+speaker: well I want I've got I think it's either two or three hundred miles that I have
+speaker: to drive if I'm going to come into ORD
+Agent: from springfield
+speaker: ah well no it's a different town but it's very very close to that
+Agent: let me ah ah a hundred and seventy five airmiles from springfield to chicago
+speaker: all right I've got my auto club map
+Agent: if you have yeah that's probably better it would give you the
+speaker: all right let me, what have I got. I've got about two hundred and fifty miles
+speaker: that's five hours of driving.  I want to book the um I want to book
+speaker: the three what is it three p.m. or so United flight out of Chicago
+Agent: ok that would be united f- it leaves at three forty five united flight one
+Agent: two nine
+speaker: United one twenty nine and it leaves at three
+Agent: three forty five and arrives san francisco six oh three
+speaker: and
+Agent: you want me to price this and see what we get for the lowest available
+Agent: fare just one moment
+speaker: all right this is two weeks in advance so it should be
+Agent: yeah and you are staying over a saturday night so we should be able to do
+Agent: something here. uh it's taking a moment not sure why
+Agent: ok i can send your united number to hertz also um i'm just looking at

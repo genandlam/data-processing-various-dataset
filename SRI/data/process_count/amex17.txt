@@ -1,0 +1,135 @@
+Agent: american express can you hold please
+speaker: yes
+Agent: ok thanks for holding this is a
+speaker: Hi A this is B
+Agent: hi b
+speaker: hi
+speaker: uh ok um
+speaker: I need to change um C. D.'s coming back trip from Washington D.C. on
+speaker: the nineteenth of July
+Agent: ok let me get his reservation
+speaker: ok
+Agent: uh what are we changing this to
+speaker: um instead of five ten he wants to take the one forty from Dellas to
+speaker: on United
+Agent: ok that's united one nine five on the nineteenth departing dellas at one forty p.m. arriving san francisco four eleven p.m.
+speaker: and let me just see looks like that's going to be airport check in on the seating
+Agent: now this ticket was issued
+speaker: uh huh
+Agent: ok i'm going to request twenty seven b
+speaker: ok (is it an aisle
+Agent: but i'm not sure) whether we're going to get it, it looks like it's airport check in (on the flight
+speaker: I see ok)
+Agent: um we're going to have to reissue the ticket because there was a twenty five percent penalty on that we're going to have to void that
+speaker: mm hmm
+speaker: it'll still be the same amount or
+Agent: uh i'm checking that the fare eight ninety eight yeah it's still the same fare
+speaker: ok
+Agent: but that ticket must you have the ticket
+speaker: no I don't I it's supposedly coming today I ( haven't u-
+speaker: ok)
+Agent: had a call or anything
+Agent: ok i'll have to call f. cause it has to be in today or it will or he will be charged a penalty
+speaker: ok
+speaker: it's by tomorrow I I mean by Monday 
+Agent: by monday we can't void it has it'll??(?
+speaker: that's fine)
+speaker: ok
+Agent: ok great
+Agent: so the new ticket shall be sent
+Agent: should i wait till monday do you think it's going to change
+speaker: I think Monday's fine
+Agent: is that let me see what the last day for ticketing is
+speaker: yeah Monday's fine
+Agent: it changes so much we issue so many tickets, have to wait to the very last day on some of these people
+Agent: ok why don't i just wait, i'm going to set these up to be issued on monday
+Agent: that way if he changes again we don't have to keep reissuing tickets
+speaker: exactly
+Agent: ok
+speaker: thank you 
+Agent: ok thanks b
+speaker: bye bye
+Agent: bye
+Agent: -----
+Agent: american express this is a
+speaker: Hi A this is C.D. I'd like to make some reservations please
+speaker: no problem
+Agent: what's the last name of the pass(enger
+speaker: Speech Lab)do they care how we how we talk
+Agent: i don't know um what what's the last name of the passenger
+speaker: um I've two passengers F [spells name] and G [spells name]
+Agent: what's the first name on f, h.f. and j.g.
+Agent: ok i don't have a profile for f.
+speaker: I have that information here
+Agent: ok
+Agent: let me get a generic profile one moment
+speaker: ?? he's what I guess you'd call a seldom flyer
+Agent: that's [spells name]
+speaker: that's correct
+Agent: first name h.
+speaker: right
+Agent: ok his id number is
+speaker: [digits]
+Agent: and the charge number
+speaker: charge number is [digits]
+Agent: and the travel advance number
+speaker: well I have two of them one for J which is [digits] ([digits]
+Agent: ok wait) i need h.first
+speaker: H. first
+Agent: yeah
+speaker: [digits]
+speaker: and J.G.'s is
+Agent: ok i don't need his yet
+speaker: ok
+Agent: i can only do one th- one profile at a time
+speaker: I see
+Agent: we do a generic profile and i have to implement all this first then i can go into another area and do the other person ok
+speaker: will you be using this information to start a a profile for H.F.
+Agent: no the only way we'll start a permanent profile a form has to be filled out and completed by him and signed
+speaker: ok well
+Agent: and that'll come back to us and then it's put in the computer
+Agent: would you like to send it to me at e
+speaker: um they have em at the travel office
+Agent: ok
+speaker: the forms
+Agent: ok
+Agent: because everything on this once he departs will completely leave our computer
+speaker: all right
+Agent: and your ex- extension at www
+speaker: [digits]
+Agent: ok let me we have a profile for g., yes we do ok let me get his profile
+speaker: for J.G.
+speaker: ok
+Agent: all right and the same charge number for him
+speaker: yes
+Agent: ok now his travel advance is
+speaker: [digits]
+Agent: ok and they're travelling to what city
+speaker: I'm sorry
+Agent: what city are they travelling to
+speaker: to LA
+Agent: on what date
+speaker: on Tuesday I'm sorry on Monday the tenth
+Agent: is that from san francisco or san jose
+speaker: well I don't know that there is anything available the ideal would be from uh San Jose to uh Long Beach, but I have a feeling that fli- a flight won't be available direct ??
+Agent: a- a and this is for the morning
+speaker: yeah
+Agent: well there's a united at eight fifty five arriving long beach at ten twenty
+speaker: to to late uh it'd have to be at seven o'clock
+Agent: ok that would be san francisco
+speaker: or seven thirty at the latest yeah, if it can't be San J- can it be San Francisco Long Beach
+Agent: no it can't either ok they the service out of san francisco is eight forty five is the first flight out
+speaker: SFO to LAX then
+Agent: ok i can get them san jose lax at seven is is san jose closer to them er
+speaker: mmmm
+Agent: or should we just do san francisco
+speaker: that's hard to say maybe SFO's fine I have a feeling we're in Menlo Park so
+Agent: oh ok
+speaker: and I think they each live fairly close to here so probably SFO is better actually
+Agent: ok there is a united us air or american at seven
+speaker: ok I think we had better price rates on the US Air didn't we or was it
+Agent: pardon me
+speaker: are the rates better on the US Air
+Agent: um they're gong to be exactly the same i'm going to offer you what the lowest fare is it's not going to be on either of those carriers
+speaker: oh 
+Agent: the lowest airfare would be on pan am at six a.m. arriving seven twenty nine their airfare is fifty nine dollars everyone else is ninety nine dollars

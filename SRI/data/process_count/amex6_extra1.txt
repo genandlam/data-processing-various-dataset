@@ -1,0 +1,154 @@
+speaker: oh ok
+Agent: ok otherwise you'll have to call us air
+speaker: oh I see all right now coming back on June twentieth
+Agent: leaving at what time?
+speaker: uh  let's see five ten p.m. out of Burbank and this is on US Air two five
+speaker: one one and again this return flight will be for CC and his wife 
+Agent: right n- yeah, i know
+speaker: you'll have to check that one too
+Agent: no i'll check the whole thing yeah
+speaker: mmm
+Agent: what's his wife's name?
+speaker: ah huh
+Agent: yeah we have enough advance purchase time that i can get a nonrefundable
+Agent: fare on the return would bring that portion down to twenty nine dollars
+Agent: one way but i'd have to t- issue the tickets today
+speaker: no give them the non restricted air fare (I think it's one ninety eight
+Agent: non restrictive air fare) one ninety eight right
+Agent: ok sure
+speaker: bye
+Agent: bye bye b
+Agent: -----
+Agent: hi this is a at american express may i help you?
+speaker: hi A this is B Physical Sciences Business Office at uh WWW
+Agent: yeah and uh what can i help you with?
+speaker: uh I need to know uh business class round trip uh fare for ah San Francisco
+speaker: to ah Baron, Switzerland
+Agent: sure one second. is this for a proposal?
+speaker: right
+Agent: i'm checking a couple different carriers just to compare them before i give
+Agent: you the fare on this
+speaker: ok
+Agent: i seem to have a very slow computer here
+speaker: ok that's all right
+Agent: well i have one fare let me give you that and i'm just trying to see if i
+Agent: can verify it on another carrier
+speaker: ok
+Agent: uh one way fare would be fifteen sixty seven
+speaker: w- round trip?
+Agent: the round trip would be that times two plus thirteen for taxes
+speaker: ok
+Agent: ah it looks like approximately right uh using twa instead of american i get
+Agent: fifteen eighty nine a little bit higher
+speaker: ok
+Agent: so it's it's in that ballpark (??
+speaker: ok fifteen) fifty seven times two plus thirteen
+Agent: there isn't any one carrier that flies all the way in there you need
+Agent: to connect somewhere like from twa to air france or pan am to air france
+Agent: or something to get in to baron
+speaker: uh huh
+Agent: and also you can't get business class all the way through but they fare
+Agent: it business class all the way
+speaker: ok
+Agent: you you you would get business class from the us to your european gateway
+Agent: city and then for the little hop to baron you would probably be in coach
+speaker: yeah ok
+Agent: ok
+speaker: that helps
+Agent: ok great
+speaker: thanks a lot
+Agent: you're welcome (bye bye
+speaker: bye bye
+Agent: -----
+speaker: This is for B
+Agent: ok, what is she doing?
+speaker: ok, on the uh thirty first of may
+Agent: uh huh
+speaker: out of SFO to DFW on American thirteen hundred leaving at eleven am
+Agent: ok i've got that it arrives at four twenty three into dallas?
+speaker: right
+Agent: ok and then a return?
+speaker: returning on the first of june
+Agent: uh huh
+speaker: departing DFW at six forty pm on American three eight nine
+Agent: okay, let me see what sort of fare i can get on that
+speaker: ok
+Agent: the only thing that's going to apply is full coach
+speaker: ok
+Agent: and that's nine forty six one way
+speaker: ok
+Agent: i mean round trip, (round trip, sorry
+speaker: thanks a lot
+Agent: ok, thanks, d
+speaker: bye bye
+Agent: bye bye
+Agent: -----
+Agent: a at american express may i help you?
+speaker: yeah this is B B I need to make some travel arrangements
+Agent: ok and what do you need to do?
+speaker: ok on June sixth from San Jose to Denver, United
+Agent: leaving at what time?
+speaker: I believe there's one leaving at eleven o'clock in the morning
+Agent: yeah that's united flight four seventy
+speaker: ok
+Agent: leaves at eleven a.m. and arrives denver at two twenty p.m. out of san jose
+speaker: that's the one
+Agent: and a return?
+speaker: return June seventh
+Agent: leaving at what time?
+speaker: uh I believe there's one at five sixteen
+Agent: yeah that's united flight six fifty nine it arrives back into san jose at
+Agent: six forty two
+speaker: ok
+Agent: let me just see what sort of fare i can get you on this
+speaker: all righty
+Agent: ok the best fare i can get you on this would be five sixty eight round
+Agent: trip. that does have a twenty five percent change cancellation penalty on it
+speaker: ok
+Agent: and we'd have to ticket it by tuesday
+speaker: right that's fine
+speaker: ok thank you very much
+Agent: thanks a lot
+speaker: sure
+Agent: mm bye
+speaker: bye bye
+Agent: -----
+Agent: american express may i help you?
+speaker: oh A this is B
+Agent: ok wh- how can i help you?
+speaker: we have an emergency traveller who is going t- uh
+speaker: Copenhagen from San Francisco to Los Angeles and he is going on a two
+speaker: o'clock flight.
+Agent: he's going to copenhagen today?
+speaker: that's correct yes
+Agent: it's just a flat one way?
+speaker: ah yes that's correct
+Agent: in business class?
+speaker: ok (??
+Agent: yeah we should be able to do it)
+Agent: um) one sec let me just
+speaker: all right
+Agent: start a new reservation for him. what's his last name?
+speaker: um C [spells name]
+Agent: first name
+speaker: D [spells name]
+Agent: ok what flights do you want to have him on?
+speaker: ok he would like to be on United flight one one one seven
+Agent: first of all he's going all the way through to copenhagen?
+speaker: oh, that's right uh huh
+Agent: and this is a connection in what city?
+speaker: ah Los Angeles
+Agent: ok
+speaker: oh and yeah
+Agent: and what time does that united flight leave?
+speaker: it's ah going out at uh two o'clock today, SFO to Los Angeles
+Agent: and then connecting to sas flight nine thirty two?
+speaker: nine thirty two that's right
+Agent: and you said well actually the eleven seventeen i'm showing sold out let
+Agent: me just look (in their system
+speaker: oh no)
+Agent: well we can put him there are other flights oh there i can get a seat on it
+speaker: oh ok
+Agent: ?? it's one of the last ones but i can get it.
+Agent: now is he going business class on the sas flight?
+speaker: um if he can go business class sure

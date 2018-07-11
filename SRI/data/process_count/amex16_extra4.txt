@@ -1,0 +1,157 @@
+speaker: and [repeats first name]
+Agent: yeah
+speaker: and his employee number
+speaker: [digits]
+Agent: same charge number
+speaker: yep [digits]
+Agent: ok and his travel advance number
+speaker: [digits]
+Agent: ok
+speaker: are you I'm sorry
+Agent: ok and it's going to be the same uh the same itinerary
+speaker: yes please
+Agent: and also uh open return
+speaker: ah he has asked if it wouldn't be any problem if he can have a Newark
+speaker: to Los Angeles open return
+Agent: sure that's no problem i'll go ahead and issue that and uh let's see
+Agent: ok that round trip um so to speak round trip with open return is one
+Agent: thousand fifty five so it's lower to go to la i guess
+speaker: wow
+Agent: and that's again non penalty and everything is confirmed for that do
+Agent: you have his seating request by any chance
+speaker: I will call him right now
+Agent: ok and no hotel no car
+speaker: can I put you on hold for just a sec
+Agent: sure sure
+speaker: thank you
+speaker: well it's a good thing I checked with him he has changed his plans
+Agent: oh
+speaker: open return should be San F- to San Francisco not LA
+Agent: ok sure then let me um
+speaker: yeah he thinks a smoking window would be great
+Agent: smoking window
+Agent: ok then i'll go ahead let me request that on ah united flight twelve
+speaker: and CCC DDD
+Agent: mm hmm
+speaker: would like a smoking aisle is there any chance we can get the two of
+speaker: them together
+Agent: sure let me take a look and see what we've got
+speaker: great
+Agent: well looks like the best i could do would be um only two aisles
+Agent: there's no window's in n- smoking available, so i could put them in
+Agent: one seat in front of the other or i could put them in ah two aisles
+Agent: with a middle seat between them, in the central section of the p- of
+Agent: the flight cause the the two seats and there are three seats in the
+Agent: center of the plane and then two seats again and within the three seat
+Agent: section i could put them both on an aisle seat and there'd be a middle
+Agent: seat that's empty between them right now
+Agent: hang on just a sec
+speaker: umm oh this is tough isn't it
+Agent: yeah there's unfortunately there are no umm aisles across from each
+Agent: other this way they would just have be in the middle section they're i
+Agent: can't guarantee that no one will be sitting between them but middle
+Agent: seats are usually the last last seats to be assigned
+speaker: can can we go to the center section of three seats and get them two
+speaker: side by side
+Agent: sure one will (be in the middle ok
+Agent: one on the aisle)
+Agent: i'll do that then i'll put them in thirty c and thirty or er thirty d
+speaker: great
+Agent: ok
+speaker: ok
+Agent: all right bye everything's set and um nnn will give you a call on
+Agent: monday when they're both uh ready to be picked up
+speaker: great
+Agent: ok
+speaker: thank you very much
+Agent: thank you bye bye
+speaker: mm bye bye
+Agent: ---
+Agent: there is no bbb here
+speaker: oh boy what's that CCC BBB
+Agent: fff
+speaker: ???
+Agent: ok um so the person you had not made a reservation for this person yet
+Agent: right is this going to be for for business or for personal
+speaker: that's personal (visit my sister
+Agent: ok)ok
+speaker: yeah
+speaker: see c.o.d. ??
+Agent: and ok ok and you're going to pay for cash
+speaker: yeah
+Agent: ok let me just pull up a profile
+Agent: ok ok and ok how do you spell the last name of the traveller again
+speaker: [spells name]
+speaker: [repeats spelling]
+Agent: right
+Agent: and the qqq [first name] is that [spelling of qqq]
+speaker: right 
+Agent: ok and what was the date of travel
+speaker: today tonight
+Agent: oh tonight ok then let me pull up the flight
+speaker: is that in San Jose
+speaker: and it was from San Jose to L to LA you said
+Agent: san jose to la
+speaker: ok and what time did she tell you it left it was
+Agent: nine o'clock p.m.
+speaker: nine p.m.
+speaker: that's the only uh flight I think
+speaker: and it was into LAX on Continental
+speaker: yeah
+Agent: i don't show that continental flies there from san jose um maybe she
+Agent: was looking out of san francisco yes there's a flight out of san
+Agent: francisco at nine o'clock
+speaker: oh is it San Francisco
+Agent: yeah
+speaker: that's ok 
+Agent: oh ok
+speaker: if that's the only place
+Agent: oh ok yeah it's forty nine dollars it's continental flight eight twenty four
+speaker: eight twenty four
+Agent: and it was um was it just going to be for one way
+speaker: yeah just one way
+Agent: ok and that's um ge- leaving at nine p.m. from san francisco
+Agent: arrival at lax at ten fifteen p.m.
+speaker: uh huh
+Agent: and the total
+speaker: and that's confirmed right
+Agent: that's confirmed right now
+speaker: ok
+Agent: at forty nine dollars
+speaker: mm hmm
+Agent: and we'll get the tickets over to you as soon as possible
+speaker: ok 
+Agent: now let me
+speaker: there is delivery over to WWW uh maybe
+Agent: well we issue the tickets out of www so um we generate the tickets
+Agent: from here but it it comes out at www so i'll have someone call you as
+Agent: soon as they're ready to be picked up
+speaker: ok
+Agent: all right and what type of seats would she want me to request
+speaker: what what
+Agent: what type of seats does she want
+speaker: uh?? by the window if you have
+Agent: ok
+speaker: yeah
+Agent: all righty then
+speaker: ok
+Agent: i'm sorry your name and extension
+speaker: uh GGG [spells name GGG] [digits of extension]
+speaker: who's this
+Agent: a
+speaker: A ok thank you
+Agent: ok thank you bye bye
+speaker: bye
+Agent: -----
+Agent: good morning american express this is a
+speaker: good morning A I I'm with WWW
+Agent: mm hmm
+speaker: and um I've I've made a couple of bookings um with Holiday Inn on the
+speaker: on the on the free phone line
+Agent: uh huh
+speaker: um I just wondered they said to me you know we're government
+speaker: contractor and you made the reservation for me for for the last week
+speaker: um
+Agent: uh huh
+speaker: at at the Palo Alto Holiday Inn what what signal do I have to give the
+speaker: Holiday Inn people to what proof that I'm you know that I'm with WWW

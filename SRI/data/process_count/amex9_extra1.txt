@@ -1,0 +1,43 @@
+Agent: you too
+speaker: bye
+Agent: bye now
+Agent: -----
+Agent: eight thirty five p.m.
+speaker: uh huh
+Agent: he's returning on the thirteenth of june on united flight one one one
+Agent: eight leaving los angeles at four p.m. and arriving into san francisco
+Agent: at five thirteen p.m.
+speaker: mmm hmm
+Agent: and the fare is two hundred and thirty four dollars and sixty four cents
+Agent: ok. almost finished here. ok you said you had a second reservation?
+speaker: yes, please umm ar- are we done with um B?
+Agent: yes we are
+speaker: yes um the second reservation is for D E, last name is E as
+speaker: in the month E.
+Agent: and ffff, what day would he like to travel?
+speaker: uh he wants to go San Francisco to Phoenix on Monday June nineteenth uh
+speaker: Southwest six seven eight out of San Francisco at four ten p.m. into
+speaker: Phoenix at eh five fifty five
+Agent: and returning or continuing on what date?
+speaker: returning on Tuesday June twentieth on United one four three six out of
+speaker: Phoenix at six thirty five p.m. and into San Francisco at eight thirty three
+Agent: ok we've requested southwestern flight six seventy eight that uh leaves
+Agent: on the nineteenth of june out of san francisco at four ten p.m.
+Agent: arriving into phoenix at five fifty five p.m.
+speaker: uh 
+Agent: and as i say request because they're not in our system we will actually
+Agent: phone and have to confirm this reservation with (southwestern
+speaker: right)
+Agent: ok and then returning on the twentieth w- he's on united flight fourteen
+Agent: thirty six leaving phoenix at six thirty five p.m. and arriving back into
+Agent: san francisco at eight thirty three p.m.
+speaker: ok
+Agent: and the fare on this is one hundred and sixty two dollars
+speaker: one sixty two
+Agent: that's correct
+speaker: ok great
+Agent: ok
+speaker: thank you A
+Agent: you're quite welcome ffff
+speaker: hmm mhh (bye bye
+Agent: bye now)

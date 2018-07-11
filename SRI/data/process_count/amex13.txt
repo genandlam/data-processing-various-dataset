@@ -1,0 +1,153 @@
+speaker: Hey A I was wondering if you could handle some some reservations for me
+Agent: ok
+speaker: so umm I it's it's um for my own my own flight I want to fly from San
+speaker: Francisco to Syracuse New York
+Agent: ok and what's your last name?
+speaker: ah C
+Agent: oh this is b b?
+speaker: no D
+Agent: and you want to travel ag- again on what day now?
+speaker: umm it depends on on when the flights are I I I could leave late Friday
+speaker: after work um on the eighth of September and if that doesn't work out
+speaker: then I I could go the morning of the ninth of September
+Agent: ok were going san francisco to syracuse it's just going to be a simple
+Agent: round trip?
+speaker: right uh huh
+Agent: and you want the lowest fare available
+speaker: yes that's that's really what I'm I'm after
+Agent: ok and do you have a preference as to airlines? it's going to be wide open
+Agent: on all of them at th- this far in advance
+speaker: um I don't I don't I know Delta airlines flies to Rochester but I don't
+speaker: think it goes to Syracuse I like Delta airlines.  umm but no, outside of
+speaker: that I it's American US Air I think are our
+Agent: ok
+speaker: they have a lot of flights too
+Agent: ok one second. 'kay you're looking at something that's going to be uhh
+Agent: after work on friday?
+speaker: yeah
+Agent: ok the last flight out is going to be at one forty seven p.m. on twa in
+Agent: terms of something that will get you there the same day that would get
+Agent: in at just about midnight
+speaker: mm hmm
+Agent: after that it becomes red eye flights
+speaker: ok I don't know if I want to want to to do a red eye, why don't we look
+speaker: at uh Saturday morning
+Agent: saturday morning?
+speaker: uh huh
+Agent: and how early would you like to get to the airport, we have flights
+Agent: starting at six fifteen a.m.
+speaker: oh umm 
+Agent: that would get you there at four o'clock
+speaker: four o'clock
+Agent: ummm hmmm
+speaker: and it's six fifteen a.m.?
+Agent: yes
+speaker: um hmmm ?? that early uh and what's what's the next one?
+Agent: ok then we have one at six forty a.m. which would get you there at four
+Agent: thirty six
+speaker: mm hmmm
+Agent: umm couple right around that time period and then it jumps to seven forty
+Agent: a.m. getting you there at five eleven
+speaker: hmm ok why don't why don't we take the seven forty flight
+Agent: ok
+speaker: which which carrier is that?
+Agent: that is us air
+speaker: ok is it uh non stop or
+Agent: no all of these are going to be connecting flights
+speaker: through Pittsburg?
+Agent: uhh this particular one connects through cleveland
+speaker: ok
+Agent: and returning on what date?
+speaker: umm on ah Sunday the seventeenth of September
+Agent: and morning or afternoon?
+speaker: umm early morning
+Agent: ok us air flight has a flight at seven fifty five a.m.
+speaker: ok
+Agent: connecting through pittsburg it gets you back into san francisco at eleven
+Agent: fifty three a.m.
+speaker: ok that sounds fine
+Agent: ok one second
+speaker: and that's through Pittsburg?
+Agent: that's correct
+speaker: ok
+Agent: ok we're getting a fare here of three hundred and ninety eight dollars
+Agent: round trip. has a hundred percent penalty on it no changes once the uhh
+Agent: ticket is issued
+speaker: ok that's fine
+Agent: ok it is telling us that it has to be ticketed within twenty four hours of
+Agent: making the reservation, that means tomorrow
+speaker: ok 
+Agent: if you want to keep this reservation
+Agent: ok we have you on us air flight one one six
+speaker: mm hmm
+Agent: on the ninth of september out of san francisco at seven forty a.m.
+Agent: into cleveland at three nineteen p.m.
+speaker: ok
+Agent: uh you're connecting there with us air flight five ninety three (leaving
+speaker: five) five ninety three?
+Agent: uh huh
+speaker: leaving Cleveland
+Agent: leaving cleveland at four ten p.m.
+speaker: mm hmm
+Agent: and getting into syracuse at five eleven p.m.
+speaker: ?? ok
+Agent: we have you returning on the seventeenth of september on us air flight
+Agent: five zero seven
+speaker: mm hmm
+Agent: out of syracuse at seven fifty five a.m. into pittsburg at nine oh five a.m.
+speaker: mm hmm
+Agent: connecting to us air flight thirty one
+speaker: mm hmm
+Agent: leaving pittsburg at nine forty five a.m.
+speaker: mm hmm
+Agent: and getting into san francisco at eleven fifty three a.m.
+speaker: all right ok that's good
+Agent: fare on this is three hundred and ninety eight dollars
+speaker: mm hmm
+Agent: it is totally non refundable
+speaker: ok great ok ok I think we're all set right?
+speaker: ok thank you
+Agent: sure thing
+speaker: bye bye
+Agent: bye now
+Agent: -----
+Agent: american express a speaking
+speaker: Hi A.  B C again
+Agent: hi mr. c
+speaker: I uh wanted to check to see if it was possible to reput me back on that
+speaker: two twenty nine flight
+Agent: uhhh one second here. i'm showing that flight as being sold out completely
+speaker: sold out completely ok well keep me where I am then
+Agent: all righty
+speaker: ok thanks
+Agent: sure thing
+speaker: (bye
+Agent: bye)
+Agent: -----
+Agent: american express a speaking
+speaker: Hi this is B C
+Agent: hi b
+Agent: ok how can i help you
+speaker: um Doctor D  spelled D like in [spelling] is interested in
+speaker: the cost of a flight on Delta airlines on July fourteenth which is a Friday
+speaker: and he needs to leave early in the morning and he doesn't know a flight
+speaker: number or a time
+Agent: ok where's he going from to?
+speaker: He's going from San Francisco to Tampa's um Saint Pete's
+Agent: uh huh ok delta has a flight at seven oh five a.m.
+speaker: uh huh
+Agent: that connects through
+Agent: dallas that would get him in to tampa at four thirty five p.m.
+speaker: at four thirty five?
+Agent: mm hmm
+speaker: ok
+Agent: and they have another flight at eight twenty five a.m. that connects
+Agent: through atlanta which would get in at six ten, fare is gonna be a
+Agent: lot higher for that one
+speaker: which one the (the
+Agent: for the eight) twenty five a.m. departure
+speaker: oh never mind then cause we're looking for the cheapest way
+Agent: ok. what day's he returning?
+speaker: the sixteenth that's a Sunday
+Agent: ok and about what time on the sixteenth?
+speaker: and he said around six p.m.

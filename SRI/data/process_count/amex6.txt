@@ -1,0 +1,142 @@
+Agent: this is a at american express can i help you?
+speaker: oh yes A this is B
+Agent: ok) thanks what can i help you with?
+speaker: well C is going to go to Ottawa
+Agent: is this for a new reservation?
+speaker: yes and I, what I need right now are um choices
+Agent: just flight information then?
+speaker: right
+Agent: ok and what date is he gonna go?
+speaker: the twenty second and he needs to be there in time for an evening meeting
+speaker: if he can be, say around six o'clock
+Agent: let me see here
+speaker: twenty second of June did I make that clear?
+Agent: yeah a- i assumed that yeah. ah there's nothing really that gets in that
+Agent: early. uh air canda has a connection through toronto that leaves san
+Agent: francisco at seven fifty a.m. arrives toronto at three thirty five but
+Agent: the connection to ottawa doesn't leave until five fifteen getting into
+Agent: ottawa at six ten (and
+speaker: when)
+Agent: that's about the earliest one
+speaker: um ok
+Agent: other than leaving the evening before. i mean the, you know like just
+Agent: after midnight
+speaker: so we have one tha- on Air Canada that goes to Toronto huh?
+Agent: right and then it's a change of planes there but it doesn't arrive into
+Agent: ottawa until six ten
+speaker: let me take all that down anyway ok I guess it's too, at what time does it
+speaker: get to Toronto?
+Agent: ah three thirty five p.m.
+speaker: mm hmm
+Agent: and departs there at five fifteen. do you want the flight numbers on these?
+speaker: right uh huh
+Agent: uh the first one is air canada flight seven fifty eight
+speaker: mm hmm
+Agent: the connection is flight four sixty
+speaker: uh huh.  and it arrives Ottawa
+Agent: at six ten p.m.
+speaker: all right do you have any that get in- into ah Ottawa later in the evening?
+Agent: ah yes one second
+speaker: ge- are there any direct flights at all?
+Agent: ah only if there's an overnight direct flight on piedmont but it leaves
+Agent: leaves the night before at eleven forty p.m.
+speaker: let me see I'm writing this down.  that's Piedmont what
+Agent: ah flight twelve fifty it really isn't worth considering i just noticed
+Agent: it makes three (stops
+speaker: no) no
+Agent: i mean it's direct in that it's the same plane all the way through but
+Agent: ( it's ??
+speaker: ??) going to take him all night
+Agent: there are no non stop flights (um
+speaker: that's) what I was wondering ok
+Agent: there's a cp air f- uh connection through vancouver it get's in later it
+Agent: leaves at nine ten a.m. and arrives vancouver (at
+speaker: what) is CP Air?
+Agent: it's a canadian airline like air canada it's
+speaker: and it flies out of San Francisco?
+Agent: uh huh
+speaker: huh what's that number then?
+Agent: uh it's cp air flight one forty
+speaker: one forty
+Agent: it's out of san francisco at nine ten a.m.
+speaker: uh huh
+Agent: arrives vancouver at eleven thirteen a.m. it connects to cp air flight
+Agent: seven twenty two
+speaker: mm hmm
+Agent: that leaves vancouver at one p.m. and arrives ottawa at nine forty eight
+Agent: p.m. that does make one stop between vancouver and ottawa
+speaker: where does it stop?
+Agent: let's see. looks like calgary
+speaker: like Calgary ok
+Agent: yeah, calgary
+speaker: all right then coming back if if you ha- do you have a late flight out on the
+speaker: twenty third.  probably not huh?
+Agent: well let me see. we might cause the time zone's in our v- our favor
+Agent: coming (this direction
+speaker: uh huh) he said either l- late on the twenty third or or any time on the
+speaker: twenty fourth
+Agent: ok. by late he means something like nine ten like that?
+Agent: cause there's an eight p.m. departure
+speaker: tha- ah I think that's (that's
+Agent: would) that be good?
+speaker: uh huh
+Agent: ok there's an eight p.m. departure on air canada it's flight four sixty
+Agent: seven it arrives into toronto at eight fifty five connects to air canada
+Agent: flight seven fifty five that's out of toronto at ten thirty p.m. and
+Agent: arrives san francisco at twelve forty five a.m. on the twenty fourth
+speaker: no I'm it leaves Ottawa four sixty seven leaves Ottawa at what time?
+Agent: eight p.m.
+speaker: eight p.m.  and arrives at Toronto
+Agent: eight fifty five
+speaker: eight fifty five. and leaves Toronto at ten thirty?
+Agent: right
+speaker: (and arrives
+Agent: seven fifty) five does
+speaker: mm huh
+Agent: and arrives san francisco at twelve forty five a.m.
+speaker: ok and then what about Saturday a flight next Saturday?
+Agent: yeah one second. uh there's an early air canada connection through toronto
+Agent: again
+speaker: uh huh
+Agent: it's uh flight one eighty nine out of ottawa at six fifty a.m. arrives
+Agent: toronto at seven forty seven a.m.
+speaker: mmm hmm
+Agent: connects to air canada flight seven fifty seven
+speaker: mm hmm
+Agent: out of toronto at nine thirty a.m.
+speaker: mm hmm
+Agent: and arrives san francisco at eleven forty five a.m.
+speaker: all right I think tha- this is enough for him to consider
+Agent: ok
+speaker: for the time being  and I'll get back with you
+Agent: ok great
+speaker: all right thank you ( very much
+Agent: thanks a lot)
+speaker: bye bye
+Agent: bye bye
+Agent: -----
+Agent: this is a at american express may i help you?
+speaker: A this is B
+Agent: ok what can i help you with b?
+speaker: ok my the traveller is C [spells name]
+Agent: mm hmm
+speaker: first name is CC
+Agent: ok what does he need to do?
+speaker: ok it's for ah the outbound would be on June seventeenth
+Agent: uh huh
+speaker: and it's on US Air flight two seven eight two and I believe it's departing
+speaker: at twelve twenty five p.m.
+Agent: going where?
+speaker: Orange County
+Agent: two twenty five p.m.?
+speaker: yes, uh twelve twenty five sorry
+Agent: ok us air flight twenty seven eighty two?
+speaker: mm yeah
+Agent: ok (got that
+speaker: that right? ok) now this traveller is making uh, this is something out of the
+speaker: ordinary now it says reservations for CC and his wife and
+Agent: yeah, let me make c's reservation
+Agent: and then i'll have to call us air to find out if if we're allowed to make
+Agent: her reservations sometimes you have to make it directly with the airline
+speaker: oh
+Agent: and if we can make it i'll go ahead and do it
