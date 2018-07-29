@@ -11,5 +11,17 @@ from pprint import pprint
 
 with open('./Frames-dataset/frames.json') as f:
     data = json.load(f)
+    
+for dic in data:  
+    for key, value in dic.items():
+        if key=='turns':
+            for item in  value:
+               for key, value in item.items(): 
+                   if key=='text':
+                       print item
+            
+        
+
+    
 
 pprint(data)
