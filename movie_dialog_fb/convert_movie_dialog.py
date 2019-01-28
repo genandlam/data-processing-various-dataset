@@ -103,7 +103,7 @@ class convert_text(object):
     
 
 
-rootdir = '/Users/genevieve/Documents/GitHub/data_processing_xml_movie/movie_dialog_fb'                
+rootdir = './data_processing_xml_movie/movie_dialog_fb'                
 f1=convert_text(rootdir)
 f1.search_directory()
 
